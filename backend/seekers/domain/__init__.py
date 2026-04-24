@@ -1,1 +1,5 @@
-"""Seeker domain (deferred until auth + profiles)."""
+"""Seeker domain model."""
+
+from seekers.domain.seeker import Seeker
+
+__all__ = ["Seeker"]
