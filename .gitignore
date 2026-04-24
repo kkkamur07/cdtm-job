@@ -1,0 +1,32 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets and local env (swap Supabase by editing .env only)
+.env
+.env.*.local
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env.local
+frontend/.npm-cache/
+
+# Supabase CLI (local cache / link metadata; never commit secrets here)
+.branches/
+.temp/
+# Accidental nest if `supabase link` was run from inside `supabase/` — safe to delete
+supabase/supabase/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
