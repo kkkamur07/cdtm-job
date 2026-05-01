@@ -70,6 +70,9 @@ class Settings(BaseSettings):
 
     cors_origins: str = "http://localhost:3000"
 
+    #: Base path for versioned REST routes (e.g. ``/api/v1``, ``/api/v2``). Env: ``API_ROUTE_PREFIX``.
+    api_route_prefix: str = Field(default="/api/v1")
+
     app_env: Literal["local", "staging", "production"] = "local"
 
     supabase_access_token: str | None = None
@@ -89,6 +92,14 @@ class Settings(BaseSettings):
     @classmethod
     def _normalize_cors_string(cls, v: str) -> str:
         return v.strip()
+
+    @field_validator("api_route_prefix")
+    @classmethod
+    def _normalize_api_route_prefix(cls, v: str) -> str:
+        s = v.strip().rstrip("/")
+        if not s.startswith("/"):
+            s = "/" + s
+        return s or "/api/v1"
 
     @computed_field  # type: ignore[prop-decorator]
     @property
