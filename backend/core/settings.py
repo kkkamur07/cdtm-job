@@ -2,11 +2,11 @@
 
 **Local development**
 
-- Copy ``.env.example`` to ``.env`` at the **repository root** (next to
-  ``pyproject.toml``). That path is what ``_env_file_for_config()`` resolves to by
-  default (``backend`` → parents → repo root, then ``.env``).
-- Or set ``BACKEND_ENV_FILE`` to an absolute path to a dotenv file you keep
-  elsewhere.
+- Copy ``backend/.env.example`` to ``backend/.env``. That is the only default path for
+  ``_env_file_for_config()`` (same directory as the ``backend`` Python package).
+- Or set ``BACKEND_ENV_FILE`` to an absolute path to a dotenv file you keep elsewhere.
+- Frontend uses its own ``frontend/.env.local`` (see ``frontend/.env.example``); do not
+  put service-role secrets there.
 
 **What loads ``.env``**
 
@@ -34,20 +34,34 @@ from typing import Literal
 from pydantic import Field, HttpUrl, SecretStr, computed_field, field_validator, model_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
-# Anchor for default dotenv path (dev). Not required in prod when env vars are injected.
-_REPO_ROOT = Path(__file__).resolve().parents[2]
+# ``backend/`` (contains this file at ``backend/core/settings.py``).
+_BACKEND_ROOT = Path(__file__).resolve().parents[1]
+_REPO_ROOT = _BACKEND_ROOT.parent
 
 
 def _env_file_for_config() -> str | None:
     """Return the dotenv path for ``SettingsConfigDict(env_file=...)`` or ``None``.
 
     If ``None``, pydantic-settings does not read a file; local overrides still work
-    via exported env vars. If a path is returned and the file exists, that file is
-    loaded for local dev (see module docstring).
+    via exported env vars. If a path is returned and that file exists, it is loaded.
     """
     raw = os.environ.get("BACKEND_ENV_FILE")
-    path = Path(raw).expanduser().resolve() if raw else _REPO_ROOT / ".env"
-    return str(path) if path.is_file() else None
+    if raw:
+        path = Path(raw).expanduser().resolve()
+        return str(path) if path.is_file() else None
+    be = _BACKEND_ROOT / ".env"
+    return str(be) if be.is_file() else None
+
+
+def load_backend_dotenv_into_environ() -> None:
+    """Load the backend dotenv file into ``os.environ`` (same path as ``Settings``).
+    and the tests as well. 
+    """
+    from dotenv import load_dotenv
+
+    path = _env_file_for_config()
+    if path:
+        load_dotenv(path)
 
 
 class Settings(BaseSettings):
@@ -68,7 +82,8 @@ class Settings(BaseSettings):
     api_host: str = "0.0.0.0"
     api_port: int = Field(default=8000, ge=1, le=65535)
 
-    cors_origins: str = "http://localhost:3000"
+    #: Comma-separated. Include both hostnames; browsers treat them as different origins.
+    cors_origins: str = "http://localhost:3000,http://127.0.0.1:3000"
 
     #: Base path for versioned REST routes (e.g. ``/api/v1``, ``/api/v2``). Env: ``API_ROUTE_PREFIX``.
     api_route_prefix: str = Field(default="/api/v1")
