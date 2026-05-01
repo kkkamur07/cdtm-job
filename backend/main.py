@@ -1,7 +1,7 @@
 """ASGI entrypoint for the API.
 
-Run from the **repository root** (where ``pyproject.toml`` lives), with the env
-active::
+Run from the **repository root** (where ``pyproject.toml`` lives). Load secrets from
+``backend/.env`` (or ``BACKEND_ENV_FILE`` / process env) — see ``backend/.env.example``::
 
     uv run fastapi run backend/main.py
     uv run fastapi run --workers 4 backend/main.py

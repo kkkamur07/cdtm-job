@@ -6,13 +6,13 @@ Job board for **jobs.cdtm.com**: Supabase Postgres + FastAPI (`backend/`) + Next
 
 | File | Purpose |
 | ---- | ------- |
-| [`.env.example`](./.env.example) | Document every variable; **commit** this. |
-| `.env` | Your real keys for local dev; **gitignored** — copy from `.env.example`. |
-| `frontend/.env.example` | `NEXT_PUBLIC_*` for the browser Supabase client (when frontend exists). |
+| [`.env.example`](./.env.example) | Pointer to backend vs frontend env layout. |
+| [`backend/.env.example`](./backend/.env.example) | FastAPI / Python — **commit**; copy to `backend/.env` (gitignored). |
+| [`frontend/.env.example`](./frontend/.env.example) | Next.js — copy to `frontend/.env.local` (gitignored). |
 
-**Switching Supabase projects:** edit `.env` (and deployment secrets) with the new `SUPABASE_URL` and keys. **No code changes.** Migrations in [`infrastructure/supabase/supabase/migrations/`](./infrastructure/supabase/supabase/migrations/) define schema for any empty project.
+**Switching Supabase projects:** edit `backend/.env` (and deployment secrets) with the new `SUPABASE_URL` and keys. **No code changes.** Migrations in [`infrastructure/supabase/supabase/migrations/`](./infrastructure/supabase/supabase/migrations/) define schema for any empty project.
 
-**Production:** set the same variables on the host (Fly.io, Railway, Kubernetes secrets, etc.). Use **production** `CORS_ORIGINS` (e.g. `https://jobs.cdtm.com`) and never commit `.env`.
+**Production:** set the same variables on the host (Fly.io, Railway, Kubernetes secrets, etc.). Use **production** `CORS_ORIGINS` (e.g. `https://jobs.cdtm.com`) and never commit `.env` files.
 
 ## Supabase: migrations vs optional seed
 
@@ -24,10 +24,9 @@ Job board for **jobs.cdtm.com**: Supabase Postgres + FastAPI (`backend/`) + Next
 See [backend/README.md](./backend/README.md).
 
 ```bash
-cd backend
 uv sync
-# from repo root, fill .env with Supabase URL + service role key
-uv run uvicorn api.main:app --reload --host 0.0.0.0 --port 8000
+# copy backend/.env.example → backend/.env and fill Supabase URL + service role key
+uv run uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
 ## Supabase CLI (Supabase Cloud)
