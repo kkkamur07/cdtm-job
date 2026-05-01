@@ -15,6 +15,11 @@ def create_app() -> FastAPI:
     settings = get_settings()
     app = FastAPI(title="CDTM Job Board API")
     register_exception_handlers(app)
+
+    @app.get("/", tags=["meta"])
+    def root() -> dict[str, str]:
+        return {"message": "Welcome to the CDTM Job Board API"}
+
     app.add_middleware(
         CORSMiddleware,
         allow_origins=settings.cors_origin_list,
@@ -22,6 +27,7 @@ def create_app() -> FastAPI:
         allow_methods=["*"],
         allow_headers=["*"],
     )
+    
     app.include_router(health_router)
     api_prefix = settings.api_route_prefix
     app.include_router(companies.router, prefix=api_prefix)

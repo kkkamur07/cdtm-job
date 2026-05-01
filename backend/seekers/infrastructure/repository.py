@@ -8,7 +8,7 @@ from uuid import UUID, uuid4
 from supabase import Client
 
 from backend.core.page import PageResult
-from backend.core.errors import supabase_execute
+from backend.core.errors import RepositoryError, supabase_execute
 from backend.seekers.domain.seeker import Seeker
 from backend.seekers.services.commands import SeekerCreate, SeekerUpdate
 
@@ -60,9 +60,12 @@ class SupabaseSeekerRepository:
         }
         res = supabase_execute(
             "seekers.create",
-            lambda: self._client.table(self._table).insert(row).select("*").single().execute(),
+            lambda: self._client.table(self._table).insert(row).execute(),
         )
-        return Seeker.model_validate(res.data)
+        rows = res.data or []
+        if not rows:
+            raise RepositoryError("seekers.create: empty response")
+        return Seeker.model_validate(rows[0])
 
     def update(self, seeker_id: UUID, payload: SeekerUpdate) -> Seeker | None:
         patch = payload.model_dump(exclude_unset=True, mode="json")
@@ -73,21 +76,16 @@ class SupabaseSeekerRepository:
             lambda: self._client.table(self._table)
             .update(patch)
             .eq("id", str(seeker_id))
-            .select("*")
-            .single()
             .execute(),
         )
-        if res.data is None:
+        rows = res.data or []
+        if not rows:
             return None
-        return Seeker.model_validate(res.data)
+        return Seeker.model_validate(rows[0])
 
     def delete(self, seeker_id: UUID) -> bool:
         res = supabase_execute(
             "seekers.delete",
-            lambda: self._client.table(self._table)
-            .delete()
-            .eq("id", str(seeker_id))
-            .select("id")
-            .execute(),
+            lambda: self._client.table(self._table).delete().eq("id", str(seeker_id)).execute(),
         )
         return bool(res.data)

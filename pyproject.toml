@@ -9,7 +9,7 @@ description = "CDTM Job Board — monorepo (FastAPI backend, Supabase, frontend)
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "fastapi",
+    "fastapi[standard]",
     "uvicorn[standard]",
     "pydantic",
     "pydantic-settings",

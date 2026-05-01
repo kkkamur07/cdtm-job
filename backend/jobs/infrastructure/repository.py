@@ -8,7 +8,7 @@ from uuid import UUID, uuid4
 from supabase import Client
 
 from backend.core.page import PageResult
-from backend.core.errors import supabase_execute
+from backend.core.errors import RepositoryError, supabase_execute
 from backend.jobs.domain.job import Job, JobStatus
 from backend.jobs.services.commands import JobCreate, JobUpdate
 
@@ -80,9 +80,12 @@ class SupabaseJobRepository:
             row["published_at"] = now.isoformat()
         res = supabase_execute(
             "jobs.create",
-            lambda: self._client.table(self._table).insert(row).select("*").single().execute(),
+            lambda: self._client.table(self._table).insert(row).execute(),
         )
-        return Job.model_validate(res.data)
+        rows = res.data or []
+        if not rows:
+            raise RepositoryError("jobs.create: empty response")
+        return Job.model_validate(rows[0])
 
     def update(self, job_id: UUID, payload: JobUpdate) -> Job | None:
         existing = self.get(job_id)
@@ -105,21 +108,16 @@ class SupabaseJobRepository:
             lambda: self._client.table(self._table)
             .update(patch)
             .eq("id", str(job_id))
-            .select("*")
-            .single()
             .execute(),
         )
-        if res.data is None:
+        rows = res.data or []
+        if not rows:
             return None
-        return Job.model_validate(res.data)
+        return Job.model_validate(rows[0])
 
     def delete(self, job_id: UUID) -> bool:
         res = supabase_execute(
             "jobs.delete",
-            lambda: self._client.table(self._table)
-            .delete()
-            .eq("id", str(job_id))
-            .select("id")
-            .execute(),
+            lambda: self._client.table(self._table).delete().eq("id", str(job_id)).execute(),
         )
         return bool(res.data)

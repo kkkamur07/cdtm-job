@@ -10,7 +10,7 @@ from supabase import Client
 from backend.companies.domain.company import Company
 from backend.companies.services.commands import CompanyCreate, CompanyUpdate
 from backend.core.page import PageResult
-from backend.core.errors import supabase_execute
+from backend.core.errors import RepositoryError, supabase_execute
 
 
 def _utc_now() -> datetime:
@@ -69,9 +69,12 @@ class SupabaseCompanyRepository:
         }
         res = supabase_execute(
             "companies.create",
-            lambda: self._client.table(self._table).insert(row).select("*").single().execute(),
+            lambda: self._client.table(self._table).insert(row).execute(),
         )
-        return Company.model_validate(res.data)
+        rows = res.data or []
+        if not rows:
+            raise RepositoryError("companies.create: empty response")
+        return Company.model_validate(rows[0])
 
     def update(self, company_id: UUID, payload: CompanyUpdate) -> Company | None:
         patch = payload.model_dump(exclude_unset=True, mode="json")
@@ -82,21 +85,16 @@ class SupabaseCompanyRepository:
             lambda: self._client.table(self._table)
             .update(patch)
             .eq("id", str(company_id))
-            .select("*")
-            .single()
             .execute(),
         )
-        if res.data is None:
+        rows = res.data or []
+        if not rows:
             return None
-        return Company.model_validate(res.data)
+        return Company.model_validate(rows[0])
 
     def delete(self, company_id: UUID) -> bool:
         res = supabase_execute(
             "companies.delete",
-            lambda: self._client.table(self._table)
-            .delete()
-            .eq("id", str(company_id))
-            .select("id")
-            .execute(),
+            lambda: self._client.table(self._table).delete().eq("id", str(company_id)).execute(),
         )
         return bool(res.data)
