@@ -82,7 +82,8 @@ class Settings(BaseSettings):
     api_host: str = "0.0.0.0"
     api_port: int = Field(default=8000, ge=1, le=65535)
 
-    cors_origins: str = "http://localhost:3000"
+    #: Comma-separated. Include both hostnames; browsers treat them as different origins.
+    cors_origins: str = "http://localhost:3000,http://127.0.0.1:3000"
 
     #: Base path for versioned REST routes (e.g. ``/api/v1``, ``/api/v2``). Env: ``API_ROUTE_PREFIX``.
     api_route_prefix: str = Field(default="/api/v1")

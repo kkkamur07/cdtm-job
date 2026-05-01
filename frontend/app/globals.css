@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fafafa;
+  --foreground: #18181b;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  /* CDTM brand (matches https://cdtm.com icon.svg) */
+  --color-cdtm: #0d4da1;
+  --color-cdtm-hover: #0a3d7a;
+  --color-cdtm-bright: #7eb8eb;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #09090b;
+    --foreground: #fafafa;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
