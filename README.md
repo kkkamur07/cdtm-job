@@ -10,14 +10,14 @@ Job board for **jobs.cdtm.com**: Supabase Postgres + FastAPI (`backend/`) + Next
 | `.env` | Your real keys for local dev; **gitignored** — copy from `.env.example`. |
 | `frontend/.env.example` | `NEXT_PUBLIC_*` for the browser Supabase client (when frontend exists). |
 
-**Switching Supabase projects:** edit `.env` (and deployment secrets) with the new `SUPABASE_URL` and keys. **No code changes.** Migrations in `supabase/migrations/` define schema for any empty project.
+**Switching Supabase projects:** edit `.env` (and deployment secrets) with the new `SUPABASE_URL` and keys. **No code changes.** Migrations in [`infrastructure/supabase/supabase/migrations/`](./infrastructure/supabase/supabase/migrations/) define schema for any empty project.
 
 **Production:** set the same variables on the host (Fly.io, Railway, Kubernetes secrets, etc.). Use **production** `CORS_ORIGINS` (e.g. `https://jobs.cdtm.com`) and never commit `.env`.
 
 ## Supabase: migrations vs optional seed
 
-- **Migrations** (`supabase/migrations/*.sql`) apply to your **Supabase Cloud** project with **`supabase db push`** after `supabase link` (see [supabase/README.md](./supabase/README.md)).
-- **Seed** ([`supabase/seed.sql`](./supabase/seed.sql)) is **not** run by `db push`. Use it only if you manually run it in the Dashboard **SQL Editor** (e.g. on a throwaway project). Do not run destructive seed SQL on production.
+- **Migrations** (`infrastructure/supabase/supabase/migrations/*.sql`) apply to your **Supabase Cloud** project with **`supabase db push`** after `supabase link` from [`infrastructure/supabase`](./infrastructure/supabase) (see [infrastructure/supabase/README.md](./infrastructure/supabase/README.md)).
+- **Seed** ([`infrastructure/supabase/supabase/seed.sql`](./infrastructure/supabase/supabase/seed.sql)) runs only on **local** `supabase db reset`; it is **not** run by `db push`. Do not run destructive seed SQL on production.
 
 ## Backend
 
@@ -32,10 +32,11 @@ uv run uvicorn api.main:app --reload --host 0.0.0.0 --port 8000
 
 ## Supabase CLI (Supabase Cloud)
 
-See **[supabase/README.md](./supabase/README.md)** for `login`, `link`, `db push`, and troubleshooting.
+See **[infrastructure/supabase/README.md](./infrastructure/supabase/README.md)** for `login`, `link`, `db push`, and troubleshooting.
 
 ```bash
 supabase login
+cd infrastructure/supabase
 supabase link --project-ref <ref>
 supabase db push
 ```
