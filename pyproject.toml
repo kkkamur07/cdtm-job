@@ -20,7 +20,17 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = [
+    "pytest",
     "ruff",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests/integration"]
+filterwarnings = [
+    "ignore::DeprecationWarning",
+]
+markers = [
+    "integration: exercises live Supabase via API (requires SUPABASE_* env)",
 ]
 
 [tool.hatch.build.targets.wheel]
