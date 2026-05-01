@@ -1,5 +1,11 @@
-"""Company domain model."""
+"""Company domain models."""
 
-from companies.domain.company import Company
+from backend.companies.domain.company import (
+    Company,
+    CompanySizeBand,
+)
 
-__all__ = ["Company"]
+__all__ = [
+    "Company",
+    "CompanySizeBand",
+]

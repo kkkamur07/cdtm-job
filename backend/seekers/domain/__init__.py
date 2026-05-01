@@ -1,5 +1,5 @@
-"""Seeker domain model."""
+"""Seeker domain models."""
 
-from seekers.domain.seeker import Seeker
+from backend.seekers.domain.seeker import Seeker
 
 __all__ = ["Seeker"]

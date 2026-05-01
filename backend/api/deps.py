@@ -1,21 +1,19 @@
+"""FastAPI dependency callables shared across routers."""
+
+from __future__ import annotations
+
+from functools import lru_cache
 from typing import Annotated
 
 from fastapi import Depends
-from supabase import Client, create_client
 
-from api.settings import Settings, get_settings
+from backend.core.settings import Settings
+
+#! Beware if you change the environment variables, you need to restart the server for the changes to take effect.
+@lru_cache
+def get_settings() -> Settings:
+    """Return process-wide settings (env loaded once per worker)."""
+    return Settings()
 
 
-def settings_dep() -> Settings:
-    return get_settings()
-
-
-def get_supabase(
-    settings: Annotated[Settings, Depends(settings_dep)],
-) -> Client:
-    """Server-only Supabase client using the **service role** key (bypasses RLS).
-
-    Never call this from browser code or from Next.js client bundles. The anon key
-    belongs in the frontend only; see `supabase/README.md` and `frontend/.env.example`.
-    """
-    return create_client(settings.supabase_url, settings.supabase_service_role_key)
+SettingsDep = Annotated[Settings, Depends(get_settings)]

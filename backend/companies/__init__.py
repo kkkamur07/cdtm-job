@@ -1,1 +1,1 @@
-"""Companies bounded context (skeleton for v1)."""
+"""Companies bounded context."""

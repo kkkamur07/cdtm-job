@@ -1,11 +1,11 @@
-## Database setup 
+## Database setup
 
-We are using `supabase` to manage our postgres instance. For that you need to create the directory supabase and have the `\migrations` folder in it where you have all your migrations as `*.sql`. 
-
-Then in terminal you have the commands
+Supabase CLI project root: **`infra/supabase/supabase/`** (see [`infra/supabase/README.md`](./infra/supabase/README.md)).
 
 ```bash
-supabase login # to login
-supabase link --project-ref <YOUR PROJECT REF>
-supabase db push
+supabase login
+supabase --workdir infra/supabase/supabase link --project-ref YOUR_20_CHAR_REF
+supabase --workdir infra/supabase/supabase db push
 ```
+
+Do not wrap the project ref in `<` `>`.

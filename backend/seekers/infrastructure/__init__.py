@@ -1,1 +1,1 @@
-"""Seeker infrastructure adapters (deferred until auth + profiles)."""
+"""Persistence and external adapters for seekers."""

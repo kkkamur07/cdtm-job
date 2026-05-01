@@ -22,9 +22,9 @@ frontend/.npm-cache/
 
 # Supabase CLI (local cache / link metadata; never commit secrets here)
 .branches/
-.temp/
-# Accidental nest if `supabase link` was run from inside `supabase/` — safe to delete
-supabase/supabase/
+**/.temp/
+# Accidental nested CLI folder — safe to delete if it appears
+infra/supabase/supabase/supabase/
 
 # OS / IDE
 .DS_Store

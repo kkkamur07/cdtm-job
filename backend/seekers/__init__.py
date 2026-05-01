@@ -1,1 +1,1 @@
-"""Seekers bounded context (thin until auth / applications)."""
+"""Seekers bounded context."""

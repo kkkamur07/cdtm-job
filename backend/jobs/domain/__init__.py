@@ -1,5 +1,21 @@
-"""Job domain model."""
+"""Job domain models."""
 
-from jobs.domain.job import Job
+from backend.jobs.domain.job import (
+    CompensationDisclosure,
+    EmploymentType,
+    ExperienceLevel,
+    Job,
+    JobStatus,
+    SalaryPeriod,
+    WorkArrangement,
+)
 
-__all__ = ["Job"]
+__all__ = [
+    "CompensationDisclosure",
+    "EmploymentType",
+    "ExperienceLevel",
+    "Job",
+    "JobStatus",
+    "SalaryPeriod",
+    "WorkArrangement",
+]
