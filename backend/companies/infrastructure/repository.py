@@ -23,14 +23,37 @@ class SupabaseCompanyRepository:
     def __init__(self, client: Client) -> None:
         self._client = client
 
-    def list(self, *, skip: int, limit: int) -> PageResult[Company]:
+    def list(
+        self,
+        *,
+        skip: int,
+        limit: int,
+        industry: str | None = None,
+        is_cdtm_startup: bool | None = None,
+        hq_city: str | None = None,
+        q: str | None = None,
+    ) -> PageResult[Company]:
+        query = (
+            self._client.table(self._table)
+            .select("*", count="exact")
+            .order("name")
+        )
+        if industry:
+            query = query.eq("industry", industry)
+        if is_cdtm_startup is not None:
+            query = query.eq("is_cdtm_startup", is_cdtm_startup)
+        if hq_city:
+            query = query.ilike("hq_city", f"%{hq_city}%")
+        if q:
+            # PostgREST `.or_()` splits conditions on commas — strip filter metacharacters.
+            safe_q = q.replace(",", " ").strip()
+            pattern = f"%{safe_q}%"
+            query = query.or_(
+                f"name.ilike.{pattern},short_description.ilike.{pattern},industry.ilike.{pattern}",
+            )
         res = supabase_execute(
             "companies.list",
-            lambda: self._client.table(self._table)
-            .select("*", count="exact")
-            .order("created_at", desc=True)
-            .range(skip, skip + limit - 1)
-            .execute(),
+            lambda: query.range(skip, skip + limit - 1).execute(),
         )
         rows = res.data or []
         total = int(res.count) if res.count is not None else len(rows)

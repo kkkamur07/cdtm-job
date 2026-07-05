@@ -1,4 +1,4 @@
-"""Seeker application service — CRUD orchestration."""
+"""Seeker application service: CRUD orchestration."""
 
 from __future__ import annotations
 
@@ -16,8 +16,6 @@ class SeekerService:
         self._repo = repo
 
     def list_seekers(self, *, skip: int = 0, limit: int = 50) -> PageResult[Seeker]:
-        skip = max(skip, 0)
-        limit = min(max(limit, 1), 100)
         return self._repo.list(skip=skip, limit=limit)
 
     def get_seeker(self, seeker_id: UUID) -> Seeker:

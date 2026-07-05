@@ -1,4 +1,4 @@
-"""Service liveness — does not verify database connectivity unless you extend it."""
+"""Service liveness: does not verify database connectivity unless you extend it."""
 
 from fastapi import APIRouter
 

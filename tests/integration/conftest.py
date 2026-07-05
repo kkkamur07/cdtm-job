@@ -1,4 +1,4 @@
-"""Live Supabase fixtures — loads ``backend/.env`` (same rules as ``Settings``)."""
+"""Live Supabase fixtures: loads ``backend/.env`` (same rules as ``Settings``)."""
 
 from __future__ import annotations
 

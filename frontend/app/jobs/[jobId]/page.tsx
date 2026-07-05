@@ -2,7 +2,13 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
-import { fetchCompanies, fetchJob } from "@/lib/data/api";
+import { BackLink } from "@/components/ui/back-link";
+import { Badge } from "@/components/ui/badge";
+import { ButtonLink } from "@/components/ui/button-link";
+import { CompanyAvatar } from "@/components/ui/company-avatar";
+import { fetchCompany, fetchJob } from "@/lib/data/api";
+import { formatJobLocation, formatLabel } from "@/lib/format-job";
+import { safeUrl } from "@/lib/safe-url";
 
 export const dynamic = "force-dynamic";
 
@@ -18,12 +24,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
-function formatLocation(job: Awaited<ReturnType<typeof fetchJob>>): string | null {
-  if (job.location_display) return job.location_display;
-  const parts = [job.city, job.region, job.country].filter(Boolean);
-  return parts.length ? parts.join(", ") : null;
-}
-
 export default async function JobDetailPage({ params }: Props) {
   const { jobId } = await params;
   let job;
@@ -33,74 +33,107 @@ export default async function JobDetailPage({ params }: Props) {
     notFound();
   }
 
-  const { items: companies } = await fetchCompanies();
-  const company = companies.find((c) => c.id === job.company_id);
-  const location = formatLocation(job);
+  let company;
+  try {
+    company = await fetchCompany(job.company_id);
+  } catch {
+    company = undefined;
+  }
+  const location = formatJobLocation(job);
+  const hasApply = !!(safeUrl(job.application_url) || job.application_email);
+  const applicationUrl = safeUrl(job.application_url);
+  const companyProfileSlug = company?.slug;
 
   return (
-    <article className="space-y-8">
-      <div>
-        <Link
-          href="/jobs"
-          className="text-sm font-medium text-cdtm hover:underline dark:text-cdtm-bright"
-        >
-          ← All jobs
-        </Link>
-        <h1 className="mt-4 text-3xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-50">
-          {job.title}
-        </h1>
-        <p className="mt-2 text-zinc-600 dark:text-zinc-400">
-          {[company?.name, location].filter(Boolean).join(" · ") || "Role details"}
-        </p>
-        <div className="mt-4 flex flex-wrap gap-2 text-xs font-medium text-zinc-600 dark:text-zinc-400">
-          <span className="rounded-full bg-zinc-200/80 px-2.5 py-1 dark:bg-zinc-800">
-            {job.employment_type.replaceAll("_", " ")}
-          </span>
-          <span className="rounded-full bg-zinc-200/80 px-2.5 py-1 dark:bg-zinc-800">
-            {job.work_arrangement}
-          </span>
-          <span className="rounded-full bg-zinc-200/80 px-2.5 py-1 dark:bg-zinc-800">
-            {job.experience_level}
-          </span>
-          <span className="rounded-full bg-zinc-200/80 px-2.5 py-1 capitalize dark:bg-zinc-800">
-            {job.status}
-          </span>
-        </div>
-      </div>
+    <div className="space-y-8">
+      <BackLink href="/jobs">All jobs</BackLink>
 
-      {job.summary && (
-        <p className="text-lg leading-relaxed text-zinc-700 dark:text-zinc-300">{job.summary}</p>
-      )}
-
-      <div className="prose prose-zinc max-w-none dark:prose-invert">
-        <div className="whitespace-pre-wrap text-zinc-800 dark:text-zinc-200">{job.description}</div>
-      </div>
-
-      {(job.application_url || job.application_email) && (
-        <div className="rounded-xl border border-zinc-200 bg-white p-6 dark:border-zinc-800 dark:bg-zinc-950">
-          <h2 className="text-sm font-semibold uppercase tracking-wide text-zinc-500">Apply</h2>
-          {job.application_url && (
-            <a
-              href={job.application_url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-2 inline-block font-medium text-cdtm hover:underline dark:text-cdtm-bright"
-            >
-              Application link
-            </a>
+      <header className="border-b border-zinc-200 pb-8 pl-5 border-l-4 border-l-cdtm">
+        <p className="text-eyebrow mb-2">Role</p>
+        <div className="flex items-start gap-4">
+          {company && (
+            <CompanyAvatar
+              name={company.name}
+              logoUrl={company.logo_url}
+              className="h-12 w-12 text-sm"
+            />
           )}
-          {job.application_email && (
-            <p className="mt-2">
-              <a
-                href={`mailto:${job.application_email}`}
-                className="font-medium text-cdtm hover:underline dark:text-cdtm-bright"
-              >
-                {job.application_email}
-              </a>
+          <div className="min-w-0 flex-1">
+            <h1 className="font-display text-[2rem] font-medium leading-[1.12] tracking-[-0.025em] text-zinc-900 sm:text-[2.125rem]">
+              {job.title}
+            </h1>
+            <p className="mt-2 text-meta">
+              {company?.name && (
+                companyProfileSlug ? (
+                  <Link
+                    href={`/companies/${companyProfileSlug}`}
+                    className="text-meta-strong font-medium text-cdtm hover:underline"
+                  >
+                    {company.name}
+                  </Link>
+                ) : (
+                  <span className="text-meta-strong">{company.name}</span>
+                )
+              )}
+              {company?.name && location && <span className="mx-2 text-zinc-300">·</span>}
+              {location && <span>{location}</span>}
             </p>
-          )}
+            <div className="mt-4 flex flex-wrap gap-1.5">
+              <Badge variant="accent">{formatLabel(job.employment_type)}</Badge>
+              <Badge>{formatLabel(job.work_arrangement)}</Badge>
+              <Badge variant="muted">{formatLabel(job.experience_level)}</Badge>
+              <Badge variant="muted">{job.status}</Badge>
+            </div>
+          </div>
         </div>
-      )}
-    </article>
+      </header>
+
+      <div className="grid gap-8 lg:grid-cols-[1fr_17.5rem] lg:items-start">
+        <article className="space-y-8">
+          {job.summary && (
+            <p className="text-lead">{job.summary}</p>
+          )}
+
+          <section aria-labelledby="job-description-heading">
+            <h2 id="job-description-heading" className="text-section-label mb-4">
+              About the role
+            </h2>
+            <div className="text-prose">{job.description}</div>
+          </section>
+        </article>
+
+        {hasApply && (
+          <aside className="lg:sticky lg:top-20">
+            <div className="rounded-xl border border-zinc-200 bg-white p-6">
+              <h2 className="text-section-label">Apply</h2>
+              <p className="mt-2 text-sm leading-[1.65] text-zinc-600">
+                Ready to move forward? Use the link or email below to reach the hiring team.
+              </p>
+              <div className="mt-4 space-y-3">
+                {applicationUrl && (
+                  <ButtonLink
+                    href={applicationUrl}
+                    variant="primary"
+                    className="w-full"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Open application
+                  </ButtonLink>
+                )}
+                {job.application_email && (
+                  <a
+                    href={`mailto:${job.application_email}`}
+                    className="block text-center text-sm font-medium text-cdtm hover:underline"
+                  >
+                    {job.application_email}
+                  </a>
+                )}
+              </div>
+            </div>
+          </aside>
+        )}
+      </div>
+    </div>
   );
 }

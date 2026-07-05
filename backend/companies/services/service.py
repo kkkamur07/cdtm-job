@@ -1,4 +1,4 @@
-"""Company application service — CRUD orchestration."""
+"""Company application service: CRUD orchestration."""
 
 from __future__ import annotations
 
@@ -15,10 +15,24 @@ class CompanyService:
     def __init__(self, repo: CompanyRepository) -> None:
         self._repo = repo
 
-    def list_companies(self, *, skip: int = 0, limit: int = 50) -> PageResult[Company]:
-        skip = max(skip, 0)
-        limit = min(max(limit, 1), 100)
-        return self._repo.list(skip=skip, limit=limit)
+    def list_companies(
+        self,
+        *,
+        skip: int = 0,
+        limit: int = 50,
+        industry: str | None = None,
+        is_cdtm_startup: bool | None = None,
+        hq_city: str | None = None,
+        q: str | None = None,
+    ) -> PageResult[Company]:
+        return self._repo.list(
+            skip=skip,
+            limit=limit,
+            industry=industry,
+            is_cdtm_startup=is_cdtm_startup,
+            hq_city=hq_city,
+            q=q,
+        )
 
     def get_company(self, company_id: UUID) -> Company:
         row = self._repo.get(company_id)

@@ -1,12 +1,16 @@
 import type { Metadata } from "next";
 
 import { PostJobForm } from "@/components/post-job-form";
+import { PostJobSidebar } from "@/components/post-job-sidebar";
+import { BackLink } from "@/components/ui/back-link";
+import { PageHeader } from "@/components/ui/page-header";
 import { fetchCompanies } from "@/lib/data/api";
 
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
   title: "Post a job",
+  description: "Publish a role for your company on the CDTM job board.",
 };
 
 export default async function PostJobPage() {
@@ -14,16 +18,18 @@ export default async function PostJobPage() {
 
   return (
     <div className="space-y-8">
-      <div>
-        <h1 className="text-3xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-50">
-          Post a job
-        </h1>
-        <p className="mt-2 text-zinc-600 dark:text-zinc-400">
-          Pick an existing company or create one here, then publish the role. For production,
-          restrict this flow behind authentication or an API key.
-        </p>
+      <BackLink href="/jobs">Jobs</BackLink>
+
+      <PageHeader
+        eyebrow="For companies"
+        title="Post a job"
+        description="Register your organization (or pick one already on the board), then publish a role for CDTM students and alumni to discover."
+      />
+
+      <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_17.5rem] lg:items-start">
+        <PostJobForm companies={companies} />
+        <PostJobSidebar />
       </div>
-      <PostJobForm companies={companies} />
     </div>
   );
 }

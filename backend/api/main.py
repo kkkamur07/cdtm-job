@@ -1,4 +1,4 @@
-"""FastAPI application — middleware and routes."""
+"""FastAPI application: middleware and routes."""
 
 from __future__ import annotations
 

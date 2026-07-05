@@ -1,8 +1,8 @@
 """Central error model for the backend.
 
-**Exception types** — Used by services and mapped to HTTP in ``backend.api.error_handling``.
+**Exception types**: Used by services and mapped to HTTP in ``backend.api.error_handling``.
 
-**``supabase_execute``** — Wraps PostgREST ``.execute()`` calls: turns ``APIError`` / ``HTTPError``
+**``supabase_execute``**: Wraps PostgREST ``.execute()`` calls: turns ``APIError`` / ``HTTPError``
 into the exceptions above so infrastructure stays thin and logs preserve ``__cause__``.
 """
 
@@ -26,7 +26,7 @@ class RepositoryError(Exception):
 
 
 class ConflictError(RepositoryError):
-    """Conflicting write — typically unique constraint (duplicate slug, etc.). HTTP ~409."""
+    """Conflicting write: typically unique constraint (duplicate slug, etc.). HTTP ~409."""
 
 
 class ConstraintError(RepositoryError):

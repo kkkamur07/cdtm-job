@@ -1,16 +1,23 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import type { ReactNode } from "react";
+import { Inter, Newsreader } from "next/font/google";
 
-import { HomeVideoBackdrop } from "@/components/home-video-backdrop";
-import { MainArea } from "@/components/main-area";
-import { SiteFooter } from "@/components/site-footer";
-import { SiteHeader } from "@/components/site-header";
+import { AppChrome } from "@/components/app-chrome";
 
 import "./globals.css";
 
-const inter = Inter({
-  variable: "--font-sans",
+const newsreader = Newsreader({
+  variable: "--font-newsreader",
   subsets: ["latin"],
+  display: "swap",
+  weight: ["400", "500", "600"],
+});
+
+const inter = Inter({
+  variable: "--font-inter",
+  subsets: ["latin"],
+  display: "swap",
+  weight: ["400", "500", "600", "700"],
 });
 
 export const metadata: Metadata = {
@@ -19,23 +26,21 @@ export const metadata: Metadata = {
     template: "%s · CDTM Job Board",
   },
   description:
-    "Center for Digital Technology and Management (2026) — job openings and talent from the CDTM community.",
+    "Center for Digital Technology and Management (2026). Job openings and talent from the CDTM community.",
 };
 
 export default function RootLayout({
   children,
 }: Readonly<{
-  children: React.ReactNode;
+  children: ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${inter.variable} h-full antialiased`}>
-      <body className="relative min-h-[100dvh] bg-zinc-50 font-sans text-zinc-900 dark:bg-zinc-950 dark:text-zinc-50">
-        <HomeVideoBackdrop />
-        <div className="relative z-10 flex min-h-[100dvh] flex-col">
-          <SiteHeader />
-          <MainArea>{children}</MainArea>
-          <SiteFooter />
-        </div>
+    <html
+      lang="en"
+      className={`${newsreader.variable} ${inter.variable} h-full antialiased`}
+    >
+      <body className="min-h-[100dvh] bg-white font-sans text-zinc-900">
+        <AppChrome>{children}</AppChrome>
       </body>
     </html>
   );

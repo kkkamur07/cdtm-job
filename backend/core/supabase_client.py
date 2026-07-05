@@ -1,4 +1,4 @@
-"""Supabase client factory (service role — server only)."""
+"""Supabase client factory (service role: server only)."""
 
 from __future__ import annotations
 

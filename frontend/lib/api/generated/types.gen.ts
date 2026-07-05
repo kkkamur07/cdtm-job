@@ -957,6 +957,22 @@ export type ListCompaniesApiV1CompaniesGetData = {
          * Limit
          */
         limit?: number;
+        /**
+         * Industry
+         */
+        industry?: string | null;
+        /**
+         * Is Cdtm Startup
+         */
+        is_cdtm_startup?: boolean | null;
+        /**
+         * Hq City
+         */
+        hq_city?: string | null;
+        /**
+         * Q
+         */
+        q?: string | null;
     };
     url: '/api/v1/companies/';
 };

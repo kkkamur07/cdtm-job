@@ -1,1 +1,1 @@
-"""CDTM job board — FastAPI backend package."""
+"""CDTM job board: FastAPI backend package."""

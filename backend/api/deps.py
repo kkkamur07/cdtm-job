@@ -67,15 +67,3 @@ def get_seeker_service(
 CompanyServiceDep = Annotated[CompanyService, Depends(get_company_service)]
 JobServiceDep = Annotated[JobService, Depends(get_job_service)]
 SeekerServiceDep = Annotated[SeekerService, Depends(get_seeker_service)]
-
-# Persistence client — use in routes when you need raw Supabase access (most CRUD goes via *ServiceDep).
-SessionDep = SupabaseDep
-
-
-def current_user_optional() -> None:
-    """Placeholder for future JWT/session auth."""
-    return None
-
-
-# Add ``current_user: CurrentUserDep`` to route handlers when you introduce auth (applications, dashboards).
-CurrentUserDep = Annotated[None, Depends(current_user_optional)]

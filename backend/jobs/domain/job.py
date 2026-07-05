@@ -1,4 +1,4 @@
-"""Job posting aggregate — content, comp, location, process, audit."""
+"""Job posting aggregate: content, comp, location, process, audit."""
 
 from __future__ import annotations
 

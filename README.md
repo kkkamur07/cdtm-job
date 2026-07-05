@@ -6,7 +6,7 @@ Job board for **jobs.cdtm.com**: Supabase Postgres + FastAPI (`backend/`) + Next
 
 From the **repository root** (where `pyproject.toml` lives):
 
-1. **Backend** — install deps and run the API (needs `backend/.env`; copy from [`backend/.env.example`](./backend/.env.example)):
+1. **Backend**: install deps and run the API (needs `backend/.env`; copy from [`backend/.env.example`](./backend/.env.example)):
 
    ```bash
    uv sync
@@ -20,7 +20,7 @@ From the **repository root** (where `pyproject.toml` lives):
    fastapi run backend/main.py --workers 4
    ```
 
-2. **Frontend** — in another terminal:
+2. **Frontend**: in another terminal:
 
    ```bash
    cd frontend
@@ -30,6 +30,15 @@ From the **repository root** (where `pyproject.toml` lives):
    ```
 
    Open [http://localhost:3000](http://localhost:3000). Ensure backend `CORS_ORIGINS` includes `http://localhost:3000` (see [`backend/core/settings.py`](./backend/core/settings.py)).
+
+3. **Dev data**: seed sample companies, jobs, and seekers (idempotent; safe to re-run):
+
+   ```bash
+   uv run python scripts/seed_dev_data.py
+   ```
+
+   Or with local Supabase: `cd infrastructure/supabase && supabase db reset` (runs `supabase/seed.sql`).
+   For a linked remote dev project, run the seed script above or paste `infrastructure/supabase/supabase/seed.sql` into the Supabase SQL Editor.
 
 More detail: [backend/README.md](./backend/README.md), [frontend/README.md](./frontend/README.md).
 
@@ -50,8 +59,8 @@ supabase db push # For the migrations to take effect
 | File | Purpose |
 | ---- | ------- |
 | [`.env.example`](./.env.example) | Pointer to backend vs frontend env layout. |
-| [`backend/.env.example`](./backend/.env.example) | FastAPI / Python — **commit**; copy to `backend/.env` (gitignored). |
-| [`frontend/.env.example`](./frontend/.env.example) | Next.js — copy to `frontend/.env.local` (gitignored). |
+| [`backend/.env.example`](./backend/.env.example) | FastAPI / Python: **commit**; copy to `backend/.env` (gitignored). |
+| [`frontend/.env.example`](./frontend/.env.example) | Next.js: copy to `frontend/.env.local` (gitignored). |
 
 
 ## How are the APIs designed?
@@ -86,9 +95,9 @@ def delete_thing(...) -> None: ...   # or a small JSON message if you standardis
 
 **Conventions:**
 
-1. **Response models** — Public DTOs (e.g. `JobPublic`, `CompaniesPublic`) live under [`backend/api/schemas/`](./backend/api/schemas/) so **OpenAPI** stays stable and generated clients see clear shapes.
-2. **Pagination** — List endpoints return a page object (`items` + `total`) with `skip` / `limit` query params where applicable.
-3. **Errors** — Failures are mapped to **`HTTPException`** (and shared helpers in [`backend/api/route_errors.py`](./backend/api/route_errors.py) / [`backend/api/error_handling.py`](./backend/api/error_handling.py)).
+1. **Response models**: Public DTOs (e.g. `JobPublic`, `CompaniesPublic`) live under [`backend/api/schemas/`](./backend/api/schemas/) so **OpenAPI** stays stable and generated clients see clear shapes.
+2. **Pagination**: List endpoints return a page object (`items` + `total`) with `skip` / `limit` query params where applicable.
+3. **Errors**: Domain/repository exceptions propagate to global handlers in [`backend/api/error_handling.py`](./backend/api/error_handling.py).
 
 The backend follows a **domain-oriented layout**: domain models per bounded context (`jobs/`, `companies/`, `seekers/`), application **services** + **commands**, infrastructure **repositories** (Supabase), and **public** schemas at the API boundary so you can evolve internals without breaking clients.
 
@@ -109,7 +118,6 @@ backend/
     main.py                  # FastAPI app, CORS, router includes
     deps.py                  # Depends(get_settings), service deps
     error_handling.py
-    route_errors.py
     schemas/                  # public DTOs for OpenAPI (jobs_public, companies_public, …)
     routers/
       health.py
@@ -133,7 +141,7 @@ backend/
 
 ## Integration tests
 
-Focus right now: **call Supabase through the API** — POST payloads, assert responses, then **read back** or verify persistence.
+Focus right now: **call Supabase through the API**: POST payloads, assert responses, then **read back** or verify persistence.
 
 Pattern:
 
@@ -163,3 +171,8 @@ uv run python -c "import json, pathlib; from backend.api.main import app; pathli
 ```
 
 See [frontend/README.md](./frontend/README.md) for dev/build.
+
+
+#### Backend
+
+Migrate to NextJS

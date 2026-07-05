@@ -44,3 +44,8 @@ def register_exception_handlers(app: FastAPI) -> None:
     async def repository_handler(_request: Request, exc: RepositoryError) -> JSONResponse:
         logger.error("Repository error: %s", exc, exc_info=exc)
         return JSONResponse(status_code=500, content={"detail": str(exc)})
+
+    @app.exception_handler(Exception)
+    async def unhandled_handler(_request: Request, exc: Exception) -> JSONResponse:
+        logger.exception("Unhandled error: %s", exc)
+        return JSONResponse(status_code=500, content={"detail": "Internal server error"})

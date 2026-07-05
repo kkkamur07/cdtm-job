@@ -1,4 +1,4 @@
-"""Job application service — CRUD orchestration."""
+"""Job application service: CRUD orchestration."""
 
 from __future__ import annotations
 
@@ -23,8 +23,6 @@ class JobService:
         company_id: UUID | None = None,
         status: JobStatus | None = None,
     ) -> PageResult[Job]:
-        skip = max(skip, 0)
-        limit = min(max(limit, 1), 100)
         return self._repo.list(
             skip=skip,
             limit=limit,

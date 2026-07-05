@@ -1,4 +1,4 @@
-"""Company aggregate — branding, classification, HQ, audit."""
+"""Company aggregate: branding, classification, HQ, audit."""
 
 from __future__ import annotations
 

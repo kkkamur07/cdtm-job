@@ -11,7 +11,16 @@ from backend.core.page import PageResult
 
 
 class CompanyRepository(Protocol):
-    def list(self, *, skip: int, limit: int) -> PageResult[Company]: ...
+    def list(
+        self,
+        *,
+        skip: int,
+        limit: int,
+        industry: str | None = None,
+        is_cdtm_startup: bool | None = None,
+        hq_city: str | None = None,
+        q: str | None = None,
+    ) -> PageResult[Company]: ...
 
     def get(self, company_id: UUID) -> Company | None: ...
 

@@ -15,9 +15,16 @@ supabase db push
 
 That applies `supabase/migrations/*.sql` to the **linked remote** database.
 
-**`config.toml`:** Ports, Studio, Realtime, local Auth tuning, pooler, etc. matter when you run **`supabase start`**. For cloud-only day-to-day work they are effectively unused; the file stays so the CLI version you use has a valid project layout (same idea as `supabase init`). You can trim it later if your CLI version allows—when in doubt, leave it.
+**`config.toml`:** Ports, Studio, Realtime, local Auth tuning, pooler, etc. matter when you run **`supabase start`**. For cloud-only day-to-day work they are effectively unused; the file stays so the CLI version you use has a valid project layout (same idea as `supabase init`). You can trim it later if your CLI version allows. When in doubt, leave it.
 
-**Seed data:** `supabase/seed.sql` runs automatically only on **`supabase db reset`** (local). For a remote dev project, paste its contents into **Dashboard → SQL Editor** if you want dummy rows—never run destructive seeds on production.
+**Seed data:** `supabase/seed.sql` runs automatically on **`supabase db reset`** (local). For a linked remote dev project:
+
+```bash
+# From repo root: uses backend/.env (idempotent)
+uv run python scripts/seed_dev_data.py
+```
+
+Or paste `seed.sql` into **Dashboard → SQL Editor** (non-production only).
 
 ## Optional: full local stack
 

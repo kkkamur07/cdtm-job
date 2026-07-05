@@ -4,10 +4,9 @@ import { useActionState } from "react";
 
 import { createSeekerAction, type SeekerActionState } from "@/app/seekers/actions";
 
-const labelClass =
-  "mb-1 block text-sm font-medium text-zinc-700 dark:text-zinc-300";
+const labelClass = "mb-1 block text-sm font-medium text-zinc-700";
 const inputClass =
-  "mt-1 w-full rounded-lg border border-zinc-300 bg-white px-3 py-2 text-sm text-zinc-900 shadow-sm focus:border-cdtm focus:outline-none focus:ring-1 focus:ring-cdtm dark:border-zinc-700 dark:bg-zinc-950 dark:text-zinc-50";
+  "mt-1 w-full rounded-lg border border-zinc-300 bg-white px-3 py-2 text-sm text-zinc-900 shadow-sm focus:border-cdtm focus:outline-none focus:ring-1 focus:ring-cdtm";
 
 export function SeekerProfileForm() {
   const [state, formAction, pending] = useActionState<SeekerActionState, FormData>(
@@ -19,7 +18,7 @@ export function SeekerProfileForm() {
     <form action={formAction} className="max-w-xl space-y-5">
       {state?.error && (
         <p
-          className="rounded-lg border border-red-200 bg-red-50 px-3 py-2 text-sm text-red-800 dark:border-red-900 dark:bg-red-950/50 dark:text-red-200"
+          className="rounded-lg border border-red-200 bg-red-50 px-3 py-2 text-sm text-red-800"
           role="alert"
         >
           {state.error}
@@ -84,7 +83,7 @@ export function SeekerProfileForm() {
 
       <div className="flex items-center gap-2">
         <input id="open_to_remote" name="open_to_remote" type="checkbox" className="rounded border-zinc-300" />
-        <label htmlFor="open_to_remote" className="text-sm text-zinc-700 dark:text-zinc-300">
+        <label htmlFor="open_to_remote" className="text-sm text-zinc-700">
           Open to remote
         </label>
       </div>

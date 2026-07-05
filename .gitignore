@@ -23,7 +23,7 @@ frontend/.npm-cache/
 # Supabase CLI (local cache / link metadata; never commit secrets here)
 .branches/
 **/.temp/
-# Accidental nested CLI folder — safe to delete if it appears
+# Accidental nested CLI folder: safe to delete if it appears
 infra/supabase/supabase/supabase/
 
 # OS / IDE

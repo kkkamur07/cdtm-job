@@ -1,8 +1,16 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import type { ReactNode } from "react";
 import { notFound } from "next/navigation";
 
+import { BackLink } from "@/components/ui/back-link";
+import { Badge } from "@/components/ui/badge";
+import { DetailField } from "@/components/ui/detail-field";
+import {
+  EducationTimeline,
+  LanguageProfile,
+} from "@/components/seekers/profile-timeline";
 import { fetchSeeker } from "@/lib/data/api";
+import { safeUrl } from "@/lib/safe-url";
 
 export const dynamic = "force-dynamic";
 
@@ -18,6 +26,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
+function DetailSection({ label, children }: { label: string; children: ReactNode }) {
+  return (
+    <div>
+      <h2 className="text-section-label">{label}</h2>
+      <div className="mt-2">{children}</div>
+    </div>
+  );
+}
+
 export default async function SeekerDetailPage({ params }: Props) {
   const { seekerId } = await params;
   let seeker;
@@ -27,189 +44,139 @@ export default async function SeekerDetailPage({ params }: Props) {
     notFound();
   }
 
+  const linkedinUrl = safeUrl(seeker.linkedin_url);
+  const portfolioUrl = safeUrl(seeker.portfolio_url);
+  const githubUrl = safeUrl(seeker.github_url);
+  const resumeUrl = safeUrl(seeker.resume_url);
+
   return (
     <article className="space-y-8">
-      <div>
-        <Link
-          href="/seekers"
-          className="text-sm font-medium text-cdtm hover:underline dark:text-cdtm-bright"
-        >
-          ← All seekers
-        </Link>
-        <h1 className="mt-4 text-3xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-50">
+      <BackLink href="/seekers">All seekers</BackLink>
+
+      <header className="space-y-3 border-b border-zinc-200 pb-8 pl-5 border-l-4 border-l-cdtm">
+        <p className="text-eyebrow">Profile</p>
+        <h1 className="font-display text-[2rem] font-medium leading-[1.12] tracking-[-0.025em] text-zinc-900 sm:text-[2.125rem]">
           {seeker.full_name}
         </h1>
-        {seeker.headline && (
-          <p className="mt-2 text-lg text-zinc-700 dark:text-zinc-300">{seeker.headline}</p>
-        )}
-      </div>
+        {seeker.headline && <p className="text-lead">{seeker.headline}</p>}
+      </header>
 
       {seeker.bio && (
-        <div className="prose prose-zinc max-w-none dark:prose-invert">
-          <p className="whitespace-pre-wrap leading-relaxed text-zinc-800 dark:text-zinc-200">
-            {seeker.bio}
-          </p>
-        </div>
+        <div className="text-prose">{seeker.bio}</div>
       )}
 
       <dl className="grid gap-4 sm:grid-cols-2">
         {seeker.email && (
-          <div>
-            <dt className="text-xs font-semibold uppercase tracking-wide text-zinc-500">Email</dt>
-            <dd className="mt-1">
-              <a
-                href={`mailto:${seeker.email}`}
-                className="font-medium text-cdtm hover:underline dark:text-cdtm-bright"
-              >
-                {seeker.email}
-              </a>
-            </dd>
-          </div>
+          <DetailField label="Email">
+            <a href={`mailto:${seeker.email}`} className="font-medium text-cdtm hover:underline">
+              {seeker.email}
+            </a>
+          </DetailField>
         )}
-        {seeker.phone && (
-          <div>
-            <dt className="text-xs font-semibold uppercase tracking-wide text-zinc-500">Phone</dt>
-            <dd className="mt-1 text-zinc-800 dark:text-zinc-200">{seeker.phone}</dd>
-          </div>
-        )}
+        {seeker.phone && <DetailField label="Phone">{seeker.phone}</DetailField>}
         {seeker.years_of_experience != null && (
-          <div>
-            <dt className="text-xs font-semibold uppercase tracking-wide text-zinc-500">
-              Experience
-            </dt>
-            <dd className="mt-1 text-zinc-800 dark:text-zinc-200">
-              {seeker.years_of_experience} years
-            </dd>
-          </div>
+          <DetailField label="Experience">{seeker.years_of_experience} years</DetailField>
         )}
         {seeker.open_to_remote != null && (
-          <div>
-            <dt className="text-xs font-semibold uppercase tracking-wide text-zinc-500">Remote</dt>
-            <dd className="mt-1 text-zinc-800 dark:text-zinc-200">
-              {seeker.open_to_remote ? "Open to remote" : "Not open to remote"}
-            </dd>
-          </div>
+          <DetailField label="Remote">
+            {seeker.open_to_remote ? "Open to remote" : "Not open to remote"}
+          </DetailField>
         )}
         {seeker.preferred_work_arrangement && (
-          <div>
-            <dt className="text-xs font-semibold uppercase tracking-wide text-zinc-500">
-              Work arrangement
-            </dt>
-            <dd className="mt-1 capitalize text-zinc-800 dark:text-zinc-200">
-              {seeker.preferred_work_arrangement}
-            </dd>
-          </div>
+          <DetailField label="Work arrangement">
+            <span className="capitalize">{seeker.preferred_work_arrangement}</span>
+          </DetailField>
         )}
         {seeker.available_from && (
-          <div>
-            <dt className="text-xs font-semibold uppercase tracking-wide text-zinc-500">
-              Available from
-            </dt>
-            <dd className="mt-1 text-zinc-800 dark:text-zinc-200">{seeker.available_from}</dd>
-          </div>
+          <DetailField label="Available from">{seeker.available_from}</DetailField>
         )}
       </dl>
 
       {(seeker.preferred_locations?.length ?? 0) > 0 && (
-        <div>
-          <h2 className="text-sm font-semibold uppercase tracking-wide text-zinc-500">
-            Preferred locations
-          </h2>
-          <p className="mt-2 text-zinc-800 dark:text-zinc-200">
-            {(seeker.preferred_locations ?? []).join(", ")}
-          </p>
-        </div>
+        <DetailSection label="Preferred locations">
+          <p className="text-zinc-800">{(seeker.preferred_locations ?? []).join(", ")}</p>
+        </DetailSection>
       )}
 
       {(seeker.desired_role_titles?.length ?? 0) > 0 && (
-        <div>
-          <h2 className="text-sm font-semibold uppercase tracking-wide text-zinc-500">
-            Desired roles
-          </h2>
-          <ul className="mt-2 flex flex-wrap gap-2">
+        <DetailSection label="Desired roles">
+          <ul className="flex flex-wrap gap-2">
             {(seeker.desired_role_titles ?? []).map((t) => (
-              <li
-                key={t}
-                className="rounded-full bg-zinc-100 px-3 py-1 text-sm dark:bg-zinc-900 dark:text-zinc-200"
-              >
-                {t}
+              <li key={t}>
+                <Badge variant="accent">{t}</Badge>
               </li>
             ))}
           </ul>
-        </div>
+        </DetailSection>
       )}
 
       {(seeker.skills?.length ?? 0) > 0 && (
-        <div>
-          <h2 className="text-sm font-semibold uppercase tracking-wide text-zinc-500">Skills</h2>
-          <ul className="mt-2 flex flex-wrap gap-1.5">
+        <DetailSection label="Skills">
+          <ul className="flex flex-wrap gap-1.5">
             {(seeker.skills ?? []).map((skill) => (
-              <li
-                key={skill}
-                className="rounded-full bg-zinc-100 px-2.5 py-0.5 text-xs font-medium text-zinc-700 dark:bg-zinc-900 dark:text-zinc-300"
-              >
-                {skill}
+              <li key={skill}>
+                <Badge variant="muted">{skill}</Badge>
               </li>
             ))}
           </ul>
-        </div>
+        </DetailSection>
       )}
 
-      {(seeker.languages?.length ?? 0) > 0 && (
-        <div>
-          <h2 className="text-sm font-semibold uppercase tracking-wide text-zinc-500">Languages</h2>
-          <p className="mt-2 text-zinc-800 dark:text-zinc-200">
-            {(seeker.languages ?? []).join(", ")}
-          </p>
-        </div>
+      {((seeker.languages?.length ?? 0) > 0 || seeker.education_summary) && (
+        <section className="space-y-8 border-t border-zinc-200 pt-8">
+          {(seeker.languages?.length ?? 0) > 0 && (
+            <div>
+              <h2 className="text-section-label mb-4">Languages</h2>
+              <LanguageProfile languages={seeker.languages ?? []} />
+            </div>
+          )}
+
+          {seeker.education_summary && (
+            <div>
+              <h2 className="text-section-label mb-4">Education</h2>
+              <EducationTimeline summary={seeker.education_summary} />
+            </div>
+          )}
+        </section>
       )}
 
-      {seeker.education_summary && (
-        <div>
-          <h2 className="text-sm font-semibold uppercase tracking-wide text-zinc-500">Education</h2>
-          <p className="mt-2 whitespace-pre-wrap text-zinc-800 dark:text-zinc-200">
-            {seeker.education_summary}
-          </p>
-        </div>
-      )}
-
-      <div className="flex flex-wrap gap-4 border-t border-zinc-200 pt-6 dark:border-zinc-800">
-        {seeker.linkedin_url && (
+      <div className="flex flex-wrap gap-4 border-t border-zinc-200 pt-6">
+        {linkedinUrl && (
           <a
-            href={seeker.linkedin_url}
+            href={linkedinUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="font-medium text-cdtm hover:underline dark:text-cdtm-bright"
+            className="font-medium text-cdtm hover:underline"
           >
             LinkedIn
           </a>
         )}
-        {seeker.portfolio_url && (
+        {portfolioUrl && (
           <a
-            href={seeker.portfolio_url}
+            href={portfolioUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="font-medium text-cdtm hover:underline dark:text-cdtm-bright"
+            className="font-medium text-cdtm hover:underline"
           >
             Portfolio
           </a>
         )}
-        {seeker.github_url && (
+        {githubUrl && (
           <a
-            href={seeker.github_url}
+            href={githubUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="font-medium text-cdtm hover:underline dark:text-cdtm-bright"
+            className="font-medium text-cdtm hover:underline"
           >
             GitHub
           </a>
         )}
-        {seeker.resume_url && (
+        {resumeUrl && (
           <a
-            href={seeker.resume_url}
+            href={resumeUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="font-medium text-cdtm hover:underline dark:text-cdtm-bright"
+            className="font-medium text-cdtm hover:underline"
           >
             Résumé
           </a>

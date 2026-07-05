@@ -1,4 +1,4 @@
-CDTM Job Board frontend — [Next.js](https://nextjs.org) App Router + Tailwind. Data loads from the FastAPI backend via a generated OpenAPI client (`lib/api/generated`).
+CDTM Job Board frontend: [Next.js](https://nextjs.org) App Router + Tailwind. Data loads from the FastAPI backend via a generated OpenAPI client (`lib/api/generated`).
 
 ## Setup
 

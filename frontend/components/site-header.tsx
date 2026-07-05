@@ -4,59 +4,84 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
+import { ButtonLink } from "@/components/ui/button-link";
+
 const nav = [
-  { href: "/jobs", label: "Jobs" },
-  { href: "/seekers", label: "Seekers" },
-  { href: "/post-job", label: "Post a job" },
+  {
+    href: "/jobs",
+    label: "Jobs",
+    match: (path: string) =>
+      path === "/jobs" || (path.startsWith("/jobs/") && !path.startsWith("/jobs/alerts")),
+  },
+  {
+    href: "/jobs/alerts",
+    label: "Alerts",
+    match: (path: string) => path.startsWith("/jobs/alerts"),
+  },
+  {
+    href: "/companies",
+    label: "Companies",
+    match: (path: string) => path.startsWith("/companies") && path !== "/companies/new",
+  },
+  { href: "/seekers", label: "Seekers", match: (path: string) => path.startsWith("/seekers") },
+  { href: "/post-job", label: "Post", match: (path: string) => path.startsWith("/post-job") },
 ];
 
 export function SiteHeader() {
   const pathname = usePathname();
-  const isHome = pathname === "/";
 
   return (
-    <header
-      className={
-        isHome
-          ? "relative z-10 border-b border-white/10 bg-transparent backdrop-blur-md"
-          : "relative z-10 border-b border-zinc-200/80 bg-white/90 backdrop-blur dark:border-zinc-800 dark:bg-zinc-950/90"
-      }
-    >
-      <div className="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-4 px-4 py-3 sm:px-6">
-        <Link href="/" className="flex items-center gap-3">
+    <header className="sticky top-0 z-30 border-b border-zinc-200 bg-white">
+      <div className="mx-auto flex max-w-6xl items-center justify-between gap-6 px-4 py-3.5 sm:px-6">
+        <Link
+          href="/"
+          className="flex min-w-0 items-center gap-4 rounded-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cdtm focus-visible:ring-offset-2"
+        >
           <Image
-            src="/brand/cdtm-logo.png"
-            alt="Center for Digital Technology and Management, 2026"
-            width={1879}
-            height={806}
-            className={`h-9 w-auto max-w-[200px] object-contain object-left sm:max-w-[240px] sm:h-10 ${isHome ? "drop-shadow-md brightness-0 invert" : ""}`}
+            src="/brand/cdtm-mark.svg"
+            alt="CDTM"
+            width={52}
+            height={39}
+            className="h-11 w-auto shrink-0"
             priority
           />
-          <span
-            className={`hidden border-l pl-3 text-sm font-medium tracking-tight sm:inline ${
-              isHome
-                ? "border-white/25 text-white/90"
-                : "border-zinc-200 text-zinc-600 dark:border-zinc-700 dark:text-zinc-400"
-            }`}
-          >
-            Job Board
+          <span className="hidden min-w-0 text-left sm:block">
+            <span className="font-display block text-base font-medium leading-tight tracking-tight text-zinc-900">
+              Job Board
+            </span>
+            <span className="mt-0.5 block font-sans text-[0.6875rem] font-medium leading-snug text-zinc-500">
+              Center for Digital Technology and Management
+            </span>
           </span>
         </Link>
-        <nav className="flex flex-wrap items-center gap-1 sm:gap-4">
-          {nav.map((item) => (
-            <Link
-              key={item.href}
-              href={item.href}
-              className={
-                isHome
-                  ? "rounded-md px-2 py-1.5 text-sm font-medium text-white/95 drop-shadow-sm transition-colors hover:bg-white/10 hover:text-white"
-                  : "rounded-md px-2 py-1.5 text-sm font-medium text-zinc-600 transition-colors hover:bg-zinc-100 hover:text-cdtm dark:text-zinc-400 dark:hover:bg-zinc-900 dark:hover:text-cdtm-bright"
-              }
-            >
-              {item.label}
-            </Link>
-          ))}
-        </nav>
+
+        <div className="flex shrink-0 items-center gap-2">
+          <nav
+            className="hidden rounded-lg border border-zinc-200 p-1 sm:flex"
+            aria-label="Main"
+          >
+            {nav.map((item) => {
+              const active = item.match(pathname);
+              return (
+                <Link
+                  key={item.href}
+                  href={item.href}
+                  className={
+                    active
+                      ? "rounded-md bg-white px-3 py-1.5 text-sm font-medium text-cdtm shadow-sm"
+                      : "rounded-md px-3 py-1.5 text-sm font-medium text-zinc-600 transition-colors hover:text-zinc-900"
+                  }
+                  aria-current={active ? "page" : undefined}
+                >
+                  {item.label}
+                </Link>
+              );
+            })}
+          </nav>
+          <ButtonLink href="/post-job" variant="primary" className="hidden sm:inline-flex">
+            Post a job
+          </ButtonLink>
+        </div>
       </div>
     </header>
   );

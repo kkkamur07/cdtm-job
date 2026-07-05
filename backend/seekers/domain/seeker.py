@@ -1,4 +1,4 @@
-"""Seeker profile aggregate — identity, pitch, preferences, skills."""
+"""Seeker profile aggregate: identity, pitch, preferences, skills."""
 
 from __future__ import annotations
 

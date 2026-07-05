@@ -21,13 +21,13 @@
 **Production**
 
 - Often there is **no** dotenv file in the image; ``env_file`` becomes ``None``
-  and every variable comes from injected OS env only — same ``Settings`` class.
+  and every variable comes from injected OS env only: same ``Settings`` class.
 """
 
 from __future__ import annotations
 
 import os
-from functools import cached_property
+from functools import lru_cache
 from pathlib import Path
 from typing import Literal
 
@@ -36,7 +36,6 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 
 # ``backend/`` (contains this file at ``backend/core/settings.py``).
 _BACKEND_ROOT = Path(__file__).resolve().parents[1]
-_REPO_ROOT = _BACKEND_ROOT.parent
 
 
 def _env_file_for_config() -> str | None:
@@ -54,9 +53,7 @@ def _env_file_for_config() -> str | None:
 
 
 def load_backend_dotenv_into_environ() -> None:
-    """Load the backend dotenv file into ``os.environ`` (same path as ``Settings``).
-    and the tests as well. 
-    """
+    """Load the backend dotenv file into ``os.environ`` (same path as ``Settings``)."""
     from dotenv import load_dotenv
 
     path = _env_file_for_config()
@@ -77,7 +74,6 @@ class Settings(BaseSettings):
 
     supabase_url: HttpUrl
     supabase_service_role_key: SecretStr
-    supabase_anon_key: SecretStr | None = None
 
     api_host: str = "0.0.0.0"
     api_port: int = Field(default=8000, ge=1, le=65535)
@@ -122,11 +118,6 @@ class Settings(BaseSettings):
         parts = [p.strip() for p in self.cors_origins.split(",")]
         return [p for p in parts if p]
 
-    @computed_field  # type: ignore[prop-decorator]
-    @property
-    def is_production(self) -> bool:
-        return self.app_env == "production"
-
     @model_validator(mode="after")
     def _validate_production_cors(self) -> Settings:
         if self.app_env == "production":
@@ -135,7 +126,3 @@ class Settings(BaseSettings):
                 msg = "Wildcard CORS origins are not allowed when APP_ENV=production"
                 raise ValueError(msg)
         return self
-
-    @cached_property
-    def repo_root(self) -> Path:
-        return _REPO_ROOT

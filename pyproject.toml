@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "cdtm-job"
 version = "0.1.0"
-description = "CDTM Job Board — monorepo (FastAPI backend, Supabase, frontend)"
+description = "CDTM Job Board: monorepo (FastAPI backend, Supabase, frontend)"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
