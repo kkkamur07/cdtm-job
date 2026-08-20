@@ -1,0 +1,73 @@
+{
+  "id": "stefan-fischer-587401143",
+  "name": "Stefan Fischer",
+  "headline": "Cofounder bei Kumovis",
+  "avatar": null,
+  "location": "Penzberg, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/stefan-fischer-587401143",
+  "personId": 1828,
+  "classes": [
+    {
+      "id": 64,
+      "label": "Fall 2008",
+      "season": "Fall",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2008",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Stefan Fischer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Cofounder",
+      "company": "Kumovis",
+      "companyUrl": null,
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2017-11",
+      "end": null,
+      "dateRange": "Nov 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Wissenschaftlicher Mitarbeiter mit akademischem Abschluss",
+      "company": "TU München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2017-04",
+      "end": "2018-09",
+      "dateRange": "Apr 2017 – Sep 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Maschinenbau",
+      "dateRange": "2011 – 2017"
+    }
+  ],
+  "skills": [
+    "SolidWorks",
+    "C#",
+    "Codesys",
+    "Matlab",
+    "Rapid Prototyping",
+    "Arduino",
+    "Mikrocontroller"
+  ],
+  "languages": [],
+  "company": null
+}

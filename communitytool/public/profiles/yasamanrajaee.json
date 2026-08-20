@@ -1,0 +1,218 @@
+{
+  "id": "yasamanrajaee",
+  "name": "Yasaman Rajaee",
+  "headline": "Co-founder & CEO @ Otio.ai",
+  "avatar": {
+    "sm": "/avatars/yasamanrajaee-sm.webp",
+    "lg": "/avatars/yasamanrajaee.webp",
+    "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAACQBQCdASogACAAPtFcqE2oJSQiKAqpABoJZgAD45Zm7TweHST3P/tVuWDVfIfcIqIxMpN5gAD++6VLFHfn2c1tpfffk2lXc+FQqrzr2794DZ24UF8rRgjFtvOteCMKq6pD4OsgpNhW+7uIhoXdTzoqdJAFCb49jDFwYMHGvvSJNnS4czkhUk2eLp/3jhJC3GDGP8JYR2CHk0F0XL0o+gv0cZWOe59jfcrBiz03XtsGc8pzwhJVPHuCXNyMRBSc9hPgH6PL10r6kGAZdfNFAvQbwDdRt3Dpgw8matjSJb6alpHu7IAAAA=="
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/yasamanrajaee",
+  "personId": 699,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Yasaman Rajaee",
+  "ca": null,
+  "summary": "Lets chat here: x.com/yasirajaee",
+  "positions": [
+    {
+      "title": "Co-founder & CEO",
+      "company": "Otio",
+      "companyUrl": "https://www.linkedin.com/company/otioai",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "start": "2022-06",
+      "end": null,
+      "dateRange": "Jun 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Maneki (Prev. Lernico)",
+      "companyUrl": null,
+      "description": "⦿ Recipient of GSV Cup Elite 200 startups.\n⦿ Lernico is an Edtech platform for helping knowledge creators build cohort-based courses in LatAm.\n⦿ Maneki is a pivot toward a Saas analytics tool helping knowledge creators make data-driven decisions.",
+      "location": "London Area, United Kingdom",
+      "start": "2020-11",
+      "end": "2022-03",
+      "dateRange": "Nov 2020 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Founder in Residence  - EF LD15",
+      "company": "Entrepreneur First",
+      "companyUrl": "https://www.linkedin.com/company/entrepreneurs-first",
+      "description": "⦿ EF are the world’s leading talent investor. It is the place where the ambitious come together to build globally important technology companies.",
+      "location": "London, England Metropolitan Area",
+      "start": "2020-09",
+      "end": "2021-02",
+      "dateRange": "Sep 2020 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Associate Product Manager (APM)",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "PM at Google My Business.",
+      "location": "London, England Metropolitan Area",
+      "start": "2020-06",
+      "end": "2020-09",
+      "dateRange": "Jun 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Product Manager / Community Director",
+      "company": "PathCheck Foundation",
+      "companyUrl": "https://www.linkedin.com/company/pathcheckfoundation",
+      "description": "⦿ Led the digital contact tracing, COVID-19 exposure notification platform and coordinated 1300 community members from hiring to onboarding.\n⦿  Pathcheck mission is restart the economy without sacrificing privacy in COVID-19 pandemic.\n⦿ The team is shaped by MIT, Harvard, Mayo Clinic, Berkeley as well as WHO, HHS, I-DAIR, and many corporations and tech-companies.",
+      "location": "Cambridge, Massachusetts, United States",
+      "start": "2020-03",
+      "end": "2020-06",
+      "dateRange": "Mar 2020 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Strategy Consultant - (Coop. w/ CDTM)",
+      "company": "Gogol Publishing",
+      "companyUrl": "https://www.linkedin.com/company/peiq-by-multicom-und-gogol",
+      "description": "⦿ Semester-long strategy consulting project on developing a sales lead generation pipeline to systematically identify newspapers for the new product by Multicom / Gogol that automatically layouts digital content for a printable newspaper issue.",
+      "location": "Munich Area, Germany",
+      "start": "2019-10",
+      "end": "2020-01",
+      "dateRange": "Oct 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": "⦿ Co-led 3 cross-functional teams from conceptualization through the development of the mobile app to increase consumer satisfaction KPI’s.\n⦿ Optimized the Personio web app dashboard to reduce product friction resulting in 8% churn mitigation while increasing subscriber revenue.\n⦿ Analyzed the Personio employee survey to identify potential initiatives and plan for 2020 OKRs.",
+      "location": "Munich Area, Germany",
+      "start": "2019-09",
+      "end": "2020-02",
+      "dateRange": "Sep 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "National Institute of Informatics",
+      "companyUrl": "https://www.linkedin.com/company/nii-jp",
+      "description": "⦿ Developed novel end-to-end convolutional neural network-based methods to enhance the low-light condition in stereo images. The best method outperformed baseline methods such as gamma correction and histogram equalization by 20% on Middlebury dataset",
+      "location": "Tokyo, Japan",
+      "start": "2019-03",
+      "end": "2019-08",
+      "dateRange": "Mar 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Product Development Manager (Coop. w/ CDTM)",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "⦿ Conducted competitive analysis to identify pain points in the sales industry.\n⦿ Led a six-person team to develop a product that reduces the ramp-up time of new sales hires to solve the pain point of high onboarding costs.\n⦿ Developed a high-level feature list with new employees' success criteria to direct the development team on technical requirements.\n\n⦿ Implemented three core features in the product:\n     ••  Guidance: help new employees to adapt to winning processes and practices within the sales organization.\n    ••   Motivation: increase new employees' success rate and motivate new employees.\n    ••   Intelligent solution: leverages the existing knowledge of the sales team; no content creation needed.",
+      "location": "Munich Area, Germany",
+      "start": "2018-10",
+      "end": "2019-02",
+      "dateRange": "Oct 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Project: BMW’s 7-Series Gesture Control forgoes pressing any buttons or turning any knobs to do things such as increase/decrease audio volume.\n\n⦿ Designed new gestures, ”thumb” and ”rotation,” and developed a computer vision-based pipeline with 88% accuracy to detect them.\n⦿ Implemented a 3D hand gesture reconstruction methods that could handle challenges such as occlusion and variability in execution-style.\n⦿ Implemented a user interface for test case generation, which retrieves test videos and evaluates the detection models on them.",
+      "location": "Munich Area, Germany",
+      "start": "2017-06",
+      "end": "2018-05",
+      "dateRange": "Jun 2017 – May 2018",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "⦿ Developed a deep multi-task model for simultaneous face detection, landmarks localization, pose estimation and gender recognition in videos. The resulting model achieved a real-time inference speed while having a on par performance compared to the single-task models.",
+      "location": "Munich Area, Germany",
+      "start": "2017-01",
+      "end": "2017-07",
+      "dateRange": "Jan 2017 – Jul 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Fellow, Sloan School of Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (MSc), Informatics (Computer Science)",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Latitud",
+      "degree": "LF2 Fellowship, Entrepreneurship and Entrepreneurial studies",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "C++",
+    "C",
+    "Java",
+    "Product Management",
+    "Machine Learning",
+    "Wireframing",
+    "Programming",
+    "Computer Vision",
+    "Research",
+    "Deep Learning",
+    "Python",
+    "Tensorflow",
+    "Github",
+    "Linux",
+    "Matlab",
+    "Keras",
+    "LaTeX",
+    "JIRA",
+    "Amazon Web Services (AWS)",
+    "Adobe InDesign"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Otio",
+    "tagline": "The Fastest Way To Do Research",
+    "description": "The Fastest Way To Read & Write",
+    "industry": "Software Development",
+    "website": "https://otio.ai/?ref=LinkedIn",
+    "linkedInUrl": "https://www.linkedin.com/company/otioai",
+    "employeeCount": 4,
+    "foundedYear": null,
+    "location": "London, United Kingdom",
+    "specialities": []
+  }
+}

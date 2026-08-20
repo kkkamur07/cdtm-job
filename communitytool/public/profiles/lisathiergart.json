@@ -1,0 +1,238 @@
+{
+  "id": "lisathiergart",
+  "name": "Lisa Thiergart",
+  "headline": "Co-founder and Senior Director @ SL5 Task Force | Brains Fellow | Georgia Tech | TUM | CDTM | UCL | prev. research lead @ MIRI, independent Alignment Researcher @ MATS | Founder @PhilosophiaMunich",
+  "avatar": {
+    "sm": "/avatars/lisathiergart-sm.webp",
+    "lg": "/avatars/lisathiergart.webp",
+    "blur": "data:image/webp;base64,UklGRgwBAABXRUJQVlA4IAABAACQBgCdASogACAAPtFYpEyoJSOiKA1RABoJbACdMt122NAcuHv6U3OLTwQP8klQMFVlBaq0ddhQC5jP3rgwAP6umilYVBLq481v7SK3yuU1zJgll+cp0QeQIXPVUMkuFP7qoy2xcDFte8aw+aTMWPq7CTDF9AoZ9+bB7aekG5oDeBcnhC6zqkosy/z1nLD9vF/o1mryg9RVPh+ck72EZf+IF1Ro53035ItouskYsipMrSLAT1+IHb3JXVBtLM+tVCnyaNpKpEDcShKCEjMm3QFf5tsQgYr1Vb4u93SJ/pQYwVmRC54CrJ0gNR3qHNvCAz9tcj1Te/VvFMtkJ9lc4AAA"
+  },
+  "location": "Berkeley, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/lisathiergart",
+  "personId": 959,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "B.Sc. Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lisa Thiergart",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Director of SL5 Task Force",
+      "company": "Institute for Security and Technology (IST)",
+      "companyUrl": "https://www.linkedin.com/company/institute-security-technology",
+      "description": null,
+      "location": null,
+      "start": "2025-06",
+      "end": null,
+      "dateRange": "Jun 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Lead",
+      "company": "Machine Intelligence Research Institute (MIRI)",
+      "companyUrl": "https://www.linkedin.com/company/machine-intelligence-research-institute",
+      "description": "Since March 2024, I've founded and now research lead MIRI's new technical governance team. We research verification mechanisms, international coordination on AI, limitations of model evaluations and do some AI forecasting. Our team advises policymakers and produces technical reports. Our focus is on long-term solutions for the AI governance space, with a particular focus on concerns that arise as we near ASI (artificial super intelligence). My personal research focus is currently on AI security and strategic implications of automated AI R&D on technical governance. \n\nNote: We will be expanding the team as of Jan 2025, please reach out if you're a specialist in any of the above areas!",
+      "location": null,
+      "start": "2024-03",
+      "end": "2025-06",
+      "dateRange": "Mar 2024 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Research Manager",
+      "company": "Machine Intelligence Research Institute (MIRI)",
+      "companyUrl": "https://www.linkedin.com/company/machine-intelligence-research-institute",
+      "description": "I research manage our 18 person technical staff and take point on research strategy, introducing new processes and people management, recruiting and restructuring to help MIRI execute its strategic pivot in summer 2023, as well as developing and project managing some of our new project directions.\n\nSince January 2024, a large part of our research focus has pivoted towards AI technical governance research. We focus on researching and designing technical aspects of regulation and policy that could lead to safer AI, giving special consideration to which methods can (continue to) function as we move closer toward smarter-than-human AI.\nThe team works on: \n- Limitations of current proposals such as Responsible Scaling Policies. \n- Inputs into regulations, requests for comment by policy bodies (ex. NIST/US AISI, EU, UN)\n- Researching and designing alternative Safety Standards, or amendments to existing proposals\n- Communicating with and consulting for policymakers and governance organizations",
+      "location": null,
+      "start": "2023-07",
+      "end": "2024-03",
+      "dateRange": "Jul 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Independent AI Safety Researcher",
+      "company": "Stanford Existential Risks Initiative",
+      "companyUrl": "https://www.linkedin.com/company/stanford-existential-risks-initiative",
+      "description": "I'm a scholar in the SERI MATS program and work on Mechanistic Interpretability in LLM and some RL, investigating an agenda empirically iterating on Shard Theory and the Natural Abstraction Hypothesis and am exploring strategic approaches for Neurotech and Alignment",
+      "location": null,
+      "start": "2022-11",
+      "end": "2023-06",
+      "dateRange": "Nov 2022 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Independent Researcher / Entrepreneur In Residence",
+      "company": "Entrepreneurs First",
+      "companyUrl": "https://www.linkedin.com/company/entrepreneur-first",
+      "description": "3-month funded co-founder matching and independent research program\n\nTogether with my co-founder I am working on NeuroTech-based Interpretability Tools, with a special interest in problems in the AI Alignment space.",
+      "location": null,
+      "start": "2022-09",
+      "end": "2022-12",
+      "dateRange": "Sep 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Research Scientist",
+      "company": "Brainamics",
+      "companyUrl": "https://www.linkedin.com/company/thebrainamics",
+      "description": "I worked on accuracy improvements in state classification by analysing the latent space of EEG emotion data. I proposed EEG-adjusted new architectures for the self-supervised pipeline and validated these against existing architectures. Based on my learnings at CDTM, I volunteered to run one tech strategy and one long term strategy ideation workshop.",
+      "location": null,
+      "start": "2022-04",
+      "end": "2022-08",
+      "dateRange": "Apr 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Robotics Researcher",
+      "company": "Georgia Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/georgia-institute-of-technology",
+      "description": "CORE Robotics Lab\nResearch project on Reinforcement Learning-based control of autonomous vehicles using EEG-feedback. I built the Mars Rover Model from scratch, adapted the TAMER-module to EEG, set up the EEG-interface, designed the user study and applied for IRB approval. \n\nPublication accepted to Society for Neuroscience 2021: \"EEG-mediated real-time continuous-scale emotion assessment for applications in robotics using reinforcement learning\"",
+      "location": null,
+      "start": "2021-06",
+      "end": "2021-12",
+      "dateRange": "Jun 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Researcher",
+      "company": "VW Group Machine Learning Research Lab",
+      "companyUrl": null,
+      "description": "Argmax.ai Lab:\nResearch on Robotic Handover using Empowerment Theory (Reinforcement Learning using HCI and Psychological insights to define the reward function). Simulations with Kuka Robots and theoretical validation. Thesis Project, Paused due to Covid-19",
+      "location": null,
+      "start": "2020-03",
+      "end": "2020-04",
+      "dateRange": "Mar 2020 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Student Researcher",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Work on a Process-Oriented Situation Assessment Algorithm",
+      "location": null,
+      "start": "2019-06",
+      "end": "2019-09",
+      "dateRange": "Jun 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Helmholtz Munich",
+      "companyUrl": "https://www.linkedin.com/company/helmholtzmunich",
+      "description": "Fabian Theiss Lab, Institute of Computational Biology\n\nStudent Intern supporting with processing Single-Cell mRNA data",
+      "location": null,
+      "start": "2018-09",
+      "end": "2018-11",
+      "dateRange": "Sep 2018 – Nov 2018",
+      "current": false
+    },
+    {
+      "title": "Software Development Intern",
+      "company": "Boldyn Networks",
+      "companyUrl": "https://www.linkedin.com/company/boldyn-networks",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-04",
+      "dateRange": "Jan 2018 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Robotics and DL Intern",
+      "company": "T-Labs",
+      "companyUrl": "https://www.linkedin.com/company/t-labs-telekom-laboratories",
+      "description": "Robotics and AI Division",
+      "location": null,
+      "start": "2017-11",
+      "end": "2017-12",
+      "dateRange": "Nov 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Lab Intern",
+      "company": "UCL",
+      "companyUrl": "https://www.linkedin.com/company/university-college-london",
+      "description": "Attwell Lab, Neurophysiology",
+      "location": null,
+      "start": "2016-10",
+      "end": "2017-05",
+      "dateRange": "Oct 2016 – May 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Georgia Institute of Technology",
+      "degree": "Year Abroad, Computer Science",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors MSc, Technology Management",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bsc , Computer Science",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Medicine, Bachelor of Surgery - MBBS, Medicine",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "UCL",
+      "degree": "Bsc Neuroscience",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "John F Kennedy School",
+      "degree": "Honors High School Diploma, Class Salutatorian",
+      "dateRange": "2009 – 2016"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Institute for Security and Technology (IST)",
+    "tagline": "Uniting technology and policy leaders to create actionable solutions to emerging security challenges",
+    "description": "The Institute for Security and Technology (IST) is the 501(c)(3) critical action think tank that unites technology and policy leaders to create solutions to emerging security challenges. IST stands at the forefront of convening policymakers, technology experts, and industry leaders to identify and translate discourse into impact. We take collaborative action to advance national security and global stability through technology built on trust, guiding businesses and governments with hands-on expertise, in-depth analysis, and a global network. Since its foundation in 2020, IST has launched a vast array of impactful initiatives addressing challenges such as ransomware, the resilience of lifeline critical infrastructure, trust and safety, nuclear risk reduction, the role of artificial intelligence, and more.",
+    "industry": "Think Tanks",
+    "website": "https://securityandtechnology.org/",
+    "linkedInUrl": "https://www.linkedin.com/company/institute-security-technology",
+    "employeeCount": 71,
+    "foundedYear": 2015,
+    "location": "San Francisco Bay Area, United States",
+    "specialities": [
+      "Technology",
+      "National Security",
+      "Artificial Intelligence",
+      "Nuclear Policy",
+      "Cybersecurity",
+      "Distributed Denial of Service",
+      "Foreign Policy",
+      "Networking",
+      "Ransomware",
+      "Machine Learning",
+      "Disinformation and Democracy"
+    ]
+  }
+}

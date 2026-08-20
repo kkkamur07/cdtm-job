@@ -1,0 +1,184 @@
+{
+  "id": "gana-moharram",
+  "name": "Gana Moharram",
+  "headline": "TUM | CDTM",
+  "avatar": {
+    "sm": "/avatars/gana-moharram-sm.webp",
+    "lg": "/avatars/gana-moharram.webp",
+    "blur": "data:image/webp;base64,UklGRhABAABXRUJQVlA4IAQBAAAwBgCdASogACAAPtFgqE+oJSOiKAgBABoJZQDI1ywfgE9vuq0dKKOJWfDlA0D3z81oWCm8yNB7bqSwAP75cB6G2VvMJGKXbgBBf/Rf9qP5W4Htz5fhpnATo9oLIEEbFxiP62RUKtxtCvIv1o7lYT+4SMq88pRlY4pw3gCa+LC4+fvKCY7Hz+xqcqcj3V3VB8W9V1ObJj6n2ipD6i2ARqn/eZR2njOi5MN+agMgLerzw3cREdBMInv1766DJgosqjr0l9RXOEGoFA/hz8rpiQzrk+LimtvRyD/rtBB3nnoJc0mIMuht4acuiSO/y0CBSolkn3xyF+BIiyNaNVSlc7/KDO1AAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/gana-moharram",
+  "personId": 920,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Gana Moharram",
+  "ca": null,
+  "summary": "Enjoy ChatGPT's Assessment :)\n\nHighly analytical and fast-learning builder with strong research depth and product intuition. Comfortable switching between engineering, product strategy, and complex problem-solving. Works best in environments with intellectual challenge, autonomy, and high ownership. Skilled at turning ambiguity into structured plans, synthesizing technical and business contexts, and driving early-stage concepts into clear roadmaps. Thrives in fast-moving teams, prefers clear impact paths, and contributes most in roles involving innovation, technical exploration, and cross-functional collaboration.",
+  "positions": [
+    {
+      "title": "Junior R&D Engineer",
+      "company": "ecoplanet",
+      "companyUrl": "https://www.linkedin.com/company/ecoplanet-green-operations",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Highschool Research Assistant",
+      "company": "Northwestern University - The Feinberg School of Medicine",
+      "companyUrl": "https://www.linkedin.com/company/northwestern-university-feinberg-school-of-medicine",
+      "description": null,
+      "location": "Chicago, Illinois, United States",
+      "start": "2016-08",
+      "end": null,
+      "dateRange": "Aug 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Summer Intern",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": null,
+      "location": "Cairo, Egypt",
+      "start": "2016-06",
+      "end": null,
+      "dateRange": "Jun 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Machine Learning & Signal Processing for Radio Frequency Sensors",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-11",
+      "end": "2025-01",
+      "dateRange": "Nov 2023 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Machine Learning & AI Engineer",
+      "company": "Sizekick",
+      "companyUrl": "https://www.linkedin.com/company/sizekick",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-03",
+      "end": "2023-11",
+      "dateRange": "Mar 2023 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Data Scientist & Python Backend Engineer",
+      "company": "BANKSapi",
+      "companyUrl": "https://www.linkedin.com/company/banksapi",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-02",
+      "end": "2023-01",
+      "dateRange": "Feb 2022 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Analytics & Operations",
+      "company": "Workpath",
+      "companyUrl": "https://www.linkedin.com/company/workpathhq",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-05",
+      "end": "2022-03",
+      "dateRange": "May 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Undergraduate Student",
+      "company": "Max Planck Institute for Physics",
+      "companyUrl": "https://www.linkedin.com/company/max-planck-institute-for-physics",
+      "description": "Bachelor Thesis — \"Systematic Comparison of Monte Carlo Sampling Algorithms and Application on IceCube Neutrino Observatory Measurements\"",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2021-08",
+      "dateRange": "Apr 2021 – Aug 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science, Robotics, Cognition, Intelligence",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science, Physics",
+      "dateRange": "2018 – 2021"
+    }
+  ],
+  "skills": [
+    "Python (Programming Language)",
+    "Deep Learning",
+    "Machine Learning",
+    "Python",
+    "Physics",
+    "Monte Carlo Simulation",
+    "Mathematics",
+    "Statistics",
+    "Research",
+    "Analytical Skills",
+    "Writing",
+    "LaTeX",
+    "Microsoft Office",
+    "Pandas",
+    "MATLAB",
+    "Problem Solving",
+    "Teamwork",
+    "Critical Thinking",
+    "English",
+    "German",
+    "Arabic",
+    "Bayesian statistics",
+    "NumPy"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "ecoplanet",
+    "tagline": "Günstigste Energiepreise & innovatives Energiemanagement für den deutschen Mittelstand",
+    "description": "ecoplanet ist die weltweite erste Software für integriertes Energiemanagement: Verbrauchssteuerung, intelligente Beschaffung und Regulatorik an einem Ort & KI-basiert optimiert.\n\nMit einem großen Team aus Energieexpert:innen, Produkttalenten und Branchenprofis treiben wir die Energiewende im Mittelstand voran.\n\n📍 Offices in Berlin & München | ✉️ info@ecoplanet.tech",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.ecoplanet.tech",
+    "linkedInUrl": "https://www.linkedin.com/company/ecoplanet-green-operations",
+    "employeeCount": 109,
+    "foundedYear": 2022,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

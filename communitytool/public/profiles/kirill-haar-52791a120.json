@@ -1,0 +1,139 @@
+{
+  "id": "kirill-haar-52791a120",
+  "name": "Kirill Haar",
+  "headline": "Software Engineer & Online Entrepreneur",
+  "avatar": {
+    "sm": "/avatars/kirill-haar-52791a120-sm.webp",
+    "lg": "/avatars/kirill-haar-52791a120.webp",
+    "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAAAwBgCdASogACAAPtFYpEyoJSOiKA1RABoJaADHDaAIYEIjrKO/f4OBGXwWha1iuM0EDaSXXiOinNoAAP7+em27ytzPQU+JBPaH07AHZbk8qRxD/RBq9PGpZ+HHtDCwrQvRIaM10dtWwJEkcB80O8tsU/sEJtuFTEOXx5B0edX6fdKsS5b0xsZW4FscXwa5yfURsPAMuvGIACGhRAOTqsMTW8X6cUw+XfmSUrbhgMmnnE4JPuUcaCflm+GpzVCZY7XsPjWwuu/CBhNd0Re1yEG1fOHahY0gAAA="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/kirill-haar-52791a120",
+  "personId": 796,
+  "classes": [
+    {
+      "id": 80,
+      "label": "Fall 2016",
+      "season": "Fall",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2016",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Kirill Haar",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Software Developer",
+      "company": "Kaia Health",
+      "companyUrl": "https://www.linkedin.com/company/kaiahealth",
+      "description": null,
+      "location": null,
+      "start": "2017-10",
+      "end": "2018-06",
+      "dateRange": "Oct 2017 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Mobile Software Developer",
+      "company": "Mobile Peak",
+      "companyUrl": "https://www.linkedin.com/company/mobile-peak",
+      "description": null,
+      "location": "Munich",
+      "start": "2016-06",
+      "end": "2017-07",
+      "dateRange": "Jun 2016 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Internship Group CIO Office",
+      "company": "Allianz Group",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": null,
+      "location": "Munich",
+      "start": "2016-02",
+      "end": "2016-07",
+      "dateRange": "Feb 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Student Software Developer",
+      "company": "crossvertise GmbH",
+      "companyUrl": "https://www.linkedin.com/company/crossvertise-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2013-11",
+      "end": "2016-02",
+      "dateRange": "Nov 2013 – Feb 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.S.), Information Systems",
+      "dateRange": "2013 – 2017"
+    },
+    {
+      "school": "Lomonosov Moscow State University (MSU)",
+      "degree": "Semester abroad, Economics and Computer Science",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2016"
+    }
+  ],
+  "skills": [
+    "Software Development",
+    "Mobile Applications",
+    "Entrepreneurship",
+    "Product Development",
+    "Deep Learning",
+    "Tensorflow",
+    "Python",
+    "Agile Project Management",
+    "React Native",
+    "JavaScript",
+    "Scrum",
+    "Java",
+    "Node.js",
+    "Git",
+    "JIRA",
+    "MongoDB"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Kaia Health",
+    "tagline": "Delivering evidence-based digital MSK care in the US and Germany, now part of Sword Health.",
+    "description": "Kaia is a leading digital MSK company and was acquired by Sword Health in January 2026. Through this acquisition, Kaia joins the leading AI Care company, expanding its reach to millions more members worldwide. Together with Sword, Kaia is committed to advancing high-quality, accessible care at scale.\n\nKaia continues to partner with employers and health plans to deliver digital-first pulmonary rehabilitation through its Kaia Breathe offering. Founded in 2016, Kaia is a digital therapeutics company dedicated to developing evidence-based treatments for musculoskeletal (MSK) conditions and COPD. By combining artificial intelligence, computer vision, and clinical expertise, Kaia enables patients to manage their conditions through accessible, non-pharmacological digital care solutions.",
+    "industry": "Software Development",
+    "website": "http://www.kaiahealth.com",
+    "linkedInUrl": "https://www.linkedin.com/company/kaiahealth",
+    "employeeCount": 79,
+    "foundedYear": 2016,
+    "location": "New York, United States",
+    "specialities": [
+      "Digital therapy",
+      "Pain treatment",
+      "Digital therapy interface",
+      "Insurance",
+      "Back Pain Treatment",
+      "Artificial intelligence"
+    ]
+  }
+}

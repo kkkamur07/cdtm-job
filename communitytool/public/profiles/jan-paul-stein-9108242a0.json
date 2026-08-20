@@ -1,0 +1,101 @@
+{
+  "id": "jan-paul-stein-9108242a0",
+  "name": "JP Stein",
+  "headline": "Head of Commercial at TYTAN Technologies",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jan-paul-stein-9108242a0",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "As the head of commercial at TYTAN Technologies, it is my mission to set the new standard for Air Defence keeping the skies across Europe safe and re-writing defence economics. \nValues that drive me and my work at TYTAN are impact, trust, and the combination of people, culture\nIf you are interested in building and growing a world class commercial team with me, please reach out.",
+  "positions": [
+    {
+      "title": "Head of Commercial",
+      "company": "TYTAN Technologies",
+      "companyUrl": "https://www.linkedin.com/company/tytan-technologies",
+      "description": null,
+      "location": null,
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Partner",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2012-10",
+      "end": "2026-02",
+      "dateRange": "Oct 2012 – Feb 2026",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doktor, Wirtschaftswissenschaften",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom, Physik",
+      "dateRange": "2005 – 2011"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor's degree in technology management, Computer/Information Technology Administration and Management",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "The University of Osaka",
+      "degree": "Physik",
+      "dateRange": "2007 – 2008"
+    }
+  ],
+  "skills": [
+    "Sales",
+    "Marketing",
+    "Generative AI",
+    "Communication",
+    "Strategy",
+    "English",
+    "Entrepreneurship",
+    "Business Process Improvement",
+    "Product Development",
+    "Program Management",
+    "Performance Improvement",
+    "Restructuring",
+    "Computer Hardware",
+    "Business",
+    "Research Skills",
+    "Modeling and Simulation",
+    "Digital Transformation",
+    "Digitale Transformation",
+    "Strategy Consulting"
+  ],
+  "languages": [],
+  "company": {
+    "name": "TYTAN Technologies",
+    "tagline": "Resilience Restored.",
+    "description": "We build AI-powered air defence systems to protect people and critical infrastructure. Our flagship autonomous interceptor detects, tracks, and neutralizes enemy UAVs at high speed with minimal human intervention. Battlefield-tested and developed according to the needs of armed forces, TYTAN delivers cost-efficient, scalable, and interoperable defence solutions. Our mission is to close critical gaps in Europe’s air defence and strengthen democratic resilience through advanced, combat-ready technology.",
+    "industry": "Aviation and Aerospace Component Manufacturing",
+    "website": "https://www.tytan-technologies.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/tytan-technologies",
+    "employeeCount": 27,
+    "foundedYear": 2023,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

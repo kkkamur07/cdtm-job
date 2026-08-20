@@ -1,0 +1,180 @@
+{
+  "id": "fldoe",
+  "name": "Florian Doetzer",
+  "headline": "Entrepreneur, Innovator and Independent Advisor",
+  "avatar": null,
+  "location": "Garching, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/fldoe",
+  "personId": 1730,
+  "classes": [
+    {
+      "id": 99,
+      "label": "Spring 2000",
+      "season": "Spring",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2000",
+  "major": "Electrical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Florian Dötzer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Mentor",
+      "company": "Sustainable Aero Lab",
+      "companyUrl": "https://www.linkedin.com/company/future-aero-lab",
+      "description": null,
+      "location": null,
+      "start": "2023-02",
+      "end": null,
+      "dateRange": "Feb 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Managing Director",
+      "company": "TUM Venture Labs",
+      "companyUrl": "https://www.linkedin.com/company/tum-venture-labs",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2022-02",
+      "end": null,
+      "dateRange": "Feb 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Mentor",
+      "company": "German Accelerator Southeast Asia",
+      "companyUrl": "https://www.linkedin.com/company/german-accelerator",
+      "description": "Facilitating German startup companies in their expansion into the Southeast Asian markets.",
+      "location": "Singapore",
+      "start": "2018-02",
+      "end": null,
+      "dateRange": "Feb 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & Partner",
+      "company": "AM2",
+      "companyUrl": "https://www.linkedin.com/company/am2studio",
+      "description": "The Advanced (Materials + Manufacturing) studio.\nThe future of materials is now 🔥",
+      "location": "Singapore",
+      "start": "2021-09",
+      "end": "2023-12",
+      "dateRange": "Sep 2021 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Chief Executive Officer",
+      "company": "MADE Advanced Materials",
+      "companyUrl": null,
+      "description": null,
+      "location": "Singapore",
+      "start": "2020-02",
+      "end": "2022-06",
+      "dateRange": "Feb 2020 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "M42 Advisory",
+      "companyUrl": null,
+      "description": null,
+      "location": "Singapore",
+      "start": "2019-10",
+      "end": "2022-08",
+      "dateRange": "Oct 2019 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "CEO / Founder",
+      "company": "Composite Cluster Singapore Pte. Ltd.",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2014-02",
+      "end": "2019-10",
+      "dateRange": "Feb 2014 – Oct 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr. rer. nat.",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honour's Degree, Technology Management",
+      "dateRange": "2000 – 2001"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplomingenieur, Electrical Engineering and Information Technology",
+      "dateRange": null
+    },
+    {
+      "school": "The Graduate Center, City University of New York",
+      "degree": null,
+      "dateRange": "2000 – 2001"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Strategy",
+    "Business Analysis",
+    "Business Development",
+    "Change Management",
+    "Project Management",
+    "Innovation Management",
+    "Management Consulting",
+    "Business Strategy",
+    "Program Management",
+    "Electronics",
+    "Management",
+    "Private Equity",
+    "Leadership",
+    "Project Planning",
+    "Project Portfolio Management",
+    "C++",
+    "Research",
+    "Linux",
+    "Java",
+    "Embedded Systems",
+    "Product Management",
+    "New Business Development",
+    "Product Development"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Future Aero Lab",
+    "tagline": "Accelerating the transition to innovation in aviation.",
+    "description": "A fast track program for ideas that aim to transition the aviation industry towards innovation.\nBuilding the future of aviation by bringing together the best startups and mentors.\n\nWe want to inspire and educate by offering top-of-the-class mentoring from leading personalities, from industry, universities, and beyond.\n\nOpen Innovation: We welcome anyone who can add value towards reducing the climate footprint of aviation and accelerating innovation.",
+    "industry": "Airlines and Aviation",
+    "website": "https://www.futureaerolab.com",
+    "linkedInUrl": "https://www.linkedin.com/company/future-aero-lab",
+    "employeeCount": 18,
+    "foundedYear": 2020,
+    "location": "Hamburg, Germany",
+    "specialities": [
+      "Aviation",
+      "Startups",
+      "Entrepreneurship",
+      "Engineering",
+      "Hydrogen",
+      "Public Affairs",
+      "Aerospace",
+      "Venture Capital"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "konstantinmehl",
+  "name": "Konstantin Mehl",
+  "headline": "Founder & CEO I Daneel",
+  "avatar": null,
+  "location": "New York, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/konstantinmehl",
+  "personId": 1318,
+  "classes": [
+    {
+      "id": 69,
+      "label": "Spring 2011",
+      "season": "Spring",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2011",
+  "major": "Technology and Management oriented Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Konstantin Mehl",
+  "ca": null,
+  "summary": "Daneel is the QoE firm built for roll-ups. We combine in-house CPAs with a software platform that ingests directly from common accounting systems, verifies 100% of the general ledger (not the 5% sample legacy firms rely on), and produces buyer-ready outputs where the analysis, the Excel and the slides all reconcile.\n\nWe work with VC and PE-backed roll-up operators across the full deal lifecycle: from LOI to QoE through SPA/EPA negotiation support, post-close true-ups and earn-out management. Every engagement includes advanced data cuts like WIP aging and deferred revenue analysis, COA remapping so every add-on reports the same way post-close, and a deal-specific AI that can search across all source data in minutes. \n\nI previously co-founded Kaia Health (sold to Sword Health for $285m) and Foodora (scaled to 5,000 employees, sold to Delivery Hero). I built Daneel to solve the financial diligence problems I experienced firsthand across both sides of the table.",
+  "positions": [
+    {
+      "title": "Founder & CEO",
+      "company": "Daneel",
+      "companyUrl": "https://www.linkedin.com/company/daneel-assurance",
+      "description": "Daneel modernizes Quality of Earnings for roll-ups by combining CPA rigor with software speed, ingesting data directly from common accounting systems, delivering 100% GL verification across 110+ adjustment categories, and producing buyer-ready outputs with built-in SPA/EPA positions where the Excel ties to the slides. Every engagement includes advanced data cuts like WIP aging and deferred revenue analysis that most operators lack today, plus COA remapping so every add-on reports the same way post-close.\n\nWe support the full deal lifecycle, from LOI to QoE through SPA/EPA negotiation support, post-close true-ups, earn-out management, and continuous QoE monitoring. For operators doing volume, our Roll-up Brain lets you compare deal terms and performance metrics across all targets in real time, turning acquisitions from bespoke projects into a repeatable pipeline.",
+      "location": null,
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder and Chairman of the Board",
+      "company": "Kaia Health",
+      "companyUrl": "https://www.linkedin.com/company/kaiahealth",
+      "description": null,
+      "location": null,
+      "start": "2025-02",
+      "end": "2026-01",
+      "dateRange": "Feb 2025 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Founder and CEO",
+      "company": "Kaia Health",
+      "companyUrl": "https://www.linkedin.com/company/kaiahealth",
+      "description": "Kaia’s mission is to make effective digital care accessible worldwide. By pairing computer-vision coaching with engaging programs, we enable real-time feedback for physical-therapy exercises. To date, Kaia has supported 700,000+ people with pain & lung conditions and raised $125M from leading VCs. Sword Health acquired Kaia in 2026 for $285m.",
+      "location": null,
+      "start": "2015-10",
+      "end": "2025-02",
+      "dateRange": "Oct 2015 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Founder and CEO",
+      "company": "foodora",
+      "companyUrl": "https://www.linkedin.com/company/foodora",
+      "description": "Foodora is a leading on-demand food delivery platform powered by machine learning for dispatch, routing, and demand forecasting. In just two years we scaled to 5,000 employees, leading to our acquisition by Delivery Hero (DHER) in 2015. Since then, the business has tripled in size.",
+      "location": null,
+      "start": "2013-11",
+      "end": "2015-10",
+      "dateRange": "Nov 2013 – Oct 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Columbia University",
+      "degree": "Dual Masters",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors degree",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science, Chemistry and Finance",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Start-ups",
+    "Entrepreneurship",
+    "Business Strategy",
+    "Venture Capital",
+    "Stratégie",
+    "Mezcal"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Daneel",
+    "tagline": "The financial layer of trust for private companies",
+    "description": "Daneel modernizes Quality of Earnings for roll-ups by combining CPA rigor with software speed, ingesting data directly from common accounting systems, delivering 100% GL verification across 110+ adjustment categories, and producing buyer-ready outputs where the Excel ties to the slides.\n\nWe support the full deal lifecycle, from LOI to QoE through SPA/EPA negotiation support, post-close true-ups, earn-out management, and continuous QoE monitoring. Every engagement includes advanced data cuts like WIP aging and deferred revenue analysis, COA remapping so every add-on reports the same way post-close, and a deal-specific AI that can answer questions across all source data in minutes.",
+    "industry": "Financial Services",
+    "website": "https://daneel-dynamics.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/daneel-assurance",
+    "employeeCount": 4,
+    "foundedYear": 2024,
+    "location": "New York, United States",
+    "specialities": [
+      "Quality of Earnings",
+      "Financial Due Diligence"
+    ]
+  }
+}

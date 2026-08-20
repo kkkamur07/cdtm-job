@@ -1,0 +1,218 @@
+{
+  "id": "dr-florian-fuchs",
+  "name": "Florian Fuchs",
+  "headline": "CTO doo.net - Smart Event Automation",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-florian-fuchs",
+  "personId": 1652,
+  "classes": [
+    {
+      "id": 97,
+      "label": "Fall 2001",
+      "season": "Fall",
+      "year": 2001,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2001",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Florian Fuchs",
+  "ca": null,
+  "summary": "\"Planning events without data is planning parties\" – Julius Solaris",
+  "positions": [
+    {
+      "title": "Founding CTO",
+      "company": "doo GmbH",
+      "companyUrl": "https://www.linkedin.com/company/doo",
+      "description": "Event technology platform to capture and integrate attendee data with MarTech and CRM at scale for driving growth and revenue.\n\nJoin one of our regular webinars to learn more: https://doo.net",
+      "location": null,
+      "start": "2014-10",
+      "end": null,
+      "dateRange": "Oct 2014 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "SPOTS - Your Local Sports Community.",
+      "companyUrl": "https://www.linkedin.com/company/spots",
+      "description": "Remember when playing was easy? You could play wherever you were with pretty much anyone, it came naturally. But as you got busier, finding time and people to play with got more complicated. Play became less like play and more like work.\n\nWe designed SPOTS to help you easily connect with people in a natural and friendly way to play the sports you love.",
+      "location": null,
+      "start": "2013-01",
+      "end": "2014-09",
+      "dateRange": "Jan 2013 – Sep 2014",
+      "current": false
+    },
+    {
+      "title": "Head of Engineering",
+      "company": "Motorola Mobility (a Lenovo Company)",
+      "companyUrl": "https://www.linkedin.com/company/motorola-mobility",
+      "description": "Motorola Mobility (acquired by Google) has integrated the Aloqa open, location-triggered mobile push platform into the MOTOBLUR experience. Aloqa’s technologies and services utilize a user’s context, including location, identity and social relationships, to proactively inform them of places, events, bargains and other opportunities that may be of interest to them.",
+      "location": null,
+      "start": "2010-09",
+      "end": "2012-12",
+      "dateRange": "Sep 2010 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Founding VP Engineering",
+      "company": "Aloqa",
+      "companyUrl": "https://www.linkedin.com/company/aloqa",
+      "description": "Aloqa (acquired by Motorola Mobility) is a mobile service that proactively notifies you about interesting places, services, events, and people around you. Instead of searching, you can just look at your phone and see which of your favorite hotspots, services, and friends are nearby. Whenever You Want. Wherever You Are.",
+      "location": null,
+      "start": "2008-11",
+      "end": "2010-09",
+      "dateRange": "Nov 2008 – Sep 2010",
+      "current": false
+    },
+    {
+      "title": "PhD Researcher",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "PhD (Dr. rer. nat) in Computer Science, Mobile and Distributed Systems Group, focusing on Ambient Intelligence and Context Reasoning based on Semantic Web Technologies\n- Published more than 25 scientific papers.\n- PhD thesis: Semantic modelling and reasoning for context information in infrastructure networks, https://edoc.ub.uni-muenchen.de/9348/\n- Book: https://cuvillier.de/de/shop/publications/1277-semantische-modellierung-und-reasoning-fur-kontextinformationen-in-infrastrukturnetzen",
+      "location": null,
+      "start": "2005-01",
+      "end": "2008-12",
+      "dateRange": "Jan 2005 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "PhD Fellow",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "PhD research in Computer Science, focusing on Ambient Intelligence and Context Reasoning based on Semantic Web Technologies\n- Designed and implemented system for automated ontological reasoning on distributed context information\n- Filed 8 patents\n- Represented Siemens in EU-funded research project",
+      "location": null,
+      "start": "2005-01",
+      "end": "2008-12",
+      "dateRange": "Jan 2005 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "Project Intern at CIO Asia/Australia",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": null,
+      "start": "2002-08",
+      "end": "2002-11",
+      "dateRange": "Aug 2002 – Nov 2002",
+      "current": false
+    },
+    {
+      "title": "Software architect and freelancer",
+      "company": "DocuWare",
+      "companyUrl": "https://www.linkedin.com/company/docuware-corporation",
+      "description": null,
+      "location": null,
+      "start": "1996-10",
+      "end": "2002-07",
+      "dateRange": "Oct 1996 – Jul 2002",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management, Entrepreneurship, Product Development and Technology Management",
+      "dateRange": "2001 – 2003"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (Diplom), Computer Science",
+      "dateRange": "1999 – 2005"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Ph.D. (Dr. rer. nat), Semantic Reasoning and AI (Computer Science, Mobile and Distributed Systems Group)",
+      "dateRange": "2005 – 2008"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher, Management and Technology",
+      "dateRange": "2003"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Laotse Exchange Scholar, Management and Technology",
+      "dateRange": "2002"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Linux",
+    "Enterprise Software",
+    "Artificial Intelligence (AI)",
+    "Software Design",
+    "Strategy",
+    "Team Leadership",
+    "Start-ups",
+    "Software Development",
+    "Entrepreneurship",
+    "Product Management",
+    "Social Entrepreneurship",
+    "Mobile Devices",
+    "Mobile Applications",
+    "Objective-C",
+    "Android",
+    "Git",
+    "Distributed Systems",
+    "REST",
+    "Web Development",
+    "Software as a Service (SaaS)",
+    "Process Automation",
+    "Embedded Systems",
+    "Publications",
+    "Subversion",
+    "Software Engineering",
+    "Technology Leadership",
+    "Distributed Team Management",
+    "Technical Leadership",
+    "Scientific Research",
+    "Technology Management",
+    "Research Projects",
+    "Social Networking Apps",
+    "Global Operations",
+    "Industrial Research",
+    "Location Based Services",
+    "Semantic Technologies"
+  ],
+  "languages": [],
+  "company": {
+    "name": "doo GmbH",
+    "tagline": "Digitale Lösungen für professionelles Teilnehmermanagement",
+    "description": "doo is a Smart Event Automation Platform for digitizing corporate events, trade fairs and conferences. doo automates and personalizes the entire attendee journey - from invitation management and event marketing through registration and live tracking at the event. The intelligent event CRM learns the interests and typical behavior of attendees to increase the event ROI.\n\nWe offer a flexible white label solution for online registrations in order to automate management of event attendees. Moreover, our software supports your event marketing efforts by means of a free integrated newsletter and campaign tool.\n\nWith doo’s event analytics you and your events will be more successful than ever before. You can measure your marketing channels’ performance and leverage the number of participants through continuous improvements to your campaigns. We offer help with automated big data analyses and recommendations derived from them.\n\nAs the only provider offering analysis of drop-outs in the purchasing process, you have the possibility to win them back to attend your event. See for yourself and take a glance at doo - Smart Event Automation Platform!\n\nhttps://doo.net/en",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://doo.net",
+    "linkedInUrl": "https://www.linkedin.com/company/doo",
+    "employeeCount": 31,
+    "foundedYear": 2013,
+    "location": "München, Germany",
+    "specialities": [
+      "Event Ticketing",
+      "Corporate Events",
+      "Event Management",
+      "Event Marketing",
+      "Event Analytics",
+      "Conferences",
+      "Seminars",
+      "Attendee Management",
+      "Online Registration",
+      "Trade Fairs",
+      "Incentive Events",
+      "Road Shows",
+      "Guest Management",
+      "Event Reporting",
+      "On-site Management",
+      "Event Automation",
+      "Event ROI"
+    ]
+  }
+}

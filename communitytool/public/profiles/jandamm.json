@@ -1,0 +1,301 @@
+{
+  "id": "jandamm",
+  "name": "Jan Damm",
+  "headline": "CEO at Dataleap - The world’s first vibe working platform | YC, CDTM, Finc, ex-Google, ex-McKinsey",
+  "avatar": {
+    "sm": "/avatars/jandamm-sm.webp",
+    "lg": "/avatars/jandamm.webp",
+    "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAACQBQCdASogACAAPtFYpU0oJSOiMBgIAQAaCUAZQDGRlrV5m6wmJYtkaPgkzRj72uUDOhOAAAD++hdPrj0rhuqx8vBWva39Tm+NtWukElYkmUal515cAjk8m099K9sx7qzge20u/cvUnazUU4n9Ye5SobnPe7x5PJ0RocymicA7pe6oeiclJyIePZgAo1UWSmj+p0jtUxigCGYafr4kmOCcB9GEl+ofZW4Sxg7iGVO8rVdvvrXjUQ9skZCJBP3A7WTwA0fOKIVSJJ78Ep+/cmv//npNNmhIAAA="
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/jandamm",
+  "personId": 1247,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Jan-Hendrik Damm",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Dataleap (YC S24)",
+      "companyUrl": "https://www.linkedin.com/company/dataleap-inc",
+      "description": "Building AI agents with a radically new paradigm so that no human needs to do mundane, repetitive desk work anymore.",
+      "location": null,
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder at All9 Batch",
+      "company": "Alliance",
+      "companyUrl": "https://www.linkedin.com/company/alliancedao",
+      "description": null,
+      "location": null,
+      "start": "2022-09",
+      "end": "2023-05",
+      "dateRange": "Sep 2022 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Outlier Fellow",
+      "company": "Floodgate",
+      "companyUrl": "https://www.linkedin.com/company/floodgate",
+      "description": null,
+      "location": null,
+      "start": "2022-06",
+      "end": "2022-08",
+      "dateRange": "Jun 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Associate Product Manager (APM)",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "I was part of the Google Search team focused on empowering new internet users in (rural) India with a new, tailored search experience. Vision: Make new internet users’ lives better by offering them a visual, immersive, and helpful way to find and engage with information\n\n- Created the onboarding journey for a not yet launched visual search app focused on new internet users\n- Conducted multiple remote user studies with users in India and developed multiple prototype iterations\n- Pushed one prototype into an A/B live experiment to quantitatively validate the designs\n- Developed guidelines on how the new user onboarding experience should be addressed in emerging markets\n\nReceived a full-time offer for the APM program but decided to start my own company instead.",
+      "location": null,
+      "start": "2021-06",
+      "end": "2021-10",
+      "dateRange": "Jun 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Luminovo",
+      "companyUrl": "https://www.linkedin.com/company/luminovo",
+      "description": "I returned to Luminovo after they executed the pivot to a product-focused company building a vertically integrated procurement platform for the electronics industry.\n\n - Lead the product development for a new product module focusing on automating the manufacturing calculation for electronic manufacturing services from zero to a validated prototype.\n- Built strong relationships with 3 co-development companies and supported the sales team in acquiring 2 additional early adopter customers.",
+      "location": null,
+      "start": "2020-11",
+      "end": "2021-04",
+      "dateRange": "Nov 2020 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "StashAway",
+      "companyUrl": "https://www.linkedin.com/company/stashaway",
+      "description": "StashAway is a wealth management platform that delivers personalized portfolio management to both retail and accredited investors.\n- Lead a team of 1 designer & 3 engineers to develop new product category “financial planning” to \n  strategically reposition StashAway beyond roboadvisory as the holistic hub for your finances \n- Conducted 40+ user interviews and 30+ user testing sessions to finalize scope and app design \n- Pioneered silent meetings with structured briefs, which dramatically improved meeting productivity \n  and has now become the gold standard at StashAway",
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-07",
+      "dateRange": "Jan 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Product Architect",
+      "company": "Luminovo",
+      "companyUrl": "https://www.linkedin.com/company/luminovo",
+      "description": "We support you along the entire journey from understanding AI and pioneering new use-cases, to building and deploying reliable deep learning systems.\n- Lead a team of 2 software engineers to develop a proof of concept for an AI-based patent drafting software for a leading patent law firm resulting in a spin-off venture\n- Developed a product strategy together with the founders leading to a pivot from AI consulting to building a vertically integrated procurement platform for the electronics industry",
+      "location": null,
+      "start": "2019-09",
+      "end": "2019-12",
+      "dateRange": "Sep 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Limehome",
+      "companyUrl": "https://www.linkedin.com/company/limehome",
+      "description": "As part of a four-person student consulting team, I was working on a product development project that focuses on digital hotel solutions. The project covers all product development stages from identifying a customer need to building a working prototype and is part of the CDTM Managing Product Development Seminar.\n• Identified the best entry point for a digital platform concept\n• Developed a flexible booking platform for Limehome travelers based on a progressive web app with React and Material-UI\n• Developed corresponding business model, go-to-market strategy and financial model",
+      "location": null,
+      "start": "2019-04",
+      "end": "2019-08",
+      "dateRange": "Apr 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "AI Strategist @ Siemens AI Lab",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "The Siemens AI Lab is a room for exploration projects & community events. We want to try out new ways to innovate and explore the vast field of industrial AI use cases.\n- Developed an AI orientation workshop concept to identify and evaluate AI use case with Siemens business units resulting in 3 POC developments and a new partnership with a leading marine technology company\n- Restructured the project pipeline processes to reduce the time spent in preparation meetings by over 50% and significantly increase the quality of project leads",
+      "location": null,
+      "start": "2018-11",
+      "end": "2019-08",
+      "dateRange": "Nov 2018 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Academy Consult München",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": "Academy Consult is a student-run consultancy which pursues over 40 consulting projects per year in diverse sectors with high-profile customers as Siemens, Microsoft, Bilfinger, etc",
+      "location": null,
+      "start": "2018-10",
+      "end": "2020-05",
+      "dateRange": "Oct 2018 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis - The Impact of Blockchain technology on mobility ecosystems",
+      "company": "RWTH Institute for Technology and Innovation Management (TIM)",
+      "companyUrl": "https://www.linkedin.com/company/rwth-tim",
+      "description": "Bachelor Thesis Title: The Impact of Blockchain technology on the emergence of data driven mobility ecosystems - An investigation into drivers and barriers and how Blockchain technology enables new forms of mobility ecosystems\n(Prof. Dr. Frank T. Piller)\n\n(In cooperation with the Ford Research Center in Aachen)",
+      "location": null,
+      "start": "2018-06",
+      "end": "2018-10",
+      "dateRange": "Jun 2018 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "- Consulted a German OEM on its transformation towards a software-driven future of mobility\n- Developed a quantitative, integrated perspective on how the R&D organization’s human capital base needs to change to realize its future technology development program",
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-04",
+      "dateRange": "Jan 2018 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Project Management",
+      "company": "Drees & Sommer",
+      "companyUrl": "https://www.linkedin.com/company/drees-&-sommer",
+      "description": "▪ Creation of technical due diligence reports and cost predictions\n▪ Time, cost and quality management for building construction projects",
+      "location": null,
+      "start": "2017-04",
+      "end": "2017-07",
+      "dateRange": "Apr 2017 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Chairman of the Board",
+      "company": "aixsolution e.V.",
+      "companyUrl": "https://www.linkedin.com/company/aixsolution",
+      "description": "aixsolution e.V. | Junior Business Consulting\n\n• Strategic development and management of the departments Quality Management and  IT\n• Network representative of aixsolution within the BDSU network\n• Organisation of internal trainings and workshops\n\n||| http://www.aixsolution.com",
+      "location": null,
+      "start": "2016-07",
+      "end": "2017-07",
+      "dateRange": "Jul 2016 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Head of Quality Management",
+      "company": "aixsolution e.V.",
+      "companyUrl": "https://www.linkedin.com/company/aixsolution",
+      "description": "aixsolution e.V. | Junior Business Consulting\n\n• Leadership and Management of the Department\n• Responsibility for the student business consultancy within the extended executive board\n\n||| http://www.aixsolution.com",
+      "location": null,
+      "start": "2016-03",
+      "end": "2016-07",
+      "dateRange": "Mar 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "aixsolution e.V.",
+      "companyUrl": "https://www.linkedin.com/company/aixsolution",
+      "description": null,
+      "location": null,
+      "start": "2015-10",
+      "end": "2016-03",
+      "dateRange": "Oct 2015 – Mar 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management and Technology (Entrepreneurship and Computer Science)",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Entrepreunerial Exchange Program - Incoming NOC Program, Computer Science and Business",
+      "dateRange": "2020"
+    },
+    {
+      "school": "NUS Overseas Colleges",
+      "degree": "NOC Singapore [Incoming], Batch 2",
+      "dateRange": "2020"
+    },
+    {
+      "school": "The Wharton School",
+      "degree": "Business Strategy, Innovation and Entrepreneurship",
+      "dateRange": "2017"
+    },
+    {
+      "school": "RWTH Aachen University",
+      "degree": "Bachelor of Science - BS, Industrial engineering / civil engineering",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": "International Entrepreneurship",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Gymnasium Martino-Katharineum, Braunschweig",
+      "degree": "A-Level (German \"Abitur\"), Math, Physics, Chemistry, Politics and German",
+      "dateRange": "2006 – 2014"
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "Node.js",
+    "Microsoft Office",
+    "Public Speaking",
+    "Strategy",
+    "Design",
+    "Machine Learning",
+    "Presentations",
+    "User Experience (UX)",
+    "Project Management",
+    "Product Management",
+    "Teamwork",
+    "Consulting",
+    "Python",
+    "Business Networking",
+    "React",
+    "Projektmanagement",
+    "Quality Management",
+    "Artificial Intelligence",
+    "Unternehmensstrategie",
+    "Blockchain",
+    "Unternehmensberatung",
+    "Artificial Intelligence",
+    "Distributed Ledger Technologies"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "Dataleap (YC S24)",
+    "tagline": "The world's first vibe working platform",
+    "description": "Enabling business teams to build agents without the help of engineering",
+    "industry": "Software Development",
+    "website": "https://dataleap.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/dataleap-inc",
+    "employeeCount": 7,
+    "foundedYear": 2023,
+    "location": "San Francisco, United States",
+    "specialities": [
+      "Market Research",
+      "Market Sizing"
+    ]
+  }
+}

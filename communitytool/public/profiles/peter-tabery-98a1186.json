@@ -1,0 +1,103 @@
+{
+  "id": "peter-tabery-98a1186",
+  "name": "Peter Tabery",
+  "headline": "Technical Member of the Board of Appeal at European Patent Office",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/peter-tabery-98a1186",
+  "personId": 1821,
+  "classes": [
+    {
+      "id": 49,
+      "label": "1998",
+      "season": null,
+      "year": 1998,
+      "location": 1
+    }
+  ],
+  "classLabel": "1998",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Peter Tabery",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Technical Member of the Board of Appeal",
+      "company": "European Patent Office",
+      "companyUrl": "https://www.linkedin.com/company/european-patent-office",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-07",
+      "end": null,
+      "dateRange": "Jul 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Patent Examiner",
+      "company": "European Patent Office",
+      "companyUrl": "https://www.linkedin.com/company/european-patent-office",
+      "description": null,
+      "location": null,
+      "start": "2007-11",
+      "end": "2020-06",
+      "dateRange": "Nov 2007 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Research Engineer",
+      "company": "Alcatel-Lucent",
+      "companyUrl": "https://www.linkedin.com/company/nokia",
+      "description": null,
+      "location": null,
+      "start": "2006-02",
+      "end": "2007-10",
+      "dateRange": "Feb 2006 – Oct 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": null,
+      "dateRange": "1995 – 2000"
+    }
+  ],
+  "skills": [
+    "Patent Litigation",
+    "LaTeX",
+    "Intellectual Property",
+    "Patent Prosecution",
+    "German",
+    "Patents",
+    "IP",
+    "Telecommunications",
+    "French",
+    "Patentability",
+    "Research",
+    "Patent Searching"
+  ],
+  "languages": [],
+  "company": {
+    "name": "European Patent Office",
+    "tagline": "As the patent office for Europe, we support innovation, competitiveness and economic growth across Europe.",
+    "description": "The European Patent Organisation is an intergovernmental organisation that was set up on 7 October 1977 on the basis of the European Patent Convention (EPC) signed in Munich in 1973. It has two bodies, the European Patent Office and the Administrative Council, which supervises the Office's activities.\r\n\r\nWe offer inventors a uniform application procedure which enables them to seek patent protection in up to 40 European countries. Supervised by the Administrative Council, the Office is the executive arm of the European Patent Organisation. \r\n\r\nAs the Patent Office for Europe, we support innovation, competitiveness and economic growth across Europe through a commitment to high quality and efficient services delivered under the European Patent Convention.\r\n\r\nWith expert, well-supported staff, motivated to set worldwide standards in quality and efficiency, we will continue to contribute to innovation across Europe, and play a leading role in developing an effective global patent system. All our relationships - within our Office and with partners around the world - will prosper through trust, transparency, fairness and mutual respect. Our processes will empower our people to use their knowledge and skills to the full. \r\n\r\nThe EPO is an equal opportunity employer providing our staff with the chance to build long-term stable careers. We offer one of the most comprehensive and family-friendly benefits packages in Europe.",
+    "industry": "Government Administration",
+    "website": "http://www.epo.org",
+    "linkedInUrl": "https://www.linkedin.com/company/european-patent-office",
+    "employeeCount": 5001,
+    "foundedYear": 1977,
+    "location": "München, Germany",
+    "specialities": [
+      "Intellectual property",
+      "Patents"
+    ]
+  }
+}

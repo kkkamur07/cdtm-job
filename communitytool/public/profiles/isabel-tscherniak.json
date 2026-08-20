@@ -1,0 +1,169 @@
+{
+  "id": "isabel-tscherniak",
+  "name": "Isabel T.",
+  "headline": "CDTM | Cambridge | neuroTUM | Neuroengineering Masters @ TUM",
+  "avatar": {
+    "sm": "/avatars/isabel-tscherniak-sm.webp",
+    "lg": "/avatars/isabel-tscherniak.webp",
+    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAADwBQCdASogACAAPtFcp04oJSOiKAqpABoJZAAFEB7pcZO7NmX8syR5JmCOOQ/jWjPXZKOBQZYiAAD+8eDwJzhEK4v7GungF6BNy5k4Ghy1ZJ575ERMFJnAVZdNdPkn7ZPA5lhNuYd9FErA373SQ63BktWSPRn4r/nOfrBvmqaczV4yyL5emvyZ72nU0vcBONlusHttNf2r8yzoXK2IxVqTJPkJfJMgOtuhUAeUmEXl5tmD5dyFY/tEg5qLUBz9n9AuOlOiAoQ/uqUCYdip59YPes6GGpW2FJ9i8lMm2FeP4Npfj/MVIFy+ywA6SWARcmo+pYQAAAA="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/isabel-tscherniak",
+  "personId": 2007,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Isabel Tscherniak",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Students and PostDoc Committee Member",
+      "company": "BCI Society",
+      "companyUrl": "https://www.linkedin.com/company/bci-society",
+      "description": "Representing the trainees of the BCI Society and organizing events for Students, PhDs, PostDocs and the wider BCI community.",
+      "location": null,
+      "start": "2025-08",
+      "end": null,
+      "dateRange": "Aug 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Working on a project investigating how stress and fatigue impact BCIs under the supervision of Delfina Espinoza at the Chair of Engineering Resilient Cognitive Systems (Prof. Dr. Mario Trapp).",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-08",
+      "end": null,
+      "dateRange": "Aug 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Research Student",
+      "company": "University of Cambridge Department of Computer Science and Technology",
+      "companyUrl": "https://www.linkedin.com/company/cambridge-computer-science-and-technology",
+      "description": "Worked on a project to build a framework for analyzing the security vulnerabilities of non-invasive Brain-Computer Interfaces in the Lab of Professor Anil Madhavapeddy.",
+      "location": "Cambridge, England, United Kingdom",
+      "start": "2025-09",
+      "end": "2025-12",
+      "dateRange": "Sep 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Undergraduate Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Continuing my work in Prof. Dr. Julijana Gjorgjieva Computation in Neural Circuits Group, further developing and characterising a model of synaptic plasticity based on the calcium hypothesis.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2024-05",
+      "dateRange": "Jan 2023 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Founder, Team Lead and Board Member",
+      "company": "neuroTUM",
+      "companyUrl": "https://www.linkedin.com/company/neurotum",
+      "description": "Neurotum is a student club based at the Technical University Munich for students interested in the intersection of neuroscience and engineering. Agustin N. Coppari Hollmann, Leon Gebhard and I founded this club with the intention of sharing our passion for neuroengineering and increasing accessibility to the field. Our first project is building a brain-computer-interface (BCI) system to non-invasively decode electrical signals into precise control commands with the help of Deep Learning architectures. The aim is then to apply this system to the BCI-Race at the Cybathlon competition organised by the ETH in Zurich in 2024.\nCheck out our website for more information and regular updates on our progress!",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-10",
+      "end": "2025-11",
+      "dateRange": "Oct 2022 – Nov 2025",
+      "current": false
+    },
+    {
+      "title": "Undergraduate Research Assistant",
+      "company": "Max Planck Institute for Brain Research, Frankfurt am Main",
+      "companyUrl": "https://www.linkedin.com/company/max-planck-institute-for-brain-research-frankfurt-am-main",
+      "description": "Working in Prof. Dr. Julijana Gjorgjieva Computation in Neural Circuits Group. Developing a computational model of heterosynaptic plasticity based on the calcium hypothesis.",
+      "location": "Frankfurt am Main, Hesse, Germany",
+      "start": "2022-03",
+      "end": "2022-12",
+      "dateRange": "Mar 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Student Assistant",
+      "company": "adveisor",
+      "companyUrl": "https://www.linkedin.com/company/advisor-business",
+      "description": "Tutor for adveisor - the soft skills programme for electrical engineering students at the TUM",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-08",
+      "end": "2022-07",
+      "dateRange": "Aug 2021 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Participant of the High School Students Internship Programme",
+      "company": "CERN",
+      "companyUrl": "https://www.linkedin.com/company/cern",
+      "description": null,
+      "location": "Geneva, Switzerland",
+      "start": "2019-11",
+      "end": "2019-11",
+      "dateRange": "Nov 2019 – Nov 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Neuroengineering",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Electrical Engineering and Information Technology",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Electrical Engineering and Information Technology",
+      "dateRange": "2020 – 2024"
+    },
+    {
+      "school": "John F. Kennedy School Berlin",
+      "degree": "Abitur and US High School Diploma",
+      "dateRange": "2012 – 2020"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "BCI Society",
+    "tagline": "We foster research leading to technologies that enable people to interact with the world through brain signals.",
+    "description": "The Brain-Computer Interface (BCI) Society is a member driven organization with 300+ members located in over 24 countries around the world.  The BCI Society was formally established on March 13, 2015 as an international organization that is legally based in the Netherlands.\n\nThe purpose of the BCI Society is “to foster research leading to technologies that enable people to interact with the world through brain signals.”\n\nTo serve this purpose, it will:\n\no Organize meetings\no Collaborate with other BCI-related organizations and individuals\no Share research and information among its members\no Provide BCI-related information and advice to scientific, technical, or clinical organizations, governmental or regulatory entities, scientific or popular media, and the general public\no Engage in other activities designed to achieve the central purpose of the Society",
+    "industry": "Research Services",
+    "website": "https://bcisociety.org/",
+    "linkedInUrl": "https://www.linkedin.com/company/bci-society",
+    "employeeCount": 10,
+    "foundedYear": 2015,
+    "location": null,
+    "specialities": []
+  }
+}

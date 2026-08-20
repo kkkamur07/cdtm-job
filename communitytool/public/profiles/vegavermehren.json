@@ -1,0 +1,132 @@
+{
+  "id": "vegavermehren",
+  "name": "Jose Vega",
+  "headline": "Education and AI",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/vegavermehren",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "I am an Education Sciences PhD candidate with a masters in Artificial Intelligence. I specialize in rethinking traditional educational to facilitate the ethical integration of technology in the classroom. Driven to shape the future of learning through evidence-based innovation.\n\n🧠 More by accident then by design, I have studied cognitive systems from multiple perspectives: biological, technical and human (psychological). My current fascination lies in the human ability to learn.\n🚀 Empowering the innovators of tomorrow at CDTM – Europe's leading study program for innovation and entrepreneurship.\n🌈 Passionate about DE&I education in academic and professional institutions. I strongly believe that education is our best weapon to fight systematic injustice.",
+  "positions": [
+    {
+      "title": "Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "-Co-Directed Europe’s leading entrepreneurship program, achieving the world’s #1 unicorn-per-capita ratio and managing an alumni network with €1B+ funding.\n-Curated annual cohorts of engineers, MBAs, and technical founders through a highly selective process (5% acceptance rate) for the entrepreneurship program.\n-Led a 3-year competency mapping initiative: defined 35 competencies, designed a multi-method validation process, and published a construct map that became the architectural foundation for an overhauled 200+ hour curriculum\n-Developed 5 new educational formats and standardized frameworks, enabling the next gen. of facilitators to maintain and scale complex learning experiences.\n-Co-led international expansion into Spain, securing a 10-year government deal and raising €200k in internal community funds to establish the Valencia hub.\n-Steered a 1,000-user IT infrastructure transition, navigating stringent German data privacy constraints to achieve organization-wide adoption and compliance.",
+      "location": null,
+      "start": "2021-08",
+      "end": "2025-11",
+      "dateRange": "Aug 2021 – Nov 2025",
+      "current": false
+    },
+    {
+      "title": "Product Developement and Fulfillment Manager",
+      "company": "Plantura",
+      "companyUrl": "https://www.linkedin.com/company/plantura",
+      "description": "-Spearheaded a pandemic-resilient fulfillment center; optimized workflows to reach 2,000 daily shipments and managed 15 employees.\n-Researched and developed 30 new consumer products for sustainable gardening; coordinated the supply chain across manufacturing and fulfillment.",
+      "location": null,
+      "start": "2019-10",
+      "end": "2021-03",
+      "dateRange": "Oct 2019 – Mar 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Philosophy - PhD, Educational/Instructional Technology",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher, Educational/Instructional Technology",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Robotics, Cognition and Intellligence",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors  Degree in Techology Management, Computer/Information Technology Administration and Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Westfälische Hochschule Bocholt",
+      "degree": "Bachelor of Science - BS, Biomimetics",
+      "dateRange": "2015 – 2018"
+    }
+  ],
+  "skills": [
+    "Supply Chain Operations",
+    "Microsoft Office",
+    "Social Media Marketing",
+    "Python (Programming Language)",
+    "Artificial Intelligence (AI)",
+    "Team Management",
+    "German",
+    "English",
+    "Recruiting",
+    "Statistics",
+    "Data Science",
+    "Deep Learning",
+    "Research",
+    "Logistics Management",
+    "Product Management",
+    "Teamwork",
+    "Computer-Aided Design (CAD)",
+    "Program Management",
+    "Change Management",
+    "Computer Vision",
+    "Matlab",
+    "LaTeX",
+    "Web Design",
+    "Robotics",
+    "Community Building",
+    "Navigation",
+    "Diversity, Equality, and Inclusion (DEI)",
+    "Learning Design",
+    "Inkscape",
+    "Biomimetics",
+    "Lightweight Design",
+    "Neuroethology",
+    "Animal Cognition",
+    "Marketing and Branding",
+    "Sensor Technology",
+    "Control Technology",
+    "Bomimicry"
+  ],
+  "languages": [
+    "Spanish",
+    "English",
+    "German",
+    "French"
+  ],
+  "company": {
+    "name": "Center for Digital Technology and Management (CDTM)",
+    "tagline": "Connect, Educate and Empower the Innovators of Tomorrow",
+    "description": "The Center for Digital Technology and Management (CDTM), a joint institution of the Ludwig-Maximilians-Universität München (LMU) and the Technische Universität München (TUM), offers talented students the international and interdisciplinary study program Technology Management. \n\nThe CDTM focuses on how to manage High-Tech in close cooperation with industry, research and education, while simultaneously being committed to preparing the students for future leadership positions in their professional career.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.cdtm.de",
+    "linkedInUrl": "https://www.linkedin.com/company/cdtm-munich",
+    "employeeCount": 35,
+    "foundedYear": 1998,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Entrepreneurship",
+      "Product Development"
+    ]
+  }
+}

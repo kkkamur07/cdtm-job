@@ -1,0 +1,162 @@
+{
+  "id": "christian-wachinger-98448887",
+  "name": "Christian Wachinger",
+  "headline": "Professor for AI in Radiology at Technical University of Munich",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christian-wachinger-98448887",
+  "personId": 1570,
+  "classes": [
+    {
+      "id": 54,
+      "label": "Fall 2003",
+      "season": "Fall",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christian Wachinger",
+  "ca": null,
+  "summary": "I am interested in advancing artificial intelligence to address clinically relevant questions; ultimately leading to a better understanding of diseases and improving patient care. My group develops new algorithms for deep learning, machine learning, image segmentation, shape analysis, and medical informatics.  http://www.ai-med.de",
+  "positions": [
+    {
+      "title": "Professor for AI in Radiology",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Lab for AI in Medical Imaging (www.AI-Med.de)",
+      "location": null,
+      "start": "2021-01",
+      "end": null,
+      "dateRange": "Jan 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Artificial Intelligence in Medical Imaging",
+      "company": "LMU Munich – Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": null,
+      "start": "2017-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2017 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Professor",
+      "company": "LMU Munich – Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": null,
+      "start": "2015-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2015 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Postdoctoral Researcher",
+      "company": "Massachusetts Institute of Technology (MIT)",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": null,
+      "location": null,
+      "start": "2011-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2011 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Postdoctoral Researcher in Neurology",
+      "company": "Harvard Medical School",
+      "companyUrl": "https://www.linkedin.com/company/harvard-medical-school",
+      "description": null,
+      "location": null,
+      "start": "2011-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2011 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2007-06",
+      "end": "2011-09",
+      "dateRange": "Jun 2007 – Sep 2011",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": "Princeton, NJ",
+      "start": "2006-06",
+      "end": "2006-12",
+      "dateRange": "Jun 2006 – Dec 2006",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Ecole Centrale Paris",
+      "companyUrl": "https://www.linkedin.com/company/centralesupelec",
+      "description": null,
+      "location": "Paris, France",
+      "start": "2006-01",
+      "end": "2006-06",
+      "dateRange": "Jan 2006 – Jun 2006",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": null,
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Philosophy (PhD)",
+      "dateRange": "2007 – 2011"
+    },
+    {
+      "school": "Télécom Paris",
+      "degree": null,
+      "dateRange": "2005 – 2006"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2003 – 2005"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": null,
+      "dateRange": "2001 – 2007"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Technical University of Munich",
+    "tagline": "Official LinkedIn account of the Technical University of Munich",
+    "description": "Our university combines top-class facilities for cutting-edge research with unique learning opportunities for 52,000 students. Whether our researchers are investigating the origins of life, matter and the universe or looking for solutions to the major challenges for our society, people lie at the heart of our research and innovation agenda. Our goal is to create lasting value for society through excellence in education and research, the active promotion of next-generation talents and a strong entrepreneurial spirit. All of which combine to make TUM one of Europe’s leading universities. \n\n| Imprint: http://www.tum.de/legal-notice",
+    "industry": "Research Services",
+    "website": "https://www.tum.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+    "employeeCount": 11550,
+    "foundedYear": 1868,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "schwinn",
+  "name": "Alexander Schwinn",
+  "headline": "CEO & Founder at Kartonplus GmbH",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/schwinn",
+  "personId": 1725,
+  "classes": [
+    {
+      "id": 99,
+      "label": "Spring 2000",
+      "season": "Spring",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2000",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Alexander Schwinn",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "CEO & Founder",
+      "company": "Kartonplus GmbH",
+      "companyUrl": null,
+      "description": "Munich",
+      "location": null,
+      "start": "2017-04",
+      "end": null,
+      "dateRange": "Apr 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "CEO & Founder",
+      "company": "PaketPLUS",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2009-04",
+      "end": "2015-12",
+      "dateRange": "Apr 2009 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Senior Manager Advertising & Internet Marketing",
+      "company": "eBay Germany",
+      "companyUrl": "https://www.linkedin.com/company/ebay",
+      "description": null,
+      "location": null,
+      "start": "2005-07",
+      "end": "2009-03",
+      "dateRange": "Jul 2005 – Mar 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of St.Gallen",
+      "degree": "Dr. lic. oec (HSG), PhD, Information Technology & Architecture",
+      "dateRange": "2001 – 2005"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": null
+}

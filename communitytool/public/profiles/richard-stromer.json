@@ -1,0 +1,212 @@
+{
+  "id": "richard-stromer",
+  "name": "Richard Stromer",
+  "headline": "Stanford | CDTM | TUM | Forbes 30 under 30",
+  "avatar": {
+    "sm": "/avatars/richard-stromer-sm.webp",
+    "lg": "/avatars/richard-stromer.webp",
+    "blur": "data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAADwBQCdASogACAAPtFcpk6oJSMiKAqpABoJQBOkKNQUCUBeYHOdqatTZxkliAPy+OD+0pvVBJlTAAD+/SxRPd5+8/heRKz7315xHrECBHqd2G93ltlaB1X6z5IR0yhpTeywCjl6wmzUzD4a1rvE7aABuch/MY3/c30k9v8BdaQqrRjtOJWZClSAoSetlu6rnVO0PUZLUhHm0IN6B0ainvP6rV5WccfEmbGbBYnEJc7oditz9D/tcubXI1rqOGmD/PCGZFSeqXMHPiGz6xCYnmqdJalECJiU1nfXsRtLmKwRNJvbxPaL6W1MVxvY7Asv+uYft3anykNmrvHf2yeYzWFNSsKO4jP71o2RHioDeBFgAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/richard-stromer",
+  "personId": 1104,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Richard Stromer",
+  "ca": null,
+  "summary": "Enthusiastic about building excellent digital products 🧑‍💻=🚀",
+  "positions": [
+    {
+      "title": "Resident",
+      "company": "Schub",
+      "companyUrl": "https://www.linkedin.com/company/schub-tech",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder | Product",
+      "company": "Conversa",
+      "companyUrl": "https://www.linkedin.com/company/conversa-screening",
+      "description": null,
+      "location": "San Francisco Bay Area, USA",
+      "start": "2023-10",
+      "end": null,
+      "dateRange": "Oct 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Entrepreneur In Residence",
+      "company": "Richard Stromer",
+      "companyUrl": "https://www.linkedin.com/company/richardstromer",
+      "description": "Consulting for HR Startup: Redefined the idea with the founder, responsible for development of product vision, customer profile, market analysis and business model. Setup of project management and team building workshops.",
+      "location": null,
+      "start": "2022-07",
+      "end": "2023-09",
+      "dateRange": "Jul 2022 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Interim Chief Product Officer",
+      "company": "Defy Trends",
+      "companyUrl": "https://www.linkedin.com/company/opengenie",
+      "description": "Product management, roadmap and vision. Interim lead for the design and engineering team. Setup project management and sprint planing process. Helped define customer personas and adjust the product design, features and roadmap accordingly.",
+      "location": "United States",
+      "start": "2022-03",
+      "end": "2022-08",
+      "dateRange": "Mar 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Richard Stromer",
+      "companyUrl": "https://www.linkedin.com/company/richardstromer",
+      "description": null,
+      "location": "Munich Area, Bavaria",
+      "start": "2020-03",
+      "end": "2022-06",
+      "dateRange": "Mar 2020 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Co-founder and CPO",
+      "company": "Picter",
+      "companyUrl": "https://www.linkedin.com/company/picter",
+      "description": "Picter is a software as a service company facilitating the daily work of photo professionals.",
+      "location": "Munich / Augsburg, Germany",
+      "start": "2016-01",
+      "end": "2020-02",
+      "dateRange": "Jan 2016 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Internship Process Management",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Internship and Bachelor Thesis.",
+      "location": "Munich Area, Germany",
+      "start": "2014-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2014 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Kids Fashion Group GmbH & Co. KG",
+      "companyUrl": null,
+      "description": "Concept and development of custom product information management system, managing several million products, variations and related assets. Responsible for several parts of the core application, the integration of the logistics software, the different online shops and the data exchange with the accounting department and their existing infrastructure.",
+      "location": "Stuttgart Area, Germany",
+      "start": "2013-10",
+      "end": "2014-02",
+      "dateRange": "Oct 2013 – Feb 2014",
+      "current": false
+    },
+    {
+      "title": "Software Developer & Consultant",
+      "company": "Richard Stromer",
+      "companyUrl": "https://www.linkedin.com/company/richardstromer",
+      "description": "Freelance software developer and consultant with focus on the full-stack of web applications. Clients ranged from smaller agencies (~20 people) up to worldwide operating organizations, e.g. Dekra SE.",
+      "location": "Germany",
+      "start": "2012-10",
+      "end": "2017-12",
+      "dateRange": "Oct 2012 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Software and Games Developer",
+      "company": "RedMoon Studios",
+      "companyUrl": "https://www.linkedin.com/company/cratrgames",
+      "description": null,
+      "location": null,
+      "start": "2011-06",
+      "end": "2012-09",
+      "dateRange": "Jun 2011 – Sep 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Researcher, Human Computer Interaction",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Information Systems",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technische Hochschule Augsburg",
+      "degree": "Bachelor of Science, Computer Science",
+      "dateRange": "2015"
+    },
+    {
+      "school": "Linnaeus University",
+      "degree": "Exchange Research Project, Computer Science",
+      "dateRange": "2013"
+    }
+  ],
+  "skills": [
+    "Open AI",
+    "Heroku",
+    "Leadership",
+    "Analytical Skills",
+    "Market Research",
+    "Design Thinking",
+    "Company Building",
+    "Start-ups",
+    "Consulting",
+    "Product Management",
+    "Web Development",
+    "Software Development",
+    "Project Management",
+    "Web Applications",
+    "Product Development",
+    "Cloud Computing",
+    "Mobile Applications",
+    "Django",
+    "Python",
+    "Node.js"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Schub",
+    "tagline": "We Boost Ideas and Founders to Create Impactful Ventures",
+    "description": "Our name 'Schub' translates to 'Booster' in German, reflecting our mission: to help companies get off the ground and accelerate successfully.\n\nSchub is about ambition, action, acceleration, excellence, collegiality, community, will to succeed, positivity and shooting for the stars. \n\nWe love sharing our insights and believe in a very strong European innovator ecosystem that we want to foster with every action we take.\n\nWe have 4 core offerings; Space, Labs, Transform and Seed, the 4 units that make up our internal Schub ecosystem.\n\nIn Schub Space we bring together ambitious talent to develop early-stage ideas into committed ventures. In Labs, we partner with entrepreneurs and help them grow their company. In Transform, we transform established company’s core processes to AI first and in Seed, we provide capital and advise to early stage startups.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.schub.tech/",
+    "linkedInUrl": "https://www.linkedin.com/company/schub-tech",
+    "employeeCount": 9,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

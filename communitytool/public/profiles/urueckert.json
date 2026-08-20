@@ -1,0 +1,143 @@
+{
+  "id": "urueckert",
+  "name": "Ulrich Rueckert",
+  "headline": "Senior Research Engineer at Google DeepMind",
+  "avatar": null,
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/urueckert",
+  "personId": 1814,
+  "classes": [
+    {
+      "id": 50,
+      "label": "1999",
+      "season": null,
+      "year": 1999,
+      "location": 1
+    }
+  ],
+  "classLabel": "1999",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Ulrich Rückert",
+  "ca": null,
+  "summary": "Research Engineer with a background in Machine Learning and Natural Language Understanding. My current research focus is on hallucinations in Large Language Models. \n\nPrevious work involved server infrastructure for Google Search and the Google Assistant.",
+  "positions": [
+    {
+      "title": "Research Software Engineer",
+      "company": "Google DeepMind",
+      "companyUrl": "https://www.linkedin.com/company/deepmind",
+      "description": "2018 - now: Google DeepMind. On-Device Machine Learning for understanding human conversations. Teaching Large Language Models (LaMDA, Bard, Gemini) to hallucinate less and express uncertainty. Multimodal Memory for Foundation Models. \n2016 - 2018: Assistant Infrastructure. Helped launching the Google Assistant, Infrastructure work on Assistant Server, dialog state management. \n2013 - 2016: Search Infrastructure. Indexing web pages and mobile apps, Machine Learning for app content understanding.",
+      "location": null,
+      "start": "2013-12",
+      "end": null,
+      "dateRange": "Dec 2013 – Present",
+      "current": true
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Datameer",
+      "companyUrl": "https://www.linkedin.com/company/datameer",
+      "description": null,
+      "location": null,
+      "start": "2011-09",
+      "end": "2013-12",
+      "dateRange": "Sep 2011 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Post-Doctoral Researcher",
+      "company": "University of California, Berkeley",
+      "companyUrl": "https://www.linkedin.com/company/uc-berkeley",
+      "description": "Research on multi-task and transfer learning with deep biases.",
+      "location": null,
+      "start": "2009-09",
+      "end": "2011-08",
+      "dateRange": "Sep 2009 – Aug 2011",
+      "current": false
+    },
+    {
+      "title": "Post-Doctoral Researcher",
+      "company": "International Computer Science Institute",
+      "companyUrl": null,
+      "description": "Research on machine learning with structured data.",
+      "location": null,
+      "start": "2008-09",
+      "end": "2009-08",
+      "dateRange": "Sep 2008 – Aug 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Philosophy (PhD), Computer Science",
+      "dateRange": "2003 – 2008"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (MS), Computer Science",
+      "dateRange": "1996 – 2002"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Fellow, Computer Science",
+      "dateRange": "2000 – 2001"
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Java",
+    "Analytics",
+    "Predictive Modeling",
+    "Statistics",
+    "Machine Learning",
+    "Data Visualization",
+    "Predictive Analytics",
+    "Data Mining",
+    "Software Development",
+    "Data Analysis",
+    "Eclipse",
+    "Large Language Models (LLM)",
+    "Hadoop",
+    "Big Data",
+    "Distributed Systems",
+    "REST",
+    "Python",
+    "Computer Science",
+    "Algorithms",
+    "LaTeX",
+    "Mathematical Modeling",
+    "Software Engineering",
+    "Research Skills",
+    "Bioinformatics",
+    "Computational Biology",
+    "MapReduce",
+    "Information Visualization"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Google DeepMind",
+    "tagline": "We're committed to solving intelligence, to advance science and benefit humanity.",
+    "description": "We’re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.\n\nOur long term aim is to solve intelligence, developing more general and capable problem-solving systems, known as artificial general intelligence (AGI). \n\nGuided by safety and ethics, this invention could help society find answers to some of the world’s most pressing and fundamental scientific challenges.\n \nWe have a track record of breakthroughs in fundamental AI research, published in journals like Nature, Science, and more.Our programs have learned to diagnose eye diseases as effectively as the world’s top doctors, to save 30% of the energy used to keep data centres cool, and to predict the complex 3D shapes of proteins - which could one day transform how drugs are invented.",
+    "industry": "Research Services",
+    "website": "https://www.deepmind.google",
+    "linkedInUrl": "https://www.linkedin.com/company/deepmind",
+    "employeeCount": 8689,
+    "foundedYear": 2010,
+    "location": "London, United Kingdom",
+    "specialities": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ]
+  }
+}

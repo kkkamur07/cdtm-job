@@ -1,0 +1,209 @@
+{
+  "id": "maximuel",
+  "name": "Maximilian Müller",
+  "headline": "Professor at University of Cologne",
+  "avatar": null,
+  "location": "Cologne Bonn, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/maximuel",
+  "personId": 1871,
+  "classes": [
+    {
+      "id": 63,
+      "label": "Spring 2008",
+      "season": "Spring",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2008",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Maximilian Müller",
+  "ca": null,
+  "summary": "Work at Sunhat",
+  "positions": [
+    {
+      "title": "Cluster Faculty",
+      "company": "ECONtribute: Markets & Public Policy",
+      "companyUrl": "https://www.linkedin.com/company/econtribute-markets-public-policy",
+      "description": "Cologne Bonn Region",
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Sustainability Advisory Council Member",
+      "company": "DHL",
+      "companyUrl": "https://www.linkedin.com/company/dhl",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Aufsichtsratsmitglied",
+      "company": "EWI - Energiewirtschaftliches Institut an der Universität zu Köln",
+      "companyUrl": "https://www.linkedin.com/company/ewi-koeln",
+      "description": null,
+      "location": null,
+      "start": "2024-07",
+      "end": null,
+      "dateRange": "Jul 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Advisor",
+      "company": "Sunhat",
+      "companyUrl": "https://www.linkedin.com/company/sunhat-software",
+      "description": null,
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "start": "2024-02",
+      "end": null,
+      "dateRange": "Feb 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Principal Investigator",
+      "company": "TRR 266 Accounting for Transparency",
+      "companyUrl": "https://www.linkedin.com/company/trr-accounting",
+      "description": "Ambiguity, Learning, and the Diffusion of Reporting Practices (Project A07)",
+      "location": null,
+      "start": "2023-07",
+      "end": null,
+      "dateRange": "Jul 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Sustainability Reporting Navigator",
+      "companyUrl": "https://www.linkedin.com/company/sustainability-reporting-navigator",
+      "description": "Platform on reporting practices, requirements and stakeholder preferences",
+      "location": null,
+      "start": "2022-10",
+      "end": null,
+      "dateRange": "Oct 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Professor",
+      "company": "Universität zu Köln",
+      "companyUrl": "https://www.linkedin.com/company/university-of-cologne",
+      "description": null,
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "start": "2022-06",
+      "end": null,
+      "dateRange": "Jun 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Faculty",
+      "company": "ESMT Berlin",
+      "companyUrl": "https://www.linkedin.com/company/esmt",
+      "description": null,
+      "location": null,
+      "start": "2022-06",
+      "end": null,
+      "dateRange": "Jun 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Advisor",
+      "company": "Ultramarin",
+      "companyUrl": "https://www.linkedin.com/company/ultramarin-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2018-06",
+      "end": null,
+      "dateRange": "Jun 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate Professor",
+      "company": "ESMT Berlin",
+      "companyUrl": "https://www.linkedin.com/company/esmt",
+      "description": null,
+      "location": "Berlin Metropolitan Area",
+      "start": "2020-01",
+      "end": "2022-05",
+      "dateRange": "Jan 2020 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Professor",
+      "company": "WHU - Otto Beisheim School of Management",
+      "companyUrl": "https://www.linkedin.com/company/whu-otto-beisheim-school-of-management",
+      "description": null,
+      "location": null,
+      "start": "2016-07",
+      "end": "2019-12",
+      "dateRange": "Jul 2016 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Visiting Scholar",
+      "company": "University of Chicago Booth School of Business",
+      "companyUrl": "https://www.linkedin.com/company/universityofchicagoboothschoolofbusiness",
+      "description": null,
+      "location": null,
+      "start": "2015-09",
+      "end": "2016-06",
+      "dateRange": "Sep 2015 – Jun 2016",
+      "current": false
+    },
+    {
+      "title": "Assistant Professor",
+      "company": "WHU - Otto Beisheim School of Management",
+      "companyUrl": "https://www.linkedin.com/company/whu-otto-beisheim-school-of-management",
+      "description": null,
+      "location": null,
+      "start": "2012-07",
+      "end": "2015-06",
+      "dateRange": "Jul 2012 – Jun 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "WHU – Otto Beisheim School of Management",
+      "degree": "Dr. rer. pol., Financial Reporting",
+      "dateRange": "2008 – 2011"
+    },
+    {
+      "school": "University of Mannheim",
+      "degree": "Dipl.-Kfm., Betriebswirtschaftslehre",
+      "dateRange": "2004 – 2008"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "University of Cologne",
+    "tagline": "Good ideas. Since 1388.",
+    "description": "Founded in 1388, the University of Cologne is one of the oldest and largest universities in Germany. As a member of the “German U15,” Germany’s association of leading research-oriented universities, it is also among the country’s top-level research institutions. In 2012, the University of Cologne was awarded extensive funding within the framework of the Excellence Initiative, a nationwide competition tendered by the German federal and state governments to promote cutting-edge research and enhance quality in education. \r\nThe University of Cologne covers a broad spectrum of disciplines. It encompasses six large Faculties: ‘Management, Economics and Social Sciences’, ‘Law’, ‘Medicine’, ‘Arts and Humanities’, ‘Mathematics and Natural Sciences’, as well as ‘Human Sciences’. Currently, approximately 48,500 students are enrolled, taking advantage of a wide variety of courses including joint degree programmes with renowned international partner universities such as Paris-Sorbonne University, University College London, Maastricht University or the Warsaw School of Economics.\r\nAcademic excellence, internationality, a strong focus on research and a wide range of study programmes create a vibrant and inspiring environment, making the University of Cologne an appealing modern university in the centre of Europe.",
+    "industry": "Higher Education",
+    "website": "http://www.uni-koeln.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/university-of-cologne",
+    "employeeCount": 5638,
+    "foundedYear": 1388,
+    "location": "Cologne, Germany",
+    "specialities": [
+      "Altersassoziierte Erkrankungen",
+      "Quantenmaterie- und Materialien",
+      "Behavioral Economic Engineering and Social Cognition",
+      "Sozio-Ökonomischer, kultureller und politischer Wandel im Globalen Süden",
+      "Pflanzenzüchtungsforschung",
+      "Sozialökonomie"
+    ]
+  }
+}

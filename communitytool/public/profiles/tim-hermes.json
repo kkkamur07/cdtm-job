@@ -1,0 +1,182 @@
+{
+  "id": "tim-hermes",
+  "name": "Tim Hermes",
+  "headline": "Mitgründer Tabula",
+  "avatar": {
+    "sm": "/avatars/tim-hermes-sm.webp",
+    "lg": "/avatars/tim-hermes.webp",
+    "blur": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAABwBQCdASogACAAPtFUo0uoJKMhsBgMAQAaCUAAfGnv38ILxjGX0ZByIKYKPyGR5aTTJEgAAP7+wiUUfIx2jpnvDc29WC+CEe4LfbPf9hTzx8Nsbg79qceGArZbIe+UK2Pf5q597teh0kvuunWitGslhVOpmDyrg1aQmDGDv/KXKvUYXqv/UJqnkLfk72BuibFKbnQJ+WFFjzlh2AvKJ6TouSziP3HQEU9PoxkSiipGEsHhzoLHf9PX6bjmimYA1h4caXzyAYAAAA=="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/tim-hermes",
+  "personId": 957,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Tim Hermes",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Mitgründer",
+      "company": "Tabula",
+      "companyUrl": "https://www.linkedin.com/company/tabula-accounting",
+      "description": "Wir helfen Steuerkanzleien den Fachkräftemangel durch Generative KI zu lindern. Tabular unterstützt Finanzbuchhalter bei repetitiven, zeitfressenden Aufgaben, um ihnen mehr Zeit für Mandanten zu geben.",
+      "location": null,
+      "start": "2024-04",
+      "end": null,
+      "dateRange": "Apr 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Group Product Manager",
+      "company": "Taxfix",
+      "companyUrl": "https://www.linkedin.com/company/taxfix",
+      "description": "Responsible for „Full Service“ Business Line. Scaled to tens of thousands of users.",
+      "location": null,
+      "start": "2023-02",
+      "end": "2024-04",
+      "dateRange": "Feb 2023 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Taxfix",
+      "companyUrl": "https://www.linkedin.com/company/taxfix",
+      "description": "Built Full-Service Business Line\nLaunched the Associate Product Management Program & hired 4 APMs",
+      "location": null,
+      "start": "2022-02",
+      "end": "2023-06",
+      "dateRange": "Feb 2022 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Taxfix",
+      "companyUrl": "https://www.linkedin.com/company/taxfix",
+      "description": "Built „Instant Refund“ to pay out tax refund in seconds after filing",
+      "location": null,
+      "start": "2021-02",
+      "end": "2022-02",
+      "dateRange": "Feb 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Associate Product Manager",
+      "company": "Taxfix",
+      "companyUrl": "https://www.linkedin.com/company/taxfix",
+      "description": null,
+      "location": null,
+      "start": "2020-04",
+      "end": "2021-02",
+      "dateRange": "Apr 2020 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Product Management",
+      "company": "N26 Group",
+      "companyUrl": "https://www.linkedin.com/company/n26",
+      "description": "Launched the chatbot",
+      "location": "Berlin Area, Germany",
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Business Intelligence & Operations | Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Sales forecasting",
+      "location": "Oslo",
+      "start": "2017-08",
+      "end": "2017-10",
+      "dateRange": "Aug 2017 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Strategy Consulting | Working Student",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": "Excel modelling",
+      "location": "München",
+      "start": "2017-05",
+      "end": "2018-04",
+      "dateRange": "May 2017 – Apr 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science, Management",
+      "dateRange": null
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "School of Information and Haas School of Business, Informatics, Visiting Scholar",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "King's College London",
+      "degree": "King‘s Business School, Economics, Exchange",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Product Development",
+    "Design Thinking",
+    "Business Model Innovation",
+    "Product Management",
+    "Agile Methodologies",
+    "Strategy",
+    "Entrepreneurship",
+    "Sales",
+    "Customer Relationship Management (CRM)",
+    "Business Development",
+    "Business Intelligence",
+    "Project Management",
+    "Research",
+    "Visual Basic for Applications (VBA)",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Teamwork",
+    "Innovation Management",
+    "Distributed Ledger Technology (DLT)",
+    "Blockchain"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Tabula",
+    "tagline": "AI Autopilot for Accounting Firms",
+    "description": "Automated accounting platform for the modern accounting firm - we automate backoffice accounting work so you have more time for your clients.",
+    "industry": "Software Development",
+    "website": "https://www.tabula.de",
+    "linkedInUrl": "https://www.linkedin.com/company/tabula-accounting",
+    "employeeCount": 10,
+    "foundedYear": 2024,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

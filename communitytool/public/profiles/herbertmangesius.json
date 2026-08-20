@@ -1,0 +1,138 @@
+{
+  "id": "herbertmangesius",
+  "name": "Herbert Mangesius",
+  "headline": "General Partner at Vsquared Ventures | Co-Founder 1E9 Denkfabrik",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/herbertmangesius",
+  "personId": 1850,
+  "classes": [
+    {
+      "id": 62,
+      "label": "Fall 2007",
+      "season": "Fall",
+      "year": 2007,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2007",
+  "major": "Mechatronics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Herbert Mangesius",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "General Partner",
+      "company": "Vsquared Ventures",
+      "companyUrl": "https://www.linkedin.com/company/vsquared-ventures",
+      "description": null,
+      "location": "Munich, Bavaria",
+      "start": "2020-04",
+      "end": null,
+      "dateRange": "Apr 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Principal",
+      "company": "Vito Ventures",
+      "companyUrl": "https://www.linkedin.com/company/vito-ventures",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-05",
+      "end": "2020-01",
+      "dateRange": "May 2015 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Université catholique de Louvain",
+      "companyUrl": "https://www.linkedin.com/company/uclouvain",
+      "description": "Research (doctoral studies) on energy and information in network systems, within the Large Graphs and Networks Group, Institute of Information and Communication Technologies, Electronics and Applied Mathematics",
+      "location": null,
+      "start": "2014-05",
+      "end": "2015-03",
+      "dateRange": "May 2014 – Mar 2015",
+      "current": false
+    },
+    {
+      "title": "Scientific Assistant",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "PhD thesis: Energy and Dissipation in Consensus Systems; Teaching assignments in control theory / dynamical systems and doctoral studies in mathematical systems theory  (circuits and cystems / control theory, convex optimization, mathematical physics, network systems; application areas: molecular networks, stability / flexibility in electric power systems / electricity markets, consensus / agreement problems)",
+      "location": null,
+      "start": "2010-07",
+      "end": "2014-03",
+      "dateRange": "Jul 2010 – Mar 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl. Ing., Mechanical Engineering",
+      "dateRange": "2004 – 2010"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "M.A. Honors Degree, Technology Management",
+      "dateRange": "2007 – 2010"
+    },
+    {
+      "school": "École Polytechnique",
+      "degree": "Optimal Control, Global Stability Analysis, Hydrodynamics",
+      "dateRange": "2009 – 2010"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Strategy",
+    "Simulations",
+    "Matlab",
+    "Control Theory",
+    "Finite Element Analysis",
+    "LaTeX",
+    "Scientific Computing",
+    "Stability Studies",
+    "Power System Operations",
+    "Mathematical Modeling",
+    "Numerical Simulation",
+    "Research",
+    "Programming",
+    "Project Management",
+    "Algorithms",
+    "Management",
+    "Business Development",
+    "Product Development",
+    "Start-ups"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Vsquared Ventures",
+    "tagline": "Deep Tech VC",
+    "description": "Vsquared Ventures backs entrepreneurs engineering the seemingly impossible. We are early-stage investors in deep-tech companies tackling society's most pressing challenges, with an emphasis on quantum and novel computing, green energy, robotics, AI/ML, new space, synthetic biology, and healthcare.\n\nOur team of founders, academics, operators and innovators has invested in over 30 companies to date and built one of Europe’s strongest deep-tech portfolios, forging alliances with key players in industry, research, and a global startup ecosystem along the way. The companies we’ve partnered with so far include Isar Aerospace, IQM, Zama, Hyperganic and Custom Cells.\n\nFor more information, visit https://vsquared.vc or reach out to the team at future@vsquared.vc.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://www.vsquared.vc",
+    "linkedInUrl": "https://www.linkedin.com/company/vsquared-ventures",
+    "employeeCount": 12,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": [
+      "venture capital",
+      "emerging science & tech",
+      "Deep Tech",
+      "early stage",
+      "europe"
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "id": "pkwiecien",
+  "name": "Pawel Kwiecien",
+  "headline": "Software Engineer at Meta",
+  "avatar": {
+    "sm": "/avatars/pkwiecien-sm.webp",
+    "lg": "/avatars/pkwiecien.webp",
+    "blur": "data:image/webp;base64,UklGRkgBAABXRUJQVlA4IDwBAADQBgCdASogACAAPtFWpU0oJCOiMBgIAQAaCWwAnTMbNwXKCCCI18CZ/9qObi5UuRie9auYdlEb5NnZm9/28zAA+3YCkU1jZDnNZkyRUMnh3KTVhWkGtCuyTKeCSxXvEKgxBazeTNn61u87/CKcLIzDcTmXJdKJOC3vQUO6HJ6SIMWOoYe3dYHM1Qd3/o9Fr/gGy4Y5UhvJ5klzNcUPv05Ko3flh+renCvscs/j5n3sZ5ijReaZdzOHuNkDaiTx5Gh2aOi+/fVLLImByeko6ejAChD+Mg3wb/buoY9pQ44DNj/ZauBUAPKtk+9gBuKrpaMzJ0JgCfZuqaJB1p6U6pY1u/q2Vb6y4VN7ma1axPBT66ng4LLD0ScW6OiagI/uCUHxKQOF7Slh+NkqAXSpVOkym6V6pGLr4Y6uBAAA"
+  },
+  "location": "Seattle, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/pkwiecien",
+  "personId": 1170,
+  "classes": [
+    {
+      "id": 72,
+      "label": "Fall 2012",
+      "season": "Fall",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2012",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Pawel Kwiecien",
+  "ca": null,
+  "summary": "Full stack developer, passionate about working on innovative ideas. Extensive technical\nknowledge and a good sense of product and user experience. Supportive and enthusiastic team player.",
+  "positions": [
+    {
+      "title": "Staff Software Engineer",
+      "company": "Meta",
+      "companyUrl": "https://www.linkedin.com/company/meta",
+      "description": "I've been working on various products at Meta, such Facebook Analytics, Marketplace and Commerce, Shops Ads and Business AI.",
+      "location": null,
+      "start": "2017-08",
+      "end": null,
+      "dateRange": "Aug 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer II",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Worked on Microsoft Flow (https://flow.microsoft.com), a product that enables customers to automate tasks. \n\nFocusing on the developer experience in Microsoft Flow:\n• contributed to a generic editor for integrating external Services and APIs into the product, \n• worked on co-authoring experience,\n• developed an SDK for embedding the editing experience in PowerApps",
+      "location": null,
+      "start": "2016-09",
+      "end": "2017-07",
+      "dateRange": "Sep 2016 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Joined the Office organization and worked on the Approval scenario, one of the core\nfeatures for a new approval workflow platform. Additionally, designed the architecture of an experimental and innovative iOS app for creating collaborative databases. Implemented major functionality such as editable grid and the networking layer.\n\nIn December 2015 moved Power BI team to work on the leading data visualization and analytics tools, focusing on platform extensibility:\n• implemented open source JavaScript SDK for rendering interactive reports, \n• worked on Publish To Web feature for embedding reports in external websites (see https://powerbi.microsoft.com/en-us/publishtoweb).",
+      "location": null,
+      "start": "2014-10",
+      "end": "2016-08",
+      "dateRange": "Oct 2014 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technical-university-of-munich",
+      "description": "Worked at the department of Software Engineering for Business Information Systems supporting research and industrial projects such as IT mergers and acquisitions.",
+      "location": null,
+      "start": "2013-05",
+      "end": "2013-09",
+      "dateRange": "May 2013 – Sep 2013",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "SimScale",
+      "companyUrl": "https://www.linkedin.com/company/simscale",
+      "description": "Early employee of a Venture Capital backed startup in Munich: a simulation platform for mechanical engineers.\nImplemented various features from ground up: reporting tool for generating simulation reports, an administration panel for managing accounts",
+      "location": null,
+      "start": "2013-04",
+      "end": "2014-07",
+      "dateRange": "Apr 2013 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "Software Quality Assurance",
+      "company": "Jedox",
+      "companyUrl": "https://www.linkedin.com/company/jedox",
+      "description": "Worked at the Quality Assurance Department, testing various software components, a web application, applications for mobile devices and a database server",
+      "location": null,
+      "start": "2011-06",
+      "end": "2011-09",
+      "dateRange": "Jun 2011 – Sep 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (MS), Computer Science",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Georgia Institute of Technology",
+      "degree": "Research scholar, Computer Science",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Technology Management",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "AGH University of Krakow",
+      "degree": "Bachelor of Science (BS), Computer Science",
+      "dateRange": "2008 – 2012"
+    },
+    {
+      "school": "The University of Freiburg",
+      "degree": "Exchange student, Computer Science",
+      "dateRange": "2010 – 2011"
+    }
+  ],
+  "skills": [
+    "CSS",
+    "HTML",
+    "AngularJS",
+    "JavaScript",
+    "SQL",
+    "Java",
+    "C++",
+    "Databases",
+    "Software Design",
+    "Object-Oriented Programming (OOP)",
+    "Data Visualization",
+    "Start-ups",
+    "jQuery",
+    "Software Development",
+    "Entrepreneurship",
+    "Project Management",
+    "Mobile Applications",
+    "User Interface Design",
+    "Architecture",
+    "C#",
+    "iOS",
+    "Objective-C",
+    "Swift",
+    "Android",
+    "Git",
+    "Python",
+    "Ruby on Rails",
+    "Web Development",
+    "Web Applications",
+    "TypeScript",
+    "Computer Science",
+    "Algorithms",
+    ".NET Framework",
+    "Software Engineering",
+    "UX",
+    "Object Oriented Design",
+    "Swagger",
+    "SDK development",
+    "iOS Development"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Polish"
+  ],
+  "company": {
+    "name": "Meta",
+    "tagline": null,
+    "description": "Meta's mission is to build the future of human connection and the technology that makes it possible. \n\nOur technologies help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.\n\nTo help create a safe and respectful online space, we encourage constructive conversations on this page. Please note the following:\n\n• Start with an open mind. Whether you agree or disagree, engage with empathy.\n• Comments violating our Community Standards will be removed or hidden. Please treat everybody with respect.\n• Keep it constructive. Use your interactions here to learn about and grow your understanding of others.\n• Our moderators are here to uphold these guidelines for the benefit of everyone, every day.\n• If you are seeking support for issues related to your Facebook account, please reference our Help Center (https://www.facebook.com/help) or Help Community (https://www.facebook.com/help/community).\n\nFor a full listing of our jobs, visit https://www.metacareers.com",
+    "industry": "Software Development",
+    "website": "https://www.metacareers.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/meta",
+    "employeeCount": 155447,
+    "foundedYear": null,
+    "location": "Menlo Park, United States",
+    "specialities": [
+      "Connectivity",
+      "Artificial Intelligence",
+      "Virtual Reality",
+      "Machine Learning",
+      "Social Media",
+      "Augmented Reality",
+      "Marketing Science",
+      "Mobile Connectivity",
+      "Open Compute",
+      "Metaverse"
+    ]
+  }
+}

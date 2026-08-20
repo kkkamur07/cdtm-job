@@ -1,0 +1,97 @@
+{
+  "id": "chrisittner",
+  "name": "Christian Ittner",
+  "headline": "Software Developer @ Alasco",
+  "avatar": {
+    "sm": "/avatars/chrisittner-sm.webp",
+    "lg": "/avatars/chrisittner.webp",
+    "blur": "data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAACQBgCdASogACAAPtFepEyoJaOiMBgIAQAaCWwAnTMiBgGeyLGm6Uyi8/3xpjXrIyIRJvwWk2Gyz2gIVtRAAP7sPWLlaKUwqpN0RcuV2S6W4z3Q9A5PHRLCcPYZTYaFs1JYzcoEVcJKRnrGEeqSMoe+tekyg2fxcTGdt5pM+NDOSJnsxLi0DxAYuRrPF4rsCnXMWAubGZIXEFlANr03UnFziesYxHeGoFkeuz6VMMdTLNgLCOyvtIJh6SoGlZ8h40YpyUyr5ofYdq08b9VkDwROK5sPbOYao8mQv5yglhFqCNWLOS94cRua1G9d+IH8xnuw0WRTUghGmQFdLCQw2cwSm78tIAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/chrisittner",
+  "personId": 941,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Logic and Philosophy of Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christian Ittner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Engineering Manager",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": null,
+      "start": "2022-03",
+      "end": null,
+      "dateRange": "Mar 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Tech Lead",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": null,
+      "start": "2021-06",
+      "end": "2022-02",
+      "dateRange": "Jun 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": null,
+      "start": "2019-06",
+      "end": "2021-05",
+      "dateRange": "Jun 2019 – May 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2015 – 2016"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Alasco",
+    "tagline": null,
+    "description": "Alasco is the financial management platform for real estate companies managing development, retrofit, and tenant improvement projects. Alasco helps real estate companies shift from reactive cost control to strategic financial management and set in place the financial data layer for a solid AI strategy.\n\nWith rapid time-to-value, the Alasco platform unites all stakeholders around a single source of truth, helping them plan, budget, analyse, optimise and execute on their business plans.\n\nThe platform is used by over 350 real estate players across Europe who collectively manage on Alasco more than €1Tn in project development volume to date. Key customers include: Hines, JLL, LaSalle, Ardian, ECE Gruppe, Alcaro Invest and Patrizia SE.",
+    "industry": "Software Development",
+    "website": "http://www.alasco.com",
+    "linkedInUrl": "https://www.linkedin.com/company/alasco-software",
+    "employeeCount": 134,
+    "foundedYear": 2018,
+    "location": "München, Germany",
+    "specialities": [
+      "Software",
+      "ESG",
+      "CapEx",
+      "Financial controlling",
+      "sustainability"
+    ]
+  }
+}

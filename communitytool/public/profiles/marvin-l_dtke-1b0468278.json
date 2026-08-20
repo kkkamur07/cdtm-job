@@ -1,0 +1,166 @@
+{
+  "id": "marvin-l_dtke-1b0468278",
+  "name": "Marvin Lüdtke",
+  "headline": "Data Strategist @Accenture",
+  "avatar": {
+    "sm": "/avatars/marvin-l_dtke-1b0468278-sm.webp",
+    "lg": "/avatars/marvin-l_dtke-1b0468278.webp",
+    "blur": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAACwBgCdASogACAAPtFSo0uoJCMhsBgMAQAaCWwAuzMl/gHQ97+GE5lLMBI4e+PvVWIajXjFFz0V6eDIeaCAAAD++LUWlW+yt1zgp8rHWGEuflvxkt9j33xM552tezUFe0rsF7c/hK5BFmX+yiH+ibsWdqYxL+x1mXtSoY10169ByvmJfuMKNy0q0Z4Y5dLmt+QWTOli0hlhxwb8xsOJHngaAhsWhVNl9cAeJQhqFVZiDrzUHuxsXq+z4fvPKqsFCsIRjFhkMI3ipndbmHj3oK7Q+Yl3EmxH/CrWhQDDAAA="
+  },
+  "location": "Vienna, Austria",
+  "linkedInUrl": "https://www.linkedin.com/in/marvin-lüdtke-1b0468278",
+  "personId": 860,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "MSc in Robotics, Cognition, Intelligence (TUM)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Marvin Lüdtke",
+  "ca": null,
+  "summary": "Seeking new challenges to make data speak its language and drive strategic decisions that transform businesses and products.",
+  "positions": [
+    {
+      "title": "Data Strategist",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": null,
+      "location": null,
+      "start": "2023-10",
+      "end": null,
+      "dateRange": "Oct 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Autonomous Driving | Master-Student",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "ML-based lane change prediction of safety-critical cut-in maneuvers for autonomous vehicles",
+      "location": null,
+      "start": "2022-06",
+      "end": "2023-01",
+      "dateRange": "Jun 2022 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Strategy Consulting | Intern",
+      "company": "Strategy&",
+      "companyUrl": "https://www.linkedin.com/company/strategyand",
+      "description": "Strategic projects in Supply-Chain-Management and Pharma-Life Science",
+      "location": null,
+      "start": "2021-10",
+      "end": "2021-12",
+      "dateRange": "Oct 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Robotics | Research Assistant",
+      "company": "ESL Stellenbosch University",
+      "companyUrl": null,
+      "description": "Development of an autonomous robotic platform for testing control and planning algorithms",
+      "location": null,
+      "start": "2021-03",
+      "end": "2021-08",
+      "dateRange": "Mar 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineering | Intern",
+      "company": "Critical TechWorks",
+      "companyUrl": "https://www.linkedin.com/company/criticaltechworks",
+      "description": "High definition (HD) map processing and generation for autonomous vehicles of a german car manufacturer",
+      "location": null,
+      "start": "2020-09",
+      "end": "2020-12",
+      "dateRange": "Sep 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "System Engineering | Working Student",
+      "company": "ESG Elektroniksystem- und Logistik-GmbH",
+      "companyUrl": "https://www.linkedin.com/company/esg-gmbh",
+      "description": "E/E and data architecture projects in the context of pre-series vehicle development for german car manufacturers",
+      "location": null,
+      "start": "2018-06",
+      "end": "2020-03",
+      "dateRange": "Jun 2018 – Mar 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Robotics, Cognition & Intelligence",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "Stellenbosch University",
+      "degree": "Bachelor of Science - BS, Robotics, Cognition & Intelligence",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Betriebwirtschaftslehre",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Maschinenbau",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2022"
+    }
+  ],
+  "skills": [
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Apache Spark",
+    "Robot Operating System (ROS)",
+    "Scala",
+    "TensorFlow",
+    "Alteryx",
+    "Creativity",
+    "Python (Programmiersprache)",
+    "Conceptual Design",
+    "Maschinelles Lernen",
+    "Workshops durchführen"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "Accenture",
+    "tagline": null,
+    "description": "Accenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale.\n \nWe are a talent and innovation-led company serving clients in more than 120 countries. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\n\nThis LinkedIn company page is moderated. When engaging with Accenture, we encourage everyone to:\n\n- Use common courtesy and be respectful of others.\n- Create your own original content and avoid content that you know to be fraudulent.\n- Never repost someone else's copyrighted work, unless you have permission.\n- Never post personal, identifying, or confidential information.\n\nWe reserve the right to delete comments or posts we deem to be:\n\n- Profane, obscene, inappropriate, offensive, abusive material.\n- Spam, repeated comments and commercial messages and personal advertisements.\n- Discriminatory or that contain hateful speech of any kind regarding age, gender, race, religion, nationality, sexual orientation, gender identity or disability.\n- Threats; personal attacks; abusive, defamatory, derogatory, or inflammatory language; or stalking or harassment of any individual, entity or organization.\n- False, inaccurate, libelous, or otherwise misleading in any way.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.accenture.com",
+    "linkedInUrl": "https://www.linkedin.com/company/accenture",
+    "employeeCount": 676339,
+    "foundedYear": null,
+    "location": "Dublin 2, Ireland",
+    "specialities": [
+      "Management Consulting",
+      "Systems Integration and Technology",
+      "Business Process Outsourcing",
+      "Application and Infrastructure Outsourcing"
+    ]
+  }
+}

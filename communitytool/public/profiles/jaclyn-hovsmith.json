@@ -1,0 +1,194 @@
+{
+  "id": "jaclyn-hovsmith",
+  "name": "Jaclyn Hovsmith",
+  "headline": "Privacy Engineer at Google",
+  "avatar": {
+    "sm": "/avatars/jaclyn-hovsmith-sm.webp",
+    "lg": "/avatars/jaclyn-hovsmith.webp",
+    "blur": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAAAQBgCdASogACAAPtFWpkwoJKOiKA1RABoJYgC7M1C+4dAfv4Vyhu4fmUhZPR6npP1wYt655rlmIQAA/vste3HfprmyUg+YWuB0VW5T4tSh96IUN4V6+g86jQ/z5L5h5eZDsJY/iZ7f2rcuAMuO6ZaNEH3kE3f2bnTofl48JL+nf2ntCPH8Gre0xk8+sjUb9UXz9oVvLo6fjhAwfl51yrIKc7BPtJm+pIgzC6xExhnaonsZV0/3JFvKAoXjzDoLUZiuUgkSADOwrwZxSa9MgTRI6xVQMVQMuq2Vv+EcxS5RY2wA"
+  },
+  "location": "San Francisco Bay, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/jaclyn-hovsmith",
+  "personId": 1054,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "MSc in Politics and Technology (TUM), BA in German: Media & Aesthetics (Princeton)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jaclyn Hovsmith",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Privacy Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": "San Francisco Bay Area",
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate Consultant",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": "M&A Advisory and Technical Due Diligence",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": "2024-09",
+      "dateRange": "Jan 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Product Management",
+      "company": "Kertos",
+      "companyUrl": "https://www.linkedin.com/company/kertos-compliance",
+      "description": "Kertos’ no-code SaaS solution connects entire IT-infrastructures to manage personal data and automates privacy processes across all departments.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-10",
+      "end": "2023-10",
+      "dateRange": "Oct 2022 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Interdisciplinary research project “A Human Preference-Aware Optimization System” (HPAO) in cooperation with the TUM Institute for Ethics in Artificial Intelligence with the mission to develop employee-centric algorithms in logistics.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-04",
+      "end": "2022-09",
+      "dateRange": "Apr 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Study/Research Award Grantee",
+      "company": "Fulbright Association",
+      "companyUrl": "https://www.linkedin.com/company/fulbright-association",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2021-09",
+      "end": "2022-07",
+      "dateRange": "Sep 2021 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Venture Analyst",
+      "company": "FedTech",
+      "companyUrl": "https://www.linkedin.com/company/fedtech",
+      "description": "Backed by the U.S. Department of Defense (DoD), we are a unique private venture firm commercializing deep tech across DoD, NASA, DoE, universities and other national labs. FedTech builds startups around breakthrough technology from the world's most advanced research facilities.",
+      "location": "Washington, District of Columbia, United States",
+      "start": "2020-06",
+      "end": "2021-09",
+      "dateRange": "Jun 2020 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Venture Fellow",
+      "company": "FedTech",
+      "companyUrl": "https://www.linkedin.com/company/fedtech",
+      "description": null,
+      "location": "Washington, District of Columbia, United States",
+      "start": "2020-06",
+      "end": "2020-08",
+      "dateRange": "Jun 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Software Engineering Intern",
+      "company": "PwC Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/pwc-deutschland",
+      "description": null,
+      "location": "Berlin Area, Germany",
+      "start": "2019-07",
+      "end": "2019-08",
+      "dateRange": "Jul 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Finance Intern",
+      "company": "Pantera Capital",
+      "companyUrl": "https://www.linkedin.com/company/pantera-capital",
+      "description": null,
+      "location": "San Francisco Bay Area",
+      "start": "2018-07",
+      "end": "2018-08",
+      "dateRange": "Jul 2018 – Aug 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Princeton University",
+      "degree": "Bachelor of Arts - BA, Media & Aesthetics, German",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Masters of Science, Politics and Technology",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2022 – 2023"
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "Research",
+    "Programming",
+    "Event Planning",
+    "Front-end Development",
+    "Public Speaking",
+    "German",
+    "Strategy",
+    "Project Management"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Google",
+    "tagline": null,
+    "description": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.\n\nCheck out our career opportunities at goo.gle/3DLEokh",
+    "industry": "Software Development",
+    "website": "https://goo.gle/3DLEokh",
+    "linkedInUrl": "https://www.linkedin.com/company/google",
+    "employeeCount": 341631,
+    "foundedYear": null,
+    "location": "Mountain View, United States",
+    "specialities": [
+      "search",
+      "ads",
+      "mobile",
+      "android",
+      "online video",
+      "apps",
+      "machine learning",
+      "virtual reality",
+      "cloud",
+      "hardware",
+      "artificial intelligence",
+      "youtube",
+      "software"
+    ]
+  }
+}

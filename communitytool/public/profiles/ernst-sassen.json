@@ -1,0 +1,198 @@
+{
+  "id": "ernst-sassen",
+  "name": "Dr. Ernst Sassen",
+  "headline": "Software-Engineering | IT-Consulting | Project Management",
+  "avatar": null,
+  "location": "Zurich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/ernst-sassen",
+  "personId": 1593,
+  "classes": [
+    {
+      "id": 53,
+      "label": "Spring 2003",
+      "season": "Spring",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Ernst Sassen",
+  "ca": null,
+  "summary": "Services",
+  "positions": [
+    {
+      "title": "Member Of The Board Of Advisors",
+      "company": "Brame AG",
+      "companyUrl": "https://www.linkedin.com/company/brame",
+      "description": null,
+      "location": null,
+      "start": "2021-10",
+      "end": null,
+      "dateRange": "Oct 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Consultant, Inhaber",
+      "company": "Dr. Sassen Consulting",
+      "companyUrl": null,
+      "description": "Interim Application Management, setup and optimization of development units, Scrum optimizations, solution architecture, strategic Technology choices.",
+      "location": null,
+      "start": "2021-10",
+      "end": null,
+      "dateRange": "Oct 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Application Manager",
+      "company": "Möbel Pfister AG",
+      "companyUrl": "https://www.linkedin.com/company/möbel-pfister-ag",
+      "description": "Interim Management of several Business Applications coordination and development of an international development team in an agile workmode.",
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-07",
+      "dateRange": "Jan 2022 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Head of Consulting & Projects, Mitglied der Geschäftsleitung",
+      "company": "NSM Engineering AG",
+      "companyUrl": null,
+      "description": "- CTO ad interim & Project Manager for AMROS Global: built up an agile development unit (nearshore) and a software solution for airplane transactions. Focus on scalability, machine learning and OCR.\n- Consulting for Nearshore Customers: improved agile development processes/units, Quality KPIs for e-banking software development\n- Account-Management: developed nearshore teams, optimized processes and resolved conflicts (Java and .net units)",
+      "location": "Zug, Switzerland",
+      "start": "2019-01",
+      "end": "2021-09",
+      "dateRange": "Jan 2019 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Senior Project Manager & Head of Commerce",
+      "company": "foryouandyourcustomers",
+      "companyUrl": "https://www.linkedin.com/company/foryouandyourcustomers",
+      "description": "- Introduced development processes & teams with highly distributed, multinational teams, achieved planning quality in agile projects\n- Delivered 2 large web software projects (team sizes 5-15), focus on Java, SAP Hybris and commerce support systems\n- Built up nearshore capacity of 5 developers in Romania and Bulgaria",
+      "location": "Zurich, Switzerland",
+      "start": "2016-10",
+      "end": "2018-12",
+      "dateRange": "Oct 2016 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Sabbatical Months",
+      "company": "Privat",
+      "companyUrl": null,
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2016-06",
+      "end": "2016-09",
+      "dateRange": "Jun 2016 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "Project Manager E-Commerce",
+      "company": "Migros Genossenschaftsbund",
+      "companyUrl": "https://www.linkedin.com/company/migros-genossenschafts-bund",
+      "description": "-\tSpecified replatforming project: 5 online shops integrated on one platform, lead for technology selection\n-\tSingle Sign On Portal for Migros Group: Improved Usability, integrated new services based on Java OpenID Server\n-\tOptimized software delivery process with vendor by introducing SCRUM based process, bug reduction by 30%\n-\tDelivered tablet and mobile frontends for 3 online shops",
+      "location": "Zürich",
+      "start": "2012-06",
+      "end": "2016-05",
+      "dateRange": "Jun 2012 – May 2016",
+      "current": false
+    },
+    {
+      "title": "Researcher PHD Student",
+      "company": "University of St Gallen",
+      "companyUrl": "https://www.linkedin.com/company/university-of-st-gallen",
+      "description": "- Thesis: electronic service mediation for independent living\n- Consulted industry partners: business analysis for independent living business, process optimization",
+      "location": null,
+      "start": "2006-12",
+      "end": "2011-12",
+      "dateRange": "Dec 2006 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Research Associate",
+      "company": "SAP AG, SAP Research",
+      "companyUrl": null,
+      "description": "Projects in SOA and telecommunication",
+      "location": null,
+      "start": "2006-12",
+      "end": "2010-12",
+      "dateRange": "Dec 2006 – Dec 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of St.Gallen",
+      "degree": "Doctor of Philosophy (PhD), Wirtschaftswissenschaften",
+      "dateRange": "2006 – 2012"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Informatik",
+      "dateRange": "2000 – 2006"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor´s Degree, Technology Management",
+      "dateRange": "2003 – 2005"
+    },
+    {
+      "school": "University of Illinois Urbana-Champaign",
+      "degree": "Exchange Stundent, Computer Science, Entrepreneurship",
+      "dateRange": "2003 – 2004"
+    }
+  ],
+  "skills": [
+    "Projektmanagement",
+    "E-Commerce",
+    "Business Development",
+    "Certified Scrum Product Owner",
+    "Scrum",
+    "Programmmanagement",
+    "Business Analysis",
+    "Softwareentwicklung",
+    "Software Development",
+    "Product Management",
+    "Change Management",
+    "E-Commerce SEO",
+    "Unternehmensstrategie",
+    "Consulting",
+    "Forschung",
+    "Business Strategy",
+    "Business-Intelligence",
+    "Unternehmensberatung",
+    "Digitale Strategie",
+    "hybris",
+    "Agile Webentwicklung",
+    "Online-Shop Development",
+    "Sales-Pitches",
+    "Key Account Acquisition & Retention",
+    "Digitale Transformation"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "Brame",
+    "tagline": null,
+    "description": "BRAME is a software-as-a-service (SaaS) company in martech that offers the leading solution for Gamification Marketing. \n\nBRAME built the industry's leading drag-and-drop Gamification Builder that enables the creation and implementation of Gamification mechanics and campaigns in zero time and without any programming or design effort.\n\nBRAME's Gamification Builder works similarly to common website builders like Square Space or Wix. Instead of websites, you create Gamification mechanics such as scratch cards, quizzes, hit the target, and many more and personalize them with your desired game flows, rules, and corporate identity.\n\nGamifying existing initiatives such as sweepstakes, content, promotions, and loyalty programs significantly improves results throughout the customer journey and helps you engage, convert, and retain more customers.\n\nIn addition to BRAME's intuitive self-service solution for Gamification Marketing, including customer success enablement from senior Gamification Marketing experts, BRAME offers premium services such as Gamification consulting and managed services.",
+    "industry": "Software Development",
+    "website": "https://brame.io/",
+    "linkedInUrl": "https://www.linkedin.com/company/brame",
+    "employeeCount": 116,
+    "foundedYear": null,
+    "location": "Zurich, Switzerland",
+    "specialities": []
+  }
+}

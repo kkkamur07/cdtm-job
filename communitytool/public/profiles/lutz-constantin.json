@@ -1,0 +1,198 @@
+{
+  "id": "lutz-constantin",
+  "name": "Constantin Lutz",
+  "headline": "HealthTech | TUM | MIT | CDTM",
+  "avatar": {
+    "sm": "/avatars/lutz-constantin-sm.webp",
+    "lg": "/avatars/lutz-constantin.webp",
+    "blur": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAAAQBgCdASogACAAPslQoUunpKMht/VYAPAZCWMAyiDIILHdVsquxKuu2EsrzTfZapZBTMmjzaeYwAAA/v17C41PWEB1aVoIUMhPqrMHAMjUc1ortr1Kep6kmOGb8OSXsyZaJPUE/YZCr/jnr2MJyP1yZi57L6e5u0P0lZjDKTQW/kOrU+kJ66k/uBvEEjQUXxOdLFDG1MBO6Hv2RHD+cXdT8AkaCGWBNsSdVE70gZFkNoyz+gJhHjmFBfTP4hEOzlr7XQHSGOsTzkAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lutz-constantin",
+  "personId": 1139,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Constantin Lutz",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder & CEO",
+      "company": "MedMatic",
+      "companyUrl": "https://www.linkedin.com/company/medmatic-ai",
+      "description": "Leveraging AI for admin automation in hospitals",
+      "location": "München, Bayern, Deutschland",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Founding Head of Product",
+      "company": "YEARS",
+      "companyUrl": "https://www.linkedin.com/company/years-group",
+      "description": "Germany’s #1 Healthspan & Longevity Clinic. Book your whole body check-up on years.co",
+      "location": "Munich",
+      "start": "2022-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2022 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "Researcher at the Center for Collective Intelligence. Developed and conducted Supermind-enabled (AI-enhanced group intelligence) ideation workshops on emerging technologies for government and industry partners like the US Air Force and the CIA",
+      "location": "Cambridge, Massachusetts, Vereinigte Staaten von Amerika",
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "Forto",
+      "companyUrl": "https://www.linkedin.com/company/fortocompany",
+      "description": "Conceptualized and developed CO2 emissions calculation and compensation API for freight shipments as part of Forto’s sustainability strategy",
+      "location": "Munich / Berlin",
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Pre-Seed Investment",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": "Drove product development of Picus pre-seed venture from scoping to first software sale by interviewing experts, prototyping, and steering software developer team",
+      "location": "Munich",
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Innovation Consulting",
+      "company": "better ventures group",
+      "companyUrl": "https://www.linkedin.com/company/betterventures-io",
+      "description": "Analyzed the long term future of parenting, generated scenarios and created business ideas and prototypes",
+      "location": "Munich",
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & Managing Director",
+      "company": "erimed",
+      "companyUrl": "https://www.linkedin.com/company/erimed-tms-vorbereitung",
+      "description": "- All rights to content acquired by ELSEVIER -\nerimed is an education company offering preparation for the German and Swiss medical school entrance exams. Within 2 years, erimed became one of the market leaders by offering a holistic education concept consisting of exercise books, a video platform, and an app. 10.000+ app downloads, 20.000+ book copies sold.\n\nIn 2021, all rights to erimed’s content were acquired by ELSEVIER, the world’s largest scientific publishing group. ELSEVIER books based on our content are now available in bookstores.",
+      "location": "Munich",
+      "start": "2018-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2018 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Accounting and Auditing Services",
+      "company": "EY",
+      "companyUrl": "https://www.linkedin.com/company/ernstandyoung",
+      "description": null,
+      "location": "Munich",
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Equity Markets",
+      "company": "LBBW Landesbank Baden-Württemberg",
+      "companyUrl": "https://www.linkedin.com/company/lbbw",
+      "description": null,
+      "location": "Stuttgart",
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Research Scholar, MIT Center for Collective Intelligence",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - M.Sc., Management and Technology | Major in Computer Science",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - B.Sc., Business Administration | Digital Business, Technology and Innovation",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "Hitotsubashi University",
+      "degree": "Exchange Student Hitotsubashi University Tokyo, Japan",
+      "dateRange": "2018 – 2019"
+    }
+  ],
+  "skills": [
+    "LangChain",
+    "Python (Programmiersprache)",
+    "Finanzwesen",
+    "Unternehmensmodellierung",
+    "App-Entwicklung für Mobilgeräte",
+    "Rechnungswesen",
+    "Automobilindustrie",
+    "Derivate",
+    "Start-ups",
+    "Marktanalyse",
+    "Strategie",
+    "Produktmanagement",
+    "Produktentwicklung",
+    "JavaScript",
+    "Ionic Framework",
+    "Angular",
+    "Flutter",
+    "Firebase",
+    "Deutsch",
+    "Englisch"
+  ],
+  "languages": [],
+  "company": {
+    "name": "MedMatic",
+    "tagline": "Leveraging AI for backoffice automation in hospitals",
+    "description": "MedMatic harnesses AI to streamline back-office operations in hospitals. Our first product:\n\nMediCoda – the AI copilot for medical controlling, ensuring optimal ICD and OPS coding, bulletproof documentation, and smarter case management for inpatient reimbursement.",
+    "industry": "Software Development",
+    "website": "https://medmatic.io/",
+    "linkedInUrl": "https://www.linkedin.com/company/medmatic-ai",
+    "employeeCount": 4,
+    "foundedYear": 2025,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

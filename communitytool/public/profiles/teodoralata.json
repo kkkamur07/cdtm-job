@@ -1,0 +1,220 @@
+{
+  "id": "teodoralata",
+  "name": "Teodora Lata",
+  "headline": "Product at Celonis",
+  "avatar": {
+    "sm": "/avatars/teodoralata-sm.webp",
+    "lg": "/avatars/teodoralata.webp",
+    "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAABwBQCdASogACAAPtFUpU2oJCOiMBgIAQAaCWIAwN2LzrVsKX3lAPY+lCwSdjomZy8HaeBAAP79LGqf5pVf34tf3cv0TZWW/A9bdrkuRAZ2VAK3G/sRT9T7jQqSxIx5jPHPg6LJ04vWMOjlQfvEQWktRANWHjmxbf5JJEuaiiFYjwubvbj1UVVwtqd6Lu2oi60rXZOjSqJbhLBBPst0/jUPd7IW7NaKbAkaJwRn3BC1liM3FJPN8iGDp816KoEwvLvPC1gXWzZrJTGgaxK9WBAr7kAtzfAAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/teodoralata",
+  "personId": 748,
+  "classes": [
+    {
+      "id": 82,
+      "label": "Fall 2017",
+      "season": "Fall",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2017",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Teodora Lata",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Associate Principal Product Manager",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "New York, New York, United States",
+      "start": "2023-02",
+      "end": null,
+      "dateRange": "Feb 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-08",
+      "end": "2023-12",
+      "dateRange": "Aug 2021 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-09",
+      "end": "2021-08",
+      "dateRange": "Sep 2019 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Junior Product Manager",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-03",
+      "end": "2019-06",
+      "dateRange": "Mar 2019 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "Cobrainer",
+      "companyUrl": "https://www.linkedin.com/company/cobrainer",
+      "description": "Developed language processing systems and learning methods for classification of text-based data (Java).",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-03",
+      "end": "2019-01",
+      "dateRange": "Mar 2018 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Quality Assurance for Mobile Apps Intern",
+      "company": "AutoScout24",
+      "companyUrl": "https://www.linkedin.com/company/autoscout24",
+      "description": "Developed an automated mobile app testing process (iOS, Swift).",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-11",
+      "end": "2017-11",
+      "dateRange": "Nov 2016 – Nov 2017",
+      "current": false
+    },
+    {
+      "title": "Monitoring & Process Intelligence Intern",
+      "company": "Loyalty Partner Solutions GmbH",
+      "companyUrl": "https://www.linkedin.com/company/loyalty-partner-solutions",
+      "description": "Created dashboards for customers, tracked internal KPIs and monitored internal processes.",
+      "location": null,
+      "start": "2016-03",
+      "end": "2016-08",
+      "dateRange": "Mar 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Accounting Manager Intern",
+      "company": "KONUX GmbH",
+      "companyUrl": "https://www.linkedin.com/company/konux",
+      "description": "Built the accounting processes from the ground up for a fast growing startup.",
+      "location": null,
+      "start": "2014-10",
+      "end": "2016-08",
+      "dateRange": "Oct 2014 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Academy Consult München e.V.",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": null,
+      "location": null,
+      "start": "2014-04",
+      "end": "2016-04",
+      "dateRange": "Apr 2014 – Apr 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology and Management",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Information Systems",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Information Systems",
+      "dateRange": "2013 – 2017"
+    }
+  ],
+  "skills": [
+    "Interdisciplinary Collaboration",
+    "Product Development",
+    "Software Engineering",
+    "Machine Learning",
+    "Data Science",
+    "Research",
+    "Scrum",
+    "Start-ups",
+    "Entrepreneurship",
+    "Reporting & Analysis",
+    "Business Intelligence",
+    "Management Consulting",
+    "Business Strategy",
+    "Project Management",
+    "iOS Development",
+    "Accounting",
+    "Finance",
+    "Java",
+    "Microsoft Office",
+    "HTML",
+    "JavaScript",
+    "SQL",
+    "Python (Programming Language)",
+    "Management",
+    "Communication",
+    "English",
+    "Natural Language Processing",
+    "Haskell"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian"
+  ],
+  "company": {
+    "name": "Celonis",
+    "tagline": "When processes work, everything works.",
+    "description": "Celonis makes processes work for people, companies, and the planet.\n\nThe Celonis Process Intelligence Platform takes the data from the systems you already use, and presents you with a living digital twin of your end-to-end processes. It’s system-agnostic, without bias, and provides everyone with a common language for understanding and improving processes. \n\nBecause when processes work, everything works. \n\nSince 2011, Celonis has helped 1,000+ of the world’s largest companies to realize value across the top, bottom, and green line.\n\nCelonis is headquartered in Munich, Germany, and New York City, USA, with more than 20 offices worldwide. Find out more at www.celonis.com.",
+    "industry": "Software Development",
+    "website": "http://www.celonis.com",
+    "linkedInUrl": "https://www.linkedin.com/company/celonis",
+    "employeeCount": 3804,
+    "foundedYear": 2011,
+    "location": "New York City, United States",
+    "specialities": [
+      "Process Mining",
+      "Big Data",
+      "Business Analytics",
+      "Business Processes",
+      "Intelligent Business Cloud",
+      "Intelligent Business System",
+      "Digital Transformation",
+      "Business Process Automation",
+      "Robotic Process Automation",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "SaaS",
+      "Big Data Analysis",
+      "Business Process Analysis",
+      "Process Analytics",
+      "Digital Innovation",
+      "Software Development",
+      "Real Time Optimisation",
+      "Execution Management System"
+    ]
+  }
+}

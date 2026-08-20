@@ -1,0 +1,194 @@
+{
+  "id": "philippherzberg",
+  "name": "Philipp Herzberg",
+  "headline": "Schulleiter an der School International Potsdam, Lehrer für Biologie & Psychologie",
+  "avatar": {
+    "sm": "/avatars/philippherzberg-sm.webp",
+    "lg": "/avatars/philippherzberg.webp",
+    "blur": "data:image/webp;base64,UklGRi4BAABXRUJQVlA4ICIBAADQBgCdASogACAAPtFWpkwoJKOiKA1RABoJbACdMyX8+GSqB+YD9pvisXHmcacscbBRWbijWxV2xdtEi5l2hMAAzL04fQ358zZEVM20InwgRSBsjZJgsXFo6ShL+mAePstYlZwvFY7pPs90dv+7bv3lWeNtj74qoTZ/9uq6ocHTZ0ql0/Pmljp3rMfHSzKGaWxtkRlI4Y/4OHEkEOiY7lf8yTwsTsd/o3tacQrCyufBGP6JYjKLzetxDpOfUkfSCWtI1Qb9L5KurM1dP5nhqDsgKDOQs1QVVER7aRhe76qrn5cthZfg2RTGyfBrXQJMLT6Lzd63O62Yc7aROOeeysnccoaYvAeNwNqp8nAVDqu3RSXBnwkVH1+xQvTXLCUIb4AAAA=="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/philippherzberg",
+  "personId": 1080,
+  "classes": [
+    {
+      "id": 74,
+      "label": "Fall 2013",
+      "season": "Fall",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2013",
+  "major": "Neuro-cognitive Psychology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Philipp Herzberg",
+  "ca": null,
+  "summary": "Working as a Teacher of Science at the Internationale Schule Berlin. Founder of ZenTeach. Producing YouTube videos on Education.",
+  "positions": [
+    {
+      "title": "Oberstufenkoordinator",
+      "company": "Private Kant-Schulen gGmbH",
+      "companyUrl": "https://www.linkedin.com/company/stiftung-private-kant-schulen-ggmbh",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2024-09",
+      "end": "2025-07",
+      "dateRange": "Sep 2024 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Teacher of Science",
+      "company": "Private Kant-Schulen gGmbH",
+      "companyUrl": "https://www.linkedin.com/company/stiftung-private-kant-schulen-ggmbh",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2022-08",
+      "end": "2025-07",
+      "dateRange": "Aug 2022 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "ZenTeach",
+      "companyUrl": "https://www.linkedin.com/company/zenteach",
+      "description": "Building ZenTeach - helping teachers do formative assessment better and faster.",
+      "location": "London, United Kingdom",
+      "start": "2018-10",
+      "end": "2021-05",
+      "dateRange": "Oct 2018 – May 2021",
+      "current": false
+    },
+    {
+      "title": "Science Teacher",
+      "company": "University Academy of Engineering South Bank",
+      "companyUrl": "https://www.linkedin.com/company/south-bank-university-academy",
+      "description": "Science Teacher",
+      "location": null,
+      "start": "2016-08",
+      "end": "2022-08",
+      "dateRange": "Aug 2016 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Head of Marketing",
+      "company": "Ruuta.io",
+      "companyUrl": null,
+      "description": "Building a more reliable and secure personal Wi-Fi router.\nwww.ruuta.io",
+      "location": null,
+      "start": "2015-05",
+      "end": "2015-09",
+      "dateRange": "May 2015 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Marketing and Product Development",
+      "company": "hiho.co",
+      "companyUrl": null,
+      "description": "Providing the scientific background needed for building the product,\nConceptualising and building a prototype,\nBuilding and curating the twitter account (@hihohq),",
+      "location": null,
+      "start": "2014-10",
+      "end": "2015-04",
+      "dateRange": "Oct 2014 – Apr 2015",
+      "current": false
+    },
+    {
+      "title": "Masters' Thesis Project",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Topic: How the presence of another person alters the communication of neurons within the Default-Mode Network, measured using functional magnetic resonance imaging (fMRI).",
+      "location": "Munich Area, Germany",
+      "start": "2013-12",
+      "end": "2014-06",
+      "dateRange": "Dec 2013 – Jun 2014",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Ludwig-Maximilians-Universität (LMU) München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Execution and analysis of experimental psychology experiments using behavioral measures and electroencephalography (EEG).",
+      "location": "Munich Area, Germany",
+      "start": "2013-09",
+      "end": "2013-12",
+      "dateRange": "Sep 2013 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Ludwig-Maximilians-Universität (LMU) München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Event-related potential (ERP) study on inter-trial effects during various visual search tasks.",
+      "location": "Munich Area, Germany",
+      "start": "2013-02",
+      "end": "2013-05",
+      "dateRange": "Feb 2013 – May 2013",
+      "current": false
+    },
+    {
+      "title": "Research Intern at the Laboratory for Social and Organizational Psychology",
+      "company": "Humboldt-Universität zu Berlin",
+      "companyUrl": "https://www.linkedin.com/company/humboldt-university-berlin",
+      "description": "Research investigating differences in physiological responses to emotionally charged images when viewing through 3D glasses vs. no glasses.",
+      "location": "Berlin Area, Germany",
+      "start": "2011-06",
+      "end": "2011-08",
+      "dateRange": "Jun 2011 – Aug 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master's Degree, Neuro-Cognitive Psychology",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Brunel University of London",
+      "degree": "PGCE Secondary Science (Focus: Biology), PGCE Secondary Biology (with Sciences)",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Business and IT",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Jacobs University Bremen",
+      "degree": "Bachelor's Degree, Psychology and Neuroscience",
+      "dateRange": "2009 – 2012"
+    }
+  ],
+  "skills": [
+    "STEM",
+    "Teaching",
+    "Cognitive Psychology",
+    "Photoshop",
+    "Data Analysis",
+    "Statistics",
+    "SPSS",
+    "Microsoft Excel",
+    "Microsoft Word",
+    "Matlab",
+    "PowerPoint",
+    "Windows",
+    "Public Speaking",
+    "Leadership",
+    "Communication",
+    "Team Management",
+    "fMRI",
+    "Presenter"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": null
+}

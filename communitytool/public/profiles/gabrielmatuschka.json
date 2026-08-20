@@ -1,0 +1,129 @@
+{
+  "id": "gabrielmatuschka",
+  "name": "Gabriel Matuschka",
+  "headline": "Partner at Fly Ventures",
+  "avatar": null,
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/gabrielmatuschka",
+  "personId": 1314,
+  "classes": [
+    {
+      "id": 52,
+      "label": "Fall 2002",
+      "season": "Fall",
+      "year": 2002,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2002",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Gabriel Matuschka",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Partner",
+      "company": "Fly Ventures",
+      "companyUrl": "https://www.linkedin.com/company/fly-ventures",
+      "description": "Fly is a first-check VC. We back founders everyone wants to meet but nobody dares to invest in.",
+      "location": null,
+      "start": "2016-01",
+      "end": null,
+      "dateRange": "Jan 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Principal",
+      "company": "Partech",
+      "companyUrl": "https://www.linkedin.com/company/partech",
+      "description": "Opened and headed the Berlin office for Partech Ventures\nPartech is a global venture capital firm with offices in San Francisco, Paris and Berlin",
+      "location": null,
+      "start": "2012-04",
+      "end": "2015-04",
+      "dateRange": "Apr 2012 – Apr 2015",
+      "current": false
+    },
+    {
+      "title": "Gap year",
+      "company": null,
+      "companyUrl": null,
+      "description": "Consulting, Israel, working on smth new, moving to NYC, getting into VC by accident",
+      "location": null,
+      "start": "2011-01",
+      "end": "2012-03",
+      "dateRange": "Jan 2011 – Mar 2012",
+      "current": false
+    },
+    {
+      "title": "Co-founder & CEO TripHunter",
+      "company": "brands4friends - Private Sale GmbH",
+      "companyUrl": "https://www.linkedin.com/company/brands4friends---private-sale-gmbh",
+      "description": "Co-founder & CEO of TripHunter, a shopping club for travel. Acquired by brands4friends in 03/2010. brands4friends in turn was acquired by eBay in 12/2010.",
+      "location": null,
+      "start": "2007-05",
+      "end": "2010-12",
+      "dateRange": "May 2007 – Dec 2010",
+      "current": false
+    },
+    {
+      "title": "Global Business Services",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "Worked primarily for clients in the telecommunications and media industry in Europe: CRM, application management services, major outsourcing initiatives",
+      "location": null,
+      "start": "2005-04",
+      "end": "2007-04",
+      "dateRange": "Apr 2005 – Apr 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2002 – 2004"
+    },
+    {
+      "school": "The Hong Kong University of Science and Technology",
+      "degree": "MBA visiting, Business Administration",
+      "dateRange": "2003"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master's degree, Business Administration",
+      "dateRange": "2002 – 2004"
+    },
+    {
+      "school": "Universität Passau",
+      "degree": "Bachelor's degree, Business Administration and Economics",
+      "dateRange": "2000 – 2002"
+    },
+    {
+      "school": "ASSIST American Secondary Schools for International Students and Teachers",
+      "degree": "Scholarship Program for International Scholars",
+      "dateRange": "1996 – 1997"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Fly Ventures",
+    "tagline": "First-check VC backing founders everyone wants to meet but nobody dares to invest in.",
+    "description": "Fly is a first check VC for technical founders solving hard problems. We invest from day-zero to seed, backing founders from all over Europe.\n\nWe are fortunate to have been on the zero to one journey with portfolio companies who have raised in excess of $2Bn in follow-on funding from some of the world’s best VCs.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://fly.vc",
+    "linkedInUrl": "https://www.linkedin.com/company/fly-ventures",
+    "employeeCount": 10,
+    "foundedYear": 2016,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

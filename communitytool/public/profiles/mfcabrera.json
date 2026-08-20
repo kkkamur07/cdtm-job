@@ -1,0 +1,292 @@
+{
+  "id": "mfcabrera",
+  "name": "Miguel Cabrera",
+  "headline": "Data Science and AI Lead @ Plato - Building AI Powered Products",
+  "avatar": {
+    "sm": "/avatars/mfcabrera-sm.webp",
+    "lg": "/avatars/mfcabrera.webp",
+    "blur": "data:image/webp;base64,UklGRmgBAABXRUJQVlA4IFwBAAAQBwCdASogACAAPtFgqE+oJSOiKAgBABoJbACdMzB2Z4tye73jRXqsgO9MBvNNfreRiee2ZE266oT5ihJvVvG1AAD+aVXXjNSdaKZFrrkKGn/pw3M6zKbGtiTqJ547y3a9DBE4zai8uFbk9pJOenYWLLnH85fhzJGUkXimLfnaNWBzXWzN5xtnOllDNKA/drCSqyP8NrctEXn7cyqkrVtrO61mF+jXaQi9gjN1MQ/dg7bx9+Hd2SQiHlt/q8P6zrOjjcpMBMd+Gy85LVc8rEn7tsmekWwkFldrzWfhMJ0fuIbptohYqzVqyb7PcJ3tAi4gnUZhrPD+udQEzku6/VhvRDpFKRgUdK50hzA4UV0Ny0oSNSMeQBGn3YzIojdkFuwR7r55IWB/aa6A1BoNnzJUr1uX0DWBv6ewuWz9dAxYKsoylUaxknRMFoEOR9edurX7ECUVY34YXOgSAAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/mfcabrera",
+  "personId": 754,
+  "classes": [
+    {
+      "id": 72,
+      "label": "Fall 2012",
+      "season": "Fall",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2012",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Miguel Cabrera",
+  "ca": null,
+  "summary": "Software Developer with a passion for  Machine Learning and  Data Driven solutions.",
+  "positions": [
+    {
+      "title": "Head of Data Science and AI",
+      "company": "Plato (DM Technologies GmbH)",
+      "companyUrl": "https://www.linkedin.com/company/platoapp",
+      "description": "Built the company’s AI & data function from zero: designed the end-to-end ML platform, productionised recommendation models, and stood up a modern analytics stack on Databricks.\n\nDesigned the core Data Model used by the App, Analytics and ML. \n\nLead & mentor a cross-functional team of three ML / data engineers; introduced agile MLOps internal processes. \n\nPartner to C-suite & Product: shape roadmap, design the AI powered features and define success metrics.\n\nStack highlights: Databricks · MLFlow · Python ·  Postgres · GitHub Actions.",
+      "location": "Berlin, Germany",
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "PyData Berlin 2015 - Processing Hotel Reviews with Python",
+      "company": "TrustYou",
+      "companyUrl": "https://www.linkedin.com/company/trustyou",
+      "description": "PyData Berlin 2015 - Processing Hotel Reviews with Python Video https://www.youtube.com/watch?v=eIEsdluhoxY",
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Senior Data Scientist",
+      "company": "Shopify",
+      "companyUrl": "https://www.linkedin.com/company/shopify",
+      "description": null,
+      "location": "Berlin/Remote",
+      "start": "2021-09",
+      "end": "2023-06",
+      "dateRange": "Sep 2021 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Staff Data Scientist",
+      "company": "NEW YORKER",
+      "companyUrl": "https://www.linkedin.com/company/new-yorker",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2020-02",
+      "end": "2021-07",
+      "dateRange": "Feb 2020 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Senior Data Scientist",
+      "company": "NEW YORKER",
+      "companyUrl": "https://www.linkedin.com/company/new-yorker",
+      "description": "Working on:\n- Data pipelines optimization\n- Sales forecasting\n\nTech: Python, pySpark, Pandas, SKlearn, Mesos/DCOS, Hadoop (Cloudera)",
+      "location": "Berlin Metropolitan Area",
+      "start": "2017-11",
+      "end": "2020-01",
+      "dateRange": "Nov 2017 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Senior Data Science Engineer - Tech Lead",
+      "company": "TrustYou",
+      "companyUrl": "https://www.linkedin.com/company/trustyou",
+      "description": "I architect, lead and develop the implementation of data processing pipelines that make use of machine learning,  natural language processing, and information retrieval techniques to extract information from large amount of unstructured text data. \n\nTechnologies: Mostly Python (Scikit-Learn, Luigi, Pandas)  based technologies and tools  in combination with Hadoop related technologies (Pig, Spark, Kafka,  etc)  and SQL and NoSQL databases (MongoDB, PostgreSQL, Elasticsearch). \n\nTalks at: Europython, PyConDe and PyConCo.",
+      "location": "Berlin Metropolitan Area",
+      "start": "2015-06",
+      "end": "2017-10",
+      "dateRange": "Jun 2015 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Data Science Engineer",
+      "company": "TrustYou",
+      "companyUrl": "https://www.linkedin.com/company/trustyou",
+      "description": "- Succeeded in a variety of natural language processing (NLP), ML  and Data Engineering  projects in an international team using large amount of text data.\n- Gave talks at Munich DataGeeks and PyData Berlin 2015.\n\nTechnologies: Mostly Python based technologies and tools  in combination with Hadoop related technologies  and SQL and NoSQL databases (MongoDB, PostgreSQL).",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-06",
+      "end": "2015-05",
+      "dateRange": "Jun 2014 – May 2015",
+      "current": false
+    },
+    {
+      "title": "Founder and Organizer (Meetup)",
+      "company": "Munich Datageeks e.V.",
+      "companyUrl": null,
+      "description": "- Together with a friend I started a Meetup focusing on “Intelligent Data Processing” (Data Science, Machine Learning, Hadoop…) called Munich Datageeks: http://www.meetup.com/Munich-Datageeks\n- We have organized events with > 100 attendants, featuring highly proficient speakers and external sponsors and therewith (to the best of my knowledge) established the most active and biggest platform for Data Scientists and Machine Learning practitioners in Munich.",
+      "location": "Munich",
+      "start": "2013-06",
+      "end": "2015-03",
+      "dateRange": "Jun 2013 – Mar 2015",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Gini GmbH",
+      "companyUrl": "https://www.linkedin.com/company/gini-gmbh",
+      "description": "In charge of improving and tuning the models that power Gini's  automatic document classification and information extraction engines. I improved the document classifier by  defining standard training / testing/ validation procedures and extending the feature set.   In addition to this, I wrote my M.Sc. dissertation on the applicability of  continuous word vector representation, (i.e. word features) on German language datasets in particular in the context of document classification. \n\nTools and Techniques: Support Vector Machines, Scala, Java, ElasticSearch, (i)Python / Scipy.",
+      "location": "Munich",
+      "start": "2013-06",
+      "end": "2014-05",
+      "dateRange": "Jun 2013 – May 2014",
+      "current": false
+    },
+    {
+      "title": "HiWi - Research Assistant - FastFix Project",
+      "company": "TU München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Software developer for the EU funded research project FastFix (Monitoring control for remote software maintenance) http://www.fastfixproject.eu/",
+      "location": "Garching bei München",
+      "start": "2011-12",
+      "end": "2012-09",
+      "dateRange": "Dec 2011 – Sep 2012",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Suramericana de Seguros",
+      "companyUrl": "https://www.linkedin.com/company/seguros-sura",
+      "description": "- Design, build and support for projects the underlying technical architectures that will support the application development teams, meet the demands of execution requirements for the applications, as well as operational requirements to monitor and support the applications.\n\n- Involved in hands-on activities with the underlying technologies, managing technical architecture teams, through to assist.\n\n- In charge of the Configuration Management process of a team of around 150+ developers and analysts. Collaborated with the operations team in order to standardize environments and also put them under a CM process.  \n\nTechnologies & Tools: Java, JEE Technologies, XML Technologies,Oracle Application Server (OC4J), Databases (Oracle), WS-*,Subversion, Drools.",
+      "location": "Medellin",
+      "start": "2009-07",
+      "end": "2011-09",
+      "dateRange": "Jul 2009 – Sep 2011",
+      "current": false
+    },
+    {
+      "title": "System Integration Analyst",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": "Analyst in a Murex implementation. \nI was a technical lead in  the integration team for a Murex implementation that included 3 companies and people in different countries (Spain, USA and Colombia)\n\nTechnology: Linux,AIX, C/C++, Java,Servlets,  Websphere MQ, Murex.\nWe also used MX.3 Workflows and MDCS Modules.",
+      "location": null,
+      "start": "2008-02",
+      "end": "2009-07",
+      "dateRange": "Feb 2008 – Jul 2009",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "National University of Colombia",
+      "companyUrl": null,
+      "description": "Web Development, NOAA WaveWatch model set-up and run, Matlab programming.",
+      "location": null,
+      "start": "2007-03",
+      "end": "2007-09",
+      "dateRange": "Mar 2007 – Sep 2007",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Soluciones Kazak Ltda",
+      "companyUrl": null,
+      "description": "While in college.\nVarious Responsibilities:   Custom Ubuntu distribution developer, Open Source Migration, Server Administration, Shell Scripting.\nRuby, Bash, Ubuntu.",
+      "location": null,
+      "start": "2006-01",
+      "end": "2006-12",
+      "dateRange": "Jan 2006 – Dec 2006",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Interplanet",
+      "companyUrl": "https://www.linkedin.com/company/interplanet",
+      "description": "While in college.\nSoftware developer, System Administration.\nLinux, C, Java and Perl. freeRadious setup and configuration.",
+      "location": null,
+      "start": "2005-02",
+      "end": "2005-12",
+      "dateRange": "Feb 2005 – Dec 2005",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Informatics",
+      "dateRange": "2011 – 2013"
+    },
+    {
+      "school": "Never Stop Learning",
+      "degree": "Not for credit",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Master, Technology Management",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Universidad Nacional de Colombia",
+      "degree": "Engineer, Systems and Informatics",
+      "dateRange": "2003 – 2007"
+    }
+  ],
+  "skills": [
+    "Spark Streaming",
+    "Deep Learning",
+    "MLflow",
+    "The Databricks Lakehouse Platform",
+    "MongoDB",
+    "PyTorch",
+    "Demand Forecasting",
+    "Pandas",
+    "Python (Programming Language)",
+    "Data Modeling",
+    "PySpark",
+    "Software Development",
+    "Machine Learning",
+    "Python",
+    "Software Engineering",
+    "Shell Scripting",
+    "Software Design",
+    "Scrum",
+    "Distributed Systems",
+    "Test Driven Development",
+    "Agile Methodologies",
+    "Software Project Management",
+    "Data Analysis",
+    "Big Data",
+    "Extract, Transform, Load (ETL)",
+    "Linux",
+    "Java",
+    "Java Enterprise Edition",
+    "Subversion",
+    "SQL",
+    "C",
+    "Scala",
+    "Bash",
+    "REST",
+    "Hadoop",
+    "PostgreSQL",
+    "Git",
+    "pandas",
+    "LightGBM",
+    "Jupyter",
+    "Seaborn",
+    "Apache Spark",
+    "Oracle Application Server",
+    "Data Science",
+    "Cassandra",
+    "ElasticSearch",
+    "Catboost",
+    "Scikit-Learn",
+    "Spark"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Plato",
+    "tagline": "Wir bauen die Zukunft des Großhandels.",
+    "description": "Plato (DM Technologies GmbH) ist die ganzheitliche Wachstumsplattform für den Großhandel. Wir erhöhen Umsätze durch KI-Analysen wie Up- & Cross-Selling und senken Kosten durch Prozessautomatisierungen verbunden mit tiefer ERP-Integration.\n\nBei Plato kommen wir selbst aus dem Großhandel, denken wie Familienunternehmer und entwickeln ein Produkt Hand in Hand mit unseren Kunden, um den B2B-Handel für die nächste Generation stark aufzustellen.",
+    "industry": "Software Development",
+    "website": "https://www.platoapp.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/platoapp",
+    "employeeCount": 35,
+    "foundedYear": 2023,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

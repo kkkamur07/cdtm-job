@@ -1,0 +1,157 @@
+{
+  "id": "danielherzog89",
+  "name": "Dr. Daniel Herzog",
+  "headline": "IT Consultant & Product Manager at Netlight",
+  "avatar": {
+    "sm": "/avatars/danielherzog89-sm.webp",
+    "lg": "/avatars/danielherzog89.webp",
+    "blur": "data:image/webp;base64,UklGRlgBAABXRUJQVlA4IEwBAADQBgCdASogACAAPtFUpk2oJCOiMBgIAQAaCWwAnTKEeYrX4QG2AGe7aFQUPlXIx/idqHCVaBAyfN6cYOL1fgAA/ZfHTtLBYbilDlvDI+a/jtR2nmYm1BH6Rv9dNf05tJvinBV28sn549OgK9ZRvN2fTvR1mEcJqE04LukDGEcCCOFPUsNg9i/Cr8yRGUnRKBVYGLvMZWQh/4dNAXS90N+4a/ESZPEFuN74QoU3KtLlnGOWmn/1ynuRL7fA/7ioHIZs6FOV9Q5YE9qty6pLApnOzE+TIWL19N1DjStSpqbJ/vGFf0djxILcCofZLTYiWWM1SBjEcUkn+fVrYPyC/qXF+5b7ff4cfffg5ZU+YmmFANmcssH9Mbm/7OhY9sh06XUrwd9oGFF4tt+ylCewpjswMzCaqujUm4uSZPHxoXmYYytzuleQL+tDZD5uAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/danielherzog89",
+  "personId": 944,
+  "classes": [
+    {
+      "id": 74,
+      "label": "Fall 2013",
+      "season": "Fall",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2013",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Daniel Herzog",
+  "ca": null,
+  "summary": "I am a Senior Product Manager and Consultant with several years of cross-industry B2B and B2C experience. I am passionate about shaping clear product visions and translating them into actionable roadmaps with measurable outcomes, working closely with engineering, business, and leadership in agile environments.",
+  "positions": [
+    {
+      "title": "IT Consultant & Product Manager",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": "Product Consulting and interim Product Manager roles across multiple B2B and B2C engagements, driving product discovery and delivery. \nEmbedded into client engineering teams, collaborating closely with management, customers, and cross-functional stakeholders to achieve measurable outcomes. \nAdvised leadership teams on product strategy, agile methodologies, and organizational development to strengthen product organizations",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-11",
+      "end": null,
+      "dateRange": "Nov 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Assistant / Doctoral candidate",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Research focus: recommender systems, human-computer interaction, and mobility services\nResearch project (until 12/18): TUM Living Lab Connected Mobility (TUM LLCM): http://tum-llcm.de/\nLeading the design and development of the mobile recommender system TourRec: https://tourrec.cm.in.tum.de/\nConducting user experiments and usability tests\nPresenting results on international conferences",
+      "location": "Munich Area, Germany",
+      "start": "2015-08",
+      "end": "2019-10",
+      "dateRange": "Aug 2015 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Working student Software Engineering",
+      "company": "4A Solutions GmbH",
+      "companyUrl": "https://www.linkedin.com/company/4a-solutions-gmbh",
+      "description": "Full Stack Development of web-based and mobile applications (Java (EE), JSF, Javascript, Jersey, MySQL, Hibernate, Spring, Maven, Android)\nDesign, development and evaluation of the event recommender system eve within the scope of my master thesis: http://eventempfehlung.de/ (today available as in München Eventguide for Android and iOS)",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2012-11",
+      "end": "2015-07",
+      "dateRange": "Nov 2012 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Intern Product Management BMW ConnectedDrive",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Support the product management in developing new ideas and strategies for connected mobility services (e.g, BMW Apps, BMW Online und BMWi)",
+      "location": null,
+      "start": "2012-04",
+      "end": "2012-10",
+      "dateRange": "Apr 2012 – Oct 2012",
+      "current": false
+    },
+    {
+      "title": "Working student Quality Assurance",
+      "company": "1&1 Internet SE",
+      "companyUrl": "https://www.linkedin.com/company/ionos",
+      "description": null,
+      "location": null,
+      "start": "2010-04",
+      "end": "2011-08",
+      "dateRange": "Apr 2010 – Aug 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Information Systems",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "Télécom Paris",
+      "degree": "Erasmus semester abroad",
+      "dateRange": "2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Technology Management",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Université de Sherbrooke",
+      "degree": "TUM Exchange semester abroad",
+      "dateRange": "2011"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Information Systems",
+      "dateRange": "2009 – 2012"
+    }
+  ],
+  "skills": [
+    "Product Management",
+    "Agile Methodologies",
+    "C-Level Communications",
+    "Stakeholder Management",
+    "Produktmanagement",
+    "Agile Methoden",
+    "Softwareentwicklung",
+    "Mensch-Computer-Interaktion",
+    "Scrum",
+    "Android Entwicklung",
+    "Nutzerzentriertes Design",
+    "Webtechnologien",
+    "Kanban",
+    "Java",
+    "MySQL",
+    "Microsoft Office",
+    "Git",
+    "LaTeX",
+    "JIRA",
+    "Tableau"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Netlight",
+    "tagline": "Transforming ideas into reality in the digital landscape.",
+    "description": "Netlight is an international digital consulting firm, helping leading companies to succeed in the digital landscape, from advice to implementation. Our ambition is to co-create and be an augmented partner to our clients as they explore the digital landscape. \n\nOur clients range from industry-leading enterprises to disruptive startups turning into unicorns. Trusted with their challenges, we have built a unique experience since 1999 in how to approach the uncharted digital landscape and go from idea to reality, together.\n\nWe strive to be role models — conscious of positive change at the forefront of society's digital transformation. Creativity thrives in an inclusive and diverse culture. Together with our ambitious clients, we engage in challenges to make a sustainable impact. \n\nNetlight is located in Stockholm, Helsinki, Oslo, Copenhagen, Amsterdam, Hamburg, Berlin, Munich, Cologne, Zurich, Frankfurt, London, Toronto, Gothenburg, and Madrid.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.netlight.com",
+    "linkedInUrl": "https://www.linkedin.com/company/netlight-consulting",
+    "employeeCount": 2135,
+    "foundedYear": 1999,
+    "location": "Local offices in Berlin, Copenhagen, Frankfurt, Hamburg, Helsinki, Munich, Oslo, Stockholm, Zurich, Amsterdam, Cologne, London, Toronto, Madrid, and Gothenburg., OO",
+    "specialities": []
+  }
+}

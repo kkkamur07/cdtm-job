@@ -1,0 +1,101 @@
+{
+  "id": "nikolas-keller",
+  "name": "Nikolas Keller",
+  "headline": "Co-Founder @ Walter (YC P26)",
+  "avatar": {
+    "sm": "/avatars/nikolas-keller-sm.webp",
+    "lg": "/avatars/nikolas-keller.webp",
+    "blur": "data:image/webp;base64,UklGRgABAABXRUJQVlA4IPQAAADQBgCdASogACAAPtFepU6oJSMiKAqpABoJZgCdMyX/U8Aa0Vf2We+Ram4GJihzcrkSchH3MZiLXRst/rg4NnoA/vqqXVPXyYUDi2qc94wKM+0eiliieNL0P68sYeUibKHqMWCTm8aRKulbvqRX8/Qna50ENO6SriHxUxahf+4djHA8rForFocm/Wjh62c9XlzB1GR/2/naUR2qTtZHVvcWAFuNd+hitQ2NkgPMlgStWgUreK3inYZGnejk3Eze7reB9UB5GGqvPuDSpAMwXsJdXOyKhrrHu8x5612TRsf9W2Ff66B6LQm68Wb2sYKLmtNXlCAA"
+  },
+  "location": "United States, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/nikolas-keller",
+  "personId": 2117,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Nikolas Keller",
+  "ca": null,
+  "summary": "Hi",
+  "positions": [
+    {
+      "title": "CEO",
+      "company": "Walter (YC P26)",
+      "companyUrl": "https://www.linkedin.com/company/vaultertechnologies",
+      "description": null,
+      "location": null,
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Intern",
+      "company": "Dryft",
+      "companyUrl": "https://www.linkedin.com/company/dryft-hq",
+      "description": "Backed by Neo & GC",
+      "location": null,
+      "start": "2025-03",
+      "end": "2025-07",
+      "dateRange": "Mar 2025 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Cook",
+      "company": "Restaurants",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2023-05",
+      "end": "2025-02",
+      "dateRange": "May 2023 – Feb 2025",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Y Combinator",
+      "degree": "Spring 2026",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Fall 2025",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian"
+  ],
+  "company": {
+    "name": "Walter (YC P26)",
+    "tagline": "Building an AI Employee",
+    "description": "We are building Walter: an AI employee that autonomously executes tasks that humans perform on a computer.",
+    "industry": "Software Development",
+    "website": "https://www.vaulter.finance",
+    "linkedInUrl": "https://www.linkedin.com/company/vaultertechnologies",
+    "employeeCount": 2,
+    "foundedYear": 2026,
+    "location": "USA, United States",
+    "specialities": []
+  }
+}

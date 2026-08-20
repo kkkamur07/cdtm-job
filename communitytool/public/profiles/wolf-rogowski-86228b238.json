@@ -1,0 +1,59 @@
+{
+  "id": "wolf-rogowski-86228b238",
+  "name": "Wolf Rogowski",
+  "headline": "Professur für Management im Gesundheitswesen",
+  "avatar": null,
+  "location": "Bremen, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/wolf-rogowski-86228b238",
+  "personId": 1723,
+  "classes": [
+    {
+      "id": 100,
+      "label": "Fall 2000",
+      "season": "Fall",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2000",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Wolf Rogowski",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Professur für Management im Gesundheitswesen",
+      "company": "Universität Bremen",
+      "companyUrl": "https://www.linkedin.com/company/university-of-bremen",
+      "description": null,
+      "location": "Bremen, Deutschland",
+      "start": "2016-03",
+      "end": null,
+      "dateRange": "Mar 2016 – Present",
+      "current": true
+    }
+  ],
+  "schools": [],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "University of Bremen",
+    "tagline": "Become part of a young, research-based and innovative community.",
+    "description": "Roughly 23,000 people are currently active as students, teachers, researchers, or employees of the University of Bremen. It has become one of Germany`s eleven top universities of excellence. It is the science center of Northern Germany, renowned for its strengths in the sciences and engineering disciplines, as well as the humanities and the social sciences.\r\n\r\nThe work carried out by its researchers, many of whom of international repute, provide  important stimuli for the development of innovative ideas and the resolution of problems facing society in general. Visiting guests from all over the world enrich campus life at the University of Bremen, which is well-known in the student community as a cosmopolitan venue for studying and research. Always open for new ideas and on the lookout for ways to adapt and improve, the university administration and academic staff have been interacting with the public and working with community groups for the past forty years.\r\n\r\nThe exceptional quality of research in Bremen is due, among other things, to the university’s close collaboration with numerous independent research institutes, both on campus and around the region. Their competence and vitality have attracted more than four hundred research and business ventures to the technology park around campus, creating a nationally recognized hub of high technology.",
+    "industry": "Higher Education",
+    "website": "http://www.uni-bremen.de/en",
+    "linkedInUrl": "https://www.linkedin.com/company/university-of-bremen",
+    "employeeCount": 3241,
+    "foundedYear": 1971,
+    "location": "Bremen, Germany",
+    "specialities": []
+  }
+}

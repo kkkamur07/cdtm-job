@@ -1,0 +1,248 @@
+{
+  "id": "mariameier",
+  "name": "👩‍💻 Maria Meier Endler",
+  "headline": "Head of Agentic Systems and Engineering | LLMs and Reinforcement Learning | CDTM | Founder and previously CTO of Phantasma Labs",
+  "avatar": null,
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/mariameier",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "Maria Meier is a deep tech AI leader and sought-after speaker on topics at the intersection of Reinforcement Learning, Large Language Models, and responsible AI. Currently, she leads fine-tuning and evaluation efforts for frontier LLMs at Aleph Alpha.\n\nAs the Co-Founder and former CTO of Phantasma Labs, Maria built a diverse, world-class AI team and delivered simulation-driven products that are redefining mobility and industrial planning. She has shipped multiple products from scratch, each built on novel technology stacks and shaped by close client collaboration.\n\nMaria has shared her insights on platforms like the Alphalist CTO podcast (2022), where she spoke about responsible AI and the future of mobility. She is also the winner of the She Loves Tech Award (2019) for deep-tech female founders.\n\nShe brings not just technical depth—across RL, MLOps, LLMs, and cloud—but also a passion for communicating AI’s challenges and potential to diverse audiences, from engineers to executives. Whether on stage or in the lab, Maria is focused on shaping a future where AI is not only powerful, but transparent, fair, and human-aligned.",
+  "positions": [
+    {
+      "title": "Head of Agentic Systems and Engineering",
+      "company": "Acto",
+      "companyUrl": "https://www.linkedin.com/company/heyacto",
+      "description": "Leading AI and Engineering at Acto, with a focus on building agentic systems from the ground up. Overseeing end-to-end product development, from voice agents and data pipelines to infrastructure and real-time decision systems. Driving innovation at the intersection of LLMs, agent architectures, and user-facing applications.",
+      "location": "Berlin, Germany",
+      "start": "2025-08",
+      "end": null,
+      "dateRange": "Aug 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Artificial Intelligence",
+      "company": "Acto",
+      "companyUrl": "https://www.linkedin.com/company/heyacto",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2025-08",
+      "end": "2025-09",
+      "dateRange": "Aug 2025 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Senior Team Lead AI Engineering",
+      "company": "Aleph Alpha",
+      "companyUrl": "https://www.linkedin.com/company/aleph-alpha",
+      "description": null,
+      "location": null,
+      "start": "2025-04",
+      "end": "2025-07",
+      "dateRange": "Apr 2025 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "AI Engineering Manager",
+      "company": "Aleph Alpha",
+      "companyUrl": "https://www.linkedin.com/company/aleph-alpha",
+      "description": "Driving the frontier of intelligent decision-making.\nAs a manager of managers, I lead reinforcement learning (RL) efforts at scale—building and empowering high-performing teams that push the boundaries of applied AI. From strategy to execution, I lead efforts ensuring our systems not only learn, but adapt and optimize.",
+      "location": null,
+      "start": "2024-09",
+      "end": "2025-03",
+      "dateRange": "Sep 2024 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "On Deck Deep Tech Fellow | ODDT1",
+      "company": "On Deck",
+      "companyUrl": "https://www.linkedin.com/company/'odf'",
+      "description": null,
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-10",
+      "dateRange": "Oct 2021 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Co - Lead of Working Group Mobility",
+      "company": "KI Bundesverband e.V.",
+      "companyUrl": "https://www.linkedin.com/company/ki-verband",
+      "description": "The association aims to promote the technology and adoption of Artificial Intelligence in Germany.",
+      "location": null,
+      "start": "2021-03",
+      "end": "2023-03",
+      "dateRange": "Mar 2021 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "CTO and Co - founder",
+      "company": "Phantasma Labs Limited",
+      "companyUrl": "https://www.linkedin.com/company/phantasma-labs-limited",
+      "description": "Co-Founder and CTO of Phantasma, a deep-tech AI startup to solve mobility and industrial planning solutions. In those 5 years I have:\n\n- Shipped 3 products on completely different tech stacks from scratch. Managed discovery, client interviews, planning, delivery and support for all of them\n\n- Created and managed a world-class AI team in Reinforcement Learning, with data science researchers (3 w/PhDs),  data engineers and ML-Ops. We build our own training environments and feedback & evaluation mechanisms \n\n- Hired 20+ employees, trained 2 people managers. Created hiring pipelines, did screening interviews and technical challenges for game engineers, front-end engineers, backend engineers, game design artists, data science engineers, QA engineers, ML Ops and DevOps engineers\n\n- Built and maintained cloud infrastructure on AWS, CI/CD pipelines thought GitHub, monitoring costs and availability for cost-intensive AI training models",
+      "location": "Berlin Area, Germany",
+      "start": "2018-07",
+      "end": "2023-12",
+      "dateRange": "Jul 2018 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "BE1 Cohort Member",
+      "company": "Entrepreneur First",
+      "companyUrl": "https://www.linkedin.com/company/entrepreneurs-first",
+      "description": null,
+      "location": null,
+      "start": "2018-04",
+      "end": "2018-09",
+      "dateRange": "Apr 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Simplaex",
+      "companyUrl": "https://www.linkedin.com/company/simplaex-ognorivr",
+      "description": null,
+      "location": "Berlin und Umgebung, Deutschland",
+      "start": "2017-07",
+      "end": "2018-01",
+      "dateRange": "Jul 2017 – Jan 2018",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Oracle",
+      "companyUrl": "https://www.linkedin.com/company/oracle",
+      "description": "Working on Project RAPID, a hardware-software co-design project targeting large-scale data management and analysis.",
+      "location": "Redwood Shores, California",
+      "start": "2014-07",
+      "end": "2015-01",
+      "dateRange": "Jul 2014 – Jan 2015",
+      "current": false
+    },
+    {
+      "title": "Global Shaper",
+      "company": "World Economic Forum",
+      "companyUrl": "https://www.linkedin.com/company/world-economic-forum",
+      "description": "The Global Shapers Community is a network of Hubs developed and led by young people who are exceptional in their potential, their achievement and their drive to make a contribution to their communities.",
+      "location": null,
+      "start": "2013-09",
+      "end": "2014-09",
+      "dateRange": "Sep 2013 – Sep 2014",
+      "current": false
+    },
+    {
+      "title": "Engineering Intern",
+      "company": "EyeEm",
+      "companyUrl": "https://www.linkedin.com/company/eyeem",
+      "description": null,
+      "location": null,
+      "start": "2013-08",
+      "end": "2013-10",
+      "dateRange": "Aug 2013 – Oct 2013",
+      "current": false
+    },
+    {
+      "title": "Technical Teaching Fellow",
+      "company": "Meltwater Entrepreneurial School of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mestafrica",
+      "description": "The Meltwater Entrepreneurial School of Technology (MEST) and the MEST Incubator provide training, investment and mentoring for aspiring Ghanian software entrepreneurs with the goal of creating globally successful companies and wealth and jobs locally in Africa. \n- Designed a year - long curriculum for a class of 22 Ghanaian university graduates\n- Taught 50+ lectures/workshops on introductory programming, algorithms, databases, software engineering, online marketing",
+      "location": "Accra, Ghana",
+      "start": "2011-08",
+      "end": "2012-06",
+      "dateRange": "Aug 2011 – Jun 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Brown University",
+      "degree": "Visiting Researcher",
+      "dateRange": "2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.) with honors, Software Engineering - Elite Graduate Program, Computer Science",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Information Systems",
+      "dateRange": "2008 – 2012"
+    },
+    {
+      "school": "USP - Universidade de São Paulo",
+      "degree": "Semester Abroad, Computer Science",
+      "dateRange": "2010 – 2011"
+    }
+  ],
+  "skills": [
+    "Engineering Management",
+    "Technical Leadership",
+    "People Management",
+    "Artificial Intelligence (AI)",
+    "Reinforcement Learning",
+    "Software Project Management",
+    "Start-ups",
+    "Entrepreneurship",
+    "Programming",
+    "Software Engineering",
+    "Software Development",
+    "Product Development",
+    "Distributed Systems",
+    "Machine Learning",
+    "Strategy",
+    "Business Strategy",
+    "Project Management",
+    "Java",
+    "Python",
+    "MySQL"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Acto",
+    "tagline": "Revenue Intelligence Companion for field sales teams in wholesale & manufacturing",
+    "description": "Acto's intelligent AI assistant helps wholesale and manufacturing sales teams measurably boost revenue:\n\n- Prioritize customers by real revenue potential\n- Prepare targeted meetings - even while on the road\n- Soon: Effortlessly follow up\n\nActo spots the needle in the haystack—identifying churn risks and cross-sell gold from thousands of customers and products. The right action, right time, right in your workflow: Mobile, ERP, CRM, or Outlook.\n\nThe payoff:\n\n- Catch churn before it happens\n- Turn hidden opportunities into revenue\n- Work smarter, not harder—no more drowning in reports\n\nOffice supplies to medical tech—companies like Schäfer Shop, Hitado, and Böllhoff are already seeing the results.",
+    "industry": "Software Development",
+    "website": "https://www.heyacto.com?utm_source=linkedin&utm_medium=organic&utm_campaign=company_profile",
+    "linkedInUrl": "https://www.linkedin.com/company/heyacto",
+    "employeeCount": 35,
+    "foundedYear": 2021,
+    "location": "Paderborn, Germany",
+    "specialities": [
+      "Decision Intelligence",
+      "ERP Automation",
+      "Sales Signals",
+      "B2B Vertrieb",
+      "Software as a Service",
+      "Sales Analytics",
+      "Sales Intelligence",
+      "Machine Learning",
+      "ERP",
+      "Predictive Analytics",
+      "Wholesale",
+      "Churn Prevention",
+      "Cross-Selling",
+      "Wholesale Solutions",
+      "Manufacturing Solutions",
+      "AI Software"
+    ]
+  }
+}

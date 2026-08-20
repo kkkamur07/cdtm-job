@@ -1,0 +1,323 @@
+{
+  "id": "marius-wiggert",
+  "name": "Marius Wiggert",
+  "headline": "Staff AI Researcher @BioHub - making biology programmable 🧬| prev. AI PhD @UC Berkeley, Google X, WorldFund, McKinsey",
+  "avatar": {
+    "sm": "/avatars/marius-wiggert-sm.webp",
+    "lg": "/avatars/marius-wiggert.webp",
+    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAACQBQCdASogACAAPsFMn0unpCKht/qoAPAYCWgAuwGM5yq2NGkcbaz6uN4eXLOMJWl1SVexIAD+/sKgy6dml3+Vg456CqSXvW3G87oZA6Hq40M/rHgdH6X4MwboBT/urVok6ryJ5elFW1WgEbdb21NfI8BRiYZvwoZIPaH3+8mPiJs7ANW5WwsxlC4G/QwPl8/fP8cUbeloBUHIQDJv5y1XvFIqyoVAZwTZJX/ByuIWiclRSJkWQn0YhOUo23NQO5sZFK06HcntiOV/94I/UO6wqS3hNnp6gQUQqMbw+0+TJP9rR+OTxxDhkU5pDFyhgAA="
+  },
+  "location": "Berkeley, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/marius-wiggert",
+  "personId": 857,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": "Engineering Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Marius Wiggert",
+  "ca": null,
+  "summary": "I am passionate about emerging technologies from the details of how they work, building and improving them through research, to how they enable impactful solutions tackling critical problems of our time 🌎. \n\nCurrently working on making Biology programmable 🧬 our models will accelerate research to design cures for diseases and replace the petrochemical industry with synthetic biology 🧪\n\n🦾 I love pushing human knowledge with research in AI, Machine Learning and Robotics, publishing at major conferences and journals.\n🌱 Building tech for impactful applications, in various areas such as bio, climate by collaborating with and advising Start-Ups and as core team at Climate Change AI (NGO).\n🚀  I thrive in interdisciplinary teams and fast-paced environments and have been involved in various roles within the Start-Up, VC, innovation ecosystem for 8 years.\n\nFor more info and my publications check out https://mariuswiggert.github.io/",
+  "positions": [
+    {
+      "title": "Staff AI Research Scientist",
+      "company": "Biohub",
+      "companyUrl": "https://www.linkedin.com/company/cz-biohub",
+      "description": "Continuing to innovate at the intersection of AI x Biology with our great team from EvolutionaryScale.",
+      "location": "San Francisco Bay Area",
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Member of Technical Staff - Senior AI Research Scientist",
+      "company": "EvolutionaryScale",
+      "companyUrl": "https://www.linkedin.com/company/evolutionaryscale",
+      "description": "🧬 Second hire → 50 people (acquired by CZI). Pre-training & post-training multi-modal protein foundation models (ESM-C, ESM3). Leading research on alignment to experimental data, inference-time scaling for protein design, and systems for scientific discovery. Published in Science.",
+      "location": "San Francisco, California, Estados Unidos",
+      "start": "2024-01",
+      "end": "2025-11",
+      "dateRange": "Jan 2024 – Nov 2025",
+      "current": false
+    },
+    {
+      "title": "Climate Tech Venture Capital Fellow",
+      "company": "World Fund",
+      "companyUrl": "https://www.linkedin.com/company/worldfund",
+      "description": "Working in the investment teams to empower entrepreneurs in climate tech building a regenerative world. \nAnalyzed 100+ Start-Ups, Developed sub-sector investment thesis on Carbon Removal, and lead Climate Performance Potential calculation during DD for $128M Series A in Quantum Computing Start-Up IQM",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "start": "2022-06",
+      "end": "2022-09",
+      "dateRange": "Jun 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "ML/Robotics Start-Up Consultant & Research Advisor",
+      "company": "Phykos, PBC",
+      "companyUrl": "https://www.linkedin.com/company/phykos-pbc",
+      "description": "Supporting the founders on various topics on the technical and business aspects of an early-stage Climate-Tech Start-Up.\n\n- Robotics lead: Ensuring the academic research at Berkeley and MIT is grounded in real world applications and addressing challenges.\n- Software, Data Pipeline, Control Algorithms to simulate autonomous operation of marine robots in real ocean conditions and testing it on hardware prototypes in the Pacific Ocean.",
+      "location": "San Francisco Bay Area",
+      "start": "2021-05",
+      "end": "2025-11",
+      "dateRange": "May 2021 – Nov 2025",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "Developed the market expansion strategy for an IT-Hardware company to develop digital offerings, unlocking $100+M in revenue potential.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-02",
+      "end": "2021-05",
+      "dateRange": "Feb 2021 – May 2021",
+      "current": false
+    },
+    {
+      "title": "Artificial Intelligence PhD Residency",
+      "company": "X, the moonshot factory",
+      "companyUrl": "https://www.linkedin.com/company/x",
+      "description": "Developed a deep reinforcement learning algorithm for precision weeding in agricultural robotics at Project Mineral, which outperformed other control baselines.",
+      "location": "San Francisco Bay Area",
+      "start": "2019-05",
+      "end": "2019-08",
+      "dateRange": "May 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Graduate Researcher, Postdoc & Research Project Lead",
+      "company": "Berkeley Artificial Intelligence Research",
+      "companyUrl": "https://www.linkedin.com/company/bair-lab",
+      "description": "Research in Robotics, Machine Learning, and Optimal Control in Prof. Claire Tomlin’s Lab.\nThesis: Towards Operating Underactuated Robotic Systems by Going With the Flow\n\nFirst two years working on applied problems in Systems Biology, Agricultural Robotics, and Human Robot Interaction. My dissertation for the last three years focuses on a novel paradigm for operating floating vessels with 1000x less power by utilizing ocean currents and “Going with the Flow”. This will enable a host of applications such as gigaton-scale carbon removal with autonomous seaweed farms as we’re exploring with the Start-Up Phykos.\n\n- Initiated collaboration with Start-Up Phykos and Oceanographers at MIT, build research roadmap and raised $350k from multiple grants\n- Recruited, built, and managed a team of up to 8 researchers at UC Berkeley and supporting engineers\n- Published 11+ peer-reviewed papers at top Machine Learning, Robotics, Control conferences and Journals\n- Lead software development for scientific simulation from scratch and scaled it to experiments across 200+ Virtual Machines",
+      "location": "United States",
+      "start": "2018-08",
+      "end": "2023-12",
+      "dateRange": "Aug 2018 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "First Engineer in Lat Am Social Commerce Start-Up",
+      "company": "Polymath Ventures",
+      "companyUrl": "https://www.linkedin.com/company/polymath-ventures",
+      "description": "Developed technology roadmap and strategy. Implemented the first data-analytics backend and frontend which accelerated testing and enabled Machine Learning advice to sellers. This led to first revenue and laid foundation for growth (2023 Series B).",
+      "location": "Bogotá D.C. Area, Colombia",
+      "start": "2018-04",
+      "end": "2018-08",
+      "dateRange": "Apr 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Robotics Product Development Consulting",
+      "company": "Magazino – a Jungheinrich company",
+      "companyUrl": "https://www.linkedin.com/company/magazino-a-jungheinrich-company",
+      "description": "Advised the CEO on the highest-value robotics use-cases in material-handling, including requirements and features. This led to a new robot launched in 2019 (in 2023 >150 robots deployed).",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-02",
+      "end": "2017-08",
+      "dateRange": "Feb 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Vehicle Intelligence Researcher",
+      "company": "Mercedes-Benz Research & Development North America, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/mbrdna",
+      "description": "Developed a behavioral architecture and algorithms to naturally embed traffic rules into robotic decision. Coded them up in C++ and tested them on the road.",
+      "location": "Sunnyvale, California",
+      "start": "2016-10",
+      "end": "2017-02",
+      "dateRange": "Oct 2016 – Feb 2017",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Prototype Development",
+      "company": "KONUX",
+      "companyUrl": "https://www.linkedin.com/company/konux",
+      "description": "Developed a predictive maintenance prototype for industrial pumps including hardware, Machine Learning software, and dashboard (now a product).",
+      "location": "Munich Area, Germany",
+      "start": "2016-04",
+      "end": "2016-08",
+      "dateRange": "Apr 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Trend Research on Fighting Hunger in the Digital Era",
+      "company": "World Food Programme",
+      "companyUrl": "https://www.linkedin.com/company/unwfp",
+      "description": "Authoring a published CDTM study on fighting hunger by leveraging digital technology.\nFocus: Blockchain based Supply Chain tracking, trend analysis, scenario planning",
+      "location": null,
+      "start": "2016-02",
+      "end": "2016-04",
+      "dateRange": "Feb 2016 – Apr 2016",
+      "current": false
+    },
+    {
+      "title": "Research Intern & Tutor for Higher Mathematics",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Tutor for Higher Mathematics (approx. 45 students)\nResearch Intern @Chair for automotive engineering\nOptimization of consumption of electricity in the context of an electric mobility fleet management system",
+      "location": null,
+      "start": "2014-10",
+      "end": "2015-09",
+      "dateRange": "Oct 2014 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Academy Consult München e.V.",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": "Internal and external projects for various companies including:\n- Businessplan strategy and execution of a Postal-Service Start-Up, based in Munich\n- scientific study about \"Success factors for Start-Ups in Munich\" interviewing more than 20 founders with different background.\n- setting up a partnerships with consultancies BCG, Horvath&Partners, etc.\n- composing a Marketing Strategy with focus on Start-Ups",
+      "location": null,
+      "start": "2014-04",
+      "end": "2016-03",
+      "dateRange": "Apr 2014 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Engineering Internship",
+      "company": "Porsche",
+      "companyUrl": "https://www.linkedin.com/company/porsche-ag",
+      "description": "Engineering internship learning all kind of mechanical engineering skills and getting an inside view in Concept Car Developement and engineering.",
+      "location": "Weissach",
+      "start": "2013-07",
+      "end": "2013-09",
+      "dateRange": "Jul 2013 – Sep 2013",
+      "current": false
+    },
+    {
+      "title": "Summer Internship",
+      "company": "EADS",
+      "companyUrl": "https://www.linkedin.com/company/airbusgroup",
+      "description": null,
+      "location": "Friedrichshafen",
+      "start": "2012-06",
+      "end": "2012-06",
+      "dateRange": "Jun 2012 – Jun 2012",
+      "current": false
+    },
+    {
+      "title": "Summer Internship",
+      "company": "Daimler AG",
+      "companyUrl": "https://www.linkedin.com/company/mercedes-benz_ag",
+      "description": null,
+      "location": "Sindelfingen",
+      "start": "2010-03",
+      "end": "2010-03",
+      "dateRange": "Mar 2010 – Mar 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Doctor of Philosophy - PhD Electrical Engineering and Computer Science, Robotics & Artificial Intelligence (EECS)",
+      "dateRange": "2018 – 2023"
+    },
+    {
+      "school": "ETH Zürich",
+      "degree": "Visiting Doctoral Researcher, Mechatronics, Robotics, and Automation Engineering",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "The University of British Columbia",
+      "degree": "Exchange Semester, Engineering and Philosophy",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Stiftung Bayerische EliteAkademie (BEA)",
+      "degree": "Certificate Ethical Leadership and Management",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor’s Degree, Philosophy",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor’s Degree, Engineering Science",
+      "dateRange": "2013 – 2017"
+    },
+    {
+      "school": "Schelztor-Gymnasium Esslingen am Neckar",
+      "degree": "High School, Physics, Chemistry, English",
+      "dateRange": "2003 – 2012"
+    }
+  ],
+  "skills": [
+    "Artificial Intelligence (AI)",
+    "Biotechnology",
+    "Research Management",
+    "Research",
+    "Deep Learning",
+    "Strategy",
+    "Robotics",
+    "Venture Capital",
+    "Software Development",
+    "Programming",
+    "Deep Reinforcement Learning",
+    "Leadership",
+    "Entrepreneurship",
+    "Consulting",
+    "Product Development",
+    "New Venture Development",
+    "Grant Writing",
+    "Analytical Skills",
+    "Data Science",
+    "Scenario Planning"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Biohub",
+    "tagline": "Biohub is combining frontier AI & frontier biology to help scientists cure or prevent disease.",
+    "description": "Our mission is to help scientists cure or prevent all disease.\n\nAt Biohub, we build the technology to help scientists around the world use AI-powered biology to study how cells operate, organize, and work as part of systems to understand why disease happens and how to correct it.\n\nWith unprecedented scale of compute, AI research and engineering, and state-of-the-art technology for measuring, imaging, and programming biology, Biohub is leading the first large-scale scientific initiative to push the frontier of artificial intelligence for biology.",
+    "industry": "Biotechnology Research",
+    "website": "https://biohub.org/",
+    "linkedInUrl": "https://www.linkedin.com/company/cz-biohub",
+    "employeeCount": 453,
+    "foundedYear": 2016,
+    "location": "Redwood City, United States",
+    "specialities": [
+      "Biochemistry",
+      "Bioengineering",
+      "Bioinformatics",
+      "Biomedical Research",
+      "Biophysics",
+      "Cell Atlas",
+      "CRISPR",
+      "Genetics",
+      "Genomics",
+      "Infectious Disease",
+      "inflammation",
+      "machine learning",
+      "metagenomics",
+      "software engineering",
+      "metabolomics",
+      "microscopy",
+      "data science",
+      "AI"
+    ]
+  }
+}

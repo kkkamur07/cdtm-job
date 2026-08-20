@@ -1,0 +1,228 @@
+{
+  "id": "hamzatahirofficial",
+  "name": "Hamza Tahir",
+  "headline": "CTO at ZenML, building Kitaru — open-source infrastructure for autonomous agents.",
+  "avatar": {
+    "sm": "/avatars/hamzatahirofficial-sm.webp",
+    "lg": "/avatars/hamzatahirofficial.webp",
+    "blur": "data:image/webp;base64,UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASogACAAPs1QpkunpKOhsBgMAPAZiUAZFxoNSB7fu/hXDGPc5uPUVjmUZB32o/40eVup0AAA/v5hO6zW96HtoN62eu7x6/CFAd5uJ1AS48sU3ZQxIFqpfY8PTFUiM3ZL8T47PZiSCN3XtTTlr4crY5x/pfarD9ygxAAv4d0MA3PVunEbwLABl/ecg4AFrKpcC2Em2h+TCci+9EMvTWtVEg+K34vAs25MJePMLQH9L51PZTYB0GdgmJOO/6yJitP9RdiSYqB1Mf4Q4gmJ9PikZEwUGhufFxeBTHcPwnk+SMl48uGWVnwv6KZRa1NZZgAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/hamzatahirofficial",
+  "personId": 994,
+  "classes": [
+    {
+      "id": 82,
+      "label": "Fall 2017",
+      "season": "Fall",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2017",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Hamza Tahir",
+  "ca": null,
+  "summary": "Hello, I'm Hamza, a co-founder at ZenML, an open-source MLOps framework to create reproducible machine learning pipelines. I have over 8 years of experience in developing and deploying data-driven products, using various tools and technologies such as GCP, AWS, TFX, Tensorflow, Kubeflow, Airflow, and FastAPI. \n\nMy passion is to bridge the gap between machine learning development and production, and to empower data scientists to create ML workflows that can be easily scaled, monitored, and maintained. I also enjoy writing and sharing my knowledge and insights with the ML community, as evidenced by my publications on the Tensorflow blog and other platforms. If you're interested in learning more about ZenML, or want to connect with me about MLOps and data science, feel free to reach out to me. I'd love to hear from you.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "ZenML",
+      "companyUrl": "https://www.linkedin.com/company/zenml",
+      "description": "ZenML is an open-source MLOps framework to create reproducible Machine Learning pipelines.  A reoccurring struggle in machine learning is the large gap between the training part of the ML development and the post-training/deployment phase. ZenML aims to bridge that gap, by building a simple, open-source, pipeline framework aimed towards data scientists to create ML workflows that can be taken to production with minimum effort.",
+      "location": null,
+      "start": "2021-01",
+      "end": null,
+      "dateRange": "Jan 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Motius",
+      "companyUrl": "https://www.linkedin.com/company/motius-gmbh",
+      "description": "Implemented a process mining tool based on statistical analysis and machine learning that retrieved valuable insights from usage logs for industrial machinery.\n\nPrimary tools used: ElasticSearch, Kibana, the Python machine learning stack",
+      "location": null,
+      "start": "2017-10",
+      "end": "2018-02",
+      "dateRange": "Oct 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "maiot",
+      "companyUrl": "https://www.linkedin.com/company/maiot",
+      "description": "At maiot, we built production ML pipelines for predictive maintenance use-cases. It was an engineering challenge, as well as an algorithmic one, as the data was large but sparse with labels.\n\nSkills Used: GCP, AWS, TFX, Tensorflow, Kubeflow, Airflow, FastAPI, many other MLOps tools.",
+      "location": null,
+      "start": "2017-05",
+      "end": "2020-12",
+      "dateRange": "May 2017 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "AI Engineer at the Digital Product School",
+      "company": "Digital Product School by UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/digital-product-school",
+      "description": "The Digital Product School is part of Digital Hub Mobility and an initiative of the UnternehmerTUM in the offices of IBM Watson, IBM's global internet-of-things headquarter in Munich. Interactive teams from industry and universities work together on digital products and bring them to market. \n\nIn the AI track, and part of a team currently piloting a project about predictive maintenance for truck fleets.",
+      "location": null,
+      "start": "2017-05",
+      "end": "2017-07",
+      "dateRange": "May 2017 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "NavVis",
+      "companyUrl": "https://www.linkedin.com/company/navvis",
+      "description": "Working with the navigation team, who are in charge of the mobile application development and image processing components of the company.\n\n▪\tPrimarily involved in research and development on Android, specifically focusing on utilizing various sensor data in developing learning models.\n▪\tFor instance, successfully built a Hidden Markov Model to detect whether a user is inside or outside based on various observed variables, such as light intensity from the light sensor and GPS signal strength. The model utilized a probabilistic sensor fusion model.\n▪\tConceptualized and executed successfully the development of the Android “Sensor App” that visualized and recorded labeled data from various physical and fused sensors on a phone. \n▪\tIntegral part of building a centralized machine learning database that linked to the “Sensor App” via a REST API, to push collected labelled data on the cloud. This data will be used to conduct various machine learning and statistical inference tasks.\n▪\tPrimary skills utilized: Android and Python Programming, with machine learning and statistical analysis techniques. Java Spring and REST API development.",
+      "location": null,
+      "start": "2016-08",
+      "end": "2017-02",
+      "dateRange": "Aug 2016 – Feb 2017",
+      "current": false
+    },
+    {
+      "title": "Innovation Engineer",
+      "company": "xiQ, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/xiqinc",
+      "description": "▪\tWorked primarily on web development and was in charge of developing and deploying the 'Workbench' project (Python Django).\n\n▪\tExposed to global software engineering hurdles and experience working with a Silicon Valley start-up.\n\n▪\tIn charge of web development of the company and therefore responsible for all aspects of the web end, including design and implementation.\n\n▪\tCommunicated customer’s business objectives and translated into actionable technical goals and deadlines, and implemented them to successfully meet the client’s needs.\n\n▪\tPreviously also part of research and design of a new project.",
+      "location": null,
+      "start": "2015-03",
+      "end": "2015-10",
+      "dateRange": "Mar 2015 – Oct 2015",
+      "current": false
+    },
+    {
+      "title": "Freelancer",
+      "company": "TechHub",
+      "companyUrl": "https://www.linkedin.com/company/techhub",
+      "description": "- Selected to work in a government funded co-op workspace called Plan 9 TechHub, based on work as a freelancer.\n\n- Attended various talks and was part of the very vibrant Pakistani freelance community.",
+      "location": null,
+      "start": "2014-08",
+      "end": "2014-12",
+      "dateRange": "Aug 2014 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Web Developer",
+      "company": "KiaSceneHai.pk",
+      "companyUrl": null,
+      "description": "Worked as a web developer at a local start up called Kia Scene Hai.",
+      "location": null,
+      "start": "2014-06",
+      "end": "2014-07",
+      "dateRange": "Jun 2014 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "Freelancer",
+      "company": "Fiverr",
+      "companyUrl": "https://www.linkedin.com/company/fiverr-com",
+      "description": "Completed approximately 40 jobs, with an average score of 5/5",
+      "location": null,
+      "start": "2013-07",
+      "end": "2015-01",
+      "dateRange": "Jul 2013 – Jan 2015",
+      "current": false
+    },
+    {
+      "title": "Automation Engineer",
+      "company": "Upwork",
+      "companyUrl": "https://www.linkedin.com/company/upwork",
+      "description": "▪\tSuccessfully completed over 120 jobs with an average rating of 4.97/5. Rose to top freelancer in a short duration. \n\n▪\tSuccessfully built up a solid client base and established positive business relations with customers.\n\n▪\tDesigned original and efficient solutions to challenging customer problems. Independently created hundreds of scripts for clients, ranging from data collection to task automation. \n\n▪\tCommunicated with clients from all over the world, understood their requirements and goals, and designed products such as web crawlers in Python to meet their business needs.\n\n▪\tLearned how to market personal skills and services.\n\n▪\tInducted into the prestigious Upwork certified ‘Web Developer’ group, which contains only 790 members out of more than 100,000 web developers on oDesk",
+      "location": null,
+      "start": "2013-05",
+      "end": "2016-08",
+      "dateRange": "May 2013 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Techlogix",
+      "companyUrl": "https://www.linkedin.com/company/techlogix",
+      "description": "Executed various small database related tasks (SQL queries etc.) for a project based in Qatar.",
+      "location": null,
+      "start": "2012-06",
+      "end": "2012-07",
+      "dateRange": "Jun 2012 – Jul 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master’s Degree, Informatics",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "National University of Computer and Emerging Sciences",
+      "degree": "Bachelor of Science (BSc), Computer Science",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "Aitchison College, Lahore",
+      "degree": "High School",
+      "dateRange": "1999 – 2011"
+    }
+  ],
+  "skills": [
+    "PHP",
+    "JavaScript",
+    "Java",
+    "C++",
+    "Django",
+    "Web Scraping",
+    "DevOps",
+    "Artificial Intelligence (AI)",
+    "Machine Learning",
+    "Data Analysis",
+    "Android Development",
+    "Python",
+    "Ruby on Rails",
+    "Automation",
+    "Scikit-Learn",
+    "CodeIgniter",
+    "Kibana",
+    "Arduino",
+    "Python Flask",
+    "Aurelia",
+    "iMacros",
+    "ZenML",
+    "iOS Development",
+    "ElasticSearch"
+  ],
+  "languages": [
+    "Urdu",
+    "English"
+  ],
+  "company": {
+    "name": "ZenML",
+    "tagline": "#Opensource #MLOps #Framework that integrates all your ML tools.\nRun ML pipelines on any stack with minimum effort!",
+    "description": "ZenML is an extensible, open-source MLOps framework for creating portable, production-ready MLOps pipelines. It's built for data scientists, ML Engineers, and MLOps Developers to collaborate as they develop to production. ZenML has simple, flexible syntax, is cloud- and tool-agnostic, and has interfaces/abstractions that are catered towards ML workflows. ZenML brings together all your favorite tools in one place so you can tailor your workflow to cater to your needs.",
+    "industry": "Information Technology & Services",
+    "website": "https://zenml.io/",
+    "linkedInUrl": "https://www.linkedin.com/company/zenml",
+    "employeeCount": 21,
+    "foundedYear": 2021,
+    "location": "Munich, Germany",
+    "specialities": [
+      "MLOps",
+      "ProductionML",
+      "reproducibleML",
+      "opensource",
+      "framework"
+    ]
+  }
+}

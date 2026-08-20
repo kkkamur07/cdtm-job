@@ -1,0 +1,184 @@
+{
+  "id": "martinpwessel",
+  "name": "Martin Wessel",
+  "headline": "Management Team at CDTM | PhD at TUM",
+  "avatar": {
+    "sm": "/avatars/martinpwessel-sm.webp",
+    "lg": "/avatars/martinpwessel.webp",
+    "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADQBQCdASogACAAPrVKnUunJKKht+gA4BaJbAC7IIjgvFbEADdlwtUX0s/f163AdF8n0EFIGRgAAP782EgQ1NarfcR5n4me7dAsDSo27sbQboREuw+QzO/jZ5OPFYyirYo6kf9y1gVoNFtsxxz9tw82FvkdF7BTDC9EiGRXvacy8PDMBelt8HYHoqxZLPoi/4iwYX5gSTrONPu70Lx7IW9lHff83jNTai8JK7msWznEMnRsrF81g1fQc2pKH9Vh9fDpMx647//Cd8NGJ6xSBv2YBNrjX4J7MUjVg1nkaUf0dSFoAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/martinpwessel",
+  "personId": 1276,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": false,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Martin Wessel",
+  "ca": {
+    "alumni": false,
+    "about": "Martin Wessel completed his Bachelor's degree in Philosophy & Economics from the University of Bayreuth, during which he studied development economics during a stay at the Indira Gandhi Institute for Development Research in Mumbai. His interest in data analysis led him to work in a data analysis department, which encouraged him to pursue a Master's degree in Social and Economic Data Science at the University of Konstanz. During his master's, he focused on natural language processing (NLP) and joined a research group on media bias, which ultimately led him to a research stay at the National Institute of Informatics in Tokyo.\n\nAlongside his studies, Martin worked as a tutor and at the Cluster of Excellence \"The Politics of Inequality,\" where he contributed to a project aimed at measuring inequality in Germany. Though not set on a Ph.D. topic yet, with a desire to continue exploring the interface between NLP and social sciences, Martin plans to pursue further ideas on media bias detection.\n\nMartin joined the CDTM as a CA in March 2023. He is currently co-owning the Digital Changemaker course and is responsible for the Onboarding taskforce.",
+    "responsibilities": [
+      "Digital Changemaker Course",
+      "Onboarding Task Force"
+    ],
+    "researchFields": [
+      "Media Bias",
+      "Deep Learning for NLP"
+    ],
+    "email": "wessel@cdtm.com"
+  },
+  "summary": null,
+  "positions": [
+    {
+      "title": "Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-03",
+      "end": null,
+      "dateRange": "Mar 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Researcher",
+      "company": "Media Bias Research",
+      "companyUrl": "https://www.linkedin.com/company/media-bias-group",
+      "description": "The Media Bias Group is an international, interdisciplinary research network dedicated to identifying and measuring media bias. Check out our website to learn more: https://media-bias-research.org/",
+      "location": null,
+      "start": "2022-04",
+      "end": null,
+      "dateRange": "Apr 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Visit",
+      "company": "National Institute of Informatics",
+      "companyUrl": "https://www.linkedin.com/company/nii-jp",
+      "description": null,
+      "location": "Tokyo, Japan",
+      "start": "2022-08",
+      "end": "2022-12",
+      "dateRange": "Aug 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Universität Konstanz",
+      "companyUrl": "https://www.linkedin.com/company/university-of-konstanz",
+      "description": "Teaching Assistant for Introduction to Computation for the Social Sciences",
+      "location": "Konstanz, Baden-Württemberg, Deutschland",
+      "start": "2021-10",
+      "end": "2022-05",
+      "dateRange": "Oct 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Universität Konstanz",
+      "companyUrl": "https://www.linkedin.com/company/university-of-konstanz",
+      "description": "Research Assistant at the Cluster of Excellence \"The Politics of Inequality\" \nin the \"Inequality Barometer\" Project\n- Data Engineering\n- Visualizations\n- Literature Research",
+      "location": "Konstanz, Baden-Württemberg, Deutschland",
+      "start": "2021-04",
+      "end": "2022-05",
+      "dateRange": "Apr 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Sparkassen Rating und Risikosysteme GmbH",
+      "companyUrl": "https://www.linkedin.com/company/sparkassen-rating-und-risikosysteme-gmbh",
+      "description": "Internship in the department Product Support Data Analytics",
+      "location": "Berlin, Deutschland",
+      "start": "2020-05",
+      "end": "2020-09",
+      "dateRange": "May 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Kantar",
+      "companyUrl": "https://www.linkedin.com/company/kantar",
+      "description": "Internship in the department Consumers & Industries\n- Quantitative Data Analysis\n- Insights into Consumer Research",
+      "location": "Bielefeld, Nordrhein-Westfalen, Deutschland",
+      "start": "2019-02",
+      "end": "2019-04",
+      "dateRange": "Feb 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "HELLA",
+      "companyUrl": "https://www.linkedin.com/company/forviahella",
+      "description": "Internship in the trade department",
+      "location": "Lippstadt, Nordrhein-Westfalen, Deutschland",
+      "start": "2016-05",
+      "end": "2016-06",
+      "dateRange": "May 2016 – Jun 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "The University of Queensland",
+      "degree": "Visiting Researcher",
+      "dateRange": "2026"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctoral Candidate",
+      "dateRange": "2023"
+    },
+    {
+      "school": "University of Konstanz",
+      "degree": "Master of Science - MS, Social and Economic Data Science",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Indira Gandhi Institute of Development Research",
+      "degree": "Economics",
+      "dateRange": "2018"
+    },
+    {
+      "school": "University of Bayreuth",
+      "degree": "Bachelor of Arts - BA, Philosophy & Economics",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "Highschool Affiliated to Anhui Normal University",
+      "degree": null,
+      "dateRange": "2013 – 2014"
+    }
+  ],
+  "skills": [
+    "Microsoft Office",
+    "Python",
+    "SQL",
+    "Englisch",
+    "Chinesisch"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Center for Digital Technology and Management (CDTM)",
+    "tagline": "Connect, Educate and Empower the Innovators of Tomorrow",
+    "description": "The Center for Digital Technology and Management (CDTM), a joint institution of the Ludwig-Maximilians-Universität München (LMU) and the Technische Universität München (TUM), offers talented students the international and interdisciplinary study program Technology Management. \n\nThe CDTM focuses on how to manage High-Tech in close cooperation with industry, research and education, while simultaneously being committed to preparing the students for future leadership positions in their professional career.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.cdtm.de",
+    "linkedInUrl": "https://www.linkedin.com/company/cdtm-munich",
+    "employeeCount": 35,
+    "foundedYear": 1998,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Entrepreneurship",
+      "Product Development"
+    ]
+  }
+}

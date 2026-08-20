@@ -1,0 +1,59 @@
+{
+  "id": "fabian-gaessler-8303b91a",
+  "name": "Fabian Gaessler",
+  "headline": "Student(in) an der London School of Economics and Political Science",
+  "avatar": null,
+  "location": "London, United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/fabian-gaessler-8303b91a",
+  "personId": 1866,
+  "classes": [
+    {
+      "id": 63,
+      "label": "Spring 2008",
+      "season": "Spring",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2008",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Fabian Gäßler",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Doctoral Candidate",
+      "company": "Max Planck Institute for Innovation and Competition",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich",
+      "start": "2010-09",
+      "end": "2015-08",
+      "dateRange": "Sep 2010 – Aug 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "The London School of Economics and Political Science (LSE)",
+      "degree": "Master of Science (M.Sc.)",
+      "dateRange": "2009 – 2010"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.)",
+      "dateRange": "2005 – 2009"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": null
+}

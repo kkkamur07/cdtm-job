@@ -1,0 +1,258 @@
+{
+  "id": "gyrireiersen",
+  "name": "Gyri Reiersen",
+  "headline": "Co-founder & CPO @Tanso | CDTM | Global Shaper",
+  "avatar": {
+    "sm": "/avatars/gyrireiersen-sm.webp",
+    "lg": "/avatars/gyrireiersen.webp",
+    "blur": "data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAAAQBgCdASogACAAPrlKnUunJKKht+gA4BcJYwDPDIjqQPaj377kSsfgBwbcx0vQN+qIi07vXOyD7AAA/v4wDvrtr79evsj5XFQgn50PaptgYX9wCSO2fgK4zRLL2JRCdT51E0PW8m3Ezx6tX1lAse008Z0AOduL249M9LHLRe2aAU+uBnADHBLYaFg3m6Rc/uxDRC9tOvc4liFCwB4p7MrfRrN4MvbaHExYXtrRbMnz4m7xWpizP+Rmkfe/RqCtPiUimIf9CdjDgvSs+s+Fl3fFMr+2plrhpPqv0pvE/KPq5ISfa7Kowpn34FIAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/gyrireiersen",
+  "personId": 1134,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Gyri Reiersen",
+  "ca": null,
+  "summary": "With a background as a climate activist and AI researcher, I'm driven by the mission to use technology and innovation to mitigate the escalation of the climate crisis.\n\nIn 2021, I co-founded Tanso to support mid-sized industrial companies in accelerating their decarbonization journey. Our TÜV-certified, GRI-aligned, and audit-compliant AI-powered software platform helps companies meet their stakeholder requirements like CSRD, EU taxonomy, and CBAM while enabling strategic climate action through carbon accounting and ESG data management.\nTanso bridges scientific research and key methodologies, be it corporate or product carbon footprint, supports effortless sustainability reporting, and enables strategic control of your company - fit for a resilient future.\n\nJoin us in accelerating decarbonization of the industry! https://www.tanso.de/en/karriere\n\nPassionate about using tech to solve society’s biggest challenges, I, prior to Tanso, collaborated with TUM, ETH Zurich, and MIT on research using machine learning to estimate carbon storage in reforestation projects through satellite and drone imagery.\n\nI'm an active member of the Global Shapers Community and other volunteer organizations, and have launched initiatives to empower founders tackling climate change, increase diversity in tech, and break the stigma around mental health.",
+  "positions": [
+    {
+      "title": "Founding Member",
+      "company": "Munich Climate Week",
+      "companyUrl": "https://www.linkedin.com/company/munich-climate-week",
+      "description": "Munich Climate Week (October 19–25, 2026) —a city-wide climate action platform bringing people together to turn climate ambition into real-world solutions.\n\n100+ events | 1000+ people | 200+ partner organizations\n\nmunichclimateweek.com",
+      "location": "München",
+      "start": "2025-12",
+      "end": null,
+      "dateRange": "Dec 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-founder & CPO",
+      "company": "Tanso",
+      "companyUrl": "https://www.linkedin.com/company/tansotechnologies",
+      "description": null,
+      "location": "München",
+      "start": "2021-09",
+      "end": null,
+      "dateRange": "Sep 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Research Student",
+      "company": "ETH Zürich",
+      "companyUrl": "https://www.linkedin.com/company/eth-zurich",
+      "description": "Research on the topic of end-to-end carbon estimation of tropical reforestation projects from drone imagery. A collaboration between the DS3 lab and Crowther Lab from ETH, MIT Human Systems Lab, and Data Science for Earth Observation at TUM.",
+      "location": "Zurich, Switzerland",
+      "start": "2021-03",
+      "end": "2021-09",
+      "dateRange": "Mar 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Analyst",
+      "company": "Possible Ventures",
+      "companyUrl": "https://www.linkedin.com/company/possible-vc",
+      "description": "Possible Ventures (formerly Inventures) is an Angel Collective backing ambitious founders building frontier technology to positively impact society. We invest €100k - €250k globally in early-stage technology companies and actively support founders in reaching their first institutional VC Round.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-09",
+      "end": "2021-01",
+      "dateRange": "Sep 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Technology Intern",
+      "company": "Bekk",
+      "companyUrl": "https://www.linkedin.com/company/bekk",
+      "description": "Software engineering consultant developing the microservices and webapp (Elm) for the ticketing system (Kotlin) of the multi-modal public transportation company Vy-gruppen.",
+      "location": "Oslo, Norway",
+      "start": "2020-02",
+      "end": "2020-04",
+      "dateRange": "Feb 2020 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Innovation Consultant",
+      "company": "Fraunhofer ISS",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-iis",
+      "description": "Research project on technical feasibility and user requirements for NLP/AI-driven voice assistants.",
+      "location": "Erlangen",
+      "start": "2019-09",
+      "end": "2020-01",
+      "dateRange": "Sep 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Product Development Consultant",
+      "company": "E.ON",
+      "companyUrl": "https://www.linkedin.com/company/e-on",
+      "description": "Front-end (React) and backend (Django) development of an IoT solution and prediction algorithms for office sensor data. Defined customer problems through UX research (conducted qualitative interviews, field studies) and user journeys, validated features through low-fi and high-fi mockup testing. All in the scope of CDTM's managing product development course.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-04",
+      "end": "2019-07",
+      "dateRange": "Apr 2019 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "External Consultant",
+      "company": "GEA Group",
+      "companyUrl": "https://www.linkedin.com/company/geagroup",
+      "description": "Trend and scenario research for the data-driven future of the dairy industry. Lead user studies, design thinking, ideation and business model creation.",
+      "location": null,
+      "start": "2019-03",
+      "end": "2019-04",
+      "dateRange": "Mar 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Creating scenarios for autonomous vehicles based on real recorded data of difficult traffic situations for the CommonRoad project. Prepared the crude data in the standardized format in Matlab and mapped the road infrastructure in JOSM.",
+      "location": "Munich Area, Germany",
+      "start": "2018-06",
+      "end": "2018-08",
+      "dateRange": "Jun 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Intern - Project Manager",
+      "company": "Penda Paper Recycling",
+      "companyUrl": "https://www.linkedin.com/company/penda-paper-recycling",
+      "description": "Intern in a paper recycling start-up with 50 employees and 7000 paper collectors. CEO and mentor is a former McKinsey partner and awarded leader talent. Developing the company's strategy and investigating business opportunities, especially in agri- and aquaculture in Ethiopia. Leading a project to implement paper recycling in the 300 largest schools in Addis, equivalent of 500.000 students. A unique experience to learn from the best in one of the world’s most difficult business environments.",
+      "location": "Addis Abeba, Ethiopia",
+      "start": "2017-10",
+      "end": "2018-03",
+      "dateRange": "Oct 2017 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Summer Intern",
+      "company": "Laerdal Medical",
+      "companyUrl": "https://www.linkedin.com/company/laerdal-medical",
+      "description": "Intern during 5 semester break periods of 5-8 weeks each in the Business Unit and R&D of Healthcare Responders' products.\nWorking on the team’s machine learning projects with the AI consultancy firm Globus.ai for predictive maintenance and development of new product features. Performed hardware prototype testing, software verification testing, and statistical analysis on sensor data. \nGained important insight into the R&D of an international company, as well as interdisciplinary teamwork.",
+      "location": "Stavanger-området, Norge",
+      "start": "2015-06",
+      "end": "2019-09",
+      "dateRange": "Jun 2015 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Operative Project Lead",
+      "company": "Norwegian Red Cross",
+      "companyUrl": "https://www.linkedin.com/company/norwegian-red-cross",
+      "description": "In charge of the “Street Mediation” project, coordinating volunteers. Instructor educated at the highest international level teaching non-violent communication and conflict management through workshops. Responsible for project start-up in Romania.",
+      "location": "Sandnes",
+      "start": "2012-02",
+      "end": "2013-12",
+      "dateRange": "Feb 2012 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Service Operator in a café and newsstand",
+      "company": "Blender AS",
+      "companyUrl": null,
+      "description": "- Formation and occasionally shift manager responsibilities. \n- Sale and service to a diverse international clientele.",
+      "location": "International terminal at Stavanger lufthavn, Sola",
+      "start": "2011-12",
+      "end": "2013-12",
+      "dateRange": "Dec 2011 – Dec 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Robotics, Cognition, Intelligence",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "ETH Zürich",
+      "degree": "Exchange, Artificial Intelligence",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Exchange - Bachelor of Science (B.Sc.), Electronics and Computer Science",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "INSA Toulouse - Institut National des Sciences Appliquées de Toulouse",
+      "degree": "Bachelor of Applied Science - BASc, Electronic Materials, Devices and Systems Engineering",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Akademiet",
+      "degree": "Specialization in General Studies, Natural Science, Mathematics and Psychology",
+      "dateRange": "2011 – 2014"
+    }
+  ],
+  "skills": [
+    "Python (Programming Language)",
+    "Market Research",
+    "Statistics",
+    "Data Analysis",
+    "Business Modeling",
+    "Product Development",
+    "Presentations",
+    "Quantitative Research",
+    "Project Management",
+    "Leadership",
+    "Analytics",
+    "Machine Learning",
+    "Social Media",
+    "Artificial Intelligence (AI)",
+    "Analytical Skills",
+    "Marketing Strategy",
+    "Digital Marketing",
+    "Community Outreach",
+    "Strategic Communications",
+    "Statistical Modeling"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Tanso",
+    "tagline": "Carbon accounting & ESG data management software for manufacturing companies",
+    "description": "Tanso is the ESG and carbon accounting software that industrial companies in DACH rely on to compete and comply in carbon-sensitive sectors. The Tanso platform enables companies to meet customer requests and regulatory requirements in sustainability, ensuring data management to the highest standards through structured, audit-proof processes. With TÜV Rheinland-certified methodology, Tanso is trusted by over 300 industrial customers across automotive, mechanical engineering, food and chemicals to strengthen their competitive position in sustainability and ESG performance.\n\nMore information about Tanso: www.tanso.de",
+    "industry": "Software Development",
+    "website": "https://www.tanso.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/tansotechnologies",
+    "employeeCount": 72,
+    "foundedYear": 2021,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Software",
+      "Carbon accounting",
+      "CO2 accounting",
+      "Software development",
+      "CO2 management",
+      "Carbon management",
+      "Climate Intelligence"
+    ]
+  }
+}

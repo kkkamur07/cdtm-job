@@ -1,0 +1,236 @@
+{
+  "id": "achakirov",
+  "name": "Artem Chakirov",
+  "headline": "From zero to production: building data-centric, AI-driven products for finance and enterprise workflows | Dr. sc. ETH, Dipl.-Ing. TUM",
+  "avatar": null,
+  "location": "Zürich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/achakirov",
+  "personId": 1453,
+  "classes": [
+    {
+      "id": 61,
+      "label": "Spring 2007",
+      "season": "Spring",
+      "year": 2007,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2007",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Artem Chakirov",
+  "ca": null,
+  "summary": "I build data-driven products in finance and lead teams where things are still ambiguous. For over a decade, I’ve worked at the intersection of data, technology, and business: shaping vision, aligning people, and turning complex ideas into products that deliver tangible value.\n\nMy background spans multiple industries and deep work in data science, AI, and statistical modelling. I’m driven by taking things from zero to one, building strong foundations, and creating environments where teams can move fast, learn continuously, and take ownership.",
+  "positions": [
+    {
+      "title": "Head of Product Design",
+      "company": "enovetic ag",
+      "companyUrl": "https://www.linkedin.com/company/enovetic-ag",
+      "description": "• Product Leadership & Innovation: Lead and scale cross-functional product teams to deliver high-quality fintech, ERP, and domain-specific solutions across HR, Insurance, and Pensions. Foster a culture of collaboration, innovation, and customer focus across Product, Design, and AI disciplines.\n\n• AI Strategy & Integration: Driving AI adoption by identifying high-impact use cases, delivering GenAI and LLM-based PoCs, and embedding automation into core processes. Leveraging advanced technologies to enhance efficiency, decision-making, and customer value across products and operations.\n\n• Stakeholder Engagement & Organisational Development: Scaled the Product Department to over 20 members, establishing AI Engineering and Process Automation roles. Secured executive support to embed AI across products and internal workflows, enabling a broader transformation toward an AI-first organisation.",
+      "location": "Risch-Rotkreuz",
+      "start": "2024-04",
+      "end": "2026-04",
+      "dateRange": "Apr 2024 – Apr 2026",
+      "current": false
+    },
+    {
+      "title": "Partner, Data & Research",
+      "company": "Tom Capital AG",
+      "companyUrl": "https://www.linkedin.com/company/tom-capital",
+      "description": "• Strategic Leadership & Innovation: Co-led research and development at a systematic global macro hedge fund with Assets Under Management (AUM) of USD 50M, driving strategic growth as a member of the executive team.\n\n• Applied Machine Learning: Built and operated ensembles of 400+ multi-asset models leveraging deep learning, high-frequency data, and macroeconomic indicators, bridging advanced research with operational decision systems.\n\n•  Analytical Modeling & Risk Systems: Developed portfolio allocation frameworks, integrating quantitative insights into automated investment workflows.\n\n• Data Infrastructure & Scalable Systems: Led acquisition, management, and quality assurance of vast financial time series data to enable robust model training and systematic decision-making.\n\n• Team & Technology Leadership: Collaborated with a distributed development team in building a proprietary AI-powered trading and execution system, ensuring precision, scalability, and compliance in algorithmic trading operations.",
+      "location": "Zurich, Switzerland",
+      "start": "2022-06",
+      "end": "2023-06",
+      "dateRange": "Jun 2022 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Senior Product Owner - Credit Digitalization",
+      "company": "Credit Suisse",
+      "companyUrl": "https://www.linkedin.com/company/credit-suisse",
+      "description": "• End-to-End Digital Transformation: Owned the digitalization of the client mortgage journey and the automation of front-to-back credit processes along the entire credit value chain.\n\n• Cross-Functional Leadership: Led a 12-member cross-functional, onshore-offshore development and design team to design, build, and launch a digital mortgage advisory tool, delivering an MVP within tight timelines.\n\n• Strategic Vision and Alignment: Crafted a clear product vision, target operating model, and implementation roadmap, aligning with stakeholders across Digitization, Front Office, Credit Risk, Regulatory, Operations, General Counsel, and Compliance.\n\n• Agile and SAFe Adoption: Championed an agile development culture, adopting SAFe principles to foster collaboration, innovation, and efficiency across teams.",
+      "location": "Zurich, Switzerland",
+      "start": "2021-08",
+      "end": "2022-05",
+      "dateRange": "Aug 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Senior Manager - Corporate Development",
+      "company": "SBB CFF FFS",
+      "companyUrl": "https://www.linkedin.com/company/sbb",
+      "description": "• Innovation Portfolio Leadership: Led business development for mobility analytics, and simulation solutions, managing a data-driven innovation portfolio with a budget exceeding 1M CHF and reporting directly to C-Level management.\n\n• Use Case Development and Client Solutions: Collaborated with business and IT teams to identify use cases, define roadmaps, and initiate PoC projects.\n\n•  Strategic Partnerships: Established and negotiated partnerships with leading data and technology providers, drafting contracts and kickstarting joint development projects to drive innovation.\n\n• Strategic Insights and Planning: Analyzed technology and market trends to quantify their strategic impact and led the transition to scenario-based forecasting and strategic planning, aligning innovation efforts with business goals.",
+      "location": "Bern Area, Switzerland",
+      "start": "2019-01",
+      "end": "2021-06",
+      "dateRange": "Jan 2019 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Partner & Principal Consultant",
+      "company": "Fortae",
+      "companyUrl": "https://www.linkedin.com/company/fortae",
+      "description": "•  Strategic Innovation: Advised clients in the FinTech and PropTech sectors, assessing the business potential of distributed ledger and machine learning technologies to drive innovation and competitive advantage.\n\n•  Digital Transformation: Guided a publicly listed European real estate investment manager through digital transformation and business model innovation, aligning technology strategies with organizational goals.",
+      "location": "Zürich Area, Switzerland",
+      "start": "2018-08",
+      "end": "2019-02",
+      "dateRange": "Aug 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Head of Digital Products",
+      "company": "Tom Capital AG",
+      "companyUrl": null,
+      "description": "• Leadership in Digital Product Development: Managed end-to-end digital product design and software development, building and scaling agile teams. Conducted user studies, defined product goals, and established key performance indicators (KPIs) to drive product success.\n\n• Innovative Financial Solutions: Launched TomCast, an interactive financial analytics platform for institutional investors.\n\n• Data-Driven Marketing Integration: Integrated metrics from digital products into marketing and sales strategies, enabling targeted campaigns and driving increased customer engagement and revenue growth.\n\n• Launched TomCast: an interactive financial analytics platform for institutional investors",
+      "location": "Zürich Area, Switzerland",
+      "start": "2016-08",
+      "end": "2018-08",
+      "dateRange": "Aug 2016 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Senior Researcher @ Future Cities Laboratory",
+      "company": "Singapore-ETH Centre",
+      "companyUrl": "https://www.linkedin.com/company/singapore-eth-centre",
+      "description": "• Simulation Development for Complex Systems: Led a cross-functional team to build and launch Big Data MATSim, an agent- and activity-based city and transport simulation platform tailored for planning and optimizing Singapore’s public transport network and operations.\n\n• Stakeholder Collaboration and Consulting: Provided expert consulting services to government agencies and transport providers, coordinating with key stakeholders in Singapore and Switzerland to facilitate successful product launches.\n\n• Driving Strategic Decisions: Facilitated data-driven decision-making for public transport authorities by developing simulation modules that optimized network efficiency, improved service reliability, and influenced policy planning. Enabled widespread adoption through impactful workshops and end-user training sessions.",
+      "location": "Singapore",
+      "start": "2011-02",
+      "end": "2015-09",
+      "dateRange": "Feb 2011 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Venture Analyst",
+      "company": "Siemens Technology Accelerator GmbH",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "• Project 1: Conducted business plan analysis, evaluated the market size, and led competitor analysis for the launch of an industrial water-sensing device\n• Project 2: Analysed healthcare regulatory framework, designed market entry strategy, and prepared launch of a diagnostic medical device in the United States (resulted in the founding of OsteoDynamiX GmbH)",
+      "location": "Munich Area, Germany",
+      "start": "2008-01",
+      "end": "2009-12",
+      "dateRange": "Jan 2008 – Dec 2009",
+      "current": false
+    },
+    {
+      "title": "Product Developer",
+      "company": "Fraunhofer Institute for Reliability and Microintegration (IZM)",
+      "companyUrl": null,
+      "description": "• Managed the initial product development stage and led the development of the prototype for a new medical, micro-mechatronic in vivo system for the treatment of hydrocephalus\n• In cooperation with key stakeholders (e.g. doctors, insurance companies), defined functional and non-functional product requirements and project scope",
+      "location": "Munich Area, Germany",
+      "start": "2006-01",
+      "end": "2007-12",
+      "dateRange": "Jan 2006 – Dec 2007",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Zeisberg CNC-Systeme GmbH",
+      "companyUrl": null,
+      "description": "Internship in service and installation of industrial robots and CNC machines.",
+      "location": null,
+      "start": "2004-01",
+      "end": "2004-12",
+      "dateRange": "Jan 2004 – Dec 2004",
+      "current": false
+    },
+    {
+      "title": "Civilian Service Staff",
+      "company": "Ökumenische Zentralstation, Schwalbach am Ts.",
+      "companyUrl": null,
+      "description": "Civilian service in the field of nursing and medical extramural care as an alternative to the national military draft",
+      "location": "Schwalbach am Ts.",
+      "start": "2003-01",
+      "end": "2004-12",
+      "dateRange": "Jan 2003 – Dec 2004",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "Doctor of Philosophy (PhD),  Agent-based Modelling, Complex Systems & Transport Planning",
+      "dateRange": "2011 – 2016"
+    },
+    {
+      "school": "UC San Diego",
+      "degree": "Mechanical and Aerospace Engineering",
+      "dateRange": "2009 – 2010"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2007 – 2010"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diploma, Electrical Engineering and Information Technology",
+      "dateRange": "2004 – 2010"
+    },
+    {
+      "school": "University of Illinois Urbana-Champaign",
+      "degree": "Electrical and Computer Engineering",
+      "dateRange": "2007 – 2008"
+    }
+  ],
+  "skills": [
+    "User Experience (UX)",
+    "Product Design",
+    "Rapid Prototyping",
+    "Enablement",
+    "Stakeholder Management",
+    "Large Language Model Operations (LLMOps)",
+    "Vector Databases",
+    "Retrieval-Augmented Generation (RAG)",
+    "Multi-agent Systems",
+    "Team Leadership",
+    "Product Management",
+    "Large Language Models (LLM)",
+    "Generative AI Tools",
+    "Digital Strategy",
+    "Business Process Automation",
+    "Data Analytics",
+    "Data Architecture",
+    "Flowable",
+    "Workflow Engines",
+    "Data Analysis"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "enovetic ag",
+    "tagline": "focus on your business",
+    "description": "Since 1981, enovetic has been a leading provider of top-notch software solutions and extensive services in employment, health, and pension sectors for leasing firms, social security agencies, and individuals alike. With a specialization in handling vast data volumes, we've cemented our position as industry trailblazers.\n\nWe empower our corporate clients to boost productivity, allowing them to focus on their primary operations. Meanwhile, individuals enjoy a streamlined view of their income, finances, and insurance, helping them enhance their overall situation.",
+    "industry": "Financial Services",
+    "website": "https://www.enovetic.ch",
+    "linkedInUrl": "https://www.linkedin.com/company/enovetic-ag",
+    "employeeCount": 245,
+    "foundedYear": 1981,
+    "location": "Rotkreuz, Switzerland",
+    "specialities": [
+      "Lohndienstleistungen",
+      "Finanzdienstleistungen",
+      "Rechtsdienstleistungen",
+      "Betriebsgesundheitsmanagement",
+      "Krankentagegeld",
+      "Outsourcing für Pensionskassen",
+      "Pensionskassenlösung",
+      "Software as a Service",
+      "easyTemp",
+      "easyMission",
+      "ePlix",
+      "eAbsence",
+      "Inkasso",
+      "Steuern",
+      "Betriebliches Gesundheitsmanagement",
+      "Vorsorgelösungen"
+    ]
+  }
+}

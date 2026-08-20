@@ -1,0 +1,148 @@
+{
+  "id": "jan-theilmann-b28402154",
+  "name": "Jan Theilmann",
+  "headline": "Financial Analyst at Goldman Sachs",
+  "avatar": {
+    "sm": "/avatars/jan-theilmann-b28402154-sm.webp",
+    "lg": "/avatars/jan-theilmann-b28402154.webp",
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAADQBQCdASogACAAPtFWpUwoJKOiKA1RABoJQBWGZkMAEDwrUhPKLiUFpnt5EjOx8tv1N9dyWckAAP79+IGvdFxxFNypH5cX7mapk+fTn2EIdnhfcIn6JbNtoZfs0M2XEJ4ljHFEbBnXHxgRWagX9ivy5zamMj6q7w3bGxxcItt4AMSMvZIsxototAAQMvb1AsX7zw2vamkaqYtUnHrt2bc0wUgKrrPH277FwNMmttZaH39vkbHO2l1TAGwa/LLQWc7IHSQDS/f8P5Xhvve02OKxqzQKFjPxiJ/YclVQS8dHmy5yoIBxa1wA"
+  },
+  "location": "London, United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/jan-theilmann-b28402154",
+  "personId": 787,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jan Theilmann",
+  "ca": null,
+  "summary": "- Financial Analyst at GS Asset & Wealth Management\n- Prev. Equity and FX Derivatives at GS Global Markets and UBS Investment Bank\n- Master's in Finance from HEC Paris, Bachelor's in Business and Computer Science from TU Munich and NTU Singapore\n- Passionate about investing across the private and public markets, portfolio management, quantitative finance",
+  "positions": [
+    {
+      "title": "Associate – Asset & Wealth Management – Financial Analyst",
+      "company": "Goldman Sachs",
+      "companyUrl": "https://www.linkedin.com/company/goldman-sachs",
+      "description": "•\tInvestment advisor covering 100+ family offices, foundations, endowments and UHNWIs\n•\tAlternatives: Modelled J-Curve and market value dynamics of LP portfolios to size commitments or manage liquidity; assisted LPs on the due diligence of primaries, evergreens and co-investments across Buyout, Venture, Growth, Secondaries, GP Stakes, Credit, Real Assets and Hedge Funds; facilitated tail-end liquidity and secondary transactions between GS LPs to exit legacy stakes or rebalance portfolios\n•\tMulti-Asset Portfolio Management: Advised on strategic and tactical asset allocation and ran portfolio optimisations; advised on active and passive manager and security selection; executed portfolio rebalancings and FX hedging rolls\n•\tBrokerage: Pitched, priced and executed cash and listed, OTC or securitised derivative trades across asset classes; provided access to ECM and DCM flow; executed a $25mn collar and call writing single stock risk management trade\n•\tLending: Originated margin loans and mortgages; ran loan-to-value simulations to size leverage or cover margin calls; worked on a $50mn car, mortgage and margin loan restructuring to lower interest costs and the odds of a margin call",
+      "location": "Greater London, England, United Kingdom",
+      "start": "2021-04",
+      "end": null,
+      "dateRange": "Apr 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Off-Cycle Analyst – Global Markets Division – Swiss Cross-Asset Structured Product Sales",
+      "company": "Goldman Sachs",
+      "companyUrl": "https://www.linkedin.com/company/goldman-sachs",
+      "description": "•\tProposed structured note ideas, rolls and restructurings to 30+ Swiss private banks, brokers and asset managers\n•\tPriced flow structures across yield enhancement, capital protection, enhanced participation and warrants (15+ a day) \n•\tPriced more exotic structures such as bespoke stock or fund baskets, spreads, lookbacks and range accruals (2+ a day)",
+      "location": "Greater London, England, United Kingdom",
+      "start": "2020-07",
+      "end": "2021-01",
+      "dateRange": "Jul 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Off-Cycle Analyst – Investment Bank – Foreign Exchange, Rates and Credit Structuring",
+      "company": "UBS",
+      "companyUrl": "https://www.linkedin.com/company/ubs",
+      "description": "•\tDeveloped structured product ideas for 20+ corporate hedging, wealth management and family office clients\n•\tPriced structured FX and PM forwards and notes (4+ a day) and prepared product presentations (1-3 a week)\n•\tProposed new payoffs in the CDL derivatives pricing language to expand UBS’ autocallable FX and PM notes offering",
+      "location": "Zurich, Switzerland",
+      "start": "2019-07",
+      "end": "2019-12",
+      "dateRange": "Jul 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Internships",
+      "company": "Various",
+      "companyUrl": "https://www.linkedin.com/company/various_23",
+      "description": "3-5 months each – Early exposure across strategy consulting, telecom, chipmaking and retail banking\n•\tBain & Company (Munich, Germany): Study on the German asset management market and regulatory changes\n•\tVodafone (London, UK): Prepared the channel diagnostics for the 3-year distribution strategy plan of 21 markets\n•\tInfineon (Munich, Germany): Analysed fab capacity models for distribution negotiations with Infineon’s 4 divisions\n•\tBTPN (Jakarta, top 10 Indonesian bank by assets): Analysed credit risks of the pension, SME and micro finance units",
+      "location": "On-site",
+      "start": "2014-08",
+      "end": "2016-05",
+      "dateRange": "Aug 2014 – May 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "HEC Paris",
+      "degree": "M.Sc. International Finance",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc. Management & Technology",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Nanyang Technological University Singapore",
+      "degree": "Exchange semester",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Gymnasium Landschulheim Kempfenhausen",
+      "degree": "Abitur (university entrance qualification)",
+      "dateRange": "2011 – 2013"
+    }
+  ],
+  "skills": [
+    "Investment Strategies",
+    "FX Hedging",
+    "Portfolio Optimization",
+    "Manager Selection",
+    "Mutual Funds",
+    "Investment Management",
+    "Due Diligence",
+    "Investment Analysis",
+    "German",
+    "Asset Management",
+    "Alternative Investments",
+    "Portfolio Management",
+    "Asset Allocation",
+    "Fixed Income",
+    "Secured Financing",
+    "Investment Advisory Services",
+    "Equity Derivatives",
+    "FX Derivatives",
+    "Interest Rate Derivatives",
+    "Project Management",
+    "Product Development",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Bloomberg",
+    "Salesforce.com"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Goldman Sachs",
+    "tagline": null,
+    "description": "We aspire to be the world’s most exceptional financial institution, united by our shared values of partnership, client service, integrity, and excellence. \n\nOperating at the center of capital markets, we act as one firm, mobilizing our people, capital, and ideas to deliver superior results across our clients’ most complex challenges.\n\nFor 157 years, Goldman Sachs has delivered world-class execution on a global scale across our leading Global Banking & Markets and Asset & Wealth Management businesses. \n\nApprenticeship is central to our culture, with hands-on coaching and access to leaders who bring decades of experience and expertise. With office locations around the world, we offer a broad range of career opportunities to those who insist on excellence and thrive on performance.\n\nFind our Social Media Disclosures here: gs.com/social-media-disclosures",
+    "industry": "Financial Services",
+    "website": "http://www.goldmansachs.com",
+    "linkedInUrl": "https://www.linkedin.com/company/goldman-sachs",
+    "employeeCount": 70618,
+    "foundedYear": null,
+    "location": "New York, United States",
+    "specialities": []
+  }
+}

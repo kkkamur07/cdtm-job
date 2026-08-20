@@ -1,0 +1,196 @@
+{
+  "id": "alexis-gamboa",
+  "name": "Alexis Gamboa",
+  "headline": "Turning your product data into AI ready context graphs. No more product hallucinations.",
+  "avatar": {
+    "sm": "/avatars/alexis-gamboa-sm.webp",
+    "lg": "/avatars/alexis-gamboa.webp",
+    "blur": "data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAAAwBgCdASogACAAPs1WpUunpKOhsBgMAPAZiUAYangIcDaFd/WmvcLVa/vx3oLqzLaFbk6tfbpKShQAAP76p8moeLNZF0nQQDZ555dJhb3D9M1zlgAqNoQZXvI383/ubsSN2A/FhVK7bAv9ZT5vhkBVcQya+wMRqAZi6TYpN4mlu+HeZNyxSzzE0Hejlw4JM0nitT00sdUTbEsig1P3lO3T3DZWWexLM28DZbGfHAE6iygbGwv+uX+UML3vac60ps8CSZXcVbjDaMK2SGLOMpQwz02oe00s1xyw/zE/QihnOobpogS7JBm0EDxAAA=="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/alexis-gamboa",
+  "personId": 1144,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "Bachelor on Software Engineering and M.Sc. Data Analysis and Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Alexis Gamboa",
+  "ca": null,
+  "summary": "Conversational AI and recommended systems expert.\nSpeech to Speech models and conversational customer experience builder.\nAI MCP agents for customer experience tooling enthusiast.\n\nCurrent experience stack: N8N, Langgraph, Stardog Knowledge Graph, S2S models (Live), 11Labs, Pinecone VS.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "LoopID",
+      "companyUrl": "https://www.linkedin.com/company/loopidcom",
+      "description": "Cofounder of the first open source project for the circular economy.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-03",
+      "end": null,
+      "dateRange": "Mar 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "TWINU",
+      "companyUrl": "https://www.linkedin.com/company/twinu",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-01",
+      "end": "2024-01",
+      "dateRange": "Jan 2022 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Advisor",
+      "company": "OnaTaet",
+      "companyUrl": "https://www.linkedin.com/company/onataet",
+      "description": "Collaborator of eco-fashion online shop www.onataet.com",
+      "location": "Bavaria, Germany",
+      "start": "2020-09",
+      "end": "2021-07",
+      "dateRange": "Sep 2020 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Independent Consultant",
+      "company": "Akurey",
+      "companyUrl": "https://www.linkedin.com/company/akureyinc",
+      "description": null,
+      "location": "Costa Rica",
+      "start": "2018-01",
+      "end": "2018-03",
+      "dateRange": "Jan 2018 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Sr Consultant and developer",
+      "company": "EY",
+      "companyUrl": "https://www.linkedin.com/company/ernstandyoung",
+      "description": "Digital Twin development for Industry 4.0 and RPA planning, design and development.",
+      "location": null,
+      "start": "2016-01",
+      "end": "2018-01",
+      "dateRange": "Jan 2016 – Jan 2018",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe",
+      "companyUrl": "https://www.linkedin.com/company/dhbwkarlsruhe",
+      "description": null,
+      "location": "Karlsruhe, Baden-Württemberg, Germany",
+      "start": "2015-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Tecnológico de Costa Rica",
+      "companyUrl": "https://www.linkedin.com/company/instituto-tecnol-gico-de-costa-rica",
+      "description": "Researcher and developer at the E-Bridge project, dedicated on the implementation of IoT and signal processing for monitoring the health and conditions on public infrastructure.",
+      "location": "Costa Rica",
+      "start": "2014-10",
+      "end": "2015-05",
+      "dateRange": "Oct 2014 – May 2015",
+      "current": false
+    },
+    {
+      "title": "Assistant and tutor",
+      "company": "Tecnológico de Costa Rica",
+      "companyUrl": "https://www.linkedin.com/company/instituto-tecnol-gico-de-costa-rica",
+      "description": "Assistant and tutor at \"Information Systems\" course,for three Semester for the professor Phd. Jaime Solano.",
+      "location": "Cartago, Costa Rica",
+      "start": "2014-01",
+      "end": "2015-04",
+      "dateRange": "Jan 2014 – Apr 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Data Analysis and Engeneering",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Baden-Wuerttemberg Cooperative State University (DHBW)",
+      "degree": "International Business / Computer engineering",
+      "dateRange": "2015"
+    },
+    {
+      "school": "Tecnológico de Costa Rica",
+      "degree": "Bachelor’s Degree, Computer Engineering",
+      "dateRange": "2012 – 2016"
+    }
+  ],
+  "skills": [
+    "Conversational AI",
+    "Digital Twin",
+    "Knowledge Graphs",
+    "Circular Economy",
+    "Internet of Things (IoT)",
+    "Machine Learning",
+    "Distributed Ledger Technology (DLT)",
+    "SafeRAG",
+    "Digital Product Passport",
+    "Solidity",
+    "Next.js",
+    "Open-Source Software",
+    "SQL",
+    "RPA",
+    "R",
+    "Scrum",
+    "Python",
+    "JavaScript",
+    "HTML5",
+    "C++"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Loopid",
+    "tagline": "Product Intelligence: Turning scattered product data into AI-readable context",
+    "description": "Use LoopID's no-code solution to build AI Agents for Marketing & Sales, Digital Product Passport, LLM Visibility, Workflow Automation, Circular Business Models, Smart Label/Digital Hangtag and more.\n\nLoopID's AI-powered platform empowers brands and manufacturers to improve conversion, loyalty, efficieny and AI visibility for their products.\n\nTogether with strong partners, LoopID creates sustainable impact across industries including electronics/ICT, textiles, furniture, machinery etc.",
+    "industry": "Software Development",
+    "website": "https://www.loopid.com",
+    "linkedInUrl": "https://www.linkedin.com/company/loopidcom",
+    "employeeCount": 3,
+    "foundedYear": 2024,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Circular Economy",
+      "digital solutions",
+      "AI",
+      "AI automation",
+      "ProductChat",
+      "Digital Product Passport",
+      "Smart Label",
+      "Digital Hangtag",
+      "AI Agent",
+      "Workflow Automation"
+    ]
+  }
+}

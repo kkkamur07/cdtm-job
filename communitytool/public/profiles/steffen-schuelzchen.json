@@ -1,0 +1,267 @@
+{
+  "id": "steffen-schuelzchen",
+  "name": "Steffen Schülzchen",
+  "headline": "Founder & CEO @Entrix | Trading & Optimization of Flexible Energy Assets",
+  "avatar": {
+    "sm": "/avatars/steffen-schuelzchen-sm.webp",
+    "lg": "/avatars/steffen-schuelzchen.webp",
+    "blur": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAACQBgCdASogACAAPtFQo0woJCMiMBgMAQAaCWwAnTKEf3cWjQhR6GMVesDWXi1tAJgc9DrYlwVZ5K9TlnTQAP70Mtda2dTNNC1vw+tB6F4RbupLTHlSBiGq6Oox6FhRXFEQn60gtdM2P5zdABoIN7Y9VywfPzYsoKcJCDW3W5xtP4tXITX2gg9WPG8peLa3pxdPmoKtdPpJHOSLLCR9HMM6M043FsvAJ6bHSppQEp9Sg6Jl1x02x5v8HJMRwEBhI4Od9tiJmzZOAp3n4PtiAtcvQNd7ZAaVtTU8WR+jAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/steffen-schuelzchen",
+  "personId": 956,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Business with Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Steffen Schülzchen",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder & CEO",
+      "company": "Entrix",
+      "companyUrl": "https://www.linkedin.com/company/entrixenergy",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-09",
+      "end": null,
+      "dateRange": "Sep 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Köln und Umgebung, Deutschland",
+      "start": "2017-06",
+      "end": "2021-08",
+      "dateRange": "Jun 2017 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "KONUX",
+      "companyUrl": "https://www.linkedin.com/company/konux",
+      "description": "By combining the expertise of skilled engineers and the creative entrepreneurship of a young, dynamic team, KONUX opens up new paths in condition monitoring and predictive maintenance. We help industrial companies reduce maintenance costs and increase network capacity by providing them with smart sensor solutions and AI-based analytics.\n\nWorking at KONUX means being part of a high-performance engineering environment where real problems are solved, and real products are built. Are you eager to be creative and to apply and expand your area of expertise? You aspire to take on responsibilities and want to be part of one of the fastest growing AI startups? In this case, do not hesitate to contact us:\n\ncareer@konux.com",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2016-10",
+      "end": "2017-03",
+      "dateRange": "Oct 2016 – Mar 2017",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2016-03",
+      "end": "2016-04",
+      "dateRange": "Mar 2016 – Apr 2016",
+      "current": false
+    },
+    {
+      "title": "External Consultant",
+      "company": "Vodafone",
+      "companyUrl": "https://www.linkedin.com/company/vodafone",
+      "description": "Consulting project as part of studies at CDTM\n\n˃ Enhancement of Vodafone’s “Omnichannel Experience” through applying state-of-the-art mobile technologies & Big Data\n˃ Project leader tasks (e.g. single point of contact for the customer)",
+      "location": null,
+      "start": "2015-04",
+      "end": "2015-07",
+      "dateRange": "Apr 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "External Consultant",
+      "company": "Drillisch AG",
+      "companyUrl": "https://www.linkedin.com/company/drillisch-ag",
+      "description": "Consulting project as part of studies at CDTM\n\n˃ Technical development of a viable hub for smart homes\n˃ Creation of the business plan & investor pitch deck",
+      "location": null,
+      "start": "2014-10",
+      "end": "2015-01",
+      "dateRange": "Oct 2014 – Jan 2015",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Berylls Strategy Advisors",
+      "companyUrl": "https://www.linkedin.com/company/berylls",
+      "description": "Top-Management Automotive Consulting\n\n˃ Co-Creation of a study on ‘Big Data in Automotive Industry’\n˃ Development of the study concept\n˃ Performing research and compiling the results for the study",
+      "location": null,
+      "start": "2014-10",
+      "end": "2014-12",
+      "dateRange": "Oct 2014 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Berylls Strategy Advisors",
+      "companyUrl": "https://www.linkedin.com/company/berylls",
+      "description": "Top-Management Automotive Consulting\n\n˃ Strategic sales project at German premium automotive OEM\n˃ Creation of analyses & presentations for the customer\n˃ Support in the development of concepts & suggestions",
+      "location": null,
+      "start": "2014-06",
+      "end": "2014-08",
+      "dateRange": "Jun 2014 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "AUDI AG",
+      "companyUrl": "https://www.linkedin.com/company/audi-ag",
+      "description": "Sales, Department for the Qualification of Audi's Contractual Partners\n\n˃ Assistance in the realignment of the sales network\n˃ Development of suggestions for the after-sales network\n˃ Preparation of the e-tron sales strategy",
+      "location": null,
+      "start": "2013-05",
+      "end": "2013-07",
+      "dateRange": "May 2013 – Jul 2013",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Wirtgen Group",
+      "companyUrl": "https://www.linkedin.com/company/wirtgen-group",
+      "description": "Controlling\n\n˃ Development of a revenue projection tool for the management\n˃ Target-actual comparison of a major facility extension",
+      "location": "Windhagen",
+      "start": "2012-07",
+      "end": "2012-07",
+      "dateRange": "Jul 2012 – Jul 2012",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "DZ PRIVATBANK S.A.",
+      "companyUrl": "https://www.linkedin.com/company/dz-privatbank",
+      "description": "Private Wealth Management\n\n˃ Assistance in the creation of individual investment proposals\n˃ Research in the fields of law and taxation",
+      "location": null,
+      "start": "2012-05",
+      "end": "2012-06",
+      "dateRange": "May 2012 – Jun 2012",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Wirtgen Group",
+      "companyUrl": "https://www.linkedin.com/company/wirtgen-group",
+      "description": "Controlling Department\n\n˃ Assisting in the preparation of management reportings & monthly settlements\n˃ Preparation of presentations of the management",
+      "location": "Windhagen",
+      "start": "2011-05",
+      "end": "2011-07",
+      "dateRange": "May 2011 – Jul 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "TU Delft | Industrial Design Engineering",
+      "degree": "PhD Candidate on Circular Economy - Terminated before finishing the PhD, Circular Economy",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Business With Technology (TUM-WITEC)",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": "Visiting Scholar",
+      "dateRange": "2015"
+    },
+    {
+      "school": "WHU – Otto Beisheim School of Management",
+      "degree": "Bachelor of Science (B.Sc.), Business Administration",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "Copenhagen Business School",
+      "degree": "Semester Abroad, Business Administration",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Gymnasium Nonnenwerth",
+      "degree": "Abitur (high-school diploma), Mathematics, Physics, English",
+      "dateRange": "2002 – 2011"
+    }
+  ],
+  "skills": [
+    "Digitale Strategie",
+    "Consulting",
+    "Strategisches Management",
+    "Projektmanagement",
+    "Unternehmertum",
+    "Unternehmensführung",
+    "Start-ups",
+    "Unternehmensberatung"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Entrix",
+    "tagline": "Beyond Trading",
+    "description": "Beyond Trading\nWe are an energy trader and market leader for trading flexible energy systems in Europe.\nBeyond AI-powered trading, Entrix provides innovative solutions for long-term revenue security and grid-supportive battery operation. With our full-service package, we support customers throughout every project phase – from technical design and integration, to continuous optimization, all the way to 24/7 operational support. That includes adapting to changing market conditions and unlocking new revenue opportunities.\n\nWith more than 3 GW and 8.5 GWh as well as 70 battery storage assets under contract, Entrix is active in Germany, Poland, Italy, Spain, and Portugal, with offices in Munich, Warsaw, Milan, and Madrid. Entrix has been pioneering battery optimization in Germany by managing one of the country’s first large-scale storage projects – and is now the trusted partner of leading infrastructure players such as Encavis, MEAG (Munich Re), as well as a wide range of local utilities.​",
+    "industry": "Services for Renewable Energy",
+    "website": "https://www.entrixenergy.com",
+    "linkedInUrl": "https://www.linkedin.com/company/entrixenergy",
+    "employeeCount": 144,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Energy Storage",
+      "Battery Energy Storage System",
+      "Green Energy",
+      "Renewables",
+      "Battery Storage",
+      "Power Trading",
+      "Energy Transition",
+      "Energy Management",
+      "Asset Management",
+      "Erneuerbare Energien",
+      "Climate Tech",
+      "Batteriespeicher",
+      "Batteriespeichersystem",
+      "Energiewende",
+      "Grüne Energie",
+      "Energiespeicher",
+      "Energy",
+      "Energie",
+      "Battery",
+      "Artificial Intelligence",
+      "Künstliche Intelligenz",
+      "Technology",
+      "Technologie",
+      "Algorithms",
+      "Energy Trading",
+      "Energiehandel",
+      "Smart Energy",
+      "Optimization Platform",
+      "Trading Platform",
+      "Energy Network",
+      "Virtual Power Plants",
+      "Virtuelle Kraftwerke",
+      "Batteriegroßspeicher",
+      "Grid-Scale Battery Storage"
+    ]
+  }
+}

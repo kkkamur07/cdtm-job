@@ -1,0 +1,199 @@
+{
+  "id": "constantin-weberpals",
+  "name": "Constantin (Tino) Weberpals",
+  "headline": "Stanford | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/constantin-weberpals-sm.webp",
+    "lg": "/avatars/constantin-weberpals.webp",
+    "blur": "data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAAAQBgCdASogACAAPtFapE0oJSMiKA1RABoJYgCdMy/vQTN6tR+GCFNT6jwj/rqI18fHIQlp4RKcC+AA/v17HdX7iT9LN3VYucYu6+my4dcLaowNWFwXRXKdwPp+qxKTy543Y0p0mEuA/fdUoZRMArD23qO6u/+UiKeZ1XMbURrKpovEBLMKiSWMCl+RW+nRi+CYbhwuOairc+Z+HTOmindXtbXZ8OWEs3iAr+neHJGppWYqR4WM2GQsQEusVPXZQRPoMN0LCRX2X8vlfKT9Ef1Ew/JbTUeJC+J3QcaVMiquyE64mT6PYLIEgwAAAA=="
+  },
+  "location": "San Francisco Bay, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/constantin-weberpals",
+  "personId": 1038,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Constantin Weberpals",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Machine Learning Research",
+      "company": "Stanford University School of Medicine",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university-school-of-medicine",
+      "description": "Mignot Lab",
+      "location": null,
+      "start": "2024-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Data Sourcing Dev Team Lead",
+      "company": "La Famiglia",
+      "companyUrl": "https://www.linkedin.com/company/la-famiglia-vc",
+      "description": "Platform for monitoring of investment opportunities\nhttps://github.com/la-famiglia-jst2324/parma-analytics",
+      "location": null,
+      "start": "2023-10",
+      "end": "2024-03",
+      "dateRange": "Oct 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Freelance Software Engineer",
+      "company": "Freelance | Self-Employed",
+      "companyUrl": "https://www.linkedin.com/company/freelanceweb",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Product & Tech",
+      "company": "MYTERIAL",
+      "companyUrl": "https://www.linkedin.com/company/myterial",
+      "description": null,
+      "location": null,
+      "start": "2022-11",
+      "end": "2024-01",
+      "dateRange": "Nov 2022 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Consulting",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "Consulting in Life Sciences",
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Investment Operations",
+      "company": "Scalable Capital",
+      "companyUrl": "https://www.linkedin.com/company/scalable-capital",
+      "description": null,
+      "location": null,
+      "start": "2021-09",
+      "end": "2021-12",
+      "dateRange": "Sep 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Working Student IT Business Consulting",
+      "company": "Senacor Technologies",
+      "companyUrl": "https://www.linkedin.com/company/senacor-technologies",
+      "description": null,
+      "location": null,
+      "start": "2021-02",
+      "end": "2021-07",
+      "dateRange": "Feb 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Global Apps and Digital Services",
+      "company": "BSH Home Appliances Group",
+      "companyUrl": "https://www.linkedin.com/company/bsh-home-appliances-group",
+      "description": null,
+      "location": null,
+      "start": "2020-09",
+      "end": "2020-12",
+      "dateRange": "Sep 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Tutor for IT & Society",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-08",
+      "dateRange": "Apr 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "SAP UCC Munich",
+      "companyUrl": "https://www.linkedin.com/company/sap-ucc-munich",
+      "description": null,
+      "location": null,
+      "start": "2019-05",
+      "end": "2020-03",
+      "dateRange": "May 2019 – Mar 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Student Researcher",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Exchange Semester, Information Systems",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Information Systems",
+      "dateRange": null
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Exchange Semester, School of Computing",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Information Systems",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Stanford University School of Medicine",
+    "tagline": "Come join the biomedical revolution.",
+    "description": "Stanford Medicine improves health through leadership, diversity and collaborative discoveries and innovation in health care, education and research. \n\nThe Stanford School of Medicine is a premier setting for integrated research, medical education and clinical care. As the academic hub of Stanford Medicine, which also comprises adult and pediatric health care delivery systems, it fuels discovery and innovation to advance human health while empowering the medical and scientific leaders of tomorrow. Learn more at med.stanford.edu/school.",
+    "industry": "Higher Education",
+    "website": "http://med.stanford.edu",
+    "linkedInUrl": "https://www.linkedin.com/company/stanford-university-school-of-medicine",
+    "employeeCount": 9312,
+    "foundedYear": null,
+    "location": "Palo Alto, United States",
+    "specialities": [
+      "medical education",
+      "biomedical research",
+      "teaching",
+      "clinical care",
+      "community service"
+    ]
+  }
+}

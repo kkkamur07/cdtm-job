@@ -1,0 +1,131 @@
+{
+  "id": "wolfgang-vogl-736593143",
+  "name": "Wolfgang Vogl",
+  "headline": "Connecting Logistic Assets",
+  "avatar": null,
+  "location": "Unterschleißheim, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/wolfgang-vogl-736593143",
+  "personId": 1670,
+  "classes": [
+    {
+      "id": 97,
+      "label": "Fall 2001",
+      "season": "Fall",
+      "year": 2001,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2001",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Wolfgang Vogl",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Geschäftsführender Gesellschafter",
+      "company": "BOX ID Systems GmbH",
+      "companyUrl": "https://www.linkedin.com/company/box-id",
+      "description": null,
+      "location": "Garching",
+      "start": "2018-01",
+      "end": null,
+      "dateRange": "Jan 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Geschäftsführer",
+      "company": "Blackbird Robotersysteme GmbH",
+      "companyUrl": "https://www.linkedin.com/company/blackbird-robotersysteme-gmbh",
+      "description": null,
+      "location": "Garching | Shanghai | Detroit",
+      "start": "2013-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2013 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Geschäftsführender Gesellschafter",
+      "company": "Blackbird Robotersysteme GmbH",
+      "companyUrl": "https://www.linkedin.com/company/blackbird-robotersysteme-gmbh",
+      "description": null,
+      "location": "Garching",
+      "start": "2008-10",
+      "end": "2012-12",
+      "dateRange": "Oct 2008 – Dec 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr.-Ing. | Augmented Reality als User Interface für Industrieroboter",
+      "dateRange": "2004 – 2008"
+    },
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Externe Diplomarbeit | Haptic Interfaces for Nanomanipulation",
+      "dateRange": "2003"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Master Level Program | Digital Technology & Management",
+      "dateRange": "2001 – 2003"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl.-Ing. | Mechatronik und Informationstechnik",
+      "dateRange": "1998 – 2003"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "BOX ID Systems",
+    "tagline": "Supply Chain Visibility Platform & Technology Solutions",
+    "description": "Supply Chain Visibility Platform - Intelligent supply chain management plays a key role in the transformation of today’s industrial logistics towards higher cost-efficiency and sustainability. Optimizing transports, avoiding loss and dispatch errors, maximizing availability, reducing costs and the ecological footprint are the overall goals throughout global logistics. BOX ID SaaS-Platform brings a whole new level of visibility and control to industrial logistics chains in this respect. It directly connects the IT world with its logical models of material stocks and flows with the real-world physical supply chain and its millions upon millions of returnable transport packaging (RTP) units – such as transport containers, boxes, racks, KEGs, swap bodies.\n\nThe cloud-based BOX ID solution enables customers to monitor and control their critical inbound and outbound shipments and ensures an optimized flow of their goods and RTP fleets across any number of own and third-party premises as well as in transit. The software provides an intelligent fusion of IoT-sensor data with records from enterprise software, such as ERP and TMS. The outcome is transparent supply chain data and analytics functions to ensure availability, prevent loss and optimize utilization of RTP fleets and other mobile logistic assets.\n\nThe reliability of the BOX ID solution is proven by a fast-growing customer base, which includes more than 60 companies from industries such as Automotive, Machinery, Glass, Wholesale and all kinds of Logistic Service Providers. Currently, the geographic focus of the customer base is on Central Europe and Asia Pacific.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.box-id.com",
+    "linkedInUrl": "https://www.linkedin.com/company/box-id",
+    "employeeCount": 33,
+    "foundedYear": 2018,
+    "location": "Garching bei München, Germany",
+    "specialities": [
+      "LPWAN",
+      "SIGFOX",
+      "NB-IOT",
+      "Sensor Networks",
+      "Smart Parts",
+      "Smart Logistics",
+      "Device Management",
+      "Condition Monitoring",
+      "Location Monitoring",
+      "Tracking Solutions",
+      "Supply Chain Optimization",
+      "IIoT Solutions",
+      "Supply Chain Digitalization",
+      "Connected Assest",
+      "SAAS",
+      "IIoT Solutions",
+      "Asset Tracking",
+      "Supply Chain Asset Tracking",
+      "Connected Sensors",
+      "digitalisierung",
+      "freighttech",
+      "prescriptive ananlytics",
+      "location intelligence",
+      "reusable packaging",
+      "RTP",
+      "Shipment Tracking",
+      "Logistics Tracking",
+      "Transport Packaging Tracking"
+    ]
+  }
+}

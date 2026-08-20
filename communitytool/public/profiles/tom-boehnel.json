@@ -1,0 +1,171 @@
+{
+  "id": "tom-boehnel",
+  "name": "Tom Böhnel",
+  "headline": "Emidat | TUM | CDTM",
+  "avatar": {
+    "sm": "/avatars/tom-boehnel-sm.webp",
+    "lg": "/avatars/tom-boehnel.webp",
+    "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBQCdASogACAAPtFcpU6oJKMiKAqpABoJYwC/OYw7WwCZGzEjVN1L2bRVvZQgcljuAAD+9+e9gyALHXmgDEV0nN4atgIzr90zH6z4o1kezCo7GzyC/ZqrYfyO2binRLMI0Gl3+xMZVfOEJJNR5ta9BsYVwqneK6fa7Q2gCJfd0cJ5M5IXhodf1u8BIDIxWq1T7j2BvBQ1TiGXwnej+67ihU4XZB3e9c3murHsCfa1YseAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/tom-boehnel",
+  "personId": 983,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Tom Böhnel",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company": "Emidat",
+      "companyUrl": "https://www.linkedin.com/company/emidat",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Emidat",
+      "companyUrl": "https://www.linkedin.com/company/emidat",
+      "description": null,
+      "location": null,
+      "start": "2023-03",
+      "end": "2023-05",
+      "dateRange": "Mar 2023 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Tanso",
+      "companyUrl": "https://www.linkedin.com/company/tansotechnologies",
+      "description": null,
+      "location": null,
+      "start": "2022-03",
+      "end": "2022-08",
+      "dateRange": "Mar 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Product Manager (intern & working student)",
+      "company": "TeleClinic",
+      "companyUrl": "https://www.linkedin.com/company/teleclinic",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-09",
+      "end": "2022-01",
+      "dateRange": "Sep 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Software Engineer (working student)",
+      "company": "Deutsches Zentrum für Luft-und Raumfahrt e.V.",
+      "companyUrl": "https://www.linkedin.com/company/dlr",
+      "description": null,
+      "location": null,
+      "start": "2020-11",
+      "end": "2021-08",
+      "dateRange": "Nov 2020 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-03",
+      "end": "2020-08",
+      "dateRange": "Mar 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Software Engineer (working student)",
+      "company": "Fraunhofer Institute for Industrial Engineering IAO",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-iao",
+      "description": null,
+      "location": "Stuttgart und Umgebung, Deutschland",
+      "start": "2019-10",
+      "end": "2020-02",
+      "dateRange": "Oct 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Autonomous Driving Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-07",
+      "end": "2018-12",
+      "dateRange": "Jul 2018 – Dec 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science, Elektro- und Informationstechnik",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "National Taiwan University",
+      "degree": null,
+      "dateRange": "2022"
+    },
+    {
+      "school": "Linköping University",
+      "degree": null,
+      "dateRange": "2019"
+    },
+    {
+      "school": "Hochschule Esslingen - University of Applied Sciences",
+      "degree": "Bachelor of Engineering, Mechatronik / Elektrotechnik",
+      "dateRange": "2016 – 2020"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Emidat",
+    "tagline": "Climate-Native Product Management: Create and turn environmental product data (EPDs, LCAs, DPPs) into business value.",
+    "description": "Climate-Native Product Management - We make it a business value to produce and provide sustainable materials.\n\nThe Emidat Platform enables automated generation and distribution of lifecycle assessments (LCAs), environmental product declarations (EPDs) and digital product passports (DPPs). This helps material manufacturers to fulfil customer demands, differentiate their product and be ready for upcoming regulation (e.g. EU CPR).\n\nWith Emidat, material manufacturers:\n- Reduce cost and time for generating EPDs / LCAs by over 70%\n- One license - unlimited product profiles through our third party verified platform\n- Save time on data collection and text writing based on AI\n\nThe Emidat database consists of environmental data on over 150k construction products and can be accessed via API and UI.",
+    "industry": "Data Infrastructure and Analytics",
+    "website": "https://emidat.com",
+    "linkedInUrl": "https://www.linkedin.com/company/emidat",
+    "employeeCount": 43,
+    "foundedYear": 2023,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

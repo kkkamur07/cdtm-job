@@ -1,0 +1,269 @@
+{
+  "id": "valentin-goelz",
+  "name": "Valentin Gölz",
+  "headline": "AI Engineer @ Manex AI | CDTM | TUM | UC Berkeley | relAI",
+  "avatar": {
+    "sm": "/avatars/valentin-goelz-sm.webp",
+    "lg": "/avatars/valentin-goelz.webp",
+    "blur": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAABwBQCdASogACAAPsFKoEunpCMht/qoAPAYCUAKj9N2kx5htQQqD7K0nd49NO0w3P9Xse8AAP78E9Crt49kS/F79zOmol01IfzP1d9EZJmCukfD6ESzwY6GMdgtpGvpt9/DYKghox+HV1RYiNOzmUMCoGw+IJNUiIOWg4X2mglB5yu0gITOhkoB4dh0zE2J3FBbvEt1YRSQlhk2r9jLmsPa+V/6jGs/A48tJI0oKPC12EAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/valentin-goelz",
+  "personId": 1302,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Mathematics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Valentin Gölz",
+  "ca": null,
+  "summary": "Always happy to connect with like-minded people.",
+  "positions": [
+    {
+      "title": "AI Engineer",
+      "company": "Manex AI",
+      "companyUrl": "https://www.linkedin.com/company/manex-ai",
+      "description": "Building.",
+      "location": null,
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Intern in the Office of Michael Theurer MdB",
+      "company": "Deutscher Bundestag",
+      "companyUrl": "https://www.linkedin.com/company/deutscher-bundestag",
+      "description": null,
+      "location": null,
+      "start": "2018-10",
+      "end": null,
+      "dateRange": "Oct 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "München",
+      "company": "trail",
+      "companyUrl": "https://www.linkedin.com/company/trail-ml",
+      "description": "• Developed parts of the core product of trail (AI Governance tool)\n• Deployed services to the cloud\n• Implemented interactions with LLMs",
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Visiting Student Researcher",
+      "company": "University of California, Berkeley",
+      "companyUrl": "https://www.linkedin.com/company/uc-berkeley",
+      "description": "Visiting Student Researcher at the School of Information, supervised by Prof. Cheshire.",
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-05",
+      "dateRange": "Jan 2025 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Post Graduate Intern | Strategy Consulting",
+      "company": "Roland Berger",
+      "companyUrl": "https://www.linkedin.com/company/rolandberger",
+      "description": "Digital Platform\n• Helped implement a new IT-Strategy at a large university hospital\n• Conducted a due diligence for an M&A deal\n• Worked on the IT-transformation of a large health insurance provider",
+      "location": null,
+      "start": "2024-09",
+      "end": "2024-11",
+      "dateRange": "Sep 2024 – Nov 2024",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Data Analytics and Machine Learning Group\n• Worked on adversarial machine learning methods for LLMs",
+      "location": null,
+      "start": "2024-06",
+      "end": "2024-08",
+      "dateRange": "Jun 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Software Engineer | Working Student",
+      "company": "trail",
+      "companyUrl": "https://www.linkedin.com/company/trail-ml",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-10",
+      "end": "2024-02",
+      "dateRange": "Oct 2023 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "M.Sc. Student | Scholarship",
+      "company": "relAI Konrad Zuse School of Excellence",
+      "companyUrl": "https://www.linkedin.com/company/relai-konrad-zuse-school-of-excellence",
+      "description": "The vision of the ‘Konrad Zuse School of Excellence in Reliable AI’ (relAI) is to train future generations of AI experts, who for the first time combine technical brilliance with awareness of the importance of AI’s reliability.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-09",
+      "end": "2025-07",
+      "dateRange": "Sep 2023 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Software Engineer | Internship",
+      "company": "trail",
+      "companyUrl": "https://www.linkedin.com/company/trail-ml",
+      "description": null,
+      "location": null,
+      "start": "2023-08",
+      "end": "2023-10",
+      "dateRange": "Aug 2023 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Research & Development Engineer",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": "• Part of the research & development department\n• Worked on differential machine learning",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-05",
+      "end": "2024-05",
+      "dateRange": "May 2023 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Internship - Explainable AI in Computer Vision",
+      "company": "Schwarz Digits",
+      "companyUrl": "https://www.linkedin.com/company/schwarz-digits",
+      "description": "• Conducted literature research on XAI methods for computer vision\n• Implemented XAI algorithms for industry applications\n• Helped industrialize computer vision projects for food production",
+      "location": null,
+      "start": "2023-04",
+      "end": "2023-07",
+      "dateRange": "Apr 2023 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Working Student in Deep Learning",
+      "company": "understand.ai",
+      "companyUrl": "https://www.linkedin.com/company/understand-ai",
+      "description": "• Applied machine learning tools to data annotation tasks in autonomous driving\n• Developed and improved algorithms",
+      "location": null,
+      "start": "2022-07",
+      "end": "2022-09",
+      "dateRange": "Jul 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Karlsruher Institut für Technologie (KIT)",
+      "companyUrl": "https://www.linkedin.com/company/kit",
+      "description": "• Taught tutorial classes for undergraduate students in Numerical Mathematics\n• Corrected and graded homework exercises",
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-03",
+      "dateRange": "Oct 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Member | Software & Research Department",
+      "company": "mu-zero HYPERLOOP",
+      "companyUrl": "https://www.linkedin.com/company/mu-zero-hyperloop",
+      "description": "• Responsible for the project ”Topology Optimization with Reinforcement Learning”\n• Optimized the structure of our pod (vehicle)\n• Participated in the project ”Pod Mass Optimization”, used evolutionary algorithms to optimize mass\n• Took part in the European Hyperloop Week (EHW)",
+      "location": "Karlsruhe, Baden-Württemberg, Germany",
+      "start": "2021-09",
+      "end": "2022-09",
+      "dateRange": "Sep 2021 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Intern at Chief Risk Office",
+      "company": "Deutsche Bank",
+      "companyUrl": "https://www.linkedin.com/company/deutsche-bank",
+      "description": "• Gained practical experience in banking, modeling and quantification of risk\n• Data analysis, project management, collaborating with watchdogs",
+      "location": "Frankfurt, Hesse, Germany",
+      "start": "2021-04",
+      "end": "2021-07",
+      "dateRange": "Apr 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Karlsruher Institut für Technologie (KIT)",
+      "companyUrl": "https://www.linkedin.com/company/kit",
+      "description": "• Taught tutorial classes for undergraduate students in Linear Algebra\n• Corrected and graded homework exercises",
+      "location": null,
+      "start": "2019-10",
+      "end": "2020-03",
+      "dateRange": "Oct 2019 – Mar 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., Mathematics",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "Université Paris-Saclay",
+      "degree": "M1, Mathématique et Intelligence Artificielle",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Karlsruhe Institute of Technology (KIT)",
+      "degree": "B.Sc., Mathematics",
+      "dateRange": "2018 – 2022"
+    },
+    {
+      "school": "Université Grenoble Alpes",
+      "degree": "Erasmus Semester, Mathematics",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "GICC High School, Nebraska (USA)",
+      "degree": "Year abroad",
+      "dateRange": "2015 – 2016"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Manex AI",
+    "tagline": "Shaping the Future of Industrial AI",
+    "description": "Munich-based startup Manex AI is transforming industrial quality management and process steering with its manufacturing optimization agents. The team is working hard towards its vision of autonomous factories and industry leaders like BMW, Audi, BSH, Stellantis, TDK, Henkel, Resrg Automotive and other already rely on Qualitatio.\n\nManex AI's customers have proven to be able to reduce over 70% of test capacities and increase defect detection rates by 20% with Qualitatio, both in OEM and supplier setups.",
+    "industry": "Software Development",
+    "website": "https://www.manex.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/datagon-ai",
+    "employeeCount": 31,
+    "foundedYear": 2023,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Industrial AI",
+      "Quality Management",
+      "Software Development",
+      "Artificial Intelligence",
+      "Manufacturing",
+      "Automotive",
+      "Electronics",
+      "Home Appliances",
+      "Chemistry"
+    ]
+  }
+}

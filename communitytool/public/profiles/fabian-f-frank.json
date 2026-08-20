@@ -1,0 +1,309 @@
+{
+  "id": "fabian-f-frank",
+  "name": "Fabian Frank",
+  "headline": "Product @ Microsoft",
+  "avatar": {
+    "sm": "/avatars/fabian-f-frank-sm.webp",
+    "lg": "/avatars/fabian-f-frank.webp",
+    "blur": "data:image/webp;base64,UklGRk4BAABXRUJQVlA4IEIBAAAQBwCdASogACAAPslSnkunpKKhsAwA8BkJbACdMoPLByALYCJ+VnlYVUwyjPyD/x1P33A/lyxlxPGTtQt/49wpAAD+Ai+my0EejbuR3L6r7PyqpfAf9Oa82tMZzAgeueZuNrTCn5TFsqcdcZT7VeO/vY3A3A3rQA/rFXyfS1TWL8iAY6zLZ/qrz3xZ6mVBKtCEHE4IggKo4IJlROboGMZgJ4m3E3TGJLuJzaMh8me6nPTIa2QNaEyHv+KEnjKfH/xgLd9pfon41LWV7lwNzTA5+jvrXxyQmgZaj7bgrZo+FKiwaQyakrHBG3MQgPiuWrjCF/y1qbz6sGI6dl/Ark+KvfOEWoTm8OOc3OnmuWGy9N1ehJt/dkl+ERUt2I2AkZ488PiupXOSacFrDBXwPx65pgqcBAusC1wCTW2A921yQAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/fabian-f-frank",
+  "personId": 1250,
+  "classes": [
+    {
+      "id": 77,
+      "label": "Spring 2015",
+      "season": "Spring",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2015",
+  "major": "Management and Technology, Psychology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Fabian Frank",
+  "ca": null,
+  "summary": "Seasoned Product Manager with a background in computer science, business, and psychology and a passion for design and data science. 7+ years of experience of owning end-to-end delivery of customer-centered products in a variety of roles ranging from startups to big tech.",
+  "positions": [
+    {
+      "title": "Founding Member & Steering Committee Member",
+      "company": "Margo",
+      "companyUrl": "https://www.linkedin.com/company/margoproject",
+      "description": "• Unlocking barriers to innovation in the industrial automation space and accelerating digital transformation for organizations of all sizes through an ecosystem-wide open-source approach\n• Driving interoperable orchestration at scale of edge applications, workloads and devices in complex multi-vendor environments",
+      "location": null,
+      "start": "2024-04",
+      "end": null,
+      "dateRange": "Apr 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Product Manager – Adaptive Cloud & Azure IoT Operations",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "• Providing one-stop solution for global-scale operations with reliable cloud-to-edge offering\n• Unifying edge data plane and management to ensure data insights for workflow optimization",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-09",
+      "end": null,
+      "dateRange": "Sep 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Adaptive Cloud | Microsoft Azure",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "The new Surface Duo. Do one better.",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Surface innovation comes to a mobile device. Impossibly thin and with two high-resolution touchscreens, Surface Duo features the best of Microsoft 365 and every Android app in the Google Play store. It’s a new way to get things done with a...",
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Senior Product Manager - Digital Transformation via Azure IoT Central",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "• Accelerating time-to-value for industrial customers through scalable PaaS offering\n• Driven seamless integration of Edge devices and partner offerings for E2E user journey",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-05",
+      "end": "2022-08",
+      "dateRange": "May 2020 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Azure IoT Central - IoT Solution Development | Microsoft Azure",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "• Owning software product development in cross-company endeavors focused on incubating hardware products\n• Ensuring great customer experience by leading design and engineering efforts for Office on dual-screen and foldable devices with a focus on research-backed key user scenarios\n• Driving product strategy and customer-centered decision making by defining, implementing, and tracking key metrics at the intersection of software and hardware for top-level leadership and the 10,000 person organization \n• Creation of Office demos on new hardware for events like CES or Surface reveal events with visibility by millions of viewers",
+      "location": "Greater Seattle Area",
+      "start": "2018-07",
+      "end": "2020-04",
+      "dateRange": "Jul 2018 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Technical Product Manager",
+      "company": "Salesforce",
+      "companyUrl": "https://www.linkedin.com/company/salesforce",
+      "description": "• Defined vision and led product development of security certificate monitoring tool\n• Achieved close to 100% detection and handling before expiry for external certificates",
+      "location": "San Francisco Bay Area",
+      "start": "2017-06",
+      "end": "2017-09",
+      "dateRange": "Jun 2017 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Graduate Research And Head Teaching Assistant",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": "Taught and researched in the field of entrepreneurship: \n• Research: NLP-based analysis of success factors of IPOs (Prof. Chuck Eesley)\n• Teaching: Managed and coached interdisciplinary startup teams in the early stage (up to 15 teams at a time)",
+      "location": "Stanford",
+      "start": "2016-09",
+      "end": "2018-06",
+      "dateRange": "Sep 2016 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": "• Independently executed extensive analysis of 50+ executive interviews\n• Developed strategic market positioning of key player in autonomous vehicle industry",
+      "location": "Greater Stockholm Metropolitan Area",
+      "start": "2016-07",
+      "end": "2016-08",
+      "dateRange": "Jul 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Graduate Researcher",
+      "company": "IESE Business School",
+      "companyUrl": "https://www.linkedin.com/company/iese-business-school",
+      "description": "• Researched key drivers of ethical decision making of market participants \n• Designed and executed user study for 400+ participants",
+      "location": "Greater Barcelona Metropolitan Area",
+      "start": "2016-03",
+      "end": "2016-07",
+      "dateRange": "Mar 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "HEAVN",
+      "companyUrl": "https://www.linkedin.com/company/heavn",
+      "description": "• Driven launch of new innovative health-tech hardware product and achieved coverage by 30+ blogs & magazines\n• Managed Go-to-market strategy with top 5% Kickstarter campaign and 15,000+ unique visitors",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-10",
+      "end": "2016-03",
+      "dateRange": "Oct 2015 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "NavVis",
+      "companyUrl": "https://www.linkedin.com/company/navvis",
+      "description": "• Identified most promising market for 3D mapping technology product through 70+ expert interviews\n• Developed web-based MVP for facility management market & acquired first 5 customers",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-04",
+      "end": "2015-09",
+      "dateRange": "Apr 2015 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Purchase Specialist",
+      "company": "MAN Truck & Bus AG",
+      "companyUrl": "https://www.linkedin.com/company/man-commercial-vehicles",
+      "description": "• Improved business reasoning through being responsible for process improvements and significant cost cutting in short-term purchasing projects\n• Identified best practices from long-term purchasing process and translated into impactful measures for short-term purchasing",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-07",
+      "end": "2014-09",
+      "dateRange": "Jul 2014 – Sep 2014",
+      "current": false
+    },
+    {
+      "title": "Supply Chain Management",
+      "company": "The Linde Group",
+      "companyUrl": "https://www.linkedin.com/company/linde",
+      "description": "• Implemented a classification model for suppliers to make sourcing process more efficient and effective",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-09",
+      "end": "2013-12",
+      "dateRange": "Sep 2013 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Undergraduate Research and Teaching Assistant",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "• Research: Department for Economics - Financial Management & Industrial Economics (Prof. Dr. Robert K. Frhr. von Weizsäcker): Strengthened academic rigor through working closely with PhD candidates on cutting-edge research papers\n• Teaching: Department of Production and Supply Chain Management (Prof. Dr. Martin Grunow): Developed leadership skills through teaching up to 50 students at a time",
+      "location": "Munich",
+      "start": "2012-03",
+      "end": "2013-12",
+      "dateRange": "Mar 2012 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Global risk management / R&D and innovation",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "March - August 2013 - Global risk management:\n• Implemented new IT tool for the global risk management for 1,000+ users globally from planning to go-live\nAug - Sep 2011 - R&D and innovation:\n• Applied innovation scorecards to prioritize research projects\n• Executed 50+ user studies to identify best fiber optics composition",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2011-08",
+      "end": "2013-08",
+      "dateRange": "Aug 2011 – Aug 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Master of Science (M.Sc.), Management Science and Engineering",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Stiftung Bayerische EliteAkademie (BEA)",
+      "degree": "Professional Management and Leadership Training",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "IESE Business School",
+      "degree": "Visiting Researcher, Business Ethics",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Graduate Degree, Technology Management",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Psychology",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Management and Technology",
+      "dateRange": "2011 – 2015"
+    },
+    {
+      "school": "UCL",
+      "degree": "Affiliate student, Management Science and Innovation",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Nelson College",
+      "degree": "High School",
+      "dateRange": "2009"
+    }
+  ],
+  "skills": [
+    "Business Strategy",
+    "Product Management",
+    "Data Analysis",
+    "User Experience (UX)",
+    "Product Vision",
+    "Product Strategy",
+    "Project Management",
+    "Strategy",
+    "Psychology",
+    "Microsoft Office",
+    "Java",
+    "C++",
+    "R",
+    "Team Leadership",
+    "Management",
+    "Python (Programming Language)",
+    "SQL",
+    "Agile Methodologies",
+    "Agile Project Management",
+    "Agile & Waterfall Methodologies",
+    "Agile Web Development",
+    "Business Development",
+    "Marketing Strategy",
+    "Business Analysis",
+    "Business Analytics",
+    "Teamwork",
+    "E-commerce",
+    "Leadership",
+    "Market Research",
+    "Product Development"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Margo",
+    "tagline": "Transforming the way systems and providers interoperate.",
+    "description": "Drawing its name from the Latin word for edge, Margo defines the mechanisms for interoperability between edge applications, edge devices, and edge orchestration software. The open standard promises to bring much needed flexibility, simplicity, and scalability – unlocking barriers to innovation in complex, multi-vendor environments and accelerating digital transformation for organizations of all sizes.",
+    "industry": "Industry Associations",
+    "website": "https://margo.org",
+    "linkedInUrl": "https://www.linkedin.com/company/margoproject",
+    "employeeCount": 9,
+    "foundedYear": 2024,
+    "location": null,
+    "specialities": [
+      "Industrial Automation",
+      "Open Source",
+      "Industrial Edge",
+      "Applications"
+    ]
+  }
+}

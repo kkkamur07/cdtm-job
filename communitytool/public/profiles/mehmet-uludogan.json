@@ -1,0 +1,176 @@
+{
+  "id": "mehmet-uludogan",
+  "name": "Mehmet Uludogan",
+  "headline": "CDTM",
+  "avatar": {
+    "sm": "/avatars/mehmet-uludogan-sm.webp",
+    "lg": "/avatars/mehmet-uludogan.webp",
+    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACQBQCdASogACAAPtFap04oJKOiKAqpABoJYwDMHYt+s3eQ4T2Mg1rWoIwl878A2ze7xNJgAAD+9hG+VX4jFc7Tj4U6catgPfI89oyatUUUdbqNBWPfreoE4OshfVK9bDK20JwHol2JM6NBySfZsKkTAF6WD83lXSA4g1Pks+cdfhlYGftG7RU1q4o2m0WVUZ1YOfaQ95P07C80qlSDbWu+ARBZj09zu6h45zRS6DcBA80pMi38Gc/YrqmN/vm04AA="
+  },
+  "location": "Palo Alto, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/mehmet-uludogan",
+  "personId": 2002,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Mehmet Uludoğan",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Manufacturing",
+      "company": "Various Companies",
+      "companyUrl": "https://www.linkedin.com/company/various-boards",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-10",
+      "end": "2025-08",
+      "dateRange": "Oct 2024 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Strategic Projects",
+      "company": "RobCo",
+      "companyUrl": "https://www.linkedin.com/company/robco-therobotcompany",
+      "description": "Cross-functional projects across GTM and operations\nMarket segmentation & positioning",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-12",
+      "end": "2024-05",
+      "dateRange": "Dec 2023 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Growth Equity",
+      "company": "General Atlantic",
+      "companyUrl": "https://www.linkedin.com/company/general-atlantic",
+      "description": "Late stage growth equity (Series B and beyond)\nPIPE-Investment in ATOSS Software AG",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-09",
+      "end": "2022-12",
+      "dateRange": "Sep 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Consulting",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "Restructuring & PIPE (Principal Investors & Private Equity)\nReceived return offer",
+      "location": "Berlin, Germany",
+      "start": "2022-07",
+      "end": "2022-08",
+      "dateRange": "Jul 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Investment Banking",
+      "company": "Bank of America",
+      "companyUrl": "https://www.linkedin.com/company/bank-of-america",
+      "description": "IBD DACH Coverage\nSale of Bayer Environmental Science to Cinven ($2.6bn)\nReceived return offer",
+      "location": "Frankfurt, Hesse, Germany",
+      "start": "2021-05",
+      "end": "2021-08",
+      "dateRange": "May 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Mergers & Acquisition",
+      "company": "goetzpartners",
+      "companyUrl": "https://www.linkedin.com/company/fortlanepartners",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-01",
+      "end": "2021-04",
+      "dateRange": "Jan 2021 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Mergers & Acquisition",
+      "company": "D.CT Deutsche Cleantech GmbH",
+      "companyUrl": "https://www.linkedin.com/company/gottengreende",
+      "description": null,
+      "location": "Frankfurt, Hesse, Germany",
+      "start": "2020-06",
+      "end": "2020-09",
+      "dateRange": "Jun 2020 – Sep 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management & Technology",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "University of Mannheim",
+      "degree": "Bachelor of Science - BS, Business Administration",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Waseda University",
+      "degree": "Semester Abroad",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Eduard-Spranger-Schule Freudenstadt",
+      "degree": "Abitur, Economics",
+      "dateRange": "2016 – 2019"
+    }
+  ],
+  "skills": [
+    "Produktentwicklung",
+    "Vertrieb",
+    "Microsoft Office",
+    "Customer Service",
+    "Management",
+    "Microsoft Excel",
+    "Leadership",
+    "Microsoft Word",
+    "Microsoft PowerPoint",
+    "Strategic Planning"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Türkisch"
+  ],
+  "company": {
+    "name": "Various Companies",
+    "tagline": null,
+    "description": "Various board memberships",
+    "industry": null,
+    "website": "http://www.tgleaders.com",
+    "linkedInUrl": "https://www.linkedin.com/company/various-boards",
+    "employeeCount": 21576,
+    "foundedYear": null,
+    "location": "Greenwich, United States",
+    "specialities": []
+  }
+}

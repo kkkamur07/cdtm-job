@@ -1,0 +1,174 @@
+{
+  "id": "keke-kaikhosroshvili",
+  "name": "Keke Kaikhosroshvili",
+  "headline": "Director of Product @avi | Zavvy | CDTM | LMU",
+  "avatar": {
+    "sm": "/avatars/keke-kaikhosroshvili-sm.webp",
+    "lg": "/avatars/keke-kaikhosroshvili.webp",
+    "blur": "data:image/webp;base64,UklGRjIBAABXRUJQVlA4ICYBAABwBQCdASogACAAPtFcpk4oJSMiKAqpABoJQBUfNlo/47EKp8RMZb4KVMWZZffTLAFnsAQAAP3h5ghoFT8l0PqhxxP5tBTfJpg07tQ7lw8x7RiMSqzffbehp9kY6zCwrmW1OTRG0o1sAvEpIE0wo738KrZ4oa3tBCS4PUQCM3i0cbkb65VsmMwgDPNfLDzk2/Lqf2Oq50BTVjU5eNjVxm/y1EWiQyXsGvE+4jJAE2NzUKSGpxUqX5n8vwxEDRMI/z9pNP3A5ly7GA61Xoekn5hYUeRaxdns6en8VSzZIKWX5MjkPyc/xdM8YoO95stDxLUiupbfqF9+ryLuZW8vl+QiTVAUhj6EXPThB+xT10fXoA5rMH5/dpwihHvabpa+BBtOAwIAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/keke-kaikhosroshvili",
+  "personId": 1096,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "M.Sc. Psychology: Learning Sciences",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Keke Kaikhosroshvili",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Director of Product Management",
+      "company": "avi",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "avi",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-02",
+      "end": "2025-12",
+      "dateRange": "Feb 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Zavvy",
+      "companyUrl": "https://www.linkedin.com/company/zavvy-io",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2023-11",
+      "dateRange": "Oct 2021 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Product Consultant",
+      "company": "E.ON",
+      "companyUrl": "https://www.linkedin.com/company/e-on",
+      "description": "Developed a knowledge management solution for service technicians at E.ON",
+      "location": null,
+      "start": "2020-10",
+      "end": "2021-03",
+      "dateRange": "Oct 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Product Manager / Learning Experience Designer",
+      "company": "Zavvy",
+      "companyUrl": "https://www.linkedin.com/company/zavvy-io",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-03",
+      "end": "2021-10",
+      "dateRange": "Mar 2020 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Project Manager / Instructional Designer",
+      "company": "Allianz Technology",
+      "companyUrl": "https://www.linkedin.com/company/allianz-technology",
+      "description": "-Instructional design\n-Digitalization of learning opportunities\n-User experience and usability testing\n-Data analytics\n-Data visualization",
+      "location": "Munich, Germany",
+      "start": "2019-03",
+      "end": "2019-08",
+      "dateRange": "Mar 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Research Associate",
+      "company": "University of Notre Dame",
+      "companyUrl": "https://www.linkedin.com/company/university-of-notre-dame",
+      "description": null,
+      "location": "Notre Dame, IN",
+      "start": "2016-10",
+      "end": "2018-12",
+      "dateRange": "Oct 2016 – Dec 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor's Degree in Technology Management",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Psychology and Learning Sciences",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Master's Thesis, Learning Sciences",
+      "dateRange": "2020"
+    },
+    {
+      "school": "Clark University",
+      "degree": "Bachelor’s Degree, Psychology, Gender Studies",
+      "dateRange": "2012 – 2016"
+    }
+  ],
+  "skills": [
+    "UX Research",
+    "Product Management",
+    "Educational Technology",
+    "Event Planning",
+    "Research",
+    "Data Analysis",
+    "Statistics",
+    "Data Collection",
+    "Data Mining",
+    "Instructional Design",
+    "Data Management",
+    "Data Visualization",
+    "Blended Learning",
+    "User Experience Design (UED)",
+    "Usability Testing",
+    "Product Development",
+    "Project Management",
+    "Microsoft Office",
+    "SPSS",
+    "HTML"
+  ],
+  "languages": [
+    "English",
+    "Georgian"
+  ],
+  "company": {
+    "name": "avi",
+    "tagline": "Democratizing best-in-class medical care for a healthier society",
+    "description": "Elevating the patient experience and providing the best possible care by combining technology with a human touch.",
+    "industry": "Hospitals and Health Care",
+    "website": "http://www.avimedical.com",
+    "linkedInUrl": "https://www.linkedin.com/company/avimedical",
+    "employeeCount": 228,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

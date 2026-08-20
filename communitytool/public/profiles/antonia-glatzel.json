@@ -1,0 +1,190 @@
+{
+  "id": "antonia-glatzel",
+  "name": "Antonia Glatzel",
+  "headline": "McKinsey & Company | CDTM",
+  "avatar": {
+    "sm": "/avatars/antonia-glatzel-sm.webp",
+    "lg": "/avatars/antonia-glatzel.webp",
+    "blur": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABwBQCdASogACAAPtFcpk6oJSMiKAqpABoJQBdgMZQWbNIAUYK/0XiLfXUTMoxV03KmT9IAAP78FhYblCtVpLbyR4lOcnMWs2b40/242RmY2YXKHLmYebFFPHpgUPqVbylmsH1eUQj+iIz03q3nFoQ2RM0iNdbTnf7Bj7yAPtTXmr0J6+DGX/rxAlrGwW+H8bW5tyjRo6AA4fWipldr4THs7BcS2HK+pVmZoVcDGoa3NSqBfDrPnxE4qypJ5AAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/antonia-glatzel",
+  "personId": 1082,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "M.Sc. Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Antonia Glatzel",
+  "ca": null,
+  "summary": "Work at McKinsey & Company",
+  "positions": [
+    {
+      "title": "Senior Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2024-06",
+      "end": "2025-12",
+      "dateRange": "Jun 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "FORMEL Skin",
+      "companyUrl": "https://www.linkedin.com/company/formelskin",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-11",
+      "end": "2024-04",
+      "dateRange": "Nov 2023 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "New Ventures",
+      "company": "Luminovo",
+      "companyUrl": "https://www.linkedin.com/company/luminovo",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-01",
+      "dateRange": "Oct 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-08",
+      "end": "2021-09",
+      "dateRange": "Aug 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Finance",
+      "company": "finn.auto",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-06",
+      "end": "2020-08",
+      "dateRange": "Jun 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Investment",
+      "company": "Heartcore Capital",
+      "companyUrl": "https://www.linkedin.com/company/heartcorecapital",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2020-01",
+      "end": "2020-05",
+      "dateRange": "Jan 2020 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Investment",
+      "company": "AURELIUS GROUP",
+      "companyUrl": "https://www.linkedin.com/company/aureliusgroup",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2019-10",
+      "end": "2019-12",
+      "dateRange": "Oct 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Delivery Hero",
+      "companyUrl": "https://www.linkedin.com/company/delivery-hero-se",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2017-07",
+      "end": "2017-08",
+      "dateRange": "Jul 2017 – Aug 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science , Management and Technology, Majors in Finance & Computer Science",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Master's Thesis, Institute for Manufacturing (IfM)",
+      "dateRange": "2022"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, School of Information & Haas School of Business",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Università Bocconi",
+      "degree": "Bachelor of Science, International Economics and Finance",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Singapore Management University",
+      "degree": "International Exchange Student",
+      "dateRange": "2019"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Italienisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "McKinsey & Company",
+    "tagline": null,
+    "description": "McKinsey & Company is a global management consulting firm. We are the trusted advisor to the world's leading businesses, governments, and institutions. \r\n\r\nWe work with leading organizations across the private, public and social sectors. Our scale, scope, and knowledge allow us to address problems that no one else can. We have deep functional and industry expertise as well as breadth of geographical reach. We are passionate about taking on immense challenges that matter to our clients and, often, to the world. \r\n\r\nWe work with our clients as we do with our colleagues. We build their capabilities and leadership skills at every level and every opportunity. We do this to help build internal support, get to real issues, and reach practical recommendations. We bring out the capabilities of clients to fully participate in the process and lead the ongoing work.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.mckinsey.com",
+    "linkedInUrl": "https://www.linkedin.com/company/mckinsey",
+    "employeeCount": 38159,
+    "foundedYear": null,
+    "location": "United States",
+    "specialities": [
+      "Management Consulting"
+    ]
+  }
+}

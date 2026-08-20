@@ -1,0 +1,140 @@
+{
+  "id": "philipp-roesch-schlanderer-bb33137",
+  "name": "Philipp Roesch-Schlanderer",
+  "headline": "CEO at EGYM",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/philipp-roesch-schlanderer-bb33137",
+  "personId": 1355,
+  "classes": [
+    {
+      "id": 60,
+      "label": "Fall 2006",
+      "season": "Fall",
+      "year": 2006,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2006",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Philipp Rösch-Schlanderer",
+  "ca": null,
+  "summary": "Experienced Tech-Founder and CEO. Experiences include building high performing organizations, Mergers & Acquisitions, Entrepreneurship, Venture Capital and Private Equity.",
+  "positions": [
+    {
+      "title": "Investor",
+      "company": "Vantis",
+      "companyUrl": "https://www.linkedin.com/company/vantis-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2020-09",
+      "end": null,
+      "dateRange": "Sep 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Investor",
+      "company": "Demodesk",
+      "companyUrl": "https://www.linkedin.com/company/demodesk",
+      "description": null,
+      "location": null,
+      "start": "2019-03",
+      "end": null,
+      "dateRange": "Mar 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Investor",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": null,
+      "location": null,
+      "start": "2016-06",
+      "end": null,
+      "dateRange": "Jun 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "CEO",
+      "company": "EGYM",
+      "companyUrl": "https://www.linkedin.com/company/egym-global",
+      "description": null,
+      "location": null,
+      "start": "2010-01",
+      "end": null,
+      "dateRange": "Jan 2010 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting researcher",
+      "company": "Columbia Institute for Tele-Information",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2008-01",
+      "end": "2008-12",
+      "dateRange": "Jan 2008 – Dec 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Dipl. Kfm., Business Administration",
+      "dateRange": "2004 – 2009"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": null,
+      "dateRange": "2008"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Honours Degree Technology Management, Technology Management",
+      "dateRange": "2006 – 2008"
+    },
+    {
+      "school": "Aarhus University",
+      "degree": null,
+      "dateRange": "2007"
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "Mergers & Acquisitions",
+    "Strategy",
+    "Start-ups",
+    "Entrepreneurship",
+    "E-commerce",
+    "Strategic Partnerships",
+    "Business Strategy",
+    "Venture Capital"
+  ],
+  "languages": [],
+  "company": {
+    "name": "EGYM",
+    "tagline": null,
+    "description": "EGYM is a global fitness technology company on a mission to shift healthcare from repair to prevention — equipping fitness and health facilities with smart, connected training solutions and employers with corporate wellness through EGYM Wellpass. \n\nEGYM is part of the Playlist portfolio of brands.",
+    "industry": "Wellness and Fitness Services",
+    "website": "https://us.egym.com/en-us",
+    "linkedInUrl": "https://www.linkedin.com/company/egym-global",
+    "employeeCount": 483,
+    "foundedYear": null,
+    "location": "Denver, United States",
+    "specialities": [
+      "Fully Electronic Strength Equipment",
+      "Open Cloud Platform",
+      "Online Workout Planning & Tracking",
+      "Training Analysis",
+      "Smart Trainer-Member Interaction"
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": "finn-sturenburg",
+  "name": "Finn Stürenburg",
+  "headline": "Co-Founder of Blick | AI that turns point clouds into BIM/CAD",
+  "avatar": {
+    "sm": "/avatars/finn-sturenburg-sm.webp",
+    "lg": "/avatars/finn-sturenburg.webp",
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAABQBQCdASogACAAPtFcqE4oJSQiKAqpABoJYgDA3GlfcgBiaW7XBDGbSaAf30F2Vu6YzlwA/vzWFCT2z8Hiv2XNvnzOkUUiC89CnPsjjwLDe7XviA3fBAgz9UZud6xrVFTtPzviwG3IGWeyDsTsj0fBH8QdT047nDDAPdbtR3jDmv0MRHjYfSjEYjU09tZ4U2RvRWXm6QYm7upYqOgk//E5klULU+KrpO7rH1uRnLqSYdGA1Bhp1hWClARXbzI3mOiywAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/finn-sturenburg",
+  "personId": 1043,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Finn Stürenburg",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Blick",
+      "companyUrl": "https://www.linkedin.com/company/blick-ai",
+      "description": "Blick develops AI to reduce manual work with reality capture data like point clouds or drone imagery.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-03",
+      "end": null,
+      "dateRange": "Mar 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "AI Research",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "First author: Machine learning to track global health aid (https://www.medrxiv.org/content/10.1101/2025.06.20.25329993v1)",
+      "location": null,
+      "start": "2024-04",
+      "end": "2025-06",
+      "dateRange": "Apr 2024 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "sento.io",
+      "companyUrl": "https://www.linkedin.com/company/sentohq",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-10",
+      "end": "2024-02",
+      "dateRange": "Oct 2023 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Strategic Partnerships",
+      "company": "Aid Pioneers",
+      "companyUrl": "https://www.linkedin.com/company/aid-pioneers",
+      "description": null,
+      "location": null,
+      "start": "2022-02",
+      "end": "2023-10",
+      "dateRange": "Feb 2022 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Aid Pioneers sends medical aid and solar power to crisis-affected regions like East Africa and Ukraine.",
+      "company": "Aid Pioneers",
+      "companyUrl": "https://www.linkedin.com/company/aid-pioneers",
+      "description": null,
+      "location": null,
+      "start": "2022-02",
+      "end": "2022-07",
+      "dateRange": "Feb 2022 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Investment Team",
+      "company": "Dieter von Holtzbrinck Ventures",
+      "companyUrl": "https://www.linkedin.com/company/dieter-von-holtzbrinck-ventures-gmbh",
+      "description": null,
+      "location": "Köln, Nordrhein-Westfalen, Deutschland",
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Rocket Internet SE",
+      "companyUrl": "https://www.linkedin.com/company/rocket-internet-se",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Business Administration",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "University of Mannheim",
+      "degree": "Bachelor of Science - BS, Business Administration",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "BI Norwegian Business School",
+      "degree": "Bachelor of Science - BS, Business Administration | Exchange Semester",
+      "dateRange": "2021"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Bokmål, Norwegisch",
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Blick",
+    "tagline": "Blick is developing AI that can analyze point clouds.",
+    "description": "Blick builds specialized AI that reduces manual work with reality capture data. \n\nWe turn data like laser scans and drone imagery into structured outputs for planning, progress checks, and documentation.",
+    "industry": "Software Development",
+    "website": null,
+    "linkedInUrl": "https://www.linkedin.com/company/blick-ai",
+    "employeeCount": 2,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

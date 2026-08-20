@@ -1,0 +1,179 @@
+{
+  "id": "felix-roesner",
+  "name": "Felix Roesner",
+  "headline": "creating clones",
+  "avatar": {
+    "sm": "/avatars/felix-roesner-sm.webp",
+    "lg": "/avatars/felix-roesner.webp",
+    "blur": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAACwBACdASogACAAPtFepE6oJSMiKAqpABoJZQC/7DTv8S1zF//xbHtjBToTMGZuAP74sY304hE7KYYx8BnnuG3w+B2lyBAnspX7JHNwzByl6KO8nr146Kb5Khxp6KiCqrkmU2dOm7a6vZhBE3f4pRTOT4GV72BSc1xKehdMgVGjuvXner8bKYNwwxTPE910+BwAAAAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/felix-roesner",
+  "personId": 1133,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Politics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Felix Rösner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Stealth",
+      "companyUrl": "https://www.linkedin.com/company/steath",
+      "description": "creating clones",
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Revenue, Enterprise",
+      "company": "11x",
+      "companyUrl": "https://www.linkedin.com/company/11x-ai",
+      "description": "- personally closed $500k per month\n- launched rebranding generating $40m in pipeline in a week\n- $75M+ funding from a16z and Benchmark",
+      "location": null,
+      "start": "2024-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Revenue & Ops Lead",
+      "company": "Glyphic",
+      "companyUrl": "https://www.linkedin.com/company/glyphic-ai",
+      "description": "Pre-Product to $500k ARR in 6 months. Hire #1.\n\nAI copilot for revenue teams. Raised $5.5M pre-seed.",
+      "location": null,
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Investor",
+      "company": "La Famiglia",
+      "companyUrl": "https://www.linkedin.com/company/la-famiglia-vc",
+      "description": "Early-stage VC fund primarily investing in b2b software (now a part of General Catalyst).",
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Public Policy & Affairs",
+      "company": "Brunswick Group",
+      "companyUrl": "https://www.linkedin.com/company/brunswick-group",
+      "description": "Public & Regulatory Affairs",
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Product",
+      "company": "Dialogue",
+      "companyUrl": "https://www.linkedin.com/company/dialogue-md",
+      "description": "Dialogue is a healthcare company that provides virtual care treatment and telemedicine for chronic diseases.",
+      "location": null,
+      "start": "2020-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2020 – Dec 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Arts - MA, Political Science",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Mangement",
+      "dateRange": null
+    },
+    {
+      "school": "Sciences Po",
+      "degree": "Exchange, International Affairs",
+      "dateRange": null
+    },
+    {
+      "school": "Maastricht University School of Business and Economics",
+      "degree": "MSc, Economics",
+      "dateRange": null
+    },
+    {
+      "school": "Maastricht University School of Business and Economics",
+      "degree": "Bachelor, Business Administration",
+      "dateRange": null
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Guest Research",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Marketing",
+    "Social Media",
+    "Microsoft Office",
+    "Public Speaking",
+    "Microsoft Excel",
+    "Strategy",
+    "Finance",
+    "Business Development",
+    "Automotive",
+    "Entrepreneurship",
+    "Project Management",
+    "Business Strategy",
+    "Teamwork",
+    "Data Analysis",
+    "Public Policy",
+    "Tutoring",
+    "R",
+    "Economics",
+    "Presentation Skills",
+    "Politics",
+    "Stata",
+    "Englisch",
+    "Französisch",
+    "Public Affairs",
+    "R",
+    "eHealth",
+    "Politik",
+    "Mobility",
+    "Digital Health"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Stealth",
+    "tagline": "Stealth-ing!",
+    "description": "TimelyAI is building a Marketing Saas for Time-based Businesses. \n\n“The idea is to solve the most burning need of our customers- Growing their clientele at an affordable price and being able to build lasting relationships with them for repeat business and referrals.”\n\n\"Coming soon with something extremely 'crazy'!\"",
+    "industry": "Software Development",
+    "website": "https://www.timelyai.com",
+    "linkedInUrl": "https://www.linkedin.com/company/steath",
+    "employeeCount": 4605,
+    "foundedYear": 2021,
+    "location": "Phoenix, United States",
+    "specialities": []
+  }
+}

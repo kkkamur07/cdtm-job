@@ -1,0 +1,200 @@
+{
+  "id": "anna-maria-geist",
+  "name": "Anna-Maria Geist",
+  "headline": "Research @ Oxford University | CDTM | TUM | Studienstiftung | Innovis",
+  "avatar": {
+    "sm": "/avatars/anna-maria-geist-sm.webp",
+    "lg": "/avatars/anna-maria-geist.webp",
+    "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAADwBQCdASogACAAPtFYpUyoJSOiKA1RABoJbADImdwLhfltsZ9bgS7JhrFxR338kEWA4ywLZJsjAAD++y46Zlmii60l5ZOL+ATInptB89DS77zYga1jo/C5n/xMzyLf25GFAlZl4DvKpwoInsspFPA3HtqLH3rbmdGQxJu1iaFwmHHqe4klRjFxKNS+17h5hxFyXdLCRnmevOC/lSvphZMRsjPhUQ+pCDexz6vDtxVsQduXELVAMy+JQ23terz/RVIEu8cU2OmtybRvPW3b4F+leYUodadeobOXeHqHHz2GxrEHAY8HclsNVxr7wuoLogAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/anna-maria-geist",
+  "personId": 1304,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Anna-Maria Geist",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Data Automation Intern",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": "Built production ERP data pipelines and ensured database integrity. \nShipped a Dagster-orchestrated SAP Public Cloud ingestion job in Python via REST APIs to onboard customers, plus automated historical FX conversions for reporting.",
+      "location": null,
+      "start": "2025-10",
+      "end": "2026-01",
+      "dateRange": "Oct 2025 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Junior Investment Analyst",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": "Drove early-stage investing workflows, i.e., sourced startups, ran first calls, and delivered due diligence + decision-ready memos across Climate Tech, AI, Dual Use, and Legal Tech",
+      "location": null,
+      "start": "2025-02",
+      "end": "2025-05",
+      "dateRange": "Feb 2025 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Product Development at CDTM",
+      "company": "EGYM | DACH",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": "Built a full product prototype for EGYM (CDTM MPD project) that turns free-weight training into a scalable class experience using motion tracking via computer vision, and gamification elements",
+      "location": null,
+      "start": "2024-04",
+      "end": "2024-07",
+      "dateRange": "Apr 2024 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Business Development Working Student",
+      "company": "DasLab",
+      "companyUrl": "https://www.linkedin.com/company/daslab",
+      "description": "Built unit economics & ROI models, supported fundraising, and delivered high-impact investor-ready pitch decks while streamlining core internal operations (CRM/processes)",
+      "location": null,
+      "start": "2023-11",
+      "end": "2024-06",
+      "dateRange": "Nov 2023 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Technology Strategy Consulting Intern",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": "Supported a large-scale digital transformation initiative for an international company, driving stakeholder discovery and turning insights into clear priorities and actionable solution concepts",
+      "location": null,
+      "start": "2023-04",
+      "end": "2023-08",
+      "dateRange": "Apr 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Student Researcher",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Built reproducible R analysis pipelines for motivation research at the Chair of Psychology, running multivariate statistics (factor analysis), regression-based modelling, and rigorous reporting/visualization",
+      "location": null,
+      "start": "2022-04",
+      "end": "2022-12",
+      "dateRange": "Apr 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Logistics Project Studies",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Researched CO₂ reduction levers in logistics across BMW sites (EU/US/China), building cost and emissions calculation models to quantify impact",
+      "location": null,
+      "start": "2022-03",
+      "end": "2022-06",
+      "dateRange": "Mar 2022 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Product Working Student",
+      "company": "United Internet AG",
+      "companyUrl": "https://www.linkedin.com/company/united-internet-ag",
+      "description": "Drove user-centric product discovery by synthesizing feedback from 1&1, GMX, WEB.DE, validating improvement hypotheses with the product team, and helping prioritize the roadmap for better app UX",
+      "location": null,
+      "start": "2020-11",
+      "end": "2021-08",
+      "dateRange": "Nov 2020 – Aug 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Oxford",
+      "degree": "Visiting Researcher, Department of Engineering Science",
+      "dateRange": "2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management & Technology",
+      "dateRange": "2023 – 2026"
+    },
+    {
+      "school": "University of Alberta",
+      "degree": "Exchange semester",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Management and Technology",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "Wilfrid Laurier University",
+      "degree": "Exchange semester",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Gymnasium Albertinum",
+      "degree": "Allgemeine Hochschulreife",
+      "dateRange": "2009 – 2017"
+    }
+  ],
+  "skills": [
+    "PostgreSQL",
+    "SQL",
+    "Java",
+    "Microsoft Office",
+    "Python (Programming Language)",
+    "Teamwork",
+    "Git",
+    "Microsoft Azure",
+    "Canva",
+    "TypeScript",
+    "Natural Language Processing (NLP)",
+    "Produktmanagement",
+    "Directus",
+    "Julia (Programming Language)",
+    "Dagster",
+    "R (Data Analysis)",
+    "Gitlab"
+  ],
+  "languages": [
+    "Deutsch",
+    "Latein",
+    "Englisch",
+    "Spanish",
+    "Französisch"
+  ],
+  "company": {
+    "name": "Tacto",
+    "tagline": "Stronger Procurement. Stronger Company. Stronger Future.",
+    "description": "The world is getting more complex and dynamic than ever before. China, climate, elections, trade wars, bureaucracy. Yet manufacturing, our hidden gem, is struggling to evolve. \n\nOften overlooked: the supply chain. Hundreds of tightly interconnected suppliers, thousands of production-critical parts, global dependencies. Yet procurement is expected to manage this complexity with Excel and Outlook, static ERP systems, and outdated supplier data. That no longer works.\n\nMore than 50% of the cost of a physical product is created in the supply chain. Competitive manufacturing therefore starts in procurement. AI offers the opportunity to optimally balance time, cost, and quality in procurement.\n\nThat’s why Tacto is building the first Procurement Intelligence Platform for industrial companies: not another workflow tool, but a system that creates transparency, delivers actionable recommendations, and enables execution - with procurement as the decision-maker at the center.\n\nPowered by Tacto Intelligence, you see your procurement operations at a glance: KPIs, suppliers, and real-time order and material movements. In the background, Tacto connects your ERP data with external market data to form the Procurement Brain. On top of that, AI agents automate manual work, identify risks and savings opportunities, and provide precise recommendations. Automated workflows turn these signals into action - delivering measurable results: lower costs, better quality, and higher availability.",
+    "industry": "Software Development",
+    "website": "https://www.tacto.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/tactotechnology",
+    "employeeCount": 152,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

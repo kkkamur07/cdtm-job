@@ -1,0 +1,95 @@
+{
+  "id": "jphastedt",
+  "name": "Jan-Philip Hastedt",
+  "headline": "Principal BCG X",
+  "avatar": {
+    "sm": "/avatars/jphastedt-sm.webp",
+    "lg": "/avatars/jphastedt.webp",
+    "blur": "data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAADwBQCdASogACAAPtFepEyoJaOiMBgIAQAaCWYAnQGLr1hXUNuvQFyekLMX2qmkeJ0SrdqrHjnMsAD+VwHbuaBXx4KcHQ2POoeflBxWg0PnrpiH0NdiLN3Bqi9BS/XsE+oRnMr/nR5oH1amJuk08tSbfFuOXID2ZPXfdt549xVN+aVf0TuXei64p/sB1HvV0rIKnM6OGT1IGmtrsa9N9i/1eonTw16Q+9KjkN0pt/zJ58V0tLHFwf6gB3J0JhS4BxgL0H7EbdBcrAE2Ub5VfZ9SD45lEJpJwnxPF0hm7ZZbs+0e2GOzk6xfJCwH0BeB23ZQDOHXEgnjeC5SqRLKmaNtXv77iNO23tyMmmMvc2Au6XgT799ZRkl7/4NBTdR/uxKvRXV+9sZIYQgYnX7xzU6VSqyvBQzEE221BwLksOHgtOsLAAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jphastedt",
+  "personId": 1260,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Law and Technical and Management oriented Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jan-Philip Hastedt",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Principal",
+      "company": "BCG X",
+      "companyUrl": "https://www.linkedin.com/company/bcg-x",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": null,
+      "dateRange": "Jan 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Consultant",
+      "company": "The Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": null,
+      "start": "2016-03",
+      "end": null,
+      "dateRange": "Mar 2016 – Present",
+      "current": true
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "TUM BWL, MSc (distinction)",
+      "dateRange": "2008 – 2015"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": null,
+      "dateRange": "2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management, Hons. (distinction)",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Jurastudium, BA",
+      "dateRange": "2009 – 2014"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "BCG X",
+    "tagline": "BCG’s tech build and design unit. We build tomorrow. #BCGX",
+    "description": "BCG X is the tech build & design unit of BCG.  \n\nTurbocharging BCG’s deep industry and functional expertise, BCG X brings together advanced tech knowledge and ambitious entrepreneurship to help organizations enable innovation at scale.  \n\nWith nearly 3,000 technologists, scientists, programmers, engineers, and human-centered designers located across 80+ cities, BCG X builds and designs platforms and software to address the world’s most important challenges and opportunities.  \n\nTeaming across our practices, and in close collaboration with our clients, our end-to-end global team unlocks new possibilities. Together we’re creating the bold and disruptive products, services, and businesses of tomorrow.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.bcg.com/x",
+    "linkedInUrl": "https://www.linkedin.com/company/bcg-x",
+    "employeeCount": 2009,
+    "foundedYear": null,
+    "location": "Boston, United States",
+    "specialities": []
+  }
+}

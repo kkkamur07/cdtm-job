@@ -1,0 +1,173 @@
+{
+  "id": "alvaro-ritter",
+  "name": "Alvaro Ritter",
+  "headline": "Building | CDTM | Robotics, Cognition, Intelligence @ TUM",
+  "avatar": {
+    "sm": "/avatars/alvaro-ritter-sm.webp",
+    "lg": "/avatars/alvaro-ritter.webp",
+    "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAADwBACdASogACAAPtFepk4oJSMiKAqpABoJQBOmZyy2qT+AE/solufvydjTXvB+sMAA/vfrcNz9MfYmJD6Il8yE5Srl3u/zX79fTVi5Quw/UPseUKrwqOjJ0w1VwjMGL4acxaguo2R8i69YLA/go/PhiPW3MH/IvN+iAO0m9m4yfNa59CfurddIpdRquyQbmpeAOAgdGIisnqt2qlh/8/RR059BcfT+rdr1ZMsRW4AzxnTay8vydkdM96TCEVrDealeFk+zEdZsCjLkNd25bweW/to93IPqsAOLkoqUuIQAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/alvaro-ritter",
+  "personId": 1202,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "Bsc in Engineering Science (TUM)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Álvaro Ritter",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Stealth",
+      "companyUrl": "https://www.linkedin.com/company/steath",
+      "description": null,
+      "location": null,
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "AI Researcher",
+      "company": "XPAI - the experience AI",
+      "companyUrl": "https://www.linkedin.com/company/xpai",
+      "description": "Explored how state-of-the-art computer vision techniques can be leveraged to understand customer-product engagement while safeguarding privacy.\n\nDeveloped Multi-Skeleton Contrastive Learning (MS-CLR), which outperforms current self-supervised state-of-the-art methods. Paper pending.",
+      "location": null,
+      "start": "2023-12",
+      "end": "2024-07",
+      "dateRange": "Dec 2023 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "AYWANA",
+      "companyUrl": "https://www.linkedin.com/company/aywana",
+      "description": "At AYWANA I pushed the fastest growing sport you might have never heard of: Pádel (Although, by the time you're reading this, it might be everything anyone ever talks about). As one of the first movers in the German market, we looked for innovative ways to bring Pádel to the people and build the stage this sport truly deserves, both on and off the court.",
+      "location": null,
+      "start": "2021-01",
+      "end": "2023-10",
+      "dateRange": "Jan 2021 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Numerical Computing Teaching Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-08",
+      "dateRange": "Apr 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Computer Aided Design Teaching Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2019-10",
+      "end": "2020-04",
+      "dateRange": "Oct 2019 – Apr 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Robotics, Cognition, Intelligence",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Applied Science - BASc, ENGINEERING",
+      "dateRange": null
+    },
+    {
+      "school": "Deutsche Schule Málaga",
+      "degree": "Abitur",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Java",
+    "C",
+    "Microsoft Word",
+    "Microsoft Office",
+    "Artificial Intelligence (AI)",
+    "Team Management",
+    "Team Leadership",
+    "Machine Learning",
+    "Start-ups",
+    "Market Research",
+    "User Experience (UX)",
+    "Project Management",
+    "Data Analysis",
+    "Product Development",
+    "Python",
+    "Computer Vision",
+    "PyTorch",
+    "Teaching",
+    "Product Design",
+    "3D-design",
+    "Optimization",
+    "Figma (Software)",
+    "3D Printing",
+    "Softwareentwicklung",
+    "3D Modeling",
+    "Research and Development (R&D)",
+    "Arduino",
+    "Algorithm Design",
+    "Computer Aided Design (CAD)",
+    "Python (Programmiersprache)",
+    "Eventplanung",
+    "Autodesk Inventor",
+    "Youth Leadership",
+    "UX-Design",
+    "Objektorientierte Programmierung (OOP)",
+    "Debatte",
+    "MATLAB",
+    "CATIA",
+    "3D-Design"
+  ],
+  "languages": [
+    "Englisch",
+    "Deutsch",
+    "Spanisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "Stealth",
+    "tagline": "Stealth-ing!",
+    "description": "TimelyAI is building a Marketing Saas for Time-based Businesses. \n\n“The idea is to solve the most burning need of our customers- Growing their clientele at an affordable price and being able to build lasting relationships with them for repeat business and referrals.”\n\n\"Coming soon with something extremely 'crazy'!\"",
+    "industry": "Software Development",
+    "website": "https://www.timelyai.com",
+    "linkedInUrl": "https://www.linkedin.com/company/steath",
+    "employeeCount": 4605,
+    "foundedYear": 2021,
+    "location": "Phoenix, United States",
+    "specialities": []
+  }
+}

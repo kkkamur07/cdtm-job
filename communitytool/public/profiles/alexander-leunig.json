@@ -1,0 +1,130 @@
+{
+  "id": "alexander-leunig",
+  "name": "Alexander Leunig",
+  "headline": "Medical Doctor & Scientist | CDTM Alumn",
+  "avatar": {
+    "sm": "/avatars/alexander-leunig-sm.webp",
+    "lg": "/avatars/alexander-leunig.webp",
+    "blur": "data:image/webp;base64,UklGRhgBAABXRUJQVlA4IAwBAADQBgCdASogACAAPtFSpUuoJKOhsBgMAQAaCWYAyh/CCAYWqN4Fvay22NHoCPh5nYRaRb6yLiWQ7VQh+VGdPIAA/v290fWoh//YXIYOYl78K3CEENmcqorbLvE/98mG02m0zYQ6BRV7VR5MnZh6ottRx4COfoJvsqd14sV2W4vcnJQK7FqLo0tEc/zSsDb6c4bSapEBYGWpa+45ZqCq7soyqzkhmb3XsrsL8X+tt+9jQwUBw3tDMOJwsAjyFWL0h8jToWUywxHjTxllbd2mOztFdd7VnUrYHhaRrY+c4VkDV3qUIHXJzdcebfm2exaYIjs+AJjhBDl9RfVTPfHsXpPOHlC5FX3FZWEmAAAA"
+  },
+  "location": "New York, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/alexander-leunig",
+  "personId": 1108,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Alexander Leunig",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Postdoctoral Fellow",
+      "company": "Icahn School of Medicine at Mount Sinai",
+      "companyUrl": "https://www.linkedin.com/company/icahnmountsinai",
+      "description": null,
+      "location": "Swirski Lab, Cardiovascular Research Institute",
+      "start": "2023-11",
+      "end": null,
+      "dateRange": "Nov 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Research",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": "AG Massberg, Klinikum Großhadern",
+      "start": "2019-04",
+      "end": "2023-09",
+      "dateRange": "Apr 2019 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2016-07",
+      "end": "2016-08",
+      "dateRange": "Jul 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Undergraduate Student Researcher",
+      "company": "Columbia University in the City of New York",
+      "companyUrl": "https://www.linkedin.com/company/columbia-university",
+      "description": null,
+      "location": "Yuste Lab, Department of Biological Sciences",
+      "start": "2015-07",
+      "end": "2017-09",
+      "dateRange": "Jul 2015 – Sep 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "MD",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management | Class of Spring 2019",
+      "dateRange": null
+    },
+    {
+      "school": "Columbia University",
+      "degree": "BA in Physics and Mathematics",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Icahn School of Medicine at Mount Sinai",
+    "tagline": null,
+    "description": "The Icahn School of Medicine at Mount Sinai is an international leader in medical and scientific training, biomedical research, and patient care. It is the medical school for the Mount Sinai Health System, which includes eight hospital campuses, and has more than 5,000 faculty and nearly 2,000 students, residents and fellows. Our unwavering pursuit of intellectual exchange, breakthrough research, and multidisciplinary teamwork propels us ever forward in biomedical discoveries and advances. We pursue ideas that often challenge conventional wisdom to revolutionize the practice of medicine and produce dramatically better outcomes for patients. We make big, bold bets by investing in radical free thinkers and technology at the cutting edge.",
+    "industry": "Hospitals and Health Care",
+    "website": "http://icahn.mssm.edu/",
+    "linkedInUrl": "https://www.linkedin.com/company/icahnmountsinai",
+    "employeeCount": 7421,
+    "foundedYear": 1963,
+    "location": "New York, United States",
+    "specialities": [
+      "Research",
+      "Medical Education",
+      "Graduate Education",
+      "Science",
+      "Biomedical Sciences",
+      "Medicine",
+      "PhD",
+      "Residencies",
+      "Fellowships",
+      "Innovation",
+      "MD",
+      "Genetics",
+      "MPH",
+      "Laboratories",
+      "Global Health",
+      "Post Doc",
+      "Biological Sciences"
+    ]
+  }
+}

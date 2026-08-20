@@ -1,0 +1,75 @@
+{
+  "id": "karolin-mohren-255b46234",
+  "name": "Karolin Mohren",
+  "headline": "Steuerberaterin bei BT Bayern Treuhand GmbH",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/karolin-mohren-255b46234",
+  "personId": 1496,
+  "classes": [
+    {
+      "id": 58,
+      "label": "Fall 2005",
+      "season": "Fall",
+      "year": 2005,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2005",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Karolin Mohren",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Steuerberaterin",
+      "company": "BT Bayern Treuhand GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2013-01",
+      "end": null,
+      "dateRange": "Jan 2013 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Consultant",
+      "company": "Bavaria Advisory GmbH (ehem. FAS International Auditing & Assurance GmbH)",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2009-07",
+      "end": "2012-12",
+      "dateRange": "Jul 2009 – Dec 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom, Wirtschaftsmathematik",
+      "dateRange": "2003 – 2009"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2005 – 2008"
+    },
+    {
+      "school": "Université de Montréal",
+      "degree": "Mathematik",
+      "dateRange": "2006 – 2007"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": null
+}

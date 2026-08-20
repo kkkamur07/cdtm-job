@@ -1,0 +1,159 @@
+{
+  "id": "lukas-ketzer",
+  "name": "Lukas Ketzer",
+  "headline": "EUDR at osapiens",
+  "avatar": {
+    "sm": "/avatars/lukas-ketzer-sm.webp",
+    "lg": "/avatars/lukas-ketzer.webp",
+    "blur": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAADQBQCdASogACAAPtFWpk2oJCOiMBgIAQAaCWgAwN2LurSI24L1mjjGbSie14NDOxeHWjfslFoAAP737B7oWBqdX24PRF9wOXJypu89D6ZvwudWzssrMyH1tE6p/XZzhZGQZswb32z5pzC7oExCgDYAndDyehB7kMRWYjXatbRRjgcsC0GHZq/VzOW9TMkwU33expvCMFwyUqE+8uTEHhNLHdq5B7f6putMj+/xT7Pe3+6tc0SmQvrcH3lzsbsMJEHPt4HcE1CAdXoQ9lOyRk35XAAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lukas-ketzer",
+  "personId": 968,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lukas Ketzer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "osapiens Terra GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2023-12",
+      "end": null,
+      "dateRange": "Dec 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2021 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-10",
+      "end": "2020-12",
+      "dateRange": "Oct 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Financial Engineer",
+      "company": "Scalable Capital",
+      "companyUrl": "https://www.linkedin.com/company/scalable-capital",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-12",
+      "end": "2020-03",
+      "dateRange": "Dec 2019 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Data Scientist",
+      "company": "KPMG Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/kpmg-deutschland",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-02",
+      "end": "2019-08",
+      "dateRange": "Feb 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "IT Consultant",
+      "company": "metafinanz Informationssysteme GmbH",
+      "companyUrl": "https://www.linkedin.com/company/metafinanz",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-03",
+      "end": "2018-08",
+      "dateRange": "Mar 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Ludwig-Maximilians Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-08",
+      "end": "2017-07",
+      "dateRange": "Aug 2016 – Jul 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., Robotics, Cognition, Intelligence",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Electrical Engineering & Computer Science Visiting Student",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "B.Sc., Mathematics",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "Cardiff University / Prifysgol Caerdydd",
+      "degree": "School of Mathematics Visiting Student",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "B.Sc., Business Administration",
+      "dateRange": "2015 – 2016"
+    }
+  ],
+  "skills": [
+    "R",
+    "Python",
+    "Statistics",
+    "Microsoft Excel",
+    "Microsoft Office",
+    "LaTeX",
+    "Git",
+    "Stochastik",
+    "PowerBI"
+  ],
+  "languages": [],
+  "company": null
+}

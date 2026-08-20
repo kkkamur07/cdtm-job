@@ -1,0 +1,246 @@
+{
+  "id": "leonie-freisinger",
+  "name": "Leonie Freisinger",
+  "headline": "Co-Founder & CTO @Dryft | M.Sc. ML & Robotics @ Stanford, UWaterloo & TUM | CDTM | TUM.ai Board",
+  "avatar": {
+    "sm": "/avatars/leonie-freisinger-sm.webp",
+    "lg": "/avatars/leonie-freisinger.webp",
+    "blur": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAABwBgCdASogACAAPtFcqE4oJSQiKAqpABoJQBYj4jd8WATmSUBegss4IkCfiIdqd77ozwxg7TVW6cdDwxAA/v29Lr3QZ+flmu9T7v2s3MdrY+CombderNpdgs4LjqJXIxLIMkdXXA0Ve7Ipd50+2HZ4qZxRsrFQa/bpLY/hIMOBSMX73Dz3+u6VDlDmCUvOxF4YBOCq7/DTQQwppulodCxTSY2qnZVBVF+gZrnfL7db5ye8Qq3jZf3a+1L5bzKyQTSJWn1A0C2sJRT5uihpqIyB7yluM4Hx3HwugyYjfLGYNkLLPyzopOlSf3YHdfTtk+u7fqPArVggAA=="
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/leonie-freisinger",
+  "personId": 953,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Robotics & Mechatronics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Leonie Freisinger",
+  "ca": null,
+  "summary": "I'm a former sports car engineer and ML engineer with 8+ years of SW development experience. \nMost recently I co-developed a deep-learning based forecasting framework with >3 Million downloads at Stanford and led a team of over 100 AI students & researchers as the president of TUM.ai.\n\nGrowing up on a farm, I love the outdoors and the physical world. Whether that means fixing cars, building robotic gadgets or hiking Kilimanjaro.",
+  "positions": [
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Dryft",
+      "companyUrl": "https://www.linkedin.com/company/dryft-hq",
+      "description": "Backed by General Catalyst & Neo",
+      "location": null,
+      "start": "2024-05",
+      "end": null,
+      "dateRange": "May 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Board Member",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": null,
+      "location": null,
+      "start": "2022-11",
+      "end": null,
+      "dateRange": "Nov 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "ML Engineer & Scientist",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": "NeuralProphet, Sustainable System Lab\nAs a core developer, maintained and enhanced NeuralProphet (https://neuralprophet.com/), a deep learning software framework for explainable time-series forecasting based on PyTorch with 3+ million downloads.\n\nIn parallel, built Test-of- time (https://github.com/ourownstory/test-of-time) a framework streamlined for model evaluation. \nFurther, focused my research on \"Improving global forecasting models on heterogeneous data using  normalization\" and built the experimentation framework HPDNorm (https://github.com/LeonieFreisinger/HPDNorm)",
+      "location": null,
+      "start": "2022-10",
+      "end": "2023-08",
+      "dateRange": "Oct 2022 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "President",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": "Led Germany's largest student AI initiative with now 200+ members and 6-figure annual income.\n\n•⁠ ⁠Initiated industry projects with now more than 800 applicants and 30 projects/year (e.g. QuantCo)\n•⁠ Scaled organization from 60 to 125 people with 7% acceptance rate and average time investment of members 18 hours/week.",
+      "location": null,
+      "start": "2022-03",
+      "end": "2022-10",
+      "dateRange": "Mar 2022 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Technical Product Developer",
+      "company": "Entrix",
+      "companyUrl": "https://www.linkedin.com/company/entrixenergy",
+      "description": "The joint open innovation project was a collaboration between Entrix (German energy storage startup) and the Center for Digital Technology and Management (CDTM).\n\nOur five-member multidisciplinary team developed a solution for two-way electric vehicle charging, utilizing blockchain technology. In a span of 13 weeks, we created and tested a working prototype, refining it based on feedback from potential users. My responsibilities included:\n• Technical prototyping\n• Product testing\n• Preparing presentations and pitching (together with the team)",
+      "location": null,
+      "start": "2022-03",
+      "end": "2022-08",
+      "dateRange": "Mar 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Mentor",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": "Mentored the Partners & Sponsors Team @TUM.ai. Guiding the Team by giving strategic advice. Integrate the Team into all partner-related TUM.ai activities to make projects like the TUM.ai Industry Projects, the TUM.ai Makeathon, or the TUM.ai AI4Good Entrepreneurship Lab thrive.",
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-03",
+      "dateRange": "Oct 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Trend & Future Research",
+      "company": "Stadler",
+      "companyUrl": "https://www.linkedin.com/company/stadler-rail",
+      "description": "Trend & future research in the field Waste Management in a collaboration project between Stadler and CDTM\n\nWorking in teams of 4-5 students: \n• Analysis of current trends and drivers\n• Identification of possible future scenarios\n• Ideation on future products and services related to digital companions in a factory\n• Creation of a 200-page \"Trend Report\" in collaboration with 20 other students",
+      "location": null,
+      "start": "2021-08",
+      "end": "2021-10",
+      "dateRange": "Aug 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Team Lead - Partners & Sponsors Team",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": "⁠Led sponsoring collecting 80k + during first year of operation\nOrganized GPT3 hackathon in 2021 in collaboration with OpenAI, 375 participants",
+      "location": null,
+      "start": "2021-05",
+      "end": "2021-10",
+      "dateRange": "May 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "miss.ioncareer",
+      "companyUrl": null,
+      "description": "As part of the miss.ioncareer team, I mentor young female professionals at the start of their career.",
+      "location": null,
+      "start": "2020-03",
+      "end": "2021-12",
+      "dateRange": "Mar 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Automotive Engineer for Porsche Taycan - Software Function Development and Testing",
+      "company": "Porsche AG",
+      "companyUrl": "https://www.linkedin.com/company/porsche-ag",
+      "description": "Led development of electric car drivetrain protection software, responsible for drivetrain protection functions VW-group-wide, engineered automotive safety requirements.\nApproved Patent: Method and drive system for estimating cardan shaft moments in drive trains",
+      "location": null,
+      "start": "2019-01",
+      "end": "2020-10",
+      "dateRange": "Jan 2019 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Automotive Engineer - Mechanics and Testing",
+      "company": "Porsche AG",
+      "companyUrl": "https://www.linkedin.com/company/porsche-ag",
+      "description": "Development of engine peripherals, i.e. exhaust systems,\nwater cooling and airflow components for combustion\nengines",
+      "location": null,
+      "start": "2017-09",
+      "end": "2018-12",
+      "dateRange": "Sep 2017 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "OPTIMA packaging group",
+      "companyUrl": "https://www.linkedin.com/company/optima-packaging-group",
+      "description": null,
+      "location": null,
+      "start": "2014-01",
+      "end": "2014-06",
+      "dateRange": "Jan 2014 – Jun 2014",
+      "current": false
+    },
+    {
+      "title": "Engineer Intern",
+      "company": "OPTIMA packaging group",
+      "companyUrl": "https://www.linkedin.com/company/optima-packaging-group",
+      "description": "Optima is a mid-sized company and market leader in packaging technology.\nRotational internship in various departments: procurement, hardware engineering, software engineering, and assembly.",
+      "location": null,
+      "start": "2013-09",
+      "end": "2013-12",
+      "dateRange": "Sep 2013 – Dec 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master studies Mechatronics & Robotics",
+      "dateRange": "2020 – 2024"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Student Researcher at the Sustainable System Lab",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "University of Waterloo",
+      "degree": "Research Intern, Vehicle Control",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Baden-Wuerttemberg Cooperative State University (DHBW)",
+      "degree": "Bachelor of Engineering - BE, Automotive System Engineering, Mechanical Engineering",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Gymnasium bei St. Michael",
+      "degree": "Abitur",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Calhan High School",
+      "degree": null,
+      "dateRange": "2010 – 2011"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Matlab",
+    "Simulink",
+    "Silver",
+    "INCA",
+    "MDA",
+    "ASCET",
+    "CarMaker",
+    "Carmaker"
+  ],
+  "languages": [
+    "Englisch",
+    "Französisch",
+    "Spanisch",
+    "Portugiesisch"
+  ],
+  "company": {
+    "name": "Dryft",
+    "tagline": "Intelligence that runs manufacturing operations",
+    "description": "Dryft builds artificial intelligence that mimics, optimizes, and automates complex human decisions in manufacturing operations. \n\nWe use a combination of AI agents & mathematical optimization to build what comes after ERPs: systems that think, act, and adapt autonomously across manufacturing operations.",
+    "industry": "Software Development",
+    "website": "https://dryft.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/dryft-hq",
+    "employeeCount": 12,
+    "foundedYear": 2024,
+    "location": null,
+    "specialities": []
+  }
+}

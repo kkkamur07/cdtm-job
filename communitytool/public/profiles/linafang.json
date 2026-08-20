@@ -1,0 +1,204 @@
+{
+  "id": "linafang",
+  "name": "Lina Fang",
+  "headline": "MS&E @ Stanford & CDTM",
+  "avatar": {
+    "sm": "/avatars/linafang-sm.webp",
+    "lg": "/avatars/linafang.webp",
+    "blur": "data:image/webp;base64,UklGRl4BAABXRUJQVlA4IFIBAAAQBwCdASogACAAPslSoUunpKMht/VYAPAZCWwAtQjZKwQ770LnLxc5k99Vi7VT6XOOgH3yqX1/pR4bf4ZmH6ZwgAD+szzj7bUQTLuZ/e9fqVpFp4qudySL1K7pIURrMFKxy9O+d9KtvI3NnKvErr361ahRfm3nllqZcRzHQQZXQt14GzJk13Zc+Yp4qxCKBP8W/fvRB+s2ZFxjhkKY+6/K7I75PuzdgRzGlA3RboNKXIiRWaQEOxn4CDmfK0ku+XN55WPl4Ztkj9ugqvaTO0A6X5bjG5wHFVTWrmT2INwmFH4IppDUaLzcPkodn+p76BrEGq/fdNQBOfZ9pavRKr/VnCDvR36PPbPn5EqjAztapK8zc0ADM3LMNsx9VdcOi5zI//qV3bEFJU1wXXNs4/cbj9LyaRuO/uEPcab/6OM72GUfGjUUfnTfWWdIT8DA3/IAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/linafang",
+  "personId": 1113,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "M.Sc. Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lina Fang",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Student Researcher",
+      "company": "Meta",
+      "companyUrl": "https://www.linkedin.com/company/meta",
+      "description": null,
+      "location": "Menlo Park, California, United States",
+      "start": "2022-01",
+      "end": "2022-06",
+      "dateRange": "Jan 2022 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-07",
+      "end": "2021-09",
+      "dateRange": "Jul 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Autonomous Driving Fastlane Scholar",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-10",
+      "end": "2021-09",
+      "dateRange": "Oct 2020 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Product Management Intern",
+      "company": "Leia Inc.",
+      "companyUrl": "https://www.linkedin.com/company/leia-inc-",
+      "description": null,
+      "location": "Menlo Park, California, United States",
+      "start": "2020-06",
+      "end": "2020-09",
+      "dateRange": "Jun 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Product Management & Entrepreneurship Intern",
+      "company": "Stanford Technology Ventures Program (STVP)",
+      "companyUrl": "https://www.linkedin.com/company/stanfordtechnologyventuresprogram",
+      "description": null,
+      "location": "Stanford, California, United States",
+      "start": "2020-06",
+      "end": "2020-08",
+      "dateRange": "Jun 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Research Assistant at the Institute of Automation and Information Systems",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-04",
+      "end": "2019-09",
+      "dateRange": "Apr 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Operations Management Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Oxford, England, United Kingdom",
+      "start": "2018-10",
+      "end": "2019-01",
+      "dateRange": "Oct 2018 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Corporate Strategy Intern",
+      "company": "MAN Truck & Bus AG",
+      "companyUrl": "https://www.linkedin.com/company/man-commercial-vehicles",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-09",
+      "end": "2017-12",
+      "dateRange": "Sep 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2016-10",
+      "end": "2019-09",
+      "dateRange": "Oct 2016 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Technology Consulting Student Trainee",
+      "company": "KPMG",
+      "companyUrl": "https://www.linkedin.com/company/kpmg",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2016-10",
+      "end": "2017-03",
+      "dateRange": "Oct 2016 – Mar 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "MSc in Management Science & Engineering",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management (Honours Degree)",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "BSc in Engineering (CS, ME) & Management",
+      "dateRange": "2015 – 2019"
+    }
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "C++",
+    "Git",
+    "R",
+    "Tableau",
+    "Microsoft Office",
+    "Autodesk Inventor",
+    "LaTeX",
+    "Matlab",
+    "Microsoft Excel"
+  ],
+  "languages": [
+    "Chinese (Mandarin)",
+    "English"
+  ],
+  "company": {
+    "name": "Meta",
+    "tagline": null,
+    "description": "Meta's mission is to build the future of human connection and the technology that makes it possible. \n\nOur technologies help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.\n\nTo help create a safe and respectful online space, we encourage constructive conversations on this page. Please note the following:\n\n• Start with an open mind. Whether you agree or disagree, engage with empathy.\n• Comments violating our Community Standards will be removed or hidden. Please treat everybody with respect.\n• Keep it constructive. Use your interactions here to learn about and grow your understanding of others.\n• Our moderators are here to uphold these guidelines for the benefit of everyone, every day.\n• If you are seeking support for issues related to your Facebook account, please reference our Help Center (https://www.facebook.com/help) or Help Community (https://www.facebook.com/help/community).\n\nFor a full listing of our jobs, visit https://www.metacareers.com",
+    "industry": "Software Development",
+    "website": "https://www.metacareers.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/meta",
+    "employeeCount": 155447,
+    "foundedYear": null,
+    "location": "Menlo Park, United States",
+    "specialities": [
+      "Connectivity",
+      "Artificial Intelligence",
+      "Virtual Reality",
+      "Machine Learning",
+      "Social Media",
+      "Augmented Reality",
+      "Marketing Science",
+      "Mobile Connectivity",
+      "Open Compute",
+      "Metaverse"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "kaspar-huebener",
+  "name": "Kaspar Hübener",
+  "headline": "Mobile Games | Strategy & Operations | People & Tech | ex-Wooga | Alumn of CDTM & TUM",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/kaspar-huebener",
+  "personId": 1910,
+  "classes": [
+    {
+      "id": 67,
+      "label": "Spring 2010",
+      "season": "Spring",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2010",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Kaspar Hübener",
+  "ca": null,
+  "summary": "I help you build, implement, operate {products | teams | the next big thing}. I feel home where ideas and reality meet.\n\nI am a professional with 12+ years in building and operating highly successful teams. Previously in mobile games incl. 100+ people teams, millions of players and revenue.\n\n- Strategy co-pilot who listens to priorities, pitfalls and potential problems.\n- Makes sure team and stakeholders are aligned around roadmap and communication is sound\n- Able to lead with empathy.\n- Ready to go into technical details where needed.\n- Teamplayer and low ego despite this bullish list. Fun to work with.\n\nCurrently seeking a role where I can drive growth with talented peers in a purpose-driven environment.",
+  "positions": [
+    {
+      "title": "Director of Production",
+      "company": "Wooga",
+      "companyUrl": "https://www.linkedin.com/company/wooga",
+      "description": "- Scaled the team to 120+ people, enabling a multi-year strategic planning horizon and supporting long-term product growth.\n- Designed and implemented a successful org structure, contributing to over €1bn in revenue to date.\n- Shaped multi-year product strategy, by providing risk and feasibility insights across initiatives.\n- Forecasted team capacity and outsourcing budgets exceeding €4m, ensuring delivery across five parallel teams.\n- Mentored and coached emerging leaders, strengthening leadership capabilities across the organization.\n- Drove cross-discipline workshops (with 10 to 25 key participants) to align teams and accelerate decision- making\n- Led internal initiatives such as game jams and team activities to foster creativity and team cohesion.",
+      "location": "Berlin, Deutschland",
+      "start": "2023-04",
+      "end": "2025-09",
+      "dateRange": "Apr 2023 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Lead Producer",
+      "company": "Wooga",
+      "companyUrl": "https://www.linkedin.com/company/wooga",
+      "description": "- Key contributor in June’s Journey becoming Wooga’s biggest success, generating €100m+ in annual revenue and attracting acquisition interest.\n- Delivered weekly content and major features to millions of players in 20+ languages & 3 app stores, driving rapid growth\n- Rolled out complex social features (leagues, tournaments, chat) to foster a vibrant player community, deepen engagement, and fuel organic growth.\n- Scaled the team to 70+ people by introducing parallel development teams and domain specialists, boosting focus and execution.\n- Established resilient development processes, empowering teams with ownership and creating company-wide best practices, especially critical during the pandemic.\n- Led the production discipline, supporting delivery and team health across multiple initiatives.",
+      "location": "Berlin, Deutschland",
+      "start": "2018-05",
+      "end": "2023-03",
+      "dateRange": "May 2018 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Producer",
+      "company": "Wooga",
+      "companyUrl": "https://www.linkedin.com/company/wooga",
+      "description": "- Built the post-launch roadmap for successful live operations, leading to strong annual growth\n- Aligned stakeholders about priorities and dependencies\n- Enabled customer support and marketing teams through processes and technical expertise",
+      "location": "Berlin, Deutschland",
+      "start": "2017-10",
+      "end": "2018-05",
+      "dateRange": "Oct 2017 – May 2018",
+      "current": false
+    },
+    {
+      "title": "Producer",
+      "company": "Wooga",
+      "companyUrl": "https://www.linkedin.com/company/wooga",
+      "description": "- Prototyped feasibility of content creation in Unity during pre-production for an undisclosed new puzzle title\n- Built budget plans, feature roadmap, and estimations before entering production phase\n- The cost estimates ultimately led to proposing to stop the project",
+      "location": "Berlin, Deutschland",
+      "start": "2016-10",
+      "end": "2017-09",
+      "dateRange": "Oct 2016 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Wooga",
+      "companyUrl": "https://www.linkedin.com/company/wooga",
+      "description": "- Created the first time user experience and game balancing for a round-based strategy title\n- Successfully launched the game without marketing budget and generated seven-digit revenues\n- Helped transitioning the project and technology to new owner Innogames, Hamburg",
+      "location": "Berlin, Deutschland",
+      "start": "2013-11",
+      "end": "2016-10",
+      "dateRange": "Nov 2013 – Oct 2016",
+      "current": false
+    },
+    {
+      "title": "Web Developer & Co-Founder",
+      "company": "Mountix AG",
+      "companyUrl": null,
+      "description": "- Co-founded mountix.com, a social network for mountaineers.\n- The mission was to make planning, communication, and exploration of outdoor activities easier\n- Involved during inception. Co-developed the platform with Ruby on Rails.\n- Designed the front end for web and mobile. Orchestrated efforts among developers\n- The company was acquired by Bruckmann Verlag (Bergsteiger) in 2016\nand had ca. 20k active users around that time",
+      "location": "Metropolregion München",
+      "start": "2012-04",
+      "end": "2013-06",
+      "dateRange": "Apr 2012 – Jun 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Informatik",
+      "dateRange": "2005 – 2012"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honour's Degree, Technology Management",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Istanbul Technical University",
+      "degree": null,
+      "dateRange": "2009 – 2010"
+    }
+  ],
+  "skills": [
+    "Strategische Planung",
+    "Führungskräfteentwicklung",
+    "Organisationsentwicklung",
+    "Priorisierung von Features",
+    "Kunden-Support",
+    "Produktspezifikation",
+    "Unity",
+    "Planung, Budgetierung und Prognosen",
+    "Modellierung von Business Cases",
+    "Gründung",
+    "Responsive Webdesign",
+    "Ruby on Rails",
+    "User Experience (UX)",
+    "Mobile Spieleentwicklung",
+    "Organisationsgestaltung",
+    "Produktentwicklung",
+    "Agile Methoden",
+    "Führung multikultureller Teams",
+    "Mobilanwendungen",
+    "Start-ups"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Wooga",
+    "tagline": "We are a market leader for story-driven casual games. Join our team and help write our success story! www.wooga.com/jobs",
+    "description": "Each of our 300 Woogas play an important role in growing our success as a company and in shaping our company culture. We are proud of our razor-sharp focus on story-driven casual games, the excellent craftsmanship we put into them, and our truly collaborative way of working.",
+    "industry": "Computer Games",
+    "website": "http://www.wooga.com",
+    "linkedInUrl": "https://www.linkedin.com/company/wooga",
+    "employeeCount": 329,
+    "foundedYear": 2009,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Mobile Games",
+      "Social Games",
+      "Social Networks"
+    ]
+  }
+}

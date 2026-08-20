@@ -1,0 +1,318 @@
+{
+  "id": "vincejan",
+  "name": "Vincent Jansen",
+  "headline": "TUM | CDTM | Robotics & AI",
+  "avatar": {
+    "sm": "/avatars/vincejan-sm.webp",
+    "lg": "/avatars/vincejan.webp",
+    "blur": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAACwBQCdASogACAAPs1QokunpKMht/VYAPAZiWQAxvWL4yq0vtKkGjq73Z07yinzP9m6ekgQSgAA/v0t8UAj7QoSvTbhlUXWaPNGa5aExI4Waqixf+k+rtJ39M6ERWEO1gK3Avr6JDKGoS2IpomxBDlAh8GShZI9qE3RQOEreW/KhSr7ENzy7QMZBgHVdmLdcKLezLBW3a1qyF3Bug6DOLVUwrI3fzYBoZjy0if6fPRGlQukbELhGiB6JfrwaB/wHdzDoafiBr4JnAWwGAA="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/vincejan",
+  "personId": 919,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Mechanical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Vincent Jansen",
+  "ca": null,
+  "summary": "Creating positive impact on both people and planet - from a place of empathy.",
+  "positions": [
+    {
+      "title": "Development Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Development workshop V8 and V12 engines\n-aided the taking apart of a motor, logging data, and finding the source for the motor's malfunction after a continuous operation under high load on the dynamometer",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-03",
+      "end": null,
+      "dateRange": "Mar 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Intern",
+      "company": "BaderMainzl GmbH & Co. KG",
+      "companyUrl": "https://www.linkedin.com/company/autohausbadermainzl",
+      "description": null,
+      "location": "Feldkirchen-Westerham, Bavaria, Germany",
+      "start": "2016-07",
+      "end": null,
+      "dateRange": "Jul 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Digital Transformation Consultant @ TUM",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": "Developed a vision for SAP Finance in terms of AI integration, and orchestration. \nFocus on strategic coherence between code-based AI Agents, and high-level goal-to-KPI translation (subprocess level).",
+      "location": "Garching",
+      "start": "2025-04",
+      "end": "2025-08",
+      "dateRange": "Apr 2025 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Junior Analyst",
+      "company": "UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/unternehmertum",
+      "description": "Decarbonizing the mobility and energy sector, by facilitating and executing cross-industry collaboration projects. Co-developing innovative solutions and prototypes within strong consortia consisting of start-ups, corporates, municipalities, and policy makers, that we build.\n\nUnternehmerTUM is Europe’s #1 Start-Up Hub (awarded by Financial Times)",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2024-05",
+      "end": "2024-12",
+      "dateRange": "May 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "GAIEA Member (Cohort 3)",
+      "company": "Center for Human Rights and International Justice at Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/wsd-handa-center-at-stanford-university",
+      "description": "Ethical dilemmas of artificial intelligence in finance, education, and migration.\n\nThe Global Alliance on Ethics and Impact of Advanced Technologies (GAEIA) is a global research and innovation program connecting academia, industry, and intergovernmental organizations in confronting ethical challenges raised by emerging technologies.",
+      "location": null,
+      "start": "2024-05",
+      "end": "2024-11",
+      "dateRange": "May 2024 – Nov 2024",
+      "current": false
+    },
+    {
+      "title": "IT Consultant @ TUM",
+      "company": "UNHCR, the UN Refugee Agency",
+      "companyUrl": "https://www.linkedin.com/company/unhcr",
+      "description": "Product ownership of mobile app development. Self-service platform for creating assistance requests. Aimed to empower persons that were forced to flee by giving them access to their information, and enable caseworkers to tend to more requests by enhancing efficiency.",
+      "location": "Remote",
+      "start": "2024-04",
+      "end": "2024-08",
+      "dateRange": "Apr 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Strategy Consultant @ CDTM",
+      "company": "Riverse",
+      "companyUrl": "https://www.linkedin.com/company/rainbowstandard",
+      "description": "Strategy consulting project on the Voluntary Carbon Market (VCM)",
+      "location": "Paris, Île-de-France, France",
+      "start": "2024-03",
+      "end": "2024-07",
+      "dateRange": "Mar 2024 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "External Consultant @ CDTM",
+      "company": "Forto",
+      "companyUrl": "https://www.linkedin.com/company/fortocompany",
+      "description": "In-depth analysis of the future trajectory of the maritime shipping industry, with a focus on technological trends. Ideation and exploration of emerging business ventures in the space.",
+      "location": "Hamburg, Germany",
+      "start": "2023-08",
+      "end": "2023-09",
+      "dateRange": "Aug 2023 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis",
+      "company": "SolChargE (aCar) Research Project",
+      "companyUrl": "https://www.linkedin.com/company/acar-mobility-project",
+      "description": "Enhancing Antenatal Care Access for the Spatially Disadvantaged: a Cost-Effectiveness Comparison between Primary Health Care Facilities and Mobile Health Clinics in Rural Ethiopia\n(Data-driven SDG Impact analysis) \n\nGrade: 1.0 (equivalent to 4.0 GPA)",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-04",
+      "end": "2023-10",
+      "dateRange": "Apr 2023 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Problem Manager Pre-Series Vehicle Trials",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Quality management through vehicular testing in the pre-series stage under real-world conditions.\n\nFunction validation as a sensor in the BMW PMP (problem management process)\n\nMainly responsible for EA/EF (Development drivetrain and chassis) in the G70 (7 Series), i20 (iX), and G87 (M2).",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-05",
+      "end": "2022-10",
+      "dateRange": "May 2022 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Prozess Optimization",
+      "company": "Voith Turbo",
+      "companyUrl": "https://www.linkedin.com/company/voith-turbo",
+      "description": "Optimization of both operational and administrative processes\n\nProjects (amongst others):\nImplemented an internal auditing system for the production plant (became mandatory)\n\nCreated a tool to analyze root problems for excessive downtime of a cluster of cnc milling machines and integrated remedies (30% reduction in downtime)\n\nOversaw testing and laid groundwork for the replacement of a washing machine for parts (40% cost, and ~65% energy reduction)",
+      "location": "Garching, Bavaria, Germany",
+      "start": "2021-11",
+      "end": "2022-02",
+      "dateRange": "Nov 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Groundskeeper",
+      "company": "Wohnheimsiedlung Massmannplatz e.V.",
+      "companyUrl": "https://www.linkedin.com/company/wohnheimsiedlung-massmannplatz-e.v.",
+      "description": "Responsibility for outdoor grounds\n\n-Organized communal upkeep efforts of the dormitory grounds twice a year (developed projects, ensured availability of materials under budgetary restrictions, communicated events)\n-Inspired and motivated around 120 students assigning projects tailored to their capabilities and preferences",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-09",
+      "end": "2021-11",
+      "dateRange": "Sep 2020 – Nov 2021",
+      "current": false
+    },
+    {
+      "title": "Manufacturing Intern",
+      "company": "Heinzler Maschinenbau GmbH",
+      "companyUrl": "https://www.linkedin.com/company/heinzler-maschinenbau-gmbh",
+      "description": "Hands-on parts production\n\nLathing, Bending, CNC milling, Welding, Soldering, Honing, Rasping, Pushing, Drilling, Laser cutting, Assembling, Shipping",
+      "location": "Bruckmühl, Bavaria, Germany",
+      "start": "2019-08",
+      "end": "2019-10",
+      "dateRange": "Aug 2019 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Tutor",
+      "company": "Gymnasium Bruckmühl",
+      "companyUrl": "https://www.linkedin.com/company/gymnasium-bruckmühl",
+      "description": "Supported pupils with their homework and their studying goals",
+      "location": "Bruckmühl, Bavaria, Germany",
+      "start": "2014-09",
+      "end": "2016-08",
+      "dateRange": "Sep 2014 – Aug 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Robotics, Cognition, and Intelligence",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Pontificia Universidad Católica del Perú",
+      "degree": "Intercambio, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Mechanical Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "University of Bayreuth",
+      "degree": "afriZert, African Studies",
+      "dateRange": null
+    },
+    {
+      "school": "Tauranga Boys College",
+      "degree": "Semester abroad",
+      "dateRange": null
+    },
+    {
+      "school": "Gymnasium Bruckmühl",
+      "degree": "Abitur / A-Levels",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Mechanical Engineering",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Product Development",
+    "Responsibile Technology",
+    "AI Agents",
+    "Problem Solving",
+    "Project Management",
+    "Market Research",
+    "Energy Markets",
+    "Strategy Consulting",
+    "Requirements Engineering",
+    "Communication",
+    "Operative Cash Flow",
+    "Test Engineering",
+    "Sustainable Energy Infrastructure",
+    "User Interface Design",
+    "Sales",
+    "Futures Thinking",
+    "Trend Analysis",
+    "Ideation",
+    "Mobility Solutions",
+    "Health Economics",
+    "Analytical Skills",
+    "Microsoft PowerPoint",
+    "Teamwork",
+    "Time Management",
+    "Customer Service",
+    "Cross-functional Team Leadership",
+    "Literature Review",
+    "General Office Work",
+    "Assistance",
+    "Resilience",
+    "Teaching",
+    "Working with Adolescents",
+    "Process Analysis",
+    "Research Engineer",
+    "Quality Management",
+    "Professional Driving",
+    "Driving Safety",
+    "VBA Excel",
+    "C (Programming Language)",
+    "Distribution Logistics",
+    "AutoCAD",
+    "Parts Production",
+    "Financial Planning",
+    "Consulting",
+    "Delegation",
+    "Microsoft Office",
+    "Technical Drawing",
+    "Texterstellung",
+    "Adobe Creative Suite",
+    "Troubleshooting"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Latin",
+    "Spanish"
+  ],
+  "company": {
+    "name": "SAP",
+    "tagline": "We bring out the best in every business.",
+    "description": "SAP is a global leader in enterprise applications and business AI, helping organizations run end-to-end operations on a unified cloud ERP platform.\nWith SAP S/4HANA Cloud, SAP Business AI, and SAP Business Technology Platform (BTP), SAP enables companies to connect data, automate processes, and make real-time, intelligent decisions across the enterprise.\nSAP capabilities and portfolio\n•\tCloud ERP: SAP S/4HANA Cloud (finance, procurement, core operations) \n•\tBusiness AI: Embedded AI across HR, finance, supply chain, and customer experience \n•\tData & Integration: SAP Business Technology Platform (BTP) data, analytics, and application development \n•\tHuman Resources: SAP SuccessFactors (workforce management and employee experience) \n•\tCustomer Experience: SAP CX (commerce, marketing, sales, and service) \n•\tSupply Chain: SAP SCM (planning, logistics, manufacturing, operations) \n•\tEnterprise integration: Connect SAP and non-SAP systems across the business \n•\tReal-time insights: Operational data, analytics, and predictive capabilities \n•\tAutomation: Intelligent workflows embedded directly into business processes \n\nSAP combines cloud ERP, data, and AI to help organizations operate more efficiently, adapt faster, and grow in an AI-driven world, supported by a global ecosystem of customers and partners.\n\nOur Community Guidelines\nWe’re committed to fostering meaningful, respectful conversations. To maintain a positive environment, we moderate comments that:\n•\tTarget individuals, including employees, customers, or partners\n•\tContain discriminatory, harassing, or threatening content\n•\tShare personal information without consent\n•\tPromote misinformation, spam, or third-party links\nWe support open dialogue and constructive feedback but will remove content that violates these guidelines without notice. Thank you for contributing to a respectful community.\nFor questions about moderation, please DM us or contact brandsocial@sap.com\nSAP privacy statement for followers: www.sap.com/sps",
+    "industry": "Software Development",
+    "website": "http://www.sap.com",
+    "linkedInUrl": "https://www.linkedin.com/company/sap",
+    "employeeCount": 142888,
+    "foundedYear": 1972,
+    "location": "Walldorf, Germany",
+    "specialities": [
+      "ERP",
+      "Financials",
+      "Business Intelligence",
+      "Procurement",
+      "HCM",
+      "SCM",
+      "business",
+      "planning",
+      "efficiency",
+      "sustainability",
+      "innovation",
+      "analytics",
+      "reporting",
+      "dashboarding"
+    ]
+  }
+}

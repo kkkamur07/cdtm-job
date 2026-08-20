@@ -1,0 +1,207 @@
+{
+  "id": "frederik-brosch-5a4460160",
+  "name": "Frederik Brosch",
+  "headline": "CDTM | LMU | Kertos | Enactus",
+  "avatar": {
+    "sm": "/avatars/frederik-brosch-5a4460160-sm.webp",
+    "lg": "/avatars/frederik-brosch-5a4460160.webp",
+    "blur": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAABQBgCdASogACAAPtFeqE+oJKOiKAgBABoJQBjipDdOinT3gCOjiTlCW1eutzplzaSnB6Cu8YFvDLZgAAD+/BL5m1ZrsCOLYiXfayNZIfjPrtePG8bhKC3w2fWy8oez6ftWxsATeW47E8MNSWEcYvloGiTmfqYU2t7KB0F0XB4lJ6PbHDlfIGYZnfrGaW0/1om/fpdmIy1OJVwCQf8BMf3bu+zbRGz7u3nzDuVOquOH4Iphv8aQrlZRrO+x5XjD+6/XhhhMdI+pF2EZDJ93/AH0wfkZe/Z+Lcuba6+AT7jhGbI6mkRUAHAvf8HS4jy1oYlmD04ewkxZXAr559x1b9RHqH35bUq6/KAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/frederik-brosch-5a4460160",
+  "personId": 1040,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Philosophy",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Frederik Brosch",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Product Manager",
+      "company": "Kertos",
+      "companyUrl": "https://www.linkedin.com/company/kertos-compliance",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2024-05",
+      "end": null,
+      "dateRange": "May 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Working Student | Entrepreneur in Residence",
+      "company": "Predium",
+      "companyUrl": "https://www.linkedin.com/company/predium-technology",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2023-12",
+      "end": "2024-04",
+      "dateRange": "Dec 2023 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Intern | Product Management",
+      "company": "Pina Earth",
+      "companyUrl": "https://www.linkedin.com/company/pina-earth",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-08",
+      "end": "2023-10",
+      "dateRange": "Aug 2023 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Project Study | Go2Market",
+      "company": "ecoplanet",
+      "companyUrl": "https://www.linkedin.com/company/ecoplanet-green-operations",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-04",
+      "end": "2023-08",
+      "dateRange": "Apr 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Working Student | Talent Search",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-02",
+      "end": "2023-07",
+      "dateRange": "Feb 2022 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Working Student | Founders Associate",
+      "company": "Talentry",
+      "companyUrl": "https://www.linkedin.com/company/cleverconnect",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-07",
+      "end": "2022-01",
+      "dateRange": "Jul 2020 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Working Student | Operations",
+      "company": "Temedica",
+      "companyUrl": "https://www.linkedin.com/company/temedica",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2019-11",
+      "end": "2020-04",
+      "dateRange": "Nov 2019 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Intern | Tech Scout",
+      "company": "German-Israeli Chamber of Industry & Commerce - AHK Israel",
+      "companyUrl": "https://www.linkedin.com/company/german-israeli-chamber-of-industry-&-commerce---ahk-israel",
+      "description": null,
+      "location": "Tel Aviv Area, Israel",
+      "start": "2019-03",
+      "end": "2019-08",
+      "dateRange": "Mar 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Working Student | Project Management",
+      "company": "Comites GmbH - Perfect Placements.",
+      "companyUrl": "https://www.linkedin.com/company/comites-gmbh",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2016-11",
+      "end": "2019-02",
+      "dateRange": "Nov 2016 – Feb 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master's degree, Philosophie",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor's degree, Philosophy",
+      "dateRange": "2017 – 2021"
+    },
+    {
+      "school": "Hochschule der Bayerischen Wirtschaft (HDBW) gGmbH",
+      "degree": "Bachelor's degree, Business Administration",
+      "dateRange": "2016 – 2020"
+    }
+  ],
+  "skills": [
+    "Go-to-Market Strategy",
+    "Market Research",
+    "Analytical Skills",
+    "Go2Market",
+    "Public Speaking",
+    "Python (Programmiersprache)",
+    "Produktmanagement",
+    "Social Entrepreneurship",
+    "Design Thinking",
+    "Englisch",
+    "Teamwork",
+    "Personalbeschaffung",
+    "Microsoft Office",
+    "Präsentationsfertigkeiten",
+    "Projektmanagement",
+    "Geschäftsenglisch",
+    "Deutsch",
+    "Talent Search",
+    "Talentmanagement",
+    "Ehrenamt"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Kertos",
+    "tagline": "All-in-one compliance solution for GDPR, ISO27001, SOC2, NIS2, TISAX®, ISO27701, AI Act or ISO42001",
+    "description": "Kertos is an AI-powered compliance automation platform designed to help businesses streamline and simplify compliance management. By replacing manual processes, spreadsheets, and costly consultants, Kertos enables organizations to stay ahead of growing regulatory demands with speed, accuracy, and efficiency. Our solution adapts to your unique risk profile, ensuring compliance becomes an enabler of growth—not a barrier. With Kertos, businesses can reduce costs, mitigate risks, and future-proof their compliance efforts in an ever-evolving landscape.",
+    "industry": "Software Development",
+    "website": "https://kertos.io",
+    "linkedInUrl": "https://www.linkedin.com/company/kertos-compliance",
+    "employeeCount": 73,
+    "foundedYear": 2021,
+    "location": "München, Germany",
+    "specialities": [
+      "Compliance",
+      "GDPR",
+      "ISO27001",
+      "NIS2",
+      "AI Act",
+      "NIS2",
+      "ISO42001",
+      "DORA",
+      "Data Privacy",
+      "Information Security"
+    ]
+  }
+}

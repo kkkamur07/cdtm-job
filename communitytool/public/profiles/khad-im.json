@@ -1,0 +1,234 @@
+{
+  "id": "khad-im",
+  "name": "Khadim Fall",
+  "headline": "TUM | CDTM | START Munich",
+  "avatar": {
+    "sm": "/avatars/khad-im-sm.webp",
+    "lg": "/avatars/khad-im.webp",
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAADwBQCdASogACAAPtFapEuoJSOhsAgBABoJZgDG9YwotXeRLdhUEeUQlHAPj6/2k7//p1nw8A1J+AD+864hc34KTcz2KxJ+tlaKl+tR1P//4EHB9uX+ojOyDa3+ods6tRUPiT7W4m2k3oJu0O8j2lCdQlMMLJSGED+Gtbn7yz6+rr//FRfoXyaRmAJ9ekBKVBiSxzcnEkAbsN/HgCR1sT1XvZtXLR3Pckbjdhp1tvyBQ7RGV7sVxWJCjRe+2z53asfVnO0uTGQu78jQWWy9p4g1qCxHDrRV214rIAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/khad-im",
+  "personId": 2013,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Khadim Fall",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Full Stack Engineer",
+      "company": "Productlane",
+      "companyUrl": "https://www.linkedin.com/company/productlane-com",
+      "description": null,
+      "location": null,
+      "start": "2025-03",
+      "end": null,
+      "dateRange": "Mar 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Founding Engineer",
+      "company": "Peaklight",
+      "companyUrl": "https://www.linkedin.com/company/peaklight-news",
+      "description": null,
+      "location": null,
+      "start": "2023-10",
+      "end": null,
+      "dateRange": "Oct 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "SAP Product Engineer",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": null,
+      "location": null,
+      "start": "2022-08",
+      "end": "2022-10",
+      "dateRange": "Aug 2022 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Softwareingenieur",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2021-12",
+      "end": "2023-09",
+      "dateRange": "Dec 2021 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Cyber Security Consultant",
+      "company": "EY",
+      "companyUrl": "https://www.linkedin.com/company/ernstandyoung",
+      "description": "Two-month internship in the Service Line EMEIA Financial Services - Technology Consulting.",
+      "location": null,
+      "start": "2021-08",
+      "end": "2021-09",
+      "dateRange": "Aug 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Junior Software Developer",
+      "company": "CHECK24 Vergleichsportal GmbH",
+      "companyUrl": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2019-03",
+      "end": "2019-08",
+      "dateRange": "Mar 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Lecturer",
+      "company": "SAE Institute Germany",
+      "companyUrl": "https://www.linkedin.com/company/sae-institute-germany",
+      "description": "JavaScript Grundlagen",
+      "location": null,
+      "start": "2018-06",
+      "end": "2018-08",
+      "dateRange": "Jun 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Mitratech Alyne",
+      "companyUrl": "https://www.linkedin.com/company/alyne",
+      "description": null,
+      "location": null,
+      "start": "2018-04",
+      "end": "2018-09",
+      "dateRange": "Apr 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Mitratech Alyne",
+      "companyUrl": "https://www.linkedin.com/company/alyne",
+      "description": null,
+      "location": null,
+      "start": "2017-04",
+      "end": "2018-03",
+      "dateRange": "Apr 2017 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Web Developer",
+      "company": "SkyTrust e.K.",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2016-06",
+      "end": "2017-03",
+      "dateRange": "Jun 2016 – Mar 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Informatik",
+      "dateRange": "2020 – 2025"
+    },
+    {
+      "school": "Universität Innsbruck",
+      "degree": "Informatik",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Middlesex University",
+      "degree": "Bachelor of Arts - BA, Web Development",
+      "dateRange": "2015 – 2018"
+    }
+  ],
+  "skills": [
+    "MySQL",
+    "PHP",
+    "CSS",
+    "AngularJS",
+    "JavaScript",
+    "Go",
+    "Node.js",
+    "Microsoft Excel",
+    "Next.js",
+    "Kubernetes",
+    "jQuery",
+    "HTML5",
+    "Microsoft PowerPoint",
+    "React.js",
+    "JSON",
+    "AJAX",
+    "MongoDB",
+    "Vue.js",
+    "Express.js",
+    "Cascading Style Sheets (CSS)",
+    "VB.NET",
+    "Grafana",
+    "Bash",
+    "Terraform",
+    "Adobe Photoshop",
+    "Ember.js",
+    "Softwareentwicklung",
+    "Sails.js",
+    "Flutter",
+    "Prisma ORM",
+    "Alpine.js",
+    "Tailwind",
+    "Mocha",
+    "Gin",
+    "hapi.js",
+    "WebSockets",
+    "Web-Entwicklung",
+    "Chai",
+    "Google Gemini",
+    "Firestore",
+    "Milvus",
+    "CD/CI",
+    "AI SDK",
+    "Hapi.js",
+    "Sqlc",
+    "Alpine.js",
+    "Zero Sync Engine"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Productlane",
+    "tagline": "AI-native customer support for modern companies.",
+    "description": "Support your customers through Slack, email, or a widget and consolidate all your feedback. Purpose-built on Linear to help you prioritize with high precision.",
+    "industry": "Software Development",
+    "website": "https://productlane.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/productlane-com",
+    "employeeCount": 10,
+    "foundedYear": 2022,
+    "location": null,
+    "specialities": []
+  }
+}

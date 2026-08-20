@@ -1,0 +1,144 @@
+{
+  "id": "dr-j_rg-schmidl-137a11101",
+  "name": "Dr. Jörg Schmidl",
+  "headline": "Building digital solutions that benefit our consumers and ensuring that we develop our products in the most efficient way using state of the art organizational setup and leveraging AI.",
+  "avatar": null,
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-jörg-schmidl-137a11101",
+  "personId": 1577,
+  "classes": [
+    {
+      "id": 54,
+      "label": "Fall 2003",
+      "season": "Fall",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Joerg Schmidl",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "SVP Global Digital Solutions - Global head of connected device & product development solutions",
+      "company": "BSH Home Appliances Group",
+      "companyUrl": "https://www.linkedin.com/company/bsh-home-appliances-group",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-06",
+      "end": null,
+      "dateRange": "Jun 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Manager",
+      "company": "A.T. Kearney",
+      "companyUrl": "https://www.linkedin.com/company/kearney",
+      "description": "Consulting projects with focus on Digital Transformation, Digital Business Models, Organizational Design, Optimziation of R&D and IT and Agile Development methods",
+      "location": "Munich",
+      "start": "2015-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2015 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Senior Consultant",
+      "company": "Q_PERIOR",
+      "companyUrl": "https://www.linkedin.com/company/q_perior",
+      "description": null,
+      "location": "Munich",
+      "start": "2012-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2012 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Software Trainer",
+      "company": "Freelance",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich",
+      "start": "2007-01",
+      "end": "2012-12",
+      "dateRange": "Jan 2007 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Deputy Manager",
+      "company": "SAP University Competence Center",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich",
+      "start": "2006-01",
+      "end": "2011-12",
+      "dateRange": "Jan 2006 – Dec 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr. rer. nat. (PhD), Information Systems",
+      "dateRange": "2006 – 2011"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom (comparable to Msc.), Computer Science",
+      "dateRange": "2001 – 2006"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2003 – 2005"
+    }
+  ],
+  "skills": [
+    "Unternehmensberatung",
+    "IT-Strategie",
+    "Projektmanagement",
+    "Veränderungsmanagement",
+    "Strategisches Management",
+    "Unternehmensführung",
+    "Unternehmensanalyse",
+    "Unternehmensstrategie",
+    "IT Strategy",
+    "Management Consulting",
+    "Change Management",
+    "Training",
+    "Project Management"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "BSH Home Appliances Group",
+    "tagline": null,
+    "description": "BSH Hausgeräte GmbH is one of the world’s leading home appliance manufacturers [1]. Our brand portfolio includes global appliance brands like Bosch, Siemens and Gaggenau, as well as the regional brands Neff and Thermador, each offering unique solutions tailored to meet the needs of our consumers.\n\n[1] BSH is a Trademark Licensee of Robert Bosch GmbH and Siemens AG for the brands Bosch and Siemens.\n\nFounded in 1967, BSH was established as a joint venture between Robert Bosch GmbH (Stuttgart) and Siemens AG (Munich). BSH has been under the sole ownership of Bosch Group since January 2015. \n\nIn its over 50 years of history, BSH has grown from a German exporter into one of the world's leading home appliance manufacturers. \n\nLocal BSH locations participate in global DEI programs to the extent compliant with local law.\n\nData Protection Information: https://www.bsh-group.com/data-protection-information\nOur Netiquette: https://www.bsh-group.com/bsh-social-media-netiquette?fbclid=IwAR3W9AfRHl1c4UjRFSviX4YcR3J9EwtXXBoCB-XzXE7NZHfcUgnYYo9mgyU",
+    "industry": "Manufacturing",
+    "website": "http://www.bsh-group.com",
+    "linkedInUrl": "https://www.linkedin.com/company/bsh-home-appliances-group",
+    "employeeCount": 21335,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Cooking",
+      "Dishwashing",
+      "Washing and Drying",
+      "Refrigeration and Freezing",
+      "Consumer Products",
+      "Home Connect",
+      "Connected Home Appliances"
+    ]
+  }
+}

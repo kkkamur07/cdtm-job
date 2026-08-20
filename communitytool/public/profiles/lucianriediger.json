@@ -1,0 +1,115 @@
+{
+  "id": "lucianriediger",
+  "name": "Lucian Riediger",
+  "headline": "Helping engineers find startups before they blow up | CDTM",
+  "avatar": {
+    "sm": "/avatars/lucianriediger-sm.webp",
+    "lg": "/avatars/lucianriediger.webp",
+    "blur": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAAAwBQCdASogACAAPtFgp0+oJSMiKAgBABoJQBfrCYwWh58YQdR8wfwbIPJGrIb3awGwQAD++W/85lGfHccJD9HhYUEIa4emQTVb/vda/WenlGOZl3P0UWy7HkeaeVdbKIbIwgtwVeRnRHfc3/8vBj/fEP273ZF68CG4wFgi9v5R/r9bWknhmBIg/4xiX5zUXDFMmjub1kU8jxY5diBuNZ8CWx0rf48/O3ul7xvBRXL62i6Dbmg4ABye7tcAmXSl6HUT1TXueiLFIk+js7J6VWle2AAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lucianriediger",
+  "personId": 759,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Mathematics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lucian Riediger",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder",
+      "company": "keep shipping",
+      "companyUrl": "https://www.linkedin.com/company/keep-shipping",
+      "description": "Most recruiting is noise. This is signal.\nConcierge recruiting built around the engineer.",
+      "location": null,
+      "start": "2024-02",
+      "end": null,
+      "dateRange": "Feb 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Venture Scout",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": null,
+      "dateRange": "Jan 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & COO",
+      "company": "sento.io",
+      "companyUrl": "https://www.linkedin.com/company/sentohq",
+      "description": null,
+      "location": null,
+      "start": "2020-11",
+      "end": "2023-08",
+      "dateRange": "Nov 2020 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Various Companies",
+      "companyUrl": "https://www.linkedin.com/company/various-boards",
+      "description": "Automation @ Workpath\nIn-house Consultant @ OSRAM\nData Analyst @ iPrice Group\nBusiness Intelligence @ Nuclino\nPerformance Marketing @Useley",
+      "location": null,
+      "start": "2016-03",
+      "end": "2020-09",
+      "dateRange": "Mar 2016 – Sep 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Mathematics",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Mathematics",
+      "dateRange": "2013 – 2017"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Englisch",
+    "Deutsch"
+  ],
+  "company": {
+    "name": "keep shipping",
+    "tagline": "Helping engineers find startups before they blow up.",
+    "description": "Only roles worth your time.",
+    "industry": "Staffing and Recruiting",
+    "website": null,
+    "linkedInUrl": "https://www.linkedin.com/company/keep-shipping",
+    "employeeCount": 1,
+    "foundedYear": null,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

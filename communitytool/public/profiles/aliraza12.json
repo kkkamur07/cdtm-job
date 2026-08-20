@@ -1,0 +1,236 @@
+{
+  "id": "aliraza12",
+  "name": "Ali Raza",
+  "headline": "Co-founder & CEO @ Bevel | Building UTCP",
+  "avatar": {
+    "sm": "/avatars/aliraza12-sm.webp",
+    "lg": "/avatars/aliraza12.webp",
+    "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAADQBQCdASogACAAPsFIn0unpCKht/qoAPAYCWIAwN2L7SqyxlAeuspxUr1NPVBC/NFAIzj0zxgAAP7+e2UbD/1ZOGgj2z4ZKarvXGkqLBd3fN9xbQtMDk3nCf7kEjDq7etAv3/lB6SVkwG4eyFkUm1zzY44XLVqbfqJ+O4W/FBt29sBp422f44GG0+yjsqgAiiHUE54pv+q2O41dO9LNpqopbN1ZCBxYSRftNQPzzFesRD/sHosNygNh9kWMBaaMVDdxTfGNf1lW9NBRnzyZfzQ5QnSuE9YD38W2xQ7nY6sX49/OvPTaMG1B/oEoVdIojoAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/aliraza12",
+  "personId": 1220,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Mechanical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Ali Raza",
+  "ca": null,
+  "summary": "An engineer turned to the dark side (business), a poet who dreams of a better world and an entrepreneur striving to realize these lofty dreams.\n\nCurrently building Bevel; the first AI tool that can modernize legacy code end-to-end.",
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Bevel",
+      "companyUrl": "https://www.linkedin.com/company/bevel-software",
+      "description": null,
+      "location": null,
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Advisory Board Member",
+      "company": "TEG | The Entrepreneurial Group",
+      "companyUrl": "https://www.linkedin.com/company/teg-ev",
+      "description": null,
+      "location": null,
+      "start": "2024-03",
+      "end": null,
+      "dateRange": "Mar 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Junior Investment Analyst Team",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": "UVC Partners is a Munich- and Berlin-based early-stage venture capital firm investing in European B2B startups in the fields of Enterprise Software, Mobility, and Industrial Technologies with around EUR 400M AUM.",
+      "location": null,
+      "start": "2024-03",
+      "end": "2024-09",
+      "dateRange": "Mar 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "avi",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": null,
+      "location": null,
+      "start": "2023-10",
+      "end": "2024-01",
+      "dateRange": "Oct 2023 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Board Member",
+      "company": "TEG | The Entrepreneurial Group",
+      "companyUrl": "https://www.linkedin.com/company/teg-ev",
+      "description": null,
+      "location": null,
+      "start": "2023-05",
+      "end": "2024-03",
+      "dateRange": "May 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Customer Operations Working Student",
+      "company": "FERNRIDE",
+      "companyUrl": "https://www.linkedin.com/company/fernride",
+      "description": null,
+      "location": null,
+      "start": "2023-04",
+      "end": "2023-10",
+      "dateRange": "Apr 2023 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Product Development Project",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": null,
+      "start": "2023-04",
+      "end": "2023-07",
+      "dateRange": "Apr 2023 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Trend Research (CDTM)",
+      "company": "6G-life",
+      "companyUrl": "https://www.linkedin.com/company/6g-life",
+      "description": null,
+      "location": null,
+      "start": "2023-02",
+      "end": "2023-04",
+      "dateRange": "Feb 2023 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Member",
+      "company": "TEG | The Entrepreneurial Group",
+      "companyUrl": "https://www.linkedin.com/company/teg-ev",
+      "description": null,
+      "location": null,
+      "start": "2022-11",
+      "end": "2023-06",
+      "dateRange": "Nov 2022 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Assistant Manager",
+      "company": "Nishat Chunian Limited",
+      "companyUrl": "https://www.linkedin.com/company/nishatchunianlimited",
+      "description": null,
+      "location": null,
+      "start": "2019-07",
+      "end": "2021-04",
+      "dateRange": "Jul 2019 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "PepsiCo",
+      "companyUrl": "https://www.linkedin.com/company/pepsico",
+      "description": null,
+      "location": null,
+      "start": "2018-07",
+      "end": "2018-09",
+      "dateRange": "Jul 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "KSB Company",
+      "companyUrl": "https://www.linkedin.com/company/ksb",
+      "description": null,
+      "location": null,
+      "start": "2017-07",
+      "end": "2017-08",
+      "dateRange": "Jul 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Water and Power Development Authority",
+      "companyUrl": "https://www.linkedin.com/company/water-and-power-development-authority",
+      "description": null,
+      "location": null,
+      "start": "2016-06",
+      "end": "2016-08",
+      "dateRange": "Jun 2016 – Aug 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor's Degree, Technology Management",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Management",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Harvard Innovation Labs",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "National University of Sciences and Technology (NUST)",
+      "degree": "Bachelor of Engineering - BE, Mechanical Engineering",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "ShARE - Growing a new generation of leaders",
+      "degree": "ShARE’s leadership programme of Excellence",
+      "dateRange": "2022 – 2024"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Leadership",
+    "Microsoft Word",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Project Planning",
+    "Research",
+    "Project Management",
+    "Teamwork",
+    "Microsoft PowerPoint"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Bevel",
+    "tagline": "We de-risk modernization of critical legacy applications.",
+    "description": "At Bevel, our mission is to create the most fulfilling workforce in the world, by empowering our workers with unique opportunities for meaningful work. For us, that means tackling one of the most pressing problems in our generation: the innovation bottleneck of legacy code.\n\nAs such, we help companies unlock the full potential of their legacy code. Bevel's AI tool enables developer teams work more efficiently with complex codebases by helping them extract, understand and trace the embedded business logic.\n\nWhether you're a small team or a large enterprise facing the complexity of legacy software, Bevel provides a seamless, secure, and scalable solution. Together, we can turn legacy code into an opportunity for growth, innovation, and a more fulfilling work environment for your teams. Let's transform your legacy systems and drive your business forward.",
+    "industry": "Software Development",
+    "website": "https://www.bevel.software/",
+    "linkedInUrl": "https://www.linkedin.com/company/bevel-software",
+    "employeeCount": 3,
+    "foundedYear": 2024,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Developer Tools",
+      "Legacy Software",
+      "Technical Debt"
+    ]
+  }
+}

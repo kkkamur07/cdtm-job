@@ -1,0 +1,173 @@
+{
+  "id": "jiehua-wu",
+  "name": "Jiehua Wu",
+  "headline": "Founder & CEO @ Comena (YC S25) | Automated Order Processing",
+  "avatar": {
+    "sm": "/avatars/jiehua-wu-sm.webp",
+    "lg": "/avatars/jiehua-wu.webp",
+    "blur": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAADQBQCdASogACAAPtFUpk2oJCOiMBgIAQAaCWUAxNmMPLV26I3NkMeFHNNiyiyMGE36yptF35rgAP77p2QyHbO6Dop66PYGeNW32neBuse4U1B/5GjvPS8y108Q4lpAvdvripYVcGLMRMKxfgNPGW2akZmPn2Mkd0YVHzW2Zn6yrzIkCgMur+A1fSFENVjO9cJvcd45Wf8tQ39CpeUjGs+OOzrlAucAJpj630djameLyFqy1oVYUVDJclX0mc22SymjjZlocutoKUWzRgA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jiehua-wu",
+  "personId": 988,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jiehua Wu",
+  "ca": null,
+  "summary": "Bei Comena glauben wir, dass Menschen ihre Zeit nicht mit manuellen Erfassungstätigkeiten verbringen sollten.\n\nWir haben Comena gegründet, um mit KI Agenten die Auftragserfassung für Händler und Hersteller zu automatisieren.\n\nErfahren Sie mehr auf www.comena.ai.",
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Comena",
+      "companyUrl": "https://www.linkedin.com/company/comena-ai",
+      "description": "www.comena.ai\nBuilding AI Agents for industrial distributors and manufacturers",
+      "location": null,
+      "start": "2025-02",
+      "end": null,
+      "dateRange": "Feb 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "Pina Earth",
+      "companyUrl": "https://www.linkedin.com/company/pina-de",
+      "description": null,
+      "location": null,
+      "start": "2023-04",
+      "end": "2023-06",
+      "dateRange": "Apr 2023 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Founder's Associate",
+      "company": "Lio (formerly askLio)",
+      "companyUrl": "https://www.linkedin.com/company/lio-ai",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-03",
+      "dateRange": "Jan 2023 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": "2022-05",
+      "end": "2022-08",
+      "dateRange": "May 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "CHECK24 Vergleichsportal GmbH",
+      "companyUrl": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-01",
+      "dateRange": "Oct 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "CHECK24 Vergleichsportal GmbH",
+      "companyUrl": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2021-08",
+      "end": "2021-09",
+      "dateRange": "Aug 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "CHECK24 Vergleichsportal GmbH",
+      "companyUrl": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2021-07",
+      "end": "2021-07",
+      "dateRange": "Jul 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "ITQ GmbH",
+      "companyUrl": "https://www.linkedin.com/company/itq-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2018-05",
+      "end": "2018-05",
+      "dateRange": "May 2018 – May 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Information Systems",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Early Studies, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Gymnasium Ottobrunn",
+      "degree": "Abitur",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Java",
+    "C++",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Visual Studio"
+  ],
+  "languages": [
+    "Englisch",
+    "Deutsch",
+    "Chinesisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "Comena",
+    "tagline": "We automate order processing for distributors.",
+    "description": "We automate order processing for distributors.",
+    "industry": "Software Development",
+    "website": "https://www.comena.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/comena-ai",
+    "employeeCount": 11,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

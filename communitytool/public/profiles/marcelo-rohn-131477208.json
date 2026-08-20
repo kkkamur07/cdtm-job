@@ -1,0 +1,194 @@
+{
+  "id": "marcelo-rohn-131477208",
+  "name": "Marcelo Rohn",
+  "headline": "BCG | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/marcelo-rohn-131477208-sm.webp",
+    "lg": "/avatars/marcelo-rohn-131477208.webp",
+    "blur": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAABwBQCdASogACAAPtFgqE+oJSOiKAgBABoJZwDLLYvEOLgOJtjJkKhkC1vfDpxrZrfoz4QAAP76FG7sgXu/hD9/I0HQ9HXvy0Miw1MwXI8YPvmxqvsoguKuyiT+49jd2p14pZU3jsE3zDbaFbf9kE99WLqruIhP2pZ871V7iI7dOVxqY8yNOn/mzY3fnHjB/oK6ECMuOHIHQCUAhx6c0PiHlq4Cs/ZM4CpJLCGsX46Eq+9ic/s4er3Yf6PeqLOkD3rpgiQLc2xmGa/xBqoAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/marcelo-rohn-131477208",
+  "personId": 1293,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Marcelo Rohn",
+  "ca": null,
+  "summary": "Work at Boston Consulting Group (BCG)",
+  "positions": [
+    {
+      "title": "Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Manufacturing & AI",
+      "company": "Phlair",
+      "companyUrl": "https://www.linkedin.com/company/phlair",
+      "description": null,
+      "location": null,
+      "start": "2025-03",
+      "end": "2025-08",
+      "dateRange": "Mar 2025 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Junior Investment Analyst",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": null,
+      "location": null,
+      "start": "2023-11",
+      "end": "2024-02",
+      "dateRange": "Nov 2023 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Founding Team | Business Development",
+      "company": "iNSyT Technologies",
+      "companyUrl": "https://www.linkedin.com/company/insyt-tech",
+      "description": null,
+      "location": null,
+      "start": "2023-08",
+      "end": "2024-07",
+      "dateRange": "Aug 2023 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Student Assistant | Department of (Bio)Physical Chemistry",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": null,
+      "start": "2023-06",
+      "end": "2023-10",
+      "dateRange": "Jun 2023 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Strategy Consulting Intern | Pharmaceuticals",
+      "company": "Kearney",
+      "companyUrl": "https://www.linkedin.com/company/kearney",
+      "description": null,
+      "location": null,
+      "start": "2023-03",
+      "end": "2023-05",
+      "dateRange": "Mar 2023 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Previous Experiences",
+      "company": "Various Companies",
+      "companyUrl": "https://www.linkedin.com/company/various-boards",
+      "description": null,
+      "location": "Corporate Finance, Product Management and Product Marketing",
+      "start": "2020-10",
+      "end": "2022-07",
+      "dateRange": "Oct 2020 – Jul 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management and Chemistry",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "Universidad de Antioquia",
+      "degree": "Exchange Semester in Medellín",
+      "dateRange": "2024"
+    },
+    {
+      "school": "TUM School of Management",
+      "degree": "Bachelor of Science - BS, Management and Chemistry",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Universidad Carlos III de Madrid",
+      "degree": "Exchange Semester in Madrid",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Gymnasium Trudering",
+      "degree": "Abitur (Grade: 1.1 | GPA: 3.9)",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Venture Capital",
+    "Dealflow",
+    "Strategische Planung",
+    "Business Development",
+    "Finanzbuchhaltung",
+    "Finanzberichterstattung",
+    "Projektmanagement",
+    "Stakeholder-Management",
+    "Adobe Creative Suite",
+    "Creative Content Production",
+    "Strategie",
+    "Consulting"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Boston Consulting Group (BCG)",
+    "tagline": null,
+    "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.\n \nOur diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. \n\nWe work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.\n\nBCG Privacy Policy: https://www.bcg.com/about/privacy-policy.aspx",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bcg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/boston-consulting-group",
+    "employeeCount": 41217,
+    "foundedYear": 1963,
+    "location": "Boston, United States",
+    "specialities": [
+      "Consumer insight",
+      "corporate development",
+      "corporate finance",
+      "digital economy",
+      "globalization",
+      "growth",
+      "information technology",
+      "innovation",
+      "marketing & sales",
+      "operations",
+      "people & organization",
+      "postmerger integration",
+      "risk management",
+      "strategy",
+      "sustainability",
+      "transformation",
+      "climate",
+      "artificial intelligence",
+      "cost transformation",
+      "supply chains"
+    ]
+  }
+}

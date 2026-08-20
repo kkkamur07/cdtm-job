@@ -1,0 +1,289 @@
+{
+  "id": "regina-endres",
+  "name": "Regina Endres",
+  "headline": "Venture Strategy & Operational Excellence | ex-Spotify | ex-Amazon | CDTM | UC Berkeley",
+  "avatar": {
+    "sm": "/avatars/regina-endres-sm.webp",
+    "lg": "/avatars/regina-endres.webp",
+    "blur": "data:image/webp;base64,UklGRkoBAABXRUJQVlA4ID4BAACwBgCdASogACAAPsVUoEunpSMhsAwA8BiJbACdMySlj0iMaPyvNc7d1lcpwD32b16yxiiA2sa0QeLOlMJYAAD+ZAkYKPbSNhFdQ6mRP979UAn3qjxbWw5hBRihDz0K9Aff1ousNSFpurYao7Tyt8C2PBH7uZmQu+9j3lFTSFZy4dH0csTpA2rIMGjPlaj6uE2CPURaUq4wH1B++22ausVy/etbHwA99rav4eGSZIaWavbLhFkdxkY73WO83y1PYNkXiv4Ng2WV7oN9DN4y4ctJafxAx85T9bFg90vvyvFDBDZUJjPRz297Lnr+VZw7Moyr6ZuaqrSIrqgMz9ldSg827jCRlI5xaSdG0YbgkpIvvQQggg11uzDP7OY485Cdq7IpLvH2scuXz3VDUQTL49Vfss+9w23mgiDWTar6AAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/regina-endres",
+  "personId": 1121,
+  "classes": [
+    {
+      "id": 74,
+      "label": "Fall 2013",
+      "season": "Fall",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2013",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Regina Endres",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Director Investment Strategy & Portfolio",
+      "company": "Bace United Capital",
+      "companyUrl": "https://www.linkedin.com/company/baceunitedcapital",
+      "description": null,
+      "location": null,
+      "start": "2025-02",
+      "end": null,
+      "dateRange": "Feb 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "Antler",
+      "companyUrl": "https://www.linkedin.com/company/antlerglobal",
+      "description": null,
+      "location": null,
+      "start": "2024-04",
+      "end": "2024-07",
+      "dateRange": "Apr 2024 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Venture Strategy, Go-To-Market & Operational Excellence Consulting",
+      "company": null,
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2024-03",
+      "end": "2025-07",
+      "dateRange": "Mar 2024 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Market Strategy & Operations Lead Western Europe",
+      "company": "Spotify",
+      "companyUrl": "https://www.linkedin.com/company/spotify",
+      "description": null,
+      "location": null,
+      "start": "2023-09",
+      "end": "2024-02",
+      "dateRange": "Sep 2023 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Women@Spotify Lead DACH",
+      "company": "Spotify",
+      "companyUrl": "https://www.linkedin.com/company/spotify",
+      "description": null,
+      "location": null,
+      "start": "2022-09",
+      "end": "2024-01",
+      "dateRange": "Sep 2022 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Market Strategy & Operations Lead Central Europe",
+      "company": "Spotify",
+      "companyUrl": "https://www.linkedin.com/company/spotify",
+      "description": null,
+      "location": null,
+      "start": "2022-04",
+      "end": "2024-02",
+      "dateRange": "Apr 2022 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Head of Business Development & Programs, Soundtrap@Spotify",
+      "company": "Spotify",
+      "companyUrl": "https://www.linkedin.com/company/spotify",
+      "description": null,
+      "location": null,
+      "start": "2020-02",
+      "end": "2022-04",
+      "dateRange": "Feb 2020 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Business Development Senior Associate, Soundtrap@Spotify",
+      "company": "Spotify",
+      "companyUrl": "https://www.linkedin.com/company/spotify",
+      "description": null,
+      "location": null,
+      "start": "2018-10",
+      "end": "2020-02",
+      "dateRange": "Oct 2018 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Director Strategic Partnerships",
+      "company": "TrustYou",
+      "companyUrl": "https://www.linkedin.com/company/trustyou",
+      "description": null,
+      "location": null,
+      "start": "2017-09",
+      "end": "2018-08",
+      "dateRange": "Sep 2017 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Business Development Manager Strategic Partnerships",
+      "company": "TrustYou",
+      "companyUrl": "https://www.linkedin.com/company/trustyou",
+      "description": null,
+      "location": null,
+      "start": "2016-04",
+      "end": "2017-09",
+      "dateRange": "Apr 2016 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Vendor Management",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": null,
+      "location": null,
+      "start": "2015-10",
+      "end": "2016-03",
+      "dateRange": "Oct 2015 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Business Development (working student)",
+      "company": "Mediakraft Networks",
+      "companyUrl": "https://www.linkedin.com/company/mediakraft-networks",
+      "description": "Business Development",
+      "location": null,
+      "start": "2014-08",
+      "end": "2014-12",
+      "dateRange": "Aug 2014 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Corporate Communications, Brand Management (working student)",
+      "company": "MAN Truck & Bus SE",
+      "companyUrl": "https://www.linkedin.com/company/man-commercial-vehicles",
+      "description": "Corporate Communications, Brand Management",
+      "location": null,
+      "start": "2012-12",
+      "end": "2013-07",
+      "dateRange": "Dec 2012 – Jul 2013",
+      "current": false
+    },
+    {
+      "title": "Exhibitions, Events & Cooperations (intern)",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Exhibitions, Events and Cooperations",
+      "location": null,
+      "start": "2011-12",
+      "end": "2012-07",
+      "dateRange": "Dec 2011 – Jul 2012",
+      "current": false
+    },
+    {
+      "title": "Product Manangement, Marketing (working student)",
+      "company": "EURO Advisor Services GmbH",
+      "companyUrl": "https://www.linkedin.com/company/€uro-advisor-services",
+      "description": "Marketing, Product Management",
+      "location": null,
+      "start": "2009-11",
+      "end": "2011-12",
+      "dateRange": "Nov 2009 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Marketing & Sales (intern)",
+      "company": "consenso Consulting GmbH",
+      "companyUrl": "https://www.linkedin.com/company/consensoconsulting",
+      "description": "Marketing & Sales",
+      "location": null,
+      "start": "2009-08",
+      "end": "2009-10",
+      "dateRange": "Aug 2009 – Oct 2009",
+      "current": false
+    },
+    {
+      "title": "Au Pair",
+      "company": "Cultural Care Au Pair",
+      "companyUrl": "https://www.linkedin.com/company/cultural-care-au-pair",
+      "description": null,
+      "location": null,
+      "start": "2006-07",
+      "end": "2007-08",
+      "dateRange": "Jul 2006 – Aug 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher",
+      "dateRange": "2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Business Administration",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Business Administration",
+      "dateRange": "2008 – 2012"
+    },
+    {
+      "school": "Hanken School of Economics",
+      "degree": "Academic Exchange, International Business",
+      "dateRange": "2010"
+    },
+    {
+      "school": "FAU Erlangen-Nürnberg",
+      "degree": "Theatre and Media Sciences / Economics",
+      "dateRange": "2007 – 2008"
+    }
+  ],
+  "skills": [
+    "Marketing",
+    "Microsoft Office",
+    "Business Development",
+    "Start-ups",
+    "Marketingstrategie",
+    "Geschäftsentwicklung",
+    "Projektmanagement",
+    "Unternehmensstrategie",
+    "Strategisches Management",
+    "Produktmanagement",
+    "Unternehmensführung",
+    "Forschung",
+    "Unternehmenskommunikation"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "Bace United Capital",
+    "tagline": "We don't follow culture - we fuel those who create it.",
+    "description": "We build companies and invest in the drivers of culture, lifestyle, and the next era of entertainment, empowering visionaries who shape how the world listens, moves, and connects.\nFrom music to fashion, digital experiences to next-gen media, we empower the boldest creators and innovators defining what’s next. \n\nWe don’t follow culture, we fuel those who create it.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "https://baceunited.com",
+    "linkedInUrl": "https://www.linkedin.com/company/baceunitedcapital",
+    "employeeCount": 3,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

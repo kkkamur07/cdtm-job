@@ -1,0 +1,257 @@
+{
+  "id": "jonas-timmermann",
+  "name": "Jonas Timmermann",
+  "headline": "Member of Technical Staff at Anthropic",
+  "avatar": null,
+  "location": "Brooklyn, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/jonas-timmermann",
+  "personId": 1437,
+  "classes": [
+    {
+      "id": 71,
+      "label": "Spring 2012",
+      "season": "Spring",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2012",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jonas Timmermann",
+  "ca": null,
+  "summary": "Tech Lead with a decade of experience building AI/ML systems across startups and large tech companies\n\nI’ve worked on projects ranging from building the backend as one of the first engineers at a Series A startup to delivering reinforcement learning models that drove over $100M in annual business impact at a leading Silicon Valley tech company.\n\nMy interest in engineering began in high school, when my brother and I built autonomous machines that won the world’s largest robotics competition. Over the years, I’ve worked in Munich, Tokyo, Shanghai, San Francisco and New York, gaining strong hands-on experience in productionizing ML applications and the platforms that power them.",
+  "positions": [
+    {
+      "title": "Member of Technical Staff",
+      "company": "Anthropic",
+      "companyUrl": "https://www.linkedin.com/company/anthropicresearch",
+      "description": "RL Eng",
+      "location": null,
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Staff Software Engineer, Tech Lead ML Platform",
+      "company": "Lyft",
+      "companyUrl": "https://www.linkedin.com/company/lyft",
+      "description": "Led development of an end-to-end ML platform for prototyping, training, serving, and evaluating hundreds of models across diverse use cases\n\n• Designed an AI platform and built a framework for LLM performance evaluation and runtime checks\n• Built a reinforcement learning platform focused on contextual bandits and off-policy evaluation; delivered models with $100M+ in annual business impact in collaboration with product teams\n• Engineered and operated a Kubernetes-based model serving platform with 6-figure QPS, support for arbitrary ML libraries, minute-level retraining, and custom processing pipelines\n• Developed a comprehensive online/offline model monitoring solution adopted across all production models \n• Drove team roadmap, represented MLP on company's AI council, led cross-functional initiatives, and mentored engineers to uphold technical and operational excellence",
+      "location": null,
+      "start": "2020-03",
+      "end": "2024-10",
+      "dateRange": "Mar 2020 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Staff Software Engineer",
+      "company": "Geli",
+      "companyUrl": "https://www.linkedin.com/company/growing-energy-labs-inc",
+      "description": "Led development of Geli’s energy management platform, enabling real-time orchestration and optimization of hundreds of on-premise energy control systems\n\n• Architected a scalable cloud platform for ML-powered energy applications [Kubernetes, Cassandra] \n• Designed complex messaging infrastructure to bridge on-premise energy devices and cloud services [RabbitMQ, MQTT, AMQP]\n• Engineered data-intensive microservices in Python, Kotlin, and Java to process real-time telemetry streams [Spring Boot/Data/Cloud Stream]\n• Delivered end-to-end integration of ML models with telemetry pipelines and control systems for forecasting and optimization",
+      "location": null,
+      "start": "2019-04",
+      "end": "2020-03",
+      "dateRange": "Apr 2019 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Geli",
+      "companyUrl": "https://www.linkedin.com/company/growing-energy-labs-inc",
+      "description": "Improved the reliability and production readiness of Geli’s forecasting and optimization algorithms in close collaboration with data scientists\n\n• Productionized the Python-based forecasting and model predictive control algorithm codebase \n• Built benchmarking infrastructure to ensure model quality and stability [Airflow, Cassandra]\n• Led migration of core algorithms from on-premise systems to cloud infrastructure to enable more powerful models and integration with richer data sources [Kubernetes, Docker, Jenkins]",
+      "location": null,
+      "start": "2017-12",
+      "end": "2019-04",
+      "dateRange": "Dec 2017 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Geli",
+      "companyUrl": "https://www.linkedin.com/company/growing-energy-labs-inc",
+      "description": "Built foundational components of Geli’s Energy Operating System as one of the company’s first ten engineers",
+      "location": null,
+      "start": "2016-07",
+      "end": "2017-12",
+      "dateRange": "Jul 2016 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Developed a personal mobility pattern prediction system using variable-order Markov models with Prediction by Partial Matching, improving next-location prediction accuracy by 3.3×",
+      "location": null,
+      "start": "2015-08",
+      "end": "2016-01",
+      "dateRange": "Aug 2015 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Developed an innovative dynamic shape 3D display\n\nSoftware\n• Java control logic, web server with RESTful API and HTTP client for communication with external tools\n• Microcontroller based low-level actuator control\n• D3.js front-end\n\nElectronics\n• Engineered two PCBs capable of controlling 160 linear actuators\n\nMechanics\n• Designed and constructed a complex mechanical system consisting of several hundred components",
+      "location": null,
+      "start": "2014-08",
+      "end": "2014-11",
+      "dateRange": "Aug 2014 – Nov 2014",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Developed an Energy Management System for Smart Charging Electric Vehicles\n• Created an OSGi based Java solution for the energy management of a microgrid\n• Devised charging controls for BMW electric cars and Chargepoint public charging stations through web APIs\n• Built applications for grid-aware cost optimized charge scheduling and demand response",
+      "location": null,
+      "start": "2013-09",
+      "end": "2014-03",
+      "dateRange": "Sep 2013 – Mar 2014",
+      "current": false
+    },
+    {
+      "title": "Freelancer",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Productionization of smart electric scooter developed in previous engagement\n• Powerful BLDC motor control with sine commutation\n• Highly efficient battery charging and balancing system\n• Circuit design and production of 4-layer PCB with over 330 components in\nbusiness card size\n• Motor control and adaptive, buttonless acceleration control in C for Cortex-M3\n• Production of two vehicles\nThe scooter launched together with BMW’s flagship electric car i8 Spyder as the dual-mode electric mobility concept at Beijing Motor Show 2012.",
+      "location": null,
+      "start": "2011-04",
+      "end": "2011-12",
+      "dateRange": "Apr 2011 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Freelancer",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Developed an innovative smart electric scooter—4 weeks from idea to fully functioning prototype\n• Vehicle concept\n• Circuit design and layout\n• Programming in C and LabVIEW\n• Manufacturing of mechanical components",
+      "location": null,
+      "start": "2010-09",
+      "end": "2010-10",
+      "dateRange": "Sep 2010 – Oct 2010",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Arrow Electronics",
+      "companyUrl": "https://www.linkedin.com/company/arrow-electronics",
+      "description": "Developed mobile robots based on Arrow’s Embedded Platform Concept and showcased them at the global launch of the initiative at Embedded World 2009",
+      "location": null,
+      "start": "2009-01",
+      "end": "2009-03",
+      "dateRange": "Jan 2009 – Mar 2009",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "NI (National Instruments)",
+      "companyUrl": "https://www.linkedin.com/company/niglobal",
+      "description": "Built robots to evaluate NI's latest hardware and LabVIEW Embedded for mobile applications",
+      "location": null,
+      "start": "2008-11",
+      "end": "2008-12",
+      "dateRange": "Nov 2008 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "T'n'T Robotik",
+      "companyUrl": null,
+      "description": "Developed soccer robots with my brother to compete at the RoboCup\n\nThe RoboCup is the world’s largest robotics event with 3000 participants from 40 countries at the World Cup (2010). \n\nSuccesses in RoboCup Junior Soccer League: \n• 2x World Champion \n• 1x 2. Place World Cup 2010 \n• 2x 3. Place World Cup 2008 \n• 8x German Champion \n• unbeaten for 80 matches (3 years) in Europe \n\n10,000 hours of experience developing robots\n\nAcquired substantial sponsorships by companies like: \nAnalog Devices, Arrow Electronics, BMW, Bosch Rexroth, CoTeSys, Infineon, LPKF, Maxon Motor, Phoenix Contact, National Instruments, STMicroelectronics",
+      "location": null,
+      "start": "2002-09",
+      "end": "2010-09",
+      "dateRange": "Sep 2002 – Sep 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "UC Berkeley School of Information",
+      "degree": "Visiting Researcher",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master’s Degree, Electrical Engineering and Information Technology",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor’s Degree, Electrical Engineering and Information Technology",
+      "dateRange": "2010 – 2014"
+    }
+  ],
+  "skills": [
+    "Java",
+    "C++",
+    "Software Architecture",
+    "DevOps",
+    "Microservices",
+    "Kubernetes",
+    "Artificial Intelligence (AI)",
+    "Kotlin",
+    "Docker",
+    "Continuous Integration and Continuous Delivery (CI/CD)",
+    "Cloud Computing",
+    "Machine Learning",
+    "Data Mining",
+    "Software Development",
+    "Amazon Web Services (AWS)",
+    "Python",
+    "Web Services",
+    "Data Engineering",
+    "Spring Boot",
+    "Embedded Systems",
+    "Jenkins",
+    "Spring Cloud",
+    "Technical Leadership",
+    "Microcontrollers",
+    "Electrical Engineering",
+    "RabbitMQ",
+    "MLOps",
+    "Apache Airflow",
+    "Reinforcement Learning",
+    "Message Queue",
+    "Internet of Things (IoT)",
+    "Airflow",
+    "Electric Vehicles",
+    "AMQP",
+    "Circuit Design",
+    "Mobile Robotics",
+    "Smart Homes",
+    "ECS",
+    "Contextual Bandits",
+    "Mqtt"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Anthropic",
+    "tagline": "Anthropic is an AI safety and research company working to build reliable, interpretable, and steerable AI systems.",
+    "description": "We're an AI research company that builds reliable, interpretable, and steerable AI systems. Our first product is Claude, an AI assistant for tasks at any scale.\n\nOur research interests span multiple areas including natural language, human feedback, scaling laws, reinforcement learning, code generation, and interpretability.",
+    "industry": "Research Services",
+    "website": "https://www.anthropic.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/anthropicresearch",
+    "employeeCount": 4658,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

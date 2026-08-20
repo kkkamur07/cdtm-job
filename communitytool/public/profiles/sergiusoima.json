@@ -1,0 +1,233 @@
+{
+  "id": "sergiusoima",
+  "name": "Sergiu Șoima",
+  "headline": "Co-founder GeneralMind • AI • Engineer • CDTM • ETH • TUM",
+  "avatar": {
+    "sm": "/avatars/sergiusoima-sm.webp",
+    "lg": "/avatars/sergiusoima.webp",
+    "blur": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAACQBQCdASogACAAPtFSoUwoJCMiMBgMAQAaCUAZQDGQZbbVGPEeC1wOH8wIrIuMjnMAImbm0AD+/fjLLQRTP1vYzicOy4Gn7KjF+5f8pHxn1n147/F79csIVD6Th1osgOJ7hriBdWcorYl9ZW03Hc0VCLyH/GW/s494BqJoDeC82gXf7+NZ3U59NvDWzmAHs99tveVpZ9jpG5iojrATA2ca/3hRfS+NibYLZ9MRbySRnEw9BQFuATlJ8/6VuMHRZB7KlcyKioyXDAAA"
+  },
+  "location": "San Francisco Bay, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/sergiusoima",
+  "personId": 752,
+  "classes": [
+    {
+      "id": 82,
+      "label": "Fall 2017",
+      "season": "Fall",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2017",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sergiu Soima",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & SVP Engineering",
+      "company": "GeneralMind",
+      "companyUrl": "https://www.linkedin.com/company/generalmind",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "AI Engineer",
+      "company": "IntellectEU",
+      "companyUrl": "https://www.linkedin.com/company/intellecteu",
+      "description": "• Lead the AI Services Branch and started 4 different services (Postal Address structuring agent, Self-learning on-premise anomaly detection for financial transactions, Canton network rewards optimizer, AI Platform for internal automation)\n• Developed LangGraph agents\n• Created pre-sales decks and marketing materials\n• Engaged with customers",
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-06",
+      "dateRange": "Jan 2025 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "AI Engineer",
+      "company": "remberg",
+      "companyUrl": "https://www.linkedin.com/company/remberg",
+      "description": "𝐫𝐞𝐦𝐛𝐞𝐫𝐠 offers an 𝐀𝐈-𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 for industrial companies who service, operate or maintain assets & equipment such as machines, energy utilities, facilities, vehicles & many more. Our customers managed over 1 million different kinds of assets in the remberg XRM software to maximize uptime and tackle the shortage of technical talent. As first AI Engineer in the company I:\n• Defined the ai-copilot architecture and infrastructure together with the chief architect\n• Developed ETL pipelines for document processing (text / information extraction)\n• Developed LLM / RAG agents and deploying them to production\n• Optimized vector database queries\n• Developed an evaluation meta-framework for RAG applications\n• Contributed to the RAGAS open source RAG evaluation framework",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-03",
+      "end": "2024-09",
+      "dateRange": "Mar 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "AboveLife",
+      "companyUrl": "https://www.linkedin.com/company/abovelife",
+      "description": "Abovelife offers a unique platform to create digital obituaries that can be linked via QR codes to gravestones or urns, ensuring that memories and stories of loved ones endure beyond their time, providing a lasting legacy for future generations.\n• Designed UX/UI\n• Developed the full-stack SaaS platform (customer and partner portal) using NextJS and NodeJS\n• Acquired 40 project partners",
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Testing Lead",
+      "company": "Allianz",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": "•\tLead the software testing team for the Allianz insurance back-end system (~300 Testers, 9 Automation engineers)\n•\tSpared 1 full-time employee by developing a software for managing testing providers and internal accounting.\n•\tImproved testing efficiency in tribes by 50%-90% by designing automations, developing a custom agile testing framework,  and improving the test portfolio\n•\tSupported the agile transformation by introducing novel testing approaches and processes (e.g. sprint regression, AI prioritization of test cases).",
+      "location": "München, Bayern",
+      "start": "2020-05",
+      "end": "2022-12",
+      "dateRange": "May 2020 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "company": "Allianz Global Corporate & Specialty (AGCS)",
+      "companyUrl": "https://www.linkedin.com/company/allianz-global-corporate-&-specialty-agcs-",
+      "description": "•\tData Engineering using Foundry (by Plantir)\n•\tData manipulation using SQL and Python\n•\tCreating management reports using Foundry",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-11",
+      "end": "2020-04",
+      "dateRange": "Nov 2019 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Tutor: Databases 2",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Organizing and giving tutorials on the following topics:\nImplementation of database systems\n• Transaction Management . • Recovery . • Multiuser Access and Synchronization . \n• Physical Data . • Request processing (logical and physical optimization of queries, cost models)\nApplications of Database systems\n• Distributed Databases . • Business Aplications (OLTP, OLAP) . \n• XML and Database systems . • Performance evaluation . • Web Services",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-04",
+      "end": "2018-08",
+      "dateRange": "Apr 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Finanz Informatik Technologie Service GmbH & Co. KG",
+      "companyUrl": "https://www.linkedin.com/company/finanz-informatik-technologie-service",
+      "description": "• Requirement engineering.\n• Creating deployment pipelines using Gitlab, Ansible, Python, Docker and\nKubernetes.\n• Designing and Developing a service that identifies privilege escalation in\nAnsible playbooks.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-03",
+      "end": "2019-06",
+      "dateRange": "Mar 2018 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Front-End-Developer",
+      "company": "interfacewerk GmbH",
+      "companyUrl": "https://www.linkedin.com/company/interfacewerk-gmbh",
+      "description": "•\tImplementing a desktop application with Electron and Angular \n•\tDesigning and Implementing an embedded Linux application with Ionic and Angular\n•\tImplementing scripts for deploying software on embedded devices",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2017-03",
+      "end": "2017-12",
+      "dateRange": "Mar 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "•\tDesigning and implementing an Interface that enables transparent database access with .net Entity Framework\n•\tOrganizing and giving workshops\n•\tExtending a sensor simulation system in .net\n•\tDesigning and implementing a Web interface for managing applications in a distributed system with AngularJS\n•\tDeploying .net software on a Raspberry Pi",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2016-04",
+      "end": "2016-09",
+      "dateRange": "Apr 2016 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Fortiss",
+      "companyUrl": "https://www.linkedin.com/company/fortiss",
+      "description": "Smart Energy Living Lab Projekt\n•\tProgramming for Raspberry pi \n•\tWeb parsing (Extracting relevant information for our Systems Database)\n•\tAutomatization of our E-Mail-System\n•\tIntegrating the Twitter API in the System\n•\tDevelop a Rest API with the team\n•\tTransferring the energy forecast component to a modularized OSGI System\n•\tTesting with JUnit",
+      "location": "München",
+      "start": "2014-05",
+      "end": "2015-07",
+      "dateRange": "May 2014 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Student Trainee",
+      "company": "Pentland Firth Software GmbH",
+      "companyUrl": "https://www.linkedin.com/company/pentland-firth",
+      "description": "•\tMaintenance of automatically generated reports\n•\tAdministration of mentioned reports with Linux Shell\n•\tDesigning HTML Reports\n•\tProgramming Oracle DBMS Jobs\n•\tCreating a new website for our company with Odoo CMS in cooperation with our Designer and hacking some features in Odoo to follow the Design template.\n•\tDevelopment with python and Django   \n•\tDevelopment with Angular",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2014-04",
+      "end": "2016-02",
+      "dateRange": "Apr 2014 – Feb 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "Master's Thesis",
+      "dateRange": "2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Informatik",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Informatik",
+      "dateRange": "2013 – 2016"
+    }
+  ],
+  "skills": [
+    "Large Language Model Operations (LLMOps)",
+    "Machine Learning",
+    "Python",
+    "NextJS",
+    "Redux",
+    "NodeJS",
+    "Amazon Web Services (AWS)",
+    "IT-Service-Management",
+    "Stakeholder-Management",
+    "Kommunikation",
+    "Risikomanagement",
+    "ISTQB",
+    "ISTQ",
+    "Tosca",
+    "Regression Testing",
+    "Selenium",
+    "DevOps",
+    "Jenkins",
+    "C#",
+    "Entity Framework"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "GeneralMind",
+    "tagline": "Experience the power of Autonomous AI with GeneralMind",
+    "description": "GeneralMind is a Berlin-founded AI company building its own System of Action for modern enterprises; an operational AI layer on top of ERP systems. This is not a copilot. It’s an autopilot: human-supervised, with approvals where needed. \n\nOur AI Autopilot autonomously executes recurring, complex workflows end-to-end across email, Excel, and enterprise systems. Incoming tasks are captured, analyzed, and completed with human-level capability, tracking handovers, meeting deadlines, and ensuring compliance across multiple stakeholders.\n\nDesigned for mid-sized and large enterprises, GeneralMind helps organizations eliminate inbox-driven work, improve execution across goods and money flows, and keep supply chains moving at scale.\n\nFounded in 2025, GeneralMind serves customers across industry, commerce, and logistics in Europe and beyond.",
+    "industry": "Software Development",
+    "website": "https://generalmind.com",
+    "linkedInUrl": "https://www.linkedin.com/company/generalmind",
+    "employeeCount": 40,
+    "foundedYear": 2025,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Artificial Intelligence",
+      "Autonomous AI",
+      "Enterprise AI"
+    ]
+  }
+}

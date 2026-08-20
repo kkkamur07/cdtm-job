@@ -1,0 +1,243 @@
+{
+  "id": "haochunma",
+  "name": "Dr. Haochun Ma",
+  "headline": "Founder | Executive | Investor",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/haochunma",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Managing Director | CTO & COO | EUTOP AI",
+      "company": "EUTOP Group",
+      "companyUrl": "https://www.linkedin.com/company/eutop-group",
+      "description": "Building safe AI agents for governmental relations & leading organisations, following the acquisition of Artus.",
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Advisory Board Member",
+      "company": "Hiber",
+      "companyUrl": "https://www.linkedin.com/company/hibercare",
+      "description": "Advising one of the leading human hibernation startups.",
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder | Managing Director",
+      "company": "Center for Software Engineering Excellence (CSEE)",
+      "companyUrl": "https://www.linkedin.com/company/center-for-software-engineering-excellence",
+      "description": "Building the builders of tomorrow.",
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Investor",
+      "company": "maCapital",
+      "companyUrl": "https://www.linkedin.com/company/macapital-holding",
+      "description": "Investing chaotically, from real estate over startups to OpenAI.",
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Alumni Ambassador",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Connecting the innovators of tomorrow.",
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Founding Partner | CTO | Family Officer",
+      "company": "Dorn Investment Fonds",
+      "companyUrl": "https://www.linkedin.com/company/dorn-investment-fonds",
+      "description": "Investing in global outliers.",
+      "location": null,
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder | CEO",
+      "company": "Artus",
+      "companyUrl": "https://www.linkedin.com/company/artus-technology",
+      "description": "Built AI for public affairs. Acquired by EUTOP, the largest owner-managed governmental relations agency in the EU.",
+      "location": null,
+      "start": "2025-01",
+      "end": "2026-12",
+      "dateRange": "Jan 2025 – Dec 2026",
+      "current": false
+    },
+    {
+      "title": "Project Advisor | Food Security",
+      "company": "World Food Programme",
+      "companyUrl": "https://www.linkedin.com/company/unwfp",
+      "description": "Monitored & forecasted food security.",
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Venture Scout",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": "Identified entrepreneurial talent.",
+      "location": null,
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Quant | ML Engineering",
+      "company": "Allianz Global Investors",
+      "companyUrl": "https://www.linkedin.com/company/allianz-global-investors",
+      "description": "Optimized multi-asset portfolios for institutional investors. Full-time until Fall 2024.",
+      "location": null,
+      "start": "2020-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2020 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Researcher | Physics & AI",
+      "company": "German Aerospace Center (DLR)",
+      "companyUrl": "https://www.linkedin.com/company/dlr",
+      "description": "Predicted chaotic & complex systems at the Institute for AI Safety & Security. Completed Physics PhD in 3 years, part-time.",
+      "location": null,
+      "start": "2019-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2019 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Intern | Mobility",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Consultant | Family Offices",
+      "company": "Freelancer",
+      "companyUrl": "https://www.linkedin.com/company/liberoprofessionista",
+      "description": "Built quantitative investment strategies for international family offices. $400M+ in assets under advice. Transitioned to an exclusive contract.",
+      "location": null,
+      "start": "2018-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2018 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Intern | Risk",
+      "company": "Visa",
+      "companyUrl": "https://www.linkedin.com/company/visa",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Intern | Vision",
+      "company": "Intel Corporation",
+      "companyUrl": "https://www.linkedin.com/company/intel-corporation",
+      "description": null,
+      "location": null,
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Extern | Mathematics",
+      "company": "Google DeepMind",
+      "companyUrl": "https://www.linkedin.com/company/googledeepmind",
+      "description": null,
+      "location": null,
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Intern | Fixed Income",
+      "company": "Goldman Sachs",
+      "companyUrl": "https://www.linkedin.com/company/goldman-sachs",
+      "description": null,
+      "location": null,
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "PhD + MSc + BSc Physics | BSc Business Administration | Early Study Mathematics (aged 14)",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree | Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Researcher | Astrophysics",
+      "dateRange": null
+    },
+    {
+      "school": "Cornell University",
+      "degree": "Lecturer | ML in Finance",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Lecturer | Computer Science | ML in Finance",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": null
+}

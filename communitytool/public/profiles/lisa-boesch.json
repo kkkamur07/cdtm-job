@@ -1,0 +1,222 @@
+{
+  "id": "lisa-boesch",
+  "name": "Lisa Bösch",
+  "headline": "Product leader and advisor",
+  "avatar": null,
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lisa-boesch",
+  "personId": 1372,
+  "classes": [
+    {
+      "id": 69,
+      "label": "Spring 2011",
+      "season": "Spring",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2011",
+  "major": "Technology and Management oriented Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Lisa Boesch",
+  "ca": null,
+  "summary": "I am a product leader with over a decade of demonstrated success leading, coaching, and growing cross-functional product teams at technology companies ranging from early-stage startups to market leading corporates. I am relentless in my curiosity about the needs and questions of customers, and I enjoy supporting product managers and founders at delivering value to meet both end user and company needs.\nI hold an MSc in Business Administration and Computer Science from TU Munich and I am a graduate of the Center for Digital Technology and Management (CDTM).",
+  "positions": [
+    {
+      "title": "Product Management Mentor",
+      "company": "CareerFoundry",
+      "companyUrl": "https://www.linkedin.com/company/careerfoundry",
+      "description": null,
+      "location": null,
+      "start": "2023-11",
+      "end": null,
+      "dateRange": "Nov 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Product leader and advisor",
+      "company": "Lisa Bösch",
+      "companyUrl": null,
+      "description": "I support product organizations to contribute to company goals by establishing a clear product strategy and achieving business outcomes by delivering products creating value to their users.",
+      "location": null,
+      "start": "2019-03",
+      "end": null,
+      "dateRange": "Mar 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "GoEuro (now follow OMIO)",
+      "companyUrl": "https://www.linkedin.com/company/goeuro",
+      "description": null,
+      "location": null,
+      "start": "2018-09",
+      "end": "2019-02",
+      "dateRange": "Sep 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Product Manager eGym Fitness App",
+      "company": "EGYM | DACH",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2015-07",
+      "end": "2017-12",
+      "dateRange": "Jul 2015 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Product Manager Third Party APIs",
+      "company": "EGYM | DACH",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2014-07",
+      "end": "2015-07",
+      "dateRange": "Jul 2014 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "GLAMLOOP",
+      "companyUrl": "https://www.linkedin.com/company/glamloop",
+      "description": null,
+      "location": null,
+      "start": "2013-04",
+      "end": "2014-06",
+      "dateRange": "Apr 2013 – Jun 2014",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Zalando",
+      "companyUrl": "https://www.linkedin.com/company/zalando",
+      "description": null,
+      "location": null,
+      "start": "2011-08",
+      "end": "2011-10",
+      "dateRange": "Aug 2011 – Oct 2011",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "DealStreet",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2010-03",
+      "end": "2010-04",
+      "dateRange": "Mar 2010 – Apr 2010",
+      "current": false
+    },
+    {
+      "title": "Student assistant",
+      "company": "ESCP Business School",
+      "companyUrl": "https://www.linkedin.com/company/escp-business-school",
+      "description": null,
+      "location": null,
+      "start": "2009-05",
+      "end": "2009-08",
+      "dateRange": "May 2009 – Aug 2009",
+      "current": false
+    },
+    {
+      "title": "Working student",
+      "company": "ib vogt GmbH",
+      "companyUrl": "https://www.linkedin.com/company/ib-vogt-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2007-06",
+      "end": "2008-07",
+      "dateRange": "Jun 2007 – Jul 2008",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Ogilvy",
+      "companyUrl": "https://www.linkedin.com/company/ogilvy",
+      "description": null,
+      "location": null,
+      "start": "2006-07",
+      "end": "2006-08",
+      "dateRange": "Jul 2006 – Aug 2006",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Technology and Management, Business Administration and Computer Science",
+      "dateRange": "2009 – 2012"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2011 – 2012"
+    },
+    {
+      "school": "Instituto Tecnológico de Buenos Aires",
+      "degree": "Semester abroad, Informatik",
+      "dateRange": "2010"
+    },
+    {
+      "school": "ESCP Business School",
+      "degree": "Semester abroad, Business Administration and Management, General",
+      "dateRange": "2008 – 2009"
+    },
+    {
+      "school": "Humboldt-Universität zu Berlin",
+      "degree": "Bachelor's degree, Business Administration and Management, General",
+      "dateRange": "2006 – 2009"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Business Development",
+    "Start-ups",
+    "Unternehmensstrategie",
+    "Produktentwicklung",
+    "Produktmanagement",
+    "Digital Transformation"
+  ],
+  "languages": [
+    "Französisch",
+    "Spanisch",
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "CareerFoundry",
+    "tagline": "CareerFoundry is the online school for your career change into tech. Join us, and build a career you love.",
+    "description": "CareerFoundry is the online school for your career change into tech. We'll take you from beginner to job-ready in as little as 5 months, and help you build a career you love.\n\nWith mentorship from active industry experts, the flexibility to fit your studies around your schedule, and 1:1 career coaching, our programs provide everything you need to make the change into tech.\n\nFollow in the footsteps of 5,000 graduates and set out on your journey to a rewarding career in tech today.",
+    "industry": "E-Learning Providers",
+    "website": "https://bit.ly/CareerFoundry_LinkedIn",
+    "linkedInUrl": "https://www.linkedin.com/company/careerfoundry",
+    "employeeCount": 367,
+    "foundedYear": 2013,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Careers",
+      "Web Development course",
+      "User Experience Design course",
+      "Mentors",
+      "Online education",
+      "freelancing",
+      "Objective Based Education",
+      "Job ready programs",
+      "UX Design",
+      "UI Design",
+      "Tech Careers",
+      "Ruby on Rails",
+      "Swift"
+    ]
+  }
+}

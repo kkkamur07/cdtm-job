@@ -1,0 +1,203 @@
+{
+  "id": "christoph-clement",
+  "name": "Christoph Clement",
+  "headline": "ML Engineer in AI Drug Discovery | PhD Biomedical Engineering | Applied AI Systems for Scientific & Clinical Workflows | CDTM",
+  "avatar": {
+    "sm": "/avatars/christoph-clement-sm.webp",
+    "lg": "/avatars/christoph-clement.webp",
+    "blur": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAACwBQCdASogACAAPsVOo0unpCOhsAwA8BiJYgAFEB7uu/e/EfRQUixXe5ddXFOaNX88UuZkJcAA/v14/ZhvgB+Zlm6jv/k1C3QMHyrYclTvJvKW3BQzHyXwlp0/cDOHhvs0eg8gv/mxZ/FEbYCssLwFf1dwlFxB4ldCpC1j2b1W5kO1GOXkyWmKq8h9QiL+XYjlzpOdgZp7jTpqlvlO124jwqI3U7k0s7A64h5XfkO8oBFNCFXZfvepEkrMZl+5Y2yAgU0sKsbXwYdlV5+M2MVXpYtNm1EkIgAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christoph-clement",
+  "personId": 1026,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christoph Clement",
+  "ca": null,
+  "summary": "I am a Machine Learning Engineer at Khumbu, an AI drug discovery startup in Munich, where I build and scale applied AI systems for small-molecule drug discovery, with an initial focus on diabetes.\nI recently completed a Ph.D. in Biomedical Engineering at the University of Bern, focused on biomedical AI and medical imaging applications in nuclear medicine, and spent time as a visiting researcher at Harvard Medical School working on PET/CT foundation models.\nI am especially interested in building AI systems that are technically strong, scientifically grounded, and useful in practice. Alongside my research and engineering work, I bring experience in customer-facing data science from Celonis, interdisciplinary product thinking from CDTM, and practical machine-learning experimentation through Kaggle.",
+  "positions": [
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Khumbu",
+      "companyUrl": "https://www.linkedin.com/company/khumbuai",
+      "description": "Building and scaling applied AI systems for drug discovery, spanning binding-affinity prediction, protein modeling, and the engineering infrastructure behind applied research workflows.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Researcher at Center for Advanced Medical Computing and Analysis (CAMCA)",
+      "company": "Harvard Medical School and Massachusetts General Hospital",
+      "companyUrl": "https://www.linkedin.com/company/harvard-medical-school-massachusetts-general-hospital",
+      "description": "Worked on PET/CT foundation models at the Center for Advanced Medical Computing and Analysis under the supervision of Dr. Quanzheng Li, extending my Ph.D. research in medical imaging toward clinically relevant multimodal AI systems.",
+      "location": "Boston, Massachusetts, United States",
+      "start": "2024-07",
+      "end": "2024-11",
+      "dateRange": "Jul 2024 – Nov 2024",
+      "current": false
+    },
+    {
+      "title": "Research Assistant at Visual Computing Group",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Built a browser-based deepfake detector in collaboration with the AI Foundation, using PyTorch for model development and evaluation.\nSupported continuous integration, model training workflows, and deployment-oriented engineering for the project.",
+      "location": "Garching, Bavaria, Germany",
+      "start": "2019-10",
+      "end": "2020-03",
+      "dateRange": "Oct 2019 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Data Scientist Trainer",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "Delivered hands-on data science and process-mining workshops for enterprise customers across Europe.\nTranslated technical concepts into practical workflows for business and technical stakeholders.",
+      "location": null,
+      "start": "2018-10",
+      "end": "2019-07",
+      "dateRange": "Oct 2018 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Junior Data Scientist",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "Implemented process-mining software and customer-specific analyses in an enterprise setting.\nExtracted, transformed, and analyzed process data using SQL and SAP HANA.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-08",
+      "end": "2018-09",
+      "dateRange": "Aug 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Werksstudent Test and Data Engineer",
+      "company": "tacterion",
+      "companyUrl": "https://www.linkedin.com/company/tacterion",
+      "description": "Planned, built, and programmed automated test rigs and data-sheet generation workflows using C++ and Python.\nSupported ISO 9001:2015 preparation and implementation.\nDeveloped TensorFlow-based gesture-recognition prototypes for sensor data.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-01",
+      "end": "2018-07",
+      "dateRange": "Jan 2017 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "Werkstudent",
+      "company": "Blue Ocean Robotics",
+      "companyUrl": "https://www.linkedin.com/company/blue-ocean-robotics",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-10",
+      "end": "2016-12",
+      "dateRange": "Oct 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Werkstudent Test Engineering",
+      "company": "Cypress Semiconductor Corporation",
+      "companyUrl": "https://www.linkedin.com/company/cypress-semiconductor",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-08",
+      "end": "2016-09",
+      "dateRange": "Aug 2014 – Sep 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Bern",
+      "degree": "Doctor of Philosophy, Biomedical/Medical Engineering",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "University of Bern",
+      "degree": "Master‘s Thesis, Robotics, Cognition, Intelligence",
+      "dateRange": "2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Robotics, Cognition, Intelligence",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Stiftung Bayerische EliteAkademie (BEA)",
+      "degree": null,
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Engineering Science",
+      "dateRange": "2014 – 2018"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Anaconda",
+    "Microsoft Office",
+    "C",
+    "Java",
+    "Matlab",
+    "AutoCAD",
+    "Autodesk Inventor",
+    "CATIA",
+    "Qualitätssicherung",
+    "Organisationsführung",
+    "SolidWorks",
+    "3D-Drucker",
+    "PyTorch",
+    "Keras",
+    "SQL",
+    "C++",
+    "Computer-Vision",
+    "Künstliche Intelligenz",
+    "Maschinelles Lernen",
+    "Programmierung"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "Khumbu",
+    "tagline": "Building the World Model for Molecular Biology.",
+    "description": "Khumbu is building the World Model for Molecular Biology. A fundamentally new AI, grounded in physics, that understands and simulates the molecular world. To transform how humanity discovers medicine.\n\nAlmost every drug discovery project ultimately fails in humans. Not because of bad science, but because we lack a proper model of what truly happens in biological systems.\n\nOur AI learns the rules of the molecular world from first principles. Grounded in quantum mechanics and electromagnetism, it spans from atoms to proteins to biological systems. It generalizes where other approaches cannot, because the laws of physics are universal.  \n\nAnd it already delivers real impact today.",
+    "industry": "Biotechnology Research",
+    "website": "http://www.khumbu.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/khumbuai",
+    "employeeCount": 4,
+    "foundedYear": 2021,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Deep Learning",
+      "Artificial Intelligence",
+      "Biotech",
+      "Drug discovery",
+      "World Models"
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": "michael-schachtner-28104639",
+  "name": "Michael Schachtner",
+  "headline": "Managing Director & Partner at Boston Consulting Group (BCG)",
+  "avatar": null,
+  "location": "New York, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/michael-schachtner-28104639",
+  "personId": 1626,
+  "classes": [
+    {
+      "id": 52,
+      "label": "Fall 2002",
+      "season": "Fall",
+      "year": 2002,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2002",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Michael Schachtner",
+  "ca": null,
+  "summary": "With over a decade and a half at Boston Consulting Group (BCG), my journey has centered around steering financial services and insurance clients through the intricacies of digital and operating model transformation, with a keen focus on GenAI/Tech modernization and fostering new ways of working. At BCG, I'm leading our pioneering Build-Operate-Transfer model in North America, enabling our clients for sustained innovation.\n\nAs the Global Lead of BCG's Pride network, I've been elevating our DE&I efforts and representing BCG at the PGLE initiative of the UN Office of the High Commissioner for Human Rights and the World Economic Forum. Our efforts extend beyond the workplace, shaping thought leadership with our research and championing the intersection of diversity and technology.",
+  "positions": [
+    {
+      "title": "Managing Director & Partner",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "Michael serves clients in the Financial Services and Insurance industry on Digital Transformation topics, specifically Technology modernization, New Ways of Working and Tech Talent.  He is leading the Build-Operate-Transfer capabilities in North America.  \n\nHe is the Global Lead of BCG's Pride (LGBTQ+) network and represents BCG in the Steering Committee of PGLE, an initiative of the UN Office of the High Commissioner for Human Rights, and the World Economic Forum. \n\nMichael worked in BCG's Zurich and Amsterdam offices before moving to New York.  Prior to joining BCG, he worked for a Multi Family Office and was the Executive Editor of \"Electronic Markets\", a research journal, during his PhD studies.",
+      "location": "New York",
+      "start": "2009-01",
+      "end": null,
+      "dateRange": "Jan 2009 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate Family Office",
+      "company": "Peters, Schönberger & Partner",
+      "companyUrl": "https://www.linkedin.com/company/pspmuenchen",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2005-04",
+      "end": "2008-04",
+      "dateRange": "Apr 2005 – Apr 2008",
+      "current": false
+    },
+    {
+      "title": "Scientific Researcher",
+      "company": "University of St. Gallen - HSG",
+      "companyUrl": "https://www.linkedin.com/company/university-of-st-gallen",
+      "description": "Switzerland",
+      "location": null,
+      "start": "2004-04",
+      "end": "2005-03",
+      "dateRange": "Apr 2004 – Mar 2005",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University Graduate School of Business",
+      "degree": "LGBTQ Executive Leadership Program",
+      "dateRange": "2019"
+    },
+    {
+      "school": "University of St.Gallen",
+      "degree": "Doctor of Philosophy - PhD, Accounting and Finance",
+      "dateRange": "2005 – 2008"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2002 – 2004"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting research scholar",
+      "dateRange": "2003"
+    },
+    {
+      "school": "Catholic University of Eichstätt-Ingolstadt",
+      "degree": "Business and Economics",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Management Consulting",
+    "Strategy",
+    "Acquisition Integration",
+    "Due Diligence",
+    "Mergers & Acquisitions",
+    "Private Equity",
+    "Corporate Finance",
+    "Restructuring",
+    "Business Transformation",
+    "Corporate Development",
+    "Strategic Consulting",
+    "Organizational Design",
+    "Project Management",
+    "Business Strategy",
+    "Financial Modeling",
+    "Information Technology",
+    "Insurance",
+    "Banking",
+    "Transformation",
+    "Agile"
+  ],
+  "languages": [
+    "Dutch",
+    "English",
+    "French",
+    "German"
+  ],
+  "company": {
+    "name": "Boston Consulting Group (BCG)",
+    "tagline": null,
+    "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.\n \nOur diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. \n\nWe work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.\n\nBCG Privacy Policy: https://www.bcg.com/about/privacy-policy.aspx",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bcg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/boston-consulting-group",
+    "employeeCount": 41217,
+    "foundedYear": 1963,
+    "location": "Boston, United States",
+    "specialities": [
+      "Consumer insight",
+      "corporate development",
+      "corporate finance",
+      "digital economy",
+      "globalization",
+      "growth",
+      "information technology",
+      "innovation",
+      "marketing & sales",
+      "operations",
+      "people & organization",
+      "postmerger integration",
+      "risk management",
+      "strategy",
+      "sustainability",
+      "transformation",
+      "climate",
+      "artificial intelligence",
+      "cost transformation",
+      "supply chains"
+    ]
+  }
+}

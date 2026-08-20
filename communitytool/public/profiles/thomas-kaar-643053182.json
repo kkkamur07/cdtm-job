@@ -1,0 +1,264 @@
+{
+  "id": "thomas-kaar-643053182",
+  "name": "Thomas Kaar",
+  "headline": "ETH | CDTM | TUM | Stanford | Cambridge | Ex-Meta",
+  "avatar": {
+    "sm": "/avatars/thomas-kaar-643053182-sm.webp",
+    "lg": "/avatars/thomas-kaar-643053182.webp",
+    "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAADQBQCdASogACAAPr1SnkunJSKht/qoAOAXiUAYObF55VeBZS+fE2kEVJx9CfApP7MoLl5OkGgAAP78FRO2hhW6AOC8/9w+xj+bM03nV4rw1+kKwplFtijiibtfOcsS5L3hobLGLXpz/gLonQIiOFNA7Xl70OjLbaAARj1U10+pfEcxKgicFNScqbntR1e4hY3Q0SmQhW/Ww6iaFojW+lTnlJp5RcKsHCXY0jbn+uj3QuMnbswycY7TTmXOxLSY6B7SFrhjOx7NoxCAukyJnzjnlm2PpF++b3ZT8cmJ7JiIa1dRdDwAAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/thomas-kaar-643053182",
+  "personId": 1291,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Thomas Kaar",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "AI Researcher",
+      "company": "ETH Agentic Systems Lab",
+      "companyUrl": "https://www.linkedin.com/company/agentic-systems-lab",
+      "description": "Time Series Language Models (TSLMs)",
+      "location": null,
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "Catalysts",
+      "companyUrl": null,
+      "description": "Linz",
+      "location": null,
+      "start": "2019-07",
+      "end": null,
+      "dateRange": "Jul 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "Catalysts",
+      "companyUrl": null,
+      "description": "Linz",
+      "location": null,
+      "start": "2018-07",
+      "end": null,
+      "dateRange": "Jul 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "Catalysts",
+      "companyUrl": null,
+      "description": "Linz",
+      "location": null,
+      "start": "2017-07",
+      "end": null,
+      "dateRange": "Jul 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Student",
+      "company": "University of Cambridge",
+      "companyUrl": "https://www.linkedin.com/company/university-of-cambridge",
+      "description": null,
+      "location": null,
+      "start": "2025-06",
+      "end": "2025-08",
+      "dateRange": "Jun 2025 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Visiting Student Researcher",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": null,
+      "location": "Stanford, California, United States",
+      "start": "2025-03",
+      "end": "2025-05",
+      "dateRange": "Mar 2025 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": null,
+      "location": null,
+      "start": "2024-10",
+      "end": "2025-01",
+      "dateRange": "Oct 2024 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Meta",
+      "companyUrl": "https://www.linkedin.com/company/meta",
+      "description": null,
+      "location": null,
+      "start": "2022-04",
+      "end": "2024-02",
+      "dateRange": "Apr 2022 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Teamlead IT",
+      "company": "Academy Consult München",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": null,
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-04",
+      "dateRange": "Oct 2021 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Backend Software Engineer",
+      "company": "Presize",
+      "companyUrl": "https://www.linkedin.com/company/presizeai",
+      "description": "Presize has joined Meta in April 2022. Presize was a VC-backed AI startup with 50 employees, >1m users, 50 B2B customers, grew from 0 to 6-digit MRR in one year. \n\nProduct: The most accurate body measurements from one turn in front of a smartphone and/or body shape questions. Size recommendations for Fashion eCommerce people trust (higher conversion) & keep (less returns & CO2).",
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-04",
+      "dateRange": "Oct 2021 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Academy Consult München",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": "Munich",
+      "location": null,
+      "start": "2021-05",
+      "end": "2022-04",
+      "dateRange": "May 2021 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Software Developer Self-Employed",
+      "company": "Selbstständig",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2020-05",
+      "end": "2020-12",
+      "dateRange": "May 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Zivildiener",
+      "company": "SZL SENIORENZENTREN LINZ GMBH",
+      "companyUrl": "https://www.linkedin.com/company/szl-seniorenzentren-linz-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-05",
+      "dateRange": "Apr 2020 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Community Service",
+      "company": "Jugendzentrumsfoerderungsverein",
+      "companyUrl": null,
+      "description": "Linz",
+      "location": null,
+      "start": "2019-09",
+      "end": "2020-03",
+      "dateRange": "Sep 2019 – Mar 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Managment and Technology",
+      "dateRange": "2020 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Computer Science/Informatics",
+      "dateRange": "2020 – 2025"
+    },
+    {
+      "school": "HTBLA Leonding",
+      "degree": "School-leaving, Computer Science/Informatics",
+      "dateRange": "2014 – 2019"
+    }
+  ],
+  "skills": [
+    "Teamgeist",
+    "Präsentationsfertigkeiten",
+    "Handel",
+    "Web-Entwicklung",
+    "Maschinelles Lernen",
+    "Künstliche Intelligenz",
+    "Microsoft Office",
+    "Vue.js",
+    "Visual Studio",
+    "C#",
+    "Java",
+    "C++",
+    "Keras",
+    "Tensorflow",
+    "NativeScript",
+    "Präsentationen",
+    "Computerlinguistik",
+    "Back-End-Webentwicklung",
+    "LaTeX",
+    "WordPress"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Agentic Systems Lab | ETH Zurich",
+    "tagline": "We Enable the Next Generation of AI Talent at ETH Zurich.",
+    "description": "The Agentic Systems Lab at ETH Zürich was established in July 2025 to design, develop, and evaluate agentic AI systems in real-world environments. \n\nWe are committed to supporting ambitious, high-agency students by connecting them with a network of like-minded builders. Our lab provides hands-on guidance, access to industry partners, domain expertise from researchers, and support for real-world validation.",
+    "industry": "Software Development",
+    "website": "https://agenticsystems.ethz.ch/",
+    "linkedInUrl": "https://www.linkedin.com/company/agentic-systems-lab",
+    "employeeCount": 27,
+    "foundedYear": 2025,
+    "location": "Zurich, Switzerland",
+    "specialities": [
+      "Artificial Intelligence (AI)",
+      "Agentic AI",
+      "ETH Zurich",
+      "Agentic Systems",
+      "Multi-Agent Systems",
+      "Reinforcement Learning (RL)",
+      "Large Language Models (LLMs)",
+      "Human-AI Interaction",
+      "Decision-Making Systems",
+      "AI Research",
+      "AI in Insurance",
+      "AI in Healthcare",
+      "AI in Education",
+      "AI in Research",
+      "AI Startups"
+    ]
+  }
+}

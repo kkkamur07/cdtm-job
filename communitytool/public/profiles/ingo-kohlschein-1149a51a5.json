@@ -1,0 +1,72 @@
+{
+  "id": "ingo-kohlschein-1149a51a5",
+  "name": "Ingo Kohlschein",
+  "headline": "Schreibt die Science-Fiction-Trilogie Mater Terra",
+  "avatar": null,
+  "location": "Hamburg, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/ingo-kohlschein-1149a51a5",
+  "personId": 1706,
+  "classes": [
+    {
+      "id": 100,
+      "label": "Fall 2000",
+      "season": "Fall",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2000",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Ingo Kohlschein",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Autor",
+      "company": "Selbstständig",
+      "companyUrl": null,
+      "description": null,
+      "location": "Hamburg, Germany",
+      "start": "2023-06",
+      "end": null,
+      "dateRange": "Jun 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Immobilienmakler",
+      "company": "Hamburger Immobilien - Inhaber Dr. Ingo Kohlschein",
+      "companyUrl": null,
+      "description": null,
+      "location": "Hamburg, Germany",
+      "start": "2019-10",
+      "end": null,
+      "dateRange": "Oct 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Vom Assistent zum Konzerngeschäftsführer",
+      "company": "Ganske Verlagsgruppe GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2007-08",
+      "end": "2019-10",
+      "dateRange": "Aug 2007 – Oct 2019",
+      "current": false
+    }
+  ],
+  "schools": [],
+  "skills": [
+    "Schreiben"
+  ],
+  "languages": [],
+  "company": null
+}

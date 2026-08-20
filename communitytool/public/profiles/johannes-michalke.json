@@ -1,0 +1,128 @@
+{
+  "id": "johannes-michalke",
+  "name": "Johannes Michalke",
+  "headline": "CS @ TUM | CDTM | Ex-Quant @ Jane Street",
+  "avatar": {
+    "sm": "/avatars/johannes-michalke-sm.webp",
+    "lg": "/avatars/johannes-michalke.webp",
+    "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAACwBQCdASogACAAPtFco00oJSMiMBgIAQAaCWIAyy3cC4CmH/4wSeOf/fGxLV2Gvdf5MvMKIWAA/si1IuUHVEH8rekj891T0vPEezgjBPs4yp/9VheY7A8zcD80pZA/zJI0zmu7ieSMWrftYy7Bvh9ncBxHYmnPePxxxKI5EurCTsGRqfBhU7Dpr10t+teYLt0n7kKFs7MojAAvusXynVzjJU7qbcY6MxoxBmKqN82B/VpHxwO8vCH5yuj0+g2mGlvPZn79iT/ZK/ZyXZioNzbZR1DxKMr0jAtAxxJMn6AAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/johannes-michalke",
+  "personId": 2074,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Johannes Michalke",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Quantitative Trader",
+      "company": "Jane Street",
+      "companyUrl": "https://www.linkedin.com/company/jane-street-global",
+      "description": null,
+      "location": null,
+      "start": "2025-09",
+      "end": "2025-11",
+      "dateRange": "Sep 2025 – Nov 2025",
+      "current": false
+    },
+    {
+      "title": "Quantitative Trading Intern",
+      "company": "Jane Street",
+      "companyUrl": "https://www.linkedin.com/company/jane-street-global",
+      "description": null,
+      "location": null,
+      "start": "2025-07",
+      "end": "2025-09",
+      "dateRange": "Jul 2025 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "TUM",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2023-10",
+      "end": "2024-04",
+      "dateRange": "Oct 2023 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Digital Platform Innovation",
+      "company": "KPMG Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/kpmg-deutschland",
+      "description": null,
+      "location": null,
+      "start": "2022-06",
+      "end": "2022-09",
+      "dateRange": "Jun 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Federal Volunteering Service",
+      "company": "Malteser in Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/malteser",
+      "description": null,
+      "location": null,
+      "start": "2020-09",
+      "end": "2021-05",
+      "dateRange": "Sep 2020 – May 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Informatics",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2025"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Bachelor of Science - BS, Informatics",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Hochschule für Philosophie München",
+      "degree": "Philosophicum, Philosophy",
+      "dateRange": "2023 – 2025"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Jane Street",
+    "tagline": null,
+    "description": "Jane Street is a quantitative trading firm with offices in New York, London, Hong Kong, Singapore, and Amsterdam. We are always recruiting top candidates and we invest heavily in teaching and training. The environment at Jane Street is open, informal, intellectual, and fun. People grow into long careers here because there are always new and interesting problems to solve, systems to build, and theories to test. \n\nMore than twenty years after our founding, it still feels like we’re just getting started.\n\nJane Street does not offer any services to individual investors: https://www.janestreet.com/fraud-and-impersonation-warnings/",
+    "industry": "Financial Services",
+    "website": "http://www.janestreet.com",
+    "linkedInUrl": "https://www.linkedin.com/company/jane-street-global",
+    "employeeCount": 3545,
+    "foundedYear": 2000,
+    "location": "New York, United States",
+    "specialities": []
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "sebastian-serna",
+  "name": "Sebastián Serna",
+  "headline": "RobCo | TUM | CDTM",
+  "avatar": {
+    "sm": "/avatars/sebastian-serna-sm.webp",
+    "lg": "/avatars/sebastian-serna.webp",
+    "blur": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAAAwBgCdASogACAAPsVUoEunpSMht/VYAPAYiWMAtOncC4GZVudV0AcYaaKX7JRLvD+sMUJ8JB5CfGYcAP7+MOPCNf5GiGdtb+u5tzkC4AoUSw/cWEysNIreKHZA6uGaYelTfsSIUU7cuBlBk7xO4LiRi1Yrkp62Ccq+WkdfJiu6xMc7unNLC3elGvwXSknBAGoqTsXD9KiucKUH7RtyVxjxfiJYHT646qWwAu4jo2J2lxpcP0PETnrqx6GCnK3xM7UpT4rowLFN2adAIw2mBgAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sebastian-serna",
+  "personId": 1042,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Business Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sebastian Serna",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Robot Control Engineer",
+      "company": "RobCo",
+      "companyUrl": "https://www.linkedin.com/company/robco-therobotcompany",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Robotics Software Engineer",
+      "company": "Dahlia Robotics",
+      "companyUrl": "https://www.linkedin.com/company/dahliarobotics",
+      "description": null,
+      "location": "Munich",
+      "start": "2023-03",
+      "end": "2023-09",
+      "dateRange": "Mar 2023 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-06",
+      "end": "2022-12",
+      "dateRange": "Jun 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "International Manager",
+      "company": "Techdalo",
+      "companyUrl": "https://www.linkedin.com/company/techdalo-germany-columbia",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-11",
+      "end": "2022-03",
+      "dateRange": "Nov 2020 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "e.solutions GmbH",
+      "companyUrl": "https://www.linkedin.com/company/e-solutions-gmbh",
+      "description": null,
+      "location": "Erlangen, Bavaria, Germany",
+      "start": "2018-07",
+      "end": "2019-09",
+      "dateRange": "Jul 2018 – Sep 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - M.Sc., Robotics, Cognition, Intelligence",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science -  B.Sc Wirtschaftsinformatik",
+      "dateRange": "2019 – 2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "FAU Erlangen-Nürnberg",
+      "degree": "Bachelor of Science - BS, Informatics",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Universidad del Norte",
+      "degree": "Double Degree (B.Eng. Computer Science and B.Eng. Electronics) , Informatics",
+      "dateRange": "2017 – 2018"
+    }
+  ],
+  "skills": [
+    "Arduino",
+    "Robot Operating System (ROS)",
+    "Software Development",
+    "C++",
+    "Java",
+    "Software Testing",
+    "Software Documentation",
+    "Microsoft Excel",
+    "Git",
+    "Microsoft Visual Studio C++",
+    "Qt",
+    "Qt Creator",
+    "Bitbucket",
+    "Python (Programming Language)",
+    "Agile Project Management",
+    "Entrepreneurship"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "RobCo",
+    "tagline": "RobCo’s vision is to automate the ordinary, so humans can do the extraordinary",
+    "description": "RobCo's mission is to automate the ordinary, so humans can do the extraodinary. \n\nFounded in 2020 out of the Technical University of Munich, RobCo is on a mission to make industrial automation more accessible, affordable, and adaptable. Its patented modular hardware kit, combined with the RobCo Studio no-code software platform, allows industrial companies of all sizes to automate repetitive and dangerous tasks quickly and with unmatched flexibility. Whether it’s machine tending, palletizing, dispensing, or welding, RobCo’s modular robot kits provide versatile end-to-end solutions that are simple to deploy and manage remotely — without heavy upfront investment or specialist expertise. With offices in Munich and San Francisco and robots already in operation worldwide, RobCo is supercharging a new generation of industrial companies to reduce costs, boost productivity, and compete on a global stage.\n\nRobCo’s modular robot kits provide versatile end-to-end solutions that are simple to deploy and manage remotely — without heavy upfront investment or specialist expertise. With offices in Munich and San Francisco and robots already in operation worldwide, RobCo is supercharging a new generation of industrial companies to reduce costs, boost productivity, and compete on a global stage.",
+    "industry": "Technology, Information and Internet",
+    "website": "http://www.rob.co",
+    "linkedInUrl": "https://www.linkedin.com/company/robco-therobotcompany",
+    "employeeCount": 191,
+    "foundedYear": 2020,
+    "location": "München, Germany",
+    "specialities": [
+      "Robotics",
+      "Automation"
+    ]
+  }
+}

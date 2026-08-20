@@ -1,0 +1,273 @@
+{
+  "id": "cyrinechaabani",
+  "name": "Cyrine Chaabani",
+  "headline": "Building Industrial Foundation Models | Impact Lead @YAIL (UN-ITU) | Global Shaper @WEF | CDTM | TUM | X-Microsoft",
+  "avatar": {
+    "sm": "/avatars/cyrinechaabani-sm.webp",
+    "lg": "/avatars/cyrinechaabani.webp",
+    "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAADwBQCdASogACAAPtFSo0woJKMiMBgMAQAaCWYAuyEEoMBW/frHJaXpviCTdfHRmYxle54tVyu4AAD++hcYDqix5adS+P0XAVb5+5kVjJ4ERJmy4PfxxScJdP9xeAe9IskU+JV9uN03fafzhB02AIqHcbvEWVrKSZC3JVYHvg7g2UAh4sKt8D8SWUO3otDX7BdvAb57hRTcSuMVYO0ZnrNb2J7EDpVYMmq0gFtu/kH6Dcw5zJrFCGfeC763vBYyQPr27gJiDV4b+ncQNKvqWSvrGVOYlJdlrHgG/3AQH5a9U2RauZM7ZBzPsE0x6Yn4SgAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/cyrinechaabani",
+  "personId": 725,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student",
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Cyrine Chaabani",
+  "ca": {
+    "alumni": true,
+    "about": "Cyrine Chaabani studied Electrical engineering (B.Sc.) and Robotics, Cognition, Intelligence (M.Sc.) both at the Technical University of Munich. Alongside her studies, Cyrine worked in both Data Science/Business Intelligence and Computer Vision/Natural Language Processing fields. Furthermore, she was part of the research team at Microsoft for two years, where she worked on improving the Speech-to-text and Text-to-Speech models used for German and its dialects. Parallel to her studies, Cyrine spends part of her free time working with the Global Shapers on projects in the climate and mental health areas in collaboration with the TUM Think Tank and volunteering with the local Leo Club in Munich. In Fall 2022, Cyrine joined CDTM as a student, and in August 2023 she became part of the CA team.\n\nCyrine is currently responsible for MPD and Innolabs. She has not yet settled on a PhD topic, but is investigating AI explainability, fairness and accountability.",
+    "responsibilities": [],
+    "researchFields": [],
+    "email": null
+  },
+  "summary": "I am an AI Engineer specializing in the intersection of AI Foundation Models and Complex Dynamic Systems.\n\nMy work is centered on developing a new generation of Generalizable Decision Models that move beyond static prediction. I focus on building world models and structured representations that enable autonomous agents to reason, plan, and act effectively in multi-scale, high-stakes environments.\n\nAs a founder and CTO, I have deployed agentic workflows and adaptive optimization models in the energy and finance sectors. My background spans Product Management and Innovation at CDTM and AI research and development at Microsoft and BMW. \n\nI am driven by a commitment to building AI that is not only high-performing but also explainable and robust in the face of real-world complexity.",
+  "positions": [
+    {
+      "title": "AI Scientist for Large Industrial Models",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Technical AI Consultant",
+      "company": "TRUSTEQ GmbH",
+      "companyUrl": "https://www.linkedin.com/company/trusteq-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-02",
+      "end": "2025-06",
+      "dateRange": "Feb 2025 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Technical AI Product Manager",
+      "company": "Xaver",
+      "companyUrl": "https://www.linkedin.com/company/xavergroup",
+      "description": null,
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "start": "2024-06",
+      "end": "2025-01",
+      "dateRange": "Jun 2024 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Founding AI Engineer",
+      "company": "Xaver",
+      "companyUrl": "https://www.linkedin.com/company/xavergroup",
+      "description": null,
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "start": "2024-03",
+      "end": "2024-06",
+      "dateRange": "Mar 2024 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Co-founder and CTO",
+      "company": "Wattzo",
+      "companyUrl": "https://www.linkedin.com/company/wattzo",
+      "description": "https://wattzo.org/",
+      "location": null,
+      "start": "2023-11",
+      "end": "2026-03",
+      "dateRange": "Nov 2023 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "AI Researcher and CDTM Management Team",
+      "company": "Center for Digital Technology and Management",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-08",
+      "end": "2024-03",
+      "dateRange": "Aug 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Applied Scientist in AI and Cognition (Speech and Computer Vision)",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2023-07",
+      "dateRange": "Oct 2021 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "AI research Intern",
+      "company": "idealworks",
+      "companyUrl": "https://www.linkedin.com/company/idealworks-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2021-07",
+      "dateRange": "Apr 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Computer Vision and Machine Learning Specialist",
+      "company": "Motius",
+      "companyUrl": "https://www.linkedin.com/company/motius-gmbh",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-11",
+      "end": "2021-04",
+      "dateRange": "Nov 2019 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis & Internship | Innovation & Industry 4.0 - Robotics and AI",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-03",
+      "end": "2019-11",
+      "dateRange": "Mar 2019 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Data Scientist",
+      "company": "E.ON",
+      "companyUrl": "https://www.linkedin.com/company/e-on",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-10",
+      "end": "2019-03",
+      "dateRange": "Oct 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Internship at the Chair for Signal Processing",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Chair for Signal Processing",
+      "start": "2018-08",
+      "end": "2018-10",
+      "dateRange": "Aug 2018 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Teaching assistant for Computer systems and programming in C",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Chair for Data processing",
+      "start": "2018-04",
+      "end": "2018-08",
+      "dateRange": "Apr 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Teaching assistant for Mathematics",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Faculty of Mathematics",
+      "start": "2017-09",
+      "end": "2017-10",
+      "dateRange": "Sep 2017 – Oct 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor's Degree, Technology Management",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Robotics, Cognition, Intelligence",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Electrical Engineering and Information Technology",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Heidelberg University",
+      "degree": "DSH 3, German",
+      "dateRange": "2015 – 2016"
+    }
+  ],
+  "skills": [
+    "Climate Change Adaptation",
+    "Climate Change Mitigation",
+    "Machine learning research",
+    "Start-up Ventures",
+    "Product Development",
+    "Agile Project Management",
+    "Generative AI",
+    "Cybersecurity",
+    "Python",
+    "C++",
+    "R",
+    "Java",
+    "C",
+    "Matlab",
+    "Google Analytics",
+    "Google Tag Manager",
+    "SQL",
+    "Google API",
+    "Linux"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "company": {
+    "name": "BMW Group",
+    "tagline": "We make individual mobility more human, more intelligent and more responsible.",
+    "description": "With its four brands, BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world’s leading premium manufacturer of automobiles and motorcycles and also provides premium financial services. The BMW Group production network comprises over 30 production sites worldwide; the company has a global sales network in more than 140 countries.\n\nIn 2025, the BMW Group sold 2.46 million passenger vehicles and more than 202,500 motorcycles worldwide. The profit before tax in the financial year 2025 was € 10.2 billion on revenues amounting to € 133,5 billion. As of 31 December 2025, the BMW Group had a workforce of 154,540 employees.\n\nThe economic success of the BMW Group has always been based on long-term thinking and respon-sible action. Sustainability is a key element of the BMW Group’s corporate strategy and covers all products – from the supply chain through production to the end of their useful life.",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://www.bmwgroup.com/en/general/imprint.html",
+    "linkedInUrl": "https://www.linkedin.com/company/bmw-group",
+    "employeeCount": 65541,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Automotive",
+      "Information Technology",
+      "Data Science",
+      "Software Development",
+      "Artificial Intelligence",
+      "Data Security",
+      "Motorcycles",
+      "Financial Services",
+      "Mobility Services",
+      "Digital Services",
+      "IoT",
+      "Future of Mobilty",
+      "Autonomous Driving",
+      "Connectivity",
+      "Sheer Driving Pleasure"
+    ]
+  }
+}

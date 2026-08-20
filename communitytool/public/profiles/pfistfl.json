@@ -1,0 +1,183 @@
+{
+  "id": "pfistfl",
+  "name": "Florian Pfisterer",
+  "headline": "Improving medical diagnostics in hemato-oncology with machine learning.\nAI Researcher | AI/ML Engineer | PhD Statistics@LMU",
+  "avatar": null,
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/pfistfl",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "I’m a senior Machine Learning & AI Lead working and innovating at the intersection of data science, automation, and clinical diagnostics. \nI currently lead a team of senior AI engineers and co-design the AI roadmap focused on blood cancer diagnostics. Before that, I worked on building AI solutions that help flow cytometry experts to come to faster and more accurate diagnoses. \n\nWith a strong foundation in ML, statistics, and software engineering, I design and scale end-to-end AI systems - from clinical-grade data pipelines, leveraging the latest trends in AI research to solve clinical problems and GenAI empowered data enrichment and automation workflows.\nMy work helps make internal clinical data ingestion more fluid, supports faster diagnostic decision-making, and contributes to regulatory and IVDR-aligned AI product development.\n\nI’m particularly interested in:\n- Building robust ML/LLM pipelines aligned with business and clinical KPIs\n- Creating tools and infrastructure that accelerate productisation and learning cycles\n- Integrating AI development with MLOps, \n\nIn the past, I have worked in a variety of roles, some examples include: \n- In my current job, I wrangle data, think about, design and build machine learning pipelines that support diagnosticians with blood cancer diagnosis.\n- As a researcher, I led and executed several research projects in AutoML, Algorithmic Fairness, and Domain Generalisation, leading to new insights for practitioners in the field of ML.\n- As a freelancer, I taught courses on programming, data science and machine learning/deep learning at large companies in Germany and consulted on projects in the data science / AI realm.\n- I am a core developer of several machine learning software packages, mostly in R and Python.\n\nExcited about opportunities where I get to turn data into products and actionable insights.",
+  "positions": [
+    {
+      "title": "Team Lead AI",
+      "company": "hema.to GmbH",
+      "companyUrl": "https://www.linkedin.com/company/hemato",
+      "description": "Team Lead AI (09/2024 - now)\n - Working with a team of engineers, focusing on timely delivery of high-quality and compliant AI solutions (IVDR and ISO 13485).\n\nSenior Data & Applied Scientist (05/2023 - 08/2024)\n- Developed AI-based solutions for complex problems in hemato-oncology.\n- Responsible for delivering end-to-end product features from data acquisition to validated, tested and deployed ML services.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-05",
+      "end": null,
+      "dateRange": "May 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Freelance Machine Learning Engineer & Data Science Consultant",
+      "company": "Self Employed",
+      "companyUrl": "https://www.linkedin.com/company/self-employed122",
+      "description": "I consult for Data Science and Machine Learning projects and teach courses for industry professionals in Data Science & ML.\n\nMy expertise is in data projects ranging from data pipelines to machine learning consulting (tabular, vision, GenAI).\nAs a workshop leader, I teach classes in statistics, data science and artificial intelligence for clients from industry, the public sector and NGO's.",
+      "location": null,
+      "start": "2018-04",
+      "end": null,
+      "dateRange": "Apr 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Graduate Research Intern",
+      "company": "Roche",
+      "companyUrl": "https://www.linkedin.com/company/roche",
+      "description": "Investigated and developed models for Domain Generalization in medical survival analysis setting (PyTorch, R, Python)",
+      "location": "Basel, Switzerland",
+      "start": "2021-05",
+      "end": "2021-08",
+      "dateRange": "May 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Research assistant, obtained a  Ph.D (Dr. rer.nat.)  at the chair for Statistical Learning and Data Science.\n- Research in AutoML, single- and multi-objective optimization, and algorithmic fairness.\n- Coordinator, SCRUM master, and technical mentor for data science and software engineering projects in the 'Innovation Lab Big Data Science'.",
+      "location": "Munich",
+      "start": "2018-04",
+      "end": "2022-12",
+      "dateRange": "Apr 2018 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Alpha",
+      "companyUrl": "https://www.linkedin.com/company/telefonica-innovacion-alpha",
+      "description": "Research and development in human-computer interaction and psychology to design, develop and validate new app features based on smartphone sensor data (NoSQL, Python).",
+      "location": "Barcelona, Catalonia, Spain",
+      "start": "2017-11",
+      "end": "2018-03",
+      "dateRange": "Nov 2017 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Master Thesis Student",
+      "company": "Bosch",
+      "companyUrl": "https://www.linkedin.com/company/bosch",
+      "description": "Master's Thesis on Anomaly Detection for Time-Series Data (R, C++)",
+      "location": "Stuttgart Region",
+      "start": "2017-03",
+      "end": "2017-08",
+      "dateRange": "Mar 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Telefónica Germany",
+      "companyUrl": "https://www.linkedin.com/company/telefonica-germany",
+      "description": "Textmining, Analytics, Statistical Models, CRM - Datawarehousing",
+      "location": "München",
+      "start": "2015-04",
+      "end": "2017-02",
+      "dateRange": "Apr 2015 – Feb 2017",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Dotplot",
+      "companyUrl": "https://www.linkedin.com/company/prodik-dotplot",
+      "description": "I developed tooling and visual user interfaces  for statistical modeling and statistical analysis (R,JavaScript)",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2014-02",
+      "end": "2015-02",
+      "dateRange": "Feb 2014 – Feb 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Dr. rer.nat. - PhD, Statistics",
+      "dateRange": "2018 – 2022"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master, Statistics",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Universitat Politècnica de Catalunya",
+      "degree": "Exchange, MATHEMATICS AND STATISTICS",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor, Statistics",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Universidad Complutense de Madrid",
+      "degree": "ERASMUS Exchange, Mathematics",
+      "dateRange": "2014 – 2015"
+    }
+  ],
+  "skills": [
+    "Application Programming Interfaces (API)",
+    "Large Language Models (LLM)",
+    "IVDR",
+    "Algorithms",
+    "Presentations",
+    "Statistical Modeling",
+    "Data Mining",
+    "Data Analytics",
+    "German",
+    "Academic Research",
+    "Spanish",
+    "Neural Networks",
+    "English",
+    "Databases",
+    "Extract, Transform, Load (ETL)",
+    "Database Administration",
+    "Data Pipelines",
+    "Kubernetes",
+    "SQL",
+    "Analytics",
+    "Project Management",
+    "Scrum",
+    "Python (Programming Language)",
+    "Artificial Intelligence (AI)",
+    "Data Science",
+    "R",
+    "Data Analysis",
+    "Machine Learning",
+    "Statistics",
+    "Text Mining"
+  ],
+  "languages": [],
+  "company": {
+    "name": "hema.to GmbH",
+    "tagline": "AI cytometry to advance precision immune medicine",
+    "description": "We are a deeptech AI company obsessed with solving cytometry and thereby make an outsized and lasting impact on immune medicine: we want to make sure every patient gets the right treatment at the right time for their unique immune systems.",
+    "industry": "Software Development",
+    "website": "https://hema.to",
+    "linkedInUrl": "https://www.linkedin.com/company/hemato",
+    "employeeCount": 18,
+    "foundedYear": 2021,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

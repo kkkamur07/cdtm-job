@@ -1,0 +1,245 @@
+{
+  "id": "reneekuo",
+  "name": "Cheng-Ying Kuo",
+  "headline": "HEC Paris | CDTM | TUM | MSc. Management & Innovation",
+  "avatar": {
+    "sm": "/avatars/reneekuo-sm.webp",
+    "lg": "/avatars/reneekuo.webp",
+    "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABwBQCdASogACAAPsFIoEunpCMht/qoAPAYCWMAzFh7XcdBG51B2la5bpqE13fzloFHymkAAP782e5D8IQVcdvbnUS4RoMgCE+d/OarBD+W9XyZ7bDRuqNHE8ZV49f3NzXFJCQVzVQ+xs1pY8PA7zW14noQbLbL2ekaaTRS9l1cefrG0cakXGw0AgosDzgF6ZqhGOJW5mGpKfcmL2aKjqEAG0DUus7WUnY5GxMftlGQzzF4Y/t8fj8AAAA="
+  },
+  "location": "France",
+  "linkedInUrl": "https://www.linkedin.com/in/reneekuo",
+  "personId": 924,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Management and Innovation",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Cheng-Ying (Renee) Kuo",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Producer",
+      "company": "Voodoo",
+      "companyUrl": "https://www.linkedin.com/company/voodoo.io",
+      "description": null,
+      "location": "Paris, Île-de-France, France",
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Ventum Consulting",
+      "company": "Ventum Consulting",
+      "companyUrl": "https://www.linkedin.com/company/ventum-consulting",
+      "description": null,
+      "location": "Beijing, China",
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Operations Project Manager",
+      "company": "Infinite Roots®",
+      "companyUrl": "https://www.linkedin.com/company/infiniteroots",
+      "description": null,
+      "location": null,
+      "start": "2025-03",
+      "end": "2025-08",
+      "dateRange": "Mar 2025 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Supply Chain Project Manager",
+      "company": "Infinite Roots®",
+      "companyUrl": "https://www.linkedin.com/company/infiniteroots",
+      "description": null,
+      "location": "Hamburg",
+      "start": "2024-06",
+      "end": "2025-04",
+      "dateRange": "Jun 2024 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "Project Management Officer",
+      "company": "Infinite Roots®",
+      "companyUrl": "https://www.linkedin.com/company/infiniteroots",
+      "description": "On a mission to change the food system as we know it through managing a technological/operational scale-up",
+      "location": "Hamburg, Germany",
+      "start": "2024-03",
+      "end": "2024-05",
+      "dateRange": "Mar 2024 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Project Student, Digital Innovation",
+      "company": "Siemens Healthineers",
+      "companyUrl": "https://www.linkedin.com/company/siemens-healthineers",
+      "description": "Conceptualized a CEO dashboard that applies systems thinking and future literacy to identify corporate risks and map their relationships.",
+      "location": "Germany",
+      "start": "2023-01",
+      "end": "2023-03",
+      "dateRange": "Jan 2023 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Venture Analyst, Startup Intelligence",
+      "company": "27pilots",
+      "companyUrl": "https://www.linkedin.com/company/27pilots",
+      "description": "Startup discovery and sourcing in the venture-client (start-up as supplier) process. I curated startup short-list, performed due diligence and advised corporate clients on promising startup solutions.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-11",
+      "end": "2023-07",
+      "dateRange": "Nov 2022 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Project Student, Start-up Consulting",
+      "company": "Cliniserve",
+      "companyUrl": "https://www.linkedin.com/company/cliniserve",
+      "description": "Defining go-to-market strategy for a new product\n\nThrough market research (desk research and user interviews) of elderly care market, validated the product-market and delivered promotion/pricing strategy.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-10",
+      "end": "2023-01",
+      "dateRange": "Oct 2022 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Product Cost Engineer (BIW)",
+      "company": "Daimler China",
+      "companyUrl": "https://www.linkedin.com/company/mercedes-benz_ag",
+      "description": "I facilitated efficient parts sourcing in close partnership with the purchasing department, employing cost calculation/analysis and effective supplier negotiations. I supported in manufacturing method and supplier discovery through competitor parts analysis. Furthermore, I collaborated with a global team to establish standardized cost analysis and calculation processes, enhancing our overall operational efficiency.",
+      "location": "Beijing, China",
+      "start": "2019-11",
+      "end": "2021-08",
+      "dateRange": "Nov 2019 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Ventum Consulting",
+      "companyUrl": "https://www.linkedin.com/company/ventum-consulting",
+      "description": "At Ventum Consulting, I was involved in delivering projects on project management and process localization for production planning. Additionally, in collaboration with the German HQ, I built up the internal training program for the China office.",
+      "location": "On-site",
+      "start": "2018-06",
+      "end": "2019-03",
+      "dateRange": "Jun 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Ventum ist Ihr unabhängiger Beratungs- und Dienstleistungspartner und unterstützt Unternehmen und deren IT Organisationen bei der stetigen Verbesserung von Kostenposition, Servicequalität und nachhaltigem Markterfolg.",
+      "company": "Ventum Consulting",
+      "companyUrl": "https://www.linkedin.com/company/ventum-consulting",
+      "description": null,
+      "location": "Beijing, China",
+      "start": "2017-12",
+      "end": "2018-05",
+      "dateRange": "Dec 2017 – May 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "HEC Paris",
+      "degree": "Master in Management (Grand École) | Double Degree with TUM",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management and Innovation",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": "Bachelor’s Degree, Industrial Engineering",
+      "dateRange": "2013 – 2017"
+    },
+    {
+      "school": "Lucerne University of Applied Sciences and Arts",
+      "degree": "Exchange Semester, Business Engineering",
+      "dateRange": "2015 – 2016"
+    }
+  ],
+  "skills": [
+    "Problem Solving",
+    "Product Development",
+    "Storytelling",
+    "Innovation Management",
+    "Startup Development",
+    "Entrepreneurship",
+    "Due Diligence",
+    "Market Research",
+    "Start-up Consulting",
+    "Systems Thinking",
+    "User Interviews",
+    "Cost Engineering",
+    "Collaborative Problem Solving",
+    "Multilingual",
+    "French",
+    "Budget Management",
+    "Stakeholder Management",
+    "Project Management",
+    "Communication",
+    "Analytical Skills",
+    "Data Analysis",
+    "Event Planning",
+    "Agile Project Management",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Teamwork",
+    "Leadership",
+    "Mandarin",
+    "English"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German"
+  ],
+  "company": {
+    "name": "Voodoo",
+    "tagline": "Entertain the world™",
+    "description": "Voodoo is a tech company that creates mobile games and apps. With 7 billion downloads and over 150 million monthly active users, Voodoo is the #3 mobile publisher worldwide in terms of downloads after Google and Meta.\n\nThe company is one of the most impressive examples of hypergrowth in the ecosystem, having raised over $1B and backed by Goldman Sachs, Tencent, and GBL.\n\nVoodoo is now a team of over 750 employees worldwide, we’re looking for talented individuals from across the globe to join.\n\nEntertain the world with us \nvoodoo.io/careers/jobs",
+    "industry": "Entertainment Providers",
+    "website": "https://voodoo.io/",
+    "linkedInUrl": "https://www.linkedin.com/company/voodoo.io",
+    "employeeCount": 984,
+    "foundedYear": 2013,
+    "location": "Paris, France",
+    "specialities": [
+      "Mobile Games",
+      "Consumer Apps",
+      "Publishing",
+      "Game Development",
+      "User Acquisition",
+      "Video Games",
+      "Entertainment",
+      "Social Networks",
+      "Casual Games",
+      "Engineering"
+    ]
+  }
+}

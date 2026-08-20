@@ -1,0 +1,108 @@
+{
+  "id": "anselmbauer",
+  "name": "Anselm Bauer-Wohlleb",
+  "headline": "Founder at Alasco",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/anselmbauer",
+  "personId": 1344,
+  "classes": [
+    {
+      "id": 60,
+      "label": "Fall 2006",
+      "season": "Fall",
+      "year": 2006,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2006",
+  "major": "Media Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Anselm Bauer",
+  "ca": null,
+  "summary": "Alasco enables you to control your construction and real estate projects faster.\nWe digitalize the process in construction planning and execution by offering a cloud based workflow platform.",
+  "positions": [
+    {
+      "title": "Founder",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2018-06",
+      "end": null,
+      "dateRange": "Jun 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Investor",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": "Personio is providing a holistic HR and recruiting software for small and medium sized businesses.",
+      "location": null,
+      "start": "2016-06",
+      "end": null,
+      "dateRange": "Jun 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "CTO / Co-Founder",
+      "company": "Stylight GmbH",
+      "companyUrl": "https://www.linkedin.com/company/stylight",
+      "description": null,
+      "location": null,
+      "start": "2008-11",
+      "end": "2016-06",
+      "dateRange": "Nov 2008 – Jun 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diploma, Media Informatics",
+      "dateRange": "2004 – 2009"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "UI Design & Information Policy",
+      "dateRange": "2008"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2006 – 2008"
+    },
+    {
+      "school": "Universidad Carlos III de Madrid",
+      "degree": "Business Administration",
+      "dateRange": "2007 – 2008"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Alasco",
+    "tagline": null,
+    "description": "Alasco is the financial management platform for real estate companies managing development, retrofit, and tenant improvement projects. Alasco helps real estate companies shift from reactive cost control to strategic financial management and set in place the financial data layer for a solid AI strategy.\n\nWith rapid time-to-value, the Alasco platform unites all stakeholders around a single source of truth, helping them plan, budget, analyse, optimise and execute on their business plans.\n\nThe platform is used by over 350 real estate players across Europe who collectively manage on Alasco more than €1Tn in project development volume to date. Key customers include: Hines, JLL, LaSalle, Ardian, ECE Gruppe, Alcaro Invest and Patrizia SE.",
+    "industry": "Software Development",
+    "website": "http://www.alasco.com",
+    "linkedInUrl": "https://www.linkedin.com/company/alasco-software",
+    "employeeCount": 134,
+    "foundedYear": 2018,
+    "location": "München, Germany",
+    "specialities": [
+      "Software",
+      "ESG",
+      "CapEx",
+      "Financial controlling",
+      "sustainability"
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "id": "felix-wolf",
+  "name": "Felix Wolf",
+  "headline": "Deeptech VC at Spacewalk",
+  "avatar": {
+    "sm": "/avatars/felix-wolf-sm.webp",
+    "lg": "/avatars/felix-wolf.webp",
+    "blur": "data:image/webp;base64,UklGRiABAABXRUJQVlA4IBQBAAAwBgCdASogACAAPsVUoUunpSMhsAwA8BiJZACdAHx1Gpe7v6qoOdCOxeL2HhHKW4Nt2c5jomkHEvyAAP7p/Tjafxc6NNQVra0hMSxWwuVPN/473lIIkGEwJCT8mKqDjvfq0XruEuy5bru+Zu7vLzlJaZME4/4s2qS8f7f8N7q2K8d5OXulSDg/uNYyGIg2kBrZAOK1AngWt6ziqrq22ayz0B3NodBGRtSQrDANi77CbBuNPytJIx8ptgG8KxFvLDKamGiSXzbadpAJ+sOxNjELFvD9WLqsdWfXAwfS3IamTHN176wDPBWrG4bpc0hdZMvG3EFe31dYlbu02qC8LDgL2Ku0QtMwn34/h2S0WD8vRAcAAAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/felix-wolf",
+  "personId": 807,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Felix Wolf",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "currently on a secret expedition, soon returning to orbit.",
+      "company": "Spacewalk VC",
+      "companyUrl": "https://www.linkedin.com/company/spacewalk-deeptech",
+      "description": "Spacewalk is a dedicated Deeptech VC Fund leveraging Motius R&D to support teams going from 0 to 1 and 1 to ∞",
+      "location": null,
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Venture Partner",
+      "company": "Entrepreneur First",
+      "companyUrl": "https://www.linkedin.com/company/entrepreneurs-first",
+      "description": "EF invests in the world's top technical talent and supports them to build world-class startups in London, Singapore, Berlin, Toronto, Paris and Bangalore.",
+      "location": null,
+      "start": "2021-03",
+      "end": "2023-08",
+      "dateRange": "Mar 2021 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Partner",
+      "company": "Fly Ventures",
+      "companyUrl": "https://www.linkedin.com/company/fly-ventures",
+      "description": "Fly is a specialized VC for technical founders solving hard problems. We invest from day-zero to seed, backing founders from all over Europe.",
+      "location": "Berlin Area, Germany",
+      "start": "2018-06",
+      "end": "2021-05",
+      "dateRange": "Jun 2018 – May 2021",
+      "current": false
+    },
+    {
+      "title": "Customer Success / Growth",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": null,
+      "location": "München",
+      "start": "2017-06",
+      "end": "2017-09",
+      "dateRange": "Jun 2017 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Deeptech Accelerator for Scientists",
+      "company": "Fraunhofer Venture",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-gesellschaft",
+      "description": null,
+      "location": "Munich",
+      "start": "2015-10",
+      "end": "2016-12",
+      "dateRange": "Oct 2015 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Motius GmbH",
+      "companyUrl": "https://www.linkedin.com/company/motius-gmbh",
+      "description": null,
+      "location": "Muscat, Oman",
+      "start": "2015-09",
+      "end": "2015-10",
+      "dateRange": "Sep 2015 – Oct 2015",
+      "current": false
+    },
+    {
+      "title": "Founding Team",
+      "company": "eHealth MediDate GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Berlin",
+      "start": "2014-03",
+      "end": "2015-05",
+      "dateRange": "Mar 2014 – May 2015",
+      "current": false
+    },
+    {
+      "title": "Scholar",
+      "company": "Manage&More by UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/manage-more-by-unternehmertum",
+      "description": null,
+      "location": "München",
+      "start": "2013-04",
+      "end": "2015-03",
+      "dateRange": "Apr 2013 – Mar 2015",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "IceShock (Leverett UG)",
+      "companyUrl": null,
+      "description": null,
+      "location": "München",
+      "start": "2013-02",
+      "end": "2015-01",
+      "dateRange": "Feb 2013 – Jan 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Researcher, Center for Design Research, d.school",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor and Master of Science, Technology Management",
+      "dateRange": "2011 – 2017"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, School of Information, HAAS School of Business",
+      "dateRange": null
+    },
+    {
+      "school": "KTH Royal Institute of Technology",
+      "degree": "Semester Abroad",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Management",
+    "Business Development",
+    "Project Management",
+    "Customer Service",
+    "Microsoft Office",
+    "Leadership",
+    "Strategic Planning",
+    "Sales",
+    "Marketing",
+    "Business Strategy",
+    "Strategisches Management",
+    "Unternehmensführung",
+    "Projektmanagement",
+    "Unternehmensstrategie",
+    "Marketingstrategie",
+    "Kundendienst",
+    "Strategische Planung"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Spacewalk VC",
+    "tagline": "Revolutionizing DeepTech Investments",
+    "description": "Spacewalk is a VC fund with its own established R&D company: Motius R&D.\nBy having Motius R&D, Spacewalk will create real value for its portfolio: tangible insights on DeepTech Markets, getting renowned customers, and a technological edge.\nSpacewalk will invest in start-ups on the market as well as proprietary dealflow generated by Motius R&D.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "https://spacewalk.vc",
+    "linkedInUrl": "https://www.linkedin.com/company/spacewalk-deeptech",
+    "employeeCount": 12,
+    "foundedYear": 2022,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

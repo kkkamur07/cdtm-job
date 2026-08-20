@@ -1,0 +1,178 @@
+{
+  "id": "kai-kirsch",
+  "name": "Kai Kirsch",
+  "headline": "Medicine @ Heidelberg University | Technology & Business @ TUM | CDTM | Columbia Business School | Cambridge University",
+  "avatar": {
+    "sm": "/avatars/kai-kirsch-sm.webp",
+    "lg": "/avatars/kai-kirsch.webp",
+    "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAACwBQCdASogACAAPtFgqU+oJSOiKAgBABoJZQDM8IklwBM6PZglLWeU7+XBiP1PTgFZuOKGDiAA/vcGp+kcRr+iUD9yj0kbD6rX9oxPtysd5Q25eadnmQViIIl4OWYUe2ZtxZQ+D1N/XyawfFMfQmZvyUJUspnZYGf2bZcOutQnMri6r918B5VaziguyeKwSCJfv5w/IFcNOSJw121rV2AwFAAAAA=="
+  },
+  "location": "Rhein-Neckar Metropolitan, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/kai-kirsch",
+  "personId": 1013,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "B.Sc. in Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Kai Kirsch",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Business Development",
+      "company": "ecoplanet",
+      "companyUrl": "https://www.linkedin.com/company/ecoplanet-green-operations",
+      "description": "Built the new GTM motion for partnerships, bringing energy-management software to the Mittelstand.",
+      "location": "Munich",
+      "start": "2025-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Columbia Business School",
+      "companyUrl": "https://www.linkedin.com/company/columbia-business-school",
+      "description": "Researched liability challenges of metaverse technologies at Columbia Institute for Tele-Information under Prof. Eli Noam.",
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Product Research",
+      "company": "University of Cambridge",
+      "companyUrl": "https://www.linkedin.com/company/university-of-cambridge",
+      "description": "Researched commercial applications of motion-capture technology in healthcare under Prof. Thomas Bohné.",
+      "location": "Cambridge",
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Product Strategy & Business Intelligence",
+      "company": "everstox",
+      "companyUrl": "https://www.linkedin.com/company/everstox",
+      "description": "Identified new product features for e-commerce logistics and built the business intelligence function.",
+      "location": "Munich",
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Venture Capital",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": "Worked with European tech startups and automated investment benchmarking.",
+      "location": "Munich",
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Product Management",
+      "company": "Forto",
+      "companyUrl": "https://www.linkedin.com/company/fortocompany",
+      "description": "Launched carbon offsetting as a new product feature in freight forwarding.",
+      "location": "Berlin",
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "luminovo.ai",
+      "companyUrl": "https://www.linkedin.com/company/luminovo",
+      "description": "Secured government funding for Luminovo's human-in-the-loop deep-learning platform.",
+      "location": "Munich",
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Industry Capstone Projects",
+      "company": "TUM School of Management",
+      "companyUrl": "https://www.linkedin.com/company/tum-school-of-management",
+      "description": "1. Presize: Market research on AI-based sizing technology for medical compression stockings.\n2. Bechtle: Market research on IoT solutions for return logistics.\n3. Evhcle: Business-modelling for on-demand cargo bike sharing.\n4. Diehl: Feasibility study of recyclable materials in aviation.",
+      "location": "Munich",
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Heidelberg University",
+      "degree": "Staatsexamen, Medicine",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Visiting student, MBA",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "BSc & MSc, Management and Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Business Data Analysis",
+    "Java",
+    "Teamwork",
+    "Strategische Partnerschaften",
+    "Projektmanagement",
+    "Research",
+    "Analytische Fähigkeiten",
+    "Business Forecasting",
+    "Excel",
+    "Microsoft Office",
+    "Interkulturelle Kommunikation",
+    "Engagement Management"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "ecoplanet",
+    "tagline": "Günstigste Energiepreise & innovatives Energiemanagement für den deutschen Mittelstand",
+    "description": "ecoplanet ist die weltweite erste Software für integriertes Energiemanagement: Verbrauchssteuerung, intelligente Beschaffung und Regulatorik an einem Ort & KI-basiert optimiert.\n\nMit einem großen Team aus Energieexpert:innen, Produkttalenten und Branchenprofis treiben wir die Energiewende im Mittelstand voran.\n\n📍 Offices in Berlin & München | ✉️ info@ecoplanet.tech",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.ecoplanet.tech",
+    "linkedInUrl": "https://www.linkedin.com/company/ecoplanet-green-operations",
+    "employeeCount": 109,
+    "foundedYear": 2022,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "id": "mariscotto",
+  "name": "Mariangela Scotto di Carlo",
+  "headline": "UX/UI Designer",
+  "avatar": {
+    "sm": "/avatars/mariscotto-sm.webp",
+    "lg": "/avatars/mariscotto.webp",
+    "blur": "data:image/webp;base64,UklGRhABAABXRUJQVlA4IAQBAAAwBgCdASogACAAPtFYpU0oJSOiMBgIAQAaCWUADOezQTlaUQi0YG3c6c80Xj28vlpnSEGVwZ9R/QZwAP75bPeoOznSjNFyEhxyXf9xfhG9Cysnio72BuB3s8PSssgvSqHdqkr/fgue0uf1kHKYBD6binikMKP1hljtnG2BtmjFXP5HUsC1ZeI0p0Ic24+GQlu2snHBc2SFzDQF194OH9gseBaqoEXWHyjTnLk0udC4tpYIzXSOjGA0+O19y5uddL8pd6u11+RTsVzkotpNJybe7Nw3zPDXf+dH4diftW/I3WbZyBWzXYUfaykNlgIs9bT1EO8RaUatjZyoHNq4kZE75IAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/mariscotto",
+  "personId": 1119,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "Bachelor in Psychology and M.Sc. in Ergonomics - Human Factors Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Mariangela Scotto di Carlo",
+  "ca": null,
+  "summary": "Hi there! \nI’m a UX/UI Designer with a unique mix of psychology, design, and research expertise, passionate about creating accessible, delightful, and user-centered experiences. I have extensive experience leading feature development, from user research and concept generation to high-fidelity prototypes, usability testing, and other validation methods. A true Figma geek and highly skilled in Adobe’s graphic design and animation tools, I especially love working in the healthcare and healthtech space, but I’m excited to explore other fields as well. I’m dedicated, curious, and always eager to learn and grow with a dynamic team to build impactful products!",
+  "positions": [
+    {
+      "title": "UI/UX Designer",
+      "company": "QuickBird Medical",
+      "companyUrl": "https://www.linkedin.com/company/quickbird",
+      "description": "QuickBird Medical develops medical software and digital health applications (DiGA) for customers in the health space. We build digital therapeutics (DTx) for pharmaceutical companies, digital health startups and other institutions on a contract basis.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior UX/UI Designer",
+      "company": "Climedo",
+      "companyUrl": "https://www.linkedin.com/company/climedo",
+      "description": "- Contributed to convincing Climedo's biggest customer of our product, my designs being cited by the customer as one of the top 3 reasons why they chose us.\n- Further streamlined design processes with cross-departmental feedback loops within an agile feature development process\n- Introduced checklist of accessibility criteria (WCAG 2.2) for feature development\n- Led Design Thinking workshops in early stage of feature development\n- Recruited and onboarded second UX/UI designer and became his supervisor",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-03",
+      "end": "2025-01",
+      "dateRange": "Mar 2023 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "UX/UI Designer",
+      "company": "Climedo",
+      "companyUrl": "https://www.linkedin.com/company/climedo",
+      "description": "- Constantly improved the UI of Climedo’s product portfolio in Figma, provided a clearly structured and documented handover to Tech and QA with regular alignment meetings during development\n- Carrying out continuous user research by scheduling and conducting user interviews as well as internal and external usability testing\n- Introducing regularly measured quantitative UX benchmarking metrics, e.g. the UEQ\n- Guiding and supporting other departments (Marketing, Business Development, Sales, HR, Operations) regarding Product and Brand Design, creating design assets both for print and digital use in Adobe Suite (Illustrator, Photoshop)",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-08",
+      "end": "2023-03",
+      "dateRange": "Aug 2021 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "UX/UI Design Working Student",
+      "company": "Climedo",
+      "companyUrl": "https://www.linkedin.com/company/climedo",
+      "description": "- Built the design department at Climedo from the ground up\n- Introduced new UX design, research and feedback methods and processes and established them to be a regular practice in every feature development project at Climedo\n- Introduced a comprehensive design styleguide and design system in Figma and as presentation for general distribution, both for the product and as general branding guideline.\n- Collaborated on marketing and branding, ensuring consistency in design across all departments.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2021-07",
+      "dateRange": "Apr 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "UX Designer & Developer",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "- Designed, tested and coded an online learning platform for TUM’s \"Interaction Prototyping\" course at the chair of Ergonomics\n- Developed a flipped-classroom structure, using multimedia resources to enhance learning experiences.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-05",
+      "end": "2020-10",
+      "dateRange": "May 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "UX Design & Research Freelancer",
+      "company": "QA Chef",
+      "companyUrl": "https://www.linkedin.com/company/qachef",
+      "description": "- Created new high-fidelity prototypes for a mobile app and website and improved existing ones\n- Presented prototypes to first client on a pilot project\n- Wrote functional specification document for the mobile app and web portal’s features and prioritized task list for developers\n- Implemented parts of the design in the front-end for both mobile app and web portal\n- Worked closely with the CEO and developer team to conciliate between feasibility, functionality and design requirements",
+      "location": "Greater Sydney Area",
+      "start": "2018-12",
+      "end": "2019-02",
+      "dateRange": "Dec 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "UX Design & Research Freelancer",
+      "company": "Coverhero",
+      "companyUrl": "https://www.linkedin.com/company/coverhero-1",
+      "description": "- Created high-fidelity prototypes of Coverhero features within an existing partner app, securing the Coverhero's first collaboration partner.\n- Conducted user research and analyzed app reach and collaboration potential of popular apps for target users in Australian, European and US market\n- Researched and brainstormed creative marketing strategies and potential collaboration options",
+      "location": "Greater Sydney Area",
+      "start": "2018-11",
+      "end": "2018-12",
+      "dateRange": "Nov 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "UX Designer",
+      "company": "Motius GmbH",
+      "companyUrl": "https://www.linkedin.com/company/motius-gmbh",
+      "description": "- Designed low-fidelity and high-fidelity android and iOS apps,, creating interactive prototypes and detailed user stories (Illustrator/Sketch/Invision).\n- Developed user personas, translating research insights into engaging visual formats (Illustrator).",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-10",
+      "end": "2017-12",
+      "dateRange": "Oct 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "UX Research Intern",
+      "company": "GfK",
+      "companyUrl": "https://www.linkedin.com/company/gfk-an-niq-company",
+      "description": "- Supported diverse UX studies, including remote tests, driving simulator setup, A/B tests and structured interviews\n- Conducted data analysis and report writing, ensuring findings were clear and actionable.\n- Assisted in conducting a result workshop at a client’s office.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-02",
+      "end": "2016-04",
+      "dateRange": "Feb 2016 – Apr 2016",
+      "current": false
+    },
+    {
+      "title": "Project Management Intern",
+      "company": "Peer-to-Peer-Mentoringproject at LMU",
+      "companyUrl": null,
+      "description": "I was part of the project management team and also assisted the research and marketing team\n- Managed mentor-student engagement, assisting in project planning and workshop organization.\n- Supported research tasks and maintained a project database for enhanced mentor-student interaction.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-10",
+      "end": "2015-12",
+      "dateRange": "Oct 2015 – Dec 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Ergonomics - Human Factors Engineering (HFE)",
+      "dateRange": "2017 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "University of Washington",
+      "degree": "Global Connection Program, Design and Visual Communications",
+      "dateRange": "2019"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, PSYCHOLOGY",
+      "dateRange": "2014 – 2017"
+    }
+  ],
+  "skills": [
+    "React Native",
+    "Perceptional Psychology",
+    "Motivational Psychology",
+    "Product Management",
+    "Public Speaking",
+    "Web Content Accessibility Guidelines (WCAG)",
+    "UX/UI Design",
+    "Product Design",
+    "Design Leadership",
+    "User Research",
+    "Design Systems",
+    "Storybook",
+    "Adobe Photoshop",
+    "Video Editing",
+    "Healthcare UX",
+    "Branding",
+    "Corporate Identity",
+    "Content Design",
+    "JavaScript",
+    "Educational UX",
+    "HTML/CSS",
+    "Travel UX",
+    "User Interface Prototyping",
+    "Persona Creation",
+    "Android Design",
+    "iOS Design",
+    "UX Research",
+    "A/B Testing",
+    "Quantitative Analysis",
+    "Workshop Facilitation",
+    "User Interviewing",
+    "Project Coordination",
+    "Workshop Planning",
+    "Data Management",
+    "Stakeholder Management",
+    "Journey Mapping",
+    "Artificial Intelligence (AI)",
+    "Mobile UX",
+    "Information Visualization",
+    "UX Management",
+    "Usability-Tests",
+    "Figma (Software)",
+    "User-centered Design",
+    "Human Computer Interaction",
+    "Wireframing",
+    "Sketch",
+    "Adobe Illustrator",
+    "MS-Office",
+    "Axure RP",
+    "SPSS und R",
+    "inVision"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "company": {
+    "name": "QuickBird Medical",
+    "tagline": "We develop your medical software, DiGA, or health app - certified according to ISO 13485 & ISO 27001.",
+    "description": "Im Herzen von München entwickeln wir mobile Apps, Web-Applikationen und Cloud-Systeme für Unternehmen der Gesundheitsbranche.\n\nSie planen die Umsetzung einer Medical Software oder DiGA? \nIn enger Kollaboration mit Ihnen kümmern wir uns um Konzeption, Design und technische Umsetzung Ihrer Software-Idee – zertifiziert nach ISO 13485 und ISO 27001.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://quickbirdmedical.com",
+    "linkedInUrl": "https://www.linkedin.com/company/quickbird",
+    "employeeCount": 31,
+    "foundedYear": 2016,
+    "location": "München, Germany",
+    "specialities": [
+      "Medizinprodukt-Software",
+      "DiGA",
+      "Medical Device Regulation (MDR)",
+      "FDA",
+      "Clinical Decision Support Systems",
+      "DTx",
+      "Health Apps",
+      "Digital Companions",
+      "IEC",
+      "IEC 62304",
+      "ISO 13485",
+      "Software-Development (Web, Mobile, Backend)"
+    ]
+  }
+}

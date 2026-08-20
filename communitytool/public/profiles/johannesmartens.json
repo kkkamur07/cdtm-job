@@ -1,0 +1,157 @@
+{
+  "id": "johannesmartens",
+  "name": "Johannes Martens",
+  "headline": "Co-Founder & CPO ryd | Ex-Motorola/Google | CDTM | Co-Founder Aloqa",
+  "avatar": null,
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/johannesmartens",
+  "personId": 1579,
+  "classes": [
+    {
+      "id": 54,
+      "label": "Fall 2003",
+      "season": "Fall",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Johannes Martens",
+  "ca": null,
+  "summary": "We are hiring @ryd: https://www.ryd.one/career/\n\nStrong product leader and entrepreneur with a passion for product, marketing, and design.\n\nDemonstrable success in launching new things at startups and in large corporate environments. Experienced in raising venture capital, building world class teams, building great products, and operating globally.",
+  "positions": [
+    {
+      "title": "Chief Product Officer & Co-Founder",
+      "company": "ryd",
+      "companyUrl": "https://www.linkedin.com/company/rydofficial",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-05",
+      "end": null,
+      "dateRange": "May 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief Executive Officer & Co-Founder",
+      "company": "ryd",
+      "companyUrl": "https://www.linkedin.com/company/rydofficial",
+      "description": "ThinxNet develops and operates TankTaler - the leading user-driven connected car platform in Europe.\n\nTankTaler platform connects cars with their drivers and with industry partners. The technology comprises of a smartphone app (Android/iOS) and an OBD2 diagnostic connector, which can be plugged in any car built after 2001. Our platform offers multiple benefits free to consumers, such as:\n- paying directly at the gas pump via our app without having to wait in line inside the shop\n- getting reward points for topping-up, visiting partner retail locations or buying services/products via the app\n- Getting immediate help in case of an accident via our emergency call (eCall) solution\n- Having full control of their car: location, battery and engine health, drive log, alarms and statistics",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-01",
+      "end": "2020-05",
+      "dateRange": "Jan 2014 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Director Product Management",
+      "company": "Motorola (a Google company)",
+      "companyUrl": "https://www.linkedin.com/company/motorola-mobility",
+      "description": "San Francisco Bay Area",
+      "location": null,
+      "start": "2010-01",
+      "end": "2013-12",
+      "dateRange": "Jan 2010 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Founder, Managing Director",
+      "company": "Aloqa GmbH (acquired by Motorola Mobility)",
+      "companyUrl": "https://www.linkedin.com/company/aloqa",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2007-05",
+      "end": "2010-09",
+      "dateRange": "May 2007 – Sep 2010",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2006-01",
+      "end": "2007-05",
+      "dateRange": "Jan 2006 – May 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom (similar to Master's degree), Computer Science",
+      "dateRange": "2000 – 2006"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Computer Science",
+      "dateRange": "2005"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Certificate of Digital Technology & Management, High-tech Management, Entrepreneurship, Product Development",
+      "dateRange": "2003 – 2005"
+    }
+  ],
+  "skills": [
+    "Mobile Devices",
+    "Product Management",
+    "Location Based Services",
+    "Mobile Applications",
+    "Go-to-market Strategy",
+    "Mobile Technology",
+    "Software Engineering",
+    "Start-ups",
+    "Management",
+    "Disruptive Technologies",
+    "Mobile Internet",
+    "Strategic Partnerships",
+    "Software Development",
+    "APIs",
+    "Product Marketing",
+    "Product Development",
+    "Computer Science",
+    "Strategy",
+    "Java",
+    "Machine Learning",
+    "Wireless"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "ryd",
+    "tagline": "With ryd we are changing payment and mobility forever. Making life easier, faster and safer.",
+    "description": "ryd is a company operating across Europe in the field of mobile payment. With ryd pay, we operate the largest open B2C network for mobile payment in Europe. Working with our partners Mastercard, BP, Mercedes-Benz and Axa, we are committed to changing the mobility and payment of the future.\nThe ryd ecosystem currently includes refueling, car wash and EV charging — accessible via the app or the infotainment system. There's no longer any need to visit the service station store. Payments are fast, convenient, and secure.\nIn addition to the ryd app, ryd is available through partner integrations with third-party providers, including navigation system and smartphone app providers, as well as car manufacturers. Founded in Munich in 2014, ryd has been growing steadily and has already launched in Germany, Austria, Switzerland, Belgium, the Netherlands, Luxembourg, Denmark, Portugal, and Spain, with further rollouts planned across other European countries.",
+    "industry": "Software Development",
+    "website": "https://ryd.one/",
+    "linkedInUrl": "https://www.linkedin.com/company/rydofficial",
+    "employeeCount": 115,
+    "foundedYear": 2014,
+    "location": "Munich, Germany",
+    "specialities": [
+      "payment",
+      "mobility",
+      "In-Car Payment",
+      "vehicle-related services",
+      "Mobile Payment",
+      "App",
+      "EV-Charging",
+      "Fueling",
+      "Wash",
+      "Flottenmanagement",
+      "Fleet",
+      "Flottenkarte"
+    ]
+  }
+}

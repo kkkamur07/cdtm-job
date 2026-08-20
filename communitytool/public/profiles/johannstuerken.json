@@ -1,0 +1,257 @@
+{
+  "id": "johannstuerken",
+  "name": "Johann Stürken",
+  "headline": "Co-Founder @ Andustry (YC P26) | xMcKinsey | Cambridge | TUM",
+  "avatar": {
+    "sm": "/avatars/johannstuerken-sm.webp",
+    "lg": "/avatars/johannstuerken.webp",
+    "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADwBQCdASogACAAPtFYpEuoJSOhsAgBABoJYwDDcdwLfiWkWQsaI9HMb0LwM6ce4IdVUnPUklyBwAD+/HuQjud0mR/v1pywgO4rB2Qv8lNy1BoI2/GzfnS/ID4a1TxqF89smIfaPXhz2sO4o6DtPvAzTskTJe8n+YMkP2V9DK45Lt1JNteWQ3ctqkCcNJEGchLwxh0JGNmZrGEivQ0RMltBXgZtS9GBSHk8hTVqIDk3UiAUJ68cpS5YorxrK70mF+I/4rW71M2nVG3jeAaSDZMJe/649q0JkrzbiORKbSBhKDEEAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/johannstuerken",
+  "personId": 1306,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Development, Production and Management in Mechanical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Johann Friedrich Nicolas Stürken",
+  "ca": null,
+  "summary": "Interested in all things flying.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Andustry (YC P26)",
+      "companyUrl": "https://www.linkedin.com/company/andustry-ai",
+      "description": "andustry.com",
+      "location": null,
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2025-10",
+      "end": "2026-03",
+      "dateRange": "Oct 2025 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Aviation Impact Accelerator (AIA)",
+      "companyUrl": "https://www.linkedin.com/company/aviation-impact-accelerator",
+      "description": null,
+      "location": null,
+      "start": "2025-04",
+      "end": "2025-09",
+      "dateRange": "Apr 2025 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Founder‘s Associate",
+      "company": "ERC System",
+      "companyUrl": "https://www.linkedin.com/company/erc-system",
+      "description": null,
+      "location": null,
+      "start": "2024-07",
+      "end": "2025-03",
+      "dateRange": "Jul 2024 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "Strategy & Technology",
+      "company": "Airbus",
+      "companyUrl": "https://www.linkedin.com/company/airbusgroup",
+      "description": "Airbus Urban Mobility - AUM\nProgram: Advanced Air Mobility, Technological scouting",
+      "location": null,
+      "start": "2023-12",
+      "end": "2024-06",
+      "dateRange": "Dec 2023 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "BA Graduate Analyst: Aerospace & Defense",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "Gap Year in Research",
+      "location": null,
+      "start": "2022-09",
+      "end": "2023-08",
+      "dateRange": "Sep 2022 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Capgemini Invent",
+      "companyUrl": "https://www.linkedin.com/company/capgemini-invent",
+      "description": null,
+      "location": null,
+      "start": "2022-05",
+      "end": "2022-07",
+      "dateRange": "May 2022 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Student Assistant Business Development",
+      "company": "e.SAT GmbH",
+      "companyUrl": "https://www.linkedin.com/company/e-sat-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2020-02",
+      "end": "2020-09",
+      "dateRange": "Feb 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Working Student Interior",
+      "company": "e.SAT GmbH",
+      "companyUrl": "https://www.linkedin.com/company/e-sat-gmbh",
+      "description": "Support of interior development for e.SAT aircraft",
+      "location": null,
+      "start": "2019-10",
+      "end": "2020-01",
+      "dateRange": "Oct 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Pilot Manager DACH",
+      "company": "Wingly",
+      "companyUrl": "https://www.linkedin.com/company/wingly",
+      "description": null,
+      "location": null,
+      "start": "2019-04",
+      "end": "2019-09",
+      "dateRange": "Apr 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Intern and susquent work as summer-assistant",
+      "company": "Autowerkstatt Siodmok",
+      "companyUrl": "https://www.linkedin.com/company/autowerkstatt-siodmok",
+      "description": "The internship started off as a compulsory internship at a car repair shop for my university course but I quickly ended up doing work in every field from accepting orders, ordering parts over to accident analysis.",
+      "location": null,
+      "start": "2016-05",
+      "end": "2016-07",
+      "dateRange": "May 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Assistant Chef de Produit SAV",
+      "company": "Jungheinrich France SAS",
+      "companyUrl": "https://www.linkedin.com/company/jungheinrich-france-sas",
+      "description": "In my role as intern I was involved in several projects, ranging from marketing, evaluation of customer feedback up to managing and refining the database of key account customers.",
+      "location": null,
+      "start": "2016-02",
+      "end": "2016-04",
+      "dateRange": "Feb 2016 – Apr 2016",
+      "current": false
+    },
+    {
+      "title": "student work experience",
+      "company": "Rolls-Royce",
+      "companyUrl": "https://www.linkedin.com/company/rolls-royce",
+      "description": "2-week student work experience in the Production Test Facility (PTF)",
+      "location": null,
+      "start": "2014-07",
+      "end": "2014-07",
+      "dateRange": "Jul 2014 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "student work experience",
+      "company": "Airbus",
+      "companyUrl": "https://www.linkedin.com/company/airbusgroup",
+      "description": "3-week student work experience in the A380 final assembly line and flightline",
+      "location": null,
+      "start": "2013-08",
+      "end": "2013-08",
+      "dateRange": "Aug 2013 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "student work experience",
+      "company": "Airbus",
+      "companyUrl": "https://www.linkedin.com/company/airbusgroup",
+      "description": "3-week student work experience in various stages of the A320 final assembly",
+      "location": null,
+      "start": "2012-08",
+      "end": "2012-08",
+      "dateRange": "Aug 2012 – Aug 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Y Combinator",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Development, Production and Management in Mechanical Engineering",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Visiting Graduate Student, Research at the AIA (Whittle Laboratory) together with TUM LLS and Bauhaus Luftfahrt",
+      "dateRange": "2025"
+    },
+    {
+      "school": "RWTH Aachen University",
+      "degree": "Bachelor of Science (B.S.), Business Administration and Engineering: Mechanical Engineering",
+      "dateRange": "2016 – 2022"
+    },
+    {
+      "school": "Christ's Hospital School",
+      "degree": "IB Diploma",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Christ's Hospital School",
+      "degree": "iGCSE",
+      "dateRange": "2012 – 2013"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Französisch",
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Andustry (YC P26)",
+    "tagline": "Andustry as an AI-native broker that helps manufacturers source industrial equipment.",
+    "description": "Andustry is the AI-native broker for industrial machines and tools.\n\nOur AI agents source suppliers, reach out, negotiate, and surface the best deals for manufacturers and buyers automatically. What used to take months of emails, calls, and factory visits now happens in minutes.\n\nOn average, our customers save 30% on their sourcing costs.",
+    "industry": "Manufacturing",
+    "website": "http://andustry.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/andustry-ai",
+    "employeeCount": 2,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "id": "alexanderknoll",
+  "name": "Alexander Knoll",
+  "headline": "CEO & Co-Founder at Condens | Making user insights the foundation of every great decision.",
+  "avatar": {
+    "sm": "/avatars/alexanderknoll-sm.webp",
+    "lg": "/avatars/alexanderknoll.webp",
+    "blur": "data:image/webp;base64,UklGRmYBAABXRUJQVlA4IFoBAAAQBwCdASogACAAPr1Sn0unJSKht/qoAOAXiWoAnS/U3ZcJDPTt6XWdMe1cA844AbSpqG64vSiE5eiRAZPVcGRnAADNx9il+aNTPSHW1LYZVszZZsTe8gdeqF4p99V06V379+tehVHy/KInZNpA4Ki2fI7/hrWgDCRrNTTjyTPtUTuaxacYeQVzS4ZXihIPinqmk/8w78Nr4+0GihS3J/HpAoivtS0Qfvzy3jcMmx8vi3UCnrdcasC6FRJIGa67QNCTiuWAWGAUL9Bze1k9rQtBnqWq+04Z8xv0xACgmh9E4Cs9RzZlzl1WwUYmkdoOqXAai0nkxBTUJK2Rq43TZinMQQY4YaibokqxBuqPDvOR24bRsrI0S1my4jZ25TosihyE6XYl4rFj9qvQbJP29diHW8zKCxzxaSxe5CO1Ov3d93xEOeSh5SZo8iFG2U0d2Bly2jg5RyNVW+AA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/alexanderknoll",
+  "personId": 1159,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Alexander Knoll",
+  "ca": null,
+  "summary": "Early in my career, I saw how often companies built the wrong things. Not out of bad intentions, but because the voice of the user went unheard.\n    \nThat’s why before building Condens, a user research platform for storing, analyzing and sharing data, we spoke to hundreds of user researchers to make sure we truly understood their reality. And their input is what has shaped at lot we’ve built at Condens. \n    \nToday, Condens is a sustainable business serving organizations worldwide by empowering them to de-risk business decisions and bringing them closer to the users they create for. And we’re really just getting started.\n    \nFor me, Condens is proof that when you put users first, everyone wins.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Condens",
+      "companyUrl": "https://www.linkedin.com/company/condens",
+      "description": "Condens is the centralized platform for user research. It helps you and your team to store, structure and analyze your user research data and share findings across your organization.",
+      "location": "Munich",
+      "start": "2018-08",
+      "end": null,
+      "dateRange": "Aug 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "NavVis GmbH",
+      "companyUrl": "https://www.linkedin.com/company/navvis",
+      "description": "NavVis is a hightech company from Munich in the space of indoor digitization and positioning.",
+      "location": "Munich Area, Germany",
+      "start": "2016-03",
+      "end": "2018-07",
+      "dateRange": "Mar 2016 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "Business Development & Finance",
+      "company": "NavVis GmbH",
+      "companyUrl": "https://www.linkedin.com/company/navvis",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2015-04",
+      "end": "2016-02",
+      "dateRange": "Apr 2015 – Feb 2016",
+      "current": false
+    },
+    {
+      "title": "Project Manager",
+      "company": "Hanse Ventures",
+      "companyUrl": "https://www.linkedin.com/company/hanse-ventures",
+      "description": null,
+      "location": "Hamburg und Umgebung, Deutschland",
+      "start": "2012-09",
+      "end": "2013-03",
+      "dateRange": "Sep 2012 – Mar 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Technologiemanagement",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (MSc), Business Administration",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "University of Mannheim",
+      "degree": "Bachelor of Science (BSc), Business Administration",
+      "dateRange": "2009 – 2012"
+    },
+    {
+      "school": "Universidad Carlos III de Madrid",
+      "degree": "Semester Abroad, Business Administration",
+      "dateRange": "2011 – 2012"
+    }
+  ],
+  "skills": [
+    "Project Management",
+    "Product Development",
+    "Marketing",
+    "Business Strategy",
+    "Business Development",
+    "Business Planning",
+    "Product Innovation",
+    "Microsoft Office",
+    "Innovation Management",
+    "Technology Management",
+    "Produktentwicklung",
+    "Projektmanagement",
+    "Unternehmensstrategie",
+    "Marktforschung",
+    "Unternehmertum",
+    "Unternehmensplanung",
+    "Strategisches Management",
+    "Innovationsmanagement",
+    "Management",
+    "Unternehmensführung"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Condens",
+    "tagline": "Turn insights into impact with Condens: centralize, analyze, share, and scale your customer knowledge with ease!",
+    "description": "Condens helps you and your team to store, structure, and analyze user research data and share findings across your organization.",
+    "industry": "Software Development",
+    "website": "https://condens.io/",
+    "linkedInUrl": "https://www.linkedin.com/company/condens",
+    "employeeCount": 15,
+    "foundedYear": 2018,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Product Management",
+      "Customer insights",
+      "User insights",
+      "User research",
+      "UX research",
+      "Design research",
+      "UX Design"
+    ]
+  }
+}

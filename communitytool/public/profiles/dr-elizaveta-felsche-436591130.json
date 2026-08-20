@@ -1,0 +1,158 @@
+{
+  "id": "dr-elizaveta-felsche-436591130",
+  "name": "Dr. Elizaveta Felsche",
+  "headline": "Working on something new | CDTM | UCB",
+  "avatar": {
+    "sm": "/avatars/dr-elizaveta-felsche-436591130-sm.webp",
+    "lg": "/avatars/dr-elizaveta-felsche-436591130.webp",
+    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAADwBQCdASogACAAPslSoUunpKMht/VYAPAZCWgAnTMkugNIjlW57pS0zGiu4KgAKENPJbYSAGC6AAD+7U94d7184D5Y218DSTZtQVZhCXhmSk+uKBVugunecgzyn3vizr2XsIIN/d0plF9u4Hu5OMvEiWDYAPtWcD+4E0ZrvLLjicuHtruOsavVjxBbEc5pa5Vt3VL+BoifgFPyh3rzUl55GXDxb+q/qVitwtPp/vKhdarFDk3Crzcqz01EYnxx09kBGvcp2M4pYaLRYGLKloHQhOPNQkD/HW9iFPn/GUYrB1O8X9HczZEAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-elizaveta-felsche-436591130",
+  "personId": 1271,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Elizaveta Felsche",
+  "ca": {
+    "alumni": true,
+    "about": "Elizaveta Felsche studied Physics (M.Sc.) and Philosophy (B.Sc.) at Ludwig-Maximilians-Universität München. During her stay abroad in Montreal, Canada, and later in her master thesis, she participated in the ClimEx project, investigating the influence of Climate Change on extreme weather events.\n\nIn parallel to her studies, Elizaveta gained practical experience at Allianz working in IT Project Management and organizing several summer school projects for adolescents.\n\nElizaveta joined the CDTM management team in 2020. Her research deals with the investigation of predictability of extreme events like heatwaves and droughts and the influence of Climate Change on the evolution of those.",
+    "responsibilities": [],
+    "researchFields": [],
+    "email": null
+  },
+  "summary": "Innovation expert with experience in big data analysis and strong communication skills.",
+  "positions": [
+    {
+      "title": "Working on something new",
+      "company": "Stealth",
+      "companyUrl": "https://www.linkedin.com/company/stealthstartupcareers",
+      "description": "AI x Democracy",
+      "location": null,
+      "start": "2024-03",
+      "end": null,
+      "dateRange": "Mar 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Career & Relocation Mentor",
+      "company": "Mentor Move",
+      "companyUrl": "https://www.linkedin.com/company/mentor-move",
+      "description": null,
+      "location": null,
+      "start": "2022-05",
+      "end": "2023-05",
+      "dateRange": "May 2022 – May 2023",
+      "current": false
+    },
+    {
+      "title": "CDTM Management Team & Doctoral Candidate",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "CDTM, the joint startup hub and digital technology research center of the universities LMU and TU Munich, offers Germany's leading digital technology management education program. In the last 20 years, ~1000 alumni of the program have founded +400 companies which raised more than €3.6bn.\n\nWith a colleague, I was responsible for the Entrepreneurship Lab, where I supported and coached brilliant talents on tackling the strategic problems of our project partners in a structured way.",
+      "location": null,
+      "start": "2020-02",
+      "end": "2024-03",
+      "dateRange": "Feb 2020 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Intern at AllSecur Munich Allianz AG",
+      "company": "Allianz",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": null,
+      "location": null,
+      "start": "2017-02",
+      "end": "2017-08",
+      "dateRange": "Feb 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Scientific Internship",
+      "company": "Ouranos",
+      "companyUrl": "https://www.linkedin.com/company/ouranos",
+      "description": null,
+      "location": null,
+      "start": "2016-08",
+      "end": "2016-12",
+      "dateRange": "Aug 2016 – Dec 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar at the School of Information",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "PhD , Climate Science",
+      "dateRange": "2020 – 2024"
+    },
+    {
+      "school": "Stiftung Bayerische EliteAkademie (BEA)",
+      "degree": null,
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master's degree, Physics",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Physics",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Arts - BA, Philosophy",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Venice International University",
+      "degree": "Abroad stay",
+      "dateRange": "2014"
+    }
+  ],
+  "skills": [
+    "Microsoft Word",
+    "Microsoft Excel",
+    "English",
+    "Recruiting",
+    "Project Management",
+    "Innovation",
+    "Teamwork",
+    "Data Analysis",
+    "Organizational Development",
+    "Python"
+  ],
+  "languages": [
+    "German",
+    "Russian",
+    "Französisch",
+    "English",
+    "Italienisch"
+  ],
+  "company": {
+    "name": "Stealth",
+    "tagline": "Stage o",
+    "description": "Helping Stealth Startups to Launch, Hire & Scale.\n\nHere Recruiters Usually List Stealth Roles for early stage startups and job seekers can connect and consider those roles.",
+    "industry": "Software Development",
+    "website": null,
+    "linkedInUrl": "https://www.linkedin.com/company/stealthstartupcareers",
+    "employeeCount": 4385,
+    "foundedYear": null,
+    "location": "Los Angeles, United States",
+    "specialities": []
+  }
+}

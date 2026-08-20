@@ -1,0 +1,163 @@
+{
+  "id": "david-bellem",
+  "name": "David Bellem",
+  "headline": "Founder",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/david-bellem",
+  "personId": 1903,
+  "classes": [
+    {
+      "id": 67,
+      "label": "Spring 2010",
+      "season": "Spring",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2010",
+  "major": "Physics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "David Bellem",
+  "ca": null,
+  "summary": "Founder & experienced leader of technology organizations - both in the start-up and corporate world. Driven by the love for building great products together with empowered teams. Cares deeply about technology done right with security at the core.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Avento Hausverwaltung",
+      "companyUrl": "https://www.linkedin.com/company/avento-immobilien-services",
+      "description": "Avento provides professional property management services for multi-unit residential properties to owners and investors.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-06",
+      "end": null,
+      "dateRange": "Jun 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Technical Advisor",
+      "company": "Emidat",
+      "companyUrl": "https://www.linkedin.com/company/emidat",
+      "description": "Emidat aims to decarbonize building materials, making up for 11% of global GHG emissions. They track environmental data where they originate (at the building material manufacturer) and distribute it to where it’s needed along the construction value chain via their natural language API",
+      "location": null,
+      "start": "2023-07",
+      "end": null,
+      "dateRange": "Jul 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Vice President Engineering, CyberSource (Merchant & Acquirer Processing)",
+      "company": "Visa",
+      "companyUrl": "https://www.linkedin.com/company/visa",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-07",
+      "end": "2024-04",
+      "dateRange": "Jul 2019 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "payworks GmbH",
+      "companyUrl": "https://www.linkedin.com/company/payworks-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2012-01",
+      "end": "2019-07",
+      "dateRange": "Jan 2012 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Siemens Management Consulting",
+      "companyUrl": "https://www.linkedin.com/company/siemens-advanta",
+      "description": null,
+      "location": null,
+      "start": "2009-07",
+      "end": "2009-10",
+      "dateRange": "Jul 2009 – Oct 2009",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "IBM Deutschland Research and Development GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2005-07",
+      "end": "2005-09",
+      "dateRange": "Jul 2005 – Sep 2005",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Technology Management",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diploma, Physics (Quantum Optics)",
+      "dateRange": "2007 – 2011"
+    },
+    {
+      "school": "University of Alberta",
+      "degree": "Physics, Medical Physics, Management",
+      "dateRange": "2008 – 2009"
+    },
+    {
+      "school": "University of Stuttgart",
+      "degree": "Vordiplom, Physics",
+      "dateRange": "2005 – 2007"
+    },
+    {
+      "school": "University of Stuttgart",
+      "degree": "Vordiplom, Mathematics",
+      "dateRange": "2005 – 2007"
+    }
+  ],
+  "skills": [
+    "Mobile Product Development",
+    "iOS development",
+    "Android Development",
+    "Software Development",
+    "Product Development",
+    "Server Architecture",
+    "Payment Systems",
+    "Payment Industry",
+    "Mobile Payments",
+    "PCI",
+    "PCI Point-to-Point-Encryption (P2PE)",
+    "PCI DSS",
+    "Amazon Web Services (AWS)",
+    "Hardware Security Modules",
+    "Scrum",
+    "Payments",
+    "NFC",
+    "Contactless Payments",
+    "POS Payments"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Avento Hausverwaltung",
+    "tagline": "Schnell, kompetent, transparent - Ihre Immobilie in besten Händen.",
+    "description": "Avento bietet professionelle WEG-Verwaltung, Mietverwaltung und Sondereigentums-Verwaltung in München und Umgebung.\n\nSchnell, kompetent, transparent - Ihre Immobilie in besten Händen.",
+    "industry": "Real Estate",
+    "website": "https://www.avento.de",
+    "linkedInUrl": "https://www.linkedin.com/company/avento-immobilien-services",
+    "employeeCount": 5,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

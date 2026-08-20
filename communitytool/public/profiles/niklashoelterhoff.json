@@ -1,0 +1,137 @@
+{
+  "id": "niklashoelterhoff",
+  "name": "Niklas Hoelterhoff",
+  "headline": "Head of Customer Success @ Langdock | Driving AI Adoption in Organizations",
+  "avatar": {
+    "sm": "/avatars/niklashoelterhoff-sm.webp",
+    "lg": "/avatars/niklashoelterhoff.webp",
+    "blur": "data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAACwBQCdASogACAAPtFap04oJSOiKAqpABoJYwC7AYtqsnKY1ONIUlxtuOyNLQCNo1rPW1eyzoAA/vx5zy/1kdeUnJer0lpSK/qJGb5f0cQ8rKj7f0nqtmPnJA9KhTgeGndv9Se0RtEDpU3z+fHnKMcPsbvcF4aIivR/FgOUR3MNItDOiG56iRev/gk4GbVYKP09OfelvMmYDhVoTvHMhxsvCrFqgVkRJgUbQdA5LI2yCNy/Zrp+uA457kcoshXJSson/RF5+sus0hdKEfO7Bpvkucdz/MZ6cX4i+4rbEQlWsVMkc4oZpl/3et3RSFH5JwJuA98fn84HLg5SJ1gq0VIB9ESeawAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/niklashoelterhoff",
+  "personId": 894,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Niklas Hölterhoff",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Head of Customer Success",
+      "company": "Langdock",
+      "companyUrl": "https://www.linkedin.com/company/langdock",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Founding Engineer",
+      "company": "Langdock",
+      "companyUrl": "https://www.linkedin.com/company/langdock",
+      "description": "We are building a product platform to drive AI adoption within large organizations. We serve more than 5,000 customers, including companies like Merck KGaA, GetYourGuide, and Der Spiegel.",
+      "location": "Berlin, Germany",
+      "start": "2023-07",
+      "end": "2025-12",
+      "dateRange": "Jul 2023 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Flink",
+      "companyUrl": "https://www.linkedin.com/company/goflink",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2021-04",
+      "end": "2022-12",
+      "dateRange": "Apr 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Technical Consulting",
+      "company": "EY",
+      "companyUrl": "https://www.linkedin.com/company/ernstandyoung",
+      "description": null,
+      "location": "Berlin Metropolitan Area",
+      "start": "2019-10",
+      "end": "2020-10",
+      "dateRange": "Oct 2019 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Flutter Engineer / Fullstack Software Engineer",
+      "company": "Circ",
+      "companyUrl": "https://www.linkedin.com/company/wecirc",
+      "description": "Design, Development & Rollout of a Cross-Platform Mobile App:\no Development of a Flutter-based app for recording vehicle defects, documentation of repairs and instruction of warehouse employees\no Backend-as-a-Service using Firebase: Firestore, Cloud Functions, Analytics, Authentication\no Analytics: Development of a dashboard to analyse the recorded data: BigQuery & Visualisation with Google Data Studio\no App & Dashboard rollout to several countries",
+      "location": "Berlin",
+      "start": "2019-05",
+      "end": "2019-08",
+      "dateRange": "May 2019 – Aug 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Information Systems",
+      "dateRange": null
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Langdock",
+    "Teamwork",
+    "Entrepreneurship"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Langdock",
+    "tagline": "The Platform for AI Adoption",
+    "description": "Langdock enables you to roll out AI across your entire organization in a safe and flexible way.",
+    "industry": "Software Development",
+    "website": "https://langdock.com",
+    "linkedInUrl": "https://www.linkedin.com/company/langdock",
+    "employeeCount": 43,
+    "foundedYear": 2023,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Large Language Models",
+      "Chat Interfaces",
+      "Agents",
+      "Assistants",
+      "Team Collaboration",
+      "Prompting"
+    ]
+  }
+}

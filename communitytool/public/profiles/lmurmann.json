@@ -1,0 +1,211 @@
+{
+  "id": "lmurmann",
+  "name": "Lukas Murmann",
+  "headline": "Vision & Graphics @ Google",
+  "avatar": null,
+  "location": "San Francisco Bay, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/lmurmann",
+  "personId": 1391,
+  "classes": [
+    {
+      "id": 70,
+      "label": "Fall 2011",
+      "season": "Fall",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2011",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lukas Murmann",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Staff Software Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": "2025-05",
+      "end": null,
+      "dateRange": "May 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": "2023-05",
+      "end": "2025-05",
+      "dateRange": "May 2023 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": "2021-09",
+      "end": "2023-05",
+      "dateRange": "Sep 2021 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Back for another wonderful summer working at Google. This time in the Computer Vision research group.",
+      "location": null,
+      "start": "2018-06",
+      "end": "2018-08",
+      "dateRange": "Jun 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Second internship at Google. Working with the Daydream team in Seattle.",
+      "location": null,
+      "start": "2017-06",
+      "end": "2017-08",
+      "dateRange": "Jun 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Computational Photography research internship",
+      "location": null,
+      "start": "2016-06",
+      "end": "2016-08",
+      "dateRange": "Jun 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "ETH Zürich",
+      "companyUrl": "https://www.linkedin.com/company/eth-zurich",
+      "description": "Developed Android app and deployed large-scale user study for collecting NFC tags in the wild",
+      "location": null,
+      "start": "2012-02",
+      "end": "2012-04",
+      "dateRange": "Feb 2012 – Apr 2012",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and CTO",
+      "company": "Skive (acquired)",
+      "companyUrl": "https://www.linkedin.com/company/qlearning-applications-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2011-12",
+      "end": "2014-08",
+      "dateRange": "Dec 2011 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "DOCOMO Euro Labs",
+      "companyUrl": null,
+      "description": "iOS development for multi-perspective video streaming app",
+      "location": null,
+      "start": "2011-05",
+      "end": "2012-07",
+      "dateRange": "May 2011 – Jul 2012",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Undergraduate TA for: Electricity and Magnetism, Electromagnetic Field Theory, Electronic Design Automation",
+      "location": null,
+      "start": "2010-10",
+      "end": "2012-02",
+      "dateRange": "Oct 2010 – Feb 2012",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Internship in the Navigation and Data Services group. Worked on front-end for next-gen maps/navigation platform.",
+      "location": null,
+      "start": "2010-08",
+      "end": "2010-10",
+      "dateRange": "Aug 2010 – Oct 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Doctor of Philosophy (Ph.D.), Electrical Engineering and Computer Science",
+      "dateRange": "2014"
+    },
+    {
+      "school": "UCL",
+      "degree": "Master of Science (MSc), Computer Graphics, Vision and Imaging",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (BSc), Electrical Engineering",
+      "dateRange": "2008 – 2011"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management (hons.)",
+      "dateRange": "2011 – 2012"
+    }
+  ],
+  "skills": [
+    "Software Development",
+    "Mobile Technology",
+    "Computer Graphics"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "company": {
+    "name": "Google",
+    "tagline": null,
+    "description": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.\n\nCheck out our career opportunities at goo.gle/3DLEokh",
+    "industry": "Software Development",
+    "website": "https://goo.gle/3DLEokh",
+    "linkedInUrl": "https://www.linkedin.com/company/google",
+    "employeeCount": 341631,
+    "foundedYear": null,
+    "location": "Mountain View, United States",
+    "specialities": [
+      "search",
+      "ads",
+      "mobile",
+      "android",
+      "online video",
+      "apps",
+      "machine learning",
+      "virtual reality",
+      "cloud",
+      "hardware",
+      "artificial intelligence",
+      "youtube",
+      "software"
+    ]
+  }
+}

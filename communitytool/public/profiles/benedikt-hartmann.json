@@ -1,0 +1,187 @@
+{
+  "id": "benedikt-hartmann",
+  "name": "Benedikt Hartmann",
+  "headline": "Cambridge | TUM | CDTM | Studienstiftung | prev. @ atmio, RobCo, TUM Boring",
+  "avatar": {
+    "sm": "/avatars/benedikt-hartmann-sm.webp",
+    "lg": "/avatars/benedikt-hartmann.webp",
+    "blur": "data:image/webp;base64,UklGRgwBAABXRUJQVlA4IAABAABQBgCdASogACAAPtFSo0woJCMiMBgMAQAaCWIAsO2Lky06zbedkXSvgtn6Mric7xLuHIqiWfCPbjUFAAD+/mDG6WGSPIn+E7pzTqprN4E4R5Rxa/tXGbu330Ne85BrSfXBUz5q450PK9DAPv9SGVpAXvz/fVjfz2YeOptobvSbcfmsmdd8SDw/w7ivoyAiwJX7K9LTt1ciACzidqp5MZbxec9ZSeCMH9hXRpAxYBmxzrBwG4c74NWB+Fs8NzvspZEacpNQg2vWO4c7cHZdPaWSx3ghI0kUVPzz6wAWzGJK99mmMVl1Vk/u0AllLlPKYhhs67xTkA7ATYBe1girAAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/benedikt-hartmann",
+  "personId": 1041,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Mechanical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Benedikt Hartmann",
+  "ca": null,
+  "summary": "Working on something new.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "frischluft",
+      "companyUrl": "https://www.linkedin.com/company/frischluft-commerce",
+      "description": "www.frischluft-fensterbrett.de",
+      "location": null,
+      "start": "2023-01",
+      "end": "2026-12",
+      "dateRange": "Jan 2023 – Dec 2026",
+      "current": false
+    },
+    {
+      "title": "Student Venture Partner",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": "Reach out to me via LinkedIn if you are founding/fundraising!",
+      "location": null,
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Hardware Engineer",
+      "company": "atmio",
+      "companyUrl": "https://www.linkedin.com/company/useatmio",
+      "description": "Measuring what matters and tackling methane emissions. Developing the next generation of quantification equipment for my final thesis at TUM.",
+      "location": null,
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Application Engineer - Working Student",
+      "company": "RobCo",
+      "companyUrl": "https://www.linkedin.com/company/robco-therobotcompany",
+      "description": "Robco's modular robot kit offers an easy to use and software-based automation solution for the industrial manufacturing.",
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Tutor",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Technical Mechanics 1",
+      "location": null,
+      "start": "2021-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Subteam Member Cutterhead",
+      "company": "TUM Boring – Innovation in Tunneling e.V.",
+      "companyUrl": "https://www.linkedin.com/company/tum-boring",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2020 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Founding Member",
+      "company": "TUM Boring – Innovation in Tunneling e.V.",
+      "companyUrl": "https://www.linkedin.com/company/tum-boring",
+      "description": "TUM Boring – Innovation in Tunneling e.V. is a team from the Technical University of Munich (TUM), consisting of 60 highly motivated students who have come together to work towards a greener future in which we spend less time in traffic. To achieve this, we aim to build the world's fastest tunnel boring machine and compete in Elon Musk's Not-a-Boring Competition.\nUpdate: Won 1st place in the Not-A-Boring Competition in September 2021.",
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Subteam Lead Cutterhead",
+      "company": "TUM Boring – Innovation in Tunneling e.V.",
+      "companyUrl": "https://www.linkedin.com/company/tum-boring",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Praktikant",
+      "company": "EDAG Group",
+      "companyUrl": "https://www.linkedin.com/company/edaggroup",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "xsrobotics",
+      "companyUrl": "https://www.linkedin.com/company/xsrobotics",
+      "description": "xsrobotics began with a passion for building robots. While developing a modular educational robotics build-kit for high school students, we discovered opportunities in the field of CO2 Lasercutting. Our laser cutter related products currently help over 3000 customers from 23 countries to use their laser cutter more effectively. Discover more here: www.xs-robotics.de",
+      "location": null,
+      "start": "2018-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2018 – Dec 2023",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Entwicklung, Produktion & Management im Maschinenbau",
+      "dateRange": "2024"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Visiting Researcher - Institute for Manufacturing (IFM)",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology and Management",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Mechanical Engineering",
+      "dateRange": "2020 – 2024"
+    },
+    {
+      "school": "Virginia Tech",
+      "degree": "Leaders in Entrepreneurship - Summer Program, Fulbright Scholarship",
+      "dateRange": "2022"
+    }
+  ],
+  "skills": [
+    "C++",
+    "Mentoring",
+    "3D-design",
+    "Arduino",
+    "Robotik",
+    "Fusion360",
+    "3D Druck",
+    "PCB Design",
+    "3D-Design"
+  ],
+  "languages": [],
+  "company": null
+}

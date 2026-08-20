@@ -1,0 +1,232 @@
+{
+  "id": "-robert-kaiser",
+  "name": "Robert Kaiser",
+  "headline": "Head of Revenue at Tacto",
+  "avatar": {
+    "sm": "/avatars/-robert-kaiser-sm.webp",
+    "lg": "/avatars/-robert-kaiser.webp",
+    "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAAAwBgCdASogACAAPtFUpU2oJCMiMBgIAQAaCWgAnTLfJbxKO+i24s+o+/vdl+zpJuwTn7WBtJgs8RjmAP75olW8N5X9B4RfWDRAL0Yi3EnA5fkTGpToLnF0FvBKmQ9yiIFZOzA16Rjk5HJUjttnSDZSXvPDZ0Saf6HJGDyCaHzZa9hrWoDRGo94Sr9+rW9e4zcWikB2xbErUpqKau13d7DSzDPQ9+SJApU5Fkt/K34IvLpxwza8FGae3QresaHFIMjpk9y8VtalNqBMpET8HOH4XRjknA4YQYn0cqQqBp5yTho0Dt5A7VBJbm71l29VNgjNClp4Zs9IAAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/-robert-kaiser",
+  "personId": 1083,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "M.Sc. Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Robert Kaiser",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Head of Revenue",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-06",
+      "end": null,
+      "dateRange": "Jun 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Customer Experience",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-03",
+      "end": "2025-12",
+      "dateRange": "Mar 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Chief Of Staff",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-11",
+      "end": "2024-04",
+      "dateRange": "Nov 2021 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Business/Ops",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-08",
+      "end": "2022-05",
+      "dateRange": "Aug 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-02",
+      "end": "2020-05",
+      "dateRange": "Feb 2019 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Junior Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-01",
+      "end": "2019-01",
+      "dateRange": "Jan 2018 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "AIDLETICS",
+      "companyUrl": "https://www.linkedin.com/company/aidletics",
+      "description": "AIDLETICS aims to enlarge the impact of sports: Creating a bigger positive impact rather than only fostering one‘s own health. We want to motivate people to get physically active through the incentive of a budget provided by their employers. A part of this budget is donated to a social project of the sportsperson’s choice for every tracked activity.",
+      "location": "Frankfurt am Main und Umgebung, Deutschland",
+      "start": "2016-06",
+      "end": "2018-02",
+      "dateRange": "Jun 2016 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Roland Berger",
+      "companyUrl": "https://www.linkedin.com/company/rolandberger",
+      "description": "Financial Services",
+      "location": "Munich",
+      "start": "2016-06",
+      "end": "2016-09",
+      "dateRange": "Jun 2016 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "Intern in Business Recovery Services (Restructuring unit)",
+      "company": "PwC",
+      "companyUrl": "https://www.linkedin.com/company/pwc",
+      "description": null,
+      "location": "Stuttgart und Umgebung, Deutschland",
+      "start": "2016-02",
+      "end": "2016-04",
+      "dateRange": "Feb 2016 – Apr 2016",
+      "current": false
+    },
+    {
+      "title": "Working Student in Consulting (Part-time internship during academic semester)",
+      "company": "KPMG in Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/kpmg-deutschland",
+      "description": null,
+      "location": "Stuttgart, Germany",
+      "start": "2015-02",
+      "end": "2015-07",
+      "dateRange": "Feb 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Intern in M&A/Corporate Finance",
+      "company": "cf:M GmbH corporate finance MITTELSTAND",
+      "companyUrl": "https://www.linkedin.com/company/cf-m-gmbh",
+      "description": null,
+      "location": "Frankfurt am Main und Umgebung, Deutschland",
+      "start": "2014-08",
+      "end": "2015-01",
+      "dateRange": "Aug 2014 – Jan 2015",
+      "current": false
+    },
+    {
+      "title": "Intern in Advisory, Information Technology",
+      "company": "KPMG Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/kpmg-deutschland",
+      "description": null,
+      "location": "Stuttgart, Germany",
+      "start": "2013-02",
+      "end": "2013-07",
+      "dateRange": "Feb 2013 – Jul 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Researcher in Business & Politics",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's Degree, Management & Technology; focused on politics",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "ESB Business School, Reutlingen University",
+      "degree": "Bachelor of Science (B.Sc.), International Management Double Degree",
+      "dateRange": "2012 – 2017"
+    },
+    {
+      "school": "Dublin City University",
+      "degree": "Bachelor of Arts (B.A.), Global Business",
+      "dateRange": "2012 – 2017"
+    },
+    {
+      "school": "Johannes Kepler Gymnasium, Reutlingen",
+      "degree": "Abitur (Higher education entrance qualification in Germany)",
+      "dateRange": "2003 – 2012"
+    }
+  ],
+  "skills": [
+    "Analysen",
+    "Finanzwesen",
+    "Unternehmensfinanzierung",
+    "Consulting",
+    "Fusionen und Übernahmen",
+    "Microsoft Excel",
+    "Excellent Power Point Skills",
+    "Unternehmensführung",
+    "Management",
+    "Analytische Fähigkeiten",
+    "Microsoft Office",
+    "Teamwork",
+    "Microsoft PowerPoint"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Tacto",
+    "tagline": "Stronger Procurement. Stronger Company. Stronger Future.",
+    "description": "The world is getting more complex and dynamic than ever before. China, climate, elections, trade wars, bureaucracy. Yet manufacturing, our hidden gem, is struggling to evolve. \n\nOften overlooked: the supply chain. Hundreds of tightly interconnected suppliers, thousands of production-critical parts, global dependencies. Yet procurement is expected to manage this complexity with Excel and Outlook, static ERP systems, and outdated supplier data. That no longer works.\n\nMore than 50% of the cost of a physical product is created in the supply chain. Competitive manufacturing therefore starts in procurement. AI offers the opportunity to optimally balance time, cost, and quality in procurement.\n\nThat’s why Tacto is building the first Procurement Intelligence Platform for industrial companies: not another workflow tool, but a system that creates transparency, delivers actionable recommendations, and enables execution - with procurement as the decision-maker at the center.\n\nPowered by Tacto Intelligence, you see your procurement operations at a glance: KPIs, suppliers, and real-time order and material movements. In the background, Tacto connects your ERP data with external market data to form the Procurement Brain. On top of that, AI agents automate manual work, identify risks and savings opportunities, and provide precise recommendations. Automated workflows turn these signals into action - delivering measurable results: lower costs, better quality, and higher availability.",
+    "industry": "Software Development",
+    "website": "https://www.tacto.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/tactotechnology",
+    "employeeCount": 152,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

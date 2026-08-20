@@ -1,0 +1,244 @@
+{
+  "id": "jonas-kerber-862a5713a",
+  "name": "Jonas Kerber",
+  "headline": "PhD candidate in AI for forests in climate change | CDTM & TUM",
+  "avatar": {
+    "sm": "/avatars/jonas-kerber-862a5713a-sm.webp",
+    "lg": "/avatars/jonas-kerber-862a5713a.webp",
+    "blur": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAABwBQCdASogACAAPs1QokunpKMht/VYAPAZiUAZdLFq5VbClkRgCIFE0s4oFQ4FLTbMfFgAAP7+wh7ZGGTDG0MyiS+yVdx/kV461OfYflUDv3MeH/fzDScXkuPRt6K0mpkla+h3deoXeYpejgZHdeYWcqi9LZHme9sXE+CMXM0/bcjE1lz0qjbNsVc30H4J/oM7GO/LKK1jpz+cD9s5pJ8mAcGKbPzts6ftbWPhF7WVwzAdWKP1GG+uk83cytLzvnNxyJJ5Ph7jRCNNHNEpgAAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jonas-kerber-862a5713a",
+  "personId": 949,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jonas Kerber",
+  "ca": null,
+  "summary": "I am looking for a PhD Position in Munich starting February/March 2022.\n\nI want to leverage my Background in Computer Science to research topics that create a sustainable impact. Last, I was working on quantifying the carbon capture potential of managed forests and I am open to explore new domains where my work and research can provide a meaningful impact.\n\nIf you know about any positions, please feel free to drop me a message.",
+  "positions": [
+    {
+      "title": "PHD Candidate",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Chair of Ecosystem Dynamics and Forest Management",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-04",
+      "end": null,
+      "dateRange": "Apr 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Pina",
+      "companyUrl": "https://www.linkedin.com/company/pina-earth",
+      "description": "Pina quantifies and rewards sustainable forestry by combining remote sensing technologies with artificial intelligence.\n\nAs a co-founder of the climate-tech startup Pina, I was working on a solution to protect our forests by quantifying and rewarding sustainable forestry. I was developing deep learning solutions for assessing tree carbon based on remote sensing data gathered from drones and satellites. Additionally, worked on forest growth simulations and climate modeling.",
+      "location": null,
+      "start": "2020-10",
+      "end": "2022-11",
+      "dateRange": "Oct 2020 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Master Thesis",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Title: Scenario Clustering to Leverage the Estimation of the Required Test Coverage for Automated Vehicles\n\nIn cooperation with BMW Technology Office Mountain View (see previous position).",
+      "location": "München, Bayern, Deutschland",
+      "start": "2019-10",
+      "end": "2020-03",
+      "dateRange": "Oct 2019 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Autonomous Driving Intern",
+      "company": "BMW of North America, LLC",
+      "companyUrl": "https://www.linkedin.com/company/bmwgroupus",
+      "description": "Research in Scenario Clustering for Automated Driving\n\nBMW Technology Office Mountain View,",
+      "location": "Mountain View, California",
+      "start": "2019-04",
+      "end": "2019-10",
+      "dateRange": "Apr 2019 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Autonomous Driving Developer and Agile Coach",
+      "company": "Roboy",
+      "companyUrl": "https://www.linkedin.com/company/robodies",
+      "description": "Part of a student research and development team teaching a humanoid robot how to autonomously ride a tricycle rickshaw.\nAlso contributing to 2 other teams as an Agile Coach.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-10",
+      "end": "2019-03",
+      "dateRange": "Oct 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Trend & Future Research",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Trend & futures research in the field of Artificial Intelligence in a collaborative project between Siemens’ AI Lab and CDTM: \"Digital Companions in the Factory of the Future\"",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-02",
+      "end": "2018-04",
+      "dateRange": "Feb 2018 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "TWT GmbH",
+      "companyUrl": "https://www.linkedin.com/company/twt_gmbh",
+      "description": "Working Student Car IT",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2017-11",
+      "end": "2018-02",
+      "dateRange": "Nov 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Fastlane Scholar (M.Sc.)",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Scholarship Program of BMW for Master students including thesis",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2017-10",
+      "end": "2019-09",
+      "dateRange": "Oct 2017 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Autonomous Driving Intern",
+      "company": "BMW of North America, LLC",
+      "companyUrl": "https://www.linkedin.com/company/bmwgroupus",
+      "description": "BMW Technology Office Mountain View, California: Autonomous Driving Intern:\n- Technology scouting: Automotive Sensors (Radar, Lidar, Cameras)\n- Sensor testing and integration\n- Simulation of autonomous driving",
+      "location": "Mountain View, California",
+      "start": "2017-03",
+      "end": "2017-09",
+      "dateRange": "Mar 2017 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Thesis Student",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Bachelor thesis: Development of a method for a simulation based evaluation of an automated driving function using critical scenarios (thesis written in German)\n\nMethod components\n- evaluation of overtaking scenarios\n- extraction of a scenario as detected in the traffic simulation (rosbag)\n- exporting that rosbag to a scenario describing xml\n\nOther work for thesis:\n- research into autonomous driving and risk-defining criteria in traffic situations\n- ROS development\n- python scripting",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2016-08",
+      "end": "2017-02",
+      "dateRange": "Aug 2016 – Feb 2017",
+      "current": false
+    },
+    {
+      "title": "Student Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Internship at EI-58 (now EV-340): \n- setting up HIL environment\n- restbussimulation with CANoe\n- ECU tests\n- field tests of function",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2016-01",
+      "end": "2016-02",
+      "dateRange": "Jan 2016 – Feb 2016",
+      "current": false
+    },
+    {
+      "title": "Student Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Practical Semester in BMW Car IT GmbH Munich:\n- redundant ethernet (HSRE) demo: UDP client & server, continuous integration, deployment to iMX6 board\n- Jenkins continuous integration of a docker image\n- Integration of a SOME/IP implementation",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-02",
+      "end": "2015-07",
+      "dateRange": "Feb 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Student Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Internship at BMW Forschung und Technik (Research and Development):\n- Development of a Java program to parse an .arxml file and create a database of Flexray messages",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2014-09",
+      "end": "2014-09",
+      "dateRange": "Sep 2014 – Sep 2014",
+      "current": false
+    },
+    {
+      "title": "SpeedUp Scholar (B.Sc.)",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Scholarship Program of BMW for Bachelor students including internships and thesis",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2013-09",
+      "end": "2017-03",
+      "dateRange": "Sep 2013 – Mar 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Robotics, Cognition, Intelligence",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Technische Hochschule Ingolstadt",
+      "degree": "Bachelor of Science - BS, Informatik",
+      "dateRange": "2013 – 2017"
+    },
+    {
+      "school": "Stellenbosch University",
+      "degree": "Informatik",
+      "dateRange": "2015"
+    }
+  ],
+  "skills": [
+    "Python",
+    "ROS",
+    "Linux",
+    "C",
+    "Java",
+    "C#",
+    "Matlab",
+    "Simulink",
+    "Jenkins",
+    "Git",
+    "Deep Learning",
+    "Microsoft Azure Machine Learning",
+    "Fernerkundung",
+    "LiDAR",
+    "Satellit",
+    "Maschinelles Lernen"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Technical University of Munich",
+    "tagline": "Official LinkedIn account of the Technical University of Munich",
+    "description": "Our university combines top-class facilities for cutting-edge research with unique learning opportunities for 52,000 students. Whether our researchers are investigating the origins of life, matter and the universe or looking for solutions to the major challenges for our society, people lie at the heart of our research and innovation agenda. Our goal is to create lasting value for society through excellence in education and research, the active promotion of next-generation talents and a strong entrepreneurial spirit. All of which combine to make TUM one of Europe’s leading universities. \n\n| Imprint: http://www.tum.de/legal-notice",
+    "industry": "Research Services",
+    "website": "https://www.tum.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+    "employeeCount": 11550,
+    "foundedYear": 1868,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

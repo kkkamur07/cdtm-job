@@ -1,0 +1,240 @@
+{
+  "id": "marcklingen",
+  "name": "Marc Klingen",
+  "headline": "Co-founder langfuse.com (YC W23, part of ClickHouse)",
+  "avatar": {
+    "sm": "/avatars/marcklingen-sm.webp",
+    "lg": "/avatars/marcklingen.webp",
+    "blur": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAADQBQCdASogACAAPtFYpE0oJSOiKA1RABoJaADImYwBLbXRApa99YeRLkCvNmcVLCK0PHaEQ3DAAP76qlaL8gKS/nv1L//P8pg7uvCeFxSO2hcF7h5IOIaDDxuyUs+ZZSjNI67YCLZrzPO4fn72Qo6mXLzQiXEkEQKzuh+idcJrtSKMGG/Shzf3C3nlPG2JO2+LGfG6AeTD7OJPrHUFhU/OKA53+POyV7QRaY/geLGpm2QfjuDwWxI7TEXaQwRB3I4rog88/u3MQOp56XgQeFJlDBXLbteT6j7IL/b6rINMCAAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/marcklingen",
+  "personId": 747,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Marc Klingen",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Director, AI Engineering Platform",
+      "company": "ClickHouse",
+      "companyUrl": "https://www.linkedin.com/company/clickhouseinc",
+      "description": null,
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "CEO and Co-founder",
+      "company": "Langfuse",
+      "companyUrl": "https://www.linkedin.com/company/langfuse",
+      "description": "We are building langfuse - an open source LLM engineering platform. Engineering teams use Langfuse to improve their LLM app using our tools for observability & complex tracing, analytics, prompt management, evaluations, datasets and playground. Learn more: https://langfuse.com\n\nWe've raised a seed round from YCombinator, Lightspeed & General Catalyst. We are hiring for technical roles - feel free to reach out to me ([firstname]@langfuse.com) or check out our open roles: https://langfuse.com/join-us\n\nLangfuse joined ClickHouse in early 2026 and we continue to build the leading Open Source LLM Engineering Platform.",
+      "location": null,
+      "start": "2022-07",
+      "end": null,
+      "dateRange": "Jul 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Revenue Operations",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": "Data engineering for go-to-market teams",
+      "location": null,
+      "start": "2022-03",
+      "end": "2022-05",
+      "dateRange": "Mar 2022 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Afilio",
+      "companyUrl": "https://www.linkedin.com/company/afilio-gmbh",
+      "description": "B2C app with >2m users, I focused on driving growth with PLG experiments and effective customer engagement throughout the lifecycle",
+      "location": null,
+      "start": "2018-06",
+      "end": "2018-08",
+      "dateRange": "Jun 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Product Manager (Customer Experience / Individual Delivery)",
+      "company": "DHL",
+      "companyUrl": "https://www.linkedin.com/company/dhl",
+      "description": "Data-driven optimization of last-mile customer experience, focus on parcel lockers, rerouting and scheduling",
+      "location": null,
+      "start": "2018-02",
+      "end": "2018-05",
+      "dateRange": "Feb 2018 – May 2018",
+      "current": false
+    },
+    {
+      "title": "Investment Analyst",
+      "company": "Cherry Ventures",
+      "companyUrl": "https://www.linkedin.com/company/cherry-ventures",
+      "description": null,
+      "location": null,
+      "start": "2017-09",
+      "end": "2017-12",
+      "dateRange": "Sep 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Sales Strategy (Google Cloud)",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": "2017-06",
+      "end": "2017-08",
+      "dateRange": "Jun 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Account Management (Google Marketing Solutions)",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": "2016-05",
+      "end": "2016-08",
+      "dateRange": "May 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Founders' Associate",
+      "company": "Simple Sleep",
+      "companyUrl": "https://www.linkedin.com/company/simplesleepmx",
+      "description": null,
+      "location": null,
+      "start": "2015-06",
+      "end": "2015-08",
+      "dateRange": "Jun 2015 – Aug 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Y Combinator",
+      "degree": "YC W23",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management & Technology (Computer Science and Innovation)",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "WHU – Otto Beisheim School of Management",
+      "degree": "Bachelor of Science - BS, International Business Administration and Management",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Tongji University",
+      "degree": "Semester Abroad",
+      "dateRange": "2019"
+    },
+    {
+      "school": "University of Michigan - Stephen M. Ross School of Business",
+      "degree": "Semester Abroad",
+      "dateRange": "2016"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "SQL",
+    "Sales",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Data Visualization",
+    "Digital Marketing",
+    "Google Analytics",
+    "Google Adwords",
+    "WordPress",
+    "Product Management",
+    "Microsoft PowerPoint",
+    "React.js",
+    "Git",
+    "Salesforce.com",
+    "Customer Success",
+    "Amazon Web Services (AWS)",
+    "Python",
+    "Google Cloud Platform (GCP)",
+    "Apache Spark",
+    "Tableau",
+    "Data Engineering",
+    "Snowflake",
+    "VBA",
+    "Business Intelligence (BI)",
+    "Google Ads",
+    "Adobe Photoshop",
+    "Data Modeling",
+    "G Suite",
+    "Firebase",
+    "Google BigQuery",
+    "Alteryx",
+    "Joomla",
+    "Amazon Redshift",
+    "Workflow Automation",
+    "Google Apps Script",
+    "Product Analytics",
+    "Reverse ETL",
+    "Messaging Automation",
+    "SaaS sales",
+    "Saas Sales"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Langfuse",
+    "tagline": "Open Source LLM Engineering Platform (now part of ClickHouse)",
+    "description": "Langfuse is the 𝗺𝗼𝘀𝘁 𝗽𝗼𝗽𝘂𝗹𝗮𝗿 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲 𝗟𝗟𝗠𝗢𝗽𝘀 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺. It helps teams collaboratively develop, monitor, evaluate, and debug AI applications.\n\nLangfuse can be 𝘀𝗲𝗹𝗳-𝗵𝗼𝘀𝘁𝗲𝗱 in minutes and is battle-tested and used in production by thousands of users from YC startups to large companies like Khan Academy or Twilio. Langfuse builds on a proven track record of reliability and performance.\n\nDevelopers can trace any Large Language model or framework using our SDKs for Python and JS/TS, our open API or our native integrations (OpenAI, Langchain, Llama-Index, Vercel AI SDK). Beyond tracing, developers use 𝗟𝗮𝗻𝗴𝗳𝘂𝘀𝗲 𝗣𝗿𝗼𝗺𝗽𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁, 𝗶𝘁𝘀 𝗼𝗽𝗲𝗻 𝗔𝗣𝗜𝘀, 𝗮𝗻𝗱 𝘁𝗲𝘀𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝗲𝘃𝗮𝗹𝘂𝗮𝘁𝗶𝗼𝗻 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 to improve the quality of their applications.\n\nProduct managers can 𝗮𝗻𝗮𝗹𝘆𝘇𝗲, 𝗲𝘃𝗮𝗹𝘂𝗮𝘁𝗲, 𝗮𝗻𝗱 𝗱𝗲𝗯𝘂𝗴 𝗔𝗜 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀 by accessing detailed metrics on costs, latencies, and user feedback in the Langfuse Dashboard. They can bring 𝗵𝘂𝗺𝗮𝗻𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗹𝗼𝗼𝗽 by setting up annotation workflows for human labelers to score their application. Langfuse can also be used to 𝗺𝗼𝗻𝗶𝘁𝗼𝗿 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗿𝗶𝘀𝗸𝘀 through security framework and evaluation pipelines.\n\nLangfuse enables 𝗻𝗼𝗻-𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘁𝗲𝗮𝗺 𝗺𝗲𝗺𝗯𝗲𝗿𝘀 to iterate on prompts and model configurations directly within the Langfuse UI or use the Langfuse Playground for fast prompt testing.\n\nLangfuse is 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲 and we are proud to have a fantastic community on Github and Discord that provides help and feedback. Do get in touch with us!",
+    "industry": "Software Development",
+    "website": "https://langfuse.com",
+    "linkedInUrl": "https://www.linkedin.com/company/langfuse",
+    "employeeCount": 19,
+    "foundedYear": 2022,
+    "location": "San Francisco, United States",
+    "specialities": [
+      "Langfuse",
+      "Large Language Models",
+      "Observability",
+      "Prompt Management",
+      "Evaluations",
+      "Testing",
+      "Open Source",
+      "LLM",
+      "AI",
+      "Analytics",
+      "Open Source",
+      "Artificial Intelligence"
+    ]
+  }
+}

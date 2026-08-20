@@ -1,0 +1,257 @@
+{
+  "id": "dbadrian",
+  "name": "David Adrian",
+  "headline": "Research Scientist",
+  "avatar": {
+    "sm": "/avatars/dbadrian-sm.webp",
+    "lg": "/avatars/dbadrian.webp",
+    "blur": "data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAADQBgCdASogACAAPsVQo0unpKOhsAwA8BiJbACdMuOCnSJjroj2tYpWmxySuJHRtrkaIXRSx2kruzu65aMUYAAA/nYVH/E3LostkbaqYx1fQt9bvPyZQZbq2QtR1Nn2JlN7MdDBPSTah6YZ+onnqsJV3vDhIQZse0+be/lDLIrbECnagCawIpEmfbZe64qBj/npFN3VrOXpIoN/LtiyturYNT0zLP3RL1LrTm0Sm7WLuK9FDyKyKza2ZC9f2uXhMAscrLu13/O1ywFZZFyZE+jrMm6y2Wbqgmc4n23qBLx7y5A5mwcPXvFPWzmnEvVE5eGwfDPgkXBXnsUEbifJ0hf+OP1gB3dMYIe1a11mrD2GWkoW7GF8D2zu7m3iiGBT0+aji+wZNWfdhB4yoAA="
+  },
+  "location": "Stuttgart, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dbadrian",
+  "personId": 958,
+  "classes": [
+    {
+      "id": 77,
+      "label": "Spring 2015",
+      "season": "Spring",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2015",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "David Adrian",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Research Scientist",
+      "company": "Bosch",
+      "companyUrl": "https://www.linkedin.com/company/bosch",
+      "description": null,
+      "location": "Renningen, Baden-Württemberg, Germany",
+      "start": "2023-08",
+      "end": null,
+      "dateRange": "Aug 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Doctoral Student",
+      "company": "Bosch Center for Artificial Intelligence (BCAI)",
+      "companyUrl": "https://www.linkedin.com/company/bosch-center-for-artificial-intelligence-bcai",
+      "description": null,
+      "location": "Stuttgart Area, Germany",
+      "start": "2019-07",
+      "end": "2023-06",
+      "dateRange": "Jul 2019 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Computer Vision/Software Engineer",
+      "company": "NavVis",
+      "companyUrl": "https://www.linkedin.com/company/navvis",
+      "description": "Implementation and evaluation of a mesh reconstruction pipeline",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-09",
+      "end": "2019-06",
+      "dateRange": "Sep 2018 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Master Thesis Student",
+      "company": "Mercateo",
+      "companyUrl": "https://www.linkedin.com/company/unite-network",
+      "description": "Research on representation learning of knowledge graphs\n\nkey words: knowledge graph completion, tensor factorization, latent distance models, tensorflow",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-11",
+      "end": "2018-04",
+      "dateRange": "Nov 2017 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Freelance Software Engineer",
+      "company": "Robotise GmbH i.Gr.",
+      "companyUrl": "https://www.linkedin.com/company/jeevesbyrobotise",
+      "description": "- Design, implementation and testing of perception algorithms ( OpenCV and PCL)\n- Development/Fine-tuning of navigation stack, including global and local planner and localization\n- Setting up and maintaining of internal code development platform and backup\n- Setting up continuous integration for internal ROS packages\n- Establish internal development and release cycles\n- Setting up and maintaining internal Debian/Apt repository for ROS packages (internal usage and release to customers)",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-03",
+      "end": "2017-08",
+      "dateRange": "Mar 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "NTT (Nippon Telegraph and Telephone Corporation)",
+      "companyUrl": "https://www.linkedin.com/company/ntt",
+      "description": "- Working on Deep Learning, Computer Vision, Natural Language Processing, Data Mining related topics\n\nMukuta, Kimura, Adrian, Ghahramani (2018). Weakly supervised collective feature learning from curated media. In AAAI, pp. to appear.\n\n------------------------------------------------------------\nRecognition Research Group, Media Information Laboratory\nNTT Communication Science Laboratories\n\nEU-Japan Vulcanus Programme Fellow",
+      "location": "Atsugi-shi, Kanagawa, Japan",
+      "start": "2016-01",
+      "end": "2016-08",
+      "dateRange": "Jan 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Research Assistant at NavVis",
+      "company": "NavVis",
+      "companyUrl": "https://www.linkedin.com/company/navvis",
+      "description": "- Implementing algorithms to remove inconsistencies in point clouds\n\nKeywords: SLAM, ROS, PCL, Eigen",
+      "location": "Munich Area, Germany",
+      "start": "2014-10",
+      "end": "2015-07",
+      "dateRange": "Oct 2014 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Siemens Corporate Research",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "- Extending a Structure-from-Motion pipeline by implementing&integrating a full 3D workflow. Updating of existing methods to new libraries and frameworks\n- Evaluating/Implementing methods for depth camera calibration (myopic error correction)\n- Porting/Refactoring C code to C++\n\nKeywords: SfM, Structure from Motion, SLAM, PCL, OpenCV, Eigen, Camera Calibration, Asus Xtion, Kinect, RGBD",
+      "location": "Princeton, New Jersey, USA",
+      "start": "2014-01",
+      "end": "2014-06",
+      "dateRange": "Jan 2014 – Jun 2014",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "- Porting/Setup of an event-based 3D SLAM framework on low-power ARM hardware running linux based system\n- Extending an event-based 3D SLAM framework to run in real-time on embedded, low-power ARM hardware (e.g., Rockchip devices)\n- Implement streaming of data (pose/map) via UDP and visualization client\n- Designing/Constructing mount  for mobile robot to carry hardware setup to demonstrate the algorithm in the scope of workshop demo (Weikersdorfer, D.; Adrian, D.; Conradt, J.: Event-based 3D SLAM. Bernstein Sparks Workshop on NeuroEngineering, Tutzing, 2013)\n\n- Designing/constructing camera mount for stereo vision setup of two Dynamic Vision Sensors\n- Designing/construction calibration plate for stereo vision DVS setup",
+      "location": "Munich Area, Germany",
+      "start": "2013-10",
+      "end": "2013-11",
+      "dateRange": "Oct 2013 – Nov 2013",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistent",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "- Teaching Assistant for the C Programming Course\n- Supervisor of around 30 students",
+      "location": "Munich Area, Germany",
+      "start": "2012-10",
+      "end": "2013-01",
+      "dateRange": "Oct 2012 – Jan 2013",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "-Development of a configurable and flexible evaluation software and GUI in Matlab, to evaluate measurements of linear motors (and similar):\n1) easy to detect incorrect measurements in the lab\n2) low-level examination of the measurements in the advanced development dept.\n\n-A wrapper library in C# for Siemens Starter to be used in LabVIEW to control and automate measurement procedures.",
+      "location": "Munich Area, Germany",
+      "start": "2011-09",
+      "end": "2011-11",
+      "dateRange": "Sep 2011 – Nov 2011",
+      "current": false
+    },
+    {
+      "title": "Conscript",
+      "company": "German Armed Forces",
+      "companyUrl": "https://www.linkedin.com/company/german-armed-forces",
+      "description": null,
+      "location": "3. FüUstgBtl 293, Murnau am Staffelsee",
+      "start": "2009-07",
+      "end": "2010-03",
+      "dateRange": "Jul 2009 – Mar 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Electrical Engineering and Information Technology",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Technology Management",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Electrical Engineering and Information Technology",
+      "dateRange": "2010 – 2013"
+    },
+    {
+      "school": "The Naganuma School - Tokyo School of Japanese Language",
+      "degree": "Japanese Language and Literature",
+      "dateRange": "2015"
+    }
+  ],
+  "skills": [
+    "Scientific Background",
+    "Experimental Research",
+    "Scientific Experimentation",
+    "Technical Research",
+    "Artificial Intelligence",
+    "C++",
+    "C",
+    "Linux",
+    "Matlab",
+    "Computer Vision",
+    "OpenCV",
+    "Robotics",
+    "Research",
+    "Deep Learning",
+    "SLAM",
+    "Dynamic Vision Sensor",
+    "Machine Learning",
+    "Computational Intelligence",
+    "CMake",
+    "PCL",
+    "OpenNI",
+    "Git",
+    "C/C++",
+    "Algorithms",
+    "Programming",
+    "Embedded Systems",
+    "Python",
+    "LabVIEW",
+    "C#",
+    "Data Mining",
+    "Microsoft Office",
+    "LaTeX",
+    "Bash",
+    "tensorflow",
+    "Mesh Reconstruction"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Japanese"
+  ],
+  "company": {
+    "name": "Bosch",
+    "tagline": null,
+    "description": "The Bosch Group is a leading global supplier of technology and services. It employs roughly 413,000 associates worldwide (as of December 31, 2025). The company generated sales of 91 billion euros in 2025. Its operations are divided into four business sectors: Mobility, Industrial Technology, Consumer Goods, and Energy and Building Technology. With its business activities, the company aims to use technology to help shape universal trends such as automation, electrification, digitalization, connectivity, and an orientation to sustainability. In this context, Bosch’s broad diversification across regions and industries strengthens its innovativeness and robustness. Bosch uses its proven expertise in sensor technology, software, and services to offer customers cross-domain solutions from a single source. It also applies its expertise in connectivity and artificial intelligence in order to develop and manufacture user-friendly, sustainable products. With technology that is “Invented for life,” Bosch wants to help improve quality of life and conserve natural resources. The Bosch Group comprises Robert Bosch GmbH and its roughly 500 subsidiary and regional companies in over 60 countries. Including sales and service partners, Bosch’s global manufacturing, engineering, and sales network covers nearly every country in the world. Bosch’s innovative strength is key to the company’s further development. At 136 locations across the globe, Bosch employs some 82,000 associates in research and development.\n\nInstagram: https://www.instagram.com/boschglobal/\nFacebook: https://www.facebook.com/BoschGlobal\nGlassdoor: https://bit.ly/3raTZnH \n\nImprint: www.bosch.com/corporate-information\nPrivacy statement: https://www.bosch.com/data-protection-notice-bosch-linkedin/",
+    "industry": "Software Development",
+    "website": "http://www.bosch.com",
+    "linkedInUrl": "https://www.linkedin.com/company/bosch",
+    "employeeCount": 160270,
+    "foundedYear": null,
+    "location": "Gerlingen-Schillerhöhe, Germany",
+    "specialities": [
+      "Mobility Solutions",
+      "Industrial Technology",
+      "Consumer Goods",
+      "Energy and Building Technology",
+      "Connected Industries",
+      "Internet of Things",
+      "Automated Driving",
+      "Smart Home",
+      "Software",
+      "Artificial Intelligence",
+      "Sustainable Technology"
+    ]
+  }
+}

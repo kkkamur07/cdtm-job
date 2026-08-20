@@ -1,0 +1,245 @@
+{
+  "id": "moritzbeutter",
+  "name": "Moritz Beutter",
+  "headline": "Global AI, Apps & Agents Business Strategy Lead at Microsoft I xMcK I CDTM",
+  "avatar": {
+    "sm": "/avatars/moritzbeutter-sm.webp",
+    "lg": "/avatars/moritzbeutter.webp",
+    "blur": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAADQBQCdASogACAAPs1WoUunpKMhsBgMAPAZiWMAVQ1cD0tNBK+QXxZeC//QfXRaHCE+pEheR7IAAP79LdF0S5o33PI6X0GgwPhhHWpz0/iP0olFhoHdizDPpAFr//WP4TQUzSMbpfRTXcBEQ4sPesAHUPXmBUszX46j+za9OwIsiMXgEJmaDUa8nZ6a01feHjmcmsXxj30jJXACUJYdOVsJgmpPSrAdbveq6ywbE2Izb+3pSsEFGg2nsQygYIFoHju4wahhdoSncwo5nV1dx7UiAyWQmZIvm2wdkCOGncGEoQAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/moritzbeutter",
+  "personId": 1067,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Moritz Beutter",
+  "ca": null,
+  "summary": "Technical AI GTM leader operating at the intersection of product, field, and enterprise transformation. I design and scale repeatable motions that help organizations move from AI experimentation to production impact- combining technical depth, commercial judgment, and cross-functional leadership.\n \nAt Microsoft, I lead global go-to-market strategy for AI, apps, and agents on Azure—enabling ~100k enterprise customers and ~20k sellers, and influencing $xM+ in AI-related pipeline. My focus is turning emerging AI capabilities into scalable, field-ready solutions that drive measurable business outcomes.\n \nPreviously, I was an Engagement Manager at McKinsey Digital, leading large-scale transformations across advanced industries (manufacturing, semiconductors, automotive), with a strong focus on GenAI, data, and sales excellence.\n \nEarlier in my career (2019), I founded and exited an NLP startup focused on knowledge management for media organizations. The company built on early transformer models such as GPT-2 and BERT, helping editorial teams structure and retrieve information more effectively.\n \nWhat I care about:\na) Making AI real in enterprise environments (not just pilots) \nb) Building scalable platforms, not one-off solutions \nc) Bridging product innovation with GTM execution\n\nI hold a Master’s degree in Management & Technology from the Technical University of Munich (TUM) and an Honors Degree from the Center for Digital Technology & Management (CDTM). My background allows me to combine technical depth with commercial thinking to translate complex technologies into tangible outcomes",
+  "positions": [
+    {
+      "title": "Global Sales Strategy & GTM Lead - AI, Apps & Agents",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": null,
+      "location": null,
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Sr. (Gen)AI/ML Specialist - Global Black Belt",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Delivering C-suite briefings as well as deep-dive architecture workshops, shaping E2E GenAI adoption strategies across global enterprises for fast GenAI adoption \nShape Azure AI product direction by triaging and prioritizing customer-driven feature requests\nEnable developer teams as well as field teams to set up agentic excellence",
+      "location": null,
+      "start": "2024-12",
+      "end": "2025-09",
+      "dateRange": "Dec 2024 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Engagement Manager",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "Led multiple teams in advanced industries, collaborating directly with C-Level and senior leaders\nDeveloped strategies with clients for cloud, GenAI and sales transformations\nShaped growth strategies and advised on key investment decisions at the executive level",
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2021-06",
+      "end": "2023-12",
+      "dateRange": "Jun 2021 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "External Consultant",
+      "company": "Freshfields",
+      "companyUrl": "https://www.linkedin.com/company/freshfields",
+      "description": "Collaboration with Freshfields Bruckhaus Deringer on a comprehensive analysis of the German start-up ecosystem, focusing on key trends, challenges, and opportunities for innovation. The project aimed to provide strategic insights into the legal, financial, and operational aspects of emerging ventures in Germany, helping both start-ups and investors navigate the evolving market landscape.",
+      "location": null,
+      "start": "2019-09",
+      "end": "2020-01",
+      "dateRange": "Sep 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "faktual (IP acquired by PEIQ)",
+      "companyUrl": "https://www.linkedin.com/company/faktually",
+      "description": "faktual is an NLP (now GenAI) powered research and content management suite designed to streamline information collection. Tailored to search queries, it delivers ready-to-use information and was considered an early-stage application of ChatGPT-like technology for enhancing content generation. After growing the company to 5 people, faktual was acquired by PEIQ in December 2020.",
+      "location": null,
+      "start": "2019-03",
+      "end": "2021-02",
+      "dateRange": "Mar 2019 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Trend & Future Researcher",
+      "company": "GEA Group",
+      "companyUrl": "https://www.linkedin.com/company/geagroup",
+      "description": "Analyzing current market trends in the dairy industry \nConducting design-thinking workshops with lead users to develop think-big ideas \nDeriving business models based on identified growth drivers and lead-user research",
+      "location": null,
+      "start": "2019-03",
+      "end": "2019-04",
+      "dateRange": "Mar 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Management Consulting - Digitalization and Financial Services",
+      "company": "PwC Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/pwc-deutschland",
+      "description": "Developing a Big Data based BI-tool (focussing on financial planning and reporting)\nSupporting digital transformation of controlling departments in the construction sector \nCarrying out market and competition research",
+      "location": null,
+      "start": "2018-03",
+      "end": "2019-10",
+      "dateRange": "Mar 2018 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis Student",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": "Developing a methodology to validate markets in the software environment as early and lean as possible\nOart if SAP FastTrack (talent development program)",
+      "location": null,
+      "start": "2017-08",
+      "end": "2018-02",
+      "dateRange": "Aug 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Working Student/Intern Continuous-Improvement-Manager",
+      "company": "1&1 Telecommunication SE",
+      "companyUrl": "https://www.linkedin.com/company/1und1de",
+      "description": null,
+      "location": null,
+      "start": "2017-03",
+      "end": "2017-08",
+      "dateRange": "Mar 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Research Development Intern",
+      "company": "Mercedes-Benz AG",
+      "companyUrl": "https://www.linkedin.com/company/mercedes-benz_ag",
+      "description": "Projektsteuerung  Kleinserie S-Klasse Guard\nPart of Mercedes talent relationship program (sponsored) - \"VDI Elevate\"",
+      "location": null,
+      "start": "2016-08",
+      "end": "2017-02",
+      "dateRange": "Aug 2016 – Feb 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.) (120 ECTS), Technology and Management - Informatics & Finance",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree (45 ECTS), Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Minnesota State University, Mankato",
+      "degree": "Bachelor of Science - BS , Business Administration and Engineering",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Karlsruhe University of Applied  Sciences",
+      "degree": "Bachelor of Science - BS, Business Administration and Engineering (240ECTS) , Wirtschaftsingenieurwesen",
+      "dateRange": "2014 – 2018"
+    }
+  ],
+  "skills": [
+    "HTML",
+    "Microsoft Word",
+    "Microsoft Office",
+    "Social Media Marketing",
+    "Microsoft Excel",
+    "Communication",
+    "Market Research",
+    "Teamwork",
+    "Microsoft PowerPoint",
+    "Design Thinking",
+    "Python",
+    "Visual Basic for Applications (VBA)",
+    "Projektmanagement",
+    "Strategische Planung",
+    "R studio",
+    "Vertrieb",
+    "power pivot",
+    "Power Pivot",
+    "Power BI",
+    "python",
+    "Power BI",
+    "Power Pivot"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "Microsoft",
+    "tagline": null,
+    "description": "Every company has a mission. What's ours? To empower every person and every organization to achieve more. We believe technology can and should be a force for good and that meaningful innovation contributes to a brighter world in the future and today. Our culture doesn’t just encourage curiosity; it embraces it. Each day we make progress together by showing up as our authentic selves. We show up with a learn-it-all mentality. We show up cheering on others, knowing their success doesn't diminish our own. We show up every day open to learning our own biases, changing our behavior, and inviting in differences. Because impact matters. \n\nMicrosoft operates in 190 countries and is made up of approximately 228,000 passionate employees worldwide.",
+    "industry": "Software Development",
+    "website": "https://news.microsoft.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/microsoft",
+    "employeeCount": 229748,
+    "foundedYear": null,
+    "location": "Redmond, United States",
+    "specialities": [
+      "Business Software",
+      "Developer Tools",
+      "Home & Educational Software",
+      "Tablets",
+      "Search",
+      "Advertising",
+      "Servers",
+      "Windows Operating System",
+      "Windows Applications & Platforms",
+      "Smartphones",
+      "Cloud Computing",
+      "Quantum Computing",
+      "Future of Work",
+      "Productivity",
+      "AI",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Laptops",
+      "Mixed Reality",
+      "Virtual Reality",
+      "Gaming",
+      "Developers",
+      "IT Professional"
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "anselm-krauss-261b24226",
+  "name": "Anselm Krauss",
+  "headline": "Medicine | Physics",
+  "avatar": {
+    "sm": "/avatars/anselm-krauss-261b24226-sm.webp",
+    "lg": "/avatars/anselm-krauss-261b24226.webp",
+    "blur": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAAAQBgCdASogACAAPs1YpEunpaOhsBgMAPAZiWYAwoHdI4VZbdiK/RZ0Drg7U6zJr92PLTgx19rxvAAA/voW1GX9FfJmHgqQFl1aGyaHg5MkyqfuOg6jA9i53HdT/zjBQSmIA2xo9GSc2Mw/yBe76zz2YCKVGwa4KKVx8YxCZBJeA/b5htkc6unwT1pEr83sz263HjOPNKdPb2OKIEV++NOPdS3Eylz3BJGu4vpTlITmgbn1B19RqiSooz8xNbQwEKHNsjRFebD09m7xlS7crdLEywzooOjlCxin89nsr5r8AAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/anselm-krauss-261b24226",
+  "personId": 854,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Physics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Anselm Krauss",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Intern",
+      "company": "DESY",
+      "companyUrl": "https://www.linkedin.com/company/desy",
+      "description": "- Employed high-power lasers to alter water’s conductive state\n- Used accelerator-based terahertz to validate theoretical conductivity of water nanofilms excited by    XUV laser pulses",
+      "location": null,
+      "start": "2023-03",
+      "end": null,
+      "dateRange": "Mar 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Working Student",
+      "company": "Philips",
+      "companyUrl": "https://www.linkedin.com/company/philips",
+      "description": "- Developed sensors for next-gen cuffs enhancing hemodynamic measurement precision",
+      "location": null,
+      "start": "2024-11",
+      "end": "2025-05",
+      "dateRange": "Nov 2024 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Paramedic Apprentice",
+      "company": "Malteser in Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/malteser",
+      "description": "- Theoretical Training: 160 hours of foundational knowledge in emergency medicine at Malteser.\n- Hospital Internship: 160 hours of practical experience in the Helios Hospital Munich.\n- Field Training: 160 hours of hands-on practice at a rescue station of BRK Rottal-Inn.",
+      "location": null,
+      "start": "2024-09",
+      "end": "2024-12",
+      "dateRange": "Sep 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Lifeguard Apprentice",
+      "company": "DLRG",
+      "companyUrl": "https://www.linkedin.com/company/dlrg",
+      "description": "- Theoretical Training: Covered water safety, self- and partner-rescue techniques, first aid, and legal\nresponsibilities during rescues. Successfully passed a standardized national exam\n- Practical Training: Demonstrated proficiency in advanced swimming, diving, partner rescue, use of equipment, and emergency response, including CPR and full rescue simulations",
+      "location": null,
+      "start": "2024-07",
+      "end": "2024-09",
+      "dateRange": "Jul 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "- Industrialization of the next generation of Li-ion batteries in Europe with a focus on process planning\n- Close cooperation with the new factory in Debrecen, Hungary",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-02",
+      "end": "2024-03",
+      "dateRange": "Feb 2024 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Marvel Fusion",
+      "companyUrl": "https://www.linkedin.com/company/marvelfusion",
+      "description": "- Investigated optimal first wall materials for fusion reactors to enhance longevity and performance\n- Analyzed particle flux within a tokamak to determine the source term integral to the fusion process",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-07",
+      "end": "2023-04",
+      "dateRange": "Jul 2022 – Apr 2023",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Physics",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Researcher, Physics",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Physics",
+      "dateRange": "2020 – 2024"
+    },
+    {
+      "school": "Tel Aviv University",
+      "degree": "Exchange Semester,",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "TUM-BWL",
+      "dateRange": "2019 – 2020"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "Philips",
+    "tagline": "Better care for more people. 💙",
+    "description": "Over the past decade we have transformed into a focused leader in health technology.\n\nAt Philips, our purpose is to improve people’s health and well-being through meaningful innovation. We aim to improve 2.5 billion lives per year by 2030, including 400 million in underserved communities. \n\nWe see healthcare as a connected whole. Helping people to live healthily and prevent disease. Giving clinicians the tools they need to make a precision diagnosis and deliver personalized treatment. Aiding the patient's recovery at home in the community. All supported by a seamless flow of data.\n\nAs a technology company, we – and our brand licensees – innovate for people with one consistent belief: there’s always a way to make life better.\n\n\nVisit our website: http://www.philips.com/\nFollow our social media house rules https://www.philips.com/a-w/about-philips/social-media.html",
+    "industry": "Hospitals and Health Care",
+    "website": "https://www.philips.com/a-w/about.html",
+    "linkedInUrl": "https://www.linkedin.com/company/philips",
+    "employeeCount": 72199,
+    "foundedYear": null,
+    "location": "Amsterdam, Netherlands",
+    "specialities": [
+      "Healthcare",
+      "Medical Devices",
+      "Health systems",
+      "Cardiology",
+      "Healthtech",
+      "Oncology",
+      "Respiratory",
+      "Fertility, pregnancy",
+      "Connected Care"
+    ]
+  }
+}

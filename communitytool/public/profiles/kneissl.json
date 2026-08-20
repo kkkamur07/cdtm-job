@@ -1,0 +1,199 @@
+{
+  "id": "kneissl",
+  "name": "Fabian Kneißl",
+  "headline": "Senior Consultant",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/kneissl",
+  "personId": 1456,
+  "classes": [
+    {
+      "id": 61,
+      "label": "Spring 2007",
+      "season": "Spring",
+      "year": 2007,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2007",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Fabian Kneissl",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Software Consultant",
+      "company": "TNG Technology Consulting",
+      "companyUrl": "https://www.linkedin.com/company/tng-technology-consulting",
+      "description": null,
+      "location": null,
+      "start": "2014-04",
+      "end": null,
+      "dateRange": "Apr 2014 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Consultant",
+      "company": "TNG Technology Consulting",
+      "companyUrl": "https://www.linkedin.com/company/tng-technology-consulting",
+      "description": null,
+      "location": null,
+      "start": "2014-04",
+      "end": null,
+      "dateRange": "Apr 2014 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": null,
+      "description": "Crowdsourcing applications in art history and linguistics",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2010-10",
+      "end": "2013-12",
+      "dateRange": "Oct 2010 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Servtag GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2008-03",
+      "end": "2008-09",
+      "dateRange": "Mar 2008 – Sep 2008",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Klinikum Großhadern",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2006-03",
+      "end": "2008-02",
+      "dateRange": "Mar 2006 – Feb 2008",
+      "current": false
+    },
+    {
+      "title": "Software Test Engineer",
+      "company": "Pentos AG",
+      "companyUrl": null,
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2005-03",
+      "end": "2008-01",
+      "dateRange": "Mar 2005 – Jan 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Doktor, Informatik",
+      "dateRange": "2010 – 2014"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom, Informatik",
+      "dateRange": "2004 – 2010"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2007 – 2010"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "School of Information",
+      "dateRange": "2008 – 2009"
+    },
+    {
+      "school": "Cardiff University / Prifysgol Caerdydd",
+      "degree": "Computer Science",
+      "dateRange": "2006 – 2007"
+    }
+  ],
+  "skills": [
+    "LaTeX",
+    "Computer Science",
+    "JBoss Application Server",
+    "Games with a Purpose",
+    "Human Computation",
+    "Informatics",
+    "Photography",
+    "Software Development",
+    "Java Enterprise Edition",
+    "Java",
+    "Python",
+    "Crowdsourcing",
+    "E-Learning",
+    "Solr",
+    "Linux",
+    "Presentations",
+    "Project Management",
+    "Entrepreneurship",
+    "Debugging",
+    "JBoss Seam"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Italienisch",
+    "Russisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "TNG Technology Consulting",
+    "tagline": "We solve hard IT problems: Agile Software Development, Artificial Intelligence, DevOps & Cloud!",
+    "description": "TNG Technology Consulting is a values-based consulting partnership focused on high-end information technology.\n\nWe support our customers with up-to-date tools and innovative ideas. Our mission is to analyze and solve the strategic or routine IT problems our customers have. By relying on teamwork and fast communications, each customer can access the expertise pool of the whole company.\n\nWe hire only the best experts. Our people have the freedom to grow and the responsibility to do so. We believe that a rational cooperation between ourselves and our customers is both achievable and mutually beneficial.\n\n„[With TNG,] we have made more progress in 4 weeks than they have in 4 years.\" - Senior manager of a Californian global market leader\n\nLegal notice: https://www.tngtech.com/en/company-and-contact-information.html",
+    "industry": "Information Technology & Services",
+    "website": "https://www.tngtech.com",
+    "linkedInUrl": "https://www.linkedin.com/company/tng-technology-consulting",
+    "employeeCount": 848,
+    "foundedYear": 2001,
+    "location": "Unterföhring, Germany",
+    "specialities": [
+      "Software Engineering",
+      "JEE",
+      "Scrum",
+      "Kanban",
+      "IT Consulting",
+      "Due Diligence",
+      "Business Intelligence",
+      "Operations",
+      "Java",
+      "PHP",
+      "JavaScript",
+      "Agile Development",
+      "Continuous Integration",
+      "Test Driven Development",
+      "Code Reviews",
+      "Machine Learning",
+      "DevOps",
+      "Artificial Intelligence",
+      "Cloud",
+      "Python",
+      "Atlassian",
+      "Confluence",
+      "Jira",
+      "Bitbucket",
+      "AWS",
+      "Gradle",
+      "Software Architecture",
+      "Open Source",
+      "Slack",
+      "C#"
+    ]
+  }
+}

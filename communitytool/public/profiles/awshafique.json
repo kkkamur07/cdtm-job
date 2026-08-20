@@ -1,0 +1,180 @@
+{
+  "id": "awshafique",
+  "name": "Awais Shafique",
+  "headline": "CEO & Founder @ Beyond Presence | Founder & CPO @ Presize (Meta) | Forbes 30U30 | CDTM",
+  "avatar": {
+    "sm": "/avatars/awshafique-sm.webp",
+    "lg": "/avatars/awshafique.webp",
+    "blur": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABQBQCdASogACAAPtFYpEyoJSOiKA1RABoJZAAD5Rd+/xILtBxmmXWNWSSI1sNJ9uRW9AAA/v56ceKj7dWoZuohjrzY+5iY69X3qCY5mZ+CblC8/Zat32PxAXfEpKC+EsTYmYGX/O3fIBVm/J0B52fHm5xciva/MJHddeVA5u9j4Vj2/l0QQDHcMWLiZvDDZj6c23tD6kWKOwdRBSzd0iDQmQAUCYz+GBD5Oc/JS2xNnVvCTD4+iBrOVl/hIAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/awshafique",
+  "personId": 1009,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Biomedical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Awais Shafique",
+  "ca": null,
+  "summary": "Our team at Beyond Presence pioneers in leveraging AI for building the future of human interaction, a journey I embarked on after a successful tenure at Meta. Here, I spearheaded initiatives connecting fashion brands with global audiences through innovative social commerce platforms. My Master's degree in Biomedical Computing and an Honours in Technology Management, both fuel my drive for tech-driven solutions.\n\nPreviously, as Co-Founder and CPO of Presize, our collective vision and execution led to breakthroughs in accurate body measurements, enhancing e-commerce efficiency and sustainability. This venture's growth, culminating in acquisition by Meta, is testament to our team's dedication to transformative AI applications in the fashion industry.",
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Beyond Presence",
+      "companyUrl": "https://www.linkedin.com/company/beyond-presence",
+      "description": "Building the future of human computer interaction with hyper-realistic real-time conversational avatars.",
+      "location": null,
+      "start": "2024-05",
+      "end": null,
+      "dateRange": "May 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Meta",
+      "companyUrl": "https://www.linkedin.com/company/meta",
+      "description": "Product Manager within the Fashion Team. As a product team, we are responsible for helping connect fashion businesses with customers on Facebook and Instagram. The IG/FB Shops experience is already rolled out in the US.",
+      "location": null,
+      "start": "2022-04",
+      "end": "2023-04",
+      "dateRange": "Apr 2022 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Co-Founder/ CPO (Acquired by Meta)",
+      "company": "Presize (acq. by Meta)",
+      "companyUrl": "https://www.linkedin.com/company/presizeai",
+      "description": "VC-backed AI startup with 50 employees, >1m users, 50 B2B customers, grew from 0 to 6-digit MRR in one year. Product: The most accurate body measurements from one turn in front of a smartphone and/or body shape questions. Size recommendations for Fashion eCommerce people trust (higher conversion) & keep (less returns & CO2).",
+      "location": null,
+      "start": "2019-03",
+      "end": "2022-04",
+      "dateRange": "Mar 2019 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Deep Learning Engineer",
+      "company": "Kaia Health",
+      "companyUrl": "https://www.linkedin.com/company/kaiahealth",
+      "description": "Design & development of pioneering Deep Learning and statistical models applied to personalized digital medicine and predictive healthcare problems. Data collection, preparation and analysis for model training. Experimental research on Machine Learning algorithms for time series classification task.\n\nTechnologies: python, deep learning, pytorch, neural networks, computer vision, opencv, human pose estimation, machine learning, sklearn, time series, data preparation, git\n\nFor more than a half of a year at Kaia I took part in 4 projects working on smartphone camera-based pose estimation and human actions recognition tasks, diseases prediction problem, digital marketing users analysis topic. These projects are industrial and directly used in Kaia software products.\n\nMy main contribution was the development of Deep learning models to predict the UPDRS score for a Parkinson's patient from a series of smartphone-based tests.\n\nIn our main project at Kaia, we have established the state of the art deep convolution network based on Human Pose Estimation techniques for supervising patients physical exercises and giving suggestions on how to perform the exercises better, just like a physiotherapist would do. This approach is currently ready for use and is available as a standalone iOS application.",
+      "location": null,
+      "start": "2018-02",
+      "end": "2018-12",
+      "dateRange": "Feb 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "TAME - Tremor Acquisition and Minimization",
+      "companyUrl": "https://www.linkedin.com/company/tame-pk",
+      "description": "A wearable device for real-time detection and suppression of pathological tremors. Lead the technical development of the product.\n\nTAME got us international recognition:\n▪ Global Winner Stanford Longevity Challenge 2017\n▪ Third in Intel IxDA Student Design Competition 2017\n▪ Medal of Appreciation from Chief of Army Staff, Pakistan\n▪ Featured in Pakistan’s “25 under 25” by Techjuice\n▪ Falling Walls 2016 Scholar, Berlin- Young Innovator of the Year (Pakistan)\n▪ Winner of IEEE Computer Society 70th Anniversary Student Challenge\n▪ Winner of Best I.T Innovation Award 2015",
+      "location": null,
+      "start": "2015-06",
+      "end": "2017-09",
+      "dateRange": "Jun 2015 – Sep 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Biomedical Computing",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours, Technology Management",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "National University of Sciences and Technology (NUST)",
+      "degree": "BEE, Electrical and Electronics Engineering",
+      "dateRange": "2012 – 2016"
+    }
+  ],
+  "skills": [
+    "Strategic Thinking",
+    "Leadership",
+    "Python (Programming Language)",
+    "Communication",
+    "Team Management",
+    "Team Leadership",
+    "Machine Learning",
+    "Deep Learning",
+    "Analytical Skills",
+    "User Experience (UX)",
+    "Software Development",
+    "Entrepreneurship",
+    "Project Management",
+    "Product Management",
+    "Business Strategy",
+    "Teamwork",
+    "Signal Processing",
+    "Product Development",
+    "Cross-functional Team Leadership",
+    "Agile Methodologies",
+    "Design Thinking",
+    "Scrum",
+    "Computer Vision",
+    "User-centered Design",
+    "Product Road Mapping",
+    "Product Lifecycle Management",
+    "Software as a Service (SaaS)",
+    "Product Innovation",
+    "Product Strategy",
+    "Technical Leadership",
+    "User Experience Design (UED)",
+    "Conflict Management",
+    "Product Vision"
+  ],
+  "languages": [
+    "Urdu",
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Beyond Presence",
+    "tagline": "Real-Time AI Avatars That Listen, React, and Connect Like Humans.",
+    "description": "Beyond Presence builds the next generation of real-time AI avatars: hyper-real, multilingual, and emotionally expressive. \n\nWe are a research company building foundational models for Hyper-realistic, real-time interactive avatars that can have human-like face-to-face conversations.\n\nPowered by our proprietary foundational model, our avatars don’t just talk, they listen, react, and respond in under 100ms, making every interaction feel natural, human, and personal.\n\nFrom customer support and sales enablement to HR interviewing, training, coaching, and immersive experiences, our API-ready platform lets you embed lifelike AI into your products without compromise.\n\nWhy settle for static chatbots or delayed video rendering when you can deliver live, face-to-face AI conversations that build trust, drive engagement, and scale globally?\n\nWe combine:\n\n1) Human connection – expressive avatars with natural micro-expressions, tone, and empathy.\n2) Machine precision – 24/7 availability, multilingual fluency, and instant scalability.\n\n🚀 Use Cases:\n\n1) AI customer support agents that resolve issues instantly.\n2) Sales avatars that pitch, demo, and close — in any language.\n3) HR interviewer avatars that screen and assess candidates with consistency and fairness.\n4) Virtual trainers and coaches that adapt to each learner.\n5) Digital humans that bring games, virtual worlds, and events to life.\n\n🤝 Let’s build it together → https://www.beyondpresence.ai/",
+    "industry": "Software Development",
+    "website": "https://www.beyondpresence.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/beyond-presence",
+    "employeeCount": 22,
+    "foundedYear": 2024,
+    "location": "Munich, Germany",
+    "specialities": [
+      "AI Avatar",
+      "Generative AI",
+      "Avatars",
+      "AI Agent",
+      "Artificial Intelligence",
+      "Real-Time AI Avatars",
+      "Conversational AI",
+      "Digital Humans",
+      "Virtual Agents",
+      "Multilingual AI",
+      "Hyper-Realistic Avatars",
+      "API-Ready AI",
+      "Audio to Video API",
+      "Customer Engagement AI",
+      "AI Training & Coaching",
+      "AI Sales Agents",
+      "Human-Like AI Interactions",
+      "AI-Driven User Experience"
+    ]
+  }
+}

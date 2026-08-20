@@ -1,0 +1,154 @@
+{
+  "id": "marcelloschreiber",
+  "name": "Marcello Schreiber",
+  "headline": "Software Engineer @ Booking.com",
+  "avatar": {
+    "sm": "/avatars/marcelloschreiber-sm.webp",
+    "lg": "/avatars/marcelloschreiber.webp",
+    "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAABwBQCdASogACAAPtFgqU+oJSOiKAgBABoJQAB8Rakf1pQyn/lhIesNc9fCXT6KlT58M6OAAP76p7WR0DCO/q97ce1wk+m5fFJm/jgZVkFfwP9jId3Kt30Aq7x/tGt83M8j+nW4MGAuyEkeeTGQKA3KL4+p/yMMdViu7qdYqK3dsgcDQsUtGVYkDCfuzgwsUnd1wKo51nGHIZ0rL2bRwyaxk2oQQO0hUtoDHP5dLAUSnWfdgq8XyawsZGjFXK3frepkhlAmzn2WYEayqzz3E+8RmbWarbkOmtE9DWqoiaKJZpMAAAA="
+  },
+  "location": "Netherlands",
+  "linkedInUrl": "https://www.linkedin.com/in/marcelloschreiber",
+  "personId": 1186,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Marcello Schreiber",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company": "Booking.com",
+      "companyUrl": "https://www.linkedin.com/company/booking.com",
+      "description": null,
+      "location": "Amsterdam, North Holland, Netherlands",
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer",
+      "company": "TomTom",
+      "companyUrl": "https://www.linkedin.com/company/tomtom",
+      "description": null,
+      "location": "Amsterdam, North Holland, Netherlands",
+      "start": "2025-01",
+      "end": "2026-03",
+      "dateRange": "Jan 2025 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Kyte",
+      "companyUrl": "https://www.linkedin.com/company/drivekyte",
+      "description": null,
+      "location": null,
+      "start": "2021-08",
+      "end": "2024-11",
+      "dateRange": "Aug 2021 – Nov 2024",
+      "current": false
+    },
+    {
+      "title": "Founding Software Engineer",
+      "company": "loyee.io",
+      "companyUrl": "https://www.linkedin.com/company/getalfa",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Scholar",
+      "company": "EXIST - Existenzgründungen aus der Wissenschaft",
+      "companyUrl": "https://www.linkedin.com/company/bmwe-exist",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Maltego Technologies",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-11",
+      "end": "2020-10",
+      "dateRange": "Nov 2019 – Oct 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": "Exchange Semester, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Federal University of Rio de Janeiro",
+      "degree": null,
+      "dateRange": "2015"
+    }
+  ],
+  "skills": [
+    "Data Privacy",
+    "Machine Learning",
+    "Technology Management",
+    "Software Development"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Portuguese",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Booking.com",
+    "tagline": "Making it easier for everyone to experience the world.",
+    "description": "A career at Booking.com is all about the journey, helping you explore new challenges in a place where you can be your best self. With plenty of exciting twists, turns and opportunities along the way. \n\nWe’ve always been pioneers, on a mission to shape the future of travel through cutting edge technology, to make it easier for everyone to enjoy amazing experiences wherever they go. Under a desert sky, or in the heart of a bustling city. Discovering the perfect hideaway, or the perfect paella.\n\nWhen you join us, you’ll be part of a community where taking a different path and trying something new is celebrated and supported. And where making a difference counts. \n\nWe’re determined to make the world of travel more sustainable, more accessible, and more inclusive, to create a positive impact on a global scale.\nThat’s why we’re always looking for people who search for better solutions, the ones eager to stray off the beaten path to find new ways of doing things.\nBecause at Booking.com it’s more than a job, it’s a journey we’re on together.",
+    "industry": "Software Development",
+    "website": "http://careers.booking.com",
+    "linkedInUrl": "https://www.linkedin.com/company/booking.com",
+    "employeeCount": 16534,
+    "foundedYear": null,
+    "location": "Amsterdam, Netherlands",
+    "specialities": [
+      "E-Commerce",
+      "Technology",
+      "Travel",
+      "Experiences"
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "id": "daniel-quiroga",
+  "name": "Daniel Quiroga",
+  "headline": "Founder @ PUNKU.AI | Harvard | CDTM | EWOR",
+  "avatar": {
+    "sm": "/avatars/daniel-quiroga-sm.webp",
+    "lg": "/avatars/daniel-quiroga.webp",
+    "blur": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAACQBQCdASogACAAPtFepU6oJSMiKAqpABoJYwDCgywTlyT9c8ubNNFUVhQN8TCOc5m/65r7gAD++6L/wq/+z7WdoUMF7AoPEip6XTMEk0IcY1+3P1U9lh/WUMGw9iwmkf5xlbGqXe8dCjOhnJepBW4DXe3rxID1SZFEivxtt2sXU8Ed72s9/PIy/tPGQbhrSjUX21vtQzJMTb9BEMj7JcrWlyrpaBMdQ/8fUXqvInDBNOcHxQvpt7XZA4D5oWpH5QIZHfFoAAA="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/daniel-quiroga",
+  "personId": 1052,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Media, Management and Digital Technologies",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Daniel Quiroga",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Fellow",
+      "company": "EWOR",
+      "companyUrl": "https://www.linkedin.com/company/ewor",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder",
+      "company": "PUNKU.AI",
+      "companyUrl": "https://www.linkedin.com/company/punku-ai",
+      "description": null,
+      "location": null,
+      "start": "2023-08",
+      "end": null,
+      "dateRange": "Aug 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Harvard Business School AI Institute",
+      "companyUrl": "https://www.linkedin.com/company/d3instituteatharvard",
+      "description": null,
+      "location": null,
+      "start": "2022-08",
+      "end": "2023-05",
+      "dateRange": "Aug 2022 – May 2023",
+      "current": false
+    },
+    {
+      "title": "CEO Office",
+      "company": "FINN",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-08",
+      "dateRange": "Jan 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "RevOps",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": null,
+      "start": "2021-10",
+      "end": "2021-12",
+      "dateRange": "Oct 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "BMW Open Innovation & Crowdsourcing | Study Project",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2021-10",
+      "end": "2021-12",
+      "dateRange": "Oct 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "International Expansion PMO",
+      "company": "Gorillas",
+      "companyUrl": "https://www.linkedin.com/company/gorillasapp",
+      "description": null,
+      "location": null,
+      "start": "2021-08",
+      "end": "2021-10",
+      "dateRange": "Aug 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Managing Product Development | Study Project",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": null,
+      "start": "2021-04",
+      "end": "2021-08",
+      "dateRange": "Apr 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "CEO Office",
+      "company": "Allianz Technology",
+      "companyUrl": "https://www.linkedin.com/company/allianz-technology",
+      "description": null,
+      "location": null,
+      "start": "2020-10",
+      "end": "2021-04",
+      "dateRange": "Oct 2020 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Strategic Finance",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": null,
+      "location": null,
+      "start": "2020-07",
+      "end": "2020-10",
+      "dateRange": "Jul 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "DataGuard",
+      "companyUrl": "https://www.linkedin.com/company/dataguard1",
+      "description": null,
+      "location": null,
+      "start": "2019-09",
+      "end": "2020-05",
+      "dateRange": "Sep 2019 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Equity Investments",
+      "company": "SevenVentures",
+      "companyUrl": "https://www.linkedin.com/company/sevenventures",
+      "description": null,
+      "location": null,
+      "start": "2019-05",
+      "end": "2019-08",
+      "dateRange": "May 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Private Equity",
+      "company": "MEDLeaders",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2018-10",
+      "end": "2019-02",
+      "dateRange": "Oct 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Investment Banking Analyst",
+      "company": "Panamerican Securities S.A.",
+      "companyUrl": "https://www.linkedin.com/company/panamerican-securities-s-a-",
+      "description": null,
+      "location": null,
+      "start": "2018-08",
+      "end": "2018-09",
+      "dateRange": "Aug 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "Honestly",
+      "companyUrl": "https://www.linkedin.com/company/honestly",
+      "description": null,
+      "location": null,
+      "start": "2018-05",
+      "end": "2018-07",
+      "dateRange": "May 2018 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "Sales Associate",
+      "company": "Hollister Co.",
+      "companyUrl": "https://www.linkedin.com/company/hollister-co.",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-05",
+      "dateRange": "Jan 2018 – May 2018",
+      "current": false
+    },
+    {
+      "title": "Finance Analyst",
+      "company": "Inbolsa LTD",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2017-07",
+      "end": "2017-09",
+      "dateRange": "Jul 2017 – Sep 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Visiting Researcher - Master's Thesis",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Management and Digital Technologies",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Strascheg Center for Entrepreneurship gGmbH",
+      "degree": "Academic Program for Entrepreneurship",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "University of Roehampton",
+      "degree": "Bachelor of Science - BS, International Business",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "EU Business School",
+      "degree": "Bachelor of Science - BS, Finance",
+      "dateRange": "2016 – 2019"
+    }
+  ],
+  "skills": [
+    "Negotiation",
+    "Leadership",
+    "Social Media",
+    "Microsoft Office",
+    "Public Speaking",
+    "Microsoft Excel",
+    "Networking",
+    "Research",
+    "Entrepreneurship",
+    "Project Management",
+    "Spanish",
+    "Hojas de cálculo",
+    "Complex Problem Solving"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "company": {
+    "name": "PUNKU.AI",
+    "tagline": "Self-improving AI Agent platform for non-coders",
+    "description": "PUNKU.AI is a platform for building self-improving AI assistants. By simply chatting with PUNKU.AI you can:\n\n    1. Create customized AI digital workers\n\n    2. Define specific performance metrics (KPIs)\n\n    3. Enable continuous improvement toward those KPIs—whether through synthetic feedback or real-world interactions\n\nThe result? An AI assistant that gets better at its tasks indefinitely.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.punku.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/punku-ai",
+    "employeeCount": 3,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

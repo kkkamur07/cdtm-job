@@ -1,0 +1,223 @@
+{
+  "id": "philippengel97",
+  "name": "Philipp Engel",
+  "headline": "TUM | CDTM | Cambridge | UCB | Helsing",
+  "avatar": {
+    "sm": "/avatars/philippengel97-sm.webp",
+    "lg": "/avatars/philippengel97.webp",
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAADQBQCdASogACAAPtFWpE2oJCMiMBgIAQAaCUAXZmMEtmlHXPLcZhSHzrrlLTw34Dt1U7sX+dEAAP78eTjNfy8nYXoG+C8TtC8OK/MaNlMnLmq0gV1VE2aD+EHnulI/dBXZPQ/6aDRE/N9Y0lWTKfLhSWfKlmvsRkglt58aE1nzsTOS7E1mgtD5DUUr1HSkOf8L8kvoR+mNdSzmR3u5tR/8AqxKOtqCekhzMwaMOeNpVE6353hFIz6cemW0WMhz2uY6ev28GKyluoA+0pavlMMHEcgxkkB1UGGLFtAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/philippengel97",
+  "personId": 989,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Philipp Engel",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Associate Programme Manager",
+      "company": "Helsing",
+      "companyUrl": "https://www.linkedin.com/company/helsing",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-11",
+      "end": null,
+      "dateRange": "Nov 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager Intern",
+      "company": "sento.io",
+      "companyUrl": "https://www.linkedin.com/company/sentohq",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-03",
+      "end": "2023-06",
+      "dateRange": "Mar 2023 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Founder's Associate Intern",
+      "company": "Luminovo",
+      "companyUrl": "https://www.linkedin.com/company/luminovo",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2021-10",
+      "end": "2022-01",
+      "dateRange": "Oct 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Product Development Intern",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-04",
+      "end": "2021-07",
+      "dateRange": "Apr 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Private Equity Working Student",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-10",
+      "end": "2021-02",
+      "dateRange": "Oct 2020 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Investment Analyst Intern",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-07",
+      "end": "2020-10",
+      "dateRange": "Jul 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Business Development Intern",
+      "company": "finn.auto",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": null,
+      "location": "München, Bayern",
+      "start": "2020-04",
+      "end": "2020-07",
+      "dateRange": "Apr 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Consulting Working Student",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-05",
+      "end": "2020-03",
+      "dateRange": "May 2019 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Autonomous Driving Intern",
+      "company": "BMW of North America, LLC",
+      "companyUrl": "https://www.linkedin.com/company/bmwgroupus",
+      "description": null,
+      "location": "New York, Vereinigte Staaten von Amerika",
+      "start": "2018-09",
+      "end": "2019-03",
+      "dateRange": "Sep 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Financial Accounting - Research Assistant",
+      "company": "TUM School of Management",
+      "companyUrl": "https://www.linkedin.com/company/tum-school-of-management",
+      "description": null,
+      "location": null,
+      "start": "2018-04",
+      "end": "2018-09",
+      "dateRange": "Apr 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "FEV Consulting",
+      "companyUrl": "https://www.linkedin.com/company/fev-consulting",
+      "description": "Study on the future of mobility: Focus on data monetization",
+      "location": "Munich, Baveria, Germany",
+      "start": "2018-03",
+      "end": "2018-05",
+      "dateRange": "Mar 2018 – May 2018",
+      "current": false
+    },
+    {
+      "title": "Financial Services Intern",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2017-08",
+      "end": "2017-09",
+      "dateRange": "Aug 2017 – Sep 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, School of Information",
+      "dateRange": "2022"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Visiting Student, Leverhulme Centre for the Future of Intelligence",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree Technology Management",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Research Project, Center for Human Rights and International Justice",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management & Technology",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Management & Technology",
+      "dateRange": "2016 – 2020"
+    }
+  ],
+  "skills": [
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Java",
+    "Suchmaschinenoptimierung (SEO)",
+    "Englisch",
+    "Teamwork",
+    "Projektmanagement"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Helsing",
+    "tagline": "Protecting our democracies",
+    "description": "Helsing was founded to provide Artificial Intelligence to protect our democracies. Helsing works with partners in governments and across industry. Together, we develop systems that leverage AI and autonomy to provide autonomous mass that is sovereign, scalable and affordable.\n\n We’re looking for people with their heart in the right place, who share our conviction that liberal democratic values are worth protecting, for ourselves and for future generations.",
+    "industry": "Software Development",
+    "website": "http://www.helsing.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/helsing",
+    "employeeCount": 720,
+    "foundedYear": 2021,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

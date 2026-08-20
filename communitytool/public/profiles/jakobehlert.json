@@ -1,0 +1,235 @@
+{
+  "id": "jakobehlert",
+  "name": "Jakob Ehlert",
+  "headline": "Energiewende jetzt",
+  "avatar": {
+    "sm": "/avatars/jakobehlert-sm.webp",
+    "lg": "/avatars/jakobehlert.webp",
+    "blur": "data:image/webp;base64,UklGRggBAABXRUJQVlA4IPwAAADQBQCdASogACAAPtFWpU2oJCMiMBgIAQAaCWgAwzWLkrSKQRmDBtS5M8j0yxLJuinW+X6bAXGIAP7369N5/VfZCIXrtOgCgX1LhiGWHAO0sC6eaV7Q/1M4/xM593YR6W+7u1sJiRWxJZce5FMyQBu1Z5o0zy/47DW3svpaEpLfEMiW5ANNip4X+X0auxDDyz7QY0wvw2LN8lW/lAO6jAQWmMwU1J/XK7TzNk6tQH0+oNTkVs+/dBY8daYg2oJOn3uTkGonjinaK5iuc4ON0nT82JMeoVkTFf0e2hfv3fm3sFQr6kEuPBeuv0GXBdhFnjI7GtEXeIXF259GAAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jakobehlert",
+  "personId": 724,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jakob Ehlert",
+  "ca": null,
+  "summary": "Passionate about realistic climate change solutions and just business.",
+  "positions": [
+    {
+      "title": "Business Manager",
+      "company": "GASAG Gruppe",
+      "companyUrl": "https://www.linkedin.com/company/gasag-gruppe",
+      "description": null,
+      "location": "Berlin",
+      "start": "2025-08",
+      "end": null,
+      "dateRange": "Aug 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2024-02",
+      "end": "2025-08",
+      "dateRange": "Feb 2024 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Working Student Product Management",
+      "company": "Uify",
+      "companyUrl": "https://www.linkedin.com/company/turian",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-08",
+      "end": "2023-12",
+      "dateRange": "Aug 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Visiting Investment Analyst",
+      "company": "Redalpine",
+      "companyUrl": "https://www.linkedin.com/company/redalpine",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-03",
+      "end": "2023-05",
+      "dateRange": "Mar 2023 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Visiting Investment Analyst",
+      "company": "Matterwave Ventures",
+      "companyUrl": "https://www.linkedin.com/company/matterwave-ventures",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-01",
+      "end": "2023-02",
+      "dateRange": "Jan 2022 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Visiting Investment Analyst - Industrial Technologies Fund",
+      "company": "b2venture",
+      "companyUrl": "https://www.linkedin.com/company/b2venture",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-09",
+      "end": "2021-12",
+      "dateRange": "Sep 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2021-06",
+      "end": "2021-07",
+      "dateRange": "Jun 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Visiting Analyst - Private Investor Network",
+      "company": "b2venture",
+      "companyUrl": "https://www.linkedin.com/company/b2venture",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2021-02",
+      "end": "2021-04",
+      "dateRange": "Feb 2021 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Associate Intern - Growth Equity",
+      "company": "Digital+ Partners",
+      "companyUrl": "https://www.linkedin.com/company/yttrium",
+      "description": null,
+      "location": "Frankfurt am Main, Hessen, Deutschland",
+      "start": "2020-08",
+      "end": "2021-01",
+      "dateRange": "Aug 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Intern / Working Student - Deal IT Advisory",
+      "company": "KPMG",
+      "companyUrl": "https://www.linkedin.com/company/kpmg",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2019-02",
+      "end": "2020-07",
+      "dateRange": "Feb 2019 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Working Student - IT Project Management",
+      "company": "Bosch Sensortec GmbH",
+      "companyUrl": "https://www.linkedin.com/company/bosch-sensortec",
+      "description": null,
+      "location": "Reutlingen und Umgebung, Deutschland",
+      "start": "2018-08",
+      "end": "2019-01",
+      "dateRange": "Aug 2018 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Managementtrainee",
+      "company": "Marriott International",
+      "companyUrl": "https://www.linkedin.com/company/marriott-international",
+      "description": null,
+      "location": "Beijing City, China",
+      "start": "2016-07",
+      "end": "2017-01",
+      "dateRange": "Jul 2016 – Jan 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "TUM School of Management",
+      "degree": "Master of Science - MS, Management and Technology",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "ESB Business School, Reutlingen University",
+      "degree": "Bachelor's degree, International Business",
+      "dateRange": "2017 – 2021"
+    },
+    {
+      "school": "Edinburgh Napier University",
+      "degree": "Bachelor of Arts - BA, Business Management",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Kreisgymnasium Bad Krozingen",
+      "degree": "Abitur",
+      "dateRange": "2008 – 2016"
+    }
+  ],
+  "skills": [
+    "Design Thinking",
+    "Microsoft Office",
+    "Teamwork",
+    "Projektmanagement",
+    "Kundendienst",
+    "Visual Basic for Applications (VBA)"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "GASAG Gruppe",
+    "tagline": "Neu denken. Mit voller Energie.",
+    "description": "GASAG-Gruppe – Neu denken. Mit voller Energie.  \n\nSeit 1847 Teil der Stadtgeschichte Berlins. Mit unseren Tochtergesellschaften sind wir ein traditionsreiches Unternehmen, welches längst nicht mehr nur Gas und grünen Strom anbietet, sondern die Energiezukunft mitgestaltet. Mit innovativen Technologien und zukunftsweisenden Visionen treiben wir als führender Netzbetreiber, Energiedienstleister und -erzeuger die Energiewende voran.  \n\nUnser Ziel? Klimaneutralität. Wir gestalten die Energiewende. Ihr Energieversorger der Zukunft.  \n\nInstagram: https://www.instagram.com/gasagde/?hl=de \n\nFacebook: https://www.facebook.com/gasagde",
+    "industry": "Utilities",
+    "website": "https://www.gasag-gruppe.de",
+    "linkedInUrl": "https://www.linkedin.com/company/gasag-gruppe",
+    "employeeCount": 707,
+    "foundedYear": 1848,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Energieversorgung",
+      "Strom",
+      "Wärmeversorgung",
+      "Contracting",
+      "E-Mobilität",
+      "Wärmeversorgung",
+      "Gasversorgung",
+      "Energie",
+      "Wärmepumpe",
+      "Photovoltaik",
+      "Energielösungen",
+      "Abwärme",
+      "Geothermie",
+      "Wasserstoff"
+    ]
+  }
+}

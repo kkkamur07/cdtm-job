@@ -1,0 +1,162 @@
+{
+  "id": "stephanseyboth",
+  "name": "Stephan Seyboth",
+  "headline": "-",
+  "avatar": null,
+  "location": "Richterswil, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/stephanseyboth",
+  "personId": 1563,
+  "classes": [
+    {
+      "id": 55,
+      "label": "Spring 2004",
+      "season": "Spring",
+      "year": 2004,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2004",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Stephan Seyboth",
+  "ca": null,
+  "summary": "Software engineer turned product manager turned investor.",
+  "positions": [
+    {
+      "title": "Coach",
+      "company": "Mo Unicorns Coaching",
+      "companyUrl": "https://www.linkedin.com/company/mo-unicorns-coaching",
+      "description": "I provide executive coaching to select leaders in tech with focus on company building and product development.",
+      "location": "Remote",
+      "start": "2021-06",
+      "end": null,
+      "dateRange": "Jun 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Blaze Finance",
+      "companyUrl": "https://www.linkedin.com/company/blazefinance",
+      "description": "Blaze is a new financing platform for subscription businesses. We provide instant access to your recurring revenue streams to fund your business without dilution or a lengthy fundraising process.",
+      "location": null,
+      "start": "2020-09",
+      "end": "2021-05",
+      "dateRange": "Sep 2020 – May 2021",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & Partner",
+      "company": "Fly Ventures",
+      "companyUrl": "https://www.linkedin.com/company/fly-ventures",
+      "description": "Fly is a specialized VC for technical founders solving hard problems. We invest from day-zero to seed, backing founders from all over Europe. We are fortunate to have been on the zero to one journey with portfolio companies who have raised in excess of $1Bn in follow-on funding from some of the world’s best VCs.",
+      "location": null,
+      "start": "2015-09",
+      "end": "2020-08",
+      "dateRange": "Sep 2015 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Worked on the company's flagship products including Search and Maps. Responsible for leading the teams building driving, transit, walking, and biking directions in Google Maps, Google's first foray into deep local search, and the URL spell corrector in Search and Chrome. The products and features I helped build are used by 1Bn+ people.",
+      "location": null,
+      "start": "2008-04",
+      "end": "2015-09",
+      "dateRange": "Apr 2008 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Yieeha",
+      "companyUrl": "https://www.linkedin.com/company/yieeha",
+      "description": "Bootstrapped and launched a pioneering German social shopping site that bringing together online shoppers and merchants via raffles. Responsible for product and engineering. Succeeded in building the largest and most engaged social shopping community in Germany at that time.",
+      "location": null,
+      "start": "2006-11",
+      "end": "2008-04",
+      "dateRange": "Nov 2006 – Apr 2008",
+      "current": false
+    },
+    {
+      "title": "Analyst",
+      "company": "PolyTechnos Venture-Partners",
+      "companyUrl": "https://www.linkedin.com/company/polytechnos-venture-partners",
+      "description": "As member of IT investment team provided research, analysis, and assessments for potential investments. Screened 150+ business plans and implemented an integrated database system to streamline the investment process.",
+      "location": null,
+      "start": "2006-01",
+      "end": "2006-11",
+      "dateRange": "Jan 2006 – Nov 2006",
+      "current": false
+    },
+    {
+      "title": "Team Lead Development",
+      "company": "Caldera (Deutschland) GmbH",
+      "companyUrl": null,
+      "description": "Caldera was one of the four leading Linux distributions in the early days of the Linux boom. We developed several industry firsts, including a fully graphical and automated installer and an enterprise focused business model that has since been adopted by the other commercial players in the field.\n\nManaged the engineering team responsible for our server distribution product and successfully launched the first two versions. Planned the product line, defined requirements, and coordinated engineering efforts with other departments in an internationally distributed, cross-functional team.",
+      "location": null,
+      "start": "1999-07",
+      "end": "2001-09",
+      "dateRange": "Jul 1999 – Sep 2001",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "LinuxLand International",
+      "companyUrl": null,
+      "description": "LinuxLand was the leading one-stop shop for Linux products in Germany. Helped start the company as its first employee and led all technical aspects, including web development, IT infrastructure, product evaluation & selection, customer support, and trade show presentations. Developed and launched the company's e-commerce platform (in those days you still had to write these things from scratch) and established it as our main sales channel.",
+      "location": null,
+      "start": "1998-10",
+      "end": "1999-07",
+      "dateRange": "Oct 1998 – Jul 1999",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Digital Technology and Management",
+      "dateRange": "2004 – 2006"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom / MSc, Computer Science with a minor in Business Administration",
+      "dateRange": "2001 – 2006"
+    },
+    {
+      "school": "Indian Institute of Technology, Bombay",
+      "degree": "Computer Science",
+      "dateRange": "2003 – 2004"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Product Management",
+    "Product Strategy",
+    "Software Engineering",
+    "User Experience",
+    "Mobile Applications",
+    "E-commerce",
+    "SaaS",
+    "Web Analytics",
+    "Agile Methodologies",
+    "Business Strategy",
+    "Management",
+    "Software Development",
+    "Mobile Devices",
+    "Strategy",
+    "Start-ups"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "company": null
+}

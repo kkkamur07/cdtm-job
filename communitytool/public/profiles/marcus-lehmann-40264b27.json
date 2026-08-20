@@ -1,0 +1,176 @@
+{
+  "id": "marcus-lehmann-40264b27",
+  "name": "Marcus Lehmann",
+  "headline": "Co-Founder and CEO of CalWave Inc.",
+  "avatar": null,
+  "location": "Berkeley, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/marcus-lehmann-40264b27",
+  "personId": 1393,
+  "classes": [
+    {
+      "id": 70,
+      "label": "Fall 2011",
+      "season": "Fall",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2011",
+  "major": "Mechanical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Marcus Lehmann",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Fellow Alumnus",
+      "company": "Activate",
+      "companyUrl": "https://www.linkedin.com/company/activatefellows",
+      "description": null,
+      "location": null,
+      "start": "2017-01",
+      "end": null,
+      "dateRange": "Jan 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder and CEO",
+      "company": "CalWave Inc.",
+      "companyUrl": "https://www.linkedin.com/company/calwave",
+      "description": "www.calwave.energy",
+      "location": "Oakland, California, United States",
+      "start": "2014-04",
+      "end": null,
+      "dateRange": "Apr 2014 – Present",
+      "current": true
+    },
+    {
+      "title": "Project Lead at Cyclotron Road, Lawrence Berkeley National Laboratory",
+      "company": "Cyclotron Road",
+      "companyUrl": "https://www.linkedin.com/company/cyclotronroad",
+      "description": "http://cyclotronroad.lbl.gov",
+      "location": "Berkeley, CA",
+      "start": "2014-11",
+      "end": "2016-11",
+      "dateRange": "Nov 2014 – Nov 2016",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Fraunhofer-Gesellschaft",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-gesellschaft",
+      "description": "Technology Management",
+      "location": null,
+      "start": "2011-12",
+      "end": "2012-07",
+      "dateRange": "Dec 2011 – Jul 2012",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "E.ON",
+      "companyUrl": "https://www.linkedin.com/company/e-on",
+      "description": null,
+      "location": null,
+      "start": "2011-02",
+      "end": "2011-04",
+      "dateRange": "Feb 2011 – Apr 2011",
+      "current": false
+    },
+    {
+      "title": "Working student",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Siemens Corporate Technology",
+      "location": "Munich Area, Germany",
+      "start": "2010-06",
+      "end": "2010-08",
+      "dateRange": "Jun 2010 – Aug 2010",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "BMW Group UK Limited",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2007-06",
+      "end": "2007-08",
+      "dateRange": "Jun 2007 – Aug 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting , Mechanical Engineering",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Hamburg University of Technology",
+      "degree": "Doktor-Ingenieur (Dr.-Ing.), Mechanical Engineering",
+      "dateRange": "2013 – 2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diploma/Master of Science, Mechanical Engineering",
+      "dateRange": "2007 – 2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2011 – 2013"
+    },
+    {
+      "school": "HKUST Business School",
+      "degree": null,
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Luitpold-Gymnasium München",
+      "degree": "High School Diploma",
+      "dateRange": "2006"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Research",
+    "Matlab",
+    "Strategic Planning",
+    "Strategy",
+    "Project Management",
+    "Product Development",
+    "Business Strategy",
+    "Start-ups",
+    "Microsoft Office",
+    "Management",
+    "Renewable Energy",
+    "Energy"
+  ],
+  "languages": [],
+  "company": {
+    "name": "CalWave Inc.",
+    "tagline": "Unlocking the power of ocean waves to secure a clean energy future.",
+    "description": "CalWave is bringing superior power generating technology to market with global reach. Our proprietary wave energy converter technology achieves high performance while surviving storms and extreme conditions.\n \n\nOcean waves are 20-60 times more energy-dense, predictable, and consistent compared to other forms of renewable energy. They are available at night and during winters. CalWave's patented technology converts this energy to electricity, equipping coastal communities with clean, reliable and local energy while keeping our planet and the health of future generations in mind.",
+    "industry": "Electric Power Generation",
+    "website": "http://www.CalWave.energy",
+    "linkedInUrl": "https://www.linkedin.com/company/calwave",
+    "employeeCount": 12,
+    "foundedYear": 2014,
+    "location": "Oakland, United States",
+    "specialities": [
+      "Marine and Hydrokinetic Energygineering",
+      "Marine engineering",
+      "Research and Development",
+      "Renewable Energy",
+      "wave power"
+    ]
+  }
+}

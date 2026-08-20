@@ -1,0 +1,240 @@
+{
+  "id": "chaozhang",
+  "name": "Chao Zhang",
+  "headline": "VP of Product Management @ Wyze Labs | Product Strategy",
+  "avatar": null,
+  "location": "Seattle, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/chaozhang",
+  "personId": 1860,
+  "classes": [
+    {
+      "id": 62,
+      "label": "Fall 2007",
+      "season": "Fall",
+      "year": 2007,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2007",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Chao Zhang",
+  "ca": null,
+  "summary": "At Wyze Labs, my leadership has been instrumental in expanding our security camera and video doorbell product lines, growing our portfolio from 2 to 20+ products across 6 product lines. Our team has successfully launched multiple award-winning products, securing #1 spots in North America.\n\nPreviously, as a Co-Founder and CTO at Ubi Interactive, I spearheaded technology and product development, which entailed overseeing cross-functional teams and guiding products from ideation to mass production. My expertise lies in aligning product roadmaps with market research, competitive analysis, and technological advancements to create impactful solutions. I am dedicated to delivering exceptional products that enhance security and convenience for millions of users worldwide.",
+  "positions": [
+    {
+      "title": "Vice President of Product Management",
+      "company": "Wyze",
+      "companyUrl": "https://www.linkedin.com/company/wyzelabs",
+      "description": "- Set product vision and strategy.\n- Define product roadmaps.\n- Lead product teams to build products from 0 to millions.\n- Create go-to-market strategy.\n- Build and scale product team.",
+      "location": "Seattle, Washington, United States",
+      "start": "2025-05",
+      "end": null,
+      "dateRange": "May 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Wyze’s latest camera adds 2K resolution for $50",
+      "company": "Wyze",
+      "companyUrl": "https://www.linkedin.com/company/wyzelabs",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "We gave the original Wyze Cam an Editors’ Choice award because of its ease of use, low price, and generous feature set.",
+      "company": "Wyze",
+      "companyUrl": "https://www.linkedin.com/company/wyzelabs",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "The new Wyze Cam Floodlight offers a big field of view for a small price",
+      "company": "Wyze",
+      "companyUrl": "https://www.linkedin.com/company/wyzelabs",
+      "description": "Hooking up a second camera offers an extended field of view.",
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Senior Director of Product Management",
+      "company": "Wyze",
+      "companyUrl": "https://www.linkedin.com/company/wyzelabs",
+      "description": "- Lead the full product lifecycle for camera and video doorbell product lines.\n- Manage a team of product managers to expand product portfolio from 2 to 20+ products and grew from 1 to 6 product lines in 2 years.\n- Launched multiple #1 best-selling smart cameras in North America, securing awards from major tech journals.\n- Directed flagship product launches, including Wyze Cam v3, Wyze Cam v3 Pro, Wyze Cam Floodlight, and Wyze Cam v4.\n- Launch multiple #1 best selling security camera products and won multiple awards in world’s leading journals.\n- Lead collaboration across Asia and the U.S. for AI, hardware, software, and cloud integration.\n- Defined and executed the product and technology roadmap for AI-driven security cameras and video doorbells.\n- Drove Go-To-Market strategies, working closely with PR and marketing teams to ensure successful launches.",
+      "location": "Greater Seattle Area",
+      "start": "2020-04",
+      "end": "2025-05",
+      "dateRange": "Apr 2020 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Co-Founder | Chief Technology Officer",
+      "company": "Ubi Interactive",
+      "companyUrl": "https://www.linkedin.com/company/ubi-interactive",
+      "description": "Ubi is a VC-backed Seattle-based startup incubated by Microsoft Accelerator ran by TechStars. Ubi interactive develops and sells a gestural control solution to turn any surface into a 3D multi-touch screen. Featured in world’s leading tech journals including CNN, Wired and WSJ. It currently serves 1000+ organizations. \n\n•\tOversee the technology and product development, manufacturing and sourcing.\n•\tLaunch 4 products from ideation to mass production by leading cross-functional internal and external, onshore/offshore teams through the product dev cycle. \n•\tDefine product roadmap based on market research, competitive analysis, user studies, technology advancement and business impacts.\n•\tLead dev team to build 4 desktop apps, 2 mobile apps, 10+ companion apps, highly scalable in-house licensing and telemetry system supports 1000+ organizations in real time.\n•\tFamiliar with agile development, bug tracking and project management tools such as JIRA, Trello, SourceTree, BitBucket and Zoho.\n•\tConduct meetings with key accounts and partners to gather requirements, propose solutions, execution plans and follow-through the deployment and/or mass production.\n•\tPackage Ubi’s product as SDK and standard hardware module to power customers’ use cases in education, entertainment, retail, engineering, smart-home and public sectors.\n•\tCoordinate internal teams and external partners to deliver products as planned.\n•\tSynthesize and analyze key performance indicators from different sources to identify new use cases, new markets, improve user experience and evolve products continuously. \n•\tEvaluate vendors, negotiate contracts, develop and manage the sourcing strategy and product manufacturing.",
+      "location": "Greater Seattle Area",
+      "start": "2012-04",
+      "end": "2020-04",
+      "dateRange": "Apr 2012 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Research funded by the German / EU's founder fellowship. Develop a wearable computing device that tracks human hand gestures and enables users to interact with any content projected on any surface naturally.\n•\tDesign and build a custom OS/HW for the newly invented wearable computing device. \n•\tDevelop front and back-end applications and services using C, C++, Java, C#, Qt, SQL.\n•\tDesign and source components to create the first version of the product.\n•\tTop out from the 500 applicants to come to Microsoft to work closely with the Kinect team on next generation human computer interaction.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2010-02",
+      "end": "2012-03",
+      "dateRange": "Feb 2010 – Mar 2012",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "boardeleven Management Consultants GmbH",
+      "companyUrl": "https://www.linkedin.com/company/boardeleven-management-consultants-gmbh",
+      "description": "• Analyzed market and technology trends in Chinese telecommunication, energy, chemistry, automotive, and machinery industries.\n• Conducted interviews with top companies to gather insights for comprehensive reports.\n• Presented detailed tech landscape reports to the management team at boardeleven Management Consultants GmbH in Munich, Bavaria.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2008-09",
+      "end": "2008-12",
+      "dateRange": "Sep 2008 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "RnD Analyst and Software Engineer",
+      "company": "Vodafone Germany",
+      "companyUrl": "https://www.linkedin.com/company/vodafone",
+      "description": "•\tResearch and evaluate various Human Computer Interaction technologies and products. \n•\tDesign and develop a cloud based real-time remote collaborative virtual workspace with vision-based digital pen and patterned paper technology. \n•\tConducted various mobile technology trend research. In-depth analysis of different innovation and R&D methodology in tech companies. \n•\tDesign systems to bridge the human computer interaction between physical and digital world.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2008-02",
+      "end": "2010-02",
+      "dateRange": "Feb 2008 – Feb 2010",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "NXP Semiconductors",
+      "companyUrl": "https://www.linkedin.com/company/nxp-semiconductors",
+      "description": "Research and develop video encoder, decoder, scaler using simulation for embedded systems",
+      "location": "Greater Hamburg Area",
+      "start": "2006-08",
+      "end": "2007-07",
+      "dateRange": "Aug 2006 – Jul 2007",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Siemens Medical Solutions",
+      "companyUrl": "https://www.linkedin.com/company/siemens-healthineers",
+      "description": "• Developed a web-based test automation management system at Siemens Medical Solutions to streamline test case management and automate daily test reports for stakeholders.\n• Designed and implemented a customizable UI to accelerate decision-making and planning processes by scheduling and visualizing test reports.",
+      "location": "Lancaster County, Pennsylvania, United States",
+      "start": "2005-09",
+      "end": "2006-08",
+      "dateRange": "Sep 2005 – Aug 2006",
+      "current": false
+    },
+    {
+      "title": "Senior Program Manager",
+      "company": "Germanischer Lloyd",
+      "companyUrl": "https://www.linkedin.com/company/gl-group",
+      "description": "• Initiated and led the Enter-China campaign to establish the Chinese subsidiary for Germanischer Lloyd in China.\n• Successfully grew the team from 0 to 8 full-time employees and over 20 contractors in less than 1 year.\n• Managed team operations, developed business strategies, built strong relationships with local partners, and coordinated projects with the headquarters in Germany.",
+      "location": "Shanghai, China",
+      "start": "2004-03",
+      "end": "2005-03",
+      "dateRange": "Mar 2004 – Mar 2005",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., Computational Science and Engineering, Technology Management, Mathematik, Informatik",
+      "dateRange": "2007 – 2009"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2007 – 2009"
+    },
+    {
+      "school": "Waseda University",
+      "degree": "Visiting Scholar, Information Technology",
+      "dateRange": "2009"
+    },
+    {
+      "school": "Hamburg University of Applied Sciences",
+      "degree": "Bachelor's degree, Information Technology",
+      "dateRange": "2002 – 2007"
+    }
+  ],
+  "skills": [
+    "Go-to-Market Strategy",
+    "Business Planning",
+    "Product Strategy",
+    "Consumer Electronics",
+    "Product Management",
+    "Business Strategy",
+    "Product Development",
+    "Project Management",
+    "Strategy",
+    "Program Management",
+    "Cross-functional Team Leadership",
+    "Entrepreneurship",
+    "Market Research",
+    "Competitive Analysis",
+    "Management Consulting",
+    "Software Development",
+    "Start-ups",
+    "Mobile Communications",
+    "Business Development",
+    "Software Project Management",
+    "Innovation Management",
+    "Matlab",
+    "Algorithms",
+    "Cloud Computing",
+    "Signal Processing",
+    "Software Engineering",
+    "Start-up"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Japanese"
+  ],
+  "company": {
+    "name": "Wyze",
+    "tagline": "On a mission to make smart home technology accessible to everyone",
+    "description": "The founding members of Wyze met when they were working at Amazon and they brought the core Amazon principles to us - it’s our goal to become the most customer-centric technology company. We’re passionate about providing customers high-quality products at great prices.\n\nOur first product, Wyze Cam, is the solution to a problem that one of our co-founders faced. He had been looking for a smart home camera to stay connected and protect his family with while on the road. He found that better-recognized brands were overpriced for their quality and cheaper ones were unreliable. We believe consumers deserve better than that and this led to the birth of Wyze Cam.\n\nBut this is just the beginning. As we grow, we will continue to launch high quality, affordable tech products that enrich people’s lives and make great technology accessible to everyone.\n\nOur cameras, smart devices, and Wyze app are meticulously designed with multiple layers of security to help give you peace of mind. Your safety is our priority. For more information, visit www.wyze.com.",
+    "industry": "Computers and Electronics Manufacturing",
+    "website": "http://www.wyze.com",
+    "linkedInUrl": "https://www.linkedin.com/company/wyzelabs",
+    "employeeCount": 248,
+    "foundedYear": 2017,
+    "location": "Kirkland, United States",
+    "specialities": [
+      "Technology",
+      "WiFi Cameras",
+      "smart home",
+      "Sensors",
+      "Home automation"
+    ]
+  }
+}

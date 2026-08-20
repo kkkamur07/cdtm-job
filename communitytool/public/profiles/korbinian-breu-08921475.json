@@ -1,0 +1,95 @@
+{
+  "id": "korbinian-breu-08921475",
+  "name": "Korbinian Breu",
+  "headline": "Founder & CEO at Monet",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/korbinian-breu-08921475",
+  "personId": 1370,
+  "classes": [
+    {
+      "id": 69,
+      "label": "Spring 2011",
+      "season": "Spring",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2011",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Korbinian Breu",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder & CEO",
+      "company": "Monet",
+      "companyUrl": "https://www.linkedin.com/company/monet-financial",
+      "description": null,
+      "location": null,
+      "start": "2020-11",
+      "end": null,
+      "dateRange": "Nov 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Director",
+      "company": "Visa",
+      "companyUrl": "https://www.linkedin.com/company/visa",
+      "description": "Via Payworks acquisition",
+      "location": null,
+      "start": "2012-10",
+      "end": "2020-11",
+      "dateRange": "Oct 2012 – Nov 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., Computer Science",
+      "dateRange": "2009 – 2014"
+    },
+    {
+      "school": "ETH Zürich",
+      "degree": "M.Sc. Thesis in Software Verification",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "B.Sc. Thesis in Software Engineering",
+      "dateRange": "2012"
+    },
+    {
+      "school": "Center for Digital Technology & Management, Munich",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2011 – 2012"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Monet",
+    "tagline": "Revolutioniere Online-Zahlungen mit Monet",
+    "description": "Es ist 2022, und Online-Zahlungen sind immer noch zu unflexibel. Heute shoppen und erst am Ende des Monats zahlen? In drei Monatsraten auf dein Wunschprodukt sparen? Die Hälfte sofort zahlen, und den Rest in zwei Raten? Wir bei Monet machen es Online-Shoppern möglich, immer flexibel zu bleiben.\n\nMonets Mission ist es Online-Zahlungen zu revolutionieren.\n\nWir sind von bekannten Business Angels finanziert, die selbst Gründer von Unicorns und VC-finanzierten Startups sind.",
+    "industry": "Financial Services",
+    "website": "https://monetcard.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/monet-financial",
+    "employeeCount": 10,
+    "foundedYear": 2020,
+    "location": "Nürnberg, Germany",
+    "specialities": [
+      "Fintech",
+      "Banking",
+      "Payments"
+    ]
+  }
+}

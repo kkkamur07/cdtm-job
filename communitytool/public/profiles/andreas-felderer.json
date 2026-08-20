@@ -1,0 +1,141 @@
+{
+  "id": "andreas-felderer",
+  "name": "Andreas Felderer",
+  "headline": "Exploring, understanding, and leveraging emerging risk",
+  "avatar": {
+    "sm": "/avatars/andreas-felderer-sm.webp",
+    "lg": "/avatars/andreas-felderer.webp",
+    "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAACQBQCdASogACAAPtFep0+oJKMiKAgBABoJZQAD5gVJNUJQIGNtr+dfWevF1nTQWqHD40ZwGAD+9+uPCHCTxOGEGvqpeDOrOi1sUc0cfz4SmtVvQ5YtOMHxHgRc17Q9L5MxOdq9AboFiv3HxePGvimx1cL1sCE0JeU2Wjdgv+z44imJ6KZmz9bVesvv4MD1zDINW0pkGSX5/S6EAydi1nY513usXr6qHM+CT5NwT//Pf/yu7/XbuBWhrcv5ZRD6xmhIItsEH8qov6dzcnxSNMToA9g07O4CU9hJ1v0j+sGNmJJRAAA="
+  },
+  "location": "Zurich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/andreas-felderer",
+  "personId": 1076,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Andreas Felderer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Emerging Risk Manager - Graduate",
+      "company": "Swiss Re",
+      "companyUrl": "https://www.linkedin.com/company/swiss-re",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Travel",
+      "company": "Career break",
+      "companyUrl": null,
+      "description": "Europe",
+      "location": null,
+      "start": "2024-05",
+      "end": "2024-08",
+      "dateRange": "May 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Swiss Re",
+      "companyUrl": "https://www.linkedin.com/company/swiss-re",
+      "description": null,
+      "location": "On-site",
+      "start": "2023-05",
+      "end": "2024-04",
+      "dateRange": "May 2023 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Intern Emerging Risk Management",
+      "company": "Swiss Re",
+      "companyUrl": "https://www.linkedin.com/company/swiss-re",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2022-09",
+      "end": "2023-05",
+      "dateRange": "Sep 2022 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Data Science Intern",
+      "company": "Munich Re",
+      "companyUrl": "https://www.linkedin.com/company/munich-re",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-03",
+      "end": "2020-08",
+      "dateRange": "Mar 2020 – Aug 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "Master of Science - MS, Science, Technology, and Policy",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree (45 ECTS), Technology Managament",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Engineering Science",
+      "dateRange": "2015 – 2020"
+    },
+    {
+      "school": "ETH Zürich",
+      "degree": "Exchange Semester (Faculty of Mechanical Engineering)",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Indian Institute of Technology, Madras",
+      "degree": "Exchange Semester (Faculty of Mechanical Engineering)",
+      "dateRange": "2017"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Swiss Re",
+    "tagline": "We make the world more resilient.",
+    "description": "The Swiss Re Group is a leading wholesale provider of reinsurance, insurance and other insurance-based forms of risk transfer. Dealing direct and working through brokers, its global client base consists of insurance companies, mid-to-large-sized corporations and public sector clients. From standard products to tailor-made coverage across all lines of business, Swiss Re deploys its capital strength, expertise and innovation power to enable the risk taking upon which enterprise and progress in society depend. \n\nFounded in Zurich, Switzerland, in 1863, Swiss Re serves clients through a network of over 70 offices globally and is rated \"AA-\"​ by Standard & Poor's, \"Aa3\"​ by Moody's and \"A+\"​ by A.M. Best. Registered shares in the Swiss Re Group holding company, Swiss Re Ltd, are listed in accordance with the Main Standard on the SIX Swiss Exchange and trade under the symbol SREN. \n\nWe're smarter together.\n\nFor more information about Swiss Re Group, please visit: www.swissre.com, follow us on X @SwissRe and subscribe our YouTube channel @swissretv.",
+    "industry": "Insurance",
+    "website": "http://www.swissre.com",
+    "linkedInUrl": "https://www.linkedin.com/company/swiss-re",
+    "employeeCount": 15204,
+    "foundedYear": 1863,
+    "location": "Zurich, Switzerland",
+    "specialities": [
+      "Reinsurance",
+      "Insurance Linked Securities",
+      "Public Sector/Emerging Markets",
+      "Insurance",
+      "Risk transfer",
+      "Property & Casualty",
+      "Life & Health"
+    ]
+  }
+}

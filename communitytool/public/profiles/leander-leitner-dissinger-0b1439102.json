@@ -1,0 +1,182 @@
+{
+  "id": "leander-leitner-dissinger-0b1439102",
+  "name": "Leander Leitner Dissinger",
+  "headline": "Co-Founder at ADYRO",
+  "avatar": {
+    "sm": "/avatars/leander-leitner-dissinger-0b1439102-sm.webp",
+    "lg": "/avatars/leander-leitner-dissinger-0b1439102.webp",
+    "blur": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAADwBQCdASogACAAPs1WpUunpKOhsBgMAPAZiWIAnQMsE5Yrfp/1PtMeyYGbF3r3AWgfMPNzLvfgAAD+/jARTP5Kn/4k/adqGisVhBMQjO/68d43ItwwVRG/qLZ+EX/Tagmb01nXRsExcm4Ah7j5LziIAFGZjv7LNN1uV4ewodRZNJ+1oYHXPWoE612YoRU77hlb2XdhDQY57z57I9vtTiqZ7F03nMwNc5wG85Ykw+mKYgqZg4oLUFaUMD5W8ArPXGtazEz3FytHVwsVOy4Y3bOpgh+sJfxIu4kyaihgAAA="
+  },
+  "location": "Cyprus",
+  "linkedInUrl": "https://www.linkedin.com/in/leander-leitner-dissinger-0b1439102",
+  "personId": 1092,
+  "classes": [
+    {
+      "id": 82,
+      "label": "Fall 2017",
+      "season": "Fall",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2017",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Leander Leitner Dissinger",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "ADYRO",
+      "companyUrl": "https://www.linkedin.com/company/adyro",
+      "description": null,
+      "location": null,
+      "start": "2024-08",
+      "end": null,
+      "dateRange": "Aug 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "TrustTheCrowd",
+      "companyUrl": "https://www.linkedin.com/company/trustthecrowd",
+      "description": null,
+      "location": null,
+      "start": "2023-10",
+      "end": null,
+      "dateRange": "Oct 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Interim Head of Finance",
+      "company": "DOONAILS",
+      "companyUrl": "https://www.linkedin.com/company/doonails",
+      "description": null,
+      "location": null,
+      "start": "2022-09",
+      "end": "2023-10",
+      "dateRange": "Sep 2022 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Co-Founder (Exit to eBrands Global)",
+      "company": "Angles90 - The first dynamic training grips worldwide",
+      "companyUrl": "https://www.linkedin.com/company/angles90.com",
+      "description": null,
+      "location": null,
+      "start": "2019-09",
+      "end": "2023-05",
+      "dateRange": "Sep 2019 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Finance",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": null,
+      "start": "2018-08",
+      "end": "2019-08",
+      "dateRange": "Aug 2018 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": null,
+      "start": "2017-04",
+      "end": "2017-09",
+      "dateRange": "Apr 2017 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "R&D Project Finance Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2016-03",
+      "end": "2016-08",
+      "dateRange": "Mar 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Business Development Intern",
+      "company": "Rocket Internet SE",
+      "companyUrl": "https://www.linkedin.com/company/rocket-internet-se",
+      "description": null,
+      "location": null,
+      "start": "2015-09",
+      "end": "2016-03",
+      "dateRange": "Sep 2015 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Investment Intern",
+      "company": "psaier.energies",
+      "companyUrl": "https://www.linkedin.com/company/psaier-energies-gmbh-srl",
+      "description": null,
+      "location": null,
+      "start": "2015-06",
+      "end": "2015-09",
+      "dateRange": "Jun 2015 – Sep 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Finance",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "UNSW Business School",
+      "degree": "Exchange Semester",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Free University of Bozen-Bolzano",
+      "degree": "Bachelor of Science (B.Sc.), Economics and Management",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "University of Mannheim",
+      "degree": "Erasmus",
+      "dateRange": "2013"
+    }
+  ],
+  "skills": [
+    "Marketing Strategy",
+    "Business Development",
+    "Business Strategy",
+    "Corporate Finance",
+    "Project Finance",
+    "Unternehmensplanung",
+    "Unternehmensführung",
+    "Finanzmodelle",
+    "Financial Analyisis",
+    "E-Commerce"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Italienisch",
+    "Spanisch"
+  ],
+  "company": null
+}

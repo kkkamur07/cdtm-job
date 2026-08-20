@@ -1,0 +1,172 @@
+{
+  "id": "xavier-oliva",
+  "name": "Xavi Oliva",
+  "headline": "MLE @ Meta | UCB | EPFL | CDTM",
+  "avatar": null,
+  "location": "London, United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/xavier-oliva",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "M.Sc. Data Science student at EPFL with a strong interest in sustainability, cybersecurity and machine learning.",
+  "positions": [
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Meta",
+      "companyUrl": "https://www.linkedin.com/company/meta",
+      "description": null,
+      "location": null,
+      "start": "2023-11",
+      "end": null,
+      "dateRange": "Nov 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Meta",
+      "companyUrl": "https://www.linkedin.com/company/meta",
+      "description": null,
+      "location": null,
+      "start": "2022-04",
+      "end": "2023-10",
+      "dateRange": "Apr 2022 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Deep Learning Engineer",
+      "company": "Presize (acq. by Meta)",
+      "companyUrl": "https://www.linkedin.com/company/presizeai",
+      "description": null,
+      "location": null,
+      "start": "2022-02",
+      "end": "2022-04",
+      "dateRange": "Feb 2022 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Product Development Consultant",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-08",
+      "dateRange": "Apr 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Trend & Futures Researcher",
+      "company": "Tech4Germany",
+      "companyUrl": "https://www.linkedin.com/company/tech4germany",
+      "description": "Trend & Scenario Research of the Public Administration in the Digital Era, Design Thinking, Ideation & Business Model Creation",
+      "location": null,
+      "start": "2020-03",
+      "end": "2020-04",
+      "dateRange": "Mar 2020 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Full Stack Engineer",
+      "company": "Jules AI",
+      "companyUrl": "https://www.linkedin.com/company/julestech",
+      "description": "- Startup building a digital assistant helping players in the waste management industry\n- Developed web equivalent of the mobile app using React Js\n- Ideated and implemented Python scripts to automatically upload data to Google Firestore database",
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-04",
+      "dateRange": "Jan 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Scientific Employee (Tutor)",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "- Teaching Assistant in \"Circuit Theory I\" (Oct 2017 - Feb 2018)\n- Teaching Assistant in \"Circuit Theory II\" (Apr 2018 - Aug 2018)\n- Teaching Assistant in \"Stochastic Signals\" (Oct 2019 - Feb 2020)\n\nTasks:\n- Prepare classes, teach relevant material for exam preparation\n- Assist students in the learning process, answer questions\n- Correct homework",
+      "location": null,
+      "start": "2017-10",
+      "end": "2020-02",
+      "dateRange": "Oct 2017 – Feb 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "EPFL",
+      "degree": "Master of Science - MS, Data Science",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Graduate Visiting Student Researcher",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Electrical Engineering and Information  Technology",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Polytechnique Montréal",
+      "degree": "Term abroad, Computer Science",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Deutsche Schule Barcelona",
+      "degree": "Abitur",
+      "dateRange": "2004 – 2016"
+    }
+  ],
+  "skills": [
+    "C",
+    "C++",
+    "React Native",
+    "React.js",
+    "Python",
+    "Firebase",
+    "Javascript"
+  ],
+  "languages": [
+    "French",
+    "German",
+    "Spanish",
+    "Catalan",
+    "English",
+    "Portuguese"
+  ],
+  "company": {
+    "name": "Meta",
+    "tagline": null,
+    "description": "Meta's mission is to build the future of human connection and the technology that makes it possible. \n\nOur technologies help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.\n\nTo help create a safe and respectful online space, we encourage constructive conversations on this page. Please note the following:\n\n• Start with an open mind. Whether you agree or disagree, engage with empathy.\n• Comments violating our Community Standards will be removed or hidden. Please treat everybody with respect.\n• Keep it constructive. Use your interactions here to learn about and grow your understanding of others.\n• Our moderators are here to uphold these guidelines for the benefit of everyone, every day.\n• If you are seeking support for issues related to your Facebook account, please reference our Help Center (https://www.facebook.com/help) or Help Community (https://www.facebook.com/help/community).\n\nFor a full listing of our jobs, visit https://www.metacareers.com",
+    "industry": "Software Development",
+    "website": "https://www.metacareers.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/meta",
+    "employeeCount": 155447,
+    "foundedYear": null,
+    "location": "Menlo Park, United States",
+    "specialities": [
+      "Connectivity",
+      "Artificial Intelligence",
+      "Virtual Reality",
+      "Machine Learning",
+      "Social Media",
+      "Augmented Reality",
+      "Marketing Science",
+      "Mobile Connectivity",
+      "Open Compute",
+      "Metaverse"
+    ]
+  }
+}

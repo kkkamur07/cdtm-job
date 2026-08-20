@@ -1,0 +1,184 @@
+{
+  "id": "svea-marie-meyer-a831b11b1",
+  "name": "Svea Marie Meyer",
+  "headline": "Senior Consultant@McKinsey & Company | (Gen-)AI Strategy and Implementation",
+  "avatar": {
+    "sm": "/avatars/svea-marie-meyer-a831b11b1-sm.webp",
+    "lg": "/avatars/svea-marie-meyer-a831b11b1.webp",
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAADQBQCdASogACAAPtFUpU2oJCMiMBgIAQAaCUAXyTGX1qywbfL0HJjqMPQHJ7MMSR6bsNZK+OAAAP79973+QCorwGnrXx+Z0K4zYquJwoNKyNz4ByiJITXc7oWwL/6bT7zFJwYtUinmVNgXUiUEPJgGOHwfFD835+tUp4QW+MQmGGBJtIvETu/GLpFiSjqsk5DpsDRbQfDAB8PQ4hkU7GwIIJMHHGgtgaV740o49984o4kXkBmBzTsQ21wI4MBFS2VypbS+kM+9YVPkGuDFp6XNUd0iCOZU5y4QXWnwW3HEG/DnKHTw3IAA"
+  },
+  "location": "Hamburg, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/svea-marie-meyer-a831b11b1",
+  "personId": 1141,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "M.Sc. Neuroengineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Svea Meyer",
+  "ca": null,
+  "summary": "Work at McKinsey & Company",
+  "positions": [
+    {
+      "title": "Senior Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Hamburg, Germany",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Munich",
+      "company": "Intel Labs",
+      "companyUrl": "https://www.linkedin.com/company/intel-labs",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Hamburg, Germany",
+      "start": "2025-03",
+      "end": "2025-12",
+      "dateRange": "Mar 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Research Scholar",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": "Collaborative project between Intel Labs and Stanford University. Supervised by Prof. Scott Linderman and Dr. Jonathan Timcheck. Funded through NeuroPAC.",
+      "location": "Stanford, California, United States",
+      "start": "2024-11",
+      "end": "2025-02",
+      "dateRange": "Nov 2024 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Full-time",
+      "company": "Intel Labs",
+      "companyUrl": "https://www.linkedin.com/company/intel-labs",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-03",
+      "dateRange": "Jan 2023 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "AI Applied Research Scientist",
+      "company": "Intel Labs",
+      "companyUrl": "https://www.linkedin.com/company/intel-labs",
+      "description": null,
+      "location": null,
+      "start": "2022-06",
+      "end": "2024-10",
+      "dateRange": "Jun 2022 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Master's Thesis Student",
+      "company": "Intel Labs",
+      "companyUrl": "https://www.linkedin.com/company/intel-labs",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-11",
+      "end": "2022-05",
+      "dateRange": "Nov 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Student Developer at sktime",
+      "company": "Google Summer of Code",
+      "companyUrl": "https://www.linkedin.com/company/google-summer-of-code-2019",
+      "description": "Contributed to sktime, a Python toolbox for machine learning with time series with >100k downloads per month.\nStarted the creation of a sister package (sktime-neuro) entailing a plug-and-play end-to-end pipeline for the classification of brain signals .\nWas elected as a core-developer and presented sktime in a Lightning Talk at PyData global 2021.",
+      "location": "remote",
+      "start": "2021-06",
+      "end": "2021-08",
+      "dateRange": "Jun 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Student Research and Teaching Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Assisted with practical course on recording and processing neural signals (EEG, EMG) with machine learning.\nDeveloped a pipeline to classify brain signals to detect erroneous exoskeleton behavior, published at EMBC 2021\n\n(paused in January and May)",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-10",
+      "end": "2021-08",
+      "dateRange": "Oct 2020 – Aug 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Neuroengineering",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management,",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2020"
+    },
+    {
+      "school": "The University of British Columbia",
+      "degree": "Bachelor's Thesis",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, PSYCHOLOGY",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "Nantes Université",
+      "degree": "Exchange Semester",
+      "dateRange": "2016 – 2017"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "McKinsey & Company",
+    "tagline": null,
+    "description": "McKinsey & Company is a global management consulting firm. We are the trusted advisor to the world's leading businesses, governments, and institutions. \r\n\r\nWe work with leading organizations across the private, public and social sectors. Our scale, scope, and knowledge allow us to address problems that no one else can. We have deep functional and industry expertise as well as breadth of geographical reach. We are passionate about taking on immense challenges that matter to our clients and, often, to the world. \r\n\r\nWe work with our clients as we do with our colleagues. We build their capabilities and leadership skills at every level and every opportunity. We do this to help build internal support, get to real issues, and reach practical recommendations. We bring out the capabilities of clients to fully participate in the process and lead the ongoing work.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.mckinsey.com",
+    "linkedInUrl": "https://www.linkedin.com/company/mckinsey",
+    "employeeCount": 38159,
+    "foundedYear": null,
+    "location": "United States",
+    "specialities": [
+      "Management Consulting"
+    ]
+  }
+}

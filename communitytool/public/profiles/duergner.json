@@ -1,0 +1,308 @@
+{
+  "id": "duergner",
+  "name": "Michael Dürgner",
+  "headline": "Entrepreneur, Engineering Leader &  Software Engineer",
+  "avatar": null,
+  "location": "Düsseldorf, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/duergner",
+  "personId": 1518,
+  "classes": [
+    {
+      "id": 56,
+      "label": "Fall 2004",
+      "season": "Fall",
+      "year": 2004,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2004",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Michael Dürgner",
+  "ca": null,
+  "summary": "Michael rejoined the Zalando Tech Hub in Dortmund after one year in Helsinki and eight month in Lisbon. He will be leading teams working on the fulfilment core network. Before that he lead the engineering in Zalando's third international hub in Lisbon. Previously he has been an Engineering Lead at the Zalando Tech Hub Helsinki leading a team of engineers that help external partners to integrate with the Zalando Fashion Store. Prior to this role he was a Delivery Lead at Zalando SE driving software development and architecture for tools and solutions to connect all the players on the fashion market with a focus on getting influencers like fashion bloggers connected.\n\nPrior to working with Zalando SE, Michael was a Co-Founder and CTO of TheAmazeApp (sold to Zalando SE), a mobile app company offering an inspirational fashion shopping app. AMAZE combines the inspirational part of fashion shopping as known from magazines like VOGUE or Instagram with an easy and integrated way to buy products directly at one of Europe's biggest fashion retailers.\n\nBefore founding TheAmazeApp Michael was one of the Co-Founders at Pockets United, a mobile group payment startup as well as Freelance Software Engineer helping different startups building scalable backend. He started his professional career as one of the first employees at Aloqa, a location-based mobile app that was eventually acquired by Motorola Mobility Inc.\n\nMichael holds a Master's degree in Computer Science with minor in Computer Linguistics as well as a Honour's degree in Technology Management. He is also one of the founding members and former chairman of the alumni association for Computer Science at LMU Munich. He finds joy in doing some amateur photography as well as cooking and mountain biking.",
+  "positions": [
+    {
+      "title": "Head Of Engineering",
+      "company": "GROPYUS",
+      "companyUrl": "https://www.linkedin.com/company/gropyus",
+      "description": "Make sustainable, affordable and smart living a reality.",
+      "location": "Düsseldorf, North Rhine-Westphalia, Germany",
+      "start": "2022-08",
+      "end": null,
+      "dateRange": "Aug 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder",
+      "company": "SpruceHill.io GmbH",
+      "companyUrl": "https://www.linkedin.com/company/spruce-hill-ventures-gmbh-i.gr.",
+      "description": "Freelance software consulting and building small applications and proof-of-concept / proof-of-market prototypes. Developing and launching e.g. https://remember-395.com",
+      "location": "Nürnberg Area, Germany",
+      "start": "2011-03",
+      "end": null,
+      "dateRange": "Mar 2011 – Present",
+      "current": true
+    },
+    {
+      "title": "Principal Software Engineer",
+      "company": "GROPYUS",
+      "companyUrl": "https://www.linkedin.com/company/gropyus",
+      "description": "Make sustainable, affordable and smart living a reality.",
+      "location": "Düsseldorf, North Rhine-Westphalia, Germany",
+      "start": "2020-08",
+      "end": "2022-08",
+      "dateRange": "Aug 2020 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "company": "METRO Markets GmbH",
+      "companyUrl": "https://www.linkedin.com/company/metro-markets-gmbh",
+      "description": null,
+      "location": "Düsseldorf Area, Germany",
+      "start": "2019-08",
+      "end": "2020-07",
+      "dateRange": "Aug 2019 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Engineering Lead",
+      "company": "Zalando SE",
+      "companyUrl": "https://www.linkedin.com/company/zalando",
+      "description": null,
+      "location": "Dortmund Area, Germany",
+      "start": "2018-09",
+      "end": "2019-07",
+      "dateRange": "Sep 2018 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Engineering Lead",
+      "company": "Zalando SE",
+      "companyUrl": "https://www.linkedin.com/company/zalando",
+      "description": "Developing the third internal hub for Zalando in Lisbon with a focus on hiring and leading the engineering on site - both from  people leadership topics as well guiding the system architecture and system design decisions.\n\nContinued contribution to shaping the technology landscape, API design process as well the open source strategy as well as mentoring teams and individuals regarding open source projects.",
+      "location": "Lisbon Area, Portugal",
+      "start": "2018-01",
+      "end": "2018-08",
+      "dateRange": "Jan 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Engineering Lead",
+      "company": "Zalando SE",
+      "companyUrl": "https://www.linkedin.com/company/zalando",
+      "description": "Building up a new team focusing on providing interfaces and services that allow external partner to integrate their services into the Zalando Fashion Store as well as build parts their business on top of services offered by  Zalando.\n\nContinued contribution to shaping the technology landscape, API design process as well the open source strategy as well as mentoring teams and individuals regarding open source projects.",
+      "location": "Helsinki Area, Finland",
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Delivery Lead Fleek Tooling",
+      "company": "Zalando SE",
+      "companyUrl": "https://www.linkedin.com/company/zalando",
+      "description": "Leading the former TheAmazeApp team and overseeing integration of our technology into the existing technology and systems for fleek. Focusing on leading the team during both technical as well as organizational integration process.\n\nFurthermore talking part in actively shaping both technology landscape and the API design process and guidelines inside Zalando as well as actively participating in advancing the companies open source strategy.",
+      "location": "Dortmund Area, Germany",
+      "start": "2016-05",
+      "end": "2016-12",
+      "dateRange": "May 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Founder & CTO",
+      "company": "TheAmazeApp (acquired by Zalando SE)",
+      "companyUrl": "https://www.linkedin.com/company/the-amaze-app",
+      "description": "Leading a team of up to seven engineers both frontend as well as backend. Designing the overall architecture of both the AMAZE backend infrastructure as well as the mobile clients along with defining deployment processes and monitoring services for the production infrastructure.\n\nInteracting with product management and other roles within the company to identify, prioritise and implement requirements.",
+      "location": "Cologne Area, Germany",
+      "start": "2014-10",
+      "end": "2016-05",
+      "dateRange": "Oct 2014 – May 2016",
+      "current": false
+    },
+    {
+      "title": "VP Software Engineering & DevOps",
+      "company": "wishdrum AG",
+      "companyUrl": null,
+      "description": "Designing and implementing a scaleable REST backend system for a local & mobile messaging & group communication solution. Design and setup of the backend infrastructure including deployment automation. Furthermore, overseeing the development process management process (Scrum).",
+      "location": "Munich Area, Germany",
+      "start": "2014-04",
+      "end": "2014-10",
+      "dateRange": "Apr 2014 – Oct 2014",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer (Freelance)",
+      "company": "Netjay GmbH & Co. KG",
+      "companyUrl": null,
+      "description": "Implementing additional features and providing fixes for client projects - mostly based on Grails, integrations with Neo4J, MongoDB, Atmosphere, etc.",
+      "location": "Munich Area, Germany",
+      "start": "2013-08",
+      "end": "2014-10",
+      "dateRange": "Aug 2013 – Oct 2014",
+      "current": false
+    },
+    {
+      "title": "Lead Software Engineer & Architect (Freelance / Pro Bono)",
+      "company": "FLECHTWERK 2+1 gGmbH",
+      "companyUrl": null,
+      "description": "Building a web application for managing the internal processes including a customer signup section. The application is based on Grails as REST backend and AngularJS on the frontend.",
+      "location": "Munich Area, Germany",
+      "start": "2012-10",
+      "end": "2014-10",
+      "dateRange": "Oct 2012 – Oct 2014",
+      "current": false
+    },
+    {
+      "title": "Founder & CTO",
+      "company": "Pockets United GmbH",
+      "companyUrl": "https://www.linkedin.com/company/pockets-united",
+      "description": "Designing and building a group payment application together with first one, later on two co-founders. Mostly focussing on building the scalable and secure backend systems including their integration into existing payment solutions.",
+      "location": "Munich Area, Germany",
+      "start": "2011-02",
+      "end": "2014-02",
+      "dateRange": "Feb 2011 – Feb 2014",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Motorola Mobile Devices",
+      "companyUrl": "https://www.linkedin.com/company/motorola-mobility",
+      "description": "Handing over and integrating the Aloqa systems into existing Motorola data centres and applications.",
+      "location": "Munich Area, Germany",
+      "start": "2010-09",
+      "end": "2011-01",
+      "dateRange": "Sep 2010 – Jan 2011",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Aloqa GmbH",
+      "companyUrl": "https://www.linkedin.com/company/aloqa",
+      "description": "Designing, developing and running part of the backend systems for a location based POI finder mobile application.",
+      "location": "Munich Area, Germany",
+      "start": "2008-12",
+      "end": "2010-09",
+      "dateRange": "Dec 2008 – Sep 2010",
+      "current": false
+    },
+    {
+      "title": "Software-Developer (LBS)",
+      "company": "Bayerische Landesbank",
+      "companyUrl": "https://www.linkedin.com/company/bayerische-landesbank",
+      "description": "Working as an interim on software test automation fort he  newly developed OSGI application which replaced an old monolithic system.",
+      "location": "Munich Area, Germany",
+      "start": "2008-10",
+      "end": "2008-12",
+      "dateRange": "Oct 2008 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "Freelancer",
+      "company": "Web Reisen GmbH",
+      "companyUrl": null,
+      "description": "Software Engineer for Third Party API Integration",
+      "location": "Munich Area, Germany",
+      "start": "2007-03",
+      "end": "2007-10",
+      "dateRange": "Mar 2007 – Oct 2007",
+      "current": false
+    },
+    {
+      "title": "Trainee",
+      "company": "IT2media GmbH & Co. KG",
+      "companyUrl": "https://www.linkedin.com/company/it2media-gmbh-&-co--kg",
+      "description": "Software Engineer Database Migration and API Development",
+      "location": null,
+      "start": "2005-03",
+      "end": "2005-05",
+      "dateRange": "Mar 2005 – May 2005",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "draft-master Inh. Michael Duergner",
+      "companyUrl": null,
+      "description": "System Administration and Operations",
+      "location": "Illschwang",
+      "start": "2003-10",
+      "end": "2007-10",
+      "dateRange": "Oct 2003 – Oct 2007",
+      "current": false
+    },
+    {
+      "title": "Partner",
+      "company": "D&R IT-Consulting GbR",
+      "companyUrl": null,
+      "description": "Web Developer",
+      "location": "Illschwang",
+      "start": "1999-06",
+      "end": "2006-12",
+      "dateRange": "Jun 1999 – Dec 2006",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom, Computer Science",
+      "dateRange": "2002 – 2009"
+    },
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Computer Science",
+      "dateRange": "2006"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Honor Degree, Technology Management",
+      "dateRange": "2005 – 2006"
+    }
+  ],
+  "skills": [
+    "Java",
+    "J2EE",
+    "MySQL",
+    "Tomcat",
+    "Grails",
+    "Objective-C",
+    "Groovy",
+    "Android",
+    "NoSQL",
+    "REST",
+    "Scalability",
+    "AngularJS",
+    "Riak",
+    "CoffeeScript",
+    "iOS",
+    "Git",
+    "Github",
+    "Spring",
+    "Spring Integration",
+    "VMware ESX"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "GROPYUS",
+    "tagline": "Creating sustainable living for everyone.",
+    "description": "GROPYUS advances the development of sustainable buildings. We transform the construction industry through technology. By looking at homes as products we are able to create truly sustainable and affordable buildings. Sustainability permeates every step of the building process: design, production, construction, and asset management.\n\nWe create a new standard of sustainable living for people and conserve the resources of our planet.\n\nLet’s build sustainable and affordable homes together!\n\nLegal Notice: https://www.gropyus.com/en/legal-notice\nPrivacy Policy: https://www.gropyus.com/en/data-privacy",
+    "industry": "Construction",
+    "website": "http://www.gropyus.com",
+    "linkedInUrl": "https://www.linkedin.com/company/gropyus",
+    "employeeCount": 388,
+    "foundedYear": null,
+    "location": "Wien, Austria",
+    "specialities": []
+  }
+}

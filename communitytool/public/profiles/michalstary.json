@@ -1,0 +1,216 @@
+{
+  "id": "michalstary",
+  "name": "Michal Stary",
+  "headline": "Zillow | TUM | MIT | CDTM",
+  "avatar": {
+    "sm": "/avatars/michalstary-sm.webp",
+    "lg": "/avatars/michalstary.webp",
+    "blur": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAAAwBgCdASogACAAPsVSo0unpSOhsAwA8BiJQBdgZYMMEzQrfvbNP9a9BIYGlGk9Sn4ZtD+U0iugioQAAP79vdsFWwMWJSW5+1B/PqlOuFsUo3WAHju7/zfv4P+8e6ZMi+E5/aiCmiUerwqDwjbu/qNSKcoPtiPr7qWB3QzI+zWnB1qUNMWfAcav35x9XCukw+2zb0m6MWIHbSDVDsj9qvCIR50GriYesTpIve8SbJcJune0JhzyGlIFlo/x++9c+0dxoYlztGHpmXoG3NxetlKL+pVK3sxnQ8utvYDA1lGxVMSDSFvNVxQ3MU6cv7ji+aFP2t7uHgFHBlvWYcSKAApIuUcUovoAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/michalstary",
+  "personId": 917,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Michal Starý",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Applied Scientist",
+      "company": "Zillow",
+      "companyUrl": "https://www.linkedin.com/company/zillow",
+      "description": "working on generative models",
+      "location": null,
+      "start": "2025-05",
+      "end": null,
+      "dateRange": "May 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "worked on sparse-view 3D reconstruction and video/multi-view generative models",
+      "location": null,
+      "start": "2024-09",
+      "end": "2025-05",
+      "dateRange": "Sep 2024 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Research Engineer Intern",
+      "company": "Virtual Staging AI",
+      "companyUrl": "https://www.linkedin.com/company/virtual-staging-ai",
+      "description": "worked on generative models for enabling multi-view consistent image editing",
+      "location": null,
+      "start": "2024-04",
+      "end": "2024-07",
+      "dateRange": "Apr 2024 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "3D computer vision\nGeneralizable scene representation of outdoor scenes\n* SRT, NeRF\n* Self-driving",
+      "location": null,
+      "start": "2023-10",
+      "end": "2024-04",
+      "dateRange": "Oct 2023 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Praktikant",
+      "company": "SE3 Labs",
+      "companyUrl": "https://www.linkedin.com/company/se3-labs",
+      "description": "Enabling natural language interaction with outdoor scenes \n* Vision-language models\n* Vision LLMs\n* Open-Vocabulary 3D Instance Segmentation",
+      "location": null,
+      "start": "2023-10",
+      "end": "2024-03",
+      "dateRange": "Oct 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Università degli Studi di Cagliari",
+      "companyUrl": "https://www.linkedin.com/company/universit-degli-studi-di-cagliari",
+      "description": "Research of automated tuning of FMN adversarial attack.",
+      "location": null,
+      "start": "2022-03",
+      "end": "2022-09",
+      "dateRange": "Mar 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "ICS MUNI",
+      "companyUrl": "https://www.linkedin.com/company/institute-of-computer-science-masaryk-university",
+      "description": "Applied Deep Learning Research. Analysis of measurements from Gas-Chromatography Mass Spectrometry (GC-MS) with the use of NLP-inspired Machine Learning.\n\nGPT2, LSTM, Word2Vec applied on spectral data",
+      "location": null,
+      "start": "2021-03",
+      "end": "2022-11",
+      "dateRange": "Mar 2021 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Teacher Assistant",
+      "company": "Masarykova univerzita",
+      "companyUrl": "https://www.linkedin.com/company/masarykova-univerzita-brno",
+      "description": "Tutor in Introduction to Machine Learning course (leading introductory ML tutorials in Python ML frameworks). TA in Neural Networks course (correction of NN from scratch in C++)",
+      "location": null,
+      "start": "2020-09",
+      "end": "2022-01",
+      "dateRange": "Sep 2020 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Konica Minolta - DX Solutions Development Centre",
+      "companyUrl": "https://www.linkedin.com/company/konica-minolta-research-digital-services",
+      "description": "Research of methods for Event detection, and temporal expression detection. \nDevelopment of BERT-based pipelines.\nDeployment by Docker and Kubernetes.",
+      "location": null,
+      "start": "2019-07",
+      "end": "2022-02",
+      "dateRange": "Jul 2019 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Developer",
+      "company": "Narodni Institut pro Dalsi Vzdelavani (NIDV) National Institute for Professional Development",
+      "companyUrl": "https://www.linkedin.com/company/narodni-institut-pro-dalsi-vzdelavani-nidv-national-institute-for-professional-development",
+      "description": "Automation of the management of online courses in Google Suite.",
+      "location": null,
+      "start": "2017-09",
+      "end": "2020-05",
+      "dateRange": "Sep 2017 – May 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Informatics",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors degree",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Masaryk University Brno, Faculty of Social Studies",
+      "degree": "Bachelor's degree, Artificial Intelligence & Natural Language Processing",
+      "dateRange": "2018 – 2022"
+    }
+  ],
+  "skills": [
+    "C++",
+    "Flask",
+    "Docker",
+    "Machine Learning",
+    "Deep Learning",
+    "Python",
+    "NumPy",
+    "PyTorch",
+    "Teaching",
+    "TensorFlow",
+    "Optimization",
+    "Pandas",
+    "Scikit-Learn",
+    "Natural Language Processing (NLP)",
+    "Natural Language Understanding",
+    "Adversarial Machine Learning",
+    "ML Security",
+    "Galaxy",
+    "TensorBoard",
+    "PyTorch Geometric",
+    "PyTorch Lightning",
+    "W&B",
+    "Pytorch Lightning",
+    "Pytorch Geometric",
+    "ML security",
+    "Adversarial machine learning"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian"
+  ],
+  "company": {
+    "name": "Zillow",
+    "tagline": "We make home a reality for more and more people.",
+    "description": "Having a place to call your own changes everything. It’s where life happens, where stability grows and possibility begins.\n\nAt Zillow, we’re transforming real estate so more people can take their next step with confidence and ease. We bring clarity to the process and progress to an industry ready for change, working alongside the people who make real estate work every day.\n\nWith Cloud HQ, our distributed-first way of working, you can do meaningful work from wherever you work best. We’re always looking for smart, passionate people to help reimagine how people get home. Join us.\n\nhttps://www.zillow.com/careers/",
+    "industry": "Real Estate",
+    "website": "http://www.zillow.com",
+    "linkedInUrl": "https://www.linkedin.com/company/zillow",
+    "employeeCount": 9979,
+    "foundedYear": 2006,
+    "location": "Seattle, United States",
+    "specialities": [
+      "Real Estate",
+      "Home Values",
+      "Mortgages",
+      "Homes for Sale",
+      "Homes for Rent",
+      "Mobile Apps"
+    ]
+  }
+}

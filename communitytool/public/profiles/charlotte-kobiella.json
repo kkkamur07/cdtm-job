@@ -1,0 +1,181 @@
+{
+  "id": "charlotte-kobiella",
+  "name": "Charlotte Kobiella",
+  "headline": "CDTM Management Team | Doctoral Candidate",
+  "avatar": {
+    "sm": "/avatars/charlotte-kobiella-sm.webp",
+    "lg": "/avatars/charlotte-kobiella.webp",
+    "blur": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAADQBQCdASogACAAPslQoUunpKMht/VYAPAZCWMAzYWMySq00N7BSZWTjblznC3cKUZXVkGBinD4AP79eKhsytZraYbmSApdazakW3HSTMBuQ9VeBhP+J1zDwNM5JxKOuQWXUBr9bTqT+GNFWd/9SA04nJ4gwhjEfAsWwbw7edVLdVUCZD3IbMlWuh5w12x6giXOpS7qfdm88xf5pMwArhnXm7ZTs+1R8tndfW/yOnu8zDTvxtcgAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/charlotte-kobiella",
+  "personId": 1073,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Management & Technology",
+  "roles": [
+    "student",
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": false,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Charlotte Kobiella",
+  "ca": {
+    "alumni": false,
+    "about": "Charlotte Kobiella studied Management & Technology at TUM with a focus on entrepreneurship and innovation. During her abroad stay at the University of California, Berkeley, Charlotte focused on Product Design and Management and the inclusive design of mobile applications. Charlotte joined the CDTM as a student in the class of Fall 2019.\n\nAfter completing her bachelor’s degree in Business at the University of Regensburg, Charlotte worked full-time as a Consultant at PwC. In parallel to her master’s studies, she gained experience in product management in tech startups in Munich and San Francisco.\n\nCharlotte joined the CDTM as a Center Assistant in August of 2022. She is in charge of eLab and the Marketing & Branding taskforce. Charlotte is also responsible for all things related to student recruitment.",
+    "responsibilities": [
+      "Entrepreneurship Laboratory Course",
+      "Marketing & Branding Task Force"
+    ],
+    "researchFields": [
+      "Human-Computer Interaction"
+    ],
+    "email": "kobiella@cdtm.com"
+  },
+  "summary": null,
+  "positions": [
+    {
+      "title": "Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Einhörner ohne Ende: Was macht die Münchener Unis so erfolgreich?",
+      "location": null,
+      "start": "2022-08",
+      "end": null,
+      "dateRange": "Aug 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "Kyte",
+      "companyUrl": "https://www.linkedin.com/company/drivekyte",
+      "description": null,
+      "location": null,
+      "start": "2022-03",
+      "end": "2022-05",
+      "dateRange": "Mar 2022 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Wemolo",
+      "companyUrl": "https://www.linkedin.com/company/wemolo",
+      "description": null,
+      "location": null,
+      "start": "2020-03",
+      "end": "2021-06",
+      "dateRange": "Mar 2020 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Venture Development Consultant",
+      "company": "better ventures",
+      "companyUrl": "https://www.linkedin.com/company/better-ventures-group",
+      "description": "Trend Research at the CDTM: The future of Parenttech",
+      "location": null,
+      "start": "2019-08",
+      "end": "2019-09",
+      "dateRange": "Aug 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Transfer Pricing Associate",
+      "company": "PwC",
+      "companyUrl": "https://www.linkedin.com/company/pwc",
+      "description": null,
+      "location": null,
+      "start": "2017-07",
+      "end": "2019-09",
+      "dateRange": "Jul 2017 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Intern Transfer Pricing",
+      "company": "PwC",
+      "companyUrl": "https://www.linkedin.com/company/pwc",
+      "description": "Nürnberg",
+      "location": null,
+      "start": "2017-03",
+      "end": "2017-06",
+      "dateRange": "Mar 2017 – Jun 2017",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Continental",
+      "companyUrl": "https://www.linkedin.com/company/continental",
+      "description": null,
+      "location": null,
+      "start": "2016-08",
+      "end": "2017-02",
+      "dateRange": "Aug 2016 – Feb 2017",
+      "current": false
+    },
+    {
+      "title": "Treasury Manager",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2016-01",
+      "end": "2016-05",
+      "dateRange": "Jan 2016 – May 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Human Computer Interaction",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Management & Technology",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "University College Dublin",
+      "degree": "Study abroad, Finance & Accounting",
+      "dateRange": "2015"
+    },
+    {
+      "school": "University of Regensburg",
+      "degree": "Bachelor's degree, Accounting and Finance",
+      "dateRange": "2013 – 2017"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Center for Digital Technology and Management (CDTM)",
+    "tagline": "Connect, Educate and Empower the Innovators of Tomorrow",
+    "description": "The Center for Digital Technology and Management (CDTM), a joint institution of the Ludwig-Maximilians-Universität München (LMU) and the Technische Universität München (TUM), offers talented students the international and interdisciplinary study program Technology Management. \n\nThe CDTM focuses on how to manage High-Tech in close cooperation with industry, research and education, while simultaneously being committed to preparing the students for future leadership positions in their professional career.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.cdtm.de",
+    "linkedInUrl": "https://www.linkedin.com/company/cdtm-munich",
+    "employeeCount": 35,
+    "foundedYear": 1998,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Entrepreneurship",
+      "Product Development"
+    ]
+  }
+}

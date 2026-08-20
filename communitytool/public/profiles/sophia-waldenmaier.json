@@ -1,0 +1,263 @@
+{
+  "id": "sophia-waldenmaier",
+  "name": "Sophia Waldenmaier",
+  "headline": "Senior Product Manager @ Holidu",
+  "avatar": {
+    "sm": "/avatars/sophia-waldenmaier-sm.webp",
+    "lg": "/avatars/sophia-waldenmaier.webp",
+    "blur": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAADQBQCdASogACAAPtFYoEuoJSMhsBgMAQAaCWQAyMddjAAaFbGfbc0VLQ8zPA5M/AkN6G5bgdQAAP7+qyk29YRVYgAX+TvMdPZ+WndgmBIb/Ii2e3nUZhawiuGiXyg97B7vnSa2WWIfIRgjuSJB0sAgG0CULSbuYjuyPMi3ojEZzc8QG0umDjYffteD9w3ACmMcMnQ72Ll6DY+yDpqzSsnCie2wI9R14oAyTKa4tBcazcrQloos6A8u0hu7MYXJzEWOKgbEVm0IAA=="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sophia-waldenmaier",
+  "personId": 812,
+  "classes": [
+    {
+      "id": 80,
+      "label": "Fall 2016",
+      "season": "Fall",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2016",
+  "major": "Communication Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sophia Waldenmaier",
+  "ca": null,
+  "summary": "I’m a value-driven product manager with an international and interdisciplinary background in business and technology. I combine strong analytical and communication skills with experience in product management and new product development.",
+  "positions": [
+    {
+      "title": "Senior Product Manager",
+      "company": "Holidu",
+      "companyUrl": "https://www.linkedin.com/company/holidu",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2024-03",
+      "end": null,
+      "dateRange": "Mar 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "TV-Journalism",
+      "company": "ARD - Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der BRD",
+      "companyUrl": "https://www.linkedin.com/company/ard-wir-sind-deins",
+      "description": "Intern: Editorial department of the political TV-format “Report Muenchen”",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2014-09",
+      "end": null,
+      "dateRange": "Sep 2014 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "Holidu",
+      "companyUrl": "https://www.linkedin.com/company/holidu",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-04",
+      "end": "2024-04",
+      "dateRange": "Apr 2022 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Technical Product Manager",
+      "company": "Agrando",
+      "companyUrl": "https://www.linkedin.com/company/agrando",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-08",
+      "end": "2022-03",
+      "dateRange": "Aug 2020 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Product Management",
+      "company": "AutoScout24 GmbH",
+      "companyUrl": "https://www.linkedin.com/company/autoscout24",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-04",
+      "end": "2020-02",
+      "dateRange": "Apr 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Visiting Research Scientist",
+      "company": "Columbia Business School",
+      "companyUrl": "https://www.linkedin.com/company/columbia-business-school",
+      "description": null,
+      "location": "New York City Metropolitan Area",
+      "start": "2018-08",
+      "end": "2018-12",
+      "dateRange": "Aug 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Product Marketing & Business Development",
+      "company": "TerraLoupe",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-04",
+      "end": "2018-08",
+      "dateRange": "Apr 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Projectmanagement",
+      "company": "German Entrepreneurship GmbH",
+      "companyUrl": "https://www.linkedin.com/company/start2group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-04",
+      "end": "2018-01",
+      "dateRange": "Apr 2017 – Jan 2018",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "EnBW Energie Baden-Württemberg AG",
+      "companyUrl": "https://www.linkedin.com/company/enbw",
+      "description": "CDTM cooperation with EnBW working on Value-added-Services in the area of E-Mobility.",
+      "location": null,
+      "start": "2017-04",
+      "end": "2017-07",
+      "dateRange": "Apr 2017 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "New Product Development",
+      "company": "ProSiebenSat.1 Media SE",
+      "companyUrl": "https://www.linkedin.com/company/prosiebensat1-media-se",
+      "description": "CDTM cooperation with the ProSiebenSat.1 Group working on an automatic trend discovery web application for their content creation.",
+      "location": null,
+      "start": "2016-10",
+      "end": "2017-01",
+      "dateRange": "Oct 2016 – Jan 2017",
+      "current": false
+    },
+    {
+      "title": "Trend Research",
+      "company": "EIT - European Institute of Innovation and Technology",
+      "companyUrl": "https://www.linkedin.com/company/european-institute-of-innovation-and-technology---eit",
+      "description": "Trend Research: Digital Innovation in Diabetes Care  (CDTM Cooperation)",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2016-08",
+      "end": "2016-09",
+      "dateRange": "Aug 2016 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "TV-Journalism",
+      "company": "ZDF",
+      "companyUrl": "https://www.linkedin.com/company/zdf",
+      "description": "Washington DC-Baltimore Area",
+      "location": null,
+      "start": "2015-09",
+      "end": "2015-10",
+      "dateRange": "Sep 2015 – Oct 2015",
+      "current": false
+    },
+    {
+      "title": "Marketing And Public Relations",
+      "company": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+      "companyUrl": "https://www.linkedin.com/company/gizgmbh",
+      "description": "Morocco",
+      "location": null,
+      "start": "2013-08",
+      "end": "2013-09",
+      "dateRange": "Aug 2013 – Sep 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Visiting Scholar @ Columbia Business School",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Consumer Affairs - Consumer, Technology & Innovation (MCA)",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Lingnan University",
+      "degree": "Semester Abroad, Political Science  & Intercultural Communication",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Arts (BA), Communication & Political Science",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Bavarian Academy of Television",
+      "degree": "One-year diploma, TV-Journalism",
+      "dateRange": "2012 – 2013"
+    }
+  ],
+  "skills": [
+    "A/B-Test",
+    "Strategie",
+    "Social Media",
+    "Kundendienst",
+    "Marketing",
+    "Public Relations",
+    "Forschung",
+    "Microsoft Excel",
+    "Social Media Marketing",
+    "Research",
+    "Microsoft Office",
+    "Start-ups",
+    "Soziale Medien",
+    "Projektmanagement",
+    "Unternehmertum",
+    "Produktmanagement",
+    "Agiles Projektmanagement",
+    "Produktionsmanagement",
+    "Scrum",
+    "Agile Methoden",
+    "Agile Webentwicklung",
+    "Agile Anwendungsentwicklung",
+    "Produktentwicklung"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Holidu",
+    "tagline": "Find your home for holiday happiness - Join our mission! 🚀",
+    "description": "Holidu is one of the fastest-growing travel tech companies worldwide. Our mission is to make the booking and hosting of holiday homes free of doubt and full of joy. \n\nThrough the booking portal, guests can book their vacation accommodation with complete peace of mind and confidence. With its software and service platform, Holidu enables hosts to attract more bookings while minimizing effort.\n\nOur team of more than 600 colleagues from 60+ nations is based in Munich and in some of the most attractive travel destinations across Europe.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://www.holidu.com/careers?utm_source=hrLinkedin&utm_medium=unpaid&utm_campaign=employerbranding&utm_content=careerpage",
+    "linkedInUrl": "https://www.linkedin.com/company/holidu",
+    "employeeCount": 817,
+    "foundedYear": 2014,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Vertical search",
+      "Metasearch",
+      "Vacation rentals",
+      "Holiday homes",
+      "Price comparison",
+      "Search engine",
+      "Travel",
+      "Startup",
+      "Venture Capital",
+      "eCommerce",
+      "Hospitality",
+      "Tech"
+    ]
+  }
+}

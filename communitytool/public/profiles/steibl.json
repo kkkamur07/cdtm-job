@@ -1,0 +1,120 @@
+{
+  "id": "steibl",
+  "name": "Christian Steibl",
+  "headline": "Associate Partner at Bain & Company",
+  "avatar": {
+    "sm": "/avatars/steibl-sm.webp",
+    "lg": "/avatars/steibl.webp",
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAABwBgCdASogACAAPsFMoEunpCMht/qoAPAYCWwAnTKEgUiYpR8xI303s0xawr0TfTi2N4Ml2UwBCVTOtkAA/vV5l7/8S5Xi+nFr3lNEgGEkJ5raSiWtyqr3dgPYGNhYa7qf3+k/09qF8kupGfyl+7SHdVbPOqgqNO316cLbU5/W5HdkhN5Uk+f8S1kMvs6M8cgu/f3lrxohbKoEx4rLLonvQSSqdxRUtQsAvEv4TwmuD3+ABtVAxyiDWTAnsY1Fb5LkAKrEYvu7vB+rs73NWT1k7SQD6AAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/steibl",
+  "personId": 1237,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Business Administration & Economics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christian Steibl",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Associate Partner",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": null,
+      "start": "2013-03",
+      "end": null,
+      "dateRange": "Mar 2013 – Present",
+      "current": true
+    },
+    {
+      "title": "Project Manager Strategy & Business Development",
+      "company": "FC Bayern München",
+      "companyUrl": "https://www.linkedin.com/company/fcbayern",
+      "description": "Secondment",
+      "location": null,
+      "start": "2021-05",
+      "end": "2021-08",
+      "dateRange": "May 2021 – Aug 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Visiting Scholar, Auditing MBA Courses at Columbia Business School",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Economics",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Business Administration",
+      "dateRange": null
+    },
+    {
+      "school": "Singapore Management University",
+      "degree": "Semester abroad",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Management & Technology",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Microsoft Excel"
+  ],
+  "languages": [
+    "Englisch",
+    "Deutsch"
+  ],
+  "company": {
+    "name": "Bain & Company",
+    "tagline": null,
+    "description": "Bain & Company is a global consultancy that helps the world’s most ambitious change makers define the future. \n\nAcross 65 cities in 40 countries, we work alongside our clients as one team with a shared ambition to achieve extraordinary results, outperform the competition, and redefine industries. We complement our tailored, integrated expertise with a vibrant ecosystem of digital innovators to deliver better, faster, and more enduring outcomes. Our 10-year commitment to invest more than $1 billion in pro bono services brings our talent, expertise, and insight to organizations tackling today’s urgent challenges in education, racial equity, social justice, economic development, and the environment. We earned a platinum rating from EcoVadis, the leading platform for environmental, social, and ethical performance ratings for global supply chains, putting us in the top 1% of all companies. Since our founding in 1973, we have measured our success by the success of our clients.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bain.com",
+    "linkedInUrl": "https://www.linkedin.com/company/bain-and-company",
+    "employeeCount": 23379,
+    "foundedYear": null,
+    "location": "Boston, United States",
+    "specialities": [
+      "Strategy",
+      "Customer Strategy & Marketing",
+      "Performance Improvement",
+      "Mergers & Acquisitions",
+      "Private Equity",
+      "Organization",
+      "Results Delivery",
+      "Information Technology",
+      "Corporate Renewal"
+    ]
+  }
+}

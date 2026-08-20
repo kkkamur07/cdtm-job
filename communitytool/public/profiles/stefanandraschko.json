@@ -1,0 +1,152 @@
+{
+  "id": "stefanandraschko",
+  "name": "Stefan Andraschko",
+  "headline": "Enterprise Solutions @ Semrush | CDTM | LMU",
+  "avatar": {
+    "sm": "/avatars/stefanandraschko-sm.webp",
+    "lg": "/avatars/stefanandraschko.webp",
+    "blur": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAADQBQCdASogACAAPsVOokunpCMhsAwA8BiJZADG9dwLfTltsaIOov53NDzQtAIKNc6d4NGDEo5QAP7+qyk1dN/gHfR//7RyZ1F6NjRG4YAYJWMy3gkoN3LXjxmELGhVSA4Z8NxJUuVf95NnqNtfknAVafFgr+ngQjNc7bjNEI3cQZdR1pHh3ntdPYNRrv4Sudzop2zhs0NIC4IihYJWnuB8eLRo8Pw1GSTllzyxoYs45powPvsMKEiazxcluZaMIzgNK8hE2YIVoAylYoq1axslzsodsjaGSzTDn1ZnUbbTAAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/stefanandraschko",
+  "personId": 827,
+  "classes": [
+    {
+      "id": 80,
+      "label": "Fall 2016",
+      "season": "Fall",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2016",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Stefan Andraschko",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Product Manager",
+      "company": "Semrush",
+      "companyUrl": "https://www.linkedin.com/company/semrush",
+      "description": null,
+      "location": "Remote, Deutschland",
+      "start": "2022-10",
+      "end": null,
+      "dateRange": "Oct 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-03",
+      "end": "2022-09",
+      "dateRange": "Mar 2021 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "AssetMetrix GmbH",
+      "companyUrl": "https://www.linkedin.com/company/assetmetrix-gmbh",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-03",
+      "end": "2021-02",
+      "dateRange": "Mar 2020 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Cobrainer",
+      "companyUrl": "https://www.linkedin.com/company/cobrainer",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2017-09",
+      "end": "2019-04",
+      "dateRange": "Sep 2017 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Working Student in the R&D Patient Data Management Department",
+      "company": "Brainlab",
+      "companyUrl": "https://www.linkedin.com/company/brainlab",
+      "description": null,
+      "location": "Feldkirchen, Bayern, Deutschland",
+      "start": "2015-09",
+      "end": "2016-04",
+      "dateRange": "Sep 2015 – Apr 2016",
+      "current": false
+    },
+    {
+      "title": "Information Technology System Engineer",
+      "company": "Deutsche Telekom",
+      "companyUrl": "https://www.linkedin.com/company/telekom",
+      "description": null,
+      "location": "Nürnberg, Bayern, Deutschland",
+      "start": "2007-09",
+      "end": "2010-07",
+      "dateRange": "Sep 2007 – Jul 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Media Informatics",
+      "dateRange": "2013 – 2016"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Semrush",
+    "tagline": "An Adobe Company. Helping 28M+ marketers be found everywhere search happens",
+    "description": "Semrush, An Adobe Company, is the leading digital brand visibility platform, empowering marketers to command their online presence and create measurable impact. \nBuilt on the industry’s most expansive proprietary dataset, Semrush delivers AI-driven insights across SEO, Agentic Search Optimization, content marketing, paid media, and social strategy. \nUsed by over 28 million users globally – from scaling startups to the Fortune 500 – Semrush provides the competitive intelligence needed to win visibility in an evolving digital landscape. \nThe company is headquartered in Boston, MA with a global presence across North America, Europe and Asia.",
+    "industry": "Software Development",
+    "website": "http://www.semrush.com",
+    "linkedInUrl": "https://www.linkedin.com/company/semrush",
+    "employeeCount": 2339,
+    "foundedYear": 2008,
+    "location": "Boston, United States",
+    "specialities": [
+      "Search Engine Analysis",
+      "Internet Marketing",
+      "Competitive Analysis",
+      "SEO/SEM",
+      "Organic Research",
+      "Advertising Research",
+      "Keyword Analytics",
+      "Domain Analytics",
+      "Site Audit",
+      "Social Media Analysis",
+      "Brand Monitoring",
+      "Content Analysis",
+      "Backlinks Analysis",
+      "Keyword Research"
+    ]
+  }
+}

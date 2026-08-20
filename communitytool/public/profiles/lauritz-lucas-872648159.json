@@ -1,0 +1,192 @@
+{
+  "id": "lauritz-lucas-872648159",
+  "name": "Lauritz Lucas",
+  "headline": "Schub | CDTM | LSE x Wharton",
+  "avatar": {
+    "sm": "/avatars/lauritz-lucas-872648159-sm.webp",
+    "lg": "/avatars/lauritz-lucas-872648159.webp",
+    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAAAQBgCdASogACAAPsFKn0unpCKht/qoAPAYCWYAnQGLzypEZzyigbxdn96NnhGl8K+O48xthKrrqgAA/voXKxd9j1TFfuHbA6lyh/gV0ncWYbn7jLXG+svvp3ejzpueJKObBNTpqo0jlzhhE2P2I9NeDJ/RXzSivbZIUMdJr5YJwBx8RrcmzXTSTZ2yJ6quSnkwMF/AFSSnUCYimC+3vqQiG5Z+ethXcQ8f1rzuSvv6X/rX4NqZWxs3pss6kS4q33J+YOHEo7Ia+NCH10dfQkkuWKEdCTVYStdZ22m4U9/T3L+YopY7nHJwAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lauritz-lucas-872648159",
+  "personId": 911,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lauritz Lucas",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "AI Operator & Founder's Associate",
+      "company": "Schub",
+      "companyUrl": "https://www.linkedin.com/company/schub-tech",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-08",
+      "end": null,
+      "dateRange": "Aug 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Financial Services Intern",
+      "company": "Porsche (China) Motors Ltd",
+      "companyUrl": "https://www.linkedin.com/company/porsche-china-motors-ltd",
+      "description": null,
+      "location": "Shanghai, China",
+      "start": "2017-04",
+      "end": null,
+      "dateRange": "Apr 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Founders Associate Intern",
+      "company": "Sonic",
+      "companyUrl": "https://www.linkedin.com/company/sonicdottechnologies",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-03",
+      "end": "2023-06",
+      "dateRange": "Mar 2023 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Founders Associate Intern",
+      "company": "blossom design",
+      "companyUrl": "https://www.linkedin.com/company/byblossomdesign",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-03",
+      "end": "2023-06",
+      "dateRange": "Mar 2023 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Venture Capital Intern",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-03",
+      "end": "2022-05",
+      "dateRange": "Mar 2022 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Data Science Intern",
+      "company": "Moss",
+      "companyUrl": "https://www.linkedin.com/company/moss-finance",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2021-07",
+      "end": "2021-10",
+      "dateRange": "Jul 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Venture Capital Intern",
+      "company": "Global Founders Capital",
+      "companyUrl": "https://www.linkedin.com/company/global-founders-capital",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2020-07",
+      "end": "2020-09",
+      "dateRange": "Jul 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Data Analytics",
+      "company": "Wirecard",
+      "companyUrl": "https://www.linkedin.com/company/wirecard",
+      "description": null,
+      "location": "Aschheim, Bavaria, Germany",
+      "start": "2020-05",
+      "end": "2020-07",
+      "dateRange": "May 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "APIA Delegate",
+      "company": "European Innovation Academy",
+      "companyUrl": "https://www.linkedin.com/company/european-innovation-academy",
+      "description": null,
+      "location": "Shenzhen, Guangdong, China",
+      "start": "2018-07",
+      "end": "2018-08",
+      "dateRange": "Jul 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Financial Analyst at Otto M. Schröder Bank",
+      "company": "Otto M. Schröder Bank AG",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Hamburg Area",
+      "start": "2016-08",
+      "end": "2016-10",
+      "dateRange": "Aug 2016 – Oct 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's of Science, Management & Technology",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "The London School of Economics and Political Science (LSE)",
+      "degree": "Bachelor's degree, Management",
+      "dateRange": "2017 – 2021"
+    },
+    {
+      "school": "The Wharton School",
+      "degree": "Exchange program, Business",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "University of Oxford",
+      "degree": "Oxford investment program",
+      "dateRange": "2019"
+    }
+  ],
+  "skills": [
+    "Big Data Analytics",
+    "Python (Programming Language)",
+    "Financial Analysis with Thomson Reuters Eikon"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Schub",
+    "tagline": "We Boost Ideas and Founders to Create Impactful Ventures",
+    "description": "Our name 'Schub' translates to 'Booster' in German, reflecting our mission: to help companies get off the ground and accelerate successfully.\n\nSchub is about ambition, action, acceleration, excellence, collegiality, community, will to succeed, positivity and shooting for the stars. \n\nWe love sharing our insights and believe in a very strong European innovator ecosystem that we want to foster with every action we take.\n\nWe have 4 core offerings; Space, Labs, Transform and Seed, the 4 units that make up our internal Schub ecosystem.\n\nIn Schub Space we bring together ambitious talent to develop early-stage ideas into committed ventures. In Labs, we partner with entrepreneurs and help them grow their company. In Transform, we transform established company’s core processes to AI first and in Seed, we provide capital and advise to early stage startups.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.schub.tech/",
+    "linkedInUrl": "https://www.linkedin.com/company/schub-tech",
+    "employeeCount": 9,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

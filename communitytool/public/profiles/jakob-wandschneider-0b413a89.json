@@ -1,0 +1,127 @@
+{
+  "id": "jakob-wandschneider-0b413a89",
+  "name": "Jakob Wandschneider",
+  "headline": "-",
+  "avatar": {
+    "sm": "/avatars/jakob-wandschneider-0b413a89-sm.webp",
+    "lg": "/avatars/jakob-wandschneider-0b413a89.webp",
+    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAACQBQCdASogACAAPtFgqU+oJaOiKAgBABoJZQDA3YsGOMiqnBewvpC56ZwqaqzO81bwhpCwAAD+9wsUIA2JPsBlt+L4QsdWftkGzjm1ynQw7Ld6jlDO4Hedrei/ojIyxT9t1m3D3ptyqKjjN6USIWKmJpNp2OqCBbOQHcpq1emJ6HLzsZvlXjKFoQS8NXJCStTNpstE6mFMAhvh+8Wkd4FagwcqBc8gUgODs1Ls5vFVaLZIUq6rXcm8Cz4hi7Cozg0NQdWjQ3gWva2dZTxwXwKZ8hqcEUE+Dg/L70vDhif/v/PIi48Mbs1c8finJWarR/qBOMG7ZAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jakob-wandschneider-0b413a89",
+  "personId": 1259,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jakob Wandschneider",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2022 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "M&A Analyst",
+      "company": "Geiger & Mach Group GmbH",
+      "companyUrl": "https://www.linkedin.com/company/2962-enterprises",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2018 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Assistant to CFO and Trainee in Foreign Trade Management",
+      "company": "Freudenberg Group",
+      "companyUrl": "https://www.linkedin.com/company/freudenberg-group",
+      "description": null,
+      "location": null,
+      "start": "2014-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2014 – Dec 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Management & Technology - Specialization in Computer Science",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Semester Abroad, Technology Management",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (BSc), Management & Technology - Specialization in Mechanical Engineering",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "UC San Diego",
+      "degree": "Semester Abroad",
+      "dateRange": "2019"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Englisch",
+    "Deutsch"
+  ],
+  "company": {
+    "name": "McKinsey & Company",
+    "tagline": null,
+    "description": "McKinsey & Company is a global management consulting firm. We are the trusted advisor to the world's leading businesses, governments, and institutions. \r\n\r\nWe work with leading organizations across the private, public and social sectors. Our scale, scope, and knowledge allow us to address problems that no one else can. We have deep functional and industry expertise as well as breadth of geographical reach. We are passionate about taking on immense challenges that matter to our clients and, often, to the world. \r\n\r\nWe work with our clients as we do with our colleagues. We build their capabilities and leadership skills at every level and every opportunity. We do this to help build internal support, get to real issues, and reach practical recommendations. We bring out the capabilities of clients to fully participate in the process and lead the ongoing work.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.mckinsey.com",
+    "linkedInUrl": "https://www.linkedin.com/company/mckinsey",
+    "employeeCount": 38159,
+    "foundedYear": null,
+    "location": "United States",
+    "specialities": [
+      "Management Consulting"
+    ]
+  }
+}

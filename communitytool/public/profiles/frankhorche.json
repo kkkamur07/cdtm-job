@@ -1,0 +1,156 @@
+{
+  "id": "frankhorche",
+  "name": "Frank Horche",
+  "headline": "Founder | Passionate Leader | Tech Enthusiast | ex-Accenture | ex-Allianz | ex-KONUX | ex-CGM",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/frankhorche",
+  "personId": 1703,
+  "classes": [
+    {
+      "id": 100,
+      "label": "Fall 2000",
+      "season": "Fall",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2000",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Frank Horche",
+  "ca": null,
+  "summary": "I'm a leader of IT and software product organizations leveraging data & analytics with 20 years of relevant experience. I'm strongly self-organized and driven by a focussed entrepreneurial and analytical mindset, highly experienced in strategic planning, scaling and transformation execution, and stakeholder management.\n\nI have led organizations of up the 150 FTE and was responsible for P&Ls up to EUR 25m ARR. I have a proven track-record in Leadership, Product, Engineering, IT, Operations and Finance and as Managing Director. My sweet spot is at bridging the gap between business and technology.\n\nCurrently I'm building a company in the financial industry, bootstrapped, no VC, maximum AI leverage.",
+  "positions": [
+    {
+      "title": "Managing Director",
+      "company": "Stealth Mode",
+      "companyUrl": "https://www.linkedin.com/company/stealthmode14",
+      "description": "Creating the next level of my professional life, currently working in stealth mode.",
+      "location": null,
+      "start": "2023-10",
+      "end": null,
+      "dateRange": "Oct 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Geschäftsführer ifap GmbH | General Manager @ CompuGroup Medical SE",
+      "company": "CompuGroup Medical SE & Co. KGaA",
+      "companyUrl": "https://www.linkedin.com/company/compugroup-medical-ag",
+      "description": "At CompuGroup Medical (CGM), I was leading an eHealth business unit providing software products to >60.000 healthcare practitioners in Germany with more than EUR 20m ARR. I have restructured the organization and scaled it from 60 to 100 FTE, renewing the legacy product portfolio and building new highly scalable SaaS products by leveraging big data & analytics under Medical Device Regulation (MDR). Set up the company for growth and strong profitability.",
+      "location": null,
+      "start": "2020-10",
+      "end": "2023-09",
+      "dateRange": "Oct 2020 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Head of Operations & Security",
+      "company": "KONUX",
+      "companyUrl": "https://www.linkedin.com/company/konux",
+      "description": "At KONUX (a IoT/AI SaaS startup), I was setting up and scaling the Global Operations function including hiring people, implementing processes and tools. The result was a highly scalable, resilient and secure cloud infrastructure aligned with ISO27001 standards. The Service Operations team was able to identify and resolve issues before the customer would recognize them.",
+      "location": null,
+      "start": "2019-05",
+      "end": "2020-09",
+      "dateRange": "May 2019 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Head of Global Platforms for HRIT and Document Management",
+      "company": "Allianz Technology",
+      "companyUrl": "https://www.linkedin.com/company/allianz-technology",
+      "description": "At Allianz Technology, I was leading a department with five teams in three international locations, scaling from 60 to 120 FTE in order to build, roll-out and manage the global HR SaaS solution for the >140.000 employees of the Allianz Group in 30 countries. I was accountable for the P&L of EUR 25m ARR.",
+      "location": null,
+      "start": "2015-05",
+      "end": "2019-04",
+      "dateRange": "May 2015 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Senior Manager IT Transformation and Strategy",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": "At Accenture, I was leading various international software development teams (up to 150 FTE) for clients in the telecommunications industry, transforming their CRM and Billing application stacks. In addition, I was consulting CIOs to transform their IT organizations and closed a USD 100m transformational outsourcing deal with a major client in Germany.",
+      "location": null,
+      "start": "2004-01",
+      "end": "2015-04",
+      "dateRange": "Jan 2004 – Apr 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom-Kaufmann, Business Administration",
+      "dateRange": "1997 – 2003"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management  (Elitenetzwerk Bayern)",
+      "dateRange": "2000 – 2002"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "International Diploma Program in E-Commerce Management",
+      "dateRange": "2001"
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "DevOps",
+    "Strategy",
+    "Operations Management",
+    "Business-to-Business (B2B)",
+    "Finance",
+    "Business Development",
+    "IT Operations",
+    "Forecasting",
+    "Software Development",
+    "Project Management",
+    "Product Management",
+    "Sales Management",
+    "Product Development",
+    "Agile Methodologies",
+    "Program Management",
+    "Organizational Development",
+    "Budgeting",
+    "Hiring",
+    "Security",
+    "Information Security",
+    "IT Service Management",
+    "Software as a Service (SaaS)",
+    "Business Continuity",
+    "Solution Architecture",
+    "Stakeholder Management",
+    "IT Strategy",
+    "Quality Management",
+    "Engineering Management",
+    "IT Service Delivery",
+    "ITIL Process Implementation",
+    "Start-up Environment",
+    "People Management"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "company": {
+    "name": "Stealth Mode",
+    "tagline": null,
+    "description": "Currently working on something new and very exciting",
+    "industry": "Software Development",
+    "website": null,
+    "linkedInUrl": "https://www.linkedin.com/company/stealthmode14",
+    "employeeCount": 3681,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

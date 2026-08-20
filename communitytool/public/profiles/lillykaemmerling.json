@@ -1,0 +1,225 @@
+{
+  "id": "lillykaemmerling",
+  "name": "Lilly Kämmerling",
+  "headline": "Software Engineer @Tacto | TUM | CDTM | MIT",
+  "avatar": {
+    "sm": "/avatars/lillykaemmerling-sm.webp",
+    "lg": "/avatars/lillykaemmerling.webp",
+    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPs1SpUunpKOhsBgMAPAZiWIArAKY7PTq365NZ59gBKRVt/MhjucyJo4cwfwAAP781/td/NRmlWKBHQ8r7+PNuYfxZZz7D/dgtKYQzJ1RWfxgY5L7/mZeNX+BBM8bU9xxWykkQtl66wprAxeVe8Oi7ctJLv/jfldYxGef6R0emNdZ8QGFvFUnefiq1k2Zhp50CeV7CFqh4g1MHan7nt2omqVmDPyyofhh3CXBs3duxQuzrDsiY3lIOTDM5J9M9idy9wB24r9xlhs0yuWOEX4OewkOqv5776ckDv3ZUuI4AAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lillykaemmerling",
+  "personId": 839,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "MSc in Management & Technology (TUM, University of Mannheim, Stellenbosch University)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lilly Kämmerling",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-11",
+      "end": null,
+      "dateRange": "Nov 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Junior Software Engineer",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-11",
+      "end": "2025-10",
+      "dateRange": "Nov 2024 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Software Engineering Intern",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-09",
+      "end": "2024-10",
+      "dateRange": "Sep 2024 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Investment Team",
+      "company": "Visionaries Club",
+      "companyUrl": "https://www.linkedin.com/company/visionaries-club",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-01",
+      "end": "2023-05",
+      "dateRange": "Jan 2023 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Product Management",
+      "company": "Avi Medical",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": null,
+      "location": null,
+      "start": "2022-09",
+      "end": "2022-12",
+      "dateRange": "Sep 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern - Middle East",
+      "company": "Roland Berger",
+      "companyUrl": "https://www.linkedin.com/company/rolandberger",
+      "description": "- Consulting internship with a focus on energy projects \n- Part 3 of the Roland Berger Gap Year Program",
+      "location": "Dubai, United Arab Emirates",
+      "start": "2021-03",
+      "end": "2021-06",
+      "dateRange": "Mar 2021 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Strategy & Business Operations Intern",
+      "company": "reINVENT",
+      "companyUrl": "https://www.linkedin.com/company/showroomplusgmbh",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2021-01",
+      "end": "2021-03",
+      "dateRange": "Jan 2021 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "Roland Berger",
+      "companyUrl": "https://www.linkedin.com/company/rolandberger",
+      "description": "- Consulting internship at the Competence Center Restructuring, Performance, Transformation and Transaction with a focus on healthcare projects \n- Part 1 of the Roland Berger Gap Year Program",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-10",
+      "end": "2020-12",
+      "dateRange": "Oct 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Audit & Assurance Intern",
+      "company": "Deloitte Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/deloitte",
+      "description": null,
+      "location": "Frankfurt Rhine-Main Metropolitan Area",
+      "start": "2020-01",
+      "end": "2020-02",
+      "dateRange": "Jan 2020 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Business Development Intern",
+      "company": "Kale&Me GmbH",
+      "companyUrl": "https://www.linkedin.com/company/kale&me-gmbh",
+      "description": "During this two month internship I supported the Kale&Me Team in the areas Marketing, Sales and Operations.",
+      "location": "Hamburg, Germany",
+      "start": "2018-07",
+      "end": "2018-08",
+      "dateRange": "Jul 2018 – Aug 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - M.Sc., Management & Technology",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Student",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "University of Mannheim",
+      "degree": "Bachelor of Science - BS, Betriebswirtschaftslehre (Business Administration)",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Stellenbosch University",
+      "degree": "Semester Abroad in South Africa",
+      "dateRange": "2019"
+    },
+    {
+      "school": "Gymnasium an der Heinzenwies",
+      "degree": "Abitur",
+      "dateRange": "2012 – 2016"
+    }
+  ],
+  "skills": [
+    "Object-Oriented Programming (OOP)",
+    "Databases",
+    "Computer Networking",
+    "Project Management",
+    "Deep Learning",
+    "API Development",
+    "FastAPI",
+    "jQuery",
+    "Bootstrap",
+    "JavaScript",
+    "Cascading Style Sheets (CSS)",
+    "HTML",
+    "Microsoft PowerPoint",
+    "Microsoft Excel",
+    "Microsoft Word",
+    "Teamwork",
+    "Zeitmanagement",
+    "Consulting",
+    "Scrum",
+    "Facebook Ads",
+    "Python (Programming Language)",
+    "Pandas",
+    "SQL",
+    "TensorFlow",
+    "Scikit-Learn",
+    "Data Science",
+    "Data Analysis",
+    "Java"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Tacto",
+    "tagline": "Stronger Procurement. Stronger Company. Stronger Future.",
+    "description": "The world is getting more complex and dynamic than ever before. China, climate, elections, trade wars, bureaucracy. Yet manufacturing, our hidden gem, is struggling to evolve. \n\nOften overlooked: the supply chain. Hundreds of tightly interconnected suppliers, thousands of production-critical parts, global dependencies. Yet procurement is expected to manage this complexity with Excel and Outlook, static ERP systems, and outdated supplier data. That no longer works.\n\nMore than 50% of the cost of a physical product is created in the supply chain. Competitive manufacturing therefore starts in procurement. AI offers the opportunity to optimally balance time, cost, and quality in procurement.\n\nThat’s why Tacto is building the first Procurement Intelligence Platform for industrial companies: not another workflow tool, but a system that creates transparency, delivers actionable recommendations, and enables execution - with procurement as the decision-maker at the center.\n\nPowered by Tacto Intelligence, you see your procurement operations at a glance: KPIs, suppliers, and real-time order and material movements. In the background, Tacto connects your ERP data with external market data to form the Procurement Brain. On top of that, AI agents automate manual work, identify risks and savings opportunities, and provide precise recommendations. Automated workflows turn these signals into action - delivering measurable results: lower costs, better quality, and higher availability.",
+    "industry": "Software Development",
+    "website": "https://www.tacto.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/tactotechnology",
+    "employeeCount": 152,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

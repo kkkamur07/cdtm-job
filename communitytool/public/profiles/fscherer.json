@@ -1,0 +1,196 @@
+{
+  "id": "fscherer",
+  "name": "Florian Scherer",
+  "headline": "REMATIQ | Building product compliance agents to cut regulatory complexity and enable more medical innovation",
+  "avatar": {
+    "sm": "/avatars/fscherer-sm.webp",
+    "lg": "/avatars/fscherer.webp",
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAABQBgCdASogACAAPtFQpEuoJCOhsBgMAQAaCUAKfr8AKgD3A9+/wcCT1PzucAe5aHCVyKVDzv3oq658YAD+/qskp1a/7b5Oluiacih6ccCWcAIpNcNTMD4/96rwxwTFNfHmiegC9bf4nBdhFHdGdkRKKuPUzS7yzXtM2adiZOpdcXc4DyZ+alTlfe8imrkEfm5Hlz/zOMHtpzBZvTWOoVPFQnCQC59Po9E/qNy7KhfPdkYXzvKSVie7edkoMW6A5JF4izcuqlwe+F3wbDV+iw6XEiS9cQzi6tzU5rmS7daHn87hBkcTNgAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/fscherer",
+  "personId": 792,
+  "classes": [
+    {
+      "id": 80,
+      "label": "Fall 2016",
+      "season": "Fall",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2016",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Florian Scherer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder, CTO",
+      "company": "REMATIQ",
+      "companyUrl": "https://www.linkedin.com/company/rematiq",
+      "description": "Founded REMATIQ where we automate regulatory affairs for medtech & pharma\n\nwww.rematiq.com",
+      "location": null,
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "VP Customer Success",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Head of Customer Success & Solutions Engineering",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": "We make it easier for everyone to work with their data productively!\n\nY42 is the first scalable data platform that anyone can run. It empowers you to easily set up a full-stack platform without heavy engineering investment – from integrating hundreds of data sources to automating data pipelines and dashboards.",
+      "location": null,
+      "start": "2020-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "strucc",
+      "companyUrl": null,
+      "description": "Construction Tech",
+      "location": null,
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Cohort Member BE4",
+      "company": "Entrepreneurs First",
+      "companyUrl": "https://www.linkedin.com/company/entrepreneur-first",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Head of Data Engineering and Machine Learning",
+      "company": "Building Radar",
+      "companyUrl": "https://www.linkedin.com/company/buildingradar",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2018 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Machine Learning & Data Engineering",
+      "company": "Building Radar",
+      "companyUrl": "https://www.linkedin.com/company/buildingradar",
+      "description": "We supply verified construction sales leads, so your sales team can focus on sales rather than leads research and qualification. \n\nI develop our data processing architecture & train/deploy Deep Learning models.",
+      "location": null,
+      "start": "2016-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2016 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis: Datasets and evaluation for event based optic flow",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Natural and synthetic datasets with ground truth for the evaluation of event-based optic flow algorithms. Used Matlab for data-processing and Blender, C++ and CUDA for rendering. The Event-based vision systems were the Dynamic Vision Sensors by inilabs.",
+      "location": null,
+      "start": "2015-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Research-Intern Human-Machine-Interfaces",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Research intern working at the Hol-I-Wood project. The goal was to create an augmented reality interface for a wood-patching robot. My task was to implement the image processing on the device. The project was done within the Qt Framework, used OpenCV for image processing, and aruco/vrpn for tracking.",
+      "location": null,
+      "start": "2014-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2014 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Internship Patent Law & Intellectual Property",
+      "company": "BOEHMERT & BOEHMERT",
+      "companyUrl": "https://www.linkedin.com/company/boehmert-&-boehmert",
+      "description": null,
+      "location": null,
+      "start": "2014-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2014 – Dec 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor’s Degree, Engineering Science",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Instituto Politécnico Nacional",
+      "degree": "Exchange, Computer Science",
+      "dateRange": "2015"
+    }
+  ],
+  "skills": [
+    "Java",
+    "C",
+    "C++",
+    "Machine Learning",
+    "Mechanical Engineering",
+    "Python",
+    "Computer Science",
+    "Matlab",
+    "Data Engineering",
+    "Artificial Intelligence",
+    "Electrical Engineering",
+    "Computer-Vision"
+  ],
+  "languages": [
+    "Deutsch",
+    "Spanisch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "REMATIQ",
+    "tagline": "You build what matters.\nWe simplify what’s required.",
+    "description": "Rematiq is an AI-powered platform that helps MedTech companies simplify regulatory compliance by automating manual, document-heavy processes. By turning time-draining manual tasks into data-driven workflows, Rematiq reduces regulatory overhead, accelerates time to market, and frees teams to focus on what they do best — build great products.",
+    "industry": "Software Development",
+    "website": "https://www.rematiq.com",
+    "linkedInUrl": "https://www.linkedin.com/company/rematiq",
+    "employeeCount": 18,
+    "foundedYear": 2023,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

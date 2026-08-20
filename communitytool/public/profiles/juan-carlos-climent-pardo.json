@@ -1,0 +1,284 @@
+{
+  "id": "juan-carlos-climent-pardo",
+  "name": "Juan Carlos Climent Pardo",
+  "headline": "Building | Harvard | TUM | CDTM | BEA",
+  "avatar": {
+    "sm": "/avatars/juan-carlos-climent-pardo-sm.webp",
+    "lg": "/avatars/juan-carlos-climent-pardo.webp",
+    "blur": "data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAAAwBgCdASogACAAPr1Qn0unJSMht/qoAOAXiUAXZnQ8tarYhQVjGs8xyctzR9v36rx2WFfNPIAtTNwAAP77Lfdrdq1aAxkde1lKeXxb9b3IwL6t0KsWs1//XXIc2IQketcIahSyxr8ZDSh4kvLZuQv3cKET+Zx4jqJDmi78m6aGqFCtv2ibH6rDamO/sWft3P93XxXtYikIiHR7nMl1fVQOTKQyYW8er+dvKuRuSdSLBMiO8oBt5F8iWkLR5OU8nxtpt2YmHTS2N3DLNdL2UGWSUMb2dnlZJPKtUA4fW+Hv4WGITgsQKnED7+AAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/juan-carlos-climent-pardo",
+  "personId": 853,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "MSc Robotics, Cognition, Intelligence (TUM), BSc Mechatronics and Information Technology (KIT)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Juan Carlos Climent Pardo",
+  "ca": null,
+  "summary": "Spanish / German “Robotics and AI” engineer from TUM, with two additional honor-degrees in “Technology Management” and \"Responsibility and Leadership\". Enthusiast for healthcare, flying robotics, and autonomous driving. Currently focused on machine and deep learning applications in the resilience and defense space, previously researcher at Harvard Medical School, AI in Medicine lab.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Stealth",
+      "companyUrl": "https://www.linkedin.com/company/steath",
+      "description": "🛡️ Building for resilience.",
+      "location": null,
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "AI Engineer",
+      "company": "RYVER.AI",
+      "companyUrl": "https://www.linkedin.com/company/ryver-ai",
+      "description": "🩻 Synthetic data for oncology.",
+      "location": null,
+      "start": "2024-11",
+      "end": "2025-04",
+      "dateRange": "Nov 2024 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "Associate AI Researcher",
+      "company": "Brigham and Women's Hospital",
+      "companyUrl": "https://www.linkedin.com/company/brigham-and-women%27s-hospital",
+      "description": null,
+      "location": null,
+      "start": "2024-10",
+      "end": "2025-04",
+      "dateRange": "Oct 2024 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "AI Researcher",
+      "company": "Brigham and Women's Hospital",
+      "companyUrl": "https://www.linkedin.com/company/brigham-and-women%27s-hospital",
+      "description": "🧠 AI in Medicine (AIM) Lab. Pediatric brain oncology.",
+      "location": null,
+      "start": "2023-05",
+      "end": "2024-10",
+      "dateRange": "May 2023 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "AI Researcher",
+      "company": "Harvard Medical School",
+      "companyUrl": "https://www.linkedin.com/company/harvard-medical-school",
+      "description": "🔍 Researcher. Associated with BWH stay.",
+      "location": null,
+      "start": "2023-05",
+      "end": "2025-04",
+      "dateRange": "May 2023 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "AI Software Engineer",
+      "company": "RYVER.AI",
+      "companyUrl": "https://www.linkedin.com/company/ryver-ai",
+      "description": "🩻 Synthetic data to make medical AI safer for underrepresented patient groups.",
+      "location": null,
+      "start": "2023-04",
+      "end": "2023-09",
+      "dateRange": "Apr 2023 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "🚗 Anomaly detection and prediction of charging station failures.",
+      "location": null,
+      "start": "2022-10",
+      "end": "2023-02",
+      "dateRange": "Oct 2022 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineering, Robotics",
+      "company": "Motius",
+      "companyUrl": "https://www.linkedin.com/company/motius-gmbh",
+      "description": "🤖 Autonomous mobile robot for logistics. Navigation, safety, and object detection.",
+      "location": null,
+      "start": "2022-07",
+      "end": "2023-03",
+      "dateRange": "Jul 2022 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "AI Software Engineer",
+      "company": "TUM Klinikum Rechts der Isar",
+      "companyUrl": "https://www.linkedin.com/company/tum-universitätsklinikum-rechts-der-isar",
+      "description": "🩻 Institute for Diagnostic and Interventional Radiology. ML for diagnostics on X-ray and CT images.",
+      "location": null,
+      "start": "2022-04",
+      "end": "2022-06",
+      "dateRange": "Apr 2022 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "AI Trend Research",
+      "company": "Bayerisches Staatsministerium für Digitales",
+      "companyUrl": "https://www.linkedin.com/company/digitalministerium",
+      "description": "🔍 Research in trends and chances to tackle climate change in the AI era.",
+      "location": null,
+      "start": "2022-02",
+      "end": "2022-04",
+      "dateRange": "Feb 2022 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Computer Vision Researcher | Institute for Control Systems (IRS)",
+      "company": "Karlsruhe Institute of Technology (KIT)",
+      "companyUrl": "https://www.linkedin.com/company/kit",
+      "description": "🛸 Indoor Navigation of Unmanned Aerial Vehicles (UAVs). Marker-based localization and SLAM with visual-inertial system.",
+      "location": null,
+      "start": "2020-05",
+      "end": "2020-11",
+      "dateRange": "May 2020 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Research & Development Software Engineer",
+      "company": "Fraunhofer ICT",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-ict",
+      "description": "🔋 Data collection pipeline for electrical charging stations. Backend multi-logging server and data analytics.",
+      "location": null,
+      "start": "2019-04",
+      "end": "2020-01",
+      "dateRange": "Apr 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Student Team Lead Electronics",
+      "company": "KA-RaceIng e.V.",
+      "companyUrl": "https://www.linkedin.com/company/ka-raceing-e-v-",
+      "description": "⚡ Coordination and funding of a team of 10. PCB design, manufacturing, programming, and validation in three racecars.",
+      "location": null,
+      "start": "2017-09",
+      "end": "2018-09",
+      "dateRange": "Sep 2017 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Student Energy Storage Engineer",
+      "company": "KA-RaceIng e.V.",
+      "companyUrl": "https://www.linkedin.com/company/ka-raceing-e-v-",
+      "description": "🔋 High voltage accumulator of an electric racecar. Design, simulation, and manufacturing.",
+      "location": null,
+      "start": "2016-09",
+      "end": "2017-09",
+      "dateRange": "Sep 2016 – Sep 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard University",
+      "degree": "AI in Medicine (AIM) Lab, Harvard Med School",
+      "dateRange": null
+    },
+    {
+      "school": "UCL",
+      "degree": "Medical Image Computing Summer School (MEDICSS), Medical Informatics",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Stiftung Bayerische EliteAkademie (BEA)",
+      "degree": "Honours Degree, Leadership, Management, Responsibility",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Robotics, Cognition and Intelligence (RCI)",
+      "dateRange": null
+    },
+    {
+      "school": "Karlsruhe Institute of Technology (KIT)",
+      "degree": "Bachelor's degree, Mechatronics",
+      "dateRange": null
+    },
+    {
+      "school": "German School Valencia",
+      "degree": "Abitur / A-Levels / High School",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "PostgreSQL",
+    "SQL",
+    "C++",
+    "Python (Programming Language)",
+    "Databases",
+    "Artificial Intelligence (AI)",
+    "Creative Problem Solving",
+    "Machine Learning",
+    "Deep Learning",
+    "Research",
+    "Project Management",
+    "Data Analysis",
+    "Computer-Aided Design (CAD)",
+    "Computer Vision",
+    "PyTorch",
+    "Robot Operating System (ROS)",
+    "TensorFlow",
+    "C (Programming Language)",
+    "Electronics",
+    "Arduino",
+    "Radiology",
+    "Feature Engineering",
+    "Altium Designer",
+    "PTC Creo",
+    "Battery Management Systems",
+    "Medical Imaging",
+    "Raspberry Pi",
+    "MRI",
+    "DICOM",
+    "Computed Tomography",
+    "Cancer Research",
+    "Gazebo",
+    "Carbon Fiber",
+    "Drones",
+    "Battery Electric Vehicle (BEV)",
+    "SLAM",
+    "ggplot",
+    "Radiation Oncology",
+    "Battery Design",
+    "Eagle",
+    "AMR"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Stealth",
+    "tagline": "Stealth-ing!",
+    "description": "TimelyAI is building a Marketing Saas for Time-based Businesses. \n\n“The idea is to solve the most burning need of our customers- Growing their clientele at an affordable price and being able to build lasting relationships with them for repeat business and referrals.”\n\n\"Coming soon with something extremely 'crazy'!\"",
+    "industry": "Software Development",
+    "website": "https://www.timelyai.com",
+    "linkedInUrl": "https://www.linkedin.com/company/steath",
+    "employeeCount": 4605,
+    "foundedYear": 2021,
+    "location": "Phoenix, United States",
+    "specialities": []
+  }
+}

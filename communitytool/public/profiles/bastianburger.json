@@ -1,0 +1,207 @@
+{
+  "id": "bastianburger",
+  "name": "Bastian Burger",
+  "headline": "Building AI products & operations | PhD, Founder | 25K-user platform | Director @ TUM Venture Labs",
+  "avatar": {
+    "sm": "/avatars/bastianburger-sm.webp",
+    "lg": "/avatars/bastianburger.webp",
+    "blur": "data:image/webp;base64,UklGRkgBAABXRUJQVlA4IDwBAACQBgCdASogACAAPtFYpEuoJSOhsAgBABoJbACdMoSA9aYEDojMY34J7Y8mP3uS7NwAzZoYATjF+WfFpp+QAP6B6SpJ3xcx/Ev91l4/ze1LWG9ra1Xq/r5PYhu16uQ3AOr9w/fvL1ENFPsZmp4fnwcZiMyyZzW1gQO7CgZ2wxXUBZWZLf10cKmhCHPhOWxH9XULNsH98fQ/zJePZAQfPeNQJge1WSc4FcLr3QTtFlt70pkfp/o10uVl5Gpo+pD+2kPdtbXzLryIGjzEj6HU8pIgMFJDfh4E2Kq0MyTkuzVxVw0cUhjZbENd4yafqJWcdc1MUjMPF7XzDeb5ao0HUIjzPuN3X8tkLtac1oGWGrxfkh81HEYjm3CCHSi+5z4Bxm4A2NU7GHsgaNafFwn5ZeMFZyfz6uYGXlsDAAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/bastianburger",
+  "personId": 1253,
+  "classes": [
+    {
+      "id": 77,
+      "label": "Spring 2015",
+      "season": "Spring",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2015",
+  "major": "Management and Physics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Bastian Burger",
+  "ca": null,
+  "summary": "Building AI products and new ventures. Creating Agentic operations since 2022.\n\nAs Director at TUM Venture Labs, I built a founder platform from scratch to 25,000 monthly active users with 85% retention. Before that, I founded a B2B SaaS company, raised €1.8M, and scaled to 20 people serving automotive and aerospace customers. I learned more from the hard calls than from the wins.\nWhat I bring to the table:\n→ 0→1 product building at speed (idea to traction in weeks, not quarters)\n→ AI implementation in real-world environments — production systems, not demos\n→ PhD-level technical depth (Physics, MSc TUM & UCL) paired with business judgment\n→ Ecosystem access across Munich/European deep tech (100+ ventures advised annually)\nTrack record: 8 digital products shipped. 1,500+ students taught AI & entrepreneurship in TUM’s largest course. AI tools deployed in contexts from research monitoring to ice cream production forecasting. Advised YC-backed startups (Langfuse) through critical product and scaling decisions.\n\nI’m interested in conversations about senior leadership roles in innovation, AI, or new business building — where deep technical understanding meets the ability to actually ship.",
+  "positions": [
+    {
+      "title": "Director AI & interim VP Cybersecurity",
+      "company": "TUM Venture Labs",
+      "companyUrl": "https://www.linkedin.com/company/tum-venture-labs",
+      "description": "Leading product, ventures, and AI education at Europe’s largest deep tech venture program (100+ AI/software startups annually, €50M+ collectively raised by portfolio).\nProducts built (hands-on):\n• Founder Platform: Owned end-to-end from discovery to GTM. Grew from 0 to 25K MAU, 50% month-over-month growth, 85% retention.\n• Paper Scraper: AI-powered research monitoring tool, 1,500+ active users.\n• AI Microclass Series: Designed and delivered practical AI education for 1,500+ participants. NPS 40–96.\nVenture impact:\n• Product advisor to breakout companies: Langfuse (YC S23), Quantum Diamond, Cedar DB, Happy Robot.\n• Designed selection process praised as best practice by EWOR. Pivoted org to deep tech focus → TUM now Germany’s #1 source of AI startups.\nTeaching:\n• “AI for Innovation & Entrepreneurship” — TUM’s largest entrepreneurship course (1,000 students).\n• “Prototyping AI Ideas” — seminar generating 4+ startups per semester.",
+      "location": "Munich",
+      "start": "2023-05",
+      "end": null,
+      "dateRange": "May 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Management Consultant",
+      "company": "Bastian Burger Consulting",
+      "companyUrl": "https://www.linkedin.com/company/bastian-burger-consulting",
+      "description": "Interim product leadership and AI implementation for startups and scale-ups. Not strategy decks — hands-on building.\n• 8 digital products launched as interim CPO across B2B SaaS, MedTech, and EdTech.\n• €5M+ in client revenue generated from products I built and shipped.\n• AI implementation advisory: deployed AI in traditional industries (retail, manufacturing) — environments where clean demos don’t survive first contact with reality",
+      "location": "Munich, Germany",
+      "start": "2019-09",
+      "end": null,
+      "dateRange": "Sep 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "CTO & Head of AI",
+      "company": "eisbrunnen",
+      "companyUrl": "https://www.linkedin.com/company/eisbrunnen",
+      "description": "Fully AI agentic operations since 2022. Build the role-model BTO in the industry.\n\nMunich’s top-rated plant-based creamery (Falstaff, TZ). Built the technology side of the business from scratch.\n• Designed and deployed an AI-powered operating system for demand prediction, production scheduling, and inventory management — reducing waste by 30% and automating daily operations.\n• Proof that AI creates value outside of software: applied machine learning to a physical product business with perishable goods, real seasonality, and zero margin for error.",
+      "location": "Metropolregion München",
+      "start": "2022-11",
+      "end": "2025-04",
+      "dateRange": "Nov 2022 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "CEO & Co-Founder",
+      "company": "blik",
+      "companyUrl": "https://www.linkedin.com/company/blik.io",
+      "description": "Founded B2B SaaS platform for automotive and aerospace intralogistics optimization. Built the company from first line of code to enterprise scale.\n• Raised €1.8M (pre-seed + seed) from institutional investors.\n• Scaled team from 3 to 20. Owned hiring, product, sales, and investor relations.\n• Won enterprise customers including BMW suppliers and aerospace manufacturers.\n• Recognized as “one of the most promising startups of 2017” (TechCrunch).",
+      "location": "Munich Area, Germany",
+      "start": "2016-09",
+      "end": "2020-10",
+      "dateRange": "Sep 2016 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "American Operations",
+      "company": "Building Radar",
+      "companyUrl": "https://www.linkedin.com/company/buildingradar",
+      "description": "- Business Development, New Venture Creation, Entrepreneurship",
+      "location": "San Francisco Bay",
+      "start": "2016-04",
+      "end": "2016-09",
+      "dateRange": "Apr 2016 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "Strategy & Operations",
+      "company": "Building Radar",
+      "companyUrl": "https://www.linkedin.com/company/buildingradar",
+      "description": null,
+      "location": null,
+      "start": "2015-08",
+      "end": "2016-09",
+      "dateRange": "Aug 2015 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Simon-Kucher & Partners",
+      "companyUrl": "https://www.linkedin.com/company/simon-kucher",
+      "description": null,
+      "location": "London, Großbritannien",
+      "start": "2014-12",
+      "end": "2015-07",
+      "dateRange": "Dec 2014 – Jul 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "HHL Leipzig Graduate School of Management",
+      "degree": "Doctor's Degree, Narcissism in Entrepreneurship",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Environmental Studies",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), TUM-NAWI",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "UCL",
+      "degree": "Theoretical Biophysics",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Applied and Engineering Physics",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "Boğaziçi University",
+      "degree": "Physik",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Physik",
+      "dateRange": "2009 – 2012"
+    },
+    {
+      "school": "Social Entrepreneurship Akademie",
+      "degree": "Gesellschaftliche Innovation",
+      "dateRange": "2013 – 2014"
+    }
+  ],
+  "skills": [
+    "Künstliche Intelligenz (KI)",
+    "Business Innovation (Geschäftsinnovation)",
+    "Coaching & Mentoring",
+    "Neue Geschäftsmöglichkeiten",
+    "Digitale Strategie",
+    "Technologietransfer",
+    "Project Management",
+    "Unternehmertum",
+    "Projektmanagement",
+    "Entrepreneurship",
+    "Strategisches Management",
+    "Management Consulting",
+    "Business Development",
+    "Englisch",
+    "Unternehmensberatung",
+    "Business Strategy",
+    "Microsoft Excel",
+    "Marketing Strategy",
+    "Marketing",
+    "Microsoft Office"
+  ],
+  "languages": [
+    "Deutsch",
+    "English"
+  ],
+  "company": {
+    "name": "TUM Venture Labs",
+    "tagline": "The Springboard for Deep Tech & Life Science Entrepreneurship",
+    "description": "TUM Venture Labs are a joint initiative by TUM, the top-ranked technical university in the EU, and UnternehmerTUM, Europe’s largest entrepreneurship centers. \n\nWe are THE Springboard for Deep Tech Entrepreneurship. \n\nOur 12 domain specific Venture Labs support you to turn your deep tech or life science idea into entrepreneurial impact - across the entire early life-cycle from idea generation to seed-capital for business launch.\n\nWe support start-ups and scientists within these areas with a dedicated Venture Lab:\n\n- Additive Manufacturing\n- Quantum / Semicon\n- Built Environment\n- Food / Agro / Biotech                                 \n- Chem / Biosystems\n- Healthcare\n- Robotics / AI\n- Climate / Circular\n- Aerospace / Defense\n- Software / AI - Munich & Heilbronn\n- Mobility",
+    "industry": "Research Services",
+    "website": "https://www.tum-venture-labs.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/tum-venture-labs",
+    "employeeCount": 132,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Life Sciences",
+      "Deep-Tech",
+      "Start-Ups",
+      "Entrepreneurship",
+      "Network",
+      "Infrastructure",
+      "Education"
+    ]
+  }
+}

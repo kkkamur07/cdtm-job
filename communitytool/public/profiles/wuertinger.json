@@ -1,0 +1,215 @@
+{
+  "id": "wuertinger",
+  "name": "Michael Würtinger",
+  "headline": "Site Reliability Engineer",
+  "avatar": null,
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/wuertinger",
+  "personId": 1841,
+  "classes": [
+    {
+      "id": 64,
+      "label": "Fall 2008",
+      "season": "Fall",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2008",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Michael Würtinger",
+  "ca": null,
+  "summary": "I'm a Site Reliability Engineer because I like solving complex problems while keeping users and engineers happy. I love writing code, in particular in Golang and I am a Linux and open source software enthusiast.",
+  "positions": [
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-03",
+      "end": null,
+      "dateRange": "Mar 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Munich / Berlin",
+      "company": "eGym",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Munich",
+      "company": "eGym",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": "Development of a complex web application from the ground up. Responsible for frontend quality and reliability. Responsible for IT infrastructure.",
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Technology Fellow, Site Reliability Engineer",
+      "company": "eGym",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": "- Responsible for production Kubernetes clusters and workloads (including on-call)\n- Providing observability for microservices using OpenCensus, Stackdriver, InfluxDB and Grafana\n- Development of internal tools and services in Golang",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-05",
+      "end": "2020-01",
+      "dateRange": "May 2018 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Technology Fellow",
+      "company": "eGym",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": "- Introduction of a microservice architecture.\n- Introduction of Kubernetes for newly developed services.\n- Migration of features and data from existing applications and databases into new microservices.\n- Introduction of the Go programming language.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-08",
+      "end": "2018-04",
+      "dateRange": "Aug 2015 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Head of Web Development",
+      "company": "eGym",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2012-10",
+      "end": "2015-07",
+      "dateRange": "Oct 2012 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "- Responsible for the web-frontend as well as the backend for all of of eGym's services.\n- Continuous Integration and Delivery of frontend and backend.\n- Introduction of Docker for production and CI infrastructure.\n- Responsible for internal IT infrastructure.",
+      "company": "eGym",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2010-08",
+      "end": "2012-09",
+      "dateRange": "Aug 2010 – Sep 2012",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Capgemini sd&m",
+      "companyUrl": null,
+      "description": "Internationalization of an existing large-scale application used in the automotive industry.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2008-07",
+      "end": "2008-10",
+      "dateRange": "Jul 2008 – Oct 2008",
+      "current": false
+    },
+    {
+      "title": "System Administrator and Software Developer",
+      "company": "Ludwig-Maximilians Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Maintaining and extending a complex IT infrastructure, Helpdesk, Internal software development, Project management",
+      "location": null,
+      "start": "2006-05",
+      "end": "2010-12",
+      "dateRange": "May 2006 – Dec 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2008 – 2011"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diploma, Computer Science",
+      "dateRange": "2005 – 2011"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Computer Science",
+      "dateRange": "2010"
+    }
+  ],
+  "skills": [
+    "Software Engineering",
+    "Go",
+    "Linux",
+    "Software Project Management",
+    "Software Testing",
+    "Computer Security",
+    "Shell Scripting",
+    "Machine Learning",
+    "Network Engineering",
+    "Java",
+    "SQL",
+    "Ruby",
+    "Apache",
+    "HTML5",
+    "JavaScript",
+    "C",
+    "C++",
+    "HTML",
+    "CSS",
+    "Docker",
+    "Python",
+    "MongoDB",
+    "Git",
+    "LDAP",
+    "GWT",
+    "Guice",
+    "KVM",
+    "EC2",
+    "System Monitoring",
+    "Quality Engineering",
+    "JVM",
+    "Kubernetes",
+    "Cassandra",
+    "Site Reliability Engineering"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Google",
+    "tagline": null,
+    "description": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.\n\nCheck out our career opportunities at goo.gle/3DLEokh",
+    "industry": "Software Development",
+    "website": "https://goo.gle/3DLEokh",
+    "linkedInUrl": "https://www.linkedin.com/company/google",
+    "employeeCount": 341631,
+    "foundedYear": null,
+    "location": "Mountain View, United States",
+    "specialities": [
+      "search",
+      "ads",
+      "mobile",
+      "android",
+      "online video",
+      "apps",
+      "machine learning",
+      "virtual reality",
+      "cloud",
+      "hardware",
+      "artificial intelligence",
+      "youtube",
+      "software"
+    ]
+  }
+}

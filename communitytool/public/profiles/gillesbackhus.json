@@ -1,0 +1,268 @@
+{
+  "id": "gillesbackhus",
+  "name": "Gilles Backhus",
+  "headline": "Founder at Tensordyne (AI chips)  |  CDTM  |  TUM",
+  "avatar": {
+    "sm": "/avatars/gillesbackhus-sm.webp",
+    "lg": "/avatars/gillesbackhus.webp",
+    "blur": "data:image/webp;base64,UklGRjIBAABXRUJQVlA4ICYBAADwBgCdASogACAAPrVKnEunJKKht+gA4BaJbACdOUE83h5O61cJ0uN8rabPVuQtKC8N2jSZxvO3Td9dxziyWiKAAP7ETzKJn559OV4MR+uxl6gkQviJHPaX2I5dxr4gQxVntRRsXzU7f00gTvOqxOJduZDnsKdP58RnAkxZHCs8EzIeE4husf8xAhenhv9/jJ7TbC0oOOHsKXi4B3Lvb/SYI8PI3mF0a2rYVi0moGvcL2TmcXuWARRuE49jv+abYp+Z4qp+MyAKH1LgIAg889BvK47H1wUaTxYgagjOPBJkFjYcd0Lz0ypbq7GIvsQ6CM8xAfnjFiBi3R8nzq5d/WmLG9Uy0J9hlT1/Xhwa9IO9HWKqeJcX/cdYOuJ/11AaATVyOYQAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/gillesbackhus",
+  "personId": 1194,
+  "classes": [
+    {
+      "id": 73,
+      "label": "Spring 2013",
+      "season": "Spring",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2013",
+  "major": "Electrical Engineering & Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Gilles Backhus",
+  "ca": null,
+  "summary": "Improving Realtime AI.",
+  "positions": [
+    {
+      "title": "Founder / Product",
+      "company": "Tensordyne",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": null,
+      "location": "Hybrid",
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "San Francisco Bay Area",
+      "company": "Tensordyne",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": null,
+      "location": "Hybrid",
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Leading product. Datacenter exaflops-scale AI compute solution (silicon & systems).",
+      "company": "Tensordyne",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": "Built and lead our AI engineering org (from math to apps), fundraising, hiring, customers.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-09",
+      "end": "2024-11",
+      "dateRange": "Sep 2017 – Nov 2024",
+      "current": false
+    },
+    {
+      "title": "Sensor Systems Engineer",
+      "company": "Lilium",
+      "companyUrl": "https://www.linkedin.com/company/lilium-aviation-gmbh",
+      "description": "Munich",
+      "location": null,
+      "start": "2017-05",
+      "end": "2017-09",
+      "dateRange": "May 2017 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "AI Lead",
+      "company": "KONUX",
+      "companyUrl": "https://www.linkedin.com/company/konux",
+      "description": "Built and lead the analytics team, designing realtime ML products on HW at the edge and in the cloud.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-06",
+      "end": "2017-05",
+      "dateRange": "Jun 2015 – May 2017",
+      "current": false
+    },
+    {
+      "title": "Master Thesis (RT ML)",
+      "company": "Kumu Networks",
+      "companyUrl": "https://www.linkedin.com/company/kumu-networks",
+      "description": "Stanford Spin-Off. Solving the 100yr old problem of Full Duplex Wireless Communication.\nAdaptive Filters: Algorithm R&D and RTL Implementation. (Master Thesis, Grade 1.0)",
+      "location": "Sunnyvale, CA",
+      "start": "2014-10",
+      "end": "2015-04",
+      "dateRange": "Oct 2014 – Apr 2015",
+      "current": false
+    },
+    {
+      "title": "Co-Founder, Algorithm Development",
+      "company": "SENSACT",
+      "companyUrl": null,
+      "description": "Vision of providing fun-sport affine individuals with sensor-data-based algorithms to identify valuable scenes in the videos they captured for automated video cutting and enhancement. \nSensor fusion (GPS, acceleration, gyroscope), pattern recognition, self-developed detection of curve, lift, jump and crash scenes in skiing, comparison of low-cost and high-precision sensors.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-05",
+      "end": "2014-02",
+      "dateRange": "May 2013 – Feb 2014",
+      "current": false
+    },
+    {
+      "title": "Managing Product Development",
+      "company": "Kinexon",
+      "companyUrl": "https://www.linkedin.com/company/kinexon",
+      "description": "Conducting a complete product development with regards to soft- and hardware prototypes, market and competitor analysis, customer feedback, marketing strategies.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-04",
+      "end": "2013-08",
+      "dateRange": "Apr 2013 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Trend Research on \"Future Human-Machine-Interfaces in Individual Mobility\"",
+      "company": "AUDI AG",
+      "companyUrl": "https://www.linkedin.com/company/audi-ag",
+      "description": "Structured analysis of current trends and drivers, identification of possible relevant future scenarios, ideation of various product ideas at Audi AEV",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2013-02",
+      "end": "2013-04",
+      "dateRange": "Feb 2013 – Apr 2013",
+      "current": false
+    },
+    {
+      "title": "Realtime Machine Learning",
+      "company": "Gauss Instruments",
+      "companyUrl": null,
+      "description": "Development of online ML algorithm (Ambient Noise Cancellation) using Adaptive Filters, deployed on FPGAs within EMC measurement device.",
+      "location": "Munich",
+      "start": "2012-11",
+      "end": "2014-05",
+      "dateRange": "Nov 2012 – May 2014",
+      "current": false
+    },
+    {
+      "title": "Network-on-Chip / FPGA / Protocol Developer",
+      "company": "BMW Motorbike Motorsport",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Development and implementation of a digital communication hub for a race bike's new embedded controller on a Spartan-6 FPGA. Connecting several ICs with different bus interfaces through one Network-on-Chip. Asynchr. FIFOs, Dual-port-RAM, collision management, Serial data links.",
+      "location": "Munich",
+      "start": "2012-01",
+      "end": "2012-10",
+      "dateRange": "Jan 2012 – Oct 2012",
+      "current": false
+    },
+    {
+      "title": "Intern Sensor Development",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Development and improvement of infrared spectroscopic oil quality sensor.\nDesign and soldering of two-stage analog amplifier circuit for AC current signal of a piezo sensor.\nMechanical CAD Design, Analog & PCB Design, Optical Filters.",
+      "location": "Munich",
+      "start": "2011-03",
+      "end": "2011-05",
+      "dateRange": "Mar 2011 – May 2011",
+      "current": false
+    },
+    {
+      "title": "Race Car Electronics",
+      "company": "TUfast e.V. Racing Team",
+      "companyUrl": "https://www.linkedin.com/company/tufast-racing-team",
+      "description": "Configuration of controllers in C and Simulink. Management of digital, analog and bus signals in the race car. Driver display concept. Real-time wi-fi connection to car.\n\nAlong with 20 other students I developed and built an electrical race car within 9 months from scratch.\n1st place in three dynamic disicplines throughout competitions in Europe 2011 (Austria, Germany, Italy).\nConcept appearance of our car in the US.\n0-60 mph in 2.8 seconds.",
+      "location": "Munich",
+      "start": "2010-10",
+      "end": "2011-09",
+      "dateRange": "Oct 2010 – Sep 2011",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "TUMpulli",
+      "companyUrl": null,
+      "description": "Me and two fellow students designed and sold the first official college-style hooded sweater for our university with our self-composed logo.\nExperiences in E-commerce, design, marketing, legal issues, business ownership.",
+      "location": "Munich",
+      "start": "2010-10",
+      "end": "2011-08",
+      "dateRange": "Oct 2010 – Aug 2011",
+      "current": false
+    },
+    {
+      "title": "Intern Energy Management",
+      "company": "SPIE UK",
+      "companyUrl": "https://www.linkedin.com/company/spie-uk",
+      "description": "Improvement of Energy supply and air conditioning in particular in big offices, museums and server halls.",
+      "location": "London Area, United Kingdom",
+      "start": "2009-06",
+      "end": "2009-08",
+      "dateRange": "Jun 2009 – Aug 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor's Degree, Technology Management",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Elektrotechnik",
+      "dateRange": "2009 – 2015"
+    },
+    {
+      "school": "Nanyang Technological University Singapore",
+      "degree": "Semester Abroad, Electrical Engineering",
+      "dateRange": "2011"
+    }
+  ],
+  "skills": [
+    "Matlab",
+    "Machine Learning",
+    "Signal Processing",
+    "Digitale Signalprozessoren",
+    "FPGA",
+    "C",
+    "Eingebettete Systeme",
+    "C++",
+    "Unternehmertum",
+    "Python",
+    "Field Programmable Gate Arrays",
+    "Microcontrollers",
+    "Embedded Systems",
+    "Mikrocontroller",
+    "Start-ups",
+    "DSP",
+    "Maschinelles Lernen",
+    "Physical Security",
+    "Digital Filters",
+    "Noise Cancellation",
+    "System-on-Chip",
+    "Realtime Machine Learning",
+    "Realtime Neural Networks",
+    "Wireless Communication",
+    "Network-on-Chip",
+    "Multicore Architectures",
+    "EMI/EMC",
+    "Catia CAD",
+    "Eagle"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Japanisch"
+  ],
+  "company": {
+    "name": "Tensordyne",
+    "tagline": "Math, Chips, and Systems for AI Inference.",
+    "description": "Every leap in AI has followed the same pattern: first we made models bigger, then we tailored them, and now we let them think longer. \n\nEach step (scaling law) truly adds intelligence.\n\nBut in the end we land on the same runway: inference, and demand is exploding while power supply lags. \n\nWe asked: what if the next step isn’t stacking another law on top, but a zeroth law beneath them all. A law that changes AI math. \n\nBecause after all, AI is math, trillions of multiplies, and multiplication burns watts. \n\nTensordyne uses logarithmic compute to turn multiplies into adds, cutting power at the root. \n\nWe’ve cast our proprietary logarithmic math into custom silicon, hardware, interconnect, and system software. The result: one integrated system for multimodal GenAI inference designed for Hyperscaler and Neo Cloud data centers. \n\nWhat this means for our customers: With Tensordyne they can run the world’s largest multimodal models for thousands of users, with fewer racks, less power, and lower cost.\n\nWe’re well-funded and fast-moving, with co-headquarters in Sunnyvale, California and Munich, Germany, and a distributed team across North America and Europe.\n\nJoin us to change how the world runs Gen AI.",
+    "industry": "Computer Hardware Manufacturing",
+    "website": "https://www.tensordyne.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/recogni",
+    "employeeCount": 111,
+    "foundedYear": null,
+    "location": "Sunnyvale, United States",
+    "specialities": []
+  }
+}

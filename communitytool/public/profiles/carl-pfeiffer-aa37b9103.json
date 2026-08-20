@@ -1,0 +1,101 @@
+{
+  "id": "carl-pfeiffer-aa37b9103",
+  "name": "Carl Pfeiffer",
+  "headline": "Co-Founder @ Kisi",
+  "avatar": null,
+  "location": "Sweden",
+  "linkedInUrl": "https://www.linkedin.com/in/carl-pfeiffer-aa37b9103",
+  "personId": 1431,
+  "classes": [
+    {
+      "id": 71,
+      "label": "Spring 2012",
+      "season": "Spring",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2012",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Carl Pfeiffer",
+  "ca": null,
+  "summary": "Co-Founder at Kisi, find out more on www.getkisi.com.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Kisi",
+      "companyUrl": "https://www.linkedin.com/company/kisi",
+      "description": null,
+      "location": "Greater Stockholm Metropolitan Area",
+      "start": "2012-10",
+      "end": null,
+      "dateRange": "Oct 2012 – Present",
+      "current": true
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor's Degree, Technology Management",
+      "dateRange": "2010 – 2013"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Visting Researcher, Human Computer Interaction",
+      "dateRange": "2012"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master’s Degree, Computer Science",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master’s Degree, Management Information Systems, General",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor’s Degree, Management Information Systems, General",
+      "dateRange": "2007 – 2010"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Swedish"
+  ],
+  "company": {
+    "name": "Kisi",
+    "tagline": "For companies looking to modernize their approach to physical security, Kisi offers simplicity and security as a service",
+    "description": "Kisi develops cloud technology to build security systems that use a combination of sensors and mobile devices to manage facilities. Designed for commercial and enterprise applications, the Kisi system provides an added layer of control and enhanced experience at all access points of the facility.",
+    "industry": "Security and Investigations",
+    "website": "https://getkisi.com",
+    "linkedInUrl": "https://www.linkedin.com/company/kisi",
+    "employeeCount": 226,
+    "foundedYear": 2012,
+    "location": "Brooklyn, United States",
+    "specialities": [
+      "Access Control",
+      "Access Management",
+      "Keyless Office Entry",
+      "Office Technology",
+      "Smart Office",
+      "Employee Productivity",
+      "Real Estate Technology",
+      "Proptech",
+      "Flexible Office"
+    ]
+  }
+}

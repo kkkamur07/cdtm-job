@@ -1,0 +1,172 @@
+{
+  "id": "siebenrock",
+  "name": "Kai Siebenrock",
+  "headline": "Senior Consultant at McKinsey & Company",
+  "avatar": {
+    "sm": "/avatars/siebenrock-sm.webp",
+    "lg": "/avatars/siebenrock.webp",
+    "blur": "data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAADwBgCdASogACAAPtFWpkwoJKOiKA1RABoJaADHFQC6AFqGaFEts+UdxsSBfd/t4xeBFfKWsGmM1jttBSfdQ5sAAP79vT25/xOQ0dxdmmHy/g2tx+utK2zezS+3XYDeU9f4gptnMKlKKviXB6z6y8f6XAyykmHSORGH0X1rTr3/B4sWzWiocHbWmUhh2dUwlzsDcFa4PzKHIyxvHbMWgCtcXe4sGboeYOlPJtkI/1YfjuzqqHBGSH2VRCUj0YjTl9mSI/w6YOqrkXDeHtpd7MWV5HDoZrEYkJYz4UQAbpfLJIfqhMow9xmV7R0BMMJxIgG2l3I1nZ/omTp5hPvQdS+dutgsaAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/siebenrock",
+  "personId": 816,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Kai Siebenrock",
+  "ca": null,
+  "summary": "Management & Computer Science",
+  "positions": [
+    {
+      "title": "Senior Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "Social secondment at Personio Foundation",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-01",
+      "end": null,
+      "dateRange": "Jan 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Finance & Data",
+      "company": "Bertelsmann Education Group",
+      "companyUrl": "https://www.linkedin.com/company/bertelsmann-education-group",
+      "description": null,
+      "location": "San Francisco Bay Area",
+      "start": "2017-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2017 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Supply Chain",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Finance",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Venture Building",
+      "company": "Zalora Group",
+      "companyUrl": "https://www.linkedin.com/company/zalora-sea",
+      "description": null,
+      "location": "Hong Kong",
+      "start": "2015-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Product",
+      "company": "Bosch",
+      "companyUrl": "https://www.linkedin.com/company/bosch",
+      "description": null,
+      "location": "Schwieberdingen, Baden-Württemberg, Germany",
+      "start": "2014-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2014 – Dec 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Scholar, Visiting, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science, Management & Technology, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Peking University",
+      "degree": "Economics and Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "W. P. Carey School of Business – Arizona State University",
+      "degree": "Business Administration and Finance",
+      "dateRange": null
+    },
+    {
+      "school": "WHU – Otto Beisheim School of Management",
+      "degree": "Bachelor of Science, International Business Administration",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Management Consulting",
+    "Program Management",
+    "Project Management",
+    "Financial Analysis",
+    "Financial Modeling",
+    "Microsoft Office",
+    "React",
+    "Python",
+    "Flask",
+    "Finance",
+    "Data Analysis",
+    "Business Development",
+    "Business Analysis",
+    "Machine Learning",
+    "Web Development",
+    "SQL",
+    "Microsoft Excel",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  "languages": [],
+  "company": {
+    "name": "McKinsey & Company",
+    "tagline": null,
+    "description": "McKinsey & Company is a global management consulting firm. We are the trusted advisor to the world's leading businesses, governments, and institutions. \r\n\r\nWe work with leading organizations across the private, public and social sectors. Our scale, scope, and knowledge allow us to address problems that no one else can. We have deep functional and industry expertise as well as breadth of geographical reach. We are passionate about taking on immense challenges that matter to our clients and, often, to the world. \r\n\r\nWe work with our clients as we do with our colleagues. We build their capabilities and leadership skills at every level and every opportunity. We do this to help build internal support, get to real issues, and reach practical recommendations. We bring out the capabilities of clients to fully participate in the process and lead the ongoing work.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.mckinsey.com",
+    "linkedInUrl": "https://www.linkedin.com/company/mckinsey",
+    "employeeCount": 38159,
+    "foundedYear": null,
+    "location": "United States",
+    "specialities": [
+      "Management Consulting"
+    ]
+  }
+}

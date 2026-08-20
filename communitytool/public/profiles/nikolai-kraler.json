@@ -1,0 +1,255 @@
+{
+  "id": "nikolai-kraler",
+  "name": "Nikolai K.",
+  "headline": "Fighting climate change by reducing building emissions | Engineering Squad Lead @ Predium",
+  "avatar": {
+    "sm": "/avatars/nikolai-kraler-sm.webp",
+    "lg": "/avatars/nikolai-kraler.webp",
+    "blur": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAABQBgCdASogACAAPtFaqE4oJSQiKAqpABoJYgDIA8G6ApAAge0n6SLmOdngLVzu3sFpYnCA+QCjvSZ02AD+/flzneMndU+fTwxjHUx+YIwvsBPe8cJOeTBp+zr7YFNty7NPDs9D6q8JhuWRJK3535+XBIH6p2psG3vJ/m8HMKWS08XN9zmvRMPwbn96w+M3fd0RazVpAM0PIlWGhPI08cdjvzHBB9rP8SCEROxHHEC2hUG43B14BTUfZxIwH5uaxZ3ciSbqfCTg4VhdBUKo6DFvHJ1mWTj/DvCb1Ag/POwPzAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/nikolai-kraler",
+  "personId": 1055,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Media Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Nikolai Kraler",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Engineering Squad Lead",
+      "company": "Predium",
+      "companyUrl": "https://www.linkedin.com/company/predium-technology",
+      "description": "Fighting climate change by reducing building emissions",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "company": "Predium",
+      "companyUrl": "https://www.linkedin.com/company/predium-technology",
+      "description": "Fighting climate change by reducing building emissions",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-07",
+      "end": "2023-12",
+      "dateRange": "Jul 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Freelance Software Engineer",
+      "company": "Predium",
+      "companyUrl": "https://www.linkedin.com/company/predium-technology",
+      "description": "Fighting climate change by reducing building emissions",
+      "location": null,
+      "start": "2022-07",
+      "end": "2023-06",
+      "dateRange": "Jul 2022 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Freelance Software Engineer",
+      "company": "Ninetailed",
+      "companyUrl": "https://www.linkedin.com/company/ninetailed",
+      "description": "Helping to build Ninetailed, an API-first platform that creates real-time intelligent personalization experiences to optimize the customer journey.",
+      "location": null,
+      "start": "2021-12",
+      "end": "2022-07",
+      "dateRange": "Dec 2021 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Freelance Software Engineer",
+      "company": "sento.io",
+      "companyUrl": "https://www.linkedin.com/company/sentohq",
+      "description": "Helping to build the future of structured B2B messaging.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-06",
+      "end": "2021-09",
+      "dateRange": "Jun 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Software & Data Engineer in Residence",
+      "company": "Cherry Ventures",
+      "companyUrl": "https://www.linkedin.com/company/cherry-ventures",
+      "description": "Enabling data-driven sourcing.",
+      "location": null,
+      "start": "2021-04",
+      "end": "2023-10",
+      "dateRange": "Apr 2021 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Master's Thesis Artificial Intelligence in Earth Observation",
+      "company": "Village Data Analytics",
+      "companyUrl": "https://www.linkedin.com/company/vida-place",
+      "description": "Working and Master's thesis student working on artificial intelligence in earth observation.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-06",
+      "end": "2021-03",
+      "dateRange": "Jun 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Co-founder | Tech",
+      "company": "boost",
+      "companyUrl": "https://www.linkedin.com/company/boost-app",
+      "description": "Building the world's smartest personal trainer.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2019-05",
+      "end": "2020-07",
+      "dateRange": "May 2019 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "Building the MIT Climate CoLab, a project of the MIT Center for Collective Intelligence.",
+      "location": "Großraum Boston und Umgebung",
+      "start": "2018-08",
+      "end": "2019-02",
+      "dateRange": "Aug 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Open Innovation Project",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": "In this joint open innovation project between CDTM and Personio, we challenged the status quo of job application processes and created JobMate - an innovative tool that connects recruiters and applicants in a refreshingly convenient and effective way. I was responsible for creating the cross-platform mobile app, the web app and serverless AWS-backend through which applicant and recruiter get matched and a short pre-assessment of the applicant is conducted.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-04",
+      "end": "2018-08",
+      "dateRange": "Apr 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Trend & Futures Research",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Trend & futures research in the field of Artificial Intelligence and Digital Assistants in a collaborative project between Siemens’ AI Lab and CDTM.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-02",
+      "end": "2018-04",
+      "dateRange": "Feb 2018 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "KUKA Systems GmbH",
+      "companyUrl": "https://www.linkedin.com/company/kukaglobal",
+      "description": null,
+      "location": "Augsburg, Bayern, Deutschland",
+      "start": "2014-06",
+      "end": "2017-10",
+      "dateRange": "Jun 2014 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis Software Engineering",
+      "company": "manroland web systems GmbH",
+      "companyUrl": "https://www.linkedin.com/company/mrws",
+      "description": null,
+      "location": "Augsburg, Bayern, Deutschland",
+      "start": "2013-10",
+      "end": "2014-02",
+      "dateRange": "Oct 2013 – Feb 2014",
+      "current": false
+    },
+    {
+      "title": "Intern Test Automation",
+      "company": "Softing Project Services GmbH at Audi AG",
+      "companyUrl": "https://www.linkedin.com/company/softing",
+      "description": null,
+      "location": "Ingolstadt, Bayern, Deutschland",
+      "start": "2012-10",
+      "end": "2013-02",
+      "dateRange": "Oct 2012 – Feb 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "M.Sc., Medieninformatik",
+      "dateRange": "2017 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master thesis: Sub-pixel rooftop detection in rural areas in Africa based on Sentinel-2 imagery",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Researcher, Computer Science",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Technische Hochschule Augsburg",
+      "degree": "Bachelor of Science (B.Sc.), Informatik",
+      "dateRange": "2010 – 2014"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Python",
+    "C",
+    "C++",
+    "GUI-Entwicklung",
+    "Usability",
+    "Robotik",
+    "Maven",
+    "Jenkins",
+    "TFS",
+    "Tortoise SVN",
+    "Git",
+    "Scrum",
+    "Produktentwicklung",
+    "Interfacedesign",
+    "Apache Cordova",
+    "Ionic",
+    "Frontend-Entwicklung",
+    "Open Innovation"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Predium",
+    "tagline": "Effective capital decisions in the real estate industry",
+    "description": "Manage your real estate portfolio with foresight. With Predium’s Real Estate Intelligence Platform, decision-makers gain clarity and confidence at a glance. Understand your property portfolio holistically and identify where your capital delivers the greatest value - both economically and sustainably.",
+    "industry": "Software Development",
+    "website": "https://www.predium.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/predium-technology",
+    "employeeCount": 58,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

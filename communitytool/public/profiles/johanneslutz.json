@@ -1,0 +1,129 @@
+{
+  "id": "johanneslutz",
+  "name": "Johannes Lutz",
+  "headline": "Co-Founder & CEO CoCrafter",
+  "avatar": {
+    "sm": "/avatars/johanneslutz-sm.webp",
+    "lg": "/avatars/johanneslutz.webp",
+    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAABQBgCdASogACAAPsFKoEunpCMht/qoAPAYCUAXYzQAqAPb337/B6imN1/akrqe/P0i1dKeCAuzFnazEAD+/Xs+yy3mLa6W6OgbMUnz/e/WPxIPR8QxkoZDgAN9npBVDBKx/VitRgo30cG/ntBrnE1PNH/ShAQ8NNK7QwdT1C1ClDtzsCh5fektsM8vz/CPXU+bFFPew3LCxelNhnJfvbyefWL1TfeZtKxiXw/Mju/szG2Xnq5KjsR7rqnJwbnPIDiAPpIoRkwTualAC5SHIIHRcM2v6V1zNR+AE/VJd+dfX0K+1xv4/tHcqgZ68Q6Ye6CDoHCsAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/johanneslutz",
+  "personId": 914,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "BSc in Economics (LMU)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Johannes Lutz",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "CoCrafter GmbH (YC W24)",
+      "companyUrl": "https://www.linkedin.com/company/cocrafter",
+      "description": "Digitizing European construction.",
+      "location": null,
+      "start": "2023-07",
+      "end": null,
+      "dateRange": "Jul 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Chairman Advisory Board",
+      "company": "Innovis VC",
+      "companyUrl": "https://www.linkedin.com/company/innovisvc",
+      "description": null,
+      "location": null,
+      "start": "2022-06",
+      "end": null,
+      "dateRange": "Jun 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Early Stage Investor",
+      "company": "10x Founders",
+      "companyUrl": "https://www.linkedin.com/company/10x-founders",
+      "description": "Early-Stage Pre-Seed to Series A investor backed by over 200 entrepreneurs and angels.",
+      "location": null,
+      "start": "2021-05",
+      "end": "2023-03",
+      "dateRange": "May 2021 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & Management Board",
+      "company": "Innovis VC",
+      "companyUrl": "https://www.linkedin.com/company/innovisvc",
+      "description": "Europe's largest Student Venture Capital initiative with hubs in Munich, London, Paris, Berlin, Milan, Cambridge, Madrid, Amsterdam, Istanbul and St. Gallen.",
+      "location": null,
+      "start": "2020-03",
+      "end": "2022-06",
+      "dateRange": "Mar 2020 – Jun 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Y Combinator",
+      "degree": "W24 Batch",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "B.Sc., Economics",
+      "dateRange": null
+    },
+    {
+      "school": "Anne-Frank-Gymnasium Erding",
+      "degree": "Abitur",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "CoCrafter (YC W24)",
+    "tagline": "Nachunternehmer-Management für das Rückgrat der Bauwirtschaft.",
+    "description": "CoCrafter digitalisiert das Rückgrat der europäischen Bauwirtschaft – und ermöglicht es ausführenden Bau- und Handwerksbetrieben, ihre Zusammenarbeit mit Nachunternehmern automatisiert, effizient und transparent zu gestalten.\n\nDie intelligente CoCrafter-Software unterstützt Sie dabei, neue Nachunternehmer zu akquirieren, die Vergabe zu vereinfachen, und die eingesetzten Nachunternehmer automatisiert und rechtssicher zu verwalten. Damit spart CoCrafter Zeit und Geld für Sie ein, und schafft Freiraum für strategische Tätigkeiten.",
+    "industry": "Software Development",
+    "website": "https://cocrafter.com",
+    "linkedInUrl": "https://www.linkedin.com/company/cocrafter",
+    "employeeCount": 12,
+    "foundedYear": 2023,
+    "location": "Munich, Germany",
+    "specialities": [
+      "SaaS",
+      "StartUp",
+      "Construction",
+      "Tech",
+      "Baubranche",
+      "B2B",
+      "TUM",
+      "CDTM",
+      "YCombinator",
+      "Software",
+      "Efficiency"
+    ]
+  }
+}

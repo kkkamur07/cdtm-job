@@ -1,0 +1,159 @@
+{
+  "id": "stefan-hudelmaier",
+  "name": "Stefan Hudelmaier",
+  "headline": "Creator of gcmb.io & checkson.io | Director @ Device Insight",
+  "avatar": null,
+  "location": "Bad Urach, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/stefan-hudelmaier",
+  "personId": 1338,
+  "classes": [
+    {
+      "id": 57,
+      "label": "Spring 2005",
+      "season": "Spring",
+      "year": 2005,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2005",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Stefan Hudelmaier",
+  "ca": null,
+  "summary": "I love to build software products, especially  in the area of distributed systems. I have 15 years of experience in the IoT space.\n\nOn the side, I'm building a platform for Open Streaming Data called \"Grand Cental Message Broker\" at gcmb.io.\n\nI'm also running a monitoring service called checkson.io",
+  "positions": [
+    {
+      "title": "Director of Cloud Architecture and Innovation",
+      "company": "Device Insight",
+      "companyUrl": "https://www.linkedin.com/company/device-insight",
+      "description": null,
+      "location": null,
+      "start": "2020-03",
+      "end": null,
+      "dateRange": "Mar 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Product Development",
+      "company": "Device Insight",
+      "companyUrl": "https://www.linkedin.com/company/device-insight",
+      "description": null,
+      "location": null,
+      "start": "2015-03",
+      "end": "2020-03",
+      "dateRange": "Mar 2015 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Team Lead",
+      "company": "Device Insight",
+      "companyUrl": "https://www.linkedin.com/company/device-insight",
+      "description": null,
+      "location": null,
+      "start": "2013-01",
+      "end": "2015-03",
+      "dateRange": "Jan 2013 – Mar 2015",
+      "current": false
+    },
+    {
+      "title": "Softwareentwickler",
+      "company": "Device Insight",
+      "companyUrl": "https://www.linkedin.com/company/device-insight",
+      "description": null,
+      "location": null,
+      "start": "2009-06",
+      "end": "2012-12",
+      "dateRange": "Jun 2009 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Geschäftsführer",
+      "company": "Vitabu GbR",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2006-06",
+      "end": "2008-10",
+      "dateRange": "Jun 2006 – Oct 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom, Informatik",
+      "dateRange": "2002 – 2008"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2005 – 2007"
+    },
+    {
+      "school": "Linköping University",
+      "degree": null,
+      "dateRange": "2006 – 2007"
+    },
+    {
+      "school": "Gymnasium Münsingen",
+      "degree": "Abitur",
+      "dateRange": "1989 – 2001"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Git",
+    "Scalability",
+    "Distributed Systems",
+    "Python",
+    "Scala",
+    "Software Engineering",
+    "Projektmanagement",
+    "Hibernate",
+    "Spring",
+    "Softwareentwicklung",
+    "Unternehmensführung",
+    "Agile Methoden",
+    "M2M",
+    "Internet of Things",
+    "Cassandra",
+    "Erlang",
+    "OSGi",
+    "Verteilte Systeme",
+    "CENTERSIGHT® IoT Plattform"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Device Insight",
+    "tagline": "Excellence in IoT & Analytics",
+    "description": "Founded in 2003, Device Insight is a leading provider of Internet of Things Platforms. Its flagship is the IoT Platform CENTERSIGHT®, a platform that supports the global networking of machines, vehicles, facilities and devices as well as providing data acquisition, reporting, remote services and alerting. Device Insight works in more than 15 countries worldwide with large enterprises and mid-size customers from various sectors, including machinery and plant engineering, HVAC, commercial vehicles, vending, transport, energy as well as the Connected Home sector.\n\nDevice Insight’s services range from business case analysis and implementation to safe IT operations. Device Insight is committed long-term to its customers in realizing IoT projects and as a full-service consultant regarding all IoT Ecosystem components. \n\nDevice Insight has been recognized for the second time running as an “Industry 4.0/IoT Leader Germany” in Experton Group's eponymous Vendor Benchmark 2017. The company was acclaimed as leading in the categories “Industrial Big Data Analytics”, “Industrial Big Data Dashboards/Visualisation”, “Consulting and Integration/IoT Logistics” and also “Consulting and Integration/Smart Energy Management for Buildings”.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://device-insight.com/en/",
+    "linkedInUrl": "https://www.linkedin.com/company/device-insight",
+    "employeeCount": 85,
+    "foundedYear": 2003,
+    "location": "München, Germany",
+    "specialities": [
+      "IoT",
+      "Predictive Maintenance",
+      "Condition Monitoring",
+      "Real Time Analytics",
+      "Industrie 4.0",
+      "Machine Learning",
+      "Internet of Things",
+      "Cloud Hosting",
+      "Professional IT Services",
+      "IIoT",
+      "AIoT",
+      "Artificial Intelligence",
+      "Data Analytics"
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "id": "steffeniwan",
+  "name": "Steffen Iwan",
+  "headline": "Nukipa 🇪🇺 | B2B Marketing & GTM | CDTM | Maltego",
+  "avatar": {
+    "sm": "/avatars/steffeniwan-sm.webp",
+    "lg": "/avatars/steffeniwan.webp",
+    "blur": "data:image/webp;base64,UklGRi4BAABXRUJQVlA4ICIBAACwBgCdASogACAAPtFcpk0oJSOiMBgIAQAaCWgAnTNlVmY5c+ht0QUbbiZqiTcOiWqbU5QPlScyTQy3k9LRAAD44D7erJ/KdOyhIL5M88xjIcFAasZT4LlIAonavNXb7HlxsYKQQFcjUmDxAN3sDjZrJE39Skt9HEby6l4yMXGxQn3QVixY5FaXwfMdvfL1YhALfRDKpO8wiqk2sU3DNlyC+Ac7HDHMMAmvnfcMT5pWBSadJV5m3W34wcmpiKv3fp/furBU2kijGw3zs8B7phShUXWWSRJcnn7e75EcoIZ11AO++V10QfFdIfeW2CKcM4r3A7N4JIBxl6k5UqIGwBigLPfChbgf35WclqdhVhCJyMo7B34oTldoa1z/ZuEmRvkAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/steffeniwan",
+  "personId": 719,
+  "classes": [
+    {
+      "id": 77,
+      "label": "Spring 2015",
+      "season": "Spring",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2015",
+  "major": "Mechanical Engineering and Management",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Steffen Iwan",
+  "ca": null,
+  "summary": "Bringing AI products to live with Nukipa Labs.\n\nCurrent work: \n- Nukipa: AI platform that fully automates your online marketing end to end (https://www.nukipa.com/)\n- Lecturer for \"Sales & GTM\" at CDTM.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Nukipa",
+      "companyUrl": "https://www.linkedin.com/company/nukipa-online-marketing",
+      "description": "Your online marketing fully automated by AI: https://www.nukipa.com/",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Nukipa Labs",
+      "companyUrl": "https://www.linkedin.com/company/nukipa-labs",
+      "description": "AI people love: Vertical-specific AI solutions for real-world impact.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "University Lecturer",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Teaching Students how to build up B2B Marketing & Sales for high-tech Startups - Twice a year in Munich and in Valencia.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-10",
+      "end": null,
+      "dateRange": "Oct 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Account Executive - Government DACH",
+      "company": "Maltego Technologies",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-01",
+      "end": "2025-06",
+      "dateRange": "Jan 2025 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Head Of Direct Sales",
+      "company": "Maltego Technologies",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": "- Leading the scale up of Maltego's sales operations\n- Empowering all SDRs, KAMs in our organisation \n- Supporting clients in Cyber Security Operations, Law Enforcement as well as Trust & Safety",
+      "location": null,
+      "start": "2021-08",
+      "end": "2025-01",
+      "dateRange": "Aug 2021 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Global Key Account Manager",
+      "company": "Maltego Technologies",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": "- Leading the built up of Maltego's sales operations\n- Understanding and defining ideal target personas + value proposition of Maltego\n- Showing the value of Maltego to teams in:\n=> Cyber Security Operations\n=> Law Enforcement\n=> Trust & Safety",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-10",
+      "end": "2021-08",
+      "dateRange": "Oct 2019 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Head Of GTM",
+      "company": "Contiamo",
+      "companyUrl": "https://www.linkedin.com/company/contiamo",
+      "description": "Building up the GTM motion of Contiamo (Inbound & Outbound).",
+      "location": "Berlin Metropolitan Area",
+      "start": "2018-01",
+      "end": "2019-10",
+      "dateRange": "Jan 2018 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Motius GmbH",
+      "companyUrl": "https://www.linkedin.com/company/motius-gmbh",
+      "description": "Master Thesis & setting up B2B Inbound Motion in core team:\n\"B2B inbound marketing automation in startups \"",
+      "location": "Munich",
+      "start": "2016-09",
+      "end": "2017-07",
+      "dateRange": "Sep 2016 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "CRM Development",
+      "company": "Porsche Vietnam",
+      "companyUrl": "https://www.linkedin.com/company/porsche-vietnam",
+      "description": null,
+      "location": "Ho Chi Minh City, Vietnam",
+      "start": "2015-10",
+      "end": "2016-01",
+      "dateRange": "Oct 2015 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Engine Test Assistant",
+      "company": "Porsche Motorsport North America",
+      "companyUrl": "https://www.linkedin.com/company/porsche-motorsport-north-america",
+      "description": "Testing IMSA race car engines on a dynamometer in aspects of quality and power output.",
+      "location": "Santa Ana, CA, USA",
+      "start": "2014-09",
+      "end": "2015-03",
+      "dateRange": "Sep 2014 – Mar 2015",
+      "current": false
+    },
+    {
+      "title": "Sales Assistant",
+      "company": "Porsche Asia Pacific Pte Ltd",
+      "companyUrl": "https://www.linkedin.com/company/porsche-asia-pacific-pte-ltd",
+      "description": "• Support of the sales team with the supervision of 13 markets in the Asia Pacific Region\n• Reporting of sales figures\n• Quota and vehicle ordering management\n• Analyzing market situations regarding competitor behavior and\n￼political circumstances",
+      "location": "Singapore",
+      "start": "2013-10",
+      "end": "2014-04",
+      "dateRange": "Oct 2013 – Apr 2014",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis",
+      "company": "Elektronische Fahrwerksysteme GmbH",
+      "companyUrl": "https://www.linkedin.com/company/techhubbyefs",
+      "description": "•\tTitle: “Development of an ESP-system for an electric quad“\n•\tIndependent team of 5 students \n•\tDevelopment of driving stability systems (Anti-lock Braking System (ABS), Anti-Slip Regulation  \n        (ASR), Electronic Stability System (ESP), Torque Vectoring) \n•\tSimulation in MATLAB/Simulink\n•\tImplementation on the electric quad\n•\tVerification and improvement through test driving",
+      "location": "Ingolstadt, Germany",
+      "start": "2013-04",
+      "end": "2013-10",
+      "dateRange": "Apr 2013 – Oct 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Engineering & Management",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Engineering Science",
+      "dateRange": "2010 – 2013"
+    },
+    {
+      "school": "Udacity",
+      "degree": "Lifelong Education",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": "• Two-week Entrepreneurial Exchange Program (TIE2)\n• Gaining deep insight into the Chinese Start Up Scene",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Nagoya University",
+      "degree": "• “Nagoya University Summer Intensive Program” (NUSIP 2014)\n• Six-week summer school on Automotive Engineering and\nJapanese Language",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Keio University",
+      "degree": "•\tTwo-week intensive program “Keio Short-Term Japanese Studies Program“ (KJSP)\n•\tCourses on Japanese culture (including economy, business, politics, history, etc.)",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Gymnasium Casimirianum Coburg",
+      "degree": "Abitur",
+      "dateRange": "2000 – 2009"
+    },
+    {
+      "school": "Watertown High School, Watertown, SD, USA",
+      "degree": "• Exchange year\n• GPA: 4.0 (4.0 being the highest, 0 being the lowest grade)",
+      "dateRange": "2006 – 2007"
+    }
+  ],
+  "skills": [
+    "Teamwork",
+    "Entrepreneurship",
+    "Cultural Diversity",
+    "Sales",
+    "Deutsch",
+    "Ingenieurwissenschaften",
+    "Automobilindustrie",
+    "Automotive",
+    "Matlab",
+    "Automobile",
+    "Engineering",
+    "Motorsports",
+    "Vehicle Dynamics",
+    "Business English",
+    "Simulink",
+    "German",
+    "Spanish",
+    "Market Research",
+    "Chinese culture",
+    "Communication",
+    "Japanese culture",
+    "Unternehmensstrategie",
+    "Projektmanagement",
+    "Start-ups",
+    "Produktentwicklung",
+    "Java",
+    "Microsoft Excel",
+    "Geschäftsentwicklung",
+    "Strategie",
+    "Python",
+    "Management",
+    "Marktforschung",
+    "Microsoft Office",
+    "Unternehmertum",
+    "Maltego"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "company": null
+}

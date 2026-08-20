@@ -1,0 +1,231 @@
+{
+  "id": "tariqsaad",
+  "name": "Saad Bin Tariq",
+  "headline": "Better Devices | We’re hiring",
+  "avatar": {
+    "sm": "/avatars/tariqsaad-sm.webp",
+    "lg": "/avatars/tariqsaad.webp",
+    "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAAAwBQCdASogACAAPtFcpEyoJSOiMBgIAQAaCWMAt7mLxLVpnFiHHSfZsh0bvkrjkISFQAD+/TZFwYnvTuYsUNjZm3QJEaOwguf6PNZRA4QOM3gS79qQNwyRxS02HymYd9kSs+bU1Tz/N8+WIV+BA1Ct7C0XqY++fWrj4ojoQzdflLVzKsJH43VqHka0m7+NSKel0rYkcEwD95RKyg8e1SU0EHlAZTh46t2XRbJQAeGbCjlklE7yxnZ3iHS3KZnGaAAAAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/tariqsaad",
+  "personId": 786,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Communications Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Saad Bin Tariq",
+  "ca": null,
+  "summary": "I enjoy building hardware-heavy products and tackling the messy problems that come with getting them to market.",
+  "positions": [
+    {
+      "title": "Founder and CEO",
+      "company": "Better Devices",
+      "companyUrl": "https://www.linkedin.com/company/better-devices",
+      "description": "Product-obsessed engineering partner for connected hardware",
+      "location": "Berlin, Germany",
+      "start": "2023-05",
+      "end": null,
+      "dateRange": "May 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Vehicle control architecture for a production-grade driverless vehicle",
+      "company": "Vay",
+      "companyUrl": "https://www.linkedin.com/company/vaytechnology",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Contribution to the market launch of a novel wireless IoT device with complex communication topologies",
+      "company": "nello.io",
+      "companyUrl": "https://www.linkedin.com/company/nello.io",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Electronics and Embedded Systems Architect",
+      "company": "Buzr",
+      "companyUrl": "https://www.linkedin.com/company/buzr",
+      "description": null,
+      "location": "New York, New York, United States",
+      "start": "2021-09",
+      "end": "2022-10",
+      "dateRange": "Sep 2021 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Senior System Engineer",
+      "company": "Vay",
+      "companyUrl": "https://www.linkedin.com/company/vaytechnology",
+      "description": null,
+      "location": "Berlin, Berlin, Germany",
+      "start": "2021-06",
+      "end": "2022-05",
+      "dateRange": "Jun 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "System Engineer and Product Owner",
+      "company": "Vay",
+      "companyUrl": "https://www.linkedin.com/company/vaytechnology",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2020-03",
+      "end": "2021-05",
+      "dateRange": "Mar 2020 – May 2021",
+      "current": false
+    },
+    {
+      "title": "Ownership of safety concepts and system designs for a driverless vehicle",
+      "company": "Vay",
+      "companyUrl": "https://www.linkedin.com/company/vaytechnology",
+      "description": "Built key prototypes validating core safety fallback concept for a driverless vehicle",
+      "location": "Berlin, Germany",
+      "start": "2019-11",
+      "end": "2020-02",
+      "dateRange": "Nov 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Lead Firmware Developer",
+      "company": "nello.io",
+      "companyUrl": "https://www.linkedin.com/company/nello.io",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2018-10",
+      "end": "2019-10",
+      "dateRange": "Oct 2018 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "External Strategy Consultant",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-04",
+      "end": "2018-07",
+      "dateRange": "Apr 2018 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "Research Internship",
+      "company": "Intel Corporation",
+      "companyUrl": "https://www.linkedin.com/company/intel-corporation",
+      "description": "Automated generation and optimization of device drivers",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-10",
+      "end": "2017-12",
+      "dateRange": "Oct 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Embedded Systems - Working Student",
+      "company": "nello.io",
+      "companyUrl": "https://www.linkedin.com/company/nello.io",
+      "description": "Founding engineering team member: circuit design, embedded software, rapid prototyping",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-02",
+      "end": "2018-09",
+      "dateRange": "Feb 2016 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "xFlow Research Inc.",
+      "companyUrl": "https://www.linkedin.com/company/xflow-research-inc",
+      "description": "Integration work in Software Defined Networking and Network Function Virtualization",
+      "location": "Software Technology park, I-9, Islamabad",
+      "start": "2015-01",
+      "end": "2015-08",
+      "dateRange": "Jan 2015 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Hardware Design Engineer",
+      "company": "RWR Private Limted",
+      "companyUrl": "https://www.linkedin.com/company/rwr-private-limited",
+      "description": null,
+      "location": "I-9, Islamabad",
+      "start": "2013-11",
+      "end": "2014-05",
+      "dateRange": "Nov 2013 – May 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.S.), Electrical, Electronics and Communications Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "National University of Sciences and Technology (NUST)",
+      "degree": "Bachelor of Engineering (B.E.), Electrical and Electronics Engineering",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Hardware Architecture",
+    "Embedded Systems",
+    "Electronics",
+    "Agile Software Development",
+    "Digital Signal Processors",
+    "Entrepreneurship",
+    "Verilog",
+    "Microcontrollers",
+    "FPGA",
+    "Circuit Design",
+    "Python",
+    "Internet of Things (IoT)",
+    "C++",
+    "Embedded Software"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Punjabi",
+    "Urdu"
+  ],
+  "company": {
+    "name": "Better Devices",
+    "tagline": "Product-First Embedded Hardware & Software Consultancy",
+    "description": "We’re a product-first embedded systems powerhouse — a strategic engineering consultancy partnering with visionary technology companies and market leaders to conquer complexity, eliminate risks, and launch exceptional connected devices that redefine industry standards.\n\nPRODUCT FEASIBILITY STUDY\nRigorous, evidence-based feasibility studies that map bold realization paths, expose critical trade-offs, and equip leaders with the clarity needed for confident go/no-go decisions.\n\nDEVICE DEVELOPMENT SERVICES\nFull-cycle engineering excellence: from raw concept and rapid PoC through to rugged production devices and real-world user trials that validate performance and accelerate market entry.\n\nTESTING & FIELD ENGINEERING SERVICES\nPioneering fault prevention, forensic root-cause analysis of field failures, and scalable mitigation strategies that deliver unbreakable reliability — even in the harshest real-world conditions.\n\nIf you're leading a connected hardware initiative and facing feasibility risks, scalability hurdles, or field reliability issues — let's talk.\n\nDrop us a line at hello@betterdevices.io to start de-risking and accelerating your launch.",
+    "industry": "Engineering Services",
+    "website": "https://betterdevices.io/contact-us/",
+    "linkedInUrl": "https://www.linkedin.com/company/better-devices",
+    "employeeCount": 8,
+    "foundedYear": 2023,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "id": "martin-storath-02b08873",
+  "name": "Martin Storath",
+  "headline": "Research Professor of Computer Vision and Machine Learning, Technische Hochschule Würzburg-Schweinfurt",
+  "avatar": null,
+  "location": "Schweinfurt, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/martin-storath-02b08873",
+  "personId": 1482,
+  "classes": [
+    {
+      "id": 59,
+      "label": "Spring 2006",
+      "season": "Spring",
+      "year": 2006,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2006",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Martin Storath",
+  "ca": null,
+  "summary": "I develop mathematical methods and efficient algorithms for image and signal processing, computer vision, and machine learning. My contributions span unsupervised segmentation, robust signal estimation, and image reconstruction, utilizing techniques like non-convex optimization, neural networks, and Fourier methods.",
+  "positions": [
+    {
+      "title": "Research Professor of Computer Vision and Machine Learning",
+      "company": "Technische Hochschule Würzburg-Schweinfurt (THWS)",
+      "companyUrl": "https://www.linkedin.com/company/thws",
+      "description": null,
+      "location": "Schweinfurt, Bavaria, Germany",
+      "start": "2023-10",
+      "end": null,
+      "dateRange": "Oct 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Professor of Mathematics",
+      "company": "Technische Hochschule Würzburg-Schweinfurt (THWS)",
+      "companyUrl": "https://www.linkedin.com/company/thws",
+      "description": "Schweinfurt",
+      "location": null,
+      "start": "2018-09",
+      "end": "2023-09",
+      "dateRange": "Sep 2018 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Ruprecht-Karls-Universität Heidelberg",
+      "companyUrl": "https://www.linkedin.com/company/uni-heidelberg",
+      "description": "Heidelberg",
+      "location": null,
+      "start": "2016-04",
+      "end": "2018-08",
+      "dateRange": "Apr 2016 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Ecole polytechnique fédérale de Lausanne",
+      "companyUrl": "https://www.linkedin.com/company/epfl",
+      "description": null,
+      "location": "Lausanne, Vaud, Switzerland",
+      "start": "2013-09",
+      "end": "2016-03",
+      "dateRange": "Sep 2013 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Research associate",
+      "company": "Helmholtz Zentrum München",
+      "companyUrl": "https://www.linkedin.com/company/helmholtzmunich",
+      "description": "Image processing of MALDI-images of retinal tissue",
+      "location": null,
+      "start": "2010-10",
+      "end": "2013-08",
+      "dateRange": "Oct 2010 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Teaching assistant",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Teaching for problem sessions and seminars",
+      "location": null,
+      "start": "2008-10",
+      "end": "2010-10",
+      "dateRange": "Oct 2008 – Oct 2010",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "Programming for the Java library JTWI for mobile phones",
+      "location": "Böblingen",
+      "start": "2005-07",
+      "end": "2005-09",
+      "dateRange": "Jul 2005 – Sep 2005",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doktor der Naturwissenschaften (Dr. rer. nat.), Mathematik",
+      "dateRange": "2008 – 2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours degree, Technology Management",
+      "dateRange": "2006 – 2009"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom, Mathematik",
+      "dateRange": "2002 – 2008"
+    }
+  ],
+  "skills": [
+    "Machine Learning",
+    "Computer vision",
+    "Mathematics",
+    "Algorithms",
+    "Applied Mathematics",
+    "Data Science",
+    "Signal Processing",
+    "Image Processing",
+    "Matlab",
+    "Algorithmen",
+    "Image Reconstruction",
+    "Java",
+    "ImageJ",
+    "Wavelets",
+    "LaTeX",
+    "Programmierung",
+    "Computerwissenschaft",
+    "Künstliche Intelligenz (KI)",
+    "Computer-Vision"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "Technical University of Applied Sciences Würzburg-Schweinfurt (THWS)",
+    "tagline": "THWS (früher FHWS)",
+    "description": "Innovative Studiengänge und zukunftsweisende Forschung prägen die Technische Hochschule Würzburg-Schweinfurt (THWS). Ob Robotik, KI oder Wasserstofftechnik, unsere 240 Professorinnen und Professoren und 400 Mitarbeitende begleiten junge Menschen, zukünftigen Herausforderungen zu begegnen. Unsere acht Forschungsinstitute stehen für interdisziplinäre Zusammenarbeit und ein kollegiales Miteinander, eingebettet in das malerische Mainfranken.",
+    "industry": "Higher Education",
+    "website": "http://www.thws.de",
+    "linkedInUrl": "https://www.linkedin.com/company/thws",
+    "employeeCount": 1033,
+    "foundedYear": 1971,
+    "location": "Würzburg, Germany",
+    "specialities": []
+  }
+}

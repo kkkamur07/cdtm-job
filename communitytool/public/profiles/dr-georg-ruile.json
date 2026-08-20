@@ -1,0 +1,199 @@
+{
+  "id": "dr-georg-ruile",
+  "name": "Dr. Georg R.",
+  "headline": "Data, AI & BI | Finance Decision Support & Governance",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-georg-ruile",
+  "personId": 1654,
+  "classes": [
+    {
+      "id": 97,
+      "label": "Fall 2001",
+      "season": "Fall",
+      "year": 2001,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2001",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Georg Ruile",
+  "ca": null,
+  "summary": "With a solid grounding in management consulting, IT, AI and data analytics, I thrive on tackling complex analytical challenges from inception to executive presentation as a Full Stack Data & Business Analyst. My expertise extends to providing clear insights, which guides informed decision-making across various organizational levels.\n\nWhile I have deep technical understanding, with proficiency in Java and Python as well as state-of-the-art Machine Learning and AI frameworks, my passion lies in translating data into actionable business strategies. This involves a meticulous process of data gathering, analysis, and presenting findings in a comprehensible manner to executive leadership, ensuring a clear pathway for strategic initiatives.\n\nIn instances requiring a coordinated approach to IT project management, my experience lends itself to ensuring projects run smoothly and align with broader business objectives. Teams benefit from my ability to bridge the technical and business domains, communicating with ease to all stakeholders.",
+  "positions": [
+    {
+      "title": "Abteilungsleiter Data Analytics & Controlling",
+      "company": "GEMA",
+      "companyUrl": "https://www.linkedin.com/company/gema",
+      "description": "Since March 2016, I have been entrusted with overseeing key finance analytics and leading IT projects at GEMA. My primary focus lies in streamlining data analytics and control. Within my purview, I deliver key operational and strategic insights directly to the Directorate, Supervisory, and Executive Board. I view myself as a partner to both the Management and Board, managing the entire analytical process from start to finish, which culminates in presentations and collaborative final decision-making. For my analytical tasks, I primarily use Tableau and Python.",
+      "location": "Berlin, Germany",
+      "start": "2016-01",
+      "end": null,
+      "dateRange": "Jan 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Geschäftsführer",
+      "company": "CT Imaging",
+      "companyUrl": "https://www.linkedin.com/company/ct-imaging",
+      "description": "As Managing Director at CT Imaging GmbH, I led operational initiatives, secured financing, and optimized resource allocation to align with the young company's objectives. To support product development and marketing, I constructed a statistical model that culminated in a PhD thesis.",
+      "location": "Erlangen, Bavaria, Germany",
+      "start": "2012-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2012 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Founding Executive Director",
+      "company": "medutain GmbH",
+      "companyUrl": null,
+      "description": "As the founder and Managing Director of a healthcare IT startup, I oversaw every aspect from its inception to growth, spanning areas from financing to product development. Key achievements include leading significant customer projects, such as clinical deployments as well as B2C online products, and ultimately orchestrating a successful company sale.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2010-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2010 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Managementberater",
+      "company": "eds.group    +++     Euro-Druckservice GmbH",
+      "companyUrl": "https://www.linkedin.com/company/euro-druck-service",
+      "description": "As a Management Consultant, I spearheaded the development and consolidation of a Sales Forecasting Model for the entire group and its European subsidiaries. I offered independent consultation to the Executive Management and CFO, working closely with production facilities across Europe to align the company's financial and business strategies. My pivotal role involved pinpointing and rectifying discrepancies between forecasts and actual results in collaboration with top management and financial partners.",
+      "location": "Stadt Passau, Bavaria, Germany",
+      "start": "2008-01",
+      "end": "2010-12",
+      "dateRange": "Jan 2008 – Dec 2010",
+      "current": false
+    },
+    {
+      "title": "Managementberater",
+      "company": "Altman Solon",
+      "companyUrl": "https://www.linkedin.com/company/altman-solon",
+      "description": "As a Consultant, I played an integral role in strategy consulting, particularly in due diligence projects within the tech and media sectors. I closely collaborated with a diverse range of company managers, from whom I gained invaluable insights and learned extensively. My engagements allowed us to identify key business opportunities and navigate potential challenges. Additionally, my role involved building large-scale Excel models for company groups, furthering my expertise in analytical and strategic modelling and planning.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2006-01",
+      "end": "2008-12",
+      "dateRange": "Jan 2006 – Dec 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "FAU Erlangen-Nürnberg",
+      "degree": "Doktor (Ph.D.)",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "Richard-Strauss-Konservatorium München",
+      "degree": "Diplom",
+      "dateRange": "2000 – 2005"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom",
+      "dateRange": "1999 – 2004"
+    },
+    {
+      "school": "University of Miami",
+      "degree": null,
+      "dateRange": "2002 – 2003"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2001 – 2002"
+    }
+  ],
+  "skills": [
+    "Englisch",
+    "IT-Projekte",
+    "Analytische Fähigkeiten",
+    "Management",
+    "Business-Analyse",
+    "Big-Data-Analyse",
+    "IT-Projekt- und Programm-Management",
+    "Statistics",
+    "Advising Clients",
+    "Coaching",
+    "Data Analytics",
+    "Cybersecurity",
+    "Information Technology",
+    "Agile Leadership",
+    "Projektmanagement",
+    "Datenanalyse",
+    "Machine Learning",
+    "Managementberatung",
+    "Business Intelligence (BI)",
+    "Analytics",
+    "Artificial Intelligence for Business",
+    "Presentation Skills",
+    "Business Analytics",
+    "Data Visualization",
+    "Business Analysis",
+    "Statsmodels",
+    "Scikit-Learn",
+    "Data Science",
+    "Business Case Preparation",
+    "Jupyter",
+    "Java",
+    "SAP ERP",
+    "Financial Modeling",
+    "Management Due Diligence",
+    "Excel-Modelle",
+    "Forschung und Entwicklung (F&E)",
+    "Startup-Entwicklung",
+    "Softwareentwicklung",
+    "Python",
+    "Tableau",
+    "Software-Projektleitung",
+    "Planung, Budgetierung und Prognosen",
+    "Corporate Finance",
+    "Start-ups",
+    "Controller",
+    "CFO",
+    "Geschäftsführung",
+    "Unternehmensplanung",
+    "B2B Vertrieb",
+    "Europäische Fördermittel",
+    "Search Engine Technology",
+    "Computer Ethics",
+    "Artificial Intelligence (AI)",
+    "Generative AI",
+    "Large Language Models (LLM)",
+    "Microsoft Excel",
+    "Financial Statement Analysis",
+    "Environmental, Social, and Governance (ESG)"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "GEMA",
+    "tagline": "Für alle, die Musik lieben.",
+    "description": "🎶 Musik bringt uns kleine Glücksmomente und große Gefühle. Auf Konzerten, im Club oder über Streaminganbieter.  \n\nMusik hat ihren Wert! Davon sind wir bei der GEMA überzeugt.\n\nWer ein Lied komponiert, Musiktexte schreibt oder Werke verlegt, hat einen Anspruch auf eine faire Vergütung. Wann und wo immer diese Werke öffentlich aufgeführt, im Hörfunk oder Fernsehen kommerziell gesendet, auf einem Medium festgehalten, über digitale Plattformen gestreamt oder anderweitig verbreitet, vervielfältigt oder genutzt werden, ist es nur gerecht, ihre Urheber/-innen an den Einnahmen zu beteiligen.\n\nDie GEMA ist ein wirtschaftlicher Verein, der die Interessen von über 100.000 Mitgliedern vertritt. Dazu zählen Komponist/-innen, Textdichter/-innen und Musikverleger/-innen. Als eine der größten Autorengesellschaften für Werke der Musik weltweit nehmen wir die Rechte dieser Musikschaffenden in Deutschland und die Rechte von über zwei Millionen Rechteinhabern aus aller Welt wahr. \n\nWir setzen uns dafür ein, dass diese Musikurheber/-innen an den Einnahmen aus der Aufführung ihrer Werke angemessen beteiligt werden und sie sich ganz auf ihr kreatives Schaffen konzentrieren können. \n\nWir schließen die Verträge mit den Musiknutzern ab und nehmen die Vergütung ein. Dieses Geld verteilen wir dann als Tantiemen an unsere Mitglieder. Damit fördern und ermöglichen wir eine lebendige Musikkultur in Deutschland und darüber hinaus. \n\nDenn: „Musik ist uns was wert“ \n\nUnsere Pflichtangaben (Impressum und Datenschutz) findest du auf unserer Karriereseite am Ende der Seite.",
+    "industry": "Civic and Social Organizations",
+    "website": "https://www.gema.de/de/die-gema/karriere",
+    "linkedInUrl": "https://www.linkedin.com/company/gema",
+    "employeeCount": 1124,
+    "foundedYear": null,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Verwertungsgesellschaft",
+      "Urheberrecht",
+      "Autorengesellschaft",
+      "Vergütung von Musikschaffenden",
+      "Lizensierung"
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "id": "amelie-p_hnitzsch-b46b9025b",
+  "name": "Amelie Pöhnitzsch",
+  "headline": "M. Sc. Business, Organizational & Applied Social Psychology @ LMU | CDTM | BEA | CSS | Gen-D",
+  "avatar": {
+    "sm": "/avatars/amelie-p_hnitzsch-b46b9025b-sm.webp",
+    "lg": "/avatars/amelie-p_hnitzsch-b46b9025b.webp",
+    "blur": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAAAwBgCdASogACAAPtFcpU6oJKMiKAqpABoJaACdMxyEIdC7MeCElBbULS2yQCPm4wz3OWeM/UnUnktAAP78FOffaGiw7YrZmsxtRCEarZ4QvJQHCw2cD6PjDI9tUMhp+nTRXCGfrE/ViIYvQlbH1AE62stolpMx92VPfDVkm0j3BjgXpHHF7mhKDBLJ194HixO+JytULselWkVErIuaB6hGJk0sOUF/0PidutE1VcIe1jlK2kv47rfnjLzqLkWmHZsElJQbD55aqFw6LXanoq7iqIBJhsefiWp/DeIT27oYbOQFtAgD8AuFTpy+V0QkA8C7XSxkAK+QF9vRHDgeCc9xoR1vLItZ2OwAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/amelie-pöhnitzsch-b46b9025b",
+  "personId": 2129,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Business, Organizational and Applied Social Psychology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Amelie Pöhnitzsch",
+  "ca": null,
+  "summary": "Psychologist passionate about healthcare, digital wellbeing and AI. Driven to innovate and create impact at the intersection of tech and human behavior. Curious, agile, and eager to turn ideas into action. Always learning, always growing. 🚀✨",
+  "positions": [
+    {
+      "title": "Associate Consultant Intern",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": "München, Hamburg",
+      "start": "2026-04",
+      "end": null,
+      "dateRange": "Apr 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Intern – Geriatric Psychiatry",
+      "company": "Universitätsklinikum Heidelberg (UKHD)",
+      "companyUrl": "https://www.linkedin.com/company/universitätsklinikum-heidelberg-ukhd",
+      "description": null,
+      "location": "Heidelberg, Baden-Württemberg, Germany",
+      "start": "2022-03",
+      "end": null,
+      "dateRange": "Mar 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Retail Vendor Manager – Licensed Sports",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-05",
+      "end": "2025-08",
+      "dateRange": "May 2025 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Researcher – Institute for Digital Marketing & Behavioral Insights",
+      "company": "WU (Wirtschaftsuniversität Wien)",
+      "companyUrl": "https://www.linkedin.com/company/wu-wirtschaftsuniversitaet-wien",
+      "description": null,
+      "location": "Vienna, Austria",
+      "start": "2024-10",
+      "end": "2025-03",
+      "dateRange": "Oct 2024 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "Research Visitor – Institute for Digital Marketing & Behavioral Insights",
+      "company": "WU (Wirtschaftsuniversität Wien)",
+      "companyUrl": "https://www.linkedin.com/company/wu-wirtschaftsuniversitaet-wien",
+      "description": null,
+      "location": "Vienna, Austria",
+      "start": "2024-06",
+      "end": "2024-08",
+      "dateRange": "Jun 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Intern – Consulting",
+      "company": "thyssenkrupp Management Consulting",
+      "companyUrl": "https://www.linkedin.com/company/thyssenkrupp-management-consulting-gmbh",
+      "description": null,
+      "location": "Essen, North Rhine-Westphalia, Germany",
+      "start": "2024-01",
+      "end": "2024-04",
+      "dateRange": "Jan 2024 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Product Manager – Search",
+      "company": "CHECK24 Vergleichsportal",
+      "companyUrl": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-10",
+      "end": "2023-12",
+      "dateRange": "Oct 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant – Chair of Statistics and Risk Management",
+      "company": "Universität Regensburg",
+      "companyUrl": "https://www.linkedin.com/company/university-of-regensburg",
+      "description": null,
+      "location": "Statistics I and II for economists, Python Workshop",
+      "start": "2023-04",
+      "end": "2023-10",
+      "dateRange": "Apr 2023 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Intern – Clinic and Polyclinic for Psychosomatic Medicine and Psychotherapy",
+      "company": "Universitätsklinikum Leipzig AöR",
+      "companyUrl": "https://www.linkedin.com/company/universitätsklinikum-leipzig",
+      "description": null,
+      "location": "Leipzig, Saxony, Germany",
+      "start": "2023-02",
+      "end": "2023-03",
+      "dateRange": "Feb 2023 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant – Chair of Statistics and Risk Management",
+      "company": "Universität Regensburg",
+      "companyUrl": "https://www.linkedin.com/company/university-of-regensburg",
+      "description": "Statistics I and II for social scientists of humanities, SPSS Workshop",
+      "location": "Regensburg, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-07",
+      "dateRange": "Oct 2021 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Intern – HR Consulting",
+      "company": "Ingenium Consulting",
+      "companyUrl": "https://www.linkedin.com/company/ingenium-malaysia",
+      "description": null,
+      "location": "Regensburg, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2021-08",
+      "dateRange": "Apr 2021 – Aug 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Certificate Degree",
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Business, Organizational & Applied Social Psychology",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Stiftung Bayerische EliteAkademie (BEA)",
+      "degree": "Scholarship",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "RiskResearch",
+      "degree": "Young Talent Program: Risk Management",
+      "dateRange": "2023"
+    },
+    {
+      "school": "University of Regensburg",
+      "degree": "Bachelor of Science - BS, Psychology",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "University of Oslo",
+      "degree": "Bachelor, Psychology",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Gymnasium Franziskaneum Meißen",
+      "degree": "Allgemeine Hochschulreife",
+      "dateRange": "2012 – 2020"
+    },
+    {
+      "school": "Timpview High School",
+      "degree": "School Exchange",
+      "dateRange": "2019"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Italienisch",
+    "Norwegisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "Bain & Company",
+    "tagline": null,
+    "description": "Bain & Company is a global consultancy that helps the world’s most ambitious change makers define the future. \n\nAcross 65 cities in 40 countries, we work alongside our clients as one team with a shared ambition to achieve extraordinary results, outperform the competition, and redefine industries. We complement our tailored, integrated expertise with a vibrant ecosystem of digital innovators to deliver better, faster, and more enduring outcomes. Our 10-year commitment to invest more than $1 billion in pro bono services brings our talent, expertise, and insight to organizations tackling today’s urgent challenges in education, racial equity, social justice, economic development, and the environment. We earned a platinum rating from EcoVadis, the leading platform for environmental, social, and ethical performance ratings for global supply chains, putting us in the top 1% of all companies. Since our founding in 1973, we have measured our success by the success of our clients.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bain.com",
+    "linkedInUrl": "https://www.linkedin.com/company/bain-and-company",
+    "employeeCount": 23379,
+    "foundedYear": null,
+    "location": "Boston, United States",
+    "specialities": [
+      "Strategy",
+      "Customer Strategy & Marketing",
+      "Performance Improvement",
+      "Mergers & Acquisitions",
+      "Private Equity",
+      "Organization",
+      "Results Delivery",
+      "Information Technology",
+      "Corporate Renewal"
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "fabian-alt-b4128751",
+  "name": "Fabian Alt",
+  "headline": "Chief Financial Officer at InGeneron, Inc.",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/fabian-alt-b4128751",
+  "personId": 1902,
+  "classes": [
+    {
+      "id": 67,
+      "label": "Spring 2010",
+      "season": "Spring",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2010",
+  "major": "Physics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Fabian Alt",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Chief Financial Officer",
+      "company": "InGeneron",
+      "companyUrl": "https://www.linkedin.com/company/ingeneron",
+      "description": "ABOUT INGENERON\n\nInGeneron is a clinical stage cell therapy company, developing treatments that unlock the healing potential of each patient’s own regenerative cells. Fueled by our USD 43 million Series D financing, we are conducting clinical studies – which follow the regulatory pathways outlined by the U.S. Food and Drug Administration (FDA) – to obtain market approval for our regenerative cell therapy in the US.\n\nWHAT IS OUR GOAL?\n\nInGeneron’s objective is to change the face of medicine. We are convinced that evidence-based regenerative cell therapy will redefine the health care experience. We believe – and are working to demonstrate – that the regenerative properties of those cells can repair tissue, restoring function and minimizing pain, thereby opening a new category of treatment. Our purpose is to set new therapeutic standards in this emerging field. Currently, we focus on helping patients with a reduced quality of life as a result of musculoskeletal indications and are pursuing research to extend the application of our platform technology to additional treatment areas.",
+      "location": null,
+      "start": "2015-05",
+      "end": null,
+      "dateRange": "May 2015 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment Banking Analyst",
+      "company": "Goldman Sachs",
+      "companyUrl": "https://www.linkedin.com/company/goldman-sachs",
+      "description": "Investment Banking Division - London, UK",
+      "location": null,
+      "start": "2013-06",
+      "end": "2015-05",
+      "dateRange": "Jun 2013 – May 2015",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and Managing Partner",
+      "company": "StraTec Partners",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2011-12",
+      "end": "2013-04",
+      "dateRange": "Dec 2011 – Apr 2013",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and CFO",
+      "company": "Soma by Prenetics",
+      "companyUrl": "https://www.linkedin.com/company/soma-analytics",
+      "description": null,
+      "location": null,
+      "start": "2011-09",
+      "end": "2013-06",
+      "dateRange": "Sep 2011 – Jun 2013",
+      "current": false
+    },
+    {
+      "title": "Intern - Acquisition & Leveraged Finance",
+      "company": "J.P. Morgan",
+      "companyUrl": "https://www.linkedin.com/company/jpmorgan",
+      "description": "IBD Intern at J.P. Morgan, London\nEuropean Acquisition & Leveraged Finance Team",
+      "location": null,
+      "start": "2011-01",
+      "end": "2011-04",
+      "dateRange": "Jan 2011 – Apr 2011",
+      "current": false
+    },
+    {
+      "title": "Intern - Trading Group",
+      "company": "Quantlab Financial, LLC",
+      "companyUrl": "https://www.linkedin.com/company/quantlab-financial",
+      "description": "Quantitative Hedge Fund in Houston, TX / USA",
+      "location": null,
+      "start": "2008-09",
+      "end": "2008-10",
+      "dateRange": "Sep 2008 – Oct 2008",
+      "current": false
+    },
+    {
+      "title": "Junior Research Analyst",
+      "company": "FORUM European SmallCaps",
+      "companyUrl": "https://www.linkedin.com/company/forum-european-smallcaps",
+      "description": "Value Investing\nBottom-Up-Modeling of Financial Statements",
+      "location": null,
+      "start": "2008-05",
+      "end": "2009-03",
+      "dateRange": "May 2008 – Mar 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "The London School of Economics and Political Science (LSE)",
+      "degree": "MSc Finance",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Master, Technology Management",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl. Phys., Quantum Optics",
+      "dateRange": "2007 – 2012"
+    },
+    {
+      "school": "Bayerische EliteAkademie",
+      "degree": "Leadership, Management, Responsibility",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Student, Physics",
+      "dateRange": "2009"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Mergers & Acquisitions",
+    "Strategy",
+    "Team Management",
+    "Start-ups",
+    "Leveraged Finance",
+    "Financial Modeling",
+    "Entrepreneurship",
+    "Venture Capital",
+    "Lean Startup",
+    "Investment Banking",
+    "Hedge Funds"
+  ],
+  "languages": [],
+  "company": null
+}

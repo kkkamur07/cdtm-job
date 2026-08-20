@@ -1,0 +1,249 @@
+{
+  "id": "tillwiechmann",
+  "name": "Till Wiechmann",
+  "headline": "Co-Founder & CEO at Tanso - Sustainability & Compliance Software for Industry",
+  "avatar": {
+    "sm": "/avatars/tillwiechmann-sm.webp",
+    "lg": "/avatars/tillwiechmann.webp",
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAADwBQCdASogACAAPs1QokunpKMht/VYAPAZiWQAyLjYoMBWxL0IYtEnyCzeXKKjh6n4+bddIN8nAAD+/BTxvcbrl/kQ0UjVRkWSenyahbAuDD1QWgbBuygsGwFjUI6sbEqjO25Q5fQkVfFdjNVCg31zbp31P/p3P95yBL1vaB3S6zHaUZHBWgVYFgZhTA7UD/b7DjU40ACBpXWz/330qPGWwd04nAacItQKT2XHiY2k3/2+szz9B7SH+X+DCUVVQFf9oAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/tillwiechmann",
+  "personId": 738,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Till Wiechmann",
+  "ca": null,
+  "summary": "At Tanso, we enable industrial companies to turn sustainability performance into a competitive advantage. Our software suite combines Corporate Carbon Footprint (CCF), Product Carbon Footprint (PCF) and ESG data management for various reporting standards (ESRS, VSME, GRI). The Tanso Platform helps businesses to optimize the ROI of their sustainability strategy while automating regulatory compliance processes.\n\nWe are scaling fast and working with leading industrial companies to transform sustainability from a compliance burden into a business opportunity. If you’re interested in partnering with us, reach out to marketing@tanso.de\n\nWe’re also growing our team—join us in shaping the future of industrial sustainability: https://www.tanso.de/en/karriere",
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Tanso",
+      "companyUrl": "https://www.linkedin.com/company/tansotechnologies",
+      "description": "AI-native environmental performance and compliance management for industrial companies \n\n80% savings, ROI <6 months, 98% customer loyalty and renewal rate - check out: www.tanso.de",
+      "location": null,
+      "start": "2021-01",
+      "end": null,
+      "dateRange": "Jan 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Pre-Seed Venture Development",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": "Early-stage venture development and launch support for 3 pre-seed startups",
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-12",
+      "dateRange": "Apr 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Group Development Renewable Energy",
+      "company": "Arvantis Group",
+      "companyUrl": "https://www.linkedin.com/company/arvantis-group",
+      "description": "Assistant to group founders / MDs, driving setup of new venture in renewable energy",
+      "location": null,
+      "start": "2019-03",
+      "end": "2019-10",
+      "dateRange": "Mar 2019 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "Innovationsmanagement Bau GmbH",
+      "companyUrl": "https://www.linkedin.com/company/innovationsmanagement-bau",
+      "description": "Building compliance management software for 7 German Mittelstand construction companies",
+      "location": null,
+      "start": "2018-08",
+      "end": "2019-01",
+      "dateRange": "Aug 2018 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Venture Development Intern",
+      "company": "Project A",
+      "companyUrl": "https://www.linkedin.com/company/project-a-vc",
+      "description": "Venture development (B2B Sales RevOps, TA Tooling, Process Automation) for 3 portfolio companies",
+      "location": null,
+      "start": "2018-05",
+      "end": "2018-08",
+      "dateRange": "May 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "Technical product benchmarking and variant reduction for leading German automotive OEM",
+      "location": null,
+      "start": "2018-02",
+      "end": "2018-04",
+      "dateRange": "Feb 2018 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Group Development and M&A Intern",
+      "company": "Bertelsmann Education Group",
+      "companyUrl": "https://www.linkedin.com/company/bertelsmann-education-group",
+      "description": "Venture development for portfolio company in the US, buy-side M&A support for Series C venture",
+      "location": null,
+      "start": "2017-09",
+      "end": "2017-12",
+      "dateRange": "Sep 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Founder's Associate Intern",
+      "company": "Gogoprint",
+      "companyUrl": "https://www.linkedin.com/company/gogoprint-group",
+      "description": "Venture development, internationalization (Malaysia), production process optimization",
+      "location": null,
+      "start": "2016-06",
+      "end": "2016-08",
+      "dateRange": "Jun 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Management Consulting Working Student",
+      "company": "Argon & Co Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/advyce-company",
+      "description": "Strategy consulting for German Mittelstand machine manufacturers and automotive suppliers",
+      "location": null,
+      "start": "2015-08",
+      "end": "2016-05",
+      "dateRange": "Aug 2015 – May 2016",
+      "current": false
+    },
+    {
+      "title": "Management Consulting Intern",
+      "company": "Argon & Co Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/advyce-company",
+      "description": "Interned at Perlitz Strategy Group GmbH & Co. KG, acquired by Advyce",
+      "location": null,
+      "start": "2015-06",
+      "end": "2015-08",
+      "dateRange": "Jun 2015 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Fundraising and Partner Management - Voluntary Civil Service",
+      "company": "Schüler Helfen Leben",
+      "companyUrl": "https://www.linkedin.com/company/schueler-helfen-leben",
+      "description": "Co-organized fundraising event with 80.000 participants, raising €1.5m for children in need",
+      "location": null,
+      "start": "2013-07",
+      "end": "2014-08",
+      "dateRange": "Jul 2013 – Aug 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M. Sc., Management & Technology (Entrepreneurship and Computer Science)",
+      "dateRange": null
+    },
+    {
+      "school": "TUM Entrepreneurial Masterclass",
+      "degree": "Master Thesis",
+      "dateRange": null
+    },
+    {
+      "school": "Nova School of Business and Economics",
+      "degree": "Graduate exchange, Finance and Business Intelligence",
+      "dateRange": null
+    },
+    {
+      "school": "University of Mannheim",
+      "degree": "B. Sc., Business Administration",
+      "dateRange": null
+    },
+    {
+      "school": "Chulalongkorn University",
+      "degree": "Undergraduate exchange, Strategy and Entrepreneurship",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Management",
+    "Negotiation",
+    "Leadership",
+    "Public Speaking",
+    "Strategy",
+    "Team Management",
+    "Team Leadership",
+    "Finance",
+    "Start-ups",
+    "Financial Analysis",
+    "Entrepreneurship",
+    "Project Management",
+    "Product Management",
+    "Business Strategy",
+    "Teamwork",
+    "Venture Capital",
+    "Fundraising",
+    "Start-up Ventures",
+    "Design Thinking",
+    "Corporate Finance",
+    "Software-Integration",
+    "Wireframing",
+    "Financial modelling",
+    "UX-Design",
+    "Optimierung von Geschäftsabläufen",
+    "Strategische Partnerschaften",
+    "Lean Start-Up",
+    "Gewinn- und Verlustrechnung",
+    "Unternehmensgründung",
+    "Software-Development",
+    "strategic planning",
+    "Financial Modelling",
+    "Strategic planning"
+  ],
+  "languages": [
+    "Englisch",
+    "Deutsch"
+  ],
+  "company": {
+    "name": "Tanso",
+    "tagline": "Carbon accounting & ESG data management software for manufacturing companies",
+    "description": "Tanso is the ESG and carbon accounting software that industrial companies in DACH rely on to compete and comply in carbon-sensitive sectors. The Tanso platform enables companies to meet customer requests and regulatory requirements in sustainability, ensuring data management to the highest standards through structured, audit-proof processes. With TÜV Rheinland-certified methodology, Tanso is trusted by over 300 industrial customers across automotive, mechanical engineering, food and chemicals to strengthen their competitive position in sustainability and ESG performance.\n\nMore information about Tanso: www.tanso.de",
+    "industry": "Software Development",
+    "website": "https://www.tanso.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/tansotechnologies",
+    "employeeCount": 72,
+    "foundedYear": 2021,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Software",
+      "Carbon accounting",
+      "CO2 accounting",
+      "Software development",
+      "CO2 management",
+      "Carbon management",
+      "Climate Intelligence"
+    ]
+  }
+}

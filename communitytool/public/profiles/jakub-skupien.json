@@ -1,0 +1,115 @@
+{
+  "id": "jakub-skupien",
+  "name": "Jakub Skupien",
+  "headline": "EE @TUM | CDTM",
+  "avatar": {
+    "sm": "/avatars/jakub-skupien-sm.webp",
+    "lg": "/avatars/jakub-skupien.webp",
+    "blur": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAADwBQCdASogACAAPtFepk6oJSMiKAqpABoJYgDKAYsQs3cgHLfRE9jfkwLG+GdhPMzMh6B/voSDEAD+83jvUAygxTHilJ0uo9dfObT3TsOvlPITXudScUH2gogaTgwdj4QuSGGkib98IIc0FAvSQ8OdmxXggUuyXRtHWlbMoO7Z1NzcbIa3JVJmEAvLAwOpB7RXUQuI+7O92B6tFt5MbnSYqQ9cTdQW3uNseRVRKxS7yzzTFdwUMPFpdTdNyQAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jakub-skupien",
+  "personId": 2017,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Electrical Engineering & Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jakub Skupien",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Operations Intern / R&D Working Student",
+      "company": "ecoplanet",
+      "companyUrl": "https://www.linkedin.com/company/ecoplanet-green-operations",
+      "description": "In the operations role I have applied my technical background to facilitate quality assurance, stakeholder communication, and project documentation during critical final phases of utility IoT hardware rollout.\nAs a working student in the innovation team, I engineered prototypes for local battery storage systems for optimizing energy consumption and reducing operational costs.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-03",
+      "end": "2025-08",
+      "dateRange": "Mar 2025 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Rohde & Schwarz",
+      "companyUrl": "https://www.linkedin.com/company/rohde-schwarz",
+      "description": "Conducted measurements and evaluation of analog RF hardware for telecommunications measurement equipment.\nConducted tests and commissioning of amplifier circuits.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-03",
+      "end": "2024-11",
+      "dateRange": "Mar 2024 – Nov 2024",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Lauterbach GmbH",
+      "companyUrl": "https://www.linkedin.com/company/lauterbach-gmbh",
+      "description": null,
+      "location": "Höhenkirchen-Siegertsbrunn, Bavaria, Germany",
+      "start": "2022-08",
+      "end": "2024-03",
+      "dateRange": "Aug 2022 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Tutor for maths intoductory course for electrical engineering students",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-08",
+      "end": "2022-10",
+      "dateRange": "Aug 2022 – Oct 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Electrical Engineering and Information Technology, Electrical and Electronics Engineering",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "National Taiwan University",
+      "degree": "International Exchange Program, Electrical and Electronics Engineering",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2024"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "ecoplanet",
+    "tagline": "Günstigste Energiepreise & innovatives Energiemanagement für den deutschen Mittelstand",
+    "description": "ecoplanet ist die weltweite erste Software für integriertes Energiemanagement: Verbrauchssteuerung, intelligente Beschaffung und Regulatorik an einem Ort & KI-basiert optimiert.\n\nMit einem großen Team aus Energieexpert:innen, Produkttalenten und Branchenprofis treiben wir die Energiewende im Mittelstand voran.\n\n📍 Offices in Berlin & München | ✉️ info@ecoplanet.tech",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.ecoplanet.tech",
+    "linkedInUrl": "https://www.linkedin.com/company/ecoplanet-green-operations",
+    "employeeCount": 109,
+    "foundedYear": 2022,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

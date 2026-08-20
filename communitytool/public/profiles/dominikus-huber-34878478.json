@@ -1,0 +1,158 @@
+{
+  "id": "dominikus-huber-34878478",
+  "name": "Dominikus Huber",
+  "headline": "Medical Oncologist meets Economist.\n\nChief Medical Officer Bavarian Biotech GmbH.",
+  "avatar": null,
+  "location": "Vienna, Austria",
+  "linkedInUrl": "https://www.linkedin.com/in/dominikus-huber-34878478",
+  "personId": 1832,
+  "classes": [
+    {
+      "id": 64,
+      "label": "Fall 2008",
+      "season": "Fall",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2008",
+  "major": "Economics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Dominikus Huber",
+  "ca": null,
+  "summary": "Passionate doctor and economist by training with several years of experience as project manager who's vision is digital healthcare that leads to a higher quality of human interaction and medical aid.",
+  "positions": [
+    {
+      "title": "Resident Physician",
+      "company": "Barmherzige Brüder Österreich",
+      "companyUrl": "https://www.linkedin.com/company/barmherzige-brueder-europa-mitte",
+      "description": null,
+      "location": "Vienna, Austria",
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief Medical Officer",
+      "company": "Bavarian Biotech GmbH",
+      "companyUrl": "https://www.linkedin.com/company/bavbio",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Assistenzarzt",
+      "company": "Medizinische Universität Wien",
+      "companyUrl": "https://www.linkedin.com/company/medizinische-universitat-wien",
+      "description": "Assistenzarzt an der Universitätsklinik für Innere Medizin I in der Ausbildung zum internistschen Onkologen und Hämatologen.\n\nAbgeschlossene Sonderfachgrundausbildung Innere Medizin.\n\nÖÄK Diplom Genetik, Grundkurs Herz-Echo und Notfallsonographie\n\nJeweils 6 Monate Ausbildung den den Kliniken für Nephrologie, Gastroenterologie und Notfallmedizin.",
+      "location": "Vienna, Austria",
+      "start": "2019-11",
+      "end": "2025-04",
+      "dateRange": "Nov 2019 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "Projektmanagement",
+      "company": "Energy and petroleum Resources Services",
+      "companyUrl": null,
+      "description": "Building a database and a statistical model to aide determining the crude oil value for export contracts of PDVSA, Venezuela's state-owned oil and natural gas company, based on timeseries data.",
+      "location": "Vienna, Austria",
+      "start": "2011-01",
+      "end": "2011-08",
+      "dateRange": "Jan 2011 – Aug 2011",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Europaparlament",
+      "companyUrl": null,
+      "description": "Assistant to Alexander Radwan, MEP and his office. Preparing short briefings and synopsis to various topicswith particular focus on small and medium enterprises.",
+      "location": "Arrondissement of Brussels-Capital, Brussels Region, Belgium",
+      "start": "2007-02",
+      "end": "2007-03",
+      "dateRange": "Feb 2007 – Mar 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Medical University of Vienna",
+      "degree": "Doctor of Philosophy - PhD, Clinical Oncology",
+      "dateRange": "2021 – 2026"
+    },
+    {
+      "school": "Medical University of Vienna",
+      "degree": "Dr.med.univ., Medicine",
+      "dateRange": "2011 – 2019"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom, Volkswirtschaftslehre",
+      "dateRange": "2005 – 2010"
+    },
+    {
+      "school": "University of Washington",
+      "degree": "Undergraduate Diploma in Economics, Economics",
+      "dateRange": "2007 – 2008"
+    }
+  ],
+  "skills": [
+    "Teamwork",
+    "Organization Skills",
+    "Healthcare",
+    "Following Up",
+    "Prevention",
+    "Politische Kommunikation",
+    "Europapolitik",
+    "Interkulturelle Sensibilität",
+    "Business-Analyse",
+    "Englisch",
+    "Kommunikation",
+    "Akademisches Schreiben",
+    "Wissenschaftliches Schreiben",
+    "Spieltheorie",
+    "Erdölwirtschaft",
+    "Datenbankverwaltung",
+    "Statistische Datenanalyse",
+    "Projektabwicklung",
+    "Medizinische Einrichtungen",
+    "Medizinische Grundversorgung",
+    "Elektronische Patientenakte (ePA)",
+    "Patientensicherheit",
+    "Direkte Patientenbetreuung",
+    "Patientenzufriedenheit",
+    "Qualitätsorientierte Patientenversorgung",
+    "Projektplanung",
+    "Projektmanagement",
+    "Praxisverwaltung",
+    "Gute klinische Praxis (GCP)",
+    "Ultraschall",
+    "Innere Medizin",
+    "Allgemeinmedizin",
+    "Gute Laborpraxis (GLP)"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Barmherzige Brüder Europa Mitte | Österreich",
+    "tagline": "Gutes tun und es gut tun - seit über 400 Jahren",
+    "description": "Die Barmherzigen Brüder führen in Österreich rund 30 Einrichtungen im Gesundheits- und Sozialbereich und beschäftigen mehr als 7.500 Mitarbeitende. Die Ordensprovinz Europa Mitte umfasst darüber hinaus auch noch Einrichtungen in Bayern, der Slowakei, Tschechien und Ungarn.",
+    "industry": "Hospitals and Health Care",
+    "website": "https://www.barmherzige-brueder.eu/",
+    "linkedInUrl": "https://www.linkedin.com/company/barmherzige-brüder-österreich",
+    "employeeCount": 245,
+    "foundedYear": 1605,
+    "location": "Wien, Austria",
+    "specialities": []
+  }
+}

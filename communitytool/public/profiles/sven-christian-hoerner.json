@@ -1,0 +1,139 @@
+{
+  "id": "sven-christian-hoerner",
+  "name": "Sven-Christian Hörner",
+  "headline": "Max Planck Net Zero Lab | CDTM | Brookfield | TUM",
+  "avatar": {
+    "sm": "/avatars/sven-christian-hoerner-sm.webp",
+    "lg": "/avatars/sven-christian-hoerner.webp",
+    "blur": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAACQBgCdASogACAAPtFYpUyoJSOiKA1RABoJZADA8QAKoFBR7h+/rT7Xfjd6wEcnnnrveunwL53ki2a88qoAAP7nG95x38Dzh+aSYbMC4SvhP/oBMdi+JpdzG/47uGUxM7THjOmJULskdAacWrID3kI4wdg/pc2cBajgH/ohYDDW5MVylxUz17ROGleT8W09OqtNlOaejFL8m9tu05ePJ1Npn5Z8Kbq7wRUmJDHxooCY0WYECaZHcKUHM8k5J5fmGoYb7RwtbeseadNBGvLZBZphlggAE4V7rZ+IAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sven-christian-hoerner",
+  "personId": 2091,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Bioeconomy",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sven-Christian Hörner",
+  "ca": null,
+  "summary": "Passionate about climate change, renewable energy, biotechnology, and alternative investments. \n\n2+ years experience in early-stage investing, infrastructure investing, and sustainability. Currently pursuing a graduate degree at the Technical University of Munich, majoring in Biotechnology. Undergraduate degree in Economics at the University of St.Gallen & Berkeley.",
+  "positions": [
+    {
+      "title": "Research Assistant",
+      "company": "Max Planck Net Zero Lab",
+      "companyUrl": "https://www.linkedin.com/company/net-zero-lab-–-max-planck-institute-for-innovation-and-competition",
+      "description": "Research on carbon markets",
+      "location": null,
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Asset Management",
+      "company": "Brookfield",
+      "companyUrl": "https://www.linkedin.com/company/brookfield",
+      "description": "Renewable Power & Transition",
+      "location": "London, United Kingdom",
+      "start": "2025-05",
+      "end": "2025-07",
+      "dateRange": "May 2025 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "CEO Office",
+      "company": "Scalable Capital",
+      "companyUrl": "https://www.linkedin.com/company/scalable-capital",
+      "description": "ESG strategy & product development",
+      "location": "Munich, Germany",
+      "start": "2024-04",
+      "end": "2025-02",
+      "dateRange": "Apr 2024 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Investment Associate",
+      "company": "Stealth",
+      "companyUrl": "https://www.linkedin.com/company/steath",
+      "description": "Launching a venture fund in partnership with a Swiss family office",
+      "location": "Berlin, Germany",
+      "start": "2023-04",
+      "end": "2024-04",
+      "dateRange": "Apr 2023 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Strategy & Operations",
+      "company": "Samara",
+      "companyUrl": "https://www.linkedin.com/company/besana-energia",
+      "description": "Scaling clean energy solutions for Spain’s energy transition",
+      "location": "Madrid, Spain",
+      "start": "2022-05",
+      "end": "2023-02",
+      "dateRange": "May 2022 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Investor",
+      "company": "Pelion Green Future",
+      "companyUrl": "https://www.linkedin.com/company/peliongreenfuture",
+      "description": "Renewable energy infrastructure & technology investing",
+      "location": "Munich, Germany",
+      "start": "2022-01",
+      "end": "2023-03",
+      "dateRange": "Jan 2022 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Impact Investing",
+      "company": "asc impact",
+      "companyUrl": "https://www.linkedin.com/company/asc-impact",
+      "description": "Investing in reforestation projects in Sub-Saharan Africa",
+      "location": "Berlin, Germany",
+      "start": "2020-10",
+      "end": "2021-07",
+      "dateRange": "Oct 2020 – Jul 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "MS, Bioeconomy",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2025"
+    },
+    {
+      "school": "University of St.Gallen",
+      "degree": "BA, Economics",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student, Economics",
+      "dateRange": "2021"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": null
+}

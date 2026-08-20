@@ -1,0 +1,144 @@
+{
+  "id": "krauth",
+  "name": "Felix Krauth",
+  "headline": "growing (at) 🪢 langfuse",
+  "avatar": {
+    "sm": "/avatars/krauth-sm.webp",
+    "lg": "/avatars/krauth.webp",
+    "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAABQBQCdASogACAAPtFWpkuoJKOhqA1RABoJQAB8bO/f4ggtSiZ0gkJuV++04hT7PdD6wQAA/v6rIVL1049qBHtPBhpZw4FHd/USROhsQtt9Uo+VlngU9nbZJoFd5l3xKUOXumXaH+jwhAQg46LnaDzD+yKCSOj7BukCgmnrrnqmQ0x7K425sKPDAuJ9iZp4/tsOzvfhSZN9tNiHMmR1ltKJ5pelYEesYnWo3WM7BiGmmDp9pOArtwCJO89XJs/LoMQq7jhiNihDAnpkg5AA+Cdzva/NA9AAAAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/krauth",
+  "personId": 901,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Architecture",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Felix Krauth",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Growth",
+      "company": "Langfuse (YC W23)",
+      "companyUrl": "https://www.linkedin.com/company/langfuse",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2025-05",
+      "end": null,
+      "dateRange": "May 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Investor",
+      "company": "Tendos.ai",
+      "companyUrl": "https://www.linkedin.com/company/tendos-ai",
+      "description": null,
+      "location": null,
+      "start": "2024-07",
+      "end": null,
+      "dateRange": "Jul 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & CEO",
+      "company": "sento.io",
+      "companyUrl": "https://www.linkedin.com/company/sentohq",
+      "description": "We built the data integration layer for logistics heavy consumer brands. Raised €12M including from Insight Partners. Business sold to Markant AG.",
+      "location": "Metropolregion München",
+      "start": "2020-11",
+      "end": "2025-04",
+      "dateRange": "Nov 2020 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2019-08",
+      "end": "2020-10",
+      "dateRange": "Aug 2019 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": "München",
+      "start": "2018-08",
+      "end": "2019-08",
+      "dateRange": "Aug 2018 – Aug 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Hons. Degree, Technology Management",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visting Student Researcher, Informatik",
+      "dateRange": "2019"
+    },
+    {
+      "school": "Université de Montréal",
+      "degree": "Exchange Year, Architektur",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Arts - BA  (top 5%), Architektur",
+      "dateRange": "2014 – 2019"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Langfuse",
+    "tagline": "Open Source LLM Engineering Platform (now part of ClickHouse)",
+    "description": "Langfuse is the 𝗺𝗼𝘀𝘁 𝗽𝗼𝗽𝘂𝗹𝗮𝗿 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲 𝗟𝗟𝗠𝗢𝗽𝘀 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺. It helps teams collaboratively develop, monitor, evaluate, and debug AI applications.\n\nLangfuse can be 𝘀𝗲𝗹𝗳-𝗵𝗼𝘀𝘁𝗲𝗱 in minutes and is battle-tested and used in production by thousands of users from YC startups to large companies like Khan Academy or Twilio. Langfuse builds on a proven track record of reliability and performance.\n\nDevelopers can trace any Large Language model or framework using our SDKs for Python and JS/TS, our open API or our native integrations (OpenAI, Langchain, Llama-Index, Vercel AI SDK). Beyond tracing, developers use 𝗟𝗮𝗻𝗴𝗳𝘂𝘀𝗲 𝗣𝗿𝗼𝗺𝗽𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁, 𝗶𝘁𝘀 𝗼𝗽𝗲𝗻 𝗔𝗣𝗜𝘀, 𝗮𝗻𝗱 𝘁𝗲𝘀𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝗲𝘃𝗮𝗹𝘂𝗮𝘁𝗶𝗼𝗻 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 to improve the quality of their applications.\n\nProduct managers can 𝗮𝗻𝗮𝗹𝘆𝘇𝗲, 𝗲𝘃𝗮𝗹𝘂𝗮𝘁𝗲, 𝗮𝗻𝗱 𝗱𝗲𝗯𝘂𝗴 𝗔𝗜 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀 by accessing detailed metrics on costs, latencies, and user feedback in the Langfuse Dashboard. They can bring 𝗵𝘂𝗺𝗮𝗻𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗹𝗼𝗼𝗽 by setting up annotation workflows for human labelers to score their application. Langfuse can also be used to 𝗺𝗼𝗻𝗶𝘁𝗼𝗿 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗿𝗶𝘀𝗸𝘀 through security framework and evaluation pipelines.\n\nLangfuse enables 𝗻𝗼𝗻-𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘁𝗲𝗮𝗺 𝗺𝗲𝗺𝗯𝗲𝗿𝘀 to iterate on prompts and model configurations directly within the Langfuse UI or use the Langfuse Playground for fast prompt testing.\n\nLangfuse is 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲 and we are proud to have a fantastic community on Github and Discord that provides help and feedback. Do get in touch with us!",
+    "industry": "Software Development",
+    "website": "https://langfuse.com",
+    "linkedInUrl": "https://www.linkedin.com/company/langfuse",
+    "employeeCount": 19,
+    "foundedYear": 2022,
+    "location": "San Francisco, United States",
+    "specialities": [
+      "Langfuse",
+      "Large Language Models",
+      "Observability",
+      "Prompt Management",
+      "Evaluations",
+      "Testing",
+      "Open Source",
+      "LLM",
+      "AI",
+      "Analytics",
+      "Open Source",
+      "Artificial Intelligence"
+    ]
+  }
+}

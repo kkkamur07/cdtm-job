@@ -1,0 +1,235 @@
+{
+  "id": "katharinavk",
+  "name": "Katharina Kramer",
+  "headline": "Director Product Management @ Occhio",
+  "avatar": {
+    "sm": "/avatars/katharinavk-sm.webp",
+    "lg": "/avatars/katharinavk.webp",
+    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAADQBQCdASogACAAPr1Sn0unJSMht/qoAOAXiWIAwzWLv/K2VWmbCWtCovdYqWCdQtikCLaVSnQAAP79987L/65SzdNhsvZW95sS1zf69i3EtV2mOxHPcJvBw5/lRYZCsDY/ZW8CzOsuyp1R8trs8HJ7XeosPrtRdi1pXENgf12m6Fn9BhTnfD+IpxalzLbJPoT6e7kaOVi687eK2wZRm1U87ck79vy+gHrXFIm8AUKf4etFZruI6EpTsJHG85BP2B7RX9ijB+iTB4Z/TM/BnWsF3l+2Ys0ZoXZZRC+01T6Zu5REUNMMDMJOj+ZqjSCgAAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/katharinavk",
+  "personId": 773,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Katharina Verena Kramer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Director Product Management",
+      "company": "Occhio GmbH",
+      "companyUrl": "https://www.linkedin.com/company/occhio-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Strategy & Transformation",
+      "company": "Occhio GmbH",
+      "companyUrl": "https://www.linkedin.com/company/occhio-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2024-03",
+      "end": "2025-09",
+      "dateRange": "Mar 2024 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Partnerships & Growth Lead",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": "Reported to the CEO, driving growth especially through consultancy and technology partners.",
+      "location": null,
+      "start": "2023-10",
+      "end": "2024-03",
+      "dateRange": "Oct 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Strategic Partnerships & Venture Development",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": "Defined and developed partnerships as a new sales channel sales and acquired partnerships quickly driving a majority of sales.",
+      "location": null,
+      "start": "2022-09",
+      "end": "2023-09",
+      "dateRange": "Sep 2022 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Investment Associate",
+      "company": "Cusp Capital",
+      "companyUrl": "https://www.linkedin.com/company/cuspcapital",
+      "description": "Cusp Capital is a Venture Capital fund (AUM €300m)  led by the investors in Zalando, Delivery Hero, Klarna, Scalable Capital, Sumup, and more. \n1. Focussed on analysis of climate tech (esp. carbon measurement & reduction, carbon sequestration, spacial monitoring, biodiversity) and health tech.\n2. Opened the Berlin office and supported investment and diligence processes throughout all stages.",
+      "location": null,
+      "start": "2021-08",
+      "end": "2022-08",
+      "dateRange": "Aug 2021 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Analyst | Donor Government Partnerships",
+      "company": "Gates Foundation",
+      "companyUrl": "https://www.linkedin.com/company/bill-&-melinda-gates-foundation",
+      "description": "1. Supported finding, analysing, and creating partnership opportunities in development aid projects for climate change, global food security, and technological innovation in Africa\n2. Helped build a Digitalisation in Africa accelerator with the giz (German Development Agency)",
+      "location": null,
+      "start": "2020-02",
+      "end": "2020-04",
+      "dateRange": "Feb 2020 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Consultant | MIT Sloan School - Center for Collective Intelligence",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "1. Lead consulting projects for Takeda and Deloitte to create intelligent innovation units.\n2. Initiated and scaled a new “Plastics CoLab” platform in cooperation with University of  Massachusetts Boston and The Global Alliance to End Plastic Waste. Created two new challenges on the Climate CoLab Platform to crowdsource climate change ideas with the UN to present the best solutions for climate resilience at COP.",
+      "location": null,
+      "start": "2019-02",
+      "end": "2020-01",
+      "dateRange": "Feb 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Co-Founder | Sustainable AI",
+      "company": "Harvard University",
+      "companyUrl": "https://www.linkedin.com/company/harvard-university",
+      "description": "1. Co-Founded Sustainable AI - measuring carbon offset of the rainforest more reliably via drones. Won the MIT IDEAS Challenge, Microsoft's AI for Earth funding, and MIT's entrepreneurship center grant.\n2. Scaled and build partnerships with companies for handprinter.org - a platform gamifying sustainable action - with a Harvard Professor for Life Cycle Assessment.",
+      "location": null,
+      "start": "2019-02",
+      "end": "2020-01",
+      "dateRange": "Feb 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "M&A Advisory",
+      "company": "KPMG",
+      "companyUrl": "https://www.linkedin.com/company/kpmg",
+      "description": "Supported the M&A Advisory team on one of the biggest transactions in the agribusiness (Bayer acq. Monsanto - USD 66bn, all-cash deal).",
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-03",
+      "dateRange": "Jan 2018 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Developed a Hololense application to support Alzheimers patients.",
+      "location": null,
+      "start": "2017-05",
+      "end": "2017-08",
+      "dateRange": "May 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "adidas",
+      "companyUrl": "https://www.linkedin.com/company/adidas",
+      "description": "Developed new business cases on creating and sustaining healthy habits.",
+      "location": null,
+      "start": "2017-02",
+      "end": "2017-04",
+      "dateRange": "Feb 2017 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Westwing",
+      "companyUrl": "https://www.linkedin.com/company/westwing-home-&-living",
+      "description": "Developed dynamic pricing models for different product categories and analyzed and adapted the structure of the website to improve sales conversion.",
+      "location": null,
+      "start": "2016-08",
+      "end": "2016-10",
+      "dateRange": "Aug 2016 – Oct 2016",
+      "current": false
+    },
+    {
+      "title": "Project Management",
+      "company": "Start2 Group",
+      "companyUrl": "https://www.linkedin.com/company/start2group",
+      "description": "Community management of the LMU Entrepreneurship Center cohort, organizing Europes largest student-run hackathon hack@night, and developing its social media marketing.",
+      "location": null,
+      "start": "2015-10",
+      "end": "2015-12",
+      "dateRange": "Oct 2015 – Dec 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Master Innovation, Strategy & Organisation (Judge Business School)",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor's degree, Business Administration and Management",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "IE University",
+      "degree": "Exchange Semester, Business Administration",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Le Wagon",
+      "degree": "Full Stack Web-Development",
+      "dateRange": "2020"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "German",
+    "English",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Occhio GmbH",
+    "tagline": "We create a new culture of light. Join the team – find our vacancies here: http://karriere.occhio.com",
+    "description": "Occhio stands for outstanding design, unique lighting quality and »joy of use« at the highest level – and thus for a new culture of light. Founded in 1999 by designer and entrepreneur Axel Meise, the company started with an idea that was as simple as it was revolutionary: to create a lighting system that is consistent in design and lighting quality and that offers the optimal solution for every spatial requirement – thus allowing people to become the lighting designers of their living space. Consistent in design and lighting quality, Occhio connects rooms and makes it possible to design entire buildings with light of the highest quality –whether in the private or commercial sector.\n\nToday, Occhio is one of the most innovative and fastest growing companies and has developed from a German design icon to an international brand in the luxury segment. With its headquarters in the heart of Munich, Occhio today employs over 250 people. It is distributed through more than 500 lighting and interior design retail partners as well as through the company's own flagship stores in Munich, Cologne, Hamburg, Berlin, Milan, London and Shanghai.",
+    "industry": "Design Services",
+    "website": "http://www.occhio.com",
+    "linkedInUrl": "https://www.linkedin.com/company/occhio-gmbh",
+    "employeeCount": 262,
+    "foundedYear": 1999,
+    "location": "München, Germany",
+    "specialities": [
+      "LED with highest quality of light",
+      "timeless design",
+      "high voltage halogen",
+      "low voltage halogen",
+      "modularity",
+      "CRI 97",
+      "different lighting effects with one luminaire",
+      "colour filters",
+      "lens"
+    ]
+  }
+}

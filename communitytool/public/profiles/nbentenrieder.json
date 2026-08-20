@@ -1,0 +1,227 @@
+{
+  "id": "nbentenrieder",
+  "name": "Nico Bentenrieder",
+  "headline": "Founder at Tacto - We are hiring!",
+  "avatar": {
+    "sm": "/avatars/nbentenrieder-sm.webp",
+    "lg": "/avatars/nbentenrieder.webp",
+    "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADQBQCdASogACAAPslSoUunpKMht/VYAPAZCUAToDGI5VbGd44t7kf8X4C2KSDhov/QzvtCD8AAAP7+MB+L9u3wV7nxaa9sG6cJAqh0Cf6VNO6l0S46iOPNKLu2Nj6A2TMfmFseuF7UjTnugbXSNPFKpWYvYtqT+PRSYD4NsRybFH/aL0DhYZH3e7CHKFPKF3SQVPPSJ97I7m0m3ea0iOVv9EHUDx4YYrXQMVmxkeo9Vk42Yjux2N5nLDzJa9kHWLn/Rld2Ne1zoHtcGXZ1N4pZmU2T/h74V7VVckV99lKT9bJgAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/nbentenrieder",
+  "personId": 982,
+  "classes": [
+    {
+      "id": 82,
+      "label": "Fall 2017",
+      "season": "Fall",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2017",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Nico Bentenrieder",
+  "ca": null,
+  "summary": "I like to be up to date with the latest technological progress and play around with its implications. It is key to understand the way technologies work in order to see the full potential and to be able to create tools that unfold it. Progress in AI, Web3, Robotics, Space, etc. will lead to exciting innovations.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-01",
+      "end": null,
+      "dateRange": "Jan 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer - Modular Robot Interface",
+      "company": "RobCo",
+      "companyUrl": "https://www.linkedin.com/company/robco-therobotcompany",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-04",
+      "end": "2019-12",
+      "dateRange": "Apr 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineer - Digital Exam System",
+      "company": "Hochschule München",
+      "companyUrl": "https://www.linkedin.com/company/hochschule-muenchen",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2020-01",
+      "dateRange": "Jan 2018 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Autonomous Driving Architecture",
+      "company": "Argo AI",
+      "companyUrl": "https://www.linkedin.com/company/argo-ai",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-01",
+      "end": "2018-08",
+      "dateRange": "Jan 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": null,
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2017 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Autonomous Driving & New Mobility Concepts",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-07",
+      "end": "2017-10",
+      "dateRange": "Jul 2015 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Advance Development eMobility",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2014-06",
+      "end": "2014-11",
+      "dateRange": "Jun 2014 – Nov 2014",
+      "current": false
+    },
+    {
+      "title": "Founder's Associate to CTO",
+      "company": "Sonim Technologies",
+      "companyUrl": "https://www.linkedin.com/company/sonim-technologies",
+      "description": null,
+      "location": "China, India, Germany",
+      "start": "2013-09",
+      "end": "2014-02",
+      "dateRange": "Sep 2013 – Feb 2014",
+      "current": false
+    },
+    {
+      "title": "IT",
+      "company": "taskforce - Management on Demand AG",
+      "companyUrl": "https://www.linkedin.com/company/taskforce-management-on-demand-ag",
+      "description": null,
+      "location": null,
+      "start": "2012-09",
+      "end": "2013-08",
+      "dateRange": "Sep 2012 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "HOERBIGER",
+      "companyUrl": "https://www.linkedin.com/company/hoerbiger",
+      "description": null,
+      "location": null,
+      "start": "2010-09",
+      "end": "2010-11",
+      "dateRange": "Sep 2010 – Nov 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Informatics (Specialization: Robotics & AI)",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Udacity",
+      "degree": "Self-Driving Car Nanodegree",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Udacity",
+      "degree": "Deep Learning Foundation",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Hochschule München University of Applied Sciences",
+      "degree": "Master of Engineering (M.Eng.), Engineering and Business Administration",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Strascheg Center for Entrepreneurship",
+      "degree": "Academic Program for Entrepreneurship",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Max Weber-Program of the State of Bavaria",
+      "degree": "Scholarship",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Hochschule München University of Applied Sciences",
+      "degree": "Bachelor of Engineering (B.Eng.), Engineering and Business Administration",
+      "dateRange": "2011 – 2015"
+    }
+  ],
+  "skills": [
+    "Projektmanagement",
+    "Start-ups",
+    "Business Development",
+    "Design Thinking",
+    "Entrepreneurship",
+    "Business Strategy",
+    "Teamwork",
+    "Programmierung",
+    "Unternehmertum",
+    "Innovation management",
+    "3D Print",
+    "Engineering",
+    "Coding",
+    "Strategy Development",
+    "Arduino",
+    "International",
+    "Project Management",
+    "Python",
+    "Vue.js",
+    "Node.js"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Tacto",
+    "tagline": "Stronger Procurement. Stronger Company. Stronger Future.",
+    "description": "The world is getting more complex and dynamic than ever before. China, climate, elections, trade wars, bureaucracy. Yet manufacturing, our hidden gem, is struggling to evolve. \n\nOften overlooked: the supply chain. Hundreds of tightly interconnected suppliers, thousands of production-critical parts, global dependencies. Yet procurement is expected to manage this complexity with Excel and Outlook, static ERP systems, and outdated supplier data. That no longer works.\n\nMore than 50% of the cost of a physical product is created in the supply chain. Competitive manufacturing therefore starts in procurement. AI offers the opportunity to optimally balance time, cost, and quality in procurement.\n\nThat’s why Tacto is building the first Procurement Intelligence Platform for industrial companies: not another workflow tool, but a system that creates transparency, delivers actionable recommendations, and enables execution - with procurement as the decision-maker at the center.\n\nPowered by Tacto Intelligence, you see your procurement operations at a glance: KPIs, suppliers, and real-time order and material movements. In the background, Tacto connects your ERP data with external market data to form the Procurement Brain. On top of that, AI agents automate manual work, identify risks and savings opportunities, and provide precise recommendations. Automated workflows turn these signals into action - delivering measurable results: lower costs, better quality, and higher availability.",
+    "industry": "Software Development",
+    "website": "https://www.tacto.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/tactotechnology",
+    "employeeCount": 152,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

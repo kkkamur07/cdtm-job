@@ -1,0 +1,317 @@
+{
+  "id": "brendanfennessy",
+  "name": "Brendan Fennessy",
+  "headline": "Engineer of Change | Tech x Culture x Capital | $200K+ Exec Roles or Co-Founder Projects Welcome",
+  "avatar": {
+    "sm": "/avatars/brendanfennessy-sm.webp",
+    "lg": "/avatars/brendanfennessy.webp",
+    "blur": "data:image/webp;base64,UklGRkoBAABXRUJQVlA4ID4BAADQBgCdASogACAAPtFaqE4oJKQiKAqpABoJbACdL9XWAO7Az7ET5hY+dvSskNgjukRPW6j9hcedG9SE3NCuPEAA/oMq8ZSkZbi+HOE2bMgyRJ/q9c3rHBFEdEF4vxpBdbkD9iy79jzOCz3lsNJF5zaVOlaPIr3+Z4cxv+ip7HWA+3pFxNI+Y5bWsfXA8ZgI67HadviU35xkKeEvP7WzY1uTbD5Qlh7PyLu+atO9miWpRjKHU8vX18PT4+nfZ1+So1gtwb0TjvX2wExkunOoBKqNbrva8W+YPup1nhQotYyTEcFIpHJxw/XwWfcSlMNc5ARO1IbHvWlfTvaixxrCCAtKhqqLob097E3bln/Npj7xjOfAc99gkPdwD7B+7knfctRzmMYXxeGS4tjnwA0qMPCAtDtepVtkim7Y3S9EAAA="
+  },
+  "location": "Boulder, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/brendanfennessy",
+  "personId": 1182,
+  "classes": [
+    {
+      "id": 74,
+      "label": "Fall 2013",
+      "season": "Fall",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2013",
+  "major": "Power Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Brendan Fennessy",
+  "ca": null,
+  "summary": "I am a visionary leader with a passion for leveraging technology to drive positive change and innovation. My extensive experience in managing multidisciplinary teams and navigating complex international environments has equipped me with the skills necessary to tackle significant challenges head-on. Whether it's pioneering cutting-edge solutions or advocating for strategic initiatives, I am driven by a desire to make a tangible impact on global issues. My ability to translate complex technical concepts into actionable strategies and my knack for fostering collaborative environments make me a valuable asset in any managerial or political context.\n\nI have track record of driving transformative initiatives in change management across various sectors, and fostering innovation from SOFC Research at TU Delft to Change Management at Marriot Hotels international, whether implementing technical code to conducting workshops using Quality Management Tools.\n\nMy professional life is a hobby so I can focus on on my passions and to be honest problem solving can be pretty fun, especially on a team with great people, otherwise it's rather boring. One significant area I invest in is re-establishing rights for indigenous and native people to flourish and teach us how to care for Mother Earth and build more sustainable human relations, in addition to being a meditation teacher.",
+  "positions": [
+    {
+      "title": "Entrepreneur Strategic Initiatives",
+      "company": "Select Private Capital *",
+      "companyUrl": null,
+      "description": "Demonstrating adaptability and global impact, diverse engagement spanning cultural immersion, advocacy for indigenous communities, independent tech projects",
+      "location": "Boulder County, Colorado, United States",
+      "start": "2022-02",
+      "end": "2026-03",
+      "dateRange": "Feb 2022 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "Chief Product Officer",
+      "company": "GovRadar",
+      "companyUrl": "https://www.linkedin.com/company/govradar",
+      "description": "Accountable for product development, government affairs, live site deployment, ensuring alignment with investment strategy and technical requirements\n\nManaged product expectations and development, code reviews, live site deployment. On the investment and strategy side, managed demos, supported investor and strategic partner meetings, investment strategy, and technical support. Served as interim CTO and managed the product side as I onboarded my successor. Hired and managed a development team in Laravel PHP and migrated the code to the T Mobile Cloud(Similar to AWS).",
+      "location": "Munich & Berlin",
+      "start": "2020-09",
+      "end": "2021-07",
+      "dateRange": "Sep 2020 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Wirelane GmbH",
+      "companyUrl": "https://www.linkedin.com/company/wirelane",
+      "description": "Project Lead for autonomous robotic charging development, fostering external company relations and budgeting effort, workshops on embedded systems & development tasks\n\nDeveloped electric vehicle charging stations through managing embedded systems \t\tdevelopment tasks in Azure DevOps, evaluating technical requirements from international and national normative documents to drive test driven development efforts (OCPP 1.6/2.0, IEC 61851, ISO15118), and defining UI/UX strategy and utilizing systemic design. Additionally, I served as Project Lead for autonomous robotic charging development (External Company Relations, Budgeting, Neural Network \t\tTraining, International Live Demos, Autonomous Charging Vision)",
+      "location": "Berlin, Berlin, Germany",
+      "start": "2019-04",
+      "end": "2020-02",
+      "dateRange": "Apr 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Web Engineer | Product Mgmt",
+      "company": "KREATIZE GmbH",
+      "companyUrl": "https://www.linkedin.com/company/kreatize-gmbh",
+      "description": "Developed state-of-the-art manufacturing matching processes utilizing agile management while working in parallel in the engineering team as in full stack web development (SQL / NodeJS / Vue / React).",
+      "location": "Berlin",
+      "start": "2018-01",
+      "end": "2019-03",
+      "dateRange": "Jan 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "MotionWerk GmbH",
+      "companyUrl": "https://www.linkedin.com/company/motionwerk-gmbh",
+      "description": "Managed an agile development team working on Share&Charge, what some have called \"The Air BnB of Charging Stations\". My goal was removing range-anxiety for electric vehicle users and empowering the grid with the most advanced boundary-less electric vehicle charging network, and it happens to be an interesting application of block-chain. \n\nApplied systemic thinking in Ethereum-based Smart Contracts and Blockchain Embedded Systems, while developing new business models at the intersection of e-Mobility and Energy. Oversaw international block-chain regulations on cryptocurrency, B2B value-creation, and integration with power balancing and trading companies (e.g. utilities).",
+      "location": "Essen Area, Germany",
+      "start": "2017-09",
+      "end": "2017-11",
+      "dateRange": "Sep 2017 – Nov 2017",
+      "current": false
+    },
+    {
+      "title": "M.Sc Thesis: \"Smart Community Market Model based on Sustainability Metrics\"​",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Ever hear of optimizing a supply and demand curve utilizing autonomous bid agents with minimal ML to enable localized renewable energy economies? \n\nLehrstuhl für Energiewirtschaft und Anwendungstechnik (Chair for Energy Economics and Applied Technology)\n\nMotivated by my vision of changing how the world consumes energy, I developed my own topic on smart communities driven by local accountability and sustainability. Through incorporating sustainability feedback, the urgent climate change and renewable energy goals could be handled from bottom-up approach. Thus, the goal of this thesis is to develop an economic model based on sustainability. Through the use of a dynamic pricing mechanism, smart homes could locally trade RES and data autonomously in a community, assuming a proper communication protocol is established.  The evaluated system realizes the possibility to: responsive sustainability-based pricing, autonomous bid negotiation (machine-learning), high level of user financial satisfaction, a greater level of local sustainability, and integration to the existing power markets.",
+      "location": null,
+      "start": "2016-01",
+      "end": "2016-07",
+      "dateRange": "Jan 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Part Time - Internationalization",
+      "company": "KONUX",
+      "companyUrl": "https://www.linkedin.com/company/konux",
+      "description": "Assisted the internationalization effort through differentiating US and German market, generating business-leads, setting business meetings and preparing for trade shows.",
+      "location": "Munich Area, Germany",
+      "start": "2015-03",
+      "end": "2015-05",
+      "dateRange": "Mar 2015 – May 2015",
+      "current": false
+    },
+    {
+      "title": "Researcher - Power Electronics",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Model Predictive Control of AC/DC/AC Converters: Researched new methods in model predictive control for back-to-back converters to facilitate the integration and control of renewable energies into the electrical grid.",
+      "location": null,
+      "start": "2014-11",
+      "end": "2015-04",
+      "dateRange": "Nov 2014 – Apr 2015",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher - Solid Oxide Fuel Cells",
+      "company": "TU Delft",
+      "companyUrl": "https://www.linkedin.com/company/tudelft",
+      "description": "Managed the integration of a Solid-Oxide Fuel Cell (SOFC) into a biomass gasifier from in-house SOFC Test Rig hardware development,  Visilogic PLC coding, developing an operational manual for running SOFC tests with Post-doctorates in the TU-Delft labs, concluding with a techno-economic evaluation for the start-up Gensos.",
+      "location": "Delft Area, Netherlands",
+      "start": "2014-09",
+      "end": "2014-11",
+      "dateRange": "Sep 2014 – Nov 2014",
+      "current": false
+    },
+    {
+      "title": "Working Student - Technical Writing",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Editied research papers in the field of renewable energies and emerging business models.",
+      "location": null,
+      "start": "2014-04",
+      "end": "2014-07",
+      "dateRange": "Apr 2014 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "Consultant - Business Development",
+      "company": "STYLIGHT GmbH",
+      "companyUrl": "https://www.linkedin.com/company/stylight",
+      "description": "Investigated new revenue streams and business models based on market research, customer and business partner interviews, and interdisciplinary ideation and that could allow Stylight to push the boundaries of fashion inspiration and purchasing through generating an offline revenue stream and integrating it into their current online revenue stream.",
+      "location": "Munich Area, Germany",
+      "start": "2014-04",
+      "end": "2014-07",
+      "dateRange": "Apr 2014 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "Consultant - Strategy",
+      "company": "Kellogg-Recanati Executive MBA program",
+      "companyUrl": "https://www.linkedin.com/company/kellogg-recanati-executive-mba-program",
+      "description": "Consulted with a medium-sized Telecom company with international teams in Munich’s Center Digital technology and Management and one in Tel Aviv’s Recanati School of Business to provide key market insights accompanied by a European Market Entry Strategy to aggressively gain market shares for one of their product lines.",
+      "location": "Tel Aviv, Israel",
+      "start": "2013-10",
+      "end": "2014-05",
+      "dateRange": "Oct 2013 – May 2014",
+      "current": false
+    },
+    {
+      "title": "Consultant - Innovation",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Developed a functional prototype and business plan for an indoor navigation use case after going through full design cycle in a small interdisciplinary team, which concluded with documentation of technical and financial specifications for a potential product launch.",
+      "location": "Munich Area, Germany",
+      "start": "2013-10",
+      "end": "2014-01",
+      "dateRange": "Oct 2013 – Jan 2014",
+      "current": false
+    },
+    {
+      "title": "Consultant - Quality Assurance",
+      "company": "GE Aviation",
+      "companyUrl": "https://www.linkedin.com/company/geaerospace",
+      "description": "Consulted in an interdisciplinary team to renovate the quality management process for aircraft engine nacelle design through conducting interviews across all levels of the GE department, process mapping, quality tools, establishing new tracking methodologies, and employee training guidelines based upon Lean Six Sigma and Kanban ideologies.",
+      "location": "Middler River, MD",
+      "start": "2012-09",
+      "end": "2012-12",
+      "dateRange": "Sep 2012 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Social Innovation Lead",
+      "company": "PART Design Consultancy",
+      "companyUrl": "https://www.linkedin.com/company/part-design-consultancy",
+      "description": "Lead social innovation projects, including rebuilding parts of the local community to working with non-profits to promote outdoor conservation, health and wellness. PART is a start-up that enjoys a diverse multiplicity of projects, from electronics to education and food to finance with a team built on curiosity. “Curiosity leads to discovery, and discovery leads to innovation.”",
+      "location": null,
+      "start": "2012-06",
+      "end": "2013-06",
+      "dateRange": "Jun 2012 – Jun 2013",
+      "current": false
+    },
+    {
+      "title": "Engineering Leadership Internship",
+      "company": "National Instruments",
+      "companyUrl": "https://www.linkedin.com/company/niglobal",
+      "description": "Developed an embedded system demonstration of solar cell monitoring, that served as  continual user education on the cRIO platform with the use of Labview and Labview FPGA while receiving my NI - CLAD Certification, and served as customer support.",
+      "location": "Austin, TX",
+      "start": "2012-06",
+      "end": "2012-08",
+      "dateRange": "Jun 2012 – Aug 2012",
+      "current": false
+    },
+    {
+      "title": "Consultant - Quality Assurance",
+      "company": "Marriott International",
+      "companyUrl": "https://www.linkedin.com/company/marriott-international",
+      "description": "Consulted in in an interdisciplinary team with the HR Deparment at Marriot’s World Headquarters to renovate the onboarding and transfer process of associates through conducting interviews across all levels of Marriott, mapping the current processes, targeting key responsibility and communication errors, and optimizing the process with guidelines for employee integration, while receiving the Six Sigma Green Belt.",
+      "location": "Bethesda, MD",
+      "start": "2011-09",
+      "end": "2011-12",
+      "dateRange": "Sep 2011 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Assistant Researcher - Psychoacoustics",
+      "company": "Neural Systems Lab University of Maryland",
+      "companyUrl": "https://www.linkedin.com/company/university-of-maryland",
+      "description": "Researched psychoacoustics and the neural physiological processing of rhythm in the field of auditory neuroscience at the Neural Systems Lab (ISR) to hypothesize and and run an experiment correlating neural spike trains in the auditory cortex to physical rhythms developed in Matlab, through a National Science Foundation’s Biosystems in Engineering Program grant that concluded with an experimental technical paper, a comprehensive critical review of research, and ethics in science and technology training.",
+      "location": "College Park, MD",
+      "start": "2011-05",
+      "end": "2011-08",
+      "dateRange": "May 2011 – Aug 2011",
+      "current": false
+    },
+    {
+      "title": "Leadership Council",
+      "company": "Outdoor Nation",
+      "companyUrl": "https://www.linkedin.com/company/outdoor-nation",
+      "description": "Worked with grant allocation across many partner programs and developing national strategy with other NGO, as well as being personally awarded for a seed grant in 2012 to merge service and recreation in the outdoors. Additionally, lobbied for the Land and Water Conservation Fund, as put in place by the honorable Theodore Roosevelt, in front of Congress Members for legislation promoting the use, education, and availability of the outdoors as a member on the leadership council of the NGO Outdoor Nation, while receiving training from senior lobbyists.",
+      "location": null,
+      "start": "2010-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2010 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Summer Internship",
+      "company": "BAE Systems IT",
+      "companyUrl": "https://www.linkedin.com/company/baesystemsinc",
+      "description": "Supported data collection from the ARGUS-IS testing process at civilian and military facilities and helped to coordinate working schedules of interns for two consecutive summers",
+      "location": "Columbia, MD",
+      "start": "2009-05",
+      "end": "2010-08",
+      "dateRange": "May 2009 – Aug 2010",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Allen & Shariff Corporation",
+      "companyUrl": "https://www.linkedin.com/company/allen-&-shariff-corporation",
+      "description": "Edited and revised electrical diagrams for HVAC, lighting, receptacles, and emergency power for commercial building, while creating a digital database of building blueprints.",
+      "location": "Columbia, Maryland",
+      "start": "2008-09",
+      "end": "2009-04",
+      "dateRange": "Sep 2008 – Apr 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Computer/Information Technology Administration and Management",
+      "dateRange": "2013 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's of Science, Power Engineering",
+      "dateRange": "2013 – 2017"
+    },
+    {
+      "school": "University of Maryland - Robert H. Smith School of Business",
+      "degree": "Innovation and Quality Management Honors Degree",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "University of Maryland",
+      "degree": "Electrical Engineering, International Engineering, Power Engineering",
+      "dateRange": "2009 – 2012"
+    }
+  ],
+  "skills": [
+    "Certified LabVIEW Associate Developer",
+    "Basic German",
+    "Power Electronics",
+    "International Engineering",
+    "Environmental Lobbying",
+    "Eagle Scout",
+    "Six Sigma Green Belt",
+    "Consulting",
+    "R&D",
+    "Team Leadership",
+    "Environmental Awareness",
+    "Labview",
+    "Six Sigma",
+    "Leadership",
+    "Matlab",
+    "Testing",
+    "Engineering",
+    "Technical Writing",
+    "Electronics",
+    "Science"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": null
+}

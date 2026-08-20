@@ -1,0 +1,135 @@
+{
+  "id": "michael-schadhauser-13549064",
+  "name": "Michael Schadhauser",
+  "headline": "CTO at Range",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/michael-schadhauser-13549064",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "CTO",
+      "company": "Range",
+      "companyUrl": "https://www.linkedin.com/company/range-org",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-09",
+      "end": null,
+      "dateRange": "Sep 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "CTO",
+      "company": "Scanworks",
+      "companyUrl": "https://www.linkedin.com/company/scanworks-org",
+      "description": null,
+      "location": null,
+      "start": "2022-09",
+      "end": null,
+      "dateRange": "Sep 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Developer",
+      "company": "Selbstständig",
+      "companyUrl": "https://www.linkedin.com/company/selbstst-ndig_14",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2016-04",
+      "end": "2022-08",
+      "dateRange": "Apr 2016 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Jonas Better Place GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-03",
+      "end": "2016-03",
+      "dateRange": "Mar 2015 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Software Consultant",
+      "company": "TNG Technology Consulting",
+      "companyUrl": "https://www.linkedin.com/company/tng-technology-consulting",
+      "description": null,
+      "location": "München",
+      "start": "2014-01",
+      "end": "2015-02",
+      "dateRange": "Jan 2014 – Feb 2015",
+      "current": false
+    },
+    {
+      "title": "Member of the Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2012-08",
+      "end": "2013-05",
+      "dateRange": "Aug 2012 – May 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Bavarian EliteAcademy",
+      "degree": null,
+      "dateRange": "2011 – 2012"
+    },
+    {
+      "school": "Technische Universität München",
+      "degree": "Diploma, Physics",
+      "dateRange": "2006 – 2012"
+    },
+    {
+      "school": "Luitpold-Gymnasium München",
+      "degree": "Allgemeine Hochschulreife, Math and Economics",
+      "dateRange": "1997 – 2006"
+    },
+    {
+      "school": "Round Valley High School",
+      "degree": null,
+      "dateRange": "2003 – 2004"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Range",
+    "tagline": "The stablecoin risk and intelligence platform.",
+    "description": "Range is the leading intelligence and risk platform for cross-chain stablecoin infrastructure, trusted by the Solana Foundation, Circle, Stellar, dYdX, Squads and more. We provide the compliance, risk, and routing systems required to manage and move digital assets safely across blockchains.\n\nUsed by fintechs, asset issuers and custodians, our platform acts as the system of record for digital asset treasuries, aggregating balances, transactions, and counterparties across wallets, custodians, exchanges, and blockchains. This unified intelligence layer gives finance, risk, and operations teams a real-time view of their onchain assets and transaction flows.\n\nThrough Faraday, our transaction engine, Range enables policy-aware routing of stablecoin payments with embedded real-time risk monitoring and compliance enforcement.\n​\nWhether you're building programmable treasuries or privacy flows, Range helps ensure they're safe, compliant, and ready for scale. Learn more at range.org.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.range.org/",
+    "linkedInUrl": "https://www.linkedin.com/company/range-org",
+    "employeeCount": 18,
+    "foundedYear": 2022,
+    "location": "Zug, Switzerland",
+    "specialities": [
+      "Security",
+      "Blockchain",
+      "Digital Assets",
+      "Forensics",
+      "Financial Technology",
+      "Smart Contracts"
+    ]
+  }
+}

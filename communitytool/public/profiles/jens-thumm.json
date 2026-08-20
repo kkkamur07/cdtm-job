@@ -1,0 +1,191 @@
+{
+  "id": "jens-thumm",
+  "name": "Jens Wax (Thumm)",
+  "headline": "Co-Founder & CEO at Predium Technology GmbH | Fighting climate change by reducing building emissions",
+  "avatar": {
+    "sm": "/avatars/jens-thumm-sm.webp",
+    "lg": "/avatars/jens-thumm.webp",
+    "blur": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAADQBQCdASogACAAPsFMoEunpCMht/qoAPAYCWQAVsBb6cqtNFuaSeJXuutm8P2gdLLh+1gkHyAAAP7+ev8Ib2zXll/I1g/YbpEHhE7iDOktZrxUd0K3C726PWBYkOWD4P64+9TIbZ5TLF2ijsP92fJx1OOZCDYdk+FoZI83uqeafmLNDWzYwihaN3Wt3rGeDPhA2kuc6hw0Dql+SGH24ve7kzlAEH/2CqY2+D+jAz6zB9CNslB2li1gNJ7h/BefvsdGFRaIJrjywILoWVMWAsa5FaiZKFpIqMtW60jyD5GcI+ciPq3CPc/jM7ops/PTnXwnFIJZMiWwRHUZ7Bl7Q3rCzmOWnoJIAAA="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jens-thumm",
+  "personId": 818,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Jens Thumm",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Predium",
+      "companyUrl": "https://www.linkedin.com/company/predium-technology",
+      "description": "Die Plattform für nachhaltiges und profitables Immobilienmanagement.",
+      "location": null,
+      "start": "2021-01",
+      "end": null,
+      "dateRange": "Jan 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Sales Team Lead",
+      "company": "remberg",
+      "companyUrl": "https://www.linkedin.com/company/remberg",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2019 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Mount Everest Three Passes Winter Trek (selfguided)",
+      "company": "Sagarmatha National Park",
+      "companyUrl": null,
+      "description": "Sagarmatha - Cho La Pass.jpg",
+      "location": null,
+      "start": "2018-12",
+      "end": "2019-01",
+      "dateRange": "Dec 2018 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "New Business Development",
+      "company": "zooplus",
+      "companyUrl": "https://www.linkedin.com/company/zooplus-se",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-03",
+      "end": "2018-10",
+      "dateRange": "Mar 2018 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "New Business Development",
+      "company": "Allianz Insurance",
+      "companyUrl": "https://www.linkedin.com/company/allianz-insurance-plc",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-12",
+      "end": "2018-03",
+      "dateRange": "Dec 2017 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Technology Consulting",
+      "company": "Capgemini Consulting",
+      "companyUrl": "https://www.linkedin.com/company/capgemini-invent",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-08",
+      "end": "2017-10",
+      "dateRange": "Aug 2017 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Management Consulting",
+      "company": "EY",
+      "companyUrl": "https://www.linkedin.com/company/ernstandyoung",
+      "description": "Munich",
+      "location": null,
+      "start": "2016-04",
+      "end": "2016-07",
+      "dateRange": "Apr 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Voith GmbH",
+      "companyUrl": "https://www.linkedin.com/company/voithgroup",
+      "description": "Heidenheim",
+      "location": null,
+      "start": "2015-07",
+      "end": "2015-12",
+      "dateRange": "Jul 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Project Management",
+      "company": "Allianz Worldwide Partners",
+      "companyUrl": "https://www.linkedin.com/company/allianz-partners",
+      "description": "Munich",
+      "location": null,
+      "start": "2014-12",
+      "end": "2015-05",
+      "dateRange": "Dec 2014 – May 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Business Administration",
+      "dateRange": null
+    },
+    {
+      "school": "Texas Tech University - Rawls College of Business",
+      "degree": "Semester abroad - Entrepreneurship and Management",
+      "dateRange": null
+    },
+    {
+      "school": "Universitat Politècnica de València (UPV)",
+      "degree": "Semester abroad - International Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, BUSINESS, MANAGEMENT, MARKETING, AND RELATED SUPPORT SERVICES",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Project Management",
+    "Agile Methodologies",
+    "Product Development",
+    "Strategy",
+    "Consulting",
+    "Business Planning",
+    "Design Thinking",
+    "Workshop Moderation"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Predium",
+    "tagline": "Effective capital decisions in the real estate industry",
+    "description": "Manage your real estate portfolio with foresight. With Predium’s Real Estate Intelligence Platform, decision-makers gain clarity and confidence at a glance. Understand your property portfolio holistically and identify where your capital delivers the greatest value - both economically and sustainably.",
+    "industry": "Software Development",
+    "website": "https://www.predium.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/predium-technology",
+    "employeeCount": 58,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

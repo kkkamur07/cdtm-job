@@ -1,0 +1,117 @@
+{
+  "id": "tarak-a-552078312",
+  "name": "Tarak A.",
+  "headline": "FINN | Tacto | CDTM",
+  "avatar": {
+    "sm": "/avatars/tarak-a-552078312-sm.webp",
+    "lg": "/avatars/tarak-a-552078312.webp",
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAABQBgCdASogACAAPtFcpEyoJSOiMBgIAQAaCWQAnTLab0Ez4lEF3uDi+R++nk+eKWwEZpEp/aIAPJmrwAD+/Nns72hVLQu/M8XzZiTqTdZqDAJnU00WmwDXZksLfccREqaUVy6XdHu0m5C1JQ0brwSh0h0S37tJa+lg4PwpDG0q8g66CgGn+vlZLZzREiCjShxAqm94kNxFO3d0qnb6Cbp98o3cOfKVJLSJLnrXdZKtHjOQIgCpmMuPQDZjw9fmWz+nyZ596yf0Ow/nIfIW6139SQt8nTgwWs3TzhL2/HyVawjWVBr0ZHgA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/tarak-a-552078312",
+  "personId": 2125,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Finance and Information Management",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Tarak Amouri",
+  "ca": null,
+  "summary": "-",
+  "positions": [
+    {
+      "title": "Senior Manager, Revenue Operations",
+      "company": "FINN",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2023 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Data",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2022 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Data",
+      "company": "CHECK24 Vergleichsportal GmbH",
+      "companyUrl": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "AI",
+      "company": "TNG Technology Consulting",
+      "companyUrl": "https://www.linkedin.com/company/tng-technology-consulting",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Mathematics",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "FINN",
+    "tagline": "FINN Car Subscription – We drive change for people, organizations and the planet through frictionless mobility.",
+    "description": "At FINN our mission is to drive change for people, organizations and the planet through frictionless mobility: We help everyone who loves driving their own car but refuses the struggle, commitment and intransparent costs associated with car ownership. We achieve this by offering all-inclusive, immediately available, monthly car-subscriptions. Best thing, yet: FINN provides a more sustainable mobility option through funding climate protection projects.",
+    "industry": "Consumer Services",
+    "website": "https://bit.ly/3kcW8yi",
+    "linkedInUrl": "https://www.linkedin.com/company/finn-auto",
+    "employeeCount": 592,
+    "foundedYear": 2019,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Mobilität",
+      "Autos",
+      "Ecommerce",
+      "Leasing",
+      "Flottenmanagement",
+      "Digitale Produkte"
+    ]
+  }
+}

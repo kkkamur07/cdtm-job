@@ -1,0 +1,158 @@
+{
+  "id": "maximilian-roedel-938142",
+  "name": "Maximilian Roedel",
+  "headline": "Co-Founder @ Vantis GmbH | ex-Amazon | CDTM",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/maximilian-roedel-938142",
+  "personId": 1603,
+  "classes": [
+    {
+      "id": 53,
+      "label": "Spring 2003",
+      "season": "Spring",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Maximilian Rödel",
+  "ca": null,
+  "summary": "I’m co-founder at Vantis, working on one problem: how to deliver better primary care for people with chronic conditions. Before Vantis, I built and led teams at Amazon, Swarovski and in consulting – always at the intersection of data, operations and products.\n\nOver time, three principles have emerged for me\n-\tLong-term owner: I care about long-term impact, not short-term wins. I am comfortable making tough calls in light of the long-term vision.\n-\tLearning machine: I hold myself accountable, and let facts and feedback win over ego. This raises the bar for my product, the team and myself.\n-\tFast, but not loose: I ship fast when we need speed, and I’m uncompromising on quality where safety, regulation or trust are on the line. \n\nOutside of work, I apply the same mindset. Alpine rock climbing and freediving are my ways to explore limits: deliberate preparation, clear decisions under pressure, and constant learning from small mistakes before they become big ones. This keeps me grounded.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Vantis",
+      "companyUrl": "https://www.linkedin.com/company/vantis-gmbh",
+      "description": "Vantis is a technology driven primary care provider with focus on patients with chronic diseases. Check it out: https://vantis-praxis.de",
+      "location": null,
+      "start": "2020-08",
+      "end": null,
+      "dateRange": "Aug 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Automated Inventory Management",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": "Pioneered the automation of inventory management through big data for Amazon in EU (>30 business lines, >10mn SKUs per country, >10bn USD inventory). Defined a routine to manage product availability and root-cause every out of stock website click automatically. Operated product availability across >100 departments and in peak time on a daily cadence. Led an initiative to improve product availability for US, EU, JP and new markets worth >1bn USD bottom line improvement.",
+      "location": null,
+      "start": "2017-09",
+      "end": "2020-07",
+      "dateRange": "Sep 2017 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Head of panEU Apparel SCM",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": "Redesigned Amazon’s approach for buying long lead time, seasonal items to optimize for total season performance. Scaled the new planning approach from EU Apparel to EU Shoes. Together with several reporting/ system/ supply chain improvements, this improved the healthy of inventory lifting margins by x00bps while improving out of stock by 20%. Established a new panEU team spanning across country silos.",
+      "location": null,
+      "start": "2016-02",
+      "end": "2017-09",
+      "dateRange": "Feb 2016 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Head of Demand & Inventory",
+      "company": "SWAROVSKI",
+      "companyUrl": "https://www.linkedin.com/company/swarovski",
+      "description": "Established an S&OP routine to transform an overproduction culture into a lean inventory culture. Upgraded inventory systems, particularly forecasting, the target inventory model, and a multi-echelon model for semi-finished products. This reduced inventory value by 39% at the same product availability. Rebuilt the team and coached it to high performance.",
+      "location": null,
+      "start": "2013-05",
+      "end": "2016-01",
+      "dateRange": "May 2013 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Project Manager",
+      "company": "Strategy&",
+      "companyUrl": "https://www.linkedin.com/company/strategyand",
+      "description": "Project manager of teams with three consultants and up to ten clients mostly in Central and Eastern Europe. Specialized in\n- Growth strategies, e.g. global market assessment for an equipment manufacturer including market sizing, customer segmentation, market assessment, market entry strategy and M&A strategy; designing and launching several convergence products in the telecommunications industry\n- Optimization, e.g. green-field development of a postal last mile delivery from designing postal addresses to defining the operations strategy; optimizing customer management in the telecommunications industry\n- Private equity: various market side due diligence",
+      "location": null,
+      "start": "2007-03",
+      "end": "2013-05",
+      "dateRange": "Mar 2007 – May 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl.-Kfm., Business Administration/ Computer Science",
+      "dateRange": "2001 – 2007"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "PhD / Dr., Finance, General",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": "Visiting Researcher, Inflation Headging",
+      "dateRange": "2011"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Exchange Student, Business and Information Systems",
+      "dateRange": "2004"
+    },
+    {
+      "school": "The Hong Kong University of Science and Technology",
+      "degree": "Exchange Student, Business and Computer Science",
+      "dateRange": "2003"
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": "n/a, Chinese",
+      "dateRange": "2006 – 2007"
+    },
+    {
+      "school": "Dalian University of Foreign Languages",
+      "degree": "n/a, Chinese",
+      "dateRange": "2006"
+    }
+  ],
+  "skills": [
+    "Strategy",
+    "Business Development",
+    "Due Diligence",
+    "Asset Management",
+    "Supply Chain Management",
+    "Project Management",
+    "Business Strategy",
+    "Management Consulting",
+    "Business Process Improvement",
+    "Program Management",
+    "Change Management",
+    "Organizational Design",
+    "Business Transformation",
+    "Sales & Operations Planning"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese (Simplified)"
+  ],
+  "company": {
+    "name": "Vantis",
+    "tagline": "Digitale Behandlungsmethoden mit persönlicher ärztlicher Betreuung vor Ort.",
+    "description": "Bei Vantis stehen wir an vorderster Front der medizinischen Innovation. Mit einem starken Fokus auf Technologie und chronischen Krankheiten arbeiten wir daran, die traditionelle Gesundheitsversorgung radikal zu verbessern.\n\nWie machen wir das? Durch die Kombination digitaler Behandlungswege und einer maßgeschneiderten, patientenzentrierten Versorgung vor Ort.",
+    "industry": "Outpatient Care Centers",
+    "website": "http://www.vantis-health.com",
+    "linkedInUrl": "https://www.linkedin.com/company/vantis-gmbh",
+    "employeeCount": 40,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

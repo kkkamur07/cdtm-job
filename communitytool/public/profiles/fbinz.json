@@ -1,0 +1,182 @@
+{
+  "id": "fbinz",
+  "name": "Felicitas Binz",
+  "headline": "Product @Luminai",
+  "avatar": {
+    "sm": "/avatars/fbinz-sm.webp",
+    "lg": "/avatars/fbinz.webp",
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAAAQBgCdASogACAAPrlMnUunJKKht+gA4BcJQBhQZYMMFMk8g/fv+4rIMA/Jv5+u1fonvLOaLw8f1AAA/v4v2qh//DYUqSi3rLc5WB0l2u7/Da1t38nyZr7Po4xVSssgHhJYdv4dyBtaDlsBLrym4fxovYBxbKgo8U2WdpLxnrdP7DlYtOizwZiuwhYH7f7/LK++3GWZSDGfuT+UHNUr4P+6o3rVm2aSUxDNiL9e2CIPVW/U9ohghkrM2ogavYls9qvqNo1piZO7HQDPR17jXao65IWe54PEKur7OrhPUz8UEWDcGgodbQAA"
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/fbinz",
+  "personId": 1148,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "M.Sc. Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Felicitas Binz",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Building",
+      "company": "Stealth",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2025-12",
+      "end": null,
+      "dateRange": "Dec 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Product",
+      "company": "Luminai",
+      "companyUrl": "https://www.linkedin.com/company/luminai1",
+      "description": "Task automation for Healthcare",
+      "location": null,
+      "start": "2023-02",
+      "end": "2025-11",
+      "dateRange": "Feb 2023 – Nov 2025",
+      "current": false
+    },
+    {
+      "title": "Founding Team",
+      "company": "cocoon.community",
+      "companyUrl": "https://www.linkedin.com/company/cocoon-community",
+      "description": "Passion project: together with a couple of friends, we are building a community of women in startups to offer equal chances for learning, entering, and thriving in the ecosystem.\nPlease reach out if you are interested or want to exchange about female empowerment.\n\nBecome a partner: https://www.cocoon.community/partners",
+      "location": null,
+      "start": "2021-11",
+      "end": "2025-12",
+      "dateRange": "Nov 2021 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "VC",
+      "company": "HV Capital",
+      "companyUrl": "https://www.linkedin.com/company/hvcapital",
+      "description": "Since 2000 HV has been investing in internet and technology companies across several fund generations and is one of the most successful, experienced, and well-financed early-stage and growth investors in Europe.\n\n- I was part of the early-stage team focussing on B2B SaaS & DevOps.",
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "10x Founders",
+      "companyUrl": "https://www.linkedin.com/company/10x-founders",
+      "description": "10x Founders is a network-driven investor backed by over 200 entrepreneurs and angels. We focus on Pre/Seed (sometimes Series A) rounds of the best & most ambitious tech founders and back them to build global tech leaders out of Europe.\n\n- Developed a web application enabling a founder-centric fundraising process and entrepreneurial sparring.",
+      "location": null,
+      "start": "2020-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Demodesk",
+      "companyUrl": "https://www.linkedin.com/company/demodesk",
+      "description": "Demodesk (YC W19) is the first fully cloud-based online meeting platform that lets you share your screen through a 100% web-based virtual desktop. We redefine screen sharing for Inside Sales and Customer Success teams, make conferencing painless and automate scheduling & preparation to help you sell more and increase customer retention.\n\n- Growth & RevOps: conceptualized, implemented, and maintained a lead database, ABM initiatives and Deomdesk's revenue motion.\n- Was part of the company from pre-seed to series A.",
+      "location": null,
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Consulting",
+      "company": "KPMG",
+      "companyUrl": "https://www.linkedin.com/company/kpmg",
+      "description": "- Project member in a carve-out strategy project for an international household appliance company.",
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Quality Management Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2018-02",
+      "end": "2018-08",
+      "dateRange": "Feb 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Operations",
+      "company": "Pioniergeist GmbH",
+      "companyUrl": "https://www.linkedin.com/company/pioniergeist",
+      "description": "Startup hub and company builder. Corporate partners include: Daimler, Porsche, Bosch, EnBW, VfB Stuttgart, and Stihl",
+      "location": null,
+      "start": "2018-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2018 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Mechanical Engineering - Center for Design Research VSR",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management & Technology",
+      "dateRange": null
+    },
+    {
+      "school": "The University of Hong Kong",
+      "degree": "International Business",
+      "dateRange": null
+    },
+    {
+      "school": "Pforzheim University",
+      "degree": "Bachelor of Science - BS, International Business",
+      "dateRange": null
+    },
+    {
+      "school": "Condé",
+      "degree": "Foundation Year, Applied Arts",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Teamwork",
+    "Microsoft PowerPoint",
+    "Microsoft Access"
+  ],
+  "languages": [
+    "Französisch",
+    "Deutsch",
+    "Spanisch",
+    "Englisch"
+  ],
+  "company": null
+}

@@ -1,0 +1,218 @@
+{
+  "id": "marliawaty",
+  "name": "Marliawaty I",
+  "headline": "Computational Neuroscience @MIT | Technology Management @CDTM | NeuroAI @EPFL",
+  "avatar": null,
+  "location": "Lausanne, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/marliawaty",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Research Assistant",
+      "company": "EPFL",
+      "companyUrl": "https://www.linkedin.com/company/epfl",
+      "description": "Research focused on the intersection of AI and neuroscience by examining the generalization abilities of ANNs and primate IT neurons.",
+      "location": "Lausanne, Waadt, Schweiz",
+      "start": "2024-07",
+      "end": "2025-06",
+      "dateRange": "Jul 2024 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Dewi Health",
+      "companyUrl": null,
+      "description": "Awarded with the Innogrant by EPFL (Lausanne) and the EXIST Scholar (Germany). \nCo-founded a blended care software platform for therapists and patients, serving as Chief Product Officer alongside two co-founders. \nOn the therapist side, we automated documentation and progress tracking, while on the patient side, we supported individuals between sessions with exercises and personalized meditations designed to accelerate therapeutic outcomes.",
+      "location": "Lausanne, Waadt, Schweiz",
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "National Director of Programmes",
+      "company": "Nucleate Germany",
+      "companyUrl": "https://www.linkedin.com/company/nucleategermany",
+      "description": "Nucleate is a global non-profit organization that empowers the next generation of biotech leaders and facilitates the formation of pioneering biotech companies. Unified, Nucleate is building the world’s largest educational organization for the next generation of bioentrepreneurs, biotech leaders, and venture capitalists.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-01",
+      "end": "2023-07",
+      "dateRange": "Jan 2023 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Visiting Research Scientist",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "DiCarlo Lab - Reverse Engineering Vision\nComputational Neuroscience | Deep Learning \nMentor: Martin Schrimpf\nPI: Jim DiCarlo",
+      "location": "Cambridge, Massachusetts, Vereinigte Staaten von Amerika",
+      "start": "2021-10",
+      "end": "2023-08",
+      "dateRange": "Oct 2021 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Juniorberater",
+      "company": "UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/unternehmertum",
+      "description": null,
+      "location": "Garching bei München, Bayern, Deutschland",
+      "start": "2020-10",
+      "end": "2021-09",
+      "dateRange": "Oct 2020 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Student Internship",
+      "company": "Sopra Steria",
+      "companyUrl": "https://www.linkedin.com/company/soprasteria",
+      "description": "Creation of AI-based solutions in the telecommunications industry through the development of prototypes",
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-07",
+      "dateRange": "Apr 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "company": "Graduate School of Systemic Neurosciences - LMU Munich",
+      "companyUrl": "https://www.linkedin.com/company/gsn-lmu-munich",
+      "description": "In the laboratory of Prof. Laura Busse in the field of Behavioral Neuroscience.\nPlanning and designing an experimental set up to examine history effects during the decision-making process of mice.\nData modelling using self-written algorithms in Python.",
+      "location": "München, Bayern",
+      "start": "2019-11",
+      "end": "2020-04",
+      "dateRange": "Nov 2019 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Graduate Student Research Assistant",
+      "company": "Graduate School of Systemic Neurosciences - LMU Munich",
+      "companyUrl": "https://www.linkedin.com/company/gsn-lmu-munich",
+      "description": "In the laboratory of Prof. Dr. Andreas Herz in the field of Computational Neuroscience. \nAnalyzing, evaluating and visualizing datasets from a time estimation experiment with gerbils using self-written computer algorithms in Python.",
+      "location": "München, Bayern",
+      "start": "2019-02",
+      "end": "2019-09",
+      "dateRange": "Feb 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Master-Student",
+      "company": "Graduate School of Systemic Neurosciences - LMU Munich",
+      "companyUrl": "https://www.linkedin.com/company/gsn-lmu-munich",
+      "description": null,
+      "location": null,
+      "start": "2018-10",
+      "end": "2023-03",
+      "dateRange": "Oct 2018 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Undergraduate Research Assistant",
+      "company": "Graduate School of Systemic Neurosciences - LMU Munich",
+      "companyUrl": "https://www.linkedin.com/company/gsn-lmu-munich",
+      "description": "In the laboratory of Prof. Dr. Straka in the field of Neuroscience. \nWorking with Xenopus leavis. Analyzing the distribution and properties of Kv1.1 potassium channel within the Vestibular Ocular Reflex arc in Xenopus leavis by measuring the discharge dynamics of extra ocular motoneurons under the influence of 4-aminopyridine.",
+      "location": "München, Bayern",
+      "start": "2018-03",
+      "end": "2019-09",
+      "dateRange": "Mar 2018 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Tutor für Mathematik/Naturwissenschaften",
+      "company": "Ludwig-Maximilians Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Unterricht von 15-20 Bachelor Biologie Studenten der LMU in Mathe.",
+      "location": "München, Bayern",
+      "start": "2016-10",
+      "end": "2020-03",
+      "dateRange": "Oct 2016 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Flugbegleiter",
+      "company": "Lufthansa",
+      "companyUrl": "https://www.linkedin.com/company/lufthansa",
+      "description": null,
+      "location": "Frankfurt am Main, Hessen",
+      "start": "2014-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2014 – Dec 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Master's thesis , Computational Neuroscience",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor Degree, Digital Technology and Management",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Graduate School of Systemic Neurosciences - LMU Munich",
+      "degree": "Master of Science - MS, Computational Neuroscienc",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Biologie, allgemein",
+      "dateRange": "2015 – 2018"
+    }
+  ],
+  "skills": [
+    "Business Intelligence",
+    "Mentoring",
+    "Englisch",
+    "Deutsch",
+    "Spanisch",
+    "Informationstechnologie",
+    "Maschinelles Lernen",
+    "Künstliche Intelligenz",
+    "Python",
+    "Matlab",
+    "TypeScript",
+    "Neurowissenschaften",
+    "Biologie",
+    "Molekularbiologie",
+    "Unterrichten",
+    "Biochemie"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "EPFL",
+    "tagline": null,
+    "description": "EPFL (Ecole Polytechnique Fédérale de Lausanne) is one of two Swiss Federal Institutes of Technology.\r\n\r\nIts location on the shores of Lake Geneva, EPFL brings together a campus of more than 10,000 people. By its novel structure, the school stimulates collaboration between students, professors, researchers and entrepreneurs. These daily interactions give rise to new and groundbreaking work in science, technology and architecture.",
+    "industry": "Higher Education",
+    "website": "http://www.epfl.ch/",
+    "linkedInUrl": "https://www.linkedin.com/company/epfl",
+    "employeeCount": 7643,
+    "foundedYear": 1853,
+    "location": "Lausanne, Switzerland",
+    "specialities": [
+      "education",
+      "research",
+      "innovation",
+      "life sciences",
+      "computer sciences",
+      "architecture"
+    ]
+  }
+}

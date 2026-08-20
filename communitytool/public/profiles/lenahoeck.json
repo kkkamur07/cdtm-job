@@ -1,0 +1,254 @@
+{
+  "id": "lenahoeck",
+  "name": "Dr. Lena Hoeck",
+  "headline": "Business Development & Strategy",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lenahoeck",
+  "personId": 1931,
+  "classes": [
+    {
+      "id": 68,
+      "label": "Fall 2010",
+      "season": "Fall",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2010",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lena Hoeck",
+  "ca": null,
+  "summary": "I am a Business Development Manager with an academic background in quantitative digital marketing and e-commerce analytics. I am passionate about (digital) products that will create a true impact on consumers’ daily lives.",
+  "positions": [
+    {
+      "title": "Lead Business Development Managerin",
+      "company": "BurdaForward",
+      "companyUrl": "https://www.linkedin.com/company/burdaforward",
+      "description": null,
+      "location": null,
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Lecturer",
+      "company": "DHBW Ravensburg",
+      "companyUrl": "https://www.linkedin.com/company/dhbw-ravensburg",
+      "description": "data science department",
+      "location": null,
+      "start": "2020-01",
+      "end": null,
+      "dateRange": "Jan 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Munich/Berlin",
+      "company": "Finanztip",
+      "companyUrl": "https://www.linkedin.com/company/finanztip",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Senior Business Development Manager",
+      "company": "BurdaForward",
+      "companyUrl": "https://www.linkedin.com/company/burdaforward",
+      "description": null,
+      "location": null,
+      "start": "2022-09",
+      "end": "2025-09",
+      "dateRange": "Sep 2022 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Head of Revenue and Business Development",
+      "company": "Finanztip",
+      "companyUrl": "https://www.linkedin.com/company/finanztip",
+      "description": null,
+      "location": null,
+      "start": "2022-03",
+      "end": "2022-09",
+      "dateRange": "Mar 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Innovation & Business Development",
+      "company": "Finanztip",
+      "companyUrl": "https://www.linkedin.com/company/finanztip",
+      "description": null,
+      "location": null,
+      "start": "2019-10",
+      "end": "2022-02",
+      "dateRange": "Oct 2019 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Researcher - Institut für E-Commerce und Digitale Märkte",
+      "company": "Ludwig-Maximilians Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Institut für E-Commerce und Digitale Märkte",
+      "location": null,
+      "start": "2014-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2014 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Projektmanager- und Accountmanager",
+      "company": "IBC - Internet Business Cluster",
+      "companyUrl": "https://www.linkedin.com/company/ibc---internet-business-cluster",
+      "description": "Munich",
+      "location": null,
+      "start": "2014-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2014 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "YOU IS NOW Startup Incubator - Deal Scouting / Partnering&Netzwerk",
+      "company": "Scout24 Holding GmbH",
+      "companyUrl": "https://www.linkedin.com/company/scout24-se",
+      "description": "Munich/Berlin",
+      "location": null,
+      "start": "2012-01",
+      "end": "2013-12",
+      "dateRange": "Jan 2012 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Markenstrategie und -kommunikation",
+      "company": "KMS TEAM",
+      "companyUrl": "https://www.linkedin.com/company/kms-team",
+      "description": null,
+      "location": null,
+      "start": "2010-02",
+      "end": "2010-04",
+      "dateRange": "Feb 2010 – Apr 2010",
+      "current": false
+    },
+    {
+      "title": "Öffentlichkeitsarbeit/PR",
+      "company": "LMU Innovation & Entrepreneurship Center",
+      "companyUrl": "https://www.linkedin.com/company/lmu-innovation-entrepreneurship-center",
+      "description": null,
+      "location": null,
+      "start": "2010-01",
+      "end": "2011-12",
+      "dateRange": "Jan 2010 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Produkt- und Contentmanagement bei Kabel BW (Unitymedia)",
+      "company": "Unitymedia GmbH",
+      "companyUrl": "https://www.linkedin.com/company/unitymedia",
+      "description": null,
+      "location": "Heidelberg, Baden-Württemberg, Germany",
+      "start": "2008-08",
+      "end": "2008-10",
+      "dateRange": "Aug 2008 – Oct 2008",
+      "current": false
+    },
+    {
+      "title": "Strategie und Content",
+      "company": "Apfel Programm Marketing GmbH & Co. KG",
+      "companyUrl": "https://www.linkedin.com/company/apfel-programm-marketing",
+      "description": null,
+      "location": null,
+      "start": "2007-01",
+      "end": "2013-12",
+      "dateRange": "Jan 2007 – Dec 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Promotion (Dr. oec. publ.), BWL | Digitales Marketing | E-Commerce",
+      "dateRange": "2014 – 2019"
+    },
+    {
+      "school": "Hanken School of Economics",
+      "degree": null,
+      "dateRange": "2014"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), BWL | Marketing & Innovation",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": null,
+      "dateRange": "2012"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degreee, Technology Management",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Business Administration and Management, General",
+      "dateRange": "2007 – 2011"
+    },
+    {
+      "school": "Université libre de Bruxelles",
+      "degree": "Erasmus Stipendiat, Business Administration and Management, General",
+      "dateRange": "2009"
+    }
+  ],
+  "skills": [
+    "New Business Development",
+    "Research",
+    "Stata",
+    "Data Analysis",
+    "Qualitative Research",
+    "Innovation Management",
+    "Entrepreneurship",
+    "Project Management",
+    "Event Management",
+    "Marketing",
+    "E-Commerce",
+    "Datenanalyse",
+    "Business Development",
+    "Forschung",
+    "Projektmanagement",
+    "Statistik",
+    "Unternehmertum",
+    "Statistics",
+    "Unternehmensberatung",
+    "Quantitative Analyse",
+    "Multichannel-Marketingstrategie",
+    "Google Analytics"
+  ],
+  "languages": [
+    "Englisch",
+    "Französisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "BurdaForward",
+    "tagline": "DAS SIND GUTE NACHRICHTEN",
+    "description": "BurdaForward - That’s good news\n\nNEWS AND SERVICES FOR MORE THAN 31 MILLION* PEOPLE  \n\nThe digital publishing house BurdaForward publishes a large number of journalistic offerings such as FOCUS Online, CHIP, Finanzen100, NetMoms HuffPost, The Weather Channel, cardscout and EFahrer.com. The portals highly appeal to their target audiences and most of them rank among the leading portals of the areas they cover.   \n     \nThe portals are marketed by the in-house advertising unit, whose portfolio also includes a large variety of other renowned offerings, including TV Spielfilm plus, XING, kununu and HolidayCheck. With more than 38 million unique users we are reaching around two thirds* of the Internet users in Germany with our network. In addition to display and video integration, our marketing approach, in particular, also has a focus on native advertising campaigns for customers and media agencies.     \n\nOur success is based on committed employees who drive innovation with passion, team spirit and creativity. Guided by a pioneering spirit, love of adventure and a wealth of new ideas we inspire each other and grow together to meet our challenges. Heart and a sense of humour are just as indispensable as good and relaxed teamwork characterised by respect, fairness and openness. \n\nWould you like to join our team? Click here to view all details about our job vacancies: http://www.burda-forward.de/karriere/ \n\nLegal Notice: http://www.burda-forward.de/impressum/ \n\n*AGOF e.V. daily digital facts 2018-09",
+    "industry": "Media Production",
+    "website": "http://www.burda-forward.de",
+    "linkedInUrl": "https://www.linkedin.com/company/burdaforward",
+    "employeeCount": 534,
+    "foundedYear": null,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

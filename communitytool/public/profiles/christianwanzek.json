@@ -1,0 +1,290 @@
+{
+  "id": "christianwanzek",
+  "name": "Christian K. Wanzek",
+  "headline": "Strategy & Finance towards Europe’s Space Autonomy",
+  "avatar": {
+    "sm": "/avatars/christianwanzek-sm.webp",
+    "lg": "/avatars/christianwanzek.webp",
+    "blur": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABQBQCdASogACAAPtFYpEyoJSOiKA1RABoJQBdgD23+DgQH7W/qn63t46z/vWGrMC9CM4AA/v14fN5MmiVQyFOCcQ8bzb1+x2G4GjQukmkCWoPEFhK+zgXVPzcNb4u1g5wlP2qCgIo5T4ZKrFzOeiCXIA3mHgA6yb66QtwzAO+L4SWKUmgmck7vqEz33TfxzQweCiW6J2u8hMwpTzfUSHjMcJAQULbqj/96FAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christianwanzek",
+  "personId": 1176,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "M.Sc. Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Christian Wanzek",
+  "ca": null,
+  "summary": "\"When the wind of change blows, some people start building walls, others are building windmills.\"",
+  "positions": [
+    {
+      "title": "Business Strategist",
+      "company": "Isar Aerospace",
+      "companyUrl": "https://www.linkedin.com/company/isaraerospace",
+      "description": "Strategy\nCorporate Development\nFinance",
+      "location": null,
+      "start": "2025-02",
+      "end": null,
+      "dateRange": "Feb 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate to CDO | IT",
+      "company": "Isar Aerospace",
+      "companyUrl": "https://www.linkedin.com/company/isaraerospace",
+      "description": null,
+      "location": null,
+      "start": "2023-03",
+      "end": "2025-01",
+      "dateRange": "Mar 2023 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Special Projects | IT",
+      "company": "Isar Aerospace",
+      "companyUrl": "https://www.linkedin.com/company/isaraerospace",
+      "description": null,
+      "location": null,
+      "start": "2022-10",
+      "end": "2023-02",
+      "dateRange": "Oct 2022 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Intern | Venture Capital",
+      "company": "Future Energy Ventures",
+      "companyUrl": "https://www.linkedin.com/company/futureenergyventures",
+      "description": "Venture capital internship in the vibrant ecosystem of Israel's start-up scene through the New Kibbutz program offered by the German Chambers of Commerce Abroad (AHK) and supported by a scholarship of the German Academic Exchange Service (DAAD).",
+      "location": null,
+      "start": "2021-11",
+      "end": "2022-01",
+      "dateRange": "Nov 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Student Venture Partner | Venture Capital",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": "Picus Capital is a privately-financed, early-stage technology investment firm with >200M USD investment volume and +60 portfolio companies\n\nTasks included investment sourcing and introductory meetings with early-stage start-up companies in Europe, focusing primarily on Israel as well as talent scouting.",
+      "location": null,
+      "start": "2021-09",
+      "end": "2022-08",
+      "dateRange": "Sep 2021 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Special Projects | Imaging",
+      "company": "Orbem",
+      "companyUrl": "https://www.linkedin.com/company/orbem-ai",
+      "description": "Pursuing the discovery of potential new applications for Orbem's AI-powered MRI imaging solution including the establishment of a prototype during the course of the \"Managing Product Development\" course within the CDTM curriculum.",
+      "location": null,
+      "start": "2021-04",
+      "end": "2021-07",
+      "dateRange": "Apr 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate | Strategy Consulting",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": null,
+      "start": "2021-02",
+      "end": "2021-04",
+      "dateRange": "Feb 2021 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Working Student | VoloIQ",
+      "company": "Volocopter",
+      "companyUrl": "https://www.linkedin.com/company/volocopter",
+      "description": null,
+      "location": null,
+      "start": "2020-12",
+      "end": "2021-01",
+      "dateRange": "Dec 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Trend Researcher | Healthcare",
+      "company": "alley",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2020-08",
+      "end": "2020-09",
+      "dateRange": "Aug 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Bachelor's Thesis Student | Business Development / VoloIQ",
+      "company": "Volocopter",
+      "companyUrl": "https://www.linkedin.com/company/volocopter",
+      "description": null,
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-06",
+      "dateRange": "Apr 2020 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Intern | Business Development",
+      "company": "Volocopter",
+      "companyUrl": "https://www.linkedin.com/company/volocopter",
+      "description": null,
+      "location": null,
+      "start": "2019-11",
+      "end": "2020-04",
+      "dateRange": "Nov 2019 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Intern | Strategy Consulting",
+      "company": "Strategy&",
+      "companyUrl": "https://www.linkedin.com/company/strategyand",
+      "description": null,
+      "location": null,
+      "start": "2019-09",
+      "end": "2019-11",
+      "dateRange": "Sep 2019 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Project Student | Technology Consulting",
+      "company": "FEV Consulting",
+      "companyUrl": "https://www.linkedin.com/company/fev-consulting",
+      "description": null,
+      "location": null,
+      "start": "2018-03",
+      "end": "2018-05",
+      "dateRange": "Mar 2018 – May 2018",
+      "current": false
+    },
+    {
+      "title": "Working Student | M&A",
+      "company": "SGP Schneider Geiwitz",
+      "companyUrl": "https://www.linkedin.com/company/schneider-geiwitz-partner",
+      "description": null,
+      "location": null,
+      "start": "2017-11",
+      "end": "2018-01",
+      "dateRange": "Nov 2017 – Jan 2018",
+      "current": false
+    },
+    {
+      "title": "Intern | M&A",
+      "company": "SGP Schneider Geiwitz",
+      "companyUrl": "https://www.linkedin.com/company/schneider-geiwitz-partner",
+      "description": null,
+      "location": null,
+      "start": "2017-09",
+      "end": "2017-10",
+      "dateRange": "Sep 2017 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Intern | Fund Management",
+      "company": "Goodyields Capital",
+      "companyUrl": "https://www.linkedin.com/company/goodyields-capital",
+      "description": null,
+      "location": null,
+      "start": "2017-03",
+      "end": "2017-04",
+      "dateRange": "Mar 2017 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Intern | IT Consulting",
+      "company": "Capgemini",
+      "companyUrl": "https://www.linkedin.com/company/capgemini",
+      "description": null,
+      "location": null,
+      "start": "2016-06",
+      "end": "2016-07",
+      "dateRange": "Jun 2016 – Jul 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Master's Thesis",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science, Management & Technology",
+      "dateRange": "2022 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Guanghua School of Management, Peking University",
+      "degree": "Exchange Semester MBA, Management & Technology",
+      "dateRange": "2022"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Exchange Semester, Management & Technology",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science, Management & Technology",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "City University of Hong Kong",
+      "degree": "Exchange Semester, Management & Technology",
+      "dateRange": "2018"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Englisch",
+    "Spanisch",
+    "Finanzmärkte",
+    "Chinesisch",
+    "Bloomberg-Terminal"
+  ],
+  "languages": [
+    "Deutsch",
+    "Chinesisch",
+    "Englisch",
+    "Spanisch",
+    "Arabisch"
+  ],
+  "company": {
+    "name": "Isar Aerospace",
+    "tagline": "Isar Aerospace develops next generation orbital rockets for flexible space access",
+    "description": "Isar Aerospace develops next generation rockets for sustainable access to space for small and medium satellites and satellite constellations.",
+    "industry": "Aviation and Aerospace Component Manufacturing",
+    "website": "https://www.isaraerospace.com",
+    "linkedInUrl": "https://www.linkedin.com/company/isaraerospace",
+    "employeeCount": 439,
+    "foundedYear": null,
+    "location": "Ottobrunn, Germany",
+    "specialities": []
+  }
+}

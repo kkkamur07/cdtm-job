@@ -1,0 +1,91 @@
+{
+  "id": "dr-markus-ampenberger-609481194",
+  "name": "Dr. Markus Ampenberger",
+  "headline": "Managing Director and Partner, at Boston Consulting Group (BCG)",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-markus-ampenberger-609481194",
+  "personId": 1580,
+  "classes": [
+    {
+      "id": 54,
+      "label": "Fall 2003",
+      "season": "Fall",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Markus Ampenberger",
+  "ca": null,
+  "summary": "Work at Boston Consulting Group (BCG)",
+  "positions": [
+    {
+      "title": "Managing Director and Partner",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "München",
+      "location": null,
+      "start": "2010-06",
+      "end": null,
+      "dateRange": "Jun 2010 – Present",
+      "current": true
+    },
+    {
+      "title": "Researcher in Corporate Finance",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "München",
+      "location": null,
+      "start": "2005-09",
+      "end": "2010-02",
+      "dateRange": "Sep 2005 – Feb 2010",
+      "current": false
+    }
+  ],
+  "schools": [],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Boston Consulting Group (BCG)",
+    "tagline": null,
+    "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.\n \nOur diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. \n\nWe work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.\n\nBCG Privacy Policy: https://www.bcg.com/about/privacy-policy.aspx",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bcg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/boston-consulting-group",
+    "employeeCount": 41217,
+    "foundedYear": 1963,
+    "location": "Boston, United States",
+    "specialities": [
+      "Consumer insight",
+      "corporate development",
+      "corporate finance",
+      "digital economy",
+      "globalization",
+      "growth",
+      "information technology",
+      "innovation",
+      "marketing & sales",
+      "operations",
+      "people & organization",
+      "postmerger integration",
+      "risk management",
+      "strategy",
+      "sustainability",
+      "transformation",
+      "climate",
+      "artificial intelligence",
+      "cost transformation",
+      "supply chains"
+    ]
+  }
+}

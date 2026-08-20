@@ -1,0 +1,246 @@
+{
+  "id": "julia-balowski",
+  "name": "Julia Rose Balowski",
+  "headline": "Management Team CDTM | Doctoral Candidate Neuroengineering Materials at TUM",
+  "avatar": {
+    "sm": "/avatars/julia-balowski-sm.webp",
+    "lg": "/avatars/julia-balowski.webp",
+    "blur": "data:image/webp;base64,UklGRgwBAABXRUJQVlA4IAABAAAQBgCdASogACAAPtFapU0oJSOiMBgIAQAaCWgAxxTYoKhKOm3zc5Zj4nPmylSnPahyvAomEUr5Z2AA/vwU8XtlLOmof/t/6DRjQyiEojGXbFZVJGNGWWm2oWsIumVBCMD3XLndrB6xtPZ+KpZSJRv6Apos7ky9UEy7lf+dc3Mz2nDqSqhAJR+3OG1GPq/jLRX9fcF5TuaRSQyMS/kaKMDcBn5EC1GpbR2Ksqs3TQ3ZL+g3yipMI6QmEkEUGhYH2jwapzIC4mTSyEkNRyEtRgtGeYqGyRTmyv3nKba458OsAyeMHSlRLtAo1vQMzZJ+m9P+R83SJ2Qx3pWLIWPIAAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/julia-balowski",
+  "personId": 736,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Neuroengineering",
+  "roles": [
+    "student",
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": false,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Julia Rose Balowski",
+  "ca": {
+    "alumni": false,
+    "about": "Julia Balowski studied Bioelectrical Engineering (B.Sc.) in the US and Neuroengineering (M.Sc.) at the Technical University of Munich. Parallel to her undergraduate degree, Julia worked in both the medical and engineering fields and completed a research stay in Beijing.\n\nAfter her undergraduate, Julia joined a rotational program at Harman International, where she worked as an engineer on projects involving ADAS, physiological tracking, and digital health. During this time she moved to Munich for a project, and in 2020 she began her studies at TUM. While there she conducted research in AI ethics and nanomaterials for neuromodulation. In Fall 2022, Julia joined CDTM as a student, and in March 2023 she joined the CA team.\n\nJulia is currently responsible for MPD and study abroad partnerships. She has not yet settled on a PhD topic, but is investigating the topic of neuromodulation from both a technical and social view.",
+    "responsibilities": [
+      "Managing Product Development Course",
+      "ImpACTup!"
+    ],
+    "researchFields": [
+      "Neuromodulation"
+    ],
+    "email": "balowski@cdtm.com"
+  },
+  "summary": null,
+  "positions": [
+    {
+      "title": "Doctoral Researcher",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Working on experiment design and testing of magnetoelectric nanoparticles for neuromodulation.",
+      "location": null,
+      "start": "2024-05",
+      "end": null,
+      "dateRange": "May 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Management Team and Doctoral Candidate",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-03",
+      "end": null,
+      "dateRange": "Mar 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Neuroengineering Materials Group: Magnetoelectric Nanoparticles as a Substitute for Deep Brain Stimulation",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-08",
+      "end": "2023-03",
+      "dateRange": "Aug 2022 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Institute for Ethics in Artificial Intelligence, Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "A Human Preference-Aware Optimization System",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-03",
+      "end": "2021-11",
+      "dateRange": "Mar 2021 – Nov 2021",
+      "current": false
+    },
+    {
+      "title": "Project Engineer - Innovation & Technology",
+      "company": "HARMAN International",
+      "companyUrl": "https://www.linkedin.com/company/harman-international",
+      "description": null,
+      "location": "Michigan, United States",
+      "start": "2020-07",
+      "end": "2020-10",
+      "dateRange": "Jul 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Systems Engineer",
+      "company": "HARMAN International",
+      "companyUrl": "https://www.linkedin.com/company/harman-international",
+      "description": "As part of the Leadership Experience Acceleration Program (LEAP), completed three eight month rotations in the following departments:\n\n- Innovation and Technology (Garching, Germany)\n- ADAS (Novi, Michigan)\n- Customer Program Management (Novi, Michigan)",
+      "location": "Garching, Germany and Novi, Michigan",
+      "start": "2018-07",
+      "end": "2020-07",
+      "dateRange": "Jul 2018 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Software Technician",
+      "company": "HARMAN International",
+      "companyUrl": "https://www.linkedin.com/company/harman-international",
+      "description": null,
+      "location": "Novi, Michigan",
+      "start": "2017-06",
+      "end": "2018-06",
+      "dateRange": "Jun 2017 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Product Engineering Intern",
+      "company": "AAM - American Axle & Manufacturing",
+      "companyUrl": "https://www.linkedin.com/company/americanaxle",
+      "description": null,
+      "location": "Detroit",
+      "start": "2017-01",
+      "end": "2017-04",
+      "dateRange": "Jan 2017 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Medical Scribe - Emergency",
+      "company": "Beaumont Health",
+      "companyUrl": "https://www.linkedin.com/company/beaumont-health",
+      "description": null,
+      "location": "Grosse Pointe",
+      "start": "2016-04",
+      "end": "2017-03",
+      "dateRange": "Apr 2016 – Mar 2017",
+      "current": false
+    },
+    {
+      "title": "Counselor, Lifeguard, Yoga Instructor",
+      "company": "Blue Lake Fine Arts Camp",
+      "companyUrl": null,
+      "description": null,
+      "location": "Twin Lakes, MI",
+      "start": "2015-06",
+      "end": "2015-08",
+      "dateRange": "Jun 2015 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Tutor",
+      "company": "Oakland University",
+      "companyUrl": "https://www.linkedin.com/company/oakland-university",
+      "description": "Tutors both intro and high-level engineering and science courses,  including thermodynamics, physics, organic chemistry, biology, psychology, and philosophy.",
+      "location": null,
+      "start": "2014-09",
+      "end": "2018-04",
+      "dateRange": "Sep 2014 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Group Fitness Instructor, Aquatic Instructor, Lifeguard",
+      "company": "City of Warren Parks and Recreation",
+      "companyUrl": null,
+      "description": null,
+      "location": "Warren",
+      "start": "2012-09",
+      "end": "2015-06",
+      "dateRange": "Sep 2012 – Jun 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Tel Aviv University",
+      "degree": "Bayerische Forschungallianz Research Grant",
+      "dateRange": "2023 – 2033"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Elite Master of Science in Neuroengineering",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Oakland University",
+      "degree": "Bachelor’s Degree,  Bioengineering, Concentration in Electronic Devices and Biosensors",
+      "dateRange": "2013 – 2018"
+    },
+    {
+      "school": "Beijing Information Science and Technology University",
+      "degree": "Research, Computer Vision",
+      "dateRange": "2017"
+    }
+  ],
+  "skills": [
+    "Computer Vision",
+    "Optical Character Recognition (OCR)",
+    "Biotechnology",
+    "Product Development",
+    "Trend Research",
+    "Design Thinking",
+    "Survey Design",
+    "Applied Ethics",
+    "Powder X-ray Diffraction",
+    "Transmission Electron Microscopy (TEM)",
+    "Nanomaterials",
+    "Chemical Synthesis",
+    "Nanoparticles",
+    "Customer Service",
+    "Microsoft Word",
+    "Visual Basic",
+    "Matlab",
+    "Tutoring",
+    "Research",
+    "Microsoft Office"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Technical University of Munich",
+    "tagline": "Official LinkedIn account of the Technical University of Munich",
+    "description": "Our university combines top-class facilities for cutting-edge research with unique learning opportunities for 52,000 students. Whether our researchers are investigating the origins of life, matter and the universe or looking for solutions to the major challenges for our society, people lie at the heart of our research and innovation agenda. Our goal is to create lasting value for society through excellence in education and research, the active promotion of next-generation talents and a strong entrepreneurial spirit. All of which combine to make TUM one of Europe’s leading universities. \n\n| Imprint: http://www.tum.de/legal-notice",
+    "industry": "Research Services",
+    "website": "https://www.tum.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+    "employeeCount": 11550,
+    "foundedYear": 1868,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

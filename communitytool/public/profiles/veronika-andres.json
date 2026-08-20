@@ -1,0 +1,155 @@
+{
+  "id": "veronika-andres",
+  "name": "Veronika A.",
+  "headline": "Agile Project Manager at Siemens",
+  "avatar": null,
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/veronika-andres",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Agile Project Manager",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2018-10",
+      "end": null,
+      "dateRange": "Oct 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "P&I Consultant",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Business intelligence, process mining, financial reporting. \nTools: SAP EPM, SAP BO Analysis for Office, SAP Lumira, SAP Analytics Cloud, SAP BEx, Celonis, QlikView.",
+      "location": "Munich Area, Germany",
+      "start": "2014-01",
+      "end": "2018-09",
+      "dateRange": "Jan 2014 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "IT Consultant",
+      "company": "CompuSafe Data Systems AG",
+      "companyUrl": "https://www.linkedin.com/company/compusafe-data-systems-ag",
+      "description": "Implementation of IT solutions, concept modelling, project management, financial reporting.",
+      "location": null,
+      "start": "2013-04",
+      "end": "2013-12",
+      "dateRange": "Apr 2013 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Bavarian Academy of Sciences",
+      "companyUrl": "https://www.linkedin.com/company/bavarian-academy-of-sciences",
+      "description": "Data extraction, semantic data mining, statistical analysis.",
+      "location": null,
+      "start": "2011-11",
+      "end": "2012-03",
+      "dateRange": "Nov 2011 – Mar 2012",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Project management assistance, technical support, process analysis, development of product concepts, maintenance of web-based trainings and web portals, Java programming with SAP NetWeaver.",
+      "location": null,
+      "start": "2008-02",
+      "end": "2011-10",
+      "dateRange": "Feb 2008 – Oct 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master's Degree, Computational Linguistics",
+      "dateRange": "2007 – 2012"
+    },
+    {
+      "school": "Waseda University",
+      "degree": "Visiting Researcher, Asia-Pacific Studies",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Università Ca'​ Foscari Venezia",
+      "degree": "Erasmus, Computer Science",
+      "dateRange": "2011"
+    }
+  ],
+  "skills": [
+    "Front-end Development",
+    "Financial Reporting",
+    "SAP Business Explorer",
+    "Process Management",
+    "ITIL",
+    "Project Management",
+    "Product Development",
+    "Concept Design",
+    "Data Analysis",
+    "Statistical Data Analysis",
+    "Data Mining",
+    "Agile Methodologies",
+    "Business Analysis",
+    "QlikView",
+    "SQL",
+    "SAP BusinessObjects",
+    "Coaching",
+    "SAP EPM",
+    "SAP SEM BCS",
+    "Semantic Technologies"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Siemens",
+    "tagline": "We create technology to transform the everyday, for everyone.",
+    "description": "Siemens AG (Berlin and Munich) is a leading technology company focused on industry, infrastructure, mobility, and healthcare. The company’s purpose is to create technology to transform the everyday, for everyone. By combining the real and the digital worlds, Siemens empowers customers to accelerate their digital and sustainability transformations, making factories more efficient, cities more livable, and transportation more sustainable. A leader in industrial AI, Siemens leverages its deep domain know-how to apply AI – including generative AI – to real-world applications, making AI accessible and impactful for customers across diverse industries. Siemens also owns a majority stake in the publicly listed company Siemens Healthineers, a leading global medical technology provider pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably. In fiscal 2025, which ended on September 30, 2025, the Siemens Group generated revenue of €78.9 billion and net income of €10.4 billion. As of September 30, 2025, the company employed around 318,000 people worldwide on the basis of continuing operations.",
+    "industry": "Automation Machinery Manufacturing",
+    "website": "http://www.siemens.com",
+    "linkedInUrl": "https://www.linkedin.com/company/siemens",
+    "employeeCount": 263989,
+    "foundedYear": 1847,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Electrification",
+      "Automation",
+      "Digitalization",
+      "Innovation",
+      "Technology",
+      "Engineering",
+      "Manufacturing",
+      "Artificial Intelligence",
+      "Internet of Things",
+      "Cybersecurity",
+      "Infrastructure",
+      "Sustainability",
+      "Digital Twin",
+      "Metaverse",
+      "Transport",
+      "Smart Buildings"
+    ]
+  }
+}

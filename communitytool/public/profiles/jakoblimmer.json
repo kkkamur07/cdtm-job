@@ -1,0 +1,215 @@
+{
+  "id": "jakoblimmer",
+  "name": "Jakob Limmer",
+  "headline": "TUM | Software Engineering | CDTM | Studienstiftung",
+  "avatar": {
+    "sm": "/avatars/jakoblimmer-sm.webp",
+    "lg": "/avatars/jakoblimmer.webp",
+    "blur": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAABQBgCdASogACAAPtFgqU+oJSOiKAgBABoJZgCdMxglrDz/9VklRjkN7gZytKC6OYSFZB1Vnl+n6keI4AD++LV9FpfT0Alstvm0o+fPufQdKvwh9n3cpRpoe7chrOaeHDPNZkqGjw74dxvwipjGsaZCLHHGWw0RJtsqfjcnqmc0F+O0FN9yDcNlItEw9/x6xFujItPbf6mBtFWrsUQQXoca7L/V3v2yMWXrDxp3IdPiP/oL53AWaNOS21ao69bagQs85G6I/s4XgaBhpmkW+zLSI9/N5WnLQyOiG11fjewOt/nSH9/rN6vlCzM4sS9x0nHUHFQqgaFJUz6qLjj9ZATcXJQXhxEkAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jakoblimmer",
+  "personId": 2139,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Software Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jakob Limmer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Student Research Assistant - Database Systems",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Intern - Software Engineering",
+      "company": "Apple",
+      "companyUrl": "https://www.linkedin.com/company/apple",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-04",
+      "end": "2025-09",
+      "dateRange": "Apr 2025 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Intern - Software Engineering",
+      "company": "Qualcomm",
+      "companyUrl": "https://www.linkedin.com/company/qualcomm",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-06",
+      "end": "2024-12",
+      "dateRange": "Jun 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Working Student - AI & Data Analytics",
+      "company": "Porsche Consulting",
+      "companyUrl": "https://www.linkedin.com/company/porsche-consulting-",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-07",
+      "end": "2024-06",
+      "dateRange": "Jul 2023 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Intern - AI & Data Analytics",
+      "company": "Porsche Consulting",
+      "companyUrl": "https://www.linkedin.com/company/porsche-consulting-",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-03",
+      "end": "2023-06",
+      "dateRange": "Mar 2023 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Student Researcher - Statistics",
+      "company": "Universität Augsburg",
+      "companyUrl": "https://www.linkedin.com/company/uniaugsburg",
+      "description": null,
+      "location": "Augsburg, Bavaria, Germany",
+      "start": "2022-11",
+      "end": "2023-01",
+      "dateRange": "Nov 2022 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Intern - IT Consulting",
+      "company": "soffico GmbH",
+      "companyUrl": "https://www.linkedin.com/company/soffico-gmbh",
+      "description": null,
+      "location": "Augsburg, Bavaria, Germany",
+      "start": "2022-03",
+      "end": "2022-05",
+      "dateRange": "Mar 2022 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Student Researcher - Information Systems Engineering",
+      "company": "Fraunhofer-Institut für Angewandte Informationstechnik FIT",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-fit",
+      "description": null,
+      "location": "Augsburg, Bavaria, Germany",
+      "start": "2021-05",
+      "end": "2023-03",
+      "dateRange": "May 2021 – Mar 2023",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Software Engineering (Elite Graduate Program)",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Software Engineering (Elite Graduate Program)",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "University of Augsburg",
+      "degree": "Master of Science - MS, Software Engineering (Elite Graduate Program)",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "University of Augsburg",
+      "degree": "Bachelor of Science - BS, Business & Information Systems Engineering",
+      "dateRange": "2020 – 2024"
+    },
+    {
+      "school": "University of Augsburg",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Maria-Theresia-Gymnasium Augsburg",
+      "degree": "Abitur",
+      "dateRange": "2012 – 2020"
+    }
+  ],
+  "skills": [
+    "Embedded Systems",
+    "Databases",
+    "Artificial Intelligence (AI)",
+    "Machine Learning",
+    "Software Design",
+    "Software Development",
+    "Communication",
+    "Data Engineering",
+    "Presentation Skills",
+    "Data Analysis",
+    "Data Science",
+    "Data Structures",
+    "Algorithms",
+    "Natural Language Processing (NLP)",
+    "Optical Character Recognition (OCR)",
+    "Computer-Vision",
+    "Computer Science",
+    "C++",
+    "Python (Programming Language)",
+    "C (Programming Language)",
+    "C (Programmiersprache)",
+    "Continuous Integration und Continuous Delivery (CI/CD)",
+    "Internet of Things (IoT)",
+    "Optimization",
+    "Operations",
+    "Process Automation",
+    "Scrum",
+    "Digitale Strategie",
+    "R",
+    "Java",
+    "Englisch",
+    "Microsoft Office",
+    "SharePoint",
+    "Microsoft Azure"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Polnisch"
+  ],
+  "company": {
+    "name": "Technical University of Munich",
+    "tagline": "Official LinkedIn account of the Technical University of Munich",
+    "description": "Our university combines top-class facilities for cutting-edge research with unique learning opportunities for 52,000 students. Whether our researchers are investigating the origins of life, matter and the universe or looking for solutions to the major challenges for our society, people lie at the heart of our research and innovation agenda. Our goal is to create lasting value for society through excellence in education and research, the active promotion of next-generation talents and a strong entrepreneurial spirit. All of which combine to make TUM one of Europe’s leading universities. \n\n| Imprint: http://www.tum.de/legal-notice",
+    "industry": "Research Services",
+    "website": "https://www.tum.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+    "employeeCount": 11550,
+    "foundedYear": 1868,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

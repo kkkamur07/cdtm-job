@@ -1,0 +1,166 @@
+{
+  "id": "lena-bernhofer",
+  "name": "Lena B.",
+  "headline": "Professor | 博士 Ph.D. (同济大学)",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lena-bernhofer",
+  "personId": 1461,
+  "classes": [
+    {
+      "id": 61,
+      "label": "Spring 2007",
+      "season": "Spring",
+      "year": 2007,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2007",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Lena Bernhofer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Professorin",
+      "company": "IU Internationale Hochschule",
+      "companyUrl": "https://www.linkedin.com/company/iu-hochschule",
+      "description": "Professorin für Innovation & Entrepreneurship, Studiengangsleitung (M.A. Innovation and Entrepreneurship & M.A. Digital Innovation and Intrapreneurship)",
+      "location": null,
+      "start": "2021-09",
+      "end": null,
+      "dateRange": "Sep 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Berater (Freelance)",
+      "company": "Innovation & Strategy",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2016-06",
+      "end": null,
+      "dateRange": "Jun 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Gründerin",
+      "company": "Maison Gern GmbH",
+      "companyUrl": "https://www.linkedin.com/company/maison-gern-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-12",
+      "end": "2024-08",
+      "dateRange": "Dec 2017 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Senior Consultant",
+      "company": "Capgemini Consulting",
+      "companyUrl": "https://www.linkedin.com/company/capgemini-invent",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-05",
+      "end": "2016-05",
+      "dateRange": "May 2014 – May 2016",
+      "current": false
+    },
+    {
+      "title": "Audit Assistant",
+      "company": "KPMG",
+      "companyUrl": "https://www.linkedin.com/company/kpmg",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2009-10",
+      "end": "2010-09",
+      "dateRange": "Oct 2009 – Sep 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Tongji University",
+      "degree": "博士 Ph.D. (同济大学), Business Research",
+      "dateRange": "2010 – 2014"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diploma, Business Administration",
+      "dateRange": "2003 – 2009"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2007 – 2009"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, Entrepreneurship (Developer Networks)",
+      "dateRange": "2008 – 2009"
+    },
+    {
+      "school": "University of International Business and Economics",
+      "degree": "Visiting Student, Chinese Business Studies",
+      "dateRange": "2006 – 2007"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Unternehmensstrategie",
+    "Unternehmensberatung",
+    "Projektmanagement",
+    "Business Development",
+    "Strategische Planung",
+    "Unternehmensführung",
+    "Unternehmertum",
+    "Strategisches Management"
+  ],
+  "languages": [
+    "Chinesisch",
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "IU International University of Applied Sciences",
+    "tagline": "Distance Learning - Dual Studies - myStudies - Alumni - Online International - Corporate",
+    "description": "Who are we? With over 130,000 students and more than 4,000 employees, we are Germany's largest university and the fastest-growing employer in the education sector!\n\nThe IU International University was founded in 1998 and combines three academic areas under its roof:\n\nDistance Learning: 100% digital & flexible. The IU Distance Learning offers an extremely flexible online model in which students can achieve their degree time and location independently - including a virtual campus and online exams available at all times. The study programs include Bachelor's and Master's programs in the fields of Hospitality, Tourism & Event, Health & Social, Transport & Logistics, IT & Engineering, Business & Management, and Human Resources.\n\nDual Study: Theory & Practice. The IU Dual Study offers an innovative dual study program in over 38 locations nationwide (+ virtual campus). The dual Bachelor's and Master’s degree programs cover the fields of Architecture & Construction, Tourism, Health & Social, Transport & Logistics, Business & Management, and Human Resources. The study model is characterized by a regular alternation between theory at the campus and practical work experience in one of the over 15,000 partner companies.\n\nMyStudies: Online & Campus feeling. IU MyStudies enables online self-study, with collective learning on campus as well as virtually, and a structured study plan.",
+    "industry": "Higher Education",
+    "website": "https://www.iu.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/iu-hochschule",
+    "employeeCount": 6814,
+    "foundedYear": null,
+    "location": "Erfurt, Germany",
+    "specialities": [
+      "Präsenzstudium",
+      "Duales Studium",
+      "Fernstudium",
+      "Studium",
+      "Bildung",
+      "Weiterbildung",
+      "Wirtschaft",
+      "Management",
+      "Gesundheit",
+      "Soziales",
+      "Human Resources",
+      "IT",
+      "Technik",
+      "Hospitality",
+      "Tourismus",
+      "Event",
+      "Transport",
+      "Logistik",
+      "Bachelor",
+      "Master",
+      "MBA"
+    ]
+  }
+}

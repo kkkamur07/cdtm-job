@@ -1,0 +1,217 @@
+{
+  "id": "ann-christin-gah",
+  "name": "Ann-Christin Gah",
+  "headline": "Founder | AI in Construction Project Management | Technische Universität München",
+  "avatar": {
+    "sm": "/avatars/ann-christin-gah-sm.webp",
+    "lg": "/avatars/ann-christin-gah.webp",
+    "blur": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAACwBQCdASogACAAPtFao02oJSMiKA1RABoJZQDMHywVKjyn9+/gUSMTYH9eMLYHMUVoDIWQVmAA/vwQvm9jx9LzxtziO1udjeiagIMR6lRfnmN77WYCS/52tMXjVIQZp2BYb13f06fyauyLNpVriVVbOjY1R3JFaTB9X/dDRYzZv6SXtY+zh+xKZ642dqlunbwodEzltDvpAHeqqjzEMoEN2ALR3NVXuvkzvBTpc7foXfa2EIbD2evfXgz8f3qZYln3eUSIAAAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/ann-christin-gah",
+  "personId": 1051,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Architecture",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Ann-Christin Gah",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CPO",
+      "company": "Alago",
+      "companyUrl": "https://www.linkedin.com/company/alago-ai",
+      "description": "Building the monitoring layer for construction projects.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2024-06",
+      "end": null,
+      "dateRange": "Jun 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Product | Founding Team",
+      "company": "Pactos",
+      "companyUrl": "https://www.linkedin.com/company/pactos",
+      "description": "On a mission to overcome the blue-collar labor shortage.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-10",
+      "end": "2024-07",
+      "dateRange": "Oct 2023 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Investment Analyst",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": "UVC Partners is a Munich- and Berlin-based early-stage venture capital firm investing in European B2B startups in the fields of Enterprise Software, Mobility, and Industrial Technologies.",
+      "location": null,
+      "start": "2023-03",
+      "end": "2023-11",
+      "dateRange": "Mar 2023 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Guest Researcher / Product Manager Media Bias Education",
+      "company": "Media Bias Research",
+      "companyUrl": "https://www.linkedin.com/company/media-bias-group",
+      "description": null,
+      "location": "Tokyo, Japan",
+      "start": "2022-09",
+      "end": "2023-03",
+      "dateRange": "Sep 2022 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "MVST.",
+      "companyUrl": "https://www.linkedin.com/company/mvst",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-10",
+      "end": "2022-08",
+      "dateRange": "Oct 2021 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Cyber Security & Privacy | Working Student",
+      "company": "PwC",
+      "companyUrl": "https://www.linkedin.com/company/pwc",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-04",
+      "end": "2021-09",
+      "dateRange": "Apr 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Nachwuchskreis / Young Talent Program",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": null,
+      "start": "2018-03",
+      "end": "2019-10",
+      "dateRange": "Mar 2018 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Construction Project Manager @ Building Technology",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2016-08",
+      "end": "2019-11",
+      "dateRange": "Aug 2016 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Construction Project Assistant @ Building Technology",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": null,
+      "start": "2015-08",
+      "end": "2016-08",
+      "dateRange": "Aug 2015 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Elektroniker für Automatisierungstechnik",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": null,
+      "start": "2012-07",
+      "end": "2015-07",
+      "dateRange": "Jul 2012 – Jul 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Arts - BA, Architecture",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "Hochschule München University of Applied Sciences",
+      "degree": "Bachelor of Engineering - BE, Elektro- und Informationstechnik",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Strascheg Center for Entrepreneurship gGmbH",
+      "degree": "Social Entrepreneurship Academy: Certitificate Program",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Siemens Professional Education",
+      "degree": "IHK Ausbildung, Elektronikerin für Automatisierungstechnik",
+      "dateRange": "2012 – 2015"
+    }
+  ],
+  "skills": [
+    "Produktmanagement",
+    "Projektmanagement",
+    "Creative Strategy",
+    "Entrepreneurship",
+    "Robotic Fabrication",
+    "RISC",
+    "Embedded Systems",
+    "Baugewerbe",
+    "Internet of Things (IoT)",
+    "Design Research",
+    "A/B-Test",
+    "User Experience (UX)",
+    "Venture Capital",
+    "Cyber Security Risk",
+    "Entreprise Architecture",
+    "Cyber Threat Intelligence (CTI)",
+    "Produktstrategie",
+    "Marktforschung",
+    "Usability-Tests",
+    "Consulting"
+  ],
+  "languages": [
+    "Chinesisch",
+    "Deutsch"
+  ],
+  "company": {
+    "name": "Alago",
+    "tagline": "The data layer for construction project management",
+    "description": "Bauprojektmanagement auf Autopilot.",
+    "industry": "Architecture and Planning",
+    "website": "https://www.alago.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/alago-ai",
+    "employeeCount": 16,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

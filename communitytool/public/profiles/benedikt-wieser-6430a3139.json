@@ -1,0 +1,188 @@
+{
+  "id": "benedikt-wieser-6430a3139",
+  "name": "Benedikt Wieser",
+  "headline": "Unite | Harvard | CDTM | TUM.ai | HSG",
+  "avatar": {
+    "sm": "/avatars/benedikt-wieser-6430a3139-sm.webp",
+    "lg": "/avatars/benedikt-wieser-6430a3139.webp",
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAABQBgCdASogACAAPtFSpEuoJKOhsBgMAQAaCUAXujufMI0tu9np3S8hZPEdBNk8DIB9w9vXU73h4VGcUAD+9N7ngiq9gY7CdL7lfVpkMR/swwM7aLl/UrK3PTPCU2515KIkMOA6CbGJ7ntMmx3rsqLgKNQm2TBAIMM1tOIWNl9arQjVYXHZ9+51mve0B4lo4AkOljWaJvXQbU7VTeUIV7xhSV2kEOLouogEtH4iNIXMJF+9HS7f40guPDNcsvIxnHUQdmCMiDV7qgH61ZrOy2K+nvu6kAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/benedikt-wieser-6430a3139",
+  "personId": 2011,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Benedikt Wieser",
+  "ca": null,
+  "summary": "Realizing the possibilities and privileges I was given, I really want to have a positive impact on this world.",
+  "positions": [
+    {
+      "title": "GTM",
+      "company": "Unite",
+      "companyUrl": "https://www.linkedin.com/company/unite-network",
+      "description": null,
+      "location": null,
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "CEO Office | Intern",
+      "company": "osapiens",
+      "companyUrl": "https://www.linkedin.com/company/osapiens",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Product Development Project",
+      "company": "E.ON Digital Technology",
+      "companyUrl": "https://www.linkedin.com/company/e.on-digital-technology",
+      "description": "Product Development Project @CDTM",
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence | Intern",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Analyst | Intern",
+      "company": "YZR Capital",
+      "companyUrl": "https://www.linkedin.com/company/yzr-vc",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Stealth Startup",
+      "companyUrl": "https://www.linkedin.com/company/stealth-startup-community",
+      "description": "Iterated, validated and prototyped idea at the intersection of AI and conversation analysis",
+      "location": null,
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Officer‘s Cadet",
+      "company": "Österreichisches Bundesheer (Austrian Armed Forces)",
+      "companyUrl": "https://www.linkedin.com/company/bundesheer",
+      "description": "Current Rank: Sergeant",
+      "location": null,
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Tomtes",
+      "companyUrl": null,
+      "description": "Catering service staff agency. \nYou wouldn't believe how much one can do wrong in the german bureaucracy...",
+      "location": null,
+      "start": "2018-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2018 – Dec 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard University",
+      "degree": "Visiting Researcher",
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Management and Technology",
+      "dateRange": "2024"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student, Entrepreneurship",
+      "dateRange": "2022"
+    },
+    {
+      "school": "University of St.Gallen",
+      "degree": "Bachelor's degree, Business Administration",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Wilhelmsgymnasium München",
+      "degree": "Abitur",
+      "dateRange": "2019"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Unite",
+    "tagline": "Our pioneering B2B platform connects the economy for sustainable business.",
+    "description": "Unite connects the economy for sustainable business. The trusted e-procurement platform with its integrated marketplace enables effortless sourcing and purchasing for B2B and public sector organisations. Bringing buyers and suppliers together for mutual benefit, Unite has established a solid foundation of fair competition and trustworthy partnerships. The platform’s scalable infrastructure supports connections, business stability and a robust supply chain. Unite revolutionises e-commerce for B2B and the public sector by adding and sharing value for markets and communities. In 2022, Unite became the first platform business accredited with the Fair Tax Mark, representing the global standard for responsible tax practices.\n\nUnite was founded as Mercateo in 2000 and is headquartered in Leipzig, Germany. It operates in 12 European countries, with over 700 employees working both in-office and remotely. In 2023, Unite achieved revenue of €440.8 million.\nFor more information, visit unite.eu.\n\nImprint: unite.eu",
+    "industry": "Information Technology & Services",
+    "website": "https://unite.eu",
+    "linkedInUrl": "https://www.linkedin.com/company/unite-network",
+    "employeeCount": 549,
+    "foundedYear": 2000,
+    "location": "Leipzig, Germany",
+    "specialities": [
+      "E-Commerce",
+      "eProcurement",
+      "Internet",
+      "Großhandel",
+      "B2B",
+      "indirekte Bedarfe",
+      "Beschaffung",
+      "Freigabeprozess",
+      "Vernetzung",
+      "Digitalisierung",
+      "Commerce",
+      "Wholesale",
+      "Digitalisation"
+    ]
+  }
+}

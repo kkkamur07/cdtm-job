@@ -1,0 +1,115 @@
+{
+  "id": "thomasmenzel8",
+  "name": "Thomas Menzel",
+  "headline": "App Founder | Cambridge | CDTM",
+  "avatar": {
+    "sm": "/avatars/thomasmenzel8-sm.webp",
+    "lg": "/avatars/thomasmenzel8.webp",
+    "blur": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAACwBQCdASogACAAPslQoUunpKMht/VYAPAZCWMAzcGLfyq72dywODVDL7fzuKfZMC8akd41sQAA/vwXBuliraduoWgOnRSmvZc0ed22BpvOXv+qwzQByY7ToQ+VAynDcvUTIgAwr0ljtqqJKeHS8iLcrrsLJGxwGnm/AH0aF8bZIrP344qUpoJ04AcP4XVNQG+4gJaFw6WVRvX9jRHvNGxdHKQuwimdPFK7GXTlhiumqZlWepZmMGt7zEE7K7u0CVXJWparuy75X+YidHwAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/thomasmenzel8",
+  "personId": 905,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Psychology, Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Thomas Menzel",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder",
+      "company": "neurolist",
+      "companyUrl": "https://www.linkedin.com/company/neurolistai",
+      "description": null,
+      "location": "AI-powered daily planner for neurodivergence, 200k+ users",
+      "start": "2023-10",
+      "end": null,
+      "dateRange": "Oct 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder",
+      "company": "RoutineFlow",
+      "companyUrl": "https://www.linkedin.com/company/routineflow",
+      "description": "Leading app for step-by-step routine organization and ADHD management. Currently at 700k users.",
+      "location": null,
+      "start": "2022-08",
+      "end": null,
+      "dateRange": "Aug 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder",
+      "company": "Proddy: Habit Tracker & Mood",
+      "companyUrl": "https://www.linkedin.com/company/proddyapp",
+      "description": "Developed the mobile app \"Proddy: Habit Tracker & Mood\" with 500.000+ users.\nLearned a wide range of skills, from software architecture to UX design, to performance marketing and running valid A/B tests.",
+      "location": "Germany",
+      "start": "2020-01",
+      "end": null,
+      "dateRange": "Jan 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Research Assistant at the Chair of Social Psychology",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2023-01",
+      "end": "2023-04",
+      "dateRange": "Jan 2023 – Apr 2023",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Research Stay",
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor, Psychology",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor, Computer Science",
+      "dateRange": "2020 – 2026"
+    },
+    {
+      "school": "Gymnasium Antonianum Geseke",
+      "degree": "Abitur",
+      "dateRange": "2010 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2023"
+    }
+  ],
+  "skills": [
+    "Softwareentwicklung",
+    "UX-Design",
+    "Social Media-Marketing"
+  ],
+  "languages": [],
+  "company": null
+}

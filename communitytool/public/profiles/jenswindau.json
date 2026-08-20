@@ -1,0 +1,244 @@
+{
+  "id": "jenswindau",
+  "name": "Jens Windau, Ph.D.",
+  "headline": "Data Science, ML/AI Software & Hardware Engineering",
+  "avatar": null,
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/jenswindau",
+  "personId": 1881,
+  "classes": [
+    {
+      "id": 63,
+      "label": "Spring 2008",
+      "season": "Spring",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2008",
+  "major": "Electrical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jens Windau",
+  "ca": null,
+  "summary": "Data Science, Statistics and Analytics\n▪ Develop engineering and business metrics to measure the health of software/hardware/media products\n▪ Create analytical frameworks to monitor business and product performance and make software/hardware/media design and strategy decisions\n\nSoftware: Machine Learning, Deep Learning, Artificial Intelligence, Autonomous Robotics\n▪ Designing of smart software architectures\n▪ Machine Learning: Un-/Supervised Learning, Anomaly Detection, Recommendation Systems\n▪ Machine-Monitoring-Algorithms: Predicting of altered components and machine failures\n▪ Cyber-Robotics-Algorithms: Situation Awareness, Automated Motion-Feedback on physical tasks\n▪ 3D Printing and 3D Scanning Algorithm Development and Optimization\n▪ Body-Sensor Networks (Developing and embedding of communication protocols)\n\nHardware: Inertial Sensor Systems, Wearables, Fusion of Sensor Data\n▪ Circuit Design, Testing, PCB Board Design, Reliability-Engineering\n▪ Prototyping, Development, and Manufacturing of consumer/industrial machines",
+  "positions": [
+    {
+      "title": "ML Software Engineer",
+      "company": "Meta",
+      "companyUrl": "https://www.linkedin.com/company/meta",
+      "description": "- Work in the Core Ads Optimization / Growth org, building ML systems that drive conversion and engagement across Meta platforms.\n- Improve performance, scalability, and reliability of privacy-aware ML infrastructure, enabling robust experimentation and higher ROI on ads.\n- Launch 0→1 initiatives and define multi-year strategy, turning ambiguous opportunities into shipped products that increase engagement and revenue.",
+      "location": "Menlo Park",
+      "start": "2025-06",
+      "end": null,
+      "dateRange": "Jun 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Data Scientist",
+      "company": "Rivian",
+      "companyUrl": "https://www.linkedin.com/company/rivian",
+      "description": "- Work closely with extensive vehicle telemetry data to provide valuable insights into the quality/reliability and performance of Rivian's different products.\n- Develop statistical and machine learning models for the practical purpose of predicting and forecasting field failures, contributing to Rivian's commitment to quality and safety.\n- Take the lead in implementing ML-based Prognostics and Health Management to enhance preventative maintenance strategies, ensuring the longevity and sustainability of Rivian's products.\nEngage in methodical research of algorithms, focusing on prototyping, validation, and iterative improvement, all while maintaining a practical approach to technological advancements.\n- Serve as a respected technical authority within the organization, offering pragmatic guidance on current and future technology decisions, always aligned with Rivian's company's goals.\n- Apply a deep understanding of the business and operational aspects of technology choices, ensuring a balanced approach that meets Rivian's company's needs efficiently.\n- Foster collaboration among engineering peers by creating well-structured, adaptable designs and code that promote teamwork and practical solutions.\n- Demonstrate ability to facilitate consensus during complex technical discussions, ensuring that Rivian maintains a productive and cooperative working environment.",
+      "location": "Palo Alto, California, United States",
+      "start": "2025-02",
+      "end": "2025-05",
+      "dateRange": "Feb 2025 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Data Scientist / Systems Engineer, Research & Analytics",
+      "company": "Cruise",
+      "companyUrl": "https://www.linkedin.com/company/getcruise",
+      "description": "• Developed ML models to forecast, simulate and elevate AV performance across varied urban settings and user scenarios\n• Lead and conducted in-depth analysis of autonomous vehicle (AV) and human driving data to assess safety performance \n• Designed simulators to identify map vulnerabilities, strategically improving AV operations for seamless rideshare experience\n• Used VLMs and LLMs for spatial reasoning and recognition (e.g., yielding, ramps, cul-de-sacs)",
+      "location": "San Francisco Bay Area",
+      "start": "2023-05",
+      "end": "2025-02",
+      "dateRange": "May 2023 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Hardware Data Scientist, Bikes & Scooters",
+      "company": "Lyft",
+      "companyUrl": "https://www.linkedin.com/company/lyft",
+      "description": "•\tLeading the end-to-end development of new technologies for Lyft’s bike & scooter fleet and station infrastructure. \n•\tPrototyped & productized advanced sensor fusion algorithms for vehicle location improvement\n•\tDeveloped and deployed computer vision deep learning and machine learning software to detect vehicle annomalies, collisions, riding & parking violations (near real-time, on edge processing)\n•\tDesigned, analyzed product experiments and defined launch decisions. \n•\tSet business metrics and developed analytical frameworks to monitor the health of Lyft’s products. \n•\tPatented technology innovations.",
+      "location": "San Francisco",
+      "start": "2019-08",
+      "end": "2022-11",
+      "dateRange": "Aug 2019 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Founder and CEO",
+      "company": "WinRobotics",
+      "companyUrl": null,
+      "description": "▪ Manufacturing, International Trading, Retail of 3D Printing Technology and Accessories\n▪ Business Development (Strategy, Product, Marketing & Sales, Organization, Execution, Finance, VAT)\n▪ Serving the EU Market (28 countries) – Experienced with Amazon PAN-European Program (EU)",
+      "location": "Germany",
+      "start": "2017-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2017 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Founder and CEO",
+      "company": "AIO Robotics",
+      "companyUrl": "https://www.linkedin.com/company/aio-robotics",
+      "description": "▪ Co-Development of the world’s first 3D Copy Machine ZEUS\n▪ Business Development (Strategy, Product, Marketing & Sales, Organization, Execution, Finance)\n▪ Technical Development (3D Scanning Technology, Software Automation for Logistics, Sales, Customer Support)\n▪ Revenue Growth by 80% annually over last 4 consecutive years with 200,000+ product units sold (including printing materials)\n▪ Serving the US market – Experienced with Amazon Seller Central / Vendor Central (USA)",
+      "location": "Los Angeles",
+      "start": "2013-05",
+      "end": "2020-12",
+      "dateRange": "May 2013 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Researcher PhD Student",
+      "company": "University of Southern California",
+      "companyUrl": "https://www.linkedin.com/company/university-of-southern-california",
+      "description": "Thesis “Smart Monitoring and Autonomous Situation Classification of Humans and Machines”",
+      "location": "Los Angeles",
+      "start": "2012-08",
+      "end": "2019-06",
+      "dateRange": "Aug 2012 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Fusion of IMU sensor signals for dead reckoning of pedestrians, Advisor: Prof. Erwin Biebl",
+      "location": "Munich, Germany",
+      "start": "2011-06",
+      "end": "2011-12",
+      "dateRange": "Jun 2011 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Management Consultant (via CDTM)",
+      "company": "eGym GmbH",
+      "companyUrl": null,
+      "description": "Developing a research report, feature order, business model, marketing & sales, rollout strategy",
+      "location": "Munich, Germany",
+      "start": "2010-10",
+      "end": "2011-02",
+      "dateRange": "Oct 2010 – Feb 2011",
+      "current": false
+    },
+    {
+      "title": "Researcher at iLab",
+      "company": "University of Southern California",
+      "companyUrl": "https://www.linkedin.com/company/university-of-southern-california",
+      "description": "Designing a multilayer stabilization system for UAV video images, Advisor: Prof. Laurent Itti",
+      "location": "Los Angeles, CA, USA",
+      "start": "2010-01",
+      "end": "2010-05",
+      "dateRange": "Jan 2010 – May 2010",
+      "current": false
+    },
+    {
+      "title": "Researcher at Polymorphic Robotics Institute",
+      "company": "Information Sciences Institute",
+      "companyUrl": "https://www.linkedin.com/company/information-sciences-institute",
+      "description": "Designing an inertia-based surface identification system, Advisor: Prof. Wei-Min Shen",
+      "location": "Marina del Rey, CA, USA",
+      "start": "2008-08",
+      "end": "2009-12",
+      "dateRange": "Aug 2008 – Dec 2009",
+      "current": false
+    },
+    {
+      "title": "Researcher at the School of Computer Science",
+      "company": "Carnegie Mellon University",
+      "companyUrl": "https://www.linkedin.com/company/carnegie-mellon-university",
+      "description": "Designing an IMU-based orientation system for mobile robots, Advisor: Prof. Manuela M. Veloso",
+      "location": "Pittsburgh, PA, USA",
+      "start": "2005-09",
+      "end": "2005-10",
+      "dateRange": "Sep 2005 – Oct 2005",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "DLR",
+      "companyUrl": "https://www.linkedin.com/company/dlr",
+      "description": "Constructing a pyrometer robot to follow heat sources, Head of Dept. Prof. Gerhard Hirzinger",
+      "location": "Oberpfaffenhofen",
+      "start": "2004-09",
+      "end": "2004-10",
+      "dateRange": "Sep 2004 – Oct 2004",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Southern California",
+      "degree": "Doctor of Philosophy - PhD, Computer Science",
+      "dateRange": "2012 – 2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "5yr German Engineering Diploma, Electrical Engineering and Information Technology",
+      "dateRange": "2004 – 2011"
+    },
+    {
+      "school": "University of Southern California",
+      "degree": "2yr Master of Science, Computer Science (Intelligent Robotics)",
+      "dateRange": "2008 – 2010"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2008 – 2011"
+    }
+  ],
+  "skills": [
+    "Apache Spark",
+    "Linux",
+    "Continuous Integration and Continuous Delivery (CI/CD)",
+    "PyTorch",
+    "TensorFlow",
+    "Research",
+    "Management Consulting",
+    "3D Printing",
+    "Start-ups",
+    "Senior Executive Leadership",
+    "Microsoft Office",
+    "Project Management",
+    "Java",
+    "Entrepreneurship",
+    "Social Media",
+    "Public Speaking",
+    "Strategy",
+    "Matlab",
+    "Programming",
+    "C++"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Meta",
+    "tagline": null,
+    "description": "Meta's mission is to build the future of human connection and the technology that makes it possible. \n\nOur technologies help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.\n\nTo help create a safe and respectful online space, we encourage constructive conversations on this page. Please note the following:\n\n• Start with an open mind. Whether you agree or disagree, engage with empathy.\n• Comments violating our Community Standards will be removed or hidden. Please treat everybody with respect.\n• Keep it constructive. Use your interactions here to learn about and grow your understanding of others.\n• Our moderators are here to uphold these guidelines for the benefit of everyone, every day.\n• If you are seeking support for issues related to your Facebook account, please reference our Help Center (https://www.facebook.com/help) or Help Community (https://www.facebook.com/help/community).\n\nFor a full listing of our jobs, visit https://www.metacareers.com",
+    "industry": "Software Development",
+    "website": "https://www.metacareers.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/meta",
+    "employeeCount": 155447,
+    "foundedYear": null,
+    "location": "Menlo Park, United States",
+    "specialities": [
+      "Connectivity",
+      "Artificial Intelligence",
+      "Virtual Reality",
+      "Machine Learning",
+      "Social Media",
+      "Augmented Reality",
+      "Marketing Science",
+      "Mobile Connectivity",
+      "Open Compute",
+      "Metaverse"
+    ]
+  }
+}

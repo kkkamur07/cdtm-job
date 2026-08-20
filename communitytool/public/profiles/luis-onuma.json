@@ -1,0 +1,154 @@
+{
+  "id": "luis-onuma",
+  "name": "Luis Onuma Okamoto",
+  "headline": "Software Engineer @ Scalable Capital | CDTM",
+  "avatar": {
+    "sm": "/avatars/luis-onuma-sm.webp",
+    "lg": "/avatars/luis-onuma.webp",
+    "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAABQBQCdASogACAAPtFUokuoJKMhsAgBABoJQAqoO34lq2NA1pS3mjhKx7Gh7kXBr9VPzYAA/v15nAu3oTpYcKAcXdO85GODT03v0+doYJNsF5Ti6CHQuLGbdH4pKSh9hIzfN0Eh/r6yMk3mp+MqypF947jsObWf2sD5eN/9yNzJqjrdP9MNmd9UQjst9TFzKq5GAK4b/qFh8cur/NFoAY5vwovRP7z+hV/9LZoSUMbvthtd0JY/Ok6ozO2yFcBeZFWmBsE7IrcdMKsgtr5HPlYNYw/zdIOCyR3m+RZGopt/OqZMthkAAA=="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/luis-onuma",
+  "personId": 1221,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Mechanical Engineering & Management",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Luis Onuma Okamoto",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Software Engineering",
+      "company": "Scalable Capital",
+      "companyUrl": "https://www.linkedin.com/company/scalable-capital",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-06",
+      "end": null,
+      "dateRange": "Jun 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Management",
+      "company": "Scalable Capital",
+      "companyUrl": "https://www.linkedin.com/company/scalable-capital",
+      "description": "Rotational program: Product, Engineering, Operations, Client Success, Capital Markets",
+      "location": "Berlin, Germany",
+      "start": "2022-10",
+      "end": "2023-05",
+      "dateRange": "Oct 2022 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Growth & Revenue Operations",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": "Sales Funnel Optimization",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Management Consulting",
+      "company": "Roland Berger",
+      "companyUrl": "https://www.linkedin.com/company/rolandberger",
+      "description": "Commercial Due Diligence in Machine Manufacturing, B2B SaaS, Medical Care",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "IT Consulting",
+      "company": "Capgemini Invent",
+      "companyUrl": "https://www.linkedin.com/company/capgemini-invent",
+      "description": "IT Consulting for Product Development in MedTech",
+      "location": "Lübeck, Schleswig-Holstein",
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Project Management",
+      "company": "MAN Truck & Bus AG",
+      "companyUrl": "https://www.linkedin.com/company/man-commercial-vehicles",
+      "description": "Launch Management of New Truck Series",
+      "location": "München, Bayern",
+      "start": "2017-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2017 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Master Thesis, Center for Design Research",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., Management (MiM)",
+      "dateRange": "2018 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., Mechanical Engineering",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc., Mechanical Engineering",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Colegio Alemán Alexander von Humboldt, Mexico City",
+      "degree": "Abitur",
+      "dateRange": "2000 – 2014"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Scalable Capital",
+    "tagline": "Scalable Capital is a leading FinTech in Europe, bringing people and technology-based investment together.",
+    "description": "Scalable Capital is a leading all-in-one digital banking platform with a full banking licence, enabling people in Europe to take control of their finances. \nThe company was founded in 2014 and has offices in Munich, Berlin, Vienna, Milan and London.\n\nFor private individuals, Scalable Capital offers an account that allows to invest, save and borrow with a trading flat rate and market-leading interest. In digital wealth management, the company creates and manages globally diversified ETF portfolios for its clients. The Scalable account enables private individuals to trade stocks, ETFs, crypto, funds and more as well as to set up savings plans with as little as €1.\n \nAs a fast-growing Fintech, we are constantly looking for new employees and also welcome unsolicited applications: https://careers.scalable.capital/\n\nFor further information please visit our website: www.scalable.capital.\n\nScalable Capital refers to Scalable GmbH and the affiliated companies. If this online presence contains information regarding capital markets, financial instruments and/or other topics relevant for investments of assets, the exclusive purpose of this information is to give general guidance on the investment services provided by Scalable Capital Bank GmbH.\n\nOur Privacy Policy can be found here: www.scalable.capital/privacy-policy",
+    "industry": "Financial Services",
+    "website": "http://www.scalable.capital",
+    "linkedInUrl": "https://www.linkedin.com/company/scalable-capital",
+    "employeeCount": 824,
+    "foundedYear": 2014,
+    "location": "München, Germany",
+    "specialities": [
+      "Digital investment management"
+    ]
+  }
+}

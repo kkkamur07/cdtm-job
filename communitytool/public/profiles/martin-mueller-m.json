@@ -1,0 +1,226 @@
+{
+  "id": "martin-mueller-m",
+  "name": "Martin Müller",
+  "headline": "Co-Founder @ Mintii Labs & Ozor",
+  "avatar": null,
+  "location": "Chile",
+  "linkedInUrl": "https://www.linkedin.com/in/martin-mueller-m",
+  "personId": 1601,
+  "classes": [
+    {
+      "id": 53,
+      "label": "Spring 2003",
+      "season": "Spring",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Martin Müller",
+  "ca": null,
+  "summary": "I love building products and using tech to automate everything. Have lived in multiple countries, studied at universities in Chile, Switzerland, Germany, and the UK, and developed multiple products and software solutions. Worked at Amazon, VC, and currently founding a startup.\n\nCurrently, building the next gen of AI applications in text and voice.",
+  "positions": [
+    {
+      "title": "Profesor Supervisor / supervising teacher",
+      "company": "Pontificia Universidad Católica de Chile",
+      "companyUrl": "https://www.linkedin.com/company/ucatolica",
+      "description": null,
+      "location": "Santiago, Santiago Metropolitan Region, Chile",
+      "start": "2025-03",
+      "end": null,
+      "dateRange": "Mar 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Mintii",
+      "companyUrl": "https://www.linkedin.com/company/mintii-ai",
+      "description": "Mintii Labs builds AI-enabled solutions that help companies work smarter, automate processes, and make better decisions.",
+      "location": "Santiago, Santiago Metropolitan Region, Chile",
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Miembro mesas de trabajo",
+      "company": "Senado de Chile",
+      "companyUrl": "https://www.linkedin.com/company/senado-de-chile",
+      "description": "Miembro de mesa de Trabajo del Futuro de la Comisión Desafíos del Futuro del Senado de Chile. \n\nMesa Futuro del trabajo: Sub Mesa de Inteligencia Artificial General y Generativa.\n\nMesa Seguridad: IA aplicada en seguridad",
+      "location": null,
+      "start": "2024-08",
+      "end": "2025-09",
+      "dateRange": "Aug 2024 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Process Lead - Financial Products",
+      "company": "MACH",
+      "companyUrl": "https://www.linkedin.com/company/machbank",
+      "description": "Led the development and operations of multiple financial product teams, including Investments (mutual funds), insurance, and international transfers",
+      "location": "Santiago, Santiago Metropolitan Region, Chile",
+      "start": "2023-06",
+      "end": "2024-06",
+      "dateRange": "Jun 2023 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Research Collaborator",
+      "company": "Cyber-Human Lab",
+      "companyUrl": "https://www.linkedin.com/company/cyber-human-lab",
+      "description": null,
+      "location": "Cambridge, England, United Kingdom",
+      "start": "2022-10",
+      "end": "2023-09",
+      "dateRange": "Oct 2022 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Research Collaborator",
+      "company": "World Economic Forum",
+      "companyUrl": "https://www.linkedin.com/company/world-economic-forum",
+      "description": null,
+      "location": null,
+      "start": "2022-10",
+      "end": "2023-03",
+      "dateRange": "Oct 2022 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Venture Capital Analyst",
+      "company": "Basinghall Partners",
+      "companyUrl": "https://www.linkedin.com/company/basinghall-partners",
+      "description": "• Due Diligence support of potential investments\n• Start-up scouting activities and onboarding of start-ups\n• Research activities and market analysis\n• Infrastructure projects (e.g. reporting tool, database, CRM, etc.)\n• Financial Modelling \n• Others",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-05",
+      "end": "2022-05",
+      "dateRange": "May 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Business Intelligence Engineer",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": "• Created Reports and automated dashboards for FP&A Teams and other Supply Chain Finance Teams to use on a weekly basis for risk assessment in the Amazon network   \n\n• Worked in the data analysis, design, and deployment to forecast business metrics using statistical analysis of time series.\n\n•  Developed a ‘covid-19 information hub’ merging information from multiple sources (internal and external) to give managers and analysts the ability to assess the impact on business metrics of a potential second wave of covid-19. Included data at a regional level, business metrics in those areas, and projections for European countries.\n\nReference on request.",
+      "location": "Luxembourg",
+      "start": "2020-07",
+      "end": "2020-11",
+      "dateRange": "Jul 2020 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "President of Student Council",
+      "company": "The Newland School",
+      "companyUrl": null,
+      "description": "During a one-year period I lead the student council of the school with relevant achievement in improving student participation in activities organized by the council and development of new events such as music festival and politics seminar.",
+      "location": null,
+      "start": "2014-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2014 – Dec 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Visiting Researcher",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management and Technology (Finance & CS)",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Pontificia Universidad Católica de Chile",
+      "degree": "Bachelor of Science In Engineering, Operations Research | Industrial Engineering | Transportation Systems",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "ETH Zürich",
+      "degree": "Exchange Student FS2020, Statistics, Management",
+      "dateRange": "2020"
+    },
+    {
+      "school": "University of Zurich",
+      "degree": "Exchange Student FS2020, Finance, Economics",
+      "dateRange": "2020"
+    },
+    {
+      "school": "Southern Lakes English College",
+      "degree": "English",
+      "dateRange": "2014"
+    }
+  ],
+  "skills": [
+    "Corporate Finance",
+    "Start-up Ventures",
+    "Early Stage Ventures",
+    "Technical Leadership",
+    "Product Development",
+    "3G Technology",
+    "Investment Analysis",
+    "Tableau",
+    "Programming",
+    "Cloud Computing",
+    "Computing",
+    "Amazon Web Services (AWS)",
+    "Product Lifecycle Management",
+    "Problem Solving",
+    "Product Management",
+    "MLOps",
+    "Machine Learning",
+    "Project Management",
+    "Project Implementation",
+    "Solution Architecture",
+    "Economic Research",
+    "Business Intelligence (BI)",
+    "Data Science",
+    "Python (Programming Language)",
+    "Market Research",
+    "Technology Roadmapping",
+    "Scenario Planning",
+    "Technology Management",
+    "Research",
+    "Financial Analysis",
+    "Extract, Transform, Load (ETL)",
+    "Data Analysis",
+    "Statistics",
+    "Analytical Skills",
+    "Finance",
+    "Microsoft Excel",
+    "Microsoft Office",
+    "SQL",
+    "R",
+    "Python",
+    "Teamwork",
+    "English",
+    "Spanish",
+    "Information Technology",
+    "Conversational German",
+    "Ableton Live",
+    "DAX",
+    "Microsoft Power BI",
+    "Modelado de datos",
+    "Analítica empresarial",
+    "Inteligencia empresarial",
+    "Engineering",
+    "Leadership",
+    "Decision-Making"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "company": null
+}

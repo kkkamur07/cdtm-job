@@ -1,0 +1,146 @@
+{
+  "id": "sebastiannanz",
+  "name": "Sebastian N.",
+  "headline": "Software Engineering Manager at Google",
+  "avatar": null,
+  "location": "Bern, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/sebastiannanz",
+  "personId": 1691,
+  "classes": [
+    {
+      "id": 98,
+      "label": "Spring 2001",
+      "season": "Spring",
+      "year": 2001,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2001",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Sebastian Nanz",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Software Engineering Manager",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": "Zürich, Switzerland",
+      "start": "2016-02",
+      "end": null,
+      "dateRange": "Feb 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Lecturer",
+      "company": "ETH Zürich",
+      "companyUrl": "https://www.linkedin.com/company/eth-zurich",
+      "description": null,
+      "location": "Zürich, Switzerland",
+      "start": "2009-04",
+      "end": "2015-12",
+      "dateRange": "Apr 2009 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Postdoctoral Researcher",
+      "company": "Technical University of Denmark",
+      "companyUrl": "https://www.linkedin.com/company/technical-university-of-denmark",
+      "description": null,
+      "location": "Copenhagen, Denmark",
+      "start": "2007-01",
+      "end": "2009-03",
+      "dateRange": "Jan 2007 – Mar 2009",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Microsoft Research",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Cambridge Area",
+      "start": "2006-07",
+      "end": "2006-12",
+      "dateRange": "Jul 2006 – Dec 2006",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Yale University",
+      "companyUrl": "https://www.linkedin.com/company/yale-university",
+      "description": "USA",
+      "location": null,
+      "start": "2002-10",
+      "end": "2003-08",
+      "dateRange": "Oct 2002 – Aug 2003",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Imperial College London",
+      "degree": "Doctor of Philosophy (PhD), Computer Science",
+      "dateRange": "2003 – 2006"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Mathematics",
+      "dateRange": "1999 – 2004"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Computer Science",
+      "dateRange": "1998 – 2002"
+    }
+  ],
+  "skills": [
+    "Computer Science",
+    "Software Engineering",
+    "Software Verification",
+    "Programming Languages",
+    "Distributed Systems",
+    "Teaching",
+    "Project Management",
+    "Software Development"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "company": {
+    "name": "Google",
+    "tagline": null,
+    "description": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.\n\nCheck out our career opportunities at goo.gle/3DLEokh",
+    "industry": "Software Development",
+    "website": "https://goo.gle/3DLEokh",
+    "linkedInUrl": "https://www.linkedin.com/company/google",
+    "employeeCount": 341631,
+    "foundedYear": null,
+    "location": "Mountain View, United States",
+    "specialities": [
+      "search",
+      "ads",
+      "mobile",
+      "android",
+      "online video",
+      "apps",
+      "machine learning",
+      "virtual reality",
+      "cloud",
+      "hardware",
+      "artificial intelligence",
+      "youtube",
+      "software"
+    ]
+  }
+}

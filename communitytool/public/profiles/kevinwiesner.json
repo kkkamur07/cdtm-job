@@ -1,0 +1,210 @@
+{
+  "id": "kevinwiesner",
+  "name": "Dr. Kevin Wiesner",
+  "headline": "CTO & Co-Founder @ Vantis | PhD CS | CDTM, LMU | ex-tado°",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/kevinwiesner",
+  "personId": 1460,
+  "classes": [
+    {
+      "id": 61,
+      "label": "Spring 2007",
+      "season": "Spring",
+      "year": 2007,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2007",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Kevin Wiesner",
+  "ca": null,
+  "summary": "CTO & Co-Founder @ Vantis, shaping digitally-enabled healthcare to better serve patients with chronic conditions. 15+ years of experience in mobile and distributed systems; 10+ years in technical leadership across product development and research.\n\nPhD in Computer Science, MSc in Media Informatics, and Honors Degree in Technology Management (CDTM). Studied at LMU with terms abroad at CMU (US) and QUT (AU). Passionate about agile software development, purposeful tech, and lifelong learning.",
+  "positions": [
+    {
+      "title": "CTO & Co-Founder",
+      "company": "Vantis GmbH",
+      "companyUrl": "https://www.linkedin.com/company/vantis-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-06",
+      "end": null,
+      "dateRange": "Jun 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of App Development",
+      "company": "tado°",
+      "companyUrl": "https://www.linkedin.com/company/tadogmbh",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2016-05",
+      "end": "2020-05",
+      "dateRange": "May 2016 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "tado°",
+      "companyUrl": "https://www.linkedin.com/company/tadogmbh",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-03",
+      "end": "2016-04",
+      "dateRange": "Mar 2015 – Apr 2016",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "LMU - Ludwig-Maximilians-Universität München",
+      "companyUrl": null,
+      "description": "Research assistant and PhD student at the Mobile and Distributed Systems group.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2010-03",
+      "end": "2015-02",
+      "dateRange": "Mar 2010 – Feb 2015",
+      "current": false
+    },
+    {
+      "title": "Research Assistant at Urban Informatics Research Lab",
+      "company": "Queensland University of Technology",
+      "companyUrl": "https://www.linkedin.com/company/queensland-university-of-technology",
+      "description": null,
+      "location": "Brisbane, Australia",
+      "start": "2009-04",
+      "end": "2009-08",
+      "dateRange": "Apr 2009 – Aug 2009",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Wevade GmbH",
+      "companyUrl": "https://www.linkedin.com/company/wevade-gmbh",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2008-01",
+      "end": "2009-12",
+      "dateRange": "Jan 2008 – Dec 2009",
+      "current": false
+    },
+    {
+      "title": "Research Assistant at Robotics Institute",
+      "company": "Carnegie Mellon University",
+      "companyUrl": "https://www.linkedin.com/company/carnegie-mellon-university",
+      "description": "Greater Pittsburgh Region",
+      "location": null,
+      "start": "2007-01",
+      "end": "2008-12",
+      "dateRange": "Jan 2007 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "DOCOMO Communications Laboratories Europe GmbH (DOCOMO Euro-Labs)",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2006-01",
+      "end": "2007-12",
+      "dateRange": "Jan 2006 – Dec 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Dr. rer. nat. (Doctor of Natural Sciences), Informatics",
+      "dateRange": "2010 – 2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree Technology Management, Technology Management",
+      "dateRange": "2007 – 2009"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom (~ B.Sc.+ M.Sc. equivalent), Media Informatics",
+      "dateRange": "2004 – 2009"
+    }
+  ],
+  "skills": [
+    "Kubernetes",
+    "Cloud-Infrastruktur",
+    "Leadership",
+    "Software Engineering",
+    "Mobile Applications",
+    "Computer Science",
+    "Software Development",
+    "Mobile Technology",
+    "Android Development",
+    "Scrum",
+    "Research",
+    "Algorithms",
+    "Programming",
+    "Web Development",
+    "Data Mining",
+    "Agile",
+    "Kanban",
+    "Android",
+    "Java",
+    "C#",
+    "C++",
+    "C",
+    "Python",
+    "MySQL",
+    "Linux",
+    "LaTeX",
+    "Innovation Management",
+    "Mobile Application Development",
+    "Windows software development",
+    "Windows Phone",
+    "Agile Application Development",
+    "Software Product Management",
+    "Kotlin",
+    "Start-ups",
+    "Product Development",
+    "Management",
+    "Recruiting",
+    "Technical Recruiting",
+    "Software Design",
+    "Software Project Management",
+    "English",
+    "German",
+    "Project Management",
+    "Project Planning",
+    "Team Management",
+    "Team Leadership",
+    "Coaching",
+    "Agile Methodologies",
+    "Agile Project Management",
+    "Agile Environment",
+    "Product Management",
+    "Analytical Skills",
+    "Web Technologies"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Vantis",
+    "tagline": "Digitale Behandlungsmethoden mit persönlicher ärztlicher Betreuung vor Ort.",
+    "description": "Bei Vantis stehen wir an vorderster Front der medizinischen Innovation. Mit einem starken Fokus auf Technologie und chronischen Krankheiten arbeiten wir daran, die traditionelle Gesundheitsversorgung radikal zu verbessern.\n\nWie machen wir das? Durch die Kombination digitaler Behandlungswege und einer maßgeschneiderten, patientenzentrierten Versorgung vor Ort.",
+    "industry": "Outpatient Care Centers",
+    "website": "http://www.vantis-health.com",
+    "linkedInUrl": "https://www.linkedin.com/company/vantis-gmbh",
+    "employeeCount": 40,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

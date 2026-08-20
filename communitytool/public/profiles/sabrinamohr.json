@@ -1,0 +1,266 @@
+{
+  "id": "sabrinamohr",
+  "name": "Sabrina Mohr",
+  "headline": "Product @Klar",
+  "avatar": {
+    "sm": "/avatars/sabrinamohr-sm.webp",
+    "lg": "/avatars/sabrinamohr.webp",
+    "blur": "data:image/webp;base64,UklGRggBAABXRUJQVlA4IPwAAACwBQCdASogACAAPtFepk6oJSOiKAqpABoJQBloINCnnSfrj5bHFXYjIh8d5dYyyogOC36pDUAA/v14fLaNJdUn5J90ZpFOYbV+u8LFKoz8kbpX1l9zfOMFVvNgxEqs0usCvxTaTSh/QGlMcXIuamucFmuuq+lJMe9bfLf/Kh5CTzog9Kauo5bs7JAPdWYvo0du4l2XqFalmirOP3Yn0dChOurO1+0Yp/yGHASo2cAQRUZBiePXO34ZCF7nuNn1Epnc4kiaLvE6dWrH5v6eNrqu6JVRp7Pg+8vYmr9aPdVi7hD41G+YpFdjmmSlJCnvKhrdvza1aZiJb1gAAAA="
+  },
+  "location": "Mexico City, Mexico",
+  "linkedInUrl": "https://www.linkedin.com/in/sabrinamohr",
+  "personId": 793,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sabrina Mohr",
+  "ca": null,
+  "summary": "I am passionate about creating digital products.",
+  "positions": [
+    {
+      "title": "Senior Product Manager",
+      "company": "Klar",
+      "companyUrl": "https://www.linkedin.com/company/klartechnologies",
+      "description": null,
+      "location": "Mexico City, Mexico",
+      "start": "2024-11",
+      "end": null,
+      "dateRange": "Nov 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Lead",
+      "company": "Alaiko",
+      "companyUrl": "https://www.linkedin.com/company/alaiko",
+      "description": "As a Product Lead at Alaiko, I oversee a team of Product Managers to drive the development and launch of our Alaiko’s software solutions. With a keen eye for market trends and customer needs, I lead the charge in delivering products that delight our customers and drive growth for our business.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-03",
+      "end": "2024-10",
+      "dateRange": "Mar 2023 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Alaiko",
+      "companyUrl": "https://www.linkedin.com/company/alaiko",
+      "description": "Alaiko is Europe’s leading fulfillment-as-a-service platform that enables online shops to scale their operations without friction. \n\nMy main responsibilities are generating insights from a variety of stakeholder inputs, conceptualising solutions together with engineering and finally owning the business outcome of the developed solutions within my product areas.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-09",
+      "end": "2023-04",
+      "dateRange": "Sep 2020 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "Responsible for a specific product area within the Celonis Intelligent Business Cloud. Working as part of a team with engineers and designers. Typical tasks include building and communicating the product roadmap, prioritising the product backlog, building wireframes, conducting user research, and finally providing all necessary materials to enable each user to harness the product's value.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-09",
+      "end": "2020-09",
+      "dateRange": "Sep 2019 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "MergerSpot",
+      "companyUrl": "https://www.linkedin.com/company/mergerspot",
+      "description": "Supporting an early stage startup in identifying user needs as well as translating these into a product vision and backlog. Conducting user research to define specific features from abstract user need until actual design. Working together with the CEO to prioritise the product backlog.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-06",
+      "end": "2019-08",
+      "dateRange": "Jun 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "Conducting human-centric-design research with the MIT Media Lab to build collaborative information systems for evolving social movements, such as the DIY biology community. Supporting the MIT Climate CoLab with running their open problem-solving platform tackling climate change.",
+      "location": "Cambridge, Massachusetts, Estados Unidos",
+      "start": "2018-08",
+      "end": "2019-03",
+      "dateRange": "Aug 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Human-Machine-Interaction Researcher",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Drafting, conducting and evaluating user studies to shape any kind of interaction between human and cars from 2025 on. Special focus on social robotics and voice control.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-01",
+      "end": "2018-07",
+      "dateRange": "Jan 2018 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "Business Development Manager",
+      "company": "Mentalab.co",
+      "companyUrl": "https://www.linkedin.com/company/mentalab.co",
+      "description": "Enabling medical professionals as well as Brain-Computer-Interface experts to perform research with latest EEG technology.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-01",
+      "end": "2018-03",
+      "dateRange": "Jan 2018 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "External Consultant",
+      "company": "eGym",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": "Development of a Smartphone Application (Android) that supports eGym users with their nutrition.",
+      "location": "Munich",
+      "start": "2017-04",
+      "end": "2017-07",
+      "dateRange": "Apr 2017 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "External Consultant",
+      "company": "adidas",
+      "companyUrl": "https://www.linkedin.com/company/adidas",
+      "description": "Creating a comprehensive trend report for Adidas AG in collaboration with 25 fellow students, industry experts, and academic researchers. The trend report included 5 detailed business ideas of which one could be further pursued.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-02",
+      "end": "2017-04",
+      "dateRange": "Feb 2017 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Innovation Manager",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": "Building up and managing the SAP Innovation Network in Munich including Entrepreneurship Centers, Start-Ups, Corporates and Investors. Establishing strategic partnership between SAP and UnternehmerTUM. Representing SAP on events like MUST Munich, Dahoam Conference or the opening of the Digital Product School.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-12",
+      "end": "2017-09",
+      "dateRange": "Dec 2016 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Marketing Trainee",
+      "company": "Solute GmbH",
+      "companyUrl": "https://www.linkedin.com/company/solute-gmbh",
+      "description": null,
+      "location": "Greater Karlsruhe Area",
+      "start": "2016-05",
+      "end": "2016-09",
+      "dateRange": "May 2016 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "Marketing and Sales Internship",
+      "company": "Wilkhahn Asia Pacific",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Sydney Area",
+      "start": "2015-07",
+      "end": "2016-01",
+      "dateRange": "Jul 2015 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Tutor for Mathematical Analysis",
+      "company": "University of Applied Sciences, Karlsruhe/Germany",
+      "companyUrl": "https://www.linkedin.com/company/university-of-applied-sciences-karlsruhe-germany",
+      "description": null,
+      "location": "Karlsruhe, Germany",
+      "start": "2013-03",
+      "end": "2014-03",
+      "dateRange": "Mar 2013 – Mar 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Master Thesis, Human-Centric-Design in Collaboration Platforms",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Winter School",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Business Administration and Management",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Universitat Politècnica de València (UPV)",
+      "degree": "Technology Management",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Karlsruhe University of Applied  Sciences",
+      "degree": "Bachelor of Applied Science (B.A.Sc.), International Business",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Tecnológico de Monterrey",
+      "degree": "International Business",
+      "dateRange": "2014 – 2015"
+    }
+  ],
+  "skills": [
+    "Market Share Analysis",
+    "German to English",
+    "Digital Marketing",
+    "Deliveries",
+    "Mail",
+    "English",
+    "German",
+    "German Translation",
+    "Business English",
+    "Marketing",
+    "Market Analysis",
+    "Online Marketing",
+    "Marketing Management",
+    "Spanish",
+    "Binders",
+    "Marketing Strategy",
+    "Teamwork",
+    "Furniture"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Klar",
+    "tagline": "Cuenta con Klar",
+    "description": "Tu dinero en libertad",
+    "industry": "Financial Services",
+    "website": "http://www.klar.mx",
+    "linkedInUrl": "https://www.linkedin.com/company/klartechnologies",
+    "employeeCount": 339,
+    "foundedYear": 2019,
+    "location": "Mexico City, Mexico",
+    "specialities": []
+  }
+}

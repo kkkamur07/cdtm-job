@@ -1,0 +1,266 @@
+{
+  "id": "asif-nadeem-92166351",
+  "name": "Asif Nadeem",
+  "headline": "Senior Application Engineer at Dialog Semiconductor",
+  "avatar": {
+    "sm": "/avatars/asif-nadeem-92166351-sm.webp",
+    "lg": "/avatars/asif-nadeem-92166351.webp",
+    "blur": "data:image/webp;base64,UklGRkoBAABXRUJQVlA4ID4BAAAQBwCdASogACAAPtFYpk0oJSOiMBgIAQAaCWwAnTKDPMWAA5W9x54/oOlD6WuVhQ+Y3Nn606H947m1p3iGPpWGQAD4odAbOvPfdAxJGa/fM//VLdCYhtqQ7l/bduc2JO8wvr0Hr0koHLDfw99Jdc+LO2Y5xeRAu9r08AQLW9KtfMtPfD/BSPAHF7+bx4l1Gwto5I3Vj3VdkMnOIvRiHo14ZYOq7gzdDXZI6ukbxMATzbZyPTNp2ykhZQXhQ7FWzuGoYDVPZW7CbTJRMgVnEngXol8Lg1Sh1IDW3lsKP951KwPSu4DzQvT4sH5LPOFPylAp8Mn1l8TZE3BCgbyBavf7WAD+cxSw0wIm/T/Lrj106IOkTEFoO63NKAg8sgIM7eF7QVR2rH3czvXzX6Nxc/uI2ugu4SgOeFbjBUskqAA="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/asif-nadeem-92166351",
+  "personId": 872,
+  "classes": [
+    {
+      "id": 77,
+      "label": "Spring 2015",
+      "season": "Spring",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2015",
+  "major": "Communications Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Asif Nadeem",
+  "ca": null,
+  "summary": "Ejaad-Nama (Urdu: Letters of Invention). A bi-weekly newsletter about Science, Electronics, Makers, DIY, and everything technical. We talk about lemons, acid battery and anything in between.\n\nIf you like the content, dont forget to leave some comment or subscribe by clicking at the top. \nhttps://ejaadnama.substack.com/",
+  "positions": [
+    {
+      "title": "Principal Application Engineer",
+      "company": "Renesas Electronics",
+      "companyUrl": "https://www.linkedin.com/company/renesas",
+      "description": null,
+      "location": null,
+      "start": "2023-04",
+      "end": null,
+      "dateRange": "Apr 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Application Engineer",
+      "company": "Renesas Electronics",
+      "companyUrl": "https://www.linkedin.com/company/renesas",
+      "description": null,
+      "location": null,
+      "start": "2021-04",
+      "end": "2023-03",
+      "dateRange": "Apr 2021 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Application Engineer",
+      "company": "Dialog Semiconductor",
+      "companyUrl": "https://www.linkedin.com/company/dialog-semiconductor",
+      "description": null,
+      "location": null,
+      "start": "2019-04",
+      "end": "2021-04",
+      "dateRange": "Apr 2019 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Junior Application Engineer",
+      "company": "Dialog Semiconductor",
+      "companyUrl": "https://www.linkedin.com/company/dialog-semiconductor",
+      "description": null,
+      "location": null,
+      "start": "2017-06",
+      "end": "2019-04",
+      "dateRange": "Jun 2017 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Field Application Engineer",
+      "company": "Texas Instruments",
+      "companyUrl": "https://www.linkedin.com/company/texas-instruments",
+      "description": null,
+      "location": null,
+      "start": "2016-10",
+      "end": "2017-03",
+      "dateRange": "Oct 2016 – Mar 2017",
+      "current": false
+    },
+    {
+      "title": "Founding Member",
+      "company": "Eleza.org",
+      "companyUrl": null,
+      "description": "www.eleza.org • Solving global issues by sharing solutions.",
+      "location": null,
+      "start": "2015-11",
+      "end": "2017-11",
+      "dateRange": "Nov 2015 – Nov 2017",
+      "current": false
+    },
+    {
+      "title": "Master Thesis Project",
+      "company": "Texas Instruments",
+      "companyUrl": "https://www.linkedin.com/company/texas-instruments",
+      "description": "Thesis: Robust capacitive touch systems for industrial and harsh environments.\nEvaluation, Design and Implementation of Capacitive touch sensors and system.",
+      "location": null,
+      "start": "2015-11",
+      "end": "2016-05",
+      "dateRange": "Nov 2015 – May 2016",
+      "current": false
+    },
+    {
+      "title": "Research Internship – Industrial Applications",
+      "company": "Texas Instruments",
+      "companyUrl": "https://www.linkedin.com/company/texas-instruments",
+      "description": "Evaluate and define use case for Capacitive Touch using TI CC26xx wireless devices \nUse TI MSP430 IP blocks to evaluate performance limits \nDesign CC2650 PCB application board enabling gesture and proximity with focus on robustness and low power requirements",
+      "location": null,
+      "start": "2015-04",
+      "end": "2015-10",
+      "dateRange": "Apr 2015 – Oct 2015",
+      "current": false
+    },
+    {
+      "title": "Research Internship – Internet of Things",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Design, Implement and performance analysis of proximity detection algorithm \nDevelop BLE HW Prototype for Proximity Detection \niOS App Development for prototype\nIntegration of HW prototype with in-car CAN Network",
+      "location": null,
+      "start": "2014-05",
+      "end": "2014-09",
+      "dateRange": "May 2014 – Sep 2014",
+      "current": false
+    },
+    {
+      "title": "Consulting Associate",
+      "company": "A. F. Ferguson & Co. (a member firm of the PwC network)",
+      "companyUrl": "https://www.linkedin.com/company/affco-pk",
+      "description": "Responsibilities include plan and perform assessment of system/network availability, Security and data integrity to identify, manage, and reduce risks and ensure general compliance.",
+      "location": null,
+      "start": "2012-06",
+      "end": "2013-07",
+      "dateRange": "Jun 2012 – Jul 2013",
+      "current": false
+    },
+    {
+      "title": "Radio Jockey",
+      "company": "Ziauddin FM",
+      "companyUrl": null,
+      "description": "Hosted a show  consisting of Commentary, Analysis and Critical review of Latest and upcoming Technology and Movies.",
+      "location": null,
+      "start": "2011-10",
+      "end": "2012-02",
+      "dateRange": "Oct 2011 – Feb 2012",
+      "current": false
+    },
+    {
+      "title": "Internee",
+      "company": "PTCL.Official",
+      "companyUrl": "https://www.linkedin.com/company/ptcl-official",
+      "description": "Interned At PTCL for 6 weeks. The learning consists of Setting up of live BTS and WiMax Equipment, and Debugging for problems in Vfone and Internet Services.",
+      "location": null,
+      "start": "2011-06",
+      "end": "2011-08",
+      "dateRange": "Jun 2011 – Aug 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Masters In Technology Management",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (MSc), Electrical, Electronics and Communications Engineering",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "FAST-NU",
+      "degree": "Bachelor of Science (B.Sc.), Telecommunications Engineering",
+      "dateRange": "2008 – 2012"
+    },
+    {
+      "school": "St Patrick's High School, Karachi",
+      "degree": "A levels, Engineering",
+      "dateRange": "2006 – 2008"
+    },
+    {
+      "school": "Beaconhouse School System",
+      "degree": "O levels, Pre Engineering",
+      "dateRange": "2003 – 2006"
+    }
+  ],
+  "skills": [
+    "Management",
+    "SQL",
+    "C",
+    "Assembly Language",
+    "C++",
+    "Microsoft Word",
+    "Microsoft Office",
+    "Public Speaking",
+    "Microsoft Excel",
+    "Team Management",
+    "Project Planning",
+    "Time Management",
+    "Analysis",
+    "Project Management",
+    "Teamwork",
+    "Objective-C",
+    "Programming",
+    "Python",
+    "Matlab",
+    "Embedded Systems",
+    "RTOS",
+    "VHDL",
+    "CCNA",
+    "Electronics",
+    "SystemC",
+    "Embedded C",
+    "Red Hat Linux",
+    "Arduino",
+    "PCB design",
+    "Altium Designer",
+    "Atmel AVR",
+    "Xilinx ISE",
+    "GSM",
+    "Circuit Simulators",
+    "Multisim",
+    "EagleCAD",
+    "MSP430",
+    "Ada programming"
+  ],
+  "languages": [
+    "Urdu",
+    "Sindhi",
+    "German",
+    "English"
+  ],
+  "company": {
+    "name": "Renesas Electronics",
+    "tagline": null,
+    "description": "Renesas is an embedded semiconductor solution provider driven by its Purpose ‘To Make Our Lives Easier.’ As the industry’s leading expert in embedded processing with unmatched quality and system-level know-how, we have evolved to provide scalable and comprehensive semiconductor solutions for automotive, industrial, infrastructure, and IoT industries based on the broadest product portfolio, including High Performance Computing, Embedded Processing, Analog & Connectivity, and Power. \n\nWith a diverse team of over 21,000 professionals in more than 30 countries, we continue to expand our boundaries to offer enhanced user experiences through digitalization and usher into a new era of innovation. We design and develop sustainable, power-efficient solutions today that help people and communities thrive tomorrow, ‘To Make Our Lives Easier.’",
+    "industry": "Semiconductor Manufacturing",
+    "website": "http://www.renesas.com",
+    "linkedInUrl": "https://www.linkedin.com/company/renesas",
+    "employeeCount": 11979,
+    "foundedYear": null,
+    "location": "Koto-ku, Toyosu, Japan",
+    "specialities": [
+      "High Performance Computing",
+      "Analog & Connectivity",
+      "Embedded Processing",
+      "Power",
+      "Automotive solutions",
+      "Industrial solutions",
+      "Infrastructure solutions",
+      "IoT solutions",
+      "ADAS",
+      "Microcontrollers MCU",
+      "Semiconductor Design and Manufacturing"
+    ]
+  }
+}

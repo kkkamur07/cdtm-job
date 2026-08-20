@@ -1,0 +1,145 @@
+{
+  "id": "ja-may",
+  "name": "Jakob Mayer",
+  "headline": "Building OSM | CDTM | Creator Fund | CS at LMU | Quantum Computing | ML",
+  "avatar": {
+    "sm": "/avatars/ja-may-sm.webp",
+    "lg": "/avatars/ja-may.webp",
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAADQBQCdASogACAAPtFao0yoJSMiMBgIAQAaCUAZmjF8VpDpWJX/A6pds0sV9zwEIAGIc7gT/oqAAP7TR+fvlLmVIpJ4w3hTXA32Nyez29vuRU2YRUhaT5Xf1OiZVzM5y18LiefEuaGkOTwdJMsSVr7c/446pHFOpnwuneIwZKT7aRGArbDbZ/siUQWcizaZvmZnLJhd5JfYkoPt+HK7xzAbWDfklwHNbHmVniHeEFeqbCyfaAG3vMzns+/1X9O0vLJGRDyMed0WfDodanIGYftoEk+IQbMyqhuBAAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/ja-may",
+  "personId": 2089,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jakob Mayer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "OSM",
+      "companyUrl": "https://www.linkedin.com/company/osm-data",
+      "description": null,
+      "location": null,
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Student Investment Partner",
+      "company": "Creator Fund",
+      "companyUrl": "https://www.linkedin.com/company/creator-fund",
+      "description": "London",
+      "location": null,
+      "start": "2024-10",
+      "end": "2025-08",
+      "dateRange": "Oct 2024 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "Lupe",
+      "companyUrl": "https://www.linkedin.com/company/lupe-fi",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-10",
+      "end": "2025-03",
+      "dateRange": "Oct 2024 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "Quantum Software Engineer",
+      "company": "Aqarios",
+      "companyUrl": "https://www.linkedin.com/company/aqarios-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-11",
+      "end": "2024-10",
+      "dateRange": "Nov 2022 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Lehrassistent",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-02",
+      "dateRange": "Oct 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Full Stack Software Engineer",
+      "company": "naturAlly AG",
+      "companyUrl": "https://www.linkedin.com/company/naturally-ag",
+      "description": null,
+      "location": "Liechtenstein",
+      "start": "2021-09",
+      "end": "2022-03",
+      "dateRange": "Sep 2021 – Mar 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree , Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": "Exchange Semester",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Max-Planck-Gymnasium",
+      "degree": "Abitur",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Optimierung",
+    "Unterrichten",
+    "FastAPI",
+    "Maschinelles Lernen",
+    "Softwareentwicklung",
+    "Quantencomputing",
+    "React Native",
+    "JavaScript",
+    "Java",
+    "Englisch",
+    "Python (Programmiersprache)"
+  ],
+  "languages": [],
+  "company": null
+}

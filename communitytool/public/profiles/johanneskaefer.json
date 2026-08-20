@@ -1,0 +1,288 @@
+{
+  "id": "johanneskaefer",
+  "name": "Johannes Käfer",
+  "headline": "Head of Project Management @ ITZBund",
+  "avatar": null,
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/johanneskaefer",
+  "personId": 1598,
+  "classes": [
+    {
+      "id": 53,
+      "label": "Spring 2003",
+      "season": "Spring",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Johannes Käfer",
+  "ca": null,
+  "summary": "With over 15 years of experience in software development, consulting and leading teams of varying sizes, I am currently Head of Project Management at ITZBund, the central IT service provider for the Federal Government of Germany. I guide a team of around 70 project managers and assistants, who manage around 200 projects for various customers using agile or VMXT methodologies.\n\nMy core competencies include agile methods, software development, enterprise architecutre, team management, business administration and human resource management. I have successfully delivered large-scale projects, such as the Verwaltungsportal Bund and the Nutzerkonto Bund, that enhance the digital services and user experience for the citizens and businesses. My mission is to leverage my technical know how in combination with my desire to transform the way we deliver software within the government to provide innovative, efficient, and secure IT solutions for the public sector.",
+  "positions": [
+    {
+      "title": "Head of Project Management",
+      "company": "ITZBund",
+      "companyUrl": "https://www.linkedin.com/company/itzbund",
+      "description": "The Project Management department (Referat) within ITZBund is responsible for managing primarily software and infrastructure projects. With a team of 70 colleagues, mainly project managers and assistants, we manage around 200 projects for customers within the Federal Government using either the VMXT or Agile project management methodologies.\n\nAs head my primary tasks involve:\n * Human Resource Management, including job postings, conducting job interviews, performance evaluations, and regular check-ins with colleagues.\n  * Resource Management to optimize available resources and prevent bottlenecks while keeping track of workloads.\n  * Escalation Management within ITZBund and the Federal Government in case of obstacles within the projects\n  * Transitioning from traditional tools such as Outlook, Word, and Excel to more efficient tools like JIRA and Confluence for increased transparency and collaboration. \n  * Defining yearly SMART goals and KPIs to measure success rates and improvements.\n  * Promoting the adoption of new technologies such as Low Code Platforms, digital wallets, integrated enterprise architecture and more.\n\nAnd as an experienced IT project manager, I offer my colleagues advice and guidance in project management.",
+      "location": "Berlin, Germany",
+      "start": "2022-12",
+      "end": null,
+      "dateRange": "Dec 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Project Manager Verwaltungsportal Bund und Nutzerkonto Bund (BMI)",
+      "company": "ITZBund",
+      "companyUrl": "https://www.linkedin.com/company/itzbund",
+      "description": "Leading the ITZBund effort to organize and deploy the \"Verwaltungsportal Bund\" (GSB-portal/proprietary portal) and the \"Nutzerkonto Bund\" (proprietary IAM-solution) within the ITZBund-Infrastructure for the \"Bundesministerium des Inneren und für Heimat\" (Federal Ministry of the Interior and Community). \n\nSignificant achievements: \n  * Sept. 2018: GoLive Verwaltungsportal Bund (beta)\n  * March 2019: GoLive Nutzerkonto Bund / bundID\n  * December 2020: Relaunch Verwaltungsportal Bund  (container based infrastructure and new software-stack developed by third party)",
+      "location": "Berlin, Germany",
+      "start": "2018-04",
+      "end": "2021-10",
+      "dateRange": "Apr 2018 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Project Manager Bürger- und Gescchäftskundenportal (GZD)",
+      "company": "ITZBund",
+      "companyUrl": "https://www.linkedin.com/company/itzbund",
+      "description": "Managing the ITZBund effort as technical project lead to develop and to deploy the \"Bürger- und Geschäftskundenportal (BuG)\" for the \"Generalzolldirektion/GZD\" (German customs) in production.",
+      "location": "Berlin, Germany",
+      "start": "2017-04",
+      "end": "2018-03",
+      "dateRange": "Apr 2017 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Project Manager IdNr-Redesign (BZSt)",
+      "company": "ITZBund",
+      "companyUrl": "https://www.linkedin.com/company/itzbund",
+      "description": "Leading the ITZBund effort to redesign the IdNr-System with an external partner (Gewerk: product-contract) for the \"Bundeszentralamt für Steuern/BZSt\" (Federal Central Tax Office)",
+      "location": "Berlin, Germany",
+      "start": "2017-01",
+      "end": "2018-03",
+      "dateRange": "Jan 2017 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Referent Project Management",
+      "company": "ITZBund",
+      "companyUrl": "https://www.linkedin.com/company/itzbund",
+      "description": "As referent, I led several large-scale projects to successful completion in the role project manager (a project selection is provided below). In addition to these selected projects, I also supervised a number of smaller projects as project leader/project support. \n\nAs deputy head of the department, since 2019, I was responsible for overseeing the department's work organization, escalation management as well as being responsible for over 100 colleagues.",
+      "location": "Berlin, Germany",
+      "start": "2016-11",
+      "end": "2022-11",
+      "dateRange": "Nov 2016 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Interims-CTO",
+      "company": "Manage Your Deal",
+      "companyUrl": "https://www.linkedin.com/company/manage-your-deal",
+      "description": "Management of the IT team consisting of nine developers (six developers in Ukraine).\nStrategic development of the MYD platform with the CEO.\nPlanning and implementation of the technical and architectural development of the MYD platform.",
+      "location": "CTO",
+      "start": "2015-05",
+      "end": "2016-05",
+      "dateRange": "May 2015 – May 2016",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "mbr targeting (Ströer Out-of-Home Media AG)",
+      "companyUrl": null,
+      "description": "Consulting and development of an internal online advertising booking platform using Ruby on Rails and AngularJS",
+      "location": "Berlin",
+      "start": "2014-11",
+      "end": "2015-04",
+      "dateRange": "Nov 2014 – Apr 2015",
+      "current": false
+    },
+    {
+      "title": "Sofware engineer and father",
+      "company": "Freelancer and Father",
+      "companyUrl": null,
+      "description": "* www.chads.io: Online marketing tool for boosting Google Adwords ads\n* www.urbantreasuries.com: Mobile app for reporting street waste\n* vidibus.org: Statistics with QED, full-text search, and infrastructure\n* familienvater.kaefer: rocking the children",
+      "location": "Berlin",
+      "start": "2012-04",
+      "end": "2014-10",
+      "dateRange": "Apr 2012 – Oct 2014",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "BEKO Käuferportal GmbH",
+      "companyUrl": "https://www.linkedin.com/company/beko-k-uferportal-gmbh",
+      "description": "Building an internal \"Big Data Reporting\" solution based on MongoDB, Ruby on Rails, and a service-oriented architecture (SOA).",
+      "location": "Berlin",
+      "start": "2011-12",
+      "end": "2012-03",
+      "dateRange": "Dec 2011 – Mar 2012",
+      "current": false
+    },
+    {
+      "title": "CTO",
+      "company": "BEKO Käuferportal GmbH",
+      "companyUrl": "https://www.linkedin.com/company/beko-k-uferportal-gmbh",
+      "description": "Aufbau und Erweiterung der käuferportal Software (Website, Backend) und der internen und externen IT-Infrastruktur Personalverantwortung für acht Mitarbeiter\nProjektplanung und Projektmanagement (Schnittstelle Un- ternehmen - IT)\n\n\"Developing and improving the \"käuferportal\" software (website, backend) as well as the internal and external IT infrastructure. Responsible for eight employees. Project planning and project management (interface between CEOs and IT).\"",
+      "location": null,
+      "start": "2009-08",
+      "end": "2011-11",
+      "dateRange": "Aug 2009 – Nov 2011",
+      "current": false
+    },
+    {
+      "title": "Project Manager",
+      "company": "BEKO Käuferportal GmbH",
+      "companyUrl": "https://www.linkedin.com/company/beko-k-uferportal-gmbh",
+      "description": "Developed a \"yellow pages\"-type website.",
+      "location": "Berlin, Germany",
+      "start": "2009-08",
+      "end": "2009-09",
+      "dateRange": "Aug 2009 – Sep 2009",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Private Trips GmbH",
+      "companyUrl": null,
+      "description": "* automatic tests with TDD\n* code review\n* Ruby on Rails framework migration",
+      "location": "Berlin, Germany",
+      "start": "2009-03",
+      "end": "2009-09",
+      "dateRange": "Mar 2009 – Sep 2009",
+      "current": false
+    },
+    {
+      "title": "Java Softwarearchitekt und -entwickler",
+      "company": "Webfair AG",
+      "companyUrl": "https://www.linkedin.com/company/webfair-ag",
+      "description": "Reporting and benchmarking, as well as web service development\nRedesign of the ETL process for performance, scalability and maintainability\nProject planning for ETL and reporting software modules",
+      "location": null,
+      "start": "2007-04",
+      "end": "2009-03",
+      "dateRange": "Apr 2007 – Mar 2009",
+      "current": false
+    },
+    {
+      "title": "Technischer Leiter",
+      "company": "Baimos (formerly know as GidTec)",
+      "companyUrl": null,
+      "description": "Design and development of a mobile application (JME) for the BlueID project\nImplementation of a public/private key infrastructure for BlueID.",
+      "location": null,
+      "start": "2006-06",
+      "end": "2006-12",
+      "dateRange": "Jun 2006 – Dec 2006",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Siemens Corporate Research",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "3D volume rendering to visualize bone and rib diseases.\nDevelopment of algorithms for automated detection of rib diseases.",
+      "location": null,
+      "start": "2003-09",
+      "end": "2004-02",
+      "dateRange": "Sep 2003 – Feb 2004",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "TU München, Lehrstuhl für Kommunikationsnetze, München Prof. Eberspächer",
+      "companyUrl": null,
+      "description": "Research Intern im Bereich „Programmble Application Layer Networks“ Co-Author von:\nHyPALM: Hybrid Programmable Application Layer Multicast, 3rd IEEE Inernational Conference on Networking, ICN‘04, März 2004\nTowards Diverse Protection of Data Streams in Programmable Application-Layer Overlay Networks, 11th IEEE Inernational Conference on Software, Telecommunications and Computer Networks, SoftCOM‘03, Oktober 2003",
+      "location": null,
+      "start": "2003-04",
+      "end": "2004-03",
+      "dateRange": "Apr 2003 – Mar 2004",
+      "current": false
+    },
+    {
+      "title": "Studentischer Mitarbeiter",
+      "company": "Siemens AG",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Security and Authentication within the 3GPP Standard.",
+      "location": null,
+      "start": "2001-11",
+      "end": "2002-09",
+      "dateRange": "Nov 2001 – Sep 2002",
+      "current": false
+    },
+    {
+      "title": "Projektmanager und Softwareentwickler",
+      "company": "AAA Net.com GmbH",
+      "companyUrl": null,
+      "description": "Software Developer at internet startup AAA Net.com, specializing in search and portal technology. Development of an email-to-SMS gateway. \nTeam lead for the implementation of a search engine for Telekom Austria, responsible for project management, software design and implementation.",
+      "location": null,
+      "start": "2000-05",
+      "end": "2001-09",
+      "dateRange": "May 2000 – Sep 2001",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": null,
+      "dateRange": "2001 – 2007"
+    },
+    {
+      "school": "UnternehmterTUM (TU Munich)",
+      "degree": "Mobile Applications",
+      "dateRange": "2005 – 2006"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM, Joint Venture between LMU and TU Munich)",
+      "degree": "Honors Degree, Business Administration, Mobile Applications",
+      "dateRange": "2003 – 2005"
+    },
+    {
+      "school": "Höhere Technische Bundeslehr- und Versuchsanstalt",
+      "degree": "Diplom-HTL-Ingenieur, EDV",
+      "dateRange": "1994 – 1999"
+    }
+  ],
+  "skills": [
+    "MySQL",
+    "KPI Reporting",
+    "Test Driven Development",
+    "Behavior-Driven Development (BDD)",
+    "MapReduce",
+    "Service-Oriented Architecture (SOA)",
+    "mobile apps",
+    "MongoDB",
+    "Google Adwords API",
+    "PostGIS",
+    "AngularJS",
+    "OpenStreetMaps",
+    "Agile Development",
+    "Microsoft Azure",
+    "Communication",
+    "IT-Grundschutz nach BSI 200",
+    "Requirements Management",
+    "Continuous Integration and Continuous Delivery (CI/CD)",
+    "Agility and VMXT",
+    "Containerization"
+  ],
+  "languages": [],
+  "company": {
+    "name": "ITZBund",
+    "tagline": "Gestalte mit uns die digitale Zukunft des Landes. #DigitalfürDeutschland",
+    "description": "Die Bundesregierung hat eine umfassende Konsolidierung der IT des Bundes beschlossen.\r\n\r\nZur Neuaufstellung der IT des Bundes sind weitreichende organisatorische und technische Maßnahmen notwendig. Der Bund wird seine Kräfte in der IT bündeln und dazu den IT-Betrieb der unmittelbaren Bundesverwaltung bis 2022 stufenweise in ein bis zwei IT-Dienstleistern an wenigen Standorten konzentrieren (Betriebskonsolidierung), die Entwicklung von häufig im Bund benötigten IT-Anwendungen und -Diensten zusammenfassen und eine Bundescloud aufbauen (Anwendungskonsolidierung) und die IT-Beschaffung in wenigen Stellen der Bundesverwaltung zusammenführen (Beschaffungsbündelung). Mit der Umsetzung der IT-Konsolidierung Bund wird ein ressortübergreifendes, aus zunächst sechs Teilprojekten bestehendes Projekt eingerichtet. Das gesamte Projekt wird von dem Bundesbeauftragten für IT (BfIT) im Bundesministerium des Innern geleitet.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://www.itzbund.de",
+    "linkedInUrl": "https://www.linkedin.com/company/itzbund",
+    "employeeCount": 1290,
+    "foundedYear": 2016,
+    "location": "Bonn, Germany",
+    "specialities": []
+  }
+}

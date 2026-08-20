@@ -1,0 +1,225 @@
+{
+  "id": "janruettinger",
+  "name": "Jan Ruettinger",
+  "headline": "Founder of Dataleap (YC S24) | AI Research at Oxford & TUM | Siemens & Volkswagen",
+  "avatar": {
+    "sm": "/avatars/janruettinger-sm.webp",
+    "lg": "/avatars/janruettinger.webp",
+    "blur": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAACwBQCdASogACAAPtFQpUuoJCOhsBgMAQAaCWMAA+LXfd43MPARSoAi3OrAWWE0kcWBJ+LuDZAA/vunQOjPk8b9h7HmhZ5bNt2jcQ/xigAJ5HK2FfPKhft34ftsf9uY4g+VmxdR6a0LPAeTsJUdqljomaL5Vl/dd5JOSo99D9i9wQoY1575YMQ8+HY6PbBp0YC0PrmHMjShfRAb4O20xIEcoPqkHADfHwx2YkCEv+2Djy1HgBZAypJhyZWc8HPdg+/KWooUfTcdfHp6mgFEHfoql/m2zzKiALkLoks405MPbEAA"
+  },
+  "location": "San Francisco Bay, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/janruettinger",
+  "personId": 1258,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Jan-Hendrik Rüttinger",
+  "ca": null,
+  "summary": "www.janruettinger.com",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Dataleap (YC S24)",
+      "companyUrl": "https://www.linkedin.com/company/dataleap-inc",
+      "description": "Working on something new",
+      "location": null,
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Artificial Intelligence Researcher",
+      "company": "University of Oxford",
+      "companyUrl": "https://www.linkedin.com/company/oxforduni",
+      "description": "Thesis - Unsupervised 3D Reconstruction from Images in the Wild",
+      "location": null,
+      "start": "2022-03",
+      "end": null,
+      "dateRange": "Mar 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Forward Deployed Slide Maker",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "Frameworks/Tools: Excel, Powerpoint",
+      "location": null,
+      "start": "2019-09",
+      "end": "2019-10",
+      "dateRange": "Sep 2019 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Software Development",
+      "company": "Capmo",
+      "companyUrl": "https://www.linkedin.com/company/capmo",
+      "description": "Backend & Licence Management integration\n\nFrameworks/Tools: NodeJS/Javascript",
+      "location": null,
+      "start": "2019-05",
+      "end": "2019-08",
+      "dateRange": "May 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Software Consultant",
+      "company": "Airbus Geospatial and Secure Connectivity Solutions",
+      "companyUrl": "https://www.linkedin.com/company/airbus-geospatial-and-secure-connectivity-solutions",
+      "description": "Part of the CDTM Managing Product Development Seminar. User research, need finding, problem definition and prototype development of an emergency app.\n\nTools & Frameworks: React, JavaScript, HTML",
+      "location": null,
+      "start": "2019-05",
+      "end": "2019-07",
+      "dateRange": "May 2019 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Trend & Future Researcher",
+      "company": "GEA Group",
+      "companyUrl": "https://www.linkedin.com/company/geagroup",
+      "description": "Trend & futures research in the dairy industry in a collaborative project between GEA and CDTM.",
+      "location": null,
+      "start": "2019-03",
+      "end": "2019-05",
+      "dateRange": "Mar 2019 – May 2019",
+      "current": false
+    },
+    {
+      "title": "Deep Learning Researcher",
+      "company": "Volkswagen Group",
+      "companyUrl": "https://www.linkedin.com/company/volkswagen-group",
+      "description": "Department: Autonomous Driving/Perception Team\n\nFrameworks/Tools: Tensorflow, Python",
+      "location": null,
+      "start": "2018-05",
+      "end": "2018-09",
+      "dateRange": "May 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Machine Learning - Research Assistant",
+      "company": "FAU Erlangen-Nürnberg",
+      "companyUrl": "https://www.linkedin.com/company/fau-erlangen-nürnberg",
+      "description": "Robotics Lab: ROS, Machine Learning, Reinforcement Learning\n\nFrameworks/Tools: ROS, Python, Keras",
+      "location": null,
+      "start": "2017-09",
+      "end": "2018-03",
+      "dateRange": "Sep 2017 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": null,
+      "start": "2015-07",
+      "end": "2015-12",
+      "dateRange": "Jul 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Junior Consulting Team e.V.",
+      "companyUrl": "https://www.linkedin.com/company/junior-consulting-team-e-v-",
+      "description": "Customer & Partner Management Department of students consultancy group \"JCT\" at the Friedrich-Alexander-University Erlangen. JCT was awarded \"Best student-run consultancy in Germany\" based on a survey with more than 2000 companies.\n\nFrameworks/Tools: Excel, Powerpoint, Workshop creation",
+      "location": null,
+      "start": "2014-10",
+      "end": "2016-10",
+      "dateRange": "Oct 2014 – Oct 2016",
+      "current": false
+    },
+    {
+      "title": "Software Development",
+      "company": "Fraunhofer IIS",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-iis",
+      "description": "Part of a 4 person team that developed a microcontroller board to control a camera array consisting of nine cameras. Cameras record a scene simultaneously and in sync which allows the user  to change settings like zoom & focus in post-production. \n\nFrameworks/Tools: C, ATMega, SPI, I2C",
+      "location": null,
+      "start": "2012-02",
+      "end": "2014-12",
+      "dateRange": "Feb 2012 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Fraunhofer IIS",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-iis",
+      "description": "Embedded Systems",
+      "location": null,
+      "start": "2012-02",
+      "end": "2013-02",
+      "dateRange": "Feb 2012 – Feb 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Oxford",
+      "degree": "Master thesis, Computer Science",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Robotics, Cognition and Intelligence",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "FAU Erlangen-Nürnberg",
+      "degree": "Bachelor's degree, Elektrotechnik und Elektronik",
+      "dateRange": "2013 – 2017"
+    }
+  ],
+  "skills": [
+    "Java",
+    "C",
+    "C++",
+    "Linux",
+    "PowerPoint",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Project Management",
+    "Teamwork",
+    "Programming",
+    "Matlab",
+    "Projektmanagement",
+    "Englisch",
+    "Microsoft Windows",
+    "Programmierung",
+    "HMTL"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Dataleap (YC S24)",
+    "tagline": "The world's first vibe working platform",
+    "description": "Enabling business teams to build agents without the help of engineering",
+    "industry": "Software Development",
+    "website": "https://dataleap.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/dataleap-inc",
+    "employeeCount": 7,
+    "foundedYear": 2023,
+    "location": "San Francisco, United States",
+    "specialities": [
+      "Market Research",
+      "Market Sizing"
+    ]
+  }
+}

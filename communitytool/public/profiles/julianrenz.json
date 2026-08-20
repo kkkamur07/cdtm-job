@@ -1,0 +1,169 @@
+{
+  "id": "julianrenz",
+  "name": "Julian Renz",
+  "headline": "VP Strategy @ ZeroAvia | CDTM",
+  "avatar": {
+    "sm": "/avatars/julianrenz-sm.webp",
+    "lg": "/avatars/julianrenz.webp",
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAABwBQCdASogACAAPtFgpk+oJSMiKAgBABoJbACdAFX8lqD7OCWPGXBWyDEfujZLzYxT9QuIAP7o2+IzcLKMIj04U0wmvCjqe+6iDQssZwsCtG4Y5toy/1v5mYhSjH/5xLeN8VmVMJqf2beF3jVGBtu4xsEgiaRmtZhW/JPr0kW0MCCoXZDwmG8opxf8BBmZuNFAJSKkmZ3hdovLKuMpTDvhmkdc5bmzz3GYHZnBIhzW6fAhDUX8pTLr3jos3cO+xvFzZtLm4uFKpPeqdKvJ30U4hBV9IjI0mA2g3wAA"
+  },
+  "location": "United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/julianrenz",
+  "personId": 938,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Energy and Process Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Julian Michael Renz",
+  "ca": null,
+  "summary": "Climate tech startup/scale up operator leading strategy, government funding, and ESG / Impact functions.\nStrategic management consulting and VC experience with strong sustainability focus.",
+  "positions": [
+    {
+      "title": "Advisory Group Member",
+      "company": "Aerospace Technology Institute",
+      "companyUrl": "https://www.linkedin.com/company/aerospace-technology-institute",
+      "description": "Member of the Zero Carbon Technology ATI Advisory Group, advising the ATI’s development of the UK aerospace technology strategy",
+      "location": "Cranfield, England, United Kingdom",
+      "start": "2020-01",
+      "end": null,
+      "dateRange": "Jan 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "VP Strategy",
+      "company": "ZeroAvia",
+      "companyUrl": "https://www.linkedin.com/company/zeroavia",
+      "description": "Leading ZeroAvia’s global strategy team. This includes core strategy functions, ESG & impact, and government programs across R&D grants as well as manufacturing and deployment support.\n\nPreviously project manager for >$35M UK-funded projects HyFlyer I & II, where ZeroAvia built and flew the world's largest hydrogen-electric, zero-emission aircraft. Led early business development and supply chain development as first employee at ZeroAvia.",
+      "location": "London Area, United Kingdom",
+      "start": "2018-07",
+      "end": null,
+      "dateRange": "Jul 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate",
+      "company": "SYSTEMIQ Ltd.",
+      "companyUrl": "https://www.linkedin.com/company/systemiq",
+      "description": "Strategy management consulting to establish sustainable aviation ecosystems and implement hydrogen to decarbonize heavy industries\nEarly-stage VC experience for what is now SYSTEMIQ CAPITAL",
+      "location": "Munich | London",
+      "start": "2017-09",
+      "end": "2019-09",
+      "dateRange": "Sep 2017 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "\"Development and Evaluation of a Vehicle Concept for Electric Mobility 2030\"​",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "How can we charge EVs for long distance travelling by 2030?\nModelling in Python in order to compare various charging and vehicle options\nDerived ideal configuration for prototype development",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-11",
+      "end": "2017-05",
+      "dateRange": "Nov 2016 – May 2017",
+      "current": false
+    },
+    {
+      "title": "Freelance Consultant",
+      "company": "Freelance",
+      "companyUrl": null,
+      "description": "Various projects in the market for digital energy services, electric vehicle product development, and alternative power sources (e.g. green hydrogen). \nReferences:\nLarge regional utility (Techno-economic analysis on energy software products)\nStart-Up (Roadmap towards an integrated balancing power provider)\nDAX company (Techno-economic evaluation of zero-carbon hydrogen technologies, product development for electric mobility)\nOpen Innovation Consultancy (various projects)",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-09",
+      "end": "2017-08",
+      "dateRange": "Sep 2015 – Aug 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Technology Management",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Climate KIC summer school: The Journey",
+      "degree": "Climate Entrepreneurship",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master’s Degree, Energy and Process Technology",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "McGill University",
+      "degree": "Engineering",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor’s Degree, Chemical Engineering",
+      "dateRange": "2010 – 2013"
+    }
+  ],
+  "skills": [
+    "Sustainability",
+    "Management Consulting",
+    "Venture Capital",
+    "Engineering",
+    "Energy",
+    "Simulations",
+    "Business Development",
+    "Project Management",
+    "Renewable Energy",
+    "Energy Markets"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Swedish"
+  ],
+  "company": {
+    "name": "ZeroAvia",
+    "tagline": "ZeroAvia is revolutionizing air travel with hydrogen-electric and electric propulsion technology",
+    "description": "We're delivering the clean future of flight.\n\nZeroAvia is developing full hydrogen-electric engines for existing commercial aircraft and also supplying hydrogen and electric propulsion component technologies for novel battery, hybrid and hydrogen-electric air transport applications.\n\nFrom 19-seat regional trips to over 100-seat long-distance flights, ZeroAvia enables scalable, sustainable aviation by replacing conventional engines with hydrogen-electric powertrains.\n\nWe are a team of passionate innovators dedicated to bringing safe, zero-emission flight to aviation, with locations in Kemble and London in the UK, and Everett, Washington DC and Hollister, California in the US.",
+    "industry": "Aviation and Aerospace Component Manufacturing",
+    "website": "https://www.zeroavia.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/zeroavia",
+    "employeeCount": 226,
+    "foundedYear": 2017,
+    "location": "Everett, United States",
+    "specialities": [
+      "software",
+      "hardware",
+      "hydrogen fuel cells",
+      "aviation",
+      "hydrogen",
+      "Aerospace",
+      "hydrogen-electric",
+      "sustainable aviation",
+      "green hydrogen",
+      "propulsion",
+      "electric propulsion",
+      "powertrains",
+      "aircraft engines",
+      "zero emission",
+      "clean aviation",
+      "green aviation",
+      "hydrogen planes",
+      "hydrogen aircraft",
+      "aerospace engineering"
+    ]
+  }
+}

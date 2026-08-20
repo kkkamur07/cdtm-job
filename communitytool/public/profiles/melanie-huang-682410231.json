@@ -1,0 +1,119 @@
+{
+  "id": "melanie-huang-682410231",
+  "name": "Melanie Huang",
+  "headline": "--",
+  "avatar": null,
+  "location": "Singapore",
+  "linkedInUrl": "https://www.linkedin.com/in/melanie-huang-682410231",
+  "personId": 1354,
+  "classes": [
+    {
+      "id": 60,
+      "label": "Fall 2006",
+      "season": "Fall",
+      "year": 2006,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2006",
+  "major": "Electrical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Melanie Huang",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Acting Cluster Director (Planning) & Directory (Technology Policy)",
+      "company": "IMDA",
+      "companyUrl": "https://www.linkedin.com/company/imdasg",
+      "description": null,
+      "location": null,
+      "start": "2023-04",
+      "end": null,
+      "dateRange": "Apr 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Director (Strategic Planning) & Director (Industry & Business Transformation)",
+      "company": "National Arts Council",
+      "companyUrl": "https://www.linkedin.com/company/national-arts-council",
+      "description": null,
+      "location": null,
+      "start": "2021-04",
+      "end": "2023-04",
+      "dateRange": "Apr 2021 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Deputy Director (Security & Resilience)",
+      "company": "Ministry of Communications and Information",
+      "companyUrl": "https://www.linkedin.com/company/ministry-of-digital-development-and-information",
+      "description": null,
+      "location": null,
+      "start": "2017-07",
+      "end": "2021-03",
+      "dateRange": "Jul 2017 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Deputy Director (Healthcare Manpower Policy)",
+      "company": "Ministry of Health (Singapore)",
+      "companyUrl": "https://www.linkedin.com/company/moh-sg",
+      "description": null,
+      "location": null,
+      "start": "2013-09",
+      "end": "2017-06",
+      "dateRange": "Sep 2013 – Jun 2017",
+      "current": false
+    },
+    {
+      "title": "Senior Assistant Director (Entrepreneurship)",
+      "company": "Ministry of Trade and Industry (Singapore)",
+      "companyUrl": "https://www.linkedin.com/company/mtisingapore",
+      "description": null,
+      "location": null,
+      "start": "2010-09",
+      "end": "2013-08",
+      "dateRange": "Sep 2010 – Aug 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Master's degree, Bioengineering",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Engineering - BE, Electrical Engineering",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "IMDA",
+    "tagline": "The Infocomm Media Development Authority powers Singapore’s digital transformation as Architects of her digital future.",
+    "description": "Welcome to the official LinkedIn page of the Infocomm Media Development Authority (IMDA) of Singapore.\n\nAs a statutory board under the Ministry of Digital Development and Information, we drive the innovation of Singapore’s tech, media and communication landscapes for a vibrant economy and digitally inclusive society. This enables our businesses and people to harness opportunities in the digital domain.",
+    "industry": "Government Administration",
+    "website": "https://www.imda.gov.sg/",
+    "linkedInUrl": "https://www.linkedin.com/company/imdasg",
+    "employeeCount": 1293,
+    "foundedYear": null,
+    "location": "Singapore, Singapore",
+    "specialities": []
+  }
+}

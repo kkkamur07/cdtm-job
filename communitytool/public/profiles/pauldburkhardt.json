@@ -1,0 +1,169 @@
+{
+  "id": "pauldburkhardt",
+  "name": "Paul Burkhardt",
+  "headline": "CDTM | CS @TUM, NUS & Berkeley | Studienstiftung",
+  "avatar": {
+    "sm": "/avatars/pauldburkhardt-sm.webp",
+    "lg": "/avatars/pauldburkhardt.webp",
+    "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABQBQCdASogACAAPtFcpUyoJSOiMBgIAQAaCUAYyDFtVq0ReHZoUl65I/mXcWYPsDbLzgAA/voXQJBJ7cti8PizfXvBGwDZHvulVctVwr0PKjpKWav1WAlLaIMjHg4++5YHSWgEAG7Wv7wouVVJ91iknZxOkwRmUcrpsakcOv8aFZpk3t/N7Xsu8VM62fQh6bkBNtfH+wxD4VV6d4FHZodEKCdgz5UFa4qHFUFIPU8wYt8AAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/pauldburkhardt",
+  "personId": 2024,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Paul Burkhardt",
+  "ca": null,
+  "summary": "tinkering...",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Stealth",
+      "companyUrl": "https://www.linkedin.com/company/steath",
+      "description": null,
+      "location": null,
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "BCG Platinion",
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Backend/AI Engineering",
+      "company": "Knowunity",
+      "companyUrl": "https://www.linkedin.com/company/knowunity",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Founder‘s Associate",
+      "company": "Langfuse",
+      "companyUrl": "https://www.linkedin.com/company/langfuse",
+      "description": "first employee\nacquired by clickhouse",
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Cloud Engineering",
+      "company": "adago",
+      "companyUrl": "https://www.linkedin.com/company/adago",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Tutor (TA) for Programming Lab I + II",
+      "company": "University of Mannheim",
+      "companyUrl": "https://www.linkedin.com/company/university-of-mannheim",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2022 – Dec 2023",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Helmholtz-Gymnasium Zweibrücken",
+      "degree": "Abitur",
+      "dateRange": "2020"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Computer Science",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Computer Science",
+      "dateRange": "2024"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Computer Science",
+      "dateRange": "2022"
+    },
+    {
+      "school": "University of Mannheim",
+      "degree": "Bachelor of Science - BS, Computer Science and Business",
+      "dateRange": "2020 – 2023"
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Java",
+    "Microsoft Office",
+    "Python (Programming Language)",
+    "Next.js",
+    "React.js",
+    "Large Language Models (LLM)",
+    "Amazon Web Services (AWS)",
+    "Teaching",
+    "TypeScript",
+    "JUnit",
+    "Englisch",
+    "Deutsch",
+    "Prisma",
+    "Client/server",
+    "supabase",
+    "Unterrichten",
+    "Trpc",
+    "Langchain"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Stealth",
+    "tagline": "Stealth-ing!",
+    "description": "TimelyAI is building a Marketing Saas for Time-based Businesses. \n\n“The idea is to solve the most burning need of our customers- Growing their clientele at an affordable price and being able to build lasting relationships with them for repeat business and referrals.”\n\n\"Coming soon with something extremely 'crazy'!\"",
+    "industry": "Software Development",
+    "website": "https://www.timelyai.com",
+    "linkedInUrl": "https://www.linkedin.com/company/steath",
+    "employeeCount": 4605,
+    "foundedYear": 2021,
+    "location": "Phoenix, United States",
+    "specialities": []
+  }
+}

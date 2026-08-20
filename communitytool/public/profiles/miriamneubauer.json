@@ -1,0 +1,235 @@
+{
+  "id": "miriamneubauer",
+  "name": "Miriam Neubauer",
+  "headline": "Happy to talk web3 & health.",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/miriamneubauer",
+  "personId": 1375,
+  "classes": [
+    {
+      "id": 69,
+      "label": "Spring 2011",
+      "season": "Spring",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2011",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Miriam Neubauer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "BD",
+      "company": "Stealth",
+      "companyUrl": "https://www.linkedin.com/company/steath",
+      "description": null,
+      "location": null,
+      "start": "2025-05",
+      "end": null,
+      "dateRange": "May 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Managing Director& Investment Manager",
+      "company": "Catena Capital",
+      "companyUrl": "https://www.linkedin.com/company/catena-capital",
+      "description": "Catena Capital is a Berlin-based company builder and investment firm focused on blockchain, token economy and decentralized systems. We fund and accelerate in the early-stage investment phase.\nAdvisor: Herdius\n2017-11/2018: Managing Director (Portfolio investments and operational founder support)\n06/2021-2022: Defi portfolio Investments (Consulting basis)",
+      "location": null,
+      "start": "2017-09",
+      "end": "2022-01",
+      "dateRange": "Sep 2017 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Co-founder & CPO",
+      "company": "heycater!",
+      "companyUrl": "https://www.linkedin.com/company/heycater",
+      "description": "Online market place for catering, backed by 500Startups and Atlantic Labs.\n\nProduct and solution development and delivery, implementation of technical, sales and marketing automation products, working closely with customers, sales and marketing. \nResponsible for Product/Dev (CTO), BI, Operations and Online Lead Generation.",
+      "location": null,
+      "start": "2016-01",
+      "end": "2017-08",
+      "dateRange": "Jan 2016 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Product Manager and Operations",
+      "company": "GoButler",
+      "companyUrl": null,
+      "description": "GoButler was an SMS-based concierge service / digital butler.\n\n- Managed internal and external developers\n- Created roadmap for product features to increase the request handling speed within the Operations team and to automate the operations processes\n- Released first features of roadmap: payment automation app, expansion of the answering bots \n- Managed changes on the website for the internationalization/localization process\n- Set up structures for internationalization in Zendesk for Operations team",
+      "location": null,
+      "start": "2015-03",
+      "end": "2015-05",
+      "dateRange": "Mar 2015 – May 2015",
+      "current": false
+    },
+    {
+      "title": "Co-founder",
+      "company": "Coderletics",
+      "companyUrl": null,
+      "description": "Coderletics combines the best of offline bootcamps like General Assembly or Dev Bootcamp, and online courses like Udacity or Codeacademy, www.coderletics.com",
+      "location": null,
+      "start": "2014-06",
+      "end": "2015-01",
+      "dateRange": "Jun 2014 – Jan 2015",
+      "current": false
+    },
+    {
+      "title": "Online Marketing Intern",
+      "company": "Freeletics",
+      "companyUrl": "https://www.linkedin.com/company/freeletics",
+      "description": null,
+      "location": null,
+      "start": "2014-01",
+      "end": "2014-04",
+      "dateRange": "Jan 2014 – Apr 2014",
+      "current": false
+    },
+    {
+      "title": "Co-founder Marketing",
+      "company": "Rent2friends",
+      "companyUrl": null,
+      "description": "Rent2friends is a social apartment rental platform, written in Ruby on Rails.",
+      "location": null,
+      "start": "2012-11",
+      "end": "2013-12",
+      "dateRange": "Nov 2012 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Sales and Field Marketing",
+      "company": "commercetools",
+      "companyUrl": "https://www.linkedin.com/company/commercetools",
+      "description": "Commercetools is an eCommerce PaaS solution and evolved from its original SaaS GRID platform.\n\n- Sales: Lead generation, cold calls, pipeline management\n- Field Marketing: Co-led the organization for the eCommerceOPEN (ecommerceopen.de), the golf event for the eCommerce industry: website, marketing, event schedule, location setup",
+      "location": null,
+      "start": "2012-03",
+      "end": "2013-05",
+      "dateRange": "Mar 2012 – May 2013",
+      "current": false
+    },
+    {
+      "title": "Junior Analyst",
+      "company": "Cartagena Capital",
+      "companyUrl": null,
+      "description": "Cartagena Capital (now Bryan Garnier & Co.) is an M&A boutique with focus on TIME-sector companies. \n\n- delivered market analyses \n- information memoranda \n- long-lists of acquisition candidates \n- company valuations \n- participated in client meetings\n- conducted market research mandates for Telefonica as their global deal sourcer",
+      "location": null,
+      "start": "2011-09",
+      "end": "2012-06",
+      "dateRange": "Sep 2011 – Jun 2012",
+      "current": false
+    },
+    {
+      "title": "Assistent to CEO and CFO",
+      "company": "commercetools",
+      "companyUrl": "https://www.linkedin.com/company/commercetools",
+      "description": "Commercetools is an eCommerce PaaS solution and evolved from its original SaaS GRID platform.\n\n- Finance: created finance plan for Series A round and investment case papers\n- Controlling: set up controlling structure in Salesforce, cleaned data and optimized sales data flow in Salesforce\n- Marketing and sales support",
+      "location": null,
+      "start": "2010-09",
+      "end": "2011-08",
+      "dateRange": "Sep 2010 – Aug 2011",
+      "current": false
+    },
+    {
+      "title": "Online Marketing & Content Manager",
+      "company": "L&W LORENZO WILMOWSKY GmbH & Co KG",
+      "companyUrl": "https://www.linkedin.com/company/l&w-lorenzo-wilmowsky-gmbh-&-co-kg",
+      "description": "Luxury furniture online shop with a strong focus on online marketing optimization. \n- created affiliate page\n- conducted SEO/SEM analysis and optimization, competitor analysis\n- managed product content and wrote product descriptions\n- website usability optimization (UX, checkout process, new features, product management)\n- pricing strategy\n- wrote blog posts for community engagement",
+      "location": null,
+      "start": "2009-08",
+      "end": "2010-09",
+      "dateRange": "Aug 2009 – Sep 2010",
+      "current": false
+    },
+    {
+      "title": "International Marketing, Internal Communication",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Summer Internship:\n- Worked on internal brochure for the PTD (Power Transmission and Distribution) department: content, translation to English, product catalogue updates\n- Support in the Marketing and Internal Communications team",
+      "location": null,
+      "start": "2005-08",
+      "end": "2005-09",
+      "dateRange": "Aug 2005 – Sep 2005",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (BS), Business Administration, Minor in Computer Science",
+      "dateRange": "2009 – 2013"
+    },
+    {
+      "school": "General Assembly",
+      "degree": "3 Months Web Development Immersive",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology and Management",
+      "dateRange": "2011 – 2013"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Research Stay Abroad, School of Information; Haas School of Business",
+      "dateRange": "2013"
+    },
+    {
+      "school": "SCCC, NY",
+      "degree": "History of Modern Arts, Business Supervision",
+      "dateRange": "2008 – 2009"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Leadership",
+    "Mergers & Acquisitions",
+    "Marketing Strategy",
+    "Business Development",
+    "Online Marketing",
+    "Data Science",
+    "Start-ups",
+    "Entrepreneurship",
+    "E-commerce",
+    "Project Management",
+    "Product Management",
+    "Business Strategy",
+    "Innovation Management",
+    "Fundraising",
+    "Operations",
+    "Information Technology",
+    "Business Networking",
+    "Investor Relations",
+    "Blockchain",
+    "Organizational Structure",
+    "Full stack web Development",
+    "Cryptocurrency",
+    "International Strategy",
+    "Full Stack Web Development"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Stealth",
+    "tagline": "Stealth-ing!",
+    "description": "TimelyAI is building a Marketing Saas for Time-based Businesses. \n\n“The idea is to solve the most burning need of our customers- Growing their clientele at an affordable price and being able to build lasting relationships with them for repeat business and referrals.”\n\n\"Coming soon with something extremely 'crazy'!\"",
+    "industry": "Software Development",
+    "website": "https://www.timelyai.com",
+    "linkedInUrl": "https://www.linkedin.com/company/steath",
+    "employeeCount": 4605,
+    "foundedYear": 2021,
+    "location": "Phoenix, United States",
+    "specialities": []
+  }
+}

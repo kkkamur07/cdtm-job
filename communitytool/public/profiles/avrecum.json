@@ -1,0 +1,174 @@
+{
+  "id": "avrecum",
+  "name": "Alexander von Recum",
+  "headline": "CDTM | TUM | UC Berkeley | Studienstiftung",
+  "avatar": {
+    "sm": "/avatars/avrecum-sm.webp",
+    "lg": "/avatars/avrecum.webp",
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAACQBQCdASogACAAPtFYpU0oJSOiMBgIAQAaCWMAnTOOykbVPv1EbCdkug4AaPF9KIrecOe3AAD++6dmpqAR+tEUYzxaEuRzRm+29wiDn3HVv/WZi/gq1bgbFX3BOe0do7K4XqQKJPTyYPxHmONzdrqKbjKZxmzI7Y6QBfm8M1mdiNlLGVfudqhtsGFxhyZfvfFzJ+AUwOrFe5ztkt69ShAkweeB60FDA0L4zJ/CsVi2jQZnm1Cryj1GU/eUN2lXpxlkXYNgOqvd1FGlN1POyAAodCMNgAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/avrecum",
+  "personId": 923,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Alexander von Recum",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Student Researcher",
+      "company": "Helmholtz Munich",
+      "companyUrl": "https://www.linkedin.com/company/helmholtzmunich",
+      "description": "Working on reasoning and interpretability-related AI research projects in Prof. Akata's group.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Scholarship",
+      "company": "Studienstiftung des deutschen Volkes",
+      "companyUrl": "https://www.linkedin.com/company/studienstiftung",
+      "description": "Received scholarship from the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
+      "location": null,
+      "start": "2019-09",
+      "end": null,
+      "dateRange": "Sep 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "HubSpot",
+      "companyUrl": "https://www.linkedin.com/company/hubspot",
+      "description": "Tech internship in the United States. I worked on the FinTech Balance Orchestration team and designed and implemented a cleaner and more efficient service for scheduling payments which will eventually schedule millions of recurring payments.\n\nSkills learned/developed:\n\n- Collaborating with a team of highly skilled engineers (in English)\n- Writing business critical backend infrastructure in Java 17 and the Dropwizard REST framework\n- Working with pub/sub messaging systems and queues such as Kafka and SQS\n- Working with distributed database systems (MySQL/Vitess)\n- Designing systems that are reliable and scalable by coming up with diagrams, writing design docs and splitting up the implementation steps into GitHub issues and milestones\n- Writing unit tests, integration tests and acceptance tests in JUnit 5\n- Identifying and fixing issues by looking through logs and using common monitoring tools\n- Using CI/CD to deploy software into QA and Production environments and monitoring deployments for bad deploys\n- SOX compliance practices\n- Best practices/design patterns for implementing backend services through tech talks",
+      "location": "Cambridge, Massachusetts, United States",
+      "start": "2022-09",
+      "end": "2023-02",
+      "dateRange": "Sep 2022 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "HubSpot",
+      "companyUrl": "https://www.linkedin.com/company/hubspot",
+      "description": "Worked on rebuilding automated and manual testing infrastructure using Docker and Kubernetes, helped implement new authorization flow using OAuth2 and implemented frontend components in React.js and some Vanilla JS.\n\nSkills learned/developed:\n\n- Writing frontend components in React.js, Redux and styled-components\n- Frontend testing React.js in Jasmine and end-to-end testing using Selenium\n- Using Docker and Kubernetes and interacting with a Kubernetes cluster over the Kubernetes Java API\n- How OAuth2 works",
+      "location": "Dublin, County Dublin, Ireland",
+      "start": "2021-03",
+      "end": "2021-05",
+      "dateRange": "Mar 2021 – May 2021",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "DKFZ German Cancer Research Center",
+      "companyUrl": "https://www.linkedin.com/company/dkfz-de",
+      "description": "- Learned basics of working in a lab, e.g. using lab equipment and adhering to hygiene/safety standards\n- Conducted agarose gel electrophoresis, counted percentage of necrotic cells in various samples with a cell counter, fluorescent staining, DNA transfection etc.",
+      "location": null,
+      "start": "2019-04",
+      "end": "2019-04",
+      "dateRange": "Apr 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Human Resources Intern",
+      "company": "Linde Asia Pacific",
+      "companyUrl": "https://www.linkedin.com/company/linde-apac",
+      "description": "- Prepared business/leadership coachings\n- Created and uploaded online courses to Chinese e-learning platform",
+      "location": "Shanghai City, China",
+      "start": "2017-10",
+      "end": "2017-11",
+      "dateRange": "Oct 2017 – Nov 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2023"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student, Computer Science",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - B.Sc., Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Oberstufengymnasium Schloss Hansenberg",
+      "degree": "Abitur, Mathematics, Computer Science, Politics and Economics",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Front-End Development",
+    "PHP",
+    "Jasmine Framework",
+    "Communication",
+    "Back-End Web Development",
+    "Message Queue",
+    "Continuous Integration and Continuous Delivery (CI/CD)",
+    "Algorithms",
+    "Data Structures",
+    "Software Development",
+    "Systems Design",
+    "Linux System Administration",
+    "Creative Writing",
+    "Docker",
+    "Git",
+    "Java",
+    "JavaScript",
+    "C++",
+    "C (Programming Language)",
+    "Ubuntu"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "company": {
+    "name": "Helmholtz Munich",
+    "tagline": "We discover breakthrough solutions for better health in a rapidly changing world!",
+    "description": "Wir sind Helmholtz Munich.\nWir entwickeln bahnbrechende Lösungen für eine gesündere Gesellschaft in einer sich schnell verändernden Welt. \n\nUnsere Welt verändert sich ständig, mit großen Auswirkungen auf unsere Gesundheit. Volkskrankheiten wie Diabetes, Allergien und Lungenerkrankungen nehmen weltweit rasant zu. Gleichzeitig entstehen neue Krankheiten, beispielsweise aufgrund des Klimawandels. \nWir entwickeln Lösungen für eine gesündere Zukunft. Unsere Spitzenforschung bildet die Grundlage für medizinische Innovationen. Gemeinsam mit unseren Partnern beschleunigen wir den Transfer unserer Forschung, damit neue Ideen aus den Laboren noch schneller in der Gesellschaft ankommen. \nHelmholtz Munich zählt mehr als 2.500 Mitarbeitende und hat seinen Sitz in München/Neuherberg. Wir sind Mitglied der Helmholtz-Gemeinschaft, mit mehr als 43.000 Mitarbeitenden und 18 Forschungszentren die größte Wissenschaftsorganisation in Deutschland. \n\nMehr über Helmholtz Munich (Helmholtz Zentrum München Deutsches Forschungszentrum für Gesundheit und Umwelt (GmbH)): www.helmholtz-munich.de",
+    "industry": "Research Services",
+    "website": "https://www.helmholtz-munich.de/en",
+    "linkedInUrl": "https://www.linkedin.com/company/helmholtzmunich",
+    "employeeCount": 1888,
+    "foundedYear": 1960,
+    "location": "Neuherberg, Germany",
+    "specialities": [
+      "Diabetes Research",
+      "Lung Research",
+      "Allergy Research",
+      "Personalized Medicine",
+      "Translational Research",
+      "Stem Cell Research",
+      "Epigenetics",
+      "Drug Discovery",
+      "Environmental Health",
+      "Enabling Technologies"
+    ]
+  }
+}

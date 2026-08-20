@@ -1,0 +1,175 @@
+{
+  "id": "konstantin-adrianowytsch",
+  "name": "Konstantin Adrianowytsch",
+  "headline": "McKinsey | PHD candidate RWTH | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/konstantin-adrianowytsch-sm.webp",
+    "lg": "/avatars/konstantin-adrianowytsch.webp",
+    "blur": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAABQBQCdASogACAAPtFWpkwoJKOiKA1RABoJQBm/sXnltqMkFM2S3dLdL3yRYPSRzmL/WoAA/v5gQBdbZvniLnx7es50X7AqT4xKEzYClgFKD4kT2foxPst8uOcrSX/PCoQB6CK2Pp/Zxd1cE/W7I9XT91vx4937bdb47tyVmzGOjjZThZxNHAB2q5WrlJ6DXzvlQxgoIh1I+UFZGDg35WvLAEae93b35HqcAgRrEDzdVymOOBLYF8YFKHeft4hJXcdttHHxfXFVW+mba9fJu3QIAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/konstantin-adrianowytsch",
+  "personId": 1021,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Konstantin Adrianowytsch",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2021-11",
+      "end": null,
+      "dateRange": "Nov 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2021-03",
+      "end": "2021-04",
+      "dateRange": "Mar 2021 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": null,
+      "start": "2020-08",
+      "end": "2020-10",
+      "dateRange": "Aug 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "External Consultant",
+      "company": "Freshfields Bruckhaus Deringer",
+      "companyUrl": "https://www.linkedin.com/company/freshfields",
+      "description": "Collaboration with Freshfields Bruckhaus Deringer as part of the CDTM E-Lab Project, including a detailed analysis of the start-up ecosystem",
+      "location": null,
+      "start": "2019-10",
+      "end": "2020-02",
+      "dateRange": "Oct 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant Intern",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": null,
+      "start": "2019-06",
+      "end": "2019-08",
+      "dateRange": "Jun 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant",
+      "company": "Simon-Kucher & Partners",
+      "companyUrl": "https://www.linkedin.com/company/simon-kucher",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2018-09",
+      "end": "2018-11",
+      "dateRange": "Sep 2018 – Nov 2018",
+      "current": false
+    },
+    {
+      "title": "Project Student",
+      "company": "TUM School of Management",
+      "companyUrl": "https://www.linkedin.com/company/tum-school-of-management",
+      "description": "In collaboration with three McKinsey consultants we analyzed the South African furniture market as part of an university project. Based on our market analysis we developed a business model to enter this market.",
+      "location": "Johannesburg und Umgebung, Südafrika",
+      "start": "2017-10",
+      "end": "2017-12",
+      "dateRange": "Oct 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "AHE Automation",
+      "companyUrl": null,
+      "description": "I worked three months for the official partner of ABB Robotics Malayisa to consult Asian manufacturers how they can further automate their production lines.",
+      "location": "Kuala Lumpur, Malaysia",
+      "start": "2017-08",
+      "end": "2017-10",
+      "dateRange": "Aug 2017 – Oct 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "RWTH Aachen University",
+      "degree": "PHD Candidate",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology and Management",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Visiting Student",
+      "dateRange": "2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management and Technology",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Management and Technology",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "Justus-von-Liebig Gymnasium Neusäß",
+      "degree": "Abschluss des Abiturs",
+      "dateRange": "2008 – 2016"
+    }
+  ],
+  "skills": [
+    "Baggerbedienung"
+  ],
+  "languages": [],
+  "company": {
+    "name": "McKinsey & Company",
+    "tagline": null,
+    "description": "McKinsey & Company is a global management consulting firm. We are the trusted advisor to the world's leading businesses, governments, and institutions. \r\n\r\nWe work with leading organizations across the private, public and social sectors. Our scale, scope, and knowledge allow us to address problems that no one else can. We have deep functional and industry expertise as well as breadth of geographical reach. We are passionate about taking on immense challenges that matter to our clients and, often, to the world. \r\n\r\nWe work with our clients as we do with our colleagues. We build their capabilities and leadership skills at every level and every opportunity. We do this to help build internal support, get to real issues, and reach practical recommendations. We bring out the capabilities of clients to fully participate in the process and lead the ongoing work.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.mckinsey.com",
+    "linkedInUrl": "https://www.linkedin.com/company/mckinsey",
+    "employeeCount": 38159,
+    "foundedYear": null,
+    "location": "United States",
+    "specialities": [
+      "Management Consulting"
+    ]
+  }
+}

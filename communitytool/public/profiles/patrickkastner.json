@@ -1,0 +1,312 @@
+{
+  "id": "patrickkastner",
+  "name": "Patrick Kastner",
+  "headline": "Assistant Professor at Georgia Tech",
+  "avatar": {
+    "sm": "/avatars/patrickkastner-sm.webp",
+    "lg": "/avatars/patrickkastner.webp",
+    "blur": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAAAwBgCdASogACAAPsVSoEunpKMht/VYAPAYiUAY4bTQgft2qyo50BrYajiHk4UwbzmRpLRAiSC5ZmwAAP7+wqDm0p8d5vdNZ5w3yn7ZzVeB9o+hg7ZBet2huW7Hu4nbZ7C9dQfyQ3D8ZKuP9mbXuac8+M9eBLM2ApqzFytXZa9E37IRW28g5QfsjexmKmLv0YDQQJ0UoDsuJ7rgK/g4/NYN+aXAXuKD5fJ66wCuVTJUcfe7XJY0HvbLu7yNMP8yH/+FfsuQq2OzUNmwqgoUUpepOJV7p7wjwwzt3XNmJz4j+GMG4vbMGcmol84fNMV5XbeAxNVi7Qn1VrIwETWKlgRkeAA="
+  },
+  "location": "United States, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/patrickkastner",
+  "personId": 1019,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": "Environmental and Sustainability Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Patrick Kastner",
+  "ca": null,
+  "summary": "Patrick Kastner is a researcher and educator specializing in environmental performance simulation and decarbonization of buildings and cities. He is an Assistant Professor at the School of Architecture and Director of the Sustainable Urban Systems Lab.\n\nAs a systems engineer, his goal is to empower urban decision-makers with software tools that place sustainability at the forefront of the profession. He leads a Vertically Integrated Project titled Surrogate Modeling for Urban Regeneration (SMUR), which attracts a diverse group of students ranging from sophomore to graduate level, representing various engineering disciplines and other related fields across Georgia Tech.\n\nHe earned his Ph.D. and M.S. in Systems Science and Engineering from Cornell University in 2022. During his doctoral research, he developed Eddy3D, a microclimate modeling software toolkit for Rhino & Grasshopper, now adopted by leading institutions in both academia and practice. He previously taught at Cornell and UPenn.\n\nOriginally from Germany, Kastner holds an M.S. in Sustainable Building Science from TU Munich, and a B.S. in Energy Engineering from FAU Erlangen-Nuremberg. While in Munich, he was fortunate enough to study at the Center for Digital Technology and Management and enjoyed his time leading the operations team at TEDxTUM.",
+  "positions": [
+    {
+      "title": "Instructor",
+      "company": "Surrogate Modeling for Urban Regeneration",
+      "companyUrl": "https://www.linkedin.com/company/vip-smur",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Assistant Professor",
+      "company": "Georgia Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/georgia-institute-of-technology",
+      "description": "Assistant Professor at Georgia Tech's School of Architecture",
+      "location": "Atlanta, Georgia, United States",
+      "start": "2023-08",
+      "end": null,
+      "dateRange": "Aug 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Lab Director",
+      "company": "Sustainable Urban Systems Lab",
+      "companyUrl": "https://www.linkedin.com/company/sustainable-urban-systems-lab",
+      "description": null,
+      "location": null,
+      "start": "2023-08",
+      "end": null,
+      "dateRange": "Aug 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Faculty - Instructor",
+      "company": "Cornell University College of Architecture, Art, and Planning",
+      "companyUrl": "https://www.linkedin.com/company/cornellaap",
+      "description": "Visiting faculty / instructor for ARCH2616/5616 Environmental Systems II: Building Dynamics (core curriculum) in Spring 2023.",
+      "location": "Ithaca, New York, United States",
+      "start": "2023-01",
+      "end": "2023-08",
+      "dateRange": "Jan 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Postdoctoral Associate",
+      "company": "Environmental Systems Lab, Cornell AAP",
+      "companyUrl": "https://www.linkedin.com/company/environmental-systems-lab",
+      "description": null,
+      "location": "Ithaca, New York, United States",
+      "start": "2022-09",
+      "end": "2023-08",
+      "dateRange": "Sep 2022 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Visiting Faculty - Lecturer",
+      "company": "Cornell Systems Engineering",
+      "companyUrl": "https://www.linkedin.com/company/cornell-systems-engineering",
+      "description": "- Led research efforts to design course concept during fall of 2021.\t\n- Developed lecture material for a new class SYSEN 5160 - Managing and Modeling Complex Systems for Organizational Leaders at the College of Engineering: https://classes.cornell.edu/browse/roster/SP22/class/SYSEN/5160\n- Taught 16 M.Eng. students across various Masters level programs offered by the College of Engineering.\n\nPost: https://www.linkedin.com/feed/update/urn:li:activity:6935014542670278657/",
+      "location": "Ithaca, New York, United States",
+      "start": "2022-01",
+      "end": "2022-06",
+      "dateRange": "Jan 2022 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "company": "Environmental Systems Lab, Cornell AAP",
+      "companyUrl": "https://www.linkedin.com/company/environmental-systems-lab",
+      "description": "Committee: Prof. Timur Dogan (Chair), Prof. Oliver Gao, Prof. Martin Miller\nLab: es.aap.cornell.edu \nProject: eddy3d.com",
+      "location": "Ithaca, New York Area",
+      "start": "2018-09",
+      "end": "2022-08",
+      "dateRange": "Sep 2018 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Visiting Scientist",
+      "company": "Environmental Systems Lab, Cornell AAP",
+      "companyUrl": "https://www.linkedin.com/company/environmental-systems-lab",
+      "description": "Advisor: Prof. Timur Dogan \nLab: es.aap.cornell.edu \nProject: eddy3d.com",
+      "location": "Ithaca, New York Area",
+      "start": "2017-09",
+      "end": "2018-08",
+      "dateRange": "Sep 2017 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "CFD Engineer",
+      "company": "Transsolar Energietechnik GmbH - Germany",
+      "companyUrl": "https://www.linkedin.com/company/transsolar-energietechnik-gmbh---germany",
+      "description": "- Assessment of ventilation potential of urban designs with Computational Fluid Dynamics\n- Workshops on OpenFOAM for ~15 CFD staff members\n- Deployment of methods developed in Master's Thesis to the firms' HPC cluster",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-01",
+      "end": "2017-08",
+      "dateRange": "Jan 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Master's Thesis",
+      "company": "Transsolar Energietechnik GmbH - Germany",
+      "companyUrl": "https://www.linkedin.com/company/transsolar-energietechnik-gmbh---germany",
+      "description": "Thesis: Customizing OpenFOAM to assess wind-induced natural ventilation potential of classrooms: A case study for BRAC University\n\nhttps://www.researchgate.net/publication/346967737_Customizing_OpenFOAM_to_Assess_Wind-induced_Natural_Ventilation_Potential_of_Classrooms_A_Case_Study_for_BRAC_University",
+      "location": "Munich Area, Germany",
+      "start": "2016-04",
+      "end": "2016-11",
+      "dateRange": "Apr 2016 – Nov 2016",
+      "current": false
+    },
+    {
+      "title": "Trend Researcher for the Innovation Accelerator of the WFP",
+      "company": "World Food Programme",
+      "companyUrl": "https://www.linkedin.com/company/unwfp",
+      "description": "Authored a study on fighting malnutrition/hunger with the help of digital technologies. The project was part of the CDTM curriculum. \n\nFocus: Mobile solution to automate crop disease identification through image recognition & machine learning.\n\nhttps://issuu.com/cdtm/docs/cdtm-trendreport_spring16",
+      "location": "Munich Area, Germany",
+      "start": "2016-02",
+      "end": "2016-04",
+      "dateRange": "Feb 2016 – Apr 2016",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Transsolar Energietechnik GmbH - Germany",
+      "companyUrl": "https://www.linkedin.com/company/transsolar-energietechnik-gmbh---germany",
+      "description": "Selected projects:\n- Development of a measurement setup for outdoor comfort - later used in the Singapore Gardens by the Bays to measure the outdoor comfort (UTCI) in the artificial rainforest\n- Development of several Excel tools for automated climate analysis (using VBA)\n- Development of a Grasshopper tool for automated daylight analysis (UDI) of ideal office spaces/cubes along building facades",
+      "location": "Munich Area, Germany",
+      "start": "2015-09",
+      "end": "2016-04",
+      "dateRange": "Sep 2015 – Apr 2016",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Transsolar Energietechnik GmbH",
+      "companyUrl": "https://www.linkedin.com/company/transsolar-energietechnik-gmbh---germany",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2013-11",
+      "end": "2015-04",
+      "dateRange": "Nov 2013 – Apr 2015",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "ABO Wind",
+      "companyUrl": "https://www.linkedin.com/company/abo-wind",
+      "description": "Working student in wind energy project development.\n\n- Early stage site assessment with regard to terrain structures. \n- Programming of MS Access databases\n- \"Weißflächenanalysen\"",
+      "location": "Nürnberg Area, Germany",
+      "start": "2013-07",
+      "end": "2013-10",
+      "dateRange": "Jul 2013 – Oct 2013",
+      "current": false
+    },
+    {
+      "title": "Site Assessment Intern",
+      "company": "juwi Energieprojekte GmbH",
+      "companyUrl": "https://www.linkedin.com/company/juwi-group",
+      "description": "Internship in the department of Site Assessment for wind energy power plants.\n\n- Detailed wind farm calculations (e. g. sound and shadow forecasts, visibility analyses, throttling and shutdowns as well as turbulence calculations)\n- Developing wind farm layouts under consideration of all relevant factors\n- Yield estimations for various types of systems and hub heights based on wind measurement data and/or reference plants\n- Creating wind farm visualizations including site inspection for capturing images and control coordinates",
+      "location": "Mainz Area, Germany",
+      "start": "2012-12",
+      "end": "2013-07",
+      "dateRange": "Dec 2012 – Jul 2013",
+      "current": false
+    },
+    {
+      "title": "Research Assistant / Bachelor's Thesis",
+      "company": "Fraunhofer IISB",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-gesellschaft",
+      "description": "Thesis Title:\nAssessment of structural and electrical properties of multi-crystalline silicon for photovoltaic applications",
+      "location": "Erlangen Area, Germany",
+      "start": "2011-06",
+      "end": "2012-10",
+      "dateRange": "Jun 2011 – Oct 2012",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "frankenslot",
+      "companyUrl": null,
+      "description": "Co-Founder of a small business (frankenslot.de) developing CAD-modeled components for scale model cars.",
+      "location": null,
+      "start": "2009-12",
+      "end": "2011-12",
+      "dateRange": "Dec 2009 – Dec 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Cornell University",
+      "degree": "Doctor of Philosophy - PhD, Systems Science and Engineering",
+      "dateRange": "2018 – 2022"
+    },
+    {
+      "school": "Cornell University",
+      "degree": "Master of Science - MS, Systems Engineering",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Sustainable Building Science",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Technische Universität Wien",
+      "degree": "ERASMUS exchange, MSc - Building Science and Technology",
+      "dateRange": "2015"
+    },
+    {
+      "school": "FAU Erlangen-Nürnberg",
+      "degree": "BSc, Energy Engineering",
+      "dateRange": "2009 – 2012"
+    }
+  ],
+  "skills": [
+    "Sustainable Design",
+    "Data Science",
+    "Systems Engineering",
+    "Design Research",
+    "Sustainability",
+    "Git",
+    "Project Management",
+    "Systems Thinking",
+    "Machine Learning",
+    "Visual Communication",
+    "Data Analytics",
+    "CFD",
+    "Data Visualization",
+    "Architectural Design",
+    "Entrepreneurship",
+    "CAD",
+    "Photoshop",
+    "LaTeX",
+    "Matlab",
+    "Adobe Photoshop",
+    "Visual Basic for Applications (VBA)",
+    "Rhino 3D",
+    "Teamwork",
+    "Storytelling",
+    "OpenFOAM",
+    "Grasshopper",
+    "Building Simulation",
+    "Scenario Planning",
+    "GNU/Linux",
+    "Python (Programming Language)",
+    "C#"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Georgia Institute of Technology",
+    "tagline": "Official account of Georgia Tech, a premier public science and research institution committed to progress and service",
+    "description": "The Georgia Institute of Technology is one of the nation's premier research universities providing a focused, technologically based education to more than 25,000 undergraduate and graduate students . Ranked seventh among U.S. News & World Report's top public universities, Georgia Tech offers degrees through the Colleges of Business, Computing, Design, Engineering, Liberal Arts and Sciences. The Institute offers research opportunities to both undergraduate and graduate students and is home to more than 100 centers that consistently contribute vital innovation to American government, industry, and business.",
+    "industry": "Higher Education",
+    "website": "http://gatech.edu",
+    "linkedInUrl": "https://www.linkedin.com/company/georgia-institute-of-technology",
+    "employeeCount": 20251,
+    "foundedYear": 1888,
+    "location": "Atlanta, United States",
+    "specialities": [
+      "technology",
+      "education",
+      "leadership",
+      "engineering",
+      "innovations",
+      "entrepreneurship"
+    ]
+  }
+}

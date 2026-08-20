@@ -1,0 +1,185 @@
+{
+  "id": "shiv-contractor-155a72b3",
+  "name": "Shiv Contractor",
+  "headline": "AI Product Manager | UK Space Agency, MIT, KCL",
+  "avatar": {
+    "sm": "/avatars/shiv-contractor-155a72b3-sm.webp",
+    "lg": "/avatars/shiv-contractor-155a72b3.webp",
+    "blur": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAADwBACdASogACAAPtFgqU+oJSOiKAgBABoJYwAD4u1JBsVMBy8pFxNLLw2rMchQ6QAA/vlveN+yXUfxf7J5+H5AdmTar3Luwt1X2flgrzo60NaiQxBK35vvKYKT679NdwBbLJhradxCO2Tpy0okIF1kIjEvqeMj5BrYZjHYTzMax/YFSSlrYKGpd24+jBZUQeSUE36ilbm4WIZYm7eFom/QykDgqxAwWT701TyN5r5KXhGLDOMU9g1/rPnM2wsCZ8H/HaXAAAA="
+  },
+  "location": "London, United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/shiv-contractor-155a72b3",
+  "personId": 813,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Power Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Shiv Contractor",
+  "ca": null,
+  "summary": "SAFe-certified Product Manager with 6+ years driving growth, monetisation, and AI adoption across ConsumerTech, Higher Education, and Aerospace. \n\nMy background spans AI research, DeepTech Venture Capital, and hands-on delivery of agentic systems and RAG pipelines, with a track record of moving commercial metrics (conversion lift, LTV:CAC, AI infrastructure costs).",
+  "positions": [
+    {
+      "title": "External Consultant",
+      "company": "UK Space Agency",
+      "companyUrl": "https://www.linkedin.com/company/uk-space-agency",
+      "description": "Driving UK innovation through strategic evaluation of DeepTech companies for funding, under the UK Space Agency's National Space Innovation Programme.",
+      "location": "London Area, United Kingdom",
+      "start": "2025-05",
+      "end": null,
+      "dateRange": "May 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager - AI",
+      "company": "King's College London",
+      "companyUrl": "https://www.linkedin.com/company/king's-college-london",
+      "description": "Building conversational AI and agentic workflows for enterprise-level adoption.",
+      "location": "London Area, United Kingdom",
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "3Dconnexion",
+      "companyUrl": "https://www.linkedin.com/company/3dconnexion",
+      "description": "Building products to optimise the workflow of professionals in the engineering and manufacturing sector.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-11",
+      "end": "2025-04",
+      "dateRange": "Nov 2023 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "Project Manager",
+      "company": "ESA BIC Bavaria",
+      "companyUrl": "https://www.linkedin.com/company/esa-bic-bavaria",
+      "description": "European Space Agency Business Incubation Centre (ESA BIC)\n\nEmpowering early-stage DeepTech founders to transform innovative technologies into successful businesses.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2023-11",
+      "dateRange": "Oct 2021 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Developed Python-based solutions to build interactive dashboards to visualize user behaviour, track KPIs, and optimize product performance.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-05",
+      "end": "2021-10",
+      "dateRange": "May 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "Leveraged SQL scripts to streamline data extraction from client ERP systems (SAP ECC & S/4HANA), driving dynamic KPI dashboards that optimized supply chain processes (P2P, O2C, AP).",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-01",
+      "end": "2020-06",
+      "dateRange": "Jan 2020 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Product Management",
+      "company": "DataGuard",
+      "companyUrl": "https://www.linkedin.com/company/dataguard1",
+      "description": "DataGuard is a B2B SaaS company focused on data privacy operating in 50+ countries, having raised over $85 million.\n\nDeveloped a GTM strategy for product adoption in international markets, recommending C-level with insights from market research and expert interviews.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-08",
+      "end": "2020-01",
+      "dateRange": "Aug 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Product Management",
+      "company": "Rolls-Royce Power Systems AG",
+      "companyUrl": "https://www.linkedin.com/company/rolls-royce-power-systems",
+      "description": "Developed a cloud-based solution to automate quality checks for diesel engines, reducing bottlenecks for assembly-line workers through design thinking.",
+      "location": "Friedrichshafen, Baden-Württemberg, Germany",
+      "start": "2018-10",
+      "end": "2019-03",
+      "dateRange": "Oct 2018 – Mar 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Graduate Researcher, AI",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science, Energy Engineering",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours degree, Technology Management",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Vellore Institute of Technology",
+      "degree": "Bachelor of Engineering, Mechanical Engineering",
+      "dateRange": "2013 – 2017"
+    }
+  ],
+  "skills": [
+    "Product Management",
+    "Python (Programming Language)",
+    "New Product Rollout",
+    "Space Systems",
+    "Investments",
+    "AI Agents",
+    "User Stories",
+    "AI Agent",
+    "Large Language Model Operations (LLMOps)",
+    "Azure DevOps Services",
+    "Retrieval-Augmented Generation (RAG)",
+    "Consulting",
+    "Strategy",
+    "Analytics",
+    "Cross-functional Team Leadership",
+    "Problem Solving",
+    "SAP",
+    "Journey Management",
+    "Customer Experience",
+    "E-Commerce"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "King's College London",
+    "tagline": null,
+    "description": "King’s College London is amongst the top 35 universities in the world and 5th best in the UK (QS World University Rankings 2026), and one of England’s oldest and most prestigious universities.  With an outstanding reputation for world-class teaching and cutting-edge research, King’s maintained its sixth position for ‘research power’ in the UK (2021 Research Excellence Framework).     \n  \nKing's has more than 33,000 students (including more than 12,800 postgraduates) from some 150 countries worldwide, and 8,500 staff. \n\nKing's has more than 33,000 students (including more than 12,800 postgraduates) from some 150 countries worldwide, and 8,500 staff. \n\nFor nearly 200 years, King’s students and staff have used their knowledge and insight to make a positive impact on people, society and the planet. Focused on delivering positive change at home in London, across the UK and around the world, King’s is building on its history of addressing the world’s most urgent challenges head on to accelerate progress, make discoveries and pioneer innovation. Visit the website to find out more about Vision 2029, which sets out bold ambitions for the future of King’s as we look towards our 200th anniversary.\n\nWorld-changing ideas. Life-changing impact: kcl.ac.uk/news",
+    "industry": "Research Services",
+    "website": "http://www.kcl.ac.uk",
+    "linkedInUrl": "https://www.linkedin.com/company/king%27s-college-london",
+    "employeeCount": 20549,
+    "foundedYear": null,
+    "location": "London, United Kingdom",
+    "specialities": []
+  }
+}

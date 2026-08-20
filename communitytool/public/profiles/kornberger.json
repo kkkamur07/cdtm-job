@@ -1,0 +1,205 @@
+{
+  "id": "kornberger",
+  "name": "Tanja Kornberger",
+  "headline": "Product at YouTube",
+  "avatar": null,
+  "location": "Zurich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/kornberger",
+  "personId": 1933,
+  "classes": [
+    {
+      "id": 68,
+      "label": "Fall 2010",
+      "season": "Fall",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2010",
+  "major": "Psychology, Anthropology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Tanja Kornberger",
+  "ca": null,
+  "summary": "Specialties: Qualitative und Quantitative Forschungsmethoden, Usability, Mensch-Maschine-Interaktion, Experimentelles Design, Statistische Analysen, SPSS, R, Ethnographie",
+  "positions": [
+    {
+      "title": "Product Lead",
+      "company": "YouTube",
+      "companyUrl": "https://www.linkedin.com/company/youtube",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2022-11",
+      "end": null,
+      "dateRange": "Nov 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "YouTube",
+      "companyUrl": "https://www.linkedin.com/company/youtube",
+      "description": null,
+      "location": null,
+      "start": "2018-04",
+      "end": "2022-11",
+      "dateRange": "Apr 2018 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Senior User Experience Researcher",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2014-04",
+      "end": "2018-03",
+      "dateRange": "Apr 2014 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Qualitative Researcher",
+      "company": "HYVE AG",
+      "companyUrl": "https://www.linkedin.com/company/hyve-ag",
+      "description": "As a qualitative researcher for an international netnography project I am primarily responsible for analyzing user behavior, attitudes and emotions in Russian and English speaking online communities and blogs, generating consumer insights and applying research results to innovative product concepts.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-11",
+      "end": "2014-02",
+      "dateRange": "Nov 2013 – Feb 2014",
+      "current": false
+    },
+    {
+      "title": "Werkstudent (Think Tank)",
+      "company": "Fraunhofer-Gesellschaft",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-gesellschaft",
+      "description": "Unterstützung bei Scouting und Bewertung von Technologietrends, Recherchen und Analysen im Bereich nationales und internationales Forschungs- und Entwicklungssystem",
+      "location": "München",
+      "start": "2013-03",
+      "end": "2013-09",
+      "dateRange": "Mar 2013 – Sep 2013",
+      "current": false
+    },
+    {
+      "title": "Privacy & Mobility - Visiting Student Researcher",
+      "company": "UC Berkeley",
+      "companyUrl": "https://www.linkedin.com/company/uc-berkeley",
+      "description": "Forschungsaufenthalt an der School of Information zum Thema Privatsphäre im mobilen Kontext.",
+      "location": "Berkeley",
+      "start": "2012-08",
+      "end": "2012-12",
+      "dateRange": "Aug 2012 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Diplomandin (Engineering Research Electronic Systems)",
+      "company": "MAN Truck & Bus AG",
+      "companyUrl": "https://www.linkedin.com/company/man-commercial-vehicles",
+      "description": "Diplomarbeit „Entwicklung eines Motivationskonzeptes für ein digitales Fahrerassistenzsystem zum kraftstoffeffizienten Fahren“",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2011-11",
+      "end": "2012-04",
+      "dateRange": "Nov 2011 – Apr 2012",
+      "current": false
+    },
+    {
+      "title": "Werkstudent (R&D)",
+      "company": "OSRAM",
+      "companyUrl": "https://www.linkedin.com/company/osram",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2011-04",
+      "end": "2011-08",
+      "dateRange": "Apr 2011 – Aug 2011",
+      "current": false
+    },
+    {
+      "title": "Praktikant (Digital Consumer Theme)",
+      "company": "Infosys",
+      "companyUrl": "https://www.linkedin.com/company/infosys",
+      "description": "Definition und Entwicklung einer Typologie des „digitalen Konsumenten“, Erstellung eines Identifikationstools zur Erfassung und Beschreibung von Konsumverhalten im Kontext digitaler Medien",
+      "location": "Bangalore, Indien",
+      "start": "2010-08",
+      "end": "2011-10",
+      "dateRange": "Aug 2010 – Oct 2011",
+      "current": false
+    },
+    {
+      "title": "Werkstudent (Corporate Marketing)",
+      "company": "cirquent GmbH / NTT Data Group",
+      "companyUrl": "https://www.linkedin.com/company/ntt-data-europe-latam",
+      "description": "Aufbau eines internen Social Networking Services (Elgg)",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2009-07",
+      "end": "2011-02",
+      "dateRange": "Jul 2009 – Feb 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Magister, Ethnologie, Informatik",
+      "dateRange": "2008 – 2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Ludwig-Maximilians Universität München / LMU Munich",
+      "degree": "Diplom, Organisations- und Wirtschaftspsychologie, Sozialpsychologie",
+      "dateRange": "2007 – 2012"
+    }
+  ],
+  "skills": [
+    "Research",
+    "Netnography",
+    "Ethnography",
+    "Statistics",
+    "Market Research",
+    "Human-computer Interaction",
+    "Cyberanthropology",
+    "Multilingual",
+    "Russian",
+    "German",
+    "Qualitative Research",
+    "User Experience",
+    "Usability",
+    "R",
+    "SPSS",
+    "Usability Testing",
+    "Remote User Testing",
+    "Qualitative Interviews",
+    "Field Research",
+    "Human Computer Interaction",
+    "Mobile Applications",
+    "Data Analysis",
+    "Business Strategy",
+    "User Experience Research",
+    "User Research"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Spanish"
+  ],
+  "company": {
+    "name": "YouTube",
+    "tagline": "Like and Subscribe",
+    "description": "YouTube is a team-oriented, creative workplace where every single employee has a voice in the choices we make and the features we implement. We work together in small teams to design, develop, and roll out key features and products in very short time frames. Which means something you write today could be seen by millions of viewers tomorrow. And even though we’re a part of Google and enjoy all of the corporate perks, it still feels like you’re working at a startup.\n\nYouTube is headquartered in San Bruno, California, 12 miles south of San Francisco. We also have many job openings in Mountain View, and across the globe",
+    "industry": "Technology, Information and Internet",
+    "website": "http://www.youtube.com/jobs",
+    "linkedInUrl": "https://www.linkedin.com/company/youtube",
+    "employeeCount": 153882,
+    "foundedYear": null,
+    "location": "San Bruno, United States",
+    "specialities": []
+  }
+}

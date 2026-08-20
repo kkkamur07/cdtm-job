@@ -1,0 +1,213 @@
+{
+  "id": "felix-tobias-schr_ter",
+  "name": "Felix Tobias Schröter",
+  "headline": "Sofware- & ML-Engineering \n(CDTM | TUM | TUB)",
+  "avatar": {
+    "sm": "/avatars/felix-tobias-schr_ter-sm.webp",
+    "lg": "/avatars/felix-tobias-schr_ter.webp",
+    "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAAAwBgCdASogACAAPtFcpU6oJSMiKAqpABoJZgCxHsdlpkn8AfaEoFW8LBULpHWlJFfjFlDua+/ag/wAAP77LciMuqCLZE+pg58NoRdQjpeL1rtLcH5uTP114bsMbwZK6oqw81Jii1cdvZkGxAxX1Z1oK5+zzJz9etE+f9A5fyHz7N43NjV5G/G8u97MicpWcv51quJVSxBy2l1kbPwuQiod7OEWN9+2DmHiCZimaliqL4a2xQ3xDJlnX2nySvXFre+jS1ZaRE61w3BcAKSkgOxkUQR21sCKiCxw9S5xlSmcCcLEWzA1UU29MC/rOfNJDXOJrXbKewO3OGAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/felix-tobias-schröter",
+  "personId": 1192,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "BSc in Informatics (TUM, Sapienza Università di Roma)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Felix Schröter",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Center Assistant MPD / Management Team (Interims Member)",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Co-Teaching a course on product development (\"Managing Product Development\")\n\nThe CDTM offers talented students the international and interdisciplinary study program Technology Management and conducts research in the realm of technology and management. It is a joint institution of the LMU München and TU München, that is entirely run by doctoral candidates and its students. The CDTM offers talented students the international and interdisciplinary study program Technology Management and conducts research in the realm of technology and management. It is a joint institution of the LMU München and TU München, that is entirely run by doctoral candidates and its stuC",
+      "location": null,
+      "start": "2024-04",
+      "end": "2024-09",
+      "dateRange": "Apr 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Cambrium",
+      "companyUrl": "https://www.linkedin.com/company/cambrium-bio",
+      "description": null,
+      "location": null,
+      "start": "2023-10",
+      "end": "2024-01",
+      "dateRange": "Oct 2023 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Scientific Computing",
+      "company": "Cambrium",
+      "companyUrl": "https://www.linkedin.com/company/cambrium-bio",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-04",
+      "end": "2023-10",
+      "dateRange": "Apr 2023 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineering & Product Development",
+      "company": "Alaiko",
+      "companyUrl": "https://www.linkedin.com/company/alaiko",
+      "description": "- developed a solution to reduce the operating costs of ecommerce fulfilment centers by over 25%\n- conducted around 50 interviews with everyone from pickers and IT managers to the head of logistics\n- iterated product several times based on user testings with warehouse managers\n- developed technical prototype, validating the cost reduction potential, and a holistic product vision",
+      "location": null,
+      "start": "2022-05",
+      "end": "2022-08",
+      "dateRange": "May 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Vice President",
+      "company": "180 Degrees Consulting Munich",
+      "companyUrl": "https://www.linkedin.com/company/180dcmuc",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-02",
+      "end": "2021-02",
+      "dateRange": "Feb 2020 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant Java Script Technology Seminar",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-02",
+      "end": "2020-06",
+      "dateRange": "Feb 2020 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "Zukunftschreiben",
+      "companyUrl": "https://www.linkedin.com/company/zukunftschreiben",
+      "description": null,
+      "location": null,
+      "start": "2019-09",
+      "end": "2020-05",
+      "dateRange": "Sep 2019 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Head of Digital & IT",
+      "company": "180 Degrees Consulting Munich",
+      "companyUrl": "https://www.linkedin.com/company/180dcmuc",
+      "description": "Board Member, responsible for the new Digital practice group as well as the internal IT. \nMy responsibilities included:\n- Conceptual help with acquisition of a pilot project for 180Digital and oversight of the project during the term as well as an evaluation of the project\n- Evaluation and change management of transition to new communications platform (Microsoft Teams)\n- Management, maintenance and improvement of the clubs IT-infrastructure including the automation of the application processing",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-08",
+      "end": "2020-02",
+      "dateRange": "Aug 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Big Data and Business Intelligence - Working Student",
+      "company": "LexCom Informationssysteme GmbH",
+      "companyUrl": "https://www.linkedin.com/company/lexcom-informationssysteme-gmbh",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-05",
+      "end": "2019-11",
+      "dateRange": "May 2019 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Student Consultant & Team Manager",
+      "company": "180 Degrees Consulting Munich",
+      "companyUrl": "https://www.linkedin.com/company/180dcmuc",
+      "description": "In this project we developed a communication strategy for the launch of a ‘digital first-aid button' for a children's rights organisation. \n\nThe project included:\n• Identification of core target groups based on a quantitative analysis\n• Execution of interviews with decision-makers from the target groups and research on their media use\n• Derivation of recommendations on top-down and bottom-up approach to reach the target groups\n• Development and design of a Plan Book containing insights on target groups and respective promotional activities",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-02",
+      "end": "2019-08",
+      "dateRange": "Feb 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "180 Degrees Consulting Munich",
+      "companyUrl": "https://www.linkedin.com/company/180dcmuc",
+      "description": "180 Degrees Consulting Munich is part of the world‘s largest university-based consultancy. \nIn this project we successfully derived a customer tailored product portfolio for an IT service provider based in Ghana. This project included:\n\n• Survey conception and execution in order to assess importance and lack of digital competences in German companies\n• Survey result analysis and derivation of relevant product portfolio as well as target customer groups\n• Assessment of competitive environment and unique selling proposition (USP)\n• Execution of follow-up meetings to substantiate survey findings and evaluate potential for cooperation",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-11",
+      "end": "2019-02",
+      "dateRange": "Nov 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "BizCoach by ImpalaCloud",
+      "companyUrl": "https://www.linkedin.com/company/impalacloud",
+      "description": "Hong Kong SAR",
+      "location": null,
+      "start": "2018-04",
+      "end": "2018-06",
+      "dateRange": "Apr 2018 – Jun 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Informatics",
+      "dateRange": "2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Sapienza Università di Roma",
+      "degree": "semester abroad, Informatics",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS (not finished), Information Systems",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Technische Universität Berlin",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2024"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Center for Digital Technology and Management (CDTM)",
+    "tagline": "Connect, Educate and Empower the Innovators of Tomorrow",
+    "description": "The Center for Digital Technology and Management (CDTM), a joint institution of the Ludwig-Maximilians-Universität München (LMU) and the Technische Universität München (TUM), offers talented students the international and interdisciplinary study program Technology Management. \n\nThe CDTM focuses on how to manage High-Tech in close cooperation with industry, research and education, while simultaneously being committed to preparing the students for future leadership positions in their professional career.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.cdtm.de",
+    "linkedInUrl": "https://www.linkedin.com/company/cdtm-munich",
+    "employeeCount": 35,
+    "foundedYear": 1998,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Entrepreneurship",
+      "Product Development"
+    ]
+  }
+}

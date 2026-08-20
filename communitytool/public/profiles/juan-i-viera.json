@@ -1,0 +1,246 @@
+{
+  "id": "juan-i-viera",
+  "name": "Juan Ignacio Viera Garcia",
+  "headline": "Co-founder & CPO @Bevel",
+  "avatar": {
+    "sm": "/avatars/juan-i-viera-sm.webp",
+    "lg": "/avatars/juan-i-viera.webp",
+    "blur": "data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAACwBgCdASogACAAPs1OokunpCMht/VYAPAZiWwAsRTN5Gts0KfhWw9Vfn1AHsqvPGh4eOYFm9/+Z0eVeIZKgAD+/nr/pR/U37LP9f0STEeuCn4lDeAMAJOYQ4VnPa3tCtuz3S/y+pbBsWDNZvP+23JS0bTWY6l59US4v2BHGKwPc3fgud3fmSOMHWrHO2CecsPsE/f2kIaARAznYTJSV7qhd62ZiuXIuHfQgPztfZK76t0V3VsRC3ltCQQpBDGPAYL6qpLmqNM2J5yM2CUOuqglw1+EHt0px8Px/5pmK++/88W3jNEUVV/1iENlVKsyNv/+akHZFl/kY6xAFstqryill8pDJI7mrLoPk6wJ8MgAAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/juan-i-viera",
+  "personId": 1008,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Juan Viera Garcia",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CPO",
+      "company": "Bevel",
+      "companyUrl": "https://www.linkedin.com/company/bevel-software",
+      "description": null,
+      "location": null,
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "- Researched the application of NLP and ML techniques in LLMs to model cognitive processes affecting OB.\n- Conducted research on leveraging KGs to augment RAG frameworks, thereby increasing LLM performance and improving prediction of user needs",
+      "location": null,
+      "start": "2024-03",
+      "end": "2024-09",
+      "dateRange": "Mar 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Founder-in-Residence",
+      "company": "Antler",
+      "companyUrl": "https://www.linkedin.com/company/antlerglobal",
+      "description": null,
+      "location": null,
+      "start": "2022-09",
+      "end": "2022-11",
+      "dateRange": "Sep 2022 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Investment Analyst",
+      "company": "Hi inov - Dentressangle",
+      "companyUrl": "https://www.linkedin.com/company/hi-inov",
+      "description": null,
+      "location": null,
+      "start": "2022-02",
+      "end": "2024-01",
+      "dateRange": "Feb 2022 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Financial Intern",
+      "company": "ARIVE",
+      "companyUrl": "https://www.linkedin.com/company/arive-gmbh",
+      "description": "- Managed the financials of +3 Q-Commerce Stores\n- Decreased the invoicing process by 80% by implementing automations\n- Oversaw +60 Consignment partnerships\n- Worked closely with the CFO to build and track key performance metrics across the company",
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Metadata and Lineage Analyst",
+      "company": "BNP Paribas",
+      "companyUrl": "https://www.linkedin.com/company/bnp-paribas",
+      "description": "- Defined and described hundreds of Key-Data Elements for our application repository.\n- Used SQL and PowerBI in order to create effective and intuitive data visualizations for team members.",
+      "location": null,
+      "start": "2021-03",
+      "end": "2021-09",
+      "dateRange": "Mar 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Vice President Of Business Development",
+      "company": "Concordia Business Review",
+      "companyUrl": "https://www.linkedin.com/company/concordia-business-review",
+      "description": "In charge of finding funds to publish the John Molson Business Review.\nFound 4 sponsors aligned with the club's values.\nHelped double the club's budget.\nOversaw official accreditation of JMBR.",
+      "location": null,
+      "start": "2019-09",
+      "end": "2020-06",
+      "dateRange": "Sep 2019 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Growth Analytics Intern",
+      "company": "ClearGlass",
+      "companyUrl": "https://www.linkedin.com/company/clearglass",
+      "description": "ClearGlass Analytics is an up and coming company fighting for cost transparency is the financial sector. Working with the renowned Chris Sier, it's developing a software so financial agents, namely pension schemes, can see all the costs associated to their account in one simple, intuitive dashboard.",
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-07",
+      "dateRange": "Jan 2019 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Student",
+      "company": "Concordia University",
+      "companyUrl": "https://www.linkedin.com/company/concordia-university",
+      "description": null,
+      "location": null,
+      "start": "2017-09",
+      "end": "2021-03",
+      "dateRange": "Sep 2017 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Sales And Marketing Intern",
+      "company": "Canadian Venezuelan Engagement Foundation",
+      "companyUrl": "https://www.linkedin.com/company/engagementfound",
+      "description": "The Canadian Venezuelan Engagement Foundation (CVEF) is a non-For-Profit organization which has aims to help Venezuela in partnership with Canada. With this organization, I conceptualized, strategized and implemented a social media strategy - from start to finish. As such, it helped create a network of applied volunteers from scratch, and increased Instagram engagement by 1000 followers in 2\nmonths.\n– Reached over 15 volunteers in the first month.",
+      "location": null,
+      "start": "2017-09",
+      "end": "2017-12",
+      "dateRange": "Sep 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Business Development Intern",
+      "company": "UpstartED",
+      "companyUrl": "https://www.linkedin.com/company/upstarted",
+      "description": "UpstartED Inc. is a non-for-profit organization that aims to teach students how to succeed in a tech-savvy world. For this organization, I helped create an event with over 150 participants. I lead a network of brand ambassadors to apply a sales strategy, and grew our community. Moroeover, I was tasked to reaching out to sponsors in order to finance our events.",
+      "location": null,
+      "start": "2017-03",
+      "end": "2017-11",
+      "dateRange": "Mar 2017 – Nov 2017",
+      "current": false
+    },
+    {
+      "title": "Branch Support Representative",
+      "company": "CIBC",
+      "companyUrl": "https://www.linkedin.com/company/cibc",
+      "description": "Responsibilities:\nEach day, I would work for some top executives of CIBC, including France Berthiaume, Regional Director Sales & Service, Retail Distribution. I would assist in organizing events, for example, CIBC's Run for the Cure (Breast Cancer). I would also help organizing the schedules for future employees who were being trained at the time. Furthermore, I would help print documents, make folders, and run tasks given to me.",
+      "location": null,
+      "start": "2014-07",
+      "end": "2014-08",
+      "dateRange": "Jul 2014 – Aug 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, , Technology Management",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's in Management and Technology",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Concordia University",
+      "degree": "Bachelor's degree, Information Technology",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "University of Mannheim",
+      "degree": "Bachelor's degree, Business Administration and Management, General",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Marianopolis College",
+      "degree": "Social Science and Commerce",
+      "dateRange": "2014 – 2017"
+    }
+  ],
+  "skills": [
+    "Management",
+    "MySQL",
+    "HTML",
+    "SQL",
+    "Leadership",
+    "Microsoft Word",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Problem Solving",
+    "Strategy",
+    "CRM",
+    "Customer Relationship Management (CRM)",
+    "Project Management",
+    "Business Strategy",
+    "Teamwork",
+    "Data Analysis",
+    "C#",
+    "Salesforce.com",
+    "Cascading Style Sheets (CSS)",
+    "Business Intelligence (BI)",
+    "Adobe Photoshop",
+    "Cross-cultural Communication Skills",
+    "3D Modeling",
+    "Team Player",
+    "Positive Attitude",
+    "iWork"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "English",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Bevel",
+    "tagline": "We de-risk modernization of critical legacy applications.",
+    "description": "At Bevel, our mission is to create the most fulfilling workforce in the world, by empowering our workers with unique opportunities for meaningful work. For us, that means tackling one of the most pressing problems in our generation: the innovation bottleneck of legacy code.\n\nAs such, we help companies unlock the full potential of their legacy code. Bevel's AI tool enables developer teams work more efficiently with complex codebases by helping them extract, understand and trace the embedded business logic.\n\nWhether you're a small team or a large enterprise facing the complexity of legacy software, Bevel provides a seamless, secure, and scalable solution. Together, we can turn legacy code into an opportunity for growth, innovation, and a more fulfilling work environment for your teams. Let's transform your legacy systems and drive your business forward.",
+    "industry": "Software Development",
+    "website": "https://www.bevel.software/",
+    "linkedInUrl": "https://www.linkedin.com/company/bevel-software",
+    "employeeCount": 3,
+    "foundedYear": 2024,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Developer Tools",
+      "Legacy Software",
+      "Technical Debt"
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "id": "philipp-strack-0811b5ba",
+  "name": "Philipp Strack",
+  "headline": "Principal at BCG",
+  "avatar": {
+    "sm": "/avatars/philipp-strack-0811b5ba-sm.webp",
+    "lg": "/avatars/philipp-strack-0811b5ba.webp",
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAAAQBgCdASogACAAPsFMn0unpCKht/qoAPAYCWMAyNXcC305VaZsm9isKQoIXDuk3036Lkgn3aB61gAA/v5hL3zjn+18Cv5rHTNkXw6LLZz9WuTZaKVcs1AVdsJf7hH8Gvf255/s01XNyBOwSaoo92TZi9mTYotqa9wAD56lb10/l4cSwYVme7XJOT7RKWqgiRlJqLEowIELVCRi8hnEeq10s9goP6mt/5BPFNOOwGJPxG/XLt/DXZ+9Hb4qgILnyakMr+bvpsEBnv+XqjmVbbWC7Y4KiBkOUii4FAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/philipp-strack-0811b5ba",
+  "personId": 765,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Philipp Strack",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Principal",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": null,
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Project Leader",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "Focus on Consumer Practice (Consumer Products, Durables, Retail, F&B, Fashion) with a focus on Innovation, (Growth) Strategy, Digitalization, Advanced Analytics, Cost Transformation, Digital Marketing and Change Management",
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-10",
+      "end": "2024-09",
+      "dateRange": "Oct 2022 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "1-year transfer as part of Global Ambassadorship Program to Toronto office in Canada in 2022",
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-09",
+      "end": "2022-09",
+      "dateRange": "Sep 2020 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2019-03",
+      "end": "2020-08",
+      "dateRange": "Mar 2019 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "Oliver Wyman",
+      "companyUrl": "https://www.linkedin.com/company/oliver-wyman",
+      "description": null,
+      "location": null,
+      "start": "2016-06",
+      "end": "2016-08",
+      "dateRange": "Jun 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Global Venture Development Intern",
+      "company": "Rocket Internet SE",
+      "companyUrl": "https://www.linkedin.com/company/rocket-internet-se",
+      "description": null,
+      "location": null,
+      "start": "2015-05",
+      "end": "2015-07",
+      "dateRange": "May 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Sales Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Mexico City Area, Mexico",
+      "start": "2014-06",
+      "end": "2014-07",
+      "dateRange": "Jun 2014 – Jul 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Columbia University",
+      "degree": "Visiting Scholar at Columbia Business School",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc. in Management & Technology, Specializations in Finance and Computer Science",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Exchange Semester",
+      "dateRange": "2015"
+    },
+    {
+      "school": "WHU – Otto Beisheim School of Management",
+      "degree": "B.Sc. in Business Administration",
+      "dateRange": "2013 – 2016"
+    }
+  ],
+  "skills": [
+    "Business Strategy",
+    "Management",
+    "Microsoft Excel",
+    "Microsoft Office",
+    "PowerPoint",
+    "Project Management",
+    "Entrepreneurship"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Boston Consulting Group (BCG)",
+    "tagline": null,
+    "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.\n \nOur diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. \n\nWe work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.\n\nBCG Privacy Policy: https://www.bcg.com/about/privacy-policy.aspx",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bcg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/boston-consulting-group",
+    "employeeCount": 41217,
+    "foundedYear": 1963,
+    "location": "Boston, United States",
+    "specialities": [
+      "Consumer insight",
+      "corporate development",
+      "corporate finance",
+      "digital economy",
+      "globalization",
+      "growth",
+      "information technology",
+      "innovation",
+      "marketing & sales",
+      "operations",
+      "people & organization",
+      "postmerger integration",
+      "risk management",
+      "strategy",
+      "sustainability",
+      "transformation",
+      "climate",
+      "artificial intelligence",
+      "cost transformation",
+      "supply chains"
+    ]
+  }
+}

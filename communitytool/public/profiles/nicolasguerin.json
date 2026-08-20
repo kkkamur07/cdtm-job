@@ -1,0 +1,234 @@
+{
+  "id": "nicolasguerin",
+  "name": "Nicolas Guérin",
+  "headline": "Chief Financial Director | COMEX member",
+  "avatar": null,
+  "location": "Paris Metropolitan, France",
+  "linkedInUrl": "https://www.linkedin.com/in/nicolasguerin",
+  "personId": 1583,
+  "classes": [
+    {
+      "id": 54,
+      "label": "Fall 2003",
+      "season": "Fall",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Nicolas Guerin",
+  "ca": null,
+  "summary": "Directeur Financier, membre du comité de direction de la Mutuelle de Poitiers Assurances",
+  "positions": [
+    {
+      "title": "Directeur financier",
+      "company": "Mutuelle de Poitiers Assurances",
+      "companyUrl": "https://www.linkedin.com/company/mutuelle-de-poitiers-assurances",
+      "description": null,
+      "location": null,
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment Director",
+      "company": "Groupe Caisse des Dépôts",
+      "companyUrl": "https://www.linkedin.com/company/groupe-caisse-des-dépôts",
+      "description": null,
+      "location": "Région de Paris, France",
+      "start": "2019-01",
+      "end": "2024-09",
+      "dateRange": "Jan 2019 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Investment Director, ICT",
+      "company": "Groupe Caisse des Dépôts",
+      "companyUrl": "https://www.linkedin.com/company/groupe-caisse-des-dépôts",
+      "description": null,
+      "location": "Région de Paris, France",
+      "start": "2017-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2017 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Senior Investment Analyst",
+      "company": "Groupe Caisse des Dépôts",
+      "companyUrl": "https://www.linkedin.com/company/groupe-caisse-des-dépôts",
+      "description": "Evaluation des dossiers d'investissement en fonds propres (investissements directs ou via des fonds) du Groupe Caisse des Dépôts incluant les filiales (Bpifrance, ICADE, SNI, EGIS, CDC Immobilier, CDC International Capital, Novethic, France Brevet…) ; participe à l'instruction de dossiers d'investissement en lien avec la NPI-FEI Equity Platform (EFSI - fonds Juncker) et à des opérations avec les fonds souverains étrangers (Mubadala, KHC, RDIF, QIA). Participe à la préparation des conseils d'administration des principales filiales du Groupe CDC.",
+      "location": "Paris Area, France",
+      "start": "2014-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2014 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Manager of regulatory reporting team",
+      "company": "Groupe Caisse des Dépôts",
+      "companyUrl": "https://www.linkedin.com/company/groupe-caisse-des-dépôts",
+      "description": "Relation avec le Superviseur (ACPR), ratios de solvabilité, impacts de la réglementation (Bâle III).",
+      "location": "Paris Area, France",
+      "start": "2011-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2011 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Manager",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": null,
+      "location": "Région de Bruxelles , Belgique",
+      "start": "2010-01",
+      "end": "2011-12",
+      "dateRange": "Jan 2010 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "BearingPoint",
+      "companyUrl": "https://www.linkedin.com/company/bearingpoint",
+      "description": null,
+      "location": null,
+      "start": "2006-01",
+      "end": "2010-12",
+      "dateRange": "Jan 2006 – Dec 2010",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "XING EVENTS (formerly amiando)",
+      "companyUrl": "https://www.linkedin.com/company/xing",
+      "description": "En charge du lancement de la société munichoise en France.\nAmiando s'est fait racheté depuis par le réseau social allemand XING.",
+      "location": "Région de Paris , France",
+      "start": "2006-01",
+      "end": "2006-12",
+      "dateRange": "Jan 2006 – Dec 2006",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Trusted Shops",
+      "companyUrl": "https://www.linkedin.com/company/trustedshops",
+      "description": "Trustedshops est une startup pionnière de l’évaluation des sites marchands sur Internet; la société comptait 15 personnes en 2004 et plus de 250 en 2014",
+      "location": "Région de Cologne , Allemagne",
+      "start": "2004-01",
+      "end": "2006-12",
+      "dateRange": "Jan 2004 – Dec 2006",
+      "current": false
+    },
+    {
+      "title": "Analyst",
+      "company": "Vodafone Strategy Group",
+      "companyUrl": "https://www.linkedin.com/company/vodafone",
+      "description": null,
+      "location": "Région de Munich , Allemagne",
+      "start": "2004-01",
+      "end": "2004-12",
+      "dateRange": "Jan 2004 – Dec 2004",
+      "current": false
+    },
+    {
+      "title": "Analyst",
+      "company": "Société Générale Investment Banking, New York",
+      "companyUrl": "https://www.linkedin.com/company/societe-generale",
+      "description": null,
+      "location": "Région de New York City , États-Unis",
+      "start": "2003-01",
+      "end": "2003-12",
+      "dateRange": "Jan 2003 – Dec 2003",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Télécom Paris",
+      "degree": "Diplôme d'ingénieur (Master), Technologies de l'information et des télécommunications",
+      "dateRange": "2000 – 2004"
+    },
+    {
+      "school": "HEC Paris",
+      "degree": "ACCF @ HEC Paris, Corporate Finance",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "HEC Paris",
+      "degree": "Strategy @ HEC Paris, Corporate Strategy",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "HEC Paris",
+      "degree": "ICCF @ HEC Paris, Corporate Finance",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Économie",
+      "dateRange": "2003 – 2004"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Innovation / Finance d'entreprise / Incubateur (Munich)",
+      "dateRange": "2003 – 2004"
+    },
+    {
+      "school": "Universitat Politècnica de Catalunya",
+      "degree": "Management, Business, Telecommunication (Barcelona)",
+      "dateRange": "2002 – 2003"
+    },
+    {
+      "school": "Lycée Louis Le Grand",
+      "degree": "Classes préparatoires aux grandes écoles (CPGE)",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Analyse des données",
+    "Assurances",
+    "Investissements",
+    "Marchés financiers",
+    "Finance",
+    "Financial Services",
+    "Private Equity",
+    "Corporate Finance",
+    "Risk Management",
+    "Liquidity Risk",
+    "Credit Risk",
+    "Financial Risk",
+    "Management",
+    "Financial Modeling",
+    "Investment Banking",
+    "Business Strategy",
+    "Portfolio Management",
+    "Mergers & Acquisitions",
+    "Banking",
+    "Management Consulting"
+  ],
+  "languages": [
+    "Allemand",
+    "Anglais"
+  ],
+  "company": {
+    "name": "Mutuelle de Poitiers Assurances",
+    "tagline": "Votre assureur vous connaît, et pour vous, ça change tout !",
+    "description": "La Mutuelle de Poitiers Assurances est présente sur 59 départements avec plus de 300 points de vente.\nDisposant d’une gamme complète de produits d’assurance (habitation, auto, santé, prévoyance, loisirs, risques pro, …) pour les particuliers et les professionnels, les Agents de la Mutuelle de Poitiers proposent toujours une étude globale des besoins pour y répondre au mieux.\n\nA la Mutuelle de Poitiers Assurances, le contact est 100% humain. Nous privilégions la relation de proximité avec nos assurés, sans plateau téléphonique. De la souscription du contrat au règlement du sinistre, les assurés ont un seul interlocuteur : leur Agent.\nCette approche est en accord avec les valeurs mutualistes que la Mutuelle de Poitiers défend : proximité, bienveillance, professionnalisme.\n\nEn complément de cette relation de proximité avec l’Agent, les assurés bénéficient d’un panel complet de services en ligne, accessibles 24h/24 et 7j/7.\n\nNos offres :\n\nUNE OFFRE DE PROTECTION COMPLÈTE\nLa Mutuelle de Poitiers Assurances vous propose une gamme complète de contrats d’assurance pour les particuliers et les professionnels.\n\nAUTO\n• 4 roues et 2 roues\n• Tracteurs\n• Engins de chantier...\n\nDOMMAGES AUX BIENS\n• Multirisque habitation\n• Multirisque professionnelle\n• Multirisque agricole...\n\nSANTE ET FAMILLE\n• Complémentaire santé individuelle et collective\n• Protection des accidents de la vie\n• Assurance scolaire\n• Protection juridique...\n\nEPARGNE, RETRAITE ET PREVOYANCE\n• Assurance Vie, Retraite Madelin\n• Assurance Perte de Revenus\n• Prévoyance Décès\n\nNos valeurs : Esprit mutualiste / Bienveillance / Proximité / Convivialité / Dynamisme / Professionnalisme\n\nA la Mutuelle de Poitiers, votre assureur vous connaît et ça change tout !",
+    "industry": "Insurance",
+    "website": "http://www.mutuelledepoitiers.fr/",
+    "linkedInUrl": "https://www.linkedin.com/company/mutuelle-de-poitiers-assurances",
+    "employeeCount": 898,
+    "foundedYear": 1838,
+    "location": "Poitiers, France",
+    "specialities": []
+  }
+}

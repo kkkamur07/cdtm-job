@@ -1,0 +1,135 @@
+{
+  "id": "yilmazmehmet",
+  "name": "Mehmet Yilmaz",
+  "headline": "Co-Founder of Zavvy & Freeletics",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/yilmazmehmet",
+  "personId": 1311,
+  "classes": [
+    {
+      "id": 67,
+      "label": "Spring 2010",
+      "season": "Spring",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2010",
+  "major": "Business Administration, Mathematics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Mehmet Yilmaz",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Director, Product",
+      "company": "Deel",
+      "companyUrl": "https://www.linkedin.com/company/deel",
+      "description": null,
+      "location": null,
+      "start": "2024-02",
+      "end": "2025-05",
+      "dateRange": "Feb 2024 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Zavvy",
+      "companyUrl": "https://www.linkedin.com/company/zavvy-io",
+      "description": "Zavvy offers a comprehensive solution for people enablement to enhance performance, development, and retention. It covers career development, performance management, learning management, and engagement in one easy-to-use AI-powered product suite.\nMany of Europe’s most successful scale-ups use Zavvy, such as Moss (Germany), Typeform (Spain), Storyblok (Austria), Primer (UK), and many more.\nAcquired by Deel in 2024.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-04",
+      "end": "2024-02",
+      "dateRange": "Apr 2021 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Freeletics",
+      "companyUrl": "https://www.linkedin.com/company/freeletics",
+      "description": "Mobile fitness.\nPersonalized training and nutrition to live a fit and healthy life.\nMore than 50 million users globally.\nAcquired in 2018.",
+      "location": "Munich",
+      "start": "2013-03",
+      "end": "2018-08",
+      "dateRange": "Mar 2013 – Aug 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Business Administration",
+      "dateRange": "2007 – 2011"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Mathematics",
+      "dateRange": "2008 – 2011"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": "Business Administration / Visiting Scholar",
+      "dateRange": "2011"
+    }
+  ],
+  "skills": [
+    "Unternehmertum",
+    "Business Development",
+    "Start-ups",
+    "Entrepreneurship",
+    "Unternehmensführung",
+    "Lean Startup",
+    "Marketing Strategy",
+    "Produktentwicklung",
+    "Mobile Health",
+    "Bootstrapping",
+    "Mobilanwendungen",
+    "Produktmanagement",
+    "Marketing",
+    "Strategisches Management",
+    "Social Media",
+    "Risikokapital",
+    "Unternehmensstrategie"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Deel",
+    "tagline": "Your forever people platform.",
+    "description": "Deel is one platform for payroll, HR, benefits, mobility, performance, and device management across 150+ countries. Built on owned infrastructure, powered by AI, and supported by thousands of local experts, Deel helps businesses scale smarter, faster, and more compliantly. Trusted by 40,000+ customers, and created to become a global brand people love. Learn more at deel.com.",
+    "industry": "Human Resources Services",
+    "website": "https://www.deel.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/deel",
+    "employeeCount": 9458,
+    "foundedYear": 2019,
+    "location": "San Francisco, United States",
+    "specialities": [
+      "Payment Services",
+      "independent contractors",
+      "remote work",
+      "financial service",
+      "business",
+      "EOR",
+      "Payroll",
+      "HR",
+      "HRIS",
+      "compliance",
+      "global hiring"
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "id": "arseniyvershinin",
+  "name": "Arseniy Vershinin",
+  "headline": "Co-founder & Chief Architect at Personio",
+  "avatar": {
+    "sm": "/avatars/arseniyvershinin-sm.webp",
+    "lg": "/avatars/arseniyvershinin.webp",
+    "blur": "data:image/webp;base64,UklGRlIBAABXRUJQVlA4IEYBAAAQBwCdASogACAAPtFQokwoJCMiMBgMAQAaCWgAuy+vOGmVYDZM8qz4iXN2FBmHHDfTjXB6ozTUdxJ6Oc88j5MPAADN1S2dUy/t1Iel8fBLvuPvHNoLANTrwJ/Y6AN636TR6PW4o/v+xtsmy4zLKHM//Zvsx0yXbDO828NejfDByg+pN7zKA1jz9hdAqETMP8QKtYucqYHQJy9SfXFi0MGdwBh97gi913raGpiazqT8DkjD40CCDYOqtAI5S90oCr/g1LdWFTKkdHLLP4LAQbKq7UVPbBbk2sg1WtNUIaBzy8wvyXbbPKvMPG6wgRauTo7AycZPmu9/Dk/gIReMtyd7qAbKhWNu/+9y128aRwegi0DvUvIgIGFiQTyRbGjFBHAuOFqsmh08WJEzBMeIyRSaV+PaAYuTUiODOBdJMpSIAmVu6OMAAA=="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/arseniyvershinin",
+  "personId": 1151,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Arseniy Vershinin",
+  "ca": null,
+  "summary": "ENABLING BETTER ORGANIZATIONS!\n\nPersonio is delivering a modern HR management and recruiting solution for small and medium-sized businesses between 10-2000 employees. Our software covers all processes to efficiently manage your people and applicants while keeping track of everything important. For further information and a free trial account please visit www.personio.com.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Personio Foundation",
+      "companyUrl": "https://www.linkedin.com/company/personio-foundation",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-12",
+      "end": null,
+      "dateRange": "Dec 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & Chief Architect",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2022-11",
+      "end": "2025-04",
+      "dateRange": "Nov 2022 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": null,
+      "location": null,
+      "start": "2015-12",
+      "end": "2022-11",
+      "dateRange": "Dec 2015 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "nuclino",
+      "companyUrl": "https://www.linkedin.com/company/nuclino",
+      "description": null,
+      "location": null,
+      "start": "2015-03",
+      "end": "2015-11",
+      "dateRange": "Mar 2015 – Nov 2015",
+      "current": false
+    },
+    {
+      "title": "iOS Developer",
+      "company": "Freeletics",
+      "companyUrl": "https://www.linkedin.com/company/freeletics",
+      "description": null,
+      "location": null,
+      "start": "2014-10",
+      "end": "2015-11",
+      "dateRange": "Oct 2014 – Nov 2015",
+      "current": false
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Grab A Word",
+      "companyUrl": null,
+      "description": "- Development of the frontend application in Angular.js\n- Development of the native iOS Application in Swift",
+      "location": null,
+      "start": "2014-04",
+      "end": "2014-09",
+      "dateRange": "Apr 2014 – Sep 2014",
+      "current": false
+    },
+    {
+      "title": "Research regarding the future of mobile privacy with T-Labs and Mozilla. Idea, concept, design, busi",
+      "company": "T-Labs, Telekom Innovation Laboratories",
+      "companyUrl": "https://www.linkedin.com/company/t-labs-telekom-laboratories",
+      "description": "Activities included:\n- Design and development of a web application using node.js/angularjs running on a Raspberry Pi\n- Design and development of a mobile application for Mozilla FirefoxOS on a Geeksphone\n- Graphic design and branding for final prototype and marketing material",
+      "location": null,
+      "start": "2014-04",
+      "end": "2014-07",
+      "dateRange": "Apr 2014 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "Research on future trends in the field of sensor-based authentication",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": null,
+      "start": "2014-02",
+      "end": "2014-04",
+      "dateRange": "Feb 2014 – Apr 2014",
+      "current": false
+    },
+    {
+      "title": "iOS Developer",
+      "company": "Foozaka",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2012-06",
+      "end": "2012-10",
+      "dateRange": "Jun 2012 – Oct 2012",
+      "current": false
+    },
+    {
+      "title": "iOS Developer",
+      "company": "Empatika",
+      "companyUrl": "https://www.linkedin.com/company/empatika",
+      "description": "- Development of InFlow iOS Application\n- Development of Hacakthon Game-Project Slash-Slash",
+      "location": null,
+      "start": "2011-07",
+      "end": "2014-10",
+      "dateRange": "Jul 2011 – Oct 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (BS), Computer Science",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)",
+      "degree": "Applied Mathematics in Physics and Informatics",
+      "dateRange": "2008 – 2011"
+    }
+  ],
+  "skills": [
+    "iOS development",
+    "Software Architectural Design",
+    "Game Development",
+    "Object Oriented Design",
+    "Java",
+    "JavaScript",
+    "iOS Development",
+    "Mobile Applications",
+    "Software Development",
+    "Objective-C",
+    "CSS",
+    "Web Development",
+    "iOS"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Personio Foundation",
+    "tagline": "Personio Foundation supports nonprofit organisations operating in the fields of climate action and education.",
+    "description": "Personio Foundation is an independent, nonprofit organisation offering financial and strategic support as well as HR advice to forward-thinking organisations via two flagship programs:\n\n(1) Impact Portfolio: we fund and support exceptional NGOs working in the fields of Climate Action and Education. We look for outstanding teams with innovative and scalable solutions to tackle the most pressing challenges in their fields and thereby foster innovation for People and Planet.\n\n(2) HR Accelerator: Personio Foundation supports HR professionals in the nonprofit and social business sector to tackle their big HR challenges. We offer a free dedicated training hub, knowledge base and community to help build up better people management processes and grow the most valuable asset of any organization – their people. \n\nPersonio Foundation is based on a commitment made when Personio was created to donate 1% of the company’s equity for good causes. This 1% stake is currently worth $85 million and will continue to grow until an IPO of Personio. An additional $3 million in cash donations from Personio’s founders, investors and the company itself has been made to drive immediate progress through Personio Foundation.",
+    "industry": "Philanthropic Fundraising Services",
+    "website": "https://www.personio.foundation/",
+    "linkedInUrl": "https://www.linkedin.com/company/personio-foundation",
+    "employeeCount": 27,
+    "foundedYear": 2021,
+    "location": "München, Germany",
+    "specialities": [
+      "Impact Portfolio",
+      "Education",
+      "Climate Action",
+      "HR Accelerator",
+      "HR Mentoring",
+      "People Partner 4 Good"
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "id": "timonschneider",
+  "name": "Timon Schneider",
+  "headline": "ML/SynBio PhD Student | Generative Genomics | CDTM",
+  "avatar": {
+    "sm": "/avatars/timonschneider-sm.webp",
+    "lg": "/avatars/timonschneider.webp",
+    "blur": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACQBQCdASogACAAPsVSoUunpKMht/VYAPAYiWUAyiBwILdWtrrVeJoAQojrCLfTDKRivQQYAAD++qfU+KaumPb+dtGvwg9UmPbSK1y2Y0g/zQXxBXp3jzm2cJ2jf8v/324Uj6hOOMe6+b0HoXg8NvYqycGJCdFtyYiihfhhTL/ReAFMH7lu6N4Qjeggd5iSczenWznHgklm2SctyHd6+rVyJ6IsnjXC79QzKTX3J3ae1e5r79A6hTW7DahXAAAA"
+  },
+  "location": "London, United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/timonschneider",
+  "personId": 1127,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Timon Schneider",
+  "ca": null,
+  "summary": "timonschneider.de",
+  "positions": [
+    {
+      "title": "PHD Student",
+      "company": "Imperial College London",
+      "companyUrl": "https://www.linkedin.com/company/imperial-college-london",
+      "description": "PhD in Generative ML for Synthetic Biology with Tom Ellis and Aaron Zhao",
+      "location": "Greater London, England, United Kingdom",
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment Team Fellow",
+      "company": "Amino Collective",
+      "companyUrl": "https://www.linkedin.com/company/amino-collective",
+      "description": null,
+      "location": null,
+      "start": "2023-11",
+      "end": null,
+      "dateRange": "Nov 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer",
+      "company": "REMATIQ",
+      "companyUrl": "https://www.linkedin.com/company/rematiq",
+      "description": "Built the first MVP for the Rematiq software together with the CTO.",
+      "location": "Berlin, Germany",
+      "start": "2023-10",
+      "end": "2024-01",
+      "dateRange": "Oct 2023 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Molecular Biologist",
+      "company": "Charité - Universitätsmedizin Berlin",
+      "companyUrl": "https://www.linkedin.com/company/charite",
+      "description": "Working on synthetic pathways in E. coli (AG Lindner-Mehlich). Learned different cloning techniques (Golden Gate, Gibson and LCR), did transformations, PCRs, gene deletions and conducted growth experiments.",
+      "location": "Berlin, Germany",
+      "start": "2023-06",
+      "end": "2023-08",
+      "dateRange": "Jun 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Research Software Engineer",
+      "company": "Cambrium",
+      "companyUrl": "https://www.linkedin.com/company/cambrium-bio",
+      "description": "Built protein design software for biomaterial applications.",
+      "location": "Berlin, Germany",
+      "start": "2022-03",
+      "end": "2022-08",
+      "dateRange": "Mar 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Research Assistant Genomics",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "At the Gagneur Lab, I worked on predicting the effect of rare genetic variants on aberrant gene expression across tissues.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2021-09",
+      "dateRange": "Apr 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineer & Analyst",
+      "company": "10x Founders",
+      "companyUrl": "https://www.linkedin.com/company/10x-founders",
+      "description": "As a software engineer, I set up the initial IT infrastructure including deal sourcing and process automations helping the venture operate efficiently from day 1. \nAs an analyst, I picked up the skills to quickly evaluate businesses and founders.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2021-09",
+      "dateRange": "Apr 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineer (Data)",
+      "company": "La Famiglia VC",
+      "companyUrl": "https://www.linkedin.com/company/la-famiglia-vc",
+      "description": "led the work on data infrastructure for sourcing new deals",
+      "location": null,
+      "start": "2021-03",
+      "end": "2021-10",
+      "dateRange": "Mar 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "Pina",
+      "companyUrl": "https://www.linkedin.com/company/pina-earth",
+      "description": "At Pina, as a team of 7, we prototyped and conceptualised the initial idea for an innovative carbon reduction certification method using satellite imagery.",
+      "location": null,
+      "start": "2020-05",
+      "end": "2020-07",
+      "dateRange": "May 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Team Lead IT",
+      "company": "Academy Consult München e.V.",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": "As IT team lead, I was responsible for leading a team of developers maintaining IT infrastructure and building new applications to make internal processes more efficient and enjoyable.",
+      "location": null,
+      "start": "2019-10",
+      "end": "2020-02",
+      "dateRange": "Oct 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "User Acquisition (Product/Marketing/Tech)",
+      "company": "finn",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": "At finn.auto, a company with over 200 people now, I joined as one of the first interns and helped to set up the initial website and process automations.",
+      "location": null,
+      "start": "2019-08",
+      "end": "2019-10",
+      "dateRange": "Aug 2019 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Academy Consult München e.V.",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": "At Academy Consult, I led various management consulting projects on sales, operations and strategy in the manufacturing, food and telecommunications industry.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2018-10",
+      "end": "2021-10",
+      "dateRange": "Oct 2018 – Oct 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Imperial College London",
+      "degree": "MRes, Systems and Synthetic Biology",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Goethe University Frankfurt",
+      "degree": "Early studies in Mathematics for Economics (during high-school)",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "PyTorch",
+    "Computational Biology",
+    "Next.js",
+    "Data Engineering",
+    "Python (Programmiersprache)",
+    "Rust (Programmiersprache)",
+    "Protein Design",
+    "Mathematical Optimization",
+    "Formal Languages",
+    "Java",
+    "Teamwork",
+    "JavaScript",
+    "React.js",
+    "Microsoft Office",
+    "Linux",
+    "Präsentationen",
+    "Projektmanagement",
+    "Vertrieb",
+    "UX-Design",
+    "Produktmanagement",
+    "Git",
+    "Docker",
+    "HTML",
+    "TypeScript",
+    "Node.js"
+  ],
+  "languages": [
+    "Englisch",
+    "Französisch",
+    "German"
+  ],
+  "company": {
+    "name": "Imperial College London",
+    "tagline": "Imperial is a global top ten university with a world-class reputation in science, engineering, business and medicine",
+    "description": "Consistently rated in the top 10 universities in the world, Imperial College London is the only university in the UK to focus exclusively on science, medicine, engineering and business.\r\n\r\nAt Imperial we bring together people, disciplines, industries and sectors to further our understanding of the natural world, solve major engineering problems, lead the data revolution and improve health and well-being.",
+    "industry": "Research Services",
+    "website": "http://www.imperial.ac.uk/",
+    "linkedInUrl": "https://www.linkedin.com/company/imperial-college-london",
+    "employeeCount": 17928,
+    "foundedYear": 1907,
+    "location": "London, United Kingdom",
+    "specialities": [
+      "medicine",
+      "science",
+      "technology",
+      "business",
+      "engineering",
+      "management"
+    ]
+  }
+}

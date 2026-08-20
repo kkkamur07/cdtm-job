@@ -1,0 +1,281 @@
+{
+  "id": "ajstorch",
+  "name": "Anna-Julia Storch",
+  "headline": "Co-founder & CEO @Dryft | Data Science @Stanford | Threshold Venture Fellow | CDTM | Athlete",
+  "avatar": {
+    "sm": "/avatars/ajstorch-sm.webp",
+    "lg": "/avatars/ajstorch.webp",
+    "blur": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABQBQCdASogACAAPtFQpkuoJKOhsBgMAQAaCWQAA+VHfv21YLQtwLNTBJHHajZWEU5Q4gAA/v6rKLi2n0sh8u+V6ISupTn9NPJx+xIYJirjPr/R8jdp3X+JZ3eq10un7nfvf+5rtmv+p3Q+3VYl+yjWRFwzSY9nREBFypVzp/0RQG5QX/3nXJM7rhrE/jDLBwZeGIgf7zYqSQqkbnJltQYCK5IV/zYCrFk7+hQWQC8Lc8czsQdmkL7LeTwAAA=="
+  },
+  "location": "Palo Alto, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/ajstorch",
+  "personId": 975,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Anna-Julia Storch",
+  "ca": null,
+  "summary": "My primary goal in life is to be as useful as possible. \nI grew up competing in Alpine Ski Racing internationally for many years while living hundreds of kilometers away from the alps. Showing others what is possible even if you don’t have the perfect/typical background is what drives me. Back when I was a ski racer and now in entrepreneurship. \n\nI've helped build up multiple entrepreneurial ventures from 0 to 1. For example, I was one of the first 2 people joining Kyte and I also founded a new business line for a multinational company with multi-million dollar revenues as my first full-time job.\n\nI have endless curiosity and love meeting ultra ambitious and unique (!) individuals with a sense of urgency.",
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Dryft",
+      "companyUrl": "https://www.linkedin.com/company/dryft-hq",
+      "description": "Backed by Neo & General Catalyst.",
+      "location": "Metropolregion San Francisco Bay Area",
+      "start": "2024-05",
+      "end": null,
+      "dateRange": "May 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Part Time Researcher",
+      "company": "Stanford University School of Medicine",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university-school-of-medicine",
+      "description": "World's largest genetics study on high performance endurance athletes and part of the Wu Tsai Human Performance Alliance.",
+      "location": "Stanford, California, United States",
+      "start": "2024-01",
+      "end": "2024-09",
+      "dateRange": "Jan 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Instructor",
+      "company": "Institute for Computational and Mathematical Engineering at Stanford University (ICME)",
+      "companyUrl": "https://www.linkedin.com/company/icme-stanford",
+      "description": "Taught and newly developed a Big Data Course (Spark,Hadoop, SQL, etc.); Ranked top 3 of all courses offered",
+      "location": "Palo Alto",
+      "start": "2023-09",
+      "end": "2024-12",
+      "dateRange": "Sep 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": "Teaching Assistant for 3 famous Stanford Classes: \n- Lean Launchpad (Head TA), taught by Steve Blank, Steve Weinstein, Jennifer Carolan (Reach Capital) & Tom Bedecarre\n- Inventing the future (Head TA), taught by Tina Seelig, Lisa Kay Solomon & Drew Endy\n- Principled Entrepreneurial Decisions, taught by Jack Fuchs & Scott Sandell (NEA)",
+      "location": "Palo Alto, Kalifornien, Vereinigte Staaten von Amerika",
+      "start": "2023-01",
+      "end": "2023-06",
+      "dateRange": "Jan 2023 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Student Associate",
+      "company": "Stanford Technology Ventures Program (STVP)",
+      "companyUrl": "https://www.linkedin.com/company/stanfordtechnologyventuresprogram",
+      "description": "Developed STVP's new positioning strategy",
+      "location": "Stanford, Kalifornien, Vereinigte Staaten von Amerika",
+      "start": "2022-04",
+      "end": "2022-06",
+      "dateRange": "Apr 2022 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Botha Chan Fellow",
+      "company": "Stanford University Graduate School of Business",
+      "companyUrl": "https://www.linkedin.com/company/stanford-graduate-school-of-business",
+      "description": "Sponsored by Sequoia partner Roelof Botha and Huifen Chan. \nWorked on an moonshot project to develop self-assembling medical devices that can be delivered into the human body without the need for surgery. Assembled a team of researchers in material science, chemistry & medicine.",
+      "location": "Palo Alto, Kalifornien, Vereinigte Staaten von Amerika",
+      "start": "2022-03",
+      "end": "2022-08",
+      "dateRange": "Mar 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "Advanced analytics study in banking industry (Turkey & Kuweit); part of McKinsey Digital",
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-07",
+      "end": "2021-08",
+      "dateRange": "Jul 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Manager Modis Tech Academy",
+      "company": "Modis",
+      "companyUrl": "https://www.linkedin.com/company/modis",
+      "description": "Build up a new business line from scratch, owning a P&L and reporting directly to the CEO.\n• Sold multi-million dollar contracts to large German industrials after 3 months of operation\n• Managed 2 major projects, reskilling 700 white collar and 13.500 blue collar workers in 10 countries; project won the Chairman award of the Adecco Group (globally)",
+      "location": "Hamburg, Deutschland",
+      "start": "2021-01",
+      "end": "2021-06",
+      "dateRange": "Jan 2021 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Project Management Modis Tech Academy",
+      "company": "Modis",
+      "companyUrl": "https://www.linkedin.com/company/modis",
+      "description": "Developed concept for new business line & acquired first customers",
+      "location": "Hamburg, Deutschland",
+      "start": "2020-10",
+      "end": "2020-12",
+      "dateRange": "Oct 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "CEO Shadowing and Project Management",
+      "company": "Modis",
+      "companyUrl": "https://www.linkedin.com/company/modis",
+      "description": "Placed 2nd out of over 5000 applicants for the \"CEO for One Month\" Competition in Germany. Was offered to shadow Sebastiaan Krol, Managing Director of Modis GmbH, for one month.",
+      "location": "Hamburg, Deutschland",
+      "start": "2020-09",
+      "end": "2020-10",
+      "dateRange": "Sep 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Analytics & Business Development Working Student",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": "Prepared Black Friday deals (pricing) and tracked performance via SQL queries",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-09",
+      "end": "2020-03",
+      "dateRange": "Sep 2019 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Student Consultant for a Medical Device Manufacturer",
+      "company": "Center for Digital Technology and Management",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Pricing of a digital solution aimed at increasing the adherence and well-being of patients with specific chronic diseases; in collaboration between the CDTM and a Global Medical Device Manufacturer",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-04",
+      "end": "2019-08",
+      "dateRange": "Apr 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Product Management, Data and Growth Intern",
+      "company": "KYTE",
+      "companyUrl": "https://www.linkedin.com/company/drivekyte",
+      "description": "Joined as 2nd person (first on-site). Interviewed the first users, recruited the first drivers, delivered the first car, build the first product screens.",
+      "location": null,
+      "start": "2018-12",
+      "end": "2019-04",
+      "dateRange": "Dec 2018 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Product Development Student",
+      "company": "Bremicker Verkehrstechnik GmbH",
+      "companyUrl": null,
+      "description": "Developed a parking management solution for supermarkets and other commercial properties. Build a working prototype & acquired first pilot customers . The project is pursued further by other startups (e.g. park-depot.com)\n\nIn collaboration with the CDTM.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-04",
+      "end": "2018-07",
+      "dateRange": "Apr 2018 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "AI & Factories of the Future - Trend & Future Research",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Trend & future research between Siemens' AI Lab and CDTM.\nPublished trend report on the factory of the future discussing various AI & business model trends",
+      "location": "Munich",
+      "start": "2018-02",
+      "end": "2018-04",
+      "dateRange": "Feb 2018 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Rip Curl",
+      "companyUrl": "https://www.linkedin.com/company/rip-curl",
+      "description": "Took part in procurement meetings with large retailers, presented products and took orders.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2017-11",
+      "end": "2018-02",
+      "dateRange": "Nov 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Business Development Intern",
+      "company": "Relacio",
+      "companyUrl": null,
+      "description": "Relacio was a Personal CRM startup (similar to Clay, Dex). \n\n•\tDeveloped business plan incl. market research, marketing, financial modeling\n•\tRepresented Relacio at the booth and recruited beta testers at Bits & Pretzels 2017",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2017-08",
+      "end": "2017-10",
+      "dateRange": "Aug 2017 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Viessmann Climate Solutions",
+      "companyUrl": "https://www.linkedin.com/company/viessmannclimatesolutions",
+      "description": "Learned how manufacturing companies work.",
+      "location": "Hof, Germany",
+      "start": "2016-09",
+      "end": "2016-10",
+      "dateRange": "Sep 2016 – Oct 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Master of Science - MS, Education Data Science",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Business Administration",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Data science + Entrepreneurship",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Technology Management",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Castleton University",
+      "degree": "Medical Studies + Business",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Gymnasium Markneukirchen",
+      "degree": "High School Diploma",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Dryft",
+    "tagline": "Intelligence that runs manufacturing operations",
+    "description": "Dryft builds artificial intelligence that mimics, optimizes, and automates complex human decisions in manufacturing operations. \n\nWe use a combination of AI agents & mathematical optimization to build what comes after ERPs: systems that think, act, and adapt autonomously across manufacturing operations.",
+    "industry": "Software Development",
+    "website": "https://dryft.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/dryft-hq",
+    "employeeCount": 12,
+    "foundedYear": 2024,
+    "location": null,
+    "specialities": []
+  }
+}

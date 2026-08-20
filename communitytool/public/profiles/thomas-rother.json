@@ -1,0 +1,205 @@
+{
+  "id": "thomas-rother",
+  "name": "Thomas Rother",
+  "headline": "Chief of Staff @ GovRadar | 🎓 CDTM, TUM, UC Berkeley | 💼 Celonis, United Nations",
+  "avatar": {
+    "sm": "/avatars/thomas-rother-sm.webp",
+    "lg": "/avatars/thomas-rother.webp",
+    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAAAwBQCdASogACAAPtFcqU2oJSQiKAqpABoJZQAD5M5l9yJ14tIOZhX+5TOAz8125VcgAAD++yvveYlZe3LuG9oJrM5BaqXEi8Q7F1j/jc7XNYCeyTTxCL4WUCZCrxY6B0Kp/E1gkmGX3x7N/dGHygxrgYEbXTXRFKXCaR6yPGTCjulXdVoFsYPdGC0ZK54H2yXsf8B/018LgtHZ2OWyxGOg5Jhz9YhAklV1l/yiyUIG1kknWIXWFIS8NTTNwKTAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/thomas-rother",
+  "personId": 1303,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Thomas Rother",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Chief of Staff & Head of Operations",
+      "company": "GovRadar",
+      "companyUrl": "https://www.linkedin.com/company/govradar",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "GTM Advisor",
+      "company": "comstruct",
+      "companyUrl": "https://www.linkedin.com/company/comstruct",
+      "description": null,
+      "location": null,
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "GTM Lead",
+      "company": "Hula Earth",
+      "companyUrl": "https://www.linkedin.com/company/hulaearth",
+      "description": "- Developing Hula’s offering and GTM operations, helping to win customers in new market segments and grow ARR x10\n- Managing end-to-end customer journey from lead generation to deal closure to on-site deployment of Hula's IoT technology",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-10",
+      "end": "2025-06",
+      "dateRange": "Oct 2024 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Consultant, Operations & Business Process Improvement",
+      "company": "United Nations",
+      "companyUrl": "https://www.linkedin.com/company/united-nations",
+      "description": "- Advising on the redesign of the UN’s strategy and methodology for process optimization across the UN Secretariat and UN missions\n- Driving process improvement projects across finance, HR, and peacekeeping operations",
+      "location": "New York City Metropolitan Area",
+      "start": "2023-04",
+      "end": "2024-02",
+      "dateRange": "Apr 2023 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Director, Global Head of Ecosystem Strategy & Operations",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "- Heading worldwide partner GTM strategy and operations, business partner to the Chief Ecosystem Officer\n- Responsible for strategic planning (strategy, budget allocation, organizational design) & business operations (strategy execution, change management, partner program, data analytics)\n- Elevating partner experience for consulting, technology, and academic partners through best-in-class partner portal, enablement program, and supporting infrastructure\n- Leading a global team of GTM business partners and program managers",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-12",
+      "end": "2022-08",
+      "dateRange": "Dec 2020 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Team Lead, Partner Operations EMEA & APAC",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "- Establishing a new function responsible for partner operations, enablement, and marketing\n- Setting up scalable processes, tech stack, and enablement to fuel the global expansion of Celonis' partner ecosystem\n- Responsible for development of new partnerships in EMEA & APAC",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-01",
+      "end": "2020-11",
+      "dateRange": "Jan 2020 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Partner Development Manager",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "- Developing and expanding partnerships with consulting companies in Europe\n- Leading the global implementation of a partner portal",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-10",
+      "end": "2019-12",
+      "dateRange": "Oct 2018 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Working Student, Partner Management",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-10",
+      "end": "2018-09",
+      "dateRange": "Oct 2017 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Working Student, Consulting",
+      "company": "Aprimano Consulting GmbH",
+      "companyUrl": "https://www.linkedin.com/company/aprimano-consulting-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-05",
+      "end": "2017-09",
+      "dateRange": "May 2017 – Sep 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honour's Degree, Technology Management",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher, Rausser College of Natural Resources",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science, Management and Technology",
+      "dateRange": "2023 – 2026"
+    },
+    {
+      "school": "Hochschule München University of Applied Sciences",
+      "degree": "Bachelor of Arts, Tourism Management",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "Universidad de Cuenca",
+      "degree": null,
+      "dateRange": "2016 – 2017"
+    }
+  ],
+  "skills": [
+    "Business Strategy & Operations",
+    "Project Management",
+    "Software as a Service (SaaS)",
+    "Teamwork",
+    "Leadership",
+    "Start-ups",
+    "Process Optimization",
+    "Go-to-market Strategy",
+    "Channel Partners",
+    "Partner Programs",
+    "Business Intelligence (BI)",
+    "Partner Relationship Management (PRM)",
+    "Process Mining",
+    "Salesforce"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "GovRadar",
+    "tagline": "Innovative procurement for the public sector",
+    "description": "GovRadar GmbH was founded in 2020 and has developed successfully ever since. The market launch of its innovative software took place in 2022. With steady growth, the platform already has over 1,000 active users in 2023. GovRadar offers a user-friendly solution for contracting authorities to create tender documents easily, quickly and in compliance with public procurement regulations. Our platform facilitates the entire process and optimises efficiency in public procurement.\n\nGovRadar Markets is a powerful software module with a comprehensive product database that enables the intelligent definition of supply services. It offers direct comparison options between your requirements and the market offer. The \"Tenders & AI\" module optimises tender documents with AI support and generates formulation proposals. GovRadar Tenders provides access to an extensive tender database with intelligent search functions. The \"GovRadar Documents\" module enables the guided creation of contracts and forms with an intelligent assistant. It also offers the development of your own interactive document templates with full compatibility. Our solutions save time and simplify public procurement processes.",
+    "industry": "Software Development",
+    "website": "https://govradar.net",
+    "linkedInUrl": "https://www.linkedin.com/company/govradar",
+    "employeeCount": 50,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": [
+      "SaaS",
+      "GovTech",
+      "B2G",
+      "Beschaffung",
+      "Procurement",
+      "Leistungsbeschreibungen",
+      "Öffentlicher Sektor",
+      "Software",
+      "Public Sector"
+    ]
+  }
+}

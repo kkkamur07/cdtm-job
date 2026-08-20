@@ -1,0 +1,227 @@
+{
+  "id": "zenofox",
+  "name": "Zeno Fox",
+  "headline": "Building the real-time interface for human health | Prev. MIT, CDTM, Nucleate",
+  "avatar": {
+    "sm": "/avatars/zenofox-sm.webp",
+    "lg": "/avatars/zenofox.webp",
+    "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAACQBQCdASogACAAPtFYpkyoJSOiKA1RABoJYgCdMtDlr1akrpfgRTWRbDIPB9mHjW7ZcGByAAD++XNoH7ASQ2/t0dmh9d1z9GOmoZ+FigW5TXBnAqapsoQ895HJVBJeqVoFrKss2L6kKfyqS7btRVR7IEQeRUeyJddS7j18POl9w3zNpsWLT0HI81xrj+8OUhfiWop88JnBSAzJ0+1fkIq3IQCWVA4HrZxiwYbIbekqwCqqFTyi9mrFRB6XEcZLyFAAAA=="
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/zenofox",
+  "personId": 862,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "BSc Management and Technology (TUM)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Zeno Fox",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Continuity",
+      "companyUrl": "https://www.linkedin.com/company/continuitybio",
+      "description": "Connecting your body to medical superintelligence. MIT spinoff.",
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "The Residency",
+      "companyUrl": "https://www.linkedin.com/company/live-the-residency",
+      "description": "Founder program backed by Sam Altman.",
+      "location": null,
+      "start": "2025-10",
+      "end": "2026-03",
+      "dateRange": "Oct 2025 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "MIT delta v Fellow",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "MIT’s flagship program for the top founders across its schools and departments.",
+      "location": null,
+      "start": "2024-06",
+      "end": "2024-10",
+      "dateRange": "Jun 2024 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Research Affiliate",
+      "company": "SecureBio",
+      "companyUrl": "https://www.linkedin.com/company/secure-bio",
+      "description": "Preventing rogue actors from creating biological threats.",
+      "location": null,
+      "start": "2024-02",
+      "end": "2024-05",
+      "dateRange": "Feb 2024 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Director, Global Strategy",
+      "company": "Nucleate",
+      "companyUrl": "https://www.linkedin.com/company/nucleatehq",
+      "description": null,
+      "location": null,
+      "start": "2022-12",
+      "end": "2023-12",
+      "dateRange": "Dec 2022 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & Co-Managing Director, Nucleate Germany",
+      "company": "Nucleate",
+      "companyUrl": "https://www.linkedin.com/company/nucleatehq",
+      "description": "We empower the next generation of biotech leaders. Across locations, Nucleate has supported over 180 startups that went on to raise over $500M in funding to date.",
+      "location": null,
+      "start": "2022-09",
+      "end": "2023-12",
+      "dateRange": "Sep 2022 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Managing Director | START Network",
+      "company": "START Global",
+      "companyUrl": "https://www.linkedin.com/company/startglobal",
+      "description": "Coordinated and grew the network of 11 chapters and 600+ people across Europe.",
+      "location": null,
+      "start": "2020-09",
+      "end": "2021-04",
+      "dateRange": "Sep 2020 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "PushQuantum",
+      "companyUrl": "https://www.linkedin.com/company/push-quantum",
+      "description": "One of Europe's first initiatives focused on quantum technology. Collaborations with TUM, Airbus, Volkswagen, E.ON, and more.",
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-10",
+      "dateRange": "Apr 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "President",
+      "company": "START Munich",
+      "companyUrl": "https://www.linkedin.com/company/startmunich",
+      "description": "Built the largest entrepreneurial student initiative in the DACH region.",
+      "location": null,
+      "start": "2019-08",
+      "end": "2020-08",
+      "dateRange": "Aug 2019 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Operating",
+      "company": "Various Companies",
+      "companyUrl": "https://www.linkedin.com/company/various-boards",
+      "description": "Worked with VC-backed startups in AI and health, like deepc (backed by Sofinnova) and Luminovo (backed by General Catalyst).",
+      "location": null,
+      "start": "2018-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2018 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "SPLYR",
+      "companyUrl": null,
+      "description": "Built a software and sneaker resell business with a global customer base and $100k/year revenue.",
+      "location": null,
+      "start": "2017-07",
+      "end": "2018-08",
+      "dateRange": "Jul 2017 – Aug 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Graduate Research Stay, MIT Center for Collective Intelligence (CCI)",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours - Elite Gradu­ate Pro­gram, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "University of Oxford",
+      "degree": "Research Stay, Creative Destruction Lab",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.S., Management & Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "MIT Sloan School of Management",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Java",
+    "Leadership",
+    "Marketing",
+    "Social Media",
+    "Marketing Strategy",
+    "Social Media Marketing",
+    "Strategy",
+    "German",
+    "English",
+    "Critical Thinking",
+    "User Experience (UX)",
+    "Entrepreneurship",
+    "Business Strategy",
+    "Venture Capital",
+    "Lean Startup",
+    "Programming",
+    "Design Thinking",
+    "Python",
+    "Information Technology",
+    "Startup Development",
+    "Webdesign",
+    "Customer Development",
+    "Early-stage Startups"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Continuity",
+    "tagline": "Building the real-time interface for human health",
+    "description": "We are building the real-time interface for human health. Our platform enables predictive and deeply personalized care by continuously and non-invasively decoding molecular signals from your body. As AI reshapes the world, this biological insight in real-time is the foundation for fully autonomous AI physicians across clinical and consumer applications.",
+    "industry": "Biotechnology Research",
+    "website": "https://continuity.bio/",
+    "linkedInUrl": "https://www.linkedin.com/company/continuitybio",
+    "employeeCount": 6,
+    "foundedYear": null,
+    "location": "Mountain View, United States",
+    "specialities": []
+  }
+}

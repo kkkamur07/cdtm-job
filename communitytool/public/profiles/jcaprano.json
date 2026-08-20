@@ -1,0 +1,227 @@
+{
+  "id": "jcaprano",
+  "name": "Johannes C.",
+  "headline": "Founder @ pneumetrix | Making compressed air efficient | UPC, CDTM",
+  "avatar": {
+    "sm": "/avatars/jcaprano-sm.webp",
+    "lg": "/avatars/jcaprano.webp",
+    "blur": "data:image/webp;base64,UklGRjABAABXRUJQVlA4ICQBAABQBgCdASogACAAPtFcpU6oJSMiKAqpABoJYgCdIL/qQPeNeZduhsvs7AKrmSCGwlcV31EClDn2V5JecAD+3PN9MIzZWewEXr5FYb6ECnUiHYrFD15wmq1jUuLAEvPAEKWWF8Xrc3eLkou3JtePqJlKdgq9UJ8ppcV1G2GU7z3EInomPNHkBpJW0+Vz4BFp31h8iz/BK2oe3Upai+VEv6C/Ux0XqYFTnhRBrqeua7pO67Z8MtVmxah2qaiDRXdlU4KZ9YpIfn1T4qmzDUw9B2DBGBfzzbmBBCATwwA+x7xRkMvpoHzZFDjAXKWMYAoXsIPHPSmiFKCl7DsPy0W1/UbHPIl7Gf51C9TlvRuMfrJ89YGGEBqGhVU0rNDaOULV4cElgAAA"
+  },
+  "location": "Barcelona, Spain",
+  "linkedInUrl": "https://www.linkedin.com/in/jcaprano",
+  "personId": 830,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Johannes Caprano",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder",
+      "company": "pneumetrix",
+      "companyUrl": "https://www.linkedin.com/company/pneumetrix",
+      "description": "pneumetrix helps factories improve energy efficiency and reliability through compressed air management",
+      "location": "Barcelona, Catalonia, Spain",
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Joint Managing Director Tailored Solutions Germany",
+      "company": "Technoform",
+      "companyUrl": "https://www.linkedin.com/company/technoform",
+      "description": null,
+      "location": "Lohfelden, Hessen, Deutschland",
+      "start": "2019-11",
+      "end": "2021-08",
+      "dateRange": "Nov 2019 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Business Development Heat Transfer Solutions",
+      "company": "Technoform",
+      "companyUrl": "https://www.linkedin.com/company/technoform",
+      "description": null,
+      "location": "Kassel und Umgebung, Deutschland",
+      "start": "2018-05",
+      "end": "2019-11",
+      "dateRange": "May 2018 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Intern Inhouse Consulting",
+      "company": "Allianz Group",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": null,
+      "location": null,
+      "start": "2015-04",
+      "end": "2015-07",
+      "dateRange": "Apr 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2015-01",
+      "end": "2015-03",
+      "dateRange": "Jan 2015 – Mar 2015",
+      "current": false
+    },
+    {
+      "title": "Intern Adhesives Strategy Group",
+      "company": "Henkel",
+      "companyUrl": "https://www.linkedin.com/company/henkel",
+      "description": null,
+      "location": null,
+      "start": "2014-10",
+      "end": "2014-12",
+      "dateRange": "Oct 2014 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Part Time M&A, Integration",
+      "company": "Henkel",
+      "companyUrl": "https://www.linkedin.com/company/henkel",
+      "description": null,
+      "location": null,
+      "start": "2013-09",
+      "end": "2014-04",
+      "dateRange": "Sep 2013 – Apr 2014",
+      "current": false
+    },
+    {
+      "title": "Intern Adhesive Technologies M&A, Integration",
+      "company": "Henkel",
+      "companyUrl": "https://www.linkedin.com/company/henkel",
+      "description": null,
+      "location": null,
+      "start": "2013-05",
+      "end": "2013-08",
+      "dateRange": "May 2013 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Intern Advisory Business Consulting",
+      "company": "PwC Singapore",
+      "companyUrl": "https://www.linkedin.com/company/pwc-singapore",
+      "description": null,
+      "location": "Singapore",
+      "start": "2012-05",
+      "end": "2012-07",
+      "dateRange": "May 2012 – Jul 2012",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Deutsche Bank",
+      "companyUrl": "https://www.linkedin.com/company/deutsche-bank",
+      "description": null,
+      "location": null,
+      "start": "2011-05",
+      "end": "2011-07",
+      "dateRange": "May 2011 – Jul 2011",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Hydro Aluminium Argentina SA",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2011-03",
+      "end": "2011-04",
+      "dateRange": "Mar 2011 – Apr 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Universitat Politècnica de Catalunya",
+      "degree": "Master's degree, Internet of Things",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "UC Berkeley School of Information",
+      "degree": null,
+      "dateRange": "2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science, Management and Technology",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Esade",
+      "degree": "Bachelor of Business Administration (BBA), Exchange Semester",
+      "dateRange": "2013"
+    },
+    {
+      "school": "WHU – Otto Beisheim School of Management",
+      "degree": "Bachelor of Science, Business Administration and Management",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "Engelsburg Gymnasium Kassel",
+      "degree": "Abitur, Politics, Economics, Maths",
+      "dateRange": "2002 – 2010"
+    },
+    {
+      "school": "Real Colegio Alfonso XII",
+      "degree": "Attended boarding school",
+      "dateRange": "2007 – 2008"
+    }
+  ],
+  "skills": [
+    "Energy Management",
+    "Compressed Air",
+    "Internet of Things (IoT)",
+    "Auditing",
+    "KPI Implementation",
+    "Corporate Finance",
+    "Financial Analysis",
+    "English",
+    "Microsoft Excel",
+    "Spanish",
+    "PowerPoint",
+    "Market Research",
+    "Microsoft Office",
+    "Database Design",
+    "Database Administration",
+    "Access Database",
+    "German",
+    "Business Process Improvement",
+    "Mergers & Acquisitions",
+    "Unternehmensfinanzierung"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": null
+}

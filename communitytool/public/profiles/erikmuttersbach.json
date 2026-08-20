@@ -1,0 +1,122 @@
+{
+  "id": "erikmuttersbach",
+  "name": "Erik Muttersbach",
+  "headline": "AI agents for Supply Chain | 10Y in Logistics | Co-Founder & ex-CTO/CPO @Forto",
+  "avatar": {
+    "sm": "/avatars/erikmuttersbach-sm.webp",
+    "lg": "/avatars/erikmuttersbach.webp",
+    "blur": "data:image/webp;base64,UklGRowBAABXRUJQVlA4IIABAAAQBwCdASogACAAPtFSokuoJKMhsAgBABoJbACdMuN7LSAjpAh+sTuMH47k/1c0TJxLQW3+0l8zunwkNaiZ8m7HsAD+9llanqSzhMUHFHScaXGujH5PXk+QoB+SXQkDdO5V5Z4LpHrLusMP2pATYoSwrsNqnvenXx/LzJkuLxCf58zE/Xqzqtc2dy5zT+F5tzY8fjlduH8+OX8GIKF6QqIOGt99mdbJKP/NXvaPKqVnfvGG9GxLDreX9+uaA+mfPy8wuyrdxHaTkvOwE/1GNI4i1jmh4efyygXuNuxklM7Bi63cJH00LXCti9AXIyjg9LFyKV5It3cRjzJ7Cmu2UesCsd/0m4MgL76sDsuTvYDvfmT4aNr/LkxFjk9rIBdCea7BxF1QywCQe9iHrJmQv6sAUIuMdqDBXZxlofo5mdTrQmUHTgK4YhcHp1Nn+CxHwK7bic0wb30xM/L603VRD7553uPzuT7cvF68Yz50NKrsdRYv3V+Ng8nicF45w2gAAAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/erikmuttersbach",
+  "personId": 1034,
+  "classes": [
+    {
+      "id": 73,
+      "label": "Spring 2013",
+      "season": "Spring",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2013",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Erik Muttersbach",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder",
+      "company": "Zauber",
+      "companyUrl": "https://www.linkedin.com/company/zauber-technology",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder | Board Member",
+      "company": "Forto",
+      "companyUrl": "https://www.linkedin.com/company/fortocompany",
+      "description": null,
+      "location": null,
+      "start": "2023-09",
+      "end": "2024-12",
+      "dateRange": "Sep 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Co-Founder | Technology",
+      "company": "Forto",
+      "companyUrl": "https://www.linkedin.com/company/fortocompany",
+      "description": null,
+      "location": "Berlin",
+      "start": "2015-10",
+      "end": "2023-08",
+      "dateRange": "Oct 2015 – Aug 2023",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Computer Science",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Computer Science",
+      "dateRange": "2008 – 2011"
+    }
+  ],
+  "skills": [
+    "HTML 5",
+    "PHP",
+    "Web Development",
+    "JavaScript",
+    "Mobile Applications",
+    "Ruby on Rails",
+    "MySQL",
+    "CSS",
+    "jQuery",
+    "iOS development",
+    "Git",
+    "AJAX",
+    "Android",
+    "Web Applications",
+    "Python",
+    "E-commerce",
+    "Objective-C",
+    "Java",
+    "Android Development",
+    "Ruby"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Zauber",
+    "tagline": null,
+    "description": "AI operating system for logistics",
+    "industry": "Technology, Information and Internet",
+    "website": "https://gozauber.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/zauber-technology",
+    "employeeCount": 18,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "id": "michaelmerz",
+  "name": "Michael Merz",
+  "headline": "Co-founder",
+  "avatar": null,
+  "location": "Bellevue, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/michaelmerz",
+  "personId": 1738,
+  "classes": [
+    {
+      "id": 99,
+      "label": "Spring 2000",
+      "season": "Spring",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2000",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Michael Merz",
+  "ca": null,
+  "summary": "* AI product strategy, product management.\n* Innovation, turning ideas into product.\n* Engineering management, team building.\n* Technical & cross-functional leadership.\n* Early stage startups, large corporations.",
+  "positions": [
+    {
+      "title": "Founder in Residence",
+      "company": "Foundations",
+      "companyUrl": "https://www.linkedin.com/company/seattlefoundations",
+      "description": null,
+      "location": "Seattle, Washington, United States",
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Stealth AI Startup",
+      "companyUrl": "https://www.linkedin.com/company/stealthaistartup",
+      "description": null,
+      "location": "Bellevue, Washington, United States",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Product",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": "Applied AI & ML Accelerator\nFounding member, led technical product and program management. Our mission was to help organizations in Amazon WW Stores increase efficiency and re-envision business processes by accelerating the adoption of AI and ML technologies, in collaboration with AWS; focusing on applying technologies such as deep learning (DL), large language models (LLM), generative AI (GenAI), and agentic AI company wide.  \n\nWorldwide Sustainability\nLed product and science team for the NetZero organization  (https://www.amazon.com/sustainability). Our mission was to build products that help Amazon decarbonize its operations by automating the processes of estimating and reporting environmental impact, and by quantifying opportunities to reduce the impact through simulation. We built world-class services, models, and tools that reflected the latest climate change science and translate actuals, estimates, and simulations into actionable insights.",
+      "location": "Seattle, Washington, United States",
+      "start": "2020-09",
+      "end": "2025-12",
+      "dateRange": "Sep 2020 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Product",
+      "company": "Facebook",
+      "companyUrl": "https://www.linkedin.com/company/facebook",
+      "description": "Connection Integrity\nWorked on improving the quality of the News Feed. We built mechanisms and ML models to classify harmful content along various dimensions, identify bad actors, and act on our classifications.",
+      "location": "Greater Seattle Area",
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Senior Manager Technical Product and TPM",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": "Last Mile Technology\nLed product team for Data Collection and Routing Intelligence, as part of Last Mile Technology. We built systems to collect data and ground truth to help Amazon understand how delivery routes are executed; we used that knowledge and ML and statistical models to improve and optimize future route execution plans for our delivery associates. \n\nAmazon Selection and Catalog Systems\nBuilt and managed team of technical product and program managers in Seattle and Bangalore. As part of Amazon Selection and Catalog Systems (ASCS) we built a scalable Selection Monitoring platform to automate the understanding of brands and products in eCommerce. Our platform produced data that was used by business and technology teams across Amazon. We ingested and processed semi-structured big data at scale, and leveraged techniques such as deep learning to help make the biggest catalog on the planet even bigger - and more relevant for our customers.",
+      "location": "Greater Seattle Area",
+      "start": "2014-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2014 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Group Product Manager & Senior Manager, Engineering",
+      "company": "Groupon",
+      "companyUrl": "https://www.linkedin.com/company/groupon",
+      "description": "Computational marketing\nLed geographically distributed (US, Germany, Chile) product & engineering teams. Built global high-availability, low-latency services to analyze and influence online consumer behavior in real-time.",
+      "location": "Greater Seattle Area",
+      "start": "2012-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2012 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Senior Program Manager",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Online Services Division (OSD)\n* Responsible for backend systems and demand side platform (DSP) and ad exchange strategy on Microsoft's Audience Intelligence team. Created and led virtual teams to deliver technology that streamlined campaign management across Microsoft's display advertising platforms and significantly reduced operational costs. Drove the architectural design and managed the release across several teams with minimal interruption across all affected online services. \n* Responsible for delivery engine, APIs, campaign management, and operational features for Microsoft AdECN (real-time bidding ad exchange); led cross-functional team to scale live ad exchange system to production levels; led virtual team to deliver ad exchange solution for mobile devices. Managed and delivered several releases on schedule.\n\nMicrosoft Business Solutions (MBS)\n* Responsible for programming model with in Dynamics AX related to system integration, including webservice generation. Defined platform APIs for cloud migration of Dynamics. Built early prototypes leveraging social media and O365 to showcase new opportunities for \"enterprise social networks\" .",
+      "location": "Greater Seattle Area",
+      "start": "2006-01",
+      "end": "2012-12",
+      "dateRange": "Jan 2006 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Principal Engineer",
+      "company": "iConclude (now: HP)",
+      "companyUrl": "https://www.linkedin.com/company/iconclude",
+      "description": "First engineer in successful startup company to help get the product defined and started; shipped first couple of releases of new problem resolution management product to paying customers; helped growing both product and company.",
+      "location": "Greater Seattle Area",
+      "start": "2005-01",
+      "end": "2006-12",
+      "dateRange": "Jan 2005 – Dec 2006",
+      "current": false
+    },
+    {
+      "title": "Senior Lead Software Engineer",
+      "company": "BEA Systems (now: Oracle)",
+      "companyUrl": "https://www.linkedin.com/company/bea-systems",
+      "description": "Led engineering team of FTEs and contractors on web services projects (Workshop team). Contributed to JCP/JSR, Apache Software Foundation as committer.",
+      "location": "Greater Seattle Area",
+      "start": "2004-01",
+      "end": "2005-12",
+      "dateRange": "Jan 2004 – Dec 2005",
+      "current": false
+    },
+    {
+      "title": "SDE II",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": "Engineer on the Automated Advertising team; automated generation, management and (performance) analysis for Amazon's Internet ads on Google, Overture, etc.",
+      "location": "Greater Seattle Area",
+      "start": "2003-01",
+      "end": "2004-12",
+      "dateRange": "Jan 2003 – Dec 2004",
+      "current": false
+    },
+    {
+      "title": "Software Architect",
+      "company": "Tut Systems (now: Motorola/Google)",
+      "companyUrl": null,
+      "description": "Reported to VP of Advanced Technologies; worked on next generation device drivers, protocol stacks, embedded systems, multimedia transmission (VoIP, Video) and system management solutions.",
+      "location": "San Francisco Bay Area",
+      "start": "1998-01",
+      "end": "2003-12",
+      "dateRange": "Jan 1998 – Dec 2003",
+      "current": false
+    },
+    {
+      "title": "Post-grad Research Assistant",
+      "company": "European Union",
+      "companyUrl": "https://www.linkedin.com/company/european-union",
+      "description": "PhD student. Researcher on CoBrow project (joint-venture of U Lancaster, ETH Zurich, Uni Ulm), worked on telecollaboration and social networks. Published results at IEEE's SYBEN '98 conference.",
+      "location": "Ulm Area, Germany",
+      "start": "1997-01",
+      "end": "1998-12",
+      "dateRange": "Jan 1997 – Dec 1998",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ulm University",
+      "degree": "M.Sc., Computer Science, Operations Research",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "AI Agents",
+    "Research Skills",
+    "Product Management",
+    "Generative AI",
+    "Product Strategy",
+    "Deep Learning",
+    "Entrepreneurship",
+    "Large Language Models (LLM)",
+    "Machine Learning",
+    "Python (Programming Language)",
+    "E-commerce",
+    "Online Advertising",
+    "Carbon Footprinting",
+    "Technical Leadership",
+    "User Experience (UX)",
+    "Cloud Computing",
+    "Big Data",
+    "Engineering Leadership",
+    "Leading Development Teams",
+    "Competitive Analysis",
+    "Product Design",
+    "Communication",
+    "Product Requirements",
+    "User Stories",
+    "Software Development",
+    "Consumer Software",
+    "Software Design",
+    "Strategy",
+    "System Architecture",
+    "Software Engineering",
+    "Agile Methodologies",
+    "Start-ups",
+    "Software Project Management",
+    "Integration",
+    "Scalability",
+    "Distributed Systems",
+    "Web Applications",
+    "Enterprise Software",
+    "Management",
+    "Cross-functional Team Leadership",
+    "Social Media"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "company": {
+    "name": "Foundations",
+    "tagline": "Building the Foundations of Seattle’s Startups",
+    "description": null,
+    "industry": "Technology, Information and Internet",
+    "website": "https://seattlefoundations.org/",
+    "linkedInUrl": "https://www.linkedin.com/company/seattlefoundations",
+    "employeeCount": 47,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

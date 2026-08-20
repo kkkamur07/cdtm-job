@@ -1,0 +1,210 @@
+{
+  "id": "chandruscm",
+  "name": "Chandramohan Sudar",
+  "headline": "Tech @ Condens.io | TUM | CDTM",
+  "avatar": {
+    "sm": "/avatars/chandruscm-sm.webp",
+    "lg": "/avatars/chandruscm.webp",
+    "blur": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAABwBgCdASogACAAPsFMn0unpCKht/qoAPAYCWMAVYJQAqgUAHu07+tOAwNh9wCzrer+aRHPWTvOWEWEoAAA/vqn2Azv0DeVcgRurrJKcv4qxKUGr44jTXLOnbOw5+J727mGRt4FUBqkoYWuXdF2d0X87Q/ByJd4/YjlkOIX8MPAFLmmSdd4X24IeK+tNPNCb8ZmDuj1SoSgw4u0Kn2waWCPxP2+jazQrh04qnak8M03SizrTRxXmmwLfBo6hMSMLE2GuUHPLN9wS0lx5jSpBegAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/chandruscm",
+  "personId": 985,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "Bachelor and M.Sc. in Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Chandra Mohan Sudar",
+  "ca": null,
+  "summary": "I love designing and developing digital products. Embodying the true spirit of a generalist, I've worked on a wide range of projects in mobile, web, iOT, AR and more.",
+  "positions": [
+    {
+      "title": "Software Developer",
+      "company": "Condens",
+      "companyUrl": "https://www.linkedin.com/company/condens",
+      "description": null,
+      "location": null,
+      "start": "2022-03",
+      "end": null,
+      "dateRange": "Mar 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager Working Student",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": null,
+      "start": "2021-04",
+      "end": "2021-07",
+      "dateRange": "Apr 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Product Owner",
+      "company": "Limehome",
+      "companyUrl": "https://www.linkedin.com/company/limehome",
+      "description": "Responsible for managing the digital customer journey for hotel guests at Limehome, in close cooperation with the development team in a scrum environment.",
+      "location": null,
+      "start": "2020-10",
+      "end": "2020-12",
+      "dateRange": "Oct 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Student Consultant - Product Development",
+      "company": "remberg",
+      "companyUrl": "https://www.linkedin.com/company/remberg",
+      "description": "Developed a video app solution that enables remote machine servicing and makes the tedious process of servicing more efficient for both the servicing technicians as well as the machine operators.\n\nAs part of the Managing Product Development (MPD) course at the Center for Digital Technology and Management (CDTM). Teams of 4-5 students work with an industry partner for 12 weeks, going through the entire value-chain of product development: from ideation and prototyping to agile development and product deployment.",
+      "location": null,
+      "start": "2020-05",
+      "end": "2020-07",
+      "dateRange": "May 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Student Consultant - Trend Research: Public Administration in the Digital Era",
+      "company": "Tech4Germany",
+      "companyUrl": "https://www.linkedin.com/company/tech4germany",
+      "description": "Publication of a Trend Report about \"Public Administration in the Digital Era“ in cooperation with Tech4Germany (fellowship program for digital talents to support the digital transformation of Public Administration under the auspices of the German Federal Chancellery)",
+      "location": null,
+      "start": "2020-03",
+      "end": "2020-04",
+      "dateRange": "Mar 2020 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Android Developer Working Student",
+      "company": "P3",
+      "companyUrl": "https://www.linkedin.com/company/p3",
+      "description": "Responsible for projects ranging from enterprise mobile app solutions to state of the art proof of concepts.",
+      "location": null,
+      "start": "2019-01",
+      "end": "2020-06",
+      "dateRange": "Jan 2019 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Student Facilitator",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Student Facilitator for Google's Applied CS with Android program at Amrita University. Responsible for delivering CS oriented Android workshops for university students.",
+      "location": null,
+      "start": "2016-03",
+      "end": "2017-02",
+      "dateRange": "Mar 2016 – Feb 2017",
+      "current": false
+    },
+    {
+      "title": "Independent Android Developer",
+      "company": "chandruscm",
+      "companyUrl": null,
+      "description": "• Independently developed 3 Android apps that have grossed more than 250,000 downloads on Google Play. \n• Won travel grant to Google I/O 2016 at San Francisco, as recognition for work on Android\n• Nominated for the Google Developer Expert program\n• Android instructor under the Applied CS with Android program by Google",
+      "location": null,
+      "start": "2015-01",
+      "end": "2020-10",
+      "dateRange": "Jan 2015 – Oct 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "TUM Entrepreneurial Masterclass",
+      "degree": "Master Thesis with UnternehmerTUM, Startup Creation Track",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Informatics",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Research Student, Operating Systems",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Amrita Vishwa Vidyapeetham",
+      "degree": "Bachelor's degree, Computer Science",
+      "dateRange": "2013 – 2017"
+    },
+    {
+      "school": "VSSC Central School",
+      "degree": null,
+      "dateRange": "2001 – 2013"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "SQL",
+    "C",
+    "C++",
+    "Node.js",
+    "Django",
+    "DevOps",
+    "Kotlin",
+    "Product Management",
+    "Unity",
+    "React.js",
+    "iOS",
+    "Android Development",
+    "Amazon Web Services (AWS)",
+    "Python",
+    "Web Development",
+    "TypeScript",
+    "Data Structures",
+    "Figma",
+    "Cloud Application Development",
+    "Prototyping",
+    "Microsoft HoloLens",
+    "Libgdx",
+    "libgdx"
+  ],
+  "languages": [
+    "Tamil",
+    "Malayalam",
+    "German",
+    "Hindi",
+    "English"
+  ],
+  "company": {
+    "name": "Condens",
+    "tagline": "Turn insights into impact with Condens: centralize, analyze, share, and scale your customer knowledge with ease!",
+    "description": "Condens helps you and your team to store, structure, and analyze user research data and share findings across your organization.",
+    "industry": "Software Development",
+    "website": "https://condens.io/",
+    "linkedInUrl": "https://www.linkedin.com/company/condens",
+    "employeeCount": 15,
+    "foundedYear": 2018,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Product Management",
+      "Customer insights",
+      "User insights",
+      "User research",
+      "UX research",
+      "Design research",
+      "UX Design"
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "id": "sven-olaf-rohr",
+  "name": "Dr. Sven Olaf Rohr",
+  "headline": "Building clinical AI | Founder-Doctor-Scientist",
+  "avatar": {
+    "sm": "/avatars/sven-olaf-rohr-sm.webp",
+    "lg": "/avatars/sven-olaf-rohr.webp",
+    "blur": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAAAwBQCdASogACAAPtFYpUyoJSOiKA1RABoJZgCdAYw9LbsTL5T/n5SXRGWYvSrL6ixlSAD+6tTqu87vwLOLqQKtBVIe3V008rEyvBl83u7nqBGVwWm0Cznk78flp0DWBt9TQXSJYhUDzoZkI/k1XrQL56x6Yeqq4b/WIw1Yc9gIyfnLgJ8VhwEdR+p3m2l8Ptmvg5t2Q65iJ8pdol1TIbwEgAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sven-olaf-rohr",
+  "personId": 847,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "Doctor of Medicine (LMU, University of Alberta, Cornell University, Yonsei University, Universität Zürich)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sven Olaf Rohr",
+  "ca": null,
+  "summary": "I’m a medical doctor, founder and scientist working at the intersection of medicine, AI, and entrepreneurship. I build systems and products that help patients and professionals navigate the complexity of modern healthcare. My work spans clinical AI, digital platforms, and product strategy—leading teams that turn research and data into practical, usable technology. I enjoy working with smart, ambitious people who care about doing meaningful, technically challenging work. I prefer solving hard problems over doing work that’s easy but unimportant.\n\nCurrent research/interest:\n👩‍🔬🔬 AI/LLM agents in healthcare\n🖥️🏥 patient-centric applications in digital health\n🚀🩺 early-stage healthtech startups\n\nMy background:\n🚀 Founder valuna health, actimi \n👨‍💻 Graduate studies in med. informatics and technology mgmt. @ CDTM, LMU, UK Augsburg\n🎓 Doctoral degree (Dr. med.) in neuropathology & digital imaging @ LMU Munich \n🚑 Medical Doctor @ LMU, Cornell Univ., Univ. of Alberta, Univ of Zurich, Yonsei Univ, UK Augsburgg",
+  "positions": [
+    {
+      "title": "Managing Director (ifap GmbH) & Senior Product Manager",
+      "company": "CompuGroup Medical SE & Co. KGaA",
+      "companyUrl": "https://www.linkedin.com/company/compugroup-medical-ag",
+      "description": "Managing director of a healthcare IT company (ifap GmbH) within CompuGroup Medical.  \nDriving strategy and execution across product, clinical, and AI stakeholders. Building AI-driven clinical decision support products as Senior Product Manager for CGM ONE, CGM's next-generation SaaS platform for medical practices.",
+      "location": null,
+      "start": "2025-06",
+      "end": null,
+      "dateRange": "Jun 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Strategy Consultant (Healthtech & AI)",
+      "company": "Freelancer",
+      "companyUrl": "https://www.linkedin.com/company/liberoprofessionista",
+      "description": "Advising early-stage ventures in diagnostics, medical imaging, and digital therapeutics. Supported MVP design, clinical integration, and GTM in regulated markets. Clients include startups in orthopedic machine vision, hydration monitoring and continuous biosensing.",
+      "location": null,
+      "start": "2022-10",
+      "end": null,
+      "dateRange": "Oct 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Medical Doctor & AI Developer",
+      "company": "Universitätsklinikum Augsburg",
+      "companyUrl": "https://www.linkedin.com/company/ukaugsburg",
+      "description": "Building LLM applications and Clinical Decision Support Systems, facilitating multicenter clinical studies addressing menopause, multiple sclerosis, hypoxia and diagnostics (Lab Hinske). Publications below. Continuing as a visiting researcher since 05/25.",
+      "location": "Augsburg, Bavaria, Germany",
+      "start": "2022-06",
+      "end": null,
+      "dateRange": "Jun 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder & CEO",
+      "company": "valuna health",
+      "companyUrl": "https://www.linkedin.com/company/valuna-health",
+      "description": "Co-founded and built AI-enabled telemedicine platform for menopause care. Designed and implemented product, clinical workflows, tech stack, marketing, and business operations. Delivered strong clinical outcomes, built extensive patient dataset, got learnings from limited market traction.",
+      "location": null,
+      "start": "2023-06",
+      "end": "2024-12",
+      "dateRange": "Jun 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Medical Doctor (Anaesthesiology) & Med. Informatics Scientist",
+      "company": "LMU Klinikum München",
+      "companyUrl": "https://www.linkedin.com/company/lmu-klinikum",
+      "description": "Worked as a physician in anesthesiology, and built and implemented real-time clinical decision support tools to improve safety and efficiency for 200+ anesthesia professionals (Lab Hinske).",
+      "location": null,
+      "start": "2021-04",
+      "end": "2022-03",
+      "dateRange": "Apr 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Founder (Product, Operations)",
+      "company": "ACTIMI",
+      "companyUrl": "https://www.linkedin.com/company/actimi",
+      "description": "Co-founded and architected fully-reimbursed remote patient monitoring platform for chronic heart failure. Exited during series A financing as the company took a new strategic direction. Platform continues under the founding team.",
+      "location": "Munich",
+      "start": "2020-10",
+      "end": "2022-09",
+      "dateRange": "Oct 2020 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Founding Product Manager",
+      "company": "Avelios Medical",
+      "companyUrl": "https://www.linkedin.com/company/avelios-medical",
+      "description": "Led product development for a custom-built electronic health record (EHR) system, with a focus on intelligent admission workflows, auto-generated physician letters, and clinician-facing UX design. Worked on modeling outpatient care pathways and structured order entry processes for histology labs.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-04",
+      "end": "2020-09",
+      "dateRange": "Apr 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Clinical Digitization Advisor",
+      "company": "Luzerner Kantonsspital",
+      "companyUrl": "https://www.linkedin.com/company/luzerner-kantonsspital",
+      "description": "Optimized clinical workflows, hospital logistics, and clinical intelligence processes during the first German-speaking implementation of Epic Hyperspace (LUKiS). Designed and delivered a change management curriculum to support clinical staff in adopting and navigating the EMR in daily workflows.",
+      "location": "Lucerne Area, Switzerland",
+      "start": "2019-09",
+      "end": "2019-12",
+      "dateRange": "Sep 2019 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Medical Informatics Fellowship",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Doctorate in Medicine (Dr. med.), Experimental Neuropathology",
+      "dateRange": "2016 – 2022"
+    },
+    {
+      "school": "Cornell University",
+      "degree": "NY Presbyterian Hospital | Hematology & Nephrology",
+      "dateRange": "2019"
+    },
+    {
+      "school": "University of Zurich",
+      "degree": "Lucerne Cantonal Hospital | Trauma Surgery & Orthopedics",
+      "dateRange": "2019"
+    },
+    {
+      "school": "University of Alberta",
+      "degree": "University of Alberta Hospital | Cardiology & Neurology",
+      "dateRange": "2019"
+    },
+    {
+      "school": "Yonsei University",
+      "degree": "Wonju Christian Severance Hospital | Cardiothoracic & Vascular Surgery",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Doctor of Medicine - MD",
+      "dateRange": "2012 – 2020"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "CompuGroup Medical SE & Co. KGaA",
+    "tagline": "„Nobody should suffer or die because medical information was missing, never and nowhere. [CGM leverages AI.]”",
+    "description": "CompuGroup Medical is one of the leading e-health companies in the world. With a revenue base of EUR 1.21 billion in 2025, its software products are designed to support all medical and organizational activities in doctors’ offices, pharmacies, laboratories, hospitals and social welfare institutions. Its information services for all parties involved in the healthcare system and its web-based personal health records contribute towards safer and more efficient healthcare. The basis of\n\nCompuGroup Medical's services is its unique customer base, including doctors, dentists, pharmacists and other healthcare professionals in inpatient and outpatient facilities, as well as insurance and pharmaceutical companies. CompuGroup Medical has offices in 19 countries and offers its solutions in 60 countries worldwide. More than 8,700 highly qualified employees support customers with innovative solutions for the steadily growing demands of the healthcare system.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://www.cgm.com",
+    "linkedInUrl": "https://www.linkedin.com/company/compugroup-medical-ag",
+    "employeeCount": 1361,
+    "foundedYear": 1987,
+    "location": "Koblenz am Rhein, Germany",
+    "specialities": [
+      "eHealth",
+      "Healthcare",
+      "Software",
+      "HIS",
+      "KIS",
+      "AIS",
+      "Apotheke",
+      "Arztinformationssystem",
+      "Hospital Information System",
+      "LIS",
+      "Labatory Information System",
+      "Warenwirtschaftssystem",
+      "Digital Health",
+      "elektronische Patientenakte"
+    ]
+  }
+}

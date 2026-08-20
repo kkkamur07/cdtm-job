@@ -1,0 +1,227 @@
+{
+  "id": "stefan-zheng",
+  "name": "Stefan Zheng",
+  "headline": "Co-Founder & CPO at Mercura (YC W25) | Harvard | TUM | CDTM | Studienstiftung",
+  "avatar": {
+    "sm": "/avatars/stefan-zheng-sm.webp",
+    "lg": "/avatars/stefan-zheng.webp",
+    "blur": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAADQBQCdASogACAAPsFKn0unpCKht/qoAPAYCUAAfJPv60gJ2pWm+k2HJ6KL09J76z+dIpNo864AAP7+ZGVd6v2h1s+QwLl5/tI2svjEvmakvoxGEqM0QBqPux0Qmre2KsN1Mzr2JH7AC6MG+1i2yp352clobK7Apnq6IyaDnHStygF/yCw5kz0BvbiHLT76tlQFvAUGgxiuKhI8Wxx6nq6LdJZsMkNZsp0OawyaKmGvoILsIa7IpOXonasT4i5LgLkCGVLxMtlkIPiftHgAAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/stefan-zheng",
+  "personId": 1077,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Stefan Zheng",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CPO",
+      "company": "Mercura (YC W25)",
+      "companyUrl": "https://www.linkedin.com/company/mercura-ai",
+      "description": "AI Quoting for distributors & manufacturers\nwww.mercura.ai\nWe're hiring: https://www.ycombinator.com/companies/mercura/jobs",
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "sento.io",
+      "companyUrl": "https://www.linkedin.com/company/sentohq",
+      "description": "B2B SaaS Startup | B2B Workflow Automation",
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "Ivy",
+      "companyUrl": "https://www.linkedin.com/company/getivy",
+      "description": "Climate Fintech | CDTM Managing Product Development",
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Investor",
+      "company": "Cherry Ventures",
+      "companyUrl": "https://www.linkedin.com/company/cherry-ventures",
+      "description": "Early-stage investments | Focus on B2B SaaS, Fintech and Climate Tech",
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": "Strategy Consulting | Improving plant efficiency at a metallurgical company",
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Project Management",
+      "company": "Audi Consulting - part of the AUDI AG",
+      "companyUrl": "https://www.linkedin.com/company/audi-consulting",
+      "description": "Inhouse Consulting | Engine control unit development",
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Project Management",
+      "company": "Deutsche Telekom",
+      "companyUrl": "https://www.linkedin.com/company/telekom",
+      "description": "Inhouse Consulting | Project management for the development of a cross-company collaboration model for Deutsche Telekom's communications and marketing departments",
+      "location": null,
+      "start": "2020-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant | Banking and Financial Services",
+      "company": "Simon-Kucher",
+      "companyUrl": "https://www.linkedin.com/company/simon-kucher",
+      "description": "Strategy, Marketing, Pricing and Sales Consulting | Introducing new account models, loyalty programs and digital sales tools in the banking and financial services industry",
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "SFM Systems",
+      "companyUrl": "https://www.linkedin.com/company/sfmsystems",
+      "description": "Industry 4.0 Startup | Building an academy to train users of SFM Systems' digital shopfloor management software",
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "International Marketing and Strategy",
+      "company": "FC Bayern München",
+      "companyUrl": "https://www.linkedin.com/company/fcbayern",
+      "description": "International Relationships and Product Development | Developing content formats with a focus on international markets",
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Graduate Research",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "MIT Sloan School of Management",
+      "degree": "Graduate Research, MIT Center for Collective Intelligence (CCI)",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor's degree, Technology Management",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - M.Sc., Management & Technology",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Technische Universität Darmstadt",
+      "degree": "Bachelor of Science - B.Sc., Industrial Engineering with a technical specification in Mechanical Engineering",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "UC San Diego",
+      "degree": "Bachelor of Science - B.Sc., Study abroad",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Wolfgang-Ernst-Gymnasium Büdingen",
+      "degree": "High-school Diploma (Allgemeine Hochschulreife), Advanced Courses in Chemistry and Geography",
+      "dateRange": "2010 – 2016"
+    }
+  ],
+  "skills": [
+    "HTML",
+    "JavaScript",
+    "SQL",
+    "Java",
+    "Node.js",
+    "Microsoft Office",
+    "Python (Programming Language)",
+    "Strategy",
+    "Agile Project Management",
+    "Business Development",
+    "Podcasting",
+    "Management Consulting",
+    "React.js",
+    "Computer-Aided Design (CAD)",
+    "Web Development",
+    "Cascading Style Sheets (CSS)",
+    "Community Engagement",
+    "Visual Basic for Applications (VBA)",
+    "C (Programming Language)",
+    "Pricing Strategy",
+    "Siemens NX",
+    "UX Design"
+  ],
+  "languages": [
+    "German",
+    "Chinese",
+    "English",
+    "Latin",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Mercura (YC W25)",
+    "tagline": "AI Quote and Order Automation for Distributors & Manufacturers",
+    "description": "Mercura automates sales request processes for distributors & manufacturers with AI, so you can save time and money and increase your sales success.",
+    "industry": "Software Development",
+    "website": "https://mercura.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/mercura-ai",
+    "employeeCount": 20,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

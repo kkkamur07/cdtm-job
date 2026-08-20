@@ -1,0 +1,240 @@
+{
+  "id": "andrew-nazarov",
+  "name": "Andrei Nazarov",
+  "headline": "Product | Travel Tech",
+  "avatar": {
+    "sm": "/avatars/andrew-nazarov-sm.webp",
+    "lg": "/avatars/andrew-nazarov.webp",
+    "blur": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAACwBQCdASogACAAPs1YokunpSMhsBgMAPAZiWYAuwGLuy1HJkbu7bngng2Kl8Db8WPpeNR34nIA/voaF2nhd/HCNuVWIu3rY5q066FSaifqWC+4Kp+elM72+jPSuLkbSXQpZ9VQJw5gJaNK9Rg339tnLWB3eeQsIWSbu+Y+U0XiEHNiTcWEoeBJFfrlpZ+c57N5Ug+0r6u6N2l7PPhLw1CRFE8Q3ASXa0ufsLwAywPkyOSYVCHp610Gc86KvKaylxxhB4zOGgdNAlhwkNyGNAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/andrew-nazarov",
+  "personId": 705,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Consumer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Andrei Nazarov",
+  "ca": null,
+  "summary": "I am a Product Manager building products that drive impact. With a background in user research and web development, I’ve led cross-functional teams in SaaS and eCommerce, turning data into actionable strategies that improve user experience and accelerate growth.\n\nPassionate about building products that customers love, I bring end-to-end product management expertise from early-stage startups to fast-scaling companies. I focus on solving the right problems, balancing speed with impact, and delivering real value fast.\n\nLet’s connect if you’re tackling product challenges and want to chat about AI, growth, and creating seamless user experiences.",
+  "positions": [
+    {
+      "title": "Product Manager",
+      "company": "Holidu",
+      "companyUrl": "https://www.linkedin.com/company/holidu",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-06",
+      "end": null,
+      "dateRange": "Jun 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "Mytheresa",
+      "companyUrl": "https://www.linkedin.com/company/mytheresa-com",
+      "description": "Mytheresa is a leading global eCommerce platform offering curated fashion collections and a tailored shopping experience. At Mytheresa, I focused on improving the user journey for our core customers through personalized solutions and delivering a seamless onsite search experience.\n\nLeading the research and market analysis to stay aligned with best practices in search, creating and maintaining a comprehensive roadmap to address key pain points and prioritize high-impact improvements.\n\nSpearheading continuous improvements in onsite search through data-driven analysis and experimentation, focusing on delivering the best user experience and search relevance.\n\nDriving the integration of a top-customer platform into the main eCommerce site, improving the user experience, and driving revenue impact.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-02",
+      "end": "2025-05",
+      "dateRange": "Feb 2024 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "ivy GmbH",
+      "companyUrl": "https://www.linkedin.com/company/ivy-solutions-gmbh",
+      "description": "Ivy is a startup providing hardware and software solutions to automate storage business operations. As the first Product Manager, I focused on developing an AI-driven break-in prevention system and a SaaS platform for managing storage spaces.\n\nLed the development of a product portfolio, streamlining user workflows to save customers time.\n\nEngaged with customers to identify high-impact use cases, including the creation of a break-in prevention interface.\n\nEnhanced product reliability by implementing structured processes, leading to improved system uptime.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-04",
+      "end": "2023-09",
+      "dateRange": "Apr 2023 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Product Management Intern",
+      "company": "CyberDesk",
+      "companyUrl": "https://www.linkedin.com/company/cyberdesk",
+      "description": "Cyberdesk is a data security startup helping companies adaptively control who can take what actions on what data. My main focus during this internship was building an MVP and defining a product roadmap.\n\nDefined and prioritized the SaaS product roadmap to ensure alignment with business goals.\n\nLed product development, guiding the MVP from concept to execution.\n\nConducted market research and developed messaging to differentiate the product from competitors.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-10",
+      "end": "2022-12",
+      "dateRange": "Oct 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Product Management Intern",
+      "company": "FINN",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": "FINN is one of the fastest-growing German e-Commerce startups that is revolutionizing conventional car ownership. My main focus during this internship was delivering the best web shopping product for B2C customers.\n\nLed conceptualization and implementation of A/B testing for the main shopping product.\n\nOwned re-design of the shopping area aimed to provide the best user experience and increase the conversion rate. Developed a framework for product card standardization to ensure the consistent and favorable presentation of FINN products.\n\nAutomated data aggregation to improve performance monitoring after feature roll-outs.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-05",
+      "end": "2022-07",
+      "dateRange": "May 2022 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Product Management Intern",
+      "company": "Demodesk",
+      "companyUrl": "https://www.linkedin.com/company/demodesk",
+      "description": "Demodesk is a rapidly growing Munich startup developing a virtual meeting platform built for sales and success. During this internship, I was mainly focusing on customer discovery and user activation.\n\nBuilt an automated discovery process to understand customer needs and pain points. Organized over 200 user interviews resulting in a customer-oriented roadmap.\n\nShaped user onboarding experience and accelerated adoption of new features and the product in general by educating customers and building automated product tours.\n\nOwned continuous product and product marketing experimentation to identify and validate new ideas.\n\nEnsured customer success by being at the forefront of customer support and helping achieve customer goals.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-03",
+      "dateRange": "Oct 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Product & Marketing Manager",
+      "company": "Developer Express, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/developer-express-inc.",
+      "description": "TestCafe is a DevExpress' startup that builds a state-of-the-art end-to-end web testing platform. I was responsible for shaping the product's future and expanding awareness and adoption. \n\nImplemented qualitative and quantitative customer research to ensure data-driven product and business decision-making.\n\nDeveloped positioning and messaging to match customer needs. Utilized it across various online and offline channels.\n\nOrganized free participation in industry events, podcasts, and webinars. Launched own webinars with 100+ participants.\n\nManaged content creation to drive product adoption and brand awareness. Authored case studies and edited technical articles.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-03",
+      "end": "2021-09",
+      "dateRange": "Mar 2019 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Marketing Specialist",
+      "company": "AmRest",
+      "companyUrl": "https://www.linkedin.com/company/amrest",
+      "description": "AmRest is one of the fastest-growing franchise companies in Europe. As a Marketing Specialist, I was responsible for building and promoting a sustainable business with over 50 sites in five cities.\n\nDeveloped and executed global and local Social Media Marketing strategies to establish a strong brand presence online.\n\nCreated scalable Local Store Marketing strategies to drive sales in various locations. \n\nOwned end-to-end launching of new products and offers. Led ideation and technology development, conducted customer research, calculated pricing, and prepared and executed online and offline promotion plans.\n\nBuilt a scalable marketing program for new restaurants and successfully supported openings across Russia with online and offline activities to ensure a strong start.",
+      "location": "St Petersburg, St Petersburg City, Russia",
+      "start": "2016-06",
+      "end": "2019-04",
+      "dateRange": "Jun 2016 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Account Manager",
+      "company": "BRANDING AGENCY DS1",
+      "companyUrl": "https://www.linkedin.com/company/ds-1-branding-agency",
+      "description": null,
+      "location": "St Petersburg, St Petersburg City, Russia",
+      "start": "2015-01",
+      "end": "2015-05",
+      "dateRange": "Jan 2015 – May 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ironhack",
+      "degree": "Full-Stack Web Development",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science, Consumer Science",
+      "dateRange": null
+    },
+    {
+      "school": "ITMO University",
+      "degree": "Master of Science, Innovation Marketing",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "AI Agents",
+    "Onsite Search",
+    "Google Analytics",
+    "Google BigQuery",
+    "Product Road Mapping",
+    "Web Development",
+    "Agile Project Management",
+    "User Research",
+    "Content Strategy",
+    "Product Discovery",
+    "User Interviews",
+    "Customer Onboarding",
+    "Stakeholder Management",
+    "Team Leadership",
+    "Cross-functional Collaborations",
+    "Business Process Automation",
+    "Scrum",
+    "A/B Testing",
+    "UI/UX",
+    "Innovation Management",
+    "Marketing Strategy",
+    "Consumer Behavior",
+    "Qualitative Research",
+    "Quantitative Research",
+    "Trend Research",
+    "Market Analysis",
+    "Design Thinking",
+    "Creative Ideation",
+    "Team Workshops",
+    "MERN Stack",
+    "MongoDB",
+    "Express.js",
+    "React.js",
+    "Node.js",
+    "HTML5",
+    "CSS",
+    "JavaScript",
+    "Mongoose",
+    "REST APIs",
+    "Front-End Development",
+    "Back-End Web Development",
+    "Full-Stack Development",
+    "Project Management",
+    "Agile Methodologies",
+    "Product Development",
+    "Product Management",
+    "Product Marketing",
+    "Market Research",
+    "Online Marketing",
+    "Content Management"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian"
+  ],
+  "company": {
+    "name": "Holidu",
+    "tagline": "Find your home for holiday happiness - Join our mission! 🚀",
+    "description": "Holidu is one of the fastest-growing travel tech companies worldwide. Our mission is to make the booking and hosting of holiday homes free of doubt and full of joy. \n\nThrough the booking portal, guests can book their vacation accommodation with complete peace of mind and confidence. With its software and service platform, Holidu enables hosts to attract more bookings while minimizing effort.\n\nOur team of more than 600 colleagues from 60+ nations is based in Munich and in some of the most attractive travel destinations across Europe.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://www.holidu.com/careers?utm_source=hrLinkedin&utm_medium=unpaid&utm_campaign=employerbranding&utm_content=careerpage",
+    "linkedInUrl": "https://www.linkedin.com/company/holidu",
+    "employeeCount": 817,
+    "foundedYear": 2014,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Vertical search",
+      "Metasearch",
+      "Vacation rentals",
+      "Holiday homes",
+      "Price comparison",
+      "Search engine",
+      "Travel",
+      "Startup",
+      "Venture Capital",
+      "eCommerce",
+      "Hospitality",
+      "Tech"
+    ]
+  }
+}

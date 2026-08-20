@@ -1,0 +1,195 @@
+{
+  "id": "annegreul",
+  "name": "Dr. Anne Greul",
+  "headline": "Co-founder at Leegle | Ex-McK | CDTM | UC Berkeley | Stanford",
+  "avatar": {
+    "sm": "/avatars/annegreul-sm.webp",
+    "lg": "/avatars/annegreul.webp",
+    "blur": "data:image/webp;base64,UklGRlIBAABXRUJQVlA4IEYBAAAQBwCdASogACAAPr1Qn0unJSMht/qoAOAXiWoAnTKAL0E0cMmH/0TPFRrr5XYjxBck5dO4cWtEYiZoVYMbQv5hAAD92woLkvaRGciq98OADpA4zT1OwySf4i/1ccL6sXQOkL0SXyiD1chlnMuDZZKOKmJuBIZipo4dMVgQlzane146Rq9mBrR7P9h0/JUpyr5L3yS80kfcFiJnPcq9FywajgJsvGbbGAy6lgv3vWbdr7EzYgQTiET5WHizMkT7MMeMBakAI7Yiw22njNimayhZ5z98tU3LEAyEwasAv7lDRVneh3CWUzyLYiberOOHxQ/HVbzphsOp4Ad5zGqbEysmFBZ3iGrVn04WNiREazDlGNbrEiKSUHxtH/oKAuIpz31IGJ7BXHk8GDtU/oZkGqr0t8H1/DH0l/P18f2DjBpFvCQceQjwAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/annegreul",
+  "personId": 1163,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Consumer Affairs",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Anne Greul",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Leegle",
+      "companyUrl": "https://www.linkedin.com/company/leegle-ai",
+      "description": "Empowering regulatory and product compliance teams with AI-driven automation",
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Partner",
+      "company": "California Innovation Fund",
+      "companyUrl": "https://www.linkedin.com/company/californiainnovationfund",
+      "description": null,
+      "location": null,
+      "start": "2021-12",
+      "end": null,
+      "dateRange": "Dec 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Moonblock",
+      "companyUrl": "https://www.linkedin.com/company/moonblock-io",
+      "description": "Market intelligence Platform serving multiple Fortune 500 companies",
+      "location": null,
+      "start": "2022-07",
+      "end": "2023-12",
+      "dateRange": "Jul 2022 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Associate at McKinsey Digital",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Founding member of deep-tech center",
+      "company": "Audi of America",
+      "companyUrl": "https://www.linkedin.com/company/audi-of-america",
+      "description": null,
+      "location": null,
+      "start": "2019-06",
+      "end": "2020-12",
+      "dateRange": "Jun 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Product Innovation Manager",
+      "company": "AUDI AG",
+      "companyUrl": "https://www.linkedin.com/company/audi-ag",
+      "description": null,
+      "location": null,
+      "start": "2016-06",
+      "end": "2019-06",
+      "dateRange": "Jun 2016 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": null,
+      "location": null,
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Student Trainee",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": null,
+      "start": "2013-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2013 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Trainee",
+      "company": "Otto Group",
+      "companyUrl": "https://www.linkedin.com/company/ottogroup",
+      "description": null,
+      "location": null,
+      "start": "2009-01",
+      "end": "2012-12",
+      "dateRange": "Jan 2009 – Dec 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doktor (Ph.D.), Technology Management and Behavioral Economics",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Design and Entrepreneurship",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Consumer Affairs, Specialization in User Experience and Entrepreneurship",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "Baden-Wuerttemberg Cooperative State University (DHBW)",
+      "degree": "Bachelor's degree, Fashion and textile management",
+      "dateRange": "2009 – 2012"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Microsoft Office",
+    "Strategy",
+    "Research",
+    "Market Research",
+    "Entrepreneurship",
+    "Management Consulting",
+    "Data Analysis",
+    "Projektmanagement",
+    "Unternehmensstrategie",
+    "Datenanalyse",
+    "Strategisches Management",
+    "Produktentwicklung",
+    "Unternehmensführung",
+    "Innovationsmanagement",
+    "Unternehmertum",
+    "Forschung"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Leegle",
+    "tagline": "The ai-native regulatory and product compliance operating system.",
+    "description": null,
+    "industry": "Software Development",
+    "website": "https://www.leegle.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/leegle-ai",
+    "employeeCount": 4,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

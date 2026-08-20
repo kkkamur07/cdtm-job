@@ -1,0 +1,227 @@
+{
+  "id": "christopher-wolters",
+  "name": "Christopher Wolters",
+  "headline": "PhD Researcher in Computer Architecture | Multi-Chip AI Systems | Energy-Efficient ML Hardware\n - TUM x Stanford x CDTM",
+  "avatar": {
+    "sm": "/avatars/christopher-wolters-sm.webp",
+    "lg": "/avatars/christopher-wolters.webp",
+    "blur": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAABQBgCdASogACAAPslSn0unpKKhsAwA8BkJYgCzgYwzLbPj5mLianB3CB7C+gTjRKBD1I+M/0vREW2sAAD+/ntx9IHhFra5FdU+ar+nsJr670CSJvQNNYD8lMsn9d83eS5utWi40SA0UE+EPJvP0ivxhFZVHmTDPmGQivLhyWqs0XPeJyneEz1Ce1667R99ZwZFo3Xn/lxx7OLU2my8+L1+t/dc5e0aNV5NsJqre1WtowG3VjD+JIU2eRdzPYTxCg3flYZnmsB019dYjZfyNtkpmYe/zWnxTrY9XskUdltveceVfDX2u3kakcJ2GiAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christopher-wolters",
+  "personId": 1213,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Electrical and Computer Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christopher Wolters",
+  "ca": null,
+  "summary": "Hello, my name is Christopher and I am pursuing a modest goal: to change the world, preferably for the better.\nFrom TUM to UTokyo to Stanford, I have pursued the ambition to design the architectures that will power the next wave of artificial intelligence. My research builds on this by combining computer architecture, memory systems, and bio-inspired approaches to create scalable and energy-efficient platforms for machine learning at unprecedented scale.\nI welcome collaboration with both academia and industry to advance next-generation architectures.",
+  "positions": [
+    {
+      "title": "Doctoral Researcher",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻: Designing scalable, memory-centric multi-chip architectures for large-scale AI/ML workloads. Research spans energy efficiency, chiplet integration, and hardware–software co-design, embedded in a cross-institution collaboration and research affiliation with Stanford University (Prof. Mitra) and University of Pennsylvania (Prof. Radway).\n\n𝗟𝗮𝗯: The Chair of Electronic Design Automation (Prof. Schlichtmann) advances methods and tools for the design of complex electronic systems from circuits to architectures. Current research emphasizes reliability, energy efficiency, and the integration of emerging technologies into future computing platforms.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "ML Chip Architect",
+      "company": "Amazon Web Services (AWS)",
+      "companyUrl": "https://www.linkedin.com/company/amazon-web-services",
+      "description": "𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻: Optimized chip-to-system performance with focus on quantization, memory hierarchies, and energy efficiency for AI inference and training at hyperscale (Trainium/Inferentia). Emphasis on hardware–software co-design from silicon architecture to cloud deployment.\n\n𝗖𝗼𝗺𝗽𝗮𝗻𝘆: Annapurna Labs is Amazon’s in-house silicon team, developing custom hardware to powers AWS infrastructure as well as leading AI companies such as Anthropic, including ML accelerators and next-generation compute systems.",
+      "location": "Cupertino, Kalifornien, Vereinigte Staaten von Amerika",
+      "start": "2025-04",
+      "end": "2025-06",
+      "dateRange": "Apr 2025 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Graduate Student Researcher",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": "𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻: Conducted Master’s thesis at Robust Systems Group on scalable multi-chip architectures for memory-intensive ML applications. Developed models for KV-cache efficiency, chiplet interconnect optimization, and energy-aware scheduling. \nSupervised by Prof. Mitra (Stanford University), Prof. Radway (University of Pennsylvania) & Prof. Schlichtmann (TUM)\n\n𝗟𝗮𝗯: The Robust Systems Group at Stanford develops advanced computing systems to meet the demands of data-intensive applications like AI. The lab focuses on integrating cutting-edge nanotechnologies into 3D architectures, combining innovative logic and memory to achieve significant improvements in energy efficiency and performance.",
+      "location": "Stanford, Kalifornien, Vereinigte Staaten von Amerika",
+      "start": "2024-09",
+      "end": "2025-06",
+      "dateRange": "Sep 2024 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "The University of Tokyo",
+      "companyUrl": "https://www.linkedin.com/company/university-of-tokyo",
+      "description": "𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻: Researched compute-in-memory (CiM) architectures for accelerating large language model inference. Explored foundational models, HPC integration, and AI-accelerator design. Published “Memory Is All You Need: An Overview of Compute-in-Memory Architectures for LLMs\".\n\n𝗟𝗮𝗯: The Suzumura Laboratory is part of the Department of Information and Communication Engineering within the Graduate School of Information Science and Technology. The lab‘s focus is on Foundational Models in AI as well as its underlying computing systems, such as High-Performance Computing.",
+      "location": "Tokyo, Japan",
+      "start": "2024-04",
+      "end": "2024-06",
+      "dateRange": "Apr 2024 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻: Designed and implemented IT architecture strategy for a European energy supplier. Focused on network infrastructure, digital transformation, and scalable system integration. Delivered actionable recommendations on architecture modernization and business-critical IT solutions.\n\n𝗖𝗼𝗺𝗽𝗮𝗻𝘆: As a seamlessly integrated part of the BCG network, Platinion provides consulting services focused on the development and implementation of business-critical IT architecture and digital solutions. Areas of expertise range from IT architecture design to digital transformation and implementation management.",
+      "location": "Metropolregion München",
+      "start": "2024-02",
+      "end": "2024-03",
+      "dateRange": "Feb 2024 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "AI Engineer",
+      "company": "Tensordyne",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": "𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻: Optimized vision AI models on Recogni’s proprietary edge hardware, improving quantization methods for real-time performance. Focused on low-power inference, edge AI deployment, and system integration for autonomous driving applications.\n\n𝗖𝗼𝗺𝗽𝗮𝗻𝘆: Recogni is at the forefront of the automotive industry's shift to electric and fully autonomous vehicles, addressing the challenge of integrating massive AI computing power into limited battery power budgets. As conventional computational advances diminish, Recogni's breakthrough vision-centric AI system offers a 500x power efficiency over existing solutions.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2023-09",
+      "end": "2023-12",
+      "dateRange": "Sep 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Duke University",
+      "companyUrl": "https://www.linkedin.com/company/duke-university",
+      "description": "𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻: Conducted Bachelor’s thesis on biologically-plausible learning for neuromorphic hardware architectures. Investigated bio-plausible learning, in-memory compute, and hardware-efficient cognition for future AI accelerator design.\nSupervised by Prof. Chen (Duke University) & Prof. Schlichtmann (TUM)\n\n𝗟𝗮𝗯: Duke Center of Computational Evolutionary Intelligence, co-directed by Professor Chen and Professor Li, explores the research frontiers in emerging computing platforms for cognitive applications.",
+      "location": "Durham, North Carolina, USA",
+      "start": "2022-05",
+      "end": "2022-09",
+      "dateRange": "May 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻: Developed and managed Docker-based accelerator monitoring software for IBM Data & AI. Improved frontend performance and system reliability. \n\n𝗖𝗼𝗺𝗽𝗮𝗻𝘆: IBM Db2 Analytics Accelerator is a high-performance component tightly integrated with Db2 for z/OS. It delivers high-speed processing for complex Db2 queries to support business-critical reporting and analytic workloads.",
+      "location": "Böblingen, Baden-Württemberg, Deutschland",
+      "start": "2021-03",
+      "end": "2021-07",
+      "dateRange": "Mar 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant \"Computer Technology\" & \"Programming in C\"",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻: Delivered programming courses in C and Computer Technology to undergraduate students. Covered computer system organization, microarchitecture, ISA, OS concepts, and application–OS interaction. Designed hands-on exercises bridging assembly, high-level to Assembly programming, and systems architecture.\n\n𝗟𝗮𝗯: The Chair of Data Processing at TUM advances methods in signal processing, machine learning, and high-performance computing, linking theory with system-level implementations to tackle large-scale data challenges.",
+      "location": "Metropolregion München",
+      "start": "2020-11",
+      "end": "2021-02",
+      "dateRange": "Nov 2020 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Software Consultant",
+      "company": "TNG Technology Consulting",
+      "companyUrl": "https://www.linkedin.com/company/tng-technology-consulting",
+      "description": "𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻: Designed and developed a Jira optimization plugin improving instance performance and analytics. Contributed to productization and commercialization in a client-facing consulting context. \n\n𝗖𝗼𝗺𝗽𝗮𝗻𝘆: TNG Technology Consulting is a value-based consulting partnership focused on high end information technology.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-03",
+      "end": "2021-02",
+      "dateRange": "Mar 2020 – Feb 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Philosophy - PhD, Electrical and Computer Engineering",
+      "dateRange": "2025 – 2028"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Cardinal Ventures Deeptech Fellowship",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Electrical and Computer Engineering",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Tongji University",
+      "degree": "Summer School, Industrial Engineering",
+      "dateRange": "2023"
+    },
+    {
+      "school": "ETH Zürich",
+      "degree": "Semester abroad, Electrical and Computer Engineering",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor, Bachelor of Science (BS), Electrical and Computer Engineering",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Gymnasium Ottobrunn",
+      "degree": "Abitur",
+      "dateRange": "2011 – 2019"
+    }
+  ],
+  "skills": [
+    "Chip Architecture",
+    "Hardware Acceleration",
+    "High Performance Computing (HPC)",
+    "Chip Design",
+    "Neural Network Quantization",
+    "Large Language Models (LLM Inference)",
+    "Memory Systems (KV-Cache, Compute-in-Memory)",
+    "Energy-Efficient ML Hardware",
+    "Computer Architecture for AI",
+    "Multi-Chip Systems",
+    "Deep Neural Networks (DNN)",
+    "Transformer-Modell (Maschinelles Lernen)",
+    "Multiprocessing",
+    "Neuromorphic Computing",
+    "Hardware-Architektur",
+    "PyTorch",
+    "Computer-Vision",
+    "Software Development",
+    "Java",
+    "Large Language Models"
+  ],
+  "languages": [
+    "Arabisch",
+    "Deutsch"
+  ],
+  "company": {
+    "name": "Technical University of Munich",
+    "tagline": "Official LinkedIn account of the Technical University of Munich",
+    "description": "Our university combines top-class facilities for cutting-edge research with unique learning opportunities for 52,000 students. Whether our researchers are investigating the origins of life, matter and the universe or looking for solutions to the major challenges for our society, people lie at the heart of our research and innovation agenda. Our goal is to create lasting value for society through excellence in education and research, the active promotion of next-generation talents and a strong entrepreneurial spirit. All of which combine to make TUM one of Europe’s leading universities. \n\n| Imprint: http://www.tum.de/legal-notice",
+    "industry": "Research Services",
+    "website": "https://www.tum.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+    "employeeCount": 11550,
+    "foundedYear": 1868,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

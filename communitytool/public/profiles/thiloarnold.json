@@ -1,0 +1,210 @@
+{
+  "id": "thiloarnold",
+  "name": "Thilo Arnold",
+  "headline": "MD - Girokonto - C24 Bank GmbH",
+  "avatar": null,
+  "location": "Wiesbaden, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/thiloarnold",
+  "personId": 1402,
+  "classes": [
+    {
+      "id": 70,
+      "label": "Fall 2011",
+      "season": "Fall",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2011",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Thilo Arnold",
+  "ca": null,
+  "summary": "Contact or connect me! I am a valuable extension for your network!",
+  "positions": [
+    {
+      "title": "Managing Director - Girokonto",
+      "company": "C24 Bank GmbH",
+      "companyUrl": "https://www.linkedin.com/company/c24-bank",
+      "description": null,
+      "location": "On-site",
+      "start": "2023-04",
+      "end": null,
+      "dateRange": "Apr 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "C24 Bank",
+      "company": "CHECK24 Vergleichsportal",
+      "companyUrl": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "CHECK24 Kontomanager - Behalten Sie Ihre Konten im Blick! | CHECK24",
+      "company": "CHECK24 Vergleichsportal",
+      "companyUrl": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh",
+      "description": "Mit dem CHECK24 Kontomanager verwalten Sie alle Ihre Konten komfortabel an einem Ort: ✅ In nur 2 Minuten Konto hinzufügen ✅ 100 % kostenlos ✅ 100 % Datenschutz",
+      "location": "Munich, Bavaria, Germany",
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Head of Department Produktmanagement",
+      "company": "C24 Bank GmbH",
+      "companyUrl": "https://www.linkedin.com/company/c24-bank",
+      "description": null,
+      "location": "Mainz, Rhineland-Palatinate, Germany",
+      "start": "2020-10",
+      "end": "2023-04",
+      "dateRange": "Oct 2020 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Teamleiter Produktmanagement",
+      "company": "C24 Bank GmbH",
+      "companyUrl": "https://www.linkedin.com/company/c24-bank",
+      "description": null,
+      "location": "Mainz, Rhineland-Palatinate, Germany",
+      "start": "2019-05",
+      "end": "2020-10",
+      "dateRange": "May 2019 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Inhouse Consultant",
+      "company": "CHECK24 Vergleichsportal",
+      "companyUrl": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-10",
+      "end": "2019-05",
+      "dateRange": "Oct 2017 – May 2019",
+      "current": false
+    },
+    {
+      "title": "Junior Inhouse Consultant",
+      "company": "CHECK24 Vergleichsportal",
+      "companyUrl": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh",
+      "description": "As Inhouse Consultant for the leading comparison portal in Germany, I was able to gather insights into the whole digital value chain and many different markets. I developed skills in product management for agile software developement, conducting market and competitor analyses, project management, process optimization and leading small workforces.\n\nStandout projects:\n- Leading the inhouse consulting support during the C24 Bank - banking license application phase. (incl. writing and reviewing the application and development and calculation of the business model\n- First on the team build up of a multibanking tool \"CHECK24 Kontomanager\" - incl. market and competitor analysis, request for proposal and evaluation of third partys as well as contract review, design of the app and processes as well as agile product management\n\nother:\n- Integration of a new communication technology into the operational processes and technical systems as well as preparation and execution of the service employee training for CHECK24 Mobilfunk GmbH\n- In depth market and competitor analysis for a new CHECK24 venture\n- Customer service process optimization",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2016-07",
+      "end": "2017-10",
+      "dateRange": "Jul 2016 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Columbia Institute for Tele-Information",
+      "companyUrl": "https://www.linkedin.com/company/columbia-institute-for-tele-information",
+      "description": "Kontrolle, Updates und Organisation einer Datenbank für Unternehmen im Sektor Medien, Telekommunikation und Entertainment. Forschung zum Thema: Impact of Digital Technology in the 21st century.",
+      "location": "New York City Metropolitan Area",
+      "start": "2015-08",
+      "end": "2015-12",
+      "dateRange": "Aug 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Internship - Digitalization of Utilities",
+      "company": "Infosys",
+      "companyUrl": "https://www.linkedin.com/company/infosys",
+      "description": "Trendanalyse zum Thema Digitalisierung von (Energie) Versorgern. Untersuchung des Status Quo von Versorgern weltweit zum Thema Digitalisierung. Entwicklung von Produkt-Paketen zur Digitalisierung von Versorgern für Infosys, basierend auf vorhandenen Paketen in anderen Industrien.",
+      "location": "Pune, Indien",
+      "start": "2013-04",
+      "end": "2013-06",
+      "dateRange": "Apr 2013 – Jun 2013",
+      "current": false
+    },
+    {
+      "title": "Planning, On Site Conctruction, and Commissioning of a Biogas Plant",
+      "company": "learning.from.the.roots e.V. and Institute for Energy Economy and Application Technology (TUM)",
+      "companyUrl": null,
+      "description": "As part of a micro grid project for a mission station, we developed a biogas plant, that runs on the locally available materials. After planning, we spent 2 month in Zimbabwe building and commissioning the plant. To date the plant is running and supplying valuable gas for cooking to a hospital.",
+      "location": "St. Rupert Mayer Mission, Mashonaland West, Zimbabwe",
+      "start": "2012-04",
+      "end": "2012-10",
+      "dateRange": "Apr 2012 – Oct 2012",
+      "current": false
+    },
+    {
+      "title": "Praktikant",
+      "company": "Festo",
+      "companyUrl": "https://www.linkedin.com/company/festo",
+      "description": "Schreiben eines technischen Betriebshandbuchs für eine neuartige Technologie. Neuentwurf des Schaltplans für die Montage der Elektrik. Unterstützung bei der Montage der Koffer. Effizienz-Analyse eines Messgeräts und Entwicklung und Bau eines Gleichrichters zur Verminderung der Verluste.",
+      "location": "Esslingen",
+      "start": "2012-03",
+      "end": "2012-05",
+      "dateRange": "Mar 2012 – May 2012",
+      "current": false
+    },
+    {
+      "title": "Praktikum",
+      "company": "GERB Vibration Control systems Pvt. Ltd.",
+      "companyUrl": "https://www.linkedin.com/company/gerbvibration",
+      "description": "Durchlauf aller Stationen im Lebenszyklus der Schwingungselemente: Lager, Vorproduktion, Montage, Konstruktion, Vertrieb und Verpackung.",
+      "location": "Berlin",
+      "start": "2008-07",
+      "end": "2008-09",
+      "dateRange": "Jul 2008 – Sep 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Wirtschaftsingenieurwesen",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2011 – 2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Elektro- und Informationstechnik",
+      "dateRange": "2009 – 2013"
+    }
+  ],
+  "skills": [
+    "Projektmanagement",
+    "Marktanalyse",
+    "Unternehmensstrategie",
+    "Unternehmertum",
+    "Strategisches Management",
+    "Strategie Analyse",
+    "Strategie Entwicklung",
+    "Strategie",
+    "Produktmanagement",
+    "Start-ups"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "C24 Bank GmbH",
+    "tagline": "Die Open Banking Plattform",
+    "description": "Die C24 Bank ist eine Tochtergesellschaft der CHECK24 Gruppe, mit dem Anspruch eine neue Dimension im mobile Banking zu stellen.",
+    "industry": "Financial Services",
+    "website": "http://www.c24.de",
+    "linkedInUrl": "https://www.linkedin.com/company/c24-bank",
+    "employeeCount": 338,
+    "foundedYear": 2019,
+    "location": "Frankfurt, Germany",
+    "specialities": []
+  }
+}

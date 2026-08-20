@@ -1,0 +1,302 @@
+{
+  "id": "celine-marie-perrot",
+  "name": "Celine Marie Perrot",
+  "headline": "Empowering Corporate Innovation Efforts | Team Lead Incubation @ BMW Group",
+  "avatar": {
+    "sm": "/avatars/celine-marie-perrot-sm.webp",
+    "lg": "/avatars/celine-marie-perrot.webp",
+    "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAABwBQCdASogACAAPr1QnkunJSKht/qoAOAXiWQAxn8sE5krW2Ty9HQkrKxMz61GDhhPwnxoAP76p975xfOOulRjwWq1m8wwDSD7BmdVqwP2UQjEbqvItB/7e/BpCtCcR2BgH0D+lyL/pNqvSViNdf8t56bWwiICJMQ8M0/g55RTpqlT/WOJ3VjNkuWjPGT9K3+k3fK7HIJ4z9+8NvzzvGv+BPD7wemNiz2hD24LhS3IZp6Z5CGHsroma+6o5EtGpEcSZGsUceBJysy6bduWVvIBqx/fuvDecR7XlkWRdEW7Q6YaDIAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/celine-marie-perrot",
+  "personId": 1204,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "M.Sc. in Media, Management and Digital Technologies",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Celine Marie Perrot",
+  "ca": null,
+  "summary": "Work at BMW Group",
+  "positions": [
+    {
+      "title": "Team Lead Incubation",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Focused on turning emerging technologies into practical solutions. We explore new tech trends, build rapid MVPs to test their potential, and identify real-world applications. Our work includes trend scouting, ideation, and hands-on development of new technical solutions. By bridging research and application, we help ensure that promising technologies translate into tangible value for the company.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-02",
+      "end": null,
+      "dateRange": "Feb 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Various departments within Sixt SE.",
+      "company": "Sixt",
+      "companyUrl": "https://www.linkedin.com/company/sixt",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Arbeitszeugnis Sixt.pdf",
+      "company": "Sixt",
+      "companyUrl": "https://www.linkedin.com/company/sixt",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Stream Lead AI Innovation & AI Strategy",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich",
+      "start": "2023-09",
+      "end": "2025-02",
+      "dateRange": "Sep 2023 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Specialist Innovation, Emerging Technologies",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Main responsibilities include:\n- Developing a group-wide innovation strategy with a focus on AI-enabled process innovations.\n- Identifying challenges in the organization, ideation, and development of pilot projects and prototypes in the global innovation network of BMW Group IT\n- Developing and maintaining strategic partnerships with external stakeholders from industry, academia, and startup/entrepreneurship ecosystems.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-11",
+      "end": "2023-10",
+      "dateRange": "Nov 2020 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Master‘s Thesis: IT Innovation and Technology",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Towards effectiveness measurement of digital innovation projects: Development of an evaluation method. \n\nGrade: 1.0 (A+)\n\nDigital innovation projects differ from classic projects, especially when it comes to characteristics that should be taken into account when measuring a project’s effectiveness. Hence, established approaches from classical project portfolio management are only of limited use and not many approaches can be found that concentrate on digital innovation projects specifically. Therefore, the goal of this master’s thesis is to develop a method to evaluate the effectiveness of digital innovation projects that can be applied within the innovation portfolio of the BMW Group IT.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-05",
+      "end": "2020-10",
+      "dateRange": "May 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "IT Architecture, Innovation and Technology",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2019-06",
+      "end": "2019-12",
+      "dateRange": "Jun 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Corporate Communication",
+      "company": "MicroNova",
+      "companyUrl": "https://www.linkedin.com/company/micronova",
+      "description": "Working student (20h / week)",
+      "location": null,
+      "start": "2018-09",
+      "end": "2019-03",
+      "dateRange": "Sep 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Digital Sales Processes",
+      "company": "Allianz",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": null,
+      "location": "Unterföhring, München",
+      "start": "2018-02",
+      "end": "2018-06",
+      "dateRange": "Feb 2018 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Employer Branding and HR Marketing",
+      "company": "Sixt",
+      "companyUrl": "https://www.linkedin.com/company/sixt",
+      "description": null,
+      "location": "Pullach im Isartal, Bayern, Deutschland",
+      "start": "2016-10",
+      "end": "2017-07",
+      "dateRange": "Oct 2016 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Marketing Project Management",
+      "company": "Sixt",
+      "companyUrl": "https://www.linkedin.com/company/sixt",
+      "description": null,
+      "location": "Palma und Umgebung, Spanien",
+      "start": "2016-04",
+      "end": "2016-07",
+      "dateRange": "Apr 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Search Engine Optimization",
+      "company": "Sixt",
+      "companyUrl": "https://www.linkedin.com/company/sixt",
+      "description": null,
+      "location": "Pullach im Isartal, Bayern, Deutschland",
+      "start": "2015-10",
+      "end": "2016-01",
+      "dateRange": "Oct 2015 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Intranet and Internal Communication",
+      "company": "Sixt",
+      "companyUrl": "https://www.linkedin.com/company/sixt",
+      "description": null,
+      "location": "Pullach im Isartal, Bayern, Deutschland",
+      "start": "2015-04",
+      "end": "2015-07",
+      "dateRange": "Apr 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Corporate dual study program",
+      "company": "Sixt",
+      "companyUrl": "https://www.linkedin.com/company/sixt",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-10",
+      "end": "2017-09",
+      "dateRange": "Oct 2014 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Search Engine Advertising for Franchise",
+      "company": "Sixt",
+      "companyUrl": "https://www.linkedin.com/company/sixt",
+      "description": null,
+      "location": "Pullach im Isartal, Bayern, Deutschland",
+      "start": "2014-10",
+      "end": "2015-01",
+      "dateRange": "Oct 2014 – Jan 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visitor, Berkeley AI Research Lab (BAIR)",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors degree, Technology Management",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, MMT - Media, Management and Digital Technologies",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "University of Canterbury",
+      "degree": "in cooperation with CCEL Christchurch College of English, summer program",
+      "dateRange": "2017"
+    },
+    {
+      "school": "DHBW Mannheim",
+      "degree": "Bachelor of Arts, Digital Media - Management, communication, and informatics.",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Gymnasium Markt Indersdorf",
+      "degree": "Abitur",
+      "dateRange": "2006 – 2014"
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "Business Development",
+    "Software-Prototyping",
+    "human-ai interaction",
+    "Veränderungsmanagement",
+    "Planung",
+    "Projektplanung",
+    "Kennzahlen",
+    "KPI-Reporte",
+    "Produktmanagement",
+    "Eventplanung",
+    "Kreative Ideenfindung",
+    "Digitale Strategie",
+    "Start-Up-Beratung",
+    "Unternehmertum",
+    "Strategische Partnerschaften",
+    "Microsoft Office",
+    "Online-Marketing",
+    "Suchmaschinenoptimierung (SEO)",
+    "Employer Branding",
+    "Projektmanagement",
+    "Marketing",
+    "Agile Methoden",
+    "Innovationsmanagement",
+    "Presentation",
+    "Teamwork",
+    "Intranet-Portale",
+    "Medienkonzeption",
+    "E-Commerce-Optimierung",
+    "Auslandserfahrung",
+    "Creativity and Ideation Methods",
+    "Design Thinking"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Latein"
+  ],
+  "company": {
+    "name": "BMW Group",
+    "tagline": "We make individual mobility more human, more intelligent and more responsible.",
+    "description": "With its four brands, BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world’s leading premium manufacturer of automobiles and motorcycles and also provides premium financial services. The BMW Group production network comprises over 30 production sites worldwide; the company has a global sales network in more than 140 countries.\n\nIn 2025, the BMW Group sold 2.46 million passenger vehicles and more than 202,500 motorcycles worldwide. The profit before tax in the financial year 2025 was € 10.2 billion on revenues amounting to € 133,5 billion. As of 31 December 2025, the BMW Group had a workforce of 154,540 employees.\n\nThe economic success of the BMW Group has always been based on long-term thinking and respon-sible action. Sustainability is a key element of the BMW Group’s corporate strategy and covers all products – from the supply chain through production to the end of their useful life.",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://www.bmwgroup.com/en/general/imprint.html",
+    "linkedInUrl": "https://www.linkedin.com/company/bmw-group",
+    "employeeCount": 65541,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Automotive",
+      "Information Technology",
+      "Data Science",
+      "Software Development",
+      "Artificial Intelligence",
+      "Data Security",
+      "Motorcycles",
+      "Financial Services",
+      "Mobility Services",
+      "Digital Services",
+      "IoT",
+      "Future of Mobilty",
+      "Autonomous Driving",
+      "Connectivity",
+      "Sheer Driving Pleasure"
+    ]
+  }
+}

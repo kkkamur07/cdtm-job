@@ -1,0 +1,237 @@
+{
+  "id": "romanschumacher",
+  "name": "Roman Schumacher",
+  "headline": "Creating lovable objects at Studio Sonntag | Co-founder Personio",
+  "avatar": {
+    "sm": "/avatars/romanschumacher-sm.webp",
+    "lg": "/avatars/romanschumacher.webp",
+    "blur": "data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAADwBgCdASogACAAPsVSoEunpKMht/VYAPAYiWoAvnr2dn+pq6B43IEfGYA2nu9+xX/r8WSDpNSA3X+A5SSkT2UgAP74ONqIBmTGyc1Dhx23Pew/LdvFxLzkcgfahf8btIHeyIfH/+Vecauk500laNZK1CuzhwtO179zQlTIN6c6X+i5fjI4qMRGGTd2RP+o0DUhGjcj2IrCztNS++fyuqZnoAQzl3DxCy/+wy107lwsbVGxgZV+H4v3L0S8b8AE6APXDbvU3JGF1EBeFDOa0U2bzwpkpP7WgmbCMfDiR0w+kQk3Rvceo1dQEfb5Gc3UlGusXwo5MRWNEk9xGjw9NyimLn+YvQt8pdo10XQUzAAAAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/romanschumacher",
+  "personId": 697,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Media Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Roman Schumacher",
+  "ca": null,
+  "summary": "Driving Personio’s product vision of becoming a holistic HR platform to establish Personio as industry standard for HR software in Europe.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Studio Sonntag",
+      "companyUrl": "https://www.linkedin.com/company/studio-sonntag-munich",
+      "description": null,
+      "location": null,
+      "start": "2023-08",
+      "end": null,
+      "dateRange": "Aug 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": null,
+      "location": null,
+      "start": "2022-12",
+      "end": null,
+      "dateRange": "Dec 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Personio Foundation",
+      "companyUrl": "https://www.linkedin.com/company/personio-foundation",
+      "description": "Personio Foundation supports forward-thinking nonprofit organizations operating in the fields of climate action and education",
+      "location": null,
+      "start": "2021-12",
+      "end": null,
+      "dateRange": "Dec 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Founders Pledge Member",
+      "company": "Founders Pledge",
+      "companyUrl": "https://www.linkedin.com/company/founders-pledge",
+      "description": "I’m excited to be a member of Founders Pledge, a global community of entrepreneurs finding and funding solutions to the world’s most pressing problems. In line with our value of Social Responsibility at Personio, I've made a legally binding commitment to donate a portion of personal proceeds on liquidity to social causes.",
+      "location": null,
+      "start": "2019-10",
+      "end": null,
+      "dateRange": "Oct 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & CPO",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": "Enabling Better Organizations",
+      "location": null,
+      "start": "2016-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2016 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Co-founder",
+      "company": "Feedbackme",
+      "companyUrl": "https://www.linkedin.com/company/feedbackme",
+      "description": "Co-founder and developer of the Feedbackme mobile-first web application.",
+      "location": null,
+      "start": "2015-04",
+      "end": "2015-12",
+      "dateRange": "Apr 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Ember.js Webdevelopment Freelancing",
+      "company": "foodora",
+      "companyUrl": "https://www.linkedin.com/company/foodora",
+      "description": "Advancement of an Ember.js web application. My tasks comprised the adaption of the application to a changed REST API, improving the application's logic as well as the implementation of new features.",
+      "location": null,
+      "start": "2015-03",
+      "end": "2015-05",
+      "dateRange": "Mar 2015 – May 2015",
+      "current": false
+    },
+    {
+      "title": "Mobile Web-Development Working student",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Mobile Web-Development within a research project of the department of mobile\nand distributed systems on the topic of seamless travel",
+      "location": null,
+      "start": "2013-10",
+      "end": "2014-04",
+      "dateRange": "Oct 2013 – Apr 2014",
+      "current": false
+    },
+    {
+      "title": "Frontend-Development Freelancing",
+      "company": "Jurato",
+      "companyUrl": "https://www.linkedin.com/company/jurato",
+      "description": "Set up the frontend of the web-platform for the newly founded startup",
+      "location": null,
+      "start": "2013-09",
+      "end": "2013-10",
+      "dateRange": "Sep 2013 – Oct 2013",
+      "current": false
+    },
+    {
+      "title": "Frontend-Development Working Student",
+      "company": "Westwing",
+      "companyUrl": "https://www.linkedin.com/company/westwing-home-&-living",
+      "description": "Frontend-development for the international shopping platform within an entrepreneurial and international environment",
+      "location": null,
+      "start": "2011-11",
+      "end": "2013-08",
+      "dateRange": "Nov 2011 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Part-time Job",
+      "company": "ACD Gruppe",
+      "companyUrl": null,
+      "description": "Assembly of circuit boards and mounting of components as well as writing of manufacturing and testing instructions",
+      "location": null,
+      "start": "2010-05",
+      "end": "2010-08",
+      "dateRange": "May 2010 – Aug 2010",
+      "current": false
+    },
+    {
+      "title": "Webdevelopment",
+      "company": "Roman Schumacher Webentwicklung",
+      "companyUrl": null,
+      "description": "Design and Programming of websites for medium-sized enterprises \nwww.romanschumacher.de",
+      "location": null,
+      "start": "2009-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2009 – Dec 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science, Mediainformatics",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science, Mediainformatics",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar",
+      "dateRange": "2015"
+    }
+  ],
+  "skills": [
+    "MySQL",
+    "PHP",
+    "CSS",
+    "HTML",
+    "JavaScript",
+    "Java",
+    "Leadership",
+    "Node.js",
+    "Graphic Design",
+    "jQuery",
+    "Entrepreneurship",
+    "SEO",
+    "WordPress",
+    "Photoshop",
+    "Product Development",
+    "Git",
+    "Web Development",
+    "Bootstrap",
+    "XML",
+    "Illustrator",
+    "Web Design",
+    "SASS",
+    "UX",
+    "Ember.js",
+    "LESS",
+    "Creativity",
+    "Sencha Touch",
+    "Cordova"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Studio Sonntag",
+    "tagline": "Liebenswerte Objekte",
+    "description": "Loveable design objects for everyday life. Handcrafted ceramic trays & decorative objects – playful, colorful, made in Europe. Shop PLAYTS at studiosonntag.de",
+    "industry": "Design Services",
+    "website": "http://studiosonntag.de",
+    "linkedInUrl": "https://www.linkedin.com/company/studio-sonntag-munich",
+    "employeeCount": 2,
+    "foundedYear": 2024,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

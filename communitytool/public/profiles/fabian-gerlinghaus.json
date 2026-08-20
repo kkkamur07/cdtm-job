@@ -1,0 +1,124 @@
+{
+  "id": "fabian-gerlinghaus",
+  "name": "Fabian Gerlinghaus",
+  "headline": "Co-Founder & CEO at Cellares - Hiring World Class Talent!",
+  "avatar": null,
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/fabian-gerlinghaus",
+  "personId": 1435,
+  "classes": [
+    {
+      "id": 71,
+      "label": "Spring 2012",
+      "season": "Spring",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2012",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Fabian Gerlinghaus",
+  "ca": null,
+  "summary": "Fabian Gerlinghaus is Co-Founder and Chief Executive Officer of Cellares. He is driven by a strong sense of purpose and is passionate about building the future of cell therapy manufacturing. With 10+ years of experience as an innovator and a leader, Fabian has established a track record of assembling top-performing teams to successfully drive novel bioprocessing technologies from ideation to commercial readiness. Prior to co-founding Cellares, Fabian served as Chief Innovation Officer at Synthego, where he co-invented the company’s proprietary RNA synthesizer technology and helped grow the company from five to more than 230 employees. He successfully led the interdisciplinary team that took synthesizer technology from whiteboard sketch to production-ready instruments within two years, enabling the company to be the first to market with its CRISPR/Cas9 product portfolio. He earned a master’s degree in aerospace engineering from the Technical University of Munich, and an honours degree in technology management from the Center for Digital Technology and Management, Munich.",
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Cellares",
+      "companyUrl": "https://www.linkedin.com/company/cellares-corporation",
+      "description": "Global Cell Therapy Manufacturing Services",
+      "location": null,
+      "start": "2019-04",
+      "end": null,
+      "dateRange": "Apr 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief Innovation Officer",
+      "company": "Synthego",
+      "companyUrl": "https://www.linkedin.com/company/synthego",
+      "description": null,
+      "location": null,
+      "start": "2014-01",
+      "end": "2019-04",
+      "dateRange": "Jan 2014 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Research Engineer",
+      "company": "Festo",
+      "companyUrl": "https://www.linkedin.com/company/festo",
+      "description": null,
+      "location": null,
+      "start": "2011-04",
+      "end": "2011-10",
+      "dateRange": "Apr 2011 – Oct 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Researcher",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Aerospace Engineering",
+      "dateRange": "2007 – 2013"
+    },
+    {
+      "school": "Instituto Tecnológico de Buenos Aires",
+      "degree": "TUMExchange, Mechanical Engineering",
+      "dateRange": "2010 – 2011"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Product Development",
+    "Robotics"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French"
+  ],
+  "company": {
+    "name": "Cellares",
+    "tagline": "Accelerating Access to Life-Saving Cell Therapies",
+    "description": "Cellares is the first Integrated Development and Manufacturing Organization (IDMO) and takes an Industry 4.0 approach to mass manufacturing the living drugs of the 21st century. The company is both developing and operating integrated technologies for cell therapy manufacturing to accelerate access to life-saving cell therapies. The company’s Cell Shuttle integrates all the technologies required for the entire manufacturing process in a flexible and high-throughput platform that delivers true walk-away, end-to-end automation. Cell Shuttles will be deployed in Cellares’ Smart Factories around the world to meet total patient demand for cell therapies at global scale. Partnering with Cellares enables academics, biotechs, and pharma companies to accelerate drug development and scale out manufacturing, lower process failure rates, lower manufacturing costs, and meet global patient demand.\n\nThe company is headquartered in South San Francisco, California with its commercial-scale IDMO Smart Factory in Bridgewater, New Jersey. The company is backed by world-class investors and has raised over $355 million in financing.",
+    "industry": "Pharmaceutical Manufacturing",
+    "website": "http://www.cellares.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/cellares-corporation",
+    "employeeCount": 301,
+    "foundedYear": 2019,
+    "location": "South San Francisco, United States",
+    "specialities": [
+      "biotech",
+      "biotechnology",
+      "cell therapy",
+      "manufacturing",
+      "software",
+      "medicine",
+      "patient care",
+      "science",
+      "research and development",
+      "healthcare",
+      "patients",
+      "pharma"
+    ]
+  }
+}

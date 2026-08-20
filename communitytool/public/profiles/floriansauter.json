@@ -1,0 +1,112 @@
+{
+  "id": "floriansauter",
+  "name": "Florian Sauter",
+  "headline": "CTO at EGYM",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/floriansauter",
+  "personId": 1351,
+  "classes": [
+    {
+      "id": 60,
+      "label": "Fall 2006",
+      "season": "Fall",
+      "year": 2006,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2006",
+  "major": "Electrical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Florian Sauter",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "CTO",
+      "company": "EGYM | DACH",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2009-08",
+      "end": null,
+      "dateRange": "Aug 2009 – Present",
+      "current": true
+    },
+    {
+      "title": "Diplomand",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2009-04",
+      "end": "2009-09",
+      "dateRange": "Apr 2009 – Sep 2009",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Siemens Advanta",
+      "companyUrl": "https://www.linkedin.com/company/siemens-advanta",
+      "description": null,
+      "location": null,
+      "start": "2008-01",
+      "end": "2008-12",
+      "dateRange": "Jan 2008 – Dec 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom, Elektro- und Informationstechnik",
+      "dateRange": null
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2008 – 2010"
+    }
+  ],
+  "skills": [
+    "Software Development",
+    "Product Management",
+    "Unternehmensstrategie",
+    "Softwareentwicklung",
+    "Produktmanagement",
+    "Agile Methoden",
+    "Forschung",
+    "Software-Architektur",
+    "Patente"
+  ],
+  "languages": [],
+  "company": {
+    "name": "EGYM | DACH",
+    "tagline": "New Era of Fitness",
+    "description": "EGYM ist ein vertikal integrierter Marktführer in der Fitness- und Gesundheitsbranche mit der Vision, den Gesundheitsmarkt von reaktiv zu präventiv zu wandeln.",
+    "industry": "Wellness and Fitness Services",
+    "website": "https://de.egym.com/de-de",
+    "linkedInUrl": "https://www.linkedin.com/company/egym-gmbh",
+    "employeeCount": 311,
+    "foundedYear": 2010,
+    "location": "München, Germany",
+    "specialities": [
+      "Fitness",
+      "Digitalization",
+      "Health",
+      "Software Engineering"
+    ]
+  }
+}

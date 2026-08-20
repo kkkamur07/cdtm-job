@@ -1,0 +1,185 @@
+{
+  "id": "katharina-julia-brenner",
+  "name": "Katharina Julia Brenner",
+  "headline": "AI for Biomanufacturing",
+  "avatar": {
+    "sm": "/avatars/katharina-julia-brenner-sm.webp",
+    "lg": "/avatars/katharina-julia-brenner.webp",
+    "blur": "data:image/webp;base64,UklGRiQBAABXRUJQVlA4IBgBAABQBgCdASogACAAPsVSo0unpKOhsAwA8BiJZAC/OywTkSt+kllPr5/Lx48x43LDC0GDshQt2seu5IDgAAD+/mE8oHpUHGIU9NC9ZRNfpR2d8zarRt+/eZG3QF0H7fgEf2Rs+O37GV/pISZvz8LtvkOm6rMkmoPzkXeJkH7/10La8rxbKKJy8a9aUKLueaM4SjFrwfpV1Wdoz5eyJNkanFd5Sz254ix6NUtLJnGEQMQjbRTeM4gvfehkMQCGP7VyaAU5kwVFSKWanCbWRJpV/j/eOS2nW2ZOCHsd22cmavyV7lVbyi7aGP9f5xar428+tS55KBbQ/xQW+aMKQAPfPuTHjE5S+pJzErOvxxoTWz+Gfy0ajBUIcAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/katharina-julia-brenner",
+  "personId": 1160,
+  "classes": [
+    {
+      "id": 82,
+      "label": "Fall 2017",
+      "season": "Fall",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2017",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Katharina Brenner",
+  "ca": null,
+  "summary": "I work at the intersection of AI, biotechnology, and bioprocess scale up. My focus is on modeling and decision intelligence for next generation biomanufacturing. I am particularly interested in how complex biotechnologies can be translated into scalable systems, better process decisions, and real industrial deployment.",
+  "positions": [
+    {
+      "title": "Founder, Chairman of the Board",
+      "company": "Future Foods",
+      "companyUrl": "https://www.linkedin.com/company/future-foods-tum",
+      "description": "Future Foods is an initiative for students and professionals active in Cellular Agriculture. We focus on events, hackathons and education on precision fermentation and cultured meat for the leaders of tomorrow. Future Foods is an official initiative of Technical University Munich. JOIN US🫶 we are looking for new members!",
+      "location": null,
+      "start": "2024-03",
+      "end": null,
+      "dateRange": "Mar 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Doctoral Researcher",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Entrepreneur",
+      "company": "TUM Venture Labs",
+      "companyUrl": "https://www.linkedin.com/company/tum-venture-labs",
+      "description": "Cellular Agriculture / Lab-Scale Cultivation",
+      "location": null,
+      "start": "2022-02",
+      "end": "2023-07",
+      "dateRange": "Feb 2022 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Researcher",
+      "company": "TUM Klinikum Rechts der Isar",
+      "companyUrl": "https://www.linkedin.com/company/tum-universitätsklinikum-rechts-der-isar",
+      "description": "Building of pipeline for recognizing Alzheimer in fMRT scans by analyzing the loss of connection between neurons.",
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-03",
+      "dateRange": "Oct 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Guest Researcher at the Center for Human Rights and International Justice",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": "https://gaeia.world",
+      "location": null,
+      "start": "2020-08",
+      "end": "2022-08",
+      "dateRange": "Aug 2020 – Aug 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Science, School of Life Science Engineering",
+      "dateRange": "2023 – 2026"
+    },
+    {
+      "school": "Stiftung Bayerische EliteAkademie (BEA)",
+      "degree": null,
+      "dateRange": "2021 – 2025"
+    },
+    {
+      "school": "University of Cambridge Yusuf Hamied Department of Chemistry",
+      "degree": "Summer School during PhD, Innovation Centre in Digital Molecular Technologies",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Statistics - Economic and social statistics specialization",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management & Technology",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Korea Advanced Institute of Science and Technology",
+      "degree": "Master of Science - MS, Graduate School of AI",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Degree of honors, Technology Management",
+      "dateRange": "2017 – 2021"
+    },
+    {
+      "school": "Elite Network of Bavaria",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2017 – 2021"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Psychology",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Business Administration",
+      "dateRange": "2015 – 2018"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Project Management",
+    "Teamwork",
+    "Projektmanagement",
+    "Strategie",
+    "Unternehmensstrategie",
+    "Geschäftsführung",
+    "Unternehmensanalyse",
+    "Value Investing",
+    "Unternehmensfinanzierung",
+    "Asset-Management",
+    "Alternative Investitionen",
+    "Klavier",
+    "Violine"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Future Foods",
+    "tagline": "Engineering the Future of Proteins",
+    "description": "Future Foods is a TUM initiative that brings professionals and students into the world of alternative proteins and cutting-edge food technologies 🌱. We dive into cultured meat, precision fermentation, and even machine learning, offering hands-on workshops, product development projects, and hackathons 🚀. Our goal is to blend theory with practical skills, giving students and professionals the tools to innovate and tackle real-world challenges in food tech 👩🏻‍🔬. We're here to equip the next generation of scientists and engineers with the expertise they need for future-focused careers in biosciences and technology 🧪🥼. Join us and help shape the future of food! 🌎",
+    "industry": "Biotechnology Research",
+    "website": "https://www.future-foods.org",
+    "linkedInUrl": "https://www.linkedin.com/company/future-foods-tum",
+    "employeeCount": 6,
+    "foundedYear": 2024,
+    "location": "Freising, Germany",
+    "specialities": [
+      "Cultured Meat",
+      "Precision Fermentation",
+      "Alternative Proteins",
+      "Bioprocessing",
+      "Bioprocess Modeling",
+      "Sustainability",
+      "Research",
+      "Education"
+    ]
+  }
+}

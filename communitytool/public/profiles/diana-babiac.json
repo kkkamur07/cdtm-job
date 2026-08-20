@@ -1,0 +1,249 @@
+{
+  "id": "diana-babiac",
+  "name": "Diana Babiac",
+  "headline": "Staff Product Manager, Data Management",
+  "avatar": {
+    "sm": "/avatars/diana-babiac-sm.webp",
+    "lg": "/avatars/diana-babiac.webp",
+    "blur": "data:image/webp;base64,UklGRmYBAABXRUJQVlA4IFoBAAAwBwCdASogACAAPtFYpE0oJSOiMBgIAQAaCWwAnTNnHwWFcCA3TNL6z4jf9u0ZO2aRlD7dhiNX/F4kGOxzLezweAAA+MDEIKDiIbdbyi+L+iDOSFlxwqMiXzgDCz/sdBCiD43dLQG5NPkX8EU7HP/hmS+/04o1EAdXI6o9Ub5uTw0cFfsKWRt2T/z9a3AO3bDxzRQemU3gEYyqKI0Dzm3e3/L/N6INtfPjDIhHfXXoovdc6f09Kz/pjDDRyiLaBlQIL5PSjunSaR/9/5U9ITpuug2biOFFbENKuVOCpfZIZjJDFeYVXZgau+6gqHYa2qfBlcu0pOE1wo4WMWfXCJ4yzwjrKgD8tFHzarcxqzi4FghxDruu2xeMofaT5ZOtk2EQXnzi6fuiuWqS6lgr49J5vzNbqCOA3ts7YpJt2Rgp6WsPe8tckaVz6iXeoQwvtP+ZwQlqA8qggAAA"
+  },
+  "location": "Prague, Czech Republic",
+  "linkedInUrl": "https://www.linkedin.com/in/diana-babiac",
+  "personId": 1017,
+  "classes": [
+    {
+      "id": 74,
+      "label": "Fall 2013",
+      "season": "Fall",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2013",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Diana Babiac",
+  "ca": null,
+  "summary": "Product manager with hands-on experience in hypergrowth software product companies. Inspired by my Executive MBA, I use a holistic and integrative approach to product management, working with internal and external factors, exceeding traditional product and engineering scope.",
+  "positions": [
+    {
+      "title": "Staff Product Manager",
+      "company": "Ataccama",
+      "companyUrl": "https://www.linkedin.com/company/ataccama",
+      "description": "Agentic Reference Data Management",
+      "location": "Prague, Czechia",
+      "start": "2025-02",
+      "end": null,
+      "dateRange": "Feb 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Group Product Manager",
+      "company": "Ataccama",
+      "companyUrl": "https://www.linkedin.com/company/ataccama",
+      "description": null,
+      "location": "Prague, Czechia",
+      "start": "2022-10",
+      "end": "2025-02",
+      "dateRange": "Oct 2022 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Ataccama",
+      "companyUrl": "https://www.linkedin.com/company/ataccama",
+      "description": null,
+      "location": "Prague, Czechia",
+      "start": "2021-02",
+      "end": "2022-10",
+      "dateRange": "Feb 2021 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Technical Product Manager",
+      "company": "Alteryx",
+      "companyUrl": "https://www.linkedin.com/company/alteryx",
+      "description": "Technical product management of data connector functionality for Alteryx Designer:\n• Connection, authentication & authorization (ODBC/OCI/OleDB/OAuth 2/REST APIs)\n• Product specification from feature to user story level\n• Data-driven requirements definition and prioritization\n• Acting as a product owner in 3 agile teams (SAFE framework)\n• Coordination of product-related work of UX, DevOps, QA and Development",
+      "location": "Prague, The Capital, Czech Republic",
+      "start": "2019-06",
+      "end": "2021-02",
+      "dateRange": "Jun 2019 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Co-convenor of the European Merging Function (EMF) Group",
+      "company": "TSCNET Services GmbH",
+      "companyUrl": "https://www.linkedin.com/company/tscnetservices",
+      "description": "Supportive role for the CGM Program at ENTSO-E\n• Prioritization of group work\n• Coordination of the works and communication with relevant parties\n• Progress tracking and reporting",
+      "location": "Munich Area, Germany",
+      "start": "2017-08",
+      "end": "2018-11",
+      "dateRange": "Aug 2017 – Nov 2018",
+      "current": false
+    },
+    {
+      "title": "IT Project Manager",
+      "company": "TSCNET Services GmbH",
+      "companyUrl": "https://www.linkedin.com/company/tscnetservices",
+      "description": "The TSCNET core business is the 24/7 provision of calculations that assess the security of the European electricity grid. The TSCNET services are used in the National Control Rooms of 15 Transmission System Operators. \n\nAt TSCNET, my objective was the alignment of the company IT services to the EU Common Grid Model requirements, migration to a new data format and extension of the business logic.\n\nMy key responsibilities:\n• Project management of four mid/large software delivery projects (0.7-1.2M EUR)\n• International team formation and management, including Agile development team\n• Stakeholder management (15 customers in 12 countries) \n• Procurement activities (with the support of other company functions)\n• Reporting to Board of Directors, Supervisory Board and Steering Group levels\n• Product management and delivery of a new product",
+      "location": "Munich Area, Germany",
+      "start": "2016-08",
+      "end": "2018-12",
+      "dateRange": "Aug 2016 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Intern at the Urban Informatics Research Lab",
+      "company": "QUT (Queensland University of Technology)",
+      "companyUrl": "https://www.linkedin.com/company/queensland-university-of-technology",
+      "description": "Master's thesis research aiming to explore the use of digital technologies and gamification for tackling road safety issues related to driver boredom.\n• Constructed an experimental framework\n• Designed & implemented a gamified app connected to the vehicle CAN bus\n• Conducted a pilot driving simulator study using a game prototype and wearables for psychophysiological measurements.",
+      "location": "Brisbane, Australia",
+      "start": "2015-04",
+      "end": "2015-09",
+      "dateRange": "Apr 2015 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Junior PMO",
+      "company": "TSCNET Services GmbH",
+      "companyUrl": "https://www.linkedin.com/company/tscnetservices",
+      "description": "My objective was to support the TSCNET shareholders in the development of a mid- and long-term outage planning coordination strategy in terms of business processes and data exchange format definition.\n\nKey Responsibilities:\n• Development and operation of a software prototype\n• PMO activities, administration of project documentation\n• Stakeholder management\n\nKey achievement: \n- Prototype is the basis for the currently running industrialised application",
+      "location": "Munich Area, Germany",
+      "start": "2014-10",
+      "end": "2016-02",
+      "dateRange": "Oct 2014 – Feb 2016",
+      "current": false
+    },
+    {
+      "title": "InStep Global Internship Program, Engineering Services Unit",
+      "company": "Infosys",
+      "companyUrl": "https://www.linkedin.com/company/infosys",
+      "description": "Drafted joint IoT go-to-market propositions for Infosys and global leaders in networking and chip manufacturing. \n• Performed market analyses\n• Conducted interviews in order to identify target industry verticals\n• Outlined concrete IoT use cases",
+      "location": "Bengaluru Area, India",
+      "start": "2014-07",
+      "end": "2014-08",
+      "dateRange": "Jul 2014 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Tutor, 'Databases' Practical Course",
+      "company": "Technische Universität München",
+      "companyUrl": null,
+      "description": "Responsibilities include holding a weekly Service Desk to assist students in solving their homework, grading exams and project assignments.",
+      "location": null,
+      "start": "2013-04",
+      "end": "2013-08",
+      "dateRange": "Apr 2013 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Working Student, Application Support Department",
+      "company": "SAP Customer Experience",
+      "companyUrl": "https://www.linkedin.com/company/sapcx",
+      "description": "• Contributed to the development configuration of the hybris platform\n• Java/XML development, bash scripting related to the the company license server",
+      "location": "Munich Area, Germany",
+      "start": "2012-08",
+      "end": "2013-10",
+      "dateRange": "Aug 2012 – Oct 2013",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Jacobs University Bremen",
+      "companyUrl": "https://www.linkedin.com/company/jacobs-university-bremen",
+      "description": "Teaching Assistant for the \"C Laboratory\", \"Advanced C\" and \"Programming in C++\" Courses\nMain responsibilities involved assisting students during practical sessions to complete C/C++ assignments in Linux and Windows environments. In addition, I regularly took part in homework and exam grading and held weekly tutorial sessions.",
+      "location": null,
+      "start": "2010-02",
+      "end": "2011-06",
+      "dateRange": "Feb 2010 – Jun 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of St.Gallen",
+      "degree": "International Executive MBA, Business Administration and Management, General",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Master's Degree in Technology Management",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's Degree, Informatics",
+      "dateRange": "2011 – 2015"
+    },
+    {
+      "school": "Asian Institute of Technology",
+      "degree": "Exchange Semester, Computer Science",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Jacobs University Bremen",
+      "degree": "Bachelor's Degree, Computer Science",
+      "dateRange": "2009 – 2011"
+    }
+  ],
+  "skills": [
+    "Product Management",
+    "Project Management",
+    "Software Engineering",
+    "Software Development",
+    "Business Analysis",
+    "Pre-sales",
+    "Analysis",
+    "Project Planning",
+    "User-centered Design",
+    "Cloud Computing",
+    "Java",
+    "SQL",
+    "Microsoft Office",
+    "PowerPoint",
+    "Linux",
+    "SAP Hybris",
+    "C++",
+    "Microsoft Excel",
+    "Teaching",
+    "Team Leadership"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Ataccama",
+    "tagline": "Trust your data, accelerate your AI.",
+    "description": "AI has raised the stakes for enterprise data. Organizations need data they can trust to power decisions, meet regulatory requirements, and build reliable AI.\n\nAtaccama helps enterprises create trusted, AI-ready data.\n\nThe Ataccama ONE platform provides a unified data trust layer for the modern AI stack. It brings together data quality, observability, governance, lineage, and reference and master data management so organizations can understand their data, manage risk, and maintain confidence in the information that drives their business.\n\nUnlike fragmented data management tools that only detect problems, Ataccama uses an agentic approach to help teams act on them. The ONE AI Agent works as a digital data steward that helps identify issues, generate quality rules, and resolve problems across the data estate.\n\nLeading enterprises rely on Ataccama to reduce risk, support regulatory compliance, and deliver trusted data for analytics, operations, and AI.",
+    "industry": "Software Development",
+    "website": "http://www.ataccama.com",
+    "linkedInUrl": "https://www.linkedin.com/company/ataccama",
+    "employeeCount": 490,
+    "foundedYear": 2007,
+    "location": "Boston, United States",
+    "specialities": [
+      "Data Quality",
+      "Data Governance",
+      "Reference Data Management",
+      "Metadata Management",
+      "Data Catalog",
+      "Data Trust",
+      "Data Observability",
+      "Data Lineage",
+      "Data Modernization",
+      "Data Products",
+      "Enterprise AI",
+      "AI Readiness",
+      "Data Compliance",
+      "Agentic AI"
+    ]
+  }
+}

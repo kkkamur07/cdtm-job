@@ -1,0 +1,137 @@
+{
+  "id": "prof-dr-christian-kissling-4564635",
+  "name": "Prof. Dr. Christian Kissling",
+  "headline": "Professor for Electrical and Computer Engineering at University of Applied Sciences Munich",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/prof-dr-christian-kissling-4564635",
+  "personId": 1616,
+  "classes": [
+    {
+      "id": 52,
+      "label": "Fall 2002",
+      "season": "Fall",
+      "year": 2002,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2002",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christian Kissling",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Professor for Electrical and Computer Engineering",
+      "company": "University of Applied Sciences Munich",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2016-09",
+      "end": null,
+      "dateRange": "Sep 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Principal Engineer, Systems Engineering, Project Management",
+      "company": "Safran Passenger Innovations (SPI)",
+      "companyUrl": null,
+      "description": "Project planing and execution of communication projects in particular in the area of mobile, satellite based and aeronautical communication and related fields.\n\nAnalysis, design, specification, implementation and test of communication systems.\n\nDesign, specification, implementation and validation of hardware and software.\n\nScientific research activities.",
+      "location": "Wessling",
+      "start": "2014-05",
+      "end": "2021-08",
+      "dateRange": "May 2014 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Senior Development Engineer",
+      "company": "Sietron Elektronik",
+      "companyUrl": null,
+      "description": "Implementation of embedded microcontrollers for feedback control systems\nDesign and development of software and hardware",
+      "location": "Freilassing",
+      "start": "2013-09",
+      "end": "2014-05",
+      "dateRange": "Sep 2013 – May 2014",
+      "current": false
+    },
+    {
+      "title": "Scientific Researcher, Development Engineer, Project manager",
+      "company": "German Aerospace Center (DLR)",
+      "companyUrl": null,
+      "description": "Project manager for ESA and EU projects, Research with focus in the fields of: Satellite communication, random access techniques, Radio Ressource Management (RRM), Signal Processing, proposal preparation, advising of junior colleagues and students, lecturer",
+      "location": "Munich",
+      "start": "2005-09",
+      "end": "2013-09",
+      "dateRange": "Sep 2005 – Sep 2013",
+      "current": false
+    },
+    {
+      "title": "Software / Hardware Development",
+      "company": "Sietron Electronics",
+      "companyUrl": null,
+      "description": "Development of embedded microprocessor feedback control software for multi-stepper engine control on an Hitach H8 embedded microprocessor.",
+      "location": "Freilassing, Germany",
+      "start": "2005-03",
+      "end": "2005-06",
+      "dateRange": "Mar 2005 – Jun 2005",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr.-Ing., Electrical Engineering",
+      "dateRange": "2009 – 2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl.-Ing., Electrical and Information Technology",
+      "dateRange": "2000 – 2005"
+    },
+    {
+      "school": "CDTM",
+      "degree": "Technology Management, Business Administration And Technology Management",
+      "dateRange": "2002 – 2004"
+    },
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "-, Electrical and Computer Engineering",
+      "dateRange": "2003"
+    }
+  ],
+  "skills": [
+    "Satellite Communications",
+    "Telecommunications",
+    "Systems Engineering",
+    "Wireless Communications Systems",
+    "Microprocessors",
+    "Programming",
+    "C++",
+    "Omnet++",
+    "Matlab",
+    "Latex",
+    "Signal Processing",
+    "European Union",
+    "IP Networking",
+    "Radio Resource Management",
+    "DVB-S2",
+    "DVB-RCS",
+    "DVB-RCS2",
+    "R&D",
+    "Simulations",
+    "Network Communications"
+  ],
+  "languages": [
+    "English",
+    "Italian"
+  ],
+  "company": null
+}

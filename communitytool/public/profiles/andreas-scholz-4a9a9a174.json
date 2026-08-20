@@ -1,0 +1,162 @@
+{
+  "id": "andreas-scholz-4a9a9a174",
+  "name": "Andreas Scholz",
+  "headline": "Softwareingenieur bei LV1871",
+  "avatar": {
+    "sm": "/avatars/andreas-scholz-4a9a9a174-sm.webp",
+    "lg": "/avatars/andreas-scholz-4a9a9a174.webp",
+    "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAACwBQCdASogACAAPslWokunpSMhsAwA8BkJagCxDIjHne3URpF8TOg7qLvTiHpxP7iPs7L88IAA/uNFD4jH07Qq68lYc1jtY6QO3uPllJ3u/d/WsvUSWIFxaL8H8PaeDyRe6Lg72xPqT+Gg7Y+i+RMEZ5U2KBvB7vSiok8vDfXma3yYttGv9oub3PH3NgDeNXJNbfrZvN5P9lq2Jr2J+yBlY9zKZBbGqZ4l4g/nTDyTMjJV5qCs03zZTzkCZnd2KrQikd84QMMLs/XvsYKzK4ekVlUjbK6h0uwEOeGALkCbRuvUhK4+HL6EQ2+YGC5oPGAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/andreas-scholz-4a9a9a174",
+  "personId": 1241,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Computational Linguistics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Andreas Scholz",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Softwareingenieur",
+      "company": "LV 1871",
+      "companyUrl": "https://www.linkedin.com/company/lv1871",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-01",
+      "end": null,
+      "dateRange": "Jan 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer",
+      "company": "AUSY Technologies Germany AG",
+      "companyUrl": "https://www.linkedin.com/company/ausy-technologies-germany-ag",
+      "description": null,
+      "location": null,
+      "start": "2020-07",
+      "end": "2021-09",
+      "dateRange": "Jul 2020 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "AUSY Technologies Germany AG",
+      "companyUrl": "https://www.linkedin.com/company/ausy-technologies-germany-ag",
+      "description": null,
+      "location": null,
+      "start": "2019-10",
+      "end": "2020-07",
+      "dateRange": "Oct 2019 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Softwareingenieur",
+      "company": "QAware GmbH",
+      "companyUrl": "https://www.linkedin.com/company/qaware-gmbh",
+      "description": null,
+      "location": "Munich / München",
+      "start": "2015-09",
+      "end": "2016-02",
+      "dateRange": "Sep 2015 – Feb 2016",
+      "current": false
+    },
+    {
+      "title": "Flight Information Specialist",
+      "company": "DFS Aviation Services GmbH",
+      "companyUrl": "https://www.linkedin.com/company/dfs-aviation-services",
+      "description": null,
+      "location": "Munich",
+      "start": "2011-05",
+      "end": "2018-03",
+      "dateRange": "May 2011 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Air Traffic Controller",
+      "company": "DFS Aviation Services GmbH",
+      "companyUrl": "https://www.linkedin.com/company/dfs-aviation-services",
+      "description": null,
+      "location": "Munich",
+      "start": "2010-05",
+      "end": "2011-05",
+      "dateRange": "May 2010 – May 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Computer Science / Informatik",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Master of Honour, Technology Management",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Computational Linguistics / Computerlinguistik",
+      "dateRange": "2011 – 2016"
+    },
+    {
+      "school": "DFS Aviation Services GmbH Air Traffic Control Academy",
+      "degree": "Air Traffic Controller",
+      "dateRange": "2008 – 2010"
+    }
+  ],
+  "skills": [
+    "Docker-Produkte",
+    "Helm Charts",
+    "Kubernetes",
+    "Apache Kafka",
+    "Analytische Fähigkeiten",
+    "DB2",
+    "SQL",
+    "Java",
+    "Agile Methoden",
+    "Python",
+    "Deep Learning",
+    "Artificial Intelligence",
+    "Neural Nets / Neuronale Netze",
+    "Softwareentwicklung",
+    "Spring Framework",
+    "Spring Boot",
+    "OAuth"
+  ],
+  "languages": [],
+  "company": {
+    "name": "LV 1871",
+    "tagline": "Spezialist für innovative Berufsunfähigkeits-, Renten- und Lebensversicherungen",
+    "description": "Die Lebensversicherung von 1871 a. G. München (LV 1871) ist Spezialist für innovative Berufsunfähigkeits-, Lebens- und Rentenversicherungen. Rund 470 Mitarbeiter arbeiten im Herzen Münchens für den ebenso modernen wie traditionsreichen Versicherungsverein, der seine Marktposition seit fast 150 Jahren kontinuierlich ausbaut. \n\nDie LV 1871 basiert auf dem Prinzip der Gegenseitigkeit und verpflichtet sich den Interessen ihrer Kunden. Dafür arbeitet das Unternehmen mit unabhängigen Versicherungsvermittlern zusammen. Renommierte Ratingagenturen bewerten die Produkte und Lösungen seit Jahren mit Höchstnoten. Mit einer Solvenzquote von über 400 Prozent gehört die LV 1871 zu den solventesten und sichersten Versicherungen Deutschlands. \n\nFrühzeitig hat die LV 1871 zudem die Chancen der Digitalisierung erkannt und transformiert Schritt für Schritt viele ihrer Geschäftsprozesse. Design-Thinking-Prozesse, ein eigener Accelerator und projektbasiertes Arbeiten in interdisziplinären Teams sind bei der LV 1871 fest verankert. (Stand September 2018)",
+    "industry": "Insurance",
+    "website": "http://www.lv1871.de/impressum",
+    "linkedInUrl": "https://www.linkedin.com/company/lv1871",
+    "employeeCount": 359,
+    "foundedYear": 1871,
+    "location": "München, Germany",
+    "specialities": [
+      "Versicherungen",
+      "Vorsorge",
+      "Altersvorsorge",
+      "Rente"
+    ]
+  }
+}

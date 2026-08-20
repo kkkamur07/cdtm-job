@@ -1,0 +1,196 @@
+{
+  "id": "henri-palleis-902ba2130",
+  "name": "Henri Palleis",
+  "headline": "Product Developer bei BMW Group",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/henri-palleis-902ba2130",
+  "personId": 1872,
+  "classes": [
+    {
+      "id": 63,
+      "label": "Spring 2008",
+      "season": "Spring",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2008",
+  "major": "Media Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Henri Palleis",
+  "ca": null,
+  "summary": "Work at BMW Group",
+  "positions": [
+    {
+      "title": "Product Developer",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2020-05",
+      "end": null,
+      "dateRange": "May 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "München",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Embedded software development for highly automated driving assistance systems.",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "UX research & prototyping for urban autonomous on-demand mobility and teleoperation.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-04",
+      "end": "2020-04",
+      "dateRange": "Apr 2017 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Wissenschaftlicher Mitarbeiter & Doktorand",
+      "company": "Ludwig-Maximilians-Universität (LMU) München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Teaching assistance (Computer Graphics, Human-Computer-Interaction, Information Visualization, Game Development, Photography), as well as research on novel multi-touch interaction concepts for workspaces.",
+      "location": null,
+      "start": "2011-11",
+      "end": "2017-03",
+      "dateRange": "Nov 2011 – Mar 2017",
+      "current": false
+    },
+    {
+      "title": "Diplomand",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Conception and evaluation of driver information systems that create awareness of potential threats registered by car-2-car technology, but invisible to the driver (e.g., cyclist in blind-spot).",
+      "location": "München",
+      "start": "2011-01",
+      "end": "2011-07",
+      "dateRange": "Jan 2011 – Jul 2011",
+      "current": false
+    },
+    {
+      "title": "Tutor für Digitale Medien, Medientechnik, Datenbanksysteme und Mensch-Maschine-Interaktion",
+      "company": "Ludwig-Maximilians Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Weekly lecture of the practical courses and revision of coursework and assisting students with photography and video editing tutorials as well as providing programming assistance for students' programming homework assignments.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2007-10",
+      "end": "2011-01",
+      "dateRange": "Oct 2007 – Jan 2011",
+      "current": false
+    },
+    {
+      "title": "Werkstudent",
+      "company": "Acxiom Deutschland GmbH",
+      "companyUrl": "https://www.linkedin.com/company/acxiom-deutschland-gmbh",
+      "description": "Planegg",
+      "location": null,
+      "start": "2007-01",
+      "end": "2007-09",
+      "dateRange": "Jan 2007 – Sep 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Dr. rer. nat. , Medieninformatik/HCI",
+      "dateRange": "2011 – 2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2008 – 2011"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom-Medieninformatiker (Uni), Medieninformatik",
+      "dateRange": "2005 – 2011"
+    },
+    {
+      "school": "UC Berkeley School of Information",
+      "degree": "Computer Science",
+      "dateRange": "2010"
+    },
+    {
+      "school": "University of Vienna",
+      "degree": "Kunstgeschichte, Politikwissenschaft",
+      "dateRange": "2004 – 2005"
+    },
+    {
+      "school": "University of Rome Tor Vergata",
+      "degree": "Informatik",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Human-Computer Interaction",
+    "Interaction Design",
+    "User Studies",
+    "Usability Testing",
+    "Rapid Prototyping",
+    "Software-Prototyping",
+    "Softwareentwicklung",
+    "Mensch-Computer-Interaktion",
+    "Usability",
+    "Web-Entwicklung",
+    "Android-Entwicklung",
+    "Fotografie",
+    "Musikproduktion",
+    "Multi-touch",
+    "HTML5",
+    "Java",
+    "JavaScript",
+    "Spieleentwicklung"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Italienisch"
+  ],
+  "company": {
+    "name": "BMW Group",
+    "tagline": "We make individual mobility more human, more intelligent and more responsible.",
+    "description": "With its four brands, BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world’s leading premium manufacturer of automobiles and motorcycles and also provides premium financial services. The BMW Group production network comprises over 30 production sites worldwide; the company has a global sales network in more than 140 countries.\n\nIn 2025, the BMW Group sold 2.46 million passenger vehicles and more than 202,500 motorcycles worldwide. The profit before tax in the financial year 2025 was € 10.2 billion on revenues amounting to € 133,5 billion. As of 31 December 2025, the BMW Group had a workforce of 154,540 employees.\n\nThe economic success of the BMW Group has always been based on long-term thinking and respon-sible action. Sustainability is a key element of the BMW Group’s corporate strategy and covers all products – from the supply chain through production to the end of their useful life.",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://www.bmwgroup.com/en/general/imprint.html",
+    "linkedInUrl": "https://www.linkedin.com/company/bmw-group",
+    "employeeCount": 65541,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Automotive",
+      "Information Technology",
+      "Data Science",
+      "Software Development",
+      "Artificial Intelligence",
+      "Data Security",
+      "Motorcycles",
+      "Financial Services",
+      "Mobility Services",
+      "Digital Services",
+      "IoT",
+      "Future of Mobilty",
+      "Autonomous Driving",
+      "Connectivity",
+      "Sheer Driving Pleasure"
+    ]
+  }
+}

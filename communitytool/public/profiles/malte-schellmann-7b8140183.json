@@ -1,0 +1,119 @@
+{
+  "id": "malte-schellmann-7b8140183",
+  "name": "Malte Schellmann",
+  "headline": "Principal Research Engineer bei Huawei Technologies German Research Center",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/malte-schellmann-7b8140183",
+  "personId": 1709,
+  "classes": [
+    {
+      "id": 100,
+      "label": "Fall 2000",
+      "season": "Fall",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2000",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Malte Schellmann",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Principal Research Engineer",
+      "company": "Huawei Technologies",
+      "companyUrl": "https://www.linkedin.com/company/huawei",
+      "description": "Beyond 5G research: enhanced URLLC, wireless solutions for Industry 4.0\n5G research: 5G vehicle communication (V2X), sidelink-enabled ultra-reliable low-latency communication (URLLC)",
+      "location": "München, Deutschland",
+      "start": "2017-06",
+      "end": null,
+      "dateRange": "Jun 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Research Engineer (Level A)",
+      "company": "Huawei Technologies",
+      "companyUrl": "https://www.linkedin.com/company/huawei",
+      "description": "5G research: air interface design, waveform for 5G",
+      "location": null,
+      "start": "2012-11",
+      "end": "2017-05",
+      "dateRange": "Nov 2012 – May 2017",
+      "current": false
+    },
+    {
+      "title": "Senior Research Engineer (Level B)",
+      "company": "Huawei Technologies",
+      "companyUrl": "https://www.linkedin.com/company/huawei",
+      "description": "Beyond 4G research: inter-cell interference management, spectrum sharing",
+      "location": null,
+      "start": "2009-12",
+      "end": "2012-10",
+      "dateRange": "Dec 2009 – Oct 2012",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Fraunhofer Heinrich Hertz Institute HHI",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-hhi",
+      "description": "4G research: OFDM based multi-user MIMO transmission over time-varying channels",
+      "location": "Berlin, Deutschland",
+      "start": "2004-05",
+      "end": "2009-11",
+      "dateRange": "May 2004 – Nov 2009",
+      "current": false
+    },
+    {
+      "title": "Diplomand, Werkstudent",
+      "company": "AMD",
+      "companyUrl": "https://www.linkedin.com/company/amd",
+      "description": null,
+      "location": "Dresden, Deutschland",
+      "start": "2003-05",
+      "end": "2004-02",
+      "dateRange": "May 2003 – Feb 2004",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technische Universität Berlin",
+      "degree": "Dr.-Ing., Electrical Engineering",
+      "dateRange": "2009"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom-Ingenieur, Electrical Engineering and Information Technology",
+      "dateRange": "1998 – 2003"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Huawei",
+    "tagline": null,
+    "description": "Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices. With integrated solutions across four key domains – telecom networks, IT, smart devices, and cloud services – we are committed to bringing digital to every person, home and organization for a fully connected, intelligent world.\n\nHuawei's end-to-end portfolio of products, solutions and services are both competitive and secure. Through open collaboration with ecosystem partners, we create lasting value for our customers, working to empower people, enrich home life, and inspire innovation in organizations of all shapes and sizes.\n\nAt Huawei, innovation focuses on customer needs. We invest heavily in basic research, concentrating on technological breakthroughs that drive the world forward. We have more than 207,000 employees, and we operate in more than 170 countries and regions. Founded in 1987, Huawei is a private company fully owned by its employees.\n\nHouse Rules\nThis page is for ICT professionals with an interest in Huawei and our industry to engage in open discussions.\nTo facilitate dialogue, please follow these rules:\n- Huawei holds the right to delete comments that are offensive, misleading, false, unlawful, off-topic and in violation of any regulations.\n- Repeated violations of any of the above will be removed and users may be blocked.\n- Huawei does not necessarily endorse the information shared by members.\n- Please be familiar with and follow LinkedIn's User Agreement.\n- By publicly uploading a photograph or comment, you give Huawei permission to feature your content. This will always be credited.\n\nPlease visit the below portals for career or customer service queries.\nCareer page: http://bit.ly/2rdljD7\nCustomer service: http://bit.ly/2a4mXNY\n\nThank you for visiting us & we hope you enjoy your time on our page.",
+    "industry": "Telecommunications",
+    "website": "http://www.huawei.com/en/",
+    "linkedInUrl": "https://www.linkedin.com/company/huawei",
+    "employeeCount": 137156,
+    "foundedYear": null,
+    "location": "Shenzhen, China",
+    "specialities": [
+      "Information and Communications Technology ICT",
+      "Enterprise Solutions",
+      "Consumer Devices",
+      "Carrier Network"
+    ]
+  }
+}

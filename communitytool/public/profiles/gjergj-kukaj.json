@@ -1,0 +1,137 @@
+{
+  "id": "gjergj-kukaj",
+  "name": "Gjergj Kukaj",
+  "headline": "Specialist Agile Methodologies - Android Software Development",
+  "avatar": {
+    "sm": "/avatars/gjergj-kukaj-sm.webp",
+    "lg": "/avatars/gjergj-kukaj.webp",
+    "blur": "data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAAAwBwCdASogACAAPsVOoEunpCMhsAwA8BiJZgCdMoHggKoGWBpAmaFcBelSlZYdhkhhPbGPH6P8N5q5uNH8L/AKL4AA/v294y6MY+I/e//0wuAHPheze2WWD4jt0BEe6bjc5xuVKRsBF11wS1yzzuFU6kKMvhLA0qvQGDlssq4eRIBZjf7OcRnGcmF9sjiMOPwtlom1DaX9C+53bjqDOhnj9flNLuQ/UDYJYx7YMUoEpv4bV3DQkAGSpaV1jksQLVR6i+iftWWyj3rljdIpEmJdJqRg4t7+2bCzhDkxgPq5hnhfX3M3zNcMwebFYK7Xi+oPfUsWkoE7SxNpeJ/OErtp5rDBKOyehkPLODLvAgA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/gjergj-kukaj",
+  "personId": 2114,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Human Computer Interaction",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Gjergj Kukaj",
+  "ca": null,
+  "summary": "Work at BMW Group",
+  "positions": [
+    {
+      "title": "Specialist Agile Methodologies - Android Software Development",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-10",
+      "end": null,
+      "dateRange": "Oct 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "SpeedUp - BMW Group Young Talent Program",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-09",
+      "end": "2023-09",
+      "dateRange": "Sep 2020 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Scholarship",
+      "company": "Stiftung der Deutschen Wirtschaft (sdw) gGmbH",
+      "companyUrl": "https://www.linkedin.com/company/stiftung-der-deutschen-wirtschaft",
+      "description": null,
+      "location": null,
+      "start": "2019-10",
+      "end": "2023-09",
+      "dateRange": "Oct 2019 – Sep 2023",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2025"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science, Human-Computer-Interaction",
+      "dateRange": null
+    },
+    {
+      "school": "Hochschule Landshut",
+      "degree": "Bachelor's degree, Automotive Computer Science",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "Universidad de Alcalá",
+      "degree": "Bachelor's degree, Computer Science",
+      "dateRange": "2022"
+    }
+  ],
+  "skills": [
+    "Albanisch",
+    "Spanisch",
+    "Matlab",
+    "Simulink",
+    "Englisch",
+    "Python (Programmiersprache)",
+    "C (Programmiersprache)",
+    "ASCET",
+    "OSEK OS, AUTOSAR"
+  ],
+  "languages": [
+    "Albanisch",
+    "Deutsch",
+    "Englisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "BMW Group",
+    "tagline": "We make individual mobility more human, more intelligent and more responsible.",
+    "description": "With its four brands, BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world’s leading premium manufacturer of automobiles and motorcycles and also provides premium financial services. The BMW Group production network comprises over 30 production sites worldwide; the company has a global sales network in more than 140 countries.\n\nIn 2025, the BMW Group sold 2.46 million passenger vehicles and more than 202,500 motorcycles worldwide. The profit before tax in the financial year 2025 was € 10.2 billion on revenues amounting to € 133,5 billion. As of 31 December 2025, the BMW Group had a workforce of 154,540 employees.\n\nThe economic success of the BMW Group has always been based on long-term thinking and respon-sible action. Sustainability is a key element of the BMW Group’s corporate strategy and covers all products – from the supply chain through production to the end of their useful life.",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://www.bmwgroup.com/en/general/imprint.html",
+    "linkedInUrl": "https://www.linkedin.com/company/bmw-group",
+    "employeeCount": 65541,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Automotive",
+      "Information Technology",
+      "Data Science",
+      "Software Development",
+      "Artificial Intelligence",
+      "Data Security",
+      "Motorcycles",
+      "Financial Services",
+      "Mobility Services",
+      "Digital Services",
+      "IoT",
+      "Future of Mobilty",
+      "Autonomous Driving",
+      "Connectivity",
+      "Sheer Driving Pleasure"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "felix-lill-8a5548a0",
+  "name": "Felix Lill",
+  "headline": "Co-Founder & Co-CEO bei Plantura GmbH | CDTM",
+  "avatar": {
+    "sm": "/avatars/felix-lill-8a5548a0-sm.webp",
+    "lg": "/avatars/felix-lill-8a5548a0.webp",
+    "blur": "data:image/webp;base64,UklGRk4BAABXRUJQVlA4IEIBAABwBgCdASogACAAPtFcpU0oJSOiMBgIAQAaCWwAnQa2EUTKs+8NhXUgk0wh4G9geQ2sRUkjtZAnE2LdgoAA/TNNlDtpa7nZwnPtoq+uAH04XWhRWuX9/6WW1klRRfxno1wgmozVtyJ9HUUGFZ0LjvAmC3LeH7nKp5XM2m24SMhU2Pl+IX26NT81wu+M55SxAEgGTGwwVNwaJzp2cpECxDFYpxwlHCz65Arafj9FbRg0ynUehZGmcYUuHrwz1ouQ7rTlhLsTRuP2Ecp4iwADvPhrl05pu09uFXOtMGXo2zGPyCyFj8ttTDkqyy2dna4A6wkM2vSq9vV63JySq45/OJWuYEDjSO3awIuFu1nPGlpULrzTNChThlw+FLlvlz+Zz6/OdElTAaTmmg0QNNcvKThbIXivbhWwQzY5Kez2jppVuoAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/felix-lill-8a5548a0",
+  "personId": 1183,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Technical and Management oriented Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Felix Lill",
+  "ca": null,
+  "summary": "Co-Founder & Co-CEO of Plantura – We Grow Happiness.\nPlantura is Germany's leading digital platform for plants and plant care. We combine a curated marketplace with 1,500+ plants from top nurseries, sustainable own-brand care products, and an AI-powered plant companion app with 2M+ installs – all reinforcing each other in what we call the Plantura Flywheel.\nThe €18bn+ German garden market is going digital – and our 65-person team of passionate experts is leading the way.",
+  "positions": [
+    {
+      "title": "Co-Founder & Co-CEO",
+      "company": "Plantura GmbH",
+      "companyUrl": "https://www.linkedin.com/company/plantura",
+      "description": "Bringing nature home! That is our mission at Plantura. We want to enable the transition of millions of people in Europe to live a greener and healthier life. Feel like joining our mission? Then please get in touch or check out our open positions!",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-04",
+      "end": null,
+      "dateRange": "Apr 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Intern",
+      "company": "Stern Stewart & Co.",
+      "companyUrl": "https://www.linkedin.com/company/stern-stewart-&-co.",
+      "description": "Project comprised the development of a new organizational structure for a leading healthcare company. Full-time offer after internship.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-03",
+      "end": "2015-06",
+      "dateRange": "Mar 2015 – Jun 2015",
+      "current": false
+    },
+    {
+      "title": "Project Management Intern",
+      "company": "Schuler Group",
+      "companyUrl": "https://www.linkedin.com/company/schuler-group",
+      "description": "Mastering project management issues in the purchase, manufacturing, logistics and outdoor installation field among the respective subsidiaries in order to leverage potentials and raise efficiency.",
+      "location": "Shanghai, China",
+      "start": "2012-08",
+      "end": "2012-11",
+      "dateRange": "Aug 2012 – Nov 2012",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "BSH Hausgeräte",
+      "companyUrl": "https://www.linkedin.com/company/bsh-home-appliances-group",
+      "description": "Intensive, local Portuguese market analysis with the goal of increasing market share of small home appliances. Resulting in a successful presentation to the Senior Management Board to support their strategic planning. Recommendations had been implemented.",
+      "location": "Lisboa, Lisbon, Portugal",
+      "start": "2011-09",
+      "end": "2011-11",
+      "dateRange": "Sep 2011 – Nov 2011",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "Pflanzenspezl",
+      "companyUrl": "https://www.linkedin.com/company/pflanzenspezl",
+      "description": "Worldwide retail and wholesale distribution of rare and exclusive fruits trees. \nSold to a competitor in 2015.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2008-09",
+      "end": "2015-08",
+      "dateRange": "Sep 2008 – Aug 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "TUM School of Management",
+      "degree": "Master of Science (M.Sc.), Management and Mechanical Engineering (TUM-BWL)",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Master's thesis, Renewable & Appropriate Energy Laboratory",
+      "dateRange": "2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Management and Mechanical Engineering (TUM-BWL)",
+      "dateRange": "2009 – 2013"
+    },
+    {
+      "school": "Albert-Einstein-Gymnasium München",
+      "degree": "Abitur",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Microsoft Office",
+    "Projektmanagement",
+    "Unternehmensberatung",
+    "Unternehmertum",
+    "Unternehmensstrategie",
+    "Microsoft Excel",
+    "Business Development",
+    "Strategische Planung"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "Plantura",
+    "tagline": "Bringing nature home",
+    "description": "Bringing nature home! That is our mission at Plantura. We want to reconnect people with nature and make the world a little bit greener every day! How?\n\nBy providing everything people need to live a greener and healthier life in an easy and joyful way: \n\n- A curated one-stop-shop, offering indoor & outdoor plants, plant care (like vegan fertilizers and CO2 reduced soils), plant protection and beneficial organisms\n- An app that takes you by the hand with smart features & digital guidance\n- And an online magazine that is your go-to place for every-day inspirational content & how-to instructions \n\nIn this huge and sometimes overlooked segment of home & garden, there is room for a truly sustainable and authentic brand! \n\nFeel like joining our mission? Then please get in touch or check out our open positions.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://shop.plantura.garden/",
+    "linkedInUrl": "https://www.linkedin.com/company/plantura",
+    "employeeCount": 62,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Data Analytics",
+      "Data-driven Content Creation",
+      "Consumer Tech",
+      "Direct-to-Consumer",
+      "Sustainable Gardening",
+      "Media Powerhouse",
+      "Sustainability",
+      "Startup",
+      "Digitally Native Vertical Brand",
+      "Organic & Animal-Free Fertilizers",
+      "App",
+      "Plants & Plant Care"
+    ]
+  }
+}

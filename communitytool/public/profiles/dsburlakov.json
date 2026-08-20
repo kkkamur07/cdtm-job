@@ -1,0 +1,223 @@
+{
+  "id": "dsburlakov",
+  "name": "Dmitry Burlakov",
+  "headline": "CDTM | TUM | UC Berkeley",
+  "avatar": {
+    "sm": "/avatars/dsburlakov-sm.webp",
+    "lg": "/avatars/dsburlakov.webp",
+    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAACQBgCdASogACAAPtFYpU0oJSOiMBgIAQAaCWQAuwHdI351pFFp1U/g9bgLgyOnETG04eq+b7EGtqGdT4IAAP75cAVd+UT56h0NpwVut2bWe7BojNX5CWbcjwWcMlckXwC9NlTcUe2Ac7LR64f7JKNQFNRP6Yvzd9Kw+XmNCOnTadMdcCL+8Qkvh5RRx+W09RO6lymuMliIrpcFamEJytO6aJKSLBrQahDAecsWIxNVSODwie8j0h8RdVjaBBodXmWIumwavi0jT81qiIfj2btoTCyoL3brgU+EadN93EWxwF60vEWnrlsSngA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dsburlakov",
+  "personId": 729,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Dmitry Burlakov",
+  "ca": null,
+  "summary": "Hi, if we don't know each other and you want to connect I'd appreciate a short note!",
+  "positions": [
+    {
+      "title": "Chief of Staff | osapiens Terra",
+      "company": "osapiens",
+      "companyUrl": "https://www.linkedin.com/company/osapiens",
+      "description": "1st FTE: GTM, Growth, Customer Onboarding",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-05",
+      "end": "2025-12",
+      "dateRange": "May 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Venture Scout",
+      "company": "First Momentum Ventures",
+      "companyUrl": "https://www.linkedin.com/company/firstmomentum",
+      "description": "In 2020 FMV told me they’d \"get back to me\" during our pre-seed fundraising, and they did - just a few years later, in a different way - by reaching out to join forces. I will definitely do early-stage investing  properly later in my career.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-09",
+      "end": "2024-05",
+      "dateRange": "Sep 2022 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "KNOWRON",
+      "companyUrl": "https://www.linkedin.com/company/knowron",
+      "description": "Joined as the 2nd business hire and helped raise seed funding. Gained experience in creating systems and processes for scalability, including customer success, product management, and sales strategy. Just before the LLM hype, we were building an AI-powered digital assistant for deskless workers, aiming to make organizational knowledge more accessible and combat the skills shortage. I believed in the product, but would have done many things differently. Left to fully commit to CDTM and other projects.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-04",
+      "end": "2022-08",
+      "dateRange": "Apr 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Fundraising and Partnerships Lead",
+      "company": "TUM Boring – Innovation in Tunneling e.V.",
+      "companyUrl": "https://www.linkedin.com/company/tum-boring",
+      "description": "Planned for part-time, but went all in: Managed a team, raised $1M in donations and sponsorships, and helped build a 22-ton tunnel boring machine. Won 1st place out of 390 teams at The Boring Company and SpaceX’s Not-a-Boring Competition. Learned how to work with hard core techies and execute large-scale projects, not just software.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-01",
+      "end": "2022-04",
+      "dateRange": "Jan 2021 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "droov.io",
+      "companyUrl": "https://www.linkedin.com/company/droov",
+      "description": "Learned the fundamentals of B2B SaaS as a business co-founder, with many firsts: hiring, selling, negotiating, and fundraising. Left the company, in part, to maintain my residency in Germany, with the goal of obtaining German citizenship (and I got it 4 years later!).\n--\ndroov.io is a last-mile logistics management software that provides route optimization technology and seamless on-demand service integration to small and medium-sized companies. We enable a wide range of businesses from grocery & prepared meals to laundry and retail to efficiently deliver goods & services to customers, and decrease logistics costs by improving route planning and providing detailed analytics and business insights.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-08",
+      "end": "2021-01",
+      "dateRange": "Aug 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Analytics & Insights Specialist - DACH Selling & Market Operations",
+      "company": "Procter & Gamble",
+      "companyUrl": "https://www.linkedin.com/company/procter-and-gamble",
+      "description": "Hired by P&G with the initial plan to fully commit. Curious about corporate life, I wanted to deepen my hard skills, work with large data sets and budgets, and earn well to extend my personal runway. Enjoyed the B2B and B2C blend, but found the pace and flexibility lacking. Started learning company politics. Tbh, my focus was split as I was also building Reinio on the side.",
+      "location": "Frankfurt Am Main Area, Germany",
+      "start": "2019-09",
+      "end": "2019-12",
+      "dateRange": "Sep 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Reinio",
+      "companyUrl": "https://www.linkedin.com/company/reinio-ug",
+      "description": "Co-founded an on-demand laundry and dry cleaning delivery service with two friends, aiming to build the \"Uber for Laundry\". Reinio has been owned and run by Kingsgard.de since Q3 2020. COVID-19 made things tough. Naive but confident, I learned and grew a lot.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-06",
+      "end": "2020-08",
+      "dateRange": "Jun 2019 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Business Intelligence Analyst, Data Engineer",
+      "company": "Kreditech",
+      "companyUrl": "https://www.linkedin.com/company/kreditech",
+      "description": "Started as a working student at an ML fintech backed by Peter Thiel, but quickly went almost full-time. Discovered I didn’t want to be just a techie and found my place bridging the gap. Went from handling boring tasks to creating real impact in the company.",
+      "location": "Hamburg Area, Germany",
+      "start": "2017-07",
+      "end": "2018-05",
+      "dateRange": "Jul 2017 – May 2018",
+      "current": false
+    },
+    {
+      "title": "Payment Department Associate - Business Operations",
+      "company": "Kreditech",
+      "companyUrl": "https://www.linkedin.com/company/kreditech",
+      "description": null,
+      "location": "Hamburg Area, Germany",
+      "start": "2016-11",
+      "end": "2018-05",
+      "dateRange": "Nov 2016 – May 2018",
+      "current": false
+    },
+    {
+      "title": "Founder and Managing Director",
+      "company": "LikeNew: On-Demand Repair Service For Apple Products",
+      "companyUrl": null,
+      "description": "Built a profitable business from zero, then exited for a move to Germany. Juggled growing a business and studying applied math. Learned to love the hustle and perfect the customer journey & service quality. Probably didn’t even know the word ‘entrepreneurship’ or ‘startup’ back then.",
+      "location": "Moscow, Russian Federation",
+      "start": "2014-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2014 – Dec 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, Business, Computer Science, Human Computer Interaction",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Master's Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Wrote my Thesis with GSB VCI (Venture Capital Initiative) and TUM",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management & Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Management & Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Hamburg University of Applied Sciences",
+      "degree": "Bachelor of Science - BS, Information Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Gubkin Russian State University of Oil and Gas (National Research University)",
+      "degree": "Bachelor of Science - BS, Applied Mathematics. Mathematical Simulation in Technology and Economics",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Lyceum 1533 (LIT) / Gymnasium 1514 (School No. 52), Moscow",
+      "degree": "High School Alumnus, Class of 2014",
+      "dateRange": "2014"
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "Project Management",
+    "Data Analysis",
+    "Entrepreneurship",
+    "Marketing",
+    "IT Management",
+    "Software Development",
+    "Venture Capital",
+    "Fundraising",
+    "Start-ups",
+    "Product Development"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "osapiens",
+    "tagline": null,
+    "description": "osapiens – one platform for sustainable growth \n\nosapiens develops software that empowers companies to drive sustainable growth across their entire value chain.  \n\nThe osapiens HUB, a multi-tenant hyperscaler platform designed to enable cross-company collaboration and AI-automation, combines over 25 solutions in two categories: Transparency solutions enable companies to report on financial and non-financial data, manage supply chains, mitigate risk of all kinds (including cyber-risks and trade- and geo-political risks), and ensure compliance with product, reporting and supply chain regulations. Efficiency solutions enable AI-driven supplier collaboration, maintenance, service, and distribution processes to improve operational performance and strengthen competitiveness.  \n\nosapiens was founded in 2018. Headquartered in Mannheim, Germany, with offices across Europe and the United States, the company works with an international team of over 550 employees. It supports more than 2,500 customers worldwide, from SMEs to global enterprises across industries.",
+    "industry": "Software Development",
+    "website": "http://www.osapiens.com",
+    "linkedInUrl": "https://www.linkedin.com/company/osapiens",
+    "employeeCount": 595,
+    "foundedYear": 2018,
+    "location": "Mannheim, Germany",
+    "specialities": [
+      "osapiens HUB",
+      "ESG",
+      "operations efficiency",
+      "Track & Trace"
+    ]
+  }
+}

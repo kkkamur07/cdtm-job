@@ -1,0 +1,137 @@
+{
+  "id": "balazs-gerhardt-b1b140",
+  "name": "Balazs Gerhardt",
+  "headline": "Principal at L-GAM",
+  "avatar": null,
+  "location": "London, United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/balazs-gerhardt-b1b140",
+  "personId": 1673,
+  "classes": [
+    {
+      "id": 98,
+      "label": "Spring 2001",
+      "season": "Spring",
+      "year": 2001,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2001",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Balazs Gerhardt",
+  "ca": null,
+  "summary": "Private Equity Investment Professional",
+  "positions": [
+    {
+      "title": "Principal",
+      "company": "L-GAM Advisers LLP",
+      "companyUrl": "https://www.linkedin.com/company/l-gam",
+      "description": null,
+      "location": "London, UK",
+      "start": "2015-01",
+      "end": null,
+      "dateRange": "Jan 2015 – Present",
+      "current": true
+    },
+    {
+      "title": "Vice  President",
+      "company": "Bain Capital",
+      "companyUrl": "https://www.linkedin.com/company/bain-capital",
+      "description": "Private Equity Investment Professional",
+      "location": null,
+      "start": "2009-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2009 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Fellow/Senior Associate",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2004-01",
+      "end": "2007-12",
+      "dateRange": "Jan 2004 – Dec 2007",
+      "current": false
+    },
+    {
+      "title": "Analyst",
+      "company": "PolyTechnos Venture-Partners",
+      "companyUrl": "https://www.linkedin.com/company/polytechnos-venture-partners",
+      "description": null,
+      "location": null,
+      "start": "2001-01",
+      "end": "2002-12",
+      "dateRange": "Jan 2001 – Dec 2002",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard Business School",
+      "degree": "MBA",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Dipl.-Kfm., BWL",
+      "dateRange": null
+    },
+    {
+      "school": "ESSEC Business School",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Investment Management",
+    "Due Diligence",
+    "Investments",
+    "Private Equity",
+    "Buyouts",
+    "LBO",
+    "Valuation",
+    "Special Situations",
+    "Financial Modeling",
+    "Equity Research",
+    "Industrials",
+    "Private Equity Firms",
+    "Growth Capital",
+    "Business Strategy",
+    "Mergers & Acquisitions",
+    "Venture Capital",
+    "Corporate Finance",
+    "Corporate Development",
+    "Emerging Markets",
+    "M&A experience"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "L-GAM",
+    "tagline": "Investing in companies with exceptional long-term value potential",
+    "description": "L-GAM is a long-term investment firm established in partnership with the Princely Family of Liechtenstein. \n \nWe aim to invest in great companies and build relationships with exceptional management teams to create long-term value. Our approach combines a disciplined, value oriented investment style of private equity with the flexibility and long-term orientation of our anchor investor. \n \nWe want to invest in companies where our capital and support enable management teams to drive growth and unlock value through operational and strategic change. We have a flexible investment mandate that allows us to adapt our investment horizon and investment structure to the specific needs of the companies in which we invest. \n \nL-GAM is focused on investment opportunities in European small and medium enterprises (“SMEs”) where capital commitments range between €40-€100 million Capital Commitments per Deal.\n \nWe aim to be a growth enabler, supporting management team to achieve profit improvement and value enhancement initiatives identified in business plans. \n \nWe have the flexibility to invest in debt and equity instruments and to adapt to various types of situations and governance models. This allows us to pursue investment opportunities such as buy-outs, family successions, buy and builds as well as recapitalisations, debt restructurings, turnarounds and other types of complex situations. Although we are primarily focused on control-oriented transactions we will invest in minority positions where there is an appropriate governance structure. \n \nL-GAM’s main focus is on companies in the range of €50-€300 million Company Turnover across a broad spectrum of industry sectors.",
+    "industry": "Investment Management",
+    "website": "http://www.l-gam.com",
+    "linkedInUrl": "https://www.linkedin.com/company/l-gam",
+    "employeeCount": 22,
+    "foundedYear": 2013,
+    "location": "Luxembourg, Luxembourg",
+    "specialities": []
+  }
+}

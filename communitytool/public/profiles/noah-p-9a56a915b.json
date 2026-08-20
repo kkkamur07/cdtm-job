@@ -1,0 +1,230 @@
+{
+  "id": "noah-p-9a56a915b",
+  "name": "Noah P.",
+  "headline": "Engineering & Solutions",
+  "avatar": {
+    "sm": "/avatars/noah-p-9a56a915b-sm.webp",
+    "lg": "/avatars/noah-p-9a56a915b.webp",
+    "blur": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAAAwBgCdASogACAAPs1OokunpCMht/VYAPAZiWIAuzOTQpiYo/vncHYCszJzt3cPQpwaZeUmNLM48WiAAP77p1eerCe+Nd8/aOSVrS7vWvqO8BjI3oWfPfh7yU0aBLnK/Rp1GhZAeUbmrucwttBzWdGI1XrzELWft5ZE4wsNYsVRmkEaC7/G3KiKr6z+G6Rrpx9EG1KqFfALrSMoysAB58uv0A5ZuFQ7YNKkDQXxhBJshmqhyoThICwh+sEObxFdqjRwncNyX0LUYFbLn9IjAAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/noah-p-9a56a915b",
+  "personId": 846,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "MSc in Electrical and Computer Engineering (TUM, ETS)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Noah Ploch",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Specialist IoT & Data Ingestion",
+      "company": "ecoplanet",
+      "companyUrl": "https://www.linkedin.com/company/ecoplanet-green-operations",
+      "description": "Architected and scaled our IoT connectivity platform, enhancing data-ingestion pipelines and expanding protocol support (e.g., BACnet) along with bidirectional communication for distributed energy assets.\n\nLed the end-to-end technical delivery of advanced energy flexibility projects, integrating battery storage systems into our platform and building a multi-use optimization engine enabling intelligent, market-driven asset control.\n\nDesigned and deployed a highly scalable MQTT infrastructure using EMQX and Kafka, increasing system availability to 99.9% and significantly enhancing observability and reliability across data streams.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Managed the design and fabrication of a machine base achieving on-time delivery below budget.",
+      "company": "Orbem",
+      "companyUrl": "https://www.linkedin.com/company/orbem-ai",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Solution Engineer - IoT Solutions",
+      "company": "ecoplanet",
+      "companyUrl": "https://www.linkedin.com/company/ecoplanet-green-operations",
+      "description": "Solution Engineering: Held end-to-end responsibility for the technical integration of metering concepts into our software system.\n\nLed and executed complex integration projects, scaling one solution from 30 to 500+ nodes and managing a nationwide rollout of 150+ sensors at 60+ locations.\n\nRedesigned the interface and interaction model of our energy sub-metering module, resulting in a 50% increase in user engagement.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2024-04",
+      "end": "2025-03",
+      "dateRange": "Apr 2024 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "AI Engineer",
+      "company": "Orbem",
+      "companyUrl": "https://www.linkedin.com/company/orbem-ai",
+      "description": "Built an automated MRI image quality control using an AI-enhanced classification pipeline. Solved costly data generation through augmentation with a synthetic data generator for egg MRI images.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2021-09",
+      "end": "2021-12",
+      "dateRange": "Sep 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "Orbem",
+      "companyUrl": "https://www.linkedin.com/company/orbem-ai",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-11",
+      "end": "2021-12",
+      "dateRange": "Nov 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Orbem",
+      "companyUrl": "https://www.linkedin.com/company/orbem-ai",
+      "description": "Expanded our MRI system with an industrial camera setup for visual anomaly detection. The system was integrated in the production deployment.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-09",
+      "end": "2020-11",
+      "dateRange": "Sep 2020 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "company": "Walter Schottky Institute, Technische Universitat Munchen",
+      "companyUrl": "https://www.linkedin.com/company/walter-schottky-institute-technische-universitat-munchen",
+      "description": "Reduced the evaluation time of diffusivity experiments from hours to seconds by implementing a data analysis module. It became the group's standard module for evaluation of such experiments.\nCreated a consistent database with more than 50 electron diffusivity measurements.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-05",
+      "end": "2020-08",
+      "dateRange": "May 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Automations Engineer",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Democratized access to testbench allocation for vehicle testing by building an intuitive GUI, enabling management to validate slot allocations. Managed daily coordination between developers, contractors, and testers.",
+      "location": "München",
+      "start": "2019-06",
+      "end": "2019-11",
+      "dateRange": "Jun 2019 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "System Engineer",
+      "company": "Silver Atena GmbH",
+      "companyUrl": "https://www.linkedin.com/company/silveratena",
+      "description": "Improved the control behaviour of the new DCDC-Converter for EV charging by including grid feedback and tuning parameters in Matlab/Simulink.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-08",
+      "end": "2018-10",
+      "dateRange": "Aug 2018 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Silver Atena GmbH",
+      "companyUrl": "https://www.linkedin.com/company/silveratena",
+      "description": "Spearheaded a government-funded feasibility study on hybrid aircraft, defining key requirements for new prototypes. Accelerated ECU diagnostics with histogram visualization over CAN-Bus.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-09",
+      "end": "2018-08",
+      "dateRange": "Sep 2017 – Aug 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student Researcher, Electrical and Computer Engineering",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Politecnico di Milano",
+      "degree": "Master of Science - MS, Electrical, Electronics and Communications Engineering",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology and Management",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Electrical, Electronics and Communications Engineering",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "École de technologie supérieure",
+      "degree": "Bachelor of Science - BS, Electrical, Electronics and Communications Engineering",
+      "dateRange": "2019"
+    }
+  ],
+  "skills": [
+    "Retrieval-Augmented Generation (RAG)",
+    "Vektordatenbanken",
+    "Semantische Suche",
+    "Agentische KI-Entwicklung",
+    "Maschinelles Lernen",
+    "System Design",
+    "Mitgliederbeziehungen",
+    "Consulting",
+    "Italienisch",
+    "Spanisch",
+    "Französisch",
+    "MLOps",
+    "Continuous Integration und Continuous Delivery (CI/CD)",
+    "Industrielle Automatisierung",
+    "Softwaredesign",
+    "Projektmanagement",
+    "Scrum",
+    "Flutter",
+    "Flask",
+    "Firebase",
+    "Docker-Produkte",
+    "Matlab",
+    "JIRA",
+    "ClearML",
+    "Keras",
+    "Scikit-learn",
+    "JavaScript",
+    "Linux",
+    "Git",
+    "C++",
+    "C (Programmiersprache)",
+    "Englisch",
+    "Ingenieurwesen",
+    "Kommunikation",
+    "Problemlösung",
+    "Präsentationen",
+    "Deutsch",
+    "Python (Programmiersprache)",
+    "Visual Basic for Applications (VBA)",
+    "Simulationen",
+    "Problemmanagement"
+  ],
+  "languages": [],
+  "company": {
+    "name": "ecoplanet",
+    "tagline": "Günstigste Energiepreise & innovatives Energiemanagement für den deutschen Mittelstand",
+    "description": "ecoplanet ist die weltweite erste Software für integriertes Energiemanagement: Verbrauchssteuerung, intelligente Beschaffung und Regulatorik an einem Ort & KI-basiert optimiert.\n\nMit einem großen Team aus Energieexpert:innen, Produkttalenten und Branchenprofis treiben wir die Energiewende im Mittelstand voran.\n\n📍 Offices in Berlin & München | ✉️ info@ecoplanet.tech",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.ecoplanet.tech",
+    "linkedInUrl": "https://www.linkedin.com/company/ecoplanet-green-operations",
+    "employeeCount": 109,
+    "foundedYear": 2022,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

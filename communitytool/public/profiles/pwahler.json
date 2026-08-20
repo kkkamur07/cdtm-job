@@ -1,0 +1,169 @@
+{
+  "id": "pwahler",
+  "name": "Philipp Wahler",
+  "headline": "CDTM | Mathematical Philosophy @ LMU | Cambridge | HSG",
+  "avatar": {
+    "sm": "/avatars/pwahler-sm.webp",
+    "lg": "/avatars/pwahler.webp",
+    "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAADwBQCdASogACAAPtFcpUyoJaOiMBgIAQAaCUAXyTF8Vq7flZ1Hs5jAOkA3p2OudWO6hNlHoRvDsAD+9wse3YX9OcH+llnkusqTlc7a4Iz9wn5oTtK8ZARuux8IXIrwfoyXsZsC4EQ2Jslcsttb+TOs2MNRAjwIc2xMGeDNg/2iKcZF+w5MO3QUWfZOtQbW1kGRWeZDblhk9GTqgzeVMNXYP+Sy9IE3Ved6vD3f22TQggJtiOH/vWP9keAHYZx2XgAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/pwahler",
+  "personId": 2005,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Philosophy",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Philipp Wahler",
+  "ca": null,
+  "summary": "curious about a lot of things. always happy to chat => https://text.philipp.today",
+  "positions": [
+    {
+      "title": "Visiting Analyst - Venture Capital",
+      "company": "Reimann Investors Venture Capital",
+      "companyUrl": "https://www.linkedin.com/company/reimann-investors-vc",
+      "description": "Sourced and facilitated investment in \"Linearity\" (Series A Extension; Co-investors: EQT Ventures, HV Capital, 468 Capital, Discovery Ventures).",
+      "location": "München, Bayern, Deutschland",
+      "start": "2024-02",
+      "end": "2024-08",
+      "dateRange": "Feb 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Growth & Operations",
+      "company": "Vitt",
+      "companyUrl": "https://www.linkedin.com/company/vitt-sh",
+      "description": "Vitt is a venture-backed (Better Tomorrow Ventures, Speedinvest, Village Global) fintech startup in the revenue-based financing space. As the first employee on the commercial team, my responsibilities ranged across growth, operations, strategy, and product.",
+      "location": "Region London, Vereinigtes Königreich",
+      "start": "2021-08",
+      "end": "2022-10",
+      "dateRange": "Aug 2021 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Head of START Hack",
+      "company": "START Global",
+      "companyUrl": "https://www.linkedin.com/company/startglobal",
+      "description": "Organized Europe’s largest student-run hackathon.",
+      "location": null,
+      "start": "2020-07",
+      "end": "2021-06",
+      "dateRange": "Jul 2020 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & Editor",
+      "company": "EasyPass",
+      "companyUrl": "https://www.linkedin.com/company/easypass-learning",
+      "description": "Wrote and published 250-page study guide for the course “Fundamentals and Methods of Computer Science for Business Studies” at HSG. The booklet was purchased by ~65% of enrolled students.",
+      "location": "Sankt Gallen, Schweiz",
+      "start": "2020-04",
+      "end": "2021-08",
+      "dateRange": "Apr 2020 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Content Management",
+      "company": "START Global",
+      "companyUrl": "https://www.linkedin.com/company/startglobal",
+      "description": null,
+      "location": "St.Gallen",
+      "start": "2019-09",
+      "end": "2020-07",
+      "dateRange": "Sep 2019 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Research Analyst",
+      "company": "ConsumerCentriX Sàrl (CCX)",
+      "companyUrl": "https://www.linkedin.com/company/consumercentrix",
+      "description": "Researched the ROI of non-financial services for women-led SMEs for a report commissioned by the International Finance Corporation (IFC).",
+      "location": "Genf und Umgebung, Schweiz",
+      "start": "2019-07",
+      "end": "2019-08",
+      "dateRange": "Jul 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "ConsumerCentriX Sàrl (CCX)",
+      "companyUrl": "https://www.linkedin.com/company/consumercentrix",
+      "description": "Research and data visualization for several projects on customer-centric banking for SMEs in Mongolia, Morocco, and Egypt.",
+      "location": "Genf, Kanton Genf, Schweiz",
+      "start": "2018-03",
+      "end": "2018-06",
+      "dateRange": "Mar 2018 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Business Development Intern",
+      "company": "Zen-Own",
+      "companyUrl": "https://www.linkedin.com/company/zenown",
+      "description": "Developed value proposition and go-to-market strategy for product life cycle management startup.",
+      "location": "Genf, Kanton Genf, Schweiz",
+      "start": "2018-03",
+      "end": "2018-06",
+      "dateRange": "Mar 2018 – Jun 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Visiting Researcher - Institute for Manufacturing (IfM), Department of Engineering",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Arts - MA, Philosophie",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "University of St.Gallen",
+      "degree": "Bachelor's degree, Business Administration",
+      "dateRange": null
+    },
+    {
+      "school": "Frobenius Gymnasium Hammelburg",
+      "degree": "Abitur",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Arabisch",
+    "Deutsch"
+  ],
+  "company": {
+    "name": "Reimann Investors Venture Capital",
+    "tagline": "Backing visions. Pioneering the future.",
+    "description": "We are a Munich-based venture capital fund focused on B2B Software, AI and FinTech. We back bold founders building out of DACH and invest with high conviction at Seed and Series A – bringing far more than capital to the table. We act as a strategic catalyst, working side-by-side with you to navigate the journey from early traction to scale.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "https://www.reimann-investors.com/en/startups",
+    "linkedInUrl": "https://www.linkedin.com/company/reimann-investors-vc",
+    "employeeCount": 6,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

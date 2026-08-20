@@ -1,0 +1,214 @@
+{
+  "id": "philippcbraun",
+  "name": "Philipp Braun",
+  "headline": "Associate at BCG | Economics Graduate from LSE and LMU",
+  "avatar": {
+    "sm": "/avatars/philippcbraun-sm.webp",
+    "lg": "/avatars/philippcbraun.webp",
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAADQBQCdASogACAAPtFapE0oJSOiKA1RABoJZgDI1YwfLbNH/zz6Qm05nv8vrKGRdr4LsBw+7QAAAP7+YM/rDJ2l2CTe+k7/16+4dYdbtM/QqA4cjdeWcWIPvJup78e7f6z29osLnnvYpXd+Ifbz6I8tJplWbtmXThkImLAX7kxk8cQeyIfOntJQMzrCU6Q9Pol5owhFCuJRn9t8w2507EvKW5LGySrgf682thVmb9uXbulyYosTaGQ4zIjD9gjwbYaAgAAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/philippcbraun",
+  "personId": 928,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": "Business Administration, Management",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Philip Braun",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Frankfurt, Hesse, Germany",
+      "start": "2024-11",
+      "end": null,
+      "dateRange": "Nov 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Private Equity Intern",
+      "company": "FSN Capital Partners",
+      "companyUrl": "https://www.linkedin.com/company/fsn-capital",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-02",
+      "end": "2023-06",
+      "dateRange": "Feb 2023 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "ifo Institute – Leibniz Institute for Economic Research",
+      "companyUrl": "https://www.linkedin.com/company/ifo-institute-for-economic-research",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Investment Banking Intern",
+      "company": "Rothschild & Co",
+      "companyUrl": "https://www.linkedin.com/company/rothschildandco",
+      "description": null,
+      "location": "Frankfurt am Main, Hessen, Deutschland",
+      "start": "2021-04",
+      "end": "2021-06",
+      "dateRange": "Apr 2021 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Tutor in Microeconomics",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": null,
+      "start": "2020-11",
+      "end": "2021-02",
+      "dateRange": "Nov 2020 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Spring Intern",
+      "company": "J.P. Morgan",
+      "companyUrl": "https://www.linkedin.com/company/jpmorgan",
+      "description": null,
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-04",
+      "dateRange": "Apr 2020 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Infrastructure & Private Equity Intern",
+      "company": "Palladio Partners",
+      "companyUrl": "https://www.linkedin.com/company/palladio-partners",
+      "description": null,
+      "location": "Frankfurt am Main",
+      "start": "2019-09",
+      "end": "2019-10",
+      "dateRange": "Sep 2019 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Family Office Intern",
+      "company": "ODDO BHF",
+      "companyUrl": "https://www.linkedin.com/company/oddo-bhf",
+      "description": null,
+      "location": "Frankfurt am Main",
+      "start": "2018-09",
+      "end": "2018-09",
+      "dateRange": "Sep 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Legal Intern",
+      "company": "Lachner Westphalen Spamer",
+      "companyUrl": "https://www.linkedin.com/company/lachner-westphalen-spamer",
+      "description": null,
+      "location": "Frankfurt am Main",
+      "start": "2018-08",
+      "end": "2018-08",
+      "dateRange": "Aug 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Asset Management Intern",
+      "company": "Lupus alpha Asset Management AG",
+      "companyUrl": "https://www.linkedin.com/company/lupus-alpha",
+      "description": null,
+      "location": "Frankfurt am Main",
+      "start": "2017-10",
+      "end": "2017-10",
+      "dateRange": "Oct 2017 – Oct 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "The London School of Economics and Political Science (LSE)",
+      "degree": "Master of Science - MS, Finance and Economics",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Economics",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Semester abroad",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Management & Technology",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Bischof-Neumann-Schule",
+      "degree": "Abitur",
+      "dateRange": "2010 – 2018"
+    },
+    {
+      "school": "Christ's Hospital School",
+      "degree": "General Certificate of Secondary Education",
+      "dateRange": "2015 – 2016"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Boston Consulting Group (BCG)",
+    "tagline": null,
+    "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.\n \nOur diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. \n\nWe work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.\n\nBCG Privacy Policy: https://www.bcg.com/about/privacy-policy.aspx",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bcg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/boston-consulting-group",
+    "employeeCount": 41217,
+    "foundedYear": 1963,
+    "location": "Boston, United States",
+    "specialities": [
+      "Consumer insight",
+      "corporate development",
+      "corporate finance",
+      "digital economy",
+      "globalization",
+      "growth",
+      "information technology",
+      "innovation",
+      "marketing & sales",
+      "operations",
+      "people & organization",
+      "postmerger integration",
+      "risk management",
+      "strategy",
+      "sustainability",
+      "transformation",
+      "climate",
+      "artificial intelligence",
+      "cost transformation",
+      "supply chains"
+    ]
+  }
+}

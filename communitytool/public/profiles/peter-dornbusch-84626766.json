@@ -1,0 +1,101 @@
+{
+  "id": "peter-dornbusch-84626766",
+  "name": "Peter Dornbusch",
+  "headline": "CEO",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/peter-dornbusch-84626766",
+  "personId": 1955,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Peter Dornbusch",
+  "ca": {
+    "alumni": true,
+    "about": null,
+    "responsibilities": [],
+    "researchFields": [],
+    "email": null
+  },
+  "summary": null,
+  "positions": [
+    {
+      "title": "CTO",
+      "company": "Summfit GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2016-01",
+      "end": null,
+      "dateRange": "Jan 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "CEO",
+      "company": "Fireflow GmbH",
+      "companyUrl": null,
+      "description": "München",
+      "location": null,
+      "start": "2003-05",
+      "end": null,
+      "dateRange": "May 2003 – Present",
+      "current": true
+    },
+    {
+      "title": "CTO",
+      "company": "Addcentive UG",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2013-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2013 – Dec 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2002 – 2005"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr. rer. nat., Informatik",
+      "dateRange": "2002 – 2005"
+    },
+    {
+      "school": "RWTH Aachen University",
+      "degree": "Diplom, Informatik",
+      "dateRange": "1996 – 2001"
+    }
+  ],
+  "skills": [
+    "Unternehmensstrategie",
+    "Strategisches Management",
+    "Start-ups",
+    "Unternehmensberatung",
+    "Unternehmertum",
+    "Produktmanagement",
+    "E-Commerce",
+    "Unternehmensführung",
+    "Mobile Geräte",
+    "Projektmanagement",
+    "Hybris",
+    "Android Entwicklung",
+    "iOS Entwicklung",
+    "Unity3D"
+  ],
+  "languages": [
+    "Englisch"
+  ],
+  "company": null
+}

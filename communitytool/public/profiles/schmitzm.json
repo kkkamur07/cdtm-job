@@ -1,0 +1,215 @@
+{
+  "id": "schmitzm",
+  "name": "Michael Schmitz",
+  "headline": "Alumnus TUM & ESB Reutlingen | MSc. Management & Technology",
+  "avatar": null,
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/schmitzm",
+  "personId": 1819,
+  "classes": [
+    {
+      "id": 49,
+      "label": "1998",
+      "season": null,
+      "year": 1998,
+      "location": 1
+    }
+  ],
+  "classLabel": "1998",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Michael Schmitz",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Interim Product Owner",
+      "company": "EMIL Group GmbH",
+      "companyUrl": "https://www.linkedin.com/company/emil-de",
+      "description": "- Leading a product team of 10 software engineers, UX designer & QA\n- Developing a P&C insurance policy management platform (B2B SaaS)",
+      "location": "Berlin, Germany",
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur In Residence",
+      "company": "EMIL Group GmbH",
+      "companyUrl": "https://www.linkedin.com/company/emil-de",
+      "description": "- Leading the business development team, responsible for Hubspot, Marketing and Website\n- Product discovery and MVP development of a Premium Benchmarking Tool",
+      "location": "Berlin Area, Germany",
+      "start": "2020-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Freelance Business Consultant",
+      "company": "Car Target Group",
+      "companyUrl": "https://www.linkedin.com/company/car-target-group",
+      "description": "- Strategy for building a car rental broker brand in Germany\n- BI analysis and optimization of existing booking channels",
+      "location": "Greater Hamburg Area",
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Ramp-Up Management",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "- Ramp-up management by use developing a KPI-based shop-floor board for final assembly\n- Piloting and testing for the BMW 3 Series in wire harness and pivot mounted assembly",
+      "location": "Munich Area, Germany",
+      "start": "2017-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2017 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "BI Product & Digital Analytics",
+      "company": "PAYBACK",
+      "companyUrl": "https://www.linkedin.com/company/payback-gmbh",
+      "description": "- Creating reports and dashboards for product & marketing management\n- Improve Adobe Analytics Data Quality in Data Lake & Data Warehouse",
+      "location": "Munich Area, Germany",
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Ideation of Dental Software Startup",
+      "company": "UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/unternehmertum",
+      "description": "- Product ideation & business plan creation for iPad-based dental software",
+      "location": "Munich, Bavaria",
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Productionsstrategy Plants Shenyang",
+      "company": "BMW Brilliance Automotive",
+      "companyUrl": "https://www.linkedin.com/company/bmw-brilliance-automotive",
+      "description": "- Preparation and follow-up of management workshops for head of Tiexi and Dadong plant\n- Steering of continuous improvement program for the logistics department",
+      "location": "Shenyang, China",
+      "start": "2015-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Yazaki North America",
+      "companyUrl": "https://www.linkedin.com/company/yazaki-north-america",
+      "description": "- Developing a successful business development strategy for the acquisition of new customers Volkswagen and Hyundai\n- Common part analysis of global products in instrument clusters and electronic boxes",
+      "location": null,
+      "start": "2012-01",
+      "end": "2012-12",
+      "dateRange": "Jan 2012 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Project Manager",
+      "company": "mabotic Robotics & Automation",
+      "companyUrl": null,
+      "description": "- Management and planning of projects for automating in the automotive production\n- Design and build of a laser protection hood for quality control in washing machines",
+      "location": "Leverkusen",
+      "start": "2012-01",
+      "end": "2012-12",
+      "dateRange": "Jan 2012 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Project Consultant",
+      "company": "Provincie Noord-Brabant",
+      "companyUrl": "https://www.linkedin.com/company/provincie-noord-brabant",
+      "description": "Researched possibilities of establishing a trade mission to Brazil:\n-\tIdentified most relevant sectors in Brazil for companies situated in North-Brabant\n-\tEstablished contacts with companies in relevant sectors in North-Brabant\n-\tConducted in-depth interviews in order to establish possible cooperation",
+      "location": "Noord-Brabant, The Netherlands",
+      "start": "2011-01",
+      "end": "2012-12",
+      "dateRange": "Jan 2011 – Dec 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (MSc), Management & Technology (TUM-WITEC)",
+      "dateRange": null
+    },
+    {
+      "school": "ESB Business School, Reutlingen University",
+      "degree": "Bachelor of Science (BSc), International Management Double Degree",
+      "dateRange": null
+    },
+    {
+      "school": "Landesspracheninstitut in der Ruhr-Universität Bochum (LSI)",
+      "degree": "2-month Intensive Chinese course at Germanys most renowned school",
+      "dateRange": null
+    },
+    {
+      "school": "Avans University of Applied Sciences",
+      "degree": "Bachelor of Business Administration (BBA), IBMS",
+      "dateRange": null
+    },
+    {
+      "school": "University of International Business and Economics",
+      "degree": "University of International Business and Economics, Semester Exchange",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Microsoft Word",
+    "Microsoft Excel",
+    "PowerPoint",
+    "SPSS",
+    "Teamwork",
+    "Automotive",
+    "New Business Development",
+    "Strategy",
+    "Business Planning",
+    "German",
+    "English",
+    "French",
+    "Chinese",
+    "Data Analysis",
+    "Recruiting",
+    "Analytics",
+    "Business Strategy",
+    "Business Development",
+    "Entrepreneurship",
+    "Presentation Skills"
+  ],
+  "languages": [
+    "Chinese",
+    "Dutch"
+  ],
+  "company": {
+    "name": "EMIL Group",
+    "tagline": "Cloudnative SaaS insurance technology to manage existing portfolios more efficiently and to quickly launch new products",
+    "description": "EMIL Insurance Suite: The cloudnative SaaS core system 🔷\n\nEMIL Group GmbH is an independent technology company based in Berlin, Germany. The modular EMIL Insurance Suite helps insurers and MGAs to cost-effectively manage existing portfolios and introduce new insurance products faster. The established cloud-native software enables intelligent innovations along the entire insurance value chain and guarantees complete independence from IT resources thanks to its no-code/low-code approach and high level of configuration options. The SaaS-based EMIL Insurance Suite software platform is used productively by numerous renowned insurers and MGAs to manage their P&C insurance portfolios.",
+    "industry": "Insurance",
+    "website": "https://emil.de",
+    "linkedInUrl": "https://www.linkedin.com/company/emil-de",
+    "employeeCount": 54,
+    "foundedYear": 2017,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Insurance",
+      "SaaS",
+      "Cloud",
+      "Core system",
+      "Core Insurance Platform",
+      "Insurance Technology"
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "id": "robertweindl",
+  "name": "Robert Weindl",
+  "headline": "Technical Leader | First-Principle Thinker | Efficiency & Impact Driven",
+  "avatar": {
+    "sm": "/avatars/robertweindl-sm.webp",
+    "lg": "/avatars/robertweindl.webp",
+    "blur": "data:image/webp;base64,UklGRjoBAABXRUJQVlA4IC4BAAAQBgCdASogACAAPtFYpUyoJSOiKA1RABoJbACdMoSCmdD1+fhod/GtD5mpB2T6Sxz12Sg9bdXgfzAA/oAmNxIPxC5+fzbWqzo4m+qN2Ucpikp7hGT24ZQ6qBaFxzbmQELmYAmxg0klWffuBevGM8D78WUzfPHFKygsQPG+YEl57vVQ+2SyubaKjbVirTLnX5KhyPIZkt3JmVvx7tljGPQEmnzTsfBLn4tO7ze9XdZBMO6l7N6IAFNcflA87nPTVpHGlN0LsfGhxOJFpWu8xNqxRZkJkph6mQycynNiwkzC1U49k1RVxLfhs1t3EXtLghOkqJ6RVcxiGdA0FY7UJKPEM2+iuZTc3rJcBkWMmjLdQnv1WNOSTujnrzkUJaYs3eimVWea7dYAfJm6g5gAAA=="
+  },
+  "location": "San Francisco Bay, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/robertweindl",
+  "personId": 1175,
+  "classes": [
+    {
+      "id": 74,
+      "label": "Fall 2013",
+      "season": "Fall",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2013",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Robert Weindl",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Director of Product Engineering",
+      "company": "Reality Defender",
+      "companyUrl": "https://www.linkedin.com/company/reality-defender",
+      "description": "Reality Defender detects deepfakes and AI-generated content for enterprises, platforms, and governments.",
+      "location": "New York, United States",
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Lead Software Engineer, Mobile (iOS)",
+      "company": "Geneva",
+      "companyUrl": "https://www.linkedin.com/company/genevatechnologies",
+      "description": "Geneva is an all-in-one communication app for groups, clubs, and communities. Chat, post, hangout, livestream, plan, and more — it’s everything your group needs to stay connected, all in one place.\n\n• Architected and developed core components of the native iOS application, such as business layer, authentication, messaging, audio, video and broadcasting, discovery and wallet connection.\n\n• Developed micro services in NodeJS and Go.\n\n• Developed and led the bi-weekly mobile release process.\n\n• Leveraged modern technologies such as Swift, SwiftUI, Combine, and Catalyst to achieve uncompromising native performance at 60fps on all target platforms.\n\n• Interviewed, recruited, and scaled the team. Retained every hire long-term. \n• Designed highly optimized CI/CD pipeline.\n\n• Helped porting the React based web application to an electron application.\n\n• Designed and implemented Geneva’s bug bounty program.",
+      "location": "New York, United States",
+      "start": "2019-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2019 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Senior Lead Software Engineer, Full Stack and Mobile (iOS)",
+      "company": "Originate",
+      "companyUrl": "https://www.linkedin.com/company/originate",
+      "description": "Originate partners with large enterprises to build revolutionary new products and re-imagine legacy systems, and with high growth and high performance startups to help them accelerate their vision and create competitive advantage. Originate's model includes bolstering innovation labs, embedding agile teams in partner companies to drive rapid change from within, and designing and developing products from concept to launch.\n\n• Tech-lead for a team of mobile engineers developing the first ever unified National Geographic experience across web and mobile.\n\n• Acted as Staff Software Engineer and enhanced Fair’s iOS car purchasing experience by implementing major parts of the car selection and checkout process.\n\n• Implemented the dashboard, analytics, and billing functionalities for Deutsche Börse (German Stock Exchange) Digital Business Platform, exposing detailed information for customers of the exchange's APIs.\n\n• Led the release of Johnson & Johnson’s OneTouch Reveal iOS and Android app and helped over 4 million people take a step forward in their diabetes management.\n\n• Worked as Staff Software Engineer for The Knot and implemented The Knot’s wedding registry and created new revenue streams in their 5 star iOS application.\n\n• Built Chief’s community website and member identification cards system.\n\n• Worked as Staff Full Stack Software Engineer for Cricket Media and built their platform to allow children to communicate with pen pals in a safe and supervised way.\n\n• …and many more.",
+      "location": "San Francisco, California, United States",
+      "start": "2016-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2016 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Co-Founder | CTO",
+      "company": "sinus",
+      "companyUrl": "https://www.linkedin.com/company/sinus-technologies",
+      "description": "• Founded a software engineering consultancy to help large cooperations like Siemens AG or Baxalta and Shire plc (now Takeda Pharmaceutical Company Limited) to expedite the development of innovative software products.\n\n• Applied technical expertise and industry knowledge to provide solutions and ongoing support to clients.\n\n• Assisted startups like Miss Pompadour to expedite the launch of their first products.",
+      "location": "Munich Area, Germany",
+      "start": "2015-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2015 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Head of Engineering",
+      "company": "KONUX GmbH",
+      "companyUrl": "https://www.linkedin.com/company/konux",
+      "description": "KONUX is a Munich based sensor company which developed and patented a new optical measurement principle based on a mechanical-electrical converter. \n\n• Initial development of early software prototypes and printed circuit boards.\n\n• Market analysis and business development. \n\n• Fundraising and pitch competitions:\n⠀⠀• 1st Place in the EIT ICT Labs Idea Challenge 2014\n⠀⠀• Winner $100K Challenge Founder.org\n⠀⠀• 1st Place Munich Business Plan Competition - Stage 1\n⠀⠀• 2nd Place at the Munich Business Plan Competition - Stage 2",
+      "location": "Munich Area, Germany",
+      "start": "2014-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2014 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "• Teaching Assistant at Apple's Authorized Training Centre Education at Technical University of Munich.  \n\n• Teaching graduate students Objective-C, Swift, agile software development methods, release management and the software development life cycle.\n\n• Worked with the students on applications for real customers to deepen their acquired skills.",
+      "location": null,
+      "start": "2013-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2013 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Quartett mobile",
+      "companyUrl": "https://www.linkedin.com/company/quartett-mobile",
+      "description": "Founded as a subsidiary of the Audi Electronics Venture GmbH in 2011, Quartett focuses on providing software engineering services for mobile platforms in the automotive industry.\n\n• Developed the Audi Connect (now: myAudi) application, which integrated all car services ranging from remote car unlocking to media streaming, address book management, and Google Maps incorporation.\n\n• Developed Audi music stream to stream music and radio channels over the vehicle's wireless network.\n\n• Worked on \"Audi Garage Parking Pilot\" which was presented at CES 2013 - a piloted driving solution for parking maneuvers in parking garages.\n\n• Engineered native iOS & Android apps integrating with Audi Piloted Parking, enabling the autonomous system to safely navigate by means of a low-latency remote shutoff switch.\n\nProfessional mobile application development for Audi Electronics Venture. Projects I worked on include the Audi MMI Connect application, Audi music stream, Audi Pilot Parking and Audi Garage Parking Pilot.",
+      "location": "Munich Area, Germany",
+      "start": "2012-01",
+      "end": "2013-12",
+      "dateRange": "Jan 2012 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Audi Electronics Venture GmbH",
+      "companyUrl": "https://www.linkedin.com/company/audi-electronics-venture-gmbh",
+      "description": "• Authored innovative user interface patterns and interaction mechanics for touch screens in cars.\n\n• Developed aspects of the head-unit for Audi’s F12 R8 e-Performance electric prototypee, providing real-time access to the vehicles diagnostics, media, and performance subsystems. \n\n• Funded by the German Federal Ministry for Education and Research to the extent of 23M EUR.",
+      "location": "Munich Area, Germany",
+      "start": "2011-01",
+      "end": "2013-12",
+      "dateRange": "Jan 2011 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "• Teaching assistant in discrete structures - a compulsory subject for computer science students at the Technical University of Munich. \n\n• Helped hundreds of students to develop a deep understanding in combinatorics, graph theory, algebra, statistics and probably theory.\n\n• Repeated lecture material and guided through exercises.",
+      "location": "Munich Area, Germany",
+      "start": "2011-01",
+      "end": "2012-12",
+      "dateRange": "Jan 2011 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "• Civilian service and employee in the radiology and angiology department of the Ludwig Maximilian University of Munich.\n\n• Implemented an interdisciplinary patient administration and documentation system for the radiology, angiology, cardiology and vascular surgery department.\n\n• Implemented an internal issue tracking and management system to quickly report and resolve clinic intern issues.\n\n• Implemented several software programs to assist scientific research. \n\n• Assisted in the system administration for multiple departments of the university hospital.",
+      "location": "Munich Area, Germany",
+      "start": "2009-01",
+      "end": "2010-12",
+      "dateRange": "Jan 2009 – Dec 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Computer Science",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Computer Science",
+      "dateRange": "2011 – 2014"
+    }
+  ],
+  "skills": [
+    "Technical Leadership",
+    "Software Engineering",
+    "Software Development",
+    "Swift",
+    "Objective-C",
+    "iOS Development",
+    "iOS",
+    "Go (Programming Language)",
+    "Node.js",
+    "React.js",
+    "JavaScript",
+    "TypeScript",
+    "GraphQL",
+    "Kubernetes",
+    "Docker",
+    "Amazon Web Services (AWS)",
+    "Full-Stack Development",
+    "Software Development Life Cycle (SDLC)",
+    "SQL",
+    "University Teaching"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Reality Defender",
+    "tagline": "Award-Winning Deepfake Detection and Protection",
+    "description": "Stop deepfakes before they become a problem with Reality Defender’s proactive AI-generated media detection platform.\n\nDetect dangerous AI-generated and manipulated content across audio, video, images, and text with our enterprise-grade API and web app.\n\nSign up for free developer access at https://www.realitydefender.com/api\n\nAwards:\n2025 - Gartner: Recognized as Market Leader in Deepfake Detection\n2025 - JPMorgan: Inducted into Hall of Innovation\n2025 - World Economic Forum: Named Technology Pioneer\n2025 - USA DIU + Japan MOD: 1st Place \"Global Innovation Challenge\"\n2024 - RSA Conference: 1st Place “Most Innovative Startup”\n2024 - SINET16 Innovator Award\n2023 - SXSW 1st Place \"Artificial Intelligence, Voice, & Robotics Technologies\"",
+    "industry": "Computer and Network Security",
+    "website": "https://realitydefender.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/reality-defender",
+    "employeeCount": 82,
+    "foundedYear": 2021,
+    "location": "New York, United States",
+    "specialities": [
+      "Deepfake Detection",
+      "Generative AI",
+      "GenAI",
+      "Cybersecurity",
+      "Deepfake Fraud",
+      "Agentic Voice Fraud",
+      "Deepfake Audio Fraud",
+      "KYC Fraud",
+      "IDV Fraud"
+    ]
+  }
+}

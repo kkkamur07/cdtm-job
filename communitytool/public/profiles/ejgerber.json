@@ -1,0 +1,197 @@
+{
+  "id": "ejgerber",
+  "name": "Emanuel Gerber",
+  "headline": "Computer Science Student at Technical University Munich",
+  "avatar": {
+    "sm": "/avatars/ejgerber-sm.webp",
+    "lg": "/avatars/ejgerber.webp",
+    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAABQBgCdASogACAAPtFYqE2oJKQiKAqpABoJYgCdMoM2ViAZxus5NozR02c9N9ypD+3ajHbJsnYJfRwXAAD+/Xp7mWOjTmT/MX9MXohJOIohMBwsHgr1X/csQziqP8dvN+VyV/AmtCrDWQHGP9r9N0mUQ8XSFGnnFZEQkd/4fajsadWWDp/fk9a+U7Mn1vVpSmpnLD/CZnOhrpuHSRlgrJuqOhjcrRFp8qKSynio/wA14AECZ4MkNdufNzrJArLG7pScBgO5qV2CJ5r0ocJreUezlFh0uE6saXjZjmolWDHzmPCKjaXCYjyAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/ejgerber",
+  "personId": 1047,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Emanuel Gerber",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Trend Research & Product Development",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "- Conducted Trend Research and User Interviews about digital innovations for supermarkets\n- Developed a mobile Scan&Go Application for scanning grocery items and performing self-checkout on the phone",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-08",
+      "end": "2022-01",
+      "dateRange": "Aug 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "WeDaVinci",
+      "companyUrl": "https://www.linkedin.com/company/wedavinci",
+      "description": "- Developed a new AI tool for automatically clustering large volumes of text documents and visualizing them in an interactive user interface\n- Optimized and maintained the cloud server infrastructure",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-02",
+      "end": "2022-02",
+      "dateRange": "Feb 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Full Stack Engineer",
+      "company": "KINEXON",
+      "companyUrl": "https://www.linkedin.com/company/kinexon",
+      "description": "My main responsibilities were the development of new user features for the Kinexon Analytics Web App in both the Frontend and the Backend.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-08",
+      "end": "2019-10",
+      "dateRange": "Aug 2018 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Technical Research Assistant",
+      "company": "University of Tuebingen",
+      "companyUrl": "https://www.linkedin.com/company/eberhard-karls-universit-t-t-bingen",
+      "description": "Designed and Implemented web-based applications for gathering and processing experimental data (Department of Social Psychology)",
+      "location": "Tuebingen",
+      "start": "2017-12",
+      "end": "2018-01",
+      "dateRange": "Dec 2017 – Jan 2018",
+      "current": false
+    },
+    {
+      "title": "Fullstack Developer",
+      "company": "Knappschaftskrankenhaus Sulzbach",
+      "companyUrl": "https://www.linkedin.com/company/knappschaftskrankenhaus-sulzbach",
+      "description": "Implemented an in-house application for creating work schedules within different hospital departments.",
+      "location": "Sulzbach",
+      "start": "2016-05",
+      "end": "2016-06",
+      "dateRange": "May 2016 – Jun 2016",
+      "current": false
+    },
+    {
+      "title": "Technical Research Assistant",
+      "company": "Eberhard Karls Universität Tübingen",
+      "companyUrl": "https://www.linkedin.com/company/eberhard-karls-universit-t-t-bingen",
+      "description": null,
+      "location": "Greater Tubingen Area",
+      "start": "2015-02",
+      "end": "2015-07",
+      "dateRange": "Feb 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Fullstack Developer",
+      "company": "Knappschaftskrankenhaus Sulzbach",
+      "companyUrl": "https://www.linkedin.com/company/knappschaftskrankenhaus-sulzbach",
+      "description": "Developed a web-based application for realtime Operating Room Management",
+      "location": "Sulzbach",
+      "start": "2014-05",
+      "end": "2014-07",
+      "dateRange": "May 2014 – Jul 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "TUM Entrepreneurial Masterclass",
+      "degree": null,
+      "dateRange": "2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Computer Science",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "University of Tübingen",
+      "degree": "Bachelor of Science (B.Sc.), Computer Science",
+      "dateRange": "2017"
+    },
+    {
+      "school": "University of Tübingen",
+      "degree": "Bachelor of Science (B.Sc.), Cognitive Science",
+      "dateRange": "2013 – 2017"
+    },
+    {
+      "school": "California State University, Chico",
+      "degree": "Bachelor of Science (B.Sc.), Computer Science",
+      "dateRange": "2015 – 2016"
+    }
+  ],
+  "skills": [
+    "Data Analysis",
+    "Angular",
+    "MongoDB",
+    "PHP",
+    "JavaScript",
+    "Natural Language Processing (NLP)",
+    "spaCy",
+    "Python (Programming Language)",
+    "Pandas (Software)",
+    "Mean Stack",
+    "React Native",
+    "TypeScript",
+    "Design Thinking",
+    "AngularJS",
+    "Node.js",
+    "Amazon Web Services (AWS)",
+    "MySQL",
+    "Software Development",
+    "Matlab",
+    "Science",
+    "Mathematica",
+    "LaTeX"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "company": {
+    "name": "WeDaVinci",
+    "tagline": "Collaborate and Co-create - with AI.\nThe collaboration platform for Human-AI content generation for media companies.",
+    "description": "We provide a SaaS platform for Human-AI co-creation of content, software development and standalone software setups, as well as consulting in the field of AI, data and innovation.",
+    "industry": "Software Development",
+    "website": "https://www.wedavinci.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/wedavinci",
+    "employeeCount": 1,
+    "foundedYear": 2018,
+    "location": "München, Germany",
+    "specialities": [
+      "Collaboration Software",
+      "Innovation Management",
+      "Natural Language Processing",
+      "Operational Efficiency",
+      "Engagement",
+      "Knowledge Sharing",
+      "Consulting",
+      "AI",
+      "Content Creation"
+    ]
+  }
+}

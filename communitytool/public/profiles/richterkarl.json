@@ -1,0 +1,150 @@
+{
+  "id": "richterkarl",
+  "name": "Karl Richter",
+  "headline": "CTO @ Langdock",
+  "avatar": {
+    "sm": "/avatars/richterkarl-sm.webp",
+    "lg": "/avatars/richterkarl.webp",
+    "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAACQBQCdASogACAAPsVSoEunpKMht/VYAPAYiUAW2TGBZVZ5higSz+XcCXuB8NGwhdnV53GQkAD+/Htn2YqP8l3Iv2JwEQbl9FRdo8BE11ig9a3dCc25f3Z22gO0E5OVvuXy4ynGV/WsoAMb4XwaZPnvMoLP9GFVoH6XIf+qu4FhF5jkN3ys6fRlB4HDfWy8H3Pm48jv5qRDHL2+4Y6+V6CBxTbH6q6IGU2n/3a67VHSlEoqRbFRQ3M668HgrTx4iNJALyTjZ1EmrZlS8lNChst3L14TJsjeAAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/richterkarl",
+  "personId": 851,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "MSc in Information Systems (TUM)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Karl Richter",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "CTO",
+      "company": "Langdock (YC S23)",
+      "companyUrl": "https://www.linkedin.com/company/langdock",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-05",
+      "end": null,
+      "dateRange": "May 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "Mercedes-Benz AG",
+      "companyUrl": "https://www.linkedin.com/company/mercedes-benz_ag",
+      "description": "Lead the development and rollout of a recommender system on vehicle data with a small team of machine learning and data engineers.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-02",
+      "end": "2022-01",
+      "dateRange": "Feb 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "WILM&CO",
+      "companyUrl": "https://www.linkedin.com/company/wilm-co",
+      "description": "Build web- and data platforms for fast-growing startups in Berlin.",
+      "location": "Berlin Metropolitan Area",
+      "start": "2017-06",
+      "end": "2021-12",
+      "dateRange": "Jun 2017 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Data Engineering",
+      "company": "Mercedes-Benz AG",
+      "companyUrl": "https://www.linkedin.com/company/mercedes-benz_ag",
+      "description": "Build large-scale data pipelines using PySpark to transform and analyze vehicle data collected from millions of vehicles around the world (i.a. Car Data Cockpit, Vehicle Data Feature Store).",
+      "location": "Stuttgart Area, Germany",
+      "start": "2016-07",
+      "end": "2021-03",
+      "dateRange": "Jul 2016 – Mar 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "M. Sc., Information Systems",
+      "dateRange": null
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Research",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours degree, Technology Management",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Koalas",
+    "Scrum",
+    "MLflow",
+    "Scikit-Learn",
+    "Apache Spark Streaming",
+    "Python (Programming Language)",
+    "Scala",
+    "Microsoft Azure",
+    "Databricks",
+    "Python",
+    "Apache Spark",
+    "Azure Databricks",
+    "Projektmanagement",
+    "Strategie",
+    "PySpark",
+    "Apache Airflow",
+    "Azure Data Factory",
+    "Google BigQuery",
+    "SQL",
+    "Teamwork",
+    "Azure DevOps",
+    "Git",
+    "Jupyter",
+    "Data Engineering",
+    "Amazon Redshift",
+    "Azure Data Lake"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "company": {
+    "name": "Langdock",
+    "tagline": "The Platform for AI Adoption",
+    "description": "Langdock enables you to roll out AI across your entire organization in a safe and flexible way.",
+    "industry": "Software Development",
+    "website": "https://langdock.com",
+    "linkedInUrl": "https://www.linkedin.com/company/langdock",
+    "employeeCount": 43,
+    "foundedYear": 2023,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Large Language Models",
+      "Chat Interfaces",
+      "Agents",
+      "Assistants",
+      "Team Collaboration",
+      "Prompting"
+    ]
+  }
+}

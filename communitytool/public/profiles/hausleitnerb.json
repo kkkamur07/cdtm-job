@@ -1,0 +1,230 @@
+{
+  "id": "hausleitnerb",
+  "name": "Bernhard Hausleitner",
+  "headline": "CEO @ Soff (ex-Tesla) | AI for U.S. Distributors & Manufacturers",
+  "avatar": {
+    "sm": "/avatars/hausleitnerb-sm.webp",
+    "lg": "/avatars/hausleitnerb.webp",
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAACwBQCdASogACAAPs1QokunpKMht/VYAPAZiWMAzFmLYSq7EVYbmTIc33KlcKY0zZTVYl/yHAAA/v0tdv28r6sbn3Hvc/4G9VGWItO19DiAuHDjoifnaOaeM47ZBL3aU2NrcRwlLM2PLakiB/gUxmfTabFcVftWI0isFnNzEFNW+SaUxDCvUzv9i7Ue1HK2B+6qXrrtMEe9K46Kb4QE8Y/2yfrzMmvtajyscAEmRBmMYzv0FOD4fRSi/41Pbm0kpLmtsdEZtppaJwLrDSlxCh4S+jfyIZbx2VQ7AAAA"
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/hausleitnerb",
+  "personId": 1066,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Bernhard Hausleitner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder & CEO",
+      "company": "Soff",
+      "companyUrl": "https://www.linkedin.com/company/soff-ai",
+      "description": "Manufacturing AI Startup founded by ex-Apple, Tesla and Stanford technologists and backed by Y Combinator. \n\nWorking on helping made in USA commodity companies increase revenue by leveraging AI and tech.",
+      "location": null,
+      "start": "2024-05",
+      "end": null,
+      "dateRange": "May 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Full Stack Software Engineer, AI Tooling",
+      "company": "Tesla",
+      "companyUrl": "https://www.linkedin.com/company/tesla-motors",
+      "description": null,
+      "location": null,
+      "start": "2023-04",
+      "end": "2024-05",
+      "dateRange": "Apr 2023 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Full Stack Software Engineer, Autopilot",
+      "company": "Tesla",
+      "companyUrl": "https://www.linkedin.com/company/tesla-motors",
+      "description": null,
+      "location": null,
+      "start": "2022-10",
+      "end": "2023-04",
+      "dateRange": "Oct 2022 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "AI Researcher",
+      "company": "Stanford University School of Engineering",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university-school-of-engineering",
+      "description": null,
+      "location": null,
+      "start": "2021-08",
+      "end": "2022-06",
+      "dateRange": "Aug 2021 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Full Stack Software Engineer",
+      "company": "Kyte",
+      "companyUrl": "https://www.linkedin.com/company/drivekyte",
+      "description": null,
+      "location": null,
+      "start": "2020-09",
+      "end": "2021-04",
+      "dateRange": "Sep 2020 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineering (Motorsports)",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2018-07",
+      "end": "2019-03",
+      "dateRange": "Jul 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineering (Autonomous Driving)",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-09",
+      "dateRange": "Jan 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Software Engineering (Pre-Series Prototyping)",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2017-01",
+      "end": "2017-03",
+      "dateRange": "Jan 2017 – Mar 2017",
+      "current": false
+    },
+    {
+      "title": "Software Engineering (Electric Mobility)",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2016-06",
+      "end": "2016-09",
+      "dateRange": "Jun 2016 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "AI Research Scientist",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2015-09",
+      "end": "2020-07",
+      "dateRange": "Sep 2015 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Car Mechanic",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2012-09",
+      "end": "2015-08",
+      "dateRange": "Sep 2012 – Aug 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "STVP - Technology and Ventures",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Y Combinator",
+      "degree": "Batch S 24",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science, Electrical Engineering and Computer Science",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology and Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Hochschule Esslingen - University of Applied Sciences",
+      "degree": "Bachelor of Engineering, Electrical Engineering and Mechatronics",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "The University of Alabama",
+      "degree": "Exchange Semester, Electrical and Electronics Engineering",
+      "dateRange": "2017 – 2018"
+    }
+  ],
+  "skills": [
+    "PostgreSQL",
+    "JavaScript",
+    "C++",
+    "Python (Programming Language)",
+    "Flask",
+    "React Native",
+    "Customer Service",
+    "Docker",
+    "Data Science",
+    "Machine Learning",
+    "Automotive",
+    "jQuery",
+    "Automotive Repair",
+    "React.js",
+    "Computer Vision",
+    "Matlab",
+    "Robot Operating System (ROS)",
+    "React",
+    "TensorFlow",
+    "Simulink",
+    "Computer Architecture",
+    "LabVIEW",
+    "Node",
+    "MIPS Assembly",
+    "Grok"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Soff",
+    "tagline": "Automated quotes. More wins. Soff helps U.S. manufacturers grow revenue effortlessly.",
+    "description": "Unify supply chain data and automate core workflows.",
+    "industry": "Software Development",
+    "website": "https://www.soff.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/soff-ai",
+    "employeeCount": 9,
+    "foundedYear": null,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

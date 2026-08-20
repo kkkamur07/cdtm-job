@@ -1,0 +1,146 @@
+{
+  "id": "nathan-joshua-kraft",
+  "name": "Joshua Kraft",
+  "headline": "AI Engineer | CDTM | TUM.ai | Studienstiftung",
+  "avatar": {
+    "sm": "/avatars/nathan-joshua-kraft-sm.webp",
+    "lg": "/avatars/nathan-joshua-kraft.webp",
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACQBQCdASogACAAPrVInEunJCKht+gA4BaJZAC7INBgvla356HdYDOkhCk/CYKVTk96WDJQAAD+78hToDHNOZBb8oBnz7Py/pajdeI7M/N1ua5iBEm3wwpdLtfw9lIsf35ejy0aG5XUYTKZgTtaXxEYTORQxapJOJTvqb3lTZ9r1N4jstYGSqGkC8xXToaTiyyWXLC4cuEEjlKj3QjgE6BMBErbvjlUmnsNkWsxSMN7ZtRXDYX1vGh0uc3Ol36/qgJ/iAAA"
+  },
+  "location": "Heidelberg, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/nathan-joshua-kraft",
+  "personId": 2092,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Data Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Joshua Kraft",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "AI Engineer",
+      "company": "Superscale AI",
+      "companyUrl": "https://www.linkedin.com/company/superscale-ai",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2025-07",
+      "end": "2025-12",
+      "dateRange": "Jul 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Sr. Founder's Associate",
+      "company": "Aleph Alpha",
+      "companyUrl": "https://www.linkedin.com/company/aleph-alpha",
+      "description": null,
+      "location": "Heidelberg, Baden-Württemberg, Deutschland",
+      "start": "2024-06",
+      "end": "2025-02",
+      "dateRange": "Jun 2024 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Founder's Associate",
+      "company": "Aleph Alpha",
+      "companyUrl": "https://www.linkedin.com/company/aleph-alpha",
+      "description": null,
+      "location": "Heidelberg, Baden-Württemberg, Deutschland",
+      "start": "2023-06",
+      "end": "2024-05",
+      "dateRange": "Jun 2023 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Founder's Associate",
+      "company": "DataGuard",
+      "companyUrl": "https://www.linkedin.com/company/dataguard1",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-02",
+      "end": "2022-06",
+      "dateRange": "Feb 2022 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "AI/ML Engineer",
+      "company": "TalentBait",
+      "companyUrl": "https://www.linkedin.com/company/talentbait",
+      "description": null,
+      "location": "Hamburg, Deutschland",
+      "start": "2021-03",
+      "end": "2021-08",
+      "dateRange": "Mar 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Strategy Consulting",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2017-01",
+      "end": "2017-02",
+      "dateRange": "Jan 2017 – Feb 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., Data Engineering and Analytics",
+      "dateRange": null
+    },
+    {
+      "school": "Heidelberg University",
+      "degree": "B.Sc., Data and Computer Science",
+      "dateRange": "2018 – 2023"
+    },
+    {
+      "school": "Landesgymnasium für Hochbegabte Schwäbisch Gmünd",
+      "degree": "Abitur",
+      "dateRange": "2017"
+    }
+  ],
+  "skills": [
+    "Python (Programmiersprache)",
+    "Cloud Computing",
+    "Problem Solving",
+    "Machine Learning",
+    "Data Science",
+    "Python (Programming Language)"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Superscale AI",
+    "tagline": "Meet your specialized AI agent for scaling social marketing.",
+    "description": "Superscale AI",
+    "industry": "Marketing Services",
+    "website": "https://superscale.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/superscale-ai",
+    "employeeCount": 19,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

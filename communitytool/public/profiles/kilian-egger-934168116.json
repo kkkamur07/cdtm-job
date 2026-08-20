@@ -1,0 +1,242 @@
+{
+  "id": "kilian-egger-934168116",
+  "name": "Kilian Egger",
+  "headline": "Business Development @Entrix 🔋",
+  "avatar": {
+    "sm": "/avatars/kilian-egger-934168116-sm.webp",
+    "lg": "/avatars/kilian-egger-934168116.webp",
+    "blur": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAAAwBQCdASogACAAPsVQo0unpKMhsAwA8BiJQBjPj23+Ds0TW9W4LB3S+GR6vHWu46hbWAD+/Hsq6AGF2CdsjxyK49nfKxzrjCn1qHEdxbL5AvjsdrleC5lbngl6uh0A11S4uBE6EoAHXxDr2iV+CQRSfkK3sQXEJs2qaOJNTBX13G3cgO1CNnr2DB3hE1ZpWD1bDMs7dYVGCVRvKZ5CgoJNfqaXyOnXbZeL7lVM+bv5ORz7ANZ815r8A3LcKgAA"
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/kilian-egger-934168116",
+  "personId": 834,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Kilian Egger",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Business Development Manager",
+      "company": "Entrix",
+      "companyUrl": "https://www.linkedin.com/company/entrixenergy",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Manager Corporate Strategy",
+      "company": "Stadtwerke München GmbH",
+      "companyUrl": "https://www.linkedin.com/company/swm-gmbh",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-10",
+      "end": "2025-12",
+      "dateRange": "Oct 2023 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "enersa",
+      "companyUrl": "https://www.linkedin.com/company/econvio",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-10",
+      "end": "2023-10",
+      "dateRange": "Oct 2022 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-04",
+      "end": "2022-09",
+      "dateRange": "Apr 2021 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Digital Transformation Analyst",
+      "company": "Investa Holding GmbH",
+      "companyUrl": "https://www.linkedin.com/company/investa-holding-gmbh",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2020-09",
+      "end": "2020-12",
+      "dateRange": "Sep 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Visiting Research Student",
+      "company": "MIT Sloan School of Management",
+      "companyUrl": "https://www.linkedin.com/company/mit-sloan-school-of-management",
+      "description": null,
+      "location": "Metropolregion Boston",
+      "start": "2019-08",
+      "end": "2020-02",
+      "dateRange": "Aug 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Capgemini Invent",
+      "companyUrl": "https://www.linkedin.com/company/capgemini-invent",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-01",
+      "end": "2018-04",
+      "dateRange": "Jan 2018 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Research Assistant - Institute of Strategic Management",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2017-02",
+      "end": "2019-02",
+      "dateRange": "Feb 2017 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "TalentRocket GmbH",
+      "companyUrl": "https://www.linkedin.com/company/talentrocket-gmbh",
+      "description": null,
+      "location": "München",
+      "start": "2016-11",
+      "end": "2017-06",
+      "dateRange": "Nov 2016 – Jun 2017",
+      "current": false
+    },
+    {
+      "title": "Intern - R&D Controlling",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-09",
+      "end": "2016-02",
+      "dateRange": "Sep 2015 – Feb 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Semester Abroad, Management and Technology",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Business Administration",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "ESSEC Business School",
+      "degree": "Semester Abroad, Business Administration",
+      "dateRange": "2017"
+    }
+  ],
+  "skills": [
+    "Microsoft Office",
+    "English",
+    "Deutsch",
+    "Marktanalyse",
+    "Marketing-Management",
+    "Geschäftsentwicklung",
+    "Statistische Datenanalyse",
+    "Projektmanagement",
+    "Maschinelles Lernen",
+    "Deep Learning",
+    "Data Science",
+    "Strategie",
+    "Microsoft Excel",
+    "Stata",
+    "SPSS",
+    "Python",
+    "Microsoft PowerPoint",
+    "TensorFlow",
+    "Keras",
+    "Docker-Produkte"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Entrix",
+    "tagline": "Beyond Trading",
+    "description": "Beyond Trading\nWe are an energy trader and market leader for trading flexible energy systems in Europe.\nBeyond AI-powered trading, Entrix provides innovative solutions for long-term revenue security and grid-supportive battery operation. With our full-service package, we support customers throughout every project phase – from technical design and integration, to continuous optimization, all the way to 24/7 operational support. That includes adapting to changing market conditions and unlocking new revenue opportunities.\n\nWith more than 3 GW and 8.5 GWh as well as 70 battery storage assets under contract, Entrix is active in Germany, Poland, Italy, Spain, and Portugal, with offices in Munich, Warsaw, Milan, and Madrid. Entrix has been pioneering battery optimization in Germany by managing one of the country’s first large-scale storage projects – and is now the trusted partner of leading infrastructure players such as Encavis, MEAG (Munich Re), as well as a wide range of local utilities.​",
+    "industry": "Services for Renewable Energy",
+    "website": "https://www.entrixenergy.com",
+    "linkedInUrl": "https://www.linkedin.com/company/entrixenergy",
+    "employeeCount": 144,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Energy Storage",
+      "Battery Energy Storage System",
+      "Green Energy",
+      "Renewables",
+      "Battery Storage",
+      "Power Trading",
+      "Energy Transition",
+      "Energy Management",
+      "Asset Management",
+      "Erneuerbare Energien",
+      "Climate Tech",
+      "Batteriespeicher",
+      "Batteriespeichersystem",
+      "Energiewende",
+      "Grüne Energie",
+      "Energiespeicher",
+      "Energy",
+      "Energie",
+      "Battery",
+      "Artificial Intelligence",
+      "Künstliche Intelligenz",
+      "Technology",
+      "Technologie",
+      "Algorithms",
+      "Energy Trading",
+      "Energiehandel",
+      "Smart Energy",
+      "Optimization Platform",
+      "Trading Platform",
+      "Energy Network",
+      "Virtual Power Plants",
+      "Virtuelle Kraftwerke",
+      "Batteriegroßspeicher",
+      "Grid-Scale Battery Storage"
+    ]
+  }
+}

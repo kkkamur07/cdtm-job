@@ -1,0 +1,134 @@
+{
+  "id": "oliver-trinchera-843b3691",
+  "name": "Oliver Trinchera",
+  "headline": "Co-Founder & CEO at KINEXON | Automated Operations",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/oliver-trinchera-843b3691",
+  "personId": 1499,
+  "classes": [
+    {
+      "id": 58,
+      "label": "Fall 2005",
+      "season": "Fall",
+      "year": 2005,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2005",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Oliver Trinchera",
+  "ca": null,
+  "summary": "Entrepreneur. Co-Founder and Managing Director at KINEXON. We provide real-time intelligence & value for a connected world.",
+  "positions": [
+    {
+      "title": "Managing Director",
+      "company": "KINEXON",
+      "companyUrl": "https://www.linkedin.com/company/kinexon",
+      "description": null,
+      "location": "Munich",
+      "start": "2012-01",
+      "end": null,
+      "dateRange": "Jan 2012 – Present",
+      "current": true
+    },
+    {
+      "title": "PHD Student / Research Assistant",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Munich",
+      "start": "2008-01",
+      "end": "2012-12",
+      "dateRange": "Jan 2008 – Dec 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diploma, Business Administration in combination with Electrical Engineering",
+      "dateRange": "2003 – 2008"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2005 – 2007"
+    }
+  ],
+  "skills": [
+    "Unternehmensstrategie",
+    "Projektmanagement",
+    "Unternehmertum",
+    "Strategisches Management",
+    "Unternehmensführung",
+    "Business Development",
+    "Start-ups",
+    "Forschung",
+    "Produktmanagement",
+    "Matlab",
+    "Project Management",
+    "Business Strategy",
+    "Entrepreneurship"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "KINEXON",
+    "tagline": "The leading AI-powered IoT platform for manufacturing and logistics, seamlessly connecting and automating operations.",
+    "description": "KINEXON provides the leading AI-powered IoT platform for businesses to connect and automate operations.  \n\nAs global technology leader in indoor location services KINEXON's real-time locating system and AMR & AGV fleet management offer solutions across automotive, manufacturing, and aerospace sectors to achieve real-time visibility and traceability of moving assets, along with actionable insights to drive automation. \n\nLeading customers such as BMW, SIEMENS, Airbus, Continental, or MTU Aero Engines utilize KINEXON's solutions to digitize and orchestrate physical processes, thereby enhancing efficiency, productivity, and quality while preparing for AI-supported operations. \n\nAs an official SAP Endorsed App partner, KINEXON enables seamless synchronization and integration with SAP systems, empowering end-to-end operations and Physical AI execution. \n\nHeadquartered in Munich, Germany, with another office in Chicago, USA, over 250 employees drive innovation in the IoT landscape. For more information, visit www.kinexon.com.",
+    "industry": "Technology, Information and Internet",
+    "website": "http://www.kinexon.com",
+    "linkedInUrl": "https://www.linkedin.com/company/kinexon",
+    "employeeCount": 218,
+    "foundedYear": 2012,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Indoor Localization",
+      "Industry 4.0",
+      "Smart Factory",
+      "Internet of Things",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Analytics",
+      "UWB",
+      "IIoT",
+      "industrial automation",
+      "automation",
+      "RTLS",
+      "location-based automation",
+      "location technology",
+      "supply chain",
+      "localization",
+      "IoT",
+      "Digital Transformation",
+      "location-based process automation",
+      "AI",
+      "AMR",
+      "AGV",
+      "Fleet Management",
+      "VDA 5050",
+      "Mobile Robots",
+      "Operating System Platform",
+      "Manufacturing",
+      "Logistics",
+      "SAP Endorsed App",
+      "SAP",
+      "Intralogistics",
+      "Physical AI",
+      "IPS",
+      "Autonomous Operations",
+      "Lights-Out Operations"
+    ]
+  }
+}

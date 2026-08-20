@@ -1,0 +1,223 @@
+{
+  "id": "yarhy-flores",
+  "name": "Yarhy Flores",
+  "headline": "Harvard | CDTM | TUM",
+  "avatar": null,
+  "location": "Cambridge, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/yarhy-flores",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "I’m a driven individual with a high level of intellectual curiosity, applying technology to solve complex problems.\nOriginally from Honduras, I completed an honors degree in Technology Management in Munich and am currently researching at the Laboratory for Innovation Science at Harvard. My journey has taken me through academic and professional experiences in Switzerland, Singapore, Germany, and the United States. I’m fluent in Spanish, English, and German.",
+  "positions": [
+    {
+      "title": "Visiting Researcher",
+      "company": "Harvard University",
+      "companyUrl": "https://www.linkedin.com/company/harvard-university",
+      "description": "Digital Data Design Lab | Human-AI Collaboration",
+      "location": "Vereinigte Staaten von Amerika",
+      "start": "2025-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "Predium",
+      "companyUrl": "https://www.linkedin.com/company/predium-technology",
+      "description": "Fighting climate change by reducing building emissions, while learning first-hand how to build a successful company.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-05",
+      "end": "2024-12",
+      "dateRange": "May 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Strategy Consultant",
+      "company": "Parkdepot",
+      "companyUrl": "https://www.linkedin.com/company/wemolo",
+      "description": "Researched and suggested ways to scale ops",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-04",
+      "end": "2023-07",
+      "dateRange": "Apr 2023 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Econos | Product",
+      "company": "Pelion Green Future",
+      "companyUrl": "https://www.linkedin.com/company/peliongreenfuture",
+      "description": "Econos (portfolio company of Pelion Green Future) is a FinTech platform that provided private investors with access to green investment opportunities in the private capital market (e.g. forests, renewable energies, and climate tech venture capital) using blockchain technology.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-09",
+      "end": "2022-12",
+      "dateRange": "Sep 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Stealth Startup",
+      "companyUrl": "https://www.linkedin.com/company/stealth-startup-community",
+      "description": "🔨 building\nWinner of USD 30k& NUS enterprise (VIP) Grant",
+      "location": "Singapore, Singapore",
+      "start": "2022-04",
+      "end": "2022-09",
+      "dateRange": "Apr 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Tazapay",
+      "companyUrl": "https://www.linkedin.com/company/tazapay",
+      "description": "Backed by Sequoia and Saison Capital",
+      "location": "Singapore",
+      "start": "2022-01",
+      "end": "2022-06",
+      "dateRange": "Jan 2022 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Intelligent Automation & Process Mining",
+      "company": "CGI",
+      "companyUrl": "https://www.linkedin.com/company/cgi",
+      "description": "Optimized processes with UiPath & Celonis",
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-08",
+      "end": "2021-12",
+      "dateRange": "Aug 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Statistics & Statistical Programming with R | Tutor",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "🤓",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2021-07",
+      "dateRange": "Apr 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Investment Analyst | Project Student",
+      "company": "BonVenture",
+      "companyUrl": "https://www.linkedin.com/company/bonventure",
+      "description": "Digital Health Vertical",
+      "location": "Metropolregion München",
+      "start": "2020-09",
+      "end": "2020-12",
+      "dateRange": "Sep 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Refyl",
+      "companyUrl": "https://www.linkedin.com/company/refyl",
+      "description": "Concerned about the situation our environment is going through, I started Refyl with two other students looking to achieve a reduction in the use of plastic in the cosmetic industry. Working on Refyl made me research and immerse myself in the plastic and cosmetics industry. \nI was in charge of the Business Development of Refyl which ranges from building and updating the Business Model Canvas and Value Proposition Canvas to doing Stakeholder Analysis, Competitive Analysis and the Customer Journey Map.\n\nThe learnings I acquired from the process were very valuable.",
+      "location": "Munich, Bavaria",
+      "start": "2019-09",
+      "end": "2020-03",
+      "dateRange": "Sep 2019 – Mar 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Visiting Fellow",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Visiting Student, NUS Overseas Colleges & NUS Business School",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science and Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Computer Engineering and Management",
+      "dateRange": null
+    },
+    {
+      "school": "NUS Overseas Colleges",
+      "degree": "NOC Singapore",
+      "dateRange": null
+    },
+    {
+      "school": "Studienkolleg München bei den Universitäten des Freistaates Bayern",
+      "degree": "Hochschulzugangsberechtigung",
+      "dateRange": null
+    },
+    {
+      "school": "AFS Intercultural Programs Switzerland",
+      "degree": "Exchange Year",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Public Speaking",
+    "Leadership",
+    "Microsoft PowerPoint",
+    "Microsoft Office",
+    "Design Thinking",
+    "Microsoft Excel",
+    "Microsoft Word",
+    "UiPath",
+    "Social Entrepreneurship",
+    "R",
+    "SQL",
+    "Englisch",
+    "Spanisch",
+    "Deutsch",
+    "Unternehmertum",
+    "Interkulturelle Teamarbeit",
+    "Interkulturelle Kommunikation",
+    "Ideenentwicklung",
+    "Business Development",
+    "Customer Journeys"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Harvard University",
+    "tagline": null,
+    "description": "Harvard University is devoted to excellence in teaching, learning, and research, and to developing leaders in many disciplines who make a difference globally. Founded in 1636, Harvard is the oldest institution of higher learning in the United States.\n\nThe official flagship Harvard social media channels are maintained by Harvard Public Affairs and Communications and aim to provide access to the people, places, events, news and research at our Institution. We ask that all visitors to Harvard’s digital spaces be civil to one another and to the site editors. Personal attacks, profanity, commercial solicitations, spam, misinformation or other inappropriate contributions are grounds for comment removal. We ask that you stay on topic when contributing to a discussion and refrain from duplicate posts.\n\nHateful or discriminatory comments regarding race, ethnicity, religion, gender, disability, sexual orientation, or political beliefs will not be tolerated. The page administrators reserve the right to delete inappropriate or abusive comments and to permanently ban or block users from the Harvard social media accounts.",
+    "industry": "Higher Education",
+    "website": "http://harvard.edu",
+    "linkedInUrl": "https://www.linkedin.com/company/harvard-university",
+    "employeeCount": 34744,
+    "foundedYear": null,
+    "location": "Cambridge, United States",
+    "specialities": [
+      "Education",
+      "Research",
+      "Business",
+      "Medicine",
+      "Law",
+      "Engineering",
+      "Design",
+      "Science",
+      "Arts and Humanities"
+    ]
+  }
+}

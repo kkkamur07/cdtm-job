@@ -1,0 +1,193 @@
+{
+  "id": "dr-ing-veronika-gamper-7aa406116",
+  "name": "Dr.-Ing. Veronika Gamper",
+  "headline": "CEO and Founder, Ex-BCG, NLP and Generative AI Nerd, Management Consultant",
+  "avatar": null,
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-ing-veronika-gamper-7aa406116",
+  "personId": 1949,
+  "classes": [
+    {
+      "id": 57,
+      "label": "Spring 2005",
+      "season": "Spring",
+      "year": 2005,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2005",
+  "major": null,
+  "roles": [
+    "student",
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Veronika Gamper",
+  "ca": {
+    "alumni": true,
+    "about": null,
+    "responsibilities": [],
+    "researchFields": [],
+    "email": null
+  },
+  "summary": null,
+  "positions": [
+    {
+      "title": "University lecturer",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2023-04",
+      "end": null,
+      "dateRange": "Apr 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Consultant (Freelance)",
+      "company": null,
+      "companyUrl": null,
+      "description": "Consulting & Interim Management in the field of digital products, data science, strategy, innovation.",
+      "location": null,
+      "start": "2019-11",
+      "end": null,
+      "dateRange": "Nov 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "CEO",
+      "company": "WeDaVinci",
+      "companyUrl": "https://www.linkedin.com/company/wedavinci",
+      "description": "WeDaVinci is an AI-based content generation platform for media companies: From automatic research, outlines to articles, podcast scripts - and soon video trailers.",
+      "location": null,
+      "start": "2018-09",
+      "end": null,
+      "dateRange": "Sep 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of B2C Data Products, then Director, (Interim)",
+      "company": "RTL Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/rtl-deutschland",
+      "description": "I conceptualized several machine-learning based data products (a.o. Recommender Systems, Computer-Vision based and NLP-based metadata generation, Smart Search, an editorial tool for teaser image generation), recruited and guided the Data Product Owners for seven teams, was responsible for the structuring and cross-linking of the topics, the steering of topics, budgets and resources, the management of stakeholders, as well as for the delivery of the data products for a new streaming product.",
+      "location": null,
+      "start": "2021-03",
+      "end": "2022-12",
+      "dateRange": "Mar 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Member of the management team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Research: Creativity Support, CSCW, Gamification, Behavior Change/Motivational Design;\n\nManagement: Managing an interdisciplinary study program for selected students, close collaboration with industry partners (among others Audi, BMW, Siemens, T-Labs).\nMain topics are innovation, product development and entrepreneurship.\n\nCourses (selection): \nTrend Seminar: Trend research, scenario planning, ideation of business concepts, business modeling; Design Thinking",
+      "location": null,
+      "start": "2012-11",
+      "end": "2017-09",
+      "dateRange": "Nov 2012 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "Management Consultant, Associate, then promoted to Consultant, focus on strategy projects and projects in the media industry",
+      "location": null,
+      "start": "2007-05",
+      "end": "2010-09",
+      "dateRange": "May 2007 – Sep 2010",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "J.P. Morgan",
+      "companyUrl": "https://www.linkedin.com/company/jpmorgan",
+      "description": "Internship in the Advisory department / M&A, analysis and valuation of companies",
+      "location": null,
+      "start": "2006-09",
+      "end": "2006-12",
+      "dateRange": "Sep 2006 – Dec 2006",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": "Development of a methodology for brand valuation",
+      "location": null,
+      "start": "2006-08",
+      "end": "2006-09",
+      "dateRange": "Aug 2006 – Sep 2006",
+      "current": false
+    },
+    {
+      "title": "Project Study",
+      "company": "A.T. Kearney and Technical University Munich",
+      "companyUrl": null,
+      "description": "Development of a tool for generating ideas for innovative pricing / innovative products",
+      "location": null,
+      "start": "2006-04",
+      "end": "2006-05",
+      "dateRange": "Apr 2006 – May 2006",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr.-Ing.",
+      "dateRange": "2013 – 2019"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student Researcher",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Masterclass – Atelier Ludwigsburg-Paris",
+      "degree": "Masterclass",
+      "dateRange": "2009 – 2010"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Technology Management",
+      "dateRange": "2005 – 2006"
+    },
+    {
+      "school": "Illinois Institute of Technology",
+      "degree": "Computer Science",
+      "dateRange": "2003 – 2004"
+    },
+    {
+      "school": "Technical University Vienna, Austria",
+      "degree": "Master (Dipl.Ing.), Informatics",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Data Science",
+    "Entrepreneurship",
+    "Innovation",
+    "Digitale strategie",
+    "Strategie",
+    "Natural Language Processing (NLP)",
+    "Produktmanagement",
+    "Technology Management",
+    "Digital Technology",
+    "Künstliche Intelligenz (KI)",
+    "Generative KI",
+    "Digitale Strategie"
+  ],
+  "languages": [
+    "Französisch",
+    "Deutsch",
+    "Spanisch",
+    "Englisch",
+    "Italienisch"
+  ],
+  "company": null
+}

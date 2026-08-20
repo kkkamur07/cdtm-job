@@ -1,0 +1,154 @@
+{
+  "id": "estebanvprado",
+  "name": "Esteban V. Prado",
+  "headline": "🚀 🥷 | TU Munich | UC Berkeley | CDTM",
+  "avatar": {
+    "sm": "/avatars/estebanvprado-sm.webp",
+    "lg": "/avatars/estebanvprado.webp",
+    "blur": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAACwBQCdASogACAAPs1YoEunpaMhsBgMAPAZiWMAUwBb5JDyXsO4oWpbjdD6P17Itpvqb7ckHFAA/vYIa62Xi9rV/vxW7TYmOF6rDz67GCREX+ZMRxOa8kUCDc7ODQgNLgKfaHV4bAPywW8pVBKFGuvApVzRO3kTZJtobcXJC7d+xQYosMHaYMLbFHUKSwiQF51PdGrB4/jQXKwAwmVaJm+3/NPaqdtWOoKJHaUzFtxOt+azIR0EcPAkC+5TCWdGDrvxVzCL2KZI+N+mzutUmADkWsQAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/estebanvprado",
+  "personId": 1090,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "B.Sc. in Electrical and Computer Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Esteban V. Prado",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Software Engineer - Data and AI Team",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Assistant - Quantum Computing and Information Processing",
+      "company": "Walther-Meissner-Institute (WMI)",
+      "companyUrl": "https://www.linkedin.com/company/wmibadw",
+      "description": null,
+      "location": "Munich",
+      "start": "2022-12",
+      "end": "2023-09",
+      "dateRange": "Dec 2022 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Research Assistant - Chair of Experimental Physics of Functional Spin Systems",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2021-03",
+      "end": "2022-12",
+      "dateRange": "Mar 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Hardware Engineer - Optic Sensors R&D",
+      "company": "fos4X (acquired by Polytech A/S)",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2021-01",
+      "dateRange": "Jan 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineer - Embedded Systems",
+      "company": "fos4X (acquired by Polytech A/S)",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2018-08",
+      "end": "2020-01",
+      "dateRange": "Aug 2018 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Research Assistant - Institute for Drive Systems and Power Electronics",
+      "company": "Leibniz Universität Hannover",
+      "companyUrl": "https://www.linkedin.com/company/leibniz-universit-t-hannover-germany",
+      "description": null,
+      "location": null,
+      "start": "2016-09",
+      "end": "2017-08",
+      "dateRange": "Sep 2016 – Aug 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, Physics",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science, Physics",
+      "dateRange": "2021 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science, Electrical and Computer Engineering",
+      "dateRange": "2017 – 2021"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "UVC Partners",
+    "tagline": "We partner with Europe's most ambitious B2B tech startups.",
+    "description": "UVC Partners is a Munich- and Berlin-based early-stage venture capital firm investing in European B2B startups in the fields of Deep Tech, Climate Tech, Enterprise Software and Mobility.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://www.uvcpartners.com",
+    "linkedInUrl": "https://www.linkedin.com/company/uvc-partners",
+    "employeeCount": 72,
+    "foundedYear": 2011,
+    "location": "Garching (Munich), Germany",
+    "specialities": [
+      "Venture Capital",
+      "Early Stage",
+      "Internet",
+      "Software",
+      "Mobility",
+      "B2B",
+      "SaaS",
+      "Industry 4.0",
+      "Manufacturing Technologies",
+      "Hardware",
+      "Enterprise Software",
+      "Deep Tech",
+      "Climate Tech",
+      "Mobility"
+    ]
+  }
+}

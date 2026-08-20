@@ -1,0 +1,226 @@
+{
+  "id": "muneebdotahmed",
+  "name": "Muneeb Ahmed",
+  "headline": "coordinating agents @ modern relay",
+  "avatar": {
+    "sm": "/avatars/muneebdotahmed-sm.webp",
+    "lg": "/avatars/muneebdotahmed.webp",
+    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAACQBQCdASogACAAPsFMn0unpCKht/qoAPAYCWQABRAe5DvvBCmcr8/+95uAHaEoE7b6QgFKQAD+/SyLvG/mP33fArDSXMVf9uYsYvfUWX1vNqJIwnNCDSPyJAmGsO9rxiszmti2TnBPlGds1oS7w2QG93nhghS4+bZI2Op55ivnAzfcsdqLj9vlRa4CwJU76fzIW3H0KxjYdQpnAFyHAM/7V+ZCKv9PdDLZ/m4gHQYM/1OWrsbz5QiDud+VcFQl9WNQbAop52pfzcbS3WFNLGPWotpWlc52hXDqBtjXKGJHN+9zRRiV9lLav0Kr+Pvb4AA="
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/muneebdotahmed",
+  "personId": 1286,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Muneeb Ahmed",
+  "ca": null,
+  "summary": "i design and ship things\n\nmore on https://muneeb.fyi",
+  "positions": [
+    {
+      "title": "Member of Technical Staff",
+      "company": "Modern Relay",
+      "companyUrl": "https://www.linkedin.com/company/modern-relay",
+      "description": null,
+      "location": "San Francisco, CA",
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Scientist, AI",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Professorship of Societal Computing - https://tumthinktank.de/person/muneeb-ahmed/",
+      "location": null,
+      "start": "2025-01",
+      "end": "2026-04",
+      "dateRange": "Jan 2025 – Apr 2026",
+      "current": false
+    },
+    {
+      "title": "Head of Product & Design",
+      "company": "neunzigzehn",
+      "companyUrl": "https://www.linkedin.com/company/neunzigzehn",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": "2026-04",
+      "dateRange": "Jan 2025 – Apr 2026",
+      "current": false
+    },
+    {
+      "title": "Program Manager",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Founding Product Manager, AI",
+      "company": "Beam",
+      "companyUrl": "https://www.linkedin.com/company/beam-ai",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2022 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Product & Design Lead",
+      "company": "Beam",
+      "companyUrl": "https://www.linkedin.com/company/beam-ai",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2022 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Product Manager, Financial Planning",
+      "company": "Pectus Finance",
+      "companyUrl": "https://www.linkedin.com/company/pectus-finance",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant — Introduction to Computer Science",
+      "company": "TUM School of Management",
+      "companyUrl": "https://www.linkedin.com/company/tum-school-of-management",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Product Manager, Retail Investing",
+      "company": "finenso",
+      "companyUrl": "https://www.linkedin.com/company/finenso",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Product Manager, AI & Digital Transformation",
+      "company": "Allianz",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Working Student — Product Design & Development",
+      "company": "Allianz",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2019 – Dec 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, School of Information",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": "Visiting Student — Tsinghua-Berkeley Shenzhen Institute (TBSI), Data Science & Information Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science — BS, Management & Computer Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science — MS, Management & Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science — MS, Politics & Technology",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Artificial Intelligence (AI)",
+    "Chatbot Development",
+    "Entrepreneurship",
+    "Product Design",
+    "Business Development",
+    "Project Management",
+    "Product Development",
+    "Business Administration",
+    "Marketing",
+    "Data Analysis",
+    "R",
+    "Python (Programming Language)",
+    "Java",
+    "Teamwork",
+    "Fundraising",
+    "Figma (Software)",
+    "Product Management",
+    "User Experience Design (UED)"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Modern Relay",
+    "tagline": "The context graph for enterprise AI",
+    "description": "Modern Relay is the shared foundation for enterprise AI. \n\nOur context graph unifies organizational knowledge, coordinates agents, and governs change on infrastructure the customer owns.  \n\nCreators of Omnigraph, the Git-style graph database built for a world where agents are first-class operators.",
+    "industry": "Software Development",
+    "website": "https://modernrelay.com",
+    "linkedInUrl": "https://www.linkedin.com/company/eqtrai",
+    "employeeCount": 7,
+    "foundedYear": 2025,
+    "location": "New York, United States",
+    "specialities": []
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "id": "martin-patz",
+  "name": "Martin Patz",
+  "headline": "Accelerating fermentation R&D and scale-up | TUM | CDTM",
+  "avatar": {
+    "sm": "/avatars/martin-patz-sm.webp",
+    "lg": "/avatars/martin-patz.webp",
+    "blur": "data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAABwBgCdASogACAAPtFcp04oJSOiKAqpABoJaACdMoAl0SNdepUmNNkeOkJVEhLEI9DCfA60OiQYuO5YF4AA/jfksqkEcTpEqb4RhqnlOivhNvZXKajKZ5PS4riSwly/YCs/IDBnivrJ5vgn4KdvVFpr33TLw6lDk5zz8/5FDY8t6iv05y2KmM1AwGIr3ZHk329szf8cR+qpg8EkvnBBoymDyc/cTdwqhJ0X0YGwVVHXDAb5pPXcufFy0rwKaPA27OFngd62ZKR0wyEz1NK3nEDzfGtx1sXsjOmIRxtKGPmj3Mx7cNXJ3WvnzTjP7DrbMDMqYxKFvj+ycqszxuzTH1r8FDBnsMCzlEJ969LgAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/martin-patz",
+  "personId": 817,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Martin Patz",
+  "ca": null,
+  "summary": "If you want to connect, please 🙏 leave a message 😁.",
+  "positions": [
+    {
+      "title": "Co-Founder and Chief Technology Officer",
+      "company": "Differential Bio",
+      "companyUrl": "https://www.linkedin.com/company/differential-bio",
+      "description": "We are building the Virtual Scale-up Platform for bioprocess optimization.\n\nOur goal is to provide the digital infrastructure for industrial biomanufacturing. By integrating scale-down experiments with robotic lab automation and computational modeling, we optimize how microbes grow and produce—boosting yield, cutting costs, and accelerating R&D. From biomass to precision fermentation, we’re making biology predictable, programmable, and production-ready. We are Differential.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Carbon13 Berlin Cohort 1 Founder",
+      "company": "Carbon13",
+      "companyUrl": "https://www.linkedin.com/company/carbon13",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-06",
+      "end": "2024-01",
+      "dateRange": "Jun 2023 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Director neural compiler & AI SDK",
+      "company": "Recogni",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": "Founding member and team lead of the neural compiler and AI SDK team. I built this team from 0 to 12 and lead it until leaving the company.\nThis team is also a key connecting element within Recogni. We gain an intricate understanding of our customers' needs and derive actionable design goals from them. At the core, our responsibility is to convert vanilla, float precision, unconstrained neural networks to work on Recogni's highly efficient and powerful chip. The task performance is maintained despite strong model compression and the use of low precision number formats.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-12",
+      "end": "2023-05",
+      "dateRange": "Dec 2021 – May 2023",
+      "current": false
+    },
+    {
+      "title": "AI Engineer | Founding member",
+      "company": "Recogni",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": "With the AI Co-Founder built the Munich team to ~35 in headcount (50% of the company).\nInitiator of the first internal high-level deep learning framework and major contributor to numerical compression and conversion.\nCulture builder: hiring and on-boarding process, then strong emphasis on team building and continuous improvement.",
+      "location": "Munich Area, Germany",
+      "start": "2018-04",
+      "end": "2021-12",
+      "dateRange": "Apr 2018 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "AI Researcher",
+      "company": "NavVis",
+      "companyUrl": "https://www.linkedin.com/company/navvis",
+      "description": "Working on the topic of \"Content-based Image Retrieval for Indoor Scenes using (Deep) Metric Learning\" as part of my master's thesis. Results improved query retrieval accuracy by 50-80%.",
+      "location": "Munich Area, Germany",
+      "start": "2017-05",
+      "end": "2018-02",
+      "dateRange": "May 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Robotics Researcher",
+      "company": "KUKA Systems GmbH",
+      "companyUrl": "https://www.linkedin.com/company/kukaglobal",
+      "description": "as part of my bachelor's thesis with the title: \"Task-Oriented Path Optimization of a Redundant Manipulator in the context of Human Robot Interaction\"​",
+      "location": "Augsburg und Umgebung, Deutschland",
+      "start": "2013-10",
+      "end": "2014-03",
+      "dateRange": "Oct 2013 – Mar 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc. TUM), Elektro- und Informationstechnik",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Technology Management",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Electrical, Electronics and Communications Engineering",
+      "dateRange": "2011 – 2014"
+    }
+  ],
+  "skills": [
+    "Path Planning",
+    "Computer Science",
+    "Convolutional Neural Networks (CNN)",
+    "Software Development",
+    "Team Management",
+    "Coaching",
+    "Artificial Intelligence (AI)",
+    "Deep Learning",
+    "TensorFlow",
+    "Python",
+    "Machine Learning",
+    "Data Analysis",
+    "Optimization",
+    "Robotics",
+    "Analysis",
+    "Project Planning",
+    "Project Management",
+    "Analytical Skills",
+    "Computer Vision",
+    "Matlab"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Differential Bio",
+    "tagline": "Virtual Scale-up Platform for Bioprocess Optimization",
+    "description": "Differential Bio is integrating scale-down experiments with AI-based modeling to optimize how industry-relevant microbes grow (\"biomass fermentation\") and produce (\"precision fermentation\"). By optimizing bioprocesses and growth conditions, the company is not only increasing their clients' R&D efficiency but alsodramatically improving bioproduction outcomes such as yield, cost efficiency, and product quality.",
+    "industry": "Biotechnology Research",
+    "website": "https://www.differential.bio/",
+    "linkedInUrl": "https://www.linkedin.com/company/differential-bio",
+    "employeeCount": 18,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Bioprocess Optimization",
+      "Biomanufacturing Scale-up"
+    ]
+  }
+}

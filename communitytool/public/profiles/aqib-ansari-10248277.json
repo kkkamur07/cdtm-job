@@ -1,0 +1,199 @@
+{
+  "id": "aqib-ansari-10248277",
+  "name": "Aqib Ansari",
+  "headline": "Co-Founder & CAIO @Beam AI I Building AI Native Orgs with AI Agents",
+  "avatar": {
+    "sm": "/avatars/aqib-ansari-10248277-sm.webp",
+    "lg": "/avatars/aqib-ansari-10248277.webp",
+    "blur": "data:image/webp;base64,UklGRhABAABXRUJQVlA4IAQBAAAQBgCdASogACAAPsVUoEunpKMhsAwA8BiJYwDBzYt/LTg1iZdBcYa/8FeiBqzoQSpCBQU0wIF7BLgA/v6UneneqG2Wf022FmHjz5nN+cRt/8ewag8d+KX7/RkPCOLFapqdJaAfLbL4pjivhAmJCjn5wi84KhahRgf5VVwCZ2r6CbXq3EE79ljMPhFKnXX5mWlEszOQBPl3XzKl+xIveJb1yfMyY+aBrBMSk9xq+Gvs0sABelP7Xcrv/yQOud7A1KH//TYzM1NFHtcXkwS83LrDuyCg2scE0k/jH01BlzdRlzkEL7etL2FVRzLfS0NdHsXa5y4ZYL4t9w0ZV9LgePZt2Y+AAA=="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/aqib-ansari-10248277",
+  "personId": 858,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Aqib Ansari",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "CAIO & Co-founder",
+      "company": "Beam AI",
+      "companyUrl": "https://www.linkedin.com/company/beam-ai",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "CTO & Co-Founder",
+      "company": "Beam AI",
+      "companyUrl": "https://www.linkedin.com/company/beam-ai",
+      "description": "Beam helps organizations boost productivity and reduce costs by automating repetitive workflows in seconds. AI Agents are easy to setup, seamlessly integrate with existing tools, and support teams where they need them most.",
+      "location": "Berlin, Germany",
+      "start": "2022-10",
+      "end": "2025-10",
+      "dateRange": "Oct 2022 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "AI & Fullstack Development",
+      "company": "Alive Health",
+      "companyUrl": null,
+      "description": "Developed and led the deployment of a Conversational AI Chatbot leveraging NLP that provides personalized health insights, improving user engagement and proactive risk management",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-12",
+      "end": "2022-04",
+      "dateRange": "Dec 2020 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "CTO & Co-Founder",
+      "company": "Keotix",
+      "companyUrl": "https://www.linkedin.com/company/keotix",
+      "description": "Created an adaptive learning platform using image classification and sentiment analysis to personalize educational content, increasing learning efficiency and engagement.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-09",
+      "end": "2021-08",
+      "dateRange": "Sep 2020 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Fullstack Development",
+      "company": "Ebenbuild",
+      "companyUrl": "https://www.linkedin.com/company/ebenbuild",
+      "description": "Built a cloud-based medical visualization platform using React and AWS Amplify, to visualize pulmonary disease patterns using medical imaging data.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-06",
+      "end": "2020-12",
+      "dateRange": "Jun 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "AI Engineer",
+      "company": "3D Systems Corporation",
+      "companyUrl": "https://www.linkedin.com/company/3d-systems",
+      "description": "Designed an AI-powered defect detection system for 3D printing, achieving up to 80% cost and time savings in production.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-07",
+      "end": "2020-05",
+      "dateRange": "Jul 2019 – May 2020",
+      "current": false
+    },
+    {
+      "title": "AI Engineer",
+      "company": "Hofmann & Stirner Zuführsysteme GmbH",
+      "companyUrl": "https://www.linkedin.com/company/hofmann-stirner-zuführsysteme-gmbh",
+      "description": "Developed predictive maintenance models and automated tooling for feeding machinery, minimizing downtime and enhancing operational throughput.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-10",
+      "end": "2019-05",
+      "dateRange": "Oct 2018 – May 2019",
+      "current": false
+    },
+    {
+      "title": "AI Engineer",
+      "company": "Institut für Textiltechnik der RWTH Aachen University",
+      "companyUrl": "https://www.linkedin.com/company/textiltechnikaachen",
+      "description": "Developed FCNN-based regression algorithms to enable textile machines to adapt to various fabric types autonomously.",
+      "location": "Kreisfreie Stadt Aachen Area, Germany",
+      "start": "2018-06",
+      "end": "2018-09",
+      "dateRange": "Jun 2018 – Sep 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technological Management",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Masters in Robotics, Cognition and Intelligence",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "RWTH Aachen University",
+      "degree": "Bachelors in Mechanical Engineering",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "Nixor College, Pakistan",
+      "degree": "A Levels, Pre-Engineering",
+      "dateRange": "2012 – 2014"
+    }
+  ],
+  "skills": [
+    "Full-Stack Development",
+    "Product Management",
+    "Artificial Intelligence (AI)",
+    "Front-End Development",
+    "Rapid Prototyping",
+    "UX/UI Design",
+    "Deep Learning",
+    "Machine Learning",
+    "React.js",
+    "Python (Programming Language)",
+    "TensorFlow",
+    "PyTorch",
+    "Keras",
+    "Firebase",
+    "Node.js",
+    "Google Cloud Platform (GCP)",
+    "Amazon Web Services (AWS)",
+    "Git",
+    "Back-End Web Development",
+    "TypeScript",
+    "Semantic Segmentation",
+    "Object Detection",
+    "JavaScript",
+    "Cascading Style Sheets (CSS)",
+    "HTML5",
+    "User Interface Design",
+    "User Experience (UX)"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Urdu"
+  ],
+  "company": {
+    "name": "Beam AI",
+    "tagline": "Self-Learning AI Agents to Automate Your Operations",
+    "description": "AI agents that actually work in your business. While others struggle to get agents into production, Beam AI delivers reliable automation for Fortune 500 companies and scale-ups. Automate finance, HR, and operations workflows that reduce operational costs and scale your team's impact.",
+    "industry": "Software Development",
+    "website": "https://beam.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/beam-ai",
+    "employeeCount": 61,
+    "foundedYear": 2023,
+    "location": "New York, United States",
+    "specialities": [
+      "Artificial Intelligence",
+      "AI Agents",
+      "Agentic AI",
+      "Agentic Automation",
+      "Enterprise AI"
+    ]
+  }
+}

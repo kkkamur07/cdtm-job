@@ -1,0 +1,277 @@
+{
+  "id": "malte-wilhelm",
+  "name": "Malte Wilhelm",
+  "headline": "☁️ Everything cloud related | ex-VMware | CDTM | LMU",
+  "avatar": {
+    "sm": "/avatars/malte-wilhelm-sm.webp",
+    "lg": "/avatars/malte-wilhelm.webp",
+    "blur": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAADQBQCdASogACAAPr1OnkunJKKht/qoAOAXiWUAy79fw8fffve6YZg9aimfHLwJCoj+qgLZLuQAAP7+rEWa6hiJJjxJAPHguKIXL9S/5ktVmTSqEEH2D2NFbYTdZiVBd5BJVMN8moUcm4DGU04VTSGRHBPHMLQMdT5vXiTGR4xbhjEIXP7bjVO0ww4jTvLvNSBBW6sCExqmjntsSTPEJ08fqB05hLdBRa1D/iL7Pda5ouea8B7+KAAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/malte-wilhelm",
+  "personId": 1109,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Malte Wilhelm",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "IT Consultant",
+      "company": "ITQ",
+      "companyUrl": "https://www.linkedin.com/company/itq",
+      "description": null,
+      "location": null,
+      "start": "2025-05",
+      "end": null,
+      "dateRange": "May 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate Consultant SDDC",
+      "company": "VMware",
+      "companyUrl": "https://www.linkedin.com/company/vmware",
+      "description": "- Leadership of a two-person automation team (external senior consultants), using agile and traditional methodologies\n- Executed VMware consulting solutions efficiently, including vSphere, vCenter, NSX, vCloud Director, vSAN, and the Aria suite\n- Developed monitoring for IPTV infrastructure, ensuring uninterrupted service and customer satisfaction during UEFA Euro 2024 championship",
+      "location": null,
+      "start": "2023-07",
+      "end": "2024-08",
+      "dateRange": "Jul 2023 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Technical Consultant Graduate",
+      "company": "VMware",
+      "companyUrl": "https://www.linkedin.com/company/vmware",
+      "description": "- Exceeded expectations by performing at Senior Consultant level, mastering complex topics quickly\n- Excelled in diverse, international team collaboration, consistently exceeding client expectations with tailored solutions\n- Demonstrated innovative thinking, continually improving efficiency and quality in all projects/products\n- Managed high-pressure escalation events, effectively communicating with upper management and stakeholders",
+      "location": null,
+      "start": "2022-07",
+      "end": "2023-07",
+      "dateRange": "Jul 2022 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "Orbem",
+      "companyUrl": "https://www.linkedin.com/company/orbem-ai",
+      "description": "Together with Orbem we sought out new applications for their innovative MRI technology. We conducted various expert interviews across Europe along the entire agricultural value chain. Out of these insights, we developed a product vision and an accompanying business case. In the end, we presented Orbem with a functional prototype and an elaborated product vision, including all outcomes of the product development lifecycle.\n\nThis work experience was enabled through Managing Product Development (MPD), a project-based course (12 weeks) at the Center for Digital Technology and Management. CDTM students focus on designing and developing new products and services including problem analyses, understanding customer needs and prototyping innovative products and services.",
+      "location": null,
+      "start": "2021-04",
+      "end": "2021-07",
+      "dateRange": "Apr 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Trend Research",
+      "company": "BSH Hausgeräte AG",
+      "companyUrl": "https://www.linkedin.com/company/bsh-schweiz",
+      "description": "Created a comprehensive trend report on the future of smart living in collaboration with 25 fellow students, industry experts, and academic researchers. The trend report includes a holistic overview of current trends and future scenarios, as well as ideas for future-proof digital business models.",
+      "location": null,
+      "start": "2021-02",
+      "end": "2021-04",
+      "dateRange": "Feb 2021 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Working Student Software Development",
+      "company": "ChargeX",
+      "companyUrl": "https://www.linkedin.com/company/charge-x",
+      "description": "- Part of the software team for modular charging solutions in the field of electromobility (automotive)\n- Responsible for automation processes and optimization of workflows (efficiency increase by 800% in production)\n- Prototype development with microcontrollers and reverse engineering of enterprise software\n- Tech-Stack and Methodology: Python, MicroPython, SQLAlchemy, PostgreSQL, Test Driven Development",
+      "location": null,
+      "start": "2020-11",
+      "end": "2022-02",
+      "dateRange": "Nov 2020 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Bachelor's Degree Candidate",
+      "company": "fortiss",
+      "companyUrl": "https://www.linkedin.com/company/fortiss",
+      "description": "- Thesis topic ”An Implementations of TSN Centralized Management Based on YANG Models”\n- Setup of a testbed in the field of Industry 4.0 with an innovative TSN switch by InnoRoute\n- Grade Bachelor Thesis: 1.56",
+      "location": null,
+      "start": "2019-10",
+      "end": "2020-03",
+      "dateRange": "Oct 2019 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Guest lecturer",
+      "company": "Hochschule für Fernsehen und Film München (HFF München)",
+      "companyUrl": "https://www.linkedin.com/company/university-of-television-and-film-munich-germany",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-01",
+      "dateRange": "Jan 2018 – Jan 2018",
+      "current": false
+    },
+    {
+      "title": "Project manager",
+      "company": "Seriencamp GmbH",
+      "companyUrl": "https://www.linkedin.com/company/seriencamp",
+      "description": "Responsible for maintaining relationships with partner festivals and content acquisition for the web series category.",
+      "location": null,
+      "start": "2017-08",
+      "end": "2017-10",
+      "dateRange": "Aug 2017 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "VFX-Artist",
+      "company": "südlich-t",
+      "companyUrl": "https://www.linkedin.com/company/südlicht-gmbh",
+      "description": "- 3D-Animation and Compositing\n- Tools: Autodesk Maya, Black Magic Fusion, Adobe Suite",
+      "location": null,
+      "start": "2015-04",
+      "end": "2015-09",
+      "dateRange": "Apr 2015 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Freelance Video Editor",
+      "company": "Ton-Medientechnik Wilhelm",
+      "companyUrl": null,
+      "description": "- Video editing of cooperate films and commercials\n- Vision mixer on live productions for various international corporations and festivals, including Philips, Heidelberger Frühling, Dresden MusicFestival, International Documentary Film Festival Munich",
+      "location": null,
+      "start": "2014-05",
+      "end": "2022-02",
+      "dateRange": "May 2014 – Feb 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "University of Lapland",
+      "degree": "Master's thesis at the Lapland Robotics Project, Computer Science",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Lapland University of Applied Sciences",
+      "degree": "Master's thesis at the Lapland Robotics Project, Computer Science",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Informatik",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Leiden University",
+      "degree": "Auslandssemester via Erasmus+ (Frühling 2020), Informatik",
+      "dateRange": "2020"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Informatik",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Arts - MA, Film- und Medienkulturforschung",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Macromedia University of Applied Sciences",
+      "degree": "Bachelor of Arts - BA, Film und Fernsehen - Vertiefungsrichtung Postproduktion",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Kāpiti College",
+      "degree": "Auslandsjahr",
+      "dateRange": "2010"
+    }
+  ],
+  "skills": [
+    "PostgreSQL",
+    "SQL",
+    "Java",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Troubleshooting",
+    "Python",
+    "Kommunikation",
+    "Adobe Illustrator",
+    "Test-Driven Development",
+    "Adobe Photoshop",
+    "Projektmanagement",
+    "Automation",
+    "Powershell",
+    "VMware vSphere",
+    "VMWare ESXi",
+    "VMware Infrastructure",
+    "Analytische Fähigkeiten",
+    "Final Cut Pro",
+    "VMware vCenter",
+    "Adobe Premiere Pro",
+    "SQLAlchemy",
+    "VMware Certified Professional",
+    "Reverse Engineering",
+    "DaVinci Resolve",
+    "Hardware Diagnostics",
+    "Informationstechnologie",
+    "Technical Consultation",
+    "VMware NSX",
+    "Autodesk Maya",
+    "Adobe Media Encoder",
+    "Programmierung",
+    "Blackmagic Fusion",
+    "Redigieren",
+    "Videoschnitt",
+    "Programmierschnittstellen",
+    "Datenstrukturen",
+    "Aria Operations",
+    "Aria Operations for Logs",
+    "NSX Advanced Loadbalancer"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Finnisch"
+  ],
+  "company": {
+    "name": "ITQ",
+    "tagline": null,
+    "description": "ITQ delivers innovative Hybrid Cloud, Digital Workspace, and Cloud-Native solutions to drive efficiency, embrace innovation, and empower customer success. \n \nWe've built a reputation on our passion for technology, skilled and committed team, and relentless pursuit of excellence. We've expanded across Europe, opening offices in Belgium, Luxembourg, France, and Germany and we we have executed 900+ engagements with more than 450 customers in the Benelux, Germany, France, Nordics, and the rest of Europe. Fueled by our passion for technology, we have become industry leaders with the most skilled and committed engineers and consultants and tons of certifications and awards.\n \nLet's go. We're ready. ITQ – What's Next.",
+    "industry": "Information Technology & Services",
+    "website": "http://www.itq.eu",
+    "linkedInUrl": "https://www.linkedin.com/company/itq",
+    "employeeCount": 497,
+    "foundedYear": null,
+    "location": "Beverwijk, Netherlands",
+    "specialities": [
+      "Virtualization",
+      "Development",
+      "Project Management",
+      "Independent VMware partner",
+      "Professional, Managed and Support Services",
+      "Multi-Cloud",
+      "App Modernization",
+      "Digital Workspace",
+      "Intrinsic Security",
+      "Virtual Cloud Network",
+      "ITTS (IT Transformation Services)"
+    ]
+  }
+}

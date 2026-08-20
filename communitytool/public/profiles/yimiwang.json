@@ -1,0 +1,253 @@
+{
+  "id": "yimiwang",
+  "name": "Yimi Wang",
+  "headline": "Senior Azure Solution Engineer @ Microsoft Innovation Hub Zürich",
+  "avatar": {
+    "sm": "/avatars/yimiwang-sm.webp",
+    "lg": "/avatars/yimiwang.webp",
+    "blur": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAACwBQCdASogACAAPtFYpUyoJSOiKA1RABoJYgAD5P9+9+ORAA33/+S8AXSMAapIWaRhkQihGGwA/v293TaUy8IH15m3r2ZpnYj8S4/y/2p7zjFdthcKJ+V1o7Sl2dNbAlgr719QpVD27YXXRVe98g9AVlZdfvdCd319JHVmqzrvcKPYoA0uZjrU3dq4Nl/H0jfw/dQ97UUjYTAUV3ok2ci6YV6QJuXI5ZSkVVmFgu7bnE4bgVMn7PH+0n8BxcVzOY1Fhu339+Spw6Irr7iL5o4jPJ6RQ7SJORuV2hnNm6xhJ9OsDDkYtHTGAeYsB3nhpYOVUUH+cmycZ1u9zP87IZMIsAA="
+  },
+  "location": "Zürich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/yimiwang",
+  "personId": 1056,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Informatics & Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Yiming Wang",
+  "ca": null,
+  "summary": "Grüezi! I'm Yimi, a German-Chinese tech professional, passionate about AI, application development, cloud computing, and business innovation – basically, I speak fluent tech and love translating it into real-world solutions. \n\nLet's connect!",
+  "positions": [
+    {
+      "title": "Senior Azure Solution Engineer - Microsoft Innovation Hub & Office of the CTO",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "• Lead Azure architecture engagements that turn complex business problems into practical, implementable solutions. I facilitate executive design sessions, develop proof of concepts, and provide technical direction across automation, data strategy, integration, and cloud architecture.\n\n• Expertise in enterprise architecture, consultative selling, AI solution design, and design thinking, with a focus on delivering impactful customer engagements.",
+      "location": "Zurich, Switzerland",
+      "start": "2025-12",
+      "end": null,
+      "dateRange": "Dec 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Student Researcher",
+      "company": "Computer Graphics Lab ETH",
+      "companyUrl": "https://www.linkedin.com/company/computer-graphics-lab-eth",
+      "description": "• Natural Language Processing (NLP): Readability modeling, age-of-acquisition features, text complexity prediction, and grade-aware text generation.\n\n• Large Language Models (LLMs): Fine-tuning (e.g., Mistral 7B with Unsloth), evaluation across fidelity/readability dimensions, and agentic LLM design patterns.\n\n• Machine Learning & Hybrid Models: Combining Random Forest, Ridge regression, and synthetic data for extrapolation beyond training ranges.\n\n• Similarity & Evaluation Metrics: Semantic embeddings (SBERT), entailment models (NLI), ROUGE-based measures for stricter fidelity checks.\n\n• Software Engineering: Flask/Python backends, React/TypeScript frontends, SQLAlchemy ORM, and MLOps pipelines for scalable deployments.",
+      "location": "Zurich, Zurich, Switzerland",
+      "start": "2025-03",
+      "end": "2025-10",
+      "dateRange": "Mar 2025 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Solution Engineer - Azure AI App",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "• Enable Swiss enterprise AI developers to integrate AI agents and orchestrators into their workflows to unlock productivity through Agentic AI design patterns via hands-on technical engagements (PoCs, hackathons, MVPs, workshops).\n\n• Designe secure, scalable AI application architectures integrating containerization (Kubernetes), microservices, and CI/CD pipelines using GitHub Actions and Azure DevOps (version control, model registry, deployment pipelines, monitoring, etc.)\n\n• Collaborate closely with engineering teams to resolve technical blockers and feed customer insights into Microsoft’s product development.\n\n• Technical Focus Areas:\nFull-stack AI applications: TensorFlow, PyTorch, LLM fine-tuning, inference pipelines, Responsible AI\nCloud-native development: Azure Kubernetes Service, Azure Container Apps, Azure Functions, GitHub Actions, and microservices\nAgentic AI frameworks, GenAI Ops, AI orchestration, security (e.g., Sentinel), and monitoring\nDeveloper tools: VS Code, GitHub Copilot Studio, Python, Node.js, Jupyter",
+      "location": "Zurich, Switzerland",
+      "start": "2024-12",
+      "end": "2025-12",
+      "dateRange": "Dec 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Technology Consultant - AI & ML",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": "• Led a developer team, designed the architecture, and developed backend services for a GenAI chatbot with RAG. It integrates SAP's internal confidential data with comprehensive internet public data. Targeted users are over 20k. First go-live in North America.\n\n• Provided strategic and architectural technical guidance on GenAI & ML adoption, helping clients maximize value through the SAP Business Technology Platform (BTP) and integrating GenAI models into existing workflows.\n\n• Acted as a technical coach in SAP Business AI hackathons, guiding participants in AI, cloud, and machine learning projects.\n\n• Used technology: \n - Programming languages: Python, JavaScript, Java\n - AI Toolings: SAP Generative AI Hub, PyTorch, TensorFlow, HuggingFace, LangChain, Azure AI Studio\n - Frontend: SAP UI5, CSS, HTML, XML\n - Backend: SAP HANA DB, SAP AI Core, PostgreSQL, SQLite, Azure Blob Storage, Google Cloud",
+      "location": "Zürich, Schweiz",
+      "start": "2023-03",
+      "end": "2024-11",
+      "dateRange": "Mar 2023 – Nov 2024",
+      "current": false
+    },
+    {
+      "title": "Cloud Solution Consultant",
+      "company": "Allianz Technology",
+      "companyUrl": "https://www.linkedin.com/company/allianz-technology",
+      "description": "Cloud Transformation of Allianz SE: \n• Conceptualised and pitched the cloud transformation roadmap of Allianz for the Board of Management, as well as initiated the first serie of Cloud-related trainings in Allianz Consulting.\n• Result: Co-founded the Cloud team of Allianz Consulting, and supported to sell two Cloud projects for Allianz Consulting.",
+      "location": "Metropolregion München",
+      "start": "2021-10",
+      "end": "2022-09",
+      "dateRange": "Oct 2021 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Management Consultant Intern (ACI)",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": "Building Data-driven Decision Making Department for a UAE-based asset management client:\n • Developed cross-departmental decision-making processes and established a decision-making department with clear responsibilities.\n • Results: Established the decision-making department with suitable Middle East talents.",
+      "location": "Dubai, UAE; Munich, Germany; Frankfurt, Germany",
+      "start": "2021-07",
+      "end": "2021-09",
+      "dateRange": "Jul 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Management Consultant Intern",
+      "company": "Deutsche Telekom",
+      "companyUrl": "https://www.linkedin.com/company/telekom",
+      "description": "Telco Investment Proposal for the Board of Management of Deutsche Telekom AG:\n • Co-designed a proposal of the telecommunication investments for the Board of Management by analysing global trends & Deutsche Telekom status quo and applying diverse management instruments.\n • Results: Approval of the Telco Investment Proposal by the Board of Management of Deutsche Telekom AG.",
+      "location": "Bonn, Nordrhein-Westfalen",
+      "start": "2020-03",
+      "end": "2020-05",
+      "dateRange": "Mar 2020 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Management Consultant Intern",
+      "company": "Audi Consulting - part of the AUDI AG",
+      "companyUrl": "https://www.linkedin.com/company/audi-consulting",
+      "description": "Process Acceleration Concept for AUDI AG:\n • Conceptualized and supported the roll-out of a process acceleration concept for the entire Audi AG and led Audi-wide management-level interviews. \n • Results: Increased 40% of the time efficiency and reduced 25% of the needed work force in the test phase of the process acceleration concept.",
+      "location": "Ingolstadt, Bayern, Deutschland",
+      "start": "2019-12",
+      "end": "2020-03",
+      "dateRange": "Dec 2019 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Data Scientist Intern",
+      "company": "FC Bayern München",
+      "companyUrl": "https://www.linkedin.com/company/fcbayern",
+      "description": "International Fan Behavior Dashboard:\n • Developed a statistical International Fan Behavior Dashboard by using data mining algorithms and VBA to empower sponsorship decision-making process. \n • Results: The Board of Management used information of this Dashboard to initiate sponsorships for East Asia (mainly China and Thailand) in 2020.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2019-09",
+      "end": "2019-11",
+      "dateRange": "Sep 2019 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Management Consultant (in collaboration with CDTM)",
+      "company": "GEA Group",
+      "companyUrl": "https://www.linkedin.com/company/geagroup",
+      "description": "Data-driven Business Growth Analysis of the Dairy Industry:\n • Conceptualised and pitched a new waste management system for the dairy industry value chain based on business insights gained from profound data analysis.\n • Results: The business plan was pilot-launched in Canada in 2019 and published as a book \"Trend Report: The Data-Driven Future of the Dairy Industry\" (ISBN: 9-783981-851175)",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-03",
+      "end": "2019-04",
+      "dateRange": "Mar 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Project Manager Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Financing Tool for BMW Vendors:\n • Co-developed and co-launched a financing tool designed for BMW vendors in Switzerland and France by managing around thousand vendors and building project management dashboard. \n • Results: Successful launch of the financing tool in Switzerland and France in 2019 and strategic planing for the next launch in Germany in 2020.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-09",
+      "end": "2019-03",
+      "dateRange": "Sep 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "SAP Consultant Intern",
+      "company": "abat",
+      "companyUrl": "https://www.linkedin.com/company/abatgruppe",
+      "description": "Internal HR System:\n • Implemented an employee management tool on the SAP UI5 platform for efficient search of qualified employees and smart staffing for incoming projects, involving database connection, front-end and back-end design.\n • Results: Internal Go-Live of the employee management tool for project leads in all German offices of abat AG.",
+      "location": "Bremen und Umgebung, Deutschland",
+      "start": "2017-07",
+      "end": "2017-10",
+      "dateRange": "Jul 2017 – Oct 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Master's degree, Real Estate Finance",
+      "dateRange": null
+    },
+    {
+      "school": "ETH Zürich",
+      "degree": "Master's degree, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor's degree, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Tanso",
+    "Full-Stack Development",
+    "Machine Learning",
+    "Hugging Face",
+    "Artificial Intelligence (AI)",
+    "Cloud Applications",
+    "Python (Programming Language)",
+    "Cloud-Anwendungen",
+    "Produktentwicklung",
+    "SAP-Implementierung",
+    "Frontend-Entwicklung",
+    "Data Science",
+    "Business Intelligence (BI)",
+    "Internationaler Vertrieb",
+    "Prozessoptimierung",
+    "Kostenreduzierung",
+    "Datenanalyse",
+    "IT-Infrastruktur-Management",
+    "Cloud-Computing",
+    "Google Cloud Platform (GCP)"
+  ],
+  "languages": [
+    "Chinesisch",
+    "English"
+  ],
+  "company": {
+    "name": "Microsoft",
+    "tagline": null,
+    "description": "Every company has a mission. What's ours? To empower every person and every organization to achieve more. We believe technology can and should be a force for good and that meaningful innovation contributes to a brighter world in the future and today. Our culture doesn’t just encourage curiosity; it embraces it. Each day we make progress together by showing up as our authentic selves. We show up with a learn-it-all mentality. We show up cheering on others, knowing their success doesn't diminish our own. We show up every day open to learning our own biases, changing our behavior, and inviting in differences. Because impact matters. \n\nMicrosoft operates in 190 countries and is made up of approximately 228,000 passionate employees worldwide.",
+    "industry": "Software Development",
+    "website": "https://news.microsoft.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/microsoft",
+    "employeeCount": 229748,
+    "foundedYear": null,
+    "location": "Redmond, United States",
+    "specialities": [
+      "Business Software",
+      "Developer Tools",
+      "Home & Educational Software",
+      "Tablets",
+      "Search",
+      "Advertising",
+      "Servers",
+      "Windows Operating System",
+      "Windows Applications & Platforms",
+      "Smartphones",
+      "Cloud Computing",
+      "Quantum Computing",
+      "Future of Work",
+      "Productivity",
+      "AI",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Laptops",
+      "Mixed Reality",
+      "Virtual Reality",
+      "Gaming",
+      "Developers",
+      "IT Professional"
+    ]
+  }
+}

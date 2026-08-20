@@ -1,0 +1,176 @@
+{
+  "id": "mika-sagindyk",
+  "name": "Mika Sagindyk",
+  "headline": "Setting the standard for Agent Experience (AX)",
+  "avatar": {
+    "sm": "/avatars/mika-sagindyk-sm.webp",
+    "lg": "/avatars/mika-sagindyk.webp",
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAACQBQCdASogACAAPsFMn0unpCKht/qoAPAYCWUAzjmLuyq0zYUHzu70EllsYMDPn6fEZcAIAAD+/np9X3jWp99F9/QkGs1z+romiHd+u2jC8Rv3HESvbvYAAYXz/8VU2h2dkLegLaNGPMnd6vuxemXv8W56l3AulveU5vnwb94W8DgarXmToadfYuEzYszuvO0udacdMloWusv3ZYdTjsbWPBBqfN6CbND87cuqgEOmE93fEYCwJlkdiMGgcIhPICnd55hBz4IwrjZKw4p+IEgJS8AKXegA"
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/mika-sagindyk",
+  "personId": 766,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Mika Sagindyk",
+  "ca": null,
+  "summary": "Endlessly curious about how this world works and the potential the humanity is yet to tap into. I'll never get bored of conversations around the brain and the mind, technology, culture, world history and company building.",
+  "positions": [
+    {
+      "title": "Co-founder & CEO",
+      "company": "2027.dev",
+      "companyUrl": "https://www.linkedin.com/company/2027-dev",
+      "description": null,
+      "location": null,
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-founder / Product",
+      "company": "Tackle",
+      "companyUrl": "https://www.linkedin.com/company/timetackle",
+      "description": null,
+      "location": "San Francisco, CA",
+      "start": "2024-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur In Residence",
+      "company": "Entrepreneur First",
+      "companyUrl": "https://www.linkedin.com/company/entrepreneurs-first",
+      "description": "Entrepreneur First is where outliers come together to build globally important technology companies.",
+      "location": "London, England, United Kingdom",
+      "start": "2022-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2022 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Growth lead",
+      "company": "Amazon Web Services (AWS)",
+      "companyUrl": "https://www.linkedin.com/company/amazon-web-services",
+      "description": "Customer acquisition efforts at scale, targeting lighthouse ISVs in EMEA both via a bottom up developer-first approach and 1:1 Enterprise sales deals.",
+      "location": null,
+      "start": "2020-10",
+      "end": "2022-08",
+      "dateRange": "Oct 2020 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Account Executive, ISV",
+      "company": "Amazon Web Services (AWS)",
+      "companyUrl": "https://www.linkedin.com/company/amazon-web-services",
+      "description": "Built an outbound sales team for the ISV vertical in DACH, 2-20 ICs",
+      "location": null,
+      "start": "2019-02",
+      "end": "2020-09",
+      "dateRange": "Feb 2019 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Visiting Investment Associate",
+      "company": "Vsquared Ventures",
+      "companyUrl": "https://www.linkedin.com/company/vsquared-ventures",
+      "description": "Vito Ventures invests in break-through technology and business innovation in the fields of IoT, Machine Intelligence, Enterprise SaaS, Autonomous Systems etc. We back ambitious founders and startups applying cutting-edge technology to challenge and re-invent the way of doing business.",
+      "location": "Munich Area, Germany",
+      "start": "2018-09",
+      "end": "2018-12",
+      "dateRange": "Sep 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Product Manager - Smart Home",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Digital transformation in the field of smart mobility",
+      "location": "Munich Area, Germany",
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Intern / Consultant",
+      "company": "Various Companies",
+      "companyUrl": "https://www.linkedin.com/company/various-boards",
+      "description": "Internships and project work @ Adidas, Hilti Group, E.ON, BMW, Teléfonica",
+      "location": null,
+      "start": "2014-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2014 – Dec 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science & Management",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Electrical Engineering, IT & Management",
+      "dateRange": null
+    },
+    {
+      "school": "UNSW",
+      "degree": "Visiting Researcher",
+      "dateRange": null
+    },
+    {
+      "school": "Maple Grove Senior High School",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Business Strategy",
+    "Business Development",
+    "Management",
+    "Project Management",
+    "Market Analysis",
+    "Teamwork"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "2027.dev",
+    "tagline": "Make something agents want",
+    "description": null,
+    "industry": "Technology, Information and Internet",
+    "website": "https://2027.dev",
+    "linkedInUrl": "https://www.linkedin.com/company/2027-dev",
+    "employeeCount": 1,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

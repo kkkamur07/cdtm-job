@@ -1,0 +1,133 @@
+{
+  "id": "anna-rode",
+  "name": "Anna Rode",
+  "headline": "Consultant @ McKinsey I CDTM I TUM",
+  "avatar": {
+    "sm": "/avatars/anna-rode-sm.webp",
+    "lg": "/avatars/anna-rode.webp",
+    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAACQBQCdASogACAAPtFgqE+oJSOiKAgBABoJZQBXC1vGjo/sW9w9haCSvl/2IENJqD7YN7EIAAD++hOWlTs9vS+5aKkH2Z6F1GSeSh+/oT019W4mUyGrlwcs85vnL54t1RoBgZDG5kvfFfqglJlrhPL7GaR5YMjny+NSbpxnqO7mhziQgyTLkiPEH6RYR/T8SmbKZX98yLvmp+DZS772Sc+kfWB2QPb4b2hWISwri1qOZEqgzW1GjTNWa5s6p70RoLT8saSCxIGt1ecPCazxI1kAHJcp1w6eApGWCsWgfGaexjB+nIaVCn5YAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/anna-rode",
+  "personId": 1297,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Anna Rode",
+  "ca": null,
+  "summary": "Consultant @ McKinsey with prior startup and investing experience and a strong interest in energy, deep tech, and decarbonization.",
+  "positions": [
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Business Analyst Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "Advanced Industries \noffer received",
+      "location": "Poland, Germany",
+      "start": "2023-06",
+      "end": "2023-08",
+      "dateRange": "Jun 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "Financial Institutions\noffer received",
+      "location": "Warsaw, Poland",
+      "start": "2023-02",
+      "end": "2023-04",
+      "dateRange": "Feb 2023 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Special Projects",
+      "company": "Cardino",
+      "companyUrl": "https://www.linkedin.com/company/cardino-ev",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Investment Intern",
+      "company": "Lightrock",
+      "companyUrl": "https://www.linkedin.com/company/lightrock",
+      "description": "Part of the deal team for the Aerones ~$30M growth round\nOther: VC @ AENU; Venture Building @ Daftcode",
+      "location": "London, United Kingdom",
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Management and Technology",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "University of St.Gallen",
+      "degree": "Bachelor's degree, Exchange Semester",
+      "dateRange": "2022"
+    },
+    {
+      "school": "SGH Warsaw School of Economics",
+      "degree": "Bachelor's degree, Econometrics and Information Systems",
+      "dateRange": "2019 – 2022"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "McKinsey & Company",
+    "tagline": null,
+    "description": "McKinsey & Company is a global management consulting firm. We are the trusted advisor to the world's leading businesses, governments, and institutions. \r\n\r\nWe work with leading organizations across the private, public and social sectors. Our scale, scope, and knowledge allow us to address problems that no one else can. We have deep functional and industry expertise as well as breadth of geographical reach. We are passionate about taking on immense challenges that matter to our clients and, often, to the world. \r\n\r\nWe work with our clients as we do with our colleagues. We build their capabilities and leadership skills at every level and every opportunity. We do this to help build internal support, get to real issues, and reach practical recommendations. We bring out the capabilities of clients to fully participate in the process and lead the ongoing work.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.mckinsey.com",
+    "linkedInUrl": "https://www.linkedin.com/company/mckinsey",
+    "employeeCount": 38159,
+    "foundedYear": null,
+    "location": "United States",
+    "specialities": [
+      "Management Consulting"
+    ]
+  }
+}

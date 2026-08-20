@@ -1,0 +1,254 @@
+{
+  "id": "rohitbisani",
+  "name": "Rohit Bisani",
+  "headline": "Engineer Program Manager",
+  "avatar": {
+    "sm": "/avatars/rohitbisani-sm.webp",
+    "lg": "/avatars/rohitbisani.webp",
+    "blur": "data:image/webp;base64,UklGRkgBAABXRUJQVlA4IDwBAAAQBgCdASogACAAPtFeqE6oJSOiKAqpABoJbACdMoAlrQy5r0x3VUKxXk10DfY2ka+wCEQyY64Ni8AA/sRNxrGEGPFCBgArf8V6Yb7VqPpojyX/7NIkf1oodd1S5g13Dk0E8ePqeKulEme9MdN4OIj7TH7gSwrW0YYh8ZdaKFV62WxENuoHIZUfznwahElSnbO2OpcCUiZrbjVAhihX2RhcH12eXcxDmuIGT2Xi+bnZVINrwg9HAT0IO4Bq373ozkUvRhOifDVsF4dG3PjrAAC/lO4ZKbWlq7H6su1JCQyWMkoVY7k7Koy56QI7qWrh3Ax8pilBp30FduDcRwP+obScPnRt5bIFFC50s/Ya68TkA99l1IFfFqxJEeJDflaP9yQJPDj7mKHFu0pe80fakO32PW4GQX6HvTNnIAAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/rohitbisani",
+  "personId": 1166,
+  "classes": [
+    {
+      "id": 73,
+      "label": "Spring 2013",
+      "season": "Spring",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2013",
+  "major": "Communications Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Rohit Bisani",
+  "ca": null,
+  "summary": "Rohit is constantly in search of innovative and impactful solutions. He has field experience in semiconductor, automotive, emc and online advertising industry, various roles from software engineer to project manager. He is a good team player providing constant motivation and a strives always to bring meaning to projects he is involved in. Some of the interesting product development projects he has been involved in include - a digital glove as a game controller, wireless ecg device, algorithm development to reduce breaking distance during panic breaking, developing automation softwares and managing multi site international semiconductor project.",
+  "positions": [
+    {
+      "title": "Engineering Program Manager",
+      "company": "Apple",
+      "companyUrl": "https://www.linkedin.com/company/apple",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-03",
+      "end": null,
+      "dateRange": "Mar 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Program Manager",
+      "company": "Dialog Semiconductor",
+      "companyUrl": "https://www.linkedin.com/company/dialog-semiconductor",
+      "description": null,
+      "location": "Germany",
+      "start": "2020-04",
+      "end": "2023-07",
+      "dateRange": "Apr 2020 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Project Manager",
+      "company": "Dialog Semiconductor",
+      "companyUrl": "https://www.linkedin.com/company/dialog-semiconductor",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-04",
+      "end": "2020-04",
+      "dateRange": "Apr 2016 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Field Application Engineer",
+      "company": "Gauss Instruments GmbH",
+      "companyUrl": null,
+      "description": "Responsible for customer contact, consulting them on EMC receiver, giving product demos, and developing EMC automation software using Matlab and LabView",
+      "location": "Munich",
+      "start": "2015-07",
+      "end": "2016-03",
+      "dateRange": "Jul 2015 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Co Founder",
+      "company": "Vastre Fashions",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Chennai Area",
+      "start": "2015-03",
+      "end": "2015-05",
+      "dateRange": "Mar 2015 – May 2015",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "STYLIGHT GmbH",
+      "companyUrl": "https://www.linkedin.com/company/stylight",
+      "description": "Building business co-operations and partners with e-commerce companies.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-04",
+      "end": "2014-10",
+      "dateRange": "Apr 2014 – Oct 2014",
+      "current": false
+    },
+    {
+      "title": "CDTM Student Consultant",
+      "company": "Clevis Research GmbH",
+      "companyUrl": "https://www.linkedin.com/company/clevis-research-gmbh",
+      "description": "Market and competition analysis, developing a top-line growth strategy",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-04",
+      "end": "2014-07",
+      "dateRange": "Apr 2014 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "Master Student",
+      "company": "Texas Instruments",
+      "companyUrl": "https://www.linkedin.com/company/texas-instruments",
+      "description": "MOS based circuit design in CADENCE Virtuoso. SPICE simulation. \nCircuit design for low additive jitter PLL.",
+      "location": null,
+      "start": "2014-03",
+      "end": "2014-12",
+      "dateRange": "Mar 2014 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Student Job",
+      "company": "Gauss Instruments GmbH",
+      "companyUrl": null,
+      "description": "Memory solution for TDEMI system from Gauss Instruments GmbH.\nInterfacing a high throughput high density memory to FPGA. PCB design involving high speed data bus and ensuring signal integrity. \nVHDL programming using IP cores from Xilinx for interfacing multiple memories and managing the storage solution.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-08",
+      "end": "2014-04",
+      "dateRange": "Aug 2013 – Apr 2014",
+      "current": false
+    },
+    {
+      "title": "Student Job",
+      "company": "Institute for Real-Time Computer Systems, TU Munich",
+      "companyUrl": null,
+      "description": "Circuit design for capturing EMG signals for user mood detection by face muscles.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-05",
+      "end": "2013-08",
+      "dateRange": "May 2013 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Institute of Electronic Design Automation, TU Munich",
+      "companyUrl": null,
+      "description": "Test framework setup for Analog Electronic Design Automation tool using CPPUnit and CTEST. \nExperience with BOOST C++ libraries and learnt basic OOP concepts.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-12",
+      "end": "2013-03",
+      "dateRange": "Dec 2012 – Mar 2013",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Robert Bosch Engineering and Business Solutions Ltd.",
+      "companyUrl": "https://www.linkedin.com/company/bosch-global-software-technologies",
+      "description": "Application Software algorithm development and programming for various components of an Electronic Stability Program ECU. \nThe algorithms were designed to run in OSEK RTOS. \nFirmware programming for various components of an car simulator. \nRequirements engineering using DOORS and forming a corresponding test strategy.\nExperience with ASCET simulator and in depth knowledge of ABS braking system.",
+      "location": "Greater Coimbatore Area",
+      "start": "2009-07",
+      "end": "2012-09",
+      "dateRange": "Jul 2009 – Sep 2012",
+      "current": false
+    },
+    {
+      "title": "Embedded Engineer",
+      "company": "Cardea biomedical Technologies Pvt. Ltd.",
+      "companyUrl": "https://www.linkedin.com/company/cardea-biomedical-technologies-pvt.-ltd.",
+      "description": null,
+      "location": "Matlab Workshops, Microcontroller Workshops",
+      "start": "2008-12",
+      "end": "2009-06",
+      "dateRange": "Dec 2008 – Jun 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Master's Degree, Digital Technology and Management",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's Degree, Electronics and Communication",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Vellore Institute of Technology",
+      "degree": "Bachelor of Technology (B.Tech.), Electrical, Electronics and Communications Engineering",
+      "dateRange": "2005 – 2009"
+    },
+    {
+      "school": "CDTM",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "startup weekend",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Microcontrollers",
+    "Embedded Systems",
+    "Matlab",
+    "C",
+    "Embedded Software",
+    "Embedded C",
+    "C++",
+    "Electronics",
+    "RTOS",
+    "Verilog",
+    "Automotive",
+    "VHDL",
+    "Testing",
+    "Debugging",
+    "ClearCase",
+    "ASCET",
+    "Analog Circuit Design",
+    "Digital Circuit Design",
+    "PCB Design",
+    "Firmware",
+    "FPGA",
+    "Algorithms"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hindi",
+    "Tamil"
+  ],
+  "company": {
+    "name": "Apple",
+    "tagline": null,
+    "description": "We’re a diverse collective of thinkers and doers, continually reimagining what’s possible to help us all do what we love in new ways. And the same innovation that goes into our products also applies to our practices — strengthening our commitment to leave the world better than we found it. This is where your work can make a difference in people’s lives. Including your own.\n\nApple is an equal opportunity employer that is committed to inclusion and diversity. Visit apple.com/careers to learn more.",
+    "industry": "Computers and Electronics Manufacturing",
+    "website": "http://www.apple.com/careers",
+    "linkedInUrl": "https://www.linkedin.com/company/apple",
+    "employeeCount": 175960,
+    "foundedYear": 1976,
+    "location": "Cupertino, United States",
+    "specialities": [
+      "Innovative Product Development",
+      "World-Class Operations",
+      "Retail",
+      "Telephone Support"
+    ]
+  }
+}

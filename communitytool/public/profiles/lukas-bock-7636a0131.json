@@ -1,0 +1,241 @@
+{
+  "id": "lukas-bock-7636a0131",
+  "name": "Lukas Bock",
+  "headline": "Co-Founder & CEO @ Mercura | Google X | University of Cambridge | CDTM | BEA",
+  "avatar": {
+    "sm": "/avatars/lukas-bock-7636a0131-sm.webp",
+    "lg": "/avatars/lukas-bock-7636a0131.webp",
+    "blur": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAACQBQCdASogACAAPsFGn0uno6Kht/qoAPAYCUAWI+HUtcrYfiZIXmfDQqDhxevUybeMmCWrRAD+/b3bBaA0AOv+rmx8/fyabxnpaK1cIzUbuyytkLrhNcGBwXdG2TKY7c/1iZfo0a3LHdKsV+Jw6k+o3lfO3pR/JB3HR90R6bYr55DJvrKYdA6EIdFhTlr8dTVPX5JRl5WjLL5WZ8F4TUb6Pssrgl9GgYO8C3A2WHgaX2a2Z7lO0IPdLQmU8SlQtR7nF5KZmwXmqo0F2XKZHcErb4EVSr1rwkAAAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lukas-bock-7636a0131",
+  "personId": 805,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "MSc in Mechanical Engineering (TUM, Sorbonne Université, University of Cambridge)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lukas Bock",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Mercura (YC W25)",
+      "companyUrl": "https://www.linkedin.com/company/mercura-ai",
+      "description": "AI Quoting for wholesalers & manufacturers\nwww.mercura.ai",
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "AI Resident",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "At Google X, the moonshot factory, my work in Mountain View was recognized at L4 ML SWE.\nI worked on end-to-end ML models with the Tapestry team, building radical new technologies to tackle the world’s hardest problems. Grateful to have been surrounded by some of the brightest and most diverse minds.",
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Collaborator",
+      "company": "Cyber-Human Lab",
+      "companyUrl": "https://www.linkedin.com/company/cyber-human-lab",
+      "description": null,
+      "location": null,
+      "start": "2023-03",
+      "end": "2023-11",
+      "dateRange": "Mar 2023 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Data Scientist in Global Data & AI",
+      "company": "Allianz",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "AI Trend Researcher",
+      "company": "Bayerisches Staatsministerium für Digitales",
+      "companyUrl": "https://www.linkedin.com/company/digitalministerium",
+      "description": "Identified, analyzed and developed scenarios for the 124-page report “Tackling climate change in the AI era”, a collaboration between the Bavarian State Ministry of Digital Affairs, the Bavarian AI Council, and the CDTM.",
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "AI Engineer",
+      "company": "Digital Product School by UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/digital-product-school",
+      "description": null,
+      "location": null,
+      "start": "2021-09",
+      "end": "2021-12",
+      "dateRange": "Sep 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Freelance Software Consultant",
+      "company": "European Patent Office",
+      "companyUrl": "https://www.linkedin.com/company/european-patent-office",
+      "description": "Process analysis, optimization & data integration",
+      "location": null,
+      "start": "2021-08",
+      "end": "2022-01",
+      "dateRange": "Aug 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "TUMCREATE",
+      "companyUrl": "https://www.linkedin.com/company/tum-create-limited",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-07",
+      "dateRange": "Jan 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Sales Consultant",
+      "company": "T-Systems International",
+      "companyUrl": "https://www.linkedin.com/company/t-systems",
+      "description": "Development of a sales concept and lead generation for a data intelligence platform",
+      "location": null,
+      "start": "2019-03",
+      "end": "2019-06",
+      "dateRange": "Mar 2019 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Software Development",
+      "company": "ITQ GmbH",
+      "companyUrl": "https://www.linkedin.com/company/itq-gmbh",
+      "description": "• Collaboratively developed an autonomous driving vehicle\n• Created and facilitated workshops leveraging Duckietown platform",
+      "location": null,
+      "start": "2018-10",
+      "end": "2021-06",
+      "dateRange": "Oct 2018 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Intern | R&D Vehicle Body",
+      "company": "Rolls-Royce Motor Cars",
+      "companyUrl": "https://www.linkedin.com/company/rolls-royce-motor-cars",
+      "description": "Project Engineer Intern\nManaged the concept development process, developed and automated reports and improved the planning horizon while reducing costs for the new Rolls-Royce BEV",
+      "location": null,
+      "start": "2018-04",
+      "end": "2018-08",
+      "dateRange": "Apr 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Audi Business Innovation GmbH",
+      "companyUrl": "https://www.linkedin.com/company/audibusinessinnovation",
+      "description": "Supplier selection for electric vehicle charging systems",
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Master's Thesis",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Stiftung Bayerische EliteAkademie (BEA)",
+      "degree": null,
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Engineering (Double Degree)",
+      "dateRange": null
+    },
+    {
+      "school": "Sorbonne Université",
+      "degree": "Génie Mécanique",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Engineering",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Linux",
+    "Microsoft Office",
+    "Python (Programming Language)",
+    "Docker",
+    "Machine Learning",
+    "C#",
+    "Unity",
+    "Design Thinking",
+    "Google Cloud Platform (GCP)",
+    "Visual Basic for Applications (VBA)",
+    "Robot Operating System (ROS)",
+    "Projektmanagement",
+    "MLOps",
+    "Lithium-Ionen-Batterien",
+    "Trend Research",
+    "Market Sizing",
+    "Simulationen",
+    "Computer-Vision",
+    "Optimierung",
+    "Objektorientierte Programmierung (OOP)",
+    "project management"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "company": {
+    "name": "Mercura (YC W25)",
+    "tagline": "AI Quote and Order Automation for Distributors & Manufacturers",
+    "description": "Mercura automates sales request processes for distributors & manufacturers with AI, so you can save time and money and increase your sales success.",
+    "industry": "Software Development",
+    "website": "https://mercura.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/mercura-ai",
+    "employeeCount": 20,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

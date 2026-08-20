@@ -1,0 +1,208 @@
+{
+  "id": "paul-sauer-7a145254",
+  "name": "Paul Sauer",
+  "headline": "Tech Lead/Manager Embedded at Qwello",
+  "avatar": {
+    "sm": "/avatars/paul-sauer-7a145254-sm.webp",
+    "lg": "/avatars/paul-sauer-7a145254.webp",
+    "blur": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAAAwBgCdASogACAAPsVQoUunpKMhsAwA8BiJbADI6QgFqGZ38ttjRBrO/5N5Nt3EUD5jpNZEUEHymiwAAP7+qykHGhfCbSaDZ7sf+djTf/L8kv+GZkOj8PVRqPQ4GAYRhl3111bICl6ndAuUPvVJzYu95590tt6+ZSTGjPvoE3rJkfhiBNu4GZW91Ff8PXvjOzjhbhvE7PzOjbYyFA4g1JPbG+cPsh71pf5yiR1mMPpuPvgabfS1/SJw8L6PqGH7NpGAO4MHvIoFFVrxWSUogFlg0VfSNzV6cJT2G0ORO0T9N8Y6kh/VxKX0rSsyAnrc7EsHKerYuH5xHxXDhZmWw0AAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/paul-sauer-7a145254",
+  "personId": 836,
+  "classes": [
+    {
+      "id": 80,
+      "label": "Fall 2016",
+      "season": "Fall",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2016",
+  "major": "Electrical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Paul Sauer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Embedded Engineering Manager",
+      "company": "Qwello",
+      "companyUrl": "https://www.linkedin.com/company/qwello",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Tech Lead/Manager Embedded",
+      "company": "Qwello",
+      "companyUrl": "https://www.linkedin.com/company/qwello",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-11",
+      "end": "2023-12",
+      "dateRange": "Nov 2020 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Embedded Engineer",
+      "company": "Qwello",
+      "companyUrl": "https://www.linkedin.com/company/qwello",
+      "description": "- Innovating the urban electric car charging experience",
+      "location": null,
+      "start": "2018-12",
+      "end": "2020-10",
+      "dateRange": "Dec 2018 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "company": "blik GmbH",
+      "companyUrl": null,
+      "description": "• As blik’s first employee, designed and implemented from scratch their RF-based low-power indoor localization algorithm running across their IoT Sensor, RF edge gateway and cloud server.\n    • Developed low-power sensor drivers and applications for blik’s IoT devices on Contiki & RIOT OS.\n    • On blik’s RF edge gateway, implemented device drivers, libraries and applications in Python.\n    • Extended an IEEE 802.15.4 Linux kernel driver to support blik’s localization technology.\n    • Established software testing procedures and hardware deployment processes to ensure reliable and scalable deployments of blik’s RF edge gateway to pilot customers.\n    • My work played a crucial role in blik winning 2nd place at Techcrunch Disrupt Berlin 2017.",
+      "location": "Munich Area, Germany",
+      "start": "2017-03",
+      "end": "2018-12",
+      "dateRange": "Mar 2017 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Research Assistant/Teaching Assistant",
+      "company": "TUM",
+      "companyUrl": null,
+      "description": "- Designed and developed the “Secure IoT SoC Lab” from scratch.  This included writing firmware for the BLE nRF51822 SoC utilizing the LwIP stack, writing firmware for an FPGA SoC utilizing mbed TLS and MQTT and configuring a Raspberry Pi as a BLE 6LoWPAN gateway.\n- Supervised and supported students in the lab with their FPGA SoC design and embedded software development.\n- Prototyped FPGA ARM SoCs used to study ARM’s security vulnerabilities to side-channel attacks.\nDeveloped a hardware bootloader in VHDL to enable flashing of the SoC’s BRAM via UART.",
+      "location": "Munich Area, Germany",
+      "start": "2015-10",
+      "end": "2017-07",
+      "dateRange": "Oct 2015 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "AMD",
+      "companyUrl": "https://www.linkedin.com/company/amd",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2013-10",
+      "end": "2016-08",
+      "dateRange": "Oct 2013 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Embedded System Software Developer",
+      "company": "Research In Motion",
+      "companyUrl": "https://www.linkedin.com/company/blackberry",
+      "description": "•\tDeveloped drivers, firmware, and middleware for QNX as a member of the Backlight/Display team \n•\tFixed and debugged Backlight/Display driver and middleware related issues\n•\tOptimized the ambient light sensor (ALS) noise filtration algorithm which resulted in a very significant reduction of backlight/ALS I2C traffic.",
+      "location": "Waterloo, Ontario",
+      "start": "2012-09",
+      "end": "2012-12",
+      "dateRange": "Sep 2012 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Field Application Engineering Student",
+      "company": "Advanced Micro Devices",
+      "companyUrl": "https://www.linkedin.com/company/amd",
+      "description": "•\tDeveloped a web application used to store, search and visually display benchmark values between different AMD/Intel hardware configurations.\n•\tDesigned and implemented all server side programs and scripts needed to run and maintain web server and MySQL database\n•\tWrote a program in VB 6.0 to export the graph from web application to an Excel spreadsheet.",
+      "location": null,
+      "start": "2011-10",
+      "end": "2012-08",
+      "dateRange": "Oct 2011 – Aug 2012",
+      "current": false
+    },
+    {
+      "title": "Mobile Associate Application Engineering",
+      "company": "AMD",
+      "companyUrl": "https://www.linkedin.com/company/amd",
+      "description": "•\tReproduced, diagnosed and isolated customer reported problems on notebook PC systems that utilize AMD's latest discrete mobile graphics processors\n•\tManaged the life cycle of engineering problem reports (EPRs) in an internal database by working with software, hardware and BIOS engineers to resolve any graphic card issues \n•\tValidated and provided solutions to the customer (OEM/ODM) by providing deliverables such as technical documents, video drivers and video BIOS",
+      "location": "Markham, Ontario",
+      "start": "2010-05",
+      "end": "2010-08",
+      "dateRange": "May 2010 – Aug 2010",
+      "current": false
+    },
+    {
+      "title": "Performance Analysis",
+      "company": "AMD",
+      "companyUrl": "https://www.linkedin.com/company/amd",
+      "description": "•\tMeasured performance, features and quality of competitor products vs. upcoming AMD products using games, synthetic benchmarks, diagnostic tests and utilities. \n•\tAnalyzed large quantities of performance data and reported/presented strengths, weaknesses, opportunities and threats.\n•\tWorked with the certification team to develop and implement the specifications and testing procedures for AMD's multi display gaming technology.\n•\tAssisted with scripting, building command lines and parsing results files to automate data collection",
+      "location": null,
+      "start": "2009-09",
+      "end": "2009-12",
+      "dateRange": "Sep 2009 – Dec 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Digital Technology Management, Digital Technology Management",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's Degree, Electrical Engineering and Information Technology",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "University of Waterloo",
+      "degree": "Bachelor of Applied Science (BASc), Electrical and Electronics Engineering",
+      "dateRange": "2008 – 2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "BS, Electrical and Electronics Engineering",
+      "dateRange": "2011 – 2012"
+    }
+  ],
+  "skills": [
+    "MySQL",
+    "Android Development",
+    "Arduino",
+    "PHP",
+    "C++",
+    "Java",
+    "JavaScript",
+    "HTML",
+    "Git",
+    "Linux",
+    "Version Control SVN",
+    "OpenCL",
+    "OpenMP",
+    "Pthreads",
+    "QNX",
+    "Subversion",
+    "C",
+    "Software Development",
+    "Embedded Systems"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Qwello",
+    "tagline": "Powering the Future ⚡️",
+    "description": "Headquartered in Munich, Germany, Qwello is a fast-growing, full-service builder, owner, and operator of electric vehicle charging infrastructure in major European cities. We are focused on the provision of public charging infrastructure and committed to simplifying urban e-mobility for everyone.\n\nQwello operates over 15,000 charge points via public concessions with local municipalities and the investment of private capital. We deliver turnkey solutions to cities — covering all elements of planning, installation, operation, and service for public charging infrastructure.\n\nOur operations span Germany, the Netherlands, Sweden, the UK, France, Spain, and Poland. With a clear commitment to the European market, the highest ESG standards, and strong support for decarbonisation, Qwello is helping to build the urban mobility of tomorrow.\n\nWe’re a fast-growing team driven by purpose and innovation. We believe the best products are built by inclusive, diverse, and collaborative teams — and we’re always looking for people who want to shape the future of e-mobility.\n\n➡️ Learn more at www.qwello.eu/en\n💼 Want to join us? Explore our team life on Instagram: @lifeatqwello",
+    "industry": "Renewable Energy Equipment Manufacturing",
+    "website": "http://qwello.eu",
+    "linkedInUrl": "https://www.linkedin.com/company/qwello",
+    "employeeCount": 175,
+    "foundedYear": 2017,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Ladeinfrastruktur Betreiber"
+    ]
+  }
+}

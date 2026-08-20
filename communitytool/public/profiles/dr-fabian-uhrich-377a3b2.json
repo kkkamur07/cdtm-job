@@ -1,0 +1,149 @@
+{
+  "id": "dr-fabian-uhrich-377a3b2",
+  "name": "Dr. Fabian Uhrich",
+  "headline": "CPO Quicklizard | Pricing Expert | exBCG Partner | Business Angel",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-fabian-uhrich-377a3b2",
+  "personId": 1551,
+  "classes": [
+    {
+      "id": 55,
+      "label": "Spring 2004",
+      "season": "Spring",
+      "year": 2004,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2004",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Fabian Uhrich",
+  "ca": null,
+  "summary": "Expert for marketing, sales & pricing - from B2B to B2B2C and B2C - online, offline and multi-channel - leveraging analytics and automation - building capabilities and enabling people.\n\nAs CPO of Quicklizard I am responsible for our offering making sure we generate the maximum value with pricing for our clients today and in the future.\nTo achieve that, I bring in my extensive pricing experience from my times as Partner and global expert for pricing at the Boston Consulting Group and as Head of Pricing & Online Marketing at Zooplus, Europe’s largest online pet supplies shop. On top, I have a Doctor's degree in behavioral pricing from TU Munich and stay at the pulse of research as resident guest lecturer at ETH Zurich.",
+  "positions": [
+    {
+      "title": "Chief Product Officer",
+      "company": "Quicklizard",
+      "companyUrl": "https://www.linkedin.com/company/quicklizard",
+      "description": "Price optimization & automation for retailers and brands leveraging machine learning & AI",
+      "location": "München, Bayern, Deutschland",
+      "start": "2024-02",
+      "end": null,
+      "dateRange": "Feb 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Partner & Associate Director",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "Expert Partner for (digital) Sales & Pricing:\nVast experience in data-driven pricing in B2C (e.g., dynamic eCom pricing engines) as well as B2B (e.g., deal-specific target prices) across multiple industries from chemicals and steel to retail, CPG or white goods. Deep expertise in value-based pricing and green pricing / pricing for sustainable products and services. Pricing trainer and enablement expert.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2018-11",
+      "end": "2024-01",
+      "dateRange": "Nov 2018 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Head of Online Marketing & Pricing",
+      "company": "zooplus",
+      "companyUrl": "https://www.linkedin.com/company/zooplus-se",
+      "description": "Europe's leading online pet supplies retailer. Led a team of 40+ central and regional pricing managers and online marketeers. Contributed to growth from ~€500M to ~€1.4Bn. Developed and implemented dynamic pricing algorithm to price 10K+ SKUs in ~30 markets.",
+      "location": "Munich Area, Germany",
+      "start": "2014-09",
+      "end": "2018-10",
+      "dateRange": "Sep 2014 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Project Leader",
+      "company": "The Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": null,
+      "start": "2006-09",
+      "end": "2014-09",
+      "dateRange": "Sep 2006 – Sep 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom-Kaufmann",
+      "dateRange": "2002 – 2006"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor's Degree, Technology Management",
+      "dateRange": "2004 – 2006"
+    },
+    {
+      "school": "HEC Paris",
+      "degree": "Exchange Student ERASMUS, School of Management",
+      "dateRange": "2005"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Research Scholar, School of Information Management & Systems",
+      "dateRange": "2005"
+    },
+    {
+      "school": "HKUST Business School",
+      "degree": "Exchange Student, Advanced Manufacturing Institute",
+      "dateRange": "2003"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr. rer. pol., Behavioral Pricing",
+      "dateRange": "2010 – 2012"
+    }
+  ],
+  "skills": [
+    "Retail AI by BCG",
+    "Management Consulting",
+    "Project Management",
+    "Financial Modeling",
+    "Change Management",
+    "Business Strategy",
+    "Analysis",
+    "Data Analysis",
+    "Strategy",
+    "Teamführung"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Quicklizard",
+    "tagline": "Quicklizard | AI-driven Dynamic Pricing & Competitive Intelligence Platform for Omnichannel Retailers and Brands",
+    "description": "Quicklizard is a leading AI powered dynamic pricing platform, helping retailers and eCommerce companies automate and optimize pricing across their entire product catalog and all sales channels.\n\nIn today’s complex retail environment, where millions of prices must be managed daily across markets, competitors, and channels, pricing can no longer rely on manual processes or gut feeling.\n\nQuicklizard enables businesses to move to a more data driven and proactive approach, combining advanced analytics, machine learning, and flexible pricing strategies. Our platform keeps pricing transparent and controllable, while allowing teams to scale decisions across the business.\n\nThe result is faster and better pricing decisions, improved margins, and the ability to stay competitive in dynamic markets.",
+    "industry": "Technology, Information and Internet",
+    "website": "http://www.quicklizard.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/quicklizard",
+    "employeeCount": 95,
+    "foundedYear": null,
+    "location": "London, United Kingdom",
+    "specialities": [
+      "real-time pricing",
+      "price analytics",
+      "e-commerce",
+      "price optimization",
+      "dynamic pricing",
+      "price intelligence",
+      "Software as a service solution SaaS",
+      "pricing",
+      "price management",
+      "AI Pricing",
+      "eTravel Pricing"
+    ]
+  }
+}

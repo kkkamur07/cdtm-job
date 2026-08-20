@@ -1,0 +1,185 @@
+{
+  "id": "stefan-rothlehner",
+  "name": "Stefan Rothlehner",
+  "headline": "Entrepreneur, Investor & Advisor",
+  "avatar": null,
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/stefan-rothlehner",
+  "personId": 1918,
+  "classes": [
+    {
+      "id": 67,
+      "label": "Spring 2010",
+      "season": "Spring",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2010",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Stefan Rothlehner",
+  "ca": null,
+  "summary": "Work at Takeda",
+  "positions": [
+    {
+      "title": "Advisor",
+      "company": "Takeda",
+      "companyUrl": "https://www.linkedin.com/company/takeda-pharmaceuticals",
+      "description": "Advising on the implementation of Takeda's digital health strategy.",
+      "location": null,
+      "start": "2025-03",
+      "end": null,
+      "dateRange": "Mar 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Angel Investor",
+      "company": "Rothlehner Investments",
+      "companyUrl": null,
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2014-09",
+      "end": null,
+      "dateRange": "Sep 2014 – Present",
+      "current": true
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "Carbon13",
+      "companyUrl": "https://www.linkedin.com/company/carbon13",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-06",
+      "end": "2025-07",
+      "dateRange": "Jun 2023 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Chief Technology Officer",
+      "company": "Selfapy",
+      "companyUrl": "https://www.linkedin.com/company/selfapy",
+      "description": null,
+      "location": "Berlin Metropolitan Area",
+      "start": "2018-05",
+      "end": "2023-01",
+      "dateRange": "May 2018 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Founder & Chief Technology Officer",
+      "company": "foodora",
+      "companyUrl": "https://www.linkedin.com/company/foodora",
+      "description": null,
+      "location": "Berlin Metropolitan Area",
+      "start": "2014-03",
+      "end": "2017-09",
+      "dateRange": "Mar 2014 – Sep 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Humboldt-Universität zu Berlin",
+      "degree": "Bachelor of Science - BS, Agrar- und Gartenbauwissenschaften",
+      "dateRange": "2023 – 2026"
+    },
+    {
+      "school": "ETH Zürich",
+      "degree": "Wirtschaftsinformatik",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Wirtschaftsinformatik",
+      "dateRange": "2010 – 2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2010 – 2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Wirtschaftsinformatik",
+      "dateRange": "2006 – 2010"
+    },
+    {
+      "school": "Karl-von-Closen-Gymnasium Eggenfelden",
+      "degree": "Abitur",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Being less wrong",
+    "Unternehmertum",
+    "Entrepreneurship",
+    "Ruby on Rails",
+    "Ruby",
+    "PostgreSQL",
+    "Amazon Web Services (AWS)",
+    "iOS Entwicklung",
+    "iOS development",
+    "Objective-C",
+    "Java",
+    "MySQL",
+    "HTML5",
+    "CSS3",
+    "CSS",
+    "JavaScript",
+    "PHP",
+    "SQL",
+    "Software Engineering",
+    "Projektmanagement",
+    "Mobile Applications",
+    "Mobilanwendungen",
+    "Softwareentwicklung",
+    "Scrum",
+    "Project Management",
+    "Android",
+    "Linux",
+    "Softwaretechnik",
+    "Software Development",
+    "Product Management",
+    "Big Data",
+    "Product Development",
+    "Produktentwicklung",
+    "Produktmanagement",
+    "Business Planning",
+    "Teamführung",
+    "Softwarearchitektur",
+    "Management",
+    "Technische Leitung",
+    "Softwarearchitektur-Design",
+    "Webentwicklung",
+    "Agile Anwendungsentwicklung",
+    "Agile Webentwicklung",
+    "Agile Führung"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Takeda",
+    "tagline": "Better Health, Brighter Future",
+    "description": "We strive to transform lives. While the science we advance is constantly evolving, our core purpose is enduring. For more than two centuries, our values have guided us to do what’s right for patients and for society.\n\nWe know that changing lives requires us to do things differently. We start by listening to and addressing what really matters to patients, the people who love them, and those in the healthcare system who provide care. And that’s what inspires us all to be bold, push boundaries and set new standards that open up greater opportunities.\n\nRead our community guidelines: https://takeda.info/communityguidelines",
+    "industry": "Pharmaceutical Manufacturing",
+    "website": "https://www.takeda.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/takeda-pharmaceuticals",
+    "employeeCount": 37224,
+    "foundedYear": 1781,
+    "location": "Tokyo, Japan",
+    "specialities": [
+      "Pharmaceuticals",
+      "Therapeutics",
+      "Oncology",
+      "Gastroenterology",
+      "Vaccines"
+    ]
+  }
+}

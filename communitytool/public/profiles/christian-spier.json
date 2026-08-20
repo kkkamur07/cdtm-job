@@ -1,0 +1,252 @@
+{
+  "id": "christian-spier",
+  "name": "Chris Spier",
+  "headline": "CEO & Co-Founder at Differential Bio",
+  "avatar": {
+    "sm": "/avatars/christian-spier-sm.webp",
+    "lg": "/avatars/christian-spier.webp",
+    "blur": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAACwBQCdASogACAAPtFcqE4oJSQiKAqpABoJYgDDNGlhiJ8iJyRPZmGw+C5ykOm58qJfEX7yOQAA/voXAdKCSj38ZJKJQd9Iei7V9nP37pW2BWDtcA182+dnayXTTqfdWCdf3SWt5hyaZo7bUOCqef2a88WR9DRcomuplmjTzxHQ9T85WBO7oiv5gUMgnIBLwQHiWWkk2bjAkX6gBboe7ujLmyURPHnKjumDFedskHZcNWNznkp4w/YT4A0CYLNaXgBQi4jQ2HK57+RSRZaa7OoBZgAAAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christian-spier",
+  "personId": 768,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Bioinformatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Christian Spier",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & Chief Executive Officer",
+      "company": "Differential Bio",
+      "companyUrl": "https://www.linkedin.com/company/differential-bio",
+      "description": "We are building the Virtual Scale-up Platform for bioprocess optimization.\n\nOur goal is to provide the digital infrastructure for industrial biomanufacturing. By integrating scale-down experiments with robotic lab automation and computational modeling, we optimize how microbes grow and produce - boosting yield, cutting costs, and accelerating R&D. From biomass to precision fermentation, we’re making biology predictable, programmable, and production-ready. We are Differential.",
+      "location": null,
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Venture Scout",
+      "company": "Giant Ventures",
+      "companyUrl": "https://www.linkedin.com/company/giantventures",
+      "description": "Investing in purpose-driven founders solving the world’s biggest challenges. Reach out if you're currently raising and fitting the criteria below.\n\nIndustries: Climate, Health, and Inclusive Capitalism\nGeographies: US and Europe\nStage: Pre-Seed or Seed",
+      "location": null,
+      "start": "2024-04",
+      "end": null,
+      "dateRange": "Apr 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Angel Investor",
+      "company": "Planetary Health Endeavors",
+      "companyUrl": null,
+      "description": "Portfolio includes:\n[Pre-Series A] AI-enabled natural product drug discovery platform\n[Seed] Genomic evidence platform for drug R&D acceleration\n[Seed] Carbon reduction platform for the F&B industry\n[Pre-Seed] Vertically integrated cloud infrastructure for genomics data\n[Pre-Seed] Gene editing platform for ag biologicals development\n[Pre-Seed] Microbial/fungal strain engineering platform\n[Pre-Seed] Enzyme immobilization platform\n[Pre-Seed] Indoor aquaculture system\netc.",
+      "location": null,
+      "start": "2021-01",
+      "end": null,
+      "dateRange": "Jan 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "US Managing Director, Head of Partnerships",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": null,
+      "location": null,
+      "start": "2024-04",
+      "end": "2024-09",
+      "dateRange": "Apr 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Director, US Operations and Marketing",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": null,
+      "location": null,
+      "start": "2022-04",
+      "end": "2024-04",
+      "dateRange": "Apr 2022 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Lead, International Expansion",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": null,
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-03",
+      "dateRange": "Oct 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "AI Strategy",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Supported Siemens Corporate Technology with competitive benchmarking, product-, and market entry strategy for its 'Data Strategy, Quality & Extraction' offering. This project was part of a collaboration with the Center for Digital Technology and Management (CDTM).",
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-07",
+      "dateRange": "Apr 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Strategy & Growth",
+      "company": "Probably Genetic",
+      "companyUrl": "https://www.linkedin.com/company/aiwa-health",
+      "description": "Supported the rare disease genetics startup Probably Genetic (YC W19) with market entry strategy and growth initiatives. Investors include Khosla Ventures and TenOneTen Ventures.",
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-05",
+      "dateRange": "Jan 2020 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Growth Equity",
+      "company": "The Carlyle Group",
+      "companyUrl": "https://www.linkedin.com/company/the-carlyle-group",
+      "description": "Supported Carlyle Europe Technology Partners (most recent fund: €1.35bn AUM) with dealflow origination, market- and company analyses in the DACH region.",
+      "location": null,
+      "start": "2019-04",
+      "end": "2020-04",
+      "dateRange": "Apr 2019 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Manager, Strategy and Business Development",
+      "company": "Dialogue",
+      "companyUrl": "https://www.linkedin.com/company/dialogue-md",
+      "description": "Supporting with building and growing the German operations of the publicly listed virtual care provider (stock ticker: TSX:CARE). Joined the company after its Series A round. Investors include Portag3 Ventures, White Star Capital, and HV Capital.",
+      "location": null,
+      "start": "2018-10",
+      "end": "2021-09",
+      "dateRange": "Oct 2018 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Genetic Epidemiology",
+      "company": "Helmholtz Munich",
+      "companyUrl": "https://www.linkedin.com/company/helmholtzmunich",
+      "description": null,
+      "location": null,
+      "start": "2017-08",
+      "end": "2018-02",
+      "dateRange": "Aug 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Neurobiology",
+      "company": "Max Planck Institute for Biological Intelligence",
+      "companyUrl": "https://www.linkedin.com/company/mpi-for-biologicalintelligence",
+      "description": null,
+      "location": null,
+      "start": "2016-03",
+      "end": "2016-07",
+      "dateRange": "Mar 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Investment Management (Family Office)",
+      "company": "DPV Capital",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2015-11",
+      "end": "2017-10",
+      "dateRange": "Nov 2015 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Private Equity",
+      "company": "Deutsche Private Equity (DPE)",
+      "companyUrl": "https://www.linkedin.com/company/dpe-deutsche-private-equity-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2015-07",
+      "end": "2015-10",
+      "dateRange": "Jul 2015 – Oct 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, School of Information and Haas School of Business",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Bioinformatics",
+      "dateRange": null
+    },
+    {
+      "school": "Tecnológico de Monterrey",
+      "degree": "Global Entrepreneurship Summer School",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "Strategy",
+    "Business Development",
+    "Teamwork",
+    "Data Analysis",
+    "Corporate Finance",
+    "Marketingstrategie",
+    "Projektmanagement",
+    "Data Modeling",
+    "Equity Research",
+    "Finanzwesen",
+    "Strategisches Management",
+    "Data Transformation",
+    "Unternehmensfinanzierung",
+    "Financial Engineering",
+    "dbt"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Spanisch",
+    "Chinesisch"
+  ],
+  "company": {
+    "name": "Differential Bio",
+    "tagline": "Virtual Scale-up Platform for Bioprocess Optimization",
+    "description": "Differential Bio is integrating scale-down experiments with AI-based modeling to optimize how industry-relevant microbes grow (\"biomass fermentation\") and produce (\"precision fermentation\"). By optimizing bioprocesses and growth conditions, the company is not only increasing their clients' R&D efficiency but alsodramatically improving bioproduction outcomes such as yield, cost efficiency, and product quality.",
+    "industry": "Biotechnology Research",
+    "website": "https://www.differential.bio/",
+    "linkedInUrl": "https://www.linkedin.com/company/differential-bio",
+    "employeeCount": 18,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Bioprocess Optimization",
+      "Biomanufacturing Scale-up"
+    ]
+  }
+}

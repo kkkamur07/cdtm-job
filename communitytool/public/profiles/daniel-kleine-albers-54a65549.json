@@ -1,0 +1,157 @@
+{
+  "id": "daniel-kleine-albers-54a65549",
+  "name": "Daniel Kleine-Albers",
+  "headline": "Head of Digital Financial & Central Solutions bei KGAL",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/daniel-kleine-albers-54a65549",
+  "personId": 1835,
+  "classes": [
+    {
+      "id": 64,
+      "label": "Fall 2008",
+      "season": "Fall",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2008",
+  "major": "Computational Science and Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Daniel Kleine-Albers",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Head of Digital Financial & Central Solutions",
+      "company": "KGAL GmbH & Co. KG (KGAL)",
+      "companyUrl": "https://www.linkedin.com/company/kgal",
+      "description": null,
+      "location": "Grünwald, Bavaria, Germany",
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Geschäftsführer",
+      "company": "dka - edv, media, webdesign - Daniel Kleine-Albers",
+      "companyUrl": null,
+      "description": "Eresing",
+      "location": null,
+      "start": "2001-01",
+      "end": null,
+      "dateRange": "Jan 2001 – Present",
+      "current": true
+    },
+    {
+      "title": "Director",
+      "company": "PATRIZIA SE",
+      "companyUrl": "https://www.linkedin.com/company/patrizia-se",
+      "description": null,
+      "location": "Augsburg",
+      "start": "2018-03",
+      "end": "2023-12",
+      "dateRange": "Mar 2018 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "CTO und Prokurist",
+      "company": "nowcast GmbH",
+      "companyUrl": "https://www.linkedin.com/company/nowcast-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2017-01",
+      "end": "2018-02",
+      "dateRange": "Jan 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "München",
+      "company": "nowcast GmbH",
+      "companyUrl": "https://www.linkedin.com/company/nowcast-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2012-09",
+      "end": "2016-12",
+      "dateRange": "Sep 2012 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "IT Consultant",
+      "company": "Opitz Consulting",
+      "companyUrl": "https://www.linkedin.com/company/opitz-consulting-deutschland-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2010-10",
+      "end": "2012-08",
+      "dateRange": "Oct 2010 – Aug 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "MSc. hon., Computational Science and Engineering",
+      "dateRange": "2008 – 2010"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2008 – 2010"
+    },
+    {
+      "school": "Technische Hochschule Augsburg",
+      "degree": "Dipl.-Inf. (FH), Informatik",
+      "dateRange": "2004 – 2008"
+    }
+  ],
+  "skills": [
+    "Azure Media Services",
+    "IntelliJ IDEA",
+    "PostgreSQL",
+    "Oracle SOA Suite",
+    "Oracle Fusion Middleware",
+    "BPEL",
+    "Weblogic",
+    "SOA",
+    "Business Process Management",
+    "Eclipse",
+    "SQL",
+    "Java",
+    "MySQL",
+    "PHP",
+    "Typo3",
+    "JavaScript",
+    "CSS",
+    "Scala"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "KGAL GmbH & Co. KG (KGAL)",
+    "tagline": "Over 50 years passion for real assets",
+    "description": "KGAL is a leading independent investment and asset manager with a managed investment volume of more than €16 billion. The focus of its investments is on long-term real capital investments for institutional and private investors in real estate, sustainable infrastructure and aviation. The pan-European group was founded 1968 in Grünwald near Munich. 353 employees contribute to achieving sustainably stable earnings, taking into account return and risk aspects (as of 31 December 2022).",
+    "industry": "Financial Services",
+    "website": "http://www.kgal.de/en/",
+    "linkedInUrl": "https://www.linkedin.com/company/kgal",
+    "employeeCount": 300,
+    "foundedYear": 1968,
+    "location": "Grünwald, Germany",
+    "specialities": [
+      "Real Assets",
+      "Real Estate",
+      "Infrastructure",
+      "Renewable Energies"
+    ]
+  }
+}

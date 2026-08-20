@@ -1,0 +1,204 @@
+{
+  "id": "alikareemraja",
+  "name": "Ali Kareem Raja",
+  "headline": "Co-Founder @ KNOWRON | MIT | Forbes 30u30",
+  "avatar": {
+    "sm": "/avatars/alikareemraja-sm.webp",
+    "lg": "/avatars/alikareemraja.webp",
+    "blur": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAACwBQCdASogACAAPtFYpUyoJSOiKA1RABoJYgBv/qgAqgPcJ37+sfDdXMoazRHFnaPFmZDyqSgA/v6TqWtemkG1pmiT98Hv4ZD/qMDh10qf5YTdDX4+m8y74lQF5NU/cKOsB7YKm0kzZXt/3qbvustb5LGR72L6/9d9ypMIlFwPIT94RBwgfuJB1ZJfPdgQZgWjvc1kjS18JWGhWhHNA2RjHAAS54OZ2C6/F4PdMWx/tkq2/qBF8WepFa+oLIYs5Q8rHPU+D1YAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/alikareemraja",
+  "personId": 934,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Ali Kareem Raja",
+  "ca": null,
+  "summary": "A technologist who strongly believes in utilizing tech to bring about social change.   \n\nI'm passionate about Artificial Intelligence technologies and have worked on Information Retrieval and Generative AI for various applications. I expertise in C#, Python, RDBMS (mySQL, SQLServer), MongoDB, React, JavaScript and the usual suspects on the web: HTML, CSS etc. Side quests: Mobile applications (iOS, Android) on React Native.\n\nReachable -> firstnäme@knowron.com",
+  "positions": [
+    {
+      "title": "Member (Class XXVIII)",
+      "company": "Alchemist Accelerator",
+      "companyUrl": "https://www.linkedin.com/company/alchemist-accelerator",
+      "description": null,
+      "location": null,
+      "start": "2021-04",
+      "end": null,
+      "dateRange": "Apr 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "KNOWRON",
+      "companyUrl": "https://www.linkedin.com/company/knowron",
+      "description": "Digital Assistant for deskless workers",
+      "location": null,
+      "start": "2020-08",
+      "end": null,
+      "dateRange": "Aug 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Student Strategy Consultant",
+      "company": "DataGuard",
+      "companyUrl": "https://www.linkedin.com/company/dataguard1",
+      "description": "Collaborative project between DataGuard and CDTM. Analyzing potential new markets and developing an entry strategy.",
+      "location": null,
+      "start": "2019-10",
+      "end": "2020-01",
+      "dateRange": "Oct 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Student Software Engineer",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Working student in the Autonomous Driving department.\nDevelopment and Site Reliability Engineering of a Kaggle like system for Machine Learning projects + Data Management for autonomous driving. (Python, Django, Ansible, Kubernetes, OpenShift, AWS)\n\nMaster Thesis research in the Powertrain Development department. Feature Engineering for high dimensional and sparse data + Extreme multi label classification (Spark, Tensorflow, Python).",
+      "location": null,
+      "start": "2019-08",
+      "end": "2020-08",
+      "dateRange": "Aug 2019 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Student Robotics Engineer",
+      "company": "Artisense (a Kudan Inc. company)",
+      "companyUrl": "https://www.linkedin.com/company/artisense",
+      "description": "Development of the Synthetic AD Datasets, mapping pointclouds on GIS, and processing of evaluation of Stereo Data (ROS, ArcGis, CARLA)",
+      "location": null,
+      "start": "2018-10",
+      "end": "2019-07",
+      "dateRange": "Oct 2018 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Collaborative projects between Siemens and CDTM.\n\n- Trends and Market Research project in collaboration with Siemens A.I. Lab. Explored the impact of Virtual Assistants and A.I. in the factory of the future.\n\n- Open Innovation project in collaboration with Siemens Power Services. Designed and built a product to improve the quality of maintenance reports for Industrial Gas Turbines",
+      "location": null,
+      "start": "2018-02",
+      "end": "2018-07",
+      "dateRange": "Feb 2018 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Synergy-IT Pakistan",
+      "companyUrl": "https://www.linkedin.com/company/synergypakistan",
+      "description": "Part of a team responsible for redesigning and developing the e-commerce systems for Denmark’s largest online book retailer.\n\nImplementation of Data, Pricing, Order Placement and Licensing APIs (WebAPI, C#, AngularJs).  \nImplemented the information retrieval system using Apache Solr \nDevOps implementation on existing Team Foundation Server 2015\nImplementation of Authentication, Authorization and Single Sign On Server",
+      "location": null,
+      "start": "2015-08",
+      "end": "2017-09",
+      "dateRange": "Aug 2015 – Sep 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Researcher, Technology Management",
+      "dateRange": "2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Computer Science",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "National University of Computer and Emerging Sciences",
+      "degree": "Bachelor's degree, Computer Science",
+      "dateRange": "2011 – 2015"
+    }
+  ],
+  "skills": [
+    "MySQL",
+    "HTML",
+    "Microsoft SQL Server",
+    "JavaScript",
+    "SQL",
+    "Java",
+    "C",
+    "C++",
+    "Linux",
+    "Node.js",
+    "Python (Programming Language)",
+    "Databases",
+    "Generative AI",
+    "Business Intelligence",
+    "Machine Learning",
+    "Deep Learning",
+    "Data Mining",
+    "Software Development",
+    "Project Management",
+    "Business Strategy",
+    "User Interface Design",
+    "Data Analysis",
+    "C#",
+    "Product Development",
+    "Programming",
+    "Large Language Models (LLM)",
+    "REST",
+    "ISO 27001",
+    "Computer Vision",
+    "MongoDB",
+    "Cascading Style Sheets (CSS)",
+    "Algorithms",
+    ".NET Framework",
+    "ASP.NET",
+    "Data Warehousing",
+    "Software Engineering",
+    "Automation",
+    "Continuous Integration",
+    "Object Oriented Design",
+    "Elasticsearch",
+    "Information Retrieval"
+  ],
+  "languages": [
+    "English",
+    "Urdu",
+    "German"
+  ],
+  "company": {
+    "name": "KNOWRON",
+    "tagline": "Empowering industrial workers with an AI-based digital assistant.",
+    "description": "🧠 What if every technician had the knowledge of the entire company right in their pocket?\nWith KNOWRON, that vision becomes reality.\nKNOWRON is an AI-powered assistant for smartphones and desktops – purpose-built for service technicians, industrial workers, and other deskless professionals.\nOur solution delivers your organization’s knowledge exactly where it’s needed: on site – fast, intuitive, and voice-driven.\n\nKey Features:\n🔍 Natural Language Search\nFind answers in seconds – through AI-powered search across manuals, protocols, and internal documents.\n\n📚 Closing Knowledge Gaps\nKNOWRON identifies frequently asked questions and automatically generates tailored, company-specific knowledge articles.\n\n🛠️ Smart Instructions & Training\nCreate step-by-step instructions and interactive training modules – for seamless onboarding and continuous learning.\n\n📝 Automated Documentation\nGenerate standardized, audit-ready service reports via voice input – fast, accurate, and effortless.",
+    "industry": "Software Development",
+    "website": "https://www.knowron.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/knowron",
+    "employeeCount": 10,
+    "foundedYear": 2020,
+    "location": "München, Germany",
+    "specialities": [
+      "AI",
+      "AI Assistant",
+      "Enterprise software",
+      "European AI",
+      "Knowledge management",
+      "Retain internal knowledge",
+      "Automize documentation"
+    ]
+  }
+}

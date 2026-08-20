@@ -1,0 +1,244 @@
+{
+  "id": "machadoalexander",
+  "name": "Alexander Machado",
+  "headline": "Simplifying EU AI Act Operationalization | Head Trustworthy AI | MLOps | TUM | CDTM | UnternehmerTUM | Max Planck Society | BMW | Bavarian Elite Network",
+  "avatar": {
+    "sm": "/avatars/machadoalexander-sm.webp",
+    "lg": "/avatars/machadoalexander.webp",
+    "blur": "data:image/webp;base64,UklGRj4BAABXRUJQVlA4IDIBAABwBgCdASogACAAPtFapU0oJSOiKA1RABoJbACdMt8lxFZ9+5rWw5jKLQX+ZSfBgt7wPJcXfBsvrG2bMyAA/u5c3J9IrKKyl+Rm6FN8W3sk1fvojO2UdA4ZFHW4069i0Ywvs5fYpwb9DQWTpl01CH6CvR9PATYVNdHVNXvJ24h5xcOyLfVtUa2Usx5wcbWWbaZ3uvxURlU8u0acf3hQjdtE6bx0sPDxecl0ASkP4d83Ftw8Zw773qaOTe/MvNDcbjJo5Lydb4BxCFwi5+ZHV7CdKyGasU7ORzLyd/R/aAvmyrMednxED5V9fDeg0mrGB0a0YeFCb51ooicFBT+0zxIu5rWyqEa1PokJygK4Pf1Tn6kAKJLO7Td/HYfrZSCaHg1lq8o6LJq8Ktz/4SWMYrAAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/machadoalexander",
+  "personId": 1033,
+  "classes": [
+    {
+      "id": 72,
+      "label": "Fall 2012",
+      "season": "Fall",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2012",
+  "major": "Communication Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Alexander Machado",
+  "ca": null,
+  "summary": "AI is bringing immense value in multiple disciplines across the world. However, we need to ensure it is aligned with our safety, health and fundamental human rights. We at appliedAI empower companies in Europe to operationalize Trustworthy AI as a competitive advantage to drive innovation and create trust on European AI. We support companies operationalizing the EU AI Act at the organizational-level, use case-level and upskilling their workforce with AI literacy. \n\nIf you are struggling to set up your AI Governance processes to develop AI use cases according to the EU AI Act, don't hesitate to reach out to us! \n\nShort Bio: Alexander Machado is the Head of the Trustworthy AI and former Head of MLOps Processes at appliedAI Initiative. He has a decade of experience in Data Science, Artificial Intelligence, and Data Engineering at appliedAI, the Max Planck Society, and BMW. His work focused on leading, planning, and developing AI solutions from experimentation to production. He has developed multiple MLOps frameworks and published an MLOps online course. Currently, he is further developing processes that address the inherent challenges of production systems and compliance with the upcoming AI Act. Background in Electrical and Communications Engineering at the Technical University of Munich and Honours Degree in Technology Management at the Center for Digital Technology and Management (LMU-TUM).\n\nPreviously: Head of MLOps Processes team at appliedAI, supported companies to efficiently reduce AI project failure rate and augment the impact of AI in their disciplines. Senior AI Engineer leading and consulting AI Projects, defining and evaluating use cases, developing AI solutions from experimentation to production, understanding technical challenges and best practices from the customers along the ML life cycle and their AI journey.",
+  "positions": [
+    {
+      "title": "Head of Trustworthy AI CoE",
+      "company": "appliedAI Initiative GmbH",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of MLOps Processes",
+      "company": "appliedAI Initiative GmbH",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2024-02",
+      "dateRange": "Jan 2023 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Team Lead MLOps Processes",
+      "company": "appliedAI Initiative GmbH",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-07",
+      "end": "2022-12",
+      "dateRange": "Jul 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Senior Artificial Intelligence Engineer",
+      "company": "appliedAI Initiative GmbH",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": "Developed and led multiple AI-Solutions in agile teams:\n\n- Tender Tool (9 months): Developed and led an agile team for the upgrade and optimization of an AI-based smart bidding tool, currently used in production. Maintained internal feature store, model-data versioning system, deployment, data ingestion, data engineering, advanced analytics (counterfactuals), autoML. Analysis of medicines sales, stock and more than 100 features in every node of the supply chain, from manufacturers to the patient. Stack: Hive, Scoop, Python.\n\n- ML Pipeline (3 months): Comparison and Evaluation of state-of-the-art AI tools for: Data Versioning, Model Versioning, Deployment, and Monitoring. Developed and applied a methodology to compare state-of-the-art tools and frameworks for different components of the ML life cycle (data versioning, experiment tracking, model versioning, deployment) per field of interest (NLP, time series, image recognition).\n\n- Stockout detection (6 months): Designed and implemented an early stockout detector algorithm, with multivariate multi-step time series forecasting. Big data tools: Pyspark, Hive, Impala, Python. Developed an algorithm to forecast stock out of medicines in pharmacies over different periods of time, spanning from one to three months in the future. Developed both the PoC and the production code, following the company requirements for fast and scalable algorithms.\n\n- Working Group Enterprise ML (4 months): Collected and analyzed main challenges and best practices in the ML lifecycle from sessions with appliedAI's partners. Developed appliedAI's view on the ML lifecycle based on internal and partners experiences.\n\n- Knowledge Transfer (9 months): Led a team of 4 engineers in order to automate the information \nextraction of relevant metadata from Emails by using Natural Language Processing.\n\n- Professionalisation Framework (3 months): Part-time developer of the appliedAI python library to support the best practices of applying AI in production.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-05",
+      "end": "2022-10",
+      "dateRange": "May 2019 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Data Scientist. Research Information Data Scientist",
+      "company": "Max Planck Society, Max Planck Digital Library",
+      "companyUrl": "https://www.linkedin.com/company/maxplanckit",
+      "description": "Improve decision-making, strategy and negotiations of MPDL by collecting, processing, modeling, forecasting, visualizing and evaluating research information data.\nTasks: Data mining, web development for data collection, data migrations, data cleaning, ETL, regex for NLP, regression analysis, outlier detection, GLM, data summary, reports automation.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-05",
+      "end": "2019-04",
+      "dateRange": "May 2015 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Data Scientist Project “Feasibility study for technology and innovation acceptance based on Web 2.0\"",
+      "company": "Expertenkommission Forschung und Innovation EFI, Max Planck Digital Library, Max Planck Society",
+      "companyUrl": null,
+      "description": "Analysed the feasibility to model an indicator for technology acceptance per country based on web 2.0 (automated collecting and analysis social media data).",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-02",
+      "end": "2015-05",
+      "dateRange": "Feb 2015 – May 2015",
+      "current": false
+    },
+    {
+      "title": "Internship for the Honours Degree in Technology Management",
+      "company": "QUT (Queensland University of Technology)",
+      "companyUrl": "https://www.linkedin.com/company/queensland-university-of-technology",
+      "description": "Internship Title: Opportunities in Social Media and Urban Informatics for Risk Assessment and Reduction. \nDescription: The Internet of Things is generating huge quantities of data. In this work, real-time data available in social media, government data bases and future sensor-based systems in smart cities, will be collected in order to analyze and predict geo-located events. Institutions such as insurance companies and governments might be able to improve their decision making and risk evaluation from the collected and analyzed data.\nSoftware and Web Technologies: HTML5, CSS, JavaScript, Leafletjs, Ruby on Rails.",
+      "location": "Munich, Germany.",
+      "start": "2014-06",
+      "end": "2014-12",
+      "dateRange": "Jun 2014 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Master Thesis for the Master of Science in Communication Engineering - Master Thesis Patented",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Master Thesis Title: Modelling Objective QoE and Task Performance Metrics for Automotive Video Streaming Applications.\nMaster Thesis Grade: 1.0\nMaster Thesis Patented\nPublications on the Thesis: \n1.- Co-author of Conference Paper and Patent Application: “Camera context based estimation of spatial and temporal activity parameters for video quality metric in automotive applications”. At BMW, Munich, Germany.\n2.- Co-author of Conference Paper and Patent Application: “Bit rate estimation for H.264/AVC video encoding based on temporal and spatial activities”. At BMW, Munich, Germany.\n\nDescription: In this work, a low complexity approach for the estimation of temporal and spatial parameters, of videos captured by a front-facing camera of a vehicle, based purely on vehicular sensor data is presented. The estimated parameters are integrated into an objective video quality metric which can be used to determine the perceptual quality of a compressed video stream. The proposed metric has very low computational complexity which makes it suitable for live video streaming applications. In addition, another novel bit rate model was developed for H.264/AVC video encoding. The model is based on the quantization parameter, the frame rate as well as temporal and spatial activity measures. With the proposed model, it is possible to trade off the frame rate versus the quantization parameter to achieve a target bit rate. Our model depends on video activity measures that can be easily calculated from the uncompressed video. In our experiments, the model achieves a PC of 0.99 and a RMSE of less than 5%.\nSoftware: MATLAB, Microsoft Excel, LaTeX.",
+      "location": "Hanauerstr.46, Munich, Germany",
+      "start": "2013-04",
+      "end": "2013-12",
+      "dateRange": "Apr 2013 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Internship for the Master of Science in Communication Engineering",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Internship Title: Edge computing and suitability of LTE for future automotive off-board services.\nDescription: In this work, the suitability of LTE for future automotive off-board services was investigated. A scenario with rural traffic mobility, real density of vehicles, real life applications and specific QoS assignments was simulated using the software OPNET and the results were analyzed. In addition, the feasibility of different strategies that may reduce the end-to-end delay of the communication between the BMW vehicles and a back-end server, by bringing the server to the edge was analyzed.\nSoftware: MATLAB, OPNET.",
+      "location": "Hanauerstr.46, Munich, Germany",
+      "start": "2012-10",
+      "end": "2013-02",
+      "dateRange": "Oct 2012 – Feb 2013",
+      "current": false
+    },
+    {
+      "title": "Specialist in Network Operations",
+      "company": "DIGITEL",
+      "companyUrl": "https://www.linkedin.com/company/corporacion-digitel",
+      "description": "Vicepresidency of Network Operations.\nCoordination of Engineering for Planning and Transmission.\nDescription: Trainee Program for talented engineers: In a 14-month period, I worked as a Telecom-Engineer in 3 different coordinations of the department of Planning & Engineering of Transmission: Backbone transmission (SDH), Access Transmission (PDH) and Backbone IP/MPLS. My work was to plan and optimize TDM & IP transmission over SDH and PDH for 2G & 3G services of Voice & Data by Microwave Antennas and Fiber-Optic. \nI led the project of test with real traffic, analysis and comparison of PTN (Packet Transport Network) from ZTE, Huawei, Nera (ECI) and Tellabs, in order to select the best equipment for the company’s needs as part of the first key step for the evolution of the SDH network to an IP based system.\n\nCommon Functions: \n-Planning, Migration and Optimization of SDH, PDH and IP traffic.\n-Balance of services transiting the country’s central region.\n-Wiring diagram of radios and multiplexers for the central region of the country.\n-Planning for installation and un-installation of multiplexers.\n-Engineering for the installation of radio channels with occasional traffic and to equip radios and multiplexers for different applications.\n-Planning of fiber-optic connection.",
+      "location": "Venezuela",
+      "start": "2010-08",
+      "end": "2011-10",
+      "dateRange": "Aug 2010 – Oct 2011",
+      "current": false
+    },
+    {
+      "title": "Technical Service Engineer",
+      "company": "SYH Servicios, C.A. Contractor of Hewlett Packard (HP).",
+      "companyUrl": null,
+      "description": "Diagnosing and troubleshooting hardware and software failures on laptops, PCs and servers of the HP brand.  Services of installation and wiring of racks, HP servers and UPS equipment. After following the diagnostic protocol and detecting equipment failures, we proceeded to replace the defective piece of the equipment. As well as creating restore and recovery points, formatting and installing operating systems.",
+      "location": "Venezuela",
+      "start": "2009-03",
+      "end": "2009-06",
+      "dateRange": "Mar 2009 – Jun 2009",
+      "current": false
+    },
+    {
+      "title": "Internship for the Electronic Engineering Degree",
+      "company": "Honeywell",
+      "companyUrl": "https://www.linkedin.com/company/honeywell",
+      "description": "Internship Title: Design and installation of the Engineering Laboratory for the Honeywell Building Solutions Department with the configuration and implementation of three subsystems. \nDescription: During this work, I performed the design, installation, configuration and integration of three Honeywell subsystems in a local area network for control and supervision from a server running Windows Server 2003. Consequently, allowing the engineering staff to perform any test of both hardware and software in each subsystem of the laboratory. The Subsystems installed were: Fire Alarm Systems, Closed Circuit Television (CCTV) and Access Control Systems.\nSoftware: Windows Server 2003, EBI (Enterprise Building Integrator), Axis IP Utility, HDVM(Honeywell Digital Video Manager), Verifire Tools, Xpedite, Quick Builder, Display Builder, VMware.",
+      "location": "Venezuela",
+      "start": "2008-04",
+      "end": "2008-10",
+      "dateRange": "Apr 2008 – Oct 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science in Communication Engineering, Electrical Engineering Department. Ranked as number one in Germany.",
+      "dateRange": "2011 – 2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Entrepreneurship and Technology Management.",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Universidad Simón Bolívar",
+      "degree": "Electronic Engineer graduated with the \"Cum Laude\" distinction., Electrical and Electronics Engineering",
+      "dateRange": "2003 – 2009"
+    }
+  ],
+  "skills": [
+    "Matlab",
+    "LabVIEW",
+    "C++",
+    "APIs management",
+    "LaTeX",
+    "Spanish",
+    "English",
+    "German",
+    "Testing",
+    "Telecommunications",
+    "Python",
+    "Data Analytics",
+    "Machine Learning",
+    "Big Data",
+    "Event Modeling and Prediction",
+    "LTE",
+    "Electronics",
+    "Engineering",
+    "Programming",
+    "Linux",
+    "Data Science",
+    "Python (Programming Language)",
+    "PySpark",
+    "Deep Learning"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "appliedAI Initiative GmbH",
+    "tagline": "Advancing the competitiveness of the European industry in the age of AI and shaping a future that we want to live in.",
+    "description": "Empowering Your Business to Lead with AI through Expertise You Trust\n\nAt appliedAI, we specialize in creating customized AI solutions for large and medium-sized enterprises, helping you unlock AI's full potential to drive business success.\n\nDriving Measurable Impact with AI\nWe’re here to turn AI into a powerful asset for your business, enabling improved productivity, streamlined operations, and a competitive edge. Our solutions focus on tangible outcomes that propel your business forward.\n\nTailored AI Services to Fit Your Journey\nFrom consulting to engineering and AI training, we cover the entire AI spectrum. Whether you're just starting or looking to enhance your AI capabilities, we guide you at every stage to ensure strategic and efficient progress in your AI maturity.\n\nThe appliedAI Difference: Innovation, Compliance, and Quick ROI\nOur advantage lies in our comprehensive approach, including compliance with the EU AI Act. With strong connections to decision-makers in Germany and Brussels, we ensure your AI solutions are both cutting-edge and fully compliant. Our expert team identifies high-ROI use cases and rapidly delivers MVPs, while our Learner Paths platform upskills your workforce, fostering AI-driven innovation across your company.\n\nTrusted by Industry Leaders\nWe’ve successfully partnered with companies like Linde and Infineon to elevate their productivity through AI use cases such as Anomaly Detection, Generative AI, and Reinforcement Learning. Our proven results show significant business impact.\n\nStart Your AI Journey Today\nSee how AI can create real value for your business. Fill out our contact form and start your journey to AI excellence with appliedAI.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.appliedai.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/appliedai-initiative",
+    "employeeCount": 95,
+    "foundedYear": 2017,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Artificial Intelligence",
+      "Künstliche Intelligenz",
+      "Reinforcement Learning",
+      "AI Eco-System",
+      "AI Use Case",
+      "AI Strategy",
+      "Trustworthy AI",
+      "AI Compliance",
+      "GenAI",
+      "AI Consulting",
+      "AI solutions",
+      "AI strategy",
+      "AI conferences",
+      "AI Training"
+    ]
+  }
+}

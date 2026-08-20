@@ -1,0 +1,224 @@
+{
+  "id": "pranav-ragupathy-987446182",
+  "name": "Pranav Ragupathy",
+  "headline": "Crafting Solutions @ Aleph Alpha | MIT | CDTM | LMU",
+  "avatar": {
+    "sm": "/avatars/pranav-ragupathy-987446182-sm.webp",
+    "lg": "/avatars/pranav-ragupathy-987446182.webp",
+    "blur": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAACQBQCdASogACAAPtFSpU2oJCMiMBgIAQAaCWUAtsmMFLVsaJ8qfZSOcyEVFLYX0onPM6jzAAD+/NSe6jX4tefb9tDR/HOjg2ZuT3QMwoLRYTx73rOqDFc9JkNjCCLWFnMBcKYQp549nL1Of39E3EjoHZN4sID3RLrkJWQNve0nI/ka/w9LsrEh3xHbb2/BaF7T5/bL9N9l9cfu7H9l81LbEo0Plm5lt+FVZVxjl8O4GmASmWBaPm47WIAAAA=="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/pranav-ragupathy-987446182",
+  "personId": 880,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Data Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Pranav Ragupathy",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Lead AI Solutions Engineer",
+      "company": "Aleph Alpha",
+      "companyUrl": "https://www.linkedin.com/company/aleph-alpha",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior AI Solutions Engineer",
+      "company": "Aleph Alpha",
+      "companyUrl": "https://www.linkedin.com/company/aleph-alpha",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2024-10",
+      "end": "2025-09",
+      "dateRange": "Oct 2024 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "AI Solutions Engineer",
+      "company": "Aleph Alpha",
+      "companyUrl": "https://www.linkedin.com/company/aleph-alpha",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-10",
+      "end": "2024-09",
+      "dateRange": "Oct 2023 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "MIT Center for Collective Intelligence",
+      "companyUrl": "https://www.linkedin.com/company/mit-center-for-collective-intelligence",
+      "description": "- Building LLM applications to boost innovation.\n- Using the Supermind design framework to spur creativity.",
+      "location": "Cambridge, Massachusetts, United States",
+      "start": "2023-02",
+      "end": "2024-01",
+      "dateRange": "Feb 2023 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Delicious Data GmbH",
+      "companyUrl": "https://www.linkedin.com/company/deliciousdata",
+      "description": "• Implemented demand forecasting for bakeries to optimize stock.\n• Built and maintained deep learning models for location-based sales predictions.\n• Devised a scalable architecture for handling rapid expansion, enabling smooth onboarding of 10x more\ncustomers.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-06",
+      "end": "2023-01",
+      "dateRange": "Jun 2022 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Working Student Data Science",
+      "company": "GfK",
+      "companyUrl": "https://www.linkedin.com/company/gfk-an-niq-company",
+      "description": "- Focusing on the client platform data analytic solutions.\n- Evaluated new data sources for potential value to existing work-streams.\n- Leveraged NLP tools and techniques to add value to Point of Sales (PoS) data",
+      "location": "Nuremberg, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2022-06",
+      "dateRange": "Apr 2021 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "LMU Munich – Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Part of an interdisciplinary research project funded by the European Research Council (ERC) that aims to study the impact of digital spaces where political expression can expand infinitely and accommodate extreme speech. \n\nMore specifically, I worked on leveraging copious amounts of Social Media data to provide data-driven insights and statistical backing to qualitative arguments.",
+      "location": "Munich Area, Germany",
+      "start": "2019-11",
+      "end": "2020-08",
+      "dateRange": "Nov 2019 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Technology Development Intern",
+      "company": "Make My Trip",
+      "companyUrl": "https://www.linkedin.com/company/makemytrip.com",
+      "description": "Built a successful Text/Document Classifier and explored various Image classification algorithms. Worked closely with AWS S3 buckets to handle large scale data storage.",
+      "location": "Bangalore",
+      "start": "2019-07",
+      "end": "2019-09",
+      "dateRange": "Jul 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Technical Intern",
+      "company": "Linkstreet Learning Pvt. Ltd.",
+      "companyUrl": "https://www.linkedin.com/company/linkstreet",
+      "description": "Used Recurrent Neural Networks (RNN) to build an efficient Question-Answer system that has evolved into a conversational chatbot for the FAQ section of the existing application. Designed a base framework for the AI Chatbot to handle contextual queries from customers.",
+      "location": "Bengaluru Area, India",
+      "start": "2018-06",
+      "end": "2018-08",
+      "dateRange": "Jun 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Marketing Intern",
+      "company": "Shotang India",
+      "companyUrl": null,
+      "description": "Worked on the ground level to understand the intricacies of the market space and conducted surveys involving 100 retailers - compiled the information and presented an analysis.",
+      "location": "Bangalore",
+      "start": "2016-06",
+      "end": "2016-08",
+      "dateRange": "Jun 2016 – Aug 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Researcher, Data Science",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Data Science",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Ashoka University",
+      "degree": "Bachelor's degree, Computer Science",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Summer Semester, Computer Science",
+      "dateRange": "2017"
+    },
+    {
+      "school": "National Public School",
+      "degree": "AISSCE Class XII",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "National Public School",
+      "degree": "AISSCE Class X",
+      "dateRange": "2012 – 2013"
+    }
+  ],
+  "skills": [
+    "Software Development",
+    "Large Language Models (LLM)",
+    "Statistics",
+    "Language Modeling",
+    "ChatGPT",
+    "Pandas (Software)",
+    "Git",
+    "PyTorch",
+    "Analytical Skills",
+    "Forecasting",
+    "Software Systems Engineering",
+    "Machine Learning",
+    "Python (Programming Language)",
+    "Java",
+    "JavaScript",
+    "C++",
+    "TensorFlow",
+    "Hadoop",
+    "Deep Learning",
+    "Leadership"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Aleph Alpha",
+    "tagline": "Master your sovereign AI transformation into a new era of knowledge work.",
+    "description": "Aleph Alpha delivers cutting-edge AI innovation from research to deployment. Our full-stack solution, PhariaAI, enables enterprises and public institutions to build sovereign, secure, and trustworthy applications – without compromising control.",
+    "industry": "Technology, Information and Internet",
+    "website": "http://www.aleph-alpha.com",
+    "linkedInUrl": "https://www.linkedin.com/company/aleph-alpha",
+    "employeeCount": 350,
+    "foundedYear": 2019,
+    "location": "Heidelberg, Germany",
+    "specialities": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "LLM",
+      "Specialized Language Models"
+    ]
+  }
+}

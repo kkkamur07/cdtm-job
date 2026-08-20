@@ -1,0 +1,209 @@
+{
+  "id": "louisamayr",
+  "name": "Louisa Mayr",
+  "headline": "Investment Manager",
+  "avatar": {
+    "sm": "/avatars/louisamayr-sm.webp",
+    "lg": "/avatars/louisamayr.webp",
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAAAwBgCdASogACAAPtFco02oJSMiKA1RABoJQBkiZYMMEzd+WCxCE//tqKSbu18QYDIwVWvXnF1H8FAAAP7+Ltsm+LViDL8OGLcuC/EHVP1u4RZGpR8PuXSEkt//vGGk5Pl3s0pKQiPUsythrVhLy7mp9hVn9tcVxi+DNFaZNv+cZ5KyUNOIki1M22YQEPP53W6+dPmAqVTyooX6gI0JQ8L4ejqMGaWnvT0G8r0Ppa6zfURL9XaM6GmSCOxEjMUC/1nf5SfxphbCvoqKYrzqTjfczGkq4uEMOfpKSAkVBYAER8kXzJC82gAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/louisamayr",
+  "personId": 814,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Louisa Mayr",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Investment Manager",
+      "company": "Maxburg Capital Partners GmbH",
+      "companyUrl": "https://www.linkedin.com/company/maxburgcapital",
+      "description": null,
+      "location": null,
+      "start": "2024-06",
+      "end": null,
+      "dateRange": "Jun 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Manager Corporate Development and M&A",
+      "company": "Adragos Pharma",
+      "companyUrl": "https://www.linkedin.com/company/adragos-pharma",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-02",
+      "end": "2024-05",
+      "dateRange": "Feb 2021 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Associate",
+      "company": "Adragos Pharma",
+      "companyUrl": "https://www.linkedin.com/company/adragos-pharma",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-09",
+      "end": "2021-02",
+      "dateRange": "Sep 2020 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Manager Strategy & Growth",
+      "company": "VERTANICAL GmbH",
+      "companyUrl": "https://www.linkedin.com/company/vertanical-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-03",
+      "end": "2020-09",
+      "dateRange": "Mar 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Working Student Strategic Marketing CUAV",
+      "company": "Rohde & Schwarz",
+      "companyUrl": "https://www.linkedin.com/company/rohde-schwarz",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-06",
+      "end": "2019-12",
+      "dateRange": "Jun 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "KEYLENS Management Consultants",
+      "companyUrl": "https://www.linkedin.com/company/keylens",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-04",
+      "end": "2017-06",
+      "dateRange": "Apr 2017 – Jun 2017",
+      "current": false
+    },
+    {
+      "title": "Marketing Intern",
+      "company": "L'Oréal",
+      "companyUrl": "https://www.linkedin.com/company/loréal",
+      "description": "Düsseldorf",
+      "location": null,
+      "start": "2016-09",
+      "end": "2017-02",
+      "dateRange": "Sep 2016 – Feb 2017",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "KPMG Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/kpmg-deutschland",
+      "description": "Frankfurt am Main",
+      "location": null,
+      "start": "2015-05",
+      "end": "2015-07",
+      "dateRange": "May 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "CPC Unternehmensmanagement AG",
+      "companyUrl": "https://www.linkedin.com/company/cpc-unternehmensmanagement-ag",
+      "description": null,
+      "location": "Frankfurt Rhine-Main Metropolitan Area",
+      "start": "2014-05",
+      "end": "2014-07",
+      "dateRange": "May 2014 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "Summer Intern",
+      "company": "HSBC",
+      "companyUrl": "https://www.linkedin.com/company/hsbc",
+      "description": null,
+      "location": "Greater Dusseldorf Area",
+      "start": "2013-07",
+      "end": "2013-08",
+      "dateRange": "Jul 2013 – Aug 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "WHU – Otto Beisheim School of Management",
+      "degree": "Bachelor of Science, BWL & Management",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, BWL",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Washington University in St. Louis",
+      "degree": "Exchange semester",
+      "dateRange": "2015"
+    },
+    {
+      "school": "Friedrich-Wilhelm Gymnasium",
+      "degree": "Abitur",
+      "dateRange": null
+    },
+    {
+      "school": "The Geelong College",
+      "degree": null,
+      "dateRange": "2010"
+    }
+  ],
+  "skills": [
+    "Projektmanagement",
+    "Strategisches Marketing",
+    "Brand Management",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "PowerPoint",
+    "Englisch",
+    "HTML5",
+    "Consulting",
+    "Teamwork"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Latein"
+  ],
+  "company": {
+    "name": "Maxburg Capital",
+    "tagline": null,
+    "description": "Maxburg is an investment management company focusing on Germany and the German-speaking markets. Set up by three partners with long-standing and successful track records as entrepreneurs and investors in public and private equity, Maxburg is actively seeking out long-term investments in stable and profitable small and medium-sized companies with a view towards lasting and sustainable value creation.\n\nWith a total fund volume and capital commitments of more than €1bn, Maxburg is able to draw on an exceptionally flexible investment mandate: we do not only actively invest using a broad range of equity and quasi-equity means – ranging from straight equity to mezzanine and related  options – but are also able to take sizeable positions with publicly listed companies. We take minority as well as majority positions with our investment companies. We consider ourselves as friendly activist in style and approach. On a deal-by-deal perspective, we would usually commit between €10m and €100m per transaction.\n\nOur ultimate aim is to create real and lasting long term value across and beyond the business cycle. We are happy to leave short-term and momentum-driven investments to other market participants.\n\nWe believe in the values of an open and trustworthy partnership together with our investors, portfolio companies as well as management. By doing so, we not only help to create great companies but also hope to maximize the long-term upside for all parties involved.\n\nMaxburg is fully-owned by its management and partners.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://www.maxburg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/maxburgcapital",
+    "employeeCount": 22,
+    "foundedYear": 2014,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

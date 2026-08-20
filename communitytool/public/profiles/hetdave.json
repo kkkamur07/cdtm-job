@@ -1,0 +1,243 @@
+{
+  "id": "hetdave",
+  "name": "Het Dave",
+  "headline": "Co-Founder @ Andustry (YC P26) | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/hetdave-sm.webp",
+    "lg": "/avatars/hetdave.webp",
+    "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAACwBQCdASogACAAPtFcqE2oJSQiKAqpABoJYwDGfYyMsmlt/iehi0Y6ZN3qblnZ/DEKgDWj0AAA/vullfCun61ebwkKlV35G/V1+PkLxCcb/pUwRTRXvagete31EAIWV0OmN6WN9NY4FPEmUM4nIEw0TlFtennWuZ/Uo4hIhTOwE/Gw/q/Jka3epjJ/3S4pUU/PDw6LKgQqwXmDr7m4tN/c1FLUswDfW+MaI1VVaN58AchFNB8aUHfIGMBl6uubys3gAA=="
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/hetdave",
+  "personId": 1298,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Computer Science and Statistics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Het Dave",
+  "ca": null,
+  "summary": "andustry.com / hetdave.com",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Andustry (YC P26)",
+      "companyUrl": "https://www.linkedin.com/company/andustry-ai",
+      "description": null,
+      "location": null,
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Engineering",
+      "company": "Aries Global",
+      "companyUrl": "https://www.linkedin.com/company/aries-global",
+      "description": "Platform, Agents & a bit of Forward Deployed engineering for portfolio companies",
+      "location": null,
+      "start": "2025-09",
+      "end": "2026-03",
+      "dateRange": "Sep 2025 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "AI & Engineering",
+      "company": "FINN",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": "Led FINN's efforts to help scale operations using autonomous agents",
+      "location": null,
+      "start": "2025-05",
+      "end": "2025-11",
+      "dateRange": "May 2025 – Nov 2025",
+      "current": false
+    },
+    {
+      "title": "AI & Engineering",
+      "company": "FINN",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": "Agents, Workflows, Internal Tools, Retool, MVPs & Automations for the operations team",
+      "location": null,
+      "start": "2024-09",
+      "end": "2025-04",
+      "dateRange": "Sep 2024 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "Undergraduate Teaching Assistant",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Tutor at the chair of Theoretical Computer Science",
+      "location": null,
+      "start": "2024-04",
+      "end": "2024-09",
+      "dateRange": "Apr 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Product",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "University Collaboration - User research, Product research & Product development for an internal AI platform at BMW",
+      "location": null,
+      "start": "2024-04",
+      "end": "2024-09",
+      "dateRange": "Apr 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Engineering",
+      "company": "Stealth Startup",
+      "companyUrl": "https://www.linkedin.com/company/stealth-startup-community",
+      "description": "Quant Research, Portfolio Optimization & API engineering for a fintech client",
+      "location": null,
+      "start": "2024-04",
+      "end": "2024-06",
+      "dateRange": "Apr 2024 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Scholarship",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": "Amazon Future Engineer program scholar with the AWS team",
+      "location": null,
+      "start": "2023-10",
+      "end": "2024-03",
+      "dateRange": "Oct 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Research",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "University Research Project - Noise reduction using Differentiable Architecture Search in Quantum computers",
+      "location": null,
+      "start": "2023-10",
+      "end": "2024-02",
+      "dateRange": "Oct 2023 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Product",
+      "company": "CHECK24 Vergleichsportal GmbH",
+      "companyUrl": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh",
+      "description": "Product Development, Data Science & User research for the Apps team of the Finances Division",
+      "location": null,
+      "start": "2023-09",
+      "end": "2024-03",
+      "dateRange": "Sep 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Strategy",
+      "company": "TUM Venture Labs",
+      "companyUrl": "https://www.linkedin.com/company/tum-venture-labs",
+      "description": "AI Strategy, Startup Analysis and Research Support across several Labs & Projects",
+      "location": null,
+      "start": "2023-05",
+      "end": "2023-08",
+      "dateRange": "May 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Undergraduate Teaching Assistant",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Tutor (x2) at the Chair of Programming Languages and AI under Prof. Dr. (i.R) François Bry\n\nAwarded Best Teaching Assistant (2023)",
+      "location": null,
+      "start": "2023-04",
+      "end": "2023-09",
+      "dateRange": "Apr 2023 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Engineering",
+      "company": "FINN",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": "Software Engineering and Automation for several teams. Built an internal expenditure engine working with the CTO",
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-04",
+      "dateRange": "Jan 2023 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Engineering",
+      "company": "FINN",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": "Business Automation for the Tooling & Security team",
+      "location": null,
+      "start": "2022-10",
+      "end": "2022-12",
+      "dateRange": "Oct 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Strategy",
+      "company": "deskbird",
+      "companyUrl": "https://www.linkedin.com/company/deskbird",
+      "description": "Financial Analysis, VC Analysis, Pricing Strategy, Statistical Research and Growth Predictions at the CEO office",
+      "location": null,
+      "start": "2022-04",
+      "end": "2022-09",
+      "dateRange": "Apr 2022 – Sep 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Y Combinator",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Computer Science + Statistics",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Karlsruhe Institute of Technology (KIT)",
+      "degree": "Bachelor's degree (Studienkolleg), Computer Science",
+      "dateRange": "2021 – 2022"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Andustry (YC P26)",
+    "tagline": "Andustry as an AI-native broker that helps manufacturers source industrial equipment.",
+    "description": "Andustry is the AI-native broker for industrial machines and tools.\n\nOur AI agents source suppliers, reach out, negotiate, and surface the best deals for manufacturers and buyers automatically. What used to take months of emails, calls, and factory visits now happens in minutes.\n\nOn average, our customers save 30% on their sourcing costs.",
+    "industry": "Manufacturing",
+    "website": "http://andustry.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/andustry-ai",
+    "employeeCount": 2,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

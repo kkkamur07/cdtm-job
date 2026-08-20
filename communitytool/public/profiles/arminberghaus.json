@@ -1,0 +1,170 @@
+{
+  "id": "arminberghaus",
+  "name": "Armin Berghaus",
+  "headline": "Working on the future of digital identity • Co-Founder & MD Technology @ IDnow • Formerly Armin Bauer",
+  "avatar": null,
+  "location": "Percha, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/arminberghaus",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "Startup founder - Entrepreneur - Geek. I love to build products to bring ideas to life. Also a passionate kitesurfer and snowboarder.",
+  "positions": [
+    {
+      "title": "Founder, Managing Director Technology",
+      "company": "IDnow",
+      "companyUrl": "https://www.linkedin.com/company/idnow",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-05",
+      "end": null,
+      "dateRange": "May 2013 – Present",
+      "current": true
+    },
+    {
+      "title": "Business Angel Investor",
+      "company": "Beteiligungsgesellschaft",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2006-01",
+      "end": null,
+      "dateRange": "Jan 2006 – Present",
+      "current": true
+    },
+    {
+      "title": "CTO, Founder",
+      "company": "XING Events GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2006-08",
+      "end": "2012-08",
+      "dateRange": "Aug 2006 – Aug 2012",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Net.com",
+      "companyUrl": null,
+      "description": "Fremont",
+      "location": null,
+      "start": "2005-01",
+      "end": "2005-12",
+      "dateRange": "Jan 2005 – Dec 2005",
+      "current": false
+    },
+    {
+      "title": "IT Administrator",
+      "company": "Dess Consulting GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2003-01",
+      "end": "2005-12",
+      "dateRange": "Jan 2003 – Dec 2005",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Greater Manaus",
+      "location": null,
+      "start": "2003-01",
+      "end": "2003-12",
+      "dateRange": "Jan 2003 – Dec 2003",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "IACT GmbH",
+      "companyUrl": null,
+      "description": "Cologne Bonn Region",
+      "location": null,
+      "start": "1998-01",
+      "end": "1999-12",
+      "dateRange": "Jan 1998 – Dec 1999",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Electrical Engineering / Robotics",
+      "dateRange": "2002 – 2007"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2004 – 2006"
+    }
+  ],
+  "skills": [
+    "Early-stage Startups",
+    "SaaS",
+    "Business Angel Investments",
+    "Entrepreneurship",
+    "MySQL",
+    "Java",
+    "Ruby",
+    "Ruby on Rails",
+    "Spring",
+    "Hibernate",
+    "Wicket",
+    "Drupal",
+    "Bootstrap",
+    "Apache",
+    "Tomcat",
+    "Linux System Administration",
+    "Chef",
+    "Scrum",
+    "Kanban"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "company": {
+    "name": "IDnow",
+    "tagline": "Where trust powers identity.",
+    "description": "IDnow is a leader in digital identity and fraud prevention in Europe with a mission to transform trust into the most powerful asset in the digital world, empowering enterprises with AI-driven, SaaS-based identity solutions that deliver scalable security, adaptive compliance, and real-time fraud prevention. Through its broad portfolio of digital identity and fraud prevention solutions, IDnow establishes, maintains and enriches trust throughout the customer journey, ensuring businesses can confidently and securely operate while leveraging digital identity to drive growth, security and scalability.  \n\nThe company has offices in Germany, United Kingdom, and France and is backed by renowned institutional investors, including Corsair Capital and Seventure Partners. Its portfolio of international clients spans a wide range of end markets including financial services, telecommunications, travel & mobility, gaming, and other industries.",
+    "industry": "Software Development",
+    "website": "https://www.idnow.io/",
+    "linkedInUrl": "https://www.linkedin.com/company/idnow",
+    "employeeCount": 432,
+    "foundedYear": 2014,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Video-Identifikation",
+      "Identification",
+      "eSigning",
+      "FinTech",
+      "InsurTech",
+      "eGovernment",
+      "Mobility",
+      "RegTech",
+      "ICO",
+      "Crypto",
+      "Fraud prevention",
+      "KYC",
+      "QES",
+      "eIDAS",
+      "AML",
+      "Video Identification",
+      "AutoIdent",
+      "VideoIdent",
+      "eSign"
+    ]
+  }
+}

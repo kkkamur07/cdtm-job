@@ -1,0 +1,168 @@
+{
+  "id": "jonas-clotten",
+  "name": "Jonas Clotten",
+  "headline": "TUM I CDTM I Studienstiftung",
+  "avatar": {
+    "sm": "/avatars/jonas-clotten-sm.webp",
+    "lg": "/avatars/jonas-clotten.webp",
+    "blur": "data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASogACAAPs1YokunpSMhsBgMAPAZiWwAsQmACpZ9yHf1rSeyCP8X/0U4gqkS+pvEF2HZi5VwAAD+6oKF2OnQ/z7sypwJFlpw07UMS5HYQH5Y991SrU4KmsxHwoZIJyrDPhFw5lA3W7r3d8RxnVHwMeVzTCRdTYXgTvcSe3n+WKmW3HRGuls6G7dWmSEIL0a2o84XOOpUqOuACheO5MjW9pNcvKe+LZ2ipQu3DvgIQqksUehfG+3YBJ9me/nZKFb1voFlI7J5CkWEUv9pmwFSucBEgZDWghSR1Cmei2AacbP1x44id6M/MNnEkYYhwgz+WroJF/gLr7i/y7Lvg3p4ZdAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jonas-clotten",
+  "personId": 2082,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jonas Clotten",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Spring Intern",
+      "company": "Deutsche Bank",
+      "companyUrl": "https://www.linkedin.com/company/deutsche-bank",
+      "description": null,
+      "location": "Frankfurt, Hesse, Germany",
+      "start": "2021-03",
+      "end": null,
+      "dateRange": "Mar 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Working Student",
+      "company": "Ebenbuild",
+      "companyUrl": "https://www.linkedin.com/company/ebenbuild",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-11",
+      "end": "2025-01",
+      "dateRange": "Nov 2024 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Founders Associate",
+      "company": "Ebenbuild",
+      "companyUrl": "https://www.linkedin.com/company/ebenbuild",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": "2024-07",
+      "dateRange": "Jan 2024 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "Roland Berger",
+      "companyUrl": "https://www.linkedin.com/company/rolandberger",
+      "description": null,
+      "location": "Düsseldorf, North Rhine-Westphalia, Germany",
+      "start": "2023-10",
+      "end": "2023-12",
+      "dateRange": "Oct 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "Simon-Kucher & Partners",
+      "companyUrl": "https://www.linkedin.com/company/simon-kucher",
+      "description": null,
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "start": "2022-09",
+      "end": "2022-11",
+      "dateRange": "Sep 2022 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Sales Associate",
+      "company": "JEBO - Junior Enterprise Bologna",
+      "companyUrl": "https://www.linkedin.com/company/jebobologna",
+      "description": null,
+      "location": "Bologna, Emilia-Romagna, Italy",
+      "start": "2021-09",
+      "end": "2022-10",
+      "dateRange": "Sep 2021 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "M&A Intern",
+      "company": "Transfer Partners Unternehmensgruppe",
+      "companyUrl": "https://www.linkedin.com/company/transfer-partners-unternehmensgruppe",
+      "description": null,
+      "location": "Düsseldorf, North Rhine-Westphalia, Germany",
+      "start": "2021-08",
+      "end": "2021-09",
+      "dateRange": "Aug 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "Altea GmbH",
+      "companyUrl": "https://www.linkedin.com/company/altea-gmbh",
+      "description": null,
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "start": "2020-10",
+      "end": "2020-12",
+      "dateRange": "Oct 2020 – Dec 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "MSc, Management & Technology",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Alma Mater Studiorum – Università di Bologna",
+      "degree": "BSc, Business & Economics",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Mataré-Gymnasium Europaschule",
+      "degree": "Bilingual A-Levels (\"Abitur\")",
+      "dateRange": "2011 – 2019"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Ebenbuild",
+    "tagline": "Personalized health intelligence for the lung",
+    "description": "Ebenbuild is a digital health tech pioneer developing precise, patient-specific simulation models of lungs based on patient data, so-called digital twins of the lungs. Its digital toolset is based on physics-based simulation, AI, and data science and is designed to support decision makers in the life sciences industry, clinicians, and physicians. Ebenbuild's approach provides a better understanding of respiratory diseases and individual pathophysiology enabling a new class of products and services ranging from in silico trials to accelerate and de-risk the development of inhaled drugs to personalized treatment options that improve the chances of survival and recovery in millions of cases of respiratory conditions such as Acute Respiratory Distress Syndrome (ARDS) each year.",
+    "industry": "Software Development",
+    "website": "http://www.ebenbuild.com",
+    "linkedInUrl": "https://www.linkedin.com/company/ebenbuild",
+    "employeeCount": 31,
+    "foundedYear": 2019,
+    "location": "München, Germany",
+    "specialities": [
+      "drug delivery",
+      "digital twin",
+      "respiratory",
+      "simulation",
+      "clinical decision support",
+      "in silico trials"
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "id": "sebastiantimwagner",
+  "name": "Sebastian Wagner",
+  "headline": "Co-Founder at Leegle | ex-appliedAI | CDTM",
+  "avatar": null,
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sebastiantimwagner",
+  "personId": 1447,
+  "classes": [
+    {
+      "id": 71,
+      "label": "Spring 2012",
+      "season": "Spring",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2012",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sebastian Wagner",
+  "ca": null,
+  "summary": "Computer Scientist turned AI Engineer turned founder. I love building scalable software and reproducible infrastructure. I have experience with:\n- Machine Learning\n- Data Engineering\n- Software Engineering (Frontend, Backend)\n- Kubernetes & Docker\n- Cloud Infrastructure (Google Cloud, AWS)\n- CI/CD Pipelines\n- MLOps, DevOps, GitOps\n- Blockchain Data Analytics\n- Geospatial and Relational Databases (PostGIS, PostgreSQL)",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Leegle",
+      "companyUrl": "https://www.linkedin.com/company/leegle-ai",
+      "description": "Empowering regulatory and product compliance teams with AI-driven automation.",
+      "location": "München",
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Moonblock",
+      "companyUrl": "https://www.linkedin.com/company/moonblock-io",
+      "description": "Analytics of Web3 projects for brands. Worked with multiple Fortune 500 companies as customers.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-07",
+      "end": null,
+      "dateRange": "Jul 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior AI Engineer",
+      "company": "appliedAI Initiative - UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2018-09",
+      "end": "2022-06",
+      "dateRange": "Sep 2018 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Android App Development Intern",
+      "company": "italki",
+      "companyUrl": "https://www.linkedin.com/company/italki",
+      "description": null,
+      "location": null,
+      "start": "2016-05",
+      "end": "2016-07",
+      "dateRange": "May 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Carnegie Mellon University",
+      "companyUrl": "https://www.linkedin.com/company/carnegie-mellon-university",
+      "description": null,
+      "location": "Großraum Pittsburgh und Umgebung",
+      "start": "2015-01",
+      "end": "2015-06",
+      "dateRange": "Jan 2015 – Jun 2015",
+      "current": false
+    },
+    {
+      "title": "Business Intelligence (Working Student)",
+      "company": "Freeletics",
+      "companyUrl": "https://www.linkedin.com/company/freeletics",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2014-02",
+      "end": "2014-12",
+      "dateRange": "Feb 2014 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Strategy Intern",
+      "company": "Audi China",
+      "companyUrl": "https://www.linkedin.com/company/audi-china",
+      "description": null,
+      "location": null,
+      "start": "2013-08",
+      "end": "2013-10",
+      "dateRange": "Aug 2013 – Oct 2013",
+      "current": false
+    },
+    {
+      "title": "Software Engineer (Working Student)",
+      "company": "TrustYou",
+      "companyUrl": "https://www.linkedin.com/company/trustyou",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2013-02",
+      "end": "2013-06",
+      "dateRange": "Feb 2013 – Jun 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master’s Degree, Computer Science",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Fudan University",
+      "degree": "Exchange studies, Computer Science",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (BS), Computer Science",
+      "dateRange": "2010 – 2015"
+    },
+    {
+      "school": "National Taiwan University",
+      "degree": "Exchange studies, Computer Science",
+      "dateRange": "2012 – 2013"
+    }
+  ],
+  "skills": [
+    "Machine Learning",
+    "Software Engineering",
+    "Deep Learning",
+    "Natural Language Processing",
+    "Python",
+    "Computer Vision",
+    "Kubernetes",
+    "DevOps",
+    "Continuous Integration and Continuous Delivery (CI/CD)",
+    "Cloud Computing",
+    "GitOps",
+    "Scrum",
+    "Scrum Master",
+    "Google Cloud Platform (GCP)",
+    "Google Kubernetes Engine (GKE)"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "company": {
+    "name": "Leegle",
+    "tagline": "The ai-native regulatory and product compliance operating system.",
+    "description": null,
+    "industry": "Software Development",
+    "website": "https://www.leegle.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/leegle-ai",
+    "employeeCount": 4,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

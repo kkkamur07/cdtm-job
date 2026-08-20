@@ -1,0 +1,217 @@
+{
+  "id": "vincentsitzmann",
+  "name": "Vincent Sitzmann",
+  "headline": "Assistant Professor @ MIT Computer Science and Artificial Intelligence Laboratory (CSAIL).",
+  "avatar": {
+    "sm": "/avatars/vincentsitzmann-sm.webp",
+    "lg": "/avatars/vincentsitzmann.webp",
+    "blur": "data:image/webp;base64,UklGRiwBAABXRUJQVlA4ICABAABwBgCdASogACAAPtFaqU4oJKQiKAqpABoJagCdMuOCsQAFPuFiQR0NLRInX2537Pa8zbq9Y1dRasKczAAA/o8RlUt/zJNRLkcrjhSBYsj+06NwkxLCp6cHXkOrGbI75SgRnJmm5vXDZN2+QWZ1+QlHpiSqf0DLeNpGJnPW78hRYh1Qub2CHW0cZGdXQ7KRll3jX/FuL9dhE+1WrF8FeRB6dxr5zlT3zsvlYrwEdoH0labXbVoEFfLXATF7PcBcW4r8/jDDiPudwF18U8SPpD50niKrE+T37LgeX8rWvDcL8XDHKrJeDuLiO/Gse72j1CYPGal/Xo06mnnf1UFwxd6QnSsYzWiTCcf8NH943VBqZILgkhSLGajqte8w3NUAAAA="
+  },
+  "location": "Cambridge, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/vincentsitzmann",
+  "personId": 1215,
+  "classes": [
+    {
+      "id": 73,
+      "label": "Spring 2013",
+      "season": "Spring",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2013",
+  "major": "Elektro- und Informationstechnik",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Vincent Sitzmann",
+  "ca": null,
+  "summary": "I am a computer vision researcher with a focus on 3d scene representations. Specifically, I am researching how we can distill pictures of a scene into a representation that is accessible to machine learning algorithms, to solve problems such as scene reconstruction, novel view synthesis, scene understanding, etc. My day-to-day tools are deep learning, optimization, as well as multi-view and projective geometry.\n\nIn another line of research, I am interested in end-to-end optimization of cameras for the joint design of algorithms and hardware for true task-specific sensors.",
+  "positions": [
+    {
+      "title": "Assistant Professor",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "I am an Assistant Professor at MIT CSAIL, where I am leading the Scene Representation Group (scenerepresentations.com). My group investigates neural scene representations - the way neural networks learn to represent information on our world. Our goal is to allow independent agents to reason about our world given visual observations, such as inferring a complete model of a scene with information on geometry, material, lighting etc. from only few observations, and then plan and execute actions in the scene, a task that is simple for humans, but remains a significant challenge for AI.",
+      "location": "Cambridge, Massachusetts, United States",
+      "start": "2022-07",
+      "end": null,
+      "dateRange": "Jul 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder and Chief Scientist",
+      "company": "Yellow",
+      "companyUrl": "https://www.linkedin.com/company/yellowai",
+      "description": "At Yellow, we are accelerating 3D workflows for anyone who builds digital worlds, beginning with game studios. We're hiring strong researchers and software engineers with a background in 3D computer vision, generative modeling, and mesh processing - please reach out if that is you!",
+      "location": "San Francisco Bay Area",
+      "start": "2023-07",
+      "end": "2025-02",
+      "dateRange": "Jul 2023 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Academic Adviser",
+      "company": "Preferred Networks, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/preferred-networks",
+      "description": "I advise Preferred Networks in 3D reconstruction & learned scene representations.",
+      "location": null,
+      "start": "2020-12",
+      "end": "2021-07",
+      "dateRange": "Dec 2020 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Postdoctoral Researcher",
+      "company": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+      "companyUrl": "https://www.linkedin.com/company/mit-csail",
+      "description": "Working with Prof's Joshua Tenenbaum, Fredo Durand, and Bill Freeman on neural scene representations, computer vision, and computer graphics. Supervising several grad & undergrad students.",
+      "location": "Cambridge, Massachusetts, United States",
+      "start": "2020-07",
+      "end": "2022-07",
+      "dateRange": "Jul 2020 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Google AI",
+      "companyUrl": "https://www.linkedin.com/company/google-ai",
+      "description": "Working with Prof. Noah Snavely on research in 3D computer vision.",
+      "location": "Großraum New York City und Umgebung",
+      "start": "2019-06",
+      "end": "2019-11",
+      "dateRange": "Jun 2019 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Investment Associate Intern",
+      "company": "Bridgewater Associates",
+      "companyUrl": "https://www.linkedin.com/company/bridgewater-associates",
+      "description": "Investigated novel approaches to market analysis in the Disruption Lab.",
+      "location": "Westport, CT",
+      "start": "2017-06",
+      "end": "2017-08",
+      "dateRange": "Jun 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "investiert AG",
+      "companyUrl": null,
+      "description": "Private Capital for Young German Companies.",
+      "location": "Munich",
+      "start": "2015-02",
+      "end": "2016-05",
+      "dateRange": "Feb 2015 – May 2016",
+      "current": false
+    },
+    {
+      "title": "Intern New Energy Business Development Department",
+      "company": "BYD",
+      "companyUrl": "https://www.linkedin.com/company/byd",
+      "description": "Responsible for the German market entry with BYD's residential smart-grid product \"Distributed Energy Storage System\".\n- Analysed market and competitors and derived list of potential distributor partners\n- Acquired three distributors to enter a distribution partnership with BYD",
+      "location": null,
+      "start": "2014-01",
+      "end": "2014-04",
+      "dateRange": "Jan 2014 – Apr 2014",
+      "current": false
+    },
+    {
+      "title": "Student Researcher",
+      "company": "AUDI AG",
+      "companyUrl": "https://www.linkedin.com/company/audi-ag",
+      "description": "Nine-week project to research trends, scenarios and ideas for new products in the field of \nHuman-Machine Interaction in Individual Mobility with project-partner Audi",
+      "location": "Munich",
+      "start": "2013-03",
+      "end": "2013-04",
+      "dateRange": "Mar 2013 – Apr 2013",
+      "current": false
+    },
+    {
+      "title": "Intern Java Mobile Edition-Team",
+      "company": "Nokia",
+      "companyUrl": "https://www.linkedin.com/company/nokia",
+      "description": "Development, debugging and documentation of applications (Midlets) for mobile \nphones of the lower-range price segment \n- Invented and developed concept of the application “GuitarAddict“ \n- Implemented and published GuitarAddict in the NokiaStore in the languages German, English and French. More than 120,000 downloads worldwide. User rating of four out \nof five stars",
+      "location": "Ulm, Germany",
+      "start": "2011-07",
+      "end": "2011-09",
+      "dateRange": "Jul 2011 – Sep 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Doctor of Philosophy - PhD, Electrical Engineering",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Technology Management",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "The Hong Kong University of Science and Technology",
+      "degree": "Electrical Engineering",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Electrical Engineering",
+      "dateRange": "2011 – 2015"
+    }
+  ],
+  "skills": [
+    "Artificial Intelligence (AI)",
+    "Computer Graphics",
+    "Computer Vision",
+    "Business Development",
+    "Programming",
+    "Matlab",
+    "Python",
+    "Java",
+    "C++",
+    "Machine Learning",
+    "Computer-Vision",
+    "Hardware Prototyping",
+    "Entrepreneurship",
+    "Business Strategy",
+    "Market Analysis",
+    "Interdisciplinary Collaboration",
+    "Unternehmensstrategie",
+    "Strategisches Management",
+    "Project Management",
+    "Mobile Geräte"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Massachusetts Institute of Technology",
+    "tagline": "mens et manus",
+    "description": "The Massachusetts Institute of Technology (MIT) is a private research university located in Cambridge, Massachusetts.  MIT is devoted to the advancement of knowledge and education of students in areas that contribute to or prosper in an environment of science and technology.",
+    "industry": "Higher Education",
+    "website": "http://web.mit.edu/",
+    "linkedInUrl": "https://www.linkedin.com/company/mit",
+    "employeeCount": 23554,
+    "foundedYear": 1861,
+    "location": "Cambridge, United States",
+    "specialities": [
+      "science",
+      "engineering",
+      "education",
+      "research"
+    ]
+  }
+}

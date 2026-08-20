@@ -1,0 +1,246 @@
+{
+  "id": "timothy-smith-707613135",
+  "name": "Timothy Smith",
+  "headline": "Associate Principal Product Manager @ Celonis | Process Mining and data analytics | CDTM & TUM",
+  "avatar": {
+    "sm": "/avatars/timothy-smith-707613135-sm.webp",
+    "lg": "/avatars/timothy-smith-707613135.webp",
+    "blur": "data:image/webp;base64,UklGRiwBAABXRUJQVlA4ICABAADwBQCdASogACAAPtFUpEuoJKOhsBgMAQAaCWIAuwWvcarSc2Zl6gQZWDW+rKii0HlUlQ2GwPKbgAD+5BoRluu+hl1f3wT4ePP+90PYGe1lRb6kSl/M0Ecs31h1qx/W8xXw99gyc8yqSHoV1Li0dH7Vm/+KFESQPXU+YA8tvJWqFsUDHx4YOTFPiwFP5ZfoxS5kf0D4JnNHiR5b4lHm2qbE/J3Rvq6OOsDwwtKtdnU75VZZFdD/BKaUTS/vMlw1XuM4TMtR/TB7c1MpIg+9A3SVttGSuDHO8nhlGtQ993pqtxYyhF5UufFtspemjfb5OdFMPIH11pfHLXkY/ZJsKzRWE47kmDAMhzy4nL0PZJg1ObAUnhAGNVUdT4/loVwAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/timothy-smith-707613135",
+  "personId": 801,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Mechatronics and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Timothy Smith",
+  "ca": null,
+  "summary": "Experienced Product Manager | passionate about tech-heavy products | Data & AI platforms | CDTM | TUM | driving B2B SaaS innovation in Process Intelligence",
+  "positions": [
+    {
+      "title": "Associate Principal Product Manager",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "- I am the PM for core process mining capabilities with a focus on object-centric process mining (OCPM), working across Knowledge Models, PQL, Studio, and PI graph teams to deliver scalable solutions.\n\n- Owned the Process Knowledge Layer, enriching customer data with business semantics to power the PI Graph. making dashboard deployment faster and analyses more insightful.\n\n- In less than a year I took it from a concept to an MVP being featured prominently in the keynote at Celonis annual conference.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-09",
+      "end": null,
+      "dateRange": "Sep 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "- I was the PM driving the development of Knowledge Models, a centralized source of truth to manage business intelligence (e.g. reusable KPIs, attributes, filters, etc.) to translate raw data into business insights. \n\n- Took Knowledge Models from a prototype to full product with high adoption over the past years.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-09",
+      "end": "2022-08",
+      "dateRange": "Sep 2021 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Tech Executive - Computer Vision, Machine Learning & IoT",
+      "company": "Motius",
+      "companyUrl": "https://www.linkedin.com/company/motius-gmbh",
+      "description": "- Project / Product Manager for interdisciplinary tech projects in the field of Computer Vision, Machine Learning, and IoT.\n\n- With personal sales goals and a strategic role within the company with a direct line to the CEO and CTO.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-04",
+      "end": "2021-09",
+      "dateRange": "Apr 2019 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Project Owner",
+      "company": "Motius",
+      "companyUrl": "https://www.linkedin.com/company/motius-gmbh",
+      "description": "- Management of early-stage innovation projects for companies such as BMW, Siemens, and MAN. Main focus on the creation of ideas and concepts with the help of design thinking, hardware and software prototyping and developing concepts into valid business models.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-07",
+      "end": "2021-09",
+      "dateRange": "Jul 2018 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineer - Intern",
+      "company": "blik GmbH",
+      "companyUrl": "https://www.linkedin.com/company/blik.io",
+      "description": "Implementation of various solutions within whole data pipeline:\n- Embedded Development (IoT sensor)\n- Raspberry Pi\n- MQTT Communication\n- AWS Cloud Services\n- Backend Development",
+      "location": "Garching bei München",
+      "start": "2017-07",
+      "end": "2018-02",
+      "dateRange": "Jul 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher - Multimedia & Entertainment Technology",
+      "company": "The Hong Kong Polytechnic University School of Design (PolyU Design)",
+      "companyUrl": "https://www.linkedin.com/company/polyudesign",
+      "description": "Development of Ambisonics sound system:\n- Design and construction of 32-Speaker System\n- Implementation of different methods to control real-time spatial sound\n- Integration of 3D-Soundsystem in VR (HTC Vive & Unity3D)\n- Exhibition at Sónar Music Festival Hong Kong 2017\n- Exhibition at Connecting Spaces Hong Kong \"Always at the edge of things and between places\"",
+      "location": "Hung Hom, Hong Kong",
+      "start": "2017-01",
+      "end": "2017-06",
+      "dateRange": "Jan 2017 – Jun 2017",
+      "current": false
+    },
+    {
+      "title": "Venture Technology Working Student",
+      "company": "next47",
+      "companyUrl": "https://www.linkedin.com/company/n47capital",
+      "description": "Market analysis of autonomous driving ecosystem:\n- Identification of key drivers\n- Evaluation of business models \n- Scouting of relevant startups in autonomous driving ecosystem",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2016-09",
+      "end": "2016-12",
+      "dateRange": "Sep 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "eGym",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": "Development of virtual trainer Apple Watch app.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-10",
+      "end": "2016-02",
+      "dateRange": "Oct 2015 – Feb 2016",
+      "current": false
+    },
+    {
+      "title": "Robotics - Research Assistant",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Research in the field of Humanoid Robotics:\n- Implementation of a possibility to change dimension of null space during movement of humanoid robot \"LOLA\"\n- Participation in the competition „EUROC“ with team „AM Robotics“",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2014-09",
+      "end": "2015-07",
+      "dateRange": "Sep 2014 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Technical Mechanics - Tutor",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Tutor in Technical Mechanics I, II, and III for 4 semesters",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2013-10",
+      "end": "2015-07",
+      "dateRange": "Oct 2013 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Prototype construction of high-voltage batteries:",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2012-06",
+      "end": "2013-05",
+      "dateRange": "Jun 2012 – May 2013",
+      "current": false
+    },
+    {
+      "title": "Workshop - Intern",
+      "company": "Feinmechanische Werkstätte Thomas Markl GmbH",
+      "companyUrl": null,
+      "description": "Basics of milling, turning, drilling, grinding, etc.",
+      "location": "Deisenhofen",
+      "start": "2011-01",
+      "end": "2011-08",
+      "dateRange": "Jan 2011 – Aug 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "The Hong Kong Polytechnic University",
+      "degree": "Visiting Researcher, Multimedia & Entertainment Technology",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Mechatronics and Information Technology",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Mechatronics and Information Technology",
+      "dateRange": "2011 – 2014"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Projektmanagement",
+    "Maschinelles Lernen",
+    "Start-ups",
+    "Research",
+    "Unternehmertum",
+    "Produktentwicklung",
+    "Scrum",
+    "Computer-Vision",
+    "Datenanalyse",
+    "Simulationen",
+    "Robotik",
+    "Forschung und Entwicklung",
+    "Agile Methoden",
+    "Verfassen von Angeboten",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft Office",
+    "Matlab",
+    "C"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Celonis",
+    "tagline": "When processes work, everything works.",
+    "description": "Celonis makes processes work for people, companies, and the planet.\n\nThe Celonis Process Intelligence Platform takes the data from the systems you already use, and presents you with a living digital twin of your end-to-end processes. It’s system-agnostic, without bias, and provides everyone with a common language for understanding and improving processes. \n\nBecause when processes work, everything works. \n\nSince 2011, Celonis has helped 1,000+ of the world’s largest companies to realize value across the top, bottom, and green line.\n\nCelonis is headquartered in Munich, Germany, and New York City, USA, with more than 20 offices worldwide. Find out more at www.celonis.com.",
+    "industry": "Software Development",
+    "website": "http://www.celonis.com",
+    "linkedInUrl": "https://www.linkedin.com/company/celonis",
+    "employeeCount": 3804,
+    "foundedYear": 2011,
+    "location": "New York City, United States",
+    "specialities": [
+      "Process Mining",
+      "Big Data",
+      "Business Analytics",
+      "Business Processes",
+      "Intelligent Business Cloud",
+      "Intelligent Business System",
+      "Digital Transformation",
+      "Business Process Automation",
+      "Robotic Process Automation",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "SaaS",
+      "Big Data Analysis",
+      "Business Process Analysis",
+      "Process Analytics",
+      "Digital Innovation",
+      "Software Development",
+      "Real Time Optimisation",
+      "Execution Management System"
+    ]
+  }
+}

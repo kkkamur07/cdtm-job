@@ -1,0 +1,149 @@
+{
+  "id": "maximilian-fehrentz",
+  "name": "Maximilian Fehrentz",
+  "headline": "TUM | CDTM | TUM.ai | OneAIM",
+  "avatar": {
+    "sm": "/avatars/maximilian-fehrentz-sm.webp",
+    "lg": "/avatars/maximilian-fehrentz.webp",
+    "blur": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAADQBQCdASogACAAPtFYpEyoJSOiKA1RABoJQBUhIAA0Bx+c3g90x+cYpsuFho2r7SgfyH/+3A2AAP79LbbKtPeyBTX72i2MF/7y4vsBNj1iIyYDBr39TVGjFf1QVS7LRVx6QVSjQDRLGmALAIuiH/amfRrLHzBXfRekhAEv5ZkQ0oDJIcU76nzr8hjSjVBZ9GP3Fu3LBVNjmIhuMsYGDen/cdXm8SOHy+S/aMmAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/maximilian-fehrentz",
+  "personId": 998,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Maximilian Fehrentz",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "PhD Candidate",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "PhD candidate with Prof. Nassir Navab at Computer Aided Medical Procedures (CAMP)",
+      "location": "München, Bayern, Deutschland",
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Student Researcher",
+      "company": "LMU Klinikum München",
+      "companyUrl": "https://www.linkedin.com/company/lmu-klinikum",
+      "description": "Working on 3D computer vision methods for visceral surgery",
+      "location": "München, Bayern, Deutschland",
+      "start": "2024-11",
+      "end": "2025-09",
+      "dateRange": "Nov 2024 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Research Trainee",
+      "company": "Harvard Medical School",
+      "companyUrl": "https://www.linkedin.com/company/harvard-medical-school",
+      "description": "Continued research project from previous stay at the Surgical Planning Lab, working on 3D computer vision in neurosurgery. Paper \"Intraoperative Registration by Cross-Modal Inverse Neural Rendering\" accepted at MICCAI 2024.",
+      "location": "Boston, Massachusetts, Vereinigte Staaten von Amerika",
+      "start": "2024-02",
+      "end": "2024-04",
+      "dateRange": "Feb 2024 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Research Trainee",
+      "company": "Harvard Medical School",
+      "companyUrl": "https://www.linkedin.com/company/harvard-medical-school",
+      "description": "Research Traineeship in the Surgical Planning Laboratory of the Department of Radiology, Brigham and Women's Hospital, Harvard Medical School.",
+      "location": "Boston, Massachusetts, Vereinigte Staaten von Amerika",
+      "start": "2023-06",
+      "end": "2023-09",
+      "dateRange": "Jun 2023 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Teaching assistant for Discrete Probability Theory",
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-04",
+      "end": "2022-08",
+      "dateRange": "Apr 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Mobile Application Developer - Working Student",
+      "company": "Envidual",
+      "companyUrl": "https://www.linkedin.com/company/envidual",
+      "description": "Multiplatform development of mobile applications for Android and iOS",
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-06",
+      "end": "2022-02",
+      "dateRange": "Jun 2020 – Feb 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2023 – 2026"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Informatics",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "Politecnico di Milano",
+      "degree": "Exchange Student",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Utrecht University",
+      "degree": "Exchange Student",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Informatics",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "Siebenpfeiffer-Gymnasium Kusel",
+      "degree": "Abitur",
+      "dateRange": "2010 – 2019"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Technical University of Munich",
+    "tagline": "Official LinkedIn account of the Technical University of Munich",
+    "description": "Our university combines top-class facilities for cutting-edge research with unique learning opportunities for 52,000 students. Whether our researchers are investigating the origins of life, matter and the universe or looking for solutions to the major challenges for our society, people lie at the heart of our research and innovation agenda. Our goal is to create lasting value for society through excellence in education and research, the active promotion of next-generation talents and a strong entrepreneurial spirit. All of which combine to make TUM one of Europe’s leading universities. \n\n| Imprint: http://www.tum.de/legal-notice",
+    "industry": "Research Services",
+    "website": "https://www.tum.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+    "employeeCount": 11550,
+    "foundedYear": 1868,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

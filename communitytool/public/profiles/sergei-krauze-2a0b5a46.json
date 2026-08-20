@@ -1,0 +1,172 @@
+{
+  "id": "sergei-krauze-2a0b5a46",
+  "name": "Sergei Krauze",
+  "headline": "Founder at simplinic",
+  "avatar": {
+    "sm": "/avatars/sergei-krauze-2a0b5a46-sm.webp",
+    "lg": "/avatars/sergei-krauze-2a0b5a46.webp",
+    "blur": "data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAAAQBgCdASogACAAPtFWo0uoJKMhsAgBABoJbACdM2h+AkgPfIVV2J5/G5NZ9Rhf7lO53hhsx0k8X0AA/YWkLyvB2RIsz50FvphJgxJF6R5IkpqE8R7tQ9KQt2+Wu0Fd2ysAAluLcQizNZ2c5GDes+1dZZ8ANfX25rhMWa1ApEdiXTfpzBv25sUS4v0mK/xejVzBTEKP4aLpkOW+vqMIaEpqhnU2P0U3meTZTc30D5RUfKJxgwuVbkMsMY57GlAYUk12AaKVbHFtXnc3rn0Wa8Pw1J0w635FqJ7J6u5vmqyHY+gs3H0bRKSGhshyuoT10bql7149TPfrDgeCXzBvrZ95wehOpkqYyQQuPfy+1afx+yaQ27AAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sergei-krauze-2a0b5a46",
+  "personId": 1242,
+  "classes": [
+    {
+      "id": 74,
+      "label": "Fall 2013",
+      "season": "Fall",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2013",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sergei Krauze",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder, CTO",
+      "company": "simplinic GmbH",
+      "companyUrl": "https://www.linkedin.com/company/simplinic",
+      "description": null,
+      "location": null,
+      "start": "2015-11",
+      "end": null,
+      "dateRange": "Nov 2015 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder, CTO",
+      "company": "foodora",
+      "companyUrl": "https://www.linkedin.com/company/foodora",
+      "description": null,
+      "location": null,
+      "start": "2014-09",
+      "end": "2015-10",
+      "dateRange": "Sep 2014 – Oct 2015",
+      "current": false
+    },
+    {
+      "title": "Technical Product Manager",
+      "company": "Optile GmbH",
+      "companyUrl": "https://www.linkedin.com/company/payoneer",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2013-12",
+      "end": "2014-08",
+      "dateRange": "Dec 2013 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "payworks GmbH",
+      "companyUrl": "https://www.linkedin.com/company/payworks-gmbh",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2013-10",
+      "end": "2013-12",
+      "dateRange": "Oct 2013 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Java Developer",
+      "company": "Weptun GmbH App Development 2.0,",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2012-05",
+      "end": "2013-04",
+      "dateRange": "May 2012 – Apr 2013",
+      "current": false
+    },
+    {
+      "title": ".NET Developer",
+      "company": "First Line Software, Inc",
+      "companyUrl": "https://www.linkedin.com/company/first-line-software-inc",
+      "description": null,
+      "location": null,
+      "start": "2010-11",
+      "end": "2011-05",
+      "dateRange": "Nov 2010 – May 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Peter the Great St.Petersburg Polytechnic University",
+      "degree": "Diploma with honors, Math, Computer Science",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Machine Learning",
+    "Configuration Management",
+    "Scrum",
+    "Java",
+    "Ruby on Rails",
+    "Software Development",
+    "Software Design",
+    "Object Oriented Design",
+    ".NET",
+    "Eclipse",
+    "JIRA",
+    "ASP.NET",
+    "Play! framework",
+    "web2py",
+    "Bootstrap",
+    "C++",
+    "C",
+    "C#",
+    "Python",
+    "Oracle"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "simplinic.Cloud",
+    "tagline": "simplinic.Cloud sorgt für mehr Produktivität im Krankenhaus in den Bereichen Belegung, Logistik, Reinigung und MedTech",
+    "description": "Die simplinic GmbH ist ein führender Anbieter von Software für die Digitalisierung der Ablaufkoordination im Krankenhaus: Mehr Produktivität durch Automatisierung! \n\nUnser modulares Software-Portfolio bietet Lösungen in den Bereichen Logistik, Reinigung, Medizintechnik und bald auch Belegung. Die Software entlastet Mitarbeiter:innen spürbar und befähigt Krankenhäuser mit knappen Ressourcen auszukommen.\n\nModerne und sichere Cloud-Technologie bietet enorme Vorteile:\nUnsere Lösungen sind schlüsselfertig, Kliniken benötigen lediglich Browser und Wifi\nSoftware wird kontinuierlich besser, wöchentliche aktualisieren und erweitern wir unsere Lösungen \nIT Ressourcen werden geschont: Weder Installation, Wartung, Schulung oder Anwenderbetreuung sind von der Klinik zu leisten\nBessere Daten und Benchmarks für echte Prozessverbesserungen führen zur optimalen Auslastung der Funktionsbereiche oder schnellerer Verfügbarkeit reiner Betten\nDas Unternehmen wurde 2016 in Berlin gegründet, ist unabhängig und betreut Klinikkunden in ganz Deutschland.",
+    "industry": "Hospitals and Health Care",
+    "website": "http://www.simplinic.com",
+    "linkedInUrl": "https://www.linkedin.com/company/simplinic",
+    "employeeCount": 13,
+    "foundedYear": 2016,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "IoT",
+      "Real Time Location Tracking",
+      "Software",
+      "Healthcare",
+      "Operational excellence",
+      "UX",
+      "Change Management",
+      "SaaS",
+      "Logistik",
+      "Reinigung",
+      "Belegungsmanagement",
+      "Hospitals",
+      "Krankenhaus"
+    ]
+  }
+}

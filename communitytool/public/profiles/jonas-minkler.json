@@ -1,0 +1,185 @@
+{
+  "id": "jonas-minkler",
+  "name": "Jonas Minkler",
+  "headline": "Building Kuro | AI Platform for Construction",
+  "avatar": {
+    "sm": "/avatars/jonas-minkler-sm.webp",
+    "lg": "/avatars/jonas-minkler.webp",
+    "blur": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAAAQBgCdASogACAAPs1OokunpCMht/VYAPAZiUABAgXOnKrNHyh/eKnthptbmEy48WELiuCLhV1QBRAA/v5hPJ6tXxy8XpawmGy8HXxTPkwhGlZ5ZFv5q6WHGe7fbt98eGtVAk171vyZ09QQ0wXsPg58or2uU+PrvbG2/1xCL+Xyhes3pa6zUoRhLt1zOteud98RJo5NvKD/lA0F5HqNYC08x5UcWsp927CTAFOczDclq+4GAc9vROvgiEeonstOqihUzR7Ceus5mzaRGCatn6D34C5q6bG7SvZt6hrO9HjEBeDVN8G+CaKa2R2nZkdp9JMRa/gekvTS2sbMRKeJ0VqBEiVVUbgAAAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jonas-minkler",
+  "personId": 1095,
+  "classes": [
+    {
+      "id": 82,
+      "label": "Fall 2017",
+      "season": "Fall",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2017",
+  "major": "Media, Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jonas Minkler",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CPO",
+      "company": "Kuro",
+      "companyUrl": "https://www.linkedin.com/company/kuro-ai",
+      "description": null,
+      "location": null,
+      "start": "2024-07",
+      "end": null,
+      "dateRange": "Jul 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Vice President Marketing",
+      "company": "CAPMO",
+      "companyUrl": "https://www.linkedin.com/company/capmo",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-05",
+      "end": "2023-04",
+      "dateRange": "May 2021 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Head Of Marketing",
+      "company": "CAPMO",
+      "companyUrl": "https://www.linkedin.com/company/capmo",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-12",
+      "end": "2021-05",
+      "dateRange": "Dec 2018 – May 2021",
+      "current": false
+    },
+    {
+      "title": "Marketing & Sales Manager",
+      "company": "CAPMO",
+      "companyUrl": "https://www.linkedin.com/company/capmo",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-03",
+      "end": "2018-12",
+      "dateRange": "Mar 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "E-Commerce Strategy",
+      "company": "Otto Group",
+      "companyUrl": "https://www.linkedin.com/company/ottogroup",
+      "description": "- Support in the conception of a major internal project under the direction of the CDO (Sebastian Klauke)\n- Analysis and internal presentation of relevant blockchain use cases for the retail industry and especially the Otto Group\n- Research and preparation of presentations regarding e-commerce market trends for various committees (including the board of directors)",
+      "location": "Hamburg und Umgebung, Deutschland",
+      "start": "2017-03",
+      "end": "2017-08",
+      "dateRange": "Mar 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Intern, Consulting",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": "- On-site project support in the field of digital transformation and e-commerce\n- Main Tasks: support in implementing clients’ “PIM”-System, benchmarking, peer-group analysis, conceptual development of cross-channel concepts\n- part of d-Group (now part of Accenture)",
+      "location": "Düsseldorf und Umgebung, Deutschland",
+      "start": "2016-04",
+      "end": "2016-08",
+      "dateRange": "Apr 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Bánh Mì Brothers",
+      "companyUrl": "https://www.linkedin.com/company/bánh-mì-brothers",
+      "description": "- In charge of operations and marketing\n- The products are a variety of fresh Vietnamese dishes, which were distributed on an event basis as street food",
+      "location": "Köln und Umgebung, Deutschland",
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Student Assistant, Consulting",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": "- General project support in the field of digital transformation and e-commerce\n- Main Tasks: benchmarking with the emphasis on online customer experience, development of a b2b e-commerce strategy for SME, web shop analysis in terms of customer experience, support with creating client proposals\n- part of d-Group (now part of Accenture)",
+      "location": "Düsseldorf und Umgebung, Deutschland",
+      "start": "2015-11",
+      "end": "2016-04",
+      "dateRange": "Nov 2015 – Apr 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science, Management & Digital Technology",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Business Administration and Informatics",
+      "dateRange": "2015"
+    },
+    {
+      "school": "University of Cologne",
+      "degree": "Bachelor of Science (B.Sc.), Betriebswirtschaftslehre & Wirtschaftsinformatik",
+      "dateRange": "2013 – 2016"
+    }
+  ],
+  "skills": [
+    "Projektmanagement",
+    "Marktforschung",
+    "Strategisches Management",
+    "Start-ups",
+    "Finanzanalyse",
+    "Supply-Chain-Management",
+    "Unternehmensführung",
+    "Social Media",
+    "Datenanalyse",
+    "Unternehmensstrategie",
+    "Soziale Medien",
+    "Java",
+    "PowerPoint",
+    "Microsoft Excel",
+    "XML",
+    "WordPress",
+    "SharePoint",
+    "Teamwork",
+    "Web-Content-Management",
+    "Agile Leadership"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Kuro",
+    "tagline": "The AI Platform for the Construction Industry",
+    "description": "Kuro is the AI platform for the construction industry, trusted by leading general contractors. Our platform delivers powerful automations and actionable insights by unlocking construction's largest data source—the 95% unstructured data. With Kuro, users collaborate seamlessly with AI to identify risks, automate entire workflows, and make data-driven decisions, setting new standards for excellence in construction.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://kuro.technology/",
+    "linkedInUrl": "https://www.linkedin.com/company/kuro-ai",
+    "employeeCount": 16,
+    "foundedYear": 2024,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

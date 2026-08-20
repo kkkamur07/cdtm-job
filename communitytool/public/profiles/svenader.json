@@ -1,0 +1,84 @@
+{
+  "id": "svenader",
+  "name": "Sven Ader",
+  "headline": "CDTM | TUM | HSG",
+  "avatar": {
+    "sm": "/avatars/svenader-sm.webp",
+    "lg": "/avatars/svenader.webp",
+    "blur": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAACwBQCdASogACAAPsVSoUunpKMhsAwA8BiJQBdkJAQXCt4T1jsfN7L/Em9p1j5DKpUtEydxPggA/ucotn8Rx2tihq83ZNMPb0uF95vjqplvu+tQH8TlObcwrsTfFxGRN2f1LqTrcKoesJ+i6RBv588etOnEfgLjLTKdnE+7OP89NMLKLlPeDvt9et3KSgjNxvI+9puRiarjmBiElOiajceALjuuGbffoxMCSJLxivzCfTXK9KfnJZwwtI8vXrYVx6LL+LR0JYcCHUPh9lXfcJmboAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/svenader",
+  "personId": 2083,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sven Ader",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Tech Companies, Consulting, SME, and Private Equity",
+      "company": "Various Companies",
+      "companyUrl": "https://www.linkedin.com/company/various-boards",
+      "description": "Worked in early-stage YC and Rocket Internet startups, manufacturing SME, consulting, and PE.",
+      "location": null,
+      "start": "2022-01",
+      "end": null,
+      "dateRange": "Jan 2022 – Present",
+      "current": true
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2025"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student Researcher, School of Information",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management and Technology",
+      "dateRange": null
+    },
+    {
+      "school": "University of St.Gallen",
+      "degree": "Bachelor of Arts - BA, Business Administration",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Various Companies",
+    "tagline": null,
+    "description": "Various board memberships",
+    "industry": null,
+    "website": "http://www.tgleaders.com",
+    "linkedInUrl": "https://www.linkedin.com/company/various-boards",
+    "employeeCount": 21576,
+    "foundedYear": null,
+    "location": "Greenwich, United States",
+    "specialities": []
+  }
+}

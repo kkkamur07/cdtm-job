@@ -1,0 +1,148 @@
+{
+  "id": "christian-schraml-3256a439",
+  "name": "Christian Schraml",
+  "headline": "Entwicklung @ Schraml GmbH",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christian-schraml-3256a439",
+  "personId": 1839,
+  "classes": [
+    {
+      "id": 64,
+      "label": "Fall 2008",
+      "season": "Fall",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2008",
+  "major": "Electrical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christian Schraml",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Entwicklung",
+      "company": "Schraml GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2016-12",
+      "end": null,
+      "dateRange": "Dec 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief Engineering Officer",
+      "company": "eGym GmbH",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": "Responsible for the development and operations of the eGym strength machines.\n- The machine development consists out of three areas: mechanical design, electrical engineering and software development\n- Operations includes production, procurement, order management and service",
+      "location": "München",
+      "start": "2014-03",
+      "end": "2016-12",
+      "dateRange": "Mar 2014 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "VP Operations",
+      "company": "eGym GmbH",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": "Setup and management of the whole eGym machine operations area. In particular:\n- Establishing a customer service area, consisting of field service and inhouse service agents\n- Setup of the machine production at a partnering supplier\n- Introduction of SAP ERP system and management of procurement",
+      "location": null,
+      "start": "2012-04",
+      "end": "2014-02",
+      "dateRange": "Apr 2012 – Feb 2014",
+      "current": false
+    },
+    {
+      "title": "Head of Electrical Engineering",
+      "company": "eGym GmbH",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": "Development of the eGym strength machine electronics, focused on embedded software.",
+      "location": null,
+      "start": "2011-01",
+      "end": "2012-03",
+      "dateRange": "Jan 2011 – Mar 2012",
+      "current": false
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2010-10",
+      "end": "2010-11",
+      "dateRange": "Oct 2010 – Nov 2010",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "BMW",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2008-09",
+      "end": "2008-12",
+      "dateRange": "Sep 2008 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Lauterbach GmbH",
+      "companyUrl": "https://www.linkedin.com/company/lauterbach-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2006-04",
+      "end": "2006-07",
+      "dateRange": "Apr 2006 – Jul 2006",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom, Elektro- und Informationstechnik",
+      "dateRange": "2006 – 2011"
+    },
+    {
+      "school": "Center for Digital Technology & Management",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2008 – 2010"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, School of Information",
+      "dateRange": "2009"
+    }
+  ],
+  "skills": [
+    "Project Management",
+    "Unternehmertum",
+    "Entrepreneurship",
+    "Product Management",
+    "Strategy",
+    "Start-ups",
+    "Management Consulting",
+    "Business Strategy",
+    "Mobile Applications",
+    "Innovation Management",
+    "Software Development",
+    "Product Development",
+    "Software Engineering",
+    "Business Development"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": null
+}

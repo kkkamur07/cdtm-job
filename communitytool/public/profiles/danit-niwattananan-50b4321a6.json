@@ -1,0 +1,303 @@
+{
+  "id": "danit-niwattananan-50b4321a6",
+  "name": "Danit Niwattananan",
+  "headline": "CDTM | RCI @ TUM | CV @ RobCo | Ex-Research @ Fraunhofer",
+  "avatar": {
+    "sm": "/avatars/danit-niwattananan-50b4321a6-sm.webp",
+    "lg": "/avatars/danit-niwattananan-50b4321a6.webp",
+    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAABwBgCdASogACAAPr1On0unJKMht/qoAOAXiWYAnTNZhAQIJAB12+/rSgKsgnM6mlhBM9+ib6ellvKGVDIA/vqsyZb//50HTszS8C5dVa4P9U1TEshutHNyGLT7+DJrGBGfN/xdtJcBg0N+umhF5JV5USsrT5coxxU6EVMZeYeRB8XXXN/IePEJzBs9mPqeyFHrgIlu6XLOXOLCxH5t9wx3/Nesd15c5VdKt+5RhYDXa4Ta999rOHDj9KRt/uq64d3vW5w9jui+TXy/f3ovW5cZEQlHpsNMITUuC271qlfhbkHielan1dezxGdjOXGcatTBCp6DgAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/danit-niwattananan-50b4321a6",
+  "personId": 2111,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Danit Niwattananan",
+  "ca": null,
+  "summary": "I am a German-speaking international student at Technical University of Munich (TUM) who is pursuing a Master's in Robotics, Cognition, Intelligence. I am interested in Computer Vision, LLM, and multi-modal models and would like to apply my knowledge to build products in early startups, especially early seeds and Series A or B.\n\nFeel free to contact me if you are interested!",
+  "positions": [
+    {
+      "title": "Intern",
+      "company": "Knowunity",
+      "companyUrl": "https://www.linkedin.com/company/knowunity",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2026-04",
+      "end": null,
+      "dateRange": "Apr 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "GitHub - danit-niwattananan-personal/schaltungstheorie_exercise_template",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Working Student Computer Vision",
+      "company": "RobCo",
+      "companyUrl": "https://www.linkedin.com/company/robco-therobotcompany",
+      "description": "• Optimized a zero-shot sim2real synthetic detection and segmentation training pipeline for industrial applications, boosting bbox/segm mAP by ~35/30 points while reducing training costs by 10%. Conducted rigorous ablation studies and managed end-to-end data formatting via Roboflow\n• Implemented an automated, robotic touchscreen UI element testing system. Achieved millimeter-level operational precision by executing extrinsic robot-camera calibrations for a stylus-equipped robotic arm\n• Prototyped 6D Pose Estimation using MVTec HALCON for high-precision object localization. Integrated 2D image data and 3D point clouds to ensure robust detection of industrial parts in varying lighting and occlusion scenarios.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-10",
+      "end": "2026-04",
+      "dateRange": "Oct 2025 – Apr 2026",
+      "current": false
+    },
+    {
+      "title": "Co-Software Lead",
+      "company": "WARR",
+      "companyUrl": "https://www.linkedin.com/company/warrtum",
+      "description": "• Co-led the software team of ~10 students developing autonomous software stack for a Martian rover for European Rover Challenge 2025 competition, achieving 22nd place out of 102 applying teams\n• Spearheaded software recruiting by coordinating lecture visits with professors, pitched and presented our team, and processed written application and conducted interviews\n• Oversaw software team organizational aspects and project management via Notion",
+      "location": "Garching, Bavaria, Germany",
+      "start": "2024-10",
+      "end": "2025-09",
+      "dateRange": "Oct 2024 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis",
+      "company": "Fraunhofer IVI",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-institute-for-transportation-and-infrastructure-systems-ivi",
+      "description": "•\tThesis: Visual-based Panoptic Scene Completion (PSC) for autonomous flight and driving applications using the SemanticKITTI dataset (Grade: 1.0) under Computer Vision Group of Prof. Cremers\n•\tResponsibilities: Adapted existing state-of-the-art Semantic Scene Completion (SSC) transformer-based model for PSC task using PyTorch Lightning, Hydra, and Numpy. Preprocessed and implemented automatic data cleanup of the SemanticKITTI dataset using custom filter and algorithms via sklearn. Trained, evaluated models, and finetuned hyperparams in Kubernetes containerized environments, monitored via Grafana. Visualized inference results with Mayavi and Matplotlib",
+      "location": "Ingolstadt, Bavaria, Germany",
+      "start": "2024-07",
+      "end": "2024-12",
+      "dateRange": "Jul 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Fraunhofer IVI",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-institute-for-transportation-and-infrastructure-systems-ivi",
+      "description": "•\tDesigned, programmed, and maintained ROS2 package on Gitlab to synchronize LiDAR with radar and cameras for training data acquisition using PTP protocol in Docker environment on Nvidia Jetson Orin AGX\n•\tPreprocessed automotive datasets and trained CUDA-enabled PyTorch deep learning models on Kubeflow cloud platform \n•\tResearched state-of-the-art radar- and radar-camera-based 3D object detection methods",
+      "location": "Ingolstadt, Bavaria, Germany",
+      "start": "2024-02",
+      "end": "2024-07",
+      "dateRange": "Feb 2024 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Robotics and SLAM Engineer",
+      "company": "WARR",
+      "companyUrl": "https://www.linkedin.com/company/warrtum",
+      "description": "Part of WARR Space Robotics student club (previously known as Exploration), specialized in rover robots for Lunar and Mars exploration. \n\n•\tImplemented state estimation via EKF and graph-based SLAM for our autonomous rover perception using ROS2 packages like robot_localization, evo, rtab_map with RGBD cameras, Lidar, RTK GPS, and IMU in both Gazebo simulation and real-world\n•\tDeveloped and maintained dynamic CI pipeline that automatically builds, tests, and deploys Docker images",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-05",
+      "end": "2024-10",
+      "dateRange": "May 2023 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Member",
+      "company": "TUM DASH",
+      "companyUrl": "https://www.linkedin.com/company/tumdash",
+      "description": "a student club specialized in Exoskeleton robot for paraplegic patient. Member of Embedded System team, and Sponsoring team",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-12",
+      "end": "2023-08",
+      "dateRange": "Dec 2022 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Tutor - Circuit Theory (Schaltungstheorie)",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "• Help first-semester students prepare for final exam by explaining and summarizing weekly lecture key topics, and demonstrating solution process step-by-step (in German), in coordination with the professor’s teaching assistant (Übungsleiter)\n• Author a guide on LaTeX and publish it on Github for others\n• Plan and make preparation for weekly teaching topics and exercises, including creating exercise sheets using LaTeX",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-10",
+      "end": "2023-03",
+      "dateRange": "Oct 2022 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Tutor - Preliminary Math Course for EI (Vorkurs Mathe für EI)",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Helped approx. 25 first-semester students to solve math problems by applying acquired knowledge from the course lectures. The goal is to familiarise the students with often used mathematical fundamental concepts they will encounter in their study in B.Sc. Electrical Engineering and Information Technology.\n\nThe topics include mathematical symbols, logic, vectors and matrices, trigonometry, differentiation and integration, differential equations, one-dimensional and 2-dimensional extreme value calculation, and complex numbers.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-08",
+      "end": "2022-10",
+      "dateRange": "Aug 2022 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Assistant to Manager",
+      "company": "Hoosiers Holdings",
+      "companyUrl": "https://www.linkedin.com/company/hoosiers-holdings",
+      "description": "Hoosiers Holdings is a Japanese real estate company with invested projects around the world. My responsibilities as part of the company's international team stationed in Thailand include:\n\n• Conducted due diligence for Bangkok team to ensure optimal strategic decision-making from top-down level by researching, compiling, and presenting data and insights about Bangkok real estate market using Excel and PowerPoint\n• Accelerated day-to-day business operations by coordinating and communicating with international team members and local entities, translated legal documents (e.g., Sales and Purchase Agreement) and real-time conversations if needed\n• Ensured the company’s appropriate and timely financial filings with the Revenue Department of Thailand by executing payment control protocols accordingly in coordination with local accounting firm partner",
+      "location": "Bangkok City, Thailand",
+      "start": "2021-06",
+      "end": "2021-08",
+      "dateRange": "Jun 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Sales Associate",
+      "company": "UNIQLO",
+      "companyUrl": "https://www.linkedin.com/company/uniqlo",
+      "description": "Sales Associates' task is to improve customers’ shopping experience by providing assistance in various forms e.g., recommendation, handling complaints in accordance with the company’s behavioral and security code, and carrying out the store's day-to-day operation functions.",
+      "location": "Yan na wa, Bangkok City, Thailand",
+      "start": "2019-11",
+      "end": "2019-12",
+      "dateRange": "Nov 2019 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Robotics, Cognition, Intelligence",
+      "dateRange": "2026 – 2028"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Certificate Program, Technology Management",
+      "dateRange": "2025 – 2027"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Electrical, Electronics and Communications Engineering",
+      "dateRange": "2021 – 2026"
+    },
+    {
+      "school": "The University of Edinburgh",
+      "degree": "Bachelor's degree, Electrical and Electronics Engineering",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Studienkolleg Munich",
+      "degree": "T-Course",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Assumption College Thonburi, Thailand",
+      "degree": "High School Diploma, Scientific-Mathematics Program",
+      "dateRange": "2007 – 2019"
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "Project Management",
+    "Recruiting",
+    "Strategic Planning",
+    "Computer Vision",
+    "Natural Language Processing (NLP)",
+    "Transformer Models",
+    "Convolutional Neural Networks (CNN)",
+    "Recurrent Neural Networks (RNN)",
+    "Long Short-term Memory (LSTM)",
+    "Gated Recurrent Units (GRU)",
+    "PyTorch",
+    "Lightning",
+    "Docker",
+    "Kubernetes",
+    "Kubeflow",
+    "Git",
+    "CUDA",
+    "Hydra",
+    "ROS2",
+    "Matplotlib",
+    "Pandas",
+    "Unsupervised Learning",
+    "Reinforcement Learning",
+    "Recommender Systems",
+    "Collaborative Filtering",
+    "Anomaly Detection",
+    "Deep Learning",
+    "Decision Tree",
+    "XGBoost",
+    "Model Development",
+    "Artificial Neural Networks",
+    "Deep Neural Networks (DNN)",
+    "TensorFlow",
+    "SLAM",
+    "Robotics",
+    "Localization Engineering",
+    "Artificial Intelligence (AI)",
+    "Machine Learning",
+    "Supervised Learning",
+    "NumPy",
+    "Scikit-Learn",
+    "Logistic Regression",
+    "Linear Regression",
+    "Communication",
+    "Teaching",
+    "Ubuntu",
+    "WordPress",
+    "Gitlab",
+    "Arduino",
+    "Robot Operating System (ROS)",
+    "KiCAD",
+    "Python (Programming Language)",
+    "MATLAB",
+    "C++",
+    "Tutoring",
+    "LaTeX",
+    "Simulink",
+    "Mathematics",
+    "Sales",
+    "Microsoft PowerPoint",
+    "Presentation Skills",
+    "Microsoft Excel",
+    "Typing"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Thai"
+  ],
+  "company": {
+    "name": "Knowunity",
+    "tagline": "Building the #1 daily AI companion for 1+ billion students globally",
+    "description": "We're building the #1 AI learning companion for 1 billion students worldwide - driven by the purpose of democratising access to the highest quality education.\n\nMillions of students already use our AI learning companion weekly across multiple countries. With proprietary learning data and breakthrough AI technology, we're determined to become the defining platform that transforms how students access education globally. \n\nEducation is at a historic inflection point. AI is finally enabling truly personalised learning at scale - not just disrupting traditional methods, but revolutionising the entire global learning experience. \n\nReady to join our elite team of hands-on builders? Help us become the generational AI learning company serving 1+ billion students. We're looking for engineers, product builders, and growth accelerators who thrive in high-velocity environments and want to architect the future of learning.",
+    "industry": "Mobile Computing Software Products",
+    "website": "https://knowunity.com/careers",
+    "linkedInUrl": "https://www.linkedin.com/company/knowunity",
+    "employeeCount": 185,
+    "foundedYear": 2020,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Large Language Models",
+      "AI Product Development",
+      "AI Learning Platform",
+      "Personalised Learning",
+      "Educational AI",
+      "Learning Analytics",
+      "Product-Led Growth",
+      "Global Scaling",
+      "Consumer AI Products",
+      "Mobile-First Platform",
+      "Product Engineering",
+      "AI-First Workplace",
+      "Natural Language Processing",
+      "Software Engineering",
+      "Startup Innovation"
+    ]
+  }
+}

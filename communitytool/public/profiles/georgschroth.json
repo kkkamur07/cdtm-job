@@ -1,0 +1,191 @@
+{
+  "id": "georgschroth",
+  "name": "Georg Schroth",
+  "headline": "CTO / Co-Founder at NavVis - we are hiring!",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/georgschroth",
+  "personId": 1457,
+  "classes": [
+    {
+      "id": 61,
+      "label": "Spring 2007",
+      "season": "Spring",
+      "year": 2007,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2007",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Georg Schroth",
+  "ca": null,
+  "summary": "Georg Schroth is Chief Technology Officer and a NavVis Co-founder. He started the company based on his experience gained during his time at the Stanford Global Positioning Laboratory as well as the Stanford Information Systems Laboratory. He holds a Ph.D. in Electrical Engineering and Information Technology and graduated from the Center for Digital Technology and Management. At NavVis he is responsible for product strategy, management, and development.",
+  "positions": [
+    {
+      "title": "Board Member",
+      "company": "Embotech",
+      "companyUrl": "https://www.linkedin.com/company/embotech",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2024-12",
+      "end": null,
+      "dateRange": "Dec 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder / Managing Director",
+      "company": "NavVis",
+      "companyUrl": "https://www.linkedin.com/company/navvis",
+      "description": "Bridging the gap between the physical and digital world, NavVis enables service providers and enterprises to capture and share the built environment as photorealistic digital twins. Our SLAM-based mobile mapping systems generate high-quality data with survey-grade accuracy at speed and scale. And with our digital factory solutions, users are equipped to make better operational decisions, boost productivity, streamline business processes, and improve profitability. Based in Munich, Germany, with offices in New York and Shanghai, NavVis has customers worldwide in the surveying, AEC, and manufacturing industries. For more information, visit www.navvis.com.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-05",
+      "end": null,
+      "dateRange": "May 2013 – Present",
+      "current": true
+    },
+    {
+      "title": "Research on vision based mobile indoor localization",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Post Doctoral Researcher",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2013 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Graduate Visiting Researcher",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": "Information Systems Laboratory - Prof. Bernd Girod\n\nDevelopment of a novel low complexity text detection approach, as well as research in the area of content based image retrieval techniques.",
+      "location": "Stanford",
+      "start": "2010-01",
+      "end": "2010-12",
+      "dateRange": "Jan 2010 – Dec 2010",
+      "current": false
+    },
+    {
+      "title": "Ph. D. Candidate",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Research on vision based mobile indoor localization",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2009-01",
+      "end": "2013-12",
+      "dateRange": "Jan 2009 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Engineer",
+      "company": "DLR",
+      "companyUrl": "https://www.linkedin.com/company/dlr",
+      "description": "Continuation of the research and collaboration with Stanford University on the patented GPS integrity algorithm.",
+      "location": null,
+      "start": "2008-01",
+      "end": "2008-12",
+      "dateRange": "Jan 2008 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "Graduate Visiting Researcher",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": "GPS Laboratory - Prof. Per Enge\n\nDevelopment of a new approach in integrity monitoring (RAIM)  as part of the collaboration between the global positioning systems GPS and Galileo.",
+      "location": null,
+      "start": "2007-01",
+      "end": "2007-12",
+      "dateRange": "Jan 2007 – Dec 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2007 – 2009"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl.-Ing., Electrical Engineering and Information Technology",
+      "dateRange": "2003 – 2008"
+    }
+  ],
+  "skills": [
+    "Strategy",
+    "Engineering",
+    "Robotics",
+    "Computer Vision",
+    "Start-ups",
+    "Machine Learning",
+    "Image Processing",
+    "Product Management",
+    "Mobile Devices",
+    "Algorithms",
+    "GPS",
+    "Signal Processing",
+    "Project Management",
+    "Business Strategy",
+    "Entrepreneurship",
+    "Localization",
+    "Sensors",
+    "Software Engineering",
+    "Software Development"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "NavVis",
+    "tagline": "BUILD BETTER REALITY — Bridge the gap between the physical & digital worlds through reality capture technology.",
+    "description": "BUILD BETTER REALITY — Bridge the gap between the physical and digital worlds through reality capture technology that provides the digital foundation for the world you want to live in. We supply fast, reliable spatial data to service providers and enterprises seeking to capture photorealistic digital twins of the built environment. And our digital factory solutions enable greater organizational operability, productivity, agility, and profitability. Headquartered in Munich, Germany, and with offices in the United States, the United Kingdom, and China, NavVis serves global customers across the surveying, AEC, and manufacturing industries. Learn more at www.navvis.com.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.navvis.com",
+    "linkedInUrl": "https://www.linkedin.com/company/navvis",
+    "employeeCount": 402,
+    "foundedYear": 2013,
+    "location": "München, Germany",
+    "specialities": [
+      "Digital Factory",
+      "Reality Capture",
+      "Mobile laser scanning",
+      "Digital Twin",
+      "SLAM",
+      "LiDAR",
+      "Vision-based navigation",
+      "Artificial Intelligence",
+      "Cloud SaaS",
+      "Factory planning",
+      "Laser scanning",
+      "Mobile mapping",
+      "Construction monitoring",
+      "Construction",
+      "Digitalization",
+      "Engineering",
+      "as-built",
+      "Renovation",
+      "Heritage",
+      "Warehouse"
+    ]
+  }
+}

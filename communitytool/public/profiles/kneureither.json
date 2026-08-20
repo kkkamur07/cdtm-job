@@ -1,0 +1,177 @@
+{
+  "id": "kneureither",
+  "name": "Konstantin Neureither",
+  "headline": "Stanford | CDTM | TUM || M.Sc. Physics and M.Sc. Computational Science",
+  "avatar": {
+    "sm": "/avatars/kneureither-sm.webp",
+    "lg": "/avatars/kneureither.webp",
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAADwBQCdASogACAAPsVQo0unpKOhsAwA8BiJYgC2yYvjNP/ehugQLWJw8KPhNSFGZBk8dBnDF1PCAAD++MqM/T2bUSPBW/DmCuB1Bx8KDYSYUBu3SIdDcXBn101nhF3mU5HhFZBaW0EvI6jD1ufS0C87cVvyiGYTnOT4fRFlHhuVjAEVgNzNzuOAXyO9x+fpk8fFbWOy5/lVilJldc+yYrd5N/Cs/88LI30DbKNAgV6Pq7oTOMumSmfkDv4bFLtzBStz6j+dK7ihjX522/cLvlGstVBE8m5pOOTlbAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/kneureither",
+  "personId": 727,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Physics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Konstantin Neureither",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "GNgraphy",
+      "companyUrl": "https://www.linkedin.com/company/gngraphy",
+      "description": "We do Photography, Videography and Webdesign the way you need it.",
+      "location": "Mosbach",
+      "start": "2017-06",
+      "end": null,
+      "dateRange": "Jun 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Researcher at Stanford University / SLAC",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": null,
+      "location": "Palo Alto, California, United States",
+      "start": "2025-04",
+      "end": "2025-10",
+      "dateRange": "Apr 2025 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Scientific Researcher",
+      "company": "Walter Schottky Institute, Technische Universitat Munchen",
+      "companyUrl": "https://www.linkedin.com/company/walter-schottky-institute-technische-universitat-munchen",
+      "description": "Exploring ultrafast on-chip THz dynamics in classical Semiconductors as well as Transition-metal dichalcogenide monolayers.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-04",
+      "end": "2024-04",
+      "dateRange": "Apr 2023 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Working Student Internal Processes, DevOps, BizDev and Marketing",
+      "company": "Peter Park",
+      "companyUrl": "https://www.linkedin.com/company/peterpark",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-10",
+      "dateRange": "Oct 2021 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Management Consulting",
+      "company": "Porsche Consulting",
+      "companyUrl": "https://www.linkedin.com/company/porsche-consulting-",
+      "description": null,
+      "location": "Frankfurt am Main, Hesse, Germany",
+      "start": "2021-01",
+      "end": "2021-04",
+      "dateRange": "Jan 2021 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Assistant System Administrator",
+      "company": "Vermessungsbüro und Geoinformationszentrum Schwing und Dr. Neureither",
+      "companyUrl": null,
+      "description": null,
+      "location": "Mosbach, Baden-Württemberg, Germany",
+      "start": "2017-01",
+      "end": "2017-02",
+      "dateRange": "Jan 2017 – Feb 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Technology Management",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "VSR Student, Machine Learning × Physics",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computational Science and Engineering",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Physics",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Heidelberg University",
+      "degree": "Bachelor's degree, Physics",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Uppsala University",
+      "degree": "Erasmus Exchange, Engineering Physics/Applied Physics",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Nicolaus-Kistner-Gymnasium Mosbach",
+      "degree": "Abitur | A-level degree",
+      "dateRange": "2008 – 2016"
+    }
+  ],
+  "skills": [
+    "Scientific Programming",
+    "Semiconductor Fabrication",
+    "Experimental Research",
+    "Photography",
+    "C++",
+    "Python",
+    "Video Production",
+    "Videography",
+    "Drums",
+    "Web Design",
+    "C#",
+    "Adobe Creative Suite",
+    "Final Cut Pro",
+    "Adobe Photoshop",
+    "Microsoft Excel",
+    "Arduino programming",
+    "Adobe Indesign CC"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Swedish"
+  ],
+  "company": {
+    "name": "GNgraphy",
+    "tagline": null,
+    "description": null,
+    "industry": "Photography",
+    "website": "https://gngraphy.de",
+    "linkedInUrl": "https://www.linkedin.com/company/gngraphy",
+    "employeeCount": 2,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

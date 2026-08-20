@@ -1,0 +1,220 @@
+{
+  "id": "oskarhargedahl",
+  "name": "Oskar Hargedahl",
+  "headline": "Data science and AI",
+  "avatar": null,
+  "location": "Stockholm County, Sweden",
+  "linkedInUrl": "https://www.linkedin.com/in/oskarhargedahl",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "Consulting and personal projects. Most recently Lead Data Scientist at Lassie. Additional previous experience from growth & experimentation focused data science at Spotify and strategy consulting at Boston Consulting Group.\n\nStrong academic background with a masters degree in Management & Digital Technologies from LMU Munich and an honors degree in Technology Management from CDTM - Jointly offered by LMU Munich and the Technical University of Munich (TUM). Bachelors degree from Uppsala University with a major in Business and Economics, and a minor in Computer Science. Additionally, one semester as a Visiting Researcher at the University of California Berkeley, and one semester at Hanken School of Economics in Helsinki. \n\nAthletic background as a member of the Swedish national team in American Football.",
+  "positions": [
+    {
+      "title": "Konsult",
+      "company": null,
+      "companyUrl": null,
+      "description": "Consulting & personal projects.",
+      "location": "Stockholms kommun, Stockholms län, Sverige",
+      "start": "2025-03",
+      "end": null,
+      "dateRange": "Mar 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Lead Data Scientist",
+      "company": "Lassie",
+      "companyUrl": "https://www.linkedin.com/company/lassieco",
+      "description": "Leading data team and work within analytics and ML/AI at Lassie. Responsible for data and collaboration with teams spanning product, tech, marketing and insurance.",
+      "location": "Stockholm County, Sweden",
+      "start": "2024-02",
+      "end": "2025-02",
+      "dateRange": "Feb 2024 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Senior Data Scientist",
+      "company": "Lassie",
+      "companyUrl": "https://www.linkedin.com/company/lassieco",
+      "description": "Broad focus on analytics as well as ML/AI, including insurance analyses, marketing analytics, and product development.",
+      "location": "Stockholm County, Sweden",
+      "start": "2022-12",
+      "end": "2024-02",
+      "dateRange": "Dec 2022 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Spotify",
+      "companyUrl": "https://www.linkedin.com/company/spotify",
+      "description": "Promoted to Data Scientist. Further responsibilities for growth and experimentation in larger org structure. Broad experience ranging from daily analytics, deeper ML efforts, and mentoring of junior employees.",
+      "location": "Stockholm County, Sweden",
+      "start": "2022-03",
+      "end": "2022-12",
+      "dateRange": "Mar 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Associate Data Scientist",
+      "company": "Spotify",
+      "companyUrl": "https://www.linkedin.com/company/spotify",
+      "description": "Associate Data Scientist in product team responsible for growth and experimentation. Broad experience ranging from daily analytics to deeper ML efforts.",
+      "location": "Stockholm County, Sweden",
+      "start": "2020-08",
+      "end": "2022-03",
+      "dateRange": "Aug 2020 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "Management consultant with focus on digital topics as part of BCG X. Main experiences in practical advanced analytics and large-scale digital transformations.",
+      "location": "Stockholm County, Sweden",
+      "start": "2019-06",
+      "end": "2020-08",
+      "dateRange": "Jun 2019 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Master Thesis in User Experience Research",
+      "company": "Klarna",
+      "companyUrl": "https://www.linkedin.com/company/klarna",
+      "description": "Master thesis at Klarna in FinTech space. The thesis combined qualitative and quantitative UX research as well as prioritization of the results for a new Klarna product.",
+      "location": "Stockholm County, Sweden",
+      "start": "2018-08",
+      "end": "2019-03",
+      "dateRange": "Aug 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Venture Capital Investment Analyst",
+      "company": "Holtzbrinck Digital",
+      "companyUrl": "https://www.linkedin.com/company/holtzbrinck-digital-gmbh",
+      "description": "VC investment analyst with focus on science, education, health. Main experience in business model evaluations, SaaS KPIs and investment proposals.",
+      "location": "Munich Area, Germany",
+      "start": "2017-09",
+      "end": "2017-11",
+      "dateRange": "Sep 2017 – Nov 2017",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Aareon AG",
+      "companyUrl": "https://www.linkedin.com/company/aareon",
+      "description": "Led development of a new digital product from ideation to final delivery using agile methodologies.",
+      "location": "Munich Area, Germany",
+      "start": "2017-03",
+      "end": "2017-07",
+      "dateRange": "Mar 2017 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Business Development at CupoNation",
+      "company": "Rocket Internet SE",
+      "companyUrl": "https://www.linkedin.com/company/rocket-internet-se",
+      "description": "Analyzed key operations in the Nordic region. Responsibilities included monitoring data in order to identify improvement measures to improve the company's conversion rate.",
+      "location": "Munich Area, Germany",
+      "start": "2016-06",
+      "end": "2016-10",
+      "dateRange": "Jun 2016 – Oct 2016",
+      "current": false
+    },
+    {
+      "title": "Customer Service Representative",
+      "company": "SEB",
+      "companyUrl": "https://www.linkedin.com/company/seb",
+      "description": "Assisted private and corporate customers with their daily banking tasks, including insurance, loans and investments. Worked as an intern, and part-time during studies.",
+      "location": "Stockholm, Sweden",
+      "start": "2011-06",
+      "end": "2015-09",
+      "dateRange": "Jun 2011 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and Developer",
+      "company": "Shuffle That",
+      "companyUrl": null,
+      "description": "Developed a media platform app in Objective-C, comparable to 9GAG, while in high-school. Also wrote business plans and pitched to investors and competitions.",
+      "location": "Eskilstuna, Sweden",
+      "start": "2010-08",
+      "end": "2011-06",
+      "dateRange": "Aug 2010 – Jun 2011",
+      "current": false
+    },
+    {
+      "title": "Athlete",
+      "company": "Swedish National Team in American Football",
+      "companyUrl": null,
+      "description": "I was a member of the Swedish national team in American football. For several years I represented Sweden as well as my club team in games in Sweden and abroad.",
+      "location": "Sweden",
+      "start": "2004-06",
+      "end": "2012-05",
+      "dateRange": "Jun 2004 – May 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student Researcher, Information Technology",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Management and Digital Technologies",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Uppsala University",
+      "degree": "Bachelor of Science (B.Sc.), Business Administration and Economics, Accounting and Finance",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Hanken School of Economics",
+      "degree": "Exchange semester, Accounting and Finance",
+      "dateRange": "2015"
+    }
+  ],
+  "skills": [
+    "Artificiell intelligens",
+    "PyTorch",
+    "AWS SageMaker",
+    "IT Strategy",
+    "Digital Strategy",
+    "Microsoft PowerPoint",
+    "Agile Methodologies",
+    "Business Analytics",
+    "Data Analytics",
+    "Prediktiv analys",
+    "Dataanalys",
+    "svenska",
+    "NoSQL",
+    "PostgreSQL",
+    "Bitbucket",
+    "TypeScript",
+    "Backstage",
+    "Looker (Software)",
+    "Google BigQuery",
+    "MongoDB"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": null
+}

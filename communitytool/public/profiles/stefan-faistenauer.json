@@ -1,0 +1,133 @@
+{
+  "id": "stefan-faistenauer",
+  "name": "Stefan Faistenauer",
+  "headline": "Building superglue | First Agentic Integration Platform",
+  "avatar": {
+    "sm": "/avatars/stefan-faistenauer-sm.webp",
+    "lg": "/avatars/stefan-faistenauer.webp",
+    "blur": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAAAwBQCdASogACAAPtFYpEyoJSOiKA1RABoJQBm4MYAltsaCHxjnbTmwrhxJu0Le+sWNQAD+/SqP2k6fTMXGvUn4h/f0rkgrd05HL8s/THphpZh4Z0a3bG29XhLum66kF3sp+kQwWwshjgEpmPxnBcQYJPxxG/H5WpYSXxBq6uBRSfv0LDEc8poBbxBJgL3k2vzuj0HjjiGrMserwnGmmIoiyYDlDy4zoNE9dyY6nCdAwQXn6Hfl7oaMx0rjRWf9D+z034DdOrWYPVcyQnNOHAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/stefan-faistenauer",
+  "personId": 1211,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Stefan Faistenauer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "superglue (YC W25)",
+      "companyUrl": "https://www.linkedin.com/company/superglue-ai",
+      "description": "The Agentic Integration Platform",
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate Product Manager",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Calendar and Flights",
+      "location": null,
+      "start": "2022-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2022 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Graduate Research and Teaching Assistant",
+      "company": "Stanford Technology Ventures Program (STVP)",
+      "companyUrl": "https://www.linkedin.com/company/stanfordtechnologyventuresprogram",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2020 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Growth Manager",
+      "company": "Luminovo",
+      "companyUrl": "https://www.linkedin.com/company/luminovo",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Master of Science, Management Science and Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science, Management and Technology",
+      "dateRange": null
+    },
+    {
+      "school": "The University of Hong Kong",
+      "degree": "Exchange Student, Faculty of Business and Economics",
+      "dateRange": null
+    },
+    {
+      "school": "HTBLVA Anichstraße, Innsbruck",
+      "degree": "High School Diploma, Industrial Engineering and Computer Science",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "superglue (YC W25)",
+    "tagline": "AI that fixes enterprise glue",
+    "description": "superglue replaces brittle scripts, cron jobs, and one-off connectors that power enterprise operations with clean, versioned syncs you can actually understand and trust. It rebuilds the logic behind integrations, so migrating systems, adding tools, or scaling processes no longer breaks everything. Companies running on superglue roll out AI projects faster, spend less on maintenance, and future-proof their business for continuous optimization.",
+    "industry": "Software Development",
+    "website": "https://superglue.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/superglue-ai",
+    "employeeCount": 5,
+    "foundedYear": null,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

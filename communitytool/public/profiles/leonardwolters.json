@@ -1,0 +1,231 @@
+{
+  "id": "leonardwolters",
+  "name": "Leonard Wolters",
+  "headline": "Ops @ Langfuse (part of ClickHouse) | CDTM",
+  "avatar": {
+    "sm": "/avatars/leonardwolters-sm.webp",
+    "lg": "/avatars/leonardwolters.webp",
+    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAAAwBgCdASogACAAPs1WpEunpKOhsBgMAPAZiWQAnTLhWNbbNtgCoq09TmBaigDetN7di+6GPRsxivMAAP6mks/+8mfGovEPuKxarCNdU37ujN2CMxTaiFlCsdbeOX5uaGdG0HAQJGh3kHtGE86srxrqg52XT2D+IpNZKEtNe4zWrkeT9U6Os3Qrd5OnWXYl/yKGC1EpsFIhGrg7aS7b4u2EUTCn/381hQxChg9pzd/Neuz1zf8mdLXkCTDNYqdql32PhG/82QIZQ2fWP0auNaWr7OtW6oYTcHu/QhGg/a6nQ01AP7yuVZWvq9GUKMwAAAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/leonardwolters",
+  "personId": 756,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "MSc in Management & Innovation (HEC Paris, TUM), BSc in International Business Administration (WHU, Chinese University of Hong Kong)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Leonard Wolters",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Operations",
+      "company": "ClickHouse",
+      "companyUrl": "https://www.linkedin.com/company/clickhouseinc",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Operations",
+      "company": "Langfuse",
+      "companyUrl": "https://www.linkedin.com/company/langfuse",
+      "description": "Langfuse is an open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications.\n\nWorking mostly on building the company behind the product (focus on Recruiting, Finance, Ops)",
+      "location": "Berlin, Deutschland",
+      "start": "2025-11",
+      "end": null,
+      "dateRange": "Nov 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "GTM Lead",
+      "company": "deeploi",
+      "companyUrl": "https://www.linkedin.com/company/deeploi-os",
+      "description": "Scaled deeploi's GTM team to 10+ FTE and 100+ customers.",
+      "location": "Berlin, Deutschland",
+      "start": "2024-07",
+      "end": "2025-09",
+      "dateRange": "Jul 2024 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Strategy & Business Development",
+      "company": "deeploi",
+      "companyUrl": "https://www.linkedin.com/company/deeploi-os",
+      "description": "Joined as first business hire. Built initial GTM strategy & closed first 30+ B2B customers.\n\nIT as a Service – not as a struggle: deeploi is building the #1 IT Operating System in Europe to turn the working world's IT pain into peace.",
+      "location": "Berlin, Deutschland",
+      "start": "2023-03",
+      "end": "2024-06",
+      "dateRange": "Mar 2023 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Investment Team",
+      "company": "Cherry Ventures",
+      "companyUrl": "https://www.linkedin.com/company/cherry-ventures",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2021-07",
+      "end": "2021-10",
+      "dateRange": "Jul 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "Luminovo",
+      "companyUrl": "https://www.linkedin.com/company/luminovo",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-06",
+      "end": "2020-08",
+      "dateRange": "Jun 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "EY-Parthenon",
+      "companyUrl": "https://www.linkedin.com/company/ey-parthenon",
+      "description": null,
+      "location": "Hamburg, Hamburg, Deutschland",
+      "start": "2020-03",
+      "end": "2020-06",
+      "dateRange": "Mar 2020 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Operational Intelligence",
+      "company": "N26 Group",
+      "companyUrl": "https://www.linkedin.com/company/n26",
+      "description": null,
+      "location": "Berlin, Berlin, Deutschland",
+      "start": "2019-11",
+      "end": "2020-02",
+      "dateRange": "Nov 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Business Intelligence",
+      "company": "Daimler South East Asia Pte. Ltd.",
+      "companyUrl": "https://www.linkedin.com/company/mercedes-benz-singapore",
+      "description": null,
+      "location": "Singapore",
+      "start": "2019-05",
+      "end": "2019-08",
+      "dateRange": "May 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant",
+      "company": "Simon-Kucher & Partners",
+      "companyUrl": "https://www.linkedin.com/company/simon-kucher",
+      "description": null,
+      "location": "Bonn und Umgebung, Deutschland",
+      "start": "2018-05",
+      "end": "2018-07",
+      "dateRange": "May 2018 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "Investment Management & Business Development",
+      "company": "LIQID",
+      "companyUrl": "https://www.linkedin.com/company/liqid",
+      "description": null,
+      "location": "Berlin und Umgebung, Deutschland",
+      "start": "2017-05",
+      "end": "2017-08",
+      "dateRange": "May 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Head of Organization & Board Member",
+      "company": "IdeaLab! - WHU Founders'​ Conference",
+      "companyUrl": "https://www.linkedin.com/company/whuidealab",
+      "description": null,
+      "location": "Vallendar",
+      "start": "2016-10",
+      "end": "2017-11",
+      "dateRange": "Oct 2016 – Nov 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Double Degree Master in Management & Innovation",
+      "dateRange": null
+    },
+    {
+      "school": "HEC Paris",
+      "degree": "Master of Science - MS, Double Degree Master in Management & Innovation",
+      "dateRange": null
+    },
+    {
+      "school": "WHU – Otto Beisheim School of Management",
+      "degree": "Bachelor of Science - BS, International Business/Management",
+      "dateRange": null
+    },
+    {
+      "school": "The Chinese University of Hong Kong",
+      "degree": "Semester abroad, Bachelor of Science - International Business Administration",
+      "dateRange": null
+    },
+    {
+      "school": "Christianeum",
+      "degree": "Abitur",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Langfuse",
+    "tagline": "Open Source LLM Engineering Platform (now part of ClickHouse)",
+    "description": "Langfuse is the 𝗺𝗼𝘀𝘁 𝗽𝗼𝗽𝘂𝗹𝗮𝗿 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲 𝗟𝗟𝗠𝗢𝗽𝘀 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺. It helps teams collaboratively develop, monitor, evaluate, and debug AI applications.\n\nLangfuse can be 𝘀𝗲𝗹𝗳-𝗵𝗼𝘀𝘁𝗲𝗱 in minutes and is battle-tested and used in production by thousands of users from YC startups to large companies like Khan Academy or Twilio. Langfuse builds on a proven track record of reliability and performance.\n\nDevelopers can trace any Large Language model or framework using our SDKs for Python and JS/TS, our open API or our native integrations (OpenAI, Langchain, Llama-Index, Vercel AI SDK). Beyond tracing, developers use 𝗟𝗮𝗻𝗴𝗳𝘂𝘀𝗲 𝗣𝗿𝗼𝗺𝗽𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁, 𝗶𝘁𝘀 𝗼𝗽𝗲𝗻 𝗔𝗣𝗜𝘀, 𝗮𝗻𝗱 𝘁𝗲𝘀𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝗲𝘃𝗮𝗹𝘂𝗮𝘁𝗶𝗼𝗻 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 to improve the quality of their applications.\n\nProduct managers can 𝗮𝗻𝗮𝗹𝘆𝘇𝗲, 𝗲𝘃𝗮𝗹𝘂𝗮𝘁𝗲, 𝗮𝗻𝗱 𝗱𝗲𝗯𝘂𝗴 𝗔𝗜 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀 by accessing detailed metrics on costs, latencies, and user feedback in the Langfuse Dashboard. They can bring 𝗵𝘂𝗺𝗮𝗻𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗹𝗼𝗼𝗽 by setting up annotation workflows for human labelers to score their application. Langfuse can also be used to 𝗺𝗼𝗻𝗶𝘁𝗼𝗿 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗿𝗶𝘀𝗸𝘀 through security framework and evaluation pipelines.\n\nLangfuse enables 𝗻𝗼𝗻-𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘁𝗲𝗮𝗺 𝗺𝗲𝗺𝗯𝗲𝗿𝘀 to iterate on prompts and model configurations directly within the Langfuse UI or use the Langfuse Playground for fast prompt testing.\n\nLangfuse is 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲 and we are proud to have a fantastic community on Github and Discord that provides help and feedback. Do get in touch with us!",
+    "industry": "Software Development",
+    "website": "https://langfuse.com",
+    "linkedInUrl": "https://www.linkedin.com/company/langfuse",
+    "employeeCount": 19,
+    "foundedYear": 2022,
+    "location": "San Francisco, United States",
+    "specialities": [
+      "Langfuse",
+      "Large Language Models",
+      "Observability",
+      "Prompt Management",
+      "Evaluations",
+      "Testing",
+      "Open Source",
+      "LLM",
+      "AI",
+      "Analytics",
+      "Open Source",
+      "Artificial Intelligence"
+    ]
+  }
+}

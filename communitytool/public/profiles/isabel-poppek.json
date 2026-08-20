@@ -1,0 +1,170 @@
+{
+  "id": "isabel-poppek",
+  "name": "Isabel Poppek",
+  "headline": "Founder and CEO at Alpas AI | YC W21 | Forbes 30 under 30",
+  "avatar": {
+    "sm": "/avatars/isabel-poppek-sm.webp",
+    "lg": "/avatars/isabel-poppek.webp",
+    "blur": "data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAACwBgCdASogACAAPtFgqE+oJSOiKAgBABoJagCdMyHOUpANaxP3EYXbFRmOcwXfjGLbvo8z94/onX6a18dAAAD+r5zwWL0ZM/wBYRAOyeAUBUZnf0lP45I9fwNFLSGRunlKWNYVYaJcSXL+eSJN4/enbc5TD7y6MvOv7o4/2ss4tETo3udzsWKPzvC98/X7KS6wS1835oRCTtig3HSydY3tE/rFL+jI9Ljby7Cil3gVwniyjJD6JlbHfXX2TR3Q6Gj56oZe00d3VtIdIy6vVii5YBBKWiRtbZgSUAWauIdNHaPZnFZJpWLlKq03LCVKQEVrrpdYwBUoClA1YUDptDs6bHL6wWnBKuPchiUSke13LnuuFX0pzHOIpplMaLI+pAHYlDEKs3cknT9/3mtzAk6ZnA1bmt8jwD10Ch9l0HtBrg7wAAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/isabel-poppek",
+  "personId": 833,
+  "classes": [
+    {
+      "id": 77,
+      "label": "Spring 2015",
+      "season": "Spring",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2015",
+  "major": "Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Isabel Poppek",
+  "ca": null,
+  "summary": "We‘re hiring! 👉 https://alpas.ai",
+  "positions": [
+    {
+      "title": "Founder and CEO",
+      "company": "Alpas AI",
+      "companyUrl": "https://www.linkedin.com/company/alpas-ai",
+      "description": "Building the global AI-powered sourcing solution to empower procurement departments and sustainably secure the future of supply chains. \nAlpas generates significant operational and purchasing savings through automation as well as new data insights into suppliers and supply chains.",
+      "location": "Berlin, Deutschland",
+      "start": "2020-03",
+      "end": null,
+      "dateRange": "Mar 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Private Equity Investment Analyst",
+      "company": "LGT Capital Partners",
+      "companyUrl": "https://www.linkedin.com/company/lgt-capital-partners",
+      "description": "LGT Capital Partners is a leading alternative investment specialist with > $85bn AuM and > 550 institutional clients in 39 countries.\n\nWorked on private equity acquisitions of mid & large cap buyouts and venture fund interests, GP led transactions and fund solutions.",
+      "location": "Zürich und Umgebung, Schweiz",
+      "start": "2017-07",
+      "end": "2019-06",
+      "dateRange": "Jul 2017 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Venture Development",
+      "company": "Center for Digital Technology and Management",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "@Smart Reporting GmbH, Digital Health Start-up based in Munich\n\n@VISCPOIC GmbH, Augmented Reality Start-up based in Munich",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-04",
+      "end": "2016-07",
+      "dateRange": "Apr 2015 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Thesis Work",
+      "company": "Max Planck Institute for Innovation and Competition",
+      "companyUrl": "https://www.linkedin.com/company/max-planck-institute-for-innovation-and-competition",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2015-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2015 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Private Equity Investment Intern",
+      "company": "Paragon Partners",
+      "companyUrl": "https://www.linkedin.com/company/paragon-partners_2",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2014-08",
+      "end": "2014-12",
+      "dateRange": "Aug 2014 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Porsche Asia Pacific Intern",
+      "company": "Porsche",
+      "companyUrl": "https://www.linkedin.com/company/porsche-ag",
+      "description": null,
+      "location": "Singapur",
+      "start": "2013-08",
+      "end": "2013-12",
+      "dateRange": "Aug 2013 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Corporate Strategy Analyst",
+      "company": "RENK Group",
+      "companyUrl": "https://www.linkedin.com/company/renkgroup",
+      "description": null,
+      "location": "Augsburg und Umgebung, Deutschland",
+      "start": "2013-03",
+      "end": "2013-05",
+      "dateRange": "Mar 2013 – May 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Columbia University",
+      "degree": "Visiting Researcher Scholarship",
+      "dateRange": null
+    },
+    {
+      "school": "Y Combinator",
+      "degree": "W21 batch",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Management & Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Management & Technology",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Alpas AI",
+    "tagline": "Smart Sourcing in Procurement - where AI makes a Difference",
+    "description": "Alpas is the premier AI-powered sourcing intelligence solution. The company enables procurement to identify suppliers 10x faster. Alpas assists in finding and benchmarking suppliers for technical components and services. \n\nReduce your time spent on sourcing and significantly decrease purchasing costs with Alpas by automating manual, data-intensive workflows.",
+    "industry": "Software Development",
+    "website": "https://alpas.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/alpas-ai",
+    "employeeCount": 35,
+    "foundedYear": 2020,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "sourcing intelligence",
+      "big data",
+      "data science",
+      "data protection",
+      "data engineering",
+      "machine learning",
+      "artificial intelligence",
+      "enterprise software",
+      "procurement software",
+      "supply chain transparency",
+      "sustainability"
+    ]
+  }
+}

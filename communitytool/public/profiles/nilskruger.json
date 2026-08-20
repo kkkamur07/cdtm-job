@@ -1,0 +1,214 @@
+{
+  "id": "nilskruger",
+  "name": "Nils Krüger",
+  "headline": "Physician Data Scientist at Harvard Medical School and Brigham and Women’s Hospital, TUM",
+  "avatar": {
+    "sm": "/avatars/nilskruger-sm.webp",
+    "lg": "/avatars/nilskruger.webp",
+    "blur": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAAAQBgCdASogACAAPsFQo0unpKOhsAwA8BgJYgAFEB7ru/f9ZZlW4sSQy6XapRcYg53aZ4nCyb0nXQAA/v4w4evz82dez4PvUoEvuiFx/NNhO96nTOyng7TelEhUnyFpnWt/7urpS8NyqR6XeZ/VvyymVCAhcW+M6hf13qIEZ9ONZwD3tBWtFOD9JtisDck8UUbyYLHdnDbRdtIm0GCWkzNorCnhiBBdfknFa3KN7Cj6bKnQ+fPt5+TuzAeALGU4cXrrLuvjLtXGEIA5lUMTeKEz0cIMbOmndDqPBuqjgAA="
+  },
+  "location": "Boston, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/nilskruger",
+  "personId": 1218,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Medicine",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Nils Krüger",
+  "ca": null,
+  "summary": "I'm a physician data scientist developing and applying causal inference methods to evaluate the safety and effectiveness of cardiovascular treatments in clinical practice using complex longitudinal healthcare databases.",
+  "positions": [
+    {
+      "title": "Instructor in Medicine",
+      "company": "Harvard Medical School",
+      "companyUrl": "https://www.linkedin.com/company/harvard-medical-school",
+      "description": null,
+      "location": "Boston, Massachusetts, United States",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Program Co-Director",
+      "company": "Munich Center of Pharmacoepidemiology",
+      "companyUrl": "https://www.linkedin.com/company/munich-center-of-pharmacoepidemiology",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Physician Scientist, Cardiovascular Medicine",
+      "company": "Deutsches Herzzentrum München des Freistaates Bayern - Klinik an der Technischen Universität München",
+      "companyUrl": "https://www.linkedin.com/company/dhmmhn",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Division of Pharmacoepidemiology and Pharmacoeconomics, Brigham and Women‘s Hospital and Harvard Medical School",
+      "company": "Harvard Medical School",
+      "companyUrl": "https://www.linkedin.com/company/harvard-medical-school",
+      "description": null,
+      "location": "Boston, Massachusetts, United States",
+      "start": "2024-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "CEO and Co-Founder",
+      "company": "cognote.ai",
+      "companyUrl": null,
+      "description": "Automate the documentation process of physicians by developing language models to summarize clinical encounters and generate structured medical notes",
+      "location": null,
+      "start": "2020-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2020 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Visiting Medical Student",
+      "company": "Weill Cornell Medicine",
+      "companyUrl": "https://www.linkedin.com/company/weillcornellmedicine",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant in Biology, Biochemistry, Histology and Physiology",
+      "company": "LMU co.med, Medical Faculty of LMU",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2017-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2017 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "MeCuM-Mentor, Mentoring Program of the Medical Faculty of LMU",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2016-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2016 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Photography Intern",
+      "company": "Annie Leibovitz Studio",
+      "companyUrl": null,
+      "description": null,
+      "location": "New York City, New York",
+      "start": "2014-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2014 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Photography Intern",
+      "company": "Theo Wenner Studio",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2014-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2014 – Dec 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard T.H. Chan School of Public Health",
+      "degree": "Master of Public Health",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Dr. med.",
+      "dateRange": "2018 – 2024"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Medical Doctor",
+      "dateRange": "2014 – 2021"
+    },
+    {
+      "school": "ETH Zürich",
+      "degree": "Medicine",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "University of Zurich",
+      "degree": "Medical Studies",
+      "dateRange": "2019 – 2020"
+    }
+  ],
+  "skills": [
+    "Real World Evidence (RWE)",
+    "Pharmacoepidemiology",
+    "Cardiovascular Medicine"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Harvard Medical School",
+    "tagline": null,
+    "description": "Harvard Medical School brings together the brightest minds in science and medicine to improve health and well-being for all.  \n\nWith our affiliated  hospitals and research institutes, we are home to more than 12,000 faculty members and 1,600 medical and graduate students — more than twice that of any other medical school in the United States. The possibilities for mentorship and impact across a range of disciplines at HMS are unparalleled.\n\nHarvard Medical School has:\n\n► Trained generations of doctors and researchers, pioneering new educational models and curricula to continually address emerging needs in health care \n\n► Made impactful discoveries and fueled innovation, including life-changing new therapies for cancer, diabetes, and sickle cell disease and new knowledge addressing rising health care costs and health inequities \n\n► Collaborated with local community organizations to improve health for vulnerable populations \n\nOur community is united in its desire to tackle complex challenges in science, medicine, and health, guided by a shared sense of purpose and a genuine passion to make a difference.",
+    "industry": "Higher Education",
+    "website": "http://hms.harvard.edu",
+    "linkedInUrl": "https://www.linkedin.com/company/harvard-medical-school",
+    "employeeCount": 11966,
+    "foundedYear": null,
+    "location": "Boston, United States",
+    "specialities": [
+      "Medical Education",
+      "Graduate Biomedical Sciences",
+      "Postgraduate & Continuing Medical Education",
+      "Biomedical Research",
+      "Biomedical Informatics",
+      "Cell Biology",
+      "Genetics",
+      "Global Health",
+      "Health Care Policy",
+      "Immunology & Infectious Diseases",
+      "Microbiology",
+      "Neurobiology",
+      "Stem Cell & Regenerative Biology",
+      "Systems Biology",
+      "AI in Medicine",
+      "Drug Discovery & Therapeutics"
+    ]
+  }
+}

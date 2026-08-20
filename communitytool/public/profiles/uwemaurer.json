@@ -1,0 +1,113 @@
+{
+  "id": "uwemaurer",
+  "name": "Uwe Maurer",
+  "headline": "Software Engineer / Entrepreneur",
+  "avatar": null,
+  "location": "Zurich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/uwemaurer",
+  "personId": 1629,
+  "classes": [
+    {
+      "id": 52,
+      "label": "Fall 2002",
+      "season": "Fall",
+      "year": 2002,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2002",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Uwe Maurer",
+  "ca": null,
+  "summary": "Strong in software engineering and developing products, always focussed on the user, fast in getting things done, entrepreneurial thinking.\n\nSpecialties: Android - Mobile Apps,\nJava, C++,\nGoogle Web Toolkit,\nAJAX, HTML, CSS, Javascript,\nGoogle APIs,\nAppengine",
+  "positions": [
+    {
+      "title": "Software Engineer / Co Founder",
+      "company": "AppTornado",
+      "companyUrl": "https://www.linkedin.com/company/apptornado",
+      "description": "AppBrain - Android App Promotion and Monetization Network",
+      "location": null,
+      "start": "2009-11",
+      "end": null,
+      "dateRange": "Nov 2009 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "WIP Technologies",
+      "companyUrl": "https://www.linkedin.com/company/wip-technologies",
+      "description": null,
+      "location": null,
+      "start": "2022-04",
+      "end": "2023-01",
+      "dateRange": "Apr 2022 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "YouTube, Google Chart API",
+      "location": null,
+      "start": "2006-11",
+      "end": "2009-11",
+      "dateRange": "Nov 2006 – Nov 2009",
+      "current": false
+    },
+    {
+      "title": "Extreme Blue Intern",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": null,
+      "start": "2003-01",
+      "end": "2003-12",
+      "dateRange": "Jan 2003 – Dec 2003",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Computer Science",
+      "dateRange": "2004 – 2006"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master, Computer Science",
+      "dateRange": "2000 – 2006"
+    }
+  ],
+  "skills": [
+    "Android",
+    "Java",
+    "GWT",
+    "C++",
+    "JavaScript",
+    "HTML",
+    "AJAX",
+    "CSS",
+    "Google API",
+    "Mobile Software",
+    "Software Engineering",
+    "Mobile Applications",
+    "Eclipse",
+    "SQL",
+    "MySQL",
+    "JSP",
+    "J2EE",
+    "C",
+    "Software Design",
+    "Linux"
+  ],
+  "languages": [],
+  "company": null
+}

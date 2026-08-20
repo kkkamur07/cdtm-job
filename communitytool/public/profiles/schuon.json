@@ -1,0 +1,212 @@
+{
+  "id": "schuon",
+  "name": "Sebastian Schuon",
+  "headline": "Co-Founder of Schub, Alasco & Stylight | CDTM",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/schuon",
+  "personId": 1487,
+  "classes": [
+    {
+      "id": 59,
+      "label": "Spring 2006",
+      "season": "Spring",
+      "year": 2006,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2006",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sebastian Schuon",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Managing Director",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": null,
+      "start": "2025-11",
+      "end": null,
+      "dateRange": "Nov 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder",
+      "company": "Schub",
+      "companyUrl": "https://www.linkedin.com/company/schub-tech",
+      "description": null,
+      "location": null,
+      "start": "2024-08",
+      "end": null,
+      "dateRange": "Aug 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder / Board Member",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": null,
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Chairman",
+      "company": "Luminovo",
+      "companyUrl": "https://www.linkedin.com/company/luminovo",
+      "description": "At Luminovo, we are on a mission to bring innovations faster to everyone by reducing the time and resources need to go from an idea to a market-ready electronic circuit board.",
+      "location": null,
+      "start": "2018-01",
+      "end": null,
+      "dateRange": "Jan 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder / CEO",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": null,
+      "start": "2018-06",
+      "end": "2023-08",
+      "dateRange": "Jun 2018 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Board Member",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": null,
+      "location": null,
+      "start": "2016-07",
+      "end": "2020-01",
+      "dateRange": "Jul 2016 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Co-Founder / CTO",
+      "company": "Stylight",
+      "companyUrl": "https://www.linkedin.com/company/stylight",
+      "description": null,
+      "location": null,
+      "start": "2008-05",
+      "end": "2016-06",
+      "dateRange": "May 2008 – Jun 2016",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": null,
+      "location": null,
+      "start": "2008-01",
+      "end": "2008-12",
+      "dateRange": "Jan 2008 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2005-09",
+      "end": "2007-06",
+      "dateRange": "Sep 2005 – Jun 2007",
+      "current": false
+    },
+    {
+      "title": "Trainee",
+      "company": "Rohde & Schwarz, Radiocommunications",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2005-02",
+      "end": "2006-08",
+      "dateRange": "Feb 2005 – Aug 2006",
+      "current": false
+    },
+    {
+      "title": "Student Researcher",
+      "company": "Max-Plank-Institute for Microstructure Physics",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2004-08",
+      "end": "2004-09",
+      "dateRange": "Aug 2004 – Sep 2004",
+      "current": false
+    },
+    {
+      "title": "Trainee",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2004-07",
+      "end": "2004-08",
+      "dateRange": "Jul 2004 – Aug 2004",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2006 – 2008"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "MSc, Computer Science",
+      "dateRange": "2007 – 2008"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl.-Ing., Electrical Engineering",
+      "dateRange": "2004 – 2009"
+    }
+  ],
+  "skills": [
+    "MySQL",
+    "PHP",
+    "JavaScript",
+    "Java",
+    "C++",
+    "Machine Learning",
+    "Git",
+    "Python",
+    "Computer Vision",
+    "Computer Science",
+    "Matlab",
+    "Software Engineering"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Center for Digital Technology and Management (CDTM)",
+    "tagline": "Connect, Educate and Empower the Innovators of Tomorrow",
+    "description": "The Center for Digital Technology and Management (CDTM), a joint institution of the Ludwig-Maximilians-Universität München (LMU) and the Technische Universität München (TUM), offers talented students the international and interdisciplinary study program Technology Management. \n\nThe CDTM focuses on how to manage High-Tech in close cooperation with industry, research and education, while simultaneously being committed to preparing the students for future leadership positions in their professional career.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.cdtm.de",
+    "linkedInUrl": "https://www.linkedin.com/company/cdtm-munich",
+    "employeeCount": 35,
+    "foundedYear": 1998,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Entrepreneurship",
+      "Product Development"
+    ]
+  }
+}

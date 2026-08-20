@@ -1,0 +1,135 @@
+{
+  "id": "pierre-springer",
+  "name": "Pierre Springer",
+  "headline": "Student",
+  "avatar": {
+    "sm": "/avatars/pierre-springer-sm.webp",
+    "lg": "/avatars/pierre-springer.webp",
+    "blur": "data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAAAQBgCdASogACAAPtFUo0uoJKMhsBgMAQAaCWMAyiE7oLdW/SReYljs+Z7OK63wh7820LeW2dCtyAAA/v5hPHZ/kPLR59IZXj3fCXv+lEmWsMc4l5+9nOdLc7lc37CW/WvOT4A3ZGsxqhNX9Haz5urOvFeYkrZoegWromJJM62B+72vJKNt/72FlRL4IFpf2aSePpRFdEKtZ63uLUaUBUVnVEMsf6i58I+bMPKbpGqgrAJJEmBKz2BTi4XQzXY+IkROcwqaUS+5/gaPpfU74Ge2qYakcTi5KDfky6kQdUcrLmYRaHYehnIYyaAAAA=="
+  },
+  "location": "Garching, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/pierre-springer",
+  "personId": 1016,
+  "classes": [
+    {
+      "id": 82,
+      "label": "Fall 2017",
+      "season": "Fall",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2017",
+  "major": "Mathematics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Pierre Springer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Student",
+      "company": "TU München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2012-01",
+      "end": null,
+      "dateRange": "Jan 2012 – Present",
+      "current": true
+    },
+    {
+      "title": "SEO / Analytics Specialist",
+      "company": "\"Self Employed\"",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2011-01",
+      "end": null,
+      "dateRange": "Jan 2011 – Present",
+      "current": true
+    },
+    {
+      "title": "Internship",
+      "company": "Horváth & Partners Management Consultants",
+      "companyUrl": "https://www.linkedin.com/company/horvathpartners",
+      "description": "Data Science",
+      "location": "Munich Area, Germany",
+      "start": "2016-03",
+      "end": "2016-07",
+      "dateRange": "Mar 2016 – Jul 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master's degree, Data Science",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Mathematics",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "KTH Royal Institute of Technology",
+      "degree": "Erasmus - Master, Machine Learning",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Mathematics",
+      "dateRange": "2012 – 2016"
+    }
+  ],
+  "skills": [
+    "Machine Learning",
+    "Data Analysis",
+    "Mathematics",
+    "Python",
+    "R",
+    "JavaScript",
+    "SEO",
+    "Statistics",
+    "Statistical Modeling",
+    "Econometrics",
+    "C++",
+    "High Performance Computing (HPC)",
+    "Large-scale Data Analysis",
+    "Data Science",
+    "Management",
+    "Research",
+    "Project Management",
+    "Optimization",
+    "Artificial Intelligence (AI)",
+    "Programming"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Technical University of Munich",
+    "tagline": "Official LinkedIn account of the Technical University of Munich",
+    "description": "Our university combines top-class facilities for cutting-edge research with unique learning opportunities for 52,000 students. Whether our researchers are investigating the origins of life, matter and the universe or looking for solutions to the major challenges for our society, people lie at the heart of our research and innovation agenda. Our goal is to create lasting value for society through excellence in education and research, the active promotion of next-generation talents and a strong entrepreneurial spirit. All of which combine to make TUM one of Europe’s leading universities. \n\n| Imprint: http://www.tum.de/legal-notice",
+    "industry": "Research Services",
+    "website": "https://www.tum.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+    "employeeCount": 11550,
+    "foundedYear": 1868,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

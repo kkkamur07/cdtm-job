@@ -1,0 +1,182 @@
+{
+  "id": "magdalena-bachinger-b2983619b",
+  "name": "Magdalena Bachinger",
+  "headline": "At the intersection of medicine and digital innovation",
+  "avatar": {
+    "sm": "/avatars/magdalena-bachinger-b2983619b-sm.webp",
+    "lg": "/avatars/magdalena-bachinger-b2983619b.webp",
+    "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAABQBgCdASogACAAPtFcpU6oJSMiKAqpABoJQBjCRABHge5DMwwmmTX8Njg/e/RAxd4eBatqTckrBfFQgAD++qpQxZsI8nVc+L31topR+7xnFqjD/YhjCNVBmC7ovq01LmHdWewn2rrb3Ti7HitPWckEafd0/nKSggeFpBwuiH8x2FPbTF0Wk7PaiUKJAATv+gu/vXl7ocfc2CTWe5QFJ9b7Rh6FYtrw6TwBH3QtPrqHMT70whkcPSyvR+08wz4IVXLdrHr4NZj5paL+coARfqgt3pQcsLDhqZTr9ZUnuUIwJtTQ0IS0rBnq709GEtZMPAAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/magdalena-bachinger-b2983619b",
+  "personId": 971,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Magdalena Bachinger",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Program Manager",
+      "company": "Zillow",
+      "companyUrl": "https://www.linkedin.com/company/zillow",
+      "description": "Turning Zillow’s internal workflows and customer experiences into seamless, scalable systems through smart automation and AI.",
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Scientific Researcher",
+      "company": "TUM Klinikum Deutsches Herzzentrum",
+      "companyUrl": "https://www.linkedin.com/company/dhmmhn",
+      "description": "Researching how Real World Evidence informs regulatory decisions on drug approvals in Europe.",
+      "location": null,
+      "start": "2024-08",
+      "end": null,
+      "dateRange": "Aug 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Scientific Researcher",
+      "company": "University of Cambridge",
+      "companyUrl": "https://www.linkedin.com/company/university-of-cambridge",
+      "description": "Researching how augmented reality can enhance surgeon training.",
+      "location": null,
+      "start": "2025-05",
+      "end": "2025-08",
+      "dateRange": "May 2025 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "Zillow",
+      "companyUrl": "https://www.linkedin.com/company/zillow",
+      "description": null,
+      "location": null,
+      "start": "2024-10",
+      "end": "2026-01",
+      "dateRange": "Oct 2024 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Inbound Sales and Customer Success Manager",
+      "company": "Virtual Staging AI",
+      "companyUrl": "https://www.linkedin.com/company/virtual-staging-ai",
+      "description": "Virtual Staging AI has joined Zillow. You can read up on that here: https://www.zillowgroup.com/news/zillow-group-acquires-ai-company-offering-virtual-staging/\n\nBuilding the best technology for real estate professionals to digitally present properties.\n\nAI Grant 24'; Investors: Nat Friedman (prev. GitHub CEO) & Daniel Gross (prev. YC); Advisors: Andrej Karpathy, Patrick Collison (Stripe CEO), David Holz (Midjourney CEO), and others.",
+      "location": null,
+      "start": "2023-12",
+      "end": "2024-10",
+      "dateRange": "Dec 2023 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Head of Key Account Managers",
+      "company": "Academy Consult München",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": null,
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-04",
+      "dateRange": "Oct 2021 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Academy Consult München",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": null,
+      "location": null,
+      "start": "2021-08",
+      "end": "2023-10",
+      "dateRange": "Aug 2021 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Junior Consultant",
+      "company": "Academy Consult München",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": null,
+      "location": null,
+      "start": "2021-05",
+      "end": "2021-08",
+      "dateRange": "May 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Inbound Sales and Customer Success Manager",
+      "company": "Presize (acq. by Meta)",
+      "companyUrl": "https://www.linkedin.com/company/presizeai",
+      "description": "Presize has joined Meta in April 2022. \n\nPresize was a VC-backed AI startup with 50 employees, >1m users, 50 B2B customers, grew from 0 to 6-digit MRR in one year. \n\nProduct: The most accurate body measurements from one turn in front of a smartphone and/or body shape questions. Size recommendations for Fashion eCommerce people trust (higher conversion) & keep (less returns & CO2).",
+      "location": null,
+      "start": "2021-03",
+      "end": "2022-03",
+      "dateRange": "Mar 2021 – Mar 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2023 – 2026"
+    },
+    {
+      "school": "Paracelsus Medizinische Privatuniversität",
+      "degree": "Doctor of Medicine - MD",
+      "dateRange": "2025 – 2030"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - B.Sc., Management and Technology",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Höhere Lehranstalt für Kultur- und Kongressmanagement Steyr",
+      "degree": "Matura, Fachgebiet: Kultur- Event- Kongress- Catering Management; Wirtschaft und Fremdsprachen",
+      "dateRange": "2015 – 2020"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "German",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Zillow",
+    "tagline": "We make home a reality for more and more people.",
+    "description": "Having a place to call your own changes everything. It’s where life happens, where stability grows and possibility begins.\n\nAt Zillow, we’re transforming real estate so more people can take their next step with confidence and ease. We bring clarity to the process and progress to an industry ready for change, working alongside the people who make real estate work every day.\n\nWith Cloud HQ, our distributed-first way of working, you can do meaningful work from wherever you work best. We’re always looking for smart, passionate people to help reimagine how people get home. Join us.\n\nhttps://www.zillow.com/careers/",
+    "industry": "Real Estate",
+    "website": "http://www.zillow.com",
+    "linkedInUrl": "https://www.linkedin.com/company/zillow",
+    "employeeCount": 9979,
+    "foundedYear": 2006,
+    "location": "Seattle, United States",
+    "specialities": [
+      "Real Estate",
+      "Home Values",
+      "Mortgages",
+      "Homes for Sale",
+      "Homes for Rent",
+      "Mobile Apps"
+    ]
+  }
+}

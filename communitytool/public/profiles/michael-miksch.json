@@ -1,0 +1,200 @@
+{
+  "id": "michael-miksch",
+  "name": "Michael Miksch",
+  "headline": "Fractional and Interim CFO & COO Services I CDTM",
+  "avatar": {
+    "sm": "/avatars/michael-miksch-sm.webp",
+    "lg": "/avatars/michael-miksch.webp",
+    "blur": "data:image/webp;base64,UklGRjYBAABXRUJQVlA4ICoBAAAQBgCdASogACAAPsFKn0unpCKht/qoAPAYCWYArDMhpbxVUzqCPG3n0+Qofnh9DnlVI444zWrIOAAA/sA0yxviB5UtpT4sI/ag2tLEqS1JDbe669Pt09+0X0UmZ0lv08ZQbvXvxZVF5m9HcRaJpwa6LQilvuAMXMEPnujs9wL+7Zn58XDKfYpx4A5qL1ZcuNK6JF4YiiYAAGvGidfrQw4YrLEcwsWfCyJAG8PC60HibBCC9Q4zGlfEDXY5rTIPSnLmNOuwFK/nsni6+DqrdIFUpPfqpTFvV4RfLhx5UOIQiekH3ft+Wd6vhq49y+LmjT2GZLgoHZfKtgMsaV7nfSkBS/pTF7JpdyjPKuhsRb6TP+k/7rQDg8j037giWt4Szh9i4Phte4ckPAAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/michael-miksch",
+  "personId": 720,
+  "classes": [
+    {
+      "id": 77,
+      "label": "Spring 2015",
+      "season": "Spring",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2015",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Michael Miksch",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Fractional CFO",
+      "company": "LIMAA Technologies",
+      "companyUrl": "https://www.linkedin.com/company/limaa-technologies",
+      "description": null,
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Interim CFO",
+      "company": "reev",
+      "companyUrl": "https://www.linkedin.com/company/reevmobility",
+      "description": null,
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder & MD",
+      "company": "Third Engine",
+      "companyUrl": "https://www.linkedin.com/company/thirdengine",
+      "description": "Providing strategic and operational CFO & COO services to startups and scaleups, so founders keep focusing on Product & Go-to-Market.",
+      "location": null,
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Interim Head of Finance",
+      "company": "Kertos",
+      "companyUrl": "https://www.linkedin.com/company/kertos-compliance",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": "2026-12",
+      "dateRange": "Jan 2025 – Dec 2026",
+      "current": false
+    },
+    {
+      "title": "Interim Head of Finance",
+      "company": "MARKT-PILOT",
+      "companyUrl": "https://www.linkedin.com/company/markt-pilot",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Interim Head of Finance",
+      "company": "Signals Venture Capital",
+      "companyUrl": "https://www.linkedin.com/company/signals-vc",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Travel",
+      "company": "Career break",
+      "companyUrl": null,
+      "description": "South America",
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Vice President Finance & Operations",
+      "company": "Workpath",
+      "companyUrl": "https://www.linkedin.com/company/workpathhq",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2018 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Various Companies",
+      "companyUrl": "https://www.linkedin.com/company/various-boards",
+      "description": "Biz Dev @Trade Republic\nHealthcare Business Consultant @Syte Capital\nPrivate Equity @Aheim Capital\nHealthcare consulting @advisors in healthcare",
+      "location": "Hamburg, London, Munich",
+      "start": "2014-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2014 – Dec 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science with honors, Finance and Information Management",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "The London School of Economics and Political Science (LSE)",
+      "degree": "General Course Study Abroad program",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science, Business Administration",
+      "dateRange": "2013 – 2017"
+    }
+  ],
+  "skills": [
+    "Project Management",
+    "Business Strategy",
+    "Microsoft Office",
+    "Business Development",
+    "Business Process Improvement",
+    "Startup",
+    "Financial Modeling",
+    "Data Analysis",
+    "Operations Management",
+    "Corporate Finance",
+    "Entrepreneurship",
+    "R",
+    "Leadership",
+    "Management",
+    "Entrepreneurial Finance",
+    "Information Systems",
+    "Digital Health",
+    "Analytical Skills",
+    "Finance",
+    "Strategy",
+    "Team Leadership",
+    "Software as a Service (SaaS)",
+    "Venture Financing"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Third Engine",
+    "tagline": null,
+    "description": "Providing hands-on strategic and operational CFO & COO services to startups, investors, and SMEs on Finance, Fundraising, Business Operations, and Strategy",
+    "industry": "Business Consulting and Services",
+    "website": "https://www.linkedin.com/in/michael-miksch/",
+    "linkedInUrl": "https://www.linkedin.com/company/miksch-ventures",
+    "employeeCount": 1,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

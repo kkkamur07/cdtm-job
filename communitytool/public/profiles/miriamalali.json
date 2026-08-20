@@ -1,0 +1,147 @@
+{
+  "id": "miriamalali",
+  "name": "Miriam Al Ali",
+  "headline": "Student at Harvard University Kennedy School of Government",
+  "avatar": null,
+  "location": "Cambridge, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/miriamalali",
+  "personId": 1882,
+  "classes": [
+    {
+      "id": 66,
+      "label": "Fall 2009",
+      "season": "Fall",
+      "year": 2009,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2009",
+  "major": "Technology oriented Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Miriam Al-Ali",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Graduate Teaching Assistant",
+      "company": "Harvard Kennedy School of Government",
+      "companyUrl": "https://www.linkedin.com/company/harvard-kennedy-school-of-government",
+      "description": "Supported the course: ‘Strategic Management of Nonprofit and Nongovernmental Organizations’.",
+      "location": "Cambridge, MA",
+      "start": "2012-09",
+      "end": "2013-01",
+      "dateRange": "Sep 2012 – Jan 2013",
+      "current": false
+    },
+    {
+      "title": "Research Scholar",
+      "company": "Columbia University Business School",
+      "companyUrl": null,
+      "description": "Analyzed market data on strategy and policy issues in telecommunications, computing, and electronic mass media.",
+      "location": "New York, New York",
+      "start": "2011-01",
+      "end": "2011-05",
+      "dateRange": "Jan 2011 – May 2011",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "A.T. Kearney",
+      "companyUrl": "https://www.linkedin.com/company/kearney",
+      "description": "Produced and pitched research paper to client: ‘Marketing/ Sales Efficiency and Effectiveness? An International Survey’. Analyzed impact of clients’ marketing expenditures on performance through comparative best practices.",
+      "location": null,
+      "start": "2008-08",
+      "end": "2008-10",
+      "dateRange": "Aug 2008 – Oct 2008",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "HSBC Private Bank",
+      "companyUrl": null,
+      "description": "Produced annual review of Direct Access trading clients, presented findings to Head of Trading and Head of Equity Desk, made recommendations concerning clients, and improved visibility of discretionary asset management services.",
+      "location": null,
+      "start": "2008-03",
+      "end": "2008-05",
+      "dateRange": "Mar 2008 – May 2008",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Evaluated effectiveness of Sales, Project Execution and After-Sales within the Corporate Technology department.",
+      "location": "Munich, Germany",
+      "start": "2006-11",
+      "end": "2007-10",
+      "dateRange": "Nov 2006 – Oct 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard Kennedy School",
+      "degree": "Master of Public Policy (MPP), International Trade and Finance",
+      "dateRange": "2011 – 2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management, Munich",
+      "degree": "Honors Degree in Technology Management, Digital Technology, Managing Product Development, Entrepreneurship Laboratory",
+      "dateRange": "2009 – 2011"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom, Technology and Management oriented Business Administration",
+      "dateRange": "2005 – 2011"
+    }
+  ],
+  "skills": [
+    "Research",
+    "Policy Analysis",
+    "Nonprofits",
+    "Strategy",
+    "Project Management"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "company": {
+    "name": "Harvard Kennedy School",
+    "tagline": null,
+    "description": "Our mission at Harvard Kennedy School is to improve public policy and leadership so people can live in societies that are more safe, free, just, and sustainably prosperous. Harvard Kennedy School teaches current and future public leaders the skills they need to effectively advance the public purpose throughout society. Our renowned faculty and trailblazing research centers pioneer bold new ideas. And as the most international school at Harvard, we convene global leaders in the Forum, host visiting experts in the classroom, and attract an exceptional community of faculty, students, and staff.",
+    "industry": "Higher Education",
+    "website": "http://www.hks.harvard.edu",
+    "linkedInUrl": "https://www.linkedin.com/company/harvard-kennedy-school-of-government",
+    "employeeCount": 1237,
+    "foundedYear": null,
+    "location": "Cambridge, United States",
+    "specialities": [
+      "research",
+      "economic development",
+      "social policy",
+      "social entrepreneurship",
+      "leadership",
+      "international affairs",
+      "social innovation",
+      "philanthropy",
+      "politics",
+      "globalization",
+      "public finance",
+      "human rights",
+      "public policy",
+      "Executive Education",
+      "Higher Education",
+      "social justice",
+      "public leadership",
+      "administration"
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": "alexanderholzer",
+  "name": "Alexander Holzer",
+  "headline": "Creative Mind",
+  "avatar": {
+    "sm": "/avatars/alexanderholzer-sm.webp",
+    "lg": "/avatars/alexanderholzer.webp",
+    "blur": "data:image/webp;base64,UklGRkgBAABXRUJQVlA4IDwBAABwBgCdASogACAAPtFUpk2oJCOiMBgIAQAaCWoAnTKAZ0ztwa3Gg0FCvSx5ZYOojbrhCc5vtGvMQgMtrQAA/iMCOurvihfXp3qCmyQfBMuYmhsZWntlgB5yzellQGFAecWKuQQakAKF+oiqHKAgZ1bCWb6aPfM/z6VfsIqfneYhL6XXdbP4kB+SbblVPNtVJwHD32dqRyY1svUg0b92C7Ey3QyqnP1yxXXaAP7RNeVxRSmQ0V0uZZzs1OUpj1hM+2l8XKfJ86asCKdwHYi1MEj2YAnaiULeiCXAxA+f6OsQ46oW0zS84JrOXwfFYfwRHaWBHHxUfyKb9LlB99Xo5zXbfBPZNP0xkYTyOOb5VxLUgGpfSiXzxjMyWFH6+LBktLWfCbn6qX5xIUV7Uj/BIJlZCe2zGioszS2A4AAA"
+  },
+  "location": "Bressanone, Italy",
+  "linkedInUrl": "https://www.linkedin.com/in/alexanderholzer",
+  "personId": 1243,
+  "classes": [
+    {
+      "id": 77,
+      "label": "Spring 2015",
+      "season": "Spring",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2015",
+  "major": "Media Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Alexander Holzer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "General Manager",
+      "company": "Schertech",
+      "companyUrl": "https://www.linkedin.com/company/schertech-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2020-09",
+      "end": null,
+      "dateRange": "Sep 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Developer",
+      "company": "Raiffeisenverband Suedtirol",
+      "companyUrl": "https://www.linkedin.com/company/raiffeisenverband-suedtirol",
+      "description": "Junior Developer for Microsoft Dynamics AX 2009 / 2012",
+      "location": "Bolzano Area, Italy",
+      "start": "2011-12",
+      "end": "2015-12",
+      "dateRange": "Dec 2011 – Dec 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology management",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Media Informatics / Human Computer Interaction",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Gewerbeoberschule für Industrie-Informatik J. Ph. Fallmerayer Brixen",
+      "degree": "Perito industriale capotecnico specializzazione Informatica, Information Technology",
+      "dateRange": "2006 – 2011"
+    }
+  ],
+  "skills": [
+    "Microsoft Dynamics",
+    "Mac OS X",
+    "Photoshop",
+    "Web Development",
+    "User Interface Design",
+    "TFS",
+    "Software Development",
+    "Microsoft SQL Server",
+    "SSRS",
+    "AX 2012",
+    "SQL",
+    "Java",
+    "Visual Studio",
+    "JavaScript",
+    "Requirements Analysis",
+    "Software Project Management",
+    "WCF",
+    "XML",
+    "C#"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Schertech • The All-in-one MES Platform",
+    "tagline": "All-in-one MES. Full transparency on the shopfloor. Built from real production.",
+    "description": "Our Mission at Schertech:\n\nManufacturing companies in Europe must remain globally competitive through operational excellence.\n\nThat is why we help factories address one of their main bottlenecks:\n\nRemove hidden process waste and gain full transparency in their production sites.\n\nWe achieve this through digitalization and our proven All-in-One approach to shopfloor solutions.\n\nLet’s talk and explore if and how we can support your next step toward digital excellence.",
+    "industry": "Software Development",
+    "website": "https://www.schertech.com",
+    "linkedInUrl": "https://www.linkedin.com/company/schertech-gmbh",
+    "employeeCount": 37,
+    "foundedYear": 2011,
+    "location": "Bad Münstereifel, Germany",
+    "specialities": [
+      "Aufgaben- und Störungsmanagement",
+      "Schichtprotokolle und Regelbesprechungen",
+      "Qualitätsdokumente und -aufzeichnungen am Shopfloor",
+      "Dokumentation der Prozessüberwachung",
+      "Fehlererfassung und statistische Auswertung",
+      "Vollständige Kennzahlen zu Qualität, Kosten/Produktivität und Liefertreue",
+      "Vor Ort KVP‘s (Gemba Kaizen)",
+      "A3 Reporte zur Strukturierten Abarbeitung von Problemen (PDCA)",
+      "Prozessüberwachung durch umfangreiche Sensorik",
+      "Vorausschauende Instandhaltung mit Big Data",
+      "Automatisierung",
+      "Optische Kontrolle",
+      "Software am Shopfloor"
+    ]
+  }
+}

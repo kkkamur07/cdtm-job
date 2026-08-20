@@ -1,0 +1,250 @@
+{
+  "id": "sarahfleischer",
+  "name": "Sarah Fleischer",
+  "headline": "Founder and CEO at tozero",
+  "avatar": {
+    "sm": "/avatars/sarahfleischer-sm.webp",
+    "lg": "/avatars/sarahfleischer.webp",
+    "blur": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAADQBQCdASogACAAPsFKn0unpCKht/qoAPAYCWwAnTKDyuioOyxU/bISX0Bj4H9WSUWFu66r3YKgAP72iclEN7b1qe9+T2d26DYhAIBhGJ0Gw+JiyB9BsHNXWrxX/cEJ/vtaBlvWN/i8/L/Wzev0/pKAhrzl4P3dBZIaS++Rpuka/2kr3uLRI6h45aFIExht5qM3Ko7T0fYkPfdyzV+hh/+Bpr6Teo0KvzvXaDJc0HO4RzoKZ7tv2BheP0L7xjXxjHfh7auYl7J+tF0BFSPmdAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sarahfleischer",
+  "personId": 897,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Mechanical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sarah Fleischer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Technology Pioneer",
+      "company": "World Economic Forum",
+      "companyUrl": "https://www.linkedin.com/company/world-economic-forum",
+      "description": null,
+      "location": null,
+      "start": "2025-06",
+      "end": null,
+      "dateRange": "Jun 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder and CEO",
+      "company": "tozero",
+      "companyUrl": "https://www.linkedin.com/company/tozero-solutions",
+      "description": "Truly bringing lithium-ion battery waste tozero!",
+      "location": null,
+      "start": "2022-07",
+      "end": null,
+      "dateRange": "Jul 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Lead Commercial Strategy & Partnerships",
+      "company": "Forto",
+      "companyUrl": "https://www.linkedin.com/company/fortocompany",
+      "description": "Empowering companies to make smart logistics decisions.\nResponsible for:\n• 3 year roadmap and annual planning\n• Sustainability strategy\n• Strategy Refinements\n• Fostering new strategic partnerships\n• Developing new value added services \n• Company wide communication and announcements",
+      "location": null,
+      "start": "2021-03",
+      "end": "2022-06",
+      "dateRange": "Mar 2021 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Lecturer",
+      "company": "University of Luxembourg",
+      "companyUrl": "https://www.linkedin.com/company/university-of-luxembourg",
+      "description": "Teaching ´Entrepreneurial Finance´",
+      "location": null,
+      "start": "2020-02",
+      "end": "2022-06",
+      "dateRange": "Feb 2020 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Economic Advisor",
+      "company": "Luxembourg Space Agency",
+      "companyUrl": "https://www.linkedin.com/company/luxembourg-space-agency",
+      "description": "Responsible for all Space Funding topics:\n• Launched the early stage space VC, Orbital Ventures. \n• Setup of the Business Division and Startup Incubator of the European Space Resources Innovation Center.\n• Due diligence of startups and VC funds for investment. \n• Coordinator of the Space Resources Advisory Board for the Government of Luxembourg.",
+      "location": null,
+      "start": "2019-03",
+      "end": "2021-02",
+      "dateRange": "Mar 2019 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Visiting Fellow",
+      "company": "Laboratory for Innovation Science at Harvard",
+      "companyUrl": "https://www.linkedin.com/company/lisharvard",
+      "description": "• Co-created the edX online course 'Technology Entrepreneurship: Lab to Market' on technology transfer and commercialization of US Air Force technologies.\n• Co-author of Harvard Business Case 'KangaTech' for the MBA class: Lab To Market (Commercialising Science).",
+      "location": null,
+      "start": "2018-09",
+      "end": "2019-02",
+      "dateRange": "Sep 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "TEDx Speaker",
+      "company": "TEDxTUM",
+      "companyUrl": "https://www.linkedin.com/company/tedxtum",
+      "description": "TEDx talk about my experience of being part of the winning team of Elon Musk's SpaceX Hyperloop Pod Competition and leadership.",
+      "location": null,
+      "start": "2016-07",
+      "end": "2016-07",
+      "dateRange": "Jul 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Venture Analyst",
+      "company": "N47",
+      "companyUrl": "https://www.linkedin.com/company/n47capital",
+      "description": "Part-time | Building, accelerating and investing in new ventures.\nPortfolio startup: WERKBLiQ GmbH (werkbliq.com), now a daughter company of DMG MORI",
+      "location": null,
+      "start": "2016-04",
+      "end": "2016-08",
+      "dateRange": "Apr 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Investor, Business & Public Relations Lead",
+      "company": "TUM Hyperloop",
+      "companyUrl": "https://www.linkedin.com/company/tumhyperloop",
+      "description": "WINNER of Elon Musk's SpaceX Hyperloop Pod Competition for the fastest pod against other finalists: MIT and DELFT. The team has won every year since!\n\nCollected funds for the building of the Pod and carried out a crowdfunding on Indiegogo!",
+      "location": null,
+      "start": "2016-02",
+      "end": "2016-07",
+      "dateRange": "Feb 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "SHOPEUR GmbH",
+      "companyUrl": null,
+      "description": "Enabling Chinese travellers to directly reach out to European luxury brands pre-trip to place pre-orders! Investor funded.",
+      "location": null,
+      "start": "2016-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2016 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "Oigooo GmbH",
+      "companyUrl": "https://www.linkedin.com/company/oigooo-gmbh",
+      "description": "eCommerce via our self-developed online shop. Sold German goods for babies to China, like infant formula. Totally bootstrapped!",
+      "location": null,
+      "start": "2014-11",
+      "end": "2015-11",
+      "dateRange": "Nov 2014 – Nov 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard Business School",
+      "degree": "MBA Program, Business Strategy, Open Innovation & Entrepreneurship",
+      "dateRange": null
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": "MBA Exchange Program, Venture Financing",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Business and Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Mechanical Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Mechanical Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Deutsche Schule Shanghai",
+      "degree": "High School Diploma",
+      "dateRange": null
+    },
+    {
+      "school": "German Swiss International School | 德瑞國際學校",
+      "degree": "Primary School",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Management",
+    "Leadership",
+    "C++",
+    "Marketing Strategy",
+    "Microsoft Office",
+    "Public Speaking",
+    "Graphic Design",
+    "Team Leadership",
+    "German",
+    "English",
+    "Project Planning",
+    "Online Marketing",
+    "Start-ups",
+    "Entrepreneurship",
+    "Project Management",
+    "Event Planning",
+    "Business Strategy",
+    "Social Networking",
+    "Public Relations",
+    "Non-profits",
+    "Matlab",
+    "Creativity Skills",
+    "Engineering",
+    "Simulink",
+    "Quality Management",
+    "Catia",
+    "3D Studio Max",
+    "Startup Development",
+    "ANSYS",
+    "Adobe Design Programs",
+    "Intercultural"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ],
+  "company": {
+    "name": "tozero",
+    "tagline": "Europe’s first lithium-ion battery recycling startup",
+    "description": "tozero GmbH is on the mission to challenge the status quo of lithium-ion battery recycling technologies and accelerate the decarbonization efforts.",
+    "industry": "Environmental Services",
+    "website": "https://www.tozero.solutions/",
+    "linkedInUrl": "https://www.linkedin.com/company/tozero-solutions",
+    "employeeCount": 44,
+    "foundedYear": 2022,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Battery Recycling",
+      "climate tech",
+      "circular economy",
+      "impact startup"
+    ]
+  }
+}

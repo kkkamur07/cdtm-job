@@ -1,0 +1,191 @@
+{
+  "id": "benjamin-schaule-b0079ba0",
+  "name": "Benjamin Schaule",
+  "headline": "Innovation Manager | Sustainability",
+  "avatar": {
+    "sm": "/avatars/benjamin-schaule-b0079ba0-sm.webp",
+    "lg": "/avatars/benjamin-schaule-b0079ba0.webp",
+    "blur": "data:image/webp;base64,UklGRkYBAABXRUJQVlA4IDoBAABwBgCdASogACAAPtFgqU+oJSOiKAgBABoJbACdMzQwAkk7eZNvcYf4vdZIZpDtFvM506Jn4LNt6pHvrwAA/qjKLm0pm/uphgU2kkCqoDGIeo4XDqsUuTwhX8jPJw8gyiDs/ODi+kKuh5YZQiDOdO0AqnL6izW8A5P3D1llUuB4PMmMgI+poELTW3zhmM+R6ARoD1QavnVygZbvO0ehY/5jTSCyM3EpmSyHPwDhmyxmm/lr3GyyCYo+Ijvvp12hPuqyuOH2Qsmqw/7vCSxWVN5P2vud1nRVAwZCeDIk5LAfOw8BG8+BEqc1PBkohrq3zemNLzs5tw+yYm1ILTesMMAqJAo6pJEXS+K/WwdmL0ssYGW5vGBKQnfrUv8H4LPf3Ao5X9p94tLfYaiotyPuEuzyGs59fhZ1CIgAAA=="
+  },
+  "location": "Erlangen, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/benjamin-schaule-b0079ba0",
+  "personId": 997,
+  "classes": [
+    {
+      "id": 72,
+      "label": "Fall 2012",
+      "season": "Fall",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2012",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Benjamin Schaule",
+  "ca": null,
+  "summary": "Entrepreneurial engineer. Analytical problem solver. Digital Enthusiast. \n\nTrack record of developing, implementing and executing digital strategy. Ability to grow digital business globally and identify customer needs. Jazz & Funk aficionado.",
+  "positions": [
+    {
+      "title": "Innovation Manager",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Digital & Sustainability",
+      "location": null,
+      "start": "2022-10",
+      "end": null,
+      "dateRange": "Oct 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Project Manager | Executive Office at Siemens",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Executive Office of Management Board Member",
+      "location": "Erlangen, Bavaria, Germany",
+      "start": "2021-01",
+      "end": "2022-10",
+      "dateRange": "Jan 2021 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Digital product manager in dynamic new business.",
+      "location": "Nuremberg, Bavaria, Germany",
+      "start": "2019-07",
+      "end": "2020-12",
+      "dateRange": "Jul 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Fortae",
+      "companyUrl": "https://www.linkedin.com/company/fortae",
+      "description": "Boutique consultancy for Digital Transformation & AI. \n\n• Provided consulting services in innovation and product management\n• Identified use cases, business opportunities and building prototypes, focused on Prop Tech\n• Conducted interactive workshops and seminars",
+      "location": "Zurich, Switzerland",
+      "start": "2018-08",
+      "end": "2018-12",
+      "dateRange": "Aug 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Product & Business Development",
+      "company": "Adaptricity AG",
+      "companyUrl": "https://www.linkedin.com/company/secureswitzerland",
+      "description": "Technology Software Start-Up in field of power grids.\n• Led international expansion: Acquired pilot customers in new markets across three continents, including multiple global top 10 utilities. \n• Strategy & product development: Product strategy alignment and design of new products",
+      "location": "Zürich Area, Switzerland",
+      "start": "2016-11",
+      "end": "2019-06",
+      "dateRange": "Nov 2016 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Engineering Student",
+      "company": "Adaptricity AG",
+      "companyUrl": "https://www.linkedin.com/company/secureswitzerland",
+      "description": "Data analysis & Simulation",
+      "location": "Zürich Area, Switzerland",
+      "start": "2015-10",
+      "end": "2016-03",
+      "dateRange": "Oct 2015 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Venture Analyst Intern",
+      "company": "Siemens Technology Accelerator",
+      "companyUrl": null,
+      "description": "Solarthermal & Software Projects",
+      "location": "Munich Area, Germany",
+      "start": "2015-03",
+      "end": "2015-07",
+      "dateRange": "Mar 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Stylight",
+      "companyUrl": "https://www.linkedin.com/company/stylight",
+      "description": "Consulted online fashion company on bridging gap between online and \"brick and mortar\" shopping.",
+      "location": "Munich Area, Germany",
+      "start": "2014-04",
+      "end": "2014-07",
+      "dateRange": "Apr 2014 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2013-03",
+      "end": "2013-05",
+      "dateRange": "Mar 2013 – May 2013",
+      "current": false
+    }
+  ],
+  "schools": [],
+  "skills": [
+    "Product Management",
+    "Entrepreneurship",
+    "Energy Industry",
+    "Product Development",
+    "Start-ups",
+    "Business Development",
+    "Business Strategy",
+    "Project Management",
+    "Consulting",
+    "python",
+    "Produktentwicklung",
+    "B2B",
+    "Product Vision",
+    "Energy",
+    "Problem Solving",
+    "Product Strategy",
+    "Analytical Skills",
+    "Software Product Management",
+    "Software as a Service (SaaS)"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Siemens",
+    "tagline": "We create technology to transform the everyday, for everyone.",
+    "description": "Siemens AG (Berlin and Munich) is a leading technology company focused on industry, infrastructure, mobility, and healthcare. The company’s purpose is to create technology to transform the everyday, for everyone. By combining the real and the digital worlds, Siemens empowers customers to accelerate their digital and sustainability transformations, making factories more efficient, cities more livable, and transportation more sustainable. A leader in industrial AI, Siemens leverages its deep domain know-how to apply AI – including generative AI – to real-world applications, making AI accessible and impactful for customers across diverse industries. Siemens also owns a majority stake in the publicly listed company Siemens Healthineers, a leading global medical technology provider pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably. In fiscal 2025, which ended on September 30, 2025, the Siemens Group generated revenue of €78.9 billion and net income of €10.4 billion. As of September 30, 2025, the company employed around 318,000 people worldwide on the basis of continuing operations.",
+    "industry": "Automation Machinery Manufacturing",
+    "website": "http://www.siemens.com",
+    "linkedInUrl": "https://www.linkedin.com/company/siemens",
+    "employeeCount": 263989,
+    "foundedYear": 1847,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Electrification",
+      "Automation",
+      "Digitalization",
+      "Innovation",
+      "Technology",
+      "Engineering",
+      "Manufacturing",
+      "Artificial Intelligence",
+      "Internet of Things",
+      "Cybersecurity",
+      "Infrastructure",
+      "Sustainability",
+      "Digital Twin",
+      "Metaverse",
+      "Transport",
+      "Smart Buildings"
+    ]
+  }
+}

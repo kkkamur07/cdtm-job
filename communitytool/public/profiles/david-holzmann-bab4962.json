@@ -1,0 +1,164 @@
+{
+  "id": "david-holzmann-bab4962",
+  "name": "David Holzmann",
+  "headline": "Director at Bridgepoint",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/david-holzmann-bab4962",
+  "personId": 1324,
+  "classes": [
+    {
+      "id": 57,
+      "label": "Spring 2005",
+      "season": "Spring",
+      "year": 2005,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2005",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "David Holzmann",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Director",
+      "company": "Bridgepoint",
+      "companyUrl": "https://www.linkedin.com/company/bridgepoint",
+      "description": null,
+      "location": "Frankfurt Rhine-Main Metropolitan Area",
+      "start": "2020-07",
+      "end": null,
+      "dateRange": "Jul 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Executive Director",
+      "company": "Goldman Sachs",
+      "companyUrl": "https://www.linkedin.com/company/goldman-sachs",
+      "description": null,
+      "location": "London Area, United Kingdom",
+      "start": "2016-12",
+      "end": "2020-06",
+      "dateRange": "Dec 2016 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Goldman Sachs Principal Investment Area / Merchant Banking Division / Private Equity Investments",
+      "company": "Goldman Sachs",
+      "companyUrl": "https://www.linkedin.com/company/goldman-sachs",
+      "description": "Goldman Sachs Principal Investment Area / Merchant Banking Division / Private Equity Investments",
+      "location": "London Area, United Kingdom",
+      "start": "2015-08",
+      "end": "2016-12",
+      "dateRange": "Aug 2015 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Associate",
+      "company": "J.P. Morgan",
+      "companyUrl": "https://www.linkedin.com/company/jpmorgan",
+      "description": "TMT - Technology, Media & Telecoms Coverage | Investment Banking - Corporate Finance | M&A",
+      "location": null,
+      "start": "2011-02",
+      "end": "2015-07",
+      "dateRange": "Feb 2011 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Analyst",
+      "company": "Rothschild",
+      "companyUrl": "https://www.linkedin.com/company/rothschildandco",
+      "description": "Financial Institutions Group - Investment Banking",
+      "location": null,
+      "start": "2009-01",
+      "end": "2011-01",
+      "dateRange": "Jan 2009 – Jan 2011",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "CocktailBude",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2008-01",
+      "end": "2008-10",
+      "dateRange": "Jan 2008 – Oct 2008",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "youop.com",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2006-07",
+      "end": "2008-07",
+      "dateRange": "Jul 2006 – Jul 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2005 – 2008"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diploma, Technology and Management oriented Business Administration",
+      "dateRange": "2003 – 2008"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": "Visiting scholar, Business Administration and Management, General",
+      "dateRange": "2006"
+    },
+    {
+      "school": "Tongji University",
+      "degree": "Term abroad, Business Administration and Management, General",
+      "dateRange": "2005 – 2006"
+    }
+  ],
+  "skills": [
+    "Financial Modeling",
+    "Valuation",
+    "Corporate Finance",
+    "Financial Analysis",
+    "Social Media",
+    "Mergers & Acquisitions",
+    "Telecommunications",
+    "Investment Banking",
+    "Equities",
+    "LBO",
+    "Private Equity"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "company": {
+    "name": "Bridgepoint Group",
+    "tagline": null,
+    "description": "Bridgepoint Group is one of the world's leading mid-market investors, specialising in private equity, infrastructure, credit, secondaries and private wealth.\n\nWith $98 billion of assets under management and a strong local presence in Europe, North America and Asia, we combine global scale with local market insight and sector expertise, consistently delivering strong returns through cycles.",
+    "industry": "Investment Management",
+    "website": "http://www.bridgepointgroup.com",
+    "linkedInUrl": "https://www.linkedin.com/company/bridgepoint",
+    "employeeCount": 613,
+    "foundedYear": null,
+    "location": "West End, United Kingdom",
+    "specialities": [
+      "buyouts, buy-ins"
+    ]
+  }
+}

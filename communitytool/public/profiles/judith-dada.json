@@ -1,0 +1,165 @@
+{
+  "id": "judith-dada",
+  "name": "Judith Dada",
+  "headline": "General Partner @Visionaries Club",
+  "avatar": {
+    "sm": "/avatars/judith-dada-sm.webp",
+    "lg": "/avatars/judith-dada.webp",
+    "blur": "data:image/webp;base64,UklGRk4BAABXRUJQVlA4IEIBAADQBgCdASogACAAPtFYpEyoJSOiKA1RABoJbACdM2h+AkgPcbA1/V1O8umc++NPo7mePL7ZN5cbJtj4ID8RVAAA/sXeNTvqB9cLE7ts72TzsaSjo3yRR5ryWDjSXxE6y5BPRlKYdYQhlwWXXxjytp9B04N66T0gSS5DCgRpCYkIyucUadeh7lJNYkU20xnKluu7A1QW+Sjxdfd3c15SBt+1FSoG8cLtCPmr9+TP2AEwTHtlUSumT/yQ/BJuY1BsxQYpFFhrovW9mLvHPCRhz6uToVIf/E+7Lk0bTOT/HeDMzhX1zAuMjak75ABKdnJSL9W2Qk++Ok1wf46ES0cIBNWXGihlX/XMo0qD+KwMp3AJh8Af2IU2vDZ5yT8E/MNGa6CvN5h7Ud1Gq9BFJuvefHAqMteYeA3UCjt8AXIQCJfjtSAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/judith-dada",
+  "personId": 890,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Communications Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Judith Dada",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Initiator",
+      "company": "Relativity Collective",
+      "companyUrl": "https://www.linkedin.com/company/relativity-collective",
+      "description": "A highly selective pan-European student founder programme connecting Europe’s most ambitious AI talent early. Launched by leading universities (ETH, TUM, Oxford, KTH, Aalto, CDTM) under the RISE Europe alliance and endorsed by founders from Personio, Hugging Face, Silo AI, DeepJudge, n8n, GetYourGuide, Black Forest Labs, and more.\n\nApplications open to exceptional students from any European university.\nDeadline for first cohort: 14 February 2026. Apply now: relativitycollective.com",
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "General Partner",
+      "company": "Visionaries Club",
+      "companyUrl": "https://www.linkedin.com/company/visionaries-club",
+      "description": null,
+      "location": null,
+      "start": "2025-03",
+      "end": null,
+      "dateRange": "Mar 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "The O.G. Open Source Nanny",
+      "company": "Open Source Nanny",
+      "companyUrl": "https://www.linkedin.com/company/open-source-nanny",
+      "description": "Ever wonder how they 'do it all'? So did we. The Open Source Nanny shares honest, anonymised stories from ambitious working parents in the tech ecosystem about their childcare models, costs, challenges, and advice on what works for them. Because behind every rockstar parent crushing it - is someone cleaning crushed banana off the floor. www.opensourcenanny.com",
+      "location": null,
+      "start": "2025-03",
+      "end": null,
+      "dateRange": "Mar 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Partner",
+      "company": "General Catalyst",
+      "companyUrl": "https://www.linkedin.com/company/general-catalyst",
+      "description": null,
+      "location": null,
+      "start": "2024-02",
+      "end": "2024-07",
+      "dateRange": "Feb 2024 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "General Partner at La Famiglia VC | now part of General Catalyst",
+      "company": "La Famiglia VC",
+      "companyUrl": "https://www.linkedin.com/company/la-famiglia-vc",
+      "description": null,
+      "location": null,
+      "start": "2017-11",
+      "end": "2025-01",
+      "dateRange": "Nov 2017 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Solutions Manager, Global Sales",
+      "company": "Facebook",
+      "companyUrl": "https://www.linkedin.com/company/facebook",
+      "description": "Responsible for Amazon Europe and Audible as well as several big European scale-ups\nLead of Venture Capital x Facebook Growth Initiative",
+      "location": "Dublin, Leinster, Ireland",
+      "start": "2016-08",
+      "end": "2017-11",
+      "dateRange": "Aug 2016 – Nov 2017",
+      "current": false
+    },
+    {
+      "title": "Investment Management",
+      "company": "Holtzbrinck Digital",
+      "companyUrl": "https://www.linkedin.com/company/holtzbrinck-digital-gmbh",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Student Trainee",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2014 – Dec 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Oxford",
+      "degree": "Master of Science (M.Sc.), Oxford Internet Institute",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": "Columbia Business School",
+      "dateRange": "2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Arts (B.A.), communication science, economics and business administration",
+      "dateRange": "2011 – 2015"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "company": {
+    "name": "Visionaries Club",
+    "tagline": "Visionaries is a leading European early-stage VC backed by Europe's most successful digital and industrial entrepreneurs",
+    "description": "Visionaries Club is a leading European early-stage venture capital fund with offices in London and Berlin, investing across Europe through its Seed, Early Growth and Visionaries Tomorrow funds. \n\nVisionaries’ community of LPs unites Europe’s leading unicorn founders with a huge network of family business entrepreneurs, who are looking to digitise traditional industries. This includes founders of successful technology companies UiPath, Miro, Wolt, Flixbus, Supercell, Zalando, Mollie, Spotify, Personio, Adyen, HelloFresh and Skype alongside industrial giants such as Swarovski, Miele, Mittal, Haniel, Stihl, Siemens as well as sporting entrepreneurs like Mario Goetze and Nico Rosberg. With its unique network and B2B investment focus, Visionaries is bridging the information asymmetry of “what's possible” in the technology startup space and “what is actually needed” in the industrial space by partnering with the next generation of software superstars. \n\nVisionaries Club has ~€600m AuM and counts Lovable, Personio, Miro, Pigment, Tacto, Tandem Health, Choco and Xentral among its portfolio companies.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "https://visionaries.vc",
+    "linkedInUrl": "https://www.linkedin.com/company/visionaries-club",
+    "employeeCount": 26,
+    "foundedYear": null,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

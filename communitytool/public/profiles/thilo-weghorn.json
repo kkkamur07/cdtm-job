@@ -1,0 +1,257 @@
+{
+  "id": "thilo-weghorn",
+  "name": "Thilo Weghorn (PhD)",
+  "headline": "PhD in Computer Science at Swisscom AG",
+  "avatar": null,
+  "location": "Zurich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/thilo-weghorn",
+  "personId": 1880,
+  "classes": [
+    {
+      "id": 63,
+      "label": "Spring 2008",
+      "season": "Spring",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2008",
+  "major": "Mathematics & Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Thilo Weghorn",
+  "ca": null,
+  "summary": "PhD from ETH in information security with a background in computer science and mathematics. 6+ years of experience in state-of-the-art cyber security. Passionate about problem-solving and diving into top-notch technology developments.",
+  "positions": [
+    {
+      "title": "Senior Security Architect",
+      "company": "Swisscom",
+      "companyUrl": "https://www.linkedin.com/company/swisscom",
+      "description": "- Domaine Owner of Data Security\n- Development of Security Directives",
+      "location": "Zurich, Switzerland",
+      "start": "2023-07",
+      "end": null,
+      "dateRange": "Jul 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Cyber Security Analyst",
+      "company": "Swisscom",
+      "companyUrl": "https://www.linkedin.com/company/swisscom",
+      "description": "- Security Alert Analyse und Triage\n- Use Case Entwicklung und Optimierung\n- Prozessentwicklung und Automatisierung",
+      "location": "Zürich, Schweiz",
+      "start": "2022-05",
+      "end": "2023-06",
+      "dateRange": "May 2022 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Cyber Security Consultant",
+      "company": "Swisscom",
+      "companyUrl": "https://www.linkedin.com/company/swisscom",
+      "description": "- Entwicklung von Riskoanalysen (nach ISO 27000 und NIST), u.a. für FIFA WC 2022 in Qatar\n- Datenschutzbedarfsanalysen in der Spital-, Bau- und Luxus-Branche, u.a. im Rahmen von M365 Migrationen\n- Beratungsprojekte im Bundesumfeld\n- IoT Security im Energiesektor\n- Unterstützung beim Aufbau von Security Operation Dienstleistunge (SOC und CSIRT as a Service)",
+      "location": "Zurich, Switzerland",
+      "start": "2020-09",
+      "end": "2022-06",
+      "dateRange": "Sep 2020 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "ZackigOnline",
+      "companyUrl": null,
+      "description": "•\tOnline non-profit platform to support digitization of COVID-19 affected SMEs (HTML, Wordpress)\n•\tResponsible for fund-raising, technical implementation, and business development",
+      "location": "Zurich, Switzerland",
+      "start": "2020-03",
+      "end": "2020-09",
+      "dateRange": "Mar 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Berater",
+      "company": "Graduate Consulting Club",
+      "companyUrl": "https://www.linkedin.com/company/graduate-consulting-club",
+      "description": "•\tConsulting BLP Digital (ETH spin-off) for automation of AI-based pay-to-purchase processes\n•\tResponsible for market and pricing strategies",
+      "location": "Zurich, Switzerland",
+      "start": "2020-03",
+      "end": "2020-05",
+      "dateRange": "Mar 2020 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Wissenschaftlicher Assistent",
+      "company": "Credit Suisse",
+      "companyUrl": "https://www.linkedin.com/company/credit-suisse",
+      "description": "(1) Analyzing access control policies of the access control system AURA for potential vulnerabilities. \n(2) Mining of access control policies from log-files to provide policy change analysis.",
+      "location": "Zurich, Switzerland",
+      "start": "2013-09",
+      "end": "2018-10",
+      "dateRange": "Sep 2013 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Forschender Doktorand",
+      "company": "ETH Zurich",
+      "companyUrl": "https://www.linkedin.com/company/eth-zurich",
+      "description": "Research topics:\n• Analyzing RBAC policies of a Major Swiss Bank\n• Mining ABAC policies from Log-files\n• Developing and verifying an algorithm providing bandwidth reservations to preventing DDoS attacks\n\nResponsibilities:\n• Teaching assistant for security engineering and introductory courses to Java, Matlab, and Python.\n• Teaching coordinator for managing the teaching of all research assitants in our institute",
+      "location": null,
+      "start": "2013-06",
+      "end": "2020-02",
+      "dateRange": "Jun 2013 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Columbia University in the City of New York",
+      "companyUrl": "https://www.linkedin.com/company/columbia-university",
+      "description": "(1) Analyzing the market development for media, Internet, and communications in North America\n(2) Visiting Scholar at the Department of Mathematics",
+      "location": "New York City Metropolitan Area",
+      "start": "2010-01",
+      "end": "2010-04",
+      "dateRange": "Jan 2010 – Apr 2010",
+      "current": false
+    },
+    {
+      "title": "Praktikant im PR-Bereich",
+      "company": "bayme vbm – Die bayerischen Metall- und Elektro-Arbeitgeber",
+      "companyUrl": "https://www.linkedin.com/company/baymevbm",
+      "description": "(1) Search engine optimization of bayme's web presence\n(2) Integration of social media campaigns for online marketing",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2009-08",
+      "end": "2009-09",
+      "dateRange": "Aug 2009 – Sep 2009",
+      "current": false
+    },
+    {
+      "title": "Praktikant",
+      "company": "SKYTEC AG",
+      "companyUrl": null,
+      "description": "o\tDevelopment of a marketing campaign \no\tPreparation of the market launch of a semantic search engine",
+      "location": "München",
+      "start": "2009-05",
+      "end": "2009-08",
+      "dateRange": "May 2009 – Aug 2009",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Kehr Management Consulting GmbH",
+      "companyUrl": null,
+      "description": "(1) Preparation and structuring of companies’ data for statistical analysis using SPSS\n(2) Translating clients’ demands into research questions at Kehr Management Consulting GmbH",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2009-02",
+      "end": "2009-05",
+      "dateRange": "Feb 2009 – May 2009",
+      "current": false
+    },
+    {
+      "title": "Student Intern",
+      "company": "iCrossing GmbH",
+      "companyUrl": "https://www.linkedin.com/company/icrossing",
+      "description": "(1) Keyword research for search engine optimization of major online businesses (2) Text production at the online editorial department",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2006-02",
+      "end": "2008-05",
+      "dateRange": "Feb 2006 – May 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "Doctor of Philosophy - PhD, Computer und Informationssystemsicherheit/Informationssicherung",
+      "dateRange": "2013 – 2020"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master, Computer Science",
+      "dateRange": "2006 – 2013"
+    },
+    {
+      "school": "Center of Technology Management (CDTM)",
+      "degree": "Honours Degree, Technologiemanagement",
+      "dateRange": "2008 – 2012"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master, Mathematics",
+      "dateRange": "2005 – 2012"
+    },
+    {
+      "school": "Clavius Gymnasium Bamberg",
+      "degree": "German Abitur (A-levels), Majors in mathematics and chemistry",
+      "dateRange": "1995 – 2005"
+    }
+  ],
+  "skills": [
+    "Datenschutz",
+    "Informationstechnologie",
+    "Mathematik",
+    "Sicherheit",
+    "Deutsch",
+    "Informatik",
+    "Netzwerksicherheit",
+    "Informationssicherheit",
+    "Wissenschaft",
+    "Microsoft Office",
+    "LaTeX",
+    "Research",
+    "Microsoft PowerPoint",
+    "Microsoft Word",
+    "Java",
+    "Java Enterprise Edition",
+    "Python",
+    "Hatha Yoga",
+    "Yoga",
+    "Mediation",
+    "Achtsamkeit",
+    "Achtsamkeitsmeditation"
+  ],
+  "languages": [
+    "Chinesisch",
+    "Deutsch",
+    "Dänisch",
+    "Englisch",
+    "Französisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "Swisscom",
+    "tagline": "Top quality​ I Ground-breaking innovations ​I Connected to people and the environment​​",
+    "description": "As No. 1, we inspire people in the connected world. With the latest technologies and innovations, together we have the opportunity to shape the future. To do this, we are and act trustworthy, committed and curious. Are you with us?\n\nJoin us on this exciting journey and work with us or in one of the DevOps Centres in Riga or Rotterdam in different business areas on the latest technological trends.\n\nFind out more about us and our vacancies on our careers page: www.swisscom.ch/career \n\nWe look forward to hearing from you!",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://www.swisscom.ch/",
+    "linkedInUrl": "https://www.linkedin.com/company/swisscom",
+    "employeeCount": 15637,
+    "foundedYear": 1998,
+    "location": "Worblaufen, Switzerland",
+    "specialities": [
+      "Telekommunikation",
+      "IT",
+      "Entertainment",
+      "Mobile",
+      "Internet",
+      "Festnetz",
+      "Glasfaser",
+      "5G",
+      "Innovation",
+      "Digitalisierung",
+      "Cloud",
+      "Security",
+      "Gaming",
+      "Roaming",
+      "TV",
+      "Kino",
+      "Streaming",
+      "Sport",
+      "Nachhaltigkeit",
+      "Telefon"
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "id": "ouggnay",
+  "name": "Yang Guo",
+  "headline": "Chrome",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/ouggnay",
+  "personId": 1846,
+  "classes": [
+    {
+      "id": 62,
+      "label": "Fall 2007",
+      "season": "Fall",
+      "year": 2007,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2007",
+  "major": "Media Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Yang Guo",
+  "ca": null,
+  "summary": "I lead Chrome's Web developer tooling efforts at Google, which includes Chrome DevTools, browser automation, Lighthouse, and more. Prior to that, I worked for eight years on various components of V8, the JavaScript engine in Chrome and Node.js.",
+  "positions": [
+    {
+      "title": "Lead of Chrome Developer Experience",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": "2025-12",
+      "end": null,
+      "dateRange": "Dec 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Lead of Chrome Tooling",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Chrome Tooling, engineering manager",
+      "location": null,
+      "start": "2022-08",
+      "end": "2025-12",
+      "dateRange": "Aug 2022 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Lead of Chrome DevTools",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Chrome DevTools, team lead and senior staff software engineer",
+      "location": null,
+      "start": "2019-06",
+      "end": "2022-08",
+      "dateRange": "Jun 2019 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Staff Software Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Chrome V8, TLM for JS tooling\nJS debugger, Node.js",
+      "location": null,
+      "start": "2017-09",
+      "end": "2019-06",
+      "dateRange": "Sep 2017 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Chrome V8, TLM for JS tooling\nJS debugger, code coverage, Node.js support, side-effect free expression evaluation",
+      "location": null,
+      "start": "2016-08",
+      "end": "2017-09",
+      "dateRange": "Aug 2016 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Chrome V8\nJS debugger, error reporting, code caching, startup snapshot, regex engine, V8's architecture",
+      "location": null,
+      "start": "2015-04",
+      "end": "2016-08",
+      "dateRange": "Apr 2015 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Chrome V8\nstrings, d8, JS debugger, code generation, embedder API, Math builtins, JSON, benchmark performance, concurrent compilation",
+      "location": null,
+      "start": "2011-06",
+      "end": "2015-04",
+      "dateRange": "Jun 2011 – Apr 2015",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Capgemini sd&m",
+      "companyUrl": null,
+      "description": "Internship on a telecommunications and media CRM system.",
+      "location": null,
+      "start": "2010-02",
+      "end": "2010-08",
+      "dateRange": "Feb 2010 – Aug 2010",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Qimonda",
+      "companyUrl": "https://www.linkedin.com/company/qimonda",
+      "description": "Internship on profiling TITAN, a high-performance large-scale circuit simulator.",
+      "location": null,
+      "start": "2006-05",
+      "end": "2007-06",
+      "dateRange": "May 2006 – Jun 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Computer Science",
+      "dateRange": "2009 – 2011"
+    },
+    {
+      "school": "Center for Digital Technology and Management",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2007 – 2010"
+    },
+    {
+      "school": "Georgia Institute of Technology",
+      "degree": "Mobile Applications",
+      "dateRange": "2009"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Computer Science",
+      "dateRange": "2005 – 2008"
+    }
+  ],
+  "skills": [
+    "HTML",
+    "JavaScript",
+    "C++",
+    "Team Management",
+    "Software Development",
+    "Project Management",
+    "Programming",
+    "Software Project Management",
+    "Software Engineering",
+    "Debugging",
+    "Object Oriented Design",
+    "Virtual Machines",
+    "Low Level Programming",
+    "virtual machine",
+    "V8",
+    "Virtual Machine Tooling",
+    "Virtual Machine"
+  ],
+  "languages": [
+    "German",
+    "Chinese",
+    "English"
+  ],
+  "company": {
+    "name": "Google",
+    "tagline": null,
+    "description": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.\n\nCheck out our career opportunities at goo.gle/3DLEokh",
+    "industry": "Software Development",
+    "website": "https://goo.gle/3DLEokh",
+    "linkedInUrl": "https://www.linkedin.com/company/google",
+    "employeeCount": 341631,
+    "foundedYear": null,
+    "location": "Mountain View, United States",
+    "specialities": [
+      "search",
+      "ads",
+      "mobile",
+      "android",
+      "online video",
+      "apps",
+      "machine learning",
+      "virtual reality",
+      "cloud",
+      "hardware",
+      "artificial intelligence",
+      "youtube",
+      "software"
+    ]
+  }
+}

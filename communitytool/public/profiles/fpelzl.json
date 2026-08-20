@@ -1,0 +1,173 @@
+{
+  "id": "fpelzl",
+  "name": "Fabian Pelzl",
+  "headline": "CEO at KNOWRON | AI-Powered Knowledge Solutions in Manufacturing | DPP expert",
+  "avatar": {
+    "sm": "/avatars/fpelzl-sm.webp",
+    "lg": "/avatars/fpelzl.webp",
+    "blur": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAAAwBgCdASogACAAPtFWpkwoJKOiKA1RABoJaAC7INH6AFPQrS/E+KW8u773c2qYHC2EohRfSV8QEjwAAP79vfIW6gqa6PoWIEvBmkSuQV/lwv93Yn2nnGg8P4r3iJJqP2Od3CoWSw0hSX9/v3PSSdQvvHuBh9fJWEtbz3ymZ/+q3DZlQmw5eddsTB+WcacWa5P64I7NrO5p04HzVoS6GSEPpDQtz/+OcdG6q/wQYkuPCNnykE3TTMF1FnsrqnVQqBVk97xl3Vl1dPmtbvGhHb+eC6fO1XZtnSs5ka18uXgVYYW6ZthkuLPiEck2LI7+CtqFS5wlI3i0UOYzgpZ35y41k4UsXXMgPogAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/fpelzl",
+  "personId": 1088,
+  "classes": [
+    {
+      "id": 82,
+      "label": "Fall 2017",
+      "season": "Fall",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2017",
+  "major": "Human Factors Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Fabian Pelzl",
+  "ca": null,
+  "summary": "» Currently on the entrepreneurial journey in the rapidly growing world of Natural Language Processing (NLP) and Digital Assistants. \n» With Knowron we are on the mission to put a personal assistant in every worker’s pocket, freeing their hands for the work that matters most\n» Background in HCI and digital personal assistants at TU Munich and Stanford",
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "KNOWRON",
+      "companyUrl": "https://www.linkedin.com/company/knowron",
+      "description": "Building an AI-based virtual assistant for the blue-collar workforce to empower employees and tackle skilled worker shortages",
+      "location": null,
+      "start": "2020-08",
+      "end": null,
+      "dateRange": "Aug 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager @ Customer Experience",
+      "company": "NavVis",
+      "companyUrl": "https://www.linkedin.com/company/navvis",
+      "description": "NavVis brings indoor mapping and positioning to the next level. Our trolley creates photorealistic 3D models of even the largest indoor spaces on the go. Explore them with our web-based IndoorViewer for virtual exhibitions, real estate presentations, construction monitoring, etc. Via these models, our patented indoor positioning engine lets the camera of your smartphone “see” where you are. Highly accurate and without any infrastructure. Just like GPS for outdoors, this technology is an enabler for the indoor market, incl. navigation, augmented reality, context aware ads, and a myriad more",
+      "location": null,
+      "start": "2017-06",
+      "end": "2018-11",
+      "dateRange": "Jun 2017 – Nov 2018",
+      "current": false
+    },
+    {
+      "title": "Leadership & Change Management Consultant",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Center of Competence: Digital Change Management\n- Conception and development of an internal online toolbox for change management\n- Participation in the change management qualification (topics: change interventions, workshop design, design thinking, change communication)\n- Participation in change and communication workshops for the target operating model\n- Adaption of the kanban board to the change management team\n\nTarget Culture (cultural development within the Financial Services of BMW):\n- Preparation and realisation of globally streamed webinars\n- Community management and support in fundraising for BMW corporate social responsibility initiative Care4Water (http://care4water.org/)\n- Conception and organisation of a global game show including coordination and planning with management level staff\n\nGeneral tasks:\n- Support in the tender process for external consultants (selection method, criterica, etc.)\n- HR for subsequent intern: assistance in writting the position offer, selection of candidates to interview, interviewer in the job interviews",
+      "location": null,
+      "start": "2015-09",
+      "end": "2016-03",
+      "dateRange": "Sep 2015 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "Gymondo",
+      "companyUrl": "https://www.linkedin.com/company/gymondo-gmbh",
+      "description": "Gymondo is a online fitness platform, where users can decide how, when and where they would like to train. With the combination of high-resolution fitness videos and interactively usable nutrition plans, Gymondo offers a new, exciting product to revolutionize the fitness world.\n\n- Reporting and business analysis\n- Web-content creation\n- Social Media\n- Online Marketing\n- Customer service\n- Development of nutrition-concepts",
+      "location": null,
+      "start": "2013-09",
+      "end": "2014-08",
+      "dateRange": "Sep 2013 – Aug 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Researcher, Human Computer Interaction",
+      "dateRange": "2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Human Factors Engineering",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "University of Bayreuth",
+      "degree": "Bachelor of Science (BS)",
+      "dateRange": "2011 – 2015"
+    },
+    {
+      "school": "La Trobe University",
+      "degree": "Business and Economics (exchange)",
+      "dateRange": "2014"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Negotiation",
+    "Leadership",
+    "Marketing",
+    "Microsoft Office",
+    "Artificial Intelligence (AI)",
+    "Strategy",
+    "Business-to-Business (B2B)",
+    "Business Development",
+    "Digital Strategy",
+    "User Experience (UX)",
+    "Software Development",
+    "Entrepreneurship",
+    "Project Management",
+    "Product Management",
+    "Fundraising",
+    "Consulting",
+    "User Interface Design",
+    "Data Analysis",
+    "Direct Sales",
+    "Product Development",
+    "Customer Experience",
+    "Design Thinking",
+    "Change Management",
+    "User Experience Design",
+    "Web Applications",
+    "Customer Retention",
+    "Software Project Management",
+    "Selling Skills",
+    "Emotional Intelligence",
+    "Corporate Social Responsibility",
+    "Adobe Photoshop",
+    "Natural Language Processing (NLP)",
+    "Personal Responsibility",
+    "Corporate Culture",
+    "Adobe Animate",
+    "People Management"
+  ],
+  "languages": [
+    "Englisch",
+    "Spanisch",
+    "Deutsch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "KNOWRON",
+    "tagline": "Empowering industrial workers with an AI-based digital assistant.",
+    "description": "🧠 What if every technician had the knowledge of the entire company right in their pocket?\nWith KNOWRON, that vision becomes reality.\nKNOWRON is an AI-powered assistant for smartphones and desktops – purpose-built for service technicians, industrial workers, and other deskless professionals.\nOur solution delivers your organization’s knowledge exactly where it’s needed: on site – fast, intuitive, and voice-driven.\n\nKey Features:\n🔍 Natural Language Search\nFind answers in seconds – through AI-powered search across manuals, protocols, and internal documents.\n\n📚 Closing Knowledge Gaps\nKNOWRON identifies frequently asked questions and automatically generates tailored, company-specific knowledge articles.\n\n🛠️ Smart Instructions & Training\nCreate step-by-step instructions and interactive training modules – for seamless onboarding and continuous learning.\n\n📝 Automated Documentation\nGenerate standardized, audit-ready service reports via voice input – fast, accurate, and effortless.",
+    "industry": "Software Development",
+    "website": "https://www.knowron.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/knowron",
+    "employeeCount": 10,
+    "foundedYear": 2020,
+    "location": "München, Germany",
+    "specialities": [
+      "AI",
+      "AI Assistant",
+      "Enterprise software",
+      "European AI",
+      "Knowledge management",
+      "Retain internal knowledge",
+      "Automize documentation"
+    ]
+  }
+}

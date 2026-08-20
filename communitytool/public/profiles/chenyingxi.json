@@ -1,0 +1,242 @@
+{
+  "id": "chenyingxi",
+  "name": "Yingxi Chen",
+  "headline": "Co-founder at Stealth",
+  "avatar": {
+    "sm": "/avatars/chenyingxi-sm.webp",
+    "lg": "/avatars/chenyingxi.webp",
+    "blur": "data:image/webp;base64,UklGRiQBAABXRUJQVlA4IBgBAACQBgCdASogACAAPtFgqE+oJSOiKAgBABoJaADDkKnqQPblUqc2MUAZBe/rQNzN0Da81c8O4vT2/YWCAJbAAP79LO8VrqCFAIrkTcdR+9pptQ79ZvtsxMtO3R3dyWlAlcP8BF4+3gEwdOXo+JJDJzwbduejyv70oxUYUrHhUPxQzUUfwhDzXBsTix6vqf15Lh3f47d2UMhs3XiU7FBYeW9e8XX9PzJVL+rOBD87bi3TdpBwq9s4E9Xok2cgVkZGzZ4C2f4cXgXqLXYVwRilZL/wrUNVIwjeUwuqdvQ31ux6y/X1uPuwHHhByjdvloxT5pw6vr7SuSngLuQB9qyQ93GjdgofPWlFrnFYpZPVfbdOL64FxohiUAAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/chenyingxi",
+  "personId": 823,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": "Life Science Economics and Policy",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Yingxi Chen",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Stealth",
+      "companyUrl": "https://www.linkedin.com/company/steath",
+      "description": null,
+      "location": null,
+      "start": "2026-04",
+      "end": null,
+      "dateRange": "Apr 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Principal",
+      "company": "BCG X",
+      "companyUrl": "https://www.linkedin.com/company/bcg-x",
+      "description": null,
+      "location": null,
+      "start": "2025-07",
+      "end": "2026-04",
+      "dateRange": "Jul 2025 – Apr 2026",
+      "current": false
+    },
+    {
+      "title": "Project Leader | Product & Business build",
+      "company": "BCG X",
+      "companyUrl": "https://www.linkedin.com/company/bcg-x",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2025-06",
+      "dateRange": "Jan 2023 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "CEO Ambassador (Class 2023)",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "As a participant in the CEO Ambassador program, I had the unique opportunity to work closely with BCG's leaders and contribute to the shaping and implementation of the firm's strategic priorities. During my 6-month secondment, I focused my efforts on helping to shape BCG's new Climate & Sustainability Practice Area, specifically with a focus on people-related topics.\n\nIt was an honor to be selected for this highly-selective program, and I am grateful for the invaluable experience and knowledge gained from working alongside some of BCG's top performers and leaders.",
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-07",
+      "dateRange": "Jan 2023 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Senior Venture Architect",
+      "company": "BCG X",
+      "companyUrl": "https://www.linkedin.com/company/bcg-x",
+      "description": null,
+      "location": null,
+      "start": "2020-07",
+      "end": "2022-12",
+      "dateRange": "Jul 2020 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Venture Architect",
+      "company": "BCG X",
+      "companyUrl": "https://www.linkedin.com/company/bcg-x",
+      "description": null,
+      "location": null,
+      "start": "2019-03",
+      "end": "2020-06",
+      "dateRange": "Mar 2019 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Yttrium",
+      "companyUrl": "https://www.linkedin.com/company/yttrium",
+      "description": "Private Equity (Growth equity) investments in fintech & industrialtech",
+      "location": null,
+      "start": "2018-03",
+      "end": "2018-06",
+      "dateRange": "Mar 2018 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Venture Analyst",
+      "company": "N47",
+      "companyUrl": "https://www.linkedin.com/company/n47capital",
+      "description": "Research and startup scouting on energy and blockchain topics.",
+      "location": null,
+      "start": "2016-08",
+      "end": "2017-07",
+      "dateRange": "Aug 2016 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Venture Analyst",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Commercialization strategy & business plan for a patented ultra force actuator technology.\nNow rolled-out as an independent startup.",
+      "location": null,
+      "start": "2016-08",
+      "end": "2017-07",
+      "dateRange": "Aug 2016 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Student Researcher",
+      "company": "World Food Programme",
+      "companyUrl": "https://www.linkedin.com/company/unwfp",
+      "description": "Trend Research with United Nation WFP on topic: \"Fighting Hunger in the Digital Era\" \n\nStarted the idea of equipment-as-a-service for smallholder farmers, which is incubated into an award-winning startup in Kenya - Hello Tractor",
+      "location": null,
+      "start": "2016-01",
+      "end": "2016-03",
+      "dateRange": "Jan 2016 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "EAC International Consulting",
+      "companyUrl": "https://www.linkedin.com/company/eac",
+      "description": "Focus: China/Asia, life science, chemical",
+      "location": null,
+      "start": "2014-05",
+      "end": "2015-10",
+      "dateRange": "May 2014 – Oct 2015",
+      "current": false
+    },
+    {
+      "title": "Interpreter/Translator",
+      "company": "Cadence",
+      "companyUrl": "https://www.linkedin.com/company/cadencetranslate",
+      "description": "Past clients include:\n- Foreign consulates: US Embassy and Consulates in China etc. \n- Expert networks: GLG, AlphaSights, Third Bridge etc.",
+      "location": null,
+      "start": "2014-04",
+      "end": "2018-12",
+      "dateRange": "Apr 2014 – Dec 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Life Science Economics and Policy",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "Cambridge Judge Business School",
+      "degree": "Executive Program, Climate & Sustainability",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Student",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors degree in Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Shanghai International Studies University",
+      "degree": "UN/EU Accredited Professional Diploma, Conference Interpretation",
+      "dateRange": null
+    },
+    {
+      "school": "Binghamton University",
+      "degree": "Bachelor's degree, Economics, Environmental Studies, German Studies",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "PowerPoint",
+    "Public Speaking",
+    "Microsoft Excel",
+    "Team Leadership",
+    "Business Development",
+    "Research",
+    "Financial Analysis",
+    "Private Equity",
+    "Financial Modeling",
+    "Entrepreneurship",
+    "Sustainability",
+    "Business Strategy",
+    "Innovation Management",
+    "Management Consulting",
+    "Data Analysis",
+    "Design Thinking",
+    "Corporate Finance",
+    "Economics",
+    "Interpreting",
+    "Econometrics",
+    "Climate",
+    "Climate"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Chinese"
+  ],
+  "company": {
+    "name": "Stealth",
+    "tagline": "Stealth-ing!",
+    "description": "TimelyAI is building a Marketing Saas for Time-based Businesses. \n\n“The idea is to solve the most burning need of our customers- Growing their clientele at an affordable price and being able to build lasting relationships with them for repeat business and referrals.”\n\n\"Coming soon with something extremely 'crazy'!\"",
+    "industry": "Software Development",
+    "website": "https://www.timelyai.com",
+    "linkedInUrl": "https://www.linkedin.com/company/steath",
+    "employeeCount": 4605,
+    "foundedYear": 2021,
+    "location": "Phoenix, United States",
+    "specialities": []
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "janik-sauerbier",
+  "name": "Janik Sauerbier",
+  "headline": "InsurMagic | BCG | CDTM | TUM | UC Berkeley | Studienstiftung",
+  "avatar": {
+    "sm": "/avatars/janik-sauerbier-sm.webp",
+    "lg": "/avatars/janik-sauerbier.webp",
+    "blur": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABQBQCdASogACAAPtFOpEuoJCOhsBgMAQAaCWMAzPBwCvnBmuwPCgeEPBkWTGYe37JjIrAA/vx9XkuHGCVVrW/J9aksQuhFG2YZS6jDBKx0gT/6AjQAF8E6SUb13idP9FbCqpMRLhYqu8GvODSDzotw2lmTa+980xrKQQNnWvDXUpvMAhzXXqFP+lIX0aVwfzhV5BMJNAAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/janik-sauerbier",
+  "personId": 1110,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Janik Sauerbier",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & Geschäftsführer",
+      "company": "InsurMagic",
+      "companyUrl": "https://www.linkedin.com/company/insurmagic",
+      "description": "WhatsApp & KI Bürokraft für +1000 Versicherungsmakler",
+      "location": "München",
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "CFO",
+      "company": "Talentspring",
+      "companyUrl": "https://www.linkedin.com/company/talentspring1",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2023 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Management Consulting",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "Defined a strategy for a large tech corporation specifically focused on their health care business unit",
+      "location": "Frankfurt & Munich | Germany",
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant - Practical Computer Science II",
+      "company": "University of Mannheim",
+      "companyUrl": "https://www.linkedin.com/company/university-of-mannheim",
+      "description": "- Giving a weekly tutorial for students (90 min)\n- Correction of weekly assignments\n- Creation of sample solutions for exercise sheets\n- Exam supervision and assistance with the exam correction",
+      "location": "Mannheim, Baden-Württemberg, Germany",
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Student Consultant & Project Leader",
+      "company": "Various Companies",
+      "companyUrl": "https://www.linkedin.com/company/various-boards",
+      "description": "Conducted IT consulting projects for clients in different industries:\n\nJun. 2021 - Sep. 2021, Project Coach\nEvaluation of certifications for IT- and cloud-products for the Celero Cloud GmbH\n\nSep. 2020 - Dec 2020, Project Leader\nExpansion of the company website for the Precitec GmbH & Co. KG\n\nMar. 2020 - May 2020, Project Member\nDevelopment of an electronic success control tool and a public self-test for the SüdWest Datenschutz Rechtsanwaltsgesellschaft mbH",
+      "location": "Germany",
+      "start": "2019-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2019 – Dec 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Information Systems (Paused)",
+      "dateRange": null
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Berkeley Global Access Program, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "University of Mannheim",
+      "degree": "Bachelor of Science - BS, Information Systems",
+      "dateRange": null
+    },
+    {
+      "school": "Seoul National University",
+      "degree": "Exchange Student, Information Systems",
+      "dateRange": null
+    },
+    {
+      "school": "Kurpfalz-Gymnasium Schriesheim",
+      "degree": "Abitur (comparable to A Levels)",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Project Management",
+    "Artificial Intelligence (AI)",
+    "Financial Planning",
+    "Financial Accounting",
+    "Cash Flow Forecasting",
+    "Climate Modeling",
+    "Reinforcement Learning",
+    "Machine Learning",
+    "PyTorch",
+    "Python (Programming Language)",
+    "Java",
+    "JavaFX",
+    "C",
+    "C++",
+    "PHP",
+    "Linux",
+    "SQL",
+    "Android",
+    "ANTLR",
+    "WordPress"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "InsurMagic",
+    "tagline": "InsurMagic & HalloFelix – Die smarte WhatsApp- und KI-Kommunikationslösung für Versicherungsvermittler",
+    "description": "InsurMagic entwickelt moderne Kommunikationslösungen für Versicherungsmakler mit dem Ziel, Prozesse zu vereinfachen, Erreichbarkeit zu erhöhen und echten Mehrwert im Makleralltag zu schaffen.\n\nMit unserer Plattform ermöglichen wir eine DSGVO-konforme, zentrale Kundenkommunikation über WhatsApp, Telefon & Co., direkt integriert in führende Maklerverwaltungsprogramme. So wird Kommunikation nicht nur schneller, sondern auch strukturiert dokumentiert und effizient nutzbar.\n\nEin zentraler Baustein ist HalloFelix, unsere KI-Bürokraft für Makler:\n\n- 24/7 erreichbar für Kundenanfragen\n- Automatische Vorqualifizierung von Anliegen\n- Terminbuchung und Schadensaufnahme\n- Vollständige Transkription und Dokumentation im MVP\n\nDas Ergebnis: Keine verlorenen Leads, entlastete Teams und mehr Fokus auf Beratung und Abschluss. Mehr dazu: https://www.hallofelix.de/\n\nSeit 2024 vertrauen bereits über 1.000 Makler auf unsere Lösungen. Durch tiefe Integrationen in Systeme wie AMEISE, Professional Works, aB-Agenta, AMS 5 & 6, meinMVP, VEMAoffice oder Keasy schaffen wir echten operativen Mehrwert – direkt im Arbeitsalltag.\n\nWir stehen für:\n\n- praxisnahe Lösungen statt Theorie\n- schnelle Produktentwicklung im engen Austausch mit Maklern\n- und Technologie, die wirklich im Alltag funktioniert\n\n\nImpressum: https://insurmagic.de/impressum",
+    "industry": "Insurance",
+    "website": "https://insurmagic.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/insurmagic",
+    "employeeCount": 7,
+    "foundedYear": 2024,
+    "location": "München, Germany",
+    "specialities": [
+      "WhatsApp",
+      "Versicherungsmakler",
+      "KI",
+      "Telefonassistent",
+      "Versicherungsvermittler"
+    ]
+  }
+}

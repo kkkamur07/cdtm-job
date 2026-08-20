@@ -1,0 +1,190 @@
+{
+  "id": "frederic-k-716284bb",
+  "name": "Frederic K.",
+  "headline": "Phd Candidate @ ifo | Quantitative Economics, Computer Science @ LMU | CDTM | Bayerische EliteAkademie",
+  "avatar": {
+    "sm": "/avatars/frederic-k-716284bb-sm.webp",
+    "lg": "/avatars/frederic-k-716284bb.webp",
+    "blur": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAACwBQCdASogACAAPtFWpkwoJKOiKA1RABoJZgC1F9SVeJLbsRQ28zWoypDJkJOXAWXmJnqLYYAA/v17Cno31YoedtP9Y5oJKtj1/mTKBf1UTeBDOSUCxSfqpqb7a96Es/n9+jRaVibt8laQd1llnRK+nijq0FR+I3fitVD50aJiFV9wDo6mgtgeDwFqsw3RotBdGbHv/6pNmxBFL2SFsnbSeBNoF2XtcyKQ+3bLrQgT1PJX4MEzbxEHUdWXQKLZb0VYlFGzJ1OFFXr4kaVp21UdBoEOXJkPQAAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/frederic-k-716284bb",
+  "personId": 1205,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "BSc in Computer Science and Economics (LMU)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Frederic Kuhwald",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Junior Economist & PhD Candidate",
+      "company": "ifo Institute – Leibniz Institute for Economic Research",
+      "companyUrl": "https://www.linkedin.com/company/ifo-institute-for-economic-research",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Geschäftsführer",
+      "company": "Kuhwald Holding",
+      "companyUrl": "https://www.linkedin.com/company/kuhwald-holding",
+      "description": null,
+      "location": null,
+      "start": "2020-08",
+      "end": null,
+      "dateRange": "Aug 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer",
+      "company": "remberg",
+      "companyUrl": "https://www.linkedin.com/company/remberg",
+      "description": "Full-Stack Softwareentwickler",
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-03",
+      "dateRange": "Oct 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Homeworker",
+      "companyUrl": "https://www.linkedin.com/company/homeworker-schulplaner",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-09",
+      "end": "2024-04",
+      "dateRange": "Sep 2020 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Head of Technology & Operations",
+      "company": "Academy Consult München",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-09",
+      "end": "2019-10",
+      "dateRange": "Sep 2018 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Managing Consultant",
+      "company": "Academy Consult München",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-10",
+      "end": "2024-09",
+      "dateRange": "Oct 2017 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "The Boston Consulting Group",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Greater Dusseldorf Area",
+      "start": "2016-08",
+      "end": "2016-09",
+      "dateRange": "Aug 2016 – Sep 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doktor (Ph.D.)",
+      "dateRange": "2026 – 2029"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Quantitative Economics",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "University of Oxford",
+      "degree": "Visiting Researcher",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Informatics & Statistics",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Volkswirtschaftslehre",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Landesgymnasium für Hochbegabte Schwäbisch Gmünd",
+      "degree": "Abitur",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Gordonstoun",
+      "degree": null,
+      "dateRange": "2013 – 2014"
+    }
+  ],
+  "skills": [
+    "R",
+    "Microsoft Office",
+    "Projektmanagement",
+    "Microsoft Excel",
+    "Microsoft PowerPoint"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "ifo Institute – Leibniz Institute for Economic Research",
+    "tagline": "Shaping the Economic Debate",
+    "description": "“Shaping the Economic Debate”: The ifo Institute wants to help shape the economic policy debate in Germany and Europe. We can do this because we combine excellent research with economic policy relevance. Our research findings provide policymakers and business leaders with a basis for making informed decisions. We prepare economic findings in such a way that the media and the public can understand and classify current economic and political events. The people at the ifo Institute, its supporters, and its committees make it possible to fulfill our mission. Our close cooperation with Ludwig-Maximilians-Universität (LMU) in Munich is an important basis for our success.\n\nResearch at ifo combines academic excellence with economic policy relevance. Five fields of action form the basis for this bridge building: research, policy advice, information and services, participation in public debates, and development of junior economists. In all these areas we aim to achieve excellence. Our five fields of action are closely interlinked: research is the basis for policy advice. And we can participate in public debates on the basis of newly gained knowledge.\n\nYoung economists make a significant contribution to achieving excellent research results. The development of junior economists is particularly important to us. The ifo Institute’s activities in the area of information and services in turn ensure that our findings reach the various stakeholder groups: through events, media work, or publications.",
+    "industry": "Research Services",
+    "website": "https://www.ifo.de/en",
+    "linkedInUrl": "https://www.linkedin.com/company/ifo-institute-for-economic-research",
+    "employeeCount": 263,
+    "foundedYear": 1949,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Economics of Education",
+      "Public Finance and Political Economy",
+      "International Economics",
+      "Energy, Climate and Resources",
+      "Industrial Organisation & New Technologies",
+      "International Institutional Comparisons and Migration Research",
+      "Macroeconomics and Surveys",
+      "Labour and Demographic Economics",
+      "Research Group Taxation and Fiscal Policy",
+      "ifo Dresden"
+    ]
+  }
+}

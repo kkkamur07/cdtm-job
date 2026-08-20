@@ -1,0 +1,143 @@
+{
+  "id": "carolin-e-softwaredev",
+  "name": "Carolin E.",
+  "headline": "Software Developer in different contexts - from embedded systems to cloud development",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/carolin-e-softwaredev",
+  "personId": 1509,
+  "classes": [
+    {
+      "id": 56,
+      "label": "Fall 2004",
+      "season": "Fall",
+      "year": 2004,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2004",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Carolin Eckl",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Software Developer",
+      "company": "in-tech GmbH",
+      "companyUrl": "https://www.linkedin.com/company/in-tech-gmbh",
+      "description": "Software development and project management in different contexts (embedded systems to cloud applications)",
+      "location": "Munich, Germany",
+      "start": "2015-10",
+      "end": null,
+      "dateRange": "Oct 2015 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Software Developer",
+      "company": "Berner & Mattner GmbH",
+      "companyUrl": null,
+      "description": "Software architecture and software development, requirements engineering and project manager for projects of up to 5 people, coaching of coworkers",
+      "location": "Munich, Germany",
+      "start": "2008-07",
+      "end": "2015-10",
+      "dateRange": "Jul 2008 – Oct 2015",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "At the chair for astronautics in the faculty of engineering: \nDefinition and creation of the lectures for systems engineering and writing research proposals for state funded projects",
+      "location": "Garching, Germany",
+      "start": "2007-10",
+      "end": "2008-06",
+      "dateRange": "Oct 2007 – Jun 2008",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Definition of functional specifications, architecture descriptions and data analysis, execution of black box software tests",
+      "location": "Munich, Germany",
+      "start": "2004-01",
+      "end": "2004-06",
+      "dateRange": "Jan 2004 – Jun 2004",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diploma, Computer Science",
+      "dateRange": "2001 – 2007"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2004 – 2006"
+    }
+  ],
+  "skills": [
+    "Datenanalyse",
+    "Maschinelles Lernen",
+    "SysML",
+    "Model-based Systems Engineering (MBSE)",
+    "MagicDraw",
+    "Agile Softwareentwicklung",
+    "TypeScript",
+    "C++",
+    "C (Programmiersprache)",
+    "IBM Rational DOORS",
+    "IBM Rational Tools",
+    "Java",
+    "Amazon Web Services (AWS)",
+    "Microsoft Azure",
+    "Python (Programmiersprache)",
+    "C#",
+    "Projektmanagement",
+    "Unified Modeling Language (UML)",
+    "PL/SQL",
+    "Visual Basic for Applications (VBA)"
+  ],
+  "languages": [],
+  "company": {
+    "name": "in-tech GmbH",
+    "tagline": "Moving the future! We make everyday life smart, simple, sustainable and safe.",
+    "description": "We create the mobility of the future: in-tech develops innovative solutions for Automotive, Smart City and Smart Factory. With our innovative products and services, we make everyday life intelligent, simple, sustainable and safe.\n\nWe make the car of the future autonomous, electric and connected. We develop solutions for intelligent mobility in cities - such as services for car sharing, bike sharing or other smart functions. And with our Industry 4.0 solutions, we provide integration in the Smart Factory.\n\n*** What we do***\n\nAutomotive Electronics: We are working on making the car of the future autonomous, electric and connected. As a strategic development partner, we support our customers throughout the entire product development process: from development to system integration to after sales.  \n\nElectrified: The future of mobility is electric - we also deal with the challenges for infrastructure providers, municipalities and fleet operators. With the e-troFit concept, we offer retrofit solutions for existing vehicles and thus enable a rapid transition to electromobility. We also offer solutions for the charging infrastructure in charging stations and vehicles.\n\nSmart Factory: More efficiency, transparency and productivity in your machinery - we implement individual industry 4.0 solutions for machine builders and plant operators. \n\n***Who we are***\n\nin-tech was founded in 2002 and has been consistently growing ever since. We currently employ more than 2000 people at locations in 9 countries. We place great value on a family-like atmosphere and a friendly, open working environment. We have already received several awards for excellent working atmosphere, team spirit and work-life balance.\n\nPrivacy: https://www.in-tech.com/datenschutz",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.in-tech.com",
+    "linkedInUrl": "https://www.linkedin.com/company/in-tech-gmbh",
+    "employeeCount": 952,
+    "foundedYear": 2002,
+    "location": "Garching b. München, Germany",
+    "specialities": [
+      "Automotive Electronics",
+      "Automotive Software",
+      "Digitalisierung",
+      "Elektromobilität",
+      "Automotive Apps",
+      "HiL",
+      "virtual Testing",
+      "Internet of Things",
+      "Connected Car",
+      "Security",
+      "Safety",
+      "Autonomous Driving",
+      "Hochgenaue Karten",
+      "Entwicklung",
+      "Funktionale Sicherheit",
+      "Apps",
+      "Industrie 4.0",
+      "Systemintegration"
+    ]
+  }
+}

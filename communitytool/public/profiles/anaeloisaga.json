@@ -1,0 +1,225 @@
+{
+  "id": "anaeloisaga",
+  "name": "Ana Eloisa Garcia de Gortari",
+  "headline": "Flexa | CDTM | TUM | Transforming the Future of Energy⚡",
+  "avatar": {
+    "sm": "/avatars/anaeloisaga-sm.webp",
+    "lg": "/avatars/anaeloisaga.webp",
+    "blur": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAABwBQCdASogACAAPsFQo0unpKOhsAwA8BgJaACw7Yy1LbY0XVb7mNj52VuO6+86dec/KJTAAP79u24BoM/WOa+wP2m7zYfhGEV7ng2OlzLH/JRrc2GfEPyp1hbvc+9E/2Hb5aFap6riSfYdOvgxYzNHBJ+yM9N7upXWdjsOveFzTmsJ2bfwr5lnwq067kvVFuBxDa8ARfx665u2NrZNlen5OnwOkfYsphFNi0xJ5GREPVQgg6FwcOJEo6hu549+QHWwqN1UllFJxm/0zBMTD7q6g8Zh1lThpT+pbRNOAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/anaeloisaga",
+  "personId": 1223,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "M.Sc. Management",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Ana Eloisa Garcia de Gortari",
+  "ca": null,
+  "summary": "Long story short:\n- Nanotechnology Engineer turned into mobility/energy expert with focus on revolutionizing digital technologies\n- Worked in all areas: product, engineering, operations, process, finance, business development, strategy. My favorite ones so far: product and operations\n- My strengths lay in creating clarity out of chaos. I enjoy fitting things into neatly organized boxes, simplifying complexities and optimizing inefficiencies.\n- If I could do anything I wanted without getting paid I'd do something around international cooperation/peace education/technology transfer/women empowerment/future of mobility or energy. If you think of any cool projects that put all of those together - count me in.",
+  "positions": [
+    {
+      "title": "Product Manager",
+      "company": "flexa",
+      "companyUrl": "https://www.linkedin.com/company/flexaenergy",
+      "description": "Building Europe's largest virtual power plant to unlock the full potential of sustainable energy",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "San Francisco | Munich",
+      "company": "Kyte",
+      "companyUrl": "https://www.linkedin.com/company/drivekyte",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Technical Product Owner",
+      "company": "E.ON Digital Technology",
+      "companyUrl": "https://www.linkedin.com/company/e.on-digital-technology",
+      "description": "Developing digital solutions to enable energy sharing and flexibility",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-06",
+      "end": "2025-07",
+      "dateRange": "Jun 2024 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Social Entrepreneurship Mentor",
+      "company": "beVisioneers: The Mercedes-Benz Fellowship",
+      "companyUrl": "https://www.linkedin.com/company/bevisioneers",
+      "description": "As a mentor I provide guidance, feedback, and support to my mentees on their personal and leadership development, serving as advisor, advocate and ally.\n\nbeVisioneers is a global Fellowship that equips innovators aged 16 to 28 with the training, expert support and resources to bring their planet-positive projects to life.",
+      "location": null,
+      "start": "2024-05",
+      "end": "2025-07",
+      "dateRange": "May 2024 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Senior Fleet Operations Associate",
+      "company": "Kyte",
+      "companyUrl": "https://www.linkedin.com/company/drivekyte",
+      "description": null,
+      "location": null,
+      "start": "2023-02",
+      "end": "2024-03",
+      "dateRange": "Feb 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Spearheaded a company-wide transition strategy for an all-EV fleet",
+      "company": "Kyte",
+      "companyUrl": "https://www.linkedin.com/company/drivekyte",
+      "description": "Established supply operations processes for infleeting vehicles, increasing the self-owned fleet size from 0 to 2,000 cars in my first  6 months",
+      "location": null,
+      "start": "2021-12",
+      "end": "2023-03",
+      "dateRange": "Dec 2021 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "SonoDigital Operations Associate",
+      "company": "Sono Motors GmbH",
+      "companyUrl": "https://www.linkedin.com/company/sono-solar",
+      "description": "Contributed to Sono App development for shared mobility services, successfully coordinated the pilot of the app across three different communities, introducing a novel mobility concept that encourages car-sharing to minimize individual car ownership.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2021-11",
+      "dateRange": "Apr 2021 – Nov 2021",
+      "current": false
+    },
+    {
+      "title": "Process Manager",
+      "company": "OSRAM Continental",
+      "companyUrl": "https://www.linkedin.com/company/ams-osram",
+      "description": "Modeled business processes across all departments complying to to BPMN standards.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-02",
+      "end": "2020-09",
+      "dateRange": "Feb 2019 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Business Case Lead",
+      "company": "TUM Hyperloop",
+      "companyUrl": "https://www.linkedin.com/company/tumhyperloop",
+      "description": "Awarded first place in Elon Musk’s “Hyperloop SpaceX Competition 2019” supporting the 60-member team with ops and logistics. Established and led the business case team  developing the comprehensive business and technical feasibility plan for the full-scale concept.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-10",
+      "end": "2021-11",
+      "dateRange": "Oct 2018 – Nov 2021",
+      "current": false
+    },
+    {
+      "title": "Reliability Engineer",
+      "company": "TAR Aerolineas",
+      "companyUrl": "https://www.linkedin.com/company/tarmx",
+      "description": "- Conducted statistical maintenance and punctuality data analysis, proposing cost savings and KPI improvement plans.\n- Presented fleet status to the engineering board and Brazilian Embraer reliability team.",
+      "location": "Queretaro Metropolitan Area",
+      "start": "2016-04",
+      "end": "2017-12",
+      "dateRange": "Apr 2016 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur",
+      "company": "NanoTiO2 Startup",
+      "companyUrl": null,
+      "description": "NanoTiO2 is a coating that purifies and cleans surfaces when exposed to solar and artificial light, it eliminates pollutants and organic waste (even bacterium); it keeps surfaces hygienic, clean and aesthetically pleasant; and the air that is in direct contact with these surfaces also goes through a purification process, providing a healthier environment. This product was developed by Dra. Karen Esquivel in Universidad Autónoma de Querétaro.\nThe startup won Binational Sustainability Innovation Challenge by AEM, finalists in Premio Everis, \n and Semifinalists in Santander Challenge.",
+      "location": "Queretaro Metropolitan Area",
+      "start": "2016-01",
+      "end": "2017-07",
+      "dateRange": "Jan 2016 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Accounting Assistant",
+      "company": "asimetagraf",
+      "companyUrl": "https://www.linkedin.com/company/asimetagraf",
+      "description": null,
+      "location": null,
+      "start": "2011-01",
+      "end": "2012-07",
+      "dateRange": "Jan 2011 – Jul 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Engineering Management (TUM MiM)",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Universidad Autónoma de Querétaro",
+      "degree": "Bachelor of Science - BS, Nanotechnology Engineer",
+      "dateRange": "2012 – 2017"
+    },
+    {
+      "school": "Flinders University",
+      "degree": "International Exchange Semester",
+      "dateRange": "2015"
+    },
+    {
+      "school": "The University of Texas at San Antonio",
+      "degree": "Summer Characterization Course",
+      "dateRange": "2016"
+    }
+  ],
+  "skills": [
+    "German",
+    "Transportation Management",
+    "Strategic Partnerships",
+    "Technology Transfer",
+    "Business Process Design",
+    "Data Analysis",
+    "Project Management",
+    "Systems Engineering",
+    "Business Strategy",
+    "Supply Chain Operations"
+  ],
+  "languages": [
+    "Alemán",
+    "Español",
+    "Inglés"
+  ],
+  "company": {
+    "name": "flexa",
+    "tagline": "Managing every kilowatt-hour intelligently",
+    "description": "flexa is on a mission to build Europe's largest Virtual Power Plant (VPP) in the residential sector together with our partners at Enpal and Entrix. \n\nOur mission is to build and operate a Virtual Power Plant that not only delivers significant energy cost savings but also supports the transition to a 100% renewable electricity future. By offering complete residential energy systems at competitive prices and strategically tapping into multiple revenue streams, we are well-positioned to provide substantial real-world savings to our customers. This approach enhances customer satisfaction as they experience the full benefits of an electrified, energy-generating home.\n\nThrough a deep integration into the installed hardware and a direct connection to the customer interfaces, flexa’s AI-based solution controls the energy assets (such as EV, heat pump, home storage, and others) of a decentralized energy community with an exceptional level of accuracy, speed, transparency, and thus customer satisfaction. With intelligent algorithms, flexa maximizes customers’ usable flexibility and its returns on energy markets while considering costs, such as grid fees and asset degradation.\n\nWe are rapidly growing our team and are hiring experienced tech professionals interested in revolutionizing the energy sector. We are looking forward to receiving your application!",
+    "industry": "Renewable Energy Power Generation",
+    "website": "http://www.flexa.energy",
+    "linkedInUrl": "https://www.linkedin.com/company/flexaenergy",
+    "employeeCount": 45,
+    "foundedYear": 2024,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

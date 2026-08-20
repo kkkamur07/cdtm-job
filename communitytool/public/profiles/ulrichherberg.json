@@ -1,0 +1,176 @@
+{
+  "id": "ulrichherberg",
+  "name": "Ulrich Herberg, Ph.D.",
+  "headline": "GM of Software Engineering Payments & Shipping at eBay Germany",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/ulrichherberg",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "- GM of the new eBay development center in Berlin, started a new organization from scratch. Leading teams in the area of payments, compliance, identity, protections, and shipping.\n- Former Chief Identity Architect at eBay: Leading eBay’s Identity organization on all related topics, including IAM, user management, 2FA (FIDO, TOTP), authentication and authorization (OAuth / OpenID Connect), PKI, TLS.\n- Hands-on Cloud Expert: Lead the successful move of Yahoo's PCI credit card platform with $1bn revenue into the cloud (AWS).\n- Recipient of two Critical Talent Awards, two President’s Awards and one Best Employee of the Year award.\n- 14+ years of experience in full stack development: Java, micro services, Amazon AWS, Linux, MySQL, Android, JavaScript, and HTML.\n- Standardization expert (13 IETF RFCs, former IETF Working Group chair), focus on routing, security in IoT / wireless mobile networks, and IPv6.\n- Former researcher on IoT, Smart Grid communication, wireless sensor networks, and network security.\n- 28 international conference and journal publications, 6 patents",
+  "positions": [
+    {
+      "title": "Sr. Director of Software Engineering",
+      "company": "eBay",
+      "companyUrl": "https://www.linkedin.com/company/ebay",
+      "description": "- GM of the new eBay development center in Berlin for Payments & Shipping, started a new organization from scratch and growing it to 70+ engineers.\n- Leading teams in the area of payments, compliance, identity, protections, and shipping.",
+      "location": "Berlin / Munich, Germany",
+      "start": "2023-03",
+      "end": null,
+      "dateRange": "Mar 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief Identity Architect, Distinguished Engineer",
+      "company": "eBay",
+      "companyUrl": "https://www.linkedin.com/company/ebay",
+      "description": "- Executive level engineering leader\n- Chief Identity Architect at eBay: IAM, user management, 2FA (FIDO, TOTP), authentication and authorization (OAuth / OpenID Connect)\n- Responsible for architecture in major projects in Managed Payments spanning the whole organization of ~650 engineers\n- Improving coding best practices and knowledge transfer for the entire organization and the wider eBay engineering community of thousands of engineers.",
+      "location": "San Jose, California, United States",
+      "start": "2021-06",
+      "end": "2023-03",
+      "dateRange": "Jun 2021 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Senior Principal Engineer",
+      "company": "Yahoo",
+      "companyUrl": "https://www.linkedin.com/company/yahoo",
+      "description": "- Led architecture and hands-on migration of Yahoo's entire payments platform processing ~$1bn in transactions per year into AWS (ECS cluster, Fargate, Cloudformation, Docker, Java 17)\n- Design and implementation of security solutions (mutual TLS, x.509, authorization, OAuth 2.0)",
+      "location": "Sunnyvale, California",
+      "start": "2019-09",
+      "end": "2021-06",
+      "dateRange": "Sep 2019 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Principal Engineer",
+      "company": "Yahoo",
+      "companyUrl": "https://www.linkedin.com/company/yahoo",
+      "description": null,
+      "location": "Sunnyvale, California",
+      "start": "2018-10",
+      "end": "2019-09",
+      "dateRange": "Oct 2018 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Sr. Software Architect",
+      "company": "Verifone",
+      "companyUrl": "https://www.linkedin.com/company/verifone",
+      "description": "- Principal architect and Engineering lead of the newly released Verifone App Marketplace coordinating with 10 teams in Verifone; awarded a President’s Award for this achievement. Marketplace attracted double digit million dollars contracts with customers across the world.\n- Defining software architecture for innovative new payment solutions. Interaction with Android engineers, defining the APIs for mobile apps, and security architecture (OAuth 2.0, mutual TLS, X.509, PKI). Teaching security topics to 50+ engineers in Lunch&Learn sessions.\n- Leading a team of back-end and front-end engineers, creating new flagship payment solution for Verifone.\n- Hands-on implementation of back-end services using technologies such as Spring Boot, JPA, Hibernate, MySQL, RESTful APIs, Swagger. Hands-on AWS set-up with continuous deployment (EC2, S3, Route53, CodeDeploy, CodePipeline, IAM, RDS, VPC, etc.), Android implementation (MDM).",
+      "location": "San Francisco Bay Area",
+      "start": "2015-12",
+      "end": "2018-09",
+      "dateRange": "Dec 2015 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Lead Architect",
+      "company": "Panasonic",
+      "companyUrl": "https://www.linkedin.com/company/panasonic",
+      "description": "- Leading a team of senior developers (including iOS/Android), QA testers, system administrators in a fast-driven start-up-like Agile environment, defining technical road map, system architecture (security / scalability), and hiring decisions. Released a successful SaaS health-care software product (HIPAA).\n- Hands-on software development of a full-stack distributed software solution, using Android, Java, HTML5, JavaScript, CSS, PHP, XML, MySQL, JSON, REST services, APIs, and Amazon AWS in the area of health care and wellness for seniors.\n- Responsible for administrating AWS infrastructure.\n- Overseeing automatic and manual QA testing, using Selenium Webdriver, Jenkins.",
+      "location": "Cupertino, CA",
+      "start": "2014-10",
+      "end": "2015-10",
+      "dateRange": "Oct 2014 – Oct 2015",
+      "current": false
+    },
+    {
+      "title": "6lo Working Group Chair",
+      "company": "IETF",
+      "companyUrl": null,
+      "description": "- Founded and led this Working Group as one of two chairs with over 100 participants on IPv6 over constrained link layers, such as IEEE 802.15.4, DECT-ULE, and Z-Wave.",
+      "location": null,
+      "start": "2013-10",
+      "end": "2014-09",
+      "dateRange": "Oct 2013 – Sep 2014",
+      "current": false
+    },
+    {
+      "title": "Member of Research Staff at Fujitsu Laboratories of America",
+      "company": "Fujitsu Laboratories of America",
+      "companyUrl": null,
+      "description": "- Awarded as “Best Employee of the year FY2013” by Fujitsu Labs of America, and received the “Fujitsu Labs President’s Award 2013“\n- Completed standardization as main editor of major automated Demand Response standard OpenADR2.0b, and of Fujitsu’s principal AMI routing protocol as IETF RFC as the main editor\n- Multiple papers published, and patents filed on IoT, wireless network and security topics.\n- Lead of software development of Fujitsu’s OpenADR2.0 implementation, using Java EE (JAX-RS, Hibernate, RESTful), XML, XMPP, which received official certification by the OpenADR Alliance and made Fujitsu the first company in the world to get certification.",
+      "location": "Sunnyvale, CA, USA",
+      "start": "2011-07",
+      "end": "2014-09",
+      "dateRange": "Jul 2011 – Sep 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "École Polytechnique",
+      "degree": "PhD, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (MSc), Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "École normale supérieure de Lyon",
+      "degree": "Exchange Student, Computer Science",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Software Architecture",
+    "Amazon Web Services (AWS)",
+    "Security",
+    "Software Engineering",
+    "Software Development",
+    "System Architecture",
+    "Computer Science",
+    "Mobile Devices",
+    "Distributed Systems",
+    "Algorithms",
+    "Cloud Computing",
+    "Agile Methodologies",
+    "Wireless",
+    "TCP/IP",
+    "Scrum",
+    "Programming",
+    "Research",
+    "Routing",
+    "IP",
+    "Wireless Networking"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "eBay",
+    "tagline": "We connect people and build communities to create economic opportunity for all.",
+    "description": "At eBay, we create pathways to connect millions of sellers and buyers in more than 190 markets around the world. Our technology empowers our customers, providing everyone the opportunity to grow and thrive — no matter who they are or where they are in the world. And the ripple effect of our work creates waves of change for our customers, our company, our communities and our planet.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.ebayinc.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/ebay",
+    "employeeCount": 20146,
+    "foundedYear": null,
+    "location": "San Jose, United States",
+    "specialities": [
+      "e-commerce",
+      "retail",
+      "internet",
+      "technology"
+    ]
+  }
+}

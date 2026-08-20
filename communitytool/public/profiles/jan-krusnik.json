@@ -1,0 +1,217 @@
+{
+  "id": "jan-krusnik",
+  "name": "Jan K.",
+  "headline": null,
+  "avatar": {
+    "sm": "/avatars/jan-krusnik-sm.webp",
+    "lg": "/avatars/jan-krusnik.webp",
+    "blur": "data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAACQBgCdASogACAAPtFYpU0oJSOiMBgIAQAaCUAYm7UEo2Necx6qyGy+BR7TdTcwpEDeRiDDYUDWrhqzWlLAAP7oIwvv/DFzw95OM9D4ZICtnnJFLrYW2V9L5Itn7DH5v72jG0C5ybi2mE2Givv1lqnyH1opvBAIvvUXJVn7jyvgP8ht06zw+YE/qPJDq+RmZag9gj7ZAkqfRp7yzEqxJ2XMJzhHmThGgE1Odlb3rTeu9wv1rGWl3yaXK1m3hLDPPe8d1DybWElBONmrzW0r9gEoTAKvhLMJpME3xwoMv9XqL3uOFYP9Hno9jrwspDeBsjKbeMMaM58/Gt00g4nIr1Yn/+Z6M9NcsLLSbcFNZ42rW3TvYBdNIdlg5dh1dqqmoomM7o+4ucmq1VwPks/rJ0+jAkyhhJQFHG+RseHXnw6Ox7xgAAA="
+  },
+  "location": "Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/jan-krusnik",
+  "personId": 1146,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "ranked",
+  "needsReview": true,
+  "rosterName": "Jan Krušnik",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Applied AI Intern",
+      "company": "Detecon",
+      "companyUrl": "https://www.linkedin.com/company/detecon",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Accounting Intern",
+      "company": "Vlamat d.o.o.",
+      "companyUrl": null,
+      "description": "Žalec",
+      "location": null,
+      "start": "2016-08",
+      "end": null,
+      "dateRange": "Aug 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Master Thesis Project",
+      "company": "Schneider Electric",
+      "companyUrl": "https://www.linkedin.com/company/schneider-electric",
+      "description": "\"The Showcase Factory of Tomorrow: A Case Study of Transformation Planning and IT Adoption\"\nMaster’s Thesis at ETH Zürich with Schneider Electric and Feller AG",
+      "location": "Horgen, Zurich, Switzerland",
+      "start": "2025-06",
+      "end": "2025-11",
+      "dateRange": "Jun 2025 – Nov 2025",
+      "current": false
+    },
+    {
+      "title": "IT Consultant & Developer",
+      "company": "Autoscribed GmbH",
+      "companyUrl": "https://www.linkedin.com/company/autoscribed",
+      "description": null,
+      "location": "Zürich Metropolitan Area",
+      "start": "2024-07",
+      "end": "2024-08",
+      "dateRange": "Jul 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Junior Analyst",
+      "company": "rethink Ventures",
+      "companyUrl": "https://www.linkedin.com/company/rethinkventures",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2023-07",
+      "dateRange": "Jan 2023 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Web Development Intern",
+      "company": "Povio",
+      "companyUrl": "https://www.linkedin.com/company/povio",
+      "description": null,
+      "location": "Celje, Slovenia",
+      "start": "2022-07",
+      "end": "2022-08",
+      "dateRange": "Jul 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Business Plan Team",
+      "company": "TUfast e.V. Racing Team",
+      "companyUrl": "https://www.linkedin.com/company/tufast-racing-team",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-10",
+      "end": "2020-08",
+      "dateRange": "Oct 2019 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Web Design & App Development",
+      "company": "Freiberuflich",
+      "companyUrl": null,
+      "description": "Designed websites and custom tools for multiple small businesses.",
+      "location": "Slovenia",
+      "start": "2018-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2018 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "Master's degree, Management, Technology & Economics",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Wirtschaftsinformatik",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Exchange Semester",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Gymnasium for Slovenes (BG/BRG für Slowenen)",
+      "degree": "Matura, Realgymnasium",
+      "dateRange": "2015 – 2019"
+    }
+  ],
+  "skills": [
+    "Artificial Intelligence (AI)",
+    "IT Consulting",
+    "Software Development",
+    "Research Projects",
+    "IT Management",
+    "Digital Transformation",
+    "Manufacturing",
+    "Stakeholder Management",
+    "React.js",
+    "Next.js",
+    "Cascading Style Sheets (CSS)",
+    "HTML5",
+    "REST APIs",
+    "Python",
+    "iOS Development",
+    "Adobe Illustrator",
+    "3D-Drucker",
+    "Projektmanagement",
+    "Web Design",
+    "Photography",
+    "Adobe Premiere Pro",
+    "WordPress",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft Access"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Kroatisch",
+    "Slowenisch"
+  ],
+  "company": {
+    "name": "Detecon",
+    "tagline": null,
+    "description": "Detecon makes the future possible — digital, interconnected, and human. As we are a leading consulting partner for digital transformation with extensive experience in connectivity and communications, we are in a position to combine in-depth understanding of technology with extensive knowledge of innovative business models and their successful realization. For outstanding customer experiences and satisfied employees.",
+    "industry": "Business Consulting and Services",
+    "website": "https://www.detecon.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/detecon",
+    "employeeCount": 845,
+    "foundedYear": 1977,
+    "location": "Cologne, Germany",
+    "specialities": [
+      "Consulting",
+      "Technology",
+      "Digital Transformation",
+      "Cyber Security",
+      "IT Infrastructure",
+      "Telecommunications",
+      "Automotive",
+      "Manufacturing",
+      "Healthcare",
+      "Pharma",
+      "Public",
+      "Travel",
+      "Transport",
+      "Logistics",
+      "Sustainability",
+      "Digital Innovation",
+      "Strategy",
+      "Management",
+      "Advisory"
+    ]
+  }
+}

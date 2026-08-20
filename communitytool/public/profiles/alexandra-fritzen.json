@@ -1,0 +1,236 @@
+{
+  "id": "alexandra-fritzen",
+  "name": "Alexandra Fritzen",
+  "headline": "Director, Oracle Zurich",
+  "avatar": {
+    "sm": "/avatars/alexandra-fritzen-sm.webp",
+    "lg": "/avatars/alexandra-fritzen.webp",
+    "blur": "data:image/webp;base64,UklGRjYBAABXRUJQVlA4ICoBAADwBQCdASogACAAPtFcp04oJSOiKAqpABoJZAC7MoBOeLUaqkrxYg7WvzF1QxXXFn7KB7/4Yup0kAD+6TK1GIBjNmE9DjinwJ6xKtV33tczU3+Upuj9M5/tzRrIc1tDZtra5poYAAB3gk5pHDHnIIRMP4suWcuqK25HeaK9+VN1e3y9yxjtk/gZxO1JsYgBpUqHrk1ER/sqasgr0nCiafXnmHSU0a+1yEBMOiAdVAMkJ+gw5jL01XSD+1astA95LsX3ZlMYS9/8Uj846N8NBResqOZtPVMWg5dH20gX+u9gFcAuvKvQrfcTsVPr9BPasZ/NXm2nYs3eTjoi9uFK4g9b9n64CmkPUmqJd6jhE75M4TlvBe7LGuuB8DXAA/F775KwMEj3UQTQ5OAA"
+  },
+  "location": "Zurich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/alexandra-fritzen",
+  "personId": 1035,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Alexandra Fritzen",
+  "ca": null,
+  "summary": "I like creating innovative digital products using the latest technologies while being curious, creative, and thorough.",
+  "positions": [
+    {
+      "title": "Director",
+      "company": "Oracle",
+      "companyUrl": "https://www.linkedin.com/company/oracle",
+      "description": "- Leading the team developing Micronaut and the Graal Development Kit for Micronaut\n- Led teams developing Oracle-internal compliance solutions",
+      "location": "Zurich, Switzerland",
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Research Manager",
+      "company": "Oracle",
+      "companyUrl": "https://www.linkedin.com/company/oracle",
+      "description": "- Leading several development teams at Oracle Labs that work on implementing (and partially operating) on-premise and Cloud services according to OCI Cloud Native principles.\n- Communicating with Oracle-internal customers and stakeholders to identify their needs, gather requirements, drive integration of our products. Acting as first instance for reporting and resolving issues.\n- Prioritizing work items and managing the backlog across the products.\n- Reviewing feature specifications and implementations to ensure product fit and customer satisfaction.\n- Implementing new processes and of process improvements across the product and wider organization.",
+      "location": "Zurich, Switzerland",
+      "start": "2021-07",
+      "end": "2024-09",
+      "dateRange": "Jul 2021 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Research Manager",
+      "company": "Oracle",
+      "companyUrl": "https://www.linkedin.com/company/oracle",
+      "description": "- Leadership of a team of 9+ developers\n- Communication with Oracle-internal customers and stakeholders: identifying needs and desires, gathering requirements, driving collaboration projects, acting as first instance for issue reporting and resolution\n- Prioritization of work items across the product and management of the backlog\n- Work item specification\n- Schedule and assignment of team members to work items; follow-up up on work results\n- Implementation of new processes and of process improvements across the product and other product teams\n- (When there is time) Development effort for bug fixes and smaller fixes",
+      "location": "Zurich Area, Switzerland",
+      "start": "2019-09",
+      "end": "2021-07",
+      "dateRange": "Sep 2019 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Oracle",
+      "companyUrl": "https://www.linkedin.com/company/oracle",
+      "description": null,
+      "location": "Zürich Area, Switzerland",
+      "start": "2019-03",
+      "end": "2019-09",
+      "dateRange": "Mar 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Oracle",
+      "companyUrl": "https://www.linkedin.com/company/oracle",
+      "description": null,
+      "location": "Zürich Area, Switzerland",
+      "start": "2018-10",
+      "end": "2019-03",
+      "dateRange": "Oct 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "National Institute of Informatics",
+      "companyUrl": null,
+      "description": "CRWB project under the supervision of Frederic Andres, Associate Professor",
+      "location": "Tokyo, Japan",
+      "start": "2018-03",
+      "end": "2018-08",
+      "dateRange": "Mar 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Student Assistant",
+      "company": "Chair for Decision Sciences & Systems",
+      "companyUrl": null,
+      "description": "Support of the exercise operation of the lecture 'Operations Research' by grading homework assignments and exams",
+      "location": "Technische Universität München",
+      "start": "2016-04",
+      "end": "2016-07",
+      "dateRange": "Apr 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "TeleClinic",
+      "companyUrl": "https://www.linkedin.com/company/teleclinic",
+      "description": "Development of the iOS app",
+      "location": "Munich",
+      "start": "2015-07",
+      "end": "2015-08",
+      "dateRange": "Jul 2015 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "F&F Computer Anwendungen und Unternehmensberatung GmbH",
+      "companyUrl": null,
+      "description": "Testing with JUnit and Selenium, Jenkins configuration and migration, among others",
+      "location": "Munich",
+      "start": "2015-06",
+      "end": "2015-07",
+      "dateRange": "Jun 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "F&F Computer Anwendungen und Unternehmensberatung GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "München",
+      "start": "2013-08",
+      "end": "2013-08",
+      "dateRange": "Aug 2013 – Aug 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Information Systems",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "University of Melbourne",
+      "degree": "Information Systems",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor's Degree, Technology & Management",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Information Systems",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "University of Waterloo",
+      "degree": "Computer Science",
+      "dateRange": "2015"
+    }
+  ],
+  "skills": [
+    "Program Management",
+    "Requirements Gathering",
+    "Product Management",
+    "Leadership",
+    "Process Improvement",
+    "Java",
+    "JavaScript",
+    "CSS",
+    "HTML5",
+    "Docker",
+    "Jenkins",
+    "JIRA",
+    "UML",
+    "Objective-C",
+    "AngularJS",
+    "Node.js",
+    "MongoDB",
+    "Ruby on Rails",
+    "JSON",
+    "XML"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Oracle",
+    "tagline": "We help people see data in new ways, discover insights, unlock endless possibilities.",
+    "description": "We’re a cloud technology company that provides organizations around the world with computing infrastructure and software to help them innovate, unlock efficiencies and become more effective. We also created the world’s first – and only – autonomous database to help organize and secure our customers’ data.\n \nOracle Cloud Infrastructure offers higher performance, security, and cost savings. It is designed so businesses can move workloads easily from on-premises systems to the cloud, and between cloud and on-premises and other clouds. Oracle Cloud applications provide business leaders with modern applications that help them innovate, attain sustainable growth, and become more resilient. \n \nThe work we do is not only transforming the world of business--it's helping defend governments, and advance scientific and medical research. From nonprofits to companies of all sizes, millions of people use our tools to streamline supply chains, make HR more human, quickly pivot to a new financial plan, and connect data and people around the world.  \n\nAt work, we embrace diversity, encourage personal and professional growth, and celebrate a global team of passionate people developing innovative technologies that help people and companies tackle real-world problems head-on.\n\nThis LinkedIn page serves as Oracle’s official global company presence, connecting our team, customers, and partners worldwide.\n\n\nIf you’d like to join us, please visit our Careers page: https://www.oracle.com/corporate/careers/\n\nFor investor news, SEC filings, and financial information about Oracle (NYSE:ORCL), please visit https://investor.oracle.com/home/.\n \nFollow us on X: x.com/oracle \nLike our page on Facebook: facebook.com/Oracle/ \nFollow us on Instagram: instagram.com/oracle/",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.oracle.com",
+    "linkedInUrl": "https://www.linkedin.com/company/oracle",
+    "employeeCount": 207437,
+    "foundedYear": null,
+    "location": "Austin, United States",
+    "specialities": [
+      "enterprise",
+      "software",
+      "applications",
+      "database",
+      "middleware",
+      "fusion",
+      "business intelligence",
+      "Primavera",
+      "PeopleSoft",
+      "EPM",
+      "BEA",
+      "Hyperion",
+      "Retek",
+      "Utilities",
+      "On-Demand",
+      "server & storage systems",
+      "BPM",
+      "solutions for communications industry",
+      "ERP",
+      "CRM",
+      "CRM On Demand",
+      "JDE",
+      "Siebel"
+    ]
+  }
+}

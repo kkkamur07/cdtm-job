@@ -1,0 +1,161 @@
+{
+  "id": "alexdoerr",
+  "name": "Alexander Doerr",
+  "headline": "Founder & Managing Director, Rawmotion GmbH",
+  "avatar": null,
+  "location": "Bad Tölz, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/alexdoerr",
+  "personId": 1724,
+  "classes": [
+    {
+      "id": 99,
+      "label": "Spring 2000",
+      "season": "Spring",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2000",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Alexander Dörr",
+  "ca": null,
+  "summary": "Specialties: Entrepreneurship, Business Model Development, Brand Development, Sports Data & Media Services, Data Handling, Event Services, Sports Membership Management, Action Sports, Electronic Scoring Systems",
+  "positions": [
+    {
+      "title": "Founder & Managing Director",
+      "company": "Rawmotion GmbH",
+      "companyUrl": "https://www.linkedin.com/company/rawmotion-gmbh",
+      "description": "Rawmotion is the premier, full-service live sports production company, translating sports competitions into an engaging experience that captivates fans and drives audience reach and engagement. Rawmotion was founded on the fundamental principle of creating the highest quality solutions and experience for our clients and their viewers. With our comprehensive portfolio of services and solutions across the entire sports production value chain, Rawmotion will handle every aspect of any live sports production, from initial concept to final delivery.",
+      "location": "Bad Tölz, Germany",
+      "start": "2006-09",
+      "end": null,
+      "dateRange": "Sep 2006 – Present",
+      "current": true
+    },
+    {
+      "title": "General Manager",
+      "company": "TTR Pro Snowboarding - The World Snowboard Tour",
+      "companyUrl": "https://www.linkedin.com/company/ttr-world-snowboard-tour",
+      "description": null,
+      "location": null,
+      "start": "2008-01",
+      "end": "2013-06",
+      "dateRange": "Jan 2008 – Jun 2013",
+      "current": false
+    },
+    {
+      "title": "Senior Business Development Manager",
+      "company": "Redesign Technologies Inc.",
+      "companyUrl": null,
+      "description": "New Business Opportunities and Project Management for Sports Solutions - Member Pro for Sports, the leading membership management solution for the sports sector",
+      "location": "Bowen Island, Vancouver, BC",
+      "start": "2006-07",
+      "end": "2021-12",
+      "dateRange": "Jul 2006 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Senior Director",
+      "company": "beck et al. Projects GmbH",
+      "companyUrl": null,
+      "description": "Member of the Management Team, responsible for a yearly turnover of 1 Mio. € and a team of 8 staff members\nKey Account Management, Marketing, Sales, Business Development, HR Management, Recruiting, Project Management, Consulting",
+      "location": null,
+      "start": "2005-01",
+      "end": "2006-06",
+      "dateRange": "Jan 2005 – Jun 2006",
+      "current": false
+    },
+    {
+      "title": "IT Consultant",
+      "company": "beck et al. Projects GmbH",
+      "companyUrl": null,
+      "description": "Business Analyst and Project Manager in different Development- and Consulting projects\nRequirements Engineering, Process Analysis and Optimisation, Preparation of concepts, offers and profitability analysis, Project Management",
+      "location": null,
+      "start": "2003-06",
+      "end": "2004-12",
+      "dateRange": "Jun 2003 – Dec 2004",
+      "current": false
+    },
+    {
+      "title": "IT Specialist",
+      "company": "International Snowboard Federation",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "1999-01",
+      "end": "2001-12",
+      "dateRange": "Jan 1999 – Dec 2001",
+      "current": false
+    },
+    {
+      "title": "Sales Assistant",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": null,
+      "location": null,
+      "start": "1997-01",
+      "end": "2000-12",
+      "dateRange": "Jan 1997 – Dec 2000",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom, Business Administration and Economics",
+      "dateRange": "1997 – 2002"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Project Management",
+    "Marketing",
+    "Business Development",
+    "Event Management",
+    "Entrepreneurship",
+    "Sports Management",
+    "Sponsorship",
+    "Event Planning",
+    "New Business Development",
+    "Business Strategy",
+    "Strategic Partnerships",
+    "Start-ups",
+    "Sports Marketing",
+    "Governance",
+    "Timing",
+    "Sports",
+    "Business Process Re-engineering",
+    "Brand Development",
+    "Action Sports",
+    "Sport"
+  ],
+  "languages": [],
+  "company": {
+    "name": "RAWMOTION",
+    "tagline": "Creating outstanding experiences for world-class live sports productions around the globe",
+    "description": "Rawmotion is the premier, full-service live sports production company, transforming sports competitions into an engaging experience that captivates fans and drives audience reach and engagement.",
+    "industry": "Spectator Sports",
+    "website": "https://www.rawmotion.com",
+    "linkedInUrl": "https://www.linkedin.com/company/rawmotion-gmbh",
+    "employeeCount": 13,
+    "foundedYear": 2006,
+    "location": "Bad Tölz, Germany",
+    "specialities": [
+      "Live Sports Events",
+      "Sports Data Services",
+      "Media Production",
+      "Storytelling Solutions",
+      "Broadcast Graphics",
+      "Electronic Scoring &Timing",
+      "Sport Event Consulting"
+    ]
+  }
+}

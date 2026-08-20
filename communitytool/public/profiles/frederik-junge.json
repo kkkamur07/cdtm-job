@@ -1,0 +1,212 @@
+{
+  "id": "frederik-junge",
+  "name": "Frederik Junge",
+  "headline": "Aretea | Cherry | UC Berkeley | CDTM | TUM |",
+  "avatar": {
+    "sm": "/avatars/frederik-junge-sm.webp",
+    "lg": "/avatars/frederik-junge.webp",
+    "blur": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAADQBQCdASogACAAPtFYpEuoJaOhsAgBABoJaACBoHkC4Mlq1z8tAp8wi+zDcvszSOHdxbP6HfKAAP79+KHWGqX51LRi5b3r5DfDnloB+wr2JDeG267wF7DnUtiKRUFOMZ4fcGDOrkvQONOWTzUr2ImodIsGOwToLBX+1BGONIDiAuUa5HINckKBl1vY+MKaZqGSdqCAhmhFNParSliWZy/li1DFaYnhSXEqAvIyl1y1ejemtoil5+p8tIoZ2Hkbsm2jcQaWcYT6b7ntG5uwFUHgAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/frederik-junge",
+  "personId": 1129,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Frederik Junge",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Engineering & Product",
+      "company": "Aretea Group",
+      "companyUrl": "https://www.linkedin.com/company/aretea-group",
+      "description": null,
+      "location": null,
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment Team",
+      "company": "Cherry Ventures",
+      "companyUrl": "https://www.linkedin.com/company/cherry-ventures",
+      "description": null,
+      "location": null,
+      "start": "2023-08",
+      "end": "2023-10",
+      "dateRange": "Aug 2023 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Visiting Scholar",
+      "company": "University of California, Berkeley",
+      "companyUrl": "https://www.linkedin.com/company/uc-berkeley",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-05",
+      "dateRange": "Jan 2023 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Produktmanager",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-02",
+      "end": "2023-01",
+      "dateRange": "Feb 2022 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Head of Cyber Security",
+      "company": "ZEITFRACHT Gruppe",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "IT-Projektleiter",
+      "company": "ZEITFRACHT Gruppe",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2020-03",
+      "end": "2020-12",
+      "dateRange": "Mar 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Chief Of Staff",
+      "company": "Planetary Transportation Systems GmbH",
+      "companyUrl": "https://www.linkedin.com/company/pts-space",
+      "description": null,
+      "location": "Berlin, Berlin, Deutschland",
+      "start": "2019-04",
+      "end": "2020-02",
+      "dateRange": "Apr 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Assistant To Chief Executive Officer",
+      "company": "Planetary Transportation Systems GmbH",
+      "companyUrl": "https://www.linkedin.com/company/pts-space",
+      "description": null,
+      "location": "Berlin",
+      "start": "2018-11",
+      "end": "2019-03",
+      "dateRange": "Nov 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Visiting Pentester",
+      "company": "Code White GmbH",
+      "companyUrl": "https://www.linkedin.com/company/code-white-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Solidiance",
+      "companyUrl": "https://www.linkedin.com/company/ycpprofessional",
+      "description": null,
+      "location": null,
+      "start": "2015-06",
+      "end": "2015-09",
+      "dateRange": "Jun 2015 – Sep 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management & Technology",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Zeppelin University",
+      "degree": "sociology, politics & economics",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "Quest University Canada",
+      "degree": null,
+      "dateRange": "2016"
+    },
+    {
+      "school": "Johanneum zu Lübeck",
+      "degree": "Abitur, Focus on History and Politics",
+      "dateRange": "2004 – 2013"
+    }
+  ],
+  "skills": [
+    "Unternehmensstrategie",
+    "Social Media",
+    "Microsoft Office",
+    "Business Development",
+    "Strategisches Management",
+    "IT-Management",
+    "SPSS",
+    "English",
+    "Forschung",
+    "Unternehmensführung",
+    "Microsoft Excel",
+    "PowerPoint",
+    "Teamwork",
+    "Marktforschung",
+    "Projektmanagement",
+    "Unternehmertum",
+    "SQL Server Management Studio",
+    "Python",
+    "Marketingstrategie",
+    "Market Research"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Aretea Group",
+    "tagline": "Sicherheit durch Synergien.",
+    "description": null,
+    "industry": "Computer and Network Security",
+    "website": "https://aretea-group.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/aretea-group",
+    "employeeCount": 7,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

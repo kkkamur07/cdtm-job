@@ -1,0 +1,100 @@
+{
+  "id": "jonas-von-beck-35b2121b",
+  "name": "Jonas von Beck",
+  "headline": "Director Technology Enterprise Solution Architecture",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jonas-von-beck-35b2121b",
+  "personId": 1515,
+  "classes": [
+    {
+      "id": 56,
+      "label": "Fall 2004",
+      "season": "Fall",
+      "year": 2004,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2004",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Jonas Beck",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Technology Solution Architect Associate Director",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": "Technology and System Integration, SAP, Data Migration",
+      "location": "München",
+      "start": "2008-02",
+      "end": null,
+      "dateRange": "Feb 2008 – Present",
+      "current": true
+    }
+  ],
+  "schools": [
+    {
+      "school": "Télécom Paristech",
+      "degree": "Exchange, Communication, Economy",
+      "dateRange": "2006 – 2007"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diploma, Computer Science minor Business Administration",
+      "dateRange": "2001 – 2007"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2004 – 2006"
+    }
+  ],
+  "skills": [
+    "Solution Architecture",
+    "Sales",
+    "Bid Pricing",
+    "Management Consulting",
+    "Business Strategy",
+    "Business Analysis",
+    "Business Intelligence",
+    "Business Process",
+    "Change Management",
+    "Integration",
+    "Product Management",
+    "Project Management",
+    "Requirements Analysis",
+    "Strategy"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Accenture",
+    "tagline": null,
+    "description": "Accenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale.\n \nWe are a talent and innovation-led company serving clients in more than 120 countries. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\n\nThis LinkedIn company page is moderated. When engaging with Accenture, we encourage everyone to:\n\n- Use common courtesy and be respectful of others.\n- Create your own original content and avoid content that you know to be fraudulent.\n- Never repost someone else's copyrighted work, unless you have permission.\n- Never post personal, identifying, or confidential information.\n\nWe reserve the right to delete comments or posts we deem to be:\n\n- Profane, obscene, inappropriate, offensive, abusive material.\n- Spam, repeated comments and commercial messages and personal advertisements.\n- Discriminatory or that contain hateful speech of any kind regarding age, gender, race, religion, nationality, sexual orientation, gender identity or disability.\n- Threats; personal attacks; abusive, defamatory, derogatory, or inflammatory language; or stalking or harassment of any individual, entity or organization.\n- False, inaccurate, libelous, or otherwise misleading in any way.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.accenture.com",
+    "linkedInUrl": "https://www.linkedin.com/company/accenture",
+    "employeeCount": 676339,
+    "foundedYear": null,
+    "location": "Dublin 2, Ireland",
+    "specialities": [
+      "Management Consulting",
+      "Systems Integration and Technology",
+      "Business Process Outsourcing",
+      "Application and Infrastructure Outsourcing"
+    ]
+  }
+}

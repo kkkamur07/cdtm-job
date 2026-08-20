@@ -1,0 +1,211 @@
+{
+  "id": "janbromberger",
+  "name": "Jan B.",
+  "headline": "CDTM | 3x Founder | Game Dev, Software Engineer, Product Owner, UX Designer | Pre-Seed Tech Investor",
+  "avatar": null,
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/janbromberger",
+  "personId": 1511,
+  "classes": [
+    {
+      "id": 56,
+      "label": "Fall 2004",
+      "season": "Fall",
+      "year": 2004,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2004",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "claim-elimination",
+  "needsReview": true,
+  "rosterName": "Jan Bromberger",
+  "ca": null,
+  "summary": "I had the luck to learn coding starting at age nine, some 30 years ago. During school, I worked as a developer and started three companies before finishing my Bachelor's degree in computer science—but in all fairness, that took me 27 semesters to complete.\n\nIn my startups, I held positions in engineering and product. I still probably do my best work in engineering, but my true passion has never been that of a technician—I love finding viable, desirable, feasible solutions to real world problems, for real people. Thus, I have a passion for UX and business. I want my work to have an impact—and create a healthy profit.\n\nSince 2020, I also work as an investor with the worlds most audacious founders, who set out to change the world.",
+  "positions": [
+    {
+      "title": "Senior Backend Developer",
+      "company": "Klang Games",
+      "companyUrl": "https://www.linkedin.com/company/klang-games",
+      "description": "Building SEED, an MMO simulation exploring the future of humanity.\n\nWe're hiring various roles in Berlin & Madrid—Engineering, Design, People, Product, Production, Finance. Interested? Let me know!",
+      "location": "Berlin, Germany",
+      "start": "2024-02",
+      "end": null,
+      "dateRange": "Feb 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Founding Partner",
+      "company": "Buildery.vc",
+      "companyUrl": "https://www.linkedin.com/company/buildery-vc",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": null,
+      "dateRange": "Jan 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "metoda GmbH",
+      "companyUrl": "https://www.linkedin.com/company/metoda",
+      "description": null,
+      "location": "München",
+      "start": "2022-06",
+      "end": "2023-08",
+      "dateRange": "Jun 2022 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Founding Partner",
+      "company": "EUROPE+EARLY",
+      "companyUrl": "https://www.linkedin.com/company/europe-and-early",
+      "description": "Join AngelList's first syndicate focused on European deals: https://angel.co/s/europe-and-early/gGEhW\n\nWe're founders investing in\n🌱   seed & early stage  \n🚀   tech startups  \n🇪🇺   across Europe.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-05",
+      "end": "2023-08",
+      "dateRange": "May 2021 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Founding Partner",
+      "company": "DVC",
+      "companyUrl": "https://www.linkedin.com/company/joindvc",
+      "description": "Join DVC: https://angel.co/s/durovc/ocxEC\n\nMy investments as a partner: GO, SafeStamp®, Tributi (YC W18), Natilus, InnerPlant, geCKo Materials, Locomation, Thumbtack",
+      "location": null,
+      "start": "2021-01",
+      "end": "2023-08",
+      "dateRange": "Jan 2021 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Angel Investor",
+      "company": "AngelList Syndicate",
+      "companyUrl": null,
+      "description": "Backing the next generation of tech startup founders.\n\n❤️  Passionate about SaaS, consumer subscription, marketplaces, *Tech, and New Space.\n📈  Post-revenue with early PMF.\n🚀  Excited about moonshots.\n❌  No crypto or DTC.",
+      "location": null,
+      "start": "2020-04",
+      "end": "2023-08",
+      "dateRange": "Apr 2020 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Co-Founder, CPO",
+      "company": "metoda GmbH",
+      "companyUrl": "https://www.linkedin.com/company/metoda",
+      "description": "München",
+      "location": null,
+      "start": "2012-11",
+      "end": "2020-03",
+      "dateRange": "Nov 2012 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Angel",
+      "company": "mountix GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2012-07",
+      "end": "2017-07",
+      "dateRange": "Jul 2012 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Angel",
+      "company": "Heimathonig GmbH",
+      "companyUrl": "https://www.linkedin.com/company/heimathonig-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2010-01",
+      "end": "2015-08",
+      "dateRange": "Jan 2010 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "sauspiel.de",
+      "companyUrl": "https://www.linkedin.com/company/sauspiel.de",
+      "description": "Mit über 660.000 Mitgliedern ist Sauspiel die größte Schafkopf-Community. Hier kannst Du kostenlos um Punkte oder um echtes Geld schafkopfen.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2006-12",
+      "end": "2008-12",
+      "dateRange": "Dec 2006 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "Co-Founder, CTO",
+      "company": "Platinnetz GmbH",
+      "companyUrl": "https://www.linkedin.com/company/platinnetz-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2006-10",
+      "end": "2009-01",
+      "dateRange": "Oct 2006 – Jan 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Informatik",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "User Experience (UX)",
+    "Online-Marketplace",
+    "Spieleindustrie",
+    "E-Commerce",
+    "MongoDB",
+    "Projektmanagement",
+    "Unternehmensstrategie",
+    "Software as a Service (SaaS)",
+    "Leadership",
+    "Business",
+    "Risikokapital",
+    "Elasticsearch",
+    "SQL",
+    "Unternehmertum",
+    "Web Scraping",
+    "Amazon Web Services (AWS)",
+    "Design Sprints",
+    "Software-Projektleitung",
+    "Softwareentwicklung",
+    "MySQL",
+    "PostgreSQL",
+    "Ruby on Rails",
+    "Redis",
+    "Business Angel",
+    "Ruby",
+    "Start-ups"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Klang Games",
+    "tagline": "Klang is a game & entertainment studio exploring the future of humanity through various forms of media.",
+    "description": "Klang is an independent game development studio based in Berlin. It was founded by three Icelanders in the spring of 2013.\r\n\r\nIn July 2015, Klang launched its first project, ReRunners: Race for the World, for iOS and Android devices, which was extremely well-received by both the gaming press and the gaming community.\r\n\r\nNow, Klang is working on its next project, Seed, a simulation MMO utilizing SpatialOS technology.",
+    "industry": "Computer Games",
+    "website": "http://www.klang-games.com",
+    "linkedInUrl": "https://www.linkedin.com/company/klang-games",
+    "employeeCount": 117,
+    "foundedYear": 2013,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "video games",
+      "PC games",
+      "console games"
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": "michael-cherczynski-659b5422a",
+  "name": "Michael Cherczynski",
+  "headline": "AI Agents for Hardware | CDTM | TUM | ex Quantum Engineer | MSc. Physics & MSc. Management",
+  "avatar": {
+    "sm": "/avatars/michael-cherczynski-659b5422a-sm.webp",
+    "lg": "/avatars/michael-cherczynski-659b5422a.webp",
+    "blur": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAADQBQCdASogACAAPtFYpEuoJSOhsAgBABoJQBb3MYFWkUJAduTlyXHexmsm7qmwAZI5+buz7sawAP79e1gLaSLd7N5fSO1DYt3Ml8dGPbtq34aJ5GnTUjV2M3zBznqAik6PfU5R8Nt+7Lx8G5RPzrhxsXJMqEBd7LqH5gmZKOI6RoUWZVYxeSgN4N3YS8lOlf04TB1HWYgVBGRtVT/OdgMSfSxtzddF1gSPt0kMH4Xnxe6S2SxNK9fRWyBiVL8G/lAeymmLAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/michael-cherczynski-659b5422a",
+  "personId": 970,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Physics, Management",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Michał Cherczyński",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Travel",
+      "company": "Career break",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "AI & ML Engineer",
+      "company": "SimScale",
+      "companyUrl": "https://www.linkedin.com/company/simscale",
+      "description": "Built an AI Simulation Engineer",
+      "location": null,
+      "start": "2025-04",
+      "end": "2026-01",
+      "dateRange": "Apr 2025 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "AI & Data Engineer",
+      "company": "Emidat",
+      "companyUrl": "https://www.linkedin.com/company/emidat",
+      "description": "First AI hire at a General-Catalyst-backed startup. \n\nBrought to production PDF data extraction pipelines using vision models, LLMs, and agents. Optimized for accuracy, cost, and generalizability. Used among others: OpenAI's API, RAG/ chroma, langchain, AWS textract, langgraph, and langfuse.",
+      "location": "Munich",
+      "start": "2024-07",
+      "end": "2024-10",
+      "dateRange": "Jul 2024 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Technical and Business Founder",
+      "company": "Stealth Startup",
+      "companyUrl": "https://www.linkedin.com/company/stealth-startup-community",
+      "description": "Single-handedly launched an EdTech startup, managing LLM engineering, full stack development, UI/UX, product management, fundraising and marketing. Brought a novel text-segmentation LLM workflow to production.\n\nlearnnavigator.io",
+      "location": null,
+      "start": "2023-10",
+      "end": "2024-06",
+      "dateRange": "Oct 2023 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Microwave / RF Engineer for Quantum Hardware",
+      "company": "Walther-Meissner-Institute (WMI)",
+      "companyUrl": "https://www.linkedin.com/company/wmibadw",
+      "description": "Designed, simulated, and measured superconducting quantum chips in a dilution refrigerator.\nConducted research at the intersection of circuit quantum electrodynamics, microwave engineering, material science, and signal processing. \nResponsible for Purcell filter, an element used for fast, multiplexed, high-fidelity readout of superconducting qubits.",
+      "location": "Garching, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-12",
+      "dateRange": "Oct 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Data Science Intern",
+      "company": "Łukasiewicz - PIAP",
+      "companyUrl": "https://www.linkedin.com/company/piap",
+      "description": "Performed preprocessing and segmentation of hyperspectral camera data with classical ML algorithms.\nExtracted relevant features from the segmented data to train a convolutional neural network (CNN) for image segmentation.",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "start": "2020-08",
+      "end": "2020-10",
+      "dateRange": "Aug 2020 – Oct 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Applied and Engineering Physics",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Technische Universität Wien",
+      "degree": "Bachelor of Science - BS, Technical Physics",
+      "dateRange": "2017 – 2020"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German",
+    "Polish"
+  ],
+  "company": null
+}

@@ -1,0 +1,137 @@
+{
+  "id": "christian-gebhardt-b20b83131",
+  "name": "Christian Gebhardt",
+  "headline": "Research Scientist",
+  "avatar": {
+    "sm": "/avatars/christian-gebhardt-b20b83131-sm.webp",
+    "lg": "/avatars/christian-gebhardt-b20b83131.webp",
+    "blur": "data:image/webp;base64,UklGRiQBAABXRUJQVlA4IBgBAACQBgCdASogACAAPs1QokunpKMht/VYAPAZiWgAnTMv70EzyWvkmfx348XOfrHYGW0t6f0gyHsvcFl8nswAAMMP9vuOEAPkabzsomBlN7vx502CQ2pJxqh6j/U1HudJEiQxENwGIxtTIlJJGX1k6ua3vumY6JrGPDfdyfDfGhN/gApnbTLvhyAar0JfRRDgUDD+97Vi1gP1DcrxavL2tfVO1+l/92OTIMXeGlrLO6+sb6T7aUlHhmqK22gvnpUkc8TVlX5YZhPchI/aGwk9VLkSbR7j7/NGtiPMcqQdPmy/U7RMff28U1pieuN1ytWYlsEptMlD8gc3Q4ht0WK/oxyTtXKnPh42p35bJpO5AoruRzzHOORAAAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christian-gebhardt-b20b83131",
+  "personId": 835,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": "Physics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christian Gebhardt",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Research Scientist",
+      "company": "ImFusion GmbH",
+      "companyUrl": "https://www.linkedin.com/company/imfusion",
+      "description": null,
+      "location": null,
+      "start": "2021-10",
+      "end": null,
+      "dateRange": "Oct 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Inhaber",
+      "company": "UVid-Tower",
+      "companyUrl": "https://www.linkedin.com/company/uvid-tower",
+      "description": "IT-Beratung\nMikroskopiesoftware und -elektronik",
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-10",
+      "end": "2021-10",
+      "dateRange": "Oct 2020 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Doktorand Physik",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Biophysik und Bioinformatik\nMikroskopie, Algorithmenentwicklung, Simulation, Machine Learning",
+      "location": "München, Bayern, Deutschland",
+      "start": "2017-09",
+      "end": "2021-10",
+      "dateRange": "Sep 2017 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Strategieberatung",
+      "company": "BMW AG Niederlassung München",
+      "companyUrl": "https://www.linkedin.com/company/bmw-muenchen",
+      "description": "Marktabschätzung der E-Mobilität und Entwicklung von Geschäftmodellen",
+      "location": "München, Bayern, Deutschland",
+      "start": "2016-10",
+      "end": "2017-01",
+      "dateRange": "Oct 2016 – Jan 2017",
+      "current": false
+    },
+    {
+      "title": "Prototype Development",
+      "company": "KONUX",
+      "companyUrl": "https://www.linkedin.com/company/konux",
+      "description": "• Sensordaten Frequenzanalyse, Machine Learning für Predictive-Maintenance Lösungen (Spectral Feature Extraction, SVM, Neural Network Training) \n• Marktanalyse und Preiskalkulation \n• Projektplannung",
+      "location": "München, Bayern, Deutschland",
+      "start": "2016-04",
+      "end": "2016-07",
+      "dateRange": "Apr 2016 – Jul 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Master's degree, Technology-Management",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master, Physik",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor, Informatik",
+      "dateRange": "2012 – 2017"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor, Physik",
+      "dateRange": "2011 – 2015"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "ImFusion",
+    "tagline": "Enabling Rapid Innovation in Medical Imaging",
+    "description": "ImFusion is an ISO 13485 certified company offering consulting, research and development in advanced medical image computing technologies and computer vision.\n\nOur strong academic track record is paired with the expertise to create highly efficient product implementations on today's parallel multi-core and GPU architectures. \nWe offer powerful software solutions for medical image processing and computer vision. All our components are also available for OEM integration and as software development kits for custom applications.",
+    "industry": "Research Services",
+    "website": "http://www.imfusion.com",
+    "linkedInUrl": "https://www.linkedin.com/company/imfusion",
+    "employeeCount": 72,
+    "foundedYear": 2012,
+    "location": "München, Germany",
+    "specialities": [
+      "Medical Imaging",
+      "Computer Vision",
+      "Machine Learning",
+      "Deep Learning",
+      "Image Processing",
+      "Research",
+      "Consulting",
+      "Artificial Intelligence"
+    ]
+  }
+}

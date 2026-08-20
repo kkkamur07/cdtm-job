@@ -1,0 +1,362 @@
+{
+  "id": "janapetry",
+  "name": "Jana Petry",
+  "headline": "VC @ UVC Partners | TUM | CDTM",
+  "avatar": {
+    "sm": "/avatars/janapetry-sm.webp",
+    "lg": "/avatars/janapetry.webp",
+    "blur": "data:image/webp;base64,UklGRiwBAABXRUJQVlA4ICABAACwBgCdASogACAAPrVInEunJCKht+gA4BaJYgDE+QY6aKoFAB7e+/f4oF/HpRv94B/diA+k8WiHVyAvAfbQAAD+/S3RJH7jKfNNywPP8iVtKrWo4l5Yeb81gWSiTvHgwMQnvtf9oeoMsKKDDm6q6oIV6LhM1UsumuwTS14oJj9xiNbky0V60SqmfOXo0kzHYGSsLiOgatulrAnKqHMhcZueKxH5xC+ZeZJVWld93qbQ9oawKngB02Jp3JLRLi9DFmiUzpgF/tvujXaHkUebvmMip//ZzFhu00nu6yDyH/lH0vajgmqDylQSvhFi2S10PLfdVFI6ZdzC7m/cRT2bs8k8tbzowdla5nUbdoxpH5v/mb2dcN9JiYg/59lRjy5gAAA="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/janapetry",
+  "personId": 1240,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jana Petry",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Board Observer",
+      "company": "Radical Dot",
+      "companyUrl": "https://www.linkedin.com/company/radicaldot",
+      "description": "Radical Dot has developed a ground-breaking process to transform plastic waste into valuable chemical products. www.radicaldot.com",
+      "location": null,
+      "start": "2025-02",
+      "end": null,
+      "dateRange": "Feb 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment Manager",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": null,
+      "location": "On-site",
+      "start": "2024-07",
+      "end": null,
+      "dateRange": "Jul 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Board Observer",
+      "company": "BauGPT (ehem. Crafthunt)",
+      "companyUrl": "https://www.linkedin.com/company/baugpt-gmbh",
+      "description": "Crafthunt, the leading construction-focused career platform, optimizes talent access and enables transparent company representations in the construction industry by utilizing AI. www.crafthunt.app",
+      "location": null,
+      "start": "2024-04",
+      "end": null,
+      "dateRange": "Apr 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Board Observer",
+      "company": "Cyclize",
+      "companyUrl": "https://www.linkedin.com/company/cyclize",
+      "description": "Cyclize, a spin-off from the University of Stuttgart, has developed a technology to defossilize the chemical industry using mixed plastic waste to produce synthesis gas. www.cyclize.de",
+      "location": null,
+      "start": "2024-02",
+      "end": null,
+      "dateRange": "Feb 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Board Observer",
+      "company": "Tanso",
+      "companyUrl": "https://www.linkedin.com/company/tansotechnologies",
+      "description": "Tanso enables businesses to reach climate neutrality by making sustainability accounting and management as integrated, transparent, and verifiable as financial accounting. www.tanso.io",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-03",
+      "end": "2025-05",
+      "dateRange": "Mar 2023 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Board Observer",
+      "company": "Reverion",
+      "companyUrl": "https://www.linkedin.com/company/reverion",
+      "description": "Reverion offers the next-gen power plant for a 100% renewable and reliable energy supply. www.reverion.com",
+      "location": "Eresing, Bavaria, Germany",
+      "start": "2023-02",
+      "end": "2024-08",
+      "dateRange": "Feb 2023 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Investment Associate",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": null,
+      "location": "On-site",
+      "start": "2023-01",
+      "end": "2024-06",
+      "dateRange": "Jan 2023 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Board Observer",
+      "company": "Synera (formerly known as ELISE)",
+      "companyUrl": "https://www.linkedin.com/company/syneragmbh",
+      "description": "Synera is the connected engineering platform to automate product development processes. www.synera.io",
+      "location": "Bremen, Germany",
+      "start": "2022-02",
+      "end": "2025-01",
+      "dateRange": "Feb 2022 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Investment Analyst",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-12",
+      "dateRange": "Oct 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Junior Investment Analyst",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": "Fuelling Future Innovation: Venture Capital in the Chemical Industry",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-02",
+      "end": "2021-09",
+      "dateRange": "Feb 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Customer Discovery",
+      "company": "ZOLLHOF – Tech Incubator via James UG",
+      "companyUrl": "https://www.linkedin.com/company/zollhof-techincubator",
+      "description": "- customer discovery\n- market research\n- business modeling \n(projects in health sector)",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-08",
+      "end": "2021-01",
+      "dateRange": "Aug 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Operations, Customer Success & Business Development",
+      "company": "finn",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": "- collaboration in set up of partner applications\n- support in technical product development\n- automation",
+      "location": "Munich Area, Germany",
+      "start": "2019-10",
+      "end": "2020-02",
+      "dateRange": "Oct 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Strategy Consulting",
+      "company": "DataGuard",
+      "companyUrl": "https://www.linkedin.com/company/dataguard1",
+      "description": "Strategic consulting project in cooperation with the Center for Digital Technologies and Management (CDTM).",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-10",
+      "end": "2020-01",
+      "dateRange": "Oct 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "KPMG Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/kpmg-deutschland",
+      "description": "- App development based on javascript for end-consumer usage\n- In cooperation with the Center for Digital Technology and Management and the Sustainability Department of KPMG",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-04",
+      "end": "2019-07",
+      "dateRange": "Apr 2019 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Strategy Consulting",
+      "company": "Dein Nachbar e.V.",
+      "companyUrl": "https://www.linkedin.com/company/dein-nachbar-e-v",
+      "description": "Consulting on strategic expansion in cooperation with the Social Entrepreneurship Academy.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-04",
+      "end": "2019-07",
+      "dateRange": "Apr 2019 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Trend research: The data-driven future of the dairy industry",
+      "company": "GEA Group",
+      "companyUrl": "https://www.linkedin.com/company/geagroup",
+      "description": "In cooperation with the Center for Digital Technology and Management writing a trend report comprising of the following areas: \n- Economic/social/environmental/legal/technological and business model trends within the industry\n- Future scenarios of the dairy industry\n- Business ideas based on the research",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-02",
+      "end": "2019-04",
+      "dateRange": "Feb 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Process Automation",
+      "company": "Deloitte",
+      "companyUrl": "https://www.linkedin.com/company/deloitte",
+      "description": "Stuttgart Region",
+      "location": null,
+      "start": "2018-04",
+      "end": "2018-09",
+      "dateRange": "Apr 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Controlling & Reporting Production Materials",
+      "company": "Daimler AG",
+      "companyUrl": "https://www.linkedin.com/company/mercedes-benz_ag",
+      "description": null,
+      "location": "Böblingen, Baden-Württemberg, Germany",
+      "start": "2017-09",
+      "end": "2018-03",
+      "dateRange": "Sep 2017 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Sales Controlling",
+      "company": "Porsche",
+      "companyUrl": "https://www.linkedin.com/company/porsche-ag",
+      "description": "Stuttgart Region",
+      "location": null,
+      "start": "2015-08",
+      "end": "2016-02",
+      "dateRange": "Aug 2015 – Feb 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management & Technology",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "TUM Entrepreneurial Masterclass",
+      "degree": "Master of Science - MS, Master Thesis",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Universitat Autònoma de Barcelona",
+      "degree": "Semester Abroad, Business & Computer Science",
+      "dateRange": "2020"
+    },
+    {
+      "school": "Technion - Israel Institute of Technology",
+      "degree": "Summer School, Sustainaible Food Systems",
+      "dateRange": "2019"
+    },
+    {
+      "school": "Universidad Icesi",
+      "degree": "Semester Abroad, Contaduría Pública y Finanzas Internacionales",
+      "dateRange": "2016"
+    },
+    {
+      "school": "University of Tübingen",
+      "degree": "Bachelor of Science - BS, International Business",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "FAU Erlangen-Nürnberg",
+      "degree": "Bachelor's degree, International Business",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Ludwig-Erhard-Schule Sigmaringen",
+      "degree": "A-levels, Business and Economics",
+      "dateRange": "2009 – 2012"
+    }
+  ],
+  "skills": [
+    "Microsoft Excel",
+    "Public Speaking",
+    "Microsoft Word",
+    "Project Management",
+    "Automation",
+    "Mobile Applications",
+    "Microsoft PowerPoint",
+    "SAP Products",
+    "SQL",
+    "React Native",
+    "JavaScript",
+    "Java",
+    "Figma (Software)",
+    "SAP",
+    "Airtable",
+    "Zapier",
+    "React.js",
+    "Node.js",
+    "Microsoft Office",
+    "Github",
+    "Time Management",
+    "Presentations",
+    "Communication",
+    "Teamwork",
+    "Express.js",
+    "Asana",
+    "Trello",
+    "HubSpot",
+    "Zoho",
+    "Mobile Application Development",
+    "Integromat",
+    "Process Automation",
+    "RStudio",
+    "JMP"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "UVC Partners",
+    "tagline": "We partner with Europe's most ambitious B2B tech startups.",
+    "description": "UVC Partners is a Munich- and Berlin-based early-stage venture capital firm investing in European B2B startups in the fields of Deep Tech, Climate Tech, Enterprise Software and Mobility.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://www.uvcpartners.com",
+    "linkedInUrl": "https://www.linkedin.com/company/uvc-partners",
+    "employeeCount": 72,
+    "foundedYear": 2011,
+    "location": "Garching (Munich), Germany",
+    "specialities": [
+      "Venture Capital",
+      "Early Stage",
+      "Internet",
+      "Software",
+      "Mobility",
+      "B2B",
+      "SaaS",
+      "Industry 4.0",
+      "Manufacturing Technologies",
+      "Hardware",
+      "Enterprise Software",
+      "Deep Tech",
+      "Climate Tech",
+      "Mobility"
+    ]
+  }
+}

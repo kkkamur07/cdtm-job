@@ -1,0 +1,81 @@
+{
+  "id": "dr-philipp-wiegandt-b7bb1712",
+  "name": "Dr. Philipp Wiegandt",
+  "headline": "Markenportfoliostrategie BMW Group",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-philipp-wiegandt-b7bb1712",
+  "personId": 1606,
+  "classes": [
+    {
+      "id": 53,
+      "label": "Spring 2003",
+      "season": "Spring",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Philipp Wiegandt",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Referent Markenportfoliostrategie",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2005-01",
+      "end": null,
+      "dateRange": "Jan 2005 – Present",
+      "current": true
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Dr., BWL",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "BMW Group",
+    "tagline": "We make individual mobility more human, more intelligent and more responsible.",
+    "description": "With its four brands, BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world’s leading premium manufacturer of automobiles and motorcycles and also provides premium financial services. The BMW Group production network comprises over 30 production sites worldwide; the company has a global sales network in more than 140 countries.\n\nIn 2025, the BMW Group sold 2.46 million passenger vehicles and more than 202,500 motorcycles worldwide. The profit before tax in the financial year 2025 was € 10.2 billion on revenues amounting to € 133,5 billion. As of 31 December 2025, the BMW Group had a workforce of 154,540 employees.\n\nThe economic success of the BMW Group has always been based on long-term thinking and respon-sible action. Sustainability is a key element of the BMW Group’s corporate strategy and covers all products – from the supply chain through production to the end of their useful life.",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://www.bmwgroup.com/en/general/imprint.html",
+    "linkedInUrl": "https://www.linkedin.com/company/bmw-group",
+    "employeeCount": 65541,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Automotive",
+      "Information Technology",
+      "Data Science",
+      "Software Development",
+      "Artificial Intelligence",
+      "Data Security",
+      "Motorcycles",
+      "Financial Services",
+      "Mobility Services",
+      "Digital Services",
+      "IoT",
+      "Future of Mobilty",
+      "Autonomous Driving",
+      "Connectivity",
+      "Sheer Driving Pleasure"
+    ]
+  }
+}

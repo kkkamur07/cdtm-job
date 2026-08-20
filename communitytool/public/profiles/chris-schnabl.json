@@ -1,0 +1,137 @@
+{
+  "id": "chris-schnabl",
+  "name": "Chris S.",
+  "headline": "-",
+  "avatar": null,
+  "location": "Cambridge, United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/chris-schnabl",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "If we don't know each other, you may want to include a short message in your request. I'm rarely active on LinkedIn, please direct any urgent requests to e-mail. If you are a recruiter/bot, don't bother.",
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company": "QuantCo",
+      "companyUrl": "https://www.linkedin.com/company/quantco",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Optiver",
+      "companyUrl": "https://www.linkedin.com/company/optiver",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Graduate Researcher",
+      "company": "University of California, Berkeley",
+      "companyUrl": "https://www.linkedin.com/company/uc-berkeley",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "willhaben",
+      "companyUrl": "https://www.linkedin.com/company/willhaben",
+      "description": "1M DAU. Acquired by Blackstone in 2021 valued at ~600Mio USD",
+      "location": null,
+      "start": "2019-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2019 – Dec 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Grad School , Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BSc, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Higher Technical Institute Wiener Neustadt",
+      "degree": "High School",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "C++"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "QuantCo",
+    "tagline": null,
+    "description": "QuantCo turns advances in artificial intelligence and statistical learning into real-world impact in leading enterprises and public sector organizations. Leveraging privileged data access and world-class expertise in AI, quantitative optimization and engineering, we build scalable systems that drastically improve decisions that matter – from algorithmic pricing and data-driven claims management to precision medicine. \n\nJoin us!\nIf you want to tackle complex problems from first principles in a fast-paced, entrepreneurial environment that values ownership and intellectual rigor, check out our website for full-time and internship positions.",
+    "industry": "Software Development",
+    "website": "http://www.quantco.com",
+    "linkedInUrl": "https://www.linkedin.com/company/quantco",
+    "employeeCount": 248,
+    "foundedYear": null,
+    "location": "Boston, United States",
+    "specialities": [
+      "Big Data",
+      "Smart Data",
+      "Data Analysis",
+      "Quantitative Modelling",
+      "Pricing",
+      "Fraud Detection",
+      "Machine Learning",
+      "Deep Learning",
+      "Healthcare",
+      "Insurance",
+      "Cancer screening",
+      "NLP",
+      "Computer Vision",
+      "Enterprise AI",
+      "AI",
+      "Input Management",
+      "Claims AI"
+    ]
+  }
+}

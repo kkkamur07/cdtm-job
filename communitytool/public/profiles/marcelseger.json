@@ -1,0 +1,251 @@
+{
+  "id": "marcelseger",
+  "name": "Marcel Seger",
+  "headline": "DPhil Candidate University of Oxford | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/marcelseger-sm.webp",
+    "lg": "/avatars/marcelseger.webp",
+    "blur": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAACQBQCdASogACAAPtFepUyoJaOiMBgIAQAaCWMAygGLQrVmj5RBX0K1a3BTbBvGZCCDJZ6lAAD+/Nf7Xf6GfSl7/YgxI9QK4bNMoqVfCWFrZ94wRqNfPeDp7lczRRciWzrYiiXfaMh6Zjd6cwR25MdX2h2ADrkeGir+xm/1Tt6afuZklWvTpWxarZKIX3IHR3ie+Wq/LxXzZlIjU/AXevLDFcyjszmHMIbG9IMRvyHRvsYv8i30KTIMxWI0fsJVUE9Yvx38WaOSVbcFhij/NRlzKwAAAA=="
+  },
+  "location": "Oxford, United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/marcelseger",
+  "personId": 984,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Marcel Seger",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Student Partner | Venture Capital",
+      "company": "Giant Ventures",
+      "companyUrl": "https://www.linkedin.com/company/giantventures",
+      "description": "Building (or considering launching) a new exciting venture? Reach out and we can discuss how Giant will support you along the journey.",
+      "location": null,
+      "start": "2024-11",
+      "end": null,
+      "dateRange": "Nov 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & Network Coordinator",
+      "company": "ZERO Founders Network - University of Oxford",
+      "companyUrl": "https://www.linkedin.com/company/zero-founders-network-oxford",
+      "description": "The ZERO Founders Network is a platform with a mission to empower the brightest minds in our fight against climate change. Through this network, we aim to catalyse the development and deployment of zero-carbon energy solutions by connecting entrepreneurs, academics, and students passionate about making a real-world impact.",
+      "location": null,
+      "start": "2023-10",
+      "end": null,
+      "dateRange": "Oct 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "PHD Researcher",
+      "company": "Environmental Change Institute (ECI), University of Oxford",
+      "companyUrl": "https://www.linkedin.com/company/eci-oxford",
+      "description": null,
+      "location": null,
+      "start": "2022-10",
+      "end": null,
+      "dateRange": "Oct 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Supervisor",
+      "company": "The Oxford SDG Impact Lab",
+      "companyUrl": "https://www.linkedin.com/company/the-oxford-sdg-impact-lab",
+      "description": null,
+      "location": null,
+      "start": "2024-04",
+      "end": "2024-07",
+      "dateRange": "Apr 2024 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Venture Scouting | Venture Capital — Sustainable Impact Investment",
+      "company": "Planet A Ventures",
+      "companyUrl": "https://www.linkedin.com/company/planet-a",
+      "description": null,
+      "location": null,
+      "start": "2023-05",
+      "end": "2024-05",
+      "dateRange": "May 2023 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Research Fellow",
+      "company": "The Oxford SDG Impact Lab",
+      "companyUrl": "https://www.linkedin.com/company/the-oxford-sdg-impact-lab",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2024-03",
+      "dateRange": "Jan 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Investment Analyst | Venture Capital",
+      "company": "Acton Capital",
+      "companyUrl": "https://www.linkedin.com/company/acton-capital-partners",
+      "description": null,
+      "location": null,
+      "start": "2021-03",
+      "end": "2022-03",
+      "dateRange": "Mar 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Research Assistant | Chair of Logistics and SCM",
+      "company": "TUM School of Management",
+      "companyUrl": "https://www.linkedin.com/company/tum-school-of-management",
+      "description": "Research Field: Freight-Analytics for Data-Driven Procurement Decisions",
+      "location": null,
+      "start": "2018-10",
+      "end": "2019-02",
+      "dateRange": "Oct 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Working Student | Private Equity",
+      "company": "Alphaville Capital",
+      "companyUrl": "https://www.linkedin.com/company/alphaville-capital",
+      "description": null,
+      "location": null,
+      "start": "2017-10",
+      "end": "2018-07",
+      "dateRange": "Oct 2017 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "Working Student | Venture Analyst",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "BU: Siemens Technology Accelerator (STA)",
+      "location": null,
+      "start": "2017-04",
+      "end": "2017-07",
+      "dateRange": "Apr 2017 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Student Consultant | Operations Management",
+      "company": "Carma Laboratories, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/carma-laboratories-inc-",
+      "description": null,
+      "location": null,
+      "start": "2016-09",
+      "end": "2016-12",
+      "dateRange": "Sep 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Working Student | Procurement",
+      "company": "Knorr-Bremse AG",
+      "companyUrl": "https://www.linkedin.com/company/knorr-bremse",
+      "description": null,
+      "location": null,
+      "start": "2015-05",
+      "end": "2016-03",
+      "dateRange": "May 2015 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "German Commission for UNESCO",
+      "companyUrl": "https://www.linkedin.com/company/deutsche-unesco-kommission",
+      "description": null,
+      "location": null,
+      "start": "2013-09",
+      "end": "2014-03",
+      "dateRange": "Sep 2013 – Mar 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Oxford",
+      "degree": "Doctor of Philosophy (DPhil/PhD) — Geography and the Environment",
+      "dateRange": null
+    },
+    {
+      "school": "EPFL",
+      "degree": "Visiting PhD Research Stay (TRANS-OR Lab) | Operations Research",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree | Technology Management (Fall 2019)",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc.+M.Sc. | Mechanical Engineering, Operations Research & Energy Markets",
+      "dateRange": null
+    },
+    {
+      "school": "Stiftung Bayerische EliteAkademie (BEA)",
+      "degree": "Leadership Trainings, 19th Generation",
+      "dateRange": null
+    },
+    {
+      "school": "Schiller-Gymnasium Offenburg",
+      "degree": "Abitur — Allgemeine Hochschulreife",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Python (Programming Language)",
+    "Project Management",
+    "Venture Capital",
+    "Mathematical Modeling",
+    "Stakeholder Management",
+    "Business Impact Analysis",
+    "User Research",
+    "Climate Change Science",
+    "Econometrics",
+    "Life Cycle Assessment",
+    "Translational Research",
+    "Sustainable Development Goals (SDG)",
+    "Environmental Consulting",
+    "Deal Sourcing",
+    "Leadership Studies",
+    "Structural Equation Modeling",
+    "Sustainable Investment",
+    "Venture Scouting",
+    "Character Building"
+  ],
+  "languages": [
+    "Deutsch",
+    "Spanisch",
+    "Englisch",
+    "Portugiesisch"
+  ],
+  "company": {
+    "name": "Giant Ventures",
+    "tagline": "Companies that matter.",
+    "description": "Giant backs purpose-driven technology founders solving the world’s biggest challenges.\n\nWe champion entrepreneurs creating a more sustainable, equitable, and resilient planet.\n\nGiant Ventures is a multi-stage, thesis-driven firm seeking systemic change across three themes: \n\n• Climate \n• Health \n• Economic Mobility\n\nWe value courage, persistence, creativity, and global ambition. We have presence in UK, Nordics and US, but we believe talent is everywhere. \n\nAs former founders, we know how hard it is to create something from nothing. We roll up our sleeves to help Giant Founders win.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "https://www.giant.vc",
+    "linkedInUrl": "https://www.linkedin.com/company/giantventures",
+    "employeeCount": 48,
+    "foundedYear": 2019,
+    "location": "London, United Kingdom",
+    "specialities": []
+  }
+}

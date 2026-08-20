@@ -1,0 +1,132 @@
+{
+  "id": "liwei-olivia-zhou-82b37411",
+  "name": "Liwei (Olivia) Zhou",
+  "headline": "Analytics",
+  "avatar": null,
+  "location": "Raleigh-Durham-Chapel Hill, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/liwei-olivia-zhou-82b37411",
+  "personId": 1842,
+  "classes": [
+    {
+      "id": 64,
+      "label": "Fall 2008",
+      "season": "Fall",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2008",
+  "major": "Communication Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Liwei Zhou",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder and Head Coach",
+      "company": "Atomic Ants",
+      "companyUrl": null,
+      "description": null,
+      "location": "Cary, North Carolina, United States",
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Principal Business Analyst",
+      "company": "Atlassian",
+      "companyUrl": "https://www.linkedin.com/company/atlassian",
+      "description": null,
+      "location": null,
+      "start": "2021-11",
+      "end": null,
+      "dateRange": "Nov 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Analyst",
+      "company": "Align Technology",
+      "companyUrl": "https://www.linkedin.com/company/align-technology",
+      "description": null,
+      "location": "Morrisville, North Carolina",
+      "start": "2019-05",
+      "end": "2021-11",
+      "dateRange": "May 2019 – Nov 2021",
+      "current": false
+    },
+    {
+      "title": "Commercial Analytics Business Partner",
+      "company": "Merz North America",
+      "companyUrl": "https://www.linkedin.com/company/merz-aesthetics-inc.",
+      "description": null,
+      "location": "Raleigh, North Carolina",
+      "start": "2018-05",
+      "end": "2019-05",
+      "dateRange": "May 2018 – May 2019",
+      "current": false
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Teleflex Incorporated",
+      "companyUrl": "https://www.linkedin.com/company/teleflex",
+      "description": null,
+      "location": "Morrisville, North Carolina",
+      "start": "2016-06",
+      "end": "2018-05",
+      "dateRange": "Jun 2016 – May 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.sc, Communication Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Beijing University of Posts and Telecommunications",
+      "degree": "B.sc, Electrical Engineering",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Bloomberg",
+    "EXCEL",
+    "Word",
+    "Powerp",
+    "VBA",
+    "Microsoft Excel",
+    "Business Modeling",
+    "Telecommunications",
+    "Business Strategy",
+    "Analysis",
+    "Financial Modeling",
+    "Start-ups",
+    "Business Analysis",
+    "Finance",
+    "Strategy",
+    "Analytical Skills",
+    "Visual Basic for Applications (VBA)",
+    "Management",
+    "SQL",
+    "Tableau Server"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "company": null
+}

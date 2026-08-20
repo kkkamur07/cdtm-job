@@ -1,0 +1,117 @@
+{
+  "id": "jan-jakob-605586201",
+  "name": "Jan Jakob",
+  "headline": "Quantum Engineering @ETH | CDTM | Physicist turned mathematician",
+  "avatar": {
+    "sm": "/avatars/jan-jakob-605586201-sm.webp",
+    "lg": "/avatars/jan-jakob-605586201.webp",
+    "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABwBQCdASogACAAPslUnkunpKKhsAwA8BkJYgDMHYxbNP9xXjb9PelbmsyG9YlbmBkrfHgAAP78IFW2HD+N/x9qN/GvT+SlRXivzHoeKX3AyDQ0h9yXNNmI2VnkipBMI5LI400ZrHZT2UUpAizagw3vokS0jsGD0abTuueYsH3tGRBAxK3AmNvqO9BKRl1jBWeZCw6vB9suBt3P00TrIZTN3DZYTASequAAAA=="
+  },
+  "location": "Zurich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/jan-jakob-605586201",
+  "personId": 1287,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Mathematics, Physics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jan Jakob",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & Product Manager",
+      "company": "Silberfluss",
+      "companyUrl": "https://www.linkedin.com/company/silberfluss-io",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-07",
+      "end": null,
+      "dateRange": "Jul 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Silvernova.ai",
+      "companyUrl": "https://www.linkedin.com/company/silvernova-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-02",
+      "end": "2025-06",
+      "dateRange": "Feb 2025 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Academy Member",
+      "company": "EWOR",
+      "companyUrl": "https://www.linkedin.com/company/ewor",
+      "description": null,
+      "location": null,
+      "start": "2022-09",
+      "end": "2023-02",
+      "dateRange": "Sep 2022 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Tutor | Mathematical Analysis",
+      "company": "Heidelberg University",
+      "companyUrl": "https://www.linkedin.com/company/uni-heidelberg",
+      "description": null,
+      "location": "Heidelberg, Baden-Württemberg, Germany",
+      "start": "2020-10",
+      "end": "2021-03",
+      "dateRange": "Oct 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Summer Internship | Software Development",
+      "company": "Allianz",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": null,
+      "location": "Stuttgart, Baden-Württemberg, Germany",
+      "start": "2020-08",
+      "end": "2020-10",
+      "dateRange": "Aug 2020 – Oct 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "Master's degree, Quantum Engineering",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Heidelberg University",
+      "degree": "Bachelor of Science - BS, Mathematics",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "Heidelberg University",
+      "degree": "Bachelor's degree, Physics",
+      "dateRange": "2018 – 2022"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": null
+}

@@ -1,0 +1,171 @@
+{
+  "id": "nendel",
+  "name": "Tobias Nendel",
+  "headline": "We are hiring.",
+  "avatar": null,
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/nendel",
+  "personId": 1896,
+  "classes": [
+    {
+      "id": 66,
+      "label": "Fall 2009",
+      "season": "Fall",
+      "year": 2009,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2009",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Tobias Nendel",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "CPTO, Co-Founder",
+      "company": "TradeLink",
+      "companyUrl": "https://www.linkedin.com/company/tradelinkcompany",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-01",
+      "end": null,
+      "dateRange": "Jan 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "CTO, Co-Founder",
+      "company": "SCALEWORK",
+      "companyUrl": "https://www.linkedin.com/company/scalework",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2020-01",
+      "dateRange": "Jan 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "CTO, Co-Founder",
+      "company": "MEDIKURA Digital Health GmbH",
+      "companyUrl": "https://www.linkedin.com/company/xo-life",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-03",
+      "end": "2018-10",
+      "dateRange": "Mar 2017 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "CTO, Co-Founder",
+      "company": "OUTFITTERY",
+      "companyUrl": "https://www.linkedin.com/company/outfittery",
+      "description": null,
+      "location": "Berlin Metropolitan Area",
+      "start": "2012-02",
+      "end": "2016-03",
+      "dateRange": "Feb 2012 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "CTO",
+      "company": "E-Furniture Europe GmbH",
+      "companyUrl": "https://www.linkedin.com/company/e-furniture-europe-gmbh",
+      "description": null,
+      "location": "Berlin Metropolitan Area",
+      "start": "2011-02",
+      "end": "2012-01",
+      "dateRange": "Feb 2011 – Jan 2012",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and Advisor",
+      "company": "Frohraum GmbH",
+      "companyUrl": "https://www.linkedin.com/company/frohraum",
+      "description": "Berlin",
+      "location": null,
+      "start": "2010-01",
+      "end": "2011-12",
+      "dateRange": "Jan 2010 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Co-Founder, Lead Developer",
+      "company": "Newspread UG",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2008-01",
+      "end": "2011-01",
+      "dateRange": "Jan 2008 – Jan 2011",
+      "current": false
+    },
+    {
+      "title": "Freiberufler",
+      "company": "Scubical - Web Consulting",
+      "companyUrl": null,
+      "description": null,
+      "location": "Berlin Metropolitan Area",
+      "start": "2007-01",
+      "end": "2011-01",
+      "dateRange": "Jan 2007 – Jan 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2009 – 2011"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Information Systems",
+      "dateRange": "2006 – 2010"
+    }
+  ],
+  "skills": [
+    "Ruby",
+    "Project Management",
+    "IT Management",
+    "Grails",
+    "Projektmanagement",
+    "Unternehmensstrategie",
+    "Start-ups",
+    "E-Commerce",
+    "Unternehmertum",
+    "Software Development",
+    "JavaScript",
+    "Java",
+    "Softwareentwicklung",
+    "E-commerce",
+    "Business Strategy",
+    "Business Development",
+    "Scrum",
+    "SQL",
+    "Unternehmensführung",
+    "Unternehmensberatung",
+    "Entrepreneurship",
+    "Strategisches Management",
+    "MySQL"
+  ],
+  "languages": [],
+  "company": {
+    "name": "TradeLink",
+    "tagline": "Want to improve your logistic processes? We are building the future of logistics. Contact us 👇",
+    "description": "The logistic industry is affected by intransparencies and inconsistencies along the entire supply chain. Nearly half of all trucks wait on average more than one hour for a usually scheduled offloading at a warehouse due to poor alignment of involved partners. Up to 30% of all trucks in transit run empty due to market intransparencies. We at TradeLink made it our mission to solve intransparencies. Our platform enables frictionless supply chain collaboration within all involved parties. We offer you the solution of nearly all your logistics pain points: no more surprises at the ramp, no more downtime on the yard, no costly and faulty paper processes, no more countless mailings and calls, no more stressed employees. \nIf you are ready to transform your business now, contact us and shape the future of logistics with TradeLink!  \n\nReach out to us 📥 hello@tradelink.co",
+    "industry": "Transportation, Logistics, Supply Chain and Storage",
+    "website": "https://www.tradelink.co?utm_campaign=Contact_us_button&utm_source=linkedin&utm_medium=social&utm_content=Website",
+    "linkedInUrl": "https://www.linkedin.com/company/tradelinkcompany",
+    "employeeCount": 85,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

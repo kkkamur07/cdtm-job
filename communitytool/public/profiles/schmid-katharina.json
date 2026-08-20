@@ -1,0 +1,133 @@
+{
+  "id": "schmid-katharina",
+  "name": "Katharina Schmid",
+  "headline": "PhD Candidate Visual Computing & AI @TUM",
+  "avatar": {
+    "sm": "/avatars/schmid-katharina-sm.webp",
+    "lg": "/avatars/schmid-katharina.webp",
+    "blur": "data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAADwBgCdASogACAAPtFcpk4oJSMiKAqpABoJZAC7IQC6zN0GUCdHSfv0+04CrnUh3Am811m8/Y+GRpniWVZLXrYAAP73D1q7Myn6Dv39ewLt5IUd7KRhbAMQzxTurq5nmkbOvlwT5qfj63oDNnMAxLo7q9sluX437St8FM0ZTaxkcdmIQUrpCYR09+0VBhIfLYXCVzx/zkrErgdFviBzdeXjNm1vVo/Pq+/g3+a68qoCBbL0VW9qzb6LKIBRFnrN1W0t89E16bQiKWIVg1wDDlQtWv87TZ6xLX/v7CR88Fzm8QlJTBT/Egbu9ncgMpv47OZj6UPzL27Mso06poKQnZsgybT4rMps5MFz8E8sAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/schmid-katharina",
+  "personId": 732,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Katharina Schmid",
+  "ca": null,
+  "summary": "Hi there!\nI'm Katharina, a tech enthusiast based in Munich. After earning my Bachelor's in Mechanical Engineering and gaining five years of industry experience, I completed my Master's in Computer Science, where I focused on Machine Learning and Computer Vision research. \nSince June, I’ve been pursuing my PhD at the Visual Computing and AI Lab, supported by the MDSI Doctoral Fellowship. My research explores 3D generation and representation learning — aiming to push the boundaries of how AI perceives and creates the 3D world. Feel free to reach out!",
+  "positions": [
+    {
+      "title": "PhD Candidate Visual Computing & AI",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2025-06",
+      "end": null,
+      "dateRange": "Jun 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Student Researcher at the Institute for Computational Biology",
+      "company": "Helmholtz Munich",
+      "companyUrl": "https://www.linkedin.com/company/helmholtzmunich",
+      "description": "- Developed and optimized data preprocessing strategies to enhance the integration of RNA sequencing data into a human blood atlas in Python\n- Compared threshold-based quality control methods with a clustering-based approach to enhance low-quality cell identification",
+      "location": "Munich, Germany",
+      "start": "2022-10",
+      "end": "2023-02",
+      "dateRange": "Oct 2022 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "R&D Engineer Air Intake Systems",
+      "company": "Daimler AG",
+      "companyUrl": "https://www.linkedin.com/company/daimlertruckag",
+      "description": "- Led cross-functional, international projects as technical deputy to the team lead, responsible for costs, quality, and development approvals\n- Developed fuel cell air filter technology and registered a patent creating measurable performance standards and lifespan criteria for adsorption filters in commercial vehicles\n- Established new processes to ensure technical compliance with EURO VI certification and homologation\n- Localized air intake components for production in China, ensuring quality standards through close collaboration with local suppliers",
+      "location": "Stuttgart",
+      "start": "2019-10",
+      "end": "2021-09",
+      "dateRange": "Oct 2019 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Cooperative Education Student",
+      "company": "Daimler AG",
+      "companyUrl": "https://www.linkedin.com/company/mercedes-benz_ag",
+      "description": "Completed 6 internships of 3 months independently executing projects in the following departments:\n- Product Reliability Engines (Mannheim)\n- Remanufacturing Operations (Mannheim)\n- Toolmanagement (Mannheim)\n- Production Planning (Mannheim)\n- Electric Mobility Group (Portland)\n- Innovative Chassis Concepts (Stuttgart)",
+      "location": "Mannheim, Stuttgart, Portland (USA)",
+      "start": "2016-07",
+      "end": "2019-09",
+      "dateRange": "Jul 2016 – Sep 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Philosophy - PhD, Computer Science",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Robotics, Cognition, Intelligence",
+      "dateRange": "2021 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "DHBW Mannheim",
+      "degree": "Bachelor of Engineering - BE, Mechanical Engineering",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Hölderlin-Gymnasium, Nürtingen",
+      "degree": "Abitur",
+      "dateRange": "2008 – 2016"
+    }
+  ],
+  "skills": [
+    "Git",
+    "Generative KI",
+    "Computer-Vision",
+    "PyTorch",
+    "Python (Programmiersprache)"
+  ],
+  "languages": [
+    "Chinesisch",
+    "Deutsch",
+    "Englisch",
+    "Latein"
+  ],
+  "company": {
+    "name": "Technical University of Munich",
+    "tagline": "Official LinkedIn account of the Technical University of Munich",
+    "description": "Our university combines top-class facilities for cutting-edge research with unique learning opportunities for 52,000 students. Whether our researchers are investigating the origins of life, matter and the universe or looking for solutions to the major challenges for our society, people lie at the heart of our research and innovation agenda. Our goal is to create lasting value for society through excellence in education and research, the active promotion of next-generation talents and a strong entrepreneurial spirit. All of which combine to make TUM one of Europe’s leading universities. \n\n| Imprint: http://www.tum.de/legal-notice",
+    "industry": "Research Services",
+    "website": "https://www.tum.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+    "employeeCount": 11550,
+    "foundedYear": 1868,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

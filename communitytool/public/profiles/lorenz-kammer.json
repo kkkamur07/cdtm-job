@@ -1,0 +1,172 @@
+{
+  "id": "lorenz-kammer",
+  "name": "Lorenz Kammer",
+  "headline": "Vice President Strategy & Operations @ EUTOP & EUXEA",
+  "avatar": {
+    "sm": "/avatars/lorenz-kammer-sm.webp",
+    "lg": "/avatars/lorenz-kammer.webp",
+    "blur": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAACwBQCdASogACAAPtFUo0uoJKMhsAgBABoJQBfrH+Eri8wOdAhW6VzzhxZDPCN7QCok8MTcEoAA/v5g2N81bz8Z3Rm//2sruNXECevdFn8ymSg/RnV38i3sK5gV5t1J1U+BGfvxDRZw30Wki7Nfh1zE8i5pCsKvSUV211Qg14tmM9DPVl6EaEd/Bkk16NsnhylVwwZmd1BVv+1qXHpJE66eOzGwYP953FEVmhl9kx4lpFWB2CF3Wxci6gc1KoCa9pkBhaldkdgAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lorenz-kammer",
+  "personId": 1093,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lorenz Kammer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Vice President Strategy & Operations",
+      "company": "EUTOP Group",
+      "companyUrl": "https://www.linkedin.com/company/eutop-group",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Vice President Strategy & Operations",
+      "company": "EUXEA Group",
+      "companyUrl": "https://www.linkedin.com/company/euxea-group",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Artus",
+      "companyUrl": "https://www.linkedin.com/company/artus-technology",
+      "description": "Acquired by EUTOP Group.",
+      "location": null,
+      "start": "2025-01",
+      "end": "2026-12",
+      "dateRange": "Jan 2025 – Dec 2026",
+      "current": false
+    },
+    {
+      "title": "Senior Associate",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Strategy Consulting",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Investment Banking / M&A",
+      "company": "Morgan Stanley",
+      "companyUrl": "https://www.linkedin.com/company/morgan-stanley",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Management & Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor's degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Esade",
+      "degree": "Bachelor's degree, Business Administration",
+      "dateRange": null
+    },
+    {
+      "school": "Texas McCombs School of Business",
+      "degree": "Semester abroad, Business Administration",
+      "dateRange": null
+    },
+    {
+      "school": "Lise-Meitner-Gymnasium Unterhaching",
+      "degree": "Abitur",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Management",
+    "Leadership",
+    "Analytical Skills",
+    "Public Speaking",
+    "Teamwork"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "EUTOP Group",
+    "tagline": "Structural process partner for your success since 1990",
+    "description": "EUTOP is the largest owner-managed Governmental Relations Agency in the European Union.\n\nEUTOP is present where the decisions are made. We specialise in governmental relations, a particular form of lobbying. We have both perspectives in mind - the political as well as the economic. \n\nOur business model is to support the representation of interests of companies and associations toward the institutions of the European Union and the Federal Republic of Germany as well as other EU member states. With our unique, scientifically based overall model for effective and efficient representation of interests, we are a structural process partner for our clients. Meanwhile, more than 150 employees and structural advisors work at our main offices in Berlin, Brussels and Munich. EUTOP is also represented at ten other locations in Germany and Europe. \n\nFor more than 30 years, companies, associations and organisations in Europe have placed their trust in EUTOP. They particularly appreciate the structural cooperation, which is always designed for the long term. Compliance and integrity have always been the foundations of our sustainable corporate management. \n\nWith head and heart for Europe - highly qualified and highly motivated.",
+    "industry": "Government Relations Services",
+    "website": "http://www.eutop.eu",
+    "linkedInUrl": "https://www.linkedin.com/company/eutop-group",
+    "employeeCount": 61,
+    "foundedYear": 1990,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Process support competence",
+      "Perspective change competence",
+      "Processstructure competence",
+      "Governmental Relations",
+      "Lobbying",
+      "Research & Analytics",
+      "Monitoring",
+      "Crisis Management",
+      "Strategy & Positioning",
+      "Representation of interests",
+      "Political Consulting",
+      "Banking Insurance and Financial Services",
+      "Chemicals",
+      "Digital Services & Technology Hardware",
+      "Healthcare",
+      "Industrial Goods & Engineering",
+      "Retail",
+      "Telecoms"
+    ]
+  }
+}

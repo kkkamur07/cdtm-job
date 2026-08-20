@@ -1,0 +1,197 @@
+{
+  "id": "niklas-sindemann",
+  "name": "Niklas Sindemann",
+  "headline": "MMT@TUM | CDTM | Cambridge | Creator Fund",
+  "avatar": {
+    "sm": "/avatars/niklas-sindemann-sm.webp",
+    "lg": "/avatars/niklas-sindemann.webp",
+    "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABQBQCdASogACAAPtFco02oJSMiKA1RABoJQBnHMYommFCqOWkban/FfFXtPtf4/ykSh4AA/vT6uXCg1PC3iYIuYmdNqqrrKLIXlbxSg0/j1uOXQZADxI/Dz4yKisoe8o7fZy6st0Iz/gVavaqyp0Ni58gZcXVAkyeiJQtISm3m8PqrkG+sUPnzV2OTYZHBvBss1FNbftj42BaphTxBW11o2/czOsYAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/niklas-sindemann",
+  "personId": 2023,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Niklas Sindemann",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Venture Fellow",
+      "company": "Creator Fund",
+      "companyUrl": "https://www.linkedin.com/company/creator-fund",
+      "description": null,
+      "location": null,
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Freelance Consultant",
+      "company": "SPREAD AI",
+      "companyUrl": "https://www.linkedin.com/company/spread-ai",
+      "description": null,
+      "location": null,
+      "start": "2024-10",
+      "end": "2025-01",
+      "dateRange": "Oct 2024 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Venture Capital Intern",
+      "company": "Capmont Technology",
+      "companyUrl": "https://www.linkedin.com/company/capmont-technology",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-04",
+      "end": "2024-07",
+      "dateRange": "Apr 2024 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Strategy Consulting",
+      "company": "Innovative Management Partner IMP",
+      "companyUrl": "https://www.linkedin.com/company/innovative-management-partner-imp",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-03",
+      "end": "2023-07",
+      "dateRange": "Mar 2023 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Business Development | Sales",
+      "company": "Predium",
+      "companyUrl": "https://www.linkedin.com/company/predium-technology",
+      "description": "- Development and execution of a fully functional sales process for a B2B PropTech Start-up.\n- Customer contact: Initial contact until Dealclosing",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-03",
+      "end": "2022-06",
+      "dateRange": "Mar 2022 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "ke'onda",
+      "companyUrl": "https://www.linkedin.com/company/ke-onda",
+      "description": null,
+      "location": null,
+      "start": "2021-03",
+      "end": "2021-08",
+      "dateRange": "Mar 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Technical Internship",
+      "company": "MTU Maintenance",
+      "companyUrl": "https://www.linkedin.com/company/mtu-maintenance",
+      "description": "Gaining insights into manufacturing and production in a global maintenance company for airplane engines.",
+      "location": "Langenhagen, Lower Saxony, Germany",
+      "start": "2020-05",
+      "end": "2020-07",
+      "dateRange": "May 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Snowboard and Ski Instructor",
+      "company": "GoSnowNiseko",
+      "companyUrl": null,
+      "description": null,
+      "location": "Niseko, Japan",
+      "start": "2019-11",
+      "end": "2020-03",
+      "dateRange": "Nov 2019 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Kitesurf Instructor",
+      "company": "Surfmotion",
+      "companyUrl": null,
+      "description": null,
+      "location": "Safaga, Al Bahr al Ahmar, Egypt",
+      "start": "2019-08",
+      "end": "2019-10",
+      "dateRange": "Aug 2019 – Oct 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Visiting Researcher, UAV Navigation and Augmented Reality",
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Management and Technology",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Management and Technology",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Boğaziçi University",
+      "degree": null,
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Bedford School",
+      "degree": "International Baccalaureate",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "International School Hannover Region (ISHR)",
+      "degree": "MYP",
+      "dateRange": "2011 – 2015"
+    },
+    {
+      "school": "Zhuhai International School",
+      "degree": "PYP - MYP",
+      "dateRange": "2007 – 2011"
+    }
+  ],
+  "skills": [
+    "New Business Development",
+    "Sales",
+    "Lead Generation",
+    "Business-to-Business (B2B)"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Creator Fund",
+    "tagline": "Investing in startups on the frontier of what's possible. Europe's leading VC for university founders.",
+    "description": "Creator Fund is a venture capital firm investing in startups on the frontier of what's possible. We back founders building deep technology businesses out of university innovation. We focus on PhD and academic founders and have teams on-the-ground across 28 university campuses. Our portfolio includes founders creating mutation-proof vaccines, electronic skin for robots, and allowing the human mind to control machines. We invest pre-seed and seed and work closely with our companies to scale and raise follow on rounds. CF has been backed by many leading funds in Europe and the US.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://www.thecreatorfund.com",
+    "linkedInUrl": "https://www.linkedin.com/company/creator-fund",
+    "employeeCount": 60,
+    "foundedYear": 2019,
+    "location": "Kensington, United Kingdom",
+    "specialities": []
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "id": "lisamariamischke",
+  "name": "Lisa Maria Mischke",
+  "headline": "Digital Health Innovation @ Daiichi Sankyo | CDTM & TUM",
+  "avatar": {
+    "sm": "/avatars/lisamariamischke-sm.webp",
+    "lg": "/avatars/lisamariamischke.webp",
+    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAACwBQCdASogACAAPsFMn0unpCMht/qoAPAYCWQAw3GL4yq2NEHtLw+Wc4XirOqGfqsVah/DdEAA/v56m09yTQjcC/2z87IyukwVvqGrUzL4Efy/naIp7y6+ludcTHnVazXvd3pNWOupDnNnQmQjUcP6CPj+1atkZI8Df+UWa2kHSZW0LO+q1uD5KV98AvUErVX+UsnI24+cBVRyoIF4d7mh+HsxHtPw0FQHFkzMeNzB8x/TsU8ty/2aWhPNQDCNMajWCKLFwDgljHnK4apNEqAC27uz/eFVf6FYPIVxr7t9gCUymyNi8ivbTQNat/mAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lisamariamischke",
+  "personId": 821,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lisa Maria Mischke",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Digital Health Innovation Manager",
+      "company": "Daiichi Sankyo Deutschland GmbH",
+      "companyUrl": "https://www.linkedin.com/company/daiichi-sankyo-deutschland-gmbh",
+      "description": "• Responsible for Digital Health Strategy in the German Organization\n• Project Lead for Digital Patient Service (Patient-Facing Application)\n• Due Diligence and Scouting of Potential Start-Up Collaborations",
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-06",
+      "end": null,
+      "dateRange": "Jun 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Product & Customer Experience Manager",
+      "company": "TradeLink",
+      "companyUrl": "https://www.linkedin.com/company/tradelinkcompany",
+      "description": "• Management of > 20 customer accounts\n• Improvement of customer product experience and onboarding processes\n• Developed Change management strategy for clients and managed implementation of the digital tool",
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-08",
+      "end": "2023-06",
+      "dateRange": "Aug 2021 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Product & Customer Success Manager",
+      "company": "gridX",
+      "companyUrl": "https://www.linkedin.com/company/gridx",
+      "description": "• Product Lead for Microgrids (District Optimization EMS) and new business including Virtual Power Plants (VPP)\n\nCustomer Success:\n• Account Lead for one of the largest energy providers in Germany responsible for strategic alliances and projects\n• Project Lead for co-development of a cloud-based digital energy product optimizing residential district autarky in collaboration with a large German energy provider",
+      "location": "München, Bayern",
+      "start": "2020-02",
+      "end": "2021-07",
+      "dateRange": "Feb 2020 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Working Student: Business Development & Sales",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": "• Initial set-up, execution and improvement of outbound sales strategy & process of a SaaS product in the construction industry\n• Management of sales cycle from prospecting to closing\n• Identification and definition of target group and user needs to guide product-market-fit",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-02",
+      "end": "2019-11",
+      "dateRange": "Feb 2019 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Columbia Business School",
+      "companyUrl": "https://www.linkedin.com/company/columbia-business-school",
+      "description": "Columbia Institute for Tele-Information (CITI)",
+      "location": "Großraum New York City und Umgebung",
+      "start": "2018-07",
+      "end": "2018-12",
+      "dateRange": "Jul 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Student Business Consultant",
+      "company": "Center for Digital Technology and Management",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "• Trend Research: Development of business ideas on the topic “Creating and sustaining healthy habits” for Adidas AG\n• Managing Product Development: development of new product, including functioning prototype, business plan, financial plan and investor pitch for happybrush GmbH\n• Entrepreneurship Lab: Market entry strategy for midge medical GmbH",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2017-02",
+      "end": "2018-07",
+      "dateRange": "Feb 2017 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "Assignment: R&D IT Innovation - LifeScience iHub Silicon Valley",
+      "company": "Bayer Business Services",
+      "companyUrl": "https://www.linkedin.com/company/bayer",
+      "description": "• Patient Remote Monitoring in Clinical Trials\n• Start-Up scouting and collaboration",
+      "location": "San Francisco Bay und Umgebung",
+      "start": "2015-10",
+      "end": "2016-04",
+      "dateRange": "Oct 2015 – Apr 2016",
+      "current": false
+    },
+    {
+      "title": "Digital Marketing & Product Consultant",
+      "company": "Bayer Business Services",
+      "companyUrl": "https://www.linkedin.com/company/bayer",
+      "description": "Main responsibilities\n•  Development of eHealth Services (e.g Patient Remote Monitoring)\n•  Digital Brand Management in Women's Health, Pulmonology, Anti-Infectives (working on Digital Strategy, Product and Awareness websites, eDetailer framework)",
+      "location": "Berlin und Umgebung, Deutschland",
+      "start": "2013-10",
+      "end": "2016-09",
+      "dateRange": "Oct 2013 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "Intern Global Marketing Primary Care",
+      "company": "Bayer Pharmaceuticals",
+      "companyUrl": "https://www.linkedin.com/company/bayer",
+      "description": "Global Marketing Primary Care\n\n• Identification of potential in-licensing opportunities\n• Identification of “mature products” for commercialization in Chinese market",
+      "location": "Beijing City, China",
+      "start": "2012-05",
+      "end": "2012-08",
+      "dateRange": "May 2012 – Aug 2012",
+      "current": false
+    },
+    {
+      "title": "Graduate Business Management Trainee",
+      "company": "Bayer Pharmaceuticals",
+      "companyUrl": "https://www.linkedin.com/company/bayer",
+      "description": "Internships in\n\n•  Global Marketing Primary Care (Beijing, China)\n•  Global Marketing Operations - Strategy Growth Markets (Berlin, Germany)\n•  Regional Marketing EMEA for Oral Contraceptives (Berlin, Germany)\n\nBachelor Thesis: \"Creating Endometriosis Awareness taking the example of the Visanne Launch in Saudi Arabia\"",
+      "location": "Berlin / Beijing",
+      "start": "2010-10",
+      "end": "2013-08",
+      "dateRange": "Oct 2010 – Aug 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Columbia University",
+      "degree": "Visiting Scholar, MBA Courses focusing on Social Entrepreneurship & Business Strategy",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Management & Technology, Innovation & Entrepreneurship and Computer Science",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Instituto Superior Técnico",
+      "degree": "Master of Science (M.Sc.), Information Systems and Computer Engineering",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "The Berlin School of Economics and Law",
+      "degree": "Bachelor of Arts (B.A.), Business Administration",
+      "dateRange": "2010 – 2013"
+    }
+  ],
+  "skills": [
+    "Mobile Marketing",
+    "Websites",
+    "Content Marketing",
+    "Mobile Applications",
+    "Digital Marketing",
+    "Product Marketing",
+    "Pharmaceutical Industry",
+    "Digitales Marketing",
+    "Produkteinführung",
+    "Marketing",
+    "Marketingmanagement",
+    "Pharmaindustrie",
+    "Produktmarketing",
+    "Projektmanagement",
+    "Marketingstrategie",
+    "Wettbewerbsanalyse",
+    "Marketingkommunikation",
+    "Marktanalyse",
+    "Globales Marketing",
+    "Consulting"
+  ],
+  "languages": [
+    "Chinesisch",
+    "Deutsch"
+  ],
+  "company": null
+}

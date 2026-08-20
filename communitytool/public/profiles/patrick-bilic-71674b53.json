@@ -1,0 +1,255 @@
+{
+  "id": "patrick-bilic-71674b53",
+  "name": "Patrick Bilic",
+  "headline": "Co-founder of cubemos GmbH | SaaS for Sustainability Manager | CDTM | Published author on AI in Nature with 2200+ citations",
+  "avatar": {
+    "sm": "/avatars/patrick-bilic-71674b53-sm.webp",
+    "lg": "/avatars/patrick-bilic-71674b53.webp",
+    "blur": "data:image/webp;base64,UklGRlIBAABXRUJQVlA4IEYBAACwBgCdASogACAAPtFiqU+oJaOiKAgBABoJbACdMyIHA+8Vf2Gsi4mCLozGF/5wv9pvOTEAQSxjV5UYpW3UAAD+8i0Cg6GLn++H0ChjPUXYrnPFzO1GmA/POxQt61C/exDETu8F7Z2fNbbmRCE8sEWTLx/Qf+7jljr+qpswNFu3juNeluz8U2piQq+9pyOx/rDdMNPwY504+HGrCTW/2RNhKI53cRnmPvlG7DwjQHphBst7EnKRwtrn9LN5AdVtDPo0BsKHzgn0cXc6aWLhTUEl0fCLeiENxVI9AhzaASNfLq3cmD1reh1sUZR0vcK8zduYqmtijYElYTcN5xbRdj8dNh/0zB6gpsqeaHVctEy9Mt4hMkd1H9sWOc0RZ4uAV+JWXEaVcSMjIO2wblypBYLfesn08OpG4VAZajE21cGnZm7QhxgAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/patrick-bilic-71674b53",
+  "personId": 1115,
+  "classes": [
+    {
+      "id": 73,
+      "label": "Spring 2013",
+      "season": "Spring",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2013",
+  "major": "Informatics",
+  "roles": [
+    "student",
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Patrick Bilic",
+  "ca": {
+    "alumni": true,
+    "about": null,
+    "responsibilities": [],
+    "researchFields": [],
+    "email": null
+  },
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CTO",
+      "company": "cubemos",
+      "companyUrl": "https://www.linkedin.com/company/cubemos-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2018-09",
+      "end": null,
+      "dateRange": "Sep 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "AI Researcher & PhD Candidate",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Two applied AI focus areas: 1) Set a benchmark in medical AI Medicine\nDeveloped AI to help doctors and patients detecting and evaluating liver tumors in CT and MRI Images automatically. Outcome: Nature Paper\n2) 100k sponsorship for Industry 4.0\nShop floor automation by AI trained only by CAD data. Makes data set collection irrelevant and makes AI applicable for smaller batch sizes.",
+      "location": null,
+      "start": "2016-01",
+      "end": "2019-11",
+      "dateRange": "Jan 2016 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Responsibilities\n- Entrepreneurship, Education in Product Development & IT\n\nEducated the innovators of tomorrow:\n\nManaging Product Development (MPD)\nSemesters: 2014ST, 2014WT, 2015ST, 2015WT, 2016ST, 2016WT, 2017ST, 2017WT, 2018ST\n\nIntroduction to IT\nSemesters: 2014 ST, 2014 WT\n\nDeep Learning Drones\nSemester: 2016ST\n\nManaging Health Product Development \nSemester: 2016ST\n\nThink Health (How to found an eHealth startup?)\nSemester: 2016WT\n\nSketching with Hardware\nSemester: 2017ST\n\nDesign Thinking - Design entrepreneurship education for Europe\nSemester: 2017ST",
+      "location": null,
+      "start": "2015-12",
+      "end": "2019-02",
+      "dateRange": "Dec 2015 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Product Manager Mobile",
+      "company": "PLUSME UG",
+      "companyUrl": "https://www.linkedin.com/company/plusme-ug-haftungsbeschr-nkt-",
+      "description": "Product strategy development & implementation mobile  & web",
+      "location": null,
+      "start": "2013-10",
+      "end": "2016-10",
+      "dateRange": "Oct 2013 – Oct 2016",
+      "current": false
+    },
+    {
+      "title": "Project Work - Product Development",
+      "company": "Ravensburger Digital",
+      "companyUrl": "https://www.linkedin.com/company/ravensburger-digital",
+      "description": "Managing Product Development",
+      "location": null,
+      "start": "2013-05",
+      "end": "2013-07",
+      "dateRange": "May 2013 – Jul 2013",
+      "current": false
+    },
+    {
+      "title": "Project Work",
+      "company": "Audi Electronics Venture GmbH (AEV)",
+      "companyUrl": null,
+      "description": "Publication: „Future Mobility: Human-Machine-Interaction in Individual Mobility“",
+      "location": null,
+      "start": "2013-03",
+      "end": "2013-05",
+      "dateRange": "Mar 2013 – May 2013",
+      "current": false
+    },
+    {
+      "title": "Project Work",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Android Development",
+      "location": null,
+      "start": "2012-10",
+      "end": "2013-02",
+      "dateRange": "Oct 2012 – Feb 2013",
+      "current": false
+    },
+    {
+      "title": "Project Assistant",
+      "company": "IT-Consulting & Net Security Systems",
+      "companyUrl": null,
+      "description": "Project management, feasibility study for the introduction of a new IT service of a sheltered workshop based on ITIL.",
+      "location": null,
+      "start": "2012-06",
+      "end": "2012-09",
+      "dateRange": "Jun 2012 – Sep 2012",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "IT-Consulting & Net Security Systems",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2009-11",
+      "end": "2010-07",
+      "dateRange": "Nov 2009 – Jul 2010",
+      "current": false
+    },
+    {
+      "title": "Auszubildender",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "- Vocational education | Fachinformatiker für Systemintegration\n- Programming (Java, PHP, JS, HTML, CSS, SQL, Shell)\n- Network Administration (Windows/Linux/Mac)\n- Mentor for first year apprentices\n- MCDST Certificate\n- 1./2./3. Level Support",
+      "location": null,
+      "start": "2005-09",
+      "end": "2008-08",
+      "dateRange": "Sep 2005 – Aug 2008",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "IT-Consulting & Net Security Systems",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2005-01",
+      "end": "2005-08",
+      "dateRange": "Jan 2005 – Aug 2005",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Informatik, Wirtschaftswissenschaften (Minors)",
+      "dateRange": "2010 – 2015"
+    },
+    {
+      "school": "Siemens AG",
+      "degree": "IHK, Fachinformatiker (Systemintegration)",
+      "dateRange": "2005 – 2008"
+    },
+    {
+      "school": "Städt. Berufsschule für kaufmännische Industrie- und Informatikberufe München",
+      "degree": "Fachinformatiker, Systemintegration",
+      "dateRange": "2005 – 2008"
+    }
+  ],
+  "skills": [
+    "PHP",
+    "CSS",
+    "JavaScript",
+    "SQL",
+    "Java",
+    "Leadership",
+    "Business-to-Business (B2B)",
+    "Machine Learning",
+    "HTML5",
+    "Entrepreneurship",
+    "Project Management",
+    "Product Management",
+    "Strategic Vision",
+    "Android Development",
+    "Education",
+    "Software as a Service (SaaS)",
+    "Business Intelligence (BI)",
+    "Projektmanagement",
+    "Startups",
+    "Strategie",
+    "Unternehmensstrategie",
+    "Softwareentwicklung",
+    "New Market Expansion",
+    "International Financial Reporting Standards (IFRS)",
+    "Supply-Chain-Management",
+    "Corporate Sustainability",
+    "Nachhaltigkeit",
+    "New Ventures",
+    "Unternehmertum",
+    "ESG",
+    "Künstliche Intelligenz (KI)",
+    "Android Entwicklung",
+    "Nachhaltigkeitsbericht",
+    "Unternehmerische Gesellschaftsverantwortung (CSR)",
+    "CO2-Bilanz",
+    "Corporate Sustainability Reporting Directive",
+    "Android-Entwicklung",
+    "CO2-Emissionen",
+    "European Sustainability Reporting Standards",
+    "cubemos"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "cubemos",
+    "tagline": "The software for Sustainability Managers",
+    "description": "ESG is becoming the competitive advantage for companies, we are convinced of it. Our mission is to enable every company not only to meet ESG standards, but to use them to improve. We focus on processes and people to implement ESG in a sustainable and certifiable way. \n\nAutomate all ESG areas such as occupational health and safety, environmental protection and diversity with our AI-based ESG software. Conduct audits and certify your employees according to ISO standards completely digitally by us or globally recognized partner companies.\n\nCalculate your ESG score and ensure the financial viability and sustainability of your business. Ensure your guidelines and standards are met by all employees and suppliers. Perform AI-based improvement actions in an automated way. Generate ESG sustainability reports for e.g. banks, customers, or tenders directly from our software.",
+    "industry": "Software Development",
+    "website": "https://www.cubemos.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/cubemos-gmbh",
+    "employeeCount": 19,
+    "foundedYear": 2018,
+    "location": "München, Germany",
+    "specialities": [
+      "Nachhaltigkeitsmanagement",
+      "Sustainability Management",
+      "ESG Reporting",
+      "Sustainability Controlling",
+      "CSRD",
+      "ESRS",
+      "GRI",
+      "Nachhaltigkeitsberichterstattung"
+    ]
+  }
+}

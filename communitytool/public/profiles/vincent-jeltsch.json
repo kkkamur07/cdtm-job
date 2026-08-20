@@ -1,0 +1,214 @@
+{
+  "id": "vincent-jeltsch",
+  "name": "Vincent Jeltsch",
+  "headline": "sitefire (YC W26) | CDTM",
+  "avatar": {
+    "sm": "/avatars/vincent-jeltsch-sm.webp",
+    "lg": "/avatars/vincent-jeltsch.webp",
+    "blur": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAABwBQCdASogACAAPtFUpk2oJCOiMBgIAQAaCWMAtOmLurVrVtFVQn2+L1+tlsN6FJ3O9RhAAP78ebgWjLwOMdzy9EY26ox/iC5n9yejQXQtw3Z41VbCdnUYEy89d2P7Sf+ekvt/zNHQGKBgQmNwdveVCOPj7HetasXy1jVp3OmbuznsugZPsqrD61pQ0zIDhbNwV99ggbXVg5ZrKM93JkyAeKQlSjkOveH4L+Jul/4rYeYyO7s0TV37fXa7dmVQrFuWqRryNMKAdaL0/PC4+5c4MjQAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/vincent-jeltsch",
+  "personId": 1171,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "B.Sc. Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Vincent Jeltsch",
+  "ca": null,
+  "summary": "I like to build.",
+  "positions": [
+    {
+      "title": "CTO & Co-Founder",
+      "company": "sitefire (YC W26)",
+      "companyUrl": "https://www.linkedin.com/company/sitefire-ai",
+      "description": null,
+      "location": null,
+      "start": "2025-11",
+      "end": null,
+      "dateRange": "Nov 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager for the Access & Convenience team.",
+      "company": "Avi Medical",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "CTO & Co-Founder",
+      "company": "pulse Energy GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-10",
+      "dateRange": "Jan 2025 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": "Worked on supply chain compliance features as a freelance full-stack engineer.",
+      "location": "On-site",
+      "start": "2024-06",
+      "end": "2024-09",
+      "dateRange": "Jun 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Avi Medical",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-02",
+      "end": "2023-09",
+      "dateRange": "Feb 2022 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Contract",
+      "company": "Avi Medical",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-12",
+      "end": "2022-02",
+      "dateRange": "Dec 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis",
+      "company": "RobCo – The Robot Company",
+      "companyUrl": "https://www.linkedin.com/company/robco-therobotcompany",
+      "description": "Task Specification for Modular Robot Arms\n\nDeveloped and evaluated an interactive, CAD-based tool for task specification.\n\nTechnologies used:\n- Vue.js as web framework\n- Three.js for as 3D rendering library on top of WebGL",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2021-09",
+      "dateRange": "Apr 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Software Developer & Consultant",
+      "company": "Elasticbrains",
+      "companyUrl": "https://www.linkedin.com/company/elasticbrains",
+      "description": "Building all kinds of digital products.\n\nDeveloping backend APIs, middleware systems mostly with Node.js.\nDevOps mostly on Google Cloud Platform with Cloud Run, Firebase, Kubernetes Engine.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-08",
+      "end": "2021-02",
+      "dateRange": "Aug 2018 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Project Student",
+      "company": "corrux",
+      "companyUrl": "https://www.linkedin.com/company/corrux",
+      "description": "- Conception of a minimum viable product\n- Creation of product-mockups\n- Research and analysis of technical market requirements\n- Arranging a suitable software stack for product development\n- Development of a frontend prototype in Angular\n- Onboarding of working students\n- Administration of email servers and domains",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-04",
+      "end": "2018-06",
+      "dateRange": "Apr 2018 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "MergerSpot",
+      "companyUrl": "https://www.linkedin.com/company/mergerspot",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-03",
+      "end": "2018-04",
+      "dateRange": "Mar 2018 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Co-Founder, CTO",
+      "company": "Swapd UG (haftungsbeschränkt)",
+      "companyUrl": "https://www.linkedin.com/company/swapd-ug-haftungsbeschränkt-",
+      "description": "The average german household owns 350 items that are not being used. At around 3000€ total worth, this is a lot of untapped potential. We experimented with multiple convenient solutions for people to sell these items.\n\nMain activities as CTO at Swapd UG:\n- Backend development in NodeJs\n- Developing chatbots for customer interaction using Dialogflow\n- Developing and iterating on business models, designing experiments for testing hypotheses\n- Pitching at events (400+ people) and in front of investors",
+      "location": null,
+      "start": "2016-01",
+      "end": "2018-11",
+      "dateRange": "Jan 2016 – Nov 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Y Combinator",
+      "degree": null,
+      "dateRange": "2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Applied Science - BASc, Informatik",
+      "dateRange": "2017 – 2021"
+    }
+  ],
+  "skills": [
+    "Projektmanagement",
+    "Business Development",
+    "Start-ups",
+    "Unternehmensstrategie",
+    "Node.js",
+    "Python",
+    "Git",
+    "Kubernetes",
+    "GraphQL",
+    "Mongo",
+    "Chatbots",
+    "Unity3D",
+    "Scrapy",
+    "DevOps",
+    "Docker",
+    "Matlab",
+    "Simulink",
+    "Java",
+    "3D-Drucker",
+    "Arduino",
+    "JavaScript"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "sitefire (YC W26)",
+    "tagline": "Marketing suite for the agentic web",
+    "description": "sitefire helps companies win customers on ChatGPT, Gemini, and other AI agents. We identify which content drives AI traffic, and create it for you - so you can start capturing the highest-intent leads on the internet.",
+    "industry": "Marketing Services",
+    "website": "https://sitefire.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/gpt-pulse",
+    "employeeCount": 2,
+    "foundedYear": 2025,
+    "location": null,
+    "specialities": []
+  }
+}

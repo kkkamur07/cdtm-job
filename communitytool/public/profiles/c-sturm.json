@@ -1,0 +1,144 @@
+{
+  "id": "c-sturm",
+  "name": "Chris Sturm",
+  "headline": "Industrial AI @ Manex AI | prev. Palantir/CDTM/TUM",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/c-sturm",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Customer Impact Engineer",
+      "company": "Manex AI",
+      "companyUrl": "https://www.linkedin.com/company/manex-ai",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Forward Deployed Engineering & Business Development",
+      "company": "Palantir Technologies",
+      "companyUrl": "https://www.linkedin.com/company/palantir-technologies",
+      "description": "Based in London, Munich and Denver, working with customers from US, EU and Asia",
+      "location": null,
+      "start": "2018-08",
+      "end": "2026-02",
+      "dateRange": "Aug 2018 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "AI Engineer",
+      "company": "appliedAI Initiative - UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": null,
+      "location": null,
+      "start": "2018-02",
+      "end": "2018-06",
+      "dateRange": "Feb 2018 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Robotics Engineer",
+      "company": "Roboy",
+      "companyUrl": "https://www.linkedin.com/company/robodies",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-11",
+      "end": "2017-10",
+      "dateRange": "Nov 2016 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Research Assistant (T Stone Robotics Institute)",
+      "company": "The Chinese University of Hong Kong",
+      "companyUrl": "https://www.linkedin.com/company/the-chinese-university-of-hong-kong",
+      "description": "Hong Kong SAR",
+      "location": null,
+      "start": "2016-08",
+      "end": "2016-10",
+      "dateRange": "Aug 2016 – Oct 2016",
+      "current": false
+    },
+    {
+      "title": "Project Lead and Head of Sales and Partnerships",
+      "company": "Academy Consult München e.V.",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-04",
+      "end": "2018-10",
+      "dateRange": "Apr 2013 – Oct 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Robotics, Cognition, Intelligence",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor's Degree, Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Engineering Science",
+      "dateRange": "2011 – 2015"
+    }
+  ],
+  "skills": [
+    "Robotics",
+    "Entrepreneurship",
+    "Machine Learning",
+    "Digital Strategy",
+    "Business Strategy",
+    "Project Management",
+    "Management Consulting",
+    "Product Development",
+    "Python",
+    "Hardware",
+    "Prototyping",
+    "Data Science",
+    "Big Data Analytics"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Manex AI",
+    "tagline": "Shaping the Future of Industrial AI",
+    "description": "Munich-based startup Manex AI is transforming industrial quality management and process steering with its manufacturing optimization agents. The team is working hard towards its vision of autonomous factories and industry leaders like BMW, Audi, BSH, Stellantis, TDK, Henkel, Resrg Automotive and other already rely on Qualitatio.\n\nManex AI's customers have proven to be able to reduce over 70% of test capacities and increase defect detection rates by 20% with Qualitatio, both in OEM and supplier setups.",
+    "industry": "Software Development",
+    "website": "https://www.manex.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/datagon-ai",
+    "employeeCount": 31,
+    "foundedYear": 2023,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Industrial AI",
+      "Quality Management",
+      "Software Development",
+      "Artificial Intelligence",
+      "Manufacturing",
+      "Automotive",
+      "Electronics",
+      "Home Appliances",
+      "Chemistry"
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "id": "wstuurman",
+  "name": "Wesley Stuurman",
+  "headline": "Product at Google",
+  "avatar": null,
+  "location": "Zurich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/wstuurman",
+  "personId": 1945,
+  "classes": [
+    {
+      "id": 68,
+      "label": "Fall 2010",
+      "season": "Fall",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2010",
+  "major": "Consumer Affairs",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Wesley Stuurman",
+  "ca": null,
+  "summary": "Product at Google in Zurich, Switzerland working on the Google Shopping experience and Merchant Interfaces, leveraging the power of AI to improve the user experience. Previously launched Search Generative Experience (SGE) On Content, iOS App Widgets, Circle to Search and Augmented Reality features. Had the privilege to work at Grab in Singapore on Subscriptions & a prepaid MasterCard for South-East-Asia’s unbanked. Also launched the Lazada Wallet and LiveUp loyalty program for Alibaba. \n\nGraduate from Quantic (Executive MBA), CDTM (Technology Management), TUM (Consumer Affairs) and UCU (Politics & Sociology).\n\nLove technology, travel, exploring and living abroad.",
+  "positions": [
+    {
+      "title": "Senior Product Manager",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Product role on the Diagnostics & Core Inventory Experience (DICE) team, working on Google Shopping and its Merchant interfaces. Leveraging the power of AI to improve data quality and the user experience.",
+      "location": "Zurich, Switzerland",
+      "start": "2024-11",
+      "end": null,
+      "dateRange": "Nov 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "PM for the iOS and Android Google App experience. Leading a cross functional team of 45 product development professionals based in Tokyo, Japan. Adding in Large Language Model (LLM) and Generative AI driven capabilities to create a better Search App experience for our users.",
+      "location": "Tokyo, Japan",
+      "start": "2022-11",
+      "end": "2024-11",
+      "dateRange": "Nov 2022 – Nov 2024",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Product Manager for the Google app on iOS & Android. Led a cross functional product development team of 35 professionals working, among others, on Augmented Reality inclusion & iOS 14 Widgets. Promoted in spring 2021 and fall 2022.",
+      "location": "Tokyo, Japan",
+      "start": "2019-08",
+      "end": "2022-10",
+      "dateRange": "Aug 2019 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Lead Product Manager",
+      "company": "Grab",
+      "companyUrl": "https://www.linkedin.com/company/grabapp",
+      "description": "“Grab is more than just the leading ride-hailing and mobile payments app in Southeast Asia. We use data and technology to improve everything from transportation to payments and logistics across a region of more than 620 million people. Currently we offer services in Singapore, Indonesia, Philippines, Malaysia, Thailand and Vietnam; however, we also have R&D offices in Bangalore, Beijing, & Seattle.”\n\nWorked on GrabRewards and GrabPay. Launched Grab Subscriptions across the region and Grab’s Mastercard integration, enabling global payments with Grabpay balance.",
+      "location": "Singapore",
+      "start": "2017-11",
+      "end": "2019-08",
+      "dateRange": "Nov 2017 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Senior Manager, Product Development",
+      "company": "Lazada Group",
+      "companyUrl": "https://www.linkedin.com/company/lazada",
+      "description": "Lazada is Southeast Asia’s fastest growing online department store, with operations in Indonesia, Malaysia, Philippines, Thailand, Singapore and Vietnam. \n\nCo-leading a team of 20 product development professionals, with direct reports, in bringing the checkout, payments and loyalty (LiveUp program) experience for our users to the next level. This includes adding new payment methods, checkout redesigns, conversion optimization and working with risk, legal, compliance and finance on the right product implementation. Moreover, I manage the quarterly roadmap with our business sponsors including new features, technical debt and further product enhancements. \n\nReporting directly to the Chief Product Officer of the Lazada Group with end to end responsibility for the alignment, implementation (including technical design) and continued excellence of Lazada's checkout, payments  and loyalty product operations.",
+      "location": "Ho Chi Minh City",
+      "start": "2017-04",
+      "end": "2017-10",
+      "dateRange": "Apr 2017 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Product Development Lead",
+      "company": "Lazada Group",
+      "companyUrl": "https://www.linkedin.com/company/lazada",
+      "description": "Lazada is Southeast Asia’s fastest growing online department store, with operations in Indonesia, Malaysia, Philippines, Thailand, Singapore and Vietnam. \n\nCo-leading a team of 20 product development professionals, with direct reports, in bringing the checkout and payments experience for our users to the next level. This includes adding new payment methods, checkout redesigns, conversion optimization and working with risk, legal, compliance and finance on the right product implementation. Moreover, I manage the quarterly roadmap with our business sponsors including new features, technical debt and further product enhancements. \n\nReporting directly to the Chief Product Officer of the Lazada Group with end to end responsibility for the alignment, implementation (including technical design) and continued excellence of Lazada's checkout and payments product operations.",
+      "location": "Ho Chi Minh City",
+      "start": "2016-09",
+      "end": "2017-03",
+      "dateRange": "Sep 2016 – Mar 2017",
+      "current": false
+    },
+    {
+      "title": "Payments Product Manager",
+      "company": "Lazada Group",
+      "companyUrl": "https://www.linkedin.com/company/lazada",
+      "description": "Lazada is Southeast Asia’s fastest growing online department store, with operations in Indonesia, Malaysia, Philippines, Thailand, Singapore and Vietnam. \n\nLazada is pioneering eCommerce across some of the fastest growing countries in the world by offering a fast, secure and convenient online shopping experience with a broad product offering in categories ranging from consumer electronics to household goods, toys and the latest fashion brands.\n\nI am responsible for the product management of checkout and payments across all six ventures. This includes executing upon the quarterly roadmap, managing a portfolio of over 40+ payment method integrations and quarterbacking feature requests across 10+ teams.\n\nPromoted to Product Development Lead with a direct reporting line to the Chief Product officer after 7 months.",
+      "location": "Ho Chi Minh City",
+      "start": "2016-02",
+      "end": "2016-08",
+      "dateRange": "Feb 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Experteer",
+      "companyUrl": "https://www.linkedin.com/company/experteer",
+      "description": "Experteer is the executive career service for leading professionals. In over 10 countries, Experteer connects professionals to senior-level jobs across Europe. More than 5 million professionals use Experteer. \n\nI am currently responsible for the B2C product portfolio. For my projects, I conceptualise solutions and present it to the management team and business owners. I also take care of the end-to-end execution and roll-outs of each project which include user-story writing and prototype-building. In cooperation with dedicated designers and developers we have launched multiple projects including page redesigns and the introduction of social features onsite.",
+      "location": null,
+      "start": "2014-03",
+      "end": "2016-02",
+      "dateRange": "Mar 2014 – Feb 2016",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Experteer",
+      "companyUrl": "https://www.linkedin.com/company/experteer",
+      "description": "Experteer is the executive career service for leading professionals. In over 10 countries, Experteer connects professionals to senior-level jobs across Europe. More than 5 million professionals use Experteer. \n\nI am currently responsible for the B2C and Social product portfolio. For my projects, I conceptualise solutions and present it to the management team and business owners. I also take care of the end-to-end execution and roll-outs of each project which include user-story writing and prototype-building. In cooperation with dedicated designers and developers I have launched multiple projects including page redesigns and the introduction of social features onsite.",
+      "location": "Munich",
+      "start": "2012-10",
+      "end": "2014-03",
+      "dateRange": "Oct 2012 – Mar 2014",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Stylight GmbH",
+      "companyUrl": "https://www.linkedin.com/company/stylight",
+      "description": "Stylight is an international fashion company located in Munich. In preparation of Stylight's market entry in the Netherlands, I aided the team by translating (legal) documents from German to Dutch, performed SEO keyword and web research and provided general support before launch. \n\nContract position, ended before starting a stay abroad and to allow focus on the master's thesis.",
+      "location": null,
+      "start": "2011-11",
+      "end": "2012-01",
+      "dateRange": "Nov 2011 – Jan 2012",
+      "current": false
+    },
+    {
+      "title": "Senior Researcher",
+      "company": "Experteer",
+      "companyUrl": "https://www.linkedin.com/company/experteer",
+      "description": "Experteer is the executive career service for leading professionals. Supervised quality of aggregated job openings by junior researchers. Aided Dutch team in finding new content sources. I collected and aggregated job openings for use in the Experteer service and kept the available offers up to date. Responsible for managing Dutch, British and US jobs.",
+      "location": null,
+      "start": "2011-07",
+      "end": "2011-12",
+      "dateRange": "Jul 2011 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Experteer",
+      "companyUrl": "https://www.linkedin.com/company/experteer",
+      "description": "Experteer is the executive career service for leading professionals. I collected and aggregated job openings for use in the Experteer service and kept the available offers up to date. Responsible for managing Dutch, British and US jobs.",
+      "location": null,
+      "start": "2010-09",
+      "end": "2011-06",
+      "dateRange": "Sep 2010 – Jun 2011",
+      "current": false
+    },
+    {
+      "title": "Information Technology Professional",
+      "company": "Calco IT",
+      "companyUrl": "https://www.linkedin.com/company/calco",
+      "description": "Calco IT is a Dutch IT outsourcing firm. I participated in and completed the first phase of the Calco IT Master Class in preparation of deployment as IT Generalist. \n\nStopped to pursue Graduate Degree opportunity in Munich.",
+      "location": null,
+      "start": "2010-07",
+      "end": "2010-08",
+      "dateRange": "Jul 2010 – Aug 2010",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Amazing Zambia",
+      "companyUrl": null,
+      "description": "Field Researcher on Corporate Social Responsibility. Together with a university colleague I interviewed local inhabitants and analysed the potential economic benefits for the local population of the Amazing Zambia lodge that was under construction. Spent two months onsite and some time in the capital to report. \n\nThis was the capstone experience for my Bachelor's Degree in lieu of an academic thesis.",
+      "location": "Samfya, Zambia",
+      "start": "2009-07",
+      "end": "2009-08",
+      "dateRange": "Jul 2009 – Aug 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Technology Management",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Waseda University",
+      "degree": "Visiting Scholar at the Graduate School of Asia-Pacific Studies, Information Technology Project Management",
+      "dateRange": "2012"
+    },
+    {
+      "school": "Quantic School of Business and Technology",
+      "degree": "Executive MBA, Business Administration and Management, General",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Harvard Business School Online",
+      "degree": "Other; Certificate in Management Essentials",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Harvard Business School Online",
+      "degree": "Core: Credential of Readiness, Business Administration and Management, General",
+      "dateRange": "2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science in Consumer Affairs, Consumer Economics",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Aarhus University",
+      "degree": "Exchange semester, Consumer Affairs Management",
+      "dateRange": "2011"
+    },
+    {
+      "school": "University College Utrecht",
+      "degree": "Honors Bachelor Degree in Liberal Arts and Science, Sociology and Politics",
+      "dateRange": "2007 – 2010"
+    },
+    {
+      "school": "Xiamen University",
+      "degree": "Exchange Semester, China Studies, China Studies",
+      "dateRange": "2008"
+    },
+    {
+      "school": "Stedelijk Dalton College Alkmaar",
+      "degree": "Atheneum, Social Sciences",
+      "dateRange": "2001 – 2007"
+    },
+    {
+      "school": "Rosny College",
+      "degree": "High School Exchange, Social Sciences",
+      "dateRange": "2005 – 2006"
+    }
+  ],
+  "skills": [
+    "Customer Experience",
+    "Climate Change Adaptation",
+    "Climate Change Mitigation",
+    "People Management",
+    "Leadership",
+    "Product Launch",
+    "Product Management",
+    "Management",
+    "Product Development",
+    "German",
+    "Entrepreneurship",
+    "English",
+    "Research",
+    "Dutch",
+    "User Experience",
+    "Formal Presentations",
+    "Fluent English",
+    "Business Strategy",
+    "Cross-cultural Teams",
+    "Social Media"
+  ],
+  "languages": [
+    "Dutch",
+    "English"
+  ],
+  "company": {
+    "name": "Google",
+    "tagline": null,
+    "description": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.\n\nCheck out our career opportunities at goo.gle/3DLEokh",
+    "industry": "Software Development",
+    "website": "https://goo.gle/3DLEokh",
+    "linkedInUrl": "https://www.linkedin.com/company/google",
+    "employeeCount": 341631,
+    "foundedYear": null,
+    "location": "Mountain View, United States",
+    "specialities": [
+      "search",
+      "ads",
+      "mobile",
+      "android",
+      "online video",
+      "apps",
+      "machine learning",
+      "virtual reality",
+      "cloud",
+      "hardware",
+      "artificial intelligence",
+      "youtube",
+      "software"
+    ]
+  }
+}

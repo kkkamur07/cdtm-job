@@ -1,0 +1,192 @@
+{
+  "id": "kellermatth",
+  "name": "Matthias Keller",
+  "headline": "Chief Product Officer at KAYAK",
+  "avatar": null,
+  "location": "Cambridge, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/kellermatth",
+  "personId": 1483,
+  "classes": [
+    {
+      "id": 59,
+      "label": "Spring 2006",
+      "season": "Spring",
+      "year": 2006,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2006",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Matthias Keller",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Chief Product Officer",
+      "company": "KAYAK",
+      "companyUrl": "https://www.linkedin.com/company/kayak",
+      "description": "Responsible for the product and design teams at KAYAK (NASDAQ: BKNG). Focusing on building the best travel meta search and corporate travel products with the help of artificial intelligence. Try out kayak.ai or talk to our enterprise team about testing KAYAK for Business.",
+      "location": "Greater Boston",
+      "start": "2024-11",
+      "end": null,
+      "dateRange": "Nov 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief Scientist & SVP, Technology",
+      "company": "KAYAK",
+      "companyUrl": "https://www.linkedin.com/company/kayak",
+      "description": "Additional responsibility for system architecture, KAYAK Labs (newly created team), and Engagement Marketing teams.\n\nSpearheading GenAI efforts (internal & external). Design and implementation of passkeys support (first major consumer app to support passkeys). Closely collaborating with security & legal teams on web application security, compliance with data protection laws (GDPR, CCPA, ePrivacy, ...), and the implementation of a IAB TCF-compliant consent system.",
+      "location": null,
+      "start": "2018-06",
+      "end": "2024-11",
+      "dateRange": "Jun 2018 – Nov 2024",
+      "current": false
+    },
+    {
+      "title": "Chief Scientist & VP, Technology",
+      "company": "KAYAK",
+      "companyUrl": "https://www.linkedin.com/company/kayak",
+      "description": "Additional responsibility for mobile app (iOS, Android) and mobile Web development teams.\n\nHighlights:\n• 2018 - KAYAK's iOS app showcased during Siri Shortcuts WWDC keynote introduction\n• 2020 - KAYAK showcased as a first partner supporting \"Upgrade to Sign in with Apple\" during WWDC keynote presentation\n• 2020 - KAYAK's Android app received a Material Design Award for Dark Mode",
+      "location": "Greater Boston Area",
+      "start": "2017-08",
+      "end": "2018-06",
+      "dateRange": "Aug 2017 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Chief Scientist",
+      "company": "KAYAK",
+      "companyUrl": "https://www.linkedin.com/company/kayak",
+      "description": "Machine-learning, monetization, speed, and next-generation interfaces. Designed and implemented a multi-lingual natural language processing engine that powered integrations with Amazon Alexa, Facebook Messenger, and Slack. Collaborated with Amazon on launching hotel booking via voice.",
+      "location": "Greater Boston Area",
+      "start": "2016-01",
+      "end": "2017-07",
+      "dateRange": "Jan 2016 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Security Architect",
+      "company": "KAYAK",
+      "companyUrl": "https://www.linkedin.com/company/kayak",
+      "description": "Full 360 degree view on security posture. Highlights: Designed and implemented a centralized identity solution (ADFS, SAML) for internal applications, integrated a 2-factor security solution, hardened consumer-facing authentication systems, migrated all web pages from HTTP -> HTTPS, started a bug bounty program. Responsible for PCI DSS certification.",
+      "location": null,
+      "start": "2014-04",
+      "end": "2016-01",
+      "dateRange": "Apr 2014 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Analytics Engineer",
+      "company": "KAYAK",
+      "companyUrl": "https://www.linkedin.com/company/kayak",
+      "description": "Supported executives and other stakeholders with their reporting needs. Development and maintenance of ETL data pipelines.",
+      "location": "Zurich, Switzerland",
+      "start": "2013-10",
+      "end": "2014-03",
+      "dateRange": "Oct 2013 – Mar 2014",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "ETH Zurich",
+      "companyUrl": "https://www.linkedin.com/company/eth-zurich",
+      "description": "PhD thesis on \"Mastering Imperfect and Partial Information in Wireless Sensing Systems\"\nCo-author of several scientific papers on wireless sensing systems and data analysis.\nFour oral presentations at top conferences and workshops (ACM SenSys, IPSN, SenseApp), two best paper awards.\nDeveloper of Vizzly, an open-source system for the visualization of large data sets.",
+      "location": "Zurich, Switzerland",
+      "start": "2008-10",
+      "end": "2013-09",
+      "dateRange": "Oct 2008 – Sep 2013",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "MRX Technologies",
+      "companyUrl": null,
+      "description": "Development of a wheel tracking system based on a laser scanner. System is used to detect the wheels of high-speed trains in the UK.",
+      "location": "Perth, Western Australia, Australia",
+      "start": "2007-04",
+      "end": "2007-09",
+      "dateRange": "Apr 2007 – Sep 2007",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "DaimlerChrysler AG",
+      "companyUrl": "https://www.linkedin.com/company/daimlerchrysler-ag",
+      "description": "Environmental sensing, sensor fusion, real-time Linux, CAN integration of a laser scanner device",
+      "location": "Ulm, Baden-Württemberg, Germany",
+      "start": "2005-11",
+      "end": "2007-03",
+      "dateRange": "Nov 2005 – Mar 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "Doctor of Philosophy (PhD), Computer Engineering",
+      "dateRange": "2008 – 2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2006 – 2008"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "MSc, Computer Science",
+      "dateRange": "2006 – 2008"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "BSc, Information Technology",
+      "dateRange": "2003 – 2006"
+    }
+  ],
+  "skills": [
+    "Software Engineering",
+    "Computer Science",
+    "Distributed Systems",
+    "Programming",
+    "Secure Coding",
+    "PHP",
+    "Python",
+    "Linux",
+    "Java",
+    "Data Analysis",
+    "Project Management",
+    "Data Science",
+    "C++",
+    "JavaScript",
+    "Web Applications",
+    "Engineering",
+    "Network Security",
+    "Computer Security"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "KAYAK",
+    "tagline": "We are a leading travel search engine.",
+    "description": "At KAYAK, we help millions of travelers around the globe make confident travel decisions. We are a leading travel search engine. KAYAK searches other sites to show travelers the information they need to find the right flights, hotels, rental cars and vacation packages. \n\nAnd because we aim to help travelers explore the world more confidently, we’re always on the lookout for ways to make travel planning and trip management easier – offering up a variety of tools and features such as KAYAK Trips, Explore, Price Forecast and our constantly evolving app and A.I. innovations.\n\nKAYAK is part of a global network that includes our sister brand OpenTable, as well as a portfolio of travel metasearch brands including Swoodoo, checkfelix, momondo, Cheapflights, Mundi and HotelsCombined. Collectively, we’re uniquely equipped to help people experience the world through travel and dining.\n\nKAYAK is part of Booking Holdings Inc. and operates sites in more than 70 countries and territories. \n\nKAYAK will never request payment(s) from its candidates for open positions. If you have ever been contacted about a job at KAYAK by phone/Whatsapp or email, and have been asked to provide a Credit Card, wire transfer or crypto payment, please be aware that KAYAK is not associated with this outreach. If you receive a suspicious request regarding a career opportunity at KAYAK, please report it to us. \n\nTo find out more, visit KAYAK.com.",
+    "industry": "Technology, Information and Internet",
+    "website": "http://www.kayak.com",
+    "linkedInUrl": "https://www.linkedin.com/company/kayak",
+    "employeeCount": 1095,
+    "foundedYear": 2004,
+    "location": "Stamford, United States",
+    "specialities": [
+      "Travel Tools"
+    ]
+  }
+}

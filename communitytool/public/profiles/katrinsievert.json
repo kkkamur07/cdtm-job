@@ -1,0 +1,224 @@
+{
+  "id": "katrinsievert",
+  "name": "Katrin Sievert",
+  "headline": "BCG | Dr. Sc. ETH Zurich | CDTM",
+  "avatar": {
+    "sm": "/avatars/katrinsievert-sm.webp",
+    "lg": "/avatars/katrinsievert.webp",
+    "blur": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAADQBQCdASogACAAPslQoUunpKMht/VYAPAZCWIAxkGL2Sq2NDe8fQcvl4TMh8z1GA0xNWSZhHOAAP79eHmxrZ7MfsVHxzU9QpXGwU8Itgb32o8xCU56ooR1zXmekR42N5guEN8V7Oiev5BDrvIyuZnV4of4014c/VrASxq3ZPe0pNcSardzAqn43Yxn7RUmadZG9N5Ba9QkVzFjglQ0Mdsnp6DV0ynJa8i6twNObYatq7AuBxDy0ah2sm11IgA6/g08eyV6LZZEf35VU7dqBqqNO7kcZ/O8TYBkAA=="
+  },
+  "location": "Zurich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/katrinsievert",
+  "personId": 1255,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Katrin Sievert",
+  "ca": null,
+  "summary": "Work at Boston Consulting Group (BCG)",
+  "positions": [
+    {
+      "title": "Junior Consultant",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Postdoctoral Researcher",
+      "company": "ETH Zürich",
+      "companyUrl": "https://www.linkedin.com/company/eth-zurich",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "PhD Researcher | Energy Economics",
+      "company": "ETH Zürich",
+      "companyUrl": "https://www.linkedin.com/company/eth-zurich",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2021 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern | Circular Economy",
+      "company": "SYSTEMIQ Ltd.",
+      "companyUrl": "https://www.linkedin.com/company/systemiq",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate | Energy",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Venture Development",
+      "company": "better ventures group",
+      "companyUrl": "https://www.linkedin.com/company/betterventures-io",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Working Student | Treasury & Clearing",
+      "company": "Rohde & Schwarz",
+      "companyUrl": "https://www.linkedin.com/company/rohde-schwarz",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2018 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Project Intern | Supply Chain Management",
+      "company": "Barkawi Management Consultants",
+      "companyUrl": "https://www.linkedin.com/company/barkawi-holding",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Intern | Audit Corporate",
+      "company": "KPMG",
+      "companyUrl": "https://www.linkedin.com/company/kpmg",
+      "description": null,
+      "location": null,
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant | Management Science",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2016 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2015 – Dec 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "Dr. Sc. ETH, Energy Economics",
+      "dateRange": "2021 – 2025"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Researcher, Doerr School of Sustainability",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc. and M.Sc., Energy Markets & Power Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "National Taiwan University",
+      "degree": "Exchange Semester",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Boston Consulting Group (BCG)",
+    "tagline": null,
+    "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.\n \nOur diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. \n\nWe work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.\n\nBCG Privacy Policy: https://www.bcg.com/about/privacy-policy.aspx",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bcg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/boston-consulting-group",
+    "employeeCount": 41217,
+    "foundedYear": 1963,
+    "location": "Boston, United States",
+    "specialities": [
+      "Consumer insight",
+      "corporate development",
+      "corporate finance",
+      "digital economy",
+      "globalization",
+      "growth",
+      "information technology",
+      "innovation",
+      "marketing & sales",
+      "operations",
+      "people & organization",
+      "postmerger integration",
+      "risk management",
+      "strategy",
+      "sustainability",
+      "transformation",
+      "climate",
+      "artificial intelligence",
+      "cost transformation",
+      "supply chains"
+    ]
+  }
+}

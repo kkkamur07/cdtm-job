@@ -1,0 +1,149 @@
+{
+  "id": "paul-zeller-9806761a5",
+  "name": "Paul Zeller",
+  "headline": "Zauber | CDTM | HV Capital",
+  "avatar": {
+    "sm": "/avatars/paul-zeller-9806761a5-sm.webp",
+    "lg": "/avatars/paul-zeller-9806761a5.webp",
+    "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAADQBQCdASogACAAPtFUo0woJKMiMAgBABoJQBlWu4FwALVtTcewDZilJhHCbfW7qZyDOHdCYpLgAP7nH2WXcFVl2K1NaftKNA7S2d9++pzJf79xrK9AcvBZwT5vMBvGnT2P9/AUKo844QDiCLjuY5WgHfZQljdmh98X9FxB5ukjqmmwJNoTfhIVZnhyUYb1e8fnxPpAvQNFuANmxSCMfBiFOJ48dY5oXf6IhN4h9eTSrAjJXG1K4EICvNChSAeOS7/cXYPAXZDjvNGnPDb40BDPfRviHHwAAAA="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/paul-zeller-9806761a5",
+  "personId": 2084,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Economics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Paul Zeller",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder's Associate",
+      "company": "Zauber",
+      "companyUrl": "https://www.linkedin.com/company/zauber-technology",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment Intern | Growth Equity",
+      "company": "HV Capital",
+      "companyUrl": "https://www.linkedin.com/company/hvcapital",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2025-05",
+      "end": "2025-08",
+      "dateRange": "May 2025 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Intern Business Analytics & Management Consulting",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2024-10",
+      "end": "2025-02",
+      "dateRange": "Oct 2024 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Student Assistant",
+      "company": "Max-Planck-Institut für Steuerrecht und Öffentliche Finanzen",
+      "companyUrl": "https://www.linkedin.com/company/maxplanck-tax-law-public-finance",
+      "description": "- Conducted research and data analysis using Stata & R to support research projects on taxes, trade conflicts, and behavioral and environmental economics\n(Previously worked in this role 12/21-06/22)",
+      "location": "München, Bayern, Deutschland",
+      "start": "2024-02",
+      "end": "2024-06",
+      "dateRange": "Feb 2024 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Founders Associate Intern",
+      "company": "Entrix",
+      "companyUrl": "https://www.linkedin.com/company/entrixenergy",
+      "description": "- Co-developed the sales outreach strategy, establishing a structured sales pipeline in Hubspot\n- Conducted market research to provide recommendations for future market-entry strategies and supported in offer creation and ROI calculations",
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-08",
+      "end": "2022-12",
+      "dateRange": "Aug 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Groß- und Außenhandelskaufmann",
+      "company": "METRO Sourcing International Limited",
+      "companyUrl": "https://www.linkedin.com/company/metro-sourcing-international-limited",
+      "description": "- Responsible for end-to-end product sourcing, development, and pricing negotiations, securing competitive products for the European market\n- Visited factories and trade fairs to enhance sourcing expertise and supplier relationships\n- Digitalized the Frozen Seafood catalogue, improving efficiency in the buying system",
+      "location": "Hongkong SAR",
+      "start": "2019-09",
+      "end": "2021-07",
+      "dateRange": "Sep 2019 – Jul 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master, Management & Technology",
+      "dateRange": "2025 – 2027"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor, Economics",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Economics",
+      "dateRange": "2023"
+    },
+    {
+      "school": "German Swiss International School | 德瑞國際學校",
+      "degree": "Ausbildung zum Groß- und Außenhandelskaufmann (Wholesale and Foreign Trade Management Assistant)",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Gymnasium Eppendorf",
+      "degree": "Abitur",
+      "dateRange": "2011 – 2019"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Zauber",
+    "tagline": null,
+    "description": "AI operating system for logistics",
+    "industry": "Technology, Information and Internet",
+    "website": "https://gozauber.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/zauber-technology",
+    "employeeCount": 18,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

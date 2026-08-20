@@ -1,0 +1,166 @@
+{
+  "id": "laura-stotko-840088240",
+  "name": "Laura Stotko",
+  "headline": "MCF Corporate Finance | CDTM",
+  "avatar": {
+    "sm": "/avatars/laura-stotko-840088240-sm.webp",
+    "lg": "/avatars/laura-stotko-840088240.webp",
+    "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAQBQCdASogACAAPtFSokwoJCMiMBgMAQAaCWIAzNB7cMB43tKTupfmeUInLKESbzgAAP79LcLV4iFyE8ZToKpS9J47hdVH0fhDO6GGAHGUZBS84OcndTcohnh/WkBulM4sFUaWOQZmHSJGHtZULiio5VhdeocXjbDjmDQnQnatvuD2XlRY49o0rPZUrDhDBr2gpXdYxdbCSNkCdOdrlFzqW+68d71f5wAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/laura-stotko-840088240",
+  "personId": 931,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Bioinformatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Laura Stotko",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "M&A Analyst",
+      "company": "MCF Corporate Finance",
+      "companyUrl": "https://www.linkedin.com/company/mcf-corporate-finance",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate Consultant",
+      "company": "Telescope Advisory Partners",
+      "companyUrl": "https://www.linkedin.com/company/telescope-advisory-partners",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Junior Investment Analyst",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Investment Intern",
+      "company": "Holtzbrinck Digital",
+      "companyUrl": "https://www.linkedin.com/company/holtzbrinck-digital-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Associate Intern",
+      "company": "Yttrium",
+      "companyUrl": "https://www.linkedin.com/company/yttrium",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Wissenschaftlicher Assistent",
+      "company": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie - Hans-Knöll-Institut",
+      "companyUrl": "https://www.linkedin.com/company/leibniz-institute-for-natural-product-research---hans-kn-ll-institute",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Cyber Security Intern",
+      "company": "Bundesnachrichtendienst (BND)",
+      "companyUrl": "https://www.linkedin.com/company/bundesnachrichtendienst",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor's degree, Bioinformatics",
+      "dateRange": "2020 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Bioinformatics",
+      "dateRange": "2020 – 2024"
+    }
+  ],
+  "skills": [
+    "German",
+    "Communication",
+    "Data Science",
+    "Spring Framework",
+    "TypeScript",
+    "Kotlin",
+    "Cybersecurity",
+    "Algorithm Development",
+    "Research Skills",
+    "Due Diligence",
+    "Software Development",
+    "Finance",
+    "Data Analysis",
+    "Microsoft Excel",
+    "Visual Basic for Applications (VBA)",
+    "R (Programming Language)",
+    "Python (Programming Language)",
+    "Java",
+    "Study Reports",
+    "Writing"
+  ],
+  "languages": [],
+  "company": {
+    "name": "MCF Corporate Finance",
+    "tagline": "Our mission is to provide honest and relationship-driven M&A & debt advice, tailored to each client's business journey.",
+    "description": "MCF Corporate Finance (MCF) is a leading M&A and debt advisory firm with offices in Frankfurt, Hamburg, Helsinki, London, Munich and Stockholm. Under the brand D.A. Davidson MCF International, we identify and execute transatlantic M&A transactions.\n\nMCF has successfully structured and executed over 1,200 M&A and debt advisory transactions for multinational corporations, mid-sized companies, family offices, and private equity investors across its four core sectors: Business Services, Consumer, Industrials and Technology.",
+    "industry": "Investment Banking",
+    "website": "http://www.mcfcorpfin.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/mcf-corporate-finance",
+    "employeeCount": 132,
+    "foundedYear": 1990,
+    "location": "Hamburg, Germany",
+    "specialities": []
+  }
+}

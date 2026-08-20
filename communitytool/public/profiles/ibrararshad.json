@@ -1,0 +1,279 @@
+{
+  "id": "ibrararshad",
+  "name": "Ibrar Arshad",
+  "headline": "Software Generalist",
+  "avatar": {
+    "sm": "/avatars/ibrararshad-sm.webp",
+    "lg": "/avatars/ibrararshad.webp",
+    "blur": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABQBQCdASogACAAPtFYpUyoJSOiKA1RABoJYgDI1Yu7LbLL74VvggxqvePRkflgBQ8EmkAA/vwUnvU/PYRUuwhtwXuLGO3Tk/vpRx4ly8XGhmZSoCTGMqYyFgt+Dq5x92vAiyPvGn8a66Vky7D2OOmLm7PyH9TGsV1qDJsKAmY27sICFrzAJFl9UwDDDKAupUbBTUJ5M6cGXtyRrIVSaJe60y5PB9i+/p/7URmYDhuyJaoqNNRam3ERyAAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/ibrararshad",
+  "personId": 864,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Ibrar Arshad",
+  "ca": null,
+  "summary": "I am an experienced tech generalist with multiple years of experience as a software engineer.\n\n\nI have a master's degree in Computer Science from TUM with a mix of focus on Distributed systems, and Machine Learning, especially the application of Deep Learning for CV and NLP tasks. My experiences during the last 3-4 years include being part of a startup incubator(EF), working in a very inter-disciplinary setting to get an honors degree in technology management at CDTM , and working in various engineering roles at multiple startups.\n\nPrior to masters, I worked for 2,5 years at Xgrid, the Pakistan based office of PLUMGRID U.S. At Xgrid, I started a team which was twin to the team in US, and was responsible for designing and developing the core of an OpenStack based  SDN solution. \n\nI am well versed in Deep Learning, backend development, cloud, and distributed systems.",
+  "positions": [
+    {
+      "title": "Site Reliability Engineer",
+      "company": "Scalable Capital",
+      "companyUrl": "https://www.linkedin.com/company/scalable-capital",
+      "description": "- Provisioning and maintenance of Iac modules in Terraform\n- Implementing the solution to monitor rejected traffic via vpc flowlogs / firehose and Datadog.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-08",
+      "end": "2026-01",
+      "dateRange": "Aug 2025 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Personal goal pursuit",
+      "company": "Career break",
+      "companyUrl": null,
+      "description": "• Tried to found a company in the fitness / longevity space. Brainstormed a subscription based model to offer a suite\nof advanced fitness related tests(body composition scans, lactate threshold etc) through a partner network of labs /\nfitness studios.\n• Developed the product idea to combine the wearables, biomarkers, and data from tests offered by our subscription service to craft personalized fitness insights and recommendations enabled by AI.\n• Developed a working prototype app, landing page, did A/B testing, and ICP interviews.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-01",
+      "end": "2025-08",
+      "dateRange": "Jan 2025 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Wemolo",
+      "companyUrl": "https://www.linkedin.com/company/wemolo",
+      "description": "AWS-Based IoT Platform for Parking Lot Management: Key Contributions\n\n- Kafka Event Broker: Designed and maintained an AWS MSK-based Kafka cluster as a central event broker for microservices. Optimized memory, disk space, and replication strategies for high availability. Managed ACLs and fine-tuned producer/consumer settings for efficiency. Conducted team training for Kafka integration and developed monitoring services with Elastic logs, watchers, and Google notifications.\n\n- Resilient Event Processing: Developed a microservice to process events from an MQTT broker, storing them in Kafka with an SQS-based backup for downtime resilience. Performed throughput analysis and integrated unit and integration tests using frameworks like Moto3 and unittest to ensure production readiness.\n\n- Custom Health Checks: Built ECS-specific health checks covering multithreaded and multiprocess services, using file-based mechanisms for comprehensive validation. Enhanced logging via Elastic REST API and FluentBit, enabling real-time alerts with Elastic watchers and Google notifications.\n\n- Service Metrics and Monitoring: Established detailed metrics for microservices, including events produced/processed, database writes, and processing times. Designed Kibana dashboards for real-time monitoring.\n\n- Infrastructure Automation: Managed Terraform repositories to provision AWS resources (IAM roles, ECS clusters, ECR repositories, Secrets Manager). Delivered secure and scalable deployment pipelines.\n\n- Serverless API Development: Built serverless APIs with AWS Lambda, integrating with Hasura actions for seamless front-end interaction. Optimized performance by replacing GraphQL queries with direct SQL connections to reduce latency.\n\n- CI/CD Pipelines: Developed Docker images for Python microservices and GitLab pipelines for dynamic deployment, restart, and scaling of ECS services.\n\n- Kafka Configuration Tooling: Python-based tool to streamline Kafka topic and ACL management.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-07",
+      "end": "2024-10",
+      "dateRange": "Jul 2023 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "arculus – a Jungheinrich company",
+      "companyUrl": "https://www.linkedin.com/company/arculus-a-jungheinrich-company",
+      "description": "Developing the AWS based backend of Arculus' robot fleet management solution. \n• Implemented rest API for starting on-demand tasks on ECS, and implemented the functionality to\nmake them available through ALB. Implemented the rest API and infrastructure for onboarding iot devices to the\nECS services using AWS IOT.\n• Implemented AWS MSK(managed Kafka) based pub-sub approach for inter-process communication.\n• Implemented MQTT based communication between the AGVs, AWS IOT, and ECS services.\n• Implemented the AWS infrastructure using infrastructure-as-code approach with Python Pulumi framework.\n• Implemented unit and integration testing and CI/CD pipelines.\n• Packaged the React based web front-end and served it through ECS and ALB.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-02",
+      "end": "2023-07",
+      "dateRange": "Feb 2022 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Jungle Robotics-as-a-Service",
+      "companyUrl": "https://www.linkedin.com/company/junglecommunity",
+      "description": "• Developed the backend of a saas platform using a stack consisting of Python, AWS Servlerless, GitLab, Terraform,\nPostgreSQL, and other AWS services.\n• Took end-end ownership of the platform including development of the serverless rest API, business logic, unit and\nintegration tests, CI pipelines, and AWS services development and deployment.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-02",
+      "end": "2022-01",
+      "dateRange": "Feb 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Motius",
+      "companyUrl": "https://www.linkedin.com/company/motius-gmbh",
+      "description": "• Led the design and development of a data-driven sales-insight solution on AWS using Python, S3, Lambda, Glue, Dy-namoDb, Terraform, and GitLab CI/CD. Gathered requirements from the client, designed the AWS architecture of thesolution, coded the algorithms, collaborated with client’s tech teams, and wrote the infrastructure and functionality to transfer insights to the customer’s Salesforce backend.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-04",
+      "end": "2021-02",
+      "dateRange": "Apr 2020 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Cohort member",
+      "company": "Entrepreneur First",
+      "companyUrl": "https://www.linkedin.com/company/entrepreneurs-first",
+      "description": "- Ideated, researched, and validated a product idea in the SEO space.\n- Built a business model, built a prototype, obtained customers, and pitched the product to the investors.",
+      "location": "Berlin Metropolitan Area",
+      "start": "2019-10",
+      "end": "2020-01",
+      "dateRange": "Oct 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Motius",
+      "companyUrl": "https://www.linkedin.com/company/motius-gmbh",
+      "description": "- Development of a general purpose chat-bot using NLP techniques, Django, PostgreSQL.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-06",
+      "end": "2019-09",
+      "dateRange": "Jun 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Student Consultant - Business Develpment",
+      "company": "Innovationsmanagement Bau GmbH",
+      "companyUrl": "https://www.linkedin.com/company/innovationsmanagement-bau",
+      "description": "Analyzed the business needs of InnoBau and early-stage construction startups and developed a mode of collaboration between the two.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-04",
+      "end": "2019-07",
+      "dateRange": "Apr 2019 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "clyso GmbH",
+      "companyUrl": "https://www.linkedin.com/company/clyso",
+      "description": "Designed and developed a hybrid cloud provider that used various public/private providers as backends.  It involved developing a microservices based architecture using technologies such as Python Flask, etcd, Terraform, Kong, Nginx, uWSGI, Kafka, and Docker.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-10",
+      "end": "2019-06",
+      "dateRange": "Oct 2018 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Product Development Specialist",
+      "company": "Oxford Academic Health Science Network (Oxford AHSN)",
+      "companyUrl": "https://www.linkedin.com/company/health-innovation-oxford",
+      "description": "- Researched the causes that prevent prostate cancer patients from communicating relapse symptoms to their doctors.\n- Developed a smartphone app based on the acquired data to track patient symptoms and inform the physician",
+      "location": null,
+      "start": "2018-10",
+      "end": "2019-02",
+      "dateRange": "Oct 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Trend researcher",
+      "company": "Innovationsmanagement Bau GmbH",
+      "companyUrl": "https://www.linkedin.com/company/innovationsmanagement-bau",
+      "description": "- Identified trends in the construction industry to seek out innovation potential.\n- Set up future scenarios and generated business models.\n- Published a 120-page trend report as part of a 25 people team.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-08",
+      "end": "2018-10",
+      "dateRange": "Aug 2018 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Cognostics AG",
+      "companyUrl": "https://www.linkedin.com/company/cloudflight",
+      "description": "Small projects including:\n\n- Developing backend of a social app.\n- Development of algorithms to visualize Wikipedia.",
+      "location": "Bayern, Bavaria, Germany",
+      "start": "2018-04",
+      "end": "2018-08",
+      "dateRange": "Apr 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Software Engineer 3",
+      "company": "Xgrid.co",
+      "companyUrl": "https://www.linkedin.com/company/xgrid",
+      "description": "Design and development of an SDN product. Started a new team to develop virtual network functions.\n\nThe technical projects I accomplished include:\n\n- Development of a distributed Security-Policy VNF (virtual network function) for controlling IPv4 traffic. (C++, Bash)\n- Development of a distributed DHCP VNF for workload IP provisioning within virtual network topologies.  (C++, Bash)\n- Enhancement of plumgrid dataplane language compiler to allow function declaration and usage.\n- Development of a distributed DNS VNF to provide name resolution service within virtual network topologies.  (C++, Bash)\n- Implementation of static IPv6 support in Router VNF.  (C++, Bash)",
+      "location": "islamabad",
+      "start": "2014-06",
+      "end": "2016-12",
+      "dateRange": "Jun 2014 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Technical Intern",
+      "company": "Bentley Systems",
+      "companyUrl": "https://www.linkedin.com/company/bentley-systems",
+      "description": "Mobile Application- Developed a shared, native c++ cross-platform accident detection library and used it to develop an android app for detecting crashes and falls. Also, I learnt the application of scrum software development process.",
+      "location": "Islamabad,Pakistan",
+      "start": "2013-06",
+      "end": "2013-08",
+      "dateRange": "Jun 2013 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Technical Intern",
+      "company": "we.R.play",
+      "companyUrl": "https://www.linkedin.com/company/wrpstudios",
+      "description": "Unity Engine Project-Using Microsoft Kinect and Zigfu development kit, made a game character controllable with hand push, pull and swipe gestures.",
+      "location": "Islamabad,Pakistan",
+      "start": "2012-06",
+      "end": "2012-08",
+      "dateRange": "Jun 2012 – Aug 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Computer Science",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours degree, Computer/Information Technology Administration and Management",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "National University of Computer and Emerging Sciences",
+      "degree": "Bachelor’s Degree, Computer Science",
+      "dateRange": "2010 – 2014"
+    }
+  ],
+  "skills": [
+    "Software Design",
+    "Software Development",
+    "Apache Kafka",
+    "Elastic Stack (ELK)",
+    "REST APIs",
+    "Serverless Framework",
+    "PostgreSQL",
+    "docker",
+    "Internet of Things (IoT)",
+    "Continuous Integration and Continuous Delivery (CI/CD)",
+    "Amazon Web Services (AWS)",
+    "C++",
+    "C#",
+    "Java",
+    "SQL",
+    "Android",
+    "Visual Studio",
+    "ASP.NET",
+    "JavaScript",
+    "Eclipse",
+    "Android Development",
+    "Scrum",
+    "Mobile Applications",
+    "html",
+    "Matlab",
+    "Python",
+    "Bash",
+    "Internet Protocol Suite (TCP/IP)",
+    "Linux",
+    "Python (Programming Language)"
+  ],
+  "languages": [
+    "English"
+  ],
+  "company": {
+    "name": "Scalable Capital",
+    "tagline": "Scalable Capital is a leading FinTech in Europe, bringing people and technology-based investment together.",
+    "description": "Scalable Capital is a leading all-in-one digital banking platform with a full banking licence, enabling people in Europe to take control of their finances. \nThe company was founded in 2014 and has offices in Munich, Berlin, Vienna, Milan and London.\n\nFor private individuals, Scalable Capital offers an account that allows to invest, save and borrow with a trading flat rate and market-leading interest. In digital wealth management, the company creates and manages globally diversified ETF portfolios for its clients. The Scalable account enables private individuals to trade stocks, ETFs, crypto, funds and more as well as to set up savings plans with as little as €1.\n \nAs a fast-growing Fintech, we are constantly looking for new employees and also welcome unsolicited applications: https://careers.scalable.capital/\n\nFor further information please visit our website: www.scalable.capital.\n\nScalable Capital refers to Scalable GmbH and the affiliated companies. If this online presence contains information regarding capital markets, financial instruments and/or other topics relevant for investments of assets, the exclusive purpose of this information is to give general guidance on the investment services provided by Scalable Capital Bank GmbH.\n\nOur Privacy Policy can be found here: www.scalable.capital/privacy-policy",
+    "industry": "Financial Services",
+    "website": "http://www.scalable.capital",
+    "linkedInUrl": "https://www.linkedin.com/company/scalable-capital",
+    "employeeCount": 824,
+    "foundedYear": 2014,
+    "location": "München, Germany",
+    "specialities": [
+      "Digital investment management"
+    ]
+  }
+}

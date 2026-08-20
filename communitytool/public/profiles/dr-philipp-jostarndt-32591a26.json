@@ -1,0 +1,120 @@
+{
+  "id": "dr-philipp-jostarndt-32591a26",
+  "name": "Dr. Philipp Jostarndt",
+  "headline": "Managing Director and Senior Partner at The Boston Consulting Group",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-philipp-jostarndt-32591a26",
+  "personId": 1741,
+  "classes": [
+    {
+      "id": 99,
+      "label": "Spring 2000",
+      "season": "Spring",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2000",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Philipp Jostarndt",
+  "ca": null,
+  "summary": "I am a Managing Director and Senior Partner at the Boston Consulting Group (BCG). As part of the leadership team for our Principal Investors and Private Equity Practice Area (PIPE) in Europe, Middle East, South America and Africa, I lead our Industrials team and Portfolio Value Acceleration business.\n\nBCG is a leading management consultant firm with over 90 offices in more than 50 countries around the world with 20,000+ talented individuals, partnering with leaders in business and society to tackle their most important challenges and capture their greatest opportunities.\n\nSince joining BCG in 2007, I have supported clients in Industrial Goods and Services (esp. in engineered products and infrastructure) and Private Equity. My work focuses on corporate & investor strategy, programs for operational value creation, and buy- and sell-side M&A support.\n\nI hold a degree in business administration (Dipl.-Kfm.) and a Ph.D. in financial economics (Dr. oec. publ.) from Ludwig-Maximilians University of Munich, where since 2011 I serve as guest lecturer at the Institute of Capital Markets and Corporate Finance (KMF).",
+  "positions": [
+    {
+      "title": "Managing Director and Senior Partner",
+      "company": "The Boston Consulting Group",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-07",
+      "end": null,
+      "dateRange": "Jul 2015 – Present",
+      "current": true
+    },
+    {
+      "title": "Externer Lehrbeauftragter",
+      "company": "Ludwig-Maximilians-Universität (LMU) München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "External lecturer in Corporate Finance and Mergers & Acquisitions",
+      "location": "Munich",
+      "start": "2011-01",
+      "end": null,
+      "dateRange": "Jan 2011 – Present",
+      "current": true
+    },
+    {
+      "title": "Principal & Recruiting Director",
+      "company": "The Boston Consulting Group",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Germany",
+      "start": "2011-01",
+      "end": "2013-12",
+      "dateRange": "Jan 2011 – Dec 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Dr. Oec. Publ., Economics",
+      "dateRange": "2004 – 2006"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Dipl. Kfm., Economics",
+      "dateRange": "1998 – 2002"
+    }
+  ],
+  "skills": [
+    "Business Strategy",
+    "Mergers",
+    "Corporate Finance & Strategy",
+    "Heavy Industry",
+    "Private Equity",
+    "Management Consulting"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Boston Consulting Group (BCG)",
+    "tagline": null,
+    "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.\n \nOur diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. \n\nWe work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.\n\nBCG Privacy Policy: https://www.bcg.com/about/privacy-policy.aspx",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bcg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/boston-consulting-group",
+    "employeeCount": 41217,
+    "foundedYear": 1963,
+    "location": "Boston, United States",
+    "specialities": [
+      "Consumer insight",
+      "corporate development",
+      "corporate finance",
+      "digital economy",
+      "globalization",
+      "growth",
+      "information technology",
+      "innovation",
+      "marketing & sales",
+      "operations",
+      "people & organization",
+      "postmerger integration",
+      "risk management",
+      "strategy",
+      "sustainability",
+      "transformation",
+      "climate",
+      "artificial intelligence",
+      "cost transformation",
+      "supply chains"
+    ]
+  }
+}

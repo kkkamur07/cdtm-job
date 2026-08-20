@@ -1,0 +1,226 @@
+{
+  "id": "fares-mrad-agua",
+  "name": "Fares A.",
+  "headline": "Principal @Leap4 | Ex-Berylls | CDTM | Family Business",
+  "avatar": {
+    "sm": "/avatars/fares-mrad-agua-sm.webp",
+    "lg": "/avatars/fares-mrad-agua.webp",
+    "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAAAwBgCdASogACAAPtFYpEwoJSOiMAgBABoJaACdMxgJq+V00ji4IntvoPrI7nHlV4FOsl2G8QM29SAAAP70Mtt3C13AIKx8A1tYd+id4LojjHW0lRbF9XKtIbNSXGK2pGpsX9W1g72GDq4k/v4Hd/G3NYiRHl+5T/Z91kggo/X5O3J+bG5m3fDln+32yQPGvTDk1eHN14qN8k4DQemH2CHsOYYZRMnf2EZVxvNJehaZrS8jlicElsKW7X2rOgatgVh1lP0Ig1bKN3yQzGEZQ9PVzsz/fa0MZAA="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/fares-mrad-agua",
+  "personId": 896,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Mechanical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Fares Maximilian Mrad Agua",
+  "ca": null,
+  "summary": "What do I offer?\n- Profound knowledge and know-how in the (auto-) mobility and energy sectors, regarding both technology and markets\n- Extensive experience and skills in various fields: strategy definition and execution, strategic partnerships incl. M&A activities, investor relations and financing rounds, driving change in family businesses, organizational development/transformation, building effective product & tech organizations\n- Leadership experience with manifold teams and ability to lead complex projects in environments of multidimensional stakeholder constellations\n- Highest levels of commitment, reliability, and responsibility in delivering results\n- Value driven, self-reflective, curious, humble, passionate and determined character with sincere motivation to support endeavors with positive impact on quality of life (consequently, also standing with the people of Palestine)",
+  "positions": [
+    {
+      "title": "Principal",
+      "company": "LEAP4",
+      "companyUrl": "https://www.linkedin.com/company/leap435",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-03",
+      "end": null,
+      "dateRange": "Mar 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Strategy Consultant (Freelance)",
+      "company": "Freiberuflich",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2025-03",
+      "dateRange": "Jan 2023 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "Head of Strategy",
+      "company": "Maltego Technologies",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-05",
+      "end": "2022-12",
+      "dateRange": "May 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "Entrix",
+      "companyUrl": "https://www.linkedin.com/company/entrixenergy",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-01",
+      "end": "2022-04",
+      "dateRange": "Jan 2022 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Sabbatical",
+      "company": "Yes, it was great",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2021-05",
+      "end": "2021-12",
+      "dateRange": "May 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Senior Associate (Project Manager)",
+      "company": "Berylls Strategy Advisors",
+      "companyUrl": "https://www.linkedin.com/company/berylls",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-07",
+      "end": "2021-04",
+      "dateRange": "Jul 2020 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Associate",
+      "company": "Berylls Strategy Advisors",
+      "companyUrl": "https://www.linkedin.com/company/berylls",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2020-06",
+      "dateRange": "Jan 2019 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Munich",
+      "company": "Berylls Strategy Advisors",
+      "companyUrl": "https://www.linkedin.com/company/berylls",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-05",
+      "end": "2018-12",
+      "dateRange": "May 2017 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Research Associate - Electromobility",
+      "company": "TUM CREATE Ltd. Singapore",
+      "companyUrl": "https://www.linkedin.com/company/tum-create-limited",
+      "description": "Electric Vehicle Modeling and Simulation with MATLAB/Simulink/Stateflow",
+      "location": "Singapore",
+      "start": "2012-04",
+      "end": "2012-10",
+      "dateRange": "Apr 2012 – Oct 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Elite Network of Bavaria",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (MSc), Mechanical Engineering",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "TUM School of Management",
+      "degree": "Bachelor of Science (BSc), Management and Technology",
+      "dateRange": "2010 – 2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (BSc), Mechanical Engineering",
+      "dateRange": "2009 – 2012"
+    }
+  ],
+  "skills": [
+    "Venture C",
+    "Kundenzufriedenheit",
+    "Vertragsverhandlungen",
+    "Entwicklung neuer Geschäftsfelder (New Venture)",
+    "Strategische Beziehungen",
+    "Projektumsetzung",
+    "Strategische Partnerschaften",
+    "Partnermanagement",
+    "Microsoft Excel",
+    "Analytische Fähigkeiten",
+    "Positive Change",
+    "Innovation",
+    "Electromobility",
+    "Business Strategy",
+    "Strategisches Management",
+    "Simulationen",
+    "Project Management",
+    "Projektmanagement",
+    "Energiemärkte",
+    "Unternehmertum",
+    "Matlab",
+    "Java",
+    "C++",
+    "Management Consulting",
+    "Business Development",
+    "Strategy",
+    "Research",
+    "Renewable Energy Systems",
+    "Management",
+    "Start-ups",
+    "Consulting",
+    "Unternehmensberatung",
+    "Unternehmensführung",
+    "Unternehmensstrategie",
+    "Automobilindustrie",
+    "Digitale Strategie",
+    "Digitale Transformation",
+    "New Mobility"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "LEAP4",
+    "tagline": "Seed VC backing and scaling frontier systems that move goods, people, and industries - across land, sea, air & beyond...",
+    "description": "LEAP4 is a deep-tech VC fund investing in frontier systems that move goods, people, and industries - across land, sea, air, and beyond. From chips to materials, AI to robotics, at every level of the value chain. \n\nWe confidently lead (Pre-)Seed and follow in Series A rounds. Europe is our base, with nodes in Berlin, Munich and Paris.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "https://www.leap4.vc/",
+    "linkedInUrl": "https://www.linkedin.com/company/leap435",
+    "employeeCount": 34,
+    "foundedYear": 2023,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Mobility",
+      "Autonomous Driving Tech",
+      "Drones",
+      "Software Defined Vehicle",
+      "Robotics",
+      "AI for Engineering"
+    ]
+  }
+}

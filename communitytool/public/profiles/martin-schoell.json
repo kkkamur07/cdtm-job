@@ -1,0 +1,242 @@
+{
+  "id": "martin-schoell",
+  "name": "Martin Schöll",
+  "headline": "Helping companies optimize their pricing & build digital products | Co-Founder 🐡 How much is the fish & MD Schöll GmbH",
+  "avatar": {
+    "sm": "/avatars/martin-schoell-sm.webp",
+    "lg": "/avatars/martin-schoell.webp",
+    "blur": "data:image/webp;base64,UklGRkABAABXRUJQVlA4IDQBAABQBgCdASogACAAPtFYpE0oJSMiKA1RABoJbACdM2ZY0d5K43YJ83OYtA4NMK49WVf9yzCyJOdwkOHscAD+ct4ZFWRq7FwUb0wLIl97akcqoVwSAg+WOkqzb1kDN7UUdvLRZKVm+EknC3xiSgn1xafkUCAi83O7pvIobPTQfIdlygIhHkLrL/10m/powAVDntngruPVpszsrAJ3+wfteitXjqvdCzksxhuRuCshJ/LQ5wRVpbxZJXNHe5zkdOHC2SZqeh18fp99/CqqbJVOHlgGOfLuXhK5BVh6d3Mx1ncdwsx8ZUG1AqtxG3zJhLngvORWrRSsW7NAM/HjjpgNMLnlfSSAS15KpxBACorite/rsvkIT346itmMC+EC3/ANrozRmEtx6wybnve8Uy5KZwD08NAAAA=="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/martin-schoell",
+  "personId": 916,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Mechanical Engineering and Management",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Martin Schöll",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "How much is the fish",
+      "companyUrl": "https://www.linkedin.com/company/how-much-is-the-fish",
+      "description": "We started How much is the fish to help businesses take the best pricing decisions. We have tried the tools on the market and know how difficult it is to get reliable data that is also well prepared. That's why we are building How much is the fish with the vision to become your holistic tool for e-commerce competitive intelligence and pricing decisions.",
+      "location": "Berlin Metropolitan Area",
+      "start": "2024-02",
+      "end": null,
+      "dateRange": "Feb 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Managing Director",
+      "company": "Schöll GmbH",
+      "companyUrl": "https://www.linkedin.com/company/schoell-tech",
+      "description": "I founded Schöll GmbH with a mission to elevate the digital capabilities of SMEs through consulting and software development services.\n\nWe offer interim management, coaching and consulting in the areas of product management, program management, product development and general business consulting.",
+      "location": "Berlin Metropolitan Area",
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Montabaur",
+      "company": "Klöckner Pentaplast",
+      "companyUrl": "https://www.linkedin.com/company/klockner-pentaplast",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Co-Founder & Managing Director",
+      "company": "TruckOS",
+      "companyUrl": null,
+      "description": "We’ve founded TruckOS with a mission to empower truckers by providing an operating system to manage their daily operations. TruckOS secured EUR 1m in pre-seed funding from VCs and business angels before taking the strategic decision to liquidate the company in Q4 2023.\n- Developed initial product hypothesis, then validated and revised it through experimentation and interviewing, resulting in a prioritized product roadmap leading to high user satisfaction\n- With a development team of 4 (product, design & engineering) we launched a production grade SaaS “Mini-TMS” (Transportation Management System) in 3 months - another 3 months later, we had launched native apps for iOS & Android and pushed more than 2 releases weekly to continuously improve user satisfaction based on feedback and analytics insights\n- Despite continuously growing praise from our early users, I facilitated the difficult decision to liquidate the company as there was no positive outlook on raising required follow-up funding\n- As Managing Director, I also took care of various operational topics, e.g. financial planning, bookkeeping, annual reports & shareholder meetings",
+      "location": "Munich, Germany",
+      "start": "2022-10",
+      "end": "2023-12",
+      "dateRange": "Oct 2022 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Director TPM",
+      "company": "Vay",
+      "companyUrl": "https://www.linkedin.com/company/vaytechnology",
+      "description": "Vay is a technology-enabled mobility company taking a contrarian approach to driverless mobility based on teledriving. Vay has raised more than USD 100m in funding from investors including Kinnevik, Coatue, Eurazeo, Atomico, La Famiglia and Creandum as well as prominent Business Angels such as former Alphabet CFO Patrick Pichette, Spotify’s CTO & CPO Gustav Söderström and Formula 1 champion Nico Rosberg.\n\nI have built-up and lead the teams for Technical Program Management and Technical Product Management at Vay.",
+      "location": "Berlin Metropolitan Area",
+      "start": "2019-10",
+      "end": "2022-10",
+      "dateRange": "Oct 2019 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Senior Digital Product Manager",
+      "company": "BYTON",
+      "companyUrl": "https://www.linkedin.com/company/byton-cars",
+      "description": "- Product Lead for BYTON mobile app\n- Product Lead and build-up of BYTON center of excellence for VR/AR/Configurator applications\n- Developed product strategy for BYTON digital offering across in-car and out-of-car touchpoints\n- Defined product vision and roadmap, managed product teams across three continents and lead cross-functional team during implementation",
+      "location": "Munich, Santa Clara & Shanghai",
+      "start": "2017-11",
+      "end": "2019-10",
+      "dateRange": "Nov 2017 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "GLDP Associate Digital Services & Digital Strategy",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "BMW's Global Leader Development Programme is the premier entry program for junior professionals and recent graduates to be prepared for leading position at the BMW Group.\n- Program associate with a focus on Digital Products, Digital Business Models and Digital Strategy\n- Developed business case for BMW’s newly established digital services division\n- Designed a portfolio prioritization framework for digital services at BMW’s technology office in Chicago which has been used to coordinate five divisions\n- Conceptualized a company-wide digital growth strategy\n- Developed digital services strategy and business case for digital services for the Chinese market",
+      "location": "Munich, Chicago & Shanghai",
+      "start": "2016-04",
+      "end": "2017-10",
+      "dateRange": "Apr 2016 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Investment Management",
+      "company": "Holtzbrinck Digital",
+      "companyUrl": "https://www.linkedin.com/company/holtzbrinck-digital-gmbh",
+      "description": "- Analyzed and evaluated business plans and pitch decks from startups\n- Researched and synthesized insights about markets, competitors and prospect companies during a commercial due diligence",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-09",
+      "end": "2016-01",
+      "dateRange": "Sep 2015 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant Intern",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": "- Prepared a top management strategy workshop by developing and challenging initiatives for growth and operational efficiency improvements\n- Analyzed competitive environment and brand perception for a commercial due diligence in the luxury fashion market",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-09",
+      "end": "2014-11",
+      "dateRange": "Sep 2014 – Nov 2014",
+      "current": false
+    },
+    {
+      "title": "Part-time",
+      "company": "Klöckner Pentaplast",
+      "companyUrl": "https://www.linkedin.com/company/klockner-pentaplast",
+      "description": "- Developed a modular pricing logic and validated logic based on historic SAP data\n- Implemented an Excel-based pricing tool rolled out to 40 customer service agents\n- Analyzed potential for profitability improvements through pricing optimization\n- Achieved bottom-line growth while simultaneously releasing operational sales capacity",
+      "location": null,
+      "start": "2013-10",
+      "end": "2014-09",
+      "dateRange": "Oct 2013 – Sep 2014",
+      "current": false
+    },
+    {
+      "title": "Business Architect Sales Intern",
+      "company": "Klöckner Pentaplast",
+      "companyUrl": "https://www.linkedin.com/company/klockner-pentaplast",
+      "description": null,
+      "location": null,
+      "start": "2013-08",
+      "end": "2013-10",
+      "dateRange": "Aug 2013 – Oct 2013",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "Roland Berger Strategy Consultants",
+      "companyUrl": "https://www.linkedin.com/company/rolandberger",
+      "description": "- Strategy development for a medium-sized automotive supplier & restructuring of another automotive supplier\n- Gathered data and analyzed market and competition\n- Optimized company organization based on internal and external benchmarks\n- Prepared reporting about improved profits for senior management",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-09",
+      "end": "2012-12",
+      "dateRange": "Sep 2012 – Dec 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Mechanical Engineering and Management",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Visiting Fellow, Laboratory for Innovation Science & Harvard Business School",
+      "dateRange": "2015"
+    },
+    {
+      "school": "Technische Universität Darmstadt",
+      "degree": "Bachelor of Science (B.Sc.), Industrial Engineering and Management - Major in Mechanical Engineering",
+      "dateRange": "2009 – 2013"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Visiting Student, Mechanical Engineering",
+      "dateRange": "2011 – 2012"
+    }
+  ],
+  "skills": [
+    "Strategic Planning",
+    "Market Analysis",
+    "Generative AI",
+    "Business-to-Business (B2B)",
+    "Product Management",
+    "Program Management",
+    "Software Development",
+    "Team Building",
+    "React.js",
+    "Node.js",
+    "TypeScript",
+    "React Native",
+    "Agile Methodologies",
+    "Software as a Service (SaaS)",
+    "Strategy",
+    "Product Design",
+    "Business Strategy",
+    "Entrepreneurship",
+    "Data Analysis",
+    "Business Analysis",
+    "Venture Capital",
+    "Product Development",
+    "ISO 26262",
+    "Management Consulting",
+    "Business Development",
+    "Start-ups",
+    "Microsoft Excel",
+    "Matlab",
+    "PowerPoint",
+    "Microsoft PowerPoint",
+    "Java",
+    "Microsoft Office",
+    "Jira",
+    "Python (Programming Language)",
+    "Leadership",
+    "Digital Transformation",
+    "Pricing Optimization",
+    "Git",
+    "Scrum"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": null
+}

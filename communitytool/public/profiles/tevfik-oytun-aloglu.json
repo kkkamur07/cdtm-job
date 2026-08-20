@@ -1,0 +1,215 @@
+{
+  "id": "tevfik-oytun-aloglu",
+  "name": "Tevfik Aloglu",
+  "headline": "Applied AI @OpenAI | ex: Founder (CPTO),  BCG DV",
+  "avatar": {
+    "sm": "/avatars/tevfik-oytun-aloglu-sm.webp",
+    "lg": "/avatars/tevfik-oytun-aloglu.webp",
+    "blur": "data:image/webp;base64,UklGRlwBAABXRUJQVlA4IFABAADQBgCdASogACAAPtFOo0uoI6Mht/VYAQAaCWwAnTMiOGb1M0sTQBfb7aL7CuxDw6u8z2SC6t9TZuYmkYNCIIAA/q9rMs3WrYfaxtquihl9/dlRvyQIW/lwI1VUwYuTIEsYn4cmimozTdD+35zoXX1Fo2ho8WvHPw+k1Ku6Fa8tu9AQ/BDOmO4+4h4c3wP37uEOKJQKspi3qb1a9RAEniGza+Hqs+yZwunUYxq0UYLRtIG9rcKkQsX2F3j8/+vb8iP8c4oOQX32BhVvdMmwN24jPcJc4pQcUGctaUhroGZ1xXCdzLwdLvsCVnH6RA7bSiu/+1uVRgYVueONl8XDip+wBRSPlKWe3bp8C4fzEpq1EBHdrSOuEysevfwZtxdkQKPqFCyv80BI+B+0fOosKS2M7XTZ+SOJsU5h6yjj9TBosBRgvXfdmeij/NucfME7oAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/tevfik-oytun-aloglu",
+  "personId": 1174,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Tevfik Aloglu",
+  "ca": null,
+  "summary": "I am a product lead, who has different hats including deep-tech and go-to-market \n\nDuring the last decade, I have built or scaled over 20 companies during my time at pyne (my venture), BCG Digital Ventures (zero to one), Project A Ventures (seed to series A), and Rocket Internet (Internationalization).",
+  "positions": [
+    {
+      "title": "Applied AI @ Startups",
+      "company": "OpenAI",
+      "companyUrl": "https://www.linkedin.com/company/openai",
+      "description": null,
+      "location": null,
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "AI & Product Advisory",
+      "company": null,
+      "companyUrl": null,
+      "description": "- Led AI initiatives at Forto Logistics, developing LLM Agents for logistics.\n- Creating the top language teacher GPT (Ms. Smith) in the OpenAI Store (#2 in the Education category).\n- Advising companies on AI strategy, planning, and product development.\n- Writing about AI trends and innovations on tevfik.xyz.",
+      "location": null,
+      "start": "2024-04",
+      "end": null,
+      "dateRange": "Apr 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Product & AI Lead",
+      "company": "Zauber",
+      "companyUrl": "https://www.linkedin.com/company/zauber-technology",
+      "description": null,
+      "location": null,
+      "start": "2025-03",
+      "end": "2026-02",
+      "dateRange": "Mar 2025 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "pyne",
+      "companyUrl": "https://www.linkedin.com/company/pyneai",
+      "description": "Responsible for Product and Tech\n\n- Focus on Revenue Operations to maximize the revenue of the B2B companies using GenAI and traditional ML methods\n- Managed 8 people product/tech team\n- Raised €2.6 million pre-seed round led by Lightspeed, SquareOne, and others",
+      "location": null,
+      "start": "2022-05",
+      "end": "2024-04",
+      "dateRange": "May 2022 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "BCG Digital Ventures",
+      "companyUrl": "https://www.linkedin.com/company/bcg-digital-ventures",
+      "description": "Built greenfield (mostly B2B) ventures in various domains using deep technologies including AI/ML, IIoT, Web3",
+      "location": null,
+      "start": "2020-05",
+      "end": "2022-05",
+      "dateRange": "May 2020 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Senior Data Scientist / Engineer",
+      "company": "BCG Digital Ventures",
+      "companyUrl": "https://www.linkedin.com/company/bcg-digital-ventures",
+      "description": null,
+      "location": null,
+      "start": "2018-04",
+      "end": "2020-05",
+      "dateRange": "Apr 2018 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Senior Data Architect",
+      "company": "Project A",
+      "companyUrl": "https://www.linkedin.com/company/project-a-vc",
+      "description": "Built data solutions for Project A Venture portfolio companies to scale their marketing, sales, and operations sustainably (Seed to Series C including Kry, Catawiki, Homeday)",
+      "location": null,
+      "start": "2016-05",
+      "end": "2018-04",
+      "dateRange": "May 2016 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Growth Management",
+      "company": "Rocket Internet SE",
+      "companyUrl": "https://www.linkedin.com/company/rocket-internet-se",
+      "description": "Supported Rocket portfolio companies to grow and scale internationally, focusing specifically on data-driven marketing strategies to optimise portfolio customer acquisition costs",
+      "location": null,
+      "start": "2015-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Software Engineering Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Hands-on work on the energy and power optimisation for electric and non-electric BMW vehicles",
+      "location": null,
+      "start": "2013-04",
+      "end": "2013-09",
+      "dateRange": "Apr 2013 – Sep 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Visiting Scholar, Human Computer Interaction",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Computer Science",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Computer Science",
+      "dateRange": "2010 – 2013"
+    },
+    {
+      "school": "Istanbul Technical University",
+      "degree": "Bachelor's degree, Computer Engineering",
+      "dateRange": "2008 – 2010"
+    }
+  ],
+  "skills": [
+    "PostgreSQL",
+    "CSS",
+    "HTML",
+    "JavaScript",
+    "SQL",
+    "Java",
+    "C",
+    "C++",
+    "Business Intelligence",
+    "Data Science",
+    "Machine Learning",
+    "Data Visualization",
+    "Software Development",
+    "Entrepreneurship",
+    "Project Management",
+    "Product Management",
+    "Data Analysis",
+    "C#",
+    "Product Development",
+    "OOP",
+    "Android",
+    "Big Data",
+    "Python",
+    "Computer Science",
+    "Matlab",
+    "Software Engineering",
+    "Product Strategy",
+    "Product Vision",
+    "Amazon Redshift",
+    "BigQuery"
+  ],
+  "languages": [
+    "German",
+    "Turkish",
+    "English"
+  ],
+  "company": {
+    "name": "OpenAI",
+    "tagline": "Creating safe AGI that benefits all of humanity.",
+    "description": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. AI is an extremely powerful tool that must be created with safety and human needs at its core. OpenAI is dedicated to putting that alignment of interests first — ahead of profit.\n\nTo achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. Our investment in diversity, equity, and inclusion is ongoing, executed through a wide range of initiatives, and championed and supported by leadership.\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+    "industry": "Research Services",
+    "website": "https://openai.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/openai",
+    "employeeCount": 8411,
+    "foundedYear": 2015,
+    "location": "San Francisco, United States",
+    "specialities": [
+      "artificial intelligence",
+      "machine learning"
+    ]
+  }
+}

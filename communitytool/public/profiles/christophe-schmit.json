@@ -1,0 +1,140 @@
+{
+  "id": "christophe-schmit",
+  "name": "Christophe Schmit",
+  "headline": "building clones",
+  "avatar": {
+    "sm": "/avatars/christophe-schmit-sm.webp",
+    "lg": "/avatars/christophe-schmit.webp",
+    "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAABQBQCdASogACAAPtFapU0oJSOiMBgIAQAaCWMAA+TOZhXDXY7Q+Wkuai8U3sAX8LU5olAA/vunXfa72vy7f+7csTVPXg2HNnJrml4iw7KfBDH/p6u4kg5rssaP8/e+PW7hNIMGAuyDXpVUObeSuM+ZZlds4agNiatELjUaEb8UT+Htq4DkuOCAmpjzd68UUh6IIxpjAjkjgkb3Q4rqxTWaDEd92luDXP4VFNUymg3QsCsO8neIHT5L5vhb/AAGYLUAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christophe-schmit",
+  "personId": 1294,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christophe Schmit",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Stealth",
+      "companyUrl": "https://www.linkedin.com/company/steath",
+      "description": "building clones",
+      "location": null,
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Enam Co.",
+      "companyUrl": "https://www.linkedin.com/company/enamco",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2024-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Team Lead AI Summit 2023",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-03",
+      "end": "2023-10",
+      "dateRange": "Mar 2023 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Built a digital twin of the US electricity grid at the Data-to-AI Lab with Prof. Veeramachaneni",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Robotics, Cognition & Intelligence",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Engineering sciences (210 ECTS)",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "École de technologie supérieure",
+      "degree": "Bachelor's degree, Robotics Technology/Technician",
+      "dateRange": "2019"
+    }
+  ],
+  "skills": [
+    "3D Printing",
+    "Artificial Intelligence (AI)",
+    "Robotics",
+    "Systems Engineering",
+    "Analytical Skills",
+    "Project Management",
+    "Mathematics",
+    "Entrepreneurship",
+    "3D Modeling",
+    "Working Abroad",
+    "Debate",
+    "Coaching & Mentoring"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Luxembourgish"
+  ],
+  "company": {
+    "name": "Stealth",
+    "tagline": "Stealth-ing!",
+    "description": "TimelyAI is building a Marketing Saas for Time-based Businesses. \n\n“The idea is to solve the most burning need of our customers- Growing their clientele at an affordable price and being able to build lasting relationships with them for repeat business and referrals.”\n\n\"Coming soon with something extremely 'crazy'!\"",
+    "industry": "Software Development",
+    "website": "https://www.timelyai.com",
+    "linkedInUrl": "https://www.linkedin.com/company/steath",
+    "employeeCount": 4605,
+    "foundedYear": 2021,
+    "location": "Phoenix, United States",
+    "specialities": []
+  }
+}

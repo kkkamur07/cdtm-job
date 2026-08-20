@@ -1,0 +1,203 @@
+{
+  "id": "ziling-ruby-zhang-b81386155",
+  "name": "Ziling (Ruby) Zhang",
+  "headline": "BCG | CDTM | LMU",
+  "avatar": {
+    "sm": "/avatars/ziling-ruby-zhang-b81386155-sm.webp",
+    "lg": "/avatars/ziling-ruby-zhang-b81386155.webp",
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAACwBQCdASogACAAPsFKoEunpCMht/qoAPAYCUAYmzGHpVbVGaHu/6MlGwnCVAJ1Edesjh/3OPgA/vspM8lBg7/C1uVcGFb1ctnqwo/5Zl2MNCb+v5v1kCjzn6iMpdwzQ/Pf01XiLYDSXXLIvGtK4ii85GNoY8invQ2zfFOboGvX05FR5bYkSLDfJWz9cDjJrj+U4prgYHmAkY+uLoHK8DjCKB1+lvIEyPbZ6bJPtr9pBDWPWEprMRjBNuClc8nQ5VAVnnzWuxaOCUfhuIekHSy645Icx5DLhQAn3sP9w4NkM4BftXTUUgAA"
+  },
+  "location": "Dubai, United Arab Emirates",
+  "linkedInUrl": "https://www.linkedin.com/in/ziling-ruby-zhang-b81386155",
+  "personId": 925,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Statistics and Data Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Ziling (Ruby) Zhang",
+  "ca": null,
+  "summary": "Work at Boston Consulting Group (BCG)",
+  "positions": [
+    {
+      "title": "Senior Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": null,
+      "start": "2024-05",
+      "end": null,
+      "dateRange": "May 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Growth",
+      "company": "HV Capital",
+      "companyUrl": "https://www.linkedin.com/company/hvcapital",
+      "description": null,
+      "location": null,
+      "start": "2023-09",
+      "end": "2023-11",
+      "dateRange": "Sep 2023 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Visiting Consultant",
+      "company": "DHL Consulting",
+      "companyUrl": "https://www.linkedin.com/company/dhlconsulting",
+      "description": null,
+      "location": null,
+      "start": "2023-07",
+      "end": "2023-08",
+      "dateRange": "Jul 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Trainee",
+      "company": "Statistical Office of Poland",
+      "companyUrl": null,
+      "description": "Poland",
+      "location": null,
+      "start": "2023-02",
+      "end": "2023-04",
+      "dateRange": "Feb 2023 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Assistant",
+      "company": "Oliver Wyman",
+      "companyUrl": "https://www.linkedin.com/company/oliver-wyman",
+      "description": null,
+      "location": null,
+      "start": "2022-08",
+      "end": "2022-11",
+      "dateRange": "Aug 2022 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Data Analyst Intern - User Acquisition",
+      "company": "FINN",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": null,
+      "location": null,
+      "start": "2022-03",
+      "end": "2022-07",
+      "dateRange": "Mar 2022 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant",
+      "company": "PwC",
+      "companyUrl": "https://www.linkedin.com/company/pwc",
+      "description": null,
+      "location": null,
+      "start": "2021-07",
+      "end": "2021-10",
+      "dateRange": "Jul 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Digital Product Engineer",
+      "company": "Mindray",
+      "companyUrl": "https://www.linkedin.com/company/mindray",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-06",
+      "dateRange": "Jan 2021 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Data Analyst",
+      "company": "EY",
+      "companyUrl": "https://www.linkedin.com/company/ernstandyoung",
+      "description": null,
+      "location": null,
+      "start": "2019-05",
+      "end": "2019-08",
+      "dateRange": "May 2019 – Aug 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master's degree, Statistics and data science",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Penn State University",
+      "degree": "Bachelor’s Degree, Computing Statistics",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "The Affiliated High School of South China Normal University",
+      "degree": null,
+      "dateRange": "2013 – 2016"
+    }
+  ],
+  "skills": [
+    "MySQL",
+    "SQL",
+    "Java",
+    "C++",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "German",
+    "Python",
+    "R"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Boston Consulting Group (BCG)",
+    "tagline": null,
+    "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.\n \nOur diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. \n\nWe work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.\n\nBCG Privacy Policy: https://www.bcg.com/about/privacy-policy.aspx",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bcg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/boston-consulting-group",
+    "employeeCount": 41217,
+    "foundedYear": 1963,
+    "location": "Boston, United States",
+    "specialities": [
+      "Consumer insight",
+      "corporate development",
+      "corporate finance",
+      "digital economy",
+      "globalization",
+      "growth",
+      "information technology",
+      "innovation",
+      "marketing & sales",
+      "operations",
+      "people & organization",
+      "postmerger integration",
+      "risk management",
+      "strategy",
+      "sustainability",
+      "transformation",
+      "climate",
+      "artificial intelligence",
+      "cost transformation",
+      "supply chains"
+    ]
+  }
+}

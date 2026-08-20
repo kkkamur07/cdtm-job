@@ -1,0 +1,127 @@
+{
+  "id": "davidhahnmunich",
+  "name": "David Hahn",
+  "headline": "CEO at remberg | We Simplify Maintenance | Forbes 30 under 30",
+  "avatar": {
+    "sm": "/avatars/davidhahnmunich-sm.webp",
+    "lg": "/avatars/davidhahnmunich.webp",
+    "blur": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAACQBQCdASogACAAPr1Sn0unJSKht/qoAOAXiWoAnQBXPOPfycOST3bd9Q9FJMgjbSewQOMiAAD9Q86KreQO4/yOjqWgxZtgJ5esK6I5sOepUbzzBh3IfE5JM7oZ5zbmSnVvap57i2uvhiTQ4Gj4yZH7CjrKLnS7GosQQld49cHzEs8FcAbDUi4we3ZWEBw53lIEZPcyT3wx1pTQ77PDjCu+/RGqOvrzcuBDzm+Bi9z8HbLJEYKYn+nKh7Z8F+FzehMBiBnHtXedhKdab/uara5EGodA4RlDv8TSCJmQQw7Yr7ikxaWqn2HhlYkAhkzGzCeSh6H4IOQAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/davidhahnmunich",
+  "personId": 822,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "David Hahn",
+  "ca": null,
+  "summary": "The modern maintenance software by remberg helps companies to keep the world running.\n\nwww.remberg.com",
+  "positions": [
+    {
+      "title": "CEO & Co-Founder",
+      "company": "remberg",
+      "companyUrl": "https://www.linkedin.com/company/remberg",
+      "description": "The modern maintenance software by remberg helps companies to keep the world running.\n\nwww.remberg.com",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-08",
+      "end": null,
+      "dateRange": "Aug 2018 – Present",
+      "current": true
+    }
+  ],
+  "schools": [
+    {
+      "school": "Columbia Business School",
+      "degree": "Visiting Scholar (MBA)",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Management & Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Management & Technology",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Teamwork",
+    "Start-ups",
+    "Entrepreneurship",
+    "Digital Transformation",
+    "Lean Start-Up",
+    "Team Leadership",
+    "Strategy & Leadership",
+    "Business Development",
+    "Data Analytics",
+    "Digital Native",
+    "ISO 9001:2015",
+    "Digital Quality Management",
+    "Lean Tools",
+    "Business Planning",
+    "Sales Management",
+    "Operations Management",
+    "Network Optimization",
+    "Business Networking",
+    "Machine Learning",
+    "Predictive Analytics",
+    "Artificial Neural Networks",
+    "AI",
+    "Enterprise Software",
+    "Enterprise Technology",
+    "SaaS",
+    "Unternehmertum",
+    "Teamführung",
+    "Unternehmensplanung",
+    "English"
+  ],
+  "languages": [],
+  "company": {
+    "name": "remberg",
+    "tagline": "The Modern Maintenance Software",
+    "description": "remberg is the modern maintenance software that simplifies how industrial companies manage maintenance.\n\nWith remberg, maintenance teams plan and document preventive maintenance, handle breakdowns and manage technical documentation in one central system. Assets, work orders and knowledge are always available – structured, mobile and easy to use.\n\nremberg enables clear processes, better collaboration and full transparency across maintenance operations, so teams can avoid working in constant firefighting mode. This helps to reduce unplanned downtime and maintenance costs, while keeping you audit-ready.\n\nWe simplify maintenance so that companies can keep the world running.",
+    "industry": "Software Development",
+    "website": "https://remberg.com/de/",
+    "linkedInUrl": "https://www.linkedin.com/company/remberg",
+    "employeeCount": 84,
+    "foundedYear": 2018,
+    "location": "Munich, Germany",
+    "specialities": [
+      "remberg",
+      "Enterprise Software",
+      "Machine Manufacturing",
+      "SaaS",
+      "IndustrialTech",
+      "Customer Service",
+      "Field Service",
+      "Maintenance",
+      "GenAI",
+      "AI Copilot",
+      "Industrial Copilot",
+      "Copilot for Machines"
+    ]
+  }
+}

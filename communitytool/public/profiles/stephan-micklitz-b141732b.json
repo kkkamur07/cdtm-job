@@ -1,0 +1,180 @@
+{
+  "id": "stephan-micklitz-b141732b",
+  "name": "Stephan Micklitz",
+  "headline": "Chief Technology Officer at Personio, Advisor, Angel Investor",
+  "avatar": null,
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/stephan-micklitz-b141732b",
+  "personId": 1720,
+  "classes": [
+    {
+      "id": 100,
+      "label": "Fall 2000",
+      "season": "Fall",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2000",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Stephan Micklitz",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Chief Technology Officer",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": null,
+      "location": null,
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Advisor & Angel Investor",
+      "company": "revel8",
+      "companyUrl": "https://www.linkedin.com/company/company-shield",
+      "description": null,
+      "location": null,
+      "start": "2024-12",
+      "end": null,
+      "dateRange": "Dec 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Vice President of Engineering",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": null,
+      "location": null,
+      "start": "2024-07",
+      "end": "2025-10",
+      "dateRange": "Jul 2024 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Senior Vice President Of Engineering",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": null,
+      "start": "2021-11",
+      "end": "2024-06",
+      "dateRange": "Nov 2021 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Senior Director Of Engineering",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": "2015-05",
+      "end": "2021-09",
+      "dateRange": "May 2015 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineering Manager",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": "2007-12",
+      "end": "2015-05",
+      "dateRange": "Dec 2007 – May 2015",
+      "current": false
+    },
+    {
+      "title": "Senior Software Architect",
+      "company": "jambit",
+      "companyUrl": "https://www.linkedin.com/company/jambit-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2006-01",
+      "end": "2007-11",
+      "dateRange": "Jan 2006 – Nov 2007",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "sd&m AG",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2003-01",
+      "end": "2006-12",
+      "dateRange": "Jan 2003 – Dec 2006",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl.-Inf., Computer Science",
+      "dateRange": "1998 – 2003"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2000 – 2002"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Java",
+    "C++",
+    "Software Design",
+    "Software Development",
+    "Scalability",
+    "Distributed Systems",
+    "Python",
+    "Computer Science",
+    "Algorithms",
+    "Software Engineering",
+    "Object Oriented Design",
+    "MapReduce"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "company": {
+    "name": "Personio",
+    "tagline": "Unlocking the power of people",
+    "description": "Founded in 2015 and built in Europe, Personio is the Intelligent HR Platform championing every side of HR's evolution.\n\nAs work becomes more complex and HR's role more strategic, most technology still treats HR as one-dimensional. We see it differently. Trusted by over 16,000 customers managing more than 1 million employees globally, Personio is built for everything HR has become. We support organisations of all sizes and industries, but specialise in global companies with between 200 and 5000 employees. \n\nWe connect Core HR, Talent, and Payroll in one intelligent platform. Our platform eliminates manual work through automation, adapts to multi-entity complexity with flexible workflows, and transforms people data into strategic insights with AI.\n\nPersonio is built with deep European expertise, and we're the only HR platform with native payroll in Germany—Europe's most complex market. Plus we offer comprehensive apps to manage the entire employee lifecycle including recruiting, performance, compensation, and feedback. \n\nFrom implementation to everyday support, Personio is your partner from day one. We focus on the real challenges of HR and build with purposeful AI that amplifies the power of HR teams. \n\nWe help organisations around the world unlock the power of their people.",
+    "industry": "Software Development",
+    "website": "https://www.personio.com",
+    "linkedInUrl": "https://www.linkedin.com/company/personio",
+    "employeeCount": 1739,
+    "foundedYear": 2015,
+    "location": "Munich, Germany",
+    "specialities": [
+      "HR Software",
+      "HR Management",
+      "Recruitung",
+      "Employee Management",
+      "Applicant Tracking System",
+      "Employee Selfservice",
+      "Time-Off Management",
+      "Cloud Software",
+      "Onboarding and Offboarding",
+      "HR Reporting",
+      "Performance Management",
+      "Payroll",
+      "HR",
+      "HR Tech",
+      "Human Resources"
+    ]
+  }
+}

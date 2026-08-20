@@ -1,0 +1,94 @@
+{
+  "id": "truebswetter",
+  "name": "Christian Trübswetter",
+  "headline": "SkyKitchen",
+  "avatar": null,
+  "location": "Peru",
+  "linkedInUrl": "https://www.linkedin.com/in/truebswetter",
+  "personId": 1617,
+  "classes": [
+    {
+      "id": 52,
+      "label": "Fall 2002",
+      "season": "Fall",
+      "year": 2002,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2002",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christian Trübswetter",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "SkyKitchen Colombia",
+      "companyUrl": null,
+      "description": null,
+      "location": "Cartagena, Bolívar, Colombia",
+      "start": "2018-08",
+      "end": null,
+      "dateRange": "Aug 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "SkyKitchen",
+      "companyUrl": null,
+      "description": null,
+      "location": "Miraflores, Lima, Peru",
+      "start": "2011-04",
+      "end": null,
+      "dateRange": "Apr 2011 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Developer",
+      "company": "GABO mbH & Co. KG",
+      "companyUrl": "https://www.linkedin.com/company/gabo-mbh-&-co-kg",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2006-03",
+      "end": "2011-12",
+      "dateRange": "Mar 2006 – Dec 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Informatics",
+      "dateRange": "2003 – 2005"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Diploma in Technology Management, Digital Technology and Management",
+      "dateRange": "2002 – 2004"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Informatics",
+      "dateRange": "2000 – 2003"
+    },
+    {
+      "school": "Università di Pisa",
+      "degree": "Informatics",
+      "dateRange": "2001 – 2002"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": null
+}

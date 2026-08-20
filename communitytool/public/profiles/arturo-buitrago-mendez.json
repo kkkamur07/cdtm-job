@@ -1,0 +1,166 @@
+{
+  "id": "arturo-buitrago-mendez",
+  "name": "Arturo Buitrago Méndez",
+  "headline": "Co-Founder @ KNOWRON",
+  "avatar": {
+    "sm": "/avatars/arturo-buitrago-mendez-sm.webp",
+    "lg": "/avatars/arturo-buitrago-mendez.webp",
+    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPr1SnkunJSKht/qoAOAXiWQAyATIQ7Y0r77vGuml4QGPa7VlbJfCzlsRzOBAAP7+MCM1GxAHHiQuTnCJe951w/W/KaWPuhCKSy7aqyHcdU5+CBaKeRMaJx2z3ApUWF7UE3pakMTdl72dFBHzakG+Y21Sa1RWjO79NOvWcsZCxfPxhHXiFM+U1OOxgQbD+DxXuzYBs83nssjG1fqbrectoWQaZT3qKYDAgYjOdk5aCb+9PWI83E+/kUoudJ02ZMq7K4CX00zpr2MmhLb/NeICQzXlLTBrAsQYAJxBim5gAAA="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/arturo-buitrago-mendez",
+  "personId": 757,
+  "classes": [
+    {
+      "id": 82,
+      "label": "Fall 2017",
+      "season": "Fall",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2017",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Arturo Buitrago Méndez",
+  "ca": null,
+  "summary": "Multifaceted graduate of Electrical Engineering at Technical University of Munich. Born and raised in Costa Rica, stood out in the German School of San José due to my skills in math and languages, I was awarded a generous scholarship for outstanding graduates of German Schools by the DAAD (Deutscher Akademischer Austauschdienst) upon completion of my Abitur.\n\nI have been studying in Munich since 2013 and have continued to maintain a high level in my field of studies, focusing on digital technologies, software development and AI. I have also acted in the capacity of a tutor to younger students for two different courses and enjoy transmitting my knowledge to others. \n\nMy fluency in three languages, as well as natural tendency to look for diplomatic solutions to conflicts have put me in natural leadership positions before, both inside and outside university. I'm also interested in management as a way to harness these energies as well as put my people skills to work in productive ways.\n\nI have recently concluded my Master's Degree in Electrical Engineering and Information Technology at the Technical University of Munich (TUM), as well as an Honors Degree in Technology Management at the Center for Digital Technology and Management (CDTM).",
+  "positions": [
+    {
+      "title": "Co-Founder & CPO",
+      "company": "KNOWRON GmbH",
+      "companyUrl": "https://www.linkedin.com/company/knowron",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-11",
+      "end": null,
+      "dateRange": "Nov 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Student Researcher in the Field of Machine Learning",
+      "company": "Payworks",
+      "companyUrl": "https://www.linkedin.com/company/payworks-gmbh",
+      "description": "I applied machine learning algorithms for time-series prediction of card transactions in small to medium-sized businesses. My work included incorporation of state-of-the-art benchmarks and was based on open source libraries. Code and resulting thesis are available upon request.",
+      "location": null,
+      "start": "2019-05",
+      "end": "2019-11",
+      "dateRange": "May 2019 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Unity / C# Developer",
+      "company": "VISCOPIC GmbH",
+      "companyUrl": "https://www.linkedin.com/company/viscopic",
+      "description": "I developed augmented reality applications for large clients in the pharmaceutical and transportation industries using the Microsoft Hololens. I had direct liaison with the clients' stakeholders and decision makers and had full ownership of the development projects.",
+      "location": "Munich Area, Germany",
+      "start": "2018-04",
+      "end": "2019-04",
+      "dateRange": "Apr 2018 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Research Assistant (HiWi)",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Continuing work from my thesis, worked on simulations of LTE-A network traffic. Most models and simulation were implemented on my own from standard specifications.\nCoding work done on Python.",
+      "location": "Munich",
+      "start": "2016-09",
+      "end": "2017-04",
+      "dateRange": "Sep 2016 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Mentor for Stochastic Signals",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Weekly Mentorship of younger students, included going over the lecture's topics and presenting examples and exercises in preparation for exam.\nMaterial focuses around the mathematical description of signals with stochastic models for work in signal processing.",
+      "location": "Munich Area, Germany",
+      "start": "2015-09",
+      "end": "2016-02",
+      "dateRange": "Sep 2015 – Feb 2016",
+      "current": false
+    },
+    {
+      "title": "Tutor for Digital Circuits",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Weekly Tutorship of younger students, included going over the lecture's topics and presenting examples and exercises.\nMaterial focuses around the design and analysis of basic digital circuits and MOSFETs.",
+      "location": "Munich Area, Germany",
+      "start": "2014-09",
+      "end": "2015-02",
+      "dateRange": "Sep 2014 – Feb 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M. Sc.), Electrical Engineering and Information Technology",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, GPA: 1.1, Technology Management",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Electrical Engineering and Information Technology",
+      "dateRange": "2013 – 2016"
+    }
+  ],
+  "skills": [
+    "Diplomacy",
+    "Electronics",
+    "Leadership",
+    "Polyglot",
+    "Python",
+    "Software Defined Networking",
+    "Communications Technology",
+    "C#",
+    "Java",
+    "Unity3D",
+    "Microsoft HoloLens",
+    "Natural Language Processing (NLP)",
+    "Javascript",
+    "React",
+    "Machine Learning",
+    "Artificial Intelligence (AI)",
+    "Public Speaking",
+    "Project Management",
+    "Research",
+    "Entrepreneurship"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "KNOWRON",
+    "tagline": "Empowering industrial workers with an AI-based digital assistant.",
+    "description": "🧠 What if every technician had the knowledge of the entire company right in their pocket?\nWith KNOWRON, that vision becomes reality.\nKNOWRON is an AI-powered assistant for smartphones and desktops – purpose-built for service technicians, industrial workers, and other deskless professionals.\nOur solution delivers your organization’s knowledge exactly where it’s needed: on site – fast, intuitive, and voice-driven.\n\nKey Features:\n🔍 Natural Language Search\nFind answers in seconds – through AI-powered search across manuals, protocols, and internal documents.\n\n📚 Closing Knowledge Gaps\nKNOWRON identifies frequently asked questions and automatically generates tailored, company-specific knowledge articles.\n\n🛠️ Smart Instructions & Training\nCreate step-by-step instructions and interactive training modules – for seamless onboarding and continuous learning.\n\n📝 Automated Documentation\nGenerate standardized, audit-ready service reports via voice input – fast, accurate, and effortless.",
+    "industry": "Software Development",
+    "website": "https://www.knowron.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/knowron",
+    "employeeCount": 10,
+    "foundedYear": 2020,
+    "location": "München, Germany",
+    "specialities": [
+      "AI",
+      "AI Assistant",
+      "Enterprise software",
+      "European AI",
+      "Knowledge management",
+      "Retain internal knowledge",
+      "Automize documentation"
+    ]
+  }
+}

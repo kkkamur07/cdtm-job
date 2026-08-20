@@ -1,0 +1,97 @@
+{
+  "id": "eva-bittner-31340613b",
+  "name": "Eva Bittner",
+  "headline": "Full Professor of Information Systems at University of Zurich",
+  "avatar": null,
+  "location": "Zürich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/eva-bittner-31340613b",
+  "personId": 1862,
+  "classes": [
+    {
+      "id": 63,
+      "label": "Spring 2008",
+      "season": "Spring",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2008",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Eva Bittner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Full Professor",
+      "company": "Universität Zürich | University of Zurich",
+      "companyUrl": "https://www.linkedin.com/company/uzh",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Professorin für Wirtschaftsinformatik, insb. sozio-technische Systemgestaltung",
+      "company": "Universität Hamburg",
+      "companyUrl": "https://www.linkedin.com/company/unihamburg",
+      "description": null,
+      "location": "Hamburg, Germany",
+      "start": "2021-10",
+      "end": "2026-02",
+      "dateRange": "Oct 2021 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Juniorprofessorin",
+      "company": "Universität Hamburg",
+      "companyUrl": "https://www.linkedin.com/company/unihamburg",
+      "description": null,
+      "location": "Hamburg, Germany",
+      "start": "2015-10",
+      "end": "2021-09",
+      "dateRange": "Oct 2015 – Sep 2021",
+      "current": false
+    }
+  ],
+  "schools": [],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "University of Zurich",
+    "tagline": "Connecting disciplines and people. For science and education that matters.",
+    "description": "The University of Zurich (UZH) with its 28,000 enrolled students is Switzerland’s largest university. Founded in the year 1833, UZH was Europe’s first university to be established by a democratic political system; today, UZH is one of the foremost universities in the German-speaking world. \n\nMade up of seven faculties covering some 100 different subject areas, the University offers a wide variety of Bachelor’s, Master’s and PhD programs. In addition, UZH’s continuing education programs offer excellent learning opportunities.\n\nExceptional\nAs a member of the “League of European Research Universities” (LERU), the University of Zurich belongs to Europe’s most prestigious research institutions. Numerous distinctions highlight the University’s international renown in the fields of clinical medicine, immunology, neuroscience and structural biology as well as in economics. To date, the Nobel Prize has been conferred on twelve UZH scholars.\n\nAttractive employer\nThe University of Zurich offers a range of roles in this inspiring environment of cutting-edge research and top-class education. In addition to teaching and research staff, more than one-third of our 10,000-strong workforce is employed in technical and administrative professions. We currently have 100 apprenticeship positions in 13 different professions. \n\nSharing knowledge\nThe academic excellence of the University of Zurich brings benefits to both the public and the private sectors not only in the Canton of Zurich, but throughout Switzerland. Knowledge is shared in a variety of ways: in addition to granting the general public access to its twelve museums and many of its libraries, the University makes findings from cutting-edge research available to the public in accessible and engaging lecture series and panels. \n\nAdditional information: \nData protection statement: https://www.uzh.ch/en/privacy.html\nAbout this site: https://www.uzh.ch/en/impressum.html",
+    "industry": "Higher Education",
+    "website": "https://www.uzh.ch",
+    "linkedInUrl": "https://www.linkedin.com/company/uzh",
+    "employeeCount": 9702,
+    "foundedYear": null,
+    "location": "Zurich, Switzerland",
+    "specialities": [
+      "education",
+      "research",
+      "university",
+      "bachelor",
+      "master",
+      "phd",
+      "postdocs",
+      "science",
+      "economics",
+      "medicine",
+      "life sciences",
+      "social sciences",
+      "law",
+      "veterinary science",
+      "theology"
+    ]
+  }
+}

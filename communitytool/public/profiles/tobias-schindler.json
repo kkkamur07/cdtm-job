@@ -1,0 +1,118 @@
+{
+  "id": "tobias-schindler",
+  "name": "Tobias Schindler",
+  "headline": "Engineering @ Listen | ML @ CMU | CDTM | IOI & ICPC",
+  "avatar": {
+    "sm": "/avatars/tobias-schindler-sm.webp",
+    "lg": "/avatars/tobias-schindler.webp",
+    "blur": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAABQBQCdASogACAAPrVKnEunJKKht+gA4BaJZgC7AHtc28XRCjWiTtQG6p/nOCUl9Ax+U2AA/vYNHs2ewn7A8StfuGSHprbAddxxRJrpStNWEPPW7deVetBLOVaNtMLT2CzDSxivhVfD16XQcm5cvjf9uuZkai0ZOr3zIfp662RteUO6RaPbnx/W0XU2MSSWkP+LCQWo5vlaZJNkS/CUS9Tkd7E6ZN4ZPZpH0MdemHUlmAAA"
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/tobias-schindler",
+  "personId": 1000,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Tobias Schindler",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founding Engineer",
+      "company": "Listen Labs",
+      "companyUrl": "https://www.linkedin.com/company/listenlabss",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Autopilot Intern",
+      "company": "Tesla",
+      "companyUrl": "https://www.linkedin.com/company/tesla-motors",
+      "description": null,
+      "location": null,
+      "start": "2023-05",
+      "end": "2023-08",
+      "dateRange": "May 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Intern Software Engineering",
+      "company": "Jane Street",
+      "companyUrl": "https://www.linkedin.com/company/jane-street-global",
+      "description": null,
+      "location": null,
+      "start": "2021-06",
+      "end": "2021-09",
+      "dateRange": "Jun 2021 – Sep 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Master of Science - MS, Machine Learning",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Computer Science",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Donau-Gymnasium Kelheim",
+      "degree": "Abitur",
+      "dateRange": "2018"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Haskell",
+    "C++",
+    "Linux",
+    "Machine Learning",
+    "Git",
+    "Python",
+    "Data Structures",
+    "Deep Reinforcement Learning",
+    "Competitive Programming",
+    "Algorithmen"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Listen Labs",
+    "tagline": "Listen is an autonomous researcher that talks to thousands of people, revealing exactly what they want and why.",
+    "description": "Listen is an autonomous market researcher that makes research simple and fast. Share your business question, and our AI handles everything - designing the studies, finding the right participants, moderating interviews, and analyzing responses. Whether you're testing products or exploring new markets, Listen is a skilled researcher that works 24/7, delivering insights in hours instead of weeks. Listen is trusted by Google, Microsoft, SKIMS, Nestlé and hundreds of enterprises to unlock customer understanding at scale.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://listenlabs.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/listenlabss",
+    "employeeCount": 78,
+    "foundedYear": 2023,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

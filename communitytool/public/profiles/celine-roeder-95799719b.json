@@ -1,0 +1,232 @@
+{
+  "id": "celine-roeder-95799719b",
+  "name": "Celine Roeder",
+  "headline": "MD Candidate @Charité/QMUL | CDTM | Medicine @TUM/Charité",
+  "avatar": {
+    "sm": "/avatars/celine-roeder-95799719b-sm.webp",
+    "lg": "/avatars/celine-roeder-95799719b.webp",
+    "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBQCdASogACAAPslUnkunpKKhsAwA8BkJYgC7M3a7KdAfv3+JJ0ByQ4LK41FXjW1cm/wkLKgA/v35c9hb8zfLtMMUd2YvP/wMVbeyX7PofZAHcvbnC1A7tm9mOjrsQcvNgc6WFiBMvZA5TdvXc0vVvQUcf8OGH8/XGvmi7akinHZf66iQ8FKYu+tb3RDM5syBPsM3MwnETLcUmStw7v9EppYqdtTu+zkjaF3Sj3KsjRehkAA="
+  },
+  "location": "London, United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/celine-roeder-95799719b",
+  "personId": 1022,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "Medicine (TUM)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Celine Röder",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Honorary Research Fellow",
+      "company": "Queen Mary University of London",
+      "companyUrl": "https://www.linkedin.com/company/queen-mary-university-of-london",
+      "description": null,
+      "location": null,
+      "start": "2025-11",
+      "end": null,
+      "dateRange": "Nov 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Doctoral Candidate & Scientist",
+      "company": "Charité - Universitätsmedizin Berlin",
+      "companyUrl": "https://www.linkedin.com/company/charite",
+      "description": "Doctoral Thesis at the Computational Medicine Group at Charité and the Precision Healthcare Research Institute (PHURI) at Queen Mary University London\n\nThesis Title: Identifying shared genetic mechanisms across neurodegenerative diseases using proteogenomic approaches\n\nFirst Supervisor: Prof. Dr. Claudia Langenberg",
+      "location": null,
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Helmholtz Munich",
+      "companyUrl": "https://www.linkedin.com/company/helmholtzmunich",
+      "description": "Focusing on CAR-T cell dual-target identification for acute myeloid leukaemia (AML)\n\nConjoint work at the Institute of AI for Health at Helmholtz and the Division of Clinical Pharmacology at LMU Munich",
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-11",
+      "end": "2024-03",
+      "dateRange": "Nov 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Product and Operations",
+      "company": "Stealth Startup",
+      "companyUrl": "https://www.linkedin.com/company/stealth-startup-community",
+      "description": null,
+      "location": null,
+      "start": "2023-09",
+      "end": "2024-08",
+      "dateRange": "Sep 2023 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Clinical Internship",
+      "company": "UM Specialist Centre (UMSC) OFFICIAL",
+      "companyUrl": "https://www.linkedin.com/company/um-specialist-centre-umsc-official",
+      "description": "Clinical internship in the cardiology department \n\nResearch on Aortic Valve Fibroelastoma",
+      "location": "Kuala Lumpur Stadt, Bundesterritorium Kuala Lumpur, Malaysia",
+      "start": "2023-09",
+      "end": "2023-09",
+      "dateRange": "Sep 2023 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Working Student Product",
+      "company": "Alaiko",
+      "companyUrl": "https://www.linkedin.com/company/alaiko",
+      "description": null,
+      "location": null,
+      "start": "2022-11",
+      "end": "2023-08",
+      "dateRange": "Nov 2022 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Clinical internship",
+      "company": "Greater Paris University Hospitals - AP-HP",
+      "companyUrl": "https://www.linkedin.com/company/ap-hp",
+      "description": "Service urgences pédiatriques (Children's emergency room) at Hôpital Robert Debré",
+      "location": "Paris, Île-de-France, Frankreich",
+      "start": "2022-09",
+      "end": "2022-09",
+      "dateRange": "Sep 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Working Student Medical Affairs",
+      "company": "YEARS",
+      "companyUrl": "https://www.linkedin.com/company/years-group",
+      "description": null,
+      "location": null,
+      "start": "2021-12",
+      "end": "2022-10",
+      "dateRange": "Dec 2021 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Teaching assistant",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Assistant in the human anatomy course. \nResponsible for teaching twenty-four first semester students per year, explaining the fundamentals of anatomy and functionality in the human body.",
+      "location": null,
+      "start": "2020-10",
+      "end": "2022-06",
+      "dateRange": "Oct 2020 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Freelancer",
+      "company": "selpers",
+      "companyUrl": "https://www.linkedin.com/company/selpers",
+      "description": "Producing online content and course work for patients and their relatives in order for them to gain more insight and understanding into their disease and therapy.",
+      "location": null,
+      "start": "2020-08",
+      "end": "2021-01",
+      "dateRange": "Aug 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Student Researcher",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Department of molecular physiology\nResearch on calcium-binding proteins, in particular Calbindin-D28k\n\nResearch topic: characterization of an INS1-SecretagoginCrisprCas cell line in comparison to an INS1 wildtype cell line",
+      "location": null,
+      "start": "2020-07",
+      "end": "2021-05",
+      "dateRange": "Jul 2020 – May 2021",
+      "current": false
+    },
+    {
+      "title": "Freelancer",
+      "company": "Georg Thieme Verlag KG",
+      "companyUrl": "https://www.linkedin.com/company/thieme",
+      "description": null,
+      "location": null,
+      "start": "2020-03",
+      "end": "2023-03",
+      "dateRange": "Mar 2020 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Technical Specialist",
+      "company": "Apple",
+      "companyUrl": "https://www.linkedin.com/company/apple",
+      "description": null,
+      "location": null,
+      "start": "2018-09",
+      "end": "2018-12",
+      "dateRange": "Sep 2018 – Dec 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Charité - Universitätsmedizin Berlin",
+      "degree": "Doctor of Medicine - MD, Medizin",
+      "dateRange": "2025 – 2027"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Medicine - MD, Medizin",
+      "dateRange": "2019 – 2025"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology and Management",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "Justus-von-Liebig Gymnasium",
+      "degree": "Abitur",
+      "dateRange": "2010 – 2018"
+    },
+    {
+      "school": "Westlake Girls High School",
+      "degree": null,
+      "dateRange": "2016"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Queen Mary University of London",
+    "tagline": "At Queen Mary University of London, we believe that a diversity of ideas helps us achieve the previously unthinkable.",
+    "description": "Queen Mary University of London is a world-leading research-intensive university with over 32,000 students representing more than 170 nationalities. \n\nA member of the prestigious Russell Group, we work across the humanities and social sciences, medicine and dentistry, and science and engineering, with inspirational teaching directly informed by our research. \n\nIn the most recent exercise that rated research in the UK, we were ranked 7th in the country for the proportion of research outputs that were world-leading or internationally excellent. We offer more than 240 degree programmes and our reputation for excellent teaching was rewarded with a silver in the 2017 Teaching Excellence Framework (TEF) awards.\n\nQueen Mary’s history dates back to 1785, with the foundation of the London Hospital Medical College. Our history also encompasses the establishment of the People’s Palace in 1887, which brought accessible education, culture and recreation to the East End of London. We also have roots in Westfield College, one of the first colleges to provide higher education to women.",
+    "industry": "Higher Education",
+    "website": "http://www.qmul.ac.uk",
+    "linkedInUrl": "https://www.linkedin.com/company/queen-mary-university-of-london",
+    "employeeCount": 8804,
+    "foundedYear": 1785,
+    "location": "London, United Kingdom",
+    "specialities": [
+      "Education",
+      "Research"
+    ]
+  }
+}

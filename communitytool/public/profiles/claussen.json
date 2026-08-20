@@ -1,0 +1,220 @@
+{
+  "id": "claussen",
+  "name": "Jörg Claussen",
+  "headline": "Professor of Management at Ludwig-Maximilians-Universität (LMU) München",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/claussen",
+  "personId": 1553,
+  "classes": [
+    {
+      "id": 55,
+      "label": "Spring 2004",
+      "season": "Spring",
+      "year": 2004,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2004",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jörg Claussen",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "ProperBird",
+      "companyUrl": "https://www.linkedin.com/company/properbird",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-05",
+      "end": null,
+      "dateRange": "May 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Professor MSO",
+      "company": "Copenhagen Business School",
+      "companyUrl": "https://www.linkedin.com/company/copenhagen-business-school",
+      "description": null,
+      "location": null,
+      "start": "2019-12",
+      "end": null,
+      "dateRange": "Dec 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Professor of Management",
+      "company": "Ludwig-Maximilians-Universität (LMU) München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": null,
+      "start": "2016-02",
+      "end": null,
+      "dateRange": "Feb 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate Professor",
+      "company": "Copenhagen Business School",
+      "companyUrl": "https://www.linkedin.com/company/copenhagen-business-school",
+      "description": null,
+      "location": null,
+      "start": "2019-04",
+      "end": "2019-11",
+      "dateRange": "Apr 2019 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Assistant Professor",
+      "company": "Copenhagen Business School",
+      "companyUrl": "https://www.linkedin.com/company/copenhagen-business-school",
+      "description": null,
+      "location": null,
+      "start": "2013-09",
+      "end": "2019-03",
+      "dateRange": "Sep 2013 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Postdoc",
+      "company": "Copenhagen Business School",
+      "companyUrl": "https://www.linkedin.com/company/copenhagen-business-school",
+      "description": null,
+      "location": null,
+      "start": "2012-09",
+      "end": "2013-08",
+      "dateRange": "Sep 2012 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Postdoc",
+      "company": "Ifo Institute for Economic Research",
+      "companyUrl": "https://www.linkedin.com/company/ifo-institute-for-economic-research",
+      "description": null,
+      "location": null,
+      "start": "2011-03",
+      "end": "2012-08",
+      "dateRange": "Mar 2011 – Aug 2012",
+      "current": false
+    },
+    {
+      "title": "PhD Student",
+      "company": "LMU Munich, Institute for Strategy, Technology and Organization",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2007-11",
+      "end": "2011-02",
+      "dateRange": "Nov 2007 – Feb 2011",
+      "current": false
+    },
+    {
+      "title": "Master Thesis",
+      "company": "Vodafone Group R&D",
+      "companyUrl": "https://www.linkedin.com/company/vodafone",
+      "description": null,
+      "location": null,
+      "start": "2007-03",
+      "end": "2007-09",
+      "dateRange": "Mar 2007 – Sep 2007",
+      "current": false
+    },
+    {
+      "title": "Project Student",
+      "company": "A.T. Kearney",
+      "companyUrl": "https://www.linkedin.com/company/kearney",
+      "description": null,
+      "location": null,
+      "start": "2006-03",
+      "end": "2006-04",
+      "dateRange": "Mar 2006 – Apr 2006",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "DoCoMo Eurolabs",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2005-03",
+      "end": "2005-07",
+      "dateRange": "Mar 2005 – Jul 2005",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "EOS",
+      "companyUrl": "https://www.linkedin.com/company/eos",
+      "description": null,
+      "location": null,
+      "start": "2001-06",
+      "end": "2005-02",
+      "dateRange": "Jun 2001 – Feb 2005",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Dr.",
+      "dateRange": "2007 – 2011"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., Electrical Engineering and Information Technology",
+      "dateRange": "2005 – 2007"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "MBA",
+      "dateRange": "2005 – 2007"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2004 – 2006"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc., Electrical Engineering and Information Technology",
+      "dateRange": "2002 – 2005"
+    }
+  ],
+  "skills": [
+    "Industrial Organization",
+    "Stata",
+    "Econometrics",
+    "Microeconomics",
+    "Economics",
+    "Data Analysis",
+    "Statistics",
+    "Lecturing",
+    "Innovation Management",
+    "University Teaching",
+    "Project Management",
+    "Higher Education",
+    "Research"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "tagline": null,
+    "description": "Die LMU zählt zu den renommiertesten Universitäten Europas. Sie steht für hervorragende Forschung, die sich mit einem anspruchsvollen Lehrangebot verbindet. Knapp 53.000 Studierende, davon 17 Prozent aus dem Ausland, nutzen derzeit das breite Fächerspektrum mit 150 Angeboten und zahlreichen Kombinationsmöglichkeiten - von den Geistes- und Kulturwissenschaften über Rechts-, Wirtschafts- und Sozialwissenschaften bis hin zur Medizin und den Naturwissenschaften. \n\nDas Know-how und die kreative Intelligenz von rund 700 Professorinnen und Professoren und 3.600 wissenschaftlichen Mitarbeiterinnen und Mitarbeitern bilden die Grundlage für die hervorragende Forschungsbilanz der LMU und sorgen für ihr regelmäßig gutes Abschneiden in nationalen und internationalen Rankings. \n\nMachen Sie sich ein Bild von der LMU: www.lmu.de\n\nUnsere Netiquette sowie Datenschutzinformationen zur Nutzung der Social-Media-Auftritte der LMU finden Sie hier: \n\nhttps://www.lmu.de/de/die-lmu/struktur/zentrale-universitaetsverwaltung/kommunikation-und-presse/social-media/index.html\n\nFür die inhaltliche Konzeption und Pflege der Seiten ist die Stabsstelle Kommunikation und Presse verantwortlich.",
+    "industry": "Higher Education",
+    "website": "http://www.lmu.de",
+    "linkedInUrl": "https://www.linkedin.com/company/lmu.muenchen",
+    "employeeCount": 9313,
+    "foundedYear": null,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

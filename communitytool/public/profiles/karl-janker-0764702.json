@@ -1,0 +1,168 @@
+{
+  "id": "karl-janker-0764702",
+  "name": "Karl Janker",
+  "headline": "Geschäftsführer at Kredite24 Service GmbH (a CHECK24 company)",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/karl-janker-0764702",
+  "personId": 1332,
+  "classes": [
+    {
+      "id": 57,
+      "label": "Spring 2005",
+      "season": "Spring",
+      "year": 2005,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2005",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Karl Janker",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Geschäftsführer",
+      "company": "Kredite24 Service GmbH (a CHECK24 companry)",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-04",
+      "end": null,
+      "dateRange": "Apr 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Managing Director",
+      "company": "CHECK24 Vergleichsportal Finanzen GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-04",
+      "end": null,
+      "dateRange": "Apr 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Intern",
+      "company": "SAR",
+      "companyUrl": "https://www.linkedin.com/company/sar",
+      "description": null,
+      "location": null,
+      "start": "2004-03",
+      "end": null,
+      "dateRange": "Mar 2004 – Present",
+      "current": true
+    },
+    {
+      "title": "Intern",
+      "company": "SAR",
+      "companyUrl": "https://www.linkedin.com/company/sar",
+      "description": null,
+      "location": null,
+      "start": "2001-09",
+      "end": null,
+      "dateRange": "Sep 2001 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "CHECK24 Vergleichsportal Finanzen GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-10",
+      "end": "2018-03",
+      "dateRange": "Oct 2017 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "CHECK24 Vergleichsportal Versicherungen GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-09",
+      "end": "2017-09",
+      "dateRange": "Sep 2015 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Senior Associate",
+      "company": "McKinsey&Company, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2008-06",
+      "end": "2015-06",
+      "dateRange": "Jun 2008 – Jun 2015",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "McKinsey&Company, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2007-01",
+      "end": "2007-04",
+      "dateRange": "Jan 2007 – Apr 2007",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Siemens Corporate Research",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": null,
+      "start": "2004-05",
+      "end": "2005-01",
+      "dateRange": "May 2004 – Jan 2005",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Siemens Automation and Drives",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": null,
+      "start": "2001-07",
+      "end": "2001-08",
+      "dateRange": "Jul 2001 – Aug 2001",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr.-Ing., Electrical and Electronics Engineering",
+      "dateRange": "2010 – 2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2005 – 2007"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diploma, Electrical Engineering",
+      "dateRange": "2001 – 2007"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Research Fellow, School of Information",
+      "dateRange": "2006"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": null
+}

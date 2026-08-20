@@ -1,0 +1,162 @@
+{
+  "id": "manuelth",
+  "name": "Manuel T.",
+  "headline": "Co-Founder Lioma, Kaia Health & Foodora",
+  "avatar": {
+    "sm": "/avatars/manuelth-sm.webp",
+    "lg": "/avatars/manuelth.webp",
+    "blur": "data:image/webp;base64,UklGRlIBAABXRUJQVlA4IEYBAADwBgCdASogACAAPtFWpkuoJKOhqA1RABoJbACdMoMw0YAHazXMsEWr7nvuiNhJIwUH71SNfgohI/8GgMVqYFgAAP2UocEd3TQTtMffQc4i/SfUFVY9Sl8HJeQlfwhJWT++Fhmfy9VAv36/dbN9gLReRoaQRcpe/Mt9zh359mUkx/t/LCoiExp3vECx1xx0k+lcojABL3KhGMlJJj6dvMEeR/kgNOXbNd2hujLs/93M0z4W54DSaFLbCTsUglek6u1AVjIqJ7cJeT/5s31LxtGaUpyrc/QMGTp4zcwd89O38grSelJ+cktjzRbShLa77i+xMkqZNPqRcGHJEsK5k4FlmG+A/WLCp7dSTEeqPWr0jXyTcvPRs6de6t+Xk5n4aas1md5dLmYvsO5WAVm96988O/S/JLjS9hx5TRnd3gmmEMQ5FJ4AAA=="
+  },
+  "location": "Klagenfurt, Austria",
+  "linkedInUrl": "https://www.linkedin.com/in/manuelth",
+  "personId": 1048,
+  "classes": [
+    {
+      "id": 72,
+      "label": "Fall 2012",
+      "season": "Fall",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2012",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Manuel Thurner",
+  "ca": null,
+  "summary": "Computer Science & Entrepreneurship",
+  "positions": [
+    {
+      "title": "Founder",
+      "company": "Lioma",
+      "companyUrl": "https://www.linkedin.com/company/thelioma",
+      "description": "Building the intention layer for the agentic era. AI can execute anything. The bottleneck is knowing what matters.",
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder and Co-CEO",
+      "company": "Kaia Health",
+      "companyUrl": "https://www.linkedin.com/company/kaiahealth",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2020 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Making great healthcare universally accessible through digital therapeutics. Sold to Sword Health for $285m.",
+      "company": "Kaia Health",
+      "companyUrl": "https://www.linkedin.com/company/kaiahealth",
+      "description": "Making great healthcare universally accessible through digital therapeutics",
+      "location": null,
+      "start": "2015-10",
+      "end": "2019-12",
+      "dateRange": "Oct 2015 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and CTO",
+      "company": "foodora",
+      "companyUrl": "https://www.linkedin.com/company/foodora",
+      "description": "Pioneered the food delivery premium segment in Europe\nFounded in a small back office with @Konstantin Mehl and@Emanuel Pallua\n\nActive in 13 countries, 500+ employees\nSold to Delivery Hero in Sept 2015, now trading on Xetra (DHER)",
+      "location": null,
+      "start": "2014-02",
+      "end": "2015-09",
+      "dateRange": "Feb 2014 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Web Development Agency",
+      "company": "m+t development",
+      "companyUrl": null,
+      "description": "Agency established with @Erik Muttersbach\nWeb app development for various medium-sized businesses",
+      "location": null,
+      "start": "2012-03",
+      "end": "2014-02",
+      "dateRange": "Mar 2012 – Feb 2014",
+      "current": false
+    },
+    {
+      "title": "First Employee",
+      "company": "cloudnumbers.com",
+      "companyUrl": null,
+      "description": "SaaS platform for high performance computing on demand",
+      "location": null,
+      "start": "2011-04",
+      "end": "2012-03",
+      "dateRange": "Apr 2011 – Mar 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (MSc), Computer Science",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Center for Collective Intelligence",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (BSc), Computer Science",
+      "dateRange": "2008 – 2012"
+    },
+    {
+      "school": "Universitat Pompeu Fabra",
+      "degree": "Visiting Student, Computer Science",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Akademisches Gymnasium Salzburg",
+      "degree": "Matura",
+      "dateRange": "2000 – 2008"
+    }
+  ],
+  "skills": [
+    "Data Analytics",
+    "Product Development",
+    "Recommender Systems",
+    "Rapid Prototyping",
+    "Agile",
+    "Mobile",
+    "Relational Databases",
+    "Single Page Applications",
+    "Full stack web Development",
+    "Database Engineering",
+    "Customer-Driven Development",
+    "Full Stack Web Development"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Lioma",
+    "tagline": "Building the intention layer for the agentic era. AI can execute anything. The bottleneck is knowing what matters.",
+    "description": "Most goal apps feel like homework. Lioma feels like talking to someone who actually gets it.\n\nTHREE COACHES, ONE GRAND HOTEL\n\nLioma is a coaching grand hotel with three AI coaches. Each has their own voice, their own purpose, and their own way of telling you what you need to hear.\n\nEve, the Concierge, starts your morning. She cuts through your ambitious chaos and helps you choose one goal that actually matters. Not seven. One. Revolutionary strategy. Nobel Prize pending.\n\nCharlie, the Barista, ends your evening. He asks how it really went. Not the highlight reel. The real story. He has heard four thousand \"I will do it tomorrow\" stories. Yours is not special. But you are. That is why he pushes.\n\nClara, the Pianist, goes deeper. Unlock her after completing your first three goals. She handles the quarterly vision work, the hard questions about direction, the conversations about whether these goals are even yours anymore.\n\nTogether, they do what world-class coaches do: daily check-ins, pattern recognition, quarterly vision setting. The kind of coaching usually reserved for corner offices. Now in your pocket.\n\nCOACHING, NOT JUST TRACKING\n\nLioma understands context, asks thoughtful questions, and helps you navigate the messy reality of changing your life.\n\nThe coaches challenge you:\n\n\"You skipped writing three times this week. What is making it hard to start?\"\n\n\"You keep saying 'I should.' Who told you that? Do you actually want this?\"\n\n\"You hit your target but seem flat. What were you really hoping would change?\"\n\nTHE METHOD\n\nGreat coaches use a three-layer approach:\n\nDaily Check-ins: Eve helps you set intentions. Charlie helps you process what happened. The plan meets reality. Reality usually wins. But you adapt.\n\nPatterns: Step back from the weeds. Your diary reveals themes you missed while you were busy being overwhelmed.\n\nQuarterly Vision: Every quarter, Clara guides you through examining your larger direction. Bring coffee. Or something stronger.",
+    "industry": "Mobile Computing Software Products",
+    "website": "https://www.lioma.app",
+    "linkedInUrl": "https://www.linkedin.com/company/thelioma",
+    "employeeCount": 2,
+    "foundedYear": 2026,
+    "location": "Klagenfurt am Wörthersee, Austria",
+    "specialities": []
+  }
+}

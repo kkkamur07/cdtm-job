@@ -1,0 +1,242 @@
+{
+  "id": "kentoakiyama",
+  "name": "Kento Akiyama",
+  "headline": "Chief of Staff @Ralph | JVA | CDTM",
+  "avatar": {
+    "sm": "/avatars/kentoakiyama-sm.webp",
+    "lg": "/avatars/kentoakiyama.webp",
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAADwBQCdASogACAAPsFMoEunpCMht/qoAPAYCWMAzPCp4KdWxCgZBUHiZ60LE9OakUdgEQyicXZ3AAD+/SrT7Yn70MZtXBT6Od/1x4A15lEEFr/YiHvW+nHZEgUZKbIQYffOrkL74wIydEMYTzDtAWtXvFlSdkNWtUnSspISJk/drvv6/zd5c99FfR1fWL/ljXCDNz/yeNeZv8461QR8zCMIfhTfxYO+ZJXRKiXK/bj5dIWqVpKyBJeP+satTsqrMZA6/AAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/kentoakiyama",
+  "personId": 990,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Statistics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Kento Akiyama",
+  "ca": null,
+  "summary": "Japan's Venture Academy(JVA)では分野横断的かつグローバルに関心を持つ最も野心的な大学生向けの起業家育成プログラムを渋谷区と一緒に提供しています: https://www.japansventureacademy.com/",
+  "positions": [
+    {
+      "title": "Chief of Staff",
+      "company": "Ralph",
+      "companyUrl": "https://www.linkedin.com/company/ralph-management",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder & Advisor",
+      "company": "Japan's Venture Academy",
+      "companyUrl": "https://www.linkedin.com/company/japansventureacademy",
+      "description": null,
+      "location": "日本 東京都",
+      "start": "2022-04",
+      "end": null,
+      "dateRange": "Apr 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Product",
+      "company": "Tenchijin",
+      "companyUrl": "https://www.linkedin.com/company/tenchijin",
+      "description": null,
+      "location": "日本 東京都",
+      "start": "2024-05",
+      "end": "2025-01",
+      "dateRange": "May 2024 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Analyst",
+      "company": "Lifetime Ventures",
+      "companyUrl": "https://www.linkedin.com/company/lifetime-ventures",
+      "description": null,
+      "location": "Tokyo, Japan",
+      "start": "2023-09",
+      "end": "2024-03",
+      "dateRange": "Sep 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Head of Volunteers",
+      "company": "Takeoff Tokyo",
+      "companyUrl": "https://www.linkedin.com/company/takeofftokyo",
+      "description": null,
+      "location": "Tokyo, Japan",
+      "start": "2023-03",
+      "end": "2023-06",
+      "dateRange": "Mar 2023 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Coding Instructor",
+      "company": "Code Chrysalis",
+      "companyUrl": "https://www.linkedin.com/company/code-chrysalis",
+      "description": null,
+      "location": "日本 東京都",
+      "start": "2022-06",
+      "end": "2024-02",
+      "dateRange": "Jun 2022 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Forget.finance",
+      "companyUrl": "https://www.linkedin.com/company/forget-finance",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2021-05",
+      "end": "2021-07",
+      "dateRange": "May 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Capmo",
+      "companyUrl": "https://www.linkedin.com/company/capmo",
+      "description": null,
+      "location": null,
+      "start": "2020-09",
+      "end": "2020-11",
+      "dateRange": "Sep 2020 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Data Analyst",
+      "company": "DataGuard",
+      "companyUrl": "https://www.linkedin.com/company/dataguard1",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-02",
+      "end": "2020-05",
+      "dateRange": "Feb 2020 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Management Consulting",
+      "company": "Horváth & Partners Management Consultants",
+      "companyUrl": "https://www.linkedin.com/company/horvathpartners",
+      "description": null,
+      "location": "Frankfurt am Main und Umgebung, Deutschland",
+      "start": "2018-08",
+      "end": "2018-10",
+      "dateRange": "Aug 2018 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & Head of Department",
+      "company": "The Consulting Academy Nairobi",
+      "companyUrl": "https://www.linkedin.com/company/tcanairobi",
+      "description": null,
+      "location": "Kenya",
+      "start": "2017-05",
+      "end": "2017-10",
+      "dateRange": "May 2017 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Solution Factory",
+      "company": "NavVis",
+      "companyUrl": "https://www.linkedin.com/company/navvis",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2017-03",
+      "end": "2017-06",
+      "dateRange": "Mar 2017 – Jun 2017",
+      "current": false
+    },
+    {
+      "title": "Market Management - Product Portfolio Division",
+      "company": "Allianz",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2016-08",
+      "end": "2016-10",
+      "dateRange": "Aug 2016 – Oct 2016",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Academy Consult München e.V.",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2016-04",
+      "end": "2019-02",
+      "dateRange": "Apr 2016 – Feb 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student Researcher, School of Information",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "B.Sc. (on hold), Statistics",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc., Management & Technology, Minor in Computer Science",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "Nanyang Technological University Singapore",
+      "degree": "Exchange Semester, School of Computer Science",
+      "dateRange": "2018"
+    }
+  ],
+  "skills": [
+    "Product Management",
+    "Start-ups",
+    "Data Analytics",
+    "Product Design",
+    "Business Strategy",
+    "Consulting"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Ralph",
+    "tagline": "Der neue Standard der Hausverwaltung. Ralph kombiniert die besten Verwalter mit der besten Software. Endlich.",
+    "description": "Ralph combines the best talent with the best proprietary software to finally solve the messy problem of property management. \n\nRalph has built the industry's leading end-to-end OS, on which it manages more than 10.000 units. Ralph manages 400+ buildings pro-actively, ensuring peace-of-mind through compliance, and maximizing value. Customers can sit back and track everything in real time. \n\nBased in Berlin, our team has 70+ experts from the real estate industry and partners with the leading utility contractors, banks, insurances, lawyers and engineers across all things around your home.",
+    "industry": "Real Estate",
+    "website": "https://ralph-hv.de",
+    "linkedInUrl": "https://www.linkedin.com/company/ralph-management",
+    "employeeCount": 23,
+    "foundedYear": 2022,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

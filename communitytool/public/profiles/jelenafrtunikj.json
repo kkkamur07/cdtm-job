@@ -1,0 +1,227 @@
+{
+  "id": "jelenafrtunikj",
+  "name": "Jelena Frtunikj, Ph.D.",
+  "headline": "Safety for Machine Learning",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jelenafrtunikj",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "Passionate researcher and engineer developing safe (ISO 26262 & SOTIF) perception features of highly and fully automated vehicles by using breakthrough sensor fusion and machine learning algorithms.",
+  "positions": [
+    {
+      "title": "Safety for Machine Learning",
+      "company": "NVIDIA",
+      "companyUrl": "https://www.linkedin.com/company/nvidia",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Towards Safe Perception including Machine Learning for Level 4 Automated Driving",
+      "company": "Argo AI",
+      "companyUrl": "https://www.linkedin.com/company/argo-ai",
+      "description": "AID was acquired by ArgoAI in June2020. ArgoAI Munich serves as European headquarters and the fifth engineering center worldwide.\n\nData engineering for ML based perception. \nML statistical testing. \nML verification.\nML explainability and interpretability.\nML safety.",
+      "location": null,
+      "start": "2020-06",
+      "end": "2024-10",
+      "dateRange": "Jun 2020 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Towards Safe Perception including Machine Learning for L4 Automated Driving",
+      "company": "Autonomous Intelligent Driving GmbH",
+      "companyUrl": "https://www.linkedin.com/company/autonomous-intelligent-driving",
+      "description": "Data engineering for ML based perception. \nML statistical testing. \nML verification.\nML explainability and interpretability.\nML safety.",
+      "location": null,
+      "start": "2020-04",
+      "end": "2024-10",
+      "dateRange": "Apr 2020 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Fellow within the Assuring Autonomy International Programme",
+      "company": "University of York",
+      "companyUrl": "https://www.linkedin.com/company/uniofyork",
+      "description": "Research w.r.t. specification, analysis, design and assurance principles for automated driving systems using Machine Learning algorithms.",
+      "location": null,
+      "start": "2019-12",
+      "end": "2021-12",
+      "dateRange": "Dec 2019 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Automated Driving, Machine Learning, Safety (ISO26262, SOTIF)",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "•\tDevelopment of safe perception features of highly and fully automated vehicles by using breakthrough sensor fusion and machine learning algorithms.\n•\tResearch in the area of Safety (ISO 26262 & SOTIF) for Machine Learning.\n•\tData engineering for ML based perception. ML statistical testing. ML verification.\n•\tDevelopment of automated driving architecture (including functional safety aspects).\n•\tCo-author of the “Safety First for Automated Driving” white paper.\n•\tProgram committee member at various conferences: CARS@EDCC2019, Dthree@CVPR 2019, FT4DAS@SAFECOMP 2019, SAIAD2020@CVPR 2020, EDCC 2020, CARS @EDCC2020.\n•\tFiled Patents: 6.\n•\tAgile software development process definition aligned with ISO 26262. \n•\tFunctional Safety Coach. \n•\tProject Management.\n•\tRecruiting responsible of the automated driving development department.",
+      "location": "Munich Area, Germany",
+      "start": "2016-07",
+      "end": "2020-03",
+      "dateRange": "Jul 2016 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Researcher / Ph.D. Candidate",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Research in the areas of fault tolerance for safety-critical embedded systems, middleware architectures, model-based development, AUTOSAR.\n\nDeveloping a safety concept of the new centralized automotive ICT architecture within the RACE (RACE - Robust and Reliant Automotive Computing Environment for Future eCars) research project. Developing prototype of next generation automotive architecture.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2011-09",
+      "end": "2016-06",
+      "dateRange": "Sep 2011 – Jun 2016",
+      "current": false
+    },
+    {
+      "title": "Master Thesis Student",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": "Investigation of an Energy Efficient Architecture for Long-Term Evolution (LTE) Protocol Processing.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2010-04",
+      "end": "2010-10",
+      "dateRange": "Apr 2010 – Oct 2010",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "DLR",
+      "companyUrl": "https://www.linkedin.com/company/dlr",
+      "description": "Performance evaluation of three different Attitude and Heading Reference Systems (AHRS) and development of an algorithm for the prediction of aircraft position.",
+      "location": "Munich Area, Germany",
+      "start": "2009-08",
+      "end": "2009-11",
+      "dateRange": "Aug 2009 – Nov 2009",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Asseco South Eastern Europe",
+      "companyUrl": "https://www.linkedin.com/company/asee-group",
+      "description": "Development of a component called Service Registry - a system component from the Enterprise BUS architecture in SOA (Service Oriented Architecture) world, based on the UDDI standard.",
+      "location": "Skopje, Macedonia",
+      "start": "2008-02",
+      "end": "2008-04",
+      "dateRange": "Feb 2008 – Apr 2008",
+      "current": false
+    },
+    {
+      "title": "Junior Teaching Assistant",
+      "company": "Faculty of Electrical Engineering and Information Technologies - Skopje",
+      "companyUrl": "https://www.linkedin.com/company/faculty-of-electrical-engineering-and-information-technologies---skopje",
+      "description": "Teaching  assistant on the subjects: \n“Microprocessors systems” \n“Computer components and peripherals”\n“Visual programming (Visual C++ )”\n“Structural programming (C)” \n“Basics of Electrical Engineering I” \n“Basics of Electrical Engineering II”",
+      "location": "Skopje, Macedonia",
+      "start": "2005-10",
+      "end": "2008-06",
+      "dateRange": "Oct 2005 – Jun 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "dateRange": "2011 – 2016"
+    },
+    {
+      "school": "Udacity",
+      "degree": "Self-Driving Car Engineer Nanodegree",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Center for Digital Technology and Management (CDTM)",
+      "dateRange": "2009 – 2011"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Scienece in Communication Electronics",
+      "dateRange": "2008 – 2010"
+    },
+    {
+      "school": "Faculty of Electrical Engineering and Information Technologies - Skopje",
+      "degree": "Electrical Engineering and Information Technologies, Computer Science, Information Technology and Automation",
+      "dateRange": "2003 – 2008"
+    }
+  ],
+  "skills": [
+    "Functional Safety",
+    "ISO 26262",
+    "Machine Learning",
+    "Neural Networks",
+    "E/E Architectures",
+    "Embedded Systems",
+    "Middleware",
+    "Automotive",
+    "AUTOSAR",
+    "Domain Specific Languages",
+    "UML",
+    "EAST-ADL",
+    "Computer Science",
+    "Algorithms",
+    "Programming",
+    "C",
+    "Python",
+    "C++",
+    "Pascal",
+    "Scrum",
+    "Subversion",
+    "Git",
+    "Linux",
+    "Fault Injection",
+    "Embedded Software",
+    "Software Architecture",
+    "Software Engineering",
+    "Model-based System Development",
+    "Software Development",
+    "Matlab",
+    "LaTeX",
+    "LTE",
+    "Microcontrollers",
+    "Firmware"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Macedonian",
+    "Serbian"
+  ],
+  "company": {
+    "name": "NVIDIA",
+    "tagline": null,
+    "description": "Since its founding in 1993, NVIDIA (NASDAQ: NVDA) has been a pioneer in accelerated computing. The company’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, ignited the era of modern AI and is fueling the creation of the metaverse. NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry.",
+    "industry": "Computer Hardware Manufacturing",
+    "website": "http://www.nvidia.com",
+    "linkedInUrl": "https://www.linkedin.com/company/nvidia",
+    "employeeCount": 46517,
+    "foundedYear": 1993,
+    "location": "Santa Clara, United States",
+    "specialities": [
+      "GPU-accelerated computing",
+      "artificial intelligence",
+      "deep learning",
+      "virtual reality",
+      "gaming",
+      "self-driving cars",
+      "supercomputing",
+      "robotics",
+      "virtualization",
+      "parallel computing",
+      "professional graphics",
+      "automotive technology"
+    ]
+  }
+}

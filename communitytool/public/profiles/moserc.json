@@ -1,0 +1,261 @@
+{
+  "id": "moserc",
+  "name": "Christoph Moser",
+  "headline": "Founding Engineer @ Dryft | Fullstack AI | TUM, Berkeley, CDTM, Fulbright",
+  "avatar": {
+    "sm": "/avatars/moserc-sm.webp",
+    "lg": "/avatars/moserc.webp",
+    "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAADQBQCdASogACAAPslSoUunpKMht/VYAPAZCWMAzlGgBA6K2IUBwlKUtwiixzJODS7U+OCqRZgAAP7+qyy1icIXv40eVuXXzvZe27e2YxVnnE2WgPhxm+t6uLKM9PfrzJAntzwymwyoh2inwVwKJjdRWTnykg3XFHU8v4SNo7Joij8Hll0+tCpRwP4cjT+rwyHb6NBNPtFrH7FLTClFcTITZ0AkrGdHwAA="
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/moserc",
+  "personId": 1268,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Electrical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christoph Moser",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founding Engineer",
+      "company": "Dryft",
+      "companyUrl": "https://www.linkedin.com/company/dryft-hq",
+      "description": "Building systems that combine AI agents with mathematical optimization to automate complex human decisions in manufacturing operations - backed by General Catalyst and Neo",
+      "location": "Metropolregion San Francisco Bay Area",
+      "start": "2025-06",
+      "end": null,
+      "dateRange": "Jun 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Lead AI Products & Engineering",
+      "company": "yoummday",
+      "companyUrl": "https://www.linkedin.com/company/yoummday-gmbh",
+      "description": "- Developed inhouse AI voice and chat agents based on open source models at scale, enabling yoummday to offer full-fledged hybrid CX solutions to customers\n- Built up and managed a team of 6 AI and 2 Sr. Fullstack Engineers\n- Reported strategy to Board and C-Level, speaker at younite CX 2024",
+      "location": "München, Bayern, Deutschland",
+      "start": "2024-11",
+      "end": "2025-05",
+      "dateRange": "Nov 2024 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Lead AI Engineering",
+      "company": "yoummday",
+      "companyUrl": "https://www.linkedin.com/company/yoummday-gmbh",
+      "description": "- Launched yoummday’s AI capabilities from the ground up, implementing MLOps, model training,\nand productionization for mission-critical CX applications.\n- Fine-tuned and deployed open-source ASR and LLMs to deliver a compliant AI Assistant\nfor CX agents (in use e.g. at a large telco client).\n• Led AI product ideation and stakeholder communication, ensuring that we build the right things.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-12",
+      "end": "2024-10",
+      "dateRange": "Dec 2023 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "AI Software Engineer",
+      "company": "yoummday",
+      "companyUrl": "https://www.linkedin.com/company/yoummday-gmbh",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-12",
+      "end": "2023-11",
+      "dateRange": "Dec 2022 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Backend Software Engineer",
+      "company": "Kyte",
+      "companyUrl": "https://www.linkedin.com/company/drivekyte",
+      "description": "(returned full time after finishing my Masters)\n- Lead efforts to spin out the first event based microservice at Kyte.\n- Built non-convex optimization algorithm to suggest tasks to delivery drivers.\n- Enabled international expansion by adding mutlicurrency support to all backend services and integrating payment providers in the most cost effective way.",
+      "location": null,
+      "start": "2021-09",
+      "end": "2022-11",
+      "dateRange": "Sep 2021 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Master Thesis - AI in Medical Imaging",
+      "company": "SnkeOS GmbH",
+      "companyUrl": "https://www.linkedin.com/company/snke",
+      "description": "developed novel method for robust embeddings of 3D Brain MRIs \n-> filed as a patent with Brainlab AG",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-11",
+      "end": "2021-05",
+      "dateRange": "Nov 2020 – May 2021",
+      "current": false
+    },
+    {
+      "title": "Product Data Engineer",
+      "company": "Kyte",
+      "companyUrl": "https://www.linkedin.com/company/drivekyte",
+      "description": "First Engineer onsite in SF, built up the initial tech product:\n- Saved 200+ hr/week and minimized driver cost and downtime by building automation for booking-to-driver matching.\n- Enabled contact-less car handovers by implementing a mobile access system for the fleet.",
+      "location": "San Francisco Bay Area",
+      "start": "2020-01",
+      "end": "2020-09",
+      "dateRange": "Jan 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis - Robot Testing",
+      "company": "Magazino GmbH",
+      "companyUrl": "https://www.linkedin.com/company/magazino-a-jungheinrich-company",
+      "description": "- Ensured software integrity of the safety control algorithms by developing and implementing formal verification based on symbolic model checking in NuSMV\n- Enabled efficient testing of Magazino robots by designing and constructing an electro-mechanical test bench to perform black box tests on the safety technology\n- Allowed any user to easily conduct system tests by writing test software in rospy where users can specify sequences of actions in a YAML file",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-11",
+      "end": "2019-01",
+      "dateRange": "Nov 2018 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Electrical Engineer - Working Student",
+      "company": "Magazino GmbH",
+      "companyUrl": "https://www.linkedin.com/company/magazino-a-jungheinrich-company",
+      "description": "- Expedited software flashing process by designing and implementing a remote flashing tool for the\nrobot’s safety control system in ROS (Python).\n- Improved safety and robustness of the robot by designing fail-safe PCBs in EAGLE and Altium\n- Cable planning (EPLAN) as well as debugging of electrical problems with the robots. \n- Next to my own projects I supported the two Electrical Engineers and took over as their vacation replacement.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-01",
+      "end": "2019-07",
+      "dateRange": "Jan 2018 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Testing Engineer - Internship",
+      "company": "Aesculap",
+      "companyUrl": "https://www.linkedin.com/company/aesculap-us",
+      "description": "Development of a galvanically isolated interface and setup of a leakage current testing system (for HF surgical devices)",
+      "location": "Tuttlingen, Deutschland",
+      "start": "2017-03",
+      "end": "2017-04",
+      "dateRange": "Mar 2017 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Tutor",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "TA for \"Circuit Theory 1\" Course",
+      "location": null,
+      "start": "2016-10",
+      "end": "2017-03",
+      "dateRange": "Oct 2016 – Mar 2017",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Marquardt Group",
+      "companyUrl": "https://www.linkedin.com/company/marquardt-group",
+      "description": "Electronic development automotive",
+      "location": "Rietheim-Weilheim, Deutschland",
+      "start": "2016-03",
+      "end": "2016-04",
+      "dateRange": "Mar 2016 – Apr 2016",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Lufthansa Technik",
+      "companyUrl": "https://www.linkedin.com/company/lufthansa-technik",
+      "description": "Innovation development for aircraft component maintenance",
+      "location": "Hamburg, Deutschland",
+      "start": "2014-07",
+      "end": "2014-08",
+      "dateRange": "Jul 2014 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "B. Braun Medical",
+      "companyUrl": "https://www.linkedin.com/company/b--braun-medical-inc.-us",
+      "description": "as part of the \"Aesculap Scholarship\"",
+      "location": "Sheffield, Großbritannien",
+      "start": "2013-10",
+      "end": "2013-10",
+      "dateRange": "Oct 2013 – Oct 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Graduate Student (Fulbright), Electrical Engineering and Computer Science",
+      "dateRange": "2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science, Electrical Engineering",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science, Electrical Engineering",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Exchange Semester, Electrical Engineering",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Otto-Hahn-Gymnasium Tuttlingen",
+      "degree": "High School Diploma",
+      "dateRange": "2015"
+    }
+  ],
+  "skills": [
+    "Python",
+    "TypeScript",
+    "Künstliche Intelligenz (KI)",
+    "Produktmanagement",
+    "Computer-Vision",
+    "Medizinische Bildgebung",
+    "Microservices",
+    "Optimierung",
+    "Backend-Entwicklung",
+    "TensorFlow",
+    "Keras",
+    "Unsupervised Learning",
+    "Maschinelles Lernen",
+    "Domain-Driven Design",
+    "PostgreSQL",
+    "Amazon Web Services (AWS)",
+    "ROS",
+    "Tensorflow",
+    "Robotik",
+    "Mikrocontroller"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Dryft",
+    "tagline": "Intelligence that runs manufacturing operations",
+    "description": "Dryft builds artificial intelligence that mimics, optimizes, and automates complex human decisions in manufacturing operations. \n\nWe use a combination of AI agents & mathematical optimization to build what comes after ERPs: systems that think, act, and adapt autonomously across manufacturing operations.",
+    "industry": "Software Development",
+    "website": "https://dryft.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/dryft-hq",
+    "employeeCount": 12,
+    "foundedYear": 2024,
+    "location": null,
+    "specialities": []
+  }
+}

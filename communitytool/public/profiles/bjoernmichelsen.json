@@ -1,0 +1,170 @@
+{
+  "id": "bjoernmichelsen",
+  "name": "Björn Michelsen",
+  "headline": "Co-Founder & CEO at Nuclino",
+  "avatar": {
+    "sm": "/avatars/bjoernmichelsen-sm.webp",
+    "lg": "/avatars/bjoernmichelsen.webp",
+    "blur": "data:image/webp;base64,UklGRlYBAABXRUJQVlA4IEoBAABQBgCdASogACAAPtFapU0oJSOiMBgIAQAaCWoAnQMt+HKaOSc8wwIO8BrvAVQKL6fHNMdG9hSRndHngAD+sATHpD9VEQ8jjI8/F9oAHTdz3L42GPmAv/eXLQOtILm5dkBqSaHRlGmfSfF7lF4/Tdm1+cbQIjjq91+zcWRX+EdcCtCoPfqC+7DXvdDlUQ2C9cDaBhcoR2e/5vWHu1gJ/xvGAPUTx/4RxljQFUPHMRDTsrrg2m8FNxEWoMe4eMsejy7rIyg1VbGVg8YOacjLGOIJ+sY2ekpA7PHed7CAp9EbDXm9kHfDbK8/hLoCZYWAJbRdmtrxfuOLXxxFcU4zwEsCvG/HS8AKtZyrevytPLJZq7gOFa9Kj8L6FEMnYrPWdrPRwdfUzaDcDw0B2BKPnfu/FV3Wz3c/aeqSJhem88S86NS7PJo8YIegAAA="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/bjoernmichelsen",
+  "personId": 1153,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Björn Michelsen",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Nuclino",
+      "companyUrl": "https://www.linkedin.com/company/nuclino",
+      "description": "Your team's collective brain 🧠",
+      "location": "Munich Area, Germany",
+      "start": "2015-09",
+      "end": null,
+      "dateRange": "Sep 2015 – Present",
+      "current": true
+    },
+    {
+      "title": "Consulting Project",
+      "company": "Freeletics",
+      "companyUrl": "https://www.linkedin.com/company/freeletics",
+      "description": "Strategy consulting for a fitness startup that offers a mobile application for high-intensity workouts.",
+      "location": "Munich Area, Germany",
+      "start": "2014-10",
+      "end": "2015-01",
+      "dateRange": "Oct 2014 – Jan 2015",
+      "current": false
+    },
+    {
+      "title": "Product Development Project",
+      "company": "Telekom Innovation Laboratories",
+      "companyUrl": "https://www.linkedin.com/company/telekom",
+      "description": "Research regarding the future of mobile privacy with T-Labs and Mozilla. Idea, concept, design, business planning, and prototypical implementation of a mobile privacy solution.\n\nActivities included:\n- Design and development of a web application using node.js/angularjs running on a Raspberry Pi\n- Design and development of a mobile application for Mozilla FirefoxOS on a Geeksphone\n- Industrial design, CAD-modelling and 3D-printing\n- Graphic design and branding for final prototype and marketing material",
+      "location": "Munich Area, Germany",
+      "start": "2014-04",
+      "end": "2014-07",
+      "dateRange": "Apr 2014 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "Research Project",
+      "company": "Siemens Novel Businesses",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Research on future trends in the field of sensor-based authentication",
+      "location": "Munich Area, Germany",
+      "start": "2014-02",
+      "end": "2014-04",
+      "dateRange": "Feb 2014 – Apr 2014",
+      "current": false
+    },
+    {
+      "title": "Working Student - Interaction Design / Interface Design / Usability",
+      "company": "Siemens Healthcare",
+      "companyUrl": "https://www.linkedin.com/company/siemens-healthineers",
+      "description": "- UX/UI design for xray products\n- Implementation of interactive prototypes featuring natural user interfaces (e.g. using multi-touch and in-air gestures) using web technologies\n- Usability testing",
+      "location": null,
+      "start": "2013-04",
+      "end": "2014-03",
+      "dateRange": "Apr 2013 – Mar 2014",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CEO",
+      "company": "uDrops",
+      "companyUrl": null,
+      "description": "uDrops is a social learning platform for universities, supporting modern approaches for teaching and learning.\n\nResponsibilities included:\n- Full stack web development (backbone/django/node.js/PostgreSQL/Nginx)\n- UX/UI design\n- Project management",
+      "location": null,
+      "start": "2012-02",
+      "end": "2013-02",
+      "dateRange": "Feb 2012 – Feb 2013",
+      "current": false
+    },
+    {
+      "title": "Working Student - Business Model Innovation",
+      "company": "Siemens Corporate Technology",
+      "companyUrl": null,
+      "description": "- Research in the field of business model innovation/generation\n- Workshop design, planning and conducting\n- Agile-related research tasks",
+      "location": null,
+      "start": "2011-05",
+      "end": "2011-09",
+      "dateRange": "May 2011 – Sep 2011",
+      "current": false
+    },
+    {
+      "title": "Web Developer",
+      "company": "Freelance",
+      "companyUrl": null,
+      "description": "Offering consulting, software development, deployment, maintenance and support services for local clients.",
+      "location": null,
+      "start": "2008-01",
+      "end": "2011-12",
+      "dateRange": "Jan 2008 – Dec 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Information Systems",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Otto-Friedrich-Universität Bamberg",
+      "degree": "Bachelor of Science (B.Sc.), Information Systems",
+      "dateRange": "2009 – 2013"
+    },
+    {
+      "school": "Åbo Akademi University",
+      "degree": "Bachelor of Science (B.Sc.), Information Systems",
+      "dateRange": "2011 – 2012"
+    }
+  ],
+  "skills": [
+    "Start-ups",
+    "User Experience",
+    "User Interface Design",
+    "E-Learning",
+    "Web Development",
+    "JavaScript",
+    "CSS3",
+    "HTML 5",
+    "Python",
+    "Django",
+    "jQuery",
+    "Node.js",
+    "Adobe Creative Suite",
+    "Agile Methodologies",
+    "Java",
+    "Mobile Applications"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": null
+}

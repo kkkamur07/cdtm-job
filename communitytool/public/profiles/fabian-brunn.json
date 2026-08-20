@@ -1,0 +1,166 @@
+{
+  "id": "fabian-brunn",
+  "name": "Fabian Brunn",
+  "headline": "Product @ Personio",
+  "avatar": {
+    "sm": "/avatars/fabian-brunn-sm.webp",
+    "lg": "/avatars/fabian-brunn.webp",
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACQBQCdASogACAAPsFKoEunpCMht/qoAPAYCUAQAQ8BH9q2IUEHPQ4NTuzTCK/Je6ChxuE4AAD+/qso/rAbDf7E3hC/TJKX+yNegPpf5uFP0In73qGLENxgwAZnpEXtXTgMApaxfvjp5LXfXJrkd5ar8HrXUf4PARK/SoR6XjbEgddghZ5nkdVBEf2XzF6HcxAFI+HmNLbKXiRAfcxd+3jFGBrpjKzHelplON7oXvvcsz9zC+MPCbmsKWOeaitJmFYLW8AA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/fabian-brunn",
+  "personId": 825,
+  "classes": [
+    {
+      "id": 80,
+      "label": "Fall 2016",
+      "season": "Fall",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2016",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Fabian Brunn",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Lead Product Manager",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": "Currently leading two teams in Personio’s core product, driving key initiatives to support customers with complex organizational structures. Nominated for the 2025 Personio People Award.",
+      "location": null,
+      "start": "2024-03",
+      "end": null,
+      "dateRange": "Mar 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": "I was responsible for key parts of our payroll certification process, including presenting our work to ITSG. I was honored to receive the 2023 Personio People Award in recognition of this work.",
+      "location": null,
+      "start": "2022-09",
+      "end": "2024-02",
+      "dateRange": "Sep 2022 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": "Led a team in Personio’s recruiting product, focused on improving interview processes for our customers. This included driving product enhancements and negotiating with integration partners to expand and streamline our offering.",
+      "location": null,
+      "start": "2020-09",
+      "end": "2022-08",
+      "dateRange": "Sep 2020 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Product Manager Data Science",
+      "company": "CHECK24 Vergleichsportal GmbH",
+      "companyUrl": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2020-02",
+      "end": "2020-08",
+      "dateRange": "Feb 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Data Scientist / Product Manager",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2018-07",
+      "end": "2019-12",
+      "dateRange": "Jul 2018 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Illinois Urbana-Champaign",
+      "degree": "Exchange Semester, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Exchange Semester, Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "FernUniversität in Hagen",
+      "degree": "Bachelor of Science (B.Sc.), Business Administration",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Engineering Science",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Informatics (Robotics, Cognition, Intelligence)",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Microsoft Office",
+    "Data Science",
+    "Machine Learning",
+    "Deep Learning",
+    "Python",
+    "Computer Vision",
+    "Projektmanagement",
+    "Natural Language Processing"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Personio",
+    "tagline": "Unlocking the power of people",
+    "description": "Founded in 2015 and built in Europe, Personio is the Intelligent HR Platform championing every side of HR's evolution.\n\nAs work becomes more complex and HR's role more strategic, most technology still treats HR as one-dimensional. We see it differently. Trusted by over 16,000 customers managing more than 1 million employees globally, Personio is built for everything HR has become. We support organisations of all sizes and industries, but specialise in global companies with between 200 and 5000 employees. \n\nWe connect Core HR, Talent, and Payroll in one intelligent platform. Our platform eliminates manual work through automation, adapts to multi-entity complexity with flexible workflows, and transforms people data into strategic insights with AI.\n\nPersonio is built with deep European expertise, and we're the only HR platform with native payroll in Germany—Europe's most complex market. Plus we offer comprehensive apps to manage the entire employee lifecycle including recruiting, performance, compensation, and feedback. \n\nFrom implementation to everyday support, Personio is your partner from day one. We focus on the real challenges of HR and build with purposeful AI that amplifies the power of HR teams. \n\nWe help organisations around the world unlock the power of their people.",
+    "industry": "Software Development",
+    "website": "https://www.personio.com",
+    "linkedInUrl": "https://www.linkedin.com/company/personio",
+    "employeeCount": 1739,
+    "foundedYear": 2015,
+    "location": "Munich, Germany",
+    "specialities": [
+      "HR Software",
+      "HR Management",
+      "Recruitung",
+      "Employee Management",
+      "Applicant Tracking System",
+      "Employee Selfservice",
+      "Time-Off Management",
+      "Cloud Software",
+      "Onboarding and Offboarding",
+      "HR Reporting",
+      "Performance Management",
+      "Payroll",
+      "HR",
+      "HR Tech",
+      "Human Resources"
+    ]
+  }
+}

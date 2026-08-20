@@ -1,0 +1,196 @@
+{
+  "id": "clarissanjani",
+  "name": "Clarissa Anjani",
+  "headline": "Data & Analytics @ Merck Life Science | TUM | CDTM | UT Austin",
+  "avatar": {
+    "sm": "/avatars/clarissanjani-sm.webp",
+    "lg": "/avatars/clarissanjani.webp",
+    "blur": "data:image/webp;base64,UklGRiwBAABXRUJQVlA4ICABAACwBgCdASogACAAPtFUpU2oJCMiMBgIAQAaCUAAzQNJ8zIlD+ueOWeeNsxXLUwH4rozFU9MgHl9mVWNCJEfAAD++Wz59t3bvWblWzbcB4KjMxhdnhpmGoFv7OjP9p9uhvHwXegn1/jN9YLYKu242jOeAyYt3/5G6E1XpioK/6w5w6gDeb9nFlj5wl9HVQTX6+381MwC6UKOgtgMlZRHE5LJ+dkzcCpznvbmdM5hz2MOqqp7jpNTVpqI2LwfqALOUD/juKYmpp8hcpzgASREznWEXPhN9V4uKLgxU+4qrPq745QZXKrb3iATNu3qNWGmq2YniEVPFIDOAXrgroUPcBev0ldLqNPm9aarYv3gPdwpynyrfP0tyUbEAySWgaooAAA="
+  },
+  "location": "Frankfurt, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/clarissanjani",
+  "personId": 1195,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "MSc in Management & Technology (TUM)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Clarissa Anjani",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Data & Analytics Solution Architect",
+      "company": "Merck Life Science",
+      "companyUrl": "https://www.linkedin.com/company/merck-life-science",
+      "description": null,
+      "location": "Darmstadt, Hesse, Germany",
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Enterprise Architect",
+      "company": "STADA Group",
+      "companyUrl": "https://www.linkedin.com/company/stada",
+      "description": null,
+      "location": "Bad Vilbel, Hesse, Germany",
+      "start": "2024-02",
+      "end": "2025-06",
+      "dateRange": "Feb 2024 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Battery Associates",
+      "companyUrl": "https://www.linkedin.com/company/batteryassociates",
+      "description": null,
+      "location": null,
+      "start": "2023-10",
+      "end": "2024-01",
+      "dateRange": "Oct 2023 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Cloud Engineer | Supply Chain Innovations Think Tank",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-09",
+      "end": "2023-03",
+      "dateRange": "Sep 2022 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Enterprise Architecture - Decommissioning & IT Cloud Transformation",
+      "company": "Allianz Technology",
+      "companyUrl": "https://www.linkedin.com/company/allianz-technology",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-09",
+      "end": "2022-01",
+      "dateRange": "Sep 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Consultant, Senior Consultant",
+      "company": "PwC Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/pwc-deutschland",
+      "description": "Senior Consultant with focus on SAP system integrations for cloud hybrid deployment models\nFocus areas: \n- SAP ETL solutions (e.g. SAP Cloud Platform, Dell Boomi)\n- SAP on-premise and cloud systems configuration\n- IT architecture design and setup\n- migration and continuous replication\n- reporting and analytics\n- identity management including SSO, conditional authentication\n- data privacy system setup for GDPR & Russia Data Privacy Law\n- data archival and warehouse solutions",
+      "location": "Frankfurt am Main, Hesse, Germany",
+      "start": "2017-10",
+      "end": "2021-06",
+      "dateRange": "Oct 2017 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Technology Consulting Associate",
+      "company": "PwC",
+      "companyUrl": "https://www.linkedin.com/company/pwc",
+      "description": "Technology consulting associate with focus on SAP system integrations\n\nFocus areas:\n- IT architecture design\n- custom systems integration",
+      "location": "Houston, Texas Area",
+      "start": "2016-08",
+      "end": "2017-07",
+      "dateRange": "Aug 2016 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Process Assurance Intern",
+      "company": "PwC",
+      "companyUrl": "https://www.linkedin.com/company/pwc",
+      "description": "Focus areas:\n- SOX compliance testing\n- IT systems audit",
+      "location": "Houston, Texas Area",
+      "start": "2015-06",
+      "end": "2015-08",
+      "dateRange": "Jun 2015 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Transaction Services Intern",
+      "company": "PwC",
+      "companyUrl": "https://www.linkedin.com/company/pwc",
+      "description": "Focus areas:\n- financial due diligence\n- mergers & acquisitions",
+      "location": "Greater Jakarta Area, Indonesia",
+      "start": "2014-07",
+      "end": "2014-08",
+      "dateRange": "Jul 2014 – Aug 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Informatics and Supply Chain Management",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Visiting Researcher on computer vision, pose estimation and motion capture",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Texas McCombs School of Business",
+      "degree": "Management Information Systems",
+      "dateRange": "2012 – 2016"
+    }
+  ],
+  "skills": [
+    "C#",
+    "Python (Programming Language)",
+    "Computer Vision",
+    "Unity",
+    "Squarespace",
+    "Terraform",
+    "Cloud Computing",
+    "SAP ERP",
+    "SAP Cloud Platform",
+    "SAP Implementation",
+    "Palantir Foundry",
+    "Amazon Web Services (AWS)",
+    "PySpark",
+    "Microsoft Excel",
+    "Event Planning",
+    "Leadership",
+    "Finance",
+    "Interface integration",
+    "Recruiting Marketing SuccessFactors",
+    "Recruiting Management SuccessFactors"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Merck Life Science",
+    "tagline": null,
+    "description": "Together with our colleagues, customers and stakeholders, we impact life and health with science. Before researchers can make scientific breakthroughs, they must have access to state-of-the-art tools, services and expertise to perform experiments and engineer new products. That’s where we come in.\n\nWe offer one of the broadest portfolios in the industry for scientists, best-in-class products for pharmaceutical development and manufacturing, and a fully integrated service organization to support CDMO and contract testing across traditional and novel modalities.\n\nOur vision is a world where our innovative products, services and digital offerings help create solutions for people globally and a sustainable future for generations to come.\n\nMerck is a global science and technology company with around 60,000 employees in more than 66 countries. \n\nNot intended for US & CA visitors.",
+    "industry": "Biotechnology Research",
+    "website": "http://www.sigmaaldrich.com",
+    "linkedInUrl": "https://www.linkedin.com/company/merck-life-science",
+    "employeeCount": 8611,
+    "foundedYear": null,
+    "location": "Darmstadt, Germany",
+    "specialities": []
+  }
+}

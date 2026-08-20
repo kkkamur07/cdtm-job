@@ -1,0 +1,338 @@
+{
+  "id": "lisa-neu",
+  "name": "Lisa Neu",
+  "headline": "Building Heartbeat AI at 1KOMMA5°",
+  "avatar": {
+    "sm": "/avatars/lisa-neu-sm.webp",
+    "lg": "/avatars/lisa-neu.webp",
+    "blur": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAADQBQCdASogACAAPsVQoUunpKMhsAwA8BiJQBhuMX2ltvSFMYl8TnHG20jYPlxI155Trc5aX+sAAP7+YMeMmmTTE/dKxPW9F7Bbprgl4/8LuBont/whaclWny6nkCe5FOtiQ1X7DOiHX1A0+iKUxpQWCze6ICiDazqWWjYrgPzcBZSzf0r8IBhM1ExQHvqOeq0Cr8J5XatucjCXalglbGcm4xz+zkvwUC9u+tfPh9RZ1B1e/wwzhYI9GqdvVqVppzRiS7DE8MqJsfnmf57cz1Yd02B7L3f+ORKoY8UkwAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lisa-neu",
+  "personId": 874,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Media, Management and Digital Technologies",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lisa Neu",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Lead Product Manager",
+      "company": "1KOMMA5°",
+      "companyUrl": "https://www.linkedin.com/company/1komma5grad",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-12",
+      "end": null,
+      "dateRange": "Dec 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "1KOMMA5°",
+      "companyUrl": "https://www.linkedin.com/company/1komma5grad",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2023-12",
+      "end": "2026-02",
+      "dateRange": "Dec 2023 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "enersa",
+      "companyUrl": "https://www.linkedin.com/company/econvio",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2022-09",
+      "end": "2023-11",
+      "dateRange": "Sep 2022 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Demodesk",
+      "companyUrl": "https://www.linkedin.com/company/demodesk",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-11",
+      "end": "2022-08",
+      "dateRange": "Nov 2021 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Demodesk",
+      "companyUrl": "https://www.linkedin.com/company/demodesk",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-07",
+      "end": "2021-10",
+      "dateRange": "Jul 2020 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Junior Product Manager",
+      "company": "Demodesk",
+      "companyUrl": "https://www.linkedin.com/company/demodesk",
+      "description": null,
+      "location": "San Francisco Bay und Umgebung",
+      "start": "2020-01",
+      "end": "2020-07",
+      "dateRange": "Jan 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Visiting Venture Architect",
+      "company": "BCG Digital Ventures",
+      "companyUrl": "https://www.linkedin.com/company/bcg-digital-ventures",
+      "description": null,
+      "location": "Berlin, Berlin, Germany",
+      "start": "2019-11",
+      "end": "2019-12",
+      "dateRange": "Nov 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Berlin, Berlin, Germany",
+      "start": "2019-09",
+      "end": "2019-10",
+      "dateRange": "Sep 2019 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Online Marketing Manager",
+      "company": "Demodesk",
+      "companyUrl": "https://www.linkedin.com/company/demodesk",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-05",
+      "end": "2019-09",
+      "dateRange": "May 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Working Student Product Management / E-Mobility",
+      "company": "BurdaForward GmbH",
+      "companyUrl": "https://www.linkedin.com/company/burdaforward",
+      "description": "Conceptualization and (re-)design of product features\n– Planning, execution and evaluation of appropriate user testings to identify real user needs and put them into understandable solutions\n– Development of user stories from beginning to end and translate them later into technical logs\n– Design of wireframes, UX flows, mockups, interactive prototypes, and use case development\n\nInbound Marketing\n– Planning, execution and evaluation of traffic generation via Outbrain\n– Creation of SEO-relevant content",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-10",
+      "end": "2019-05",
+      "dateRange": "Oct 2018 – May 2019",
+      "current": false
+    },
+    {
+      "title": "Working Student E-Mobility",
+      "company": "BurdaForward GmbH",
+      "companyUrl": "https://www.linkedin.com/company/burdaforward",
+      "description": "Collaboration on the construction and market launch of a portal around the topic of e-mobility\n– Autonomous control of database maintenance and content management processes\n– Participation in the concepts of \"Intelligent Database\" and \"Community\" as part of the future strategy of the Online Portal\n– Support in the sales process by acquisition of e-car dealers to arrange test drives to interested users",
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-09",
+      "dateRange": "Jan 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Junior Content Manager/E-Commerce",
+      "company": "Snipes SE",
+      "companyUrl": "https://www.linkedin.com/company/snipes",
+      "description": "– Collaboration on the expansion of the onlineshop from two to six countries\n– E-Commerce content management and marketing\n– E-mail-marketing and analytics",
+      "location": "Köln und Umgebung, Deutschland",
+      "start": "2017-03",
+      "end": "2017-08",
+      "dateRange": "Mar 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "E-Commerce/Content-Management Intern and Bachelorand",
+      "company": "Snipes SE",
+      "companyUrl": "https://www.linkedin.com/company/snipes",
+      "description": "– Planning, testing and implementation of e-mail-marketing strategies \n– Maintenance of content and product information",
+      "location": "Köln und Umgebung, Deutschland",
+      "start": "2016-07",
+      "end": "2017-02",
+      "dateRange": "Jul 2016 – Feb 2017",
+      "current": false
+    },
+    {
+      "title": "Working Student in the Dialog-/E-Mail-Marketing",
+      "company": "solute GmbH",
+      "companyUrl": "https://www.linkedin.com/company/solute-gmbh",
+      "description": "– Creation and analysis of reportings and statistics for lead management purposes\n– Creation of analysis and forecasts as a basis for strategic decision-making\n– Benchmarking and competition monitoring",
+      "location": "Karlsruhe und Umgebung, Deutschland",
+      "start": "2016-03",
+      "end": "2016-07",
+      "dateRange": "Mar 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Internship in Digital & Print Marketing",
+      "company": "Engel & Völkers Olde Naples",
+      "companyUrl": null,
+      "description": "Responsibilities in the fields of print and online marketing\n– A high level overview of multi-channel real estate marketing methods for 60 advisors; national/local campaign management (print)\n– Assistance in the production of marketing material (using Adobe InDesign)\n– Participation in market analyses, assisting in quantitative analyses relating to sub-market direct mailings\n– Researching necessary records and statistics and general data gathering\n– Creating and developing promotional literature\n– Supporting the team in their daily work (Marketing Director, Sales Agents, Office Manager)\n– Attending advisor campaign meetings and presentations\n– Attending marketing trainings and webinars\n– Managing the company's social media websites using specific online tools\n– Assistance in the management of the company's online presence e.g. online classified ads and email marketing \n\nResponsibilities in the field of sales\n– Attending advisor meetings and presentations\n– Communicating with advisors, prospects and vendors\n– Preparing presentation material\n– Learn how to develop a sales territory via sub-market-specialization\n– Assist with office accounting and expense reporting",
+      "location": "Naples und Umgebung, Florida",
+      "start": "2015-08",
+      "end": "2016-01",
+      "dateRange": "Aug 2015 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Internship in Community Management",
+      "company": "DAREWIN",
+      "companyUrl": "https://www.linkedin.com/company/monks-paris",
+      "description": "– Community Management: Research on relevant editorial themes for the content schedule, moderating on social platforms, programming posts and tweets\n– Recruitment: Translation of job ads, research on relevant job engines\n– Key Account Management: Assisting in the preparation of presentations",
+      "location": "Paris und Umgebung, Frankreich",
+      "start": "2015-01",
+      "end": "2015-01",
+      "dateRange": "Jan 2015 – Jan 2015",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "FIDUCIA IT AG",
+      "companyUrl": "https://www.linkedin.com/company/fiduciagad",
+      "description": "Coordination of the project “Safeguarding the Management Portals”\n– Finding solutions for the insecure portals\n– Conferring with the responsible persons\n– Ensuring the relocation of the portals",
+      "location": "Karlsruhe und Umgebung, Deutschland",
+      "start": "2013-10",
+      "end": "2014-07",
+      "dateRange": "Oct 2013 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "Internship in Controlling",
+      "company": "FIDUCIA IT AG",
+      "companyUrl": "https://www.linkedin.com/company/fiduciagad",
+      "description": "– Supporting the controlling function\n– Researching legal information pertaining to selling company owned software\n– Supervising the student workers and their daily responsibilities",
+      "location": "Karlsruhe",
+      "start": "2013-08",
+      "end": "2013-09",
+      "dateRange": "Aug 2013 – Sep 2013",
+      "current": false
+    },
+    {
+      "title": "Internship in Human Resources",
+      "company": "FIDUCIA IT AG",
+      "companyUrl": "https://www.linkedin.com/company/fiduciagad",
+      "description": "Project about the staffing assignment depending on current developments\n– Determining the need of establishment posts\n– Comparing the actual staffing assignment to the developed staffing assignment\n– Preparing decision-making tools concerning establishment posts",
+      "location": "Karlsruhe",
+      "start": "2013-02",
+      "end": "2013-03",
+      "dateRange": "Feb 2013 – Mar 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student Researcher, Entrepreneurship, Marketing, Technology",
+      "dateRange": "2020"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc), Media, Management and Digital Technologies",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Karlsruhe University of Applied  Sciences",
+      "degree": "Bachelor of Science (B.Sc.), International Management",
+      "dateRange": "2012 – 2017"
+    },
+    {
+      "school": "Tecnológico de Monterrey",
+      "degree": "Exchange semester",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Walahfrid-Strabo-Gymnasium",
+      "degree": "Abitur",
+      "dateRange": "2004 – 2012"
+    }
+  ],
+  "skills": [
+    "Produktmanagement",
+    "Produktmarketing",
+    "Analytische Fähigkeiten",
+    "Storytelling",
+    "Marketing",
+    "Social Media",
+    "Marketingstrategie",
+    "Microsoft Excel",
+    "Teamwork",
+    "Online-Marketing",
+    "E-Mail-Marketing",
+    "InDesign",
+    "Projektmanagement",
+    "Design Thinking",
+    "Product Development",
+    "Project Management",
+    "Digital Marketing",
+    "Inbound Marketing",
+    "Adobe InDesign",
+    "Figma (Software)"
+  ],
+  "languages": [
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "1KOMMA5°",
+    "tagline": "Immer der günstigste und sauberste Strom!",
+    "description": "1KOMMA5° wurde gegründet um Millionen Gebäude in Europa klimaneutral immer mit dem günstigsten Strom zu versorgen - ganz ohne fossile Energie. \n\nMit „Heartbeat AI“ betreibt 1KOMMA5° Europas größtes dezentrales Kraftwerk. Heartbeat AI steuert  Elektroautos, Batterien, Wärmepumpen oder Klimaanlagen und handelt sie in Echtzeit an der Strombörse. Das System kauft Strom wenn er besonders günstig ist und verkauft Strom wenn er teuer ist. In Summe profitieren Nutzer von nahezu kostenlosem Strom.\n\nDas Konzept gilt als günstigere Alternative zu fossilen, zentralen Kraftwerken und könnte laut einer Roland-Berger-Studie aus dem Jahr 2025 bis zu 255 Milliarden Euro an Stromkosten einsparen.\n\nInzwischen steuert „Heartbeat AI“ rund 50.000 Energiesysteme mit einer Leistung von 600 Megawatt, was etwa der Leistung eines modernen Gaskraftwerks entspricht.\n\n1KOMMA5° ist aktuell in sieben Ländern aktiv und betreibt 80 Standorte, um Installation und Service als \"One Stop Shop\" für Kunden regional und in höchster Qualität sicherzustellen.",
+    "industry": "Services for Renewable Energy",
+    "website": "https://1komma5.com/de/?utm_source=social-media&utm_medium=linkedin-organic",
+    "linkedInUrl": "https://www.linkedin.com/company/1komma5grad",
+    "employeeCount": 1206,
+    "foundedYear": 2021,
+    "location": "Hamburg, Germany",
+    "specialities": [
+      "Energie",
+      "Photovoltaik",
+      "Solar",
+      "Stromspeicher",
+      "Batterie",
+      "Wärmepumpe",
+      "VPP",
+      "Elektronik",
+      "Ladeinfrastruktur",
+      "Strom",
+      "Wärme",
+      "Handwerk",
+      "virtuelles Kraftwerk",
+      "Energiemanagement",
+      "Künstliche Intelligenz",
+      "Stromtarif",
+      "Strommarkt",
+      "Strombörse",
+      "Flexibilität",
+      "Lastenmanagement",
+      "Frequency Containment Reserve"
+    ]
+  }
+}

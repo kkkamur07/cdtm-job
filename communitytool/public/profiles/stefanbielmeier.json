@@ -1,0 +1,202 @@
+{
+  "id": "stefanbielmeier",
+  "name": "Stefan Bielmeier",
+  "headline": "Software Engineer | 🎓 Berkeley, CDTM, TUM",
+  "avatar": {
+    "sm": "/avatars/stefanbielmeier-sm.webp",
+    "lg": "/avatars/stefanbielmeier.webp",
+    "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAAAwBgCdASogACAAPsVQokunpKMhsAwA8BiJYwBT9NAD+tcv7v3vwhf839U9Qtzp3HziZnSu8NBMoVeAAP79fJvOJWmjfr21M0B3nJmZzJOXG9fIWNCBcZbHMt1Sp/60Uj9XavTKhkbMgHrfMaQqGIrG6sv5+3LDkXTncHCM3ol/+3q1TmBjR4ZayU3FyUKHMlHAqcGve83CUR03doX7nBFZojriSRAGLykGql/ed+y0N4QbBbyZECDQNbCMfh0dA34XY73EAFouqM2puIQRKrXIeIvrIwhFNbzoajYEyjJimoo4q82R6PM7Yr5oeA3mExJAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/stefanbielmeier",
+  "personId": 1226,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Stefan Bielmeier",
+  "ca": null,
+  "summary": "I design and build software from idea to production",
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company": "Throne",
+      "companyUrl": "https://www.linkedin.com/company/jointhrone",
+      "description": "Third engineer. Scaled to $100 million GMV and 1 million users.",
+      "location": null,
+      "start": "2022-06",
+      "end": "2023-09",
+      "dateRange": "Jun 2022 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Luminovo",
+      "companyUrl": "https://www.linkedin.com/company/luminovo",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Web Developer",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Chair for Database Systems",
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Consultant @ Siemens AI Lab",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Siemens AI Lab",
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Trend & Futures Researcher",
+      "company": "GEA Group",
+      "companyUrl": "https://www.linkedin.com/company/geagroup",
+      "description": null,
+      "location": null,
+      "start": "2019-03",
+      "end": "2019-04",
+      "dateRange": "Mar 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Frontend Engineer",
+      "company": "PEIQ by multicom & GOGOL",
+      "companyUrl": "https://www.linkedin.com/company/peiq-by-multicom-und-gogol",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Computer Science",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science – MS",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Copenhagen Business School",
+      "degree": "Semester abroad",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.)",
+      "dateRange": "2014 – 2017"
+    }
+  ],
+  "skills": [
+    "CSS",
+    "HTML",
+    "JavaScript",
+    "SQL",
+    "Java",
+    "Leadership",
+    "Marketing",
+    "Microsoft Office",
+    "Python (Programming Language)",
+    "Django",
+    "Go (Programming Language)",
+    "Business Development",
+    "Start-ups",
+    "jQuery",
+    "Entrepreneurship",
+    "Search Engine Optimization (SEO)",
+    "WordPress",
+    "Product Management",
+    "Management Consulting",
+    "Data Analysis",
+    "React.js",
+    "Product Development",
+    "Design Thinking",
+    "Python",
+    "Web Development",
+    "TypeScript",
+    "Bootstrap",
+    "Web Design",
+    "Marktanalyse",
+    "Data Modeling",
+    "Content Marketing",
+    "Account-Management",
+    "Responsive Web Design",
+    "Twitter Bootstrap",
+    "Vertrieb",
+    "Investmentstrategien",
+    "Hugo",
+    "Front-end Development",
+    "Presentation",
+    "GIT"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Throne",
+    "tagline": "The wishlist for creators.",
+    "description": "We provide the infrastructure that creators need to better engage and monetize their audiences. \n\nOver 1,000,000+ creators from 89 countries use Throne's all-in-one wishlist and storefront builder to let their fans support them. Partnerships with 600+ brands allow us to offer creators and their fans an exceptional commerce experience. \n\nThrone has offices in Austin, Dallas & New York.",
+    "industry": "Internet Marketplace Platforms",
+    "website": "https://throne.com",
+    "linkedInUrl": "https://www.linkedin.com/company/jointhrone",
+    "employeeCount": 51,
+    "foundedYear": 2021,
+    "location": "Austin, United States",
+    "specialities": [
+      "Software",
+      "Marketplace"
+    ]
+  }
+}

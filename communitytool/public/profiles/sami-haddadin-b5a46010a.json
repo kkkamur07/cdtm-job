@@ -1,0 +1,114 @@
+{
+  "id": "sami-haddadin-b5a46010a",
+  "name": "Sami Haddadin",
+  "headline": "VP Research, MBZUAI",
+  "avatar": null,
+  "location": "Abu Dhabi, United Arab Emirates",
+  "linkedInUrl": "https://www.linkedin.com/in/sami-haddadin-b5a46010a",
+  "personId": 1502,
+  "classes": [
+    {
+      "id": 58,
+      "label": "Fall 2005",
+      "season": "Fall",
+      "year": 2005,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2005",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sami Haddadin",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Vice President for Research",
+      "company": "MBZUAI (Mohamed bin Zayed University of Artificial Intelligence)",
+      "companyUrl": "https://www.linkedin.com/company/mbzuai",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Gastprofessor",
+      "company": "Aalto University",
+      "companyUrl": "https://www.linkedin.com/company/aalto-university",
+      "description": null,
+      "location": null,
+      "start": "2024-07",
+      "end": null,
+      "dateRange": "Jul 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Professor Of Electrical Engineering and Computer Science",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-04",
+      "end": null,
+      "dateRange": "Apr 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Director, Munich Institute of Robotics and Machine Intelligence (MIRMI)",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-04",
+      "end": null,
+      "dateRange": "Apr 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Director, of the Institute of Automatic Control",
+      "company": "Leibniz Universität Hannover, Germany",
+      "companyUrl": "https://www.linkedin.com/company/leibniz-universit-t-hannover-germany",
+      "description": null,
+      "location": null,
+      "start": "2014-04",
+      "end": "2018-03",
+      "dateRange": "Apr 2014 – Mar 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "RWTH Aachen University",
+      "degree": "Dissertation, Elektrotechnik",
+      "dateRange": "2006 – 2011"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "MBZUAI (Mohamed bin Zayed University of Artificial Intelligence)",
+    "tagline": "Dedicated to research, innovation, and empowering brilliant minds in AI.",
+    "description": "Official account of Mohamed bin Zayed University of Artificial Intelligence. Dedicated to research, innovation, and empowering brilliant minds in AI.",
+    "industry": "Higher Education",
+    "website": "https://mbzuai.ac.ae/",
+    "linkedInUrl": "https://www.linkedin.com/company/mbzuai",
+    "employeeCount": 953,
+    "foundedYear": 2019,
+    "location": "Abu Dhabi, United Arab Emirates",
+    "specialities": []
+  }
+}

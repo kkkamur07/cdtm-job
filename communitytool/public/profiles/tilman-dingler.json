@@ -1,0 +1,257 @@
+{
+  "id": "tilman-dingler",
+  "name": "Tilman Dingler",
+  "headline": "Computer Scientist, Associate Professor, and Director of the Integrated Product Design MSc Programme at TU Delft",
+  "avatar": null,
+  "location": "Parkville, Australia",
+  "linkedInUrl": "https://www.linkedin.com/in/tilman-dingler",
+  "personId": 1468,
+  "classes": [
+    {
+      "id": 61,
+      "label": "Spring 2007",
+      "season": "Spring",
+      "year": 2007,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2007",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Tilman Dingler",
+  "ca": null,
+  "summary": "Tilman is an Associate Professor at Delft University of Technology. Before coming to the Netherlands, Tilman was a Lecturer at the School of Computing and Information Systems at the University of Melbourne and spent some time as a visiting post-doc at the MIT Media Lab. In between his academic career, Tilman worked in Industry as an engineer at Yahoo! Inc. and several startups. His research focuses on building cognition-aware technologies that support information processing and augment human cognition. In his recent work, he designs systems that help mitigate cognitive biases and engage users in critical reflection.",
+  "positions": [
+    {
+      "title": "Master Programme Director of Integrated Product Design at Technische Universiteit Delft",
+      "company": "Delft University of Technology",
+      "companyUrl": "https://www.linkedin.com/company/tudelft",
+      "description": null,
+      "location": "Delft, South Holland, Netherlands",
+      "start": "2024-06",
+      "end": null,
+      "dateRange": "Jun 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate Professor",
+      "company": "Delft University of Technology",
+      "companyUrl": "https://www.linkedin.com/company/tudelft",
+      "description": null,
+      "location": "Delft, South Holland, Netherlands",
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Lecturer",
+      "company": "University of Melbourne",
+      "companyUrl": "https://www.linkedin.com/company/university-of-melbourne",
+      "description": null,
+      "location": "Melbourne, Victoria, Australia",
+      "start": "2022-09",
+      "end": "2023-09",
+      "dateRange": "Sep 2022 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Lecturer",
+      "company": "University of Melbourne",
+      "companyUrl": "https://www.linkedin.com/company/university-of-melbourne",
+      "description": null,
+      "location": "Melbourne, Victoria, Australia",
+      "start": "2020-03",
+      "end": "2022-09",
+      "dateRange": "Mar 2020 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Research Fellow and Associate Lecturer",
+      "company": "University of Melbourne",
+      "companyUrl": "https://www.linkedin.com/company/university-of-melbourne",
+      "description": "Research and development of cognition-aware technologies that help people process information more effectively and augment human cognition.",
+      "location": "Greater Melbourne Area",
+      "start": "2018-05",
+      "end": "2020-03",
+      "dateRange": "May 2018 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "MIT Media Lab",
+      "companyUrl": "https://www.linkedin.com/company/mit-media-lab",
+      "description": "Research on learning environments in VR and thermal interfaces for cognitive interventions.",
+      "location": "Greater Boston",
+      "start": "2018-01",
+      "end": "2018-03",
+      "dateRange": "Jan 2018 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Project Assistant Professor",
+      "company": "Osaka Prefecture University",
+      "companyUrl": "https://www.linkedin.com/company/osaka-prefecture-university",
+      "description": "Research on attention-aware systems and reading interfaces in VR at Osaka Prefecture University and the Graduate School of Media Design at Keio University, Tokyo, Japan.",
+      "location": "Osaka, Japan",
+      "start": "2017-04",
+      "end": "2017-12",
+      "dateRange": "Apr 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Telefónica",
+      "companyUrl": "https://www.linkedin.com/company/telefonica",
+      "description": null,
+      "location": "Greater Barcelona Metropolitan Area",
+      "start": "2014-04",
+      "end": "2014-08",
+      "dateRange": "Apr 2014 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "University of Stuttgart",
+      "companyUrl": "https://www.linkedin.com/company/universität-stuttgart",
+      "description": "Ph.D Dissertation: Cognition-Aware Systems to Support Information Intake and Learning.",
+      "location": null,
+      "start": "2012-11",
+      "end": "2017-01",
+      "dateRange": "Nov 2012 – Jan 2017",
+      "current": false
+    },
+    {
+      "title": "Backend Engineer",
+      "company": "TinyCo",
+      "companyUrl": null,
+      "description": "San Francisco Bay Area",
+      "location": null,
+      "start": "2012-06",
+      "end": "2012-10",
+      "dateRange": "Jun 2012 – Oct 2012",
+      "current": false
+    },
+    {
+      "title": "Software Development Engineer",
+      "company": "Yahoo!",
+      "companyUrl": "https://www.linkedin.com/company/yahoo",
+      "description": "June - Dec 2011 Software Development Engineer, Intern\nJan - Aug 2012: Full-time Front-end developer\n\nYahoo! Inc., Sunnyvale, CA.",
+      "location": "Sunnyvale",
+      "start": "2011-06",
+      "end": "2012-08",
+      "dateRange": "Jun 2011 – Aug 2012",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "University of Glasgow",
+      "companyUrl": "https://www.linkedin.com/company/university-of-glasgow",
+      "description": "Developing 3D sound applications on iPhone for monitoring online activities.\nUsing vibro-tactile feedback to enhance remote communication.",
+      "location": null,
+      "start": "2009-10",
+      "end": "2010-08",
+      "dateRange": "Oct 2009 – Aug 2010",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "University of California, Berkeley",
+      "companyUrl": "https://www.linkedin.com/company/uc-berkeley",
+      "description": "Developed a framework for collaborative User Interface Design.",
+      "location": null,
+      "start": "2008-08",
+      "end": "2009-02",
+      "dateRange": "Aug 2008 – Feb 2009",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Georgia Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/georgia-institute-of-technology",
+      "description": "Designed and implemented a 3D sound framework for the System for Wearable Audio Navigation (SWAN).",
+      "location": null,
+      "start": "2007-10",
+      "end": "2007-12",
+      "dateRange": "Oct 2007 – Dec 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Stuttgart",
+      "degree": "Doctor of Philosophy (PhD), Human Computer Interaction",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "University of San Francisco",
+      "degree": "Master, Web Science",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2007 – 2010"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diploma, Media Computer Science",
+      "dateRange": "2004 – 2010"
+    }
+  ],
+  "skills": [
+    "Quantitative Research",
+    "Analytical Skills",
+    "Research Design",
+    "User Experience (UX)",
+    "User Interface Design",
+    "Python",
+    "HTML",
+    "Entrepreneurship",
+    "JavaScript",
+    "Software Engineering",
+    "SQL",
+    "PHP",
+    "Programming",
+    "MySQL",
+    "Research",
+    "CSS",
+    "XML",
+    "Product Development",
+    "Web Development",
+    "Computer Science",
+    "jQuery",
+    "Software Development",
+    "Interaction Design",
+    "Java",
+    "Ruby on Rails",
+    "Human Computer Interaction"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Delft University of Technology",
+    "tagline": "Impact for a better society.",
+    "description": "Delft University of Technology (TU Delft) is a leading technical university in the Netherlands, known for our world-class engineering, science and design education. We offer top-ranked education and PhD programmes, and we conduct cutting-edge research that addresses global challenges. \nTU Delft plays a key role in innovation, interdisciplinary collaboration, and the development of future-proof, knowledge-driven solutions.\n\nAs the largest and most complete university for engineering sciences in the Netherlands, TU Delft educates nearly half of all Dutch science and engineering students. Almost one hundred percent of our graduates secure employment within one year. Our goal is to remain a global leader in technical education and to continue to contribute to a knowledge-driven, future-proof economy.",
+    "industry": "Research Services",
+    "website": "http://www.tudelft.nl/",
+    "linkedInUrl": "https://www.linkedin.com/company/tudelft",
+    "employeeCount": 9968,
+    "foundedYear": 1842,
+    "location": "Delft, Netherlands",
+    "specialities": [
+      "Education",
+      "Research",
+      "Valorisation"
+    ]
+  }
+}

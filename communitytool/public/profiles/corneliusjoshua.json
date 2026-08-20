@@ -1,0 +1,112 @@
+{
+  "id": "corneliusjoshua",
+  "name": "Joshua Cornelius",
+  "headline": "Co-Founder of Zavvy & Freeletics",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/corneliusjoshua",
+  "personId": 1887,
+  "classes": [
+    {
+      "id": 66,
+      "label": "Fall 2009",
+      "season": "Fall",
+      "year": 2009,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2009",
+  "major": "Mathematics, Technology oriented Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Joshua Cornelius",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Zavvy",
+      "companyUrl": "https://www.linkedin.com/company/zavvy-io",
+      "description": "Zavvy offers a comprehensive solution for people enablement to enhance performance, development, and retention. It covers career development, performance management, learning management, and engagement in one easy-to-use AI-powered product suite.\nMany of Europe’s most successful scale-ups use Zavvy, such as Moss (Germany), Typeform (Spain), Storyblok (Austria), Primer (UK), and many more.\nAcquired by Deel in 2024.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2024-02",
+      "dateRange": "Apr 2021 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Freeletics",
+      "companyUrl": "https://www.linkedin.com/company/freeletics",
+      "description": "Mobile fitness. \nPersonalized training and nutrition to live a fit and healthy life. \nMore than 50 million users globally.\nAcquired in 2018.",
+      "location": "Munich",
+      "start": "2013-03",
+      "end": "2018-08",
+      "dateRange": "Mar 2013 – Aug 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Mathematics",
+      "dateRange": "2008 – 2011"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Business Administration / Visiting Scholar",
+      "dateRange": "2010"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2009 – 2010"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Business Administration",
+      "dateRange": "2007 – 2010"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Start-ups",
+    "Business Development",
+    "Strategy",
+    "Marketing",
+    "Lean Startup",
+    "Bootstrapping",
+    "Projektmanagement",
+    "Produktmanagement",
+    "Fitness Industry",
+    "Learning & Development"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Zavvy by Deel",
+    "tagline": "Zavvy lets people teams run people development, performance, and engagement like innovative tech giants. AI-powered.",
+    "description": "Zavvy takes care of the manual and repetitive work behind meaningful people development processes - so you can focus on humans, not spreadsheets.\n- Onboarding\n- Training\n- 360 Feedback\n- Development\n..and more",
+    "industry": "Software Development",
+    "website": "https://www.zavvy.io",
+    "linkedInUrl": "https://www.linkedin.com/company/zavvy-io",
+    "employeeCount": 9,
+    "foundedYear": 2021,
+    "location": "München, Germany",
+    "specialities": [
+      "performance management",
+      "people development",
+      "training",
+      "employee enablement",
+      "onboarding",
+      "feedback",
+      "preboarding",
+      "360 feedback"
+    ]
+  }
+}

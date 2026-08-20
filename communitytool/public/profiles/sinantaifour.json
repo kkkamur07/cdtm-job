@@ -1,0 +1,189 @@
+{
+  "id": "sinantaifour",
+  "name": "Sinan Taifour",
+  "headline": "Co-Founder and CEO of Maqsam, ex-Googler, first engineer at Jawaker, and a Geek at Heart.",
+  "avatar": null,
+  "location": "Amman, Jordan",
+  "linkedInUrl": "https://www.linkedin.com/in/sinantaifour",
+  "personId": 1399,
+  "classes": [
+    {
+      "id": 70,
+      "label": "Fall 2011",
+      "season": "Fall",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2011",
+  "major": "Communications Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sinan Taifour",
+  "ca": null,
+  "summary": "Geek at heart. Co-founder and CEO of Maqsam.\n\nPreviously a Google software engineer, co-founder of CashBasha, and first engineer at Jawaker.",
+  "positions": [
+    {
+      "title": "Co-Founder and CEO",
+      "company": "Maqsam",
+      "companyUrl": "https://www.linkedin.com/company/maqsamhq",
+      "description": "Maqsam is MENA's friendliest telephony solution for SMEs.",
+      "location": "Amman, Jordan",
+      "start": "2019-07",
+      "end": null,
+      "dateRange": "Jul 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "I worked in the authentication team, where I redesigned the internal server-to-server authentication mechanism used by all Google servers, introducing features that makes Google better able to compete in Cloud and in Devices. This was a project with a 10-year timeline.\n\nI also revamped the authentication layer of the most widely-used framework at Google, serving more than 3M requests per second. The revamp allowed for introducing new features, and saved 80K machines.\n\nFurthermore, I consulted 10s of Google teams on their authentication setups, leading them to critical authentication-related decisions, including YouTube and MyAccount.",
+      "location": "Munich, Bavaria",
+      "start": "2015-01",
+      "end": "2019-06",
+      "dateRange": "Jan 2015 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and Technical Lead",
+      "company": "CashBasha",
+      "companyUrl": "https://www.linkedin.com/company/cashbasha",
+      "description": "CashBasha is a website that facilitates buying from global e-commerce websites in emerging markets, by providing logistics, payment, and customer service.\n\nI co-founded the company, and lead its technical effort. I remained involved later as an architect and a contributor to the strategy of the company.",
+      "location": "Amman, Jordan",
+      "start": "2013-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2013 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Media Technology Chair at TU München",
+      "companyUrl": null,
+      "description": "I was involved in advancing two projects:\n\nThe Content-Based Image Retrieval (CBIR) system, where a database of street images is used with a query of a photo from the city, to locate where the photo was taken. I integrated cues from range images, and adjusted the project to be used as Software as a Service (SaaS).\n\nThe Consensus-Based Cross-Correlation (ConCor) algorithm, used to synchronize bitrate profiles of videos for the montage of multiview user-generated content. I integrated cues from audio tracks, and packaged the project for distribution across platforms.",
+      "location": "Munich, Germany",
+      "start": "2011-08",
+      "end": "2012-09",
+      "dateRange": "Aug 2011 – Sep 2012",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Institute of Microtechnology at TU Braunschweig",
+      "companyUrl": null,
+      "description": "Assisted in developing a meso-scale prototype for a bio-micropump. This included theoretical analysis of operation, performing simulations for the electromagnetic structures involved and the system from a control-theory point of view, writing software for the embedded system, and finally testing the prototype and analyzing its performance. My internship was fully financially supported by the institute.",
+      "location": "Braunschweig, Germany",
+      "start": "2008-06",
+      "end": "2008-08",
+      "dateRange": "Jun 2008 – Aug 2008",
+      "current": false
+    },
+    {
+      "title": "Senior Web Developer and Administrator",
+      "company": "Jawaker",
+      "companyUrl": "https://www.linkedin.com/company/jawaker",
+      "description": "Jawaker (http://jawaker.com) is an online multiplayer card gaming website for the Middle East. I was Jawaker's main developer from its inception until my departure.\n\nI was a full-stack developer, along with my responsibilities of designing the infrastructure and administrating the servers.",
+      "location": "Amman, Jordan",
+      "start": "2008-02",
+      "end": "2010-08",
+      "dateRange": "Feb 2008 – Aug 2010",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Acoustic Tracking Group at the University of Jordan",
+      "companyUrl": null,
+      "description": "Assisted in a project entitled ``Detection and Identification of Migrating Birds Acoustically'' by designing embedded systems, and programming signal processing algorithms.",
+      "location": "Amman, Jordan",
+      "start": "2007-08",
+      "end": "2008-02",
+      "dateRange": "Aug 2007 – Feb 2008",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Bio Pump Group at the University of Jordan",
+      "companyUrl": null,
+      "description": "The Bio Pump Group was designing a gentle pump for stress-sensitive liquids with micro-particle (such as blood).\n\nI was responsible for developing the microcontroller software to run the pump, analysis and simulation of electromagnetic and electromechanical structures involved in the pump, and creating GUIs to interact with the pump.",
+      "location": "Amman, Jordan",
+      "start": "2007-07",
+      "end": "2008-12",
+      "dateRange": "Jul 2007 – Dec 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's Degree, Communications Engineering",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Technology Management",
+      "dateRange": "2011 – 2012"
+    },
+    {
+      "school": "University of Jordan",
+      "degree": "Bachelor's Degree, Electrical Engineering",
+      "dateRange": "2004 – 2009"
+    }
+  ],
+  "skills": [
+    "Machine Learning",
+    "Programming",
+    "JavaScript",
+    "Matlab",
+    "C++",
+    "Linux",
+    "Computer Science",
+    "Ruby on Rails",
+    "Git",
+    "Python",
+    "Embedded Systems",
+    "Software Engineering",
+    "Simulations",
+    "Testing",
+    "PHP",
+    "LaTeX",
+    "MySQL",
+    "Software Development"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "company": {
+    "name": "Maqsam",
+    "tagline": "The first Arabic-native AI agent integrated into the region’s leading customer service software.",
+    "description": "Maqsam is the leading Arabic AI-powered Contact Center Solution in the MENA region designed to revolutionize customer experience. Leveraging groundbreaking advancements in AI technology, Maqsam has spearheaded accurate Arabic Call Transcription, advanced analytics, and insights, along with unique AI modeling utilizing its in-house designed LLM.\n\nWith Maqsam, support and sales teams can automate repetitive tasks, increase efficiency, and drive revenue growth across multiple communication channels including voice calls, WhatsApp and more. We enable companies to expand market reach and establish local presence with access to local numbers in more than 200 cities. Companies can integrate Maqsam with their preferred CRM system to optimize data management and deliver customer service that exceeds expectations.\n\nمقسم هو النظام الرائد لمراكز الإتصال المدعومة بالذكاء الاصطناعي بقوة اللغة العربية في منطقة الشرق الأوسط وشمال أفريقيا، مصمم لتطوير تجربة العملاء. قاد مقسم عملية تحويل  المكالمات العربية الى نصوص بدقة وتقديم تقارير وبيانات متقدمة، بالإضافة الى تطوير نموذج LLM الخاص بالشركة باستغلال التقدمات الرائدة في تكنولوجيا الذكاء الاصطناعي.\n\nباستخدام مقسم، يمكن لفريق الدعم والمبيعات أتمتة المهام المتكررة، وزيادة الكفاءة، وتعزيز نمو الإيرادات عبر عدة قنوات اتصال بما في ذلك المكالمات الصوتية والواتساب وغيرها. توفر مقسم أرقام محلية في أكثر من 200 مدينة لمساعدة الشركات من التوسع في أسواق جغرافية جديدة مع المحافظة على الطابع المحلي. يمكن للشركات أيضاً ربط مقسم مع نظام إدارة علاقات العملاء المفضل لديها لتحسين إدارة البيانات وتقديم خدمة عملاء تتجاوز التوقعات.",
+    "industry": "Software Development",
+    "website": "https://www.maqsam.com",
+    "linkedInUrl": "https://www.linkedin.com/company/maqsamhq",
+    "employeeCount": 148,
+    "foundedYear": 2019,
+    "location": "Riyadh, KSA, Saudi Arabia",
+    "specialities": [
+      "Customer Service",
+      "Customer Support",
+      "Customer Engagement",
+      "Customer Experience",
+      "Contact Center",
+      "Call Center",
+      "IVR",
+      "Automation",
+      "Call Transcription",
+      "Speech-to-text",
+      "AI Voice Bot",
+      "AI Agent",
+      "Arabic Transcription",
+      "WhatsApp"
+    ]
+  }
+}

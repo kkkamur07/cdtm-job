@@ -1,0 +1,247 @@
+{
+  "id": "langerstefan",
+  "name": "Stefan L.",
+  "headline": "Senior Software Engineer at QAWare",
+  "avatar": {
+    "sm": "/avatars/langerstefan-sm.webp",
+    "lg": "/avatars/langerstefan.webp",
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAAAwBgCdASogACAAPtFep0+oJKMiKAgBABoJbACdMzLs/Lz+Q4oYu1YSTi08VHCHB035AvYbH/BzqfIAAP7w0wci7XmW0bAPZ0rQ7kjcw0Fi83qBb+IsnYwPoG/7ftIFoTuZv1l8C1w/Qea+dKjNwey4Bff7atFT8WnU5sxwcb7u0kiKwSvX1gbZNvVB3Ws4gLy7PE6va/ipxZOl2WSDbZw/R0KxkxBD5ZsiEbtRINWeU49XPW2JNzlBF5j0Q8UtxEjyE0fuhDWRI2FQIMXzaKnVmbXVekQBA+ulQvAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/langerstefan",
+  "personId": 702,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Media Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Stefan Langer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "QAware GmbH",
+      "companyUrl": "https://www.linkedin.com/company/qaware-gmbh",
+      "description": null,
+      "location": "Rosenheim (Landkreis), Bayern, Deutschland",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer",
+      "company": "QAware GmbH",
+      "companyUrl": "https://www.linkedin.com/company/qaware-gmbh",
+      "description": null,
+      "location": "Rosenheim (Landkreis), Bayern, Deutschland",
+      "start": "2023-06",
+      "end": "2025-01",
+      "dateRange": "Jun 2023 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "KINEXON",
+      "companyUrl": "https://www.linkedin.com/company/kinexon",
+      "description": "Senior Software Engineer for several sports data analysis and media solutions as well as internal projects such as KINEXON's data quality assurance software",
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-04",
+      "end": "2023-05",
+      "dateRange": "Apr 2022 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "KINEXON",
+      "companyUrl": "https://www.linkedin.com/company/kinexon",
+      "description": "Software Engineer for several sports data analysis and media solutions as well as internal projects such as KINEXON's data quality assurance software",
+      "location": null,
+      "start": "2021-04",
+      "end": "2022-03",
+      "dateRange": "Apr 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "External PhD Student",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Department for Human-Computer-Interaction, research in:\nSports Sensor Data Analysis\nHuman-Computer-Interaction\nApplied Machine Learning",
+      "location": null,
+      "start": "2021-03",
+      "end": "2022-02",
+      "dateRange": "Mar 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Research Associate, PhD student",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Department for Mobile and Distirbuted Systems:\nSports Sensor Data Analysis,\nArtificial Intelligence,\nTeam Lead Web Development (Talents4Future),\nLecture on Mobile and Distributed Systems (Webservices and Android)",
+      "location": null,
+      "start": "2019-01",
+      "end": "2021-02",
+      "dateRange": "Jan 2019 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Full Stack Web Developer",
+      "company": "KINEXON",
+      "companyUrl": "https://www.linkedin.com/company/kinexon",
+      "description": "Development of a web-based software to visualize and analyze position-based data in a sports environment (e.g. soccer and basketball game analysis).\nDevelopment of a company-internal deployment and device management tool",
+      "location": null,
+      "start": "2015-12",
+      "end": "2018-12",
+      "dateRange": "Dec 2015 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Working Student Full Stack Web Development",
+      "company": "KINEXON",
+      "companyUrl": "https://www.linkedin.com/company/kinexon",
+      "description": "Development of a web-based software to visualize and analyze position-based data in a sports environment (e.g. soccer and basketball game analysis).",
+      "location": "Munich",
+      "start": "2015-05",
+      "end": "2015-11",
+      "dateRange": "May 2015 – Nov 2015",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Center for Digital Technology and Management",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Development of a web-based, real-time group ideation tool",
+      "location": "Munich",
+      "start": "2015-03",
+      "end": "2015-07",
+      "dateRange": "Mar 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "LMU - Ludwig-Maximilians-Universität München",
+      "companyUrl": null,
+      "description": "Development of futuristic human interaction solutions for 3D engineering software",
+      "location": null,
+      "start": "2013-10",
+      "end": "2014-01",
+      "dateRange": "Oct 2013 – Jan 2014",
+      "current": false
+    },
+    {
+      "title": "Working Student Software Development, Productmanagement",
+      "company": "DieProduktMacher GmbH",
+      "companyUrl": "https://www.linkedin.com/company/dieproduktmacher-gmbh",
+      "description": "Software development (web and mobile), product management, entrepreneurship",
+      "location": "München",
+      "start": "2013-04",
+      "end": "2015-04",
+      "dateRange": "Apr 2013 – Apr 2015",
+      "current": false
+    },
+    {
+      "title": "Working Student, Bachelor Thesis",
+      "company": "Scout24 Services GmbH",
+      "companyUrl": "https://www.linkedin.com/company/scout24-services-gmbh",
+      "description": "Working student for Ruby on Rails web development.\nBachelor thesis: Development of a fully automated and tested deployment process",
+      "location": "München",
+      "start": "2012-11",
+      "end": "2013-03",
+      "dateRange": "Nov 2012 – Mar 2013",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Hochschule Rosenheim",
+      "companyUrl": "https://www.linkedin.com/company/th-rosenheim",
+      "description": "Development of university mobile apps for Android and iOS (Timetable and room management).",
+      "location": "Rosenheim",
+      "start": "2012-10",
+      "end": "2012-12",
+      "dateRange": "Oct 2012 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Valiton GmbH",
+      "companyUrl": null,
+      "description": "Working student as a software developer (Ruby on Rails, NodeJS in a Big Data project, automated use of  Amazon Web Services)",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2011-10",
+      "end": "2012-11",
+      "dateRange": "Oct 2011 – Nov 2012",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "VIRES Simulationstechnologie GmbH",
+      "companyUrl": "https://www.linkedin.com/company/vires-simulationstechnologie-gmbh",
+      "description": "Working student for a driving simulation software.\nPhotoshop editing, 3D Modeling as well as the development of a testing  software in C++ Qt",
+      "location": null,
+      "start": "2007-09",
+      "end": "2011-07",
+      "dateRange": "Sep 2007 – Jul 2011",
+      "current": false
+    }
+  ],
+  "schools": [],
+  "skills": [
+    "Web-Entwicklung",
+    "Angewandtes Maschinelles Lernen",
+    "App-Entwicklung für Mobilgeräte",
+    "iOS development",
+    "Android Development",
+    "JavaScript",
+    "Java",
+    "Ruby on Rails",
+    "CSS",
+    "HTML5",
+    "C++",
+    "Node.js",
+    "PHP",
+    "CSS3",
+    "HTML",
+    "SASS",
+    "Ruby",
+    "Backbone.js",
+    "Photoshop",
+    "Python"
+  ],
+  "languages": [],
+  "company": {
+    "name": "QAware GmbH",
+    "tagline": "Qualität und Agilität im Software Engineering.",
+    "description": "QAware ist ein unabhängiges Beratungs- und Projekthaus für Softwaretechnik mit Standorten in München, Mainz und Rosenheim. Spezialisiert auf Analyse, Renovierung, Erfindung und Umsetzung von Softwaresystemen, bedient QAware Kunden, deren Erfolg stark von IT abhängt. Das Unternehmen wurde mehrfach als \"Deutschlands beste Arbeitgeber\" ausgezeichnet, aktuell in den Kategorien \"Beste Arbeitgeber ITK 2023\", \"Deutschlands beste Arbeitgeber 2023\" und \"Bayerns beste Arbeitgeber 2023\".\n\nDas Leistungsspektrum von QAware umfasst technische Krisenintervention, Cloud-native Anwendungen und agile Entwicklung zum Festpreis. In Krisensituationen diagnostiziert und renoviert QAware Bestandssysteme, um sie zukunftssicher zu machen. Bei Cloud-native Anwendungen fokussiert sich das Unternehmen auf die Erschließung neuer digitaler Möglichkeiten für seine Kunden. Zudem übernimmt QAware Gewerksverantwortung und verspricht vertraglich hohe Qualitätsstandards.\n\nFür Mitarbeiter bietet QAware ein vielfältiges Ökosystem: flexible Arbeitszeiten, Unterstützung für externe Qualifikationen und eine Kultur des Wissensaustauschs sind nur einige der Highlights. Das Unternehmen sucht Absolventen der Informatik und verwandter Fachrichtungen, sowie erfahrene IT-Profis für diverse Positionen. Außerdem werden Bachelor-, Master- und Doktorarbeiten unterstützt.\n\nDie 25 angebotenen Benefits reichen von Reisemöglichkeiten in Europa über neueste Hardware bis hin zur Flexibilität beim Arbeiten. Interessenten können mehr über die Benefits auf der Karriereseite erfahren.\n\nMehr zu QAware:\nqaware.de\nqaware.de/benefits\ninfo.qaware.de/software-engineering-community\nxing.com/companies/qawaregmbh \nkununu.com/de/qaware\ngithub.com/qaware\nslideshare.net/qaware \nyoutube.com/channel/UCmNf72xADn\n\nImpressum/Imprint: www.qaware.de/impressum\n\n#CloudNative #SoftwareEngineering #Informatik #Softwarearchitektur\n#ITJob #ITJobs #ITBerater #Softwarearchitekt #Softwareingenieur #ITProjektleiter",
+    "industry": "Software Development",
+    "website": "https://www.qaware.de/karriere",
+    "linkedInUrl": "https://www.linkedin.com/company/qaware-gmbh",
+    "employeeCount": 202,
+    "foundedYear": 2005,
+    "location": "München, Germany",
+    "specialities": [
+      "Softwareentwicklung",
+      "Softwaresanierung",
+      "IT-Troubleshooting",
+      "Cloud-native Anwendungen & Architekturen",
+      "Software-Prototyping",
+      "Software-Analyse",
+      "Software-Diagnose",
+      "PoC-basierte IT-Beratung"
+    ]
+  }
+}

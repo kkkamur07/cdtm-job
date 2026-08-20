@@ -1,0 +1,162 @@
+{
+  "id": "xeniabunk",
+  "name": "Xenia Bunk",
+  "headline": "Psychotherapist in Training",
+  "avatar": {
+    "sm": "/avatars/xeniabunk-sm.webp",
+    "lg": "/avatars/xeniabunk.webp",
+    "blur": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABQBQCdASogACAAPsVQokunpKMhsAwA8BiJYwDE2YvjLbNILv7AiyVulf8nizxPFAXPcYAA/v2729ycPbpCFiRj9xbgmuSgac7T6/XBqlvPQqAsd3tG9Qm8dlb91rRYLSdlg40rX5OHeCpD81Mbtx0sjZRFFfzdzjov7tfoLn4b8Ew/rG9MuGUYgLi/3B85C1opex7AHT3w7Pcd9kmZbZpzlsJy4wE67WNtnBswFFGCPJwVZiWMlaJAVQEvigAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/xeniabunk",
+  "personId": 849,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Clinical Psychology & Cognitive Neuroscience",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Xenia Bunk",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2023 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": "Research at the Causality in Cognition Lab\nCourses in Social Entrepreneurship, Venture Capital, Climate Tech",
+      "location": "Stanford, Kalifornien, Vereinigte Staaten von Amerika",
+      "start": "2022-09",
+      "end": "2022-12",
+      "dateRange": "Sep 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Impact Analyst",
+      "company": "CEEZER",
+      "companyUrl": "https://www.linkedin.com/company/ceezer",
+      "description": null,
+      "location": "Berlin, Berlin, Deutschland",
+      "start": "2021-10",
+      "end": "2022-03",
+      "dateRange": "Oct 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Climate Action",
+      "company": "Planetly",
+      "companyUrl": "https://www.linkedin.com/company/ex-planetly",
+      "description": null,
+      "location": "Berlin, Berlin, Deutschland",
+      "start": "2021-01",
+      "end": "2021-05",
+      "dateRange": "Jan 2021 – May 2021",
+      "current": false
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Berlin, Berlin, Deutschland",
+      "start": "2020-09",
+      "end": "2020-10",
+      "dateRange": "Sep 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Ludwig-Maximilians Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Department Psychology, Chair of Psychological Methodology and Diagnostics",
+      "location": "München, Bayern, Deutschland",
+      "start": "2018-10",
+      "end": "2020-03",
+      "dateRange": "Oct 2018 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Max-Planck-Institut für Bildungsforschung",
+      "companyUrl": "https://www.linkedin.com/company/max-planck-institute-for-human-development",
+      "description": null,
+      "location": "Berlin, Berlin, Deutschland",
+      "start": "2016-10",
+      "end": "2017-01",
+      "dateRange": "Oct 2016 – Jan 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Semester Abroad, Master Thesis at Leverhulme Centre for the Future of Intelligence",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Psychology and Cognitive Neuroscience",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Stiftung Bayerische EliteAkademie (BEA)",
+      "degree": "Honours Certificate, Leadership, Management, Responsibility",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Psychology",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Heinrich-Schliemann-Gymnasium",
+      "degree": "Abitur",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "McKinsey & Company",
+    "tagline": null,
+    "description": "McKinsey & Company is a global management consulting firm. We are the trusted advisor to the world's leading businesses, governments, and institutions. \r\n\r\nWe work with leading organizations across the private, public and social sectors. Our scale, scope, and knowledge allow us to address problems that no one else can. We have deep functional and industry expertise as well as breadth of geographical reach. We are passionate about taking on immense challenges that matter to our clients and, often, to the world. \r\n\r\nWe work with our clients as we do with our colleagues. We build their capabilities and leadership skills at every level and every opportunity. We do this to help build internal support, get to real issues, and reach practical recommendations. We bring out the capabilities of clients to fully participate in the process and lead the ongoing work.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.mckinsey.com",
+    "linkedInUrl": "https://www.linkedin.com/company/mckinsey",
+    "employeeCount": 38159,
+    "foundedYear": null,
+    "location": "United States",
+    "specialities": [
+      "Management Consulting"
+    ]
+  }
+}

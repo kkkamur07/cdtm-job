@@ -1,0 +1,283 @@
+{
+  "id": "nikita-banga",
+  "name": "Nikita Banga",
+  "headline": "Educational Psychologist | EdTech Specialist | Holistic Health & Wellbeing",
+  "avatar": {
+    "sm": "/avatars/nikita-banga-sm.webp",
+    "lg": "/avatars/nikita-banga.webp",
+    "blur": "data:image/webp;base64,UklGRgoBAABXRUJQVlA4IP4AAAAwBgCdASogACAAPtFcpk6oJSMiKAqpABoJZQATx3QAOz8zeG78vjyDobG3LneKl2WyiDpsC0cAIxBAAP7xz4uBP5My5z8/3Bmim0Rw2tAvX3APFk6UyFKA0TT0zWOho06Y4YRHaJt3hXPtw7oADNbc5OoS9KUoArJQn7KQc7UsIka1AFKTIiKIYpANySecj/B3+yXaHuvGohrh+AZu6OvM04Gfo/6+XuzRpwPwhA/U6vn3szTe2XQ0jTZ5abN8uWdmZM3yMKzjaj8WqXD+AVOjII1nO1r0ma53jjQuX7VxuH9FROJwD6ZX2aJMKWpqfwoVYKSrigNAmxKJxoAwAA=="
+  },
+  "location": "North Goa, India",
+  "linkedInUrl": "https://www.linkedin.com/in/nikita-banga",
+  "personId": 1086,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "Bachelor in Psychology and M.Sc. in Educational Psychology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Nikita Banga",
+  "ca": null,
+  "summary": "Hello! I’m Nikita, an Educational Psychologist and E-learning Specialist at 'Learnesco', a company I founded. With a solid background in academic research in Psychology and Learning Sciences, coupled with hands-on experience in UX design, product development, and project management, I’m passionate about creating engaging and impactful online educational experiences using the latest tools and technologies. My diverse skill set bridges research and real-life applications, ensuring that every learning solution I design is evidence-based and user-centered.\n\nI’m also building 'The Conscious Club' — a platform and community dedicated to supporting the holistic growth and transformation of individuals, empowering them towards realizing their full potential. For over 12 years, I’ve immersed myself in a wide range of Western and Eastern philosophies and practices; blending science, spirituality, and the creative arts to support my own growth and overcome challenges in different areas of life. Now, I'm sharing these insights, tools as well as unique practices I've crafted to help others on similar journeys. My goal is to foster a conscious community where people feel supported, celebrated, and inspired by one another.\n\nIn my free time, you can find me exploring the great outdoors and seeking new adventures. I’m deeply passionate about environmental sustainability and wildlife conservation, and with a growing interest in finance and impact investing, I aim to contribute to creating a better world for future generations.",
+  "positions": [
+    {
+      "title": "Educational Psychologist",
+      "company": "Learnesco - The Learning Sciences Company",
+      "companyUrl": null,
+      "description": "Founded 'Learnesco' to provide tailored and creative solutions in the space of online education to individuals and organisations who want to publish educational content online for various purposes. Focusing on maximising engagement and retention rates as well as building learning communities by leveraging online tools & technologies with support of the latest research in the fields of Learning Sciences & Educational Psychology.",
+      "location": "India",
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Growth Guide",
+      "company": "The Conscious Club",
+      "companyUrl": null,
+      "description": "Founded 'The Conscious Club' as a platform and community space to support people through personal transformation and expansion, and empowering them towards greater levels of physical, mental, emotional and spiritual wellbeing. \nThrough one-on-one sessions and group workshops, I offer holistic and experiential guidance that comes from a large and continuously evolving foundation of knowledge and wisdom acquired over the last 10+ years in my studies of Psychology, Yoga & Meditation, Tantra, Ayurveda, Somatics and various complementary healing modalities.",
+      "location": null,
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment Analyst Intern",
+      "company": "YourNest Venture Capital",
+      "companyUrl": "https://www.linkedin.com/company/yournest-venture-capital",
+      "description": "Supporting the evaluation and selection processes of DeepTech B2B startups (AI, IoT, Robotics, AR/VR/MR, Dev. Tools, Edge Cloud etc.) at Early-Stage Venture Capital firm.",
+      "location": "Gurugram, Haryana, India",
+      "start": "2022-02",
+      "end": "2022-04",
+      "dateRange": "Feb 2022 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "FetoLife Science",
+      "companyUrl": "https://www.linkedin.com/company/fetolife-science-gmbh",
+      "description": "Developed a monetization strategy for a FetoLife, a comprehensive healthcare app for pregnant women based in the US (as part of CDTM 'Entrepreneurship Lab' course).",
+      "location": null,
+      "start": "2021-04",
+      "end": "2021-07",
+      "dateRange": "Apr 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Research Fellow @ MasterLab program",
+      "company": "Stifterverband",
+      "companyUrl": "https://www.linkedin.com/company/stifterverband",
+      "description": "The #TheNewNormal Master Lab, initiated by the Stifterverband and the Heinz Nixdorf Foundation, supports theses on digital transformation at universities. The program offers a platform for high-quality, innovative, and effective research contributions from students and networks them with each other and with experts. The Master Lab focuses specifically on the next generation of academics and supports the visualization of student research through financial and non-material support for Master's students for a maximum period of six months.",
+      "location": null,
+      "start": "2020-10",
+      "end": "2021-03",
+      "dateRange": "Oct 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Product Developer",
+      "company": "Avi Medical",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": "Conceptualised 'Praxical', a dynamic scheduling solution for medical practices that reduces waiting time while providing real-time updates to doctors and patients (as part of CDTM 'Managing Product Development' course).",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-04",
+      "end": "2020-07",
+      "dateRange": "Apr 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Junior AI Education Associate",
+      "company": "appliedAI Initiative - UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": "Conceptualisation, development and quality assessment of educational offerings on the topic of Artificial Intelligence for businesses as well as social sector. Specialising in collaborative online learning and instructional design.",
+      "location": "Munich",
+      "start": "2019-10",
+      "end": "2021-10",
+      "dateRange": "Oct 2019 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Ludwig-Maximilians Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Assisted in teaching Psychology courses (Introduction to Medicinal Psychology, Doctor-Patient Communication) at the Institute of Medical Psychology at LMU Munich using case studies, flipped classroom approach, multimedia and simulations.",
+      "location": "Munich Area, Germany",
+      "start": "2019-05",
+      "end": "2019-11",
+      "dateRange": "May 2019 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Management Trainee",
+      "company": "SB Packagings Pvt. Ltd.",
+      "companyUrl": "https://www.linkedin.com/company/sb-constantia",
+      "description": "Monitored analytics and reporting of production processes and quality control on SAP and assisted in employee training programs to adopt SAP standards.",
+      "location": "Haryana, India",
+      "start": "2019-03",
+      "end": "2019-04",
+      "dateRange": "Mar 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "The University of Hong Kong",
+      "companyUrl": "https://www.linkedin.com/company/universityofhongkong",
+      "description": "- Facilitated pedagogical research project on student engagement at the Centre for the Enhancement of Teaching and Learning (CETL). \n- Speaker at recurring course '3-Day Intensive Professional Certificate in Teaching and Learning in Higher Education' for newly appointed teaching staff at HKU.\n- Presentation “Excellence through Empathy” at conference 'Co-Constructing Excellence: Recognising, Scaffolding and Building Excellence in University Teaching and Learning'.",
+      "location": "Hong Kong",
+      "start": "2017-10",
+      "end": "2018-09",
+      "dateRange": "Oct 2017 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Undergraduate Researcher",
+      "company": "Community Actions & Research Lab (CARlab), HKU",
+      "companyUrl": "https://www.linkedin.com/company/universityofhongkong",
+      "description": "Independently conducted international study on ‘The effect of Ashtanga Yoga on Boredom Proneness’ and further investigated mediating relationships of ‘Smartphone Addiction, Attention Sustenance and Mental Health’.",
+      "location": "Hong Kong",
+      "start": "2016-09",
+      "end": "2017-05",
+      "dateRange": "Sep 2016 – May 2017",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "3D Vision & Action Lab, HKU",
+      "companyUrl": "https://www.linkedin.com/company/universityofhongkong",
+      "description": "- Collected data on experimental study investigating human vision and perception of '3D slant and shape' from various cues\n- Developed Cognitive Science research study proposal: 'Altering feedback for VR-induced obstacle-collision walking adaptation task influences the subsequent generalization pattern'",
+      "location": "Hong Kong",
+      "start": "2015-09",
+      "end": "2015-12",
+      "dateRange": "Sep 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Intern - Corporate Social Responsibility (CSR)",
+      "company": "Sa Sa International Holdings Limited",
+      "companyUrl": "https://www.linkedin.com/company/sa-sa-international-holdings-limited",
+      "description": "- Conducted market research of sustainable technologies and graded existing practices.\n- Independently developed prototype and content of gaming app promoting sustainability.",
+      "location": "Chai Wan, Hong Kong",
+      "start": "2015-06",
+      "end": "2015-07",
+      "dateRange": "Jun 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Associate Analyst",
+      "company": "HKU Student Consulting Group",
+      "companyUrl": null,
+      "description": "Carried out consumer research, digital marketing, content management for social networking app as well as led application launch event at HK Technology Expo 2015.",
+      "location": "The University of Hong Kong, Hong Kong",
+      "start": "2015-02",
+      "end": "2016-05",
+      "dateRange": "Feb 2015 – May 2016",
+      "current": false
+    },
+    {
+      "title": "Intern - Psychology and Holistic Medicine",
+      "company": "Artemis Hospitals",
+      "companyUrl": "https://www.linkedin.com/company/artemishospital",
+      "description": "Conducted counselling sessions and provided pain management therapy as part of the Psychology and Holistic Medicine Department.",
+      "location": null,
+      "start": "2014-05",
+      "end": "2014-08",
+      "dateRange": "May 2014 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Dr Rachna Singh's Mind & Wellness Clinic",
+      "companyUrl": null,
+      "description": "- Facilitated in content development, logistics and marketing of Health and Wellness mobile app and in recording of ‘Learn to De-Stress CD’ with ‘T-Series’ music label.\n- Compiled content as part of a team for book on Workplace Stress.",
+      "location": "NCR, India",
+      "start": "2014-05",
+      "end": "2014-08",
+      "dateRange": "May 2014 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Intern - Product Content Management",
+      "company": "Isango!",
+      "companyUrl": "https://www.linkedin.com/company/isango",
+      "description": "- Assisted in product content management & SEO for travel start-up.\n- Established stronger social media presence & developed advertising campaigns.",
+      "location": "Gurgaon, India",
+      "start": "2011-06",
+      "end": "2011-08",
+      "dateRange": "Jun 2011 – Aug 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honour's degree in Technology Management",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master's degree, Educational Psychology",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "The University of Hong Kong",
+      "degree": "Bachelor of Social Science, Psychology, Cognitive Science, German",
+      "dateRange": "2013 – 2017"
+    },
+    {
+      "school": "Humboldt-Universität zu Berlin",
+      "degree": "German Language and Literature",
+      "dateRange": "2016"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Undergraduate Exchange Programme, Psychology and German",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Delhi Public School - R. K. Puram",
+      "degree": null,
+      "dateRange": "1999 – 2013"
+    }
+  ],
+  "skills": [
+    "Instructional Design",
+    "Educational Technology",
+    "User Experience",
+    "Social learning & community building",
+    "Project Planning",
+    "Content Development & Design",
+    "Curriculum Structuring & Instructional Design",
+    "Mentorship",
+    "Spaceholding",
+    "Active Listening",
+    "Trauma Informed Care",
+    "Somatics",
+    "Collaborative Learning & Community Building",
+    "Curriculum Structuring",
+    "Data Analysis",
+    "Psychometrics",
+    "E-Learning",
+    "Web Design",
+    "Consumer Behaviour",
+    "Digital Marketing"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": null
+}

@@ -1,0 +1,286 @@
+{
+  "id": "patricknepper",
+  "name": "Dr. Patrick Nepper",
+  "headline": "Group Product Manager, Google Chrome",
+  "avatar": null,
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/patricknepper",
+  "personId": 1953,
+  "classes": [
+    {
+      "id": 54,
+      "label": "Fall 2003",
+      "season": "Fall",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2003",
+  "major": null,
+  "roles": [
+    "student",
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Patrick Nepper",
+  "ca": {
+    "alumni": true,
+    "about": null,
+    "responsibilities": [],
+    "researchFields": [],
+    "email": null
+  },
+  "summary": "Group Product Manager at the Google Safety Engineering Center in Munich, Germany. Leading a team of product managers focused on helping people around the world take actionable goals to completion. Dad, runner, politician, councilman and ex-entrepreneur.\n\nThe views expressed here are my own and do not represent the views of my employer.\n\nI am a product leader with a passion for making technology more intuitive and secure. I studied computer science at Ludwig‑Maximilians‑Universität München focusing on mobile and distributed systems and computational linguistics. My diploma thesis centred on using spoken‑dialogue interfaces to provide location-based services on the go — a concept later published as ‘Adding Speech to Location‑based Services’.\n\nAfter earning my PhD from the Technical University of Munich, I joined Google’s Chrome team, where I now lead cross‑functional efforts to integrate AI and security features into the browser. My goal is to bring cutting‑edge AI to billions of users in a way that is seamless, secure and respectful of privacy.",
+  "positions": [
+    {
+      "title": "Group Product Manager",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Product Lead for Chrome Transactions, leading an international team of Product Managers.\nFocus on AI‑driven security and productivity features for Chrome.",
+      "location": null,
+      "start": "2022-05",
+      "end": null,
+      "dateRange": "May 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Councilman",
+      "company": "Stadt Traunstein",
+      "companyUrl": "https://www.linkedin.com/company/stadt-traunstein",
+      "description": null,
+      "location": null,
+      "start": "2020-05",
+      "end": null,
+      "dateRange": "May 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "100 versions of Chrome later: What we learned along the way",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "5 new features to easily manage your passwords in Chrome",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Product Lead for Chrome Transactions.",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Fix your passwords in Chrome with a single tap",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Tired of memorizing p4ssw0rd$? The new Chrome has your back.",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Continuously improved the password manager and autofill reliability, allowing users to manage passwords, payment methods and addresses in one place.",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "More secure and convenient Autofill coming to Chrome",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Introduced biometric authentication for credit‑card autofill and touch‑to‑fill sign‑in dialogues to improve security and convenience.",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Better password protections in Chrome - How it works",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Championed real‑time password leak warnings and predictive phishing protection, leveraging machine‑learning and privacy‑preserving cryptography.",
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Full-time",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": "2020-11",
+      "end": "2022-05",
+      "dateRange": "Nov 2020 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Led development of automatic password‑change capability using Duplex on the Web, enabling users to fix compromised passwords with one tap.",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Product Manager on the Google Chrome Team.\n\nProjects\n- Chrome Duplex (Automated Password Changes)\n- Password Manager\n- Chrome Autofill\n- Chrome New Tab Page w/ stories and popular sites\n- Chrome / Chrome OS Supervised Users\n- Chrome Enterprise\n- Chrome Privacy\n- V8",
+      "location": null,
+      "start": "2011-01",
+      "end": "2020-11",
+      "dateRange": "Jan 2011 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Founder and Managing Director",
+      "company": "AllMyShots GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2008-02",
+      "end": "2010-07",
+      "dateRange": "Feb 2008 – Jul 2010",
+      "current": false
+    },
+    {
+      "title": "Founder and Managing Director",
+      "company": "AllMyShots Ltd. & Co KG",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2007-06",
+      "end": "2008-01",
+      "dateRange": "Jun 2007 – Jan 2008",
+      "current": false
+    },
+    {
+      "title": "Member of the Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": null,
+      "start": "2006-11",
+      "end": "2010-10",
+      "dateRange": "Nov 2006 – Oct 2010",
+      "current": false
+    },
+    {
+      "title": "Founder and Acting Partner",
+      "company": "Web Access GbR",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "1997-01",
+      "end": "2001-12",
+      "dateRange": "Jan 1997 – Dec 2001",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "PhD, Computer Science",
+      "dateRange": "2006 – 2011"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diploma, Computer Science",
+      "dateRange": "2001 – 2006"
+    }
+  ],
+  "skills": [
+    "Strategic Thinking",
+    "Management",
+    "Enterprise Software",
+    "Artificial Intelligence (AI)",
+    "Strategy",
+    "Entrepreneurship",
+    "E-commerce",
+    "Project Management",
+    "Product Management",
+    "User Experience",
+    "Cybersecurity",
+    "Product Development",
+    "Computer Science",
+    "Software Engineering",
+    "Human Computer Interaction",
+    "Technology Management",
+    "Computational Linguistics",
+    "Voice User Interface (VUI)"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Google",
+    "tagline": null,
+    "description": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.\n\nCheck out our career opportunities at goo.gle/3DLEokh",
+    "industry": "Software Development",
+    "website": "https://goo.gle/3DLEokh",
+    "linkedInUrl": "https://www.linkedin.com/company/google",
+    "employeeCount": 341631,
+    "foundedYear": null,
+    "location": "Mountain View, United States",
+    "specialities": [
+      "search",
+      "ads",
+      "mobile",
+      "android",
+      "online video",
+      "apps",
+      "machine learning",
+      "virtual reality",
+      "cloud",
+      "hardware",
+      "artificial intelligence",
+      "youtube",
+      "software"
+    ]
+  }
+}

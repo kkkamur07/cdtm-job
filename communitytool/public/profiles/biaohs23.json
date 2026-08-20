@@ -1,0 +1,247 @@
+{
+  "id": "biaohs23",
+  "name": "Shoaib Khan",
+  "headline": "Senior Manager @ Databricks",
+  "avatar": {
+    "sm": "/avatars/biaohs23-sm.webp",
+    "lg": "/avatars/biaohs23.webp",
+    "blur": "data:image/webp;base64,UklGRgoBAABXRUJQVlA4IP4AAACQBQCdASogACAAPtFao00oJSMiKA1RABoJZACdINBKKSMfDxMb+NHDg0Zy9+sHy3EYq5JY3AD+7M6hOtzl/Ig+k5zWQFpK5oaof1V3kLgfz9VVpCCTKeZc2gB4n3XrWxpf1iyJPE+LrOGZlo8XqzXdPw2n49YuHySrM5Txjd+AH5Ofl37lIdwiALlTV/u14c4HOoTdThTmdlx1+lU+uDYNxNHYzIUc/huW7yYu90wuLy2LvbBa2sjOVGwuSJTedyqoFvetv6fhYfE7NenwIL7CJxu8KkJzmF5xmht+lOIgd92igN1TtHy9ZY+tN/t4cLh7ySs3/Lds+xWl/gAAAA=="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/biaohs23",
+  "personId": 1006,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Shoaib Khan",
+  "ca": null,
+  "summary": "Love building great products, highly effective teams and doing great things!",
+  "positions": [
+    {
+      "title": "Senior Manager Professional Services",
+      "company": "Databricks",
+      "companyUrl": "https://www.linkedin.com/company/databricks",
+      "description": "I lead GTM for Databricks’ Professional Services team in Central EMEA, driving high-impact data and AI solutions across Germany, Switzerland, Austria, and Eastern Europe. Our team specializes in first-of-a-kind, complex projects that make a real difference for our customers. We focus on driving innovation, ensuring flawless execution, and delivering measurable results through the Databricks Lakehouse Platform and our Professional Services portfolio.",
+      "location": null,
+      "start": "2024-05",
+      "end": null,
+      "dateRange": "May 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Engagement Manager",
+      "company": "Databricks",
+      "companyUrl": "https://www.linkedin.com/company/databricks",
+      "description": "As a Senior Engagement Manager, I led Databricks’ Professional Services business in Germany & Switzerland, focusing on strategic and enterprise clients. I managed large-scale, transformative projects, ensuring successful delivery of data and AI solutions while driving meaningful business outcomes for our customers.",
+      "location": null,
+      "start": "2021-10",
+      "end": "2024-04",
+      "dateRange": "Oct 2021 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Senior IT Project Manager @BI & BigData",
+      "company": "Allianz Technology",
+      "companyUrl": "https://www.linkedin.com/company/allianz-technology",
+      "description": "As a Senior Project Manager, I led the planning, staffing, financials, and delivery oversight for the Catastrophe Target Architecture program, one of the largest NatCat initiatives. I was responsible for ensuring successful execution, maintaining alignment with the customer, and being part of the higher management SteerCo to drive strategic goals.",
+      "location": null,
+      "start": "2019-08",
+      "end": "2021-09",
+      "dateRange": "Aug 2019 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "IT Project Manager",
+      "company": "Allianz Technology",
+      "companyUrl": "https://www.linkedin.com/company/allianz-technology",
+      "description": "As a Project Manager, I was responsible for leading the CAT Services & CAT UI sub-components of the Catastrophe Target Architecture program. I oversaw the planning and execution of this critical segment, ensuring alignment with overall program objectives and contributing to the success of one of the largest NatCat initiatives.",
+      "location": null,
+      "start": "2018-08",
+      "end": "2019-07",
+      "dateRange": "Aug 2018 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Global Graduate Program - BI & BigData",
+      "company": "Allianz Technology",
+      "companyUrl": "https://www.linkedin.com/company/allianz-technology",
+      "description": "As a Global Graduate Trainee at Allianz, I gained broad international experience by working across various business units in Munich and Bangkok. I collaborated with the Oracle ExaData and Cloudera teams in Germany and the business analysts team in Thailand. This program, aimed at developing future leaders, gave me valuable exposure to Allianz’s global operations and cloud infrastructure.",
+      "location": null,
+      "start": "2017-04",
+      "end": "2018-07",
+      "dateRange": "Apr 2017 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "Master Thesis Student",
+      "company": "Allianz Technology",
+      "companyUrl": "https://www.linkedin.com/company/allianz-technology",
+      "description": "As a Master’s Thesis Student at Allianz SE, I applied process mining techniques to optimize the Solvency II Closing Process. My work focused on identifying inefficiencies in the process, analyzing event logs, and providing recommendations for process improvements. This research contributed to exploring the use of process mining across the insurance value chain to enhance operational efficiency.",
+      "location": null,
+      "start": "2016-02",
+      "end": "2017-03",
+      "dateRange": "Feb 2016 – Mar 2017",
+      "current": false
+    },
+    {
+      "title": "Digital Product Manager",
+      "company": "Bramerz Digital",
+      "companyUrl": "https://www.linkedin.com/company/bramerzdigital",
+      "description": null,
+      "location": null,
+      "start": "2012-03",
+      "end": "2013-08",
+      "dateRange": "Mar 2012 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Product Design Engineer",
+      "company": "Bramerz Digital",
+      "companyUrl": "https://www.linkedin.com/company/bramerzdigital",
+      "description": null,
+      "location": null,
+      "start": "2011-11",
+      "end": "2012-02",
+      "dateRange": "Nov 2011 – Feb 2012",
+      "current": false
+    },
+    {
+      "title": "Co-founder & COO",
+      "company": "X News",
+      "companyUrl": "https://www.linkedin.com/company/x-news12412412",
+      "description": null,
+      "location": null,
+      "start": "2009-04",
+      "end": "2012-04",
+      "dateRange": "Apr 2009 – Apr 2012",
+      "current": false
+    },
+    {
+      "title": "Information Technology Business Analyst",
+      "company": "SSE plc",
+      "companyUrl": "https://www.linkedin.com/company/sse-plc",
+      "description": null,
+      "location": null,
+      "start": "2006-12",
+      "end": "2007-08",
+      "dateRange": "Dec 2006 – Aug 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master’s Degree, Informatics",
+      "dateRange": "2013 – 2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor's in Technology Management, Honours Degree in Technology Management, Technology & Management",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Bahria University",
+      "degree": "Bachelor of Software Engineering, Software Engineering",
+      "dateRange": "2007 – 2011"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Negotiation",
+    "SQL",
+    "Sales",
+    "Communication",
+    "Problem Solving",
+    "Strategy",
+    "Team Management",
+    "Business Development",
+    "Business Intelligence",
+    "Digital Strategy",
+    "Analytical Skills",
+    "Project Management",
+    "Product Management",
+    "Process Improvement",
+    "Strategic Partnerships",
+    "Business Strategy",
+    "Management Consulting",
+    "Budget Management",
+    "Product Development",
+    "Cross-functional Team Leadership",
+    "Customer Success",
+    "Enterprise Architecture",
+    "Change Management",
+    "IT Service Management",
+    "Information Technology",
+    "Go-to-Market Strategy",
+    "Professional Services",
+    "Data Warehousing",
+    "Business Intelligence (BI)",
+    "Big Data Analytics",
+    "Project Delivery",
+    "Customer Journey Mapping",
+    "Digital Transformation",
+    "International Business Development",
+    "Team Organisation",
+    "Process Mining",
+    "Prince Practitioner",
+    "Client Management",
+    "Celonis",
+    "Jira",
+    "Confluence",
+    "client management"
+  ],
+  "languages": [
+    "English",
+    "Shina",
+    "German"
+  ],
+  "company": {
+    "name": "Databricks",
+    "tagline": null,
+    "description": "Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and over 60% of the Fortune 500 — rely on Databricks to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified Data Intelligence Platform that includes Agent Bricks, Lakeflow, Lakehouse, Lakebase and Unity Catalog. \n\n---\nDatabricks applicants\n\nPlease apply through our official Careers page at databricks.com/company/careers. \n\nAll official communication from Databricks will come from email addresses ending with @databricks.com or @goodtime.io (our meeting tool).",
+    "industry": "Software Development",
+    "website": "https://databricks.com",
+    "linkedInUrl": "https://www.linkedin.com/company/databricks",
+    "employeeCount": 15133,
+    "foundedYear": null,
+    "location": "San Francisco, United States",
+    "specialities": [
+      "Apache Spark",
+      "Apache Spark Training",
+      "Cloud Computing",
+      "Big Data",
+      "Data Science",
+      "Delta Lake",
+      "Data Lakehouse",
+      "MLflow",
+      "Machine Learning",
+      "Data Engineering",
+      "Data Warehousing",
+      "Data Streaming",
+      "Open Source",
+      "Generative AI",
+      "Artificial Intelligence",
+      "Data Intelligence",
+      "Data Management",
+      "Data Goverance",
+      "Generative AI",
+      "AI/ML Ops"
+    ]
+  }
+}

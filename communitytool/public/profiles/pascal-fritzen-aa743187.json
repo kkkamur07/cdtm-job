@@ -1,0 +1,221 @@
+{
+  "id": "pascal-fritzen-aa743187",
+  "name": "Pascal Fritzen",
+  "headline": "Co-Founder & Head of Product @ Workpath | The leading execution platform for strategy and beyond.",
+  "avatar": {
+    "sm": "/avatars/pascal-fritzen-aa743187-sm.webp",
+    "lg": "/avatars/pascal-fritzen-aa743187.webp",
+    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAADQBQCdASogACAAPslSoUunpKMht/VYAPAZCWgAnS/Ug7Cg32VUFTPo53Vh4VMzNDirblg8/ylgAP7ZE4RIL4Oxf4l+hgOIQERlPLJ0mQRR0n4+LKV7XVv3NE8jJlf3f470p8fTODJ1gtvTHjwMnySUlutpDLv+TJtmN2hocnWcwGoYJgJShTlAsDkGOiYYKZ4NEEW81LmWTWAHzqvSB20bXzf/J7fkQmJUmktuOPZtaUFR2Gt5EiRs851HfvA+jAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/pascal-fritzen-aa743187",
+  "personId": 898,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Pascal Fritzen",
+  "ca": null,
+  "summary": "Working on a more purpose-driven, agile and autonomous future of work. Enabling our customers at Workpath to get better and faster from strategic goals to business results.",
+  "positions": [
+    {
+      "title": "Co-Founder & Head of Product",
+      "company": "Workpath",
+      "companyUrl": "https://www.linkedin.com/company/workpathhq",
+      "description": null,
+      "location": "On-site",
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & AI x Product-led Growth (PLG)",
+      "company": "Workpath",
+      "companyUrl": "https://www.linkedin.com/company/workpathhq",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-08",
+      "end": "2025-01",
+      "dateRange": "Aug 2022 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Enabling our customers to better define and achieve their most important goals.",
+      "company": "Workpath",
+      "companyUrl": "https://www.linkedin.com/company/workpathhq",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-02",
+      "end": "2022-07",
+      "dateRange": "Feb 2021 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CPTO",
+      "company": "Workpath",
+      "companyUrl": "https://www.linkedin.com/company/workpathhq",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-05",
+      "end": "2021-01",
+      "dateRange": "May 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CPO",
+      "company": "Workpath",
+      "companyUrl": "https://www.linkedin.com/company/workpathhq",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-03",
+      "end": "2020-04",
+      "dateRange": "Mar 2017 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Useley GmbH",
+      "companyUrl": null,
+      "description": "useley was the Airbnb for consumer products, an online marketplace to rent products like cameras, drills and VR gaming consoles from others.\nAs one of the Co-founders I helped building the company and its online marketplace from scratch, closing one funding round and exiting in 2017 to a corporate.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2015-08",
+      "end": "2017-04",
+      "dateRange": "Aug 2015 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Full-Stack Engineer Freelancer",
+      "company": "Metriko",
+      "companyUrl": "https://www.linkedin.com/company/metriko",
+      "description": "Designed and implemented a data pipeline for real-time geo tracking of mobile devices based on WiFi signals.\n\nTech Stack: AWS SQS, Java, PostgreSQL",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2014-01",
+      "end": "2014-05",
+      "dateRange": "Jan 2014 – May 2014",
+      "current": false
+    },
+    {
+      "title": "Full-Stack Software Engineer Freelancer",
+      "company": "Selbstständig",
+      "companyUrl": null,
+      "description": "Designed, implemented and sold native iOS applications to customers such as IBM Global Services. Applications included e.g. loyalty management which were showcased at CeBIT.\n\nTech Stack: Obj-C, Django, OData, SAP ERP",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2013-02",
+      "end": "2014-08",
+      "dateRange": "Feb 2013 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Web Development Working Student",
+      "company": "Fortiss",
+      "companyUrl": "https://www.linkedin.com/company/fortiss",
+      "description": "Web Development and UX/UI for various B2B SaaS projects\n\nTech Stack: Java, Liferay, HTML, CSS, JavaScript, MySQL",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2012-01",
+      "end": "2014-04",
+      "dateRange": "Jan 2012 – Apr 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology and Management",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Information Systems",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Wirtschaftsinformatik",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "ETH Zürich",
+      "degree": "Master Thesis",
+      "dateRange": "2015 – 2016"
+    }
+  ],
+  "skills": [
+    "Software Development",
+    "Software Engineering",
+    "Mobile Applications",
+    "Team Leadership",
+    "iOS",
+    "Java",
+    "Arduino",
+    "HTML",
+    "Primefaces",
+    "XML",
+    "JSON",
+    "JavaScript",
+    "PostgreSQL",
+    "MySQL",
+    "Mac",
+    "Eclipse",
+    "Django",
+    "Web-Entwicklung",
+    "Webdesign",
+    "User Experience Design",
+    "REST",
+    "Lean Start-Up"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Workpath",
+    "tagline": "Enabling organizations to define and achieve their most important goals.",
+    "description": "Workpath is a strategic planning software company helping organizations turn their most important goals into measurable results.\n\nOur platform enables leadership teams to define strategic priorities, align execution across the organization, and track progress with clarity and accountability.\n\nIn addition to our software, we offer advisory and enablement services to support successful strategy deployment and lasting execution discipline.\n\nOur mission: Enabling organizations to define and achieve their most important goals.",
+    "industry": "Software Development",
+    "website": "https://www.workpath.com",
+    "linkedInUrl": "https://www.linkedin.com/company/workpathhq",
+    "employeeCount": 39,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Strategy Execution",
+      "Operating Model",
+      "AI in Strategy",
+      "Strategy Execution Trainings",
+      "OKRs",
+      "Outcome Management",
+      "KPI Management",
+      "Alignment of Strategy and Teams",
+      "Functional Steering",
+      "Frameworks & Methodologies",
+      "Strategic Planning",
+      "Strategic Planning Software",
+      "Enterprise Goal Management",
+      "Corporate Strategy Deployment",
+      "Strategic Alignment",
+      "Goal Setting & Tracking",
+      "Strategy Enablement",
+      "Strategic Advisory & Enablement",
+      "Business Execution Platform",
+      "Outcome-Based Management",
+      "AI-Enabled Strategic Planning",
+      "AI-Powered Goal Management"
+    ]
+  }
+}

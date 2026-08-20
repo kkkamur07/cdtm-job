@@ -1,0 +1,238 @@
+{
+  "id": "sandesh-sharma",
+  "name": "Sandesh Sharma",
+  "headline": "TUM | CDTM | Nomadic Drones | Into deep learning and robotics",
+  "avatar": {
+    "sm": "/avatars/sandesh-sharma-sm.webp",
+    "lg": "/avatars/sandesh-sharma.webp",
+    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAABwBQCdASogACAAPtFcpk6oJSMiKAqpABoJbACdAYwys2xo6wYAJfzaTlqAN01FNPOvEiqoAP78e3Ti0ZeE8Seec9e7/LN8M1YBkq6dw9Q6isOQ3wkRBjMgz84T1UjYd9mlI98g5QunzfjxdWhGxCCXVePXF5R0XF3+fL6nSQOOFiQxH2FwNnTj9LgyHrDoo1+CBy1T3Ipy5CQiOfUN8zaa/SStJUtbRtQ3Z8bNUOq6lCawrN+YQMGTKmCZQ/R1tWeh1P3aw4sEcB7Cfu951Y7rPHlMiGhvtbAnljYqOiZln1cWyWGeHu4DjsqDx3CXtAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sandesh-sharma",
+  "personId": 852,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "MSc in Computer Science (TUM, NUS)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sandesh Sharma",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founding Engineer - Drone Software",
+      "company": "Nomadic Drones",
+      "companyUrl": "https://www.linkedin.com/company/nomadic-drones",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Master Thesis Student",
+      "company": "Recogni",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": "Understanding and optimizing accumulator bitwidth for neural network accelerators.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-10",
+      "end": "2025-05",
+      "dateRange": "Oct 2024 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Working Student - AI Engineer LLM Quantization",
+      "company": "Recogni",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": "Development of conversion & quantization methods for neural networks, especially Large Language Models (LLMs), to improve inference speed using lower bitwidth while maintaining high performance.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-10",
+      "end": "2024-10",
+      "dateRange": "Oct 2023 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Autonomy Engineering Intern",
+      "company": "Skydio",
+      "companyUrl": "https://www.linkedin.com/company/skydio",
+      "description": "Improving dock landing reliability by\n- analyzing current failures and understanding failure modes\n- creating a dataset using data from failures from the real world\n- enhancing synthetic datasets by making them more diverse and including failure modes observed on the field\n- retraining, deploying and testing neural networks needed for dock landing detection\n- other optimizations and improvements on large C++/Python codebase",
+      "location": "San Mateo, Kalifornien, Vereinigte Staaten von Amerika",
+      "start": "2023-05",
+      "end": "2023-09",
+      "dateRange": "May 2023 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Video Editor",
+      "company": "Plant-for-the-Planet",
+      "companyUrl": "https://www.linkedin.com/company/plant-for-the-planet",
+      "description": "Edited videos to raise awareness & donations for plant for the planet & partner organizations",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-12",
+      "end": "2023-05",
+      "dateRange": "Dec 2022 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Working Student Robotic Exploration",
+      "company": "German Aerospace Center (DLR)",
+      "companyUrl": "https://www.linkedin.com/company/dlr",
+      "description": "Participated in the research mission ARCHES to Mt. Etna, Italy to test rovers and drones for extraterrestrial applications",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-02",
+      "end": "2022-07",
+      "dateRange": "Feb 2022 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis",
+      "company": "German Aerospace Center (DLR)",
+      "companyUrl": "https://www.linkedin.com/company/dlr",
+      "description": "Developed a landing spot detection algorithm for MAVs to land in unstructured terrain. \nDLR is developing drones for extraterrestrial exploration, due to the long communication latency they need to operate autonomously.\nAs bachelor's thesis I developed an algorithm to find safe landing spots in unstructured terrain to use as emergency landing spots during mission failures. Developed in C++ using ROS, OpenCV and Eigen, tested with data from the laboratory and Mt. Etna.",
+      "location": "Oberpfaffenhofen",
+      "start": "2020-10",
+      "end": "2021-05",
+      "dateRange": "Oct 2020 – May 2021",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "TRUMPF",
+      "companyUrl": "https://www.linkedin.com/company/trumpf-se-co-kg",
+      "description": "- porting the TRUDC800 software to a new processor generation including testing and incorporating advanced hardware functionality of the new processor\n- writing a C driver for analogue-digital-converter (both sigma delta modulation and successive approximation) making the code more readable, more portable and easier to maintain\n- porting the TRUDC800 boot loader to a new processor generation, including testing & verification of communication and software update functionality\n- developing python scripts for automatic software update tests using an embedded website and email notifications\n- building, implementing and verifying a prototype for an analogue to digital converter using sigma delta filter",
+      "location": "Freiburg Area, Germany",
+      "start": "2017-05",
+      "end": "2017-07",
+      "dateRange": "May 2017 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Software Developer Internship",
+      "company": "TRUMPF",
+      "companyUrl": "https://www.linkedin.com/company/trumpf-se-co-kg",
+      "description": "- porting embedded software to a new processor generation\n- automated testing of an embedded website using python\n- enhancements and bugfixes of an embedded website\n- tolerance calculation of electric circuits (isolated voltage measurement)\n- building a control prototype to test a new processor generation",
+      "location": "Freiburg Area, Germany",
+      "start": "2017-02",
+      "end": "2017-04",
+      "dateRange": "Feb 2017 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "University of Hyderabad",
+      "companyUrl": "https://www.linkedin.com/company/university-of-hyderabad",
+      "description": "- Made an internship at the School of Engineering Sciences and Technology in the field of nanomaterials\n- Synthesized graphene from graphite oxide (GO) using a chemical method and verified number of atom layers (ca. 20) using Field Emission Scanning Electron Microscopy and x-ray diffraction.\n- Prepared graphene/polyvinyl alcohol (G/PVA) composite materials with various concentrations of graphene to improve the electromagnetic interference shielding capabilities of polyvinyl alcohol.\n- Concluded that with 10% graphene in the G/PVA composite, the shielding effectiveness is best as only 4% of 8.2GHz waves (X-band) pass the material, compared to 90% with plain PVA.",
+      "location": "Hyderabad Area, India",
+      "start": "2016-10",
+      "end": "2016-11",
+      "dateRange": "Oct 2016 – Nov 2016",
+      "current": false
+    },
+    {
+      "title": "Filmmaker",
+      "company": "FairFilm Productions",
+      "companyUrl": null,
+      "description": "- Photographer at Seesucht Festival 2016.\n- Created social media clips from a video database about the black forest\n- Helped in many other situations with editing, filming and photographing.",
+      "location": "Freiburg Area, Germany",
+      "start": "2016-08",
+      "end": "2016-09",
+      "dateRange": "Aug 2016 – Sep 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Informatics",
+      "dateRange": "2021 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Informatics",
+      "dateRange": "2017 – 2021"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "exchange semester, Computer Science",
+      "dateRange": "2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Participation in a Summer School \"Ferienakademie\", Agile Aircraft Design",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Kepler Gymnasium Freiburg",
+      "degree": "Abitur, focus on physics and social studies",
+      "dateRange": "2008 – 2016"
+    },
+    {
+      "school": "Freiburg Seminar",
+      "degree": "Electronics/Working with Microcontrollers",
+      "dateRange": "2013 – 2014"
+    }
+  ],
+  "skills": [
+    "Drones",
+    "Robot Operating System (ROS)",
+    "Space Exploration",
+    "Computer Vision",
+    "Robotics",
+    "Deep Neural Networks (DNN)",
+    "Large Language Models (LLM)",
+    "Neural Network Quantization",
+    "Artificial Intelligence (AI)",
+    "DaVinci Resolve",
+    "Video Production",
+    "Teamwork",
+    "Software Development",
+    "Communication",
+    "Photography",
+    "Editing",
+    "C++",
+    "Python (Programming Language)",
+    "iOS",
+    "Embedded Systems"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Nomadic Drones",
+    "tagline": "Ensure grid resilience with smarter asset inspections",
+    "description": "At Nomadic Drones, we conduct inspections of Transmission & Distribution lines at scale with autonomous self-recharging drones, and empower grid operations teams with digital tools to mitigate risks",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.nomadicdrone.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/nomadic-drones",
+    "employeeCount": 6,
+    "foundedYear": 2023,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Powerline Inspection",
+      "Autonomous Drones",
+      "Image recognition",
+      "AI"
+    ]
+  }
+}

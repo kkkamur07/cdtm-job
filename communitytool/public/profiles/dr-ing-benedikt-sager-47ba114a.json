@@ -1,0 +1,138 @@
+{
+  "id": "dr-ing-benedikt-sager-47ba114a",
+  "name": "Dr.-Ing. Benedikt Sager",
+  "headline": "Leiter Referenzsystem Energiemodul",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-ing-benedikt-sager-47ba114a",
+  "personId": 1857,
+  "classes": [
+    {
+      "id": 62,
+      "label": "Fall 2007",
+      "season": "Fall",
+      "year": 2007,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2007",
+  "major": "Mechatronics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Benedikt Sager",
+  "ca": null,
+  "summary": "Work at BMW Group",
+  "positions": [
+    {
+      "title": "Leiter Referenzsystem Energiemodul",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-01",
+      "end": null,
+      "dateRange": "Jan 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Leiter Netzwerk Zellmodul",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-05",
+      "end": "2021-12",
+      "dateRange": "May 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Leiter Planung Kurbelwelle Pleuel Werk Steyr",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Steyr, Upper Austria, Austria",
+      "start": "2018-07",
+      "end": "2020-07",
+      "dateRange": "Jul 2018 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Spezialist Produktionsstrategie",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2012-02",
+      "end": "2018-06",
+      "dateRange": "Feb 2012 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Trainee",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2011-04",
+      "end": "2012-07",
+      "dateRange": "Apr 2011 – Jul 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr.-Ing., Engineering Science",
+      "dateRange": "2013 – 2016"
+    }
+  ],
+  "skills": [
+    "Ingenieurwesen",
+    "Englisch",
+    "Strategie",
+    "Automobilindustrie",
+    "Analytische Fähigkeiten",
+    "Microsoft Excel",
+    "Hochvoltspeicher",
+    "Produktionsplanung",
+    "Produktionsstrategie",
+    "Kapazitätsmanagement",
+    "Produktionssysteme",
+    "Mitarbeiterführung"
+  ],
+  "languages": [],
+  "company": {
+    "name": "BMW Group",
+    "tagline": "We make individual mobility more human, more intelligent and more responsible.",
+    "description": "With its four brands, BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world’s leading premium manufacturer of automobiles and motorcycles and also provides premium financial services. The BMW Group production network comprises over 30 production sites worldwide; the company has a global sales network in more than 140 countries.\n\nIn 2025, the BMW Group sold 2.46 million passenger vehicles and more than 202,500 motorcycles worldwide. The profit before tax in the financial year 2025 was € 10.2 billion on revenues amounting to € 133,5 billion. As of 31 December 2025, the BMW Group had a workforce of 154,540 employees.\n\nThe economic success of the BMW Group has always been based on long-term thinking and respon-sible action. Sustainability is a key element of the BMW Group’s corporate strategy and covers all products – from the supply chain through production to the end of their useful life.",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://www.bmwgroup.com/en/general/imprint.html",
+    "linkedInUrl": "https://www.linkedin.com/company/bmw-group",
+    "employeeCount": 65541,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Automotive",
+      "Information Technology",
+      "Data Science",
+      "Software Development",
+      "Artificial Intelligence",
+      "Data Security",
+      "Motorcycles",
+      "Financial Services",
+      "Mobility Services",
+      "Digital Services",
+      "IoT",
+      "Future of Mobilty",
+      "Autonomous Driving",
+      "Connectivity",
+      "Sheer Driving Pleasure"
+    ]
+  }
+}

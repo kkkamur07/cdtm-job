@@ -1,0 +1,221 @@
+{
+  "id": "beatricekeller",
+  "name": "Dr. Beatrice Keller",
+  "headline": "Head of Agile Working at BMW Group",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/beatricekeller",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Head of Agile Working",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Specialist Data Management",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2025-03",
+      "end": "2025-07",
+      "dateRange": "Mar 2025 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Head of Data Management",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2022-12",
+      "end": "2025-02",
+      "dateRange": "Dec 2022 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Modulleiter Integration Elektrik/Elektronik",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2021-02",
+      "end": "2022-11",
+      "dateRange": "Feb 2021 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Product Owner Digital Car Key",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Field: Connected Car (IT Security)",
+      "location": null,
+      "start": "2016-04",
+      "end": "2021-02",
+      "dateRange": "Apr 2016 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Visiting PHD Student",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": null,
+      "location": null,
+      "start": "2015-01",
+      "end": "2015-08",
+      "dateRange": "Jan 2015 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Ph.D. Student, IT Project Manager",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Group of Applied Informatics - Cooperative Systems\nPh.D. Thesis: https://mediatum.ub.tum.de/doc/1280011/1280011.pdf",
+      "location": null,
+      "start": "2012-09",
+      "end": "2016-02",
+      "dateRange": "Sep 2012 – Feb 2016",
+      "current": false
+    },
+    {
+      "title": "Student Project",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Field: Automotive - Development of a personalized virtual car for an augmented reality goggle",
+      "location": null,
+      "start": "2011-04",
+      "end": "2011-08",
+      "dateRange": "Apr 2011 – Aug 2011",
+      "current": false
+    },
+    {
+      "title": "Student Project",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Field: Innovative mobility solutions - Analysis of new trends in the topic “urban mobility concepts”",
+      "location": null,
+      "start": "2011-03",
+      "end": "2011-04",
+      "dateRange": "Mar 2011 – Apr 2011",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "ESG Elektroniksystem- und Logistik-GmbH",
+      "companyUrl": "https://www.linkedin.com/company/esg-gmbh",
+      "description": "Field: Aviation - Development of 3D simulations for helicopter pilots\n\nField: Automotive - Development of a driver assistance system (Main tasks: Image processing, pattern recognition & feature extraction)",
+      "location": null,
+      "start": "2009-03",
+      "end": "2011-03",
+      "dateRange": "Mar 2009 – Mar 2011",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "ILF Consulting Engineers in Germany",
+      "companyUrl": "https://www.linkedin.com/company/ilf-consulting-engineers-germany-",
+      "description": "Field: Human Resources Department - Management assistance",
+      "location": null,
+      "start": "2008-08",
+      "end": "2008-09",
+      "dateRange": "Aug 2008 – Sep 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Ph.D. Student (Dr. rer. nat), Applied Informatics",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2011 – 2013"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": "Visiting Scholar",
+      "dateRange": "2012"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Scholar at the Nanoscale Prototyping Laboratory",
+      "dateRange": "2012"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Media Computer Science",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Media Computer Science",
+      "dateRange": "2007 – 2010"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Entrepreneurship",
+    "Project Management",
+    "Product Management",
+    "Mobile Devices",
+    "Android",
+    "Recommender Systems",
+    "Human Computer Interaction",
+    "Technology Management",
+    "Information Retrieval",
+    "Active Learning",
+    "Ubiquitous Computing",
+    "Location Based Services",
+    "Digital Media & Business"
+  ],
+  "languages": [],
+  "company": {
+    "name": "BMW Group",
+    "tagline": "We make individual mobility more human, more intelligent and more responsible.",
+    "description": "With its four brands, BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world’s leading premium manufacturer of automobiles and motorcycles and also provides premium financial services. The BMW Group production network comprises over 30 production sites worldwide; the company has a global sales network in more than 140 countries.\n\nIn 2025, the BMW Group sold 2.46 million passenger vehicles and more than 202,500 motorcycles worldwide. The profit before tax in the financial year 2025 was € 10.2 billion on revenues amounting to € 133,5 billion. As of 31 December 2025, the BMW Group had a workforce of 154,540 employees.\n\nThe economic success of the BMW Group has always been based on long-term thinking and respon-sible action. Sustainability is a key element of the BMW Group’s corporate strategy and covers all products – from the supply chain through production to the end of their useful life.",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://www.bmwgroup.com/en/general/imprint.html",
+    "linkedInUrl": "https://www.linkedin.com/company/bmw-group",
+    "employeeCount": 65541,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Automotive",
+      "Information Technology",
+      "Data Science",
+      "Software Development",
+      "Artificial Intelligence",
+      "Data Security",
+      "Motorcycles",
+      "Financial Services",
+      "Mobility Services",
+      "Digital Services",
+      "IoT",
+      "Future of Mobilty",
+      "Autonomous Driving",
+      "Connectivity",
+      "Sheer Driving Pleasure"
+    ]
+  }
+}

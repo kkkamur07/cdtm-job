@@ -1,0 +1,222 @@
+{
+  "id": "loren-schwarz-3570164a",
+  "name": "Loren Schwarz",
+  "headline": "BMW | TUM | CDTM | Fulbright | NJIT",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/loren-schwarz-3570164a",
+  "personId": 1497,
+  "classes": [
+    {
+      "id": 58,
+      "label": "Fall 2005",
+      "season": "Fall",
+      "year": 2005,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2005",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Loren Schwarz",
+  "ca": null,
+  "summary": "Work at BMW Group",
+  "positions": [
+    {
+      "title": "Tech Lead Fleet Data Collection",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2024-08",
+      "end": null,
+      "dateRange": "Aug 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Fleet Data Collection for Data-driven Development and AI.",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2021-10",
+      "end": "2024-07",
+      "dateRange": "Oct 2021 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Technical Lead Machine Learning",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-10",
+      "end": "2021-09",
+      "dateRange": "Oct 2019 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Principal Software Engineer",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-10",
+      "end": "2019-09",
+      "dateRange": "Oct 2018 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-03",
+      "end": "2018-09",
+      "dateRange": "Mar 2012 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Research Scientist",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2008-05",
+      "end": "2012-02",
+      "dateRange": "May 2008 – Feb 2012",
+      "current": false
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": null,
+      "location": null,
+      "start": "2007-11",
+      "end": "2008-04",
+      "dateRange": "Nov 2007 – Apr 2008",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Siemens Corporate Research",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Princeton",
+      "location": null,
+      "start": "2006-07",
+      "end": "2007-02",
+      "dateRange": "Jul 2006 – Feb 2007",
+      "current": false
+    },
+    {
+      "title": "Freelance Software Developer",
+      "company": "akamedia - interaktives Lernen",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2002-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2002 – Dec 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr. rer. nat. (Ph. D.), Computer Science",
+      "dateRange": "2008 – 2012"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2005 – 2007"
+    },
+    {
+      "school": "New Jersey Institute of Technology",
+      "degree": "M.Sc., Computer Science",
+      "dateRange": "2004 – 2005"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom, Computer Science",
+      "dateRange": "2005 – 2007"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Vordiplom, Bioinformatics",
+      "dateRange": "2001 – 2004"
+    },
+    {
+      "school": "Universität Mozarteum Salzburg",
+      "degree": "Piano / Klavier",
+      "dateRange": "1998 – 2002"
+    }
+  ],
+  "skills": [
+    "Adobe Flash/Flex",
+    "ActionScript",
+    "Machine learning",
+    "Computer vision",
+    "Human pose estimation",
+    "Motion capture",
+    "Medical inaging",
+    "Non-linear optimization",
+    "C#",
+    "Maschinelles Lernen",
+    "Machine Learning",
+    "Computer Vision",
+    "Bildverarbeitung",
+    "Medical Imaging",
+    "Software Development",
+    "Image Processing",
+    "Automotive Industry",
+    "Python",
+    "C++",
+    "Scrum",
+    "Medizinische Bildgebung"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Lettisch",
+    "Russisch"
+  ],
+  "company": {
+    "name": "BMW Group",
+    "tagline": "We make individual mobility more human, more intelligent and more responsible.",
+    "description": "With its four brands, BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world’s leading premium manufacturer of automobiles and motorcycles and also provides premium financial services. The BMW Group production network comprises over 30 production sites worldwide; the company has a global sales network in more than 140 countries.\n\nIn 2025, the BMW Group sold 2.46 million passenger vehicles and more than 202,500 motorcycles worldwide. The profit before tax in the financial year 2025 was € 10.2 billion on revenues amounting to € 133,5 billion. As of 31 December 2025, the BMW Group had a workforce of 154,540 employees.\n\nThe economic success of the BMW Group has always been based on long-term thinking and respon-sible action. Sustainability is a key element of the BMW Group’s corporate strategy and covers all products – from the supply chain through production to the end of their useful life.",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://www.bmwgroup.com/en/general/imprint.html",
+    "linkedInUrl": "https://www.linkedin.com/company/bmw-group",
+    "employeeCount": 65541,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Automotive",
+      "Information Technology",
+      "Data Science",
+      "Software Development",
+      "Artificial Intelligence",
+      "Data Security",
+      "Motorcycles",
+      "Financial Services",
+      "Mobility Services",
+      "Digital Services",
+      "IoT",
+      "Future of Mobilty",
+      "Autonomous Driving",
+      "Connectivity",
+      "Sheer Driving Pleasure"
+    ]
+  }
+}

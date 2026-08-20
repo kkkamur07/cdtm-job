@@ -1,0 +1,75 @@
+{
+  "id": "daniel-simon-501265120",
+  "name": "Daniel Simon",
+  "headline": "Investment Director bei BTV Group",
+  "avatar": null,
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/daniel-simon-501265120",
+  "personId": 1618,
+  "classes": [
+    {
+      "id": 52,
+      "label": "Fall 2002",
+      "season": "Fall",
+      "year": 2002,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2002",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Daniel Simon",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Investment Director",
+      "company": "BTV Group",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2006-10",
+      "end": null,
+      "dateRange": "Oct 2006 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate",
+      "company": "PwC",
+      "companyUrl": "https://www.linkedin.com/company/pwc",
+      "description": null,
+      "location": null,
+      "start": "2004-10",
+      "end": "2006-10",
+      "dateRange": "Oct 2004 – Oct 2006",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom-Betriebswirt",
+      "dateRange": "1998 – 2004"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2002 – 2004"
+    },
+    {
+      "school": "La Trobe University",
+      "degree": null,
+      "dateRange": "2001"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": null
+}

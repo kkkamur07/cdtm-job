@@ -1,0 +1,159 @@
+{
+  "id": "marvinvonhagen",
+  "name": "Marvin von Hagen",
+  "headline": "co-founder @ interaction.co",
+  "avatar": {
+    "sm": "/avatars/marvinvonhagen-sm.webp",
+    "lg": "/avatars/marvinvonhagen.webp",
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAACwBQCdASogACAAPsVQo0unpKMhsAwA8BiJZgCsFQAFQGrfwB+otAPDkcM894GtuYieG3/qEmAA/vlvex+YfCVicy6Q53dR373i+Gu5o4PM+DypRVPWUijZtDUNHOOfl7smDzXzZQZA3a0qLIB+NNynyQWspq4n+JfM1nZaaK2Dgobxa3Pv+4HDdHJPg5YWOGBzopZQ6h4Vjaorh0ivX7Ln/bVWm5zcBlKj2QJbuKwoJTvCE1frhCQQZGOGb/cM7oxFtlg5QvTqatHCq4b7g0ClQGkESrK2Q/BKJNDj70L369VCav0dAAAA"
+  },
+  "location": "Cambridge, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/marvinvonhagen",
+  "personId": 886,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Marvin von Hagen",
+  "ca": null,
+  "summary": "marvinvonhagen.com",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "The Interaction Company of California",
+      "companyUrl": "https://www.linkedin.com/company/interactionco",
+      "description": "Building Poke 🌴",
+      "location": "Palo Alto, California, United States",
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Analytics & Automation",
+      "company": "Tesla",
+      "companyUrl": "https://www.linkedin.com/company/tesla-motors",
+      "description": null,
+      "location": "Amsterdam, North Holland, Netherlands",
+      "start": "2021-12",
+      "end": "2022-05",
+      "dateRange": "Dec 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & Project Lead",
+      "company": "TUM Boring – Innovation in Tunneling e.V.",
+      "companyUrl": "https://www.linkedin.com/company/tum-boring",
+      "description": "Out of 390 teams worldwide, SpaceX and its spin-off The Boring Company have invited us to the finals of the Not-a-Boring Competition 2021 in Las Vegas. After a hard year of fundraising and engineering/building a 40-ft-long, 22-tons-heavy tunnel boring machine, our 65-student team could successfully bore a tunnel and win against the other eleven finalists, incl. MIT and ETH Zürich.",
+      "location": "Las Vegas, Nevada, United States",
+      "start": "2020-07",
+      "end": "2021-12",
+      "dateRange": "Jul 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Project Student",
+      "company": "TUM Hyperloop",
+      "companyUrl": "https://www.linkedin.com/company/tumhyperloop",
+      "description": "Feasibility study about Hyperloop systems in cooperation with:\n• TUM (Prof. Dr. Isabell Welpe, Dr. Nicholas Folger)\n• TUM Hyperloop / NEXT Prototypes e.V.\n• ILF Consulting Engineers\n• Energiversorgung Mittelrhein AG",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-11",
+      "end": "2020-04",
+      "dateRange": "Nov 2019 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "• Assisted in research projects, e.g., by analyzing large data sets in R\n• Prepared courses and lectures",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-05",
+      "end": "2020-03",
+      "dateRange": "May 2019 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Software Development Intern",
+      "company": "BROCKHAUS AG",
+      "companyUrl": "https://www.linkedin.com/company/brockhaus-ag",
+      "description": "• Built an automated, network-internal video conference system based on Raspberry Pis",
+      "location": "Dortmund, North Rhine-Westphalia, Germany",
+      "start": "2016-06",
+      "end": "2016-07",
+      "dateRange": "Jun 2016 – Jul 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Full-Time Research Stay",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree (Graduate-level)",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Sciences Po",
+      "degree": "Erasmus+ Scholar",
+      "dateRange": "2021"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Data Analytics",
+    "Microsoft Power BI",
+    "Microsoft Power Automate",
+    "Python",
+    "Business Analytics",
+    "SQL",
+    "DAX",
+    "Business Intelligence (BI)",
+    "Java",
+    "iOS Development",
+    "Project Management",
+    "Swift",
+    "HTML",
+    "CSS",
+    "Design Thinking"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "The Interaction Company of California",
+    "tagline": null,
+    "description": null,
+    "industry": "Software Development",
+    "website": "https://interaction.co",
+    "linkedInUrl": "https://www.linkedin.com/company/interactionco",
+    "employeeCount": 10,
+    "foundedYear": null,
+    "location": "Palo Alto, United States",
+    "specialities": []
+  }
+}

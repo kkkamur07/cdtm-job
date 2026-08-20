@@ -1,0 +1,186 @@
+{
+  "id": "simonzachau",
+  "name": "Simon Zachau",
+  "headline": "AI x Democracy | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/simonzachau-sm.webp",
+    "lg": "/avatars/simonzachau.webp",
+    "blur": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAADQBQCdASogACAAPs1SpEunpKOhsBgMAPAZiWMAVBXcBUttjQQ4tpb4n8TnhXLZWhieiE6kRoQAAP79efVwKN42ePR2F7ZkRs7WAMt3xq/VQV5bKRKLDE6rYzKYOP8tXWGyAdaqWj3XyPkwbRo+4qGtiL+9kQ6PH6uIcj2eY8X/KEidNMDeBB9dxg1eAFjXs1Q3vUwo6Us4617UfTOXM26VyuGKXk07sdknKl/twZwKzmLb1banoKlF9jnLwsJuRlI+eLgSI6u8omWo/rUaRZMUhEkDB99kMYqgAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/simonzachau",
+  "personId": 991,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Simon Zachau",
+  "ca": null,
+  "summary": "🌐 end-to-end\n🏗️ creative\n💪 impact-driven",
+  "positions": [
+    {
+      "title": "Lead Software Architect",
+      "company": "Stealth",
+      "companyUrl": "https://www.linkedin.com/company/stealthstartupcareers",
+      "description": null,
+      "location": null,
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "equation",
+      "companyUrl": "https://www.linkedin.com/company/equation-equity-innovation",
+      "description": null,
+      "location": null,
+      "start": "2024-09",
+      "end": "2026-02",
+      "dateRange": "Sep 2024 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "IT Consultant, Software Engineer, Tech Lead, Architect",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": null,
+      "start": "2021-11",
+      "end": "2024-08",
+      "dateRange": "Nov 2021 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "finenso",
+      "companyUrl": "https://www.linkedin.com/company/finenso",
+      "description": null,
+      "location": null,
+      "start": "2020-07",
+      "end": "2021-07",
+      "dateRange": "Jul 2020 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "crococoding",
+      "companyUrl": "https://www.linkedin.com/company/crococoding",
+      "description": null,
+      "location": null,
+      "start": "2014-06",
+      "end": "2019-06",
+      "dateRange": "Jun 2014 – Jun 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Entrepreneurship, Innovation, Product Development",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (MSc), Computer Science",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "KTH Royal Institute of Technology",
+      "degree": "Semester Abroad (Erasmus+ Program), Computer Science",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (BSc), Computer Science",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "Rhabanus-Maurus-Gymnasium St. Ottilien",
+      "degree": "Abitur",
+      "dateRange": "2006 – 2014"
+    },
+    {
+      "school": "German International School Boston",
+      "degree": null,
+      "dateRange": "2008 – 2011"
+    }
+  ],
+  "skills": [
+    "PostgreSQL",
+    "PHP",
+    "CSS",
+    "HTML",
+    "JavaScript",
+    "SQL",
+    "Java",
+    "Leadership",
+    "Clojure",
+    "Node.js",
+    "Public Speaking",
+    "Full-Stack Development",
+    "Kubernetes",
+    "Docker",
+    "Machine Learning",
+    "User Experience (UX)",
+    "React.js",
+    "Swift",
+    "Git",
+    "Design Thinking",
+    "Amazon Web Services (AWS)",
+    "Python",
+    "Google Cloud Platform (GCP)",
+    "Web Development",
+    "Test Driven Development",
+    "Vue.js",
+    "Kanban",
+    "Bash",
+    "Spring Framework",
+    "Software Engineering",
+    "TensorFlow",
+    "Keras",
+    "Business Modeling",
+    "Coaching & Mentoring",
+    "Google BigQuery",
+    "Convolutional Neural Networks (CNN)",
+    "Prototyping",
+    "Google Maps API",
+    "Apache Airflow",
+    "Solidity",
+    "Functional Programming",
+    "Supabase",
+    "User Interviews",
+    "Node-RED",
+    "Agile methods",
+    "iOS Development",
+    "Agile Methods"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Stealth",
+    "tagline": "Stage o",
+    "description": "Helping Stealth Startups to Launch, Hire & Scale.\n\nHere Recruiters Usually List Stealth Roles for early stage startups and job seekers can connect and consider those roles.",
+    "industry": "Software Development",
+    "website": null,
+    "linkedInUrl": "https://www.linkedin.com/company/stealthstartupcareers",
+    "employeeCount": 4385,
+    "foundedYear": null,
+    "location": "Los Angeles, United States",
+    "specialities": []
+  }
+}

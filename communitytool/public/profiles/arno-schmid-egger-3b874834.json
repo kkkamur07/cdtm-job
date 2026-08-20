@@ -1,0 +1,59 @@
+{
+  "id": "arno-schmid-egger-3b874834",
+  "name": "Arno Schmid-Egger",
+  "headline": "Managing Director at Perola",
+  "avatar": null,
+  "location": "Singapore",
+  "linkedInUrl": "https://www.linkedin.com/in/arno-schmid-egger-3b874834",
+  "personId": 1590,
+  "classes": [
+    {
+      "id": 53,
+      "label": "Spring 2003",
+      "season": "Spring",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Arno Schmid-Egger",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Managing Director",
+      "company": "Perola Singapore Pte Ltd",
+      "companyUrl": null,
+      "description": null,
+      "location": "Singapore, Singapore",
+      "start": "2022-01",
+      "end": null,
+      "dateRange": "Jan 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Managing Director",
+      "company": "Perola GmbH",
+      "companyUrl": "https://www.linkedin.com/company/perola-gmbh",
+      "description": "www.perola.eu",
+      "location": null,
+      "start": "2010-06",
+      "end": null,
+      "dateRange": "Jun 2010 – Present",
+      "current": true
+    }
+  ],
+  "schools": [],
+  "skills": [],
+  "languages": [],
+  "company": null
+}

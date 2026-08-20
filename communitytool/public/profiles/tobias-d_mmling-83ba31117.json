@@ -1,0 +1,261 @@
+{
+  "id": "tobias-d_mmling-83ba31117",
+  "name": "Tobias Dümmling",
+  "headline": "Associate Manager @ Netlight",
+  "avatar": {
+    "sm": "/avatars/tobias-d_mmling-83ba31117-sm.webp",
+    "lg": "/avatars/tobias-d_mmling-83ba31117.webp",
+    "blur": "data:image/webp;base64,UklGRhABAABXRUJQVlA4IAQBAABQBgCdASogACAAPs1QokunpKMht/VYAPAZiWYAuyE2KlT3J9+9+FA9AwSRbLIxVbtM5wexW8t24o9DEAD+/qusfoRMCx9iYTDO3rXi6Zbq9KPWAP7eDpmHRt4heroZ8h3zKivlaZENZviRyNQ4r1taKGBH+RH2v5Sn3JJ19stX1R0/wq1XK1F+CXhV3UmcV9PkYHNPO1I7fqlsOw/9QIIzFW8wpopAvmqJzRio27JSPh5dU7/kCJ1M643OWlu3DBkQym+uRKk6DeE6nO/YO7TPH1t1XschNorMLyiUZh5OBssifDL6j4xBefjcvCCidEF4bbgv67CCI1QZ9Z681fNuxpQAAA=="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/tobias-dümmling-83ba31117",
+  "personId": 940,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Tobias Dümmling",
+  "ca": null,
+  "summary": "As a cloud architect and DevOps engineer with over four years at Netlight, I have led teams in automating processes and delivering scalable, secure solutions. My expertise spans cloud engineering, solution architecture, and full-stack development. I am passionate about creating impactful infrastructure and driving operational excellence.",
+  "positions": [
+    {
+      "title": "Associate Manager",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Consultant",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-08",
+      "end": "2025-07",
+      "dateRange": "Aug 2022 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-09",
+      "end": "2022-08",
+      "dateRange": "Sep 2021 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2021-09",
+      "dateRange": "Apr 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Analyst",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-08",
+      "end": "2021-03",
+      "dateRange": "Aug 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Master Thesis",
+      "company": "CHECK24 Vergleichsportal",
+      "companyUrl": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-05",
+      "end": "2020-02",
+      "dateRange": "May 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Master thesis in the area of process automation with NLP",
+      "company": "CHECK24 Vergleichsportal",
+      "companyUrl": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh",
+      "description": "München",
+      "location": null,
+      "start": "2018-09",
+      "end": "2019-04",
+      "dateRange": "Sep 2018 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "keysurance - your key to a lower car insurance premium",
+      "companyUrl": "https://www.linkedin.com/company/keysurance",
+      "description": null,
+      "location": null,
+      "start": "2017-08",
+      "end": "2018-06",
+      "dateRange": "Aug 2017 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Vodafone",
+      "companyUrl": "https://www.linkedin.com/company/vodafone",
+      "description": "Implementation of a Machine Learning Algorithm to predict service level demand",
+      "location": "Greater Dusseldorf Area",
+      "start": "2017-03",
+      "end": "2017-06",
+      "dateRange": "Mar 2017 – Jun 2017",
+      "current": false
+    },
+    {
+      "title": "Working Student IOS Development",
+      "company": "CHECK24 Vergleichsportal",
+      "companyUrl": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2016-04",
+      "end": "2017-01",
+      "dateRange": "Apr 2016 – Jan 2017",
+      "current": false
+    },
+    {
+      "title": "CDTM Consultant",
+      "company": "Vodafone",
+      "companyUrl": "https://www.linkedin.com/company/vodafone",
+      "description": "Machine Learning Project - Predictive Analytics in Customer Service",
+      "location": null,
+      "start": "2016-04",
+      "end": "2016-07",
+      "dateRange": "Apr 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Faktor Zehn AG",
+      "companyUrl": "https://www.linkedin.com/company/faktor-zehn-gmbh",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-01",
+      "end": "2016-02",
+      "dateRange": "Jan 2015 – Feb 2016",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Ifo Institute – Leibniz Institute for Economic Research",
+      "companyUrl": "https://www.linkedin.com/company/ifo-institute-for-economic-research",
+      "description": "München",
+      "location": null,
+      "start": "2013-11",
+      "end": "2014-11",
+      "dateRange": "Nov 2013 – Nov 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar in the Field of Machine Learning, Computer Science",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.S.), Informatik mit Nebenfach VWL",
+      "dateRange": "2013 – 2017"
+    }
+  ],
+  "skills": [
+    "ArgoCD",
+    "Gitlab CICD",
+    "GraphQL",
+    "TypeScript",
+    "JavaScript",
+    "React Native",
+    "Internet of Things (IoT)",
+    "Github Actions",
+    "Microsoft Azure",
+    "React.js",
+    "Kubernetes",
+    "AWS CloudFormation",
+    "Serverless",
+    "Terragrunt",
+    "Terraform",
+    "Amazon Web Services (AWS)",
+    "Python",
+    "SQL",
+    "Softwareentwicklung",
+    "Teamwork",
+    "Business Development",
+    "Projektmanagement",
+    "Scrum",
+    "Big Data",
+    "Cloud Architect",
+    "Docker",
+    "React",
+    "Node.js",
+    "Git",
+    "Agile Methoden",
+    "JIRA",
+    "DevOps",
+    "Innovationsmanagement",
+    "Data Science",
+    "Strategie",
+    "Automatisierung",
+    "MongoDB",
+    "Microservices",
+    "Software-Architektur",
+    "Cloud",
+    "Optische Zeichenerkennung (OCR)"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Netlight",
+    "tagline": "Transforming ideas into reality in the digital landscape.",
+    "description": "Netlight is an international digital consulting firm, helping leading companies to succeed in the digital landscape, from advice to implementation. Our ambition is to co-create and be an augmented partner to our clients as they explore the digital landscape. \n\nOur clients range from industry-leading enterprises to disruptive startups turning into unicorns. Trusted with their challenges, we have built a unique experience since 1999 in how to approach the uncharted digital landscape and go from idea to reality, together.\n\nWe strive to be role models — conscious of positive change at the forefront of society's digital transformation. Creativity thrives in an inclusive and diverse culture. Together with our ambitious clients, we engage in challenges to make a sustainable impact. \n\nNetlight is located in Stockholm, Helsinki, Oslo, Copenhagen, Amsterdam, Hamburg, Berlin, Munich, Cologne, Zurich, Frankfurt, London, Toronto, Gothenburg, and Madrid.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.netlight.com",
+    "linkedInUrl": "https://www.linkedin.com/company/netlight-consulting",
+    "employeeCount": 2135,
+    "foundedYear": 1999,
+    "location": "Local offices in Berlin, Copenhagen, Frankfurt, Hamburg, Helsinki, Munich, Oslo, Stockholm, Zurich, Amsterdam, Cologne, London, Toronto, Madrid, and Gothenburg., OO",
+    "specialities": []
+  }
+}

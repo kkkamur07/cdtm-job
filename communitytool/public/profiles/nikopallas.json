@@ -1,0 +1,151 @@
+{
+  "id": "nikopallas",
+  "name": "Niko P.",
+  "headline": "CDTM | HCI | Mover of Tomorrow 2024 | Young Explorers \n\nBiodiversity enthusiast 🦉 | HCI @ LMU 🎓 | Mediaengineer by training 👾",
+  "avatar": {
+    "sm": "/avatars/nikopallas-sm.webp",
+    "lg": "/avatars/nikopallas.webp",
+    "blur": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAADwBQCdASogACAAPrVInEunJCKht+gA4BaJQBmHmQQXqth6tiqmQbTVWg4/pIjRyw+QSG/FYpnAAAD+/HuLS3MMXrNU/3usgMCRVeo4Cdn6HWJ010jX/vezScvSNblFES5Yi5Nq8Lo3/QsWJJk7xlIpfiphHDflInjZv/4Pa8HMigEKvZyxbT0XeXe3Qw7nVj7hQUsQlYqJwKLFxNuq5VSWdKMjOTCDcET1saH4voJPKVTdd1McOkcIH9xzlRcWKuqJTAmp7zAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/nikopallas",
+  "personId": 1289,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Media Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Niko Pallas",
+  "ca": null,
+  "summary": "On a journey combining my passions for wild nature, creative innovation, and technology for a positive impact. 🌱 \n\nOver the last ten years, I empowered young adults to become changemakers in the context of the climate crisis and the loss of biodiversity. For the last four years we facilitated an exchange format bridging the gap between German corporate leaders and young environmental activists. 🌲 \n\nThese experiences led to my current focus: integrating biodiversity and nature into core business solutions, driving sustainable innovation from within the economy sphere. 🦉",
+  "positions": [
+    {
+      "title": "Media Engineer",
+      "company": "Freiberuflich",
+      "companyUrl": null,
+      "description": "Making unique media installations/ projects possible 👨‍💻\n\nHave a look at my projects 👀",
+      "location": null,
+      "start": "2020-10",
+      "end": null,
+      "dateRange": "Oct 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Product & Operations",
+      "company": "Hula Earth",
+      "companyUrl": "https://www.linkedin.com/company/hulaearth",
+      "description": "Product development, design and management of digital biodiversity monitoring platform\nCustomer success for our first clients,  initial customer onboarding workflows and project management systems\nMarketing strategy & management (driving our inbound leads), Owning Design & Branding, LinkedIn & Website/ Webinar \nGrant applications & management (i.e. ESA BA)",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-02",
+      "end": "2025-10",
+      "dateRange": "Feb 2025 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Founder's Associate",
+      "company": "Hula Earth",
+      "companyUrl": "https://www.linkedin.com/company/hulaearth",
+      "description": "First employee - \"Swiss-Army-Knife\" foundational support across all business functions\n\nStrategic support for founder on business development, market research and business model refinement\nInitial design & UX work - Productdesign, website restructure, marketing material\nLinkedIn strategy & content, building founder's social media presence\nBusiness operations setup - tools implementation, workflow optimization, process documentation\nSales & fundraising support",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-07",
+      "end": "2025-01",
+      "dateRange": "Jul 2024 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Media Engineer @ digital media",
+      "company": "Neumann&Müller Veranstaltungstechnik",
+      "companyUrl": "https://www.linkedin.com/company/neumannmueller",
+      "description": "Custom software development, designing of exhibits, Virtual Production, AR Workflows, Real-time content for live shows, Mediaserver operation \n\ndisguise, Pixera, UE5, Webprogramming, Go, Python",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-04",
+      "end": "2023-12",
+      "dateRange": "Apr 2022 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "R&D XR @ digital media",
+      "company": "Neumann&Müller Veranstaltungstechnik",
+      "companyUrl": "https://www.linkedin.com/company/neumannmueller",
+      "description": "XR (Extended Reality/ Virtual Production) Showcase: C4D/ Notch FX/ Unreal Engine 4/ disguise \n\n3D Projectmapping",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-03",
+      "end": "2020-08",
+      "dateRange": "Mar 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Magazine Team - digital media",
+      "company": "St. Gallen Symposium",
+      "companyUrl": "https://www.linkedin.com/company/st-gallen-symposium",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Eventmanagement",
+      "company": "Filmbüro Baden Württemberg",
+      "companyUrl": "https://www.linkedin.com/company/filmbüro-baden-württemberg",
+      "description": "We organized two film festivals each year. First the Filmschau Baden-Württemberg (a film festival dedicated to filmmakers from Baden-Württemberg). Secondly the Indian Film Festival Stuttgart which is Europe’s largest Indian film festival.",
+      "location": "Stuttgart und Umgebung, Deutschland",
+      "start": "2017-10",
+      "end": "2019-12",
+      "dateRange": "Oct 2017 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Human-Computer-Interaction",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Stuttgart Media University",
+      "degree": "Bachelor of Engineering - BE, Audiovisuelle Kommunikationstechnologien",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Biodiversität",
+    "Projektmanagement",
+    "Digitale Medien",
+    "Sustainability",
+    "Design Thinking",
+    "Softwareentwicklung",
+    "Mensch-Computer-Interaktion",
+    "Eventmanagement",
+    "Corporate Sustainability",
+    "Medientechnik",
+    "disguise",
+    "XR",
+    "Unreal Engine",
+    "Python",
+    "Veranstaltungtechnik",
+    "Design-Thinking"
+  ],
+  "languages": [],
+  "company": null
+}

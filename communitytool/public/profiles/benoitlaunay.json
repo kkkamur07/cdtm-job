@@ -1,0 +1,222 @@
+{
+  "id": "benoitlaunay",
+  "name": "Benoit Launay",
+  "headline": "Cybersecurity Cloud Solution Architect",
+  "avatar": null,
+  "location": "France",
+  "linkedInUrl": "https://www.linkedin.com/in/benoitlaunay",
+  "personId": 1728,
+  "classes": [
+    {
+      "id": 99,
+      "label": "Spring 2000",
+      "season": "Spring",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2000",
+  "major": "Electrical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Benoît Launay",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Cybersecurity Cloud Solution Architect",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": null,
+      "location": null,
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "CTO Data & Analytics",
+      "company": "Fintilect",
+      "companyUrl": "https://www.linkedin.com/company/fintilect",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and CTO",
+      "company": "ABAKA - Financial Wellbeing powered by Artificial Intelligence",
+      "companyUrl": "https://www.linkedin.com/company/my-abaka",
+      "description": "ABAKA is an AI-powered recommendation engine helping the financial industry deliver hyper-personalized digital experiences to their customers at scale.\n- Spearheaded a 20-member team in developing and deploying the technical solution, meeting \nhigh-security and scalability standards (regular penetration tests via CREST certified third party). \n- Successfully passed ISO 27001 audits and technology due diligence from large financial \ninstitutions.\n- Board member",
+      "location": null,
+      "start": "2016-03",
+      "end": "2024-01",
+      "dateRange": "Mar 2016 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Data Insights Product Manager",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "- Drove significant growth in SQL Server and Azure adoption by engaging C-level \n- Created and directed a local ISV Business Accelerator program, migrating over 20 ISVs to SQL \nServer and Azure, while executing high-impact marketing campaigns and product launches.",
+      "location": "Paris, France",
+      "start": "2013-09",
+      "end": "2016-03",
+      "dateRange": "Sep 2013 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Developer Tools Product Manager",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "- Championed marketing campaigns, achieving a 50% revenue growth over two years by engaging \nand upgrading customers. \n- Launched Visual Studio in the French market, driving business growth through strategic ALM \npartnerships and effective sales initiatives.",
+      "location": "Paris, France",
+      "start": "2010-10",
+      "end": "2013-09",
+      "dateRange": "Oct 2010 – Sep 2013",
+      "current": false
+    },
+    {
+      "title": "Solution Architect",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "- Enabled composite applications across devices and channels with Customer Care Accelerator \n(CCA) for Dynamics CRM. \n- Oversaw global pre-sales and solution architecture, facilitating technical presentations and \nworkshops, and designing key product features.",
+      "location": "Redmond, USA",
+      "start": "2007-04",
+      "end": "2010-10",
+      "dateRange": "Apr 2007 – Oct 2010",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "- Performed architecture audits and built proof of concepts to validate innovative solutions. \n- Led business development initiatives and delivered impactful presentations to C-level \nexecutives.",
+      "location": null,
+      "start": "2005-06",
+      "end": "2007-03",
+      "dateRange": "Jun 2005 – Mar 2007",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Atos",
+      "companyUrl": "https://www.linkedin.com/company/atos",
+      "description": "- Pre-sales on .NET projects, proof of concept, bid management.\n- Effectively replaced the existing UK roadside enforcement system with an innovative mobile \nsolution, a pivotal component of an £80 million contract. \n- Developed, designed, and implemented a robust mobile application using C#.",
+      "location": "Kidderminster, United Kingdom",
+      "start": "2003-12",
+      "end": "2005-06",
+      "dateRange": "Dec 2003 – Jun 2005",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "SchlumbergerSema",
+      "companyUrl": "https://www.linkedin.com/company/slbglobal",
+      "description": "- Led support for a UK Government project, enhancing inter-agency communication and \nstreamlining document exchange between Criminal Justice organizations. Oversaw impact \nanalyses of change requests and implemented robust solutions. \n- Engineered quality tools in C#, significantly increasing global team productivity and efficiency.",
+      "location": "London, United Kingdom",
+      "start": "2002-09",
+      "end": "2003-12",
+      "dateRange": "Sep 2002 – Dec 2003",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Bell Labs, Lucent Technologies",
+      "companyUrl": "https://www.linkedin.com/company/nokiabelllabs",
+      "description": "Master Thesis in the Dialogue Systems Research Department, Speech Recognition \n- Carried out research into artificial neural networks to explore the potential of non-linear feature \nextraction in speech recognition, achieving a 20% reduction in word error rates compared to \nprevious results at Lucent Technologies.",
+      "location": "Murray Hill, USA",
+      "start": "2001-03",
+      "end": "2001-11",
+      "dateRange": "Mar 2001 – Nov 2001",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ecole de Guerre Economique – EGE",
+      "degree": "Executive MBA, Cybersecurity Management and Information Systems Governance",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom-Ing., IT",
+      "dateRange": "1999 – 2001"
+    },
+    {
+      "school": "Centrale Lille",
+      "degree": "Masters",
+      "dateRange": "1997 – 1999"
+    }
+  ],
+  "skills": [
+    "Threat Management",
+    "Risk Management",
+    "Ethical Hacking",
+    "Cybersecurity",
+    "Cyber Threat Intelligence (CTI)",
+    "Threat Analysis",
+    ".NET",
+    "Cloud Computing",
+    "C#",
+    "Software Development",
+    "Agile Methodologies",
+    "Microsoft SQL Server",
+    "Software Engineering",
+    "TFS",
+    "Solution Architecture",
+    "Software Project Management",
+    "Software Design",
+    "Agile Project Management",
+    "SOA",
+    "Scrum"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "company": {
+    "name": "Microsoft",
+    "tagline": null,
+    "description": "Every company has a mission. What's ours? To empower every person and every organization to achieve more. We believe technology can and should be a force for good and that meaningful innovation contributes to a brighter world in the future and today. Our culture doesn’t just encourage curiosity; it embraces it. Each day we make progress together by showing up as our authentic selves. We show up with a learn-it-all mentality. We show up cheering on others, knowing their success doesn't diminish our own. We show up every day open to learning our own biases, changing our behavior, and inviting in differences. Because impact matters. \n\nMicrosoft operates in 190 countries and is made up of approximately 228,000 passionate employees worldwide.",
+    "industry": "Software Development",
+    "website": "https://news.microsoft.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/microsoft",
+    "employeeCount": 229748,
+    "foundedYear": null,
+    "location": "Redmond, United States",
+    "specialities": [
+      "Business Software",
+      "Developer Tools",
+      "Home & Educational Software",
+      "Tablets",
+      "Search",
+      "Advertising",
+      "Servers",
+      "Windows Operating System",
+      "Windows Applications & Platforms",
+      "Smartphones",
+      "Cloud Computing",
+      "Quantum Computing",
+      "Future of Work",
+      "Productivity",
+      "AI",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Laptops",
+      "Mixed Reality",
+      "Virtual Reality",
+      "Gaming",
+      "Developers",
+      "IT Professional"
+    ]
+  }
+}

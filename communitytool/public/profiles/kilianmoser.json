@@ -1,0 +1,275 @@
+{
+  "id": "kilianmoser",
+  "name": "Kilian Moser",
+  "headline": "Empowering investigators and analysts across the globe🌎",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/kilianmoser",
+  "personId": 1313,
+  "classes": [
+    {
+      "id": 68,
+      "label": "Fall 2010",
+      "season": "Fall",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2010",
+  "major": "Technology and Management oriented Business Administration",
+  "roles": [
+    "student",
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Kilian Moser",
+  "ca": {
+    "alumni": true,
+    "about": null,
+    "responsibilities": [],
+    "researchFields": [],
+    "email": null
+  },
+  "summary": "On a mission to support a global user base of analysts and investigators in using Maltego’s link analysis and data integration capabilities to fight cyber-crime and fraud, and increase trust and safety. 🕵️‍♂‍ \n\nPursuing my entrepreneurial passion by building Maltego’s global sales, customer success, support, and revenue operations teams. 🚀 Partnering with data providers for threat intelligence, cyber-security, and company data to bring value to Maltego’s data hub. 👨‍💻\n\n✼ •• ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ •• ✼\n\nAbout me: I enjoy building and scaling tech companies. I am passionate about taking firms from their first steps to a scaling business. I have a strong background in operations and building strong cross-functional teams. My interdisciplinary background in tech and management draws me to companies that build awesome products. \n\nExpertise: B2B sales and account management | business systems for subscription billing | revenue operations | financial reporting and controlling | recruiting and people operations\n\nOff work you'll find me outdoors biking, hiking, climbing or skiing in the mountains, traveling the world on land and sailing with the wind.",
+  "positions": [
+    {
+      "title": "Chief Customer Officer",
+      "company": "Maltego",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": "Leading Maltego’s global customer organization across Customer Success, Account Management, Onboarding, Support, and Customer Operations. Responsible for driving adoption, retention, and expansion across enterprise and government customers while scaling the customer lifecycle for a multi-product OSINT platform.\n\nFocused on building a data-driven customer operating model centered on Customer Lifecycle Management (CLM), health scoring, and proactive engagement to maximize customer value and Net Revenue Retention.\n\nWorking closely with Product, Sales, and Engineering to deliver complex deployments, support cyber intelligence use cases, and integrate newly acquired technologies into Maltego’s go-to-market motion.",
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Data Partnerships (Interim)",
+      "company": "Maltego",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": "Responsible for Maltego's data partnerships team which launches new data business models like Maltego's data bundles, and brings more partners to the Maltego Transform Hub.",
+      "location": null,
+      "start": "2019-11",
+      "end": "2020-11",
+      "dateRange": "Nov 2019 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Head of Customers & Revenue",
+      "company": "Maltego",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": "Responsible for Maltego’s customer-facing activities and revenue generating teams",
+      "location": null,
+      "start": "2019-02",
+      "end": "2025-12",
+      "dateRange": "Feb 2019 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Head of Operations",
+      "company": "tacterion",
+      "companyUrl": "https://www.linkedin.com/company/tacterion",
+      "description": "As Head of Operations I was responsible to establish all internal processes required to get this tech spinn-off going. This included for example finance, company development, recruiting / HR, and IT.",
+      "location": null,
+      "start": "2017-10",
+      "end": "2019-02",
+      "dateRange": "Oct 2017 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Consultant Digital Strategy",
+      "company": "PATRIZIA SE",
+      "companyUrl": "https://www.linkedin.com/company/patrizia-se",
+      "description": "Consulting PATRIZIA to conceptualize and run its group-wide digitalisation programme.",
+      "location": null,
+      "start": "2017-09",
+      "end": "2018-05",
+      "dateRange": "Sep 2017 – May 2018",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "tacterion",
+      "companyUrl": "https://www.linkedin.com/company/tacterion",
+      "description": "Core tech team recruiting, setting up company strategy and OKR management.",
+      "location": null,
+      "start": "2016-10",
+      "end": "2017-09",
+      "dateRange": "Oct 2016 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Consultant Product Management",
+      "company": "Payworks",
+      "companyUrl": "https://www.linkedin.com/company/payworks-gmbh",
+      "description": "Market research and product conceptualization of a white-label POS system",
+      "location": null,
+      "start": "2016-10",
+      "end": "2016-12",
+      "dateRange": "Oct 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Business Developer",
+      "company": "28DIGITAL",
+      "companyUrl": "https://www.linkedin.com/company/28dgtl",
+      "description": "The EIT ICT Labs (now EIT Digital) Business Development Accelerator (BDA) is a pan-european effort to coach innovation activities and startups accross Europe with a focus on access to market.",
+      "location": null,
+      "start": "2013-01",
+      "end": "2015-01",
+      "dateRange": "Jan 2013 – Jan 2015",
+      "current": false
+    },
+    {
+      "title": "Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": null,
+      "start": "2012-01",
+      "end": "2016-10",
+      "dateRange": "Jan 2012 – Oct 2016",
+      "current": false
+    },
+    {
+      "title": "Strategic Group IT Controlling and Process Management",
+      "company": "Allianz",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": "Part of the global IT controlling team at Allianz group headquarters",
+      "location": null,
+      "start": "2009-10",
+      "end": "2011-08",
+      "dateRange": "Oct 2009 – Aug 2011",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Unit4 FP&A",
+      "companyUrl": "https://www.linkedin.com/company/prevero-ag",
+      "description": "Business Development for BI software in utility / energy companies",
+      "location": null,
+      "start": "2009-05",
+      "end": "2009-09",
+      "dateRange": "May 2009 – Sep 2009",
+      "current": false
+    },
+    {
+      "title": "Business Develop, Product Management and Marketing",
+      "company": "DMG MORI",
+      "companyUrl": "https://www.linkedin.com/company/dmgmori",
+      "description": "Involved in improving internal service quality reporting as well as preparation of CIMT tradeshow.",
+      "location": null,
+      "start": "2009-02",
+      "end": "2009-04",
+      "dateRange": "Feb 2009 – Apr 2009",
+      "current": false
+    },
+    {
+      "title": "Group Accounting, Finance & Controlling",
+      "company": "Wacker Neuson",
+      "companyUrl": "https://www.linkedin.com/company/wackerneuson",
+      "description": "System key user for ERP migration to SAP",
+      "location": null,
+      "start": "2007-03",
+      "end": "2008-08",
+      "dateRange": "Mar 2007 – Aug 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Phd / Dr. rer. pol., Management / Organizational Psychology",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl.-Kfm. (M.Sc. equivalent), Major: Finance, Controlling, Minor: Electrical Engineering",
+      "dateRange": "2006 – 2011"
+    },
+    {
+      "school": "Imperial College London",
+      "degree": "Visiting Scholar, Business School, Innovation and Entrepreneurship Group",
+      "dateRange": "2014"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting scholar, School of Information",
+      "dateRange": "2011"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Product & Innovation Management, Entrepreneurship",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Tongji University",
+      "degree": "Marketing, Finance, Economics",
+      "dateRange": "2008 – 2009"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Leadership",
+    "Strategy",
+    "Recruiting",
+    "Business Development",
+    "Start-ups",
+    "Entrepreneurship",
+    "Project Management",
+    "Product Management",
+    "Business Strategy",
+    "Venture Capital",
+    "Mobile Applications",
+    "Innovation Management",
+    "Management Consulting",
+    "Geschäftsentwicklung",
+    "Software Engineering",
+    "Employer Branding",
+    "Projektmanagement",
+    "Analytische Fähigkeiten",
+    "Teammanagement",
+    "Strategie",
+    "Unternehmensstrategie",
+    "Strategisches Management",
+    "Produktmanagement",
+    "Neugeschäftsentwicklung",
+    "Account-Management",
+    "Verkaufsmanagement",
+    "Vertrieb",
+    "Kennzahlen",
+    "Kundenservice",
+    "Vertriebsaktivitäten",
+    "Unternehmertum",
+    "Interpersonelle Fähigkeiten",
+    "Risikokapital",
+    "Maltego",
+    "Lead-Generierung",
+    "Strategische Analysen",
+    "Investorbeziehungen",
+    "Kundenerfahrungsdesign"
+  ],
+  "languages": [
+    "Englisch",
+    "Deutsch",
+    "Spanisch",
+    "Französisch",
+    "Chinesisch"
+  ],
+  "company": {
+    "name": "Maltego",
+    "tagline": "Maltego is the world’s most used all-in-one intelligence platform for complex cyber investigations.",
+    "description": "Maltego is the world’s most used all-in-one investigation platform that turns complex data into actionable insights in minutes. Used by industry experts, law enforcement, and analysts at major organizations, it brings together all your data in one place, helping you uncover hidden connections with a suite of investigative tools. \n\nWith Maltego, teams can conduct everything from preliminary OSINT investigations to in-depth link analysis of large datasets. The platform also makes it easy to spot threats in real time with social media monitoring and enables the capture of digital evidence before it is altered or removed.\n\nHeadquartered in Munich, Germany, Maltego has grown to over 100 employees and is trusted by 2,000+ government organizations and 4,000+ companies worldwide—including the FBI, INTERPOL, and leading tech and financial firms, including half of the Dow 30.",
+    "industry": "Software Development",
+    "website": "https://www.maltego.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/maltego",
+    "employeeCount": 175,
+    "foundedYear": 2017,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

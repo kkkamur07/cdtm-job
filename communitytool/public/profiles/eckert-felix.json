@@ -1,0 +1,162 @@
+{
+  "id": "eckert-felix",
+  "name": "Felix Eckert",
+  "headline": "Co-Founder @ CloudCruise (YC W24)",
+  "avatar": {
+    "sm": "/avatars/eckert-felix-sm.webp",
+    "lg": "/avatars/eckert-felix.webp",
+    "blur": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAADwBQCdASogACAAPsFMoEunpCMht/qoAPAYCUAKupoAKd9WxCgOldEahcCHizIQvpVWix+Q4o4doAD+/Xn1cL+Q1+e5feJBrc4oW8R2UMcdFe1LKMP1+iweZ+1Ng2P7+ST5qlvDPBul14e94braWcR1AGMmROiacPOWwdn59JTnWS7j6Fx3LrYFztOLapuh9YybLKdVSEEI8EvIlKc//FEEn+lr71HwYSt+qX/QRYcpkRWl2jXiI/iGUkAuzCjq8foFQldI3jCG2n3kEcBSAAAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/eckert-felix",
+  "personId": 1224,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Felix Eckert",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CTO",
+      "company": "CloudCruise (YC W24)",
+      "companyUrl": "https://www.linkedin.com/company/cloudcruise",
+      "description": null,
+      "location": "San Francisco, Kalifornien, Vereinigte Staaten von Amerika",
+      "start": "2023-12",
+      "end": null,
+      "dateRange": "Dec 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Lösungsarchitekt",
+      "company": null,
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2023-09",
+      "end": "2023-12",
+      "dateRange": "Sep 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Technical Lead",
+      "company": "SylphAI (AI professional match network)",
+      "companyUrl": "https://www.linkedin.com/company/sylphai",
+      "description": null,
+      "location": null,
+      "start": "2023-02",
+      "end": "2023-08",
+      "dateRange": "Feb 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": null,
+      "location": "München, Bayern",
+      "start": "2020-05",
+      "end": "2020-09",
+      "dateRange": "May 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Lösungsarchitekt",
+      "company": "better ventures group",
+      "companyUrl": "https://www.linkedin.com/company/betterventures-io",
+      "description": "´",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-07",
+      "end": "2020-02",
+      "dateRange": "Jul 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Embedded Software Developer",
+      "company": "Continental",
+      "companyUrl": "https://www.linkedin.com/company/continental",
+      "description": null,
+      "location": "Regensburg und Umgebung, Deutschland",
+      "start": "2018-03",
+      "end": "2019-03",
+      "dateRange": "Mar 2018 – Mar 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Y Combinator",
+      "degree": null,
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Informatik",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Student Researcher, Center for Design Research",
+      "dateRange": "2022"
+    },
+    {
+      "school": "The University of Tokyo",
+      "degree": "Visiting Researcher, HCI for Machine Learning Laboratory",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors degree technology management, Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Tokyo University of Science",
+      "degree": "Visiting Researcher, Signal Processing Laboratory",
+      "dateRange": "2017"
+    },
+    {
+      "school": "OTH Regensburg",
+      "degree": "Bachelor of Science - BS, Informatik",
+      "dateRange": "2015 – 2019"
+    }
+  ],
+  "skills": [
+    "Web-Entwicklung",
+    "Management",
+    "Research",
+    "Objektorientierte Programmierung (OOP)",
+    "Full-Stack-Entwicklung",
+    "Projektmanagement",
+    "Systemarchitektur"
+  ],
+  "languages": [],
+  "company": {
+    "name": "CloudCruise",
+    "tagline": "The developer platform for fast and reliable browser agents",
+    "description": "Build healthcare browser automations faster. Run self-healing payer portal and EHR workflows on fully managed infrastructure.",
+    "industry": "Software Development",
+    "website": "https://www.cloudcruise.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/cloudcruise",
+    "employeeCount": 3,
+    "foundedYear": 2024,
+    "location": null,
+    "specialities": []
+  }
+}

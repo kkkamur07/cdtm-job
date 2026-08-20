@@ -1,0 +1,270 @@
+{
+  "id": "vladlata",
+  "name": "Vlad Lata",
+  "headline": "Founder & CEO @ avi | We are hiring!",
+  "avatar": {
+    "sm": "/avatars/vladlata-sm.webp",
+    "lg": "/avatars/vladlata.webp",
+    "blur": "data:image/webp;base64,UklGRigBAABXRUJQVlA4IBwBAACwBQCdASogACAAPtFepU6oJSMiKAqpABoJbACdMoAltiUDfP4BtdPw7FAaeXT8RiemZwt8V4gA/uqF9MdxPnO99CmWV9/Z9ID4VP3hN8nsJRFUIScDtQS/7dqNBR/pyimgwGERXIwTvfWRQ4tnCCviRRYIN2ozYlbRHR2PZ+4HfORXn92nVsJlBmj+LbZ/fECQxCr8e4vbSoRdz3Tr/Zt/RKMZZ0VrMZrGsLg73ICMn+9aSR1p/NZISEji+Uf4cnY+sk3J8IXnIOBYBsaEY62QUekge0x9LTu4GidqYLcxkL2P0h1jR4gP7zuchnIIZy9hZq69g618x1k3ozZjhiMGgXwuDEn9+eOc8YWXdlv2vJ9UMtZduivvhvngAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/vladlata",
+  "personId": 1232,
+  "classes": [
+    {
+      "id": 73,
+      "label": "Spring 2013",
+      "season": "Spring",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2013",
+  "major": "Elektro- und Informationstechnik",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Vlad Lata",
+  "ca": null,
+  "summary": "\"Knowing is not enough; we must apply. Being willing is not enough; we must do\"",
+  "positions": [
+    {
+      "title": "Venture Partner",
+      "company": "Vorwerk Ventures",
+      "companyUrl": "https://www.linkedin.com/company/vorwerk-ventures",
+      "description": "Backing exceptional founders at the earliest stage. Vorwerk Ventures combines patient capital with hands-on operational support to help ambitious teams build category-defining companies. vorwerkventures.com",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Partner for AI & Healthtech",
+      "company": "The Yope Foundation",
+      "companyUrl": "https://www.linkedin.com/company/the-yope-foundation",
+      "description": "Yope is a community of founders building companies that drive positive change for people and the planet. We run the Superpowers Accelerator — empowering the next generation of conscious innovators to build technologies that matter. yope.org",
+      "location": null,
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Venture scout",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": null,
+      "location": null,
+      "start": "2022-06",
+      "end": null,
+      "dateRange": "Jun 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder & CEO",
+      "company": "Avi Medical",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": "The first AI-native primary care company in Europe. Every patient touchpoint — booking, documentation, triage, lab results, follow-up — is powered by AI. The doctor does one thing: medicine. AI does everything else. 3.6x improved disease prevention rate. 27 clinics. 300,000 patients. 315 employees. One platform. No legacy software. No workarounds. Just better care at scale. avimedical.com",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-01",
+      "end": null,
+      "dateRange": "Jan 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder",
+      "company": "KONUX",
+      "companyUrl": "https://www.linkedin.com/company/konux",
+      "description": "KONUX is a leading German AI/IoT startup, providing smart sensor systems and AI-based analytics to deliver actionable insights and enable predictive maintenance. Since its foundation in 2014, KONUX has raised more than $50 million from world-leading investors and was selected by the World Economic Forum (WEF) as one of the world’s 30 most innovative start-ups and scale-ups worldwide.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-06",
+      "end": null,
+      "dateRange": "Jun 2014 – Present",
+      "current": true
+    },
+    {
+      "title": "Vice Chairman",
+      "company": "KONUX",
+      "companyUrl": "https://www.linkedin.com/company/konux",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-09",
+      "end": "2019-07",
+      "dateRange": "Sep 2018 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "CTO/CPO & Co-Founder",
+      "company": "KONUX",
+      "companyUrl": "https://www.linkedin.com/company/konux",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-12",
+      "end": "2018-09",
+      "dateRange": "Dec 2014 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "BMW",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-10",
+      "end": "2014-06",
+      "dateRange": "Oct 2013 – Jun 2014",
+      "current": false
+    },
+    {
+      "title": "CDTM Trend Seminar with AUDI Electronic Ventures",
+      "company": "AUDI AG",
+      "companyUrl": "https://www.linkedin.com/company/audi-ag",
+      "description": "CDTM Trend Seminar on the topic: Technology Trends and Business Model Innovations in the Private Mobility sector, leading to a published report with over 300 pages",
+      "location": "Munich",
+      "start": "2013-03",
+      "end": "2013-04",
+      "dateRange": "Mar 2013 – Apr 2013",
+      "current": false
+    },
+    {
+      "title": "Working Stundent, Research and Development",
+      "company": "ARRI",
+      "companyUrl": "https://www.linkedin.com/company/arri",
+      "description": "• Carrying out different analysis\n• Advanced image processing with Matlab and C++",
+      "location": "Munich, Germany",
+      "start": "2012-11",
+      "end": "2013-03",
+      "dateRange": "Nov 2012 – Mar 2013",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis",
+      "company": "ARRI",
+      "companyUrl": "https://www.linkedin.com/company/arri",
+      "description": "Bachelor Thesis „Refinement of Time-of-Flight Range Images“ , Grade 1.0 \n(1 best grade - 5 worst grade)",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-05",
+      "end": "2012-10",
+      "dateRange": "May 2012 – Oct 2012",
+      "current": false
+    },
+    {
+      "title": "Examiner Assistant, Active Filters",
+      "company": "European Patent Office",
+      "companyUrl": "https://www.linkedin.com/company/european-patent-office",
+      "description": "Analyzing and classifying patents according to new regulations",
+      "location": "Munich, Germany",
+      "start": "2012-01",
+      "end": "2012-03",
+      "dateRange": "Jan 2012 – Mar 2012",
+      "current": false
+    },
+    {
+      "title": "Intern, Software Engineering",
+      "company": "SILVER ATENA",
+      "companyUrl": "https://www.linkedin.com/company/silveratena",
+      "description": "• Plug-in developing for Eclipse 3.6\n• Java programming",
+      "location": "Munich, Germany",
+      "start": "2011-08",
+      "end": "2011-10",
+      "dateRange": "Aug 2011 – Oct 2011",
+      "current": false
+    },
+    {
+      "title": "Working Student, Electronics Assembly",
+      "company": "ARRI",
+      "companyUrl": "https://www.linkedin.com/company/arri",
+      "description": "Testing of electrical circuits, error analysis and diagnosis(GRS500 flying probe PCB test)",
+      "location": "Munich, Germany",
+      "start": "2011-02",
+      "end": "2011-05",
+      "dateRange": "Feb 2011 – May 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student Researcher, School of Information, Entrepreneurship/Entrepreneurial Studies",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Electrical Engineering and Information Technology",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Founder.org",
+      "degree": "Entrepreneurship/Entrepreneurial Studies",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Electrical Engineering and Information Technology",
+      "dateRange": "2009 – 2012"
+    },
+    {
+      "school": "Advisor (TUM)",
+      "degree": "• Leading and tutoring a group of 14 students\n• Teaching soft skills\n• Organising events\n• Projectmanagement, moderation, rhetorik, teamwork\n• Project - Developing a Mini-Segway",
+      "dateRange": "2009 – 2012"
+    },
+    {
+      "school": "Stephan Ludwig Roth High-School Medias/Rumänien",
+      "degree": "High School Degree, Mathematics – Informatics",
+      "dateRange": "2005 – 2009"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Business Planning",
+    "Strategic Planning",
+    "IoT",
+    "Sales Engineering",
+    "Start-ups",
+    "Optical Sensors",
+    "Product Development",
+    "Project Management",
+    "Business Strategy",
+    "C++",
+    "Patents",
+    "Trend Researching",
+    "Team Leadership",
+    "Image Processing",
+    "Microsoft Office",
+    "Signal Processing",
+    "Product Design",
+    "Matlab",
+    "Team Building",
+    "Innovation Development",
+    "Product Management",
+    "Product Marketing"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian"
+  ],
+  "company": {
+    "name": "avi",
+    "tagline": "Democratizing best-in-class medical care for a healthier society",
+    "description": "Elevating the patient experience and providing the best possible care by combining technology with a human touch.",
+    "industry": "Hospitals and Health Care",
+    "website": "http://www.avimedical.com",
+    "linkedInUrl": "https://www.linkedin.com/company/avimedical",
+    "employeeCount": 228,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "id": "pmayrhofer",
+  "name": "Philip Mayrhofer",
+  "headline": "CEO at Maltego",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/pmayrhofer",
+  "personId": 1946,
+  "classes": [
+    {
+      "id": 51,
+      "label": "Spring 2002",
+      "season": "Spring",
+      "year": 2002,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2002",
+  "major": null,
+  "roles": [
+    "student",
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Philip Mayrhofer",
+  "ca": {
+    "alumni": true,
+    "about": null,
+    "responsibilities": [],
+    "researchFields": [],
+    "email": null
+  },
+  "summary": null,
+  "positions": [
+    {
+      "title": "CEO",
+      "company": "Maltego",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": null,
+      "dateRange": "Jan 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Ponte Energy Partners",
+      "companyUrl": "https://www.linkedin.com/company/ponte-energy-partners",
+      "description": null,
+      "location": null,
+      "start": "2016-09",
+      "end": null,
+      "dateRange": "Sep 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "ENERSTORAGE GmbH",
+      "companyUrl": "https://www.linkedin.com/company/enerstorage-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2012-01",
+      "end": null,
+      "dateRange": "Jan 2012 – Present",
+      "current": true
+    },
+    {
+      "title": "Vorstand Förderverein",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": null,
+      "start": "2008-01",
+      "end": null,
+      "dateRange": "Jan 2008 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-founder",
+      "company": "buchpfade.de, allmyshots.de, mountix.com",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2006-03",
+      "end": "2012-08",
+      "dateRange": "Mar 2006 – Aug 2012",
+      "current": false
+    },
+    {
+      "title": "Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": null,
+      "start": "2005-05",
+      "end": "2010-07",
+      "dateRange": "May 2005 – Jul 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2002 – 2004"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": "Visiting Researcher",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Doctorate Degree (Dr.), Master of Business Research (MBR), and Diplom (Dipl.-Krm.), Business Administration",
+      "dateRange": "2000 – 2011"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Visiting Fellow",
+      "dateRange": "2008 – 2009"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student",
+      "dateRange": "2004"
+    },
+    {
+      "school": "Lund University",
+      "degree": "Erasmus Student",
+      "dateRange": "2002 – 2003"
+    }
+  ],
+  "skills": [
+    "Strategy",
+    "Statistics",
+    "Start-ups",
+    "Research",
+    "Market Research",
+    "Entrepreneurship",
+    "Business Strategy",
+    "Venture Capital",
+    "Innovation Management",
+    "Management Consulting",
+    "Data Analysis",
+    "Economics",
+    "Software Engineering"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Maltego",
+    "tagline": "Maltego is the world’s most used all-in-one intelligence platform for complex cyber investigations.",
+    "description": "Maltego is the world’s most used all-in-one investigation platform that turns complex data into actionable insights in minutes. Used by industry experts, law enforcement, and analysts at major organizations, it brings together all your data in one place, helping you uncover hidden connections with a suite of investigative tools. \n\nWith Maltego, teams can conduct everything from preliminary OSINT investigations to in-depth link analysis of large datasets. The platform also makes it easy to spot threats in real time with social media monitoring and enables the capture of digital evidence before it is altered or removed.\n\nHeadquartered in Munich, Germany, Maltego has grown to over 100 employees and is trusted by 2,000+ government organizations and 4,000+ companies worldwide—including the FBI, INTERPOL, and leading tech and financial firms, including half of the Dow 30.",
+    "industry": "Software Development",
+    "website": "https://www.maltego.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/maltego",
+    "employeeCount": 175,
+    "foundedYear": 2017,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "id": "florian-kristof",
+  "name": "Florian Kristof",
+  "headline": "Automation & AI @Peter Park prev. Berkeley | Cambridge | CDTM",
+  "avatar": {
+    "sm": "/avatars/florian-kristof-sm.webp",
+    "lg": "/avatars/florian-kristof.webp",
+    "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAwBQCdASogACAAPsVQoUunpKMhsAwA8BiJQBWAMYUlpznyQcjBb1S5NPcuwKQClebWYAD+/fh0ejvrVKV3CwUANM5qDM19LkS4pudXJFqcVTW4ojYSqhXc1OeRSIEA+eONDWhbWA0+PzUo/8Mr0hFa6hxPeEw9nhEitNydR1xQSRD5MrTdB+xiay96QnZ+41uDUvdndVgYduV0jx1JTqRyrpAwv6CuWpE+/A4v3+X6No9EAS0niR7iAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/florian-kristof",
+  "personId": 1064,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Engineering Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Florian Kristof",
+  "ca": null,
+  "summary": "Entrepreneur looking for opportunities in the HealthTech sector. Interested in innovating together? Let's chat.",
+  "positions": [
+    {
+      "title": "Team Lead Automation & AI",
+      "company": "Peter Park",
+      "companyUrl": "https://www.linkedin.com/company/peterpark",
+      "description": null,
+      "location": "Munich",
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Business Automation & AI Manager",
+      "company": "Peter Park",
+      "companyUrl": "https://www.linkedin.com/company/peterpark",
+      "description": null,
+      "location": "Munich",
+      "start": "2025-03",
+      "end": "2026-02",
+      "dateRange": "Mar 2025 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "Stealth Startup",
+      "companyUrl": "https://www.linkedin.com/company/stealth-startup-community",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-05",
+      "end": "2024-12",
+      "dateRange": "May 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Founders Associate",
+      "company": "Leevi Health",
+      "companyUrl": "https://www.linkedin.com/company/lilio-health",
+      "description": null,
+      "location": null,
+      "start": "2022-05",
+      "end": "2022-07",
+      "dateRange": "May 2022 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Leevi Health",
+      "companyUrl": "https://www.linkedin.com/company/lilio-health",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-05",
+      "dateRange": "Oct 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Tutor - Engineering Mechanics 2",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Garching, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2021-07",
+      "dateRange": "Apr 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Tutor - Basics of Electrical Engineering I",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Working together with 1st semester students consolidating their knowledge about the basics of electrical engineering I.",
+      "location": "Garching, Bavaria, Germany",
+      "start": "2020-11",
+      "end": "2021-02",
+      "dateRange": "Nov 2020 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Tutor - Engineering Mechanics 1",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Garching, Bavaria, Germany",
+      "start": "2020-11",
+      "end": "2021-02",
+      "dateRange": "Nov 2020 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "RuleYourData",
+      "companyUrl": "https://www.linkedin.com/company/ruleyourdata-gdpr",
+      "description": "RuleYourData automatically requests a user’s personal data from companies in accordance with GDPR regulations. Data is then presented comprehensively, and users may easily remove their information from companies’ data sets.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-03",
+      "end": "2020-11",
+      "dateRange": "Mar 2020 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Civil Service",
+      "company": "Red Cross Youth",
+      "companyUrl": "https://www.linkedin.com/company/red-cross-youth",
+      "description": null,
+      "location": "Vienna, Austria",
+      "start": "2018-10",
+      "end": "2019-07",
+      "dateRange": "Oct 2018 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Smart CUP",
+      "companyUrl": "https://www.linkedin.com/company/smart-cup-health",
+      "description": null,
+      "location": "Vienna, Austria",
+      "start": "2018-09",
+      "end": "2020-05",
+      "dateRange": "Sep 2018 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Engineering Intern",
+      "company": "Practical Robotics Institute Austria",
+      "companyUrl": "https://www.linkedin.com/company/practical-robotics-institute-austria",
+      "description": null,
+      "location": "Vienna, Austria",
+      "start": "2016-08",
+      "end": "2016-09",
+      "dateRange": "Aug 2016 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "Electrical Engineering Intern",
+      "company": "REHAU",
+      "companyUrl": "https://www.linkedin.com/company/rehau",
+      "description": null,
+      "location": "Neulengbach, Austria",
+      "start": "2015-07",
+      "end": "2015-07",
+      "dateRange": "Jul 2015 – Jul 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Master of Engineering - MEng, Bioengineering",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Bachelor's Thesis, Assessment of Electrocardiogram Beat Detectors using Synthetic and Real-World Data",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, School of Information",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Engineering Science",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Austria Wirtschaftsservice",
+      "degree": "Startup Founder, aws First Startup Incubator",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "HTL Rennweg",
+      "degree": "Ingenieur Mechatronik, Mechatronics, Robotics, and Automation Engineering",
+      "dateRange": "2013 – 2018"
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "Teamwork",
+    "Project Management",
+    "Management",
+    "Hardware Development",
+    "Python (Programming Language)",
+    "Inventiveness",
+    "Market Research",
+    "Public Speaking",
+    "C (Programming Language)"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Peter Park",
+    "tagline": "The barrier-free system for your parking lot.",
+    "description": "Einfahrt in die Zukunft: Wir definieren Parken neu.\nWir bei Peter Park schaffen eine Welt ohne Schranken. Mit unserer Vision, Mobilität einfacher, effizienter und menschlicher zu gestalten, verwandeln wir Parkflächen in intelligente Mobilitätszentren.\n\nWas wir tun\nAls führender Anbieter für digitales Parkraummanagement bieten wir Inhabern eine Gesamtlösung für Ihre Parkflächen. Wir verknüpfen modernste smarte Hardware mit einer KI-gestützten Software-Plattform und integrierten Payment-Lösungen. So ersetzen wir physische Barrieren durch nahtlose digitale Prozesse.\n\nWir sind ein Team aus Visionären, Technik-Experten und Machern mit Sitz in München. Gemeinsam arbeiten wir an der Zukunft der urbanen Mobilität.\nBegleite uns auf dem Weg in eine Welt ohne Schranken oder werde Teil unserer Mission!\n________________________________\n\nEntry into the Future: Redefining Parking.\nAt Peter Park, we are creating a world without barriers. Driven by our vision to make mobility simpler, more efficient, and more human-centered, we transform parking areas into intelligent mobility hubs.\n\nWhat we do\nAs a leading provider of digital parking management, we offer owners a comprehensive end-to-end solution for their parking spaces. We combine state-of-the-art smart hardware with an AI-powered software platform and integrated payment solutions. In doing so, we replace physical barriers with seamless digital processes.\n\nWe are a team of visionaries, tech experts, and doers based in Munich. Together, we are shaping the future of urban mobility.\nJoin us on the journey toward a world without barriers and be part of our mission!",
+    "industry": "Information Technology & Services",
+    "website": "https://www.peter-park.de",
+    "linkedInUrl": "https://www.linkedin.com/company/peterpark",
+    "employeeCount": 205,
+    "foundedYear": 2019,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

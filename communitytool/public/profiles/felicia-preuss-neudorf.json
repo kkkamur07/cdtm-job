@@ -1,0 +1,221 @@
+{
+  "id": "felicia-preuss-neudorf",
+  "name": "Felicia Preuss-Neudorf",
+  "headline": "CDTM | BCG | QuantCo | Studienstiftung",
+  "avatar": {
+    "sm": "/avatars/felicia-preuss-neudorf-sm.webp",
+    "lg": "/avatars/felicia-preuss-neudorf.webp",
+    "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAACQBgCdASogACAAPtFUo0uoJKMhsAgBABoJaACdFQguwDeUSvYt6uhtz5oM19N3DQSZVyUFNYadbnDqUVsAAP76J96/YXI1ihYt+em4034A/u+gMAnT7ZBBR09UG/GFCJ0kUqy8piBx1IWmAtCJS23Am23OrfBxxoVljtpmT7KA03D/ayomyHWtH7pD+A0qv/W4Urm+K3UzcOr8b9z6UIXanpKrKE3YmIW+g0TeopClKTQD0WKu017a2D9HVjf9cUfdX4P0Yn+V0crJk0yOwH/xvKUveK6uAAA="
+  },
+  "location": "Cologne, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/felicia-preuss-neudorf",
+  "personId": 2001,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Felicia Preuss-Neudorf",
+  "ca": null,
+  "summary": "Highly passionate about the intersection of IT, business, and people in particular.",
+  "positions": [
+    {
+      "title": "Working Student",
+      "company": "QuantCo",
+      "companyUrl": "https://www.linkedin.com/company/quantco",
+      "description": "Virtual Biopsy Unit",
+      "location": null,
+      "start": "2025-05",
+      "end": "2025-08",
+      "dateRange": "May 2025 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "QuantCo",
+      "companyUrl": "https://www.linkedin.com/company/quantco",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2024-05",
+      "end": "2024-07",
+      "dateRange": "May 2024 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Düsseldorf, North Rhine-Westphalia, Germany",
+      "start": "2024-03",
+      "end": "2024-05",
+      "dateRange": "Mar 2024 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "BCG Platinion",
+      "companyUrl": "https://www.linkedin.com/company/bcg-platinion",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-02",
+      "end": "2023-03",
+      "dateRange": "Feb 2023 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "FocusEconomics",
+      "companyUrl": "https://www.linkedin.com/company/focuseconomics",
+      "description": null,
+      "location": "Barcelona, Catalonia, Spain",
+      "start": "2022-09",
+      "end": "2022-10",
+      "dateRange": "Sep 2022 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Academic Tutor",
+      "company": "Cologne Institute for Information Systems (CIIS)",
+      "companyUrl": "https://www.linkedin.com/company/ciis-uoc",
+      "description": null,
+      "location": null,
+      "start": "2022-04",
+      "end": "2023-09",
+      "dateRange": "Apr 2022 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Student Assistant",
+      "company": "Wirtschafts- und Sozialwissenschaftliche Fakultät der Universität zu Köln",
+      "companyUrl": "https://www.linkedin.com/company/wisokoeln",
+      "description": "Department of Information Systems and Information Management",
+      "location": null,
+      "start": "2021-07",
+      "end": "2023-03",
+      "dateRange": "Jul 2021 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Student Assistant",
+      "company": "Großer Examens- und Klausurenkurs | Faculty of Law, University of Cologne",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2020-04",
+      "end": "2021-02",
+      "dateRange": "Apr 2020 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "infoNetwork GmbH, Mediengruppe RTL",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2016-06",
+      "end": "2016-07",
+      "dateRange": "Jun 2016 – Jul 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Imperial College London",
+      "degree": "MSc Artificial Intelligence Applications",
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Master of Honors",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "University of Cologne",
+      "degree": "Bachelor of Science - BS, Information Systems",
+      "dateRange": "2020 – 2024"
+    },
+    {
+      "school": "IE University",
+      "degree": "Visiting Student",
+      "dateRange": "2023"
+    },
+    {
+      "school": "University of Cologne",
+      "degree": "Law School",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Erzbischöfliches Irmgardis-Gymnasium",
+      "degree": "Abitur",
+      "dateRange": "2011 – 2019"
+    },
+    {
+      "school": "IES Cornelio Balbo, Cádiz, Spain",
+      "degree": "Título de Graduado en Educación Secundaria Obligatoria",
+      "dateRange": "2017"
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Java",
+    "Microsoft Office",
+    "Python",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Microsoft Word",
+    "Microsoft Access",
+    "English"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "company": {
+    "name": "QuantCo",
+    "tagline": null,
+    "description": "QuantCo turns advances in artificial intelligence and statistical learning into real-world impact in leading enterprises and public sector organizations. Leveraging privileged data access and world-class expertise in AI, quantitative optimization and engineering, we build scalable systems that drastically improve decisions that matter – from algorithmic pricing and data-driven claims management to precision medicine. \n\nJoin us!\nIf you want to tackle complex problems from first principles in a fast-paced, entrepreneurial environment that values ownership and intellectual rigor, check out our website for full-time and internship positions.",
+    "industry": "Software Development",
+    "website": "http://www.quantco.com",
+    "linkedInUrl": "https://www.linkedin.com/company/quantco",
+    "employeeCount": 248,
+    "foundedYear": null,
+    "location": "Boston, United States",
+    "specialities": [
+      "Big Data",
+      "Smart Data",
+      "Data Analysis",
+      "Quantitative Modelling",
+      "Pricing",
+      "Fraud Detection",
+      "Machine Learning",
+      "Deep Learning",
+      "Healthcare",
+      "Insurance",
+      "Cancer screening",
+      "NLP",
+      "Computer Vision",
+      "Enterprise AI",
+      "AI",
+      "Input Management",
+      "Claims AI"
+    ]
+  }
+}

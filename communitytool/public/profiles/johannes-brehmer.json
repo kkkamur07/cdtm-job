@@ -1,0 +1,166 @@
+{
+  "id": "johannes-brehmer",
+  "name": "Johannes Brehmer",
+  "headline": "-",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/johannes-brehmer",
+  "personId": 1680,
+  "classes": [
+    {
+      "id": 98,
+      "label": "Spring 2001",
+      "season": "Spring",
+      "year": 2001,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2001",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Johannes Brehmer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Independent Consultant",
+      "company": "Johannes Brehmer Consulting",
+      "companyUrl": null,
+      "description": "Marketing strategy / Growth Marketing / Data Science / AI",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Full-time parenting",
+      "company": "Career break",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2023-07",
+      "end": "2024-10",
+      "dateRange": "Jul 2023 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Travel",
+      "company": "Career break",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2022-07",
+      "end": "2023-06",
+      "dateRange": "Jul 2022 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Full-time",
+      "company": "Westwing Home & Living",
+      "companyUrl": "https://www.linkedin.com/company/westwing-home-&-living",
+      "description": "Scope of Role:\nLed a team of 50+ FTE across Paid Search, SEO, CRM, and Analytics.\nAccountable for €50M+ in new customer revenue.\n\nAI-Driven Performance Marketing:\n• Transitioned Google Ads setup from manual bidding to Smart Bidding (Target ROAS)\n• Designed and implemented a proprietary Customer Lifetime Value (CLV) prediction model at user level\n• Fed CLV outputs back into Google Ads to optimize Smart Bidding for long-term customer value\n• Deployed Dynamic Search Ads (DSA) to scale ad creative using Google’s generative systems\n\nPredictive CRM & Lifecycle Marketing:\n• Built machine learning models to predict first- and repeat-purchase likelihood per user\n• Executed lifecycle campaigns (e.g., onboarding, reactivation) tailored to behavior-based segmentation\n• Instituted rigorous A/B testing frameworks to validate incremental lift from lifecycle initiatives\n\nAnalytics Leadership:\n• Repositioned the data analytics team as a strategic partner to C-Level and Marketing leadership\n• Delivered ROI dashboards, cohort and channel analysis, and deep customer insights\n• Elevated analytics from reporting function to a driver of marketing strategy and budget decisions",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-11",
+      "end": "2022-06",
+      "dateRange": "Nov 2018 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Head of Project Awake",
+      "company": "Westwing Home & Living",
+      "companyUrl": "https://www.linkedin.com/company/westwing-home-&-living",
+      "description": null,
+      "location": "VP Online Marketing, CRM and Analytics",
+      "start": "2017-10",
+      "end": "2018-10",
+      "dateRange": "Oct 2017 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Head Of Pricing WestwingNow",
+      "company": "Westwing Home & Living",
+      "companyUrl": "https://www.linkedin.com/company/westwing-home-&-living",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-04",
+      "end": "2017-09",
+      "dateRange": "Apr 2017 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Head Of Supply Chain Management WestwingNow",
+      "company": "Westwing Home & Living",
+      "companyUrl": "https://www.linkedin.com/company/westwing-home-&-living",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-11",
+      "end": "2017-04",
+      "dateRange": "Nov 2015 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Head of Marketing WestwingNow",
+      "company": "Westwing Home & Living",
+      "companyUrl": "https://www.linkedin.com/company/westwing-home-&-living",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-01",
+      "end": "2015-11",
+      "dateRange": "Jan 2015 – Nov 2015",
+      "current": false
+    },
+    {
+      "title": "Project Leader",
+      "company": "The Boston Consulting Group",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2010-10",
+      "end": "2014-12",
+      "dateRange": "Oct 2010 – Dec 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr.-Ing., Elektrotechnik und Informationstechnik",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Künstliche Intelligenz (KI)",
+    "Marktplanung",
+    "Kennzahlen",
+    "E-Commerce",
+    "Kundengewinnung",
+    "Marketingführung",
+    "Strategisches Marketing",
+    "Performance-Marketing",
+    "Retention Marketing",
+    "Marketingstrategie",
+    "Digitales Marketing",
+    "Online-Marketing",
+    "E-Mail-Marketing",
+    "Marketing-Management",
+    "Data Science",
+    "Datenanalyse",
+    "Wachstumsmarketing",
+    "Strategisches Wachstum",
+    "Growth",
+    "Paid-Search-Strategie",
+    "Suchmaschinenoptimierung (SEO)",
+    "Suchmaschinenmarketing (SEM)",
+    "ROI-Optimierung"
+  ],
+  "languages": [],
+  "company": null
+}

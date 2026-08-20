@@ -1,0 +1,286 @@
+{
+  "id": "julioarend",
+  "name": "Júlio Arend",
+  "headline": "Data @Monolith by CoreWeave | Stanford | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/julioarend-sm.webp",
+    "lg": "/avatars/julioarend.webp",
+    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAAAwBgCdASogACAAPtFYpUwoJSOiKA1RABoJQBXHpAQWatUMDFFWcU1E/5ZajywikkdPuw34sn51SHYAAP7+L7Xsv/FgM70//aNZVsBcC13zl2tz+qgf6UHZN3x2m/MFilAieP5PVlae/0xn2G5w/w1Vi0PmDqFRUU04FsdBsX3gn1lRYcR6AiqvJrAHMAZWJF7R9dcNwlQwlUzsudHbV8lto64w8OMPUb6rSqBJXAehYwvtuMuPx5laQsBU3Hp0P79a4CGgxRrpVlKIYJLAC5C3/xI99s0ST/HWTJAQBoD8UK9nCdlI4b/gAAA="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/julioarend",
+  "personId": 1099,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Mechanical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Júlio Arend",
+  "ca": null,
+  "summary": "Highlights",
+  "positions": [
+    {
+      "title": "Forward Deployed Data Scientist",
+      "company": "CoreWeave",
+      "companyUrl": "https://www.linkedin.com/company/coreweave",
+      "description": "Part of the CoreWeave Physical AI (PAI) Group. \n\nWe enable engineering teams to learn faster from test and simulation data, reduce physical experimentation, and accelerate product design decisions in high-complexity R&D environments.\n\nI own end-to-end applied ML engagements as the primary technical interface to strategic customers (Automotive OEMs, Formula 1, Battery R&D) working on-site with my clients in Germany, UK, Spain, Japan, US.",
+      "location": "London Area, United Kingdom",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Forward Deployed Data Scientist",
+      "company": "Monolith",
+      "companyUrl": "https://www.linkedin.com/company/monolith-ai",
+      "description": null,
+      "location": "London Area, United Kingdom",
+      "start": "2024-06",
+      "end": null,
+      "dateRange": "Jun 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "First Deployed Data Scientist of the company – actively shaping the role  🚀",
+      "company": "Monolith",
+      "companyUrl": "https://www.linkedin.com/company/monolith-ai",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": "2024-06",
+      "dateRange": "Jan 2024 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Intern | AI Research",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": "Core Dev of NeuralProphet, a PyTorch-based Time-Series forecasting framework that combines interpretability and scalability with deep learning performance (>4k Stars on GitHub, >5m downloads).",
+      "location": "Stanford, California, United States",
+      "start": "2022-06",
+      "end": "2023-08",
+      "dateRange": "Jun 2022 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Intern | Battery Engineer",
+      "company": "TWAICE",
+      "companyUrl": "https://www.linkedin.com/company/twaice",
+      "description": "State of health (SoH) estimation using both data-driven and simulation methods",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-11",
+      "end": "2022-04",
+      "dateRange": "Nov 2021 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Product Development Manager",
+      "company": "FINN",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": "Our team developed a functional MVP to ensure smooth communication between Mobility-as-a-service companies and their logistic partners as part of the Technology Management Program of CDTM.\n\nI was responsible for user research, project partner communication, product management, and design\n\nPitch (01:28:00 – 01:42:00):",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-02",
+      "dateRange": "Oct 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Trend Research Consultant",
+      "company": "Stadler",
+      "companyUrl": "https://www.linkedin.com/company/stadler-rail",
+      "description": "Trend analysis, future scenario planning, and business model development regarding \"The Future of Waste Management \" as part of the Technology Management program of CDTM",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-08",
+      "end": "2021-10",
+      "dateRange": "Aug 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Artificial Intelligence Engineer",
+      "company": "Digital Product School by UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/digital-product-school",
+      "description": "I have worked on the development of an in-car app to solve the problem of missing spontaneous premium last mile offerings in an autonomously operating innovation team and in close collaboration with the BMW Group. \n\nResponsible for sourcing potentially helpful data, data storage (Firebase), building rule-based and random forest models (tensorflow, scikit) to identify common situations in traffic, and model deployment to make online predictions (Google Cloud Platform, Vertex AI).",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-05",
+      "end": "2021-07",
+      "dateRange": "May 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Intern | R&D Vehicle Body",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Project Engineer Intern in the field of vehicle body development (cost and weight optimization)",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-10",
+      "end": "2019-03",
+      "dateRange": "Oct 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Tutor",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2015-10",
+      "end": "2016-07",
+      "dateRange": "Oct 2015 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Working Student | Concierge",
+      "company": "CONTORA Office Solutions",
+      "companyUrl": "https://www.linkedin.com/company/contora-office-solutions",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-09",
+      "end": "2015-09",
+      "dateRange": "Sep 2014 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Gap year",
+      "company": "Career break",
+      "companyUrl": null,
+      "description": "Post-High-School Gap Year. \nI still consider this the most valuable experience of my life, as my desire to explore the world mainly stems from this time.\n\n- Machinery Internship in two different factories producing pump gears in Shanghai, China (3 Months)\n- Machinery Internship in a factory producing large gears (e.g. for helicopters, ships) in Germany (1 Month)\n- English language course in San Diego, CA, USA (2 Months)\n- Visited my family and experienced the FIFA World Cup first hand in Rio Grande du Norte, Brazil (2 Months)",
+      "location": "Three continents",
+      "start": "2013-09",
+      "end": "2014-08",
+      "dateRange": "Sep 2013 – Aug 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Student Researcher, Computer Science",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Mechanical Engineering & Automotive Engineering (Double Degree)",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "Tongji University",
+      "degree": "Mechanical Engineering",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Engineering Science",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "Universidade Federal do Rio de Janeiro",
+      "degree": "Mechanical Engineering",
+      "dateRange": "2016"
+    }
+  ],
+  "skills": [
+    "Physical AI",
+    "Bayesian Optimization",
+    "Anomaly Detection",
+    "Time Series Forecasting",
+    "Battery Testing",
+    "Active Learning",
+    "Amazon Web Services (AWS)",
+    "Market Research",
+    "Open-Source Software",
+    "Forecasting",
+    "Applied Machine Learning",
+    "GitHub",
+    "Data Science",
+    "Microsoft Azure Machine Learning",
+    "CATIA",
+    "Automotive",
+    "Trend Research",
+    "Product Management",
+    "Figma (Software)",
+    "Presentation Skills",
+    "Market Sizing",
+    "Design Thinking",
+    "MATLAB",
+    "Data Pipelines",
+    "Git",
+    "Automotive Engineering",
+    "Python (Programming Language)",
+    "Matlab",
+    "Mechanical Engineering",
+    "Consulting",
+    "Artificial Intelligence (AI)",
+    "MLOps",
+    "Deep Learning",
+    "Machine Learning",
+    "Research",
+    "Social Entrepreneurship",
+    "Project Management",
+    "Computer Aided Design (CAD)",
+    "Sustainability",
+    "Business Development",
+    "Microsoft PowerPoint",
+    "Microsoft Excel",
+    "Microsoft Word",
+    "Google Cloud Platform (GCP)",
+    "Simulink",
+    "Tutoring",
+    "Teamwork",
+    "Public Speaking",
+    "Intercultural Communication",
+    "English",
+    "Lithium-ion Batteries",
+    "Electric Cars",
+    "Future Trends",
+    "International Networking",
+    "Gallup Strengths",
+    "Harmony",
+    "User Research"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Portuguese",
+    "Spanish"
+  ],
+  "company": {
+    "name": "CoreWeave",
+    "tagline": "CoreWeave is the Essential Cloud for AI",
+    "description": "CoreWeave is the Essential Cloud for AI.\n\n\nCoreWeave is a cloud purpose-built for scaling, supporting, and accelerating GenAI. We’re a comprehensive platform and strategic partner designed to tackle today—and tomorrow’s—challenges of deploying AI at scale. We manage the complexities of AI growth to make supercomputing accessible and push the limits of what’s possible. Our teams create modern solutions to support modern technology. Get the premier choice for working with GenAI workloads.",
+    "industry": "Technology, Information and Internet",
+    "website": "http://www.coreweave.com",
+    "linkedInUrl": "https://www.linkedin.com/company/coreweave",
+    "employeeCount": 2207,
+    "foundedYear": 2017,
+    "location": "New York, United States",
+    "specialities": [
+      "Cloud",
+      "Kubernetes",
+      "Bare Metal",
+      "GPU Compute",
+      "AI Compute Acceleration"
+    ]
+  }
+}

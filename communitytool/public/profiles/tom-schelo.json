@@ -1,0 +1,203 @@
+{
+  "id": "tom-schelo",
+  "name": "Dr. Tom Schelo",
+  "headline": "PtX for Energy Transition Fund at CIP | Dr.-Ing. TUM | CDTM",
+  "avatar": {
+    "sm": "/avatars/tom-schelo-sm.webp",
+    "lg": "/avatars/tom-schelo.webp",
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAADQBQCdASogACAAPs1Wo0unpKMhsBgMAPAZiWQAxPiI4MFW/WOcM/jrp08JHqLkIOu3RBviB5oAAP7+q6pFMQScCBDdUdEDX25EZlgZYc/srUodufI8DtTOyM3N/pzoM8PsHjd1nvb7VAt5i+0NXHGgIPwlGnd4Ov8Zw+nqXEzYFMYxw64w9Z22xYn/OFiZxLd9DFZji2KQUiI4G1Qqlk9Smz2o/w59qAIKQS2hXlYgCSPkdUreuaExqR/1914IH0QSWURFW1pMgyYUf+9+qE/SeD5glIAA"
+  },
+  "location": "Hamburg, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/tom-schelo",
+  "personId": 1284,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Tom Schelo",
+  "ca": {
+    "alumni": true,
+    "about": null,
+    "responsibilities": [],
+    "researchFields": [],
+    "email": null
+  },
+  "summary": "Engineer with experience in strategy consulting and business development and a versatile interest in entrepreneurship and sustainable energy systems of the future.",
+  "positions": [
+    {
+      "title": "Senior Manager CIP Energy Transition Fund",
+      "company": "CIP Molecule Technologies",
+      "companyUrl": "https://www.linkedin.com/company/cip-molecule-technologies",
+      "description": "Techno-commercial modeling and optimization of Power-to-X projects for CIP's Energy Transition Fund",
+      "location": "Hamburg, Deutschland",
+      "start": "2024-03",
+      "end": null,
+      "dateRange": "Mar 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Business Development Green Hydrogen",
+      "company": "Eternal Power GmbH",
+      "companyUrl": "https://www.linkedin.com/company/eternal-power",
+      "description": "Helping build a global mass producer for green hydrogen and its derivatives.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-04",
+      "end": "2024-01",
+      "dateRange": "Apr 2023 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Business Development Green Hydrogen",
+      "company": "Pacifico Energy Partners",
+      "companyUrl": "https://www.linkedin.com/company/pacifico-energy",
+      "description": "Building up the Green Hydrogen strategy at Pacifico Energy Partners and initiating first projects across Europe.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-11",
+      "end": "2023-03",
+      "dateRange": "Nov 2021 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "CDTM Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "The Center for Digital Technology and Management (CDTM) is a joint institution of the two universities in Munich, the Ludwig-Maximilians-Universität München (LMU) and the Technische Universität München (TUM).\n\nCDTM offers the interdisciplinary add-on study program „Technology Management“, which is part of the Elite Network of Bavaria. Students from various study backgrounds with creative ideas, great motivation and an entrepreneurial mindset are offered the tools to put their ideas into practice.\n\nAs part of the management team, I was responsible for running the daily operations of the Center together with my colleagues, including teaching, designing course formats, acquiring project partners, and ensuring the financial sustainability of the program. In parallel, I was given the chance to pursue a doctoral degree.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2017-10",
+      "end": "2021-10",
+      "dateRange": "Oct 2017 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Senior Consultant (Digital Ventures)",
+      "company": "Deloitte Digital",
+      "companyUrl": "https://www.linkedin.com/company/deloitte-digital",
+      "description": "As part of Deloitte Digital Ventures, I helped building an insurtech venture together with a global player in the insurance landscape.",
+      "location": "München",
+      "start": "2015-11",
+      "end": "2017-08",
+      "dateRange": "Nov 2015 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Junior Research Assistant",
+      "company": "TUM CREATE",
+      "companyUrl": "https://www.linkedin.com/company/tum-create-limited",
+      "description": "Design and implementation of a sophisticated agent-based simulation model of an electrified taxi traffic for Singapore with the aim of optimizing the charging infrastructure and evaluating the potential of different vehicle models.",
+      "location": "Singapur",
+      "start": "2015-01",
+      "end": "2015-06",
+      "dateRange": "Jan 2015 – Jun 2015",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "We are Knitters",
+      "companyUrl": "https://www.linkedin.com/company/we-are-knitters",
+      "description": "Analysis and optimization of logistic processes in a Madrid-based e-commerce start up: \n\nThrough the development and introduction of VBA tools and newly designed processes, we achieved a considerably lower error ratio while also decreasing the shipping time of highly customizable products to a minimum. \n\nOrganizing and executing the reloaction and integration with a new and more modern service warehouse to meet higher shipping volumes.",
+      "location": null,
+      "start": "2013-09",
+      "end": "2013-12",
+      "dateRange": "Sep 2013 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "E.ON Ruhrgas",
+      "companyUrl": "https://www.linkedin.com/company/e-on",
+      "description": "Simulations and strength analysis.\nComponent and material testing.",
+      "location": null,
+      "start": "2010-09",
+      "end": "2010-11",
+      "dateRange": "Sep 2010 – Nov 2010",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "ThyssenKrupp",
+      "companyUrl": "https://www.linkedin.com/company/thyssenkrupp",
+      "description": "Hot strip mill (forming production processes).\nHands on experience in shape cutting, assembling and separating production processes.",
+      "location": null,
+      "start": "2008-07",
+      "end": "2008-09",
+      "dateRange": "Jul 2008 – Sep 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr.-Ing., TUM School of Engineering and Design/Chair of Renewable and Sustainable Energy Systems",
+      "dateRange": "2017 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Maschinenbau",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Maschinenbau",
+      "dateRange": "2008 – 2011"
+    },
+    {
+      "school": "Universidad Politécnica de Madrid",
+      "degree": "Erasmus Semester, Maschinenbau",
+      "dateRange": "2011 – 2012"
+    },
+    {
+      "school": "Städtisches Görres Gymnasium in Düsseldorf",
+      "degree": "Allgemeine Hochschulreife",
+      "dateRange": "1999 – 2008"
+    },
+    {
+      "school": "Lawrence Academy in Groton, MA, USA",
+      "degree": null,
+      "dateRange": "2005 – 2006"
+    }
+  ],
+  "skills": [
+    "Maschinelles Lernen",
+    "Englisch",
+    "Microsoft Office",
+    "Forschung",
+    "Matlab",
+    "Datenanalyse",
+    "Manufacturing Engineering",
+    "Industrial Engineering",
+    "Data Analysis",
+    "Unternehmensführung",
+    "Lean Start-Up",
+    "Foreign Languages",
+    "iOS development",
+    "Digitale Strategie",
+    "FinTech",
+    "Simulationen",
+    "Elektrofahrzeuge",
+    "Produktentwicklung",
+    "Rapid Prototyping"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "CIP Molecule Technologies",
+    "tagline": null,
+    "description": "CIP Molecule Technologies is a project delivery company working for funds managed by Copenhagen Infrastructure Partners (CIP) to ensure successful development and construction of Power-to-X (PtX) and carbon capture, use and storage, (CCUS) projects at scale.\n\nCIP Molecule Technologies delivers best-in-class services to CIP’s growing portfolio of PtX and CCUS projects through a combination of best-in-class capabilities and specialized project development and execution. The company facilitate global investments through local presence in key markets, and continuously develop CIP’s expertise in PtX and CCUS by specializing in both existing and new technologies.\n\nCIP Molecule Technologies is jointly owned by the funds managed by CIP and Copenhagen Offshore Partners.",
+    "industry": "Financial Services",
+    "website": "https://www.cip.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/cip-molecule-technologies",
+    "employeeCount": 66,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

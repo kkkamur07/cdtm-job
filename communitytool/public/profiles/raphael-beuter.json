@@ -1,0 +1,162 @@
+{
+  "id": "raphael-beuter",
+  "name": "Raphael Beuter",
+  "headline": "Research @ Harvard I CDTM I BCG I HSG",
+  "avatar": {
+    "sm": "/avatars/raphael-beuter-sm.webp",
+    "lg": "/avatars/raphael-beuter.webp",
+    "blur": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAACQBQCdASogACAAPr1Sn0unJSKht/qoAOAXiWMAyNXcC38ZVZYqRdBlyP2L4GTON6vjJwWngAD+/BPQpTSLYJxO1c7JY+Q96+bXxHu8/tDWwEsMDjpyfNnbd+jVkff2wnKqi4AnlKlPicpN77YFk13sg9DfzOFGOH59CG2dBvP8EUbgnrP1s+9dTwTmIxB+YQBGtgoao4ihOZl9x9oP2CT46xZv0CCYx5jzFGvfr2Vfqbvt1J9rDCtaNpJ5Od1yGZXeaWUbH8Nh7YrILpIZTrKvYlUvb0Yt90vdH1eLRmzDUAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/raphael-beuter",
+  "personId": 1310,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Psychology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Raphael Beuter",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Growth Equity",
+      "company": "HV Capital",
+      "companyUrl": "https://www.linkedin.com/company/hvcapital",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2025-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Consulting",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "Metropolregion München",
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Founder's Associate I osapiens Terra",
+      "company": "osapiens",
+      "companyUrl": "https://www.linkedin.com/company/osapiens",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Venture Capital",
+      "company": "Acton Capital",
+      "companyUrl": "https://www.linkedin.com/company/acton-capital-partners",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Growth & Strategic Projects",
+      "company": "Kaia Health",
+      "companyUrl": "https://www.linkedin.com/company/kaiahealth",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Various Internships",
+      "company": "Various Companies",
+      "companyUrl": "https://www.linkedin.com/company/various-boards",
+      "description": "Worked in early-stage Rocket Internet startups, politics and venture capital",
+      "location": "Berlin l Singapore l Munich",
+      "start": "2019-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2019 – Dec 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Visiting Researcher I Laboratory for Innovation Science at Harvard",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management and Technology",
+      "dateRange": null
+    },
+    {
+      "school": "University of St.Gallen",
+      "degree": "Bachelor's degree, Business Administration",
+      "dateRange": null
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Undergraduate Student",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor's degree, PSYCHOLOGY",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Japanese"
+  ],
+  "company": {
+    "name": "HV Capital",
+    "tagline": "Backing those who dare",
+    "description": "HV Capital is one of the leading early-stage and growth investors in Europe. With nine fund generations in 23 years and €2.8 bn in managed assets, HV Capital is one of the continent's most active investors. The investment team has many years of experience in identifying European startups with great potential for success. In addition to international success stories like Zalando, Delivery Hero, Sumup, and Depop, innovation leaders such as Enpal, Flixbus, Sennder, and Isar Aerospace are also part of the portfolio. HV Capital has invested in around 225 internet and technology companies, supporting startups with ticket sizes ranging from €0.5 to €60m. It is one of Europe's few venture capital firms that can finance startups through all growth phases. HV Capital has a team of more than 40 investment and operations professionals who provide a variety of perspectives and expertise across the venture capital landscape.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://www.hvcapital.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/hvcapital",
+    "employeeCount": 213,
+    "foundedYear": 2000,
+    "location": "München, Germany",
+    "specialities": [
+      "venture capital",
+      "entrepreneurship",
+      "startups",
+      "financing",
+      "growth",
+      "technology",
+      "innovation"
+    ]
+  }
+}

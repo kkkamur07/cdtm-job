@@ -1,0 +1,200 @@
+{
+  "id": "denitsa-angelova-da",
+  "name": "Denitsa Angelova",
+  "headline": "🚀 Product Manager @ myPOS by Day, Tech Enthusiast by Passion, Agile Innovator Always",
+  "avatar": {
+    "sm": "/avatars/denitsa-angelova-da-sm.webp",
+    "lg": "/avatars/denitsa-angelova-da.webp",
+    "blur": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAADwBQCdASogACAAPs1YokunpSMhsBgMAPAZiWQAzcwQBGgbPXv3vwtjMAkWUhc4l9DQR5l0wrQewAD+/NfgucX9wBy93PwsbciwRfqOyam+G5OMHtvlxSDeIVM4Sq9sIfZhoyb6n4XWeTcujNmh0wGBAzYQ0iGUXJQcQDYokCqhjt9Vj3UC1nSqd19G+k7HoFEJJKY3xUTj6qlKpk9OqzsDwTBCJa+sEd0phSzQlJZdnq8qSXXxZ2HlPY/A7OGtMkwEt7XSDVdNX25ikv8kOUmPgyBPo15Tr7eo0ayHT52Arz+RyX+7i3Gv+SGndIAA"
+  },
+  "location": "Varna, Bulgaria",
+  "linkedInUrl": "https://www.linkedin.com/in/denitsa-angelova-da",
+  "personId": 799,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Denitsa Angelova",
+  "ca": null,
+  "summary": "I bridge the gap between technology, design, and business to create cutting-edge digital payment solutions that don't just meet expectations—they exceed them.\n\nWith a foundation in computer science, a passion for UX design, and extensive experience in product and project management, I thrive in dynamic environments where innovation and agility are key. Whether it's optimizing myPOS business debit cards or leading transformative projects, I bring a customer-first mindset and a data-driven approach to every challenge.\n\n🔹 Creative problem-solver with a strong eye for detail and usability\n🔹 Passionate about new technologies, agile methodologies, and short innovation cycles\n🔹 Obsessed with delivering seamless and inspiring user experiences\n\nMy Toolbox:\n📌 Product & Project Management: Jira | Confluence | Notion | Airtable\n📌 Design & UX: Figma | Wireframing | User Research\n📌 Productivity & Collaboration: MS Office | Agile Frameworks\n\nSoft skills that power my work:\n✨ Creativity, adaptability & innovation\n✨ Strong analytical & organizational skills\n✨ Agile mindset & cross-functional teamwork\n\n🌍 Languages I Work In:\n🇬🇧 English (C1) | 🇩🇪 German (C1-C2) | 🇧🇬 Bulgarian (Native)",
+  "positions": [
+    {
+      "title": "Product Manager",
+      "company": "myPOS",
+      "companyUrl": "https://www.linkedin.com/company/mypos-official",
+      "description": "- Leading the myPOS business debit cards product strategy, driving innovation in digital payments.\n- Enhancing customer experience through data-driven decision-making and UX optimization.\n- Collaborating cross-functionally with engineering, marketing, and business teams to deliver seamless payment solutions.\n- Managing the product lifecycle from ideation to launch, ensuring agility in execution.\n- Spearheading improvements in payment security, compliance, and operational efficiency.",
+      "location": "Varna, Bulgaria",
+      "start": "2023-10",
+      "end": null,
+      "dateRange": "Oct 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Product Owner",
+      "company": "SBK Siemens-Betriebskrankenkasse",
+      "companyUrl": "https://www.linkedin.com/company/sbk-siemens-betriebskrankenkasse",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-01",
+      "end": "2023-09",
+      "dateRange": "Jan 2023 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Innovation Project Manager",
+      "company": "Innovationsmanagement Bau GmbH",
+      "companyUrl": "https://www.linkedin.com/company/innovationsmanagement-bau",
+      "description": "- Scouted emerging technologies & startups, identifying opportunities for innovation.\n- Designed and led intrapreneurship workshops using Scrum, Kanban, and Design Thinking methodologies.\n- Developed and launched MVPs, transforming ideas into market-ready solutions.\n- Coordinated pilot projects and aligned diverse stakeholders for successful execution.\n- Represented the company in industry events and networking forums, strengthening partnerships.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-12",
+      "end": "2022-12",
+      "dateRange": "Dec 2020 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Strategy Consultant (Innovation management)",
+      "company": "Innovationsmanagement Bau GmbH",
+      "companyUrl": "https://www.linkedin.com/company/innovationsmanagement-bau",
+      "description": "- Defined business goals, vision, and future collaboration strategies for innovation projects.\n- Conducted market research and competitor analysis, identifying industry trends and business opportunities.\n- Evaluated and optimized business processes and web infrastructure to enhance efficiency.\n- Developed and implemented a new marketing strategy, improving brand positioning and outreach.",
+      "location": "München",
+      "start": "2019-10",
+      "end": "2020-11",
+      "dateRange": "Oct 2019 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Managing Product Development (CDTM)",
+      "company": "Rolls-Royce Power Systems AG",
+      "companyUrl": "https://www.linkedin.com/company/rolls-royce-power-systems",
+      "description": "In cooperation with Rolls-Royce my team and I developed a digital tool Qual.E for improving efficiency\nand accuracy of industrial quality checks of diesel engines. Our prototype Qual.E consists of two\ninterfaces: a web application for the manager who defines which questions should be included in the\nrelevant checklist for each engine, and a mobile application for the completion of a quality check. The\nmanager is notified in real time about the status of an engine so that he could take immediate measures\nin case of detected errors. This process ensures flexibility and faster communication between the\ndifferent departments in the company, as well as continuous improvement due to easy adjustment of\nthe checklists and data analytics.",
+      "location": "Friedrichshafen, Germany",
+      "start": "2018-10",
+      "end": "2019-01",
+      "dateRange": "Oct 2018 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Software developer and UX expert (working student)",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "- Acted as a liaison between UX and development teams, ensuring seamless communication.\n- Assisted in Scrum Master activities, fostering agile team collaboration.\n- Led the redesign of legacy security management software, integrating modern UX concepts in Java & Java Swing.\n- Developed a cross-platform mobile application for incident management using Ionic Angular.\n- Designed and implemented a web-based dashboard for resource monitoring, leveraging Angular, Bootstrap, and Spring Boot.",
+      "location": "Munich Area, Germany",
+      "start": "2017-05",
+      "end": "2020-11",
+      "dateRange": "May 2017 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Student Assistant",
+      "company": "TUM Graduate School of Bioengineering",
+      "companyUrl": null,
+      "description": "- Managed and maintained the website & database (Typo3-based CMS).\n- Designed print and digital media (posters, flyers, postcards) aligned with TUM’s corporate branding.\n- Oversaw social media activities, improving digital outreach and engagement.\n- Assisted with administrative tasks, including doctoral student records & qualification program support.\n- Conducted research activities and contributed to academic events.\n- Organized and supported workshops, summer schools, and PR events.\n- Played a key role in the development of the GSB Alumni Network.",
+      "location": "Garching bei München",
+      "start": "2017-01",
+      "end": "2019-09",
+      "dateRange": "Jan 2017 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Student Assistant",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "- Conducted research activities for the prestigious Elite Study Program \"Top Math\".\n- Assisted in data analysis, and academic research.",
+      "location": "Garching bei München",
+      "start": "2015-11",
+      "end": "2016-11",
+      "dateRange": "Nov 2015 – Nov 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Informatics",
+      "dateRange": "2016 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours degree, Management and Technology",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Informatics",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "EG \"Geo Milev\", Dobrich, Bulgaria",
+      "degree": null,
+      "dateRange": "2008 – 2013"
+    }
+  ],
+  "skills": [
+    "Print Design",
+    "Angular",
+    "Software Project Management",
+    "Projektmanagement",
+    "Projektplanung",
+    "Design",
+    "Produktmanagement",
+    "Digitalisierung",
+    "IT-Projekt- und Programm-Management",
+    "Business Innovation",
+    "Entrepreneurship",
+    "Front-End Development",
+    "Strategic Vision",
+    "Business Strategy",
+    "Marketing Strategy",
+    "Management Consulting",
+    "Digital Strategy",
+    "Product Management",
+    "Business Development",
+    "Agile Project Management"
+  ],
+  "languages": [
+    "Bulgarian",
+    "English"
+  ],
+  "company": {
+    "name": "myPOS",
+    "tagline": "By combining the latest payment technologies with imagination and expertise, we create a new world of payments.",
+    "description": "Dive into a new world of payments with myPOS to find out how the latest payment technologies will grow your business.  \n\nmyPOS is the first and only fintech in Europe to offer merchants instant settlement of funds at no additional cost. This means that businesses that accept payments via myPOS terminals can use the money instantly. myPOS customers get not only a free e-money merchant account, but also a free Business Visa card that’s connected to their account – thus having a practical way to access their funds. Merchants also get a wide range of classic and Android-based POS terminals and various tools for accepting online and mobile payments, so, all in all, myPOS provides a truly comprehensive solution under one roof.\n\nFor its innovations in the payments industry, myPOS has won many prestigious awards such as the B2B Innovation Award by Fintech Breakthrough in 2021, Best SME Omnichannel Payments Platform by the UK Enterprise Awards in 2020 and Best POS Innovation Award by the MPE Europe in for 2019. Local business owners can personally try the numerous advantages of the myPOS platform and payment solutions at ten sales locations in London, Amsterdam, Milan, Antwerp, Paris, Sofia, Varna, Bucharest, Vienna and Lisbon or visit myPOS online at www.mypos.com.",
+    "industry": "Financial Services",
+    "website": "https://www.mypos.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/mypos-official",
+    "employeeCount": 1134,
+    "foundedYear": 2014,
+    "location": "London, United Kingdom",
+    "specialities": [
+      "point-of-sale solutions",
+      "card and contactless payments",
+      "mobile POS terminals",
+      "virtual POS tools",
+      "payment services",
+      "online payment solutions",
+      "e-money",
+      "credit card machine",
+      "unattended POS solutions",
+      "Instant settlement",
+      "online shop",
+      "online checkout",
+      "payment request",
+      "payment tag"
+    ]
+  }
+}

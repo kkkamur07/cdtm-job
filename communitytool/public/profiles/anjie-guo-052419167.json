@@ -1,0 +1,184 @@
+{
+  "id": "anjie-guo-052419167",
+  "name": "Anjie Guo",
+  "headline": "Senior Data Scientist and AI Use Case Lead @ VKB | Technology Management @ CDTM",
+  "avatar": {
+    "sm": "/avatars/anjie-guo-052419167-sm.webp",
+    "lg": "/avatars/anjie-guo-052419167.webp",
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAABQBQCdASogACAAPtFapk0oJSOiMBgIAQAaCUAZGrGMlrZbBpQxIJRf105ymWDgNg7/pwAA/vltB08i4fWSDIU5CdHs/wqMqk13BwOYgObg3+gDnhSFISbxMmroC/QYMqpGD+pOvwcKuzyxdUnsXUjE4wEO5WMHfWHXaCNdhnZdgYP7AcC10FjhonGEdxDhTXT/csyyZ5sR55AdRR74H4fQM3Dz7L56kbeIXKf+kbRwceD7xvwqJ9842prQOMTFKOQL0iAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/anjie-guo-052419167",
+  "personId": 1244,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "B.Sc. in Engineering Science and M.Sc. in Robotics, Cognition and Inteligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Anjie Guo",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Use Case Lead & Senior Data Scientist",
+      "company": "Konzern Versicherungskammer",
+      "companyUrl": "https://www.linkedin.com/company/konzern-versicherungskammer",
+      "description": null,
+      "location": null,
+      "start": "2025-02",
+      "end": null,
+      "dateRange": "Feb 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Konzern Versicherungskammer",
+      "companyUrl": "https://www.linkedin.com/company/konzern-versicherungskammer",
+      "description": "Leveraging the value of data across all pillars of the insurance business through analysis, modelling and visualization.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-04",
+      "end": "2025-05",
+      "dateRange": "Apr 2022 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Master Thesis",
+      "company": "TUMCREATE",
+      "companyUrl": "https://www.linkedin.com/company/tum-create-limited",
+      "description": "To understand traffic flow in cities, I am researching a (potentially deep learning-based) method to predict origin-destination traffic demand by using features from OpenStreetMap. Currenlty, I am investigating Graph Neural Networks to solve this task.",
+      "location": "Singapur, Singapur",
+      "start": "2021-06",
+      "end": "2022-02",
+      "dateRange": "Jun 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "At the chair for robotics and embedded systems, we are evaluating new strategies in the electrification of logistics fleets with respect to fleet and energy management.",
+      "location": null,
+      "start": "2021-03",
+      "end": "2021-09",
+      "dateRange": "Mar 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "PwC Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/pwc-deutschland",
+      "description": "Working Student  Deals and Analytics Team\n- Development a deep learning pipeline for legal text data in Python",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-07",
+      "end": "2020-07",
+      "dateRange": "Jul 2019 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "MINI UK",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Internship in Quality Management for Supplier Parts\n- Introduction of a new parts returning process reducing 70% of returning cost\n- Moderation and preparation of strategic, weekly meetings",
+      "location": "Oxford, England, Vereinigtes Königreich",
+      "start": "2017-09",
+      "end": "2018-03",
+      "dateRange": "Sep 2017 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "TU München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Institute for Micro Technology and Medical Device Technology\n- design of parts for a 3D printer for metals in CATIA",
+      "location": "München, Bayern, Deutschland",
+      "start": "2017-07",
+      "end": "2017-09",
+      "dateRange": "Jul 2017 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Sales Promoter",
+      "company": "young promotion GmbH",
+      "companyUrl": "https://www.linkedin.com/company/young-promotion-gmbh",
+      "description": "Brand Promotion at Munich Airport",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-07",
+      "end": "2016-05",
+      "dateRange": "Jul 2015 – May 2016",
+      "current": false
+    },
+    {
+      "title": "Logistics",
+      "company": "AUDI AG",
+      "companyUrl": "https://www.linkedin.com/company/audi-ag",
+      "description": null,
+      "location": null,
+      "start": "2014-07",
+      "end": "2014-08",
+      "dateRange": "Jul 2014 – Aug 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Robotics, Cognition, Intelligence",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Ingenieurwissenschaften",
+      "dateRange": "2014 – 2018"
+    }
+  ],
+  "skills": [
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Microsoft Word",
+    "Research",
+    "Microsoft PowerPoint",
+    "Vorträge",
+    "Deutsch",
+    "English",
+    "Chinese",
+    "Lean Tools",
+    "Python"
+  ],
+  "languages": [
+    "Chinesisch",
+    "Deutsch"
+  ],
+  "company": {
+    "name": "Konzern Versicherungskammer",
+    "tagline": "🚀 Wir: Für morgen. \nAchtsam und erfolgsorientiert. Menschlich und fair. Traditionell und am Puls der Zeit. #Karriere",
+    "description": "#WIR als Unternehmen\nWir gehören zu den 🔟 größten Versicherern Deutschlands und sind mit über 7.500 Kolleg*innen täglich für unsere Kund*innen und einander da. \n📍 Mit 11 Versicherungsunternehmen und drei starken Regionalmarken – Versicherungskammer Bayern, Feuersozietät Berlin Brandenburg & SAARLAND Versicherungen – sind wir regional engagiert und setzen uns mit unseren Krankenversicherern und digitalen Versicherer Bavaria Direkt bundesweit für unsere Kund*innen ein.\n👍 Wir engagieren uns regional & nachhaltig für die Gesellschaft, z. B. mit der Versicherungskammer Stiftung. \n\n#WIR als Arbeitgeber\nMehr Gemeinschaft, mehr Vielfalt, mehr Flexibilität!\n🤝 Alle Macher*innen sind bei uns genau richtig: Dank großer Flexibilität und gegenseitigem Vertrauen ermöglichen wir individuelle Entwicklung. Egal ob Fachexpert*in oder Quereinsteiger*in, in Voll- oder Teilzeit – Leidenschaft zählt. \n🌈 Es spielt keine Rolle, wie man denkt, fühlt oder lebt. Unser Erfolg basiert auf dem Engagement aller, die aktiv an der Gestaltung unseres Unternehmens beteiligt sind. Wertschätzung, Offenheit und Menschlichkeit sind bei uns selbstverständlich. \nMehr davon! Deine Karriere bei uns. \n\nWarum du Teil unseres #TeamVersicherungskammer werden solltest:\n💛 Mehr als nur ein Job: weil du durch deine Arbeit der Gesellschaft etwas zurückgibst.\n💼 Es erwarten dich: Flexibilität, Vertrauen & echtes Miteinander.\n🏡 Ob Homeoffice, Büro oder Garten – wichtig ist, was du leistest.\n🤝 Du wirst Teil eines starken & unterstützenden Netzwerks.\n🚀 Frühe Verantwortung & Raum für deine Entwicklung – vom Praktikum bis zur Führung.\n🔄 Jobsharing, Reverse Mentoring & persönliche Förderung – so sieht moderne Zusammenarbeit aus.\n\n👉https://instagram.com/versicherungskammer_karriere?igshid=MzRlODBiNWFlZA== \n👉https://www.konzern-versicherungskammer.de/content/presse/presse \n👉https://www.konzern-versicherungskammer.de/content/datenschutz/ \n👉https://www.konzern-versicherungskammer.de/content/impressum/",
+    "industry": "Insurance",
+    "website": "https://www.konzern-versicherungskammer.de/content/",
+    "linkedInUrl": "https://www.linkedin.com/company/konzern-versicherungskammer",
+    "employeeCount": 1611,
+    "foundedYear": 1811,
+    "location": "München, Germany",
+    "specialities": [
+      "Versicherungen",
+      "Digitale Services",
+      "Geldanlage",
+      "Nachhaltigkeit",
+      "Familienfreundlichkeit",
+      "Diversity"
+    ]
+  }
+}

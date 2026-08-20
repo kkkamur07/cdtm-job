@@ -1,0 +1,133 @@
+{
+  "id": "nilsreichardt",
+  "name": "Nils Reichardt",
+  "headline": "CDTM | CS at TUM",
+  "avatar": {
+    "sm": "/avatars/nilsreichardt-sm.webp",
+    "lg": "/avatars/nilsreichardt.webp",
+    "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAQBQCdASogACAAPtFYpE0oJSOiKA1RABoJQAAqfMKsTHxmkeV1BXxtZPKxWst1uQYAAP7znzKFife3JyerzSNbXwbPU+4k4PKfd7/H7ZHj19+D48Pijm3NVZ6HTqszO7SzQ+XnZiCObzqqxAov+DGzLt70Jjo1JonEm8mvjiscGTNTF5tP5bB+Ydo+AssrRaoHZudYEnHV2r7rGFqTIbpYCeJ3YvSfskwAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/nilsreichardt",
+  "personId": 2015,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Nils Reichardt",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder",
+      "company": "AnkiGPT",
+      "companyUrl": "https://www.linkedin.com/company/ankigpt",
+      "description": "AnkiGPT turns lecture slides into flashcards and allows you to export them to Anki. Generated 3,000,000+ flashcards for students worldwide. Side project I did during my studies.\n\nWebsite: https://ankigpt.help\nGitHub: https://github.com/nilsreichardt/ankigpt",
+      "location": null,
+      "start": "2023-07",
+      "end": null,
+      "dateRange": "Jul 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Sharezone",
+      "companyUrl": "https://www.linkedin.com/company/sharezone",
+      "description": "Sharezone is a collaborative school planner to get organized together. Bootstrapped to +500,000 users. \n\nTransitioned to side project in 2021.\n\nWebsite: https://sharezone.net\nGitHub: https://github.com/SharezoneApp/sharezone-app",
+      "location": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+      "start": "2018-04",
+      "end": null,
+      "dateRange": "Apr 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Founding Engineer",
+      "company": "Family-Missions by Kid-Coins GmbH",
+      "companyUrl": "https://www.linkedin.com/company/mission2gether",
+      "description": null,
+      "location": null,
+      "start": "2022-05",
+      "end": "2024-07",
+      "dateRange": "May 2022 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Gatch",
+      "companyUrl": "https://www.linkedin.com/company/gatch",
+      "description": "Built a social hangout app to create a world without loneliness, backed by VCs & Business Angels.",
+      "location": "Berlin, Deutschland",
+      "start": "2021-05",
+      "end": "2022-03",
+      "dateRange": "May 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Competitive athlete: Middle and long distance running (1.500m)",
+      "company": "FC Schalke 04",
+      "companyUrl": "https://www.linkedin.com/company/fc-schalke-04",
+      "description": "6. Place German Championships 1500m U20 (2019)\n10. Place German Championships 1500m U18 (2018)",
+      "location": "Gelsenkirchen, Nordrhein-Westfalen, Deutschland",
+      "start": "2017-08",
+      "end": "2019-03",
+      "dateRange": "Aug 2017 – Mar 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2022 – 2026"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, Computer Science",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Lessing-Berufskolleg Düsseldorf",
+      "degree": "A-Level, Mathematic & Computer Science",
+      "dateRange": "2017 – 2020"
+    }
+  ],
+  "skills": [
+    "Google Cloud Platform (GCP)",
+    "Google Flutter",
+    "Google Firebase",
+    "User Experience Design",
+    "Web-Design",
+    "Cybersecurity",
+    "Entrepreneurship",
+    "Adobe Photoshop",
+    "Git",
+    "Figma",
+    "Datenschutz",
+    "Dart"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": null
+}

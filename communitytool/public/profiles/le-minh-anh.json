@@ -1,0 +1,184 @@
+{
+  "id": "le-minh-anh",
+  "name": "Minh-Anh Le",
+  "headline": "PM @Google | Data Scientist @Munich Re | MSc @Oxford | CDTM | MSc+ BSc @LMU",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/le-minh-anh",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Product Manager",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-05",
+      "end": null,
+      "dateRange": "May 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate Product Manager",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-04",
+      "end": "2025-06",
+      "dateRange": "Apr 2023 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Munich Re (Group)",
+      "companyUrl": "https://www.linkedin.com/company/munich-re",
+      "description": null,
+      "location": "Munich, Bavaria",
+      "start": "2020-02",
+      "end": "2023-03",
+      "dateRange": "Feb 2020 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Intern Consultant",
+      "company": "Oliver Wyman",
+      "companyUrl": "https://www.linkedin.com/company/oliver-wyman",
+      "description": null,
+      "location": "Germany",
+      "start": "2018-02",
+      "end": "2018-04",
+      "dateRange": "Feb 2018 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Working Student for Risk Analysis of Alternative Assets",
+      "company": "Allianz Group",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": null,
+      "location": "Munich",
+      "start": "2015-10",
+      "end": "2016-07",
+      "dateRange": "Oct 2015 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Student Assistant - Statistical Consultant",
+      "company": "Statistisches Beratungslabor (StaBLab)",
+      "companyUrl": "https://www.linkedin.com/company/stablab",
+      "description": "I was working as statistical consultant for intern and extern projects, e.g. projects in economics, computer science and medicine. My job was to do statistical analyzing, data editing, preparing, modeling. Also supervision of statistics group work for undergraduates.",
+      "location": "Munich",
+      "start": "2014-08",
+      "end": "2015-09",
+      "dateRange": "Aug 2014 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Student Assistant - Teaching",
+      "company": "Ludwig-Maximilians Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "I was teaching as a tutor for following lectures:\n- Calculus of Probability & Statistical Inference\n- Mathematics for Economics\n- SAS- Statistical Analysis Software\n- Supervising Statistical Group Projects\n- General Linear Model\n- Multivariate Analysis",
+      "location": "Munich",
+      "start": "2013-10",
+      "end": "2018-09",
+      "dateRange": "Oct 2013 – Sep 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Oxford",
+      "degree": "Master of Science - MS, Social Data Science",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor Degree, Technology Management",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Statistics with orientation of economics and social science",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Visting Scholar",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Københavns Universitet - University of Copenhagen",
+      "degree": "Study Abroad, Statistics/Mathematics",
+      "dateRange": "2015"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Statistics with minor subject computer science",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "Korbinian Aigner Gymnasium",
+      "degree": "High school diploma (Abitur)",
+      "dateRange": "2002 – 2011"
+    }
+  ],
+  "skills": [
+    "Produktmanagement",
+    "Machine Learning",
+    "Python (Programming Language)",
+    "Rstudio",
+    "SAS",
+    "SPSS",
+    "Adobe Photoshop",
+    "Adobe Indesign",
+    "Java",
+    "C+",
+    "SQL",
+    "MS Office",
+    "Data",
+    "R",
+    "Statistics"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Google",
+    "tagline": null,
+    "description": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.\n\nCheck out our career opportunities at goo.gle/3DLEokh",
+    "industry": "Software Development",
+    "website": "https://goo.gle/3DLEokh",
+    "linkedInUrl": "https://www.linkedin.com/company/google",
+    "employeeCount": 341631,
+    "foundedYear": null,
+    "location": "Mountain View, United States",
+    "specialities": [
+      "search",
+      "ads",
+      "mobile",
+      "android",
+      "online video",
+      "apps",
+      "machine learning",
+      "virtual reality",
+      "cloud",
+      "hardware",
+      "artificial intelligence",
+      "youtube",
+      "software"
+    ]
+  }
+}

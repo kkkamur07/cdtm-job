@@ -1,0 +1,136 @@
+{
+  "id": "dr-tobias-schneiderbauer-4a8a832b",
+  "name": "Dr. Tobias Schneiderbauer",
+  "headline": "Partner at McKinsey & Company | Co-Leader Commercial Vehicle Practice EMEA",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-tobias-schneiderbauer-4a8a832b",
+  "personId": 1897,
+  "classes": [
+    {
+      "id": 66,
+      "label": "Fall 2009",
+      "season": "Fall",
+      "year": 2009,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2009",
+  "major": "Technology oriented Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Tobias Schneiderbauer",
+  "ca": null,
+  "summary": "I advise global automotive OEMs, truck OEMs, their suppliers, and mobility companies on technology disruptions and the shift towards lifecycle products and services. This can include car-data monetization and connected cars. I co-lead connectivity at the McKinsey Center for Future Mobility and lead the Mobility Experience and Technology Lab together with the Fraunhofer Institute to research changes of future mobility experience in the interior.",
+  "positions": [
+    {
+      "title": "Partner",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2012-03",
+      "end": null,
+      "dateRange": "Mar 2012 – Present",
+      "current": true
+    },
+    {
+      "title": "Internship",
+      "company": "Roland Berger Strategy Consultants",
+      "companyUrl": "https://www.linkedin.com/company/rolandberger",
+      "description": null,
+      "location": null,
+      "start": "2010-03",
+      "end": "2010-05",
+      "dateRange": "Mar 2010 – May 2010",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Infineon Technologies Asia Pacific Pte Ltd",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": null,
+      "location": null,
+      "start": "2009-01",
+      "end": "2009-03",
+      "dateRange": "Jan 2009 – Mar 2009",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Porsche",
+      "companyUrl": "https://www.linkedin.com/company/porsche",
+      "description": null,
+      "location": null,
+      "start": "2007-08",
+      "end": "2007-10",
+      "dateRange": "Aug 2007 – Oct 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": null,
+      "dateRange": "2011"
+    },
+    {
+      "school": "Karlsruhe Institute of Technology (KIT)",
+      "degree": "Dr. rer. pol., Business Administration",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2009 – 2011"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Business Administration",
+      "dateRange": "2006 – 2011"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Business Administration",
+      "dateRange": "2008"
+    }
+  ],
+  "skills": [
+    "Automobilindustrie",
+    "Digitale Transformation",
+    "Connected Car",
+    "Electrification",
+    "Unternehmensberatung",
+    "Start-ups",
+    "Business Development",
+    "Unternehmenswachstumsstrategien",
+    "Unternehmensstrategie",
+    "Growth Strategy",
+    "Corporate Strategy",
+    "Strategy",
+    "Project Management",
+    "Management Consulting",
+    "Business Strategy"
+  ],
+  "languages": [],
+  "company": {
+    "name": "McKinsey & Company",
+    "tagline": null,
+    "description": "McKinsey & Company is a global management consulting firm. We are the trusted advisor to the world's leading businesses, governments, and institutions. \r\n\r\nWe work with leading organizations across the private, public and social sectors. Our scale, scope, and knowledge allow us to address problems that no one else can. We have deep functional and industry expertise as well as breadth of geographical reach. We are passionate about taking on immense challenges that matter to our clients and, often, to the world. \r\n\r\nWe work with our clients as we do with our colleagues. We build their capabilities and leadership skills at every level and every opportunity. We do this to help build internal support, get to real issues, and reach practical recommendations. We bring out the capabilities of clients to fully participate in the process and lead the ongoing work.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.mckinsey.com",
+    "linkedInUrl": "https://www.linkedin.com/company/mckinsey",
+    "employeeCount": 38159,
+    "foundedYear": null,
+    "location": "United States",
+    "specialities": [
+      "Management Consulting"
+    ]
+  }
+}

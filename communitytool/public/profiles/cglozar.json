@@ -1,0 +1,271 @@
+{
+  "id": "cglozar",
+  "name": "Gonzalo Loza Rojas",
+  "headline": "General Manager @ Voodoo | HEC Paris | TUM | CDTM",
+  "avatar": {
+    "sm": "/avatars/cglozar-sm.webp",
+    "lg": "/avatars/cglozar.webp",
+    "blur": "data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAADQBQCdASogACAAPtFUpU2oJCOiMBgIAQAaCWIAwzWLiLVsjA8RZ6y/RLw7sE8z2wfRErbz3cUQAP7993/FGkD+1N5PSc6PzHz/br16mK9OHVWoGSQgVZkHQbUvhoyconXikww3UOeP2EX0r6s+kAO1auKu0iD+K3vjfZMii0zNMbT4Z7eeaHv/Xk/caafyq30zoFxfW15OSAmrshp2Bl3GsHpXuc1dyX1RSAVRG88POwDQXSgcHdiGg5lZXzRm0eI1YBPxDsRpKOq5WujZsr3sZdj5CtOUEdmCMC0aKd/pFI1sSCyRo3GU7UAAAA=="
+  },
+  "location": "Paris, France",
+  "linkedInUrl": "https://www.linkedin.com/in/cglozar",
+  "personId": 1030,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Management and Innovation",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Gonzalo Loza Rojas",
+  "ca": null,
+  "summary": "Hi! I'm Gonzalo (they/them), a tech-savvy, startup-enthusiast, double-degree-earning master's candidate from HEC Paris and TU-Munich. I've got a track record of leading Product Development teams, launching new products and services, and revamping user experiences - all while keeping my cool under pressure.\n\nMy work experience and studies has made me a person that lives and breathes for innovation with purpose - the crazier, the better. I'm always on the lookout for new opportunities to learn and grow in this fast-paced and ever-changing industry. I'm open to any role, whether it's in a Product Team or as a Founder's Associate/Chief of Staff or a challenging new experience you could propose.\n\nAlso, if you're a founder with a wild startup idea and you're looking for someone to join your ride, hit me up - I'm always open to a good chat :) .",
+  "positions": [
+    {
+      "title": "General Manager",
+      "company": "Voodoo",
+      "companyUrl": "https://www.linkedin.com/company/voodoo.io",
+      "description": null,
+      "location": "Paris, Île-de-France, France",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Lead",
+      "company": "Voodoo",
+      "companyUrl": "https://www.linkedin.com/company/voodoo.io",
+      "description": null,
+      "location": "Paris, Île-de-France, France",
+      "start": "2025-05",
+      "end": "2025-12",
+      "dateRange": "May 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Publishing Manager",
+      "company": "Voodoo",
+      "companyUrl": "https://www.linkedin.com/company/voodoo.io",
+      "description": null,
+      "location": "Paris, Île-de-France, France",
+      "start": "2024-04",
+      "end": "2025-05",
+      "dateRange": "Apr 2024 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Product Specialist",
+      "company": "Voodoo",
+      "companyUrl": "https://www.linkedin.com/company/voodoo.io",
+      "description": null,
+      "location": "Paris, Île-de-France, France",
+      "start": "2023-10",
+      "end": "2024-04",
+      "dateRange": "Oct 2023 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Working Student - Operations Manager",
+      "company": "Nanogami",
+      "companyUrl": "https://www.linkedin.com/company/nanogami",
+      "description": "Biotech Startup Backed by SPRIN-D (German's Federal Agency for Disruptive Innovation)\n\n- Supported the COO and CEO in optimizing the scientific research workflow and change management in new processes, leading to increased efficiency and productivity.\n- Collaborated with executive leadership on company-wide projects, conducting problem mapping to identify operational pain points and growth opportunities.\n- Streamlined processes and simplified the toolkit for the Science team by mapping the tool stack used between the company and its sister company.\n- Successfully launched a company Wiki and a financial accounting tool, improving information sharing and enhancing financial management of the budget and planning.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-10",
+      "end": "2023-02",
+      "dateRange": "Oct 2022 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Assistant Project Manager",
+      "company": "Tricycle Environnement",
+      "companyUrl": "https://www.linkedin.com/company/tricycle-environnement",
+      "description": "Circular Economy Startup (B2B) providing solutions for the management and recovery of professional waste. \n\n- Developed and launched a \"CO2e Report\" in collaboration with the CEO, providing customers with calculated emissions saved through the company's products.\n- Designed and implemented a Social ROI metric, evaluating internal processes and presenting it to potential investors.\n- Created Excel-based tools using VBA to automate data gathering, calculation, and reporting for Social ROI and Carbon Emissions saved.",
+      "location": "Paris, France",
+      "start": "2022-06",
+      "end": "2022-08",
+      "dateRange": "Jun 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Head of Product",
+      "company": "iVisa.com",
+      "companyUrl": "https://www.linkedin.com/company/ivisa",
+      "description": "Travel Related American Startup (B2C) that offers a platform enabling travellers to navigate through the bureaucracy to get to their destination easily. \n\n- Managed the product backlog, A/B testings and user interviews along with analytics tagging for quantitative research to ensure the KPI tracking and success of the changes implemented.\n- Oversaw the design and development of two new hybrid services (digital and physical experience) diversifying the business into passport renewals and passport photo orders for the US market. \n- Managed and scaled a cross-functional Product Development Team from 3 to 15 members across multiple locations and timezones.\n-  Led the successful launch and maintenance of two Native iOS apps, collaborating closely with the CEO and engineering team.\n- Spearheaded a UX/UI redesign of the website's conversion funnel, resulting in a UI redesign that lowered the bounce rate by 30% and a revamp of the \"Add-to-Card\" experience resulting in a 2.5x increase in conversion rate.\n- Advised founders on COVID response strategy, actively participating in Advisory Board and Annual Global Top Management meetings.",
+      "location": "Lima, Peru",
+      "start": "2019-12",
+      "end": "2021-10",
+      "dateRange": "Dec 2019 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Risk Assurance Intern - Financial Services Organization",
+      "company": "Ernst & Young",
+      "companyUrl": "https://www.linkedin.com/company/ernstandyoung",
+      "description": "- Prepared and presented comprehensive reports on data analysis findings to senior management.\n- Leveraged SQL to examine a vast database of 1.5MM commercial transactions, effectively categorizing potential clients for credit risk management initiatives.\n- Evaluated operational risks for two prominent banks in Peru, devising and presenting actionable solutions to align with regulatory standards and increase available cash by 12%.",
+      "location": "Lima Province, Peru",
+      "start": "2019-06",
+      "end": "2019-11",
+      "dateRange": "Jun 2019 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Product Development Assistant",
+      "company": "iVisa",
+      "companyUrl": "https://www.linkedin.com/company/ivisa",
+      "description": "Extended my internship with a promotion to work fulltime\n\n- Implemented manual web QA tests and streamlined bug tracking processes, significantly reducing feedback time from Product Management.\n- Led the successful transition of the company's website from PHP Cake framework to Laravel, ensuring improved performance and enhanced user experience.\n- Designed and implemented an innovative internal tool utilizing a Chrome plugin, automating internal processes and achieving an 85% reduction in processing time.",
+      "location": "Province of Lima, Peru",
+      "start": "2019-02",
+      "end": "2019-06",
+      "dateRange": "Feb 2019 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Commercial Strategy Intern",
+      "company": "iVisa",
+      "companyUrl": "https://www.linkedin.com/company/ivisa",
+      "description": "Summary: I initiated as a data entry person for the company and quickly evolved into more responsibilities supporting business development decision-making.\n\nResponsibilities & Achievements:\n- Conducted comprehensive data entry and consolidation of embassy and visa information, resulting in a centralized database in Excel.\n- Utilized Google Analytics to extract insights and recommendations for launching new visa services, contributing to the company's strategic decision-making process.\n- Designed and executed a roadmap for launching new visas, leveraging internal tools and research to expand the company's service offerings.",
+      "location": "Province of Lima, Peru",
+      "start": "2018-08",
+      "end": "2019-01",
+      "dateRange": "Aug 2018 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Logistics Intern",
+      "company": "Fibras Marinas S.A.",
+      "companyUrl": "https://www.linkedin.com/company/fibras-marinas-s-a-",
+      "description": "Responsibilities:\n- Facilitated communication between the logistics manager and inventory team, ensuring smooth coordination and efficient workflow.\n- Managed tracking of international purchases, including shipments from China and the US, ensuring timely delivery and documentation for customs clearance.\n- Maintained accurate records of paper documentation and Excel sheets for current deliveries, ensuring compliance with customs agencies' requirements.",
+      "location": "Callao, Peru",
+      "start": "2016-07",
+      "end": "2016-09",
+      "dateRange": "Jul 2016 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "Research Consultant",
+      "company": "Instituto de Estudios Peruanos",
+      "companyUrl": "https://www.linkedin.com/company/instituto-de-estudios-peruanos",
+      "description": "- Review and coding of narrative and informative reading comprehensión \n- Analysis and registration of information and indicators evaluated.",
+      "location": "Lima, Perú",
+      "start": "2015-10",
+      "end": "2016-02",
+      "dateRange": "Oct 2015 – Feb 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "HEC Paris",
+      "degree": "Grande Ecole - Master in Management and Innovation, Business Administration, Management and Operations",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "MSc in Management and Innovation, Information Technology Project Management",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Computer/Information Technology Administration and Management",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Universidad del Pacífico (PE)",
+      "degree": "Bachelor's degree, International Business",
+      "dateRange": "2014 – 2019"
+    },
+    {
+      "school": "Aalto University",
+      "degree": "Exchange Semester, International Business",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Ironhack",
+      "degree": "Web Development Bootcamp, Computer Science",
+      "dateRange": "2020 – 2021"
+    }
+  ],
+  "skills": [
+    "Figma (Software)",
+    "A/B Testing",
+    "International Logistics",
+    "Data Entry",
+    "Online Research",
+    "Product Management",
+    "Microsoft PowerPoint",
+    "Digital Strategy",
+    "Search Engine Optimization (SEO)",
+    "Visual Basic for Applications (VBA)",
+    "Analytical Skills",
+    "Project Management",
+    "Technology Scouting",
+    "Change Management",
+    "Business Strategy",
+    "SQL",
+    "Data Analysis",
+    "UX Research",
+    "Spanish",
+    "English",
+    "Multilingual",
+    "Team Leadership",
+    "Public Speaking",
+    "Strategic Planning",
+    "Research",
+    "International Business",
+    "Leadership",
+    "Microsoft Excel",
+    "Microsoft Word",
+    "Teamwork",
+    "Analysis",
+    "Microsoft Office",
+    "Problem Solving",
+    "International Relations",
+    "French",
+    "Microsoft SQL Server",
+    "Product Development",
+    "JavaScript",
+    "HTML",
+    "Cascading Style Sheets (CSS)"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Voodoo",
+    "tagline": "Entertain the world™",
+    "description": "Voodoo is a tech company that creates mobile games and apps. With 7 billion downloads and over 150 million monthly active users, Voodoo is the #3 mobile publisher worldwide in terms of downloads after Google and Meta.\n\nThe company is one of the most impressive examples of hypergrowth in the ecosystem, having raised over $1B and backed by Goldman Sachs, Tencent, and GBL.\n\nVoodoo is now a team of over 750 employees worldwide, we’re looking for talented individuals from across the globe to join.\n\nEntertain the world with us \nvoodoo.io/careers/jobs",
+    "industry": "Entertainment Providers",
+    "website": "https://voodoo.io/",
+    "linkedInUrl": "https://www.linkedin.com/company/voodoo.io",
+    "employeeCount": 984,
+    "foundedYear": 2013,
+    "location": "Paris, France",
+    "specialities": [
+      "Mobile Games",
+      "Consumer Apps",
+      "Publishing",
+      "Game Development",
+      "User Acquisition",
+      "Video Games",
+      "Entertainment",
+      "Social Networks",
+      "Casual Games",
+      "Engineering"
+    ]
+  }
+}

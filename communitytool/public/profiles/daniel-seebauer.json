@@ -1,0 +1,157 @@
+{
+  "id": "daniel-seebauer",
+  "name": "Daniel Seebauer",
+  "headline": "Founder | AI/Robotics | CDTM | TUM",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/daniel-seebauer",
+  "personId": 1363,
+  "classes": [
+    {
+      "id": 69,
+      "label": "Spring 2011",
+      "season": "Spring",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2011",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Daniel Seebauer",
+  "ca": null,
+  "summary": "I’m Daniel — a founder with 10+ years of experience in B2B sales, business development, marketing, finance, and industrial manufacturing and automation. Currently building Batch-Robotics, an AI-robotics startup. Looking for a like-minded people with strong ML/AI or robotics skills to join us. \n\nLet’s connect and build something amazing together!",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Batch Robotics",
+      "companyUrl": "https://www.linkedin.com/company/batch-robotics",
+      "description": "We make robots smarter, enabling small batch automation.",
+      "location": null,
+      "start": "2024-12",
+      "end": null,
+      "dateRange": "Dec 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Business Development Manager",
+      "company": "KEBA Industrial Automation",
+      "companyUrl": "https://www.linkedin.com/company/keba-industrial-automation",
+      "description": "KEBA bought drag&bot in 2021. Managing the cooperation and integration.",
+      "location": null,
+      "start": "2022-01",
+      "end": "2024-06",
+      "dateRange": "Jan 2022 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Spin-off Business Development",
+      "company": "Fraunhofer IPA",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-ipa",
+      "description": "In 2017 Fraunhofer IPA decided to spin-off the research behind their flexible robot programming efforts in an fully-independent company called drag and bot GmbH. drag&bot was supported with a grant of +1 Million Euro by the German Federal Ministry for Economic Affairs and Energy in order further develop the product and business. \n\nFraunhofer IPA is one of the Fraunhofer-Gesellschaft’s largest institutes. It employs nearly 1000 workers and has an annual budget of over 70 million euros, with more than one third coming from industrial projects.",
+      "location": null,
+      "start": "2017-03",
+      "end": "2019-01",
+      "dateRange": "Mar 2017 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & Managing Director",
+      "company": "drag&bot (Part of KEBA Industrial Automation)",
+      "companyUrl": "https://www.linkedin.com/company/drag&bot",
+      "description": "At drag&bot we drive flexible automation for manufacturing companies offering an intuitive and comprehensive no-code interface to deploy & operate industrial robots.\n\nOur robot programming framework makes industrial robots as simple as using a smartphone. Now production workers use robots independently like any other machine. drag&bot works independent of robot hardware - we currently support ABB, FANUC, KUKA, Yaskawa, ...",
+      "location": null,
+      "start": "2016-03",
+      "end": "2024-06",
+      "dateRange": "Mar 2016 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Freelancer",
+      "company": "UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/unternehmertum",
+      "description": "Business & Technology Consulting in Venture Creation, Electrical Engineering, Internet of Things (IoT) & Web Development. \nClients Reference: UnternehmerTUM, Siemens, BMW & Linde.",
+      "location": null,
+      "start": "2015-11",
+      "end": "2017-03",
+      "dateRange": "Nov 2015 – Mar 2017",
+      "current": false
+    },
+    {
+      "title": "Project Managment & Software Engineering",
+      "company": "ryd",
+      "companyUrl": "https://www.linkedin.com/company/rydofficial",
+      "description": "http://www.thinxnet.com/\nhttp://www.tanktaler.de\nhttps://www.ryd.one/",
+      "location": null,
+      "start": "2015-02",
+      "end": "2015-10",
+      "dateRange": "Feb 2015 – Oct 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree (CDTM), Technology Management",
+      "dateRange": "2011 – 2012"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, Business Administration and Management, General",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.) TUM-WIN, Business Administration and Engineering",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": "Visiting Scholar, Information Technology",
+      "dateRange": "2012"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl.-Ing., Electrical, Electronics and Communications Engineering",
+      "dateRange": "2007 – 2011"
+    }
+  ],
+  "skills": [
+    "Business Development",
+    "Software Development",
+    "Entrepreneurship",
+    "Business Strategy",
+    "Product Development",
+    "Information Technology",
+    "Software Project Management",
+    "Start-up Leadership",
+    "Robotics",
+    "Technology Management",
+    "Internet of Things",
+    "New Venture Development",
+    "B2B sales"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Batch Robotics",
+    "tagline": "We make robots smarter, enabling small batch automation.",
+    "description": "AI-Learning for Industrial Robots.\nWe make robots smarter, enabling small batch automation.",
+    "industry": "Manufacturing",
+    "website": "https://www.batch-robotics.com",
+    "linkedInUrl": "https://www.linkedin.com/company/batch-robotics",
+    "employeeCount": 4,
+    "foundedYear": 2025,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

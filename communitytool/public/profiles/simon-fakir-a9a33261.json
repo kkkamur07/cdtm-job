@@ -1,0 +1,163 @@
+{
+  "id": "simon-fakir-a9a33261",
+  "name": "Simon Fakir",
+  "headline": "Smarte Software Teams, die einen gut schlafen lassen.",
+  "avatar": {
+    "sm": "/avatars/simon-fakir-a9a33261-sm.webp",
+    "lg": "/avatars/simon-fakir-a9a33261.webp",
+    "blur": "data:image/webp;base64,UklGRlIBAABXRUJQVlA4IEYBAACwBgCdASogACAAPrlKnUunJCKht+gA4BcJbACxHxnhGGeCZ5IvZEtKaykZ33wnFn2KI67wisDUCJYrgbOnAAD984QjErOHNaZMkAH9cbOON5xXD8vVtYiN0pK57iRJJh7ur+fJnu2zWbbEDXWoP3kimMWX5eGO+K6Iu1Q0xQBojV/Dug5TXl2d7e8ttJLbkmCWMe1WIQZBxLIJ5Qyfdof2/CDd+nKvc51aN+6me26SKWWYS4Mw7lVsjg5rL9LtgYu9ZODFlgObFgyjXoFmVlw7yS/lU7e57obtZn+/SdLxgJ0SaaHLZiRffBxKzEJwo6Kmsw007s2QrKiFxfzN5fNMjsWjRtHSg67EkmXW0K9tQAQxqSbZWH5pQKM6R26MYb4rqmYXbZjR9gZGEfzbIPBE+uKDO2Rw2E+9CnGCoNA/IRBb4T8AAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/simon-fakir-a9a33261",
+  "personId": 1020,
+  "classes": [
+    {
+      "id": 74,
+      "label": "Fall 2013",
+      "season": "Fall",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2013",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Simon Fakir",
+  "ca": null,
+  "summary": "Wir integrieren KI mit Ihren Geschäftsprozessen: Softwareentwicklung, Datenprozessierung, Userinterface sowie der Betrieb der Software aus einer Hand. Und das zu einem zuverlässigen Festpreis.",
+  "positions": [
+    {
+      "title": "CEO",
+      "company": "Fakir Technology Consultants GmbH",
+      "companyUrl": "https://www.linkedin.com/company/fakir-tech",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-01",
+      "end": null,
+      "dateRange": "Jan 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "CTO, Co-Founder",
+      "company": "Volunteer Vision",
+      "companyUrl": "https://www.linkedin.com/company/volunteer-vision",
+      "description": "We built a platform to enable impact mentorships between NGOs like SOS children’s village and corporates like Goldman Sachs in over 40 countries with thousands of participants.\nwww.volunteer-vision.com",
+      "location": "München",
+      "start": "2016-04",
+      "end": "2021-01",
+      "dateRange": "Apr 2016 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "CEO | Founder",
+      "company": "Canoco GmbH",
+      "companyUrl": "https://www.linkedin.com/company/canoco-ug",
+      "description": "Gründung, Verhandlung, Team-Staffing, Führung und Projektmanagement in der Softwareentwicklung für DAX Konzerne.",
+      "location": null,
+      "start": "2015-01",
+      "end": "2016-03",
+      "dateRange": "Jan 2015 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "CTO",
+      "company": "Fleetize",
+      "companyUrl": "https://www.linkedin.com/company/fleetize",
+      "description": "Responsible for the technical implementation, IT security and user experience of an IoT-Fleetmanagement using OBDII-Hardware.",
+      "location": "Stuttgart und Umgebung, Deutschland",
+      "start": "2014-11",
+      "end": "2016-12",
+      "dateRange": "Nov 2014 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Fortiss",
+      "companyUrl": "https://www.linkedin.com/company/fortiss",
+      "description": "Projektmanagement Internationales Projekt \"SmartMicroGrid\"",
+      "location": null,
+      "start": "2012-11",
+      "end": "2013-03",
+      "dateRange": "Nov 2012 – Mar 2013",
+      "current": false
+    },
+    {
+      "title": "Studentischer Berater",
+      "company": "Academy Consult",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": "Geschäftsmodellgenerierung, Innovation durch IT, Competence Center Business Technology",
+      "location": null,
+      "start": "2011-03",
+      "end": "2013-09",
+      "dateRange": "Mar 2011 – Sep 2013",
+      "current": false
+    },
+    {
+      "title": "Computer Scientist",
+      "company": "Wüstenrot & Württembergische",
+      "companyUrl": "https://www.linkedin.com/company/wwgruppe",
+      "description": "Client Entwicklung / Unternehmensmigration Karlsruher Versicherung",
+      "location": "Ludwigsburg",
+      "start": "2005-09",
+      "end": "2008-06",
+      "dateRange": "Sep 2005 – Jun 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Master of Science (M.Sc.), Information Systems",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (MS), Information Systems",
+      "dateRange": "2010 – 2015"
+    },
+    {
+      "school": "W&W Informatik GmbH",
+      "degree": "Fachinformatiker (IHK), Client F&E und Unternehmensintegration",
+      "dateRange": "2005 – 2008"
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Informatics",
+    "Software Development",
+    "Machine Learning",
+    "Data Mining",
+    "Software Architectural Design",
+    "Java",
+    "C#",
+    "Consultants",
+    "Business Process",
+    "BPMN",
+    "Objective-C",
+    "COBOL",
+    "PL/1",
+    "Software Engineering",
+    "IT-Strategie",
+    "Business Development",
+    "Softwareentwicklung",
+    "Projektmanagement",
+    "Node.js"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": null
+}

@@ -1,0 +1,198 @@
+{
+  "id": "finn-kosina",
+  "name": "Finn Kosina",
+  "headline": "Medicine @TUM | CDTM | building health apps",
+  "avatar": {
+    "sm": "/avatars/finn-kosina-sm.webp",
+    "lg": "/avatars/finn-kosina.webp",
+    "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABwBQCdASogACAAPtFOo0uoI6Mht/VYAQAaCWcAy6RFXv0fKdjXdMWEEMHD26zAQ+ZO53wAAP7zcueOZK2NU7IAqayOQ6w0Sw1ruXLlfb/tCrvizL7JJyf8rNRJlMG5sc4y8X/Z56X2AYoPE7ExjU8z/g8OybXx4NAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/finn-kosina",
+  "personId": 1307,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Medicine",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Finn Jannik Kosina",
+  "ca": null,
+  "summary": "CDTM student & medical student at TUM, eager for advancement in healthcare through technology\n\ncurrently building apps for healthcare (JetShift, CliniCase)",
+  "positions": [
+    {
+      "title": "Doctoral Researcher",
+      "company": "TUM Klinikum Rechts der Isar",
+      "companyUrl": "https://www.linkedin.com/company/tum-universitätsklinikum-rechts-der-isar",
+      "description": "Imaging models in radiology (AIAH Lab)\nCurrently: Deep learning for Axial Spondyloarthritis diagnostics (guest researcher at Charite Berlin)",
+      "location": null,
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "President",
+      "company": "OneAIM",
+      "companyUrl": "https://www.linkedin.com/company/oneaimmunich",
+      "description": "Built an add-on study program called \"AIM Connect\" to unite students with medical and technology background with practical insights into the MedTech industry",
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-10",
+      "end": "2025-01",
+      "dateRange": "Oct 2023 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Product Management",
+      "company": "Avelios Medical",
+      "companyUrl": "https://www.linkedin.com/company/avelios-medical",
+      "description": "Management of product pipeline, product quality and dev capacities in a startup that provides hospitals with modern software solutions",
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-10",
+      "end": "2024-02",
+      "dateRange": "Oct 2023 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Member",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": "Makeathon department organizing a summit for 700+ attendees as part of voluntary activity",
+      "location": "Metropolregion München",
+      "start": "2023-05",
+      "end": "2023-11",
+      "dateRange": "May 2023 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Strategy",
+      "company": "Temedica",
+      "companyUrl": "https://www.linkedin.com/company/temedica",
+      "description": "Partnership concept, business cases and data source management for a medium sized startup in the Healthcare data space",
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-10",
+      "end": "2023-10",
+      "dateRange": "Oct 2022 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Clinical Intern",
+      "company": "Evangelisches Krankenhaus in Wien",
+      "companyUrl": "https://www.linkedin.com/company/ekhwien",
+      "description": "Clinical Internship at Orthopedics station",
+      "location": "Wien, Österreich",
+      "start": "2022-08",
+      "end": "2022-09",
+      "dateRange": "Aug 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Clinical Intern",
+      "company": "München Klinik gGmbH",
+      "companyUrl": "https://www.linkedin.com/company/muenchen-klinik",
+      "description": "Clinical Internship at Intensive Care Unit",
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-02",
+      "end": "2022-03",
+      "dateRange": "Feb 2022 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Clinical Intern",
+      "company": "München Klinik gGmbH",
+      "companyUrl": "https://www.linkedin.com/company/muenchen-klinik",
+      "description": "Clinical Internship at stem cell therapy station",
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-09",
+      "end": "2021-09",
+      "dateRange": "Sep 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "web2 design",
+      "companyUrl": "https://www.linkedin.com/company/web-two",
+      "description": "Local web and marketing agency focused on websites, social marketing and ad campaigns",
+      "location": "Freising, Bayern, Deutschland",
+      "start": "2021-08",
+      "end": "2022-12",
+      "dateRange": "Aug 2021 – Dec 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Medicine - MD",
+      "dateRange": "2023 – 2027"
+    },
+    {
+      "school": "Norwegian University of Science and Technology (NTNU)",
+      "degree": "Doctor of Medicine - MD",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Doctor of Medicine - MD",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Camerloher Gymnasium Freising",
+      "degree": "Abitur",
+      "dateRange": "2013 – 2021"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "TUM Klinikum Rechts der Isar",
+    "tagline": "Wissen schafft Heilung",
+    "description": "Spitzenmedizin der Zukunft unter einem Dach: Seit 1. August 2024 bilden das Klinikum rechts der Isar und das Deutsche Herzzentrum München das TUM Klinikum. \nDas neu gegründete TUM Klinikum vereint Patientenversorgung, Forschung und Lehre auf höchstem Niveau und bietet ein einmaliges Leistungsspektrum im Bereich der Herzmedizin.\nDas Klinikum rechts der Isar wurde bereits im Jahr 1834 als Stadtteilkrankenhaus gegründet, im neuen Verbund verbindet es Tradition und Fortschritt. Mit rund 30 Kliniken, 20 interdisziplinären Zentren und 1.161 Betten deckt es das gesamte Spektrum moderner Medizin ab. Zusätzlich erforschen die Mitarbeitenden unserer zahlreichen wissenschaftlichen Institute Krankheiten und neue Therapiemöglichkeiten.\n\nUnser Ziel ist es, unseren Patientinnen und Patienten eine hervorragende Behandlung nach aktuellstem medizinischen Standard zu bieten. Zudem wollen wir dazu beitragen, dass ihnen zunehmend bessere Diagnostik- und Therapieangebote zur Verfügung stehen.\nDer neue Verbund mit dem Deutschen Herzzentrum München bietet uns eine einzigartige Chance, die Stärken beider Kliniken zusammenzuführen und ein einmaliges Leistungsspektrum im Bereich der Herzmedizin weiter zu entwickeln. Der Zusammenschluss rückt die Exzellenz der Einrichtungen noch mehr in den Vordergrund. \n\nSie interessieren sich für eine Arbeitsstelle am TUM Klinikum? Dann schauen Sie auf unsere Stellenanzeigen unter www.mri.tum.de/stellenanzeigen. \n\nSie sind Patientin oder Patient und möchten mehr über unsere Klinik erfahren? \nDann besuchen Sie unsere Webseite www.mri.tum.de\n\nFolgen Sie uns auch auf Facebook unter www.facebook.com/TUMKlinikumRechtsderIsar/",
+    "industry": "Hospitals and Health Care",
+    "website": "https://www.mri.tum.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/tum-universitätsklinikum-rechts-der-isar",
+    "employeeCount": 2382,
+    "foundedYear": 1834,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Krebserkrankungen",
+      "Nuklearmedizin",
+      "Kardiologie",
+      "Sportmedizin",
+      "Intensivmedizin",
+      "Comprehensive Cancer Center München TUM",
+      "Neurologie",
+      "Neurochirurgie",
+      "Orthopädie & Sportorthopädie",
+      "Strahlentherapie",
+      "Onkologie",
+      "Organtransplantation",
+      "Unfallchirurgie",
+      "Pankreaschirurgie",
+      "Innere Medizin",
+      "Stroke Unit",
+      "Perinatalzentrum",
+      "Radiologie",
+      "Forschung",
+      "Wissenschaft"
+    ]
+  }
+}

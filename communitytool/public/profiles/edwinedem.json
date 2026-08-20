@@ -1,0 +1,167 @@
+{
+  "id": "edwinedem",
+  "name": "Edwin Daniel",
+  "headline": "Product @ Celonis | CDTM",
+  "avatar": {
+    "sm": "/avatars/edwinedem-sm.webp",
+    "lg": "/avatars/edwinedem.webp",
+    "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAADwBQCdASogACAAPslQoUunpKMht/VYAPAZCWIAsR7aZcRWtrxGVcEZWHm9fwgBayPCpaJ+Js/pEAD+/S3RcBxQci/EUnfqPKzvNJTGvTBMPZGUb0XLHWfDUA1JohHKcpt80U6q9Q1pqckLx8J5ejS8Q6/BFqQUGndqFJeFftA65UN4gJ5fWA99q+3vFvG6uT+9P65mSCEDoLvoFdxowkJ0YqUOROZczfhf7ZGSQEcvu1cFStDWxwc+TUdZ4Yv/mL3N3Oq9FGS70YzWOaUH+Iqc0TOIvTFaTpNOU6krXAAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/edwinedem",
+  "personId": 2133,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Politics and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Edwin Daniel",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Product Management",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "Building product orchestration and automation capabilities on the Celonis platform",
+      "location": null,
+      "start": "2025-02",
+      "end": null,
+      "dateRange": "Feb 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer - Chrome Privacy and Security",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Building and implementing privacy focused APIs and browser features, ensuring ecosystem readiness for the phase-out of third-party cookies",
+      "location": "San Francisco Bay Area",
+      "start": "2023-04",
+      "end": "2024-04",
+      "dateRange": "Apr 2023 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Tooling Operations Policy Pgm - Trust and Safety",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": "United States",
+      "start": "2021-01",
+      "end": "2023-04",
+      "dateRange": "Jan 2021 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "International Arbitration (Bilateral Investment Treaties)",
+      "company": "Alston & Bird",
+      "companyUrl": "https://www.linkedin.com/company/alston-bird-llp",
+      "description": null,
+      "location": "Greater New York City Area",
+      "start": "2019-12",
+      "end": "2020-09",
+      "dateRange": "Dec 2019 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Analyst",
+      "company": "One Zero Capital",
+      "companyUrl": "https://www.linkedin.com/company/one-zero-capital",
+      "description": "Venture capital firm investing in growth-stage companies in consumer credit, fintech, and consumer finance areas",
+      "location": "Greater New York City Area",
+      "start": "2018-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2018 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Yale University",
+      "degree": "Bachelor's degree",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Politics and Technology - Cybersecurity Technology Management",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Cascading Style Sheets (CSS)",
+    "HTML",
+    "C++",
+    "Java",
+    "JavaScript",
+    "Microsoft Office",
+    "Management",
+    "Microsoft Excel",
+    "Microsoft Word",
+    "Research",
+    "PowerPoint",
+    "Sales",
+    "Leadership",
+    "Training",
+    "Photoshop",
+    "Public Speaking",
+    "Event Planning",
+    "Community Outreach",
+    "Data Analysis"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Celonis",
+    "tagline": "When processes work, everything works.",
+    "description": "Celonis makes processes work for people, companies, and the planet.\n\nThe Celonis Process Intelligence Platform takes the data from the systems you already use, and presents you with a living digital twin of your end-to-end processes. It’s system-agnostic, without bias, and provides everyone with a common language for understanding and improving processes. \n\nBecause when processes work, everything works. \n\nSince 2011, Celonis has helped 1,000+ of the world’s largest companies to realize value across the top, bottom, and green line.\n\nCelonis is headquartered in Munich, Germany, and New York City, USA, with more than 20 offices worldwide. Find out more at www.celonis.com.",
+    "industry": "Software Development",
+    "website": "http://www.celonis.com",
+    "linkedInUrl": "https://www.linkedin.com/company/celonis",
+    "employeeCount": 3804,
+    "foundedYear": 2011,
+    "location": "New York City, United States",
+    "specialities": [
+      "Process Mining",
+      "Big Data",
+      "Business Analytics",
+      "Business Processes",
+      "Intelligent Business Cloud",
+      "Intelligent Business System",
+      "Digital Transformation",
+      "Business Process Automation",
+      "Robotic Process Automation",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "SaaS",
+      "Big Data Analysis",
+      "Business Process Analysis",
+      "Process Analytics",
+      "Digital Innovation",
+      "Software Development",
+      "Real Time Optimisation",
+      "Execution Management System"
+    ]
+  }
+}

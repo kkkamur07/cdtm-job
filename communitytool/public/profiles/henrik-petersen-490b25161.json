@@ -1,0 +1,162 @@
+{
+  "id": "henrik-petersen-490b25161",
+  "name": "Henrik Petersen",
+  "headline": "Chief of Staff @Entrix | Oxford | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/henrik-petersen-490b25161-sm.webp",
+    "lg": "/avatars/henrik-petersen-490b25161.webp",
+    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAABwBQCdASogACAAPtFepk0oJSOiMBgIAQAaCWkAA+S2aQfdyMpcg1sdAqYNpmA50mMHZCAAAP79O7SLfGbYn/DNsoiTPRlpWWKVYvDZ++q2XI8AxhIK4WN5l5EH7M0iNlpdN3S9LkhwabxBYz75GcQxWiH5dXp11QpLxYW5kTV0jTClZiom3tZJRv2ZlK8xAJd+OhB2O6sbyGNP7B/DxnPqMckFnzxvqU2Nv40R9/Qb58ogGKhHPCH/VqpWqJgoAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/henrik-petersen-490b25161",
+  "personId": 1140,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "B.Sc. Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Henrik Petersen",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Chief of Staff",
+      "company": "Entrix",
+      "companyUrl": "https://www.linkedin.com/company/entrixenergy",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder's Associate",
+      "company": "Entrix",
+      "companyUrl": "https://www.linkedin.com/company/entrixenergy",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-08",
+      "end": "2025-09",
+      "dateRange": "Aug 2024 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Project Student | Consulting",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-03",
+      "end": "2021-05",
+      "dateRange": "Mar 2021 – May 2021",
+      "current": false
+    },
+    {
+      "title": "Analyst | Venture Capital",
+      "company": "White Star Capital",
+      "companyUrl": "https://www.linkedin.com/company/white-star-capital",
+      "description": null,
+      "location": "London Area, United Kingdom",
+      "start": "2019-10",
+      "end": "2020-03",
+      "dateRange": "Oct 2019 – Mar 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Oxford",
+      "degree": "MSc, Financial Economics, Distinction (highest level of achievement)",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Bachelor Thesis, 1.0 (German scale)",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc., Management & Technology, 1.3 (top 3%)",
+      "dateRange": "2018 – 2022"
+    },
+    {
+      "school": "Kepler-Gymnasium Freiburg",
+      "degree": "Abitur, 1.0 (top 1% in Germany)",
+      "dateRange": "2008 – 2017"
+    },
+    {
+      "school": "Wheatland Union High School, California",
+      "degree": "Honorary High School Diploma, GPA: 4.0",
+      "dateRange": "2014 – 2015"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Entrix",
+    "tagline": "Beyond Trading",
+    "description": "Beyond Trading\nWe are an energy trader and market leader for trading flexible energy systems in Europe.\nBeyond AI-powered trading, Entrix provides innovative solutions for long-term revenue security and grid-supportive battery operation. With our full-service package, we support customers throughout every project phase – from technical design and integration, to continuous optimization, all the way to 24/7 operational support. That includes adapting to changing market conditions and unlocking new revenue opportunities.\n\nWith more than 3 GW and 8.5 GWh as well as 70 battery storage assets under contract, Entrix is active in Germany, Poland, Italy, Spain, and Portugal, with offices in Munich, Warsaw, Milan, and Madrid. Entrix has been pioneering battery optimization in Germany by managing one of the country’s first large-scale storage projects – and is now the trusted partner of leading infrastructure players such as Encavis, MEAG (Munich Re), as well as a wide range of local utilities.​",
+    "industry": "Services for Renewable Energy",
+    "website": "https://www.entrixenergy.com",
+    "linkedInUrl": "https://www.linkedin.com/company/entrixenergy",
+    "employeeCount": 144,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Energy Storage",
+      "Battery Energy Storage System",
+      "Green Energy",
+      "Renewables",
+      "Battery Storage",
+      "Power Trading",
+      "Energy Transition",
+      "Energy Management",
+      "Asset Management",
+      "Erneuerbare Energien",
+      "Climate Tech",
+      "Batteriespeicher",
+      "Batteriespeichersystem",
+      "Energiewende",
+      "Grüne Energie",
+      "Energiespeicher",
+      "Energy",
+      "Energie",
+      "Battery",
+      "Artificial Intelligence",
+      "Künstliche Intelligenz",
+      "Technology",
+      "Technologie",
+      "Algorithms",
+      "Energy Trading",
+      "Energiehandel",
+      "Smart Energy",
+      "Optimization Platform",
+      "Trading Platform",
+      "Energy Network",
+      "Virtual Power Plants",
+      "Virtuelle Kraftwerke",
+      "Batteriegroßspeicher",
+      "Grid-Scale Battery Storage"
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "id": "beatriz-correa-10b3b231",
+  "name": "Beatriz Correa",
+  "headline": "Network Development Manager at Arelion",
+  "avatar": null,
+  "location": "Madrid, Spain",
+  "linkedInUrl": "https://www.linkedin.com/in/beatriz-correa-10b3b231",
+  "personId": 1472,
+  "classes": [
+    {
+      "id": 59,
+      "label": "Spring 2006",
+      "season": "Spring",
+      "year": 2006,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2006",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Beatriz Correa",
+  "ca": null,
+  "summary": "A Network Economics Analyst in the field of mobile and fixed networks. Experienced in network budget and strategic plan consolidation and evaluation; assessment of the CapEx/OpEx and KPIs; evaluation of technology and its economic impact.\n\nSpecialties: Network TCO (CapEx + OpEx), eTOM, GSM, UMTS,  LTE, techno-economic analysis",
+  "positions": [
+    {
+      "title": "Network Development Manager",
+      "company": "Arelion",
+      "companyUrl": "https://www.linkedin.com/company/arelion",
+      "description": null,
+      "location": "Madrid, Community of Madrid, Spain",
+      "start": "2021-04",
+      "end": null,
+      "dateRange": "Apr 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Network Development Manager",
+      "company": "Arelion",
+      "companyUrl": "https://www.linkedin.com/company/arelion",
+      "description": null,
+      "location": null,
+      "start": "2021-04",
+      "end": null,
+      "dateRange": "Apr 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Tef Infra Manager",
+      "company": "Telefonica",
+      "companyUrl": "https://www.linkedin.com/company/telefonica",
+      "description": null,
+      "location": "Madrid, Community of Madrid, Spain",
+      "start": "2020-02",
+      "end": "2021-04",
+      "dateRange": "Feb 2020 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Transformational Project Manager",
+      "company": "Telefonica",
+      "companyUrl": "https://www.linkedin.com/company/telefonica",
+      "description": null,
+      "location": "Madrid Area, Spain",
+      "start": "2018-09",
+      "end": "2020-02",
+      "dateRange": "Sep 2018 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Jefe de Proyectos at PAC Office and Strategic Planning",
+      "company": "Telefonica",
+      "companyUrl": "https://www.linkedin.com/company/telefonica",
+      "description": "- Evaluación y análisis de proyectos del grupo TEF en términos de rentabilidad económica, compromisos, entregables, entre otros.  \n- Aprobación de inversiones\n- Soporte con las operadoras durante el proceso del plan estratégico analizando ingresos, gastos, OIBDA",
+      "location": "Madrid Area, Spain",
+      "start": "2016-02",
+      "end": "2020-02",
+      "dateRange": "Feb 2016 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Program Follow Up and Planning Europe",
+      "company": "Telefonica",
+      "companyUrl": "https://www.linkedin.com/company/telefonica",
+      "description": "Telefonica Global Resources - GCTO Unit\nNetwork Capex and Opex for European operators of the group. PMO of network global projects accross all the operators for Telefonica.",
+      "location": "Madrid Area, Spain",
+      "start": "2011-09",
+      "end": "2016-02",
+      "dateRange": "Sep 2011 – Feb 2016",
+      "current": false
+    },
+    {
+      "title": "Network Financial Analyst",
+      "company": "Telefònica o2 Germany",
+      "companyUrl": "https://www.linkedin.com/company/telefonica-germany",
+      "description": "Network Economic Area. \nNetwork Capex and Opex consolidation for Telefonica Germany, analysis, high level planning.\nCore and VAS specialist\nAssesment of network investments and business cases",
+      "location": null,
+      "start": "2008-10",
+      "end": "2011-09",
+      "dateRange": "Oct 2008 – Sep 2011",
+      "current": false
+    },
+    {
+      "title": "Master Thesis and werkstudent",
+      "company": "Nokia Siemens Networks",
+      "companyUrl": "https://www.linkedin.com/company/nokia",
+      "description": "· Research and Master Thesis in OpEx Business Process Modeling for telco operators using standards such as: eTOM, BPMN, XPDL\n· Modeling of processes such as provisioning, maintenance and modification of Ethernet VPN services. OpEx modelling based on the eTOM standard",
+      "location": null,
+      "start": "2007-04",
+      "end": "2008-03",
+      "dateRange": "Apr 2007 – Mar 2008",
+      "current": false
+    },
+    {
+      "title": "Werkstudent and Internship",
+      "company": "Siemens AG Corporate Technology",
+      "companyUrl": null,
+      "description": "Market research and analysis of the Carrier Grade Ethernet Technology, its services (VPN, VoD, IPTV, VoIP) and trends",
+      "location": null,
+      "start": "2006-09",
+      "end": "2007-02",
+      "dateRange": "Sep 2006 – Feb 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "IE Business School",
+      "degree": "Master's degree, Finance",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM), TU München",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2006 – 2008"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "MSc., Communications Engineering",
+      "dateRange": "2005 – 2007"
+    },
+    {
+      "school": "Universidad Tecnológica de Bolívar",
+      "degree": "Ingeniería Electrónica",
+      "dateRange": "2000 – 2004"
+    }
+  ],
+  "skills": [
+    "UMTS",
+    "LTE",
+    "eTOM",
+    "Capex",
+    "Expense Control",
+    "Analysis",
+    "GSM",
+    "4G",
+    "Telco",
+    "Business Case",
+    "Mobile Communications",
+    "C",
+    "Networking",
+    "Project Management",
+    "Microsoft Excel"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Arelion",
+    "tagline": "The world's #1 Internet backbone",
+    "description": "Arelion is a leading light in global connectivity services. We’ve been keeping the world connected since 1993 and today our global IP backbone, AS1299, is ranked number one in the world. Our network spans Europe, North America, and Asia with 77,000 km of optical fiber and 1,700 MPLS endpoints. Our award-winning customer service team supports our expansive customer base, who rely on us for their business-critical services. \n\nDiscover more at www.arelion.com \nX (Twitter): @ArelionCompany\nPodcast: https://www.arelion.com/knowledge-hub/the-connectivity-podcast",
+    "industry": "Telecommunications",
+    "website": "https://www.arelion.com",
+    "linkedInUrl": "https://www.linkedin.com/company/arelion",
+    "employeeCount": 600,
+    "foundedYear": null,
+    "location": "Solna, Sweden",
+    "specialities": [
+      "IP transit",
+      "Global IP Network",
+      "International Voice",
+      "Internet",
+      "Wavelengths",
+      "Internet Backbone",
+      "IP Backbone",
+      "Cloud Connect",
+      "Network Services",
+      "DDoS Mitigation",
+      "Ethernet",
+      "Enterprise Networks"
+    ]
+  }
+}

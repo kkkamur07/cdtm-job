@@ -1,0 +1,102 @@
+{
+  "id": "florian-ramian-1a7624316",
+  "name": "Florian Ramian",
+  "headline": "Application Engineer / Engineer R&D bei Rohde & Schwarz\nWorking on non-linear device characterization, modelling, DPD using modulated signals",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/florian-ramian-1a7624316",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Application Engineer / Engineer R&D",
+      "company": "Rohde & Schwarz",
+      "companyUrl": "https://www.linkedin.com/company/rohde-schwarz",
+      "description": "Signal- and Spectrum Analysis\nNon-linear measurements, digital pre-distortion, satellite related measurements, component testing",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-07",
+      "end": null,
+      "dateRange": "Jul 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Application Engineer",
+      "company": "Rohde & Schwarz",
+      "companyUrl": "https://www.linkedin.com/company/rohde-schwarz",
+      "description": "Application engineer supporting signal- and spectrum analysis topics in device characterization, satellite communication, and general purpose communication topics",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2006-01",
+      "end": "2019-06",
+      "dateRange": "Jan 2006 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technische Universität München (Technical University of Munich)",
+      "companyUrl": "https://www.linkedin.com/company/c446-deccan-m.ed-college-gulbarga",
+      "description": "Research Assistant Fachgebiet Höchstfrequenztechnik\nResearch topics: Automotive Radar Imaging",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2002-10",
+      "end": "2005-10",
+      "dateRange": "Oct 2002 – Oct 2005",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technische Universität München (Technical University of Munich)",
+      "degree": "Dr.-Ing., Radar Imaging",
+      "dateRange": "2002 – 2005"
+    },
+    {
+      "school": "University of Colorado Boulder",
+      "degree": "Visiting Student, Microwave and RF Research Group",
+      "dateRange": "2002"
+    },
+    {
+      "school": "Technische Universität München (Technical University of Munich)",
+      "degree": "Dipl.-Ing., Electrical and Electronics Engineering",
+      "dateRange": "1998 – 2002"
+    }
+  ],
+  "skills": [
+    "Device Characterization",
+    "Satellite Communications",
+    "Radar",
+    "Component Testing",
+    "Radio Frequency (RF)",
+    "Elektrotechnik"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Rohde & Schwarz",
+    "tagline": "Make Ideas Real",
+    "description": "Rohde & Schwarz is a global technology group striving for a safer and connected world. With its Test & Measurement, Technology Systems and Networks & Cybersecurity Divisions, the company creates tomorrow's innovations today. The company's leading-edge products and solutions empower industrial, regulatory and military customers to attain technological and digital sovereignty.\n\nInnovation has been part of Rohde & Schwarz since the very beginning. The company founders Dr. Lothar Rohde and Dr. Hermann Schwarz were technological pioneers. With their hands-on entrepreneurial spirit, the two college friends entered the unexplored field of RF engineering. Ninety years later, the company is still pushing technological boundaries – as a successful shaper of cutting-edge technologies such as artificial intelligence (AI), 6G, cloud and quantum technologies.\n\nThe privately owned company is known for stability and resilience. Independence is at the core of its entrepreneurial identity. The company finances its growth with its own resources. Because the company does not have to think in terms of quarterly results, it can plan sustainably for the long term. The high added value of Rohde & Schwarz makes the company a reliable, trustworthy and relevant partner for its customers.\n\nImprint: https://www.rohde-schwarz.com/general-information/imprint_101514.html",
+    "industry": "Telecommunications",
+    "website": "http://www.rohde-schwarz.com",
+    "linkedInUrl": "https://www.linkedin.com/company/rohde-&-schwarz",
+    "employeeCount": 9370,
+    "foundedYear": 1933,
+    "location": "München, Germany",
+    "specialities": [
+      "Test and measurement",
+      "Broadcasting and studio technology",
+      "Secure communications",
+      "Monitoring and Network Testing",
+      "Production",
+      "Sales and service",
+      "Cybersecurity"
+    ]
+  }
+}

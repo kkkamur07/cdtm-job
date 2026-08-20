@@ -1,0 +1,123 @@
+{
+  "id": "strobmax",
+  "name": "Max Strobel",
+  "headline": "VP Engineering @ Kaia Health",
+  "avatar": {
+    "sm": "/avatars/strobmax-sm.webp",
+    "lg": "/avatars/strobmax.webp",
+    "blur": "data:image/webp;base64,UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASogACAAPtFWo0uoJKMhsAgBABoJaACdL6A4aO58xDsMrw/JkclwFx15pXRF23AWWduMxgdMlq7/yAAAzeqbgnCGln35PSm1VKAKATPR43vEXwaUtn+yRCD5D0PrF/pr1OE1o40DrjZ970H1kApFbUoZGX4jd9KCv5pMrl2DyPIW5qmxH9nWlBM7zQkYIgK5u4jEGXDMFronSVl7nmF/I19hWJuV0NCN6XedqikG2RFh3bQGDYmoy6jY/PGr+Slr4DpGe9V4V5kzokI3BSHeic9XetTuXiAg0iWCZJH8MXWQMLtqudDN9gv4fuAmxqmyefayc9XNR5ROV0g9nIOG3Jc6WBOrcZ2OZhzbXBd0O+qlEkBZ/C7AIFrXo0AxX7OQXWK1/YJk0BH4F9wvzdI8nRaa9YDqrwkVqtAxxiRFpXPxkLgA"
+  },
+  "location": "New York, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/strobmax",
+  "personId": 712,
+  "classes": [
+    {
+      "id": 77,
+      "label": "Spring 2015",
+      "season": "Spring",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2015",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Maximilian Strobel",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Engineering & Growth",
+      "company": "Sword Health",
+      "companyUrl": "https://www.linkedin.com/company/swordhealth",
+      "description": null,
+      "location": "New York, United States",
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "VP of Engineering (Acquired by Sword Health)",
+      "company": "Kaia Health",
+      "companyUrl": "https://www.linkedin.com/company/kaiahealth",
+      "description": "since 2025: Leading US Member Growth\nsince 2023: Leading all Engineering, AI, Platform\nsince 2022: Member of ELT\n2021-2023: Leading Product Engineering & AI\n2018-2020: Built AI Lab team & brought product to market (\"Head of AI Lab\")\n2017-2017: Built first versions of core tech (computer vision exercise feedback)\n2017-2017: Intern",
+      "location": "New York and Munich",
+      "start": "2017-01",
+      "end": "2026-02",
+      "dateRange": "Jan 2017 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Various",
+      "company": "Various early stage startups",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2013-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2013 – Dec 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, Information Management and Systems",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Computer Science",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (BSc), Computer Science",
+      "dateRange": "2012 – 2016"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Sword Health",
+    "tagline": "Artificial Intelligence to heal our world.",
+    "description": "Sword is building the future of healthcare through AI Care, a field we pioneered that brings together Artificial Intelligence and Clinical Experts to tackle healthcare’s biggest bottlenecks - access, outcomes, and cost. The result is a world where clinicians are able to focus on what they do best - handling nuance, providing empathy, and delivering the human touch -, while AI focuses on delivering hyper-personalized treatment programs, ensuring scalability, and being available 24/7 so that healthcare meets the needs of the patient, not the other way around.\n\nOur platform spans the full continuum of care, from predicting and preventing pain, to treating physical and mental health, and optimizing healthcare operations. \n\nWe are trusted by over 2,000 organizations globally, across employers, health plans, and governments, having helped our clients generate over $1 billion in healthcare savings, largely by avoiding unnecessary procedures, such as surgeries, imaging, ER visits, and others.\n\nWe’re backed by some of the world’s most seasoned investors, such as Khosla Ventures, General Catalyst, Founders Fund and others, and currently valued at $4B. \n\nWe believe in - and are building toward - a world where AI Care is within arm’s reach of every human. If this mission inspires you, join us in building that future: https://swordhealth.com/company/careers.",
+    "industry": "Hospitals and Health Care",
+    "website": "https://www.sword.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/swordhealth",
+    "employeeCount": 1173,
+    "foundedYear": 2015,
+    "location": "New York, United States",
+    "specialities": [
+      "Digital Health",
+      "medical devices",
+      "machine learning",
+      "Artificial Intelligence",
+      "physical therapy",
+      "virtual physical therapy",
+      "digital physical therapy",
+      "fda-listed device",
+      "biofeedback",
+      "MSK",
+      "musculoskeletal",
+      "telemedicine",
+      "healthcare"
+    ]
+  }
+}

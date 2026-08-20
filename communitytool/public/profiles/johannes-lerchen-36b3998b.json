@@ -1,0 +1,168 @@
+{
+  "id": "johannes-lerchen-36b3998b",
+  "name": "Johannes Lerchen",
+  "headline": "founding partner @ nimble / recruiting outlier talent",
+  "avatar": {
+    "sm": "/avatars/johannes-lerchen-36b3998b-sm.webp",
+    "lg": "/avatars/johannes-lerchen-36b3998b.webp",
+    "blur": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAADwBACdASogACAAPr1SnkunJSKht/qoAOAXiUAKqhN3IIpV41B9H2qop3s8/1NWfQAA/v6rpwhQBfVojYYbpU7bI/NAffovaVt35BLKbCM1WZl8OEuFn+VU/rWLzTUKy+xPHxnRdCL02zELG5521cEHt+bRIsnqUkOW0lJRB4H7ySC2guiOljTOSFM0VNIMd576t02zt0zkwdBjRxPw0mUodi4hsi1uvBlAs2aBwqZX2+NrHtuAAA=="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/johannes-lerchen-36b3998b",
+  "personId": 1027,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Human-Computer Interaction",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Johannes Lerchen",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Advisor",
+      "company": "Honeysales",
+      "companyUrl": "https://www.linkedin.com/company/honeysales",
+      "description": null,
+      "location": null,
+      "start": "2025-03",
+      "end": null,
+      "dateRange": "Mar 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Founding Partner",
+      "company": "Nimble",
+      "companyUrl": "https://www.linkedin.com/company/nimbletalentio",
+      "description": "We're Nimble, a boutique recruiting agency connecting Europe's top early-stage tech companies with outlier talent.\n\nWe aim to master the art of recruiting, combining deep entrepreneurial know-how, state-of-the-art recruiting techniques, and an unparalleled network of talent.",
+      "location": null,
+      "start": "2023-05",
+      "end": null,
+      "dateRange": "May 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Director, Investments & Venture Strategy",
+      "company": "OneFootball",
+      "companyUrl": "https://www.linkedin.com/company/onefootball",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2022-09",
+      "end": "2023-05",
+      "dateRange": "Sep 2022 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Principal",
+      "company": "Mindspring Capital",
+      "companyUrl": "https://www.linkedin.com/company/mindspring-capital",
+      "description": "Part of the founding team.\n\nMindspring Capital is a globally oriented, early-stage investment firm that empowers tech ventures in the sports industry. We focus on backing seed-stage B2B entrepreneurs that redefine the business of sport. Our team is built around one of the founders of the UEFA Champion League, and offers over 100 years of experience in top-tier sports.",
+      "location": "Berlin Metropolitan Area",
+      "start": "2019-01",
+      "end": "2022-09",
+      "dateRange": "Jan 2019 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Investment Team",
+      "company": "Global Founders Capital",
+      "companyUrl": "https://www.linkedin.com/company/global-founders-capital",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Consultant (Product Innovation)",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Venture Builder | Deloitte Digital Ventures",
+      "company": "Deloitte Digital",
+      "companyUrl": "https://www.linkedin.com/company/deloitte-digital",
+      "description": null,
+      "location": null,
+      "start": "2015-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2015 – Dec 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "University of Mannheim",
+      "degree": "Bachelor of Science (B.Sc.), Business Administration",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Visiting Researcher @ Columbia Business School",
+      "dateRange": "2019"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Arts, Philosophy, Politics, and Economics",
+      "dateRange": "2019 – 2021"
+    }
+  ],
+  "skills": [
+    "Business Development",
+    "Start-ups",
+    "Entrepreneurship",
+    "E-Commerce",
+    "Strategy",
+    "Online-Marketing",
+    "Project Management",
+    "Microsoft Office",
+    "Projektmanagement",
+    "Geschäftsentwicklung",
+    "Teamwork",
+    "Strategie"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Nimble",
+    "tagline": "We connect fast-moving companies with the talent they need to keep up the pace.",
+    "description": "At Nimble, we believe that people who share the same goal build amazing things together. \n\nWe are founders and operators who understand the challenges of finding great talent. \n\nWe have dedicated ourselves to helping you find it.",
+    "industry": "Staffing and Recruiting",
+    "website": "https://www.nimbletalent.io/",
+    "linkedInUrl": "https://www.linkedin.com/company/nimbletalentio",
+    "employeeCount": 7,
+    "foundedYear": null,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "id": "nikolas-gritsch",
+  "name": "Nikolas Gritsch",
+  "headline": "Pretraining @ Cohere",
+  "avatar": {
+    "sm": "/avatars/nikolas-gritsch-sm.webp",
+    "lg": "/avatars/nikolas-gritsch.webp",
+    "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABQBQCdASogACAAPtFWpEuoJKOhsAgBABoJZACdMtVEIIJH+AcxgAQBBJLwoZoxANoZxgAA/vunCEDr3U/eKPPx9TBcISAy4nTPTF3CbVxZVqos20t5DZnhnGeJFn2OFfInocFGwp9RZJk31Jx2YNpeCMEjSBcuSzUDEPd6dqMFj5mf8XqAEtqUfBOl52LBotlL0kswbnFHg+tZK/m/ft2cWWigJT5sAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/nikolas-gritsch",
+  "personId": 826,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "MSc in Data Science (LMU, UNIPD)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Nikolas Gritsch",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Member of Technical Staff",
+      "company": "Cohere",
+      "companyUrl": "https://www.linkedin.com/company/cohere-ai",
+      "description": "Pretraining LLMs",
+      "location": null,
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Scholar",
+      "company": "Cohere",
+      "companyUrl": "https://www.linkedin.com/company/cohere-ai",
+      "description": null,
+      "location": "Toronto",
+      "start": "2024-01",
+      "end": "2024-08",
+      "dateRange": "Jan 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "AI Research Engineer Working Student",
+      "company": "Aleph Alpha",
+      "companyUrl": "https://www.linkedin.com/company/aleph-alpha",
+      "description": "Research for my Master's thesis about \"Quantization in Large Language Models\"",
+      "location": "Heidelberg, Baden-Württemberg, Deutschland",
+      "start": "2023-01",
+      "end": "2023-07",
+      "dateRange": "Jan 2023 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Managing Product Development",
+      "company": "Deutsche Telekom",
+      "companyUrl": "https://www.linkedin.com/company/telekom",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-04",
+      "end": "2022-08",
+      "dateRange": "Apr 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Trend Research (CDTM)",
+      "company": "Bayerisches Staatsministerium für Digitales",
+      "companyUrl": "https://www.linkedin.com/company/digitalministerium",
+      "description": "As part of the CDTM curriculum, we created a report about the trends and chances to tackle climate change in the AI era. We analyzed trends, constructed scenarios, identified business opportunities, and wrote a comprehensive report for the Bavarian Ministry for Digital Affairs.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-03",
+      "end": "2022-04",
+      "dateRange": "Mar 2022 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "betterplace lab",
+      "companyUrl": "https://www.linkedin.com/company/betterplace-lab",
+      "description": "Co-creating a website for Betterplace Lab that informs about the dangers of disinformation for society",
+      "location": "Berlin, Deutschland",
+      "start": "2021-11",
+      "end": "2022-04",
+      "dateRange": "Nov 2021 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Graduate Teaching Assistant",
+      "company": "Institute of AI in Management, LMU",
+      "companyUrl": null,
+      "description": "Tutor for the lectures \"Introduction to AI\", \"AI for Managers\"",
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-10",
+      "end": "2022-03",
+      "dateRange": "Oct 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "legacies.now",
+      "companyUrl": "https://www.linkedin.com/company/legacies-now",
+      "description": "Creating analyses in the fields of AI safety, resilience of democracies, disinformation, and effectiveness of NGOs for legacies.now",
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-03",
+      "end": "2022-12",
+      "dateRange": "Mar 2020 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "company": "Ghana Center For Democratic Development (CDD-Ghana)",
+      "companyUrl": "https://www.linkedin.com/company/the-ghana-center-for-democratic-development",
+      "description": null,
+      "location": "Accra, Greater Accra, Ghana",
+      "start": "2019-09",
+      "end": "2019-11",
+      "dateRange": "Sep 2019 – Nov 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Data Science",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor, Informatik",
+      "dateRange": "2018 – 2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Arts - BA, Politikwissenschaft",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Volkswirtschaftslehre",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "Università degli Studi di Padova",
+      "degree": "Bachelor, Angewandte Volkswirtschaftslehre",
+      "dateRange": "2017 – 2018"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Cohere",
+    "tagline": "Empowering enterprises with private, powerful AI.",
+    "description": "Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation models and end-to-end AI products designed to solve real-world business problems. We partner closely with companies to deliver seamless integration, full customization, and easy-to-use solutions for their workforce and customers. Our all-in-one platform offers enterprises the highest levels of data security, privacy and optionality to deploy across all major cloud providers, private cloud environments, or on-premises. \n\nHQ: 171 John Street, 2nd Floor, Toronto, ON M5T 1X3",
+    "industry": "Software Development",
+    "website": "https://cohere.com",
+    "linkedInUrl": "https://www.linkedin.com/company/cohere-ai",
+    "employeeCount": 908,
+    "foundedYear": 2019,
+    "location": "Toronto, Canada",
+    "specialities": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Artificial Intelligence"
+    ]
+  }
+}

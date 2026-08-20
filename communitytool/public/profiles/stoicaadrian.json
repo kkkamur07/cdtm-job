@@ -1,0 +1,138 @@
+{
+  "id": "stoicaadrian",
+  "name": "Adrian Stoica",
+  "headline": "Building | CDTM | Former Music Producer",
+  "avatar": {
+    "sm": "/avatars/stoicaadrian-sm.webp",
+    "lg": "/avatars/stoicaadrian.webp",
+    "blur": "data:image/webp;base64,UklGRioBAABXRUJQVlA4WAoAAAAQAAAAHwAAHwAAQUxQSBQAAAABF3D7/4iIQSyYjCF/596I/keAb1ZQOCDwAAAAEAYAnQEqIAAgAD69Up5LpyUiobf6qADgF4lmAJ0y0m/+LW/lRtnopBSmzN4fmohPjO0LqTqFVr+AAP78fV8HLfw2qsXKnFpV++N6JmKm1ORsFvqh8K+g182sUMzWLqTLe4TRIvB/mrY8pzE6rqLij+cop1j0tlp547YfBRacA2mhNlLRW9qogq1ZsMfoLswJpEoog/kBgX9vlCa3j14OVhsuzuDNg7cycbh6EN56nEudzzCJ9eNhiWdGs0f92Y2wtROPOYNPY9tZ4637YeAe4C4G66uSiaW/T2Y6YLbE8JOYCUIDK6FYeCutnjDvM0AA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/stoicaadrian",
+  "personId": 2126,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Philosophy",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Adrian Stoica",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Stealth Startup",
+      "companyUrl": "https://www.linkedin.com/company/stealth-startup-community",
+      "description": null,
+      "location": null,
+      "start": "2026-04",
+      "end": null,
+      "dateRange": "Apr 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Munich Interactive Intelligence Initiative (Mi3) | LMU Munich",
+      "companyUrl": "https://www.linkedin.com/company/munich-interactive-intelligence-initiative",
+      "description": "AI Awareness",
+      "location": null,
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Analyst",
+      "company": "Matterwave Ventures",
+      "companyUrl": "https://www.linkedin.com/company/matterwave-ventures",
+      "description": null,
+      "location": null,
+      "start": "2024-11",
+      "end": "2025-03",
+      "dateRange": "Nov 2024 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "Business Development Intern",
+      "company": "Cactos",
+      "companyUrl": "https://www.linkedin.com/company/cactosenergy",
+      "description": null,
+      "location": null,
+      "start": "2024-08",
+      "end": "2024-11",
+      "dateRange": "Aug 2024 – Nov 2024",
+      "current": false
+    },
+    {
+      "title": "Founders Associate",
+      "company": "Mimotype Technologies GmbH",
+      "companyUrl": "https://www.linkedin.com/company/mimotype",
+      "description": null,
+      "location": null,
+      "start": "2024-02",
+      "end": "2024-04",
+      "dateRange": "Feb 2024 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Music Producer",
+      "company": "Sony Music Entertainment",
+      "companyUrl": "https://www.linkedin.com/company/sony-music-entertainment",
+      "description": "Co-producer on records totaling 40M+ streams",
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2025 – 2027"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Philosophy and Economics",
+      "dateRange": "2023 – 2026"
+    },
+    {
+      "school": "Deutsche Schule Helsinki",
+      "degree": "Abitur",
+      "dateRange": "2018 – 2023"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "German",
+    "English",
+    "Finnish"
+  ],
+  "company": {
+    "name": "Stealth Startup",
+    "tagline": null,
+    "description": "A network for entrepreneurs building in stealth. \n\nSubmit your information here so investors can find you:\nharmonic.ai/get-discovered",
+    "industry": "Technology, Information and Internet",
+    "website": "https://harmonic.ai/get-discovered",
+    "linkedInUrl": "https://www.linkedin.com/company/stealth-startup-community",
+    "employeeCount": 33008,
+    "foundedYear": null,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

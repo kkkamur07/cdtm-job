@@ -1,0 +1,100 @@
+{
+  "id": "marc-jokisch-06729b",
+  "name": "Marc Jokisch",
+  "headline": "Product Manager at BMW Group",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/marc-jokisch-06729b",
+  "personId": 1734,
+  "classes": [
+    {
+      "id": 99,
+      "label": "Spring 2000",
+      "season": "Spring",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2000",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Marc Jokisch",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Product Manager",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-12",
+      "end": null,
+      "dateRange": "Dec 2015 – Present",
+      "current": true
+    },
+    {
+      "title": "Retail Innovation Lab",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2014-10",
+      "end": "2015-11",
+      "dateRange": "Oct 2014 – Nov 2015",
+      "current": false
+    },
+    {
+      "title": "Communication Strategy BMW",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "My responsibilities included development of communication strategies for new brands (e.g. BMW i), products (2 Series Active Tourer) and technologies/innovations (e.g. Carbon fibre, eDrive). Furthermore,  the overall orchestrion of world premiers of new products. In addition to the that, definition of requirements for Concept Cars and namings.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2010-05",
+      "end": "2014-09",
+      "dateRange": "May 2010 – Sep 2014",
+      "current": false
+    }
+  ],
+  "schools": [],
+  "skills": [
+    "Automotive",
+    "Business Strategy"
+  ],
+  "languages": [],
+  "company": {
+    "name": "BMW Group",
+    "tagline": "We make individual mobility more human, more intelligent and more responsible.",
+    "description": "With its four brands, BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world’s leading premium manufacturer of automobiles and motorcycles and also provides premium financial services. The BMW Group production network comprises over 30 production sites worldwide; the company has a global sales network in more than 140 countries.\n\nIn 2025, the BMW Group sold 2.46 million passenger vehicles and more than 202,500 motorcycles worldwide. The profit before tax in the financial year 2025 was € 10.2 billion on revenues amounting to € 133,5 billion. As of 31 December 2025, the BMW Group had a workforce of 154,540 employees.\n\nThe economic success of the BMW Group has always been based on long-term thinking and respon-sible action. Sustainability is a key element of the BMW Group’s corporate strategy and covers all products – from the supply chain through production to the end of their useful life.",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://www.bmwgroup.com/en/general/imprint.html",
+    "linkedInUrl": "https://www.linkedin.com/company/bmw-group",
+    "employeeCount": 65541,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Automotive",
+      "Information Technology",
+      "Data Science",
+      "Software Development",
+      "Artificial Intelligence",
+      "Data Security",
+      "Motorcycles",
+      "Financial Services",
+      "Mobility Services",
+      "Digital Services",
+      "IoT",
+      "Future of Mobilty",
+      "Autonomous Driving",
+      "Connectivity",
+      "Sheer Driving Pleasure"
+    ]
+  }
+}

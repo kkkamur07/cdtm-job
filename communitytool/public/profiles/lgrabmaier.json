@@ -1,0 +1,165 @@
+{
+  "id": "lgrabmaier",
+  "name": "Lucas Grabmaier",
+  "headline": "Agent Platform @ Taktile",
+  "avatar": {
+    "sm": "/avatars/lgrabmaier-sm.webp",
+    "lg": "/avatars/lgrabmaier.webp",
+    "blur": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAAAQBQCdASogACAAPtFWoUuoJKMhsBgMAQAaCUAZRAH4lQGHHzVWAa4TxXJniAiveZwAAP7vv3ddftyKigXFL0yrxIVbu661ZISWFvbcmjXZpOwKwPU3LAT14WC2+jyK9MdMc5dZqotjg9f83jleBY1t61rJtoDXK3o9QvykxY4roE1R0uMe7OYE4kRuLL8h9ySVScsgVDN3HVXwF4AAAA=="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lgrabmaier",
+  "personId": 1102,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "Bachelor and M.Sc. in Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lucas Grabmaier",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Product Manager",
+      "company": "Taktile",
+      "companyUrl": "https://www.linkedin.com/company/taktile1",
+      "description": "Agent platform for AI agents for critical risk decisions in the financial industry",
+      "location": null,
+      "start": "2025-08",
+      "end": null,
+      "dateRange": "Aug 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "Taktile",
+      "companyUrl": "https://www.linkedin.com/company/taktile1",
+      "description": "Building up the data marketplace",
+      "location": null,
+      "start": "2023-04",
+      "end": "2025-07",
+      "dateRange": "Apr 2023 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Spotify",
+      "companyUrl": "https://www.linkedin.com/company/spotify",
+      "description": "Discovery for Audiobooks Core Experience",
+      "location": null,
+      "start": "2022-06",
+      "end": "2022-08",
+      "dateRange": "Jun 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Forget Finance",
+      "companyUrl": "https://www.linkedin.com/company/forget-finance",
+      "description": "Forget.finance is your digital financial coach. We empower everyone to plan their financial future holistically from their smartphones.",
+      "location": null,
+      "start": "2021-08",
+      "end": "2021-10",
+      "dateRange": "Aug 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "movement24 GmbH",
+      "companyUrl": "https://www.linkedin.com/company/movement24",
+      "description": "Built MVP for digital corporate health management service using React Native & Firebase. Acquired funding from angles to build out full product using the prototype.",
+      "location": null,
+      "start": "2020-10",
+      "end": "2021-01",
+      "dateRange": "Oct 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Product Analytics",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": "Selection & BI",
+      "location": null,
+      "start": "2019-11",
+      "end": "2020-02",
+      "dateRange": "Nov 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Software Engineering & IT-Consulting",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "Six Internship rotations in Software Engineering & IT-Consulting\n• Enabled rapid prototyping sessions with customers by building JavaScript library for hardware sensors\n• Conducted Design Thinking workshop for major tax client resulting in a $60k contract\n• Represented customer during Blockchain MVP development and presented outcomes for 100 domain experts\n• Conducted market research, later used by general manager Austria, to win top 3 EU food client\n• Resolved communication issues by setting up a buddy program, increasing team communication by 182%\n• Bachelor Thesis: Establishing trust in black box machine learning algorithms by explaining model predictions\nwith model agnostic frameworks",
+      "location": null,
+      "start": "2016-09",
+      "end": "2019-08",
+      "dateRange": "Sep 2016 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Lighthouse AI",
+      "companyUrl": "https://www.linkedin.com/company/lighthouse-ai",
+      "description": null,
+      "location": null,
+      "start": "2015-08",
+      "end": "2015-09",
+      "dateRange": "Aug 2015 – Sep 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Information Systems",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Griffith University",
+      "degree": "Information Systems",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Baden-Wuerttemberg Cooperative State University (DHBW)",
+      "degree": "Bachelor of Science (B.Sc.), Information Systems",
+      "dateRange": "2016 – 2019"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "Deutsch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "Taktile",
+    "tagline": "Transform your decision-making with reliable AI agents in weeks, not months.",
+    "description": "Taktile empowers financial institutions to quickly unlock AI-driven efficiencies across the customer lifecycle, reducing manual work while optimizing decisions and enabling seamless end-user experiences.\n\nBuilt for highly regulated environments, our agentic decision platform combines the speed of AI automation with the oversight of human judgement—so you can safely approve customers, catch more fraud, and stay compliant.\n\nWe power AI transformation from offices in NYC, London, Berlin, and Iasi, and have raised $80M in capital from top investors including Index Ventures, Tiger Global, Balderton Capital and Y Combinator.\n\nJoin over 200 leading financial institutions who rely on Taktile to enable faster, more intelligent decisions from onboarding to credit, AML, compliance, and fraud.",
+    "industry": "Financial Services",
+    "website": "https://www.taktile.com",
+    "linkedInUrl": "https://www.linkedin.com/company/taktile1",
+    "employeeCount": 211,
+    "foundedYear": 2020,
+    "location": "New York, United States",
+    "specialities": []
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "robert-berner-5a755787",
+  "name": "Robert Berner",
+  "headline": "Founder & CEO",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/robert-berner-5a755787",
+  "personId": 1822,
+  "classes": [
+    {
+      "id": 49,
+      "label": "1998",
+      "season": null,
+      "year": 1998,
+      "location": 1
+    }
+  ],
+  "classLabel": "1998",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Robert Berner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder & CEO",
+      "company": "Primo Espresso GmbH",
+      "companyUrl": "https://www.linkedin.com/company/primo-espresso-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2003-05",
+      "end": null,
+      "dateRange": "May 2003 – Present",
+      "current": true
+    },
+    {
+      "title": "Engagement Manager",
+      "company": "HypoVereinsbank - UniCredit Bank AG",
+      "companyUrl": "https://www.linkedin.com/company/hypovereinsbank",
+      "description": "Bereich WebPower (New Ventures, Inkubation, IT & Internet Konzernstrategie)",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2000-09",
+      "end": "2003-02",
+      "dateRange": "Sep 2000 – Feb 2003",
+      "current": false
+    },
+    {
+      "title": "Diplomand",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Diplomarbeit zur Strategischen Option von Antrieben mit Brennstoffzelle",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "1999-10",
+      "end": "2000-04",
+      "dateRange": "Oct 1999 – Apr 2000",
+      "current": false
+    },
+    {
+      "title": "SDA Application Engineer",
+      "company": "Berner & Mattner Systemtechnik GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "1996-10",
+      "end": "1998-10",
+      "dateRange": "Oct 1996 – Oct 1998",
+      "current": false
+    },
+    {
+      "title": "ASIC Field Application Manager",
+      "company": "Texas Instruments",
+      "companyUrl": "https://www.linkedin.com/company/texas-instruments",
+      "description": "Freising",
+      "location": null,
+      "start": "1992-10",
+      "end": "1996-07",
+      "dateRange": "Oct 1992 – Jul 1996",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Dipl.-Kfm., Betriebswirtschaftslehre",
+      "dateRange": "1996 – 2000"
+    },
+    {
+      "school": "MIT Sloan School of Management",
+      "degree": "Visiting Fellow, Technology Strategy, Innovation Research, Entrepreneurship",
+      "dateRange": "1998 – 1999"
+    },
+    {
+      "school": "Harvard Business School",
+      "degree": "Cross Registration (Visiting Fellow MIT), Managing Innovation",
+      "dateRange": "1998 – 1999"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Betriebswirtschaftslehre & Technology Management",
+      "dateRange": "1998 – 2000"
+    },
+    {
+      "school": "Hochschule München University of Applied Sciences",
+      "degree": "Dipl.-Ing. (FH), Electrical and Electronics Engineering",
+      "dateRange": "1987 – 1992"
+    }
+  ],
+  "skills": [
+    "Unternehmensstrategie",
+    "Geschäftsentwicklung",
+    "Strategische Planung",
+    "Coffee Business",
+    "Retail Business",
+    "Hospitality Management"
+  ],
+  "languages": [],
+  "company": null
+}

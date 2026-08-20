@@ -1,0 +1,203 @@
+{
+  "id": "jenniferherner",
+  "name": "Jennifer Herner",
+  "headline": "Data Analyst @ diconium data | CDTM | LMU | HdM",
+  "avatar": {
+    "sm": "/avatars/jenniferherner-sm.webp",
+    "lg": "/avatars/jenniferherner.webp",
+    "blur": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAACwBQCdASogACAAPtFQokyoJCMiMBgMAQAaCUAAogPdj33XLjol4fIVxltzim9H9Ks4bgILtIAA/vsr67+P81ojq4sBqgfUqJ5e+nzzGLszkdtWSeOcvS4wPf9E0DXz6pAECzf3m+cRG2IzburtMbFAv9mgMdEzS70/BcAgi3Ne0U2OjJ8ddspU0wenWs1e1OngBKRPir0EY2rDgvaH7jQn8oh9zNHGtEnOY33DizTy0z8DN/xjJZLoasQCW4cdcc8ZW17MIwVND6Cp9svvu7B/2+5FNZ/J4jtRI+QZBccxFF4gZGcbV0Gmltrp0/JsSv6dX2Krw6qFBr/dTtNAKWERwAA="
+  },
+  "location": "Hamburg, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jenniferherner",
+  "personId": 1152,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Media Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jennifer Herner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Data Analyst",
+      "company": "diconium",
+      "companyUrl": "https://www.linkedin.com/company/diconium",
+      "description": null,
+      "location": "Hamburg, Germany",
+      "start": "2022-05",
+      "end": null,
+      "dateRange": "May 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Student Consultant - Scaling the Center for Digital Technology and Management",
+      "company": "Center for Digital Technology and Management",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-04",
+      "end": "2020-07",
+      "dateRange": "Apr 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Student Consultant & Product Development: Farm and Stakeholder Management Platform",
+      "company": "GEA Group",
+      "companyUrl": "https://www.linkedin.com/company/geagroup",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-10",
+      "end": "2020-01",
+      "dateRange": "Oct 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Student Consultant - Trend Research: The Data-Driven Future of Dairy",
+      "company": "GEA Group",
+      "companyUrl": "https://www.linkedin.com/company/geagroup",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-03",
+      "end": "2019-04",
+      "dateRange": "Mar 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Hiwi - Digital Optimization Tools for Industrial Production",
+      "company": "Fraunhofer IPA",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-ipa",
+      "description": "Stuttgart Region",
+      "location": null,
+      "start": "2017-11",
+      "end": "2018-02",
+      "dateRange": "Nov 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Praktikant - Productmanagement Web Applications Mercedes-Benz Cars",
+      "company": "Daimler AG",
+      "companyUrl": "https://www.linkedin.com/company/mercedes-benz_ag",
+      "description": "Stuttgart Region",
+      "location": null,
+      "start": "2017-03",
+      "end": "2017-08",
+      "dateRange": "Mar 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Werkstudent - Driving Assistance Systems",
+      "company": "Bosch Engineering GmbH",
+      "companyUrl": "https://www.linkedin.com/company/bosch-engineering-gmbh",
+      "description": "Stuttgart Region",
+      "location": null,
+      "start": "2016-03",
+      "end": "2017-02",
+      "dateRange": "Mar 2016 – Feb 2017",
+      "current": false
+    },
+    {
+      "title": "Teacher Assistant",
+      "company": "Amuri Area School",
+      "companyUrl": null,
+      "description": null,
+      "location": "Culverden, New Zealand",
+      "start": "2014-01",
+      "end": "2015-02",
+      "dateRange": "Jan 2014 – Feb 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar at the School of Information and Haas School of Business",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science, Medieninformatik",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Ryerson University",
+      "degree": "Summer University, Graphic Communications Management",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Stuttgart Media University",
+      "degree": "Bachelor of Science, Medieninformatik",
+      "dateRange": "2015 – 2018"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Node.js",
+    "Django",
+    "Web Development",
+    "Scrum",
+    "Python",
+    "Adobe Creative Suite",
+    "XML",
+    "Java EE",
+    "Vue.js",
+    "React.js",
+    "Swift",
+    "AngularJS",
+    "Kotlin",
+    "JavaScript",
+    "UI/UX"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Diconium",
+    "tagline": "diconium is a VW Group company, driving digital business transformation across the globe with software, data, and AI.",
+    "description": "Diconium is a digital business transformation partner with a global footprint. We navigate complexity and deliver competitiveness at scale.\n\nWe are 100% Volkswagen Group company, driving digital excellence in automotive, industrial, and beyond.\n\nWith 30 years of experience in updating industries, we ensure digital transformation delivers true impact through software, data, and AI. Our clients include multinationals from various industries, including Volkswagen, Stihl, Bechtle, Trumpf, and Zeiss.\n \nPresent in four of the world's five largest economies across Europe, North America, and Asia, our diverse team of over 2,500 experts brings deep expertise in data & AI, software engineering, integration & testing, cybersecurity, and digital advisory. With our digital business solutions and software-defined products we challenge conventional industry practices and drive technological progress.\n\nWith everything we do, we strive to update industries and society to build smarter and desirable futures.\n\n\nDI - CON - IUM\nDIgital | Our heart beats for all things digital. Software, data, and AI are our playground and expertise.\n\neCONomy | We navigate the complexities of today's business environment, transforming technological opportunities into sustainable growth and competitive advantage.\n\nIUM | The suffix -ium represents powerful elements in chemistry. We are the binding element between technology and business, strategy and execution, your organization and successful digital transformation.\n\n\nREADY TO UPDATE YOUR BUSINESS WITH US? LET'S TALK!",
+    "industry": "Software Development",
+    "website": "http://www.diconium.com",
+    "linkedInUrl": "https://www.linkedin.com/company/diconium",
+    "employeeCount": 2465,
+    "foundedYear": null,
+    "location": "Stuttgart, Germany",
+    "specialities": [
+      "E-Commerce",
+      "Digital Business",
+      "Strategy Advisor",
+      "Journey Partner",
+      "Company Builder",
+      "Building Blocks for Digital Leadership",
+      "diconium strategy",
+      "diconium marketing",
+      "dilectual",
+      "Digital Business Models",
+      "E-Business",
+      "Smart Data",
+      "Process Mining",
+      "User Experience",
+      "Data Science"
+    ]
+  }
+}

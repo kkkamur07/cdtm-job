@@ -1,0 +1,163 @@
+{
+  "id": "laura-moll-43b696172",
+  "name": "Laura Moll",
+  "headline": "Software Engineer",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/laura-moll-43b696172",
+  "personId": 696,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Laura Moll",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company": "Capgemini",
+      "companyUrl": "https://www.linkedin.com/company/capgemini",
+      "description": null,
+      "location": null,
+      "start": "2022-11",
+      "end": "2025-12",
+      "dateRange": "Nov 2022 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Software Engineer (working student)",
+      "company": "Capgemini",
+      "companyUrl": "https://www.linkedin.com/company/capgemini",
+      "description": null,
+      "location": null,
+      "start": "2021-11",
+      "end": "2022-08",
+      "dateRange": "Nov 2021 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Business Analyst (working student)",
+      "company": "Capgemini",
+      "companyUrl": "https://www.linkedin.com/company/capgemini",
+      "description": null,
+      "location": null,
+      "start": "2020-12",
+      "end": "2021-10",
+      "dateRange": "Dec 2020 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Web Developer",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Designed and developed a job portal website for recruiting events. The project\ninvolved usage of PHP, HTML, CSS and Wordpress as well as database design.",
+      "location": "Munich",
+      "start": "2019-07",
+      "end": "2019-12",
+      "dateRange": "Jul 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "FES New York Office",
+      "companyUrl": "https://www.linkedin.com/company/friedrich-ebert-stiftung-new-york-office",
+      "description": null,
+      "location": null,
+      "start": "2018-09",
+      "end": "2018-12",
+      "dateRange": "Sep 2018 – Dec 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Computer Science",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2021"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Political Science and Law",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "Venice International University",
+      "degree": null,
+      "dateRange": "2017"
+    }
+  ],
+  "skills": [
+    "Jenkins",
+    "GitHub",
+    "Angular",
+    "Docker",
+    "Cloud",
+    "Software Design",
+    "Git",
+    "SQL",
+    "VR-Entwicklung",
+    "Datenstrukturen",
+    "Algorithmens",
+    "Python (Programmiersprache)",
+    "JavaScript",
+    "Softwareentwicklung",
+    "Java",
+    "Microsoft Office",
+    "Social Media",
+    "Microsoft Excel",
+    "Web Development"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Capgemini",
+    "tagline": "Make it real.",
+    "description": "Capgemini is an AI-powered global business and technology transformation partner, delivering tangible business value. We imagine the future of organizations and make it real with AI, technology and people. With our strong heritage of nearly 60 years, we are a responsible and diverse group of 420,000 team members in more than 50 countries. We deliver end-to-end services and solutions with our deep industry expertise and strong partner ecosystem, leveraging our capabilities across strategy, technology, design, engineering and business operations. The Group reported 2024 global revenues of €22.1 billion.\n\nMake it real | www.capgemini.com",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://www.capgemini.com",
+    "linkedInUrl": "https://www.linkedin.com/company/capgemini",
+    "employeeCount": 339048,
+    "foundedYear": null,
+    "location": "Paris, France",
+    "specialities": [
+      "Outsourcing",
+      "Process Consulting",
+      "Package Based Solutions",
+      "Custom Solution Development",
+      "Application Management",
+      "Artificial Intelligence",
+      "Business Consulting",
+      "Cloud",
+      "Digital",
+      "Managed Services",
+      "Digital Transformation",
+      "Innovation",
+      "Intelligent Industry",
+      "Sustainable IT",
+      "Generative AI"
+    ]
+  }
+}

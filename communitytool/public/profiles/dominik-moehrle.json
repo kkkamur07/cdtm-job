@@ -1,0 +1,209 @@
+{
+  "id": "dominik-moehrle",
+  "name": "Dominik Moehrle",
+  "headline": "Co-Founder at Dodo",
+  "avatar": {
+    "sm": "/avatars/dominik-moehrle-sm.webp",
+    "lg": "/avatars/dominik-moehrle.webp",
+    "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABQBQCdASogACAAPsFSpEunpSQhsAwA8BgJQBf9sYyltnmEjAV5aooyZTimvxu2y49MUgAA/v0uXxuzlf8hv6ABMSZtwbj8F3tOf1JtAw4PcZSiOZXKYgUzVd5bWSQkeI9qp1X15aXm2UGJNdgrweRcDSNVs4u/4wA7YOWEQ7YCOtEMcBUOLm853swuwgAc61oao5GC5ZvR3i9EJVdceai7DAY+lkdZ/1wKHy9x6OoxolTgAAA="
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/dominik-moehrle",
+  "personId": 1173,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "B.Sc. Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Dominik Möhrle",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Dodo",
+      "companyUrl": "https://www.linkedin.com/company/dodoinc",
+      "description": null,
+      "location": "San Francisco Bay Area",
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Structural Engineer",
+      "company": "WTM Engineers GmbH",
+      "companyUrl": "https://www.linkedin.com/company/wtm-engineers-gmbh",
+      "description": null,
+      "location": "Hamburg, Germany",
+      "start": "2016-07",
+      "end": null,
+      "dateRange": "Jul 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Lead",
+      "company": "Stanford University School of Medicine",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university-school-of-medicine",
+      "description": "Worked on an open-source standard for medical imaging algorithms. Used LLMs and NLP to analyze medical PDFs & built this pipeline for patients.",
+      "location": "Palo Alto, California, United States",
+      "start": "2022-11",
+      "end": "2023-08",
+      "dateRange": "Nov 2022 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "AI Consultant",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2021-12",
+      "dateRange": "Oct 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "10x Founders",
+      "companyUrl": "https://www.linkedin.com/company/10x-founders",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-10",
+      "end": "2021-03",
+      "dateRange": "Oct 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant at the Chair for Applied Software Engineering",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Taught students the concepts of Machine Learning in Swift (CreateML/CoreML).",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-07",
+      "end": "2020-09",
+      "dateRange": "Jul 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "AI Engineer",
+      "company": "Dynam.AI",
+      "companyUrl": "https://www.linkedin.com/company/dynam-ai",
+      "description": "• Payment Flow Optimization\n• AI-enabled smart detection of infrastructure defects",
+      "location": "San Diego, California, United States",
+      "start": "2020-03",
+      "end": "2020-10",
+      "dateRange": "Mar 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Data Scientist",
+      "company": "IABG",
+      "companyUrl": "https://www.linkedin.com/company/iabg",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-03",
+      "end": "2020-08",
+      "dateRange": "Mar 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "CPO",
+      "company": "Beam",
+      "companyUrl": "https://www.linkedin.com/company/beam-ai",
+      "description": "Started Beam - Building the Leading Platform for Agentic Process Automation.",
+      "location": "Berlin, Germany",
+      "start": "2020-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2020 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "AI Researcher",
+      "company": "Analytics Ventures",
+      "companyUrl": "https://www.linkedin.com/company/analytics-ventures",
+      "description": null,
+      "location": "San Diego, California, United States",
+      "start": "2019-12",
+      "end": "2020-02",
+      "dateRange": "Dec 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Web Developer",
+      "company": "Le Wagon",
+      "companyUrl": "https://www.linkedin.com/company/le-wagon",
+      "description": null,
+      "location": "Copenhagen Metropolitan Area",
+      "start": "2017-01",
+      "end": "2017-03",
+      "dateRange": "Jan 2017 – Mar 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Master of Science - MS, Data Science & Education",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Information Systems",
+      "dateRange": "2017 – 2021"
+    },
+    {
+      "school": "UC San Diego",
+      "degree": "Deep Learning, Data Science and Data Analysis & Modeling",
+      "dateRange": "2019"
+    },
+    {
+      "school": "Gelehrtenschule des Johanneums",
+      "degree": "High School Diploma, PHYSICAL SCIENCES",
+      "dateRange": "2008 – 2016"
+    },
+    {
+      "school": "Ardingly College",
+      "degree": "International General Certificate of Secondary Education.",
+      "dateRange": "2013 – 2014"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German",
+    "Latin",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Dodo (YC S24)",
+    "tagline": "AI Receptionists for Healthcare",
+    "description": "Automate your communications, and replace hold music, phone trees, and voicemails with intelligent, 24/7 voice and text agents.\n\nDodo helps clinics answer every call, schedule appointments, manage cancellations, and handle client communication—directly in your practice management system, and without adding to staff workload.",
+    "industry": "Software Development",
+    "website": "https://www.dodo.health",
+    "linkedInUrl": "https://www.linkedin.com/company/dodoinc",
+    "employeeCount": 8,
+    "foundedYear": null,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

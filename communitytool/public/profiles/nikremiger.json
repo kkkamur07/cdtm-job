@@ -1,0 +1,196 @@
+{
+  "id": "nikremiger",
+  "name": "Niklas Remiger",
+  "headline": "CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/nikremiger-sm.webp",
+    "lg": "/avatars/nikremiger.webp",
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAADwBQCdASogACAAPtFcqE4oJSQiKAqpABoJZgCdMoAlvEnhV/WK5Ba7DNbmWdhLjITFBNcA/Vy5gAD++6dmYZW8zr5ijHX2OxOmUqy7DT60pnTEwV/LLN8eONtLiy6MVlC5u3qYlbfC+kotEyhultqMyzvT6Vw+Re5ee7d/PX3ceqwHP1tFn4pp2IBDvpQPk2m918oNR8Ns1fpzE5Hak9Vzah2aGzk9lkeD81FK1KJAPn10aPOgtVSqoxC+0g4HBLpvhXjv6hg7h1P6D9vlY8mpBxiLecLgMB7towpzJdOpewCwrrkOrgAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/nikremiger",
+  "personId": 2130,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Mechatronics, Robotics and Biomechanical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Niklas  Remiger",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Master Thesis Sensors, Automation and Control",
+      "company": "Hades Mining",
+      "companyUrl": "https://www.linkedin.com/company/hades",
+      "description": "Built experimental control system connecting sensors, actuators, data collection and processing for a 60 kW laser-rock drilling lab. Master thesis on novel downhole sensor suite (optical, thermal, acoustic) to monitor and control the drilling process",
+      "location": "München, Bayern, Deutschland",
+      "start": "2025-07",
+      "end": "2026-03",
+      "dateRange": "Jul 2025 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "Electrical Engineer",
+      "company": "VÆRIDION",
+      "companyUrl": "https://www.linkedin.com/company/vaeridion",
+      "description": "Built model-based simulation environment to estimate battery state of electric aircraft for given mission and hardware configurations. Maintained BMS software.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2024-06",
+      "end": "2025-02",
+      "dateRange": "Jun 2024 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Embedded Systems Intern",
+      "company": "Zipline",
+      "companyUrl": "https://www.linkedin.com/company/flyzipline",
+      "description": "Designed and implemented inflight battery state monitoring algorithms in C. Developed battery hardware driver in C++.",
+      "location": "Metropolregion San Francisco Bay Area",
+      "start": "2022-02",
+      "end": "2022-08",
+      "dateRange": "Feb 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Technical Lead",
+      "company": "Canadian Hyperloop Conference",
+      "companyUrl": "https://www.linkedin.com/company/hyperloopglobal",
+      "description": "Led the technical organizing team of a 4 day hyperloop conference with 100+ participants. Acquired and coordinated technical jury.",
+      "location": "Waterloo, Ontario, Canada",
+      "start": "2022-01",
+      "end": "2022-07",
+      "dateRange": "Jan 2022 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Technical Team",
+      "company": "Canadian Hyperloop Conference",
+      "companyUrl": "https://www.linkedin.com/company/hyperloopglobal",
+      "description": null,
+      "location": null,
+      "start": "2021-08",
+      "end": "2021-12",
+      "dateRange": "Aug 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Electrical Team",
+      "company": "mu-zero HYPERLOOP",
+      "companyUrl": "https://www.linkedin.com/company/mu-zero-hyperloop",
+      "description": "Model-based design, implementation and testing of the pods finite state machine",
+      "location": null,
+      "start": "2021-02",
+      "end": "2021-08",
+      "dateRange": "Feb 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Embedded Systems",
+      "company": "SoFlow AG",
+      "companyUrl": "https://www.linkedin.com/company/soflow",
+      "description": "Built prototype for an autonomous personal vehicle, responsible for low-level software, electronics and overall state machine.",
+      "location": null,
+      "start": "2020-10",
+      "end": "2021-09",
+      "dateRange": "Oct 2020 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Produkt SoFlow App",
+      "company": "SoFlow AG",
+      "companyUrl": "https://www.linkedin.com/company/soflow",
+      "description": "Led development of B2C App for SoFlow e-scooters from first idea to 30 000 users. Responsible for feature definition, testing and release management coordinating stakeholders (developers, customer service, hardware engineering) from 4 countries.",
+      "location": null,
+      "start": "2019-08",
+      "end": "2021-08",
+      "dateRange": "Aug 2019 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Werkstudent R&D",
+      "company": "SoFlow AG",
+      "companyUrl": "https://www.linkedin.com/company/soflow",
+      "description": null,
+      "location": null,
+      "start": "2018-10",
+      "end": "2019-07",
+      "dateRange": "Oct 2018 – Jul 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Mechatronik, Robotik Biomechanik",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Class of Fall 2025",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Karlsruhe Institute of Technology (KIT)",
+      "degree": "Bachelor of Science - BS, Mechatronik",
+      "dateRange": "2018 – 2023"
+    },
+    {
+      "school": "University of Victoria",
+      "degree": "Auslandssemester",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Strascheg Center for Entrepreneurship gGmbH",
+      "degree": "Academic Program for Entrepreneurship",
+      "dateRange": "2023 – 2024"
+    }
+  ],
+  "skills": [
+    "Datenanalyse",
+    "Matlab",
+    "Battery Management Systems",
+    "Electrical Engineering",
+    "Projektmanagement",
+    "Product Management",
+    "Embedded-Software-Programmierung",
+    "C (Programming Language)",
+    "Prototyping",
+    "Creativity and Innovation",
+    "Künstliche neuronale Netzwerke",
+    "Deep Learning",
+    "Product Development",
+    "Elektronik",
+    "Python (Programming Language)"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Hades Mining",
+    "tagline": "Sovereignty Begins Subsurface",
+    "description": "We are a modern mining company that thinks technology first. Designed for longevity, our technology is helping shape a future for mining that is sustainable, responsible, and independent.",
+    "industry": "Mining",
+    "website": "https://www.hades.com",
+    "linkedInUrl": "https://www.linkedin.com/company/hades",
+    "employeeCount": 19,
+    "foundedYear": 2025,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

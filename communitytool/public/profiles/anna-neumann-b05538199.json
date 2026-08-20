@@ -1,0 +1,250 @@
+{
+  "id": "anna-neumann-b05538199",
+  "name": "Anna Neumann",
+  "headline": "Researcher @Max-Planck | Env. Engineering x Entrepreneurship | TUM, CDTM, MIT, Berkeley 🌏🌱✨",
+  "avatar": {
+    "sm": "/avatars/anna-neumann-b05538199-sm.webp",
+    "lg": "/avatars/anna-neumann-b05538199.webp",
+    "blur": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAACwBQCdASogACAAPtFWoUuoJKMhsBgMAQAaCWIAxzMsBjIL42oCF4a0UVFqGo+Z/Afqr0HVFQAA/vqszSGyeeOofKdj1UNLWvqv3caGdHzej+zbBENEeHycvCpp0KmxPuVN9vSCr/3kcidwmTI1gfIT5TY9N7zPTdneBiir9C5buvIwRnQCW0XqtcjJqPzhoeLtrk2jQ60oq7PKLoh+gVSPBChPGE8mQKqeW5EtJx/8m6hBtmRJwrojAlIAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/anna-neumann-b05538199",
+  "personId": 918,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Anna Neumann",
+  "ca": null,
+  "summary": "🌱I am an Environmental Engineering x Management student, passionate about driving sustainable change for a green and equitable future.\n\n🌏 As I have learned to view today’s global crises as challenges and our economic system as an enabler to solve them, I want to leverage my education and career to build an economy serving people, planet, and prosperity.\n\n✨Currently looking for opportunities in climate (and policy) research, operational positions in global organizations driving sustainable development, or just connecting about the topic. Hit me up!\n\n-----------\n\nTo give you a debrief of my academic, professional, and extracurricular journey to date:\n\n🧑🏼‍🎓 During my interdisciplinary bachelor’s degree in Management and Technology, I have built knowledge in business, economics, and computer engineering. Further, I worked on sustainability-related projects, s.a., conceptualizing a solar investment product for carbon offsetting and prototyping a gamified carbon footprint application.\n\n👩🏽‍💻 Professionally, I bring industry experience in Circular Economy, Carbon Accounting & Management, Energy and Metals. I gained valuable skills interning at impact-oriented tech startups and top-tier strategy consulting firms with the overarching goal of decarbonizing industries: I co-developed carbon accounting software, strategized on green metal commercialization, and assessed energy management systems (among other things).\n\n👷🏻‍♀️ I strive the most when working on impactful real-world projects around the globe. In the past, I led Team glassic in setting up a circular beverage startup in Thailand to tackle plastic pollution. Moreover, I have volunteered for GainForest in Colombia, a decentralized fund utilizing AI and ML to advance measurement, verification, and reporting (MRV) processes for forest conservation and climate finance.\n\n🏔 In my free time, I love hiking & traveling, building new movement skills in the gym, or going ice bathing.",
+  "positions": [
+    {
+      "title": "Researcher",
+      "company": "Max Planck Institute for Innovation and Competition",
+      "companyUrl": "https://www.linkedin.com/company/max-planck-institute-for-innovation-and-competition",
+      "description": "At the Net Zero Lab, I am conducting research around the Voluntary Carbon Market (VCM) with a focus on Avoided Deforestation projects. My research aims to better understand the success factors of Avoided Deforestation projects in offsetting the amount of carbon claimed by project developers.",
+      "location": "Remote",
+      "start": "2024-07",
+      "end": null,
+      "dateRange": "Jul 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Scholar & Project Manager",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "As part of the Harvard–MIT Global Climate Policy Project (GCPP), our team–together with an expert working group–developed a flagship proposal for a climate coalition to align carbon pricing and border carbon adjustments. The proposal was highlighted as one of Brazil's priority topics for COP30, and informs the Presidency’s Council of Economists.\n\n- I managed the internal research team of 7, coordinating writing, editing, and publication of a 100+ page flagship report launched at Harvard Climate Action Week and New York Climate Week\n- I led research on (i) coalition principles and (ii) technology transfer policies to enable industry decarbonization in low- and middle-income countries.",
+      "location": "Cambridge, Massachusetts, United States",
+      "start": "2025-01",
+      "end": "2025-09",
+      "dateRange": "Jan 2025 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Company Carbon Footprint Project",
+      "company": "Ledgy",
+      "companyUrl": "https://www.linkedin.com/company/ledgy",
+      "description": "I calculated Ledgy’s Company Carbon Footprint (CCF), including Scope 1, 2, and 3.",
+      "location": "Remote",
+      "start": "2024-04",
+      "end": "2024-05",
+      "dateRange": "Apr 2024 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Conservation Tech Volunteer",
+      "company": "GainForest",
+      "companyUrl": "https://www.linkedin.com/company/gainforest",
+      "description": "I volunteered for GainForest, a decentralized fund that uses AI to measure and reward sustainable nature stewardship. I visited local conservation and reforestation projects in Colombia, gathered ground and drone data, and strengthened partnerships - realising how much I thrive working closely with local communities.",
+      "location": "Colombia",
+      "start": "2023-04",
+      "end": "2023-07",
+      "dateRange": "Apr 2023 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Founder's Associate Intern",
+      "company": "Tanso",
+      "companyUrl": "https://www.linkedin.com/company/tansotechnologies",
+      "description": "Building company carbon footprints for industrial companies, including emission scopes 1 to 3\n\nTanso develops a SaaS solution for carbon accounting and management to enable industrial clients to effectively reduce emissions.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2022-12",
+      "end": "2023-03",
+      "dateRange": "Dec 2022 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "Developing a commercial excellence strategy for a sustainable metals producer",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-10",
+      "end": "2022-12",
+      "dateRange": "Oct 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Strategy Consulting Intern",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": "Assessing Energy Management Systems to support our industrial client to reach Net Zero ambitions",
+      "location": "Düsseldorf, North Rhine-Westphalia, Germany",
+      "start": "2022-05",
+      "end": "2022-08",
+      "dateRange": "May 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "People & Operations Intern",
+      "company": "Orbem",
+      "companyUrl": "https://www.linkedin.com/company/orbem-ai",
+      "description": "Setting up recruiting process, recruiting, and supporting funding for impact-driven deep tech startup\n\nOrbem develops AI-powered MRI (Magnetic Resonance Imaging) solutions to sustainably feed the world, transform disease detection, and accelerate the transition to a green economy.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-03",
+      "end": "2021-08",
+      "dateRange": "Mar 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Project Co-Lead",
+      "company": "glassic.",
+      "companyUrl": "https://www.linkedin.com/company/glassicworld",
+      "description": "I co-led team glassic in building up a circular beverage startup in Thailand to tackle plastic pollution directly at its root cause. The business aims to avoid 500.000 single-use plastic bottles and over 90% of associated emissions yearly and to reinvest profits into education, waste management, and scaling.",
+      "location": "Thailand",
+      "start": "2020-05",
+      "end": "2022-10",
+      "dateRange": "May 2020 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Logistics Tutor",
+      "company": "TUM School of Management",
+      "companyUrl": "https://www.linkedin.com/company/tum-school-of-management",
+      "description": null,
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-08",
+      "dateRange": "Apr 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Business Development Intern",
+      "company": "Golfstrom",
+      "companyUrl": "https://www.linkedin.com/company/golfstrom-energy",
+      "description": "Conceptualizing a B2B2C carbon offsetting and investment product to expand solar energy regionally\n\nGolfstrom develops software and services for the decentralized energy transition providing solar installers with a platform to optimize their business and realize more projects.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-03",
+      "end": "2020-06",
+      "dateRange": "Mar 2020 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Management Science Tutor",
+      "company": "TUM School of Management",
+      "companyUrl": "https://www.linkedin.com/company/tum-school-of-management",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-10",
+      "end": "2022-06",
+      "dateRange": "Oct 2019 – Jun 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Student Researcher, Environmental Engineering & Economics",
+      "dateRange": "2025"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student Researcher, Environmental Engineering",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Environmental Engineering",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2023"
+    },
+    {
+      "school": "TUM School of Management",
+      "degree": "Bachelor of Science - BS, Management & Technology",
+      "dateRange": "2018 – 2022"
+    },
+    {
+      "school": "Nova School of Business and Economics",
+      "degree": "Erasmus",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Hochschule für Philosophie München",
+      "degree": "Philosophy",
+      "dateRange": "2019 – 2020"
+    }
+  ],
+  "skills": [
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Nachhaltigkeit",
+    "Ethik"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Max Planck Institute for Innovation and Competition",
+    "tagline": "We are committed to legal and economic research on processes of innovation and competition and their regulation.",
+    "description": "We are committed to fundamental legal and economic research on processes of innovation and competition and their regulation. Our research focuses on the incentives, determinants and implications of innovation. With an outstanding international team of scholars and excellent scientific and administrative infrastructure including our renowned library, we host academics from all over the world and actively promote young researchers. Through dedicated educational efforts, we engage in the training and mentoring of early-career researchers and foster knowledge exchange with national and international institutions. We inform and guide legal and economic discourse on an impartial basis. As an independent research institution, we provide evidence-based research results to academia, policymakers, the private sector as well as the general public.\n\nIn German: Max-Planck-Institut für Innovation und Wettbewerb \n\nFormerly: Max-Planck-Institut für Immaterialgüter- und Wettbewerbsrecht\nFormerly: Max-Planck-Institut für Geistiges Eigentum-, Wettbewerbs- und Steuerrecht\nFormerly: Max-Planck-Institut für ausländisches und internationales Patent-, Urheber- und Wettbewerbsrecht\n\nhttps://www.ip.mpg.de/de/impressum.html",
+    "industry": "Research Services",
+    "website": "https://www.ip.mpg.de/en",
+    "linkedInUrl": "https://www.linkedin.com/company/max-planck-institute-for-innovation-and-competition",
+    "employeeCount": 120,
+    "foundedYear": 1966,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Innovation",
+      "Competition Law",
+      "Intellectual Property Law",
+      "Entrepreneurship",
+      "Innovation Management",
+      "Economics",
+      "Econometrics",
+      "Empirical Methods",
+      "Big Data",
+      "Patent Data",
+      "Patent Law",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Experimental Lab",
+      "Scientific Policy Advice",
+      "Economic Policy",
+      "Copyright Law",
+      "Antitrust Law",
+      "IP",
+      "Digitalization",
+      "Smart Contracts",
+      "Standardization",
+      "Open Innovation"
+    ]
+  }
+}

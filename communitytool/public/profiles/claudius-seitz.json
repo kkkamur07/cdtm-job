@@ -1,0 +1,214 @@
+{
+  "id": "claudius-seitz",
+  "name": "Claudius Seitz",
+  "headline": "MIT | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/claudius-seitz-sm.webp",
+    "lg": "/avatars/claudius-seitz.webp",
+    "blur": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAAAwBgCdASogACAAPslSoUunpKMht/VYAPAZCUAYUN4CPA91Hf1p7NOS344Fv3/zg2jy8YyehMN2ZkAAAP7+lLGj8/u17zyd6fym8z3vnkc9Ys6Vr/J7h0hc+jfyphDgYNl2C9cAyuNYz8KP+85nzUE7me3b5bXo5jbQHHoRo6dzj31DkmdCPf6QUPZ3jSCtvkYTNQKGs6eRLVjqIs7t7/Spgwzk+pVxlLPsCtNzlXIsYmobq20t/z0okPsfrW29lNb7cmnC4UaJLYPvk+kQS+X6JcSqGX1ko33gAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/claudius-seitz",
+  "personId": 868,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Claudius Seitz",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Index Labs",
+      "companyUrl": "https://www.linkedin.com/company/index-labs-de",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-11",
+      "end": null,
+      "dateRange": "Nov 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Tech Investor",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": "2025-10",
+      "dateRange": "Jan 2024 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Tech Investor",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": null,
+      "location": null,
+      "start": "2023-02",
+      "end": "2023-06",
+      "dateRange": "Feb 2023 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Data Product Architect",
+      "company": "ClearOps",
+      "companyUrl": "https://www.linkedin.com/company/clearops",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "AI/ML Automation Engineer",
+      "company": "Zavvy",
+      "companyUrl": "https://www.linkedin.com/company/zavvy-io",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "First Engineer | Tech Lead Mobile App",
+      "company": "VESTIGAS",
+      "companyUrl": "https://www.linkedin.com/company/vestigas",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Cloutfit",
+      "companyUrl": "https://www.linkedin.com/company/cloutfit",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Data Engineering",
+      "company": "Rheinmetall",
+      "companyUrl": "https://www.linkedin.com/company/rheinmetall",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "External Consultant - Corporate Venture Capital",
+      "company": "Oerlikon",
+      "companyUrl": "https://www.linkedin.com/company/oerlikon",
+      "description": "Liechtenstein",
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Senior Consultant",
+      "company": "Academy Consult München e.V.",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2018 – Dec 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Research Scholar (Master of Science), Gen AI and Big Data Analytics",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Management & Technology",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management & Technology",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bacheor of Science, Management & Technology",
+      "dateRange": "2017 – 2021"
+    },
+    {
+      "school": "University of Malaya",
+      "degree": "Bachelor of Science - BS",
+      "dateRange": "2020 – 2021"
+    }
+  ],
+  "skills": [
+    "Data Science",
+    "Data Analysis",
+    "Generative AI",
+    "Artificial Intelligence (AI)",
+    "Predictive Maintenance",
+    "Mergers & Acquisitions (M&A)",
+    "Lean Startup",
+    "Private Equity",
+    "Venture Capital",
+    "Python (Programming Language)",
+    "Spanish",
+    "English",
+    "Industry 4.0",
+    "Predictive Analytics",
+    "Swedish",
+    "Requirements Engineering",
+    "Startup Development",
+    "Start-up Consulting",
+    "Venture Development",
+    "JavaScript"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Index Labs",
+    "tagline": "Index Labs develops proprietary AI technologies.",
+    "description": "Index Labs is a technology company at the forefront of artificial intelligence innovation, with a unique dual focus: developing proprietary AI platforms and infrastructure while delivering transformative custom AI solutions for leading organizations across Europe.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://index-labs.de",
+    "linkedInUrl": "https://www.linkedin.com/company/index-labs-de",
+    "employeeCount": 3,
+    "foundedYear": 2025,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

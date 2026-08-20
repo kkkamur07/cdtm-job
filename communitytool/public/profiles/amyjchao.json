@@ -1,0 +1,226 @@
+{
+  "id": "amyjchao",
+  "name": "Amy Chao",
+  "headline": "DEA @ TUM | CDTM | Harvard | TUM.ai",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/amyjchao",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "Data Engineer & Visiting Researcher building production-grade AI systems across healthcare, geospatial, and enterprise applications.\n\nExperience with FastAPI services, Redis Sentinel, Neo4j graph analytics, LLM pipelines, and ML-driven recommendation systems (Harvard, osapiens, Siemens, KKCompany).\n\nFormer VP & Education Lead @ TUM.ai.\nInterested in backend, data engineering, and applied AI roles.",
+  "positions": [
+    {
+      "title": "Research Intern",
+      "company": "Beth Israel Deaconess Medical Center",
+      "companyUrl": "https://www.linkedin.com/company/beth-israel-deaconess-medical-center",
+      "description": null,
+      "location": null,
+      "start": "2025-12",
+      "end": null,
+      "dateRange": "Dec 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Data Engineer Intern",
+      "company": "osapiens",
+      "companyUrl": "https://www.linkedin.com/company/osapiens",
+      "description": "@osapiens Terra",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-03",
+      "end": "2026-03",
+      "dateRange": "Mar 2025 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "Vice President",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": null,
+      "location": null,
+      "start": "2024-09",
+      "end": "2025-09",
+      "dateRange": "Sep 2024 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Junior AI Academy Associate",
+      "company": "appliedAI Initiative GmbH",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": "• Developing learner journeys for upskilling workers in their AI knowledge\n• Becoming a subject matter expert on the AI job market, AI related job roles & etc",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-11",
+      "end": "2024-10",
+      "dateRange": "Nov 2023 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "• Working Student in Dept. T DAI SMR-DE\n• Finding the critical paths of supply chains using Cypher query, Neo4j, NeoDash\n• Transferring natural language into Cypher query for Neo4j using chat-gpt",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2023-09",
+      "dateRange": "Jan 2023 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Education Team Lead",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": "• Organize a Kaggle competition of 50+ people with KKStream's Dataset\n• Moderator for NVIDIA Watch Party (session ID WP51676a)\n• Propose plans for one of TUM.ai's signature projects - AI Academy\n• Responsible for marketing for AI Academy\n• Created a workshop series with eight events and > 550 participants.\n• Managing a team of 15 students",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-11",
+      "end": "2024-12",
+      "dateRange": "Nov 2022 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Assistant Engineer",
+      "company": "KKStream Limited",
+      "companyUrl": "https://www.linkedin.com/company/blendvision",
+      "description": "• Developed metadata enhancer to improve TV step-top box recommendation\nsystem by using knowledge graph and web crawler",
+      "location": "Nangang District, Taipei City, Taiwan",
+      "start": "2022-07",
+      "end": "2022-09",
+      "dateRange": "Jul 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "ALPHA Camp",
+      "companyUrl": "https://www.linkedin.com/company/alpha-camp",
+      "description": "• Guiding students in solving SQL programming problems\n• Guiding students in thinking SQL problems in a business background\n• Cooperating with the coach and other teaching assistants to ensure students are\nwell-educated",
+      "location": "Online",
+      "start": "2022-03",
+      "end": "2024-03",
+      "dateRange": "Mar 2022 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Management Associate",
+      "company": "KKCompany",
+      "companyUrl": "https://www.linkedin.com/company/kkcompany",
+      "description": "• Developed TV step-top box recommendation system and cross-platform recommendation system\n• Crawled outside sources to enhance internal metadata for RecSys\n• Cooperated with externals, e.g., National Academia Sinica, National University\n• Found the video ranking relationship from step-top box user data in Japan\n• Found useful patterns in the TV Set-top box user data\n• Gave presentation of patterns of user data",
+      "location": "Nangang District, Taipei City, Taiwan",
+      "start": "2021-07",
+      "end": "2022-06",
+      "dateRange": "Jul 2021 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "DSC Lead",
+      "company": "Google Developers",
+      "companyUrl": "https://www.linkedin.com/company/googledevelopers",
+      "description": "• Organize and arrange all the club-related events\n• Supervise the progress of DSC Core Members\n• Invite speakers on behalf of the club\n• Propose open-source technology related teaching plans\n• Represent the community as a DSC Lead\n• Maintain friendly relationships with the other schools' DSC\n• Promote open source and AI technology",
+      "location": "Taoyuan City, Taiwan",
+      "start": "2020-08",
+      "end": "2021-07",
+      "dateRange": "Aug 2020 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Summer Intern",
+      "company": "正月科技",
+      "companyUrl": null,
+      "description": "• Supporting the software development team in developing a CMS\n• Adding PDF to text and social media integrated features to the CMS using C#\n• Responsible for intern management incl. preparing performance reports\n• Responsible for own project: Website of a Religious Unit",
+      "location": "Banqiao District, Taiwan",
+      "start": "2020-07",
+      "end": "2020-08",
+      "dateRange": "Jul 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Programming Teacher",
+      "company": "Apple Buds, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/apple-bud-inc",
+      "description": "• Teaching 1st – 3rd grade classes in Ozbot programming\n• Guiding 4th grade + classes in solving Scratch, Python programming problems\n• Guiding 7th – 12th grade classes in solving JavaScript, HTML, Database, Algorithm problems",
+      "location": "Linkou District, New Taipei City, Taiwan",
+      "start": "2020-04",
+      "end": "2021-08",
+      "dateRange": "Apr 2020 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Chang Gung University",
+      "companyUrl": "https://www.linkedin.com/company/chang-gung-university",
+      "description": "• Has been one of the teacher assistants in Mr.Liao's computer programing class in the IM department\n• Reviewing and grading tests, exams and assignments of 40 students\n• Cooperating with professor and other teaching assistants to ensure students are well-\neducated\n• Guiding students in completing Java programming projects",
+      "location": null,
+      "start": "2018-09",
+      "end": "2021-06",
+      "dateRange": "Sep 2018 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Chang Gung University",
+      "companyUrl": "https://www.linkedin.com/company/chang-gung-university",
+      "description": null,
+      "location": "Taoyuan City, Taoyuan City, Taiwan",
+      "start": "2018-09",
+      "end": "2021-06",
+      "dateRange": "Sep 2018 – Jun 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard University",
+      "degree": "Visting Fellow",
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Data Engineering and Analytics",
+      "dateRange": "2022 – 2026"
+    },
+    {
+      "school": "Chang Gung University",
+      "degree": "Bachelor's degree, Computer Science and Information Engineering",
+      "dateRange": "2018 – 2022"
+    },
+    {
+      "school": "Chang Gung University",
+      "degree": "Bachelor's degree, Information Management",
+      "dateRange": "2017 – 2021"
+    }
+  ],
+  "skills": [
+    "Computer Science",
+    "Python (Programming Language)",
+    "Object-Oriented Programming (OOP)",
+    "Java",
+    "C++",
+    "Tutoring",
+    "Teaching English as a Foreign Language"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Beth Israel Deaconess Medical Center",
+    "tagline": null,
+    "description": "Beth Israel Deaconess Medical Center (BIDMC) is part of Beth Israel Lahey Health, a new health care system that brings together academic medical centers and teaching hospitals, community and specialty hospitals, more than 4,000 physicians and 35,000 employees in a shared mission to expand access to great care and advance the science and practice of medicine through groundbreaking research and education.\n\nBIDMC is a world-class teaching hospital of Harvard Medical School and is located in the heart of Boston.\n\nWe are passionate about caring for our patients like they are family, finding new cures, using the finest and the latest technologies, and teaching and inspiring caregivers of tomorrow. We put people at the center of everything we do, because we believe in medicine that puts people first.\n\nInterested in a career at BIDMC? Check out www.jobs.bidmc.org.",
+    "industry": "Hospitals and Health Care",
+    "website": "http://www.bidmc.org",
+    "linkedInUrl": "https://www.linkedin.com/company/beth-israel-deaconess-medical-center",
+    "employeeCount": 12028,
+    "foundedYear": null,
+    "location": "Boston, United States",
+    "specialities": []
+  }
+}

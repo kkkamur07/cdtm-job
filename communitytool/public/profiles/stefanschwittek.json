@@ -1,0 +1,240 @@
+{
+  "id": "stefanschwittek",
+  "name": "Stefan Schwittek",
+  "headline": "GTM Strategy & Monetization - Freelance Consultant",
+  "avatar": {
+    "sm": "/avatars/stefanschwittek-sm.webp",
+    "lg": "/avatars/stefanschwittek.webp",
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAADQBQCdASogACAAPsVQo0unpKMhsAwA8BiJYwDI1YxvLbuYBprwDEo+Li2impguIbB9J338EXwAAP79vfIRn4eXy99aDYbfUJb5Sxew7W8RiJ+FI/HIn6yLzzTJmqdP5J2TUS0cBwJ1WpdhFXNd7gx+O090csMVJkRzO4qXsL/9KnXXERpQ53yS9OOZOpR/UsmeU5euZeMQ2AVIrxbnI1VMRdYoCkc7xMdTJ1DFTcXIbgGfQlPpI6Z7EbKHaDnYXVghrAMB4nb/8NRzndsU/miLlSwLnWOe9UrPX4AA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/stefanschwittek",
+  "personId": 1263,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Stefan Schwittek",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Freelance Consultant - GTM Strategy & Monetization for B2B Tech Companies",
+      "company": null,
+      "companyUrl": null,
+      "description": "Working with Software and Tech Companies on their Go-To-Market and Monetization Challenges. Work ranges from Strategy to Implementation.",
+      "location": null,
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Business Lead - Product & Technology",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": "Chief of Staff to the Chief Product & Technology Officer, supporting her and her team of direct reports in regards to planning, reporting & strategic projects. Worked on projects at the intersection of Product and Go-To-Market (Demo Account Revamp, Pricing & Packaging, RoI Calculation, Cross-Sell Motion) and realized, I want to jump back into a GTM role",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-03",
+      "end": "2024-09",
+      "dateRange": "Mar 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Sales Lead ESG Management",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": "Building a scalable sales setup for Alasco's ESG Management solution after founder-sales stage. Onboarded and led 3 Account Executives into structured sales process, designed key collaterals and qualification questions, co-defined ICP and target accounts in Real Estate Asset Management market. Assisted with pricing and negotiation on key deals. Role includes functional and disciplinary leadership for 3 full-time Account Executives",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-08",
+      "end": "2024-02",
+      "dateRange": "Aug 2023 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Chief of Staff",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": "Worked on strategic projects with a Focus on GTM and helped elevating our management team. Key projects include:\n\nDevelopment and implementation of new Pricing & Packaging for both SaaS products. Designed a differentiated product packaging and implemented a new usage-based value metric. Project responsibility ranged from analysis, design, testing to implementation. Conducted interviews and data analysis, designed new P&P approach, enabled GTM and Product teams, co-developed metering and billing system in a cross-functional project setup. Implementation led to ~10% increase in ARPA, ~20% reduction in cycle time and improvement in Proposal to Closed Won Conversion Rate.\n\nRe-design of Sales process based on Winning-by-Design's SPICED methodology touching SDR, AE and CSM work. Changed Sales Funnel Structure, Product Positioning, Qualification Questions and Sales Collateral accompanied by 4-week enablement program with interactive sessions and workshops for GTM teams. Improved qualification quality significantly and Stabilized conversion rates and cycle times despite shrinking customer market",
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-01",
+      "end": "2024-02",
+      "dateRange": "Jan 2022 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": "Generalist Consulting Role.  \n\nFunctional Expertise: Corporate M&A, Cost Transformation, Strategy Development, Customer Experience\nSector Expertise: Automotive, Agricultural Technology, Energy Markets",
+      "location": null,
+      "start": "2020-12",
+      "end": "2021-12",
+      "dateRange": "Dec 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Operations & Finance",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Investment Professional",
+      "company": "General Atlantic",
+      "companyUrl": "https://www.linkedin.com/company/general-atlantic",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2019-10",
+      "end": "2019-12",
+      "dateRange": "Oct 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "E.ON Digital Technology",
+      "companyUrl": "https://www.linkedin.com/company/e.on-digital-technology",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-04",
+      "end": "2019-08",
+      "dateRange": "Apr 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": null,
+      "start": "2018-04",
+      "end": "2018-08",
+      "dateRange": "Apr 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant Intern",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": "Contributed to Customer Experience Transformation and Digitization of a large TelCo provider in Germany.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2018-01",
+      "end": "2018-03",
+      "dateRange": "Jan 2018 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Analyst Transaction Banking Strategy",
+      "company": "DZ BANK AG",
+      "companyUrl": "https://www.linkedin.com/company/dzbank",
+      "description": "Junior Position in the Payment Division's Strategy and Business Development Department. Involved in a long-term project to restructure a holding in the e-payment sector. Within this project I have owned the financial model and actively shaped transaction, cost cutting and process optimization. Also contributed to the Strategic Planning Process and evaluation of digitization and sourcing options",
+      "location": "Frankfurt am Main und Umgebung, Deutschland",
+      "start": "2017-03",
+      "end": "2017-10",
+      "dateRange": "Mar 2017 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Business Development Intern",
+      "company": "Bosch Singapore",
+      "companyUrl": "https://www.linkedin.com/company/bosch-asean",
+      "description": "Business Development in the Thermotechnology Segment of the ASEAN Region",
+      "location": null,
+      "start": "2016-01",
+      "end": "2016-03",
+      "dateRange": "Jan 2016 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Frankfurt School Student Consulting GmbH",
+      "companyUrl": "https://www.linkedin.com/company/fs-sc",
+      "description": "Co Founder of Frankfurt School's first Student Consultancy and Head of Finance/Legal/HR",
+      "location": "Frankfurt am Main und Umgebung, Deutschland",
+      "start": "2014-04",
+      "end": "2017-02",
+      "dateRange": "Apr 2014 – Feb 2017",
+      "current": false
+    },
+    {
+      "title": "Student Trainee - Corporate Strategy and Capital Markets",
+      "company": "DZ BANK AG",
+      "companyUrl": "https://www.linkedin.com/company/dzbank",
+      "description": "Vocational training and part-time employment parallel to full-time study program. Rotation through various departments with the majority of time spent in the Corporate Strategy division. \n\nCorporate Strategy (involved in merger with WGZ BANK)\nEquity Capital Markets\nEquity Research\nCorporate Credit: Asset Securitization \nInhouse Tax Advisory",
+      "location": "Frankfurt am Main",
+      "start": "2013-08",
+      "end": "2017-02",
+      "dateRange": "Aug 2013 – Feb 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Master's degree, Technology Management",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management and Technology",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Frankfurt School of Finance & Management",
+      "degree": "Bachelor of Science - BS, Business Administration, Bachelor of Science",
+      "dateRange": "2013 – 2017"
+    },
+    {
+      "school": "HEC Montréal",
+      "degree": "Exchange Semester",
+      "dateRange": "2015"
+    }
+  ],
+  "skills": [
+    "Startups",
+    "Analytical Skills",
+    "Stakeholder Management",
+    "Corporate Finance",
+    "Valuation",
+    "Presentations",
+    "Project Management",
+    "Entrepreneurship",
+    "Strategic Planning",
+    "Spreadsheets",
+    "Management Reporting",
+    "Risk Management",
+    "Market Research",
+    "Financial Institutions",
+    "Corporate Strategy",
+    "Financial Analysis",
+    "Public Speaking",
+    "Discussing and negotiating",
+    "Business Strategy",
+    "Bankwesen"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": null
+}

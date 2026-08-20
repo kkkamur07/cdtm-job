@@ -1,0 +1,137 @@
+{
+  "id": "maxhasler",
+  "name": "Max Hasler",
+  "headline": "Co-Founder KONUX | Operator | Angel Investor",
+  "avatar": {
+    "sm": "/avatars/maxhasler-sm.webp",
+    "lg": "/avatars/maxhasler.webp",
+    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAABwBgCdASogACAAPsFMoEunpCMht/qoAPAYCWwAnTKDJ0GMAS5dyThsO2oRkrHVE+A1dC/YG0vN0xlB0RAA/vDRdaYIcf68vBfmZhm+3ZiWTKyuKz+gge8DiUsQgyI8RpzHMHfwrgpd9C/aqkLU/Eax5Lhp2iRPTlbqyFOxYr70QFwcyTMonR3FmanrAfuOBeHLoc4/JOtpH0j1BMJiXumo9pb9IoFr5WTAcsoiFS257TkMnDmr+HSH74M6vcqvUj0vx9lDU8F3Cu2bVQRJLR37DYWype+LUwYpSyF98q28NLcM0FD9HwINKDwR6zQAAAA="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/maxhasler",
+  "personId": 714,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Maximilian Hasler",
+  "ca": null,
+  "summary": "👋 I'm Max, Co-Founder of KONUX and Angel Investor.\n\n🚅 At KONUX, we're revolutionizing the railway industry for a sustainable future through AI and IoT. Driven by innovation, we established KONUX to enhance operations and enable smart, data-driven decisions. As COO, I led key areas including finance, legal, HR, and operations, all focused on ensuring growth for 10 years.\n\n🇺🇦 I also contribute to humanitarian efforts by supporting Ukraine’s fight for sovereignty. Through Help99, we provide specialized vehicles, drones, and equipment to strengthen logistics and front-line operations. This work is about making a tangible difference where it’s needed most.\n\n🌐 Beyond KONUX, I am passionate about strengthening the startup ecosystem in Germany and across Europe. We need to take a more active role in shaping a positive technological future. I am also a long-time practitioner and competitor in Brazilian Jiu-Jitsu.",
+  "positions": [
+    {
+      "title": "Convoy Driver",
+      "company": "HELP99",
+      "companyUrl": "https://www.linkedin.com/company/help99",
+      "description": "We support Ukraine by providing specialized military pick-up trucks, drones, and defensive equipment to the Armed Forces of Ukraine.\n\nFrom evacuating the wounded to enabling operations along the zero line, our work helps the AFU defend and protect.\n\nLearn more about our work: www.help99.co",
+      "location": null,
+      "start": "2024-06",
+      "end": null,
+      "dateRange": "Jun 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & Former COO/CFO",
+      "company": "KONUX",
+      "companyUrl": "https://www.linkedin.com/company/konux",
+      "description": "Co-founded KONUX, growing it into a global AI leader for rail infrastructure, securing over $150M in funding and expanding operations globally.",
+      "location": null,
+      "start": "2014-09",
+      "end": null,
+      "dateRange": "Sep 2014 – Present",
+      "current": true
+    },
+    {
+      "title": "Partner for Founder Performance",
+      "company": "Yope",
+      "companyUrl": "https://www.linkedin.com/company/the-yope-foundation",
+      "description": "Supporting the next generation of conscious innovators with a program to optimize founder state, maximize venture success, and cultivate purposeful leadership.",
+      "location": null,
+      "start": "2024-10",
+      "end": "2025-10",
+      "dateRange": "Oct 2024 – Oct 2025",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree (dropout), Technology Management",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.) (dropout), Information Systems",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Information Systems",
+      "dateRange": "2010 – 2014"
+    }
+  ],
+  "skills": [
+    "Management",
+    "SQL",
+    "Java",
+    "Leadership",
+    "Microsoft Office",
+    "Business Development",
+    "CRM",
+    "Start-ups",
+    "Entrepreneurship",
+    "Project Management",
+    "Strategic Planning",
+    "Business Strategy",
+    "Corporate Finance",
+    "ERP",
+    "Information Technology",
+    "Business Analysis",
+    "Information Systems",
+    "Entrepreneurial Finance"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "KONUX",
+    "tagline": "Transform Railway Operations for a Sustainable Future | We are hiring!\nWEF Technology Pioneer #Sustainability #AI #IoT",
+    "description": "KONUX is a leading German AI scale-up, transforming railway operations for a sustainable future. We combine Machine Learning and industrial IoT to make railway the mobility choice of tomorrow by increasing capacity, reliability, and cost-efficiency. \n\nSince its founding in 2014, KONUX has expanded to numerous countries in Europe and Asia, and was selected by the World Economic Forum (WEF) as one of the world’s 30 most innovative start-ups and scale-ups worldwide.\n\nDo you want to join our team and help us take IoT where it really makes a difference? Do you love to take ownership and go the extra mile to ensure our customers’ success? Are you ready to work in an environment that believes in open feedback, constant growth, and a strong team culture? KONUX might be the place for you! Check out konux.com/career or contact us at career@konux.com.",
+    "industry": "Technology, Information and Internet",
+    "website": "http://www.konux.com",
+    "linkedInUrl": "https://www.linkedin.com/company/konux",
+    "employeeCount": 117,
+    "foundedYear": 2014,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Sensor Technology",
+      "Engineering",
+      "Artificial Intelligence",
+      "Data Analytics",
+      "Machine Learning",
+      "Predictive Maintenance",
+      "Railway",
+      "Industrial Internet of Things",
+      "Mobility",
+      "Rail",
+      "Rail Maintenance",
+      "Data"
+    ]
+  }
+}

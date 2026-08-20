@@ -1,0 +1,128 @@
+{
+  "id": "ramboldio",
+  "name": "Lukas Rambold",
+  "headline": "PhD Student @ Hasso-Plattner-Intitute | CDTM | LMU",
+  "avatar": {
+    "sm": "/avatars/ramboldio-sm.webp",
+    "lg": "/avatars/ramboldio.webp",
+    "blur": "data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAABwBgCdASogACAAPtFapU0oJSOiKA1RABoJaAC7MzQ7OGZjlyRegghK52TXpZQhabAnfSUAYQPhT5XI0LgA/s1NGT7PhDscbylJo4reOiobhfyxqGkjbMR1f+fwp78GNMRJb2IUgzD3H3Nk6G0zn9EyLbFLqcB1YMp3eCmBWmdIfO+xmnFo2WBVuJIUguilbOvxMfd1jeaX6vQbEh6MRtJ5AEcS/5FgxxfT+5yqHE2taJYCqxmRZDCxs+o6Hk4Qq37img/5IZj7M3jpwq93QBEeYBnkjPcNJ2x0eaweuXgF8fjKTWT5P3TJbvfJC3ACGjpSzhtXii1fsUcsroplSRYXEy1FkF/1t8+qBhaZAAAAAA=="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/ramboldio",
+  "personId": 828,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lukas Rambold",
+  "ca": null,
+  "summary": "Work at Hasso Plattner Institute",
+  "positions": [
+    {
+      "title": "Research Fellow, PhD Candidate",
+      "company": "Hasso Plattner Institute",
+      "companyUrl": "https://www.linkedin.com/company/hasso-plattner-institute",
+      "description": "AirTied: Automatic Personal Fabrication of Truss Structures",
+      "location": null,
+      "start": "2022-09",
+      "end": null,
+      "dateRange": "Sep 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Polyteia",
+      "companyUrl": "https://www.linkedin.com/company/polyteia",
+      "description": "Digitale Verwaltung: Dieses Start-up macht Beamte zu Datenfreaks",
+      "location": "Berlin Metropolitan Area",
+      "start": "2017-06",
+      "end": "2019-09",
+      "dateRange": "Jun 2017 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Venture Developer",
+      "company": "Finparx",
+      "companyUrl": "https://www.linkedin.com/company/finparxgmbh",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-09",
+      "end": "2017-06",
+      "dateRange": "Sep 2016 – Jun 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Hasso Plattner Institute",
+      "degree": "Master of Science - MS, IT Systems Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.S.), Media Informatics (Computer Science + Human-Computer Interaction)",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Python",
+    "Web-Entwicklung",
+    "Docker",
+    "Linux",
+    "Interaction Design",
+    "Java",
+    "Rapid Prototyping",
+    "Podcasting",
+    "JavaScript",
+    "Softwareentwicklung",
+    "Data Viz",
+    "Amazon Web Services (AWS)",
+    "Microsoft Office"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Hasso Plattner Institute",
+    "tagline": "Design IT. Create Knowledge",
+    "description": "The Hasso Plattner Institute (HPI) in Potsdam is Germany's university center of excellence for digital engineering, advancing research and education in IT systems engineering, data engineering, cyber security, entrepreneurship, and digital health. With its bachelor‘s and master’s degree programs, the Faculty of Digital Engineering, established jointly by HPI and the University of Potsdam, offers innovative engineering- and application-oriented study programs. At present, more than 700 students are enrolled in the program. HPI consistently earns a top-notch place in the CHE University Ranking.  The HPI School of Design Thinking is Europe’s first innovation school for university students. It is based on the Stanford model of the d.school and offers 300 places annually for a supplementary study. At HPI there are currently twenty-two professors and over 50 guest professors and lecturers. HPI conducts research noted for its high standard of excellence in its IT topic areas. PhD candidates carry out research at the HPI Research Schools in Potsdam and its branches in Cape Town and Irvine. The focus of HPI’s teaching and research is on the foundations and applications of large, highly complex and networked IT systems. In addition, HPI concentrates on the development and research of user-oriented innovations for all areas of life.",
+    "industry": "Higher Education",
+    "website": "https://hpi.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/hasso-plattner-institute",
+    "employeeCount": 718,
+    "foundedYear": 1998,
+    "location": "Potsdam, Germany",
+    "specialities": [
+      "Software Engineering",
+      "Research",
+      "Information Technology",
+      "Innovation",
+      "Design Thinking",
+      "Digital Health",
+      "Data Engineering",
+      "IT Engineering",
+      "Informatik"
+    ]
+  }
+}

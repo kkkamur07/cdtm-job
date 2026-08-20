@@ -1,0 +1,194 @@
+{
+  "id": "areebkamran",
+  "name": "Areeb Kamran",
+  "headline": "Data Management & Strategy Consultant | SAP | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/areebkamran-sm.webp",
+    "lg": "/avatars/areebkamran.webp",
+    "blur": "data:image/webp;base64,UklGRjQBAABXRUJQVlA4ICgBAAAwBwCdASogACAAPtFUokuoJKMhsAgBABoJagCdOUFVr5AKlCPge+3Q9zpj8F0nK8gQ78HMGSVZrdxRhiGdeZ+3bCAA/tD4KfHrfLgRdpv9MnxzHrlLjeuVmARFI8FlCfxjjXe1p56yz91y2lcaBL993u1P2L++gxzJNpk5fz0YuXD+rZBxgnYMOWDbaBfdJpUN8WuCMxWGQP3U6BuGt8YrgSW0VCsw7OW1dJv0oFVyaYpwmjGPb8Fj7Ix2/l9BldlN3jYxYqmRKes+15hsAQPhTVkHogBqNIO9/7wdpb6kuJQZ71R9greu5JvAFj5/ThMLY8dCV1cXmTQp+N6HZ5LVN9gsa6Kruh16SI98lJ/z3NiIKRFV3nMEz5yxBVaqmgD9Nel5BSoAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/areebkamran",
+  "personId": 1029,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Areeb Kamran",
+  "ca": null,
+  "summary": "With over 12 years of experience in the consulting and audit industry, I am SAP professional with a focus on data management, migration and data science & analytics who is also passionate about sustainability and digital transformation. I have worked with clients from fashion & textile, chemicals, pharmaceuticals, telecom, and software industries, delivering high-quality solutions and insights.\n\nIn data management roles, I have applied my skills in data analytics, machine learning, and IT audit to manage migrations to SAP S/4 HANA, support technical integration of ERP and non ERP data sources, setting up data governance structures and the digitization of sustainability and non-financial reporting data. I have also lead agile product development of data-centric managed-services and internal tools. \n\nI am always eager to dive into new technologies and methodologies, and to collaborate with globally diverse and talented teams. My goal is to leverage my expertise in SAP and data science to enable digitalization leading to positive impact and value for the business, society and the environment.",
+  "positions": [
+    {
+      "title": "Manager - Data Management",
+      "company": "PwC Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/pwc-deutschland",
+      "description": "- Data Strategy & SaaS Solutions\n- Data Migration \n- Data Governance & Management \n- AI Based Data Product Development\n- Green & Brownfield S/4 HANA Transformations, scoping, delivery and support as cross-functional Team Lead and Technical Expert for Data Topics",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-08",
+      "end": "2026-03",
+      "dateRange": "Aug 2022 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "Data Scientist SAP & ESG",
+      "company": "KPMG Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/kpmg-deutschland",
+      "description": "- Technical (IT) audits for SOX compliance and ESG reporting\n- Controlling and Governance audits for SAP based systems\n- Consulting for Purchase to Pay processes and the SAP Ariba\n- Migration to SAP S/4 HANA, BRIM and landscape consolidation\n- Product development for internal tooling\n- Supporting the sustainability audit team at KPMG for client proposals, technical integration of non-financial data, digitization consulting and attestation of sustainability and non-financial reporting (NFRD, GRI, TCFD, etc)",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-02",
+      "end": "2022-07",
+      "dateRange": "Feb 2018 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Data Analyst SAP & CDR  - Revenue Assurance",
+      "company": "Vodafone",
+      "companyUrl": "https://www.linkedin.com/company/vodafone",
+      "description": "Revenue Assurance and Fraud Detection from CDR Data",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-11",
+      "end": "2015-10",
+      "dateRange": "Nov 2014 – Oct 2015",
+      "current": false
+    },
+    {
+      "title": "SAP MM Consultant",
+      "company": "ICI Pakistan",
+      "companyUrl": "https://www.linkedin.com/company/ici-pakistan",
+      "description": "SAP MM Lead for Purchase to Pay Cycles and Inventory Management for all 5 business of Akzonobel (ICI) in Pakistan Including ICI Polyester, ICI Soda Ash works, ICI Chemicals, ICI Life Sciences, and ICI Paints.\nAlso responsible for SAP Custom Developments (ABAP) and third party Applications' Integration with SAP ERP.",
+      "location": "Lahore, Pakistan",
+      "start": "2012-08",
+      "end": "2014-08",
+      "dateRange": "Aug 2012 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "SAP ABAP Developer",
+      "company": "AkzoNobel",
+      "companyUrl": "https://www.linkedin.com/company/akzonobel",
+      "description": "ABAP development including Dialog Programming, ALV, BAPIs, RFCs, and ABAP Objects. 1 Complete Implementation in Project and 2 years of Support Experience. Experience in SAP script, Smart forms, ALV reporting.",
+      "location": "Lahore, Pakistan",
+      "start": "2010-08",
+      "end": "2012-12",
+      "dateRange": "Aug 2010 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Data Analytics & JAVA Developer",
+      "company": "ABM SATUMA",
+      "companyUrl": "https://www.linkedin.com/company/abmsatuma",
+      "description": "Development of Single Wing UAV's control and interfacing software and Flight Data Analytics",
+      "location": "Pakistan, Islamabad",
+      "start": "2010-06",
+      "end": "2010-08",
+      "dateRange": "Jun 2010 – Aug 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Informatics (MSc), Data Science & Machine Learning",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors in Digital Management, Digital Entrepreneurship & Consulting",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology",
+      "degree": "BSc Computer Systems, Computer Systems",
+      "dateRange": "2006 – 2010"
+    },
+    {
+      "school": "Beaconhouse",
+      "degree": "A Levels, Pre-Engineering And Accounting",
+      "dateRange": "2004 – 2006"
+    },
+    {
+      "school": "Army Public School - (APSACS)",
+      "degree": "O Levels",
+      "dateRange": "2002 – 2004"
+    }
+  ],
+  "skills": [
+    "ESG Consulting",
+    "ESG Data",
+    "Data Validation",
+    "Data Governance",
+    "IT & Data Audit",
+    "Data Migration",
+    "Data Strategy",
+    "SAP S/4 HANA",
+    "Digital Transformation",
+    "Master Data Governance",
+    "Product Development",
+    "AI & Machine Learning",
+    "IT Audit",
+    "Data Management",
+    "Sustainability Consulting",
+    "Sustainability Reporting",
+    "IT Governance",
+    "Machine Learning",
+    "ABAP",
+    "SAP ERP",
+    "Materials Management",
+    "Smartforms",
+    "Supply Chain Management",
+    "Java",
+    "SAP Implementation",
+    "Project Management",
+    "BAPI",
+    "Management",
+    "Project Planning",
+    "Team Leadership",
+    "SQL",
+    "SAP Products",
+    "Microsoft Office",
+    "Integration",
+    "Business Analysis",
+    "SAP Materials Management (SAP MM)",
+    "Project Implementation",
+    "Microsoft Excel",
+    "Consulting"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Urdu"
+  ],
+  "company": {
+    "name": "PwC Deutschland",
+    "tagline": "We unite expertise and tech so you can outthink, outpace and outperform.",
+    "description": "PwC is the leading auditing and consulting company in Germany. As an independent member of the international PwC network, it offers its services worldwide.\n\nPwC audits and advises leading industrial and service companies of all sizes. In Germany, over 15,000 employees generate revenues of more than three billion euros in the divisions of audit and audit-related services (assurance solutions), tax and legal advice (tax & legal solutions), transformation, risk & regulatory, sustainability, cloud & digital, and deals. The experts in the different service lines work together across all divisions and from different offices in Germany, making it possible to meet with them individually at 20 locations nationwide.\n\nAlso part of PwC is Strategy& – a global team of practice-oriented strategists. You can find more information about our team of strategy advisors here: https://www.strategyand.pwc.com/\n\nThanks to its worldwide network, PwC is able to provide its clients with professional services around the world and to offer cross-border support. As an independent member of this network, PwC Germany has access to more than 365,000 employees in 136 countries.\n\nYou can find current vacancies at PwC Germany and information on PwC’s different divisions on our career page:  www.karriere.pwc.de\n\nIf you have any questions about vacancies at the German firm or the application process, a member of our staff will be happy to help. Simply give us a call at +49 69 9585 - 5226 or send us an e-mail to: de_karriere@pwc.com\n\nFor more insights into the world of PwC Germany, you can follow us on the following channels: \nXing PwC Germany: www.xing.com/company/pwcdeutschland\nX PwC Germany: @pwc_de  \nInstagram PwC Germany: www.instagram.com/pwc_de \nYouTube PwC Germany: www.youtube.com/user/pwcde \nYouTube PwC Career: www.youtube.com/user/pwccareerde \n\nImprint: https://www.pwc.de/impressum",
+    "industry": "Business Consulting and Services",
+    "website": "https://www.pwc.de",
+    "linkedInUrl": "https://www.linkedin.com/company/pwc-deutschland",
+    "employeeCount": 11573,
+    "foundedYear": null,
+    "location": "Frankfurt am Main, Germany",
+    "specialities": [
+      "Assurance",
+      "Tax",
+      "Advisory",
+      "Strategy",
+      "Legal"
+    ]
+  }
+}

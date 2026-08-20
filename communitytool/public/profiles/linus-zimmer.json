@@ -1,0 +1,291 @@
+{
+  "id": "linus-zimmer",
+  "name": "Linus Zimmer",
+  "headline": "StaDS@LMU | AI@Oxera | CDTM | Cambridge",
+  "avatar": {
+    "sm": "/avatars/linus-zimmer-sm.webp",
+    "lg": "/avatars/linus-zimmer.webp",
+    "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAACQBQCdASogACAAPtFapE0oJSOiKA1RABoJQBkTMYZkUKcUG7bnFPYKNDul4XqLo5r3TdfMAAD+7WHhIyPcnEq8hNtqtXGC/wdc/Rpsngczs2r89bpOmVUMH3oAjW7fHZTJkGX++/eUejZRUYUgWeCSGvqwed9tvfl+BhstpQCrS2By0mQf56+v7VyJPVVaPRKnJVBux4KG+xhyG6MR+Tp4sDFlg8gA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/linus-zimmer",
+  "personId": 2016,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Linus Zimmer",
+  "ca": null,
+  "summary": "Interested in renewable energy, startups, insurance",
+  "positions": [
+    {
+      "title": "Consulting Project | Computer Vision for Damage Classification",
+      "company": "Soltrac - Space Solar Solutions",
+      "companyUrl": "https://www.linkedin.com/company/soltrac",
+      "description": "- Implementing ResNet-based CNNs, Convolutionsl Autoencoders on patches and full images of solar cells for damage classification",
+      "location": "Remote",
+      "start": "2025-11",
+      "end": null,
+      "dateRange": "Nov 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Powering the Future: Strategies to make BEVs more sustainable",
+      "company": "cylib",
+      "companyUrl": "https://www.linkedin.com/company/cylib",
+      "description": "Result of the collaborative research effort between Cylib and BCG",
+      "location": "Working Student | BusDev & IT, Battery Recycling",
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Intern | Data Science & AI in Economic Consulting",
+      "company": "Oxera Consulting LLP",
+      "companyUrl": "https://www.linkedin.com/company/oxera",
+      "description": "- Building an orchestrated agent swarm in MS Agent Framework (Tooling, OpenTelemetry) for automatic damage quantification\n- Data engineering for MS Azure (AI Search, AI Foundry, Document Intelligence) in Python\n- Data science and econometrics for complex CAPEX/OPEX modelling of 711 players in the German gas industry",
+      "location": "Berlin, Germany",
+      "start": "2026-01",
+      "end": "2026-04",
+      "dateRange": "Jan 2026 – Apr 2026",
+      "current": false
+    },
+    {
+      "title": "Work Study",
+      "company": "cylib",
+      "companyUrl": "https://www.linkedin.com/company/cylib",
+      "description": "- Building an extensive web scraper in Python (BeautifulSoup and Playwright) & PostgreSQL and deploying it in Google Cloud\n- End-to-end implementation of a CRM system including technical project planning, setup, user training \n- Preparing pitch presentations for prospective customers",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2024-07",
+      "end": "2025-06",
+      "dateRange": "Jul 2024 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Intern | BusDev & IT, Battery Recycling",
+      "company": "cylib",
+      "companyUrl": "https://www.linkedin.com/company/cylib",
+      "description": "- Leading a cooperative research project with the BCG presented at ICBR24 comparing the sustainability of battery recycling to raw mining of minerals, including cooperation with leading academics in the field, planning and leading steercos, modeling emissions \n- Developing and implementing an inventory management system for 500+ tracked objects including building a tracking application from scratch, training colleagues",
+      "location": "Aachen, North Rhine-Westphalia, Germany",
+      "start": "2024-04",
+      "end": "2024-06",
+      "dateRange": "Apr 2024 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate, Climateship | Sustainability Strategy in Banking & Mining",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "- Supporting the development of a holistic 2024 ESG strategy for a significant German bank, and assisting in progress tracking of a transformation project\n- Creating a commercial excellence strategy for a leading international mining corporation focusing on sustainable metals\n- Developing a proposal for the green transformation of a large Polish coal mining player\n- Calculating target EV sales mix for a large German automotive OEM in scope of a strategy review",
+      "location": "Cologne Bonn Region",
+      "start": "2023-07",
+      "end": "2023-09",
+      "dateRange": "Jul 2023 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Investor | Renewables Infrastructure Private Equity",
+      "company": "Pelion Green Future",
+      "companyUrl": "https://www.linkedin.com/company/peliongreenfuture",
+      "description": "- Design, construction and implementation of a comprehensive cash flow model for the majority of portfolio company activities\n- Research of market drivers and value chain analysis in the solar photovoltaics industry \n- Research and analysis of the key market players across the value chain of battery energy storage systems",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-11",
+      "end": "2023-02",
+      "dateRange": "Nov 2022 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Summer Trainee | Workforce Restructuring in Pharmaceuticals Private Equity",
+      "company": "Kearney",
+      "companyUrl": "https://www.linkedin.com/company/kearney",
+      "description": "- Target organisation design in a leading pharmaceuticals company\n- Independently developed a model for the internal benchmarking of retail store costs across >1k facilities\n- Close collaboration with client stakeholders up to C-level",
+      "location": "Birmingham, England, United Kingdom",
+      "start": "2022-06",
+      "end": "2022-08",
+      "dateRange": "Jun 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Fellow | Cost Strategy in Financial Services",
+      "company": "ritzenhoefer & company",
+      "companyUrl": "https://www.linkedin.com/company/ritzenhoefer",
+      "description": "- Strategic replanning of a project critical to the operations of a corporate InsurTech venture\n- Analysis and derivation of project delay and budget implications employing a complex cost forecasting model in Excel and presenting it to client stakeholders",
+      "location": "Düsseldorf, North Rhine-Westphalia, Germany",
+      "start": "2022-01",
+      "end": "2022-04",
+      "dateRange": "Jan 2022 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Intern | Business Development in Energy, Power & Utilities",
+      "company": "Munich Re",
+      "companyUrl": "https://www.linkedin.com/company/munich-re",
+      "description": "- Power & Utilities underwriting; worldwide insurance of energy projects and power plants\n- Support of the complete underwriting process; Responsible for development, testing and roll-out of an enterprise-wide data analysis tool in VBA",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-05",
+      "end": "2021-08",
+      "dateRange": "May 2021 – Aug 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "M.Sc., Statistics and Data Science",
+      "dateRange": "2025 – 2027"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Visiting Researcher, Computer Vision and Augmented Reality",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "B.Sc., Statistics and Data Science",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Master, Technology Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., Management and Technology, Sustainable Energies",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Maastricht University School of Business and Economics",
+      "degree": "B.Sc., Economics and Business Economics",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "BBA, Business Administration; Semester Abroad",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Maastricht University",
+      "degree": "Honours Programme",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Leibniz-Gymnasium Dormagen",
+      "degree": "Abitur",
+      "dateRange": "2012 – 2020"
+    },
+    {
+      "school": "Collège Garibaldi, Aix-les-Bains",
+      "degree": "Exchange",
+      "dateRange": "2016"
+    }
+  ],
+  "skills": [
+    "Computer-Vision",
+    "Microsoft Power BI",
+    "Data Analysis Expressions (DAX)",
+    "Microsoft Power Query",
+    "Data Engineering",
+    "Statsmodels",
+    "Pandas",
+    "Microsoft Azure",
+    "Microsoft Azure Machine Learning",
+    "PyTorch",
+    "Data Science",
+    "Stata",
+    "Kausale Inferenz",
+    "Ökonometrische Modellierung",
+    "Ökonometrie",
+    "Statistik-Software",
+    "Statistik",
+    "Multivariate Statistik",
+    "Maschinelles Lernen",
+    "Machine-Learning-Algorithmen",
+    "Überwachtes lernen",
+    "Angewandtes Maschinelles Lernen",
+    "Statistisches Lernen",
+    "Machine Learning",
+    "Business Intelligence (BI)",
+    "Lithiumbatterien",
+    "Kreislaufwirtschaft",
+    "Investitionen",
+    "Nachhaltigkeit",
+    "Infrastructure Investments",
+    "Private Equity",
+    "Cash Flow Modelling",
+    "Financial Modelling",
+    "R",
+    "HR-Transformation",
+    "Digitale Transformation",
+    "Verteidigungssektor",
+    "Innovationsmanagement",
+    "Digital Innovation",
+    "Strategisches Marketing",
+    "Kundensegmentierungsstrategie",
+    "Marktanalyse",
+    "Strategische Planung",
+    "Kostenmanagement",
+    "Operative Kostenanalyse",
+    "Strategieberatung",
+    "Risikomanagement",
+    "Erneuerbare Kraftstoffe",
+    "Corporate Sustainability",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "VBA",
+    "Erneuerbare Energien",
+    "Underwriting",
+    "Python (Programmiersprache)",
+    "think-cell",
+    "EfficientElements",
+    "Agile Methoden",
+    "Scrum"
+  ],
+  "languages": [
+    "Arabisch",
+    "Deutsch",
+    "Englisch (C2)",
+    "Französisch (B1)",
+    "Spanisch (B2)"
+  ],
+  "company": {
+    "name": "Soltrac - Space Solar Solutions",
+    "tagline": "The Cost-effective Solution for Your Space Missions!",
+    "description": "We offer cost-efficient, modular solar array solutions designed to power satellites. Our technology ensures reliable energy generation in space. With a focus on low costs and short delivery times, we support space missions with scalable, state-of-the-art solutions.",
+    "industry": "Aviation and Aerospace Component Manufacturing",
+    "website": "https://www.soltrac-space.com",
+    "linkedInUrl": "https://www.linkedin.com/company/soltrac",
+    "employeeCount": 10,
+    "foundedYear": 2024,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Aerospace",
+      "Space technology",
+      "Cost-efficient space technology",
+      "Plug-and-play solar solutions",
+      "Satellite power supply",
+      "Space logistics and infrastructure",
+      "Electrical systems for CubeSats",
+      "Sustainable energy solutions for space applications",
+      "Satellite solar power",
+      "Space technology",
+      "Satellite power supply"
+    ]
+  }
+}

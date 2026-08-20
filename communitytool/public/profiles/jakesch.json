@@ -1,0 +1,160 @@
+{
+  "id": "jakesch",
+  "name": "Maurice Jakesch",
+  "headline": "Professor of Computer Science  |  Bauhaus University Weimar",
+  "avatar": {
+    "sm": "/avatars/jakesch-sm.webp",
+    "lg": "/avatars/jakesch.webp",
+    "blur": "data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAABwBgCdASogACAAPtFWpUyoJKOiKA1RABoJaACdMtCEKSAUpRS7Xroh2SqMO0FufWmYVQD1ygiagWT0UAAA/vU3Q46lsWb+dzwMVyF5mxrnpf4J0NXFyk7GfFNzYjcTc3uCHW4+YCApaLYR0ehRv0SW7ucutV/9waxGKOBn4e8CSMDl0D3EOJ3n2njd20Clg29UIO2QJCNSVGFa54jfcHI/X1OyD02y9uy+8n1ZDT2/uv2/3yvvTkdHCv06OUMqAgZzf5j9gm/EOJAjIJ2k1w2ZDvWT3TANmyue9m1hiZFscnWXVWEMUh84yRiEZMR1/e1BbFPXSHWBoNDUP2m16ZxiP1V+a8lrBs+3jUoRlyFVtVVGWV7C0Ggf2Uc26r1vyBCFkPX/BtaDZCamoAA="
+  },
+  "location": "Weimar, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jakesch",
+  "personId": 912,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Philosophy of Science and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Maurice Jakesch",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Professor, Computer Science",
+      "company": "Bauhaus-Universität Weimar",
+      "companyUrl": "https://www.linkedin.com/company/bauhausuni",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Consultant, Digital Transformation",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "AI Researcher, FATE",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": null,
+      "location": "Montreal, Quebec, Canada",
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Researcher, Core Data Science",
+      "company": "Meta Facebook",
+      "companyUrl": "https://www.linkedin.com/company/metafacebook",
+      "description": null,
+      "location": "London, United Kingdom",
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "PhD Researcher, Information Science",
+      "company": "Cornell University",
+      "companyUrl": "https://www.linkedin.com/company/cornell-university",
+      "description": null,
+      "location": "Ithaca, New York Area",
+      "start": "2017-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2017 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "GE Digital",
+      "companyUrl": "https://www.linkedin.com/company/ge-digital",
+      "description": null,
+      "location": "Paris, Île-de-France, France",
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Business Planning",
+      "company": "TeleClinic",
+      "companyUrl": "https://www.linkedin.com/company/teleclinic",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2014-09",
+      "end": "2015-03",
+      "dateRange": "Sep 2014 – Mar 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Cornell University",
+      "degree": "Doctor of Philosophy - PhD, Information Science",
+      "dateRange": null
+    },
+    {
+      "school": "Cornell University",
+      "degree": "Master of Science - MS, Information Science",
+      "dateRange": null
+    },
+    {
+      "school": "ETH Zürich",
+      "degree": "Bachelor of Science - BS, Electrical Engineering and Information Techology",
+      "dateRange": null
+    },
+    {
+      "school": "The Hong Kong University of Science and Technology",
+      "degree": "Master of Science - MS, Information Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Arts - MA, Philosophy of Science and Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Postgraduate Degree, Technology Management",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Bauhaus-Universität Weimar",
+    "tagline": "Architektur und Urbanistik, Bauingenieurwesen, Kunst und Gestaltung und Medien",
+    "description": "Architecture and Urbanism, Civil Engineering, Art and Design, and Media – with its four faculties and diverse areas of expertise, the Bauhaus-Universität Weimar affords a profile that is unique in Germany. The university currently offers around 40 degree programmes in disciplines ranging from the fine arts through design, visual communication, media design and media studies to computer science as well as architecture, civil engineering, building material science, environmental engineering, and business management.\n\nThe State Bauhaus, the most influential design school of the twentieth century, was founded in Weimar back in 1919. In those days, leading experts from different disciplines and countries worked here together with their students to revolutionise education and had a lasting impact on the design of our living world. They developed an answer to the key questions in art, culture and society of their time – modernity.\n\nThe Bauhaus-Universität Weimar has been building on this history since 1996 as an international interdisciplinary university based in the unique cultural town of Weimar. Studies, research, art and teaching draw on the great Bauhaus model to find answers to central questions in art and culture, technology, science and society using modern methods. The inclusion of »Bauhaus« in the university’s name thus to this day indicates its willingness to experiment, openness, creativity and internationality.",
+    "industry": "Research",
+    "website": "https://www.uni-weimar.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/bauhausuni",
+    "employeeCount": 859,
+    "foundedYear": null,
+    "location": "Weimar, Germany",
+    "specialities": []
+  }
+}

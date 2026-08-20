@@ -1,0 +1,217 @@
+{
+  "id": "daria-ekimova",
+  "name": "Daria Ekimova",
+  "headline": "Energy Analytics @Gridcog | TUM | CDTM | YEP Weltenergierat 🌍",
+  "avatar": {
+    "sm": "/avatars/daria-ekimova-sm.webp",
+    "lg": "/avatars/daria-ekimova.webp",
+    "blur": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAAAQBgCdASogACAAPsFMn0unpCKht/qoAPAYCUAXYGWCdAVrfnk5/xSGV4Bc1GTR0doBqKcqixtXsEAA/vx7d0bOt0u7hSLhHQFtDFR7p2hCkynaa1QQ+R8MbvrrKzLzppdp5DWSI//fIbING6Xz4f28MTAx7dnOisgRaoGa6MZ1gKKuMFIGQ8vsc8+tldHM2l/oFElJTF3aCr5IA65iShHAKHbH7fhoklAItrA+laBsSt0b6dxF2c/R3oxKazX91Jij/7GHdDlEYXaClzLVQn4COFy18D09tih7HX++UvFulJKwJFMJwjDlCjnNykPsJizU7AsR2/aAAA=="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/daria-ekimova",
+  "personId": 728,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Daria Ekimova",
+  "ca": null,
+  "summary": "I am an Economics graduate with a passion for energy systems and solutions for mitigating climate change. I aim to contribute to a just energy transition and help create a more sustainable future for every community. Let's connect if you're interested in discussing tech solutions for energy and climate space!",
+  "positions": [
+    {
+      "title": "Senior Energy Analyst",
+      "company": "Gridcog",
+      "companyUrl": "https://www.linkedin.com/company/gridcog",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Market Intelligence Manager",
+      "company": "1KOMMA5°",
+      "companyUrl": "https://www.linkedin.com/company/1komma5grad",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2025-05",
+      "end": "2025-10",
+      "dateRange": "May 2025 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Power Markets Analyst - Advisory",
+      "company": "Aurora Energy Research",
+      "companyUrl": "https://www.linkedin.com/company/aurora-energy-research-limited",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2024-05",
+      "end": "2025-04",
+      "dateRange": "May 2024 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "Visiting Graduate Researcher",
+      "company": "MIT - Center for Energy and Environmental Policy Research",
+      "companyUrl": "https://www.linkedin.com/company/mit-center-for-energy-and-environmental-policy-research",
+      "description": null,
+      "location": "Cambridge, Massachusetts, United States",
+      "start": "2023-09",
+      "end": "2024-02",
+      "dateRange": "Sep 2023 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Master Thesis | Power Trading",
+      "company": "Creatica GmbH",
+      "companyUrl": "https://www.linkedin.com/company/creatica-gmbh",
+      "description": "Topic: \"Asset-backed Hedging with Options in Wholesale Electricity Markets\"",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2023-08",
+      "dateRange": "Jan 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Founders Associate Intern",
+      "company": "Entrix",
+      "companyUrl": "https://www.linkedin.com/company/entrixenergy",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-03",
+      "end": "2022-12",
+      "dateRange": "Mar 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Intern | Alternative Investments",
+      "company": "Allianz Global Investors",
+      "companyUrl": "https://www.linkedin.com/company/allianz-global-investors",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2021-08",
+      "dateRange": "Apr 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Associate | Strategy",
+      "company": "Wert",
+      "companyUrl": "https://www.linkedin.com/company/sha2",
+      "description": "B2B Fintech Startup | Est. 2020",
+      "location": "Saint Petersburg, Russia",
+      "start": "2020-05",
+      "end": "2020-09",
+      "dateRange": "May 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis | Derivatives Pricing with Machine Learning",
+      "company": "Moscow Exchange",
+      "companyUrl": "https://www.linkedin.com/company/moscow-exchange",
+      "description": "Topic: «Neural Network Models for Option Pricing on Non-Liquid Markets: Empirical Evidence from Moscow Exchange»",
+      "location": "Moscow, Russia",
+      "start": "2020-01",
+      "end": "2020-06",
+      "dateRange": "Jan 2020 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Intern | Finance • Marketing • Product",
+      "company": "Cryptopay",
+      "companyUrl": "https://www.linkedin.com/company/cryptopayofficial",
+      "description": "One of the oldest bitcoin wallets | Est. 2013 | UK-based",
+      "location": "Saint Petersburg, Russia",
+      "start": "2020-01",
+      "end": "2020-04",
+      "dateRange": "Jan 2020 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Intern | Strategy consulting • GDPR compliance in telecom industry",
+      "company": "HPP Strategy and Marketing Consulting",
+      "companyUrl": "https://www.linkedin.com/company/hpp",
+      "description": null,
+      "location": "Frankfurt am Main, Germany",
+      "start": "2019-06",
+      "end": "2019-08",
+      "dateRange": "Jun 2019 – Aug 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management and Technology",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Fellow",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "State University — Higher School of Economics",
+      "degree": "Bachelor of Science - BS, Economics",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "City University of Hong Kong",
+      "degree": "Exchange semester, Environmental Engineering & Information Systems",
+      "dateRange": "2021"
+    },
+    {
+      "school": "University of Mannheim",
+      "degree": "Exchange semester, Economics and Business Administration",
+      "dateRange": "2019"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Gridcog",
+    "tagline": "Intelligent Energy Decisions",
+    "description": "Gridcog is a global energy tech company on a mission to accelerate the world’s transition to net-zero by objectively informing new energy investment decisions. \n\nWe provide comprehensive software that shows your team the most effective way to develop and run your prospective new energy project. Confidence comes from clarity, so no matter the complexity – whether it’s multi-region, multi-site, multi-asset, multi-participant or all the above – Gridcog can accurately simulate your own real-world, multivariate energy reality to objectively inform decision-making and increase certainty. \n\nOur sophisticated Planning product allows you to simulate the thousands of potential physical and commercial variations for your energy project. Within Gridcog Planning, you can model utility-scale, distribution-level, or behind-the-meter projects across renewable generation, battery storage, e-mobility, and load flexibility, whilst simulating how these assets respond to different market or commercial price signals. \n\nBehind our sophisticated software stands an awesome team of global experts and local energy nerds who are passionate about helping you solve your big energy problems to drive the world to net zero. \n\nBy creating greater confidence and intelligence in new energy investment decisions, we aim to accelerate the pace of change to get us all to net zero, sooner. Gridcog is already working with energy leaders who are using our software to model projects in over 30 countries, including the UK, Australia, and many countries across Europe including Germany and Poland.\n\nCheck out our website or get in touch with one of our team to find out more: \t\t\t\t\t\nhttps://www.gridcog.com/",
+    "industry": "Energy Technology",
+    "website": "https://gridcog.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/gridcog",
+    "employeeCount": 33,
+    "foundedYear": 2020,
+    "location": "London, United Kingdom",
+    "specialities": [
+      "Renewable Energy",
+      "Battery Energy Storage",
+      "Solar PV",
+      "Project Planning",
+      "Site Modelling",
+      "Solar",
+      "Energy Transition",
+      "Clean Energy",
+      "Simulation Software"
+    ]
+  }
+}

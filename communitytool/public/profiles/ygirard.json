@@ -1,0 +1,89 @@
+{
+  "id": "ygirard",
+  "name": "Yann Girard",
+  "headline": "President-as-a-Service",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/ygirard",
+  "personId": 1830,
+  "classes": [
+    {
+      "id": 64,
+      "label": "Fall 2008",
+      "season": "Fall",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2008",
+  "major": "Technology oriented Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Yann Girard",
+  "ca": null,
+  "summary": "Bootstrapper. Web & e-commerce entrepreneur. Micro angel investor. Author of 10 (rather poorly) self published books. Wrote daily for 10+ years. Then stopped cold turkey...",
+  "positions": [
+    {
+      "title": "Owner & MD",
+      "company": "Girard Ventures UG (haftungsbeschränkt)",
+      "companyUrl": null,
+      "description": "So dies und das und jenes. Mal hier. Mal dort. Hauptsächlich online. Manchmal auch offline...",
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-12",
+      "end": null,
+      "dateRange": "Dec 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Author",
+      "company": "Yann Girard",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2013-02",
+      "end": null,
+      "dateRange": "Feb 2013 – Present",
+      "current": true
+    },
+    {
+      "title": "President",
+      "company": "Yann Girard",
+      "companyUrl": null,
+      "description": "Bootstrapper. Web & e-commerce entrepreneur. Micro angel investor. Author of 10 (rather poorly) self published books. Wrote daily for 10+ years. Then stopped cold turkey...\n\nMentor @ Startlabs Tech Accelerator, Traction Tribe Accelerator, Hardware.co Accelerator, Impact Incubator by Impact Hub Zagreb, Pioneers Festival, InsurTech Hub Munich, RoX Health. \n\nMentor @ 15+ Startup Events all over Europe, Keynote Speaker.\n\nhttps://www.yanngirard.de",
+      "location": null,
+      "start": "2013-02",
+      "end": null,
+      "dateRange": "Feb 2013 – Present",
+      "current": true
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Technology Management",
+      "dateRange": "2005 – 2011"
+    },
+    {
+      "school": "Fudan University",
+      "degree": "Chinese",
+      "dateRange": "2011"
+    },
+    {
+      "school": "Tongji University",
+      "degree": "Visiting Researcher, E-Commerce/Electronic Commerce",
+      "dateRange": "2010"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": null
+}

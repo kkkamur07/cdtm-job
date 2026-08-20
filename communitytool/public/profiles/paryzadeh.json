@@ -1,0 +1,173 @@
+{
+  "id": "paryzadeh",
+  "name": "Pary A.",
+  "headline": "Building. CDTM/Harvard/IE/Ex-athlete",
+  "avatar": {
+    "sm": "/avatars/paryzadeh-sm.webp",
+    "lg": "/avatars/paryzadeh.webp",
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPs1SpEunpKOhsBgMAPAZiWgAzcGLay200U0jlQVbh8IMNTcaoxiTJeAAAP79LcbGu9w7yHSQg54TUD7Tt8UvU+mMDgbvEPSLGUAdzQPBAu218l78i/D+LhVK+vdXJnSd1U0nkt8unUtwvU1wi3RSaRVAwmdGuLRoTu1jezgJZKmVPbs8GDVe836NwGiLGaYgEVQK7TrcVx+Ub6n3hLujXbcVd9xB+0F/GvTc2fRWHO9KM107iP9F8WAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/paryzadeh",
+  "personId": 978,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Pary Anna Zadeh",
+  "ca": null,
+  "summary": "A blend of really curious and really ambitious. \n\nCheck out the notion page https://paryzadeh.notion.site/ for more.",
+  "positions": [
+    {
+      "title": "Pre-Idea Fellow",
+      "company": "EWOR",
+      "companyUrl": "https://www.linkedin.com/company/ewor",
+      "description": "👀",
+      "location": null,
+      "start": "2024-12",
+      "end": null,
+      "dateRange": "Dec 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Content Creation",
+      "company": "TikTok",
+      "companyUrl": "https://www.linkedin.com/company/tiktok",
+      "description": "Started posting vlogs and videos just for fun, now have 80K+ followers on TikTok and Instagram.",
+      "location": null,
+      "start": "2023-06",
+      "end": null,
+      "dateRange": "Jun 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Special Project",
+      "company": "Cult Holdings Co.",
+      "companyUrl": "https://www.linkedin.com/company/cult-holdings",
+      "description": "Started as a cold outreach, ended with a mini-trip to NYC to learn from one of the best in the consumer/health game - building brands, such as Polymarket, Bryan Johnson, Othership, and Equinox.",
+      "location": "New York, NY",
+      "start": "2026-02",
+      "end": "2026-03",
+      "dateRange": "Feb 2026 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "Resident",
+      "company": "The Residency",
+      "companyUrl": "https://www.linkedin.com/company/live-the-residency",
+      "description": "Building and breaking things - over and over again. \n\nSome highlights:\n- Built a community of 1000 people in less than 5 days that voted on what I should build based on the principle of \"your 1000 true fans\". Had 1:1 calls to shape the product and company direction.\n- Built a fitness app (\"33 Days\") and launched it to my community in less than 10 days (had a capped WhatsApp community of 60 users to gather feedback; all done organically).\n- Received the NRW Gründerstipendium for 1 Year.",
+      "location": "San Francisco Bay Area",
+      "start": "2024-10",
+      "end": "2025-01",
+      "dateRange": "Oct 2024 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Operations",
+      "company": "Kombo",
+      "companyUrl": "https://www.linkedin.com/company/kombo-api",
+      "description": "YC S22. Part time during my last semester. Worked with the CTO. Loved it.",
+      "location": "Berlin, Germany",
+      "start": "2024-01",
+      "end": "2024-07",
+      "dateRange": "Jan 2024 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Various Companies",
+      "company": "Multiple Companies",
+      "companyUrl": null,
+      "description": "Summer Internships: Procter & Gamble (Brand Management), Deloitte (Consulting), Oliver Wyman (Consulting), deskbird (Start-up)\n\nFounded Innovis VC in Madrid - built the initial team and lead the first two batches of (roughly 12) analysts. \n\nDuring University: Plug and Play University Investment Team (Health Vertical), BCG Corporate Finance Unlimited Program, Google EMEA Sales BOLD Mentorship Program, Consulting (180 Degrees)",
+      "location": null,
+      "start": "2019-01",
+      "end": "2024-07",
+      "dateRange": "Jan 2019 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "Humane C.",
+      "companyUrl": null,
+      "description": "https://foundr.com/pary-zadeh\nAt 18, I designed, outsourced, and sold personal development planners online and then in retail at one of Germany’s largest bookstore chains. Continued part-time when I moved to Madrid, had to stop operations when the lockdowns happened.",
+      "location": "Germany",
+      "start": "2019-01",
+      "end": "2020-02",
+      "dateRange": "Jan 2019 – Feb 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor's degree, Visiting Full Time Student",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Fall 23 Batch",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "IE Business School",
+      "degree": "Bachelor of Business Administration - BBA",
+      "dateRange": null
+    },
+    {
+      "school": "Babson College",
+      "degree": "Business/Commerce, General",
+      "dateRange": "2022"
+    },
+    {
+      "school": "International School of Düsseldorf",
+      "degree": "IB Diploma",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Creativity Skills",
+    "Strategic Visionary",
+    "Business Development",
+    "Presentation Skills",
+    "Problem Solving",
+    "Strategic Planning",
+    "Social Media Marketing",
+    "Personal Development",
+    "Open-mindedness",
+    "Start-ups",
+    "Psychology",
+    "Digital Marketing",
+    "Google Suite",
+    "Microsoft Excel"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "TikTok",
+    "tagline": "Inspire creativity, bring joy.",
+    "description": "Inspire Creativity and Bring Joy",
+    "industry": "Entertainment Providers",
+    "website": "https://www.tiktok.com/about?lang=en",
+    "linkedInUrl": "https://www.linkedin.com/company/tiktok",
+    "employeeCount": 87765,
+    "foundedYear": null,
+    "location": "Los Angeles, United States",
+    "specialities": []
+  }
+}

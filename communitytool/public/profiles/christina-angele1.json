@@ -1,0 +1,211 @@
+{
+  "id": "christina-angele1",
+  "name": "Christina Angele",
+  "headline": "Business Analystin bei der Stadt München | CDTM & TUM",
+  "avatar": {
+    "sm": "/avatars/christina-angele1-sm.webp",
+    "lg": "/avatars/christina-angele1.webp",
+    "blur": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAABwBgCdASogACAAPtFao00oJSMiMBgIAQAaCWwAuyCregLszI8D2x5l/g6shm65iORdIH8sCTBmPvZ6zMwA/v5gL7W/rde8gtWQOvtB/s6CCve08617fX3LmNIRrGveKh3cBaiejWz0P0cmy5W+QSXjh3W2+fFHKgT8Tr3QlOf+5H+MGTvGoA4ZVsvtMQC/1iCco4sBpr3OgaZ+BMV7BCAziGCpdijLA1zzAKQ+VZ8Tn6uDXo6XjSSVw4go2IBE6rZdGmgwEH9aspeBmgyEMRC1D7tnPe1Yio0aLZoXvJtsYXLuOlCaUlz8TpfcElPhKSRL3FadcmiAAA=="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christina-angele1",
+  "personId": 779,
+  "classes": [
+    {
+      "id": 80,
+      "label": "Fall 2016",
+      "season": "Fall",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2016",
+  "major": "Consumer Affairs",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christina Angele",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Business-Analystin - Klima und Umweltschutz",
+      "company": "Landeshauptstadt München",
+      "companyUrl": "https://www.linkedin.com/company/stadt-muenchen",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Customer Value Manager",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-04",
+      "end": "2025-07",
+      "dateRange": "Apr 2024 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Full-time parenting",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": null,
+      "start": "2023-02",
+      "end": "2024-03",
+      "dateRange": "Feb 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Produktmanager",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-11",
+      "end": "2023-01",
+      "dateRange": "Nov 2021 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "innosabi",
+      "companyUrl": "https://www.linkedin.com/company/innosabi-gmbh",
+      "description": "innosabi develops software for agile innovation. This increases the speed and success in the innovation processes of large companies. As a Customer Success Manager I was in charge of: \n- Managing enterprise accounts (more than 10k employees) and ensuring renewal & upselling\n- Operational support as well as strategic consultation \n- Workshops and software training\n- Implementation of idea management processes\n- Working cross-functionally with internal teams (Sales, Product, Dev & Marketing)",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-05",
+      "end": "2021-11",
+      "dateRange": "May 2019 – Nov 2021",
+      "current": false
+    },
+    {
+      "title": "Corporate Technology and Innovation Management",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "As a working Student in Corporate Technology and Innovation Management, my tasks included:\n-\tProject Management for a global Intrapreneurship Bootcamp\n-\tCommunity Management for global Open Innovation Community\n-\tConsulting & Research for Innovation Methods",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-08",
+      "end": "2018-09",
+      "dateRange": "Aug 2017 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Digital Business & Transformation",
+      "company": "Zeppelin",
+      "companyUrl": "https://www.linkedin.com/company/zeppelingroup",
+      "description": "As a full-time intern in Digital Business & Transformation, my tasks included:\n-\tSupport for the development of a group wide digital strategy \n-\tProject Management and UX Research for the relaunch of the corporate portal (social intranet) and corporate website",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-10",
+      "end": "2016-07",
+      "dateRange": "Oct 2015 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Marketing and Product Development",
+      "company": "Olery",
+      "companyUrl": "https://www.linkedin.com/company/olery",
+      "description": "Amsterdam",
+      "location": null,
+      "start": "2014-05",
+      "end": "2014-07",
+      "dateRange": "May 2014 – Jul 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Consumer Affairs",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "California State University, Chico",
+      "degree": "Semester Abroad, Communication and Cultural Management",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Zeppelin University",
+      "degree": "Bachelor of Arts (B.A.), Communication and Cultural Management",
+      "dateRange": "2011 – 2015"
+    }
+  ],
+  "skills": [
+    "SQL",
+    "E-Commerce",
+    "Google Analytics",
+    "Social Media",
+    "Marketing",
+    "Online Marketing",
+    "Research",
+    "Microsoft Office",
+    "Adobe Photoshop",
+    "Social Media Marketing",
+    "SPSS",
+    "InDesign",
+    "Market Research",
+    "Customer Service",
+    "Management",
+    "Marketing Strategy",
+    "Advertising",
+    "Blog-Marketing",
+    "Google Docs",
+    "Projektmanagement",
+    "SharePoint",
+    "Forschung",
+    "Marketingstrategie",
+    "Marktforschung",
+    "Start-ups",
+    "entrepreneurhsip",
+    "Rapid Prototyping",
+    "prototyping",
+    "Intrapreneurship",
+    "Modellierung von Business Cases"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Landeshauptstadt München",
+    "tagline": "Die beste Stadt verdient das beste Team.",
+    "description": "Sinnhaftigkeit – Flexibilität – Verlässlichkeit – Gemeinschaft – Vielfalt\r\n\r\nAuf diese Begriffe haben wir uns geeinigt, weil sie am besten unsere Ansprüche nach außen wie nach innen widerspiegeln. Sie sind die Pfeiler unserer Arbeitgebermarke, die Ihnen zeigen soll, wie wir uns als Unternehmen verstehen. Werte wie ein verlässliches Miteinander, Einsatzbereitschaft und eine auf Offenheit und gegenseitigem Verständnis aufbauende Unternehmenskultur sind uns genauso wichtig wie Ihre Bedürfnisse nach Arbeitsplatzsicherheit, Weiterbildung, Vereinbarkeit von Beruf und Familie sowie möglichst gesundheitsfördernden Arbeitsbedingungen.\r\n\r\nImpressum:\r\nLandeshauptstadt München, Personal- und Organisationsreferat\r\nMarienplatz 8, 80331 München\r\nE-Mail: karriere@muenchen.de\r\nDatenschutz: http://www.muenchen.de/rathaus/Kontakt/Datenschutzbeauftragter.html",
+    "industry": "Government Administration",
+    "website": "http://muenchen-unser-kindl.de",
+    "linkedInUrl": "https://www.linkedin.com/company/stadt-muenchen",
+    "employeeCount": 5451,
+    "foundedYear": null,
+    "location": "München, Germany",
+    "specialities": [
+      "Dienstleistungen für Münchener Bürgerinnen und Bürger",
+      "Öffentliche Verwaltung",
+      "Kultur",
+      "Umwelt",
+      "Klimaschutz",
+      "Gesundheit",
+      "Standortmarketing",
+      "Sicherheit & Ordnung",
+      "Personal",
+      "Organisation",
+      "Soziales",
+      "München",
+      "Bauwesen",
+      "Kultur",
+      "Pädagogik"
+    ]
+  }
+}

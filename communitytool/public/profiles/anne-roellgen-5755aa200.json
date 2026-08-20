@@ -1,0 +1,195 @@
+{
+  "id": "anne-roellgen-5755aa200",
+  "name": "Anne Roellgen",
+  "headline": "Nomos I Oxford I CDTM",
+  "avatar": {
+    "sm": "/avatars/anne-roellgen-5755aa200-sm.webp",
+    "lg": "/avatars/anne-roellgen-5755aa200.webp",
+    "blur": "data:image/webp;base64,UklGRhABAABXRUJQVlA4IAQBAABwBgCdASogACAAPs1WpEunpKOhsBgMAPAZiWIAnTMxb/43gW/3LbPNuPvFlvJf7uEFlANzsF3V7iutgsAA/vwVDV1XHUYTt1psPlPQNISBybajvXj08ll6UssObRvK/yoG02VzCypBFgXpQrPJC0pe/9xZDbFpeQyq5tXPl54j9C/gBliXFnXrLKzfV/wfeHPsU6e6IU78imtwEhG8Nxb8pkZ9mY/L+HDIDFCWm6J7Ouwit6L1k6qppfgtq/OGHee5cJmleARj9sIGE0YownAyitrVQ527TtQiB/2Sv4ycOBHknv5ghUwMp9PP8fVrzfbSkEo8U7ucTTNUm2RHS9mq7OIAAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/anne-roellgen-5755aa200",
+  "personId": 926,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Communication Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Anne Röllgen",
+  "ca": null,
+  "summary": "happy to connect (PS: we're hiring!)",
+  "positions": [
+    {
+      "title": "GTM",
+      "company": "Nomos",
+      "companyUrl": "https://www.linkedin.com/company/nomos-energy",
+      "description": "API-first electricity retailer for embedded dynamic energy plans",
+      "location": null,
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment Analyst | Venture Capital",
+      "company": "Speedinvest",
+      "companyUrl": "https://www.linkedin.com/company/speedinvest",
+      "description": "Dev tools / infrastructure",
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Analyst | Global Markets",
+      "company": "J.P. Morgan",
+      "companyUrl": "https://www.linkedin.com/company/jpmorgan",
+      "description": "Cash Equities",
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Research Assistant | EU Data Sovereignty",
+      "company": "Institute for Digital Management and New Media",
+      "companyUrl": "https://www.linkedin.com/company/dmm-institut",
+      "description": "Gaia-X",
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Venture Scout",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Summer Analyst | Analytics & Sales",
+      "company": "Bloomberg",
+      "companyUrl": "https://www.linkedin.com/company/bloomberg",
+      "description": "Intern Of The Year",
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Summer Analyst | Consulting",
+      "company": "Herzog & Schindler",
+      "companyUrl": "https://www.linkedin.com/company/herzog-and-schindler",
+      "description": "Polyplexus / DARPA",
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Intern | German Parliament",
+      "company": "Deutscher Bundestag",
+      "companyUrl": "https://www.linkedin.com/company/deutscher-bundestag",
+      "description": "MdB Franziska Brantner, European Commission",
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Oxford",
+      "degree": "Master of Science - MSc, Oxford Internet Institute",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours degree",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Arts - BA",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Deutsch-Französisches Gymnasium Freiburg",
+      "degree": "Abitur (DE), Baccalauréat (FR)",
+      "dateRange": "2011 – 2019"
+    }
+  ],
+  "skills": [
+    "Strategic Thinking",
+    "Management",
+    "Social Media",
+    "Microsoft Word",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Databases",
+    "Skilled Multi-tasker",
+    "Communication",
+    "Organization Skills",
+    "Interpersonal Skills",
+    "Creative Problem Solving",
+    "Team Leadership",
+    "Digital Marketing",
+    "Analytical Skills",
+    "Event Planning",
+    "Teamwork",
+    "Microsoft PowerPoint",
+    "Management Consulting",
+    "Data Analysis",
+    "Economics",
+    "Video Production",
+    "Photography",
+    "Business Administration",
+    "Foreign Languages",
+    "YouTube",
+    "High degree of initiative",
+    "Procreate"
+  ],
+  "languages": [
+    "German",
+    "English C2",
+    "French C1",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Nomos",
+    "tagline": "Because it’s about more than energy.\nIt’s about power.",
+    "description": "Nomos helps leading hardware companies launch their own electricity plans by abstracting all legal and operational complexity into a simple API layer.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.nomos.energy/",
+    "linkedInUrl": "https://www.linkedin.com/company/nomos-energy",
+    "employeeCount": 11,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

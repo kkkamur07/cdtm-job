@@ -1,0 +1,117 @@
+{
+  "id": "joel-hainzl",
+  "name": "Joël Hainzl",
+  "headline": "CDTM",
+  "avatar": {
+    "sm": "/avatars/joel-hainzl-sm.webp",
+    "lg": "/avatars/joel-hainzl.webp",
+    "blur": "data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAABwBQCdASogACAAPtFaqE2oJSQiKAqpABoJYgAD5M5mXdKJgP/w4gl2wvi7a0wgDNxfGD4AAP7tULTZruN1s9N/teovXn7FM5Dn5u2u18w/+eYHp3o0tuDbqNTAuqqCfKVwQY7/LkdWAfmSR3kHo9WqNJjRIWndwgFj2e+KnRB8N10nZBFp+UbdokwuNFA7IJ0Unx0oghw/aGi3SXf3suktLDrd7EkTb03+qyPx/svRQ3c1QesuaMKd6vHGJw43XloQt6TviSQX629RtQca7pt3oRLrKYJclYho0f3EWAsMAJ6onHHlNnl3rwAAAA=="
+  },
+  "location": "Palo Alto, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/joel-hainzl",
+  "personId": 2095,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Finance & Information Management",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Joël Hainzl",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Product",
+      "company": "BEO (formerly Co-Power)",
+      "companyUrl": "https://www.linkedin.com/company/batteryenergyorganization",
+      "description": null,
+      "location": null,
+      "start": "2025-08",
+      "end": "2025-11",
+      "dateRange": "Aug 2025 – Nov 2025",
+      "current": false
+    },
+    {
+      "title": "VC",
+      "company": "Fortino Ventures",
+      "companyUrl": "https://www.linkedin.com/company/fortinoventures",
+      "description": null,
+      "location": null,
+      "start": "2024-11",
+      "end": "2025-01",
+      "dateRange": "Nov 2024 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Consulting",
+      "company": "Kearney",
+      "companyUrl": "https://www.linkedin.com/company/kearney",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, CS and Finance",
+      "dateRange": null
+    },
+    {
+      "school": "WU (Vienna University of Economics and Business)",
+      "degree": "Bachelor of Science - BS, Business Administration and Management, General",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "University of Southern California",
+      "degree": "Exchange",
+      "dateRange": "2022"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "BEO (formerly Co-Power)",
+    "tagline": "Lowering energy cost and increasing flexibility of industrial companies",
+    "description": "BEO - Battery Energy Organization.\n\nBEO is the battery-first energy provider for mid-sized companies. BEO finances, installs and operates battery storage systems directly at your company location and provides you with the cheapest possible electricity. This saves you up to 50% of your energy costs — without own investment, operational effort or risk.",
+    "industry": "Services for Renewable Energy",
+    "website": "https://beo.energy/",
+    "linkedInUrl": "https://www.linkedin.com/company/batteryenergyorganization",
+    "employeeCount": 21,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

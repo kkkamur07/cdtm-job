@@ -1,0 +1,156 @@
+{
+  "id": "julia-aydin-rosu",
+  "name": "Julia Aydin-Rosu",
+  "headline": "Medical Doctor🫀| Economist (M.Sc.)📈| Technology Management💡(Honor‘s)",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/julia-aydin-rosu",
+  "personId": 1389,
+  "classes": [
+    {
+      "id": 70,
+      "label": "Fall 2011",
+      "season": "Fall",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2011",
+  "major": "Economics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Julia Aydin",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Cardiology Resident",
+      "company": "LMU Klinikum München",
+      "companyUrl": "https://www.linkedin.com/company/lmu-klinikum",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-03",
+      "end": null,
+      "dateRange": "Mar 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Intern",
+      "company": "United Nations",
+      "companyUrl": "https://www.linkedin.com/company/united-nations",
+      "description": "United Nations Conference on Trade and Development (UNCTAD)\nDivision for Africa - Least Developed Countries",
+      "location": "Geneva, Geneva, Switzerland",
+      "start": "2014-05",
+      "end": "2014-09",
+      "dateRange": "May 2014 – Sep 2014",
+      "current": false
+    },
+    {
+      "title": "Graduate Researcher, Tutor",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Institute for Capital Markets and Finance\nTutoring student groups of 30-60 undergraduates in \"Investing and Financing\"",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2011-10",
+      "end": "2012-02",
+      "dateRange": "Oct 2011 – Feb 2012",
+      "current": false
+    },
+    {
+      "title": "Student Intern",
+      "company": "Aquarius Asia Limited",
+      "companyUrl": "https://www.linkedin.com/company/aquarius-asia-limited",
+      "description": "Strategy consultancy specialized in the development of digital concepts for multinational enterprises in the Asian-Pacific Area",
+      "location": "Hong Kong SAR",
+      "start": "2010-08",
+      "end": "2010-10",
+      "dateRange": "Aug 2010 – Oct 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Staatsexamen, Medicine",
+      "dateRange": "2014 – 2024"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, Research Associate",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honour's Degree, Technology Management",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Term Abroad, Research Associate",
+      "dateRange": "2012"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Economics",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Economics",
+      "dateRange": "2009 – 2011"
+    }
+  ],
+  "skills": [
+    "Big Data Analytics",
+    "R (Programming Language)",
+    "Medical Research",
+    "Quantitative Research",
+    "Project Planning",
+    "University Teaching",
+    "Internal Medicine",
+    "Surgery",
+    "Obstetrics and Gynecology",
+    "Research",
+    "Digital Marketing",
+    "Global Health",
+    "Teaching",
+    "Peer Tutoring",
+    "Data Analysis",
+    "Statistics",
+    "Stata",
+    "Healthcare",
+    "Cardiology",
+    "Development Economics",
+    "Macroeconomics",
+    "Health Economics",
+    "Econometrics",
+    "Policy Analysis",
+    "Qualitative Research",
+    "International Relations",
+    "Management Consulting"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Turkish"
+  ],
+  "company": {
+    "name": "LMU Klinikum München",
+    "tagline": "Gemeinsam. Fürsorglich. Wegweisend.",
+    "description": "Das LMU Klinikum \nzählt mit seinen beiden Münchner Standorten Campus Großhadern und Campus Innenstadt zu den größten Universitätsklinika in Deutschland und Europa. Jährlich vertrauen rund 500.000 Patienten der Kompetenz, Fürsorge und dem Engagement unserer Mitarbeiterinnen und Mitarbeiter in 28 Fachkliniken, sechzehn Instituten und fünf Abteilungen sowie den 63 interdisziplinären Zentren.\n\nHerausragende Einrichtungen des LMU Klinikums sind das Onkologische Spitzenzentrum CCC München, Bayerns größtes Transplantationszentrum TxM, das Deutsche Schwindel- und Gleichgewichtszentrum, das Tropeninstitut und das Center for International Health (CIH). Darüber hinaus ist das LMU Klinikum an allen Deutschen Zentren der Gesundheitsforschung sowie im Rahmen der Medizininformatik-Initiative des Bundesforschungsministeriums am DIFUTURE Konsortium sowie maßgeblich am Netzwerk Universitätsmedizin (NUM) zu COVID-19 beteiligt.",
+    "industry": "Hospitals and Health Care",
+    "website": "https://www.lmu-klinikum.de",
+    "linkedInUrl": "https://www.linkedin.com/company/lmu-klinikum",
+    "employeeCount": 2870,
+    "foundedYear": 1472,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

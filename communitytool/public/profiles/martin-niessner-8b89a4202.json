@@ -1,0 +1,188 @@
+{
+  "id": "martin-niessner-8b89a4202",
+  "name": "Martin Niessner",
+  "headline": "Lead Principal Engineer at Infineon Technologies",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/martin-niessner-8b89a4202",
+  "personId": 1640,
+  "classes": [
+    {
+      "id": 51,
+      "label": "Spring 2002",
+      "season": "Spring",
+      "year": 2002,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2002",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Martin Niessner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Lead Principal Engineer",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": null,
+      "location": "Neubiberg, Bavaria, Germany",
+      "start": "2022-04",
+      "end": null,
+      "dateRange": "Apr 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Electronics Packaging: Virtual prototyping, thermo-mechanical simulation, design, optimization, reliability prediction.",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": null,
+      "location": "Neubiberg, Bavaria, Germany",
+      "start": "2020-10",
+      "end": "2022-04",
+      "dateRange": "Oct 2020 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Senior Staff Engineer",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": null,
+      "location": "Neubiberg, Bavaria, Germany",
+      "start": "2016-11",
+      "end": "2020-09",
+      "dateRange": "Nov 2016 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Staff Engineer",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": null,
+      "location": "Neubiberg, Bavaria, Germany",
+      "start": "2012-06",
+      "end": "2016-11",
+      "dateRange": "Jun 2012 – Nov 2016",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "German Institute of Science and Technology",
+      "companyUrl": null,
+      "description": null,
+      "location": "Singapore, Singapore",
+      "start": "2012-04",
+      "end": "2012-05",
+      "dateRange": "Apr 2012 – May 2012",
+      "current": false
+    },
+    {
+      "title": "Scientific Researcher",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Focus to research: Modeling, simulation and experimental characterization of microelectromechanical system (MEMS). Authored and co-authored more than 30 publications during this position.\nActivities included: Acquisition of funding. Planning and execution of projects. Supervision BS and MS theses, students. Lecturing. IT system administration (Unix and Windows).",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2006-01",
+      "end": "2012-05",
+      "dateRange": "Jan 2006 – May 2012",
+      "current": false
+    },
+    {
+      "title": "Student Assistant",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Student assistant supporting the CDTM seminar \"Managing Product Development\": Coordination of students, projects, lectures and events.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2003-04",
+      "end": "2004-08",
+      "dateRange": "Apr 2003 – Aug 2004",
+      "current": false
+    },
+    {
+      "title": "Academic Tutor",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Tutoring of 30-60 students per semester/term for the topics of \"Basics of computer science\" and \"Electricity and Magnetism\"",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2000-10",
+      "end": "2004-03",
+      "dateRange": "Oct 2000 – Mar 2004",
+      "current": false
+    },
+    {
+      "title": "Salesperson",
+      "company": "MINT-data Computer-Vertriebs GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Königsbrunn, Bavaria, Germany",
+      "start": "2000-05",
+      "end": "2002-04",
+      "dateRange": "May 2000 – Apr 2002",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doktor-Ingenieur, Dr.-Ing., (German Doctor of Science in Engineering), Electromechanical Engineering",
+      "dateRange": "2006 – 2012"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom-Ingenieur (Univ.) (German Master of Science in Engineering), Electrical and Electronics Engineering",
+      "dateRange": "2004 – 2005"
+    },
+    {
+      "school": "University of Illinois Urbana-Champaign",
+      "degree": "Visiting graduate student, Electrical, Electronics and Communications Engineering",
+      "dateRange": "2004 – 2005"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Certificate in Technology Management",
+      "dateRange": "2002 – 2004"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Electrical, Electronics and Communications Engineering",
+      "dateRange": "2000 – 2004"
+    }
+  ],
+  "skills": [
+    "Numerical Simulation",
+    "Six Sigma Green Belt",
+    "Project Management",
+    "Technical Leadership",
+    "Product Development",
+    "Reliability Engineering",
+    "Materials"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Infineon Technologies",
+    "tagline": null,
+    "description": "Semiconductors are crucial to solve the energy challenges of our time and shape the digital transformation. This is why Infineon is committed to actively driving decarbonization and digitalization. As a global semiconductor leader in power systems and IoT, we enable game-changing solutions for green and efficient energy, clean and safe mobility, as well as smart and secure IoT. We make life easier, safer, and greener. Together with our customers and partners. For a better tomorrow.\n\nTogether, with more than 58,000 people from over 100 countries, we are not just shaping the future. We are redefining it. We engineer innovative products, while caring for our people and empowering them to reach ambitious goals. We offer work-life balance, long term growth and a supportive environment where individuality is celebrated. \n\n#WeAreIn for driving decarbonization and digitalization. Are you in?",
+    "industry": "Semiconductor Manufacturing",
+    "website": "https://www.infineon.com",
+    "linkedInUrl": "https://www.linkedin.com/company/infineon-technologies",
+    "employeeCount": 43749,
+    "foundedYear": null,
+    "location": "Neubiberg, München, Germany",
+    "specialities": [
+      "Energy Efficiency",
+      "Mobility",
+      "Security",
+      "decarbonization",
+      "digitalization",
+      "Internet of Things"
+    ]
+  }
+}

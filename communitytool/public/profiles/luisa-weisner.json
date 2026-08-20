@@ -1,0 +1,193 @@
+{
+  "id": "luisa-weisner",
+  "name": "Luisa Weisner (Kaufmann)",
+  "headline": "Human-Technology Systems @ Cambridge | CDTM & LMU | Product Management IoT & AI",
+  "avatar": {
+    "sm": "/avatars/luisa-weisner-sm.webp",
+    "lg": "/avatars/luisa-weisner.webp",
+    "blur": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAACQBgCdASogACAAPs1OokunpCMht/VYAPAZiWIAxn5sB1wO+6ScdMzVHf0uYCb7SKAiD7CvCkVuhzlTr+gAAP79e1gSFelZH+5e02FYU1/yMmTNiaAlLY1JFsl/IRgR/8kwtvjd0mF2YgS2tVXST+0BZ5vzYK7bmB1MmGBj8IWY/Xge08hu9S1U6SXkRnYX/ZVEXoU8QaMNzkKX8st0JSObBZhcLIWEwt4wHrTfXOt73CwHwGnRSI3TnFH/ZfJlOXB0D/aSTOFkuENLnnSnJjfBA2s7qNQusKzhmw/IAPLBIH82UH7tCpWhBhP5o/AA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/luisa-weisner",
+  "personId": 1028,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Luisa Kaufmann",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Product Manager (AI)",
+      "company": "XCNT",
+      "companyUrl": "https://www.linkedin.com/company/xcnt",
+      "description": "- Owner of CENTROTEC’s AI product portfolio: strategy, roadmap, backlog, user stories, dev coordination, stakeholder alignment\n- AI Literacy: launched a company-internal LLM on OpenWebUI; established feedback loops and issue triage; iterate on usability and adoption\n- AI Use Cases: Lead end-to-end product work for enterprise AI solutions—discovery and problem framing, prioritization, MVP scope and KPIs, rapid prototyping/validation, and iterative delivery with engineering and stakeholders\n- Scale & Enablement: Drive cross-functional alignment, governance, and clear documentation (how-tos, FAQs, change notes) to ensure secure adoption and reuse across business units",
+      "location": "Berlin, Germany",
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Product Manager (DRIVR)",
+      "company": "XCNT",
+      "companyUrl": "https://www.linkedin.com/company/xcnt",
+      "description": "- Managed product roadmap and backlog for DRIVR, an IoT PaaS offering at XCNT in Berlin.\n- Defined technical requirements and DoDs for features, collaborating closely with development and QA teams.\n- Led scrum team in executing ceremonies and conceptualized user stories and feature requirements.\n- Balanced backlog and active user requirements in roadmap management and feature prioritization",
+      "location": "Berlin",
+      "start": "2022-07",
+      "end": "2025-12",
+      "dateRange": "Jul 2022 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Strategic Products Associate",
+      "company": "HomeToGo",
+      "companyUrl": "https://www.linkedin.com/company/hometogo",
+      "description": "Strategic payment platform planning, integration and development",
+      "location": "Berlin, Germany",
+      "start": "2020-09",
+      "end": "2021-06",
+      "dateRange": "Sep 2020 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "HomeToGo",
+      "companyUrl": "https://www.linkedin.com/company/hometogo",
+      "description": "- Led the rebuild of HomeToGo’s Payments Platform, opening it up to multiple third-party PSPs for both pay-in and payout flows.\n- Expanded the platform’s reach by delivering a public Payments API and integrating it across other HomeToGo products in partnership with engineering.\n- Drove scalability and service independence initiatives, diagnosing bottlenecks and championing architecture improvements with the tech leads.\n- Balanced near-term fixes and long-term bets by continuously re-ranking roadmap items against business impact and effort.\n- Guided external partners through onboarding and KYC implementation, ensuring smooth go-lives and compliant operations.",
+      "location": "Berlin, Germany",
+      "start": "2020-08",
+      "end": "2022-07",
+      "dateRange": "Aug 2020 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "External Consultant in Business Development",
+      "company": "VOLTARO",
+      "companyUrl": "https://www.linkedin.com/company/voltaroenergy",
+      "description": "- Entrepreneurship laboratory with the Center of Digital Technology and Management\n- Identification of long-term business opportunities in the building energy space\n- Challenging of identified opportunities from a customer perspective on their necessity and desirability for landlords and tenants\n- Assessment of opportunities by market value and potential profitability\n- Determination of short-and mid-term strategies to realize the identified opportunities",
+      "location": "Munich, Bavaria",
+      "start": "2020-04",
+      "end": "2020-08",
+      "dateRange": "Apr 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Product Development Consultant E.ON Future Lab",
+      "company": "E.ON",
+      "companyUrl": "https://www.linkedin.com/company/e-on",
+      "description": "Support of E.ON Future Lab for 4 months as a product development consultant\n- Joint open innovation project\n- Prototype development based on new and advanced sensor technology\n- Market and user research for use case identification\n- Business modelling of respective idea\n- Definition of market potential, go-to-market strategy and future vision",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-04",
+      "end": "2019-07",
+      "dateRange": "Apr 2019 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "External Consultant in Trend & Futures Research",
+      "company": "GEA Group",
+      "companyUrl": "https://www.linkedin.com/company/geagroup",
+      "description": "Trend & future research in the field of agricultural technology applications, smart farming and intelligent livestock and yield management systems in a collaborative project between GEA Group and the Center for Digital Technology and Management.\n\nWorking in teams of 4-5 students:\n- Analysis of current trends and various driver dimensions\n- Identification and elaboration of possible future scenarios\n- Ideation of future products and services and development of a business model and plan\n- Creation, editing and publishing of a 200-page \"Trend Report\"",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-02",
+      "end": "2019-04",
+      "dateRange": "Feb 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Business Development Intern",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "•\tBusiness Development Intern within OCP Germany\n•\tConceptualization and execution of business development projects in collaboration with Microsoft partner companies / system integrators and advisors\n•\tStrategic integration of a new recruit motion within the partner organization\n•\tDevelopment of strategic alliances with digital agencies within the Microsoft partner organization",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-09",
+      "end": "2019-01",
+      "dateRange": "Sep 2018 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Product Management and Marketing Intern",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": "•\tIntern Product Management and Marketing for Amazon Prime\n•\tConception and execution of cross product strategies in cooperation with external partner companies\n•\tProgram development for Amazon video and Prime Student\n•\tConstant analysis and reporting of important KPIs and automatization of reporting processes\n•\tStrategic development and localization of international roll-out campaigns",
+      "location": "München, Deutschland / London, UK",
+      "start": "2017-04",
+      "end": "2017-09",
+      "dateRange": "Apr 2017 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Digital Product Management Intern",
+      "company": "Hubert Burda Media",
+      "companyUrl": "https://www.linkedin.com/company/hubert-burda-media",
+      "description": "•\tIntern Digital Product Management for BurdaNews\n•\tContinuous reporting, development and optimization of the product-, brand- and service portfolio\n•\tSupport of the Hubert Burda Media UK product-management Team in Colchester\n•\tManagement, production and distribution of digital content via different channels",
+      "location": "München, Deutschland / Corchester, UK",
+      "start": "2016-10",
+      "end": "2017-03",
+      "dateRange": "Oct 2016 – Mar 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Honors Degree, Human-Technology Systems and Product Support, Cyber-Human Lab at the Department of Engineering",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Digital Technology Management",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Business Administration",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Business Administration",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Chatham High School",
+      "degree": "Semester abroad",
+      "dateRange": null
+    },
+    {
+      "school": "Gymnasium Beilngries",
+      "degree": "Abitur",
+      "dateRange": "2005 – 2013"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "XCNT",
+    "tagline": "We build software with a digital heart and an industrial soul.",
+    "description": "XCNT is the digital product builder of Centrotec SE, a group of European manufacturers. We launch our ideas within this group but design them to scale beyond.",
+    "industry": "Technology, Information and Internet",
+    "website": "http://www.xcnt.io",
+    "linkedInUrl": "https://www.linkedin.com/company/xcnt",
+    "employeeCount": 16,
+    "foundedYear": 2018,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

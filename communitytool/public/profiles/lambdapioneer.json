@@ -1,0 +1,143 @@
+{
+  "id": "lambdapioneer",
+  "name": "Daniel Hugenroth",
+  "headline": "Software engineer and security researcher",
+  "avatar": null,
+  "location": "Cambridge, United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/lambdapioneer",
+  "personId": 1433,
+  "classes": [
+    {
+      "id": 71,
+      "label": "Spring 2012",
+      "season": "Spring",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2012",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Daniel Hugenroth",
+  "ca": null,
+  "summary": "I am a computer security researcher and software engineer based in Cambridge, UK. As an experienced engineer, I have delivered technically complex projects in both small start-ups and large companies. This work stretches from design and implementation of novel cryptographic protocols to delightful and performant mobile apps. My academic interests revolve around confidential compute, trusted builds, AI, applied cryptography, and mobile security.",
+  "positions": [
+    {
+      "title": "Postdoctoral Researcher & Affiliated Lecturer",
+      "company": "University of Cambridge",
+      "companyUrl": "https://www.linkedin.com/company/university-of-cambridge",
+      "description": "My research focuses on secure and anonymous communication, security, mobile devices, applied cryptography, and privacy. Always looking for interesting problems and keen to discuss collaborations.",
+      "location": "Cambridge, England, United Kingdom",
+      "start": "2023-04",
+      "end": null,
+      "dateRange": "Apr 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Independent security consultant",
+      "company": "The Guardian",
+      "companyUrl": "https://www.linkedin.com/company/theguardian",
+      "description": "Engaged as a contracting security consultant: design and implementation of a secure messaging protocol (Android, iOS, Rust backend) based on the latest academic research; education of stake holders; preparation for large security audit by a third party; and launching as CoverDrop in June 2025.",
+      "location": "London Area, United Kingdom",
+      "start": "2022-08",
+      "end": null,
+      "dateRange": "Aug 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Engineering Fellowship (3 months program)",
+      "company": "Tech4Germany",
+      "companyUrl": "https://www.linkedin.com/company/tech4germany",
+      "description": "- Problem analysis, design, and implementation of a user-centred prototype in a small team in close collaboration with the Federal Ministry of Finances. \n- Presented the results to the Federal Minister of Finance and Vice-Chancellor Olaf Scholz.",
+      "location": "Berlin, Germany",
+      "start": "2020-07",
+      "end": "2020-10",
+      "dateRange": "Jul 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer / Tech Lead",
+      "company": "Facebook",
+      "companyUrl": "https://www.linkedin.com/company/facebook",
+      "description": "- Android engineering: open-source development, performance, robustness, developer velocity\n- Images Infrastructure: Image formats and processing with focus on mobile clients\n- Recognition for impactful work: presentation in front of the company next to Mark Zuckerberg\n- Open-Source Libraries: https://libspectrum.io (author), https://frescolib.org (maintainer)",
+      "location": "London Area, United Kingdom",
+      "start": "2015-11",
+      "end": "2019-07",
+      "dateRange": "Nov 2015 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineer (Student Position)",
+      "company": "Payworks",
+      "companyUrl": "https://www.linkedin.com/company/payworks-gmbh",
+      "description": "- Android Engineering: SDK development, mPOS integration using the GlobalPlatform protocol standards\n- End-to-end testing infrastructure (including a LEGO robot)",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2013 – Dec 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Doctor of Philosophy - PhD, Computer Science",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Informatics (Computer Science)",
+      "dateRange": "2010 – 2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Master, Technology Management",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "University of Melbourne",
+      "degree": "Computer Science",
+      "dateRange": "2014"
+    }
+  ],
+  "skills": [
+    "Cryptography",
+    "Rust (Programming Language)",
+    "Kotlin",
+    "Android",
+    "Android NDK",
+    "Digital Image Processing",
+    "Project Management",
+    "Information Security",
+    "Research",
+    "Mobile Applications",
+    "C++",
+    "Java",
+    "Android SDK"
+  ],
+  "languages": [],
+  "company": {
+    "name": "University of Cambridge",
+    "tagline": null,
+    "description": "The University of Cambridge is one of the world's foremost research universities.\n\nThe University is made up of 31 Colleges and over 150 departments, faculties, schools and other institutions. Its mission is 'to contribute to society through the pursuit of education, learning, and research at the highest international levels of excellence'​.",
+    "industry": "Research Services",
+    "website": "https://www.cam.ac.uk/",
+    "linkedInUrl": "https://www.linkedin.com/company/university-of-cambridge",
+    "employeeCount": 20216,
+    "foundedYear": null,
+    "location": "Cambridge, United Kingdom",
+    "specialities": [
+      "Research",
+      "Learning",
+      "Teaching",
+      "Education"
+    ]
+  }
+}

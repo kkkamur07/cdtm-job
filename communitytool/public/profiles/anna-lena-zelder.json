@@ -1,0 +1,246 @@
+{
+  "id": "anna-lena-zelder",
+  "name": "Anna-Lena Zelder",
+  "headline": "BCG | CDTM | LMU",
+  "avatar": {
+    "sm": "/avatars/anna-lena-zelder-sm.webp",
+    "lg": "/avatars/anna-lena-zelder.webp",
+    "blur": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAADQBQCdASogACAAPtFcpk4oJSMiKAqpABoJQBdg1gFoRrNsaKcULNH+JQuqmEn5tUE7rbQjqvoAAP781J585/OxwH57EPu6isFqwvZW3zH1iE22xhstBysLTW3BJzkPQ9CqsWry7F5M09K/GXbRx5oaw7dS3YW1IiyGXM+nQi71m+7YVfO7/fqm81DEYzaEe/8ezr3RP35RDvyrf3ocegX2jR+bbV54RBD/4zOZqUm+5frwM+s175zshoLExWVqoDAtWxLz+UIU4s2QXdvlIud8Fs4hDVbbli3Yj4aAAAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/anna-lena-zelder",
+  "personId": 1187,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Anna-Lena Zelder",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Consultant",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2024-06",
+      "end": "2026-02",
+      "dateRange": "Jun 2024 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Junior Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2023-09",
+      "end": "2024-05",
+      "dateRange": "Sep 2023 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Analyst",
+      "company": "AENU",
+      "companyUrl": "https://www.linkedin.com/company/aenu",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2022-10",
+      "end": "2023-01",
+      "dateRange": "Oct 2022 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Econos | Founders Associate Working Student",
+      "company": "Pelion Green Future",
+      "companyUrl": "https://www.linkedin.com/company/peliongreenfuture",
+      "description": null,
+      "location": null,
+      "start": "2022-04",
+      "end": "2022-09",
+      "dateRange": "Apr 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Econos | Founders Associate Intern",
+      "company": "Pelion Green Future",
+      "companyUrl": "https://www.linkedin.com/company/peliongreenfuture",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-03",
+      "end": "2022-04",
+      "dateRange": "Mar 2022 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate - Pre-Seed Investments",
+      "company": "Flash Ventures",
+      "companyUrl": "https://www.linkedin.com/company/flashvc",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-11",
+      "end": "2022-01",
+      "dateRange": "Nov 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2021-08",
+      "end": "2021-10",
+      "dateRange": "Aug 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Business Development Working Student",
+      "company": "finn.auto",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-11",
+      "end": "2021-02",
+      "dateRange": "Nov 2020 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Business Development Intern User Acquisition",
+      "company": "finn.auto",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-09",
+      "end": "2020-11",
+      "dateRange": "Sep 2020 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "Simon-Kucher & Partners",
+      "companyUrl": "https://www.linkedin.com/company/simon-kucher",
+      "description": null,
+      "location": "Munich, Bavaria",
+      "start": "2020-03",
+      "end": "2020-05",
+      "dateRange": "Mar 2020 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Customer Operations Working Student",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-11",
+      "end": "2020-02",
+      "dateRange": "Nov 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Customer Operations Intern",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "Munich, Bavaria",
+      "start": "2019-08",
+      "end": "2019-11",
+      "dateRange": "Aug 2019 – Nov 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor's degree, Business Administration and Management, General",
+      "dateRange": "2018 – 2022"
+    },
+    {
+      "school": "University of Regensburg",
+      "degree": "Psychology",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "St. Marien-Gymnasium Regensburg",
+      "degree": "Abitur",
+      "dateRange": "2008 – 2016"
+    }
+  ],
+  "skills": [
+    "Social Media-Marketing",
+    "Projektmanagement",
+    "Microsoft Office",
+    "Englisch",
+    "Digitales Marketing"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Boston Consulting Group (BCG)",
+    "tagline": null,
+    "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.\n \nOur diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. \n\nWe work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.\n\nBCG Privacy Policy: https://www.bcg.com/about/privacy-policy.aspx",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bcg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/boston-consulting-group",
+    "employeeCount": 41217,
+    "foundedYear": 1963,
+    "location": "Boston, United States",
+    "specialities": [
+      "Consumer insight",
+      "corporate development",
+      "corporate finance",
+      "digital economy",
+      "globalization",
+      "growth",
+      "information technology",
+      "innovation",
+      "marketing & sales",
+      "operations",
+      "people & organization",
+      "postmerger integration",
+      "risk management",
+      "strategy",
+      "sustainability",
+      "transformation",
+      "climate",
+      "artificial intelligence",
+      "cost transformation",
+      "supply chains"
+    ]
+  }
+}

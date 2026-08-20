@@ -1,0 +1,119 @@
+{
+  "id": "irmanabdic",
+  "name": "Irman Abdić",
+  "headline": "Co-Founder @ Pipelogic | Mentor at CDTM, TUM.ai & EU EIC",
+  "avatar": {
+    "sm": "/avatars/irmanabdic-sm.webp",
+    "lg": "/avatars/irmanabdic.webp",
+    "blur": "data:image/webp;base64,UklGRmABAABXRUJQVlA4IFQBAABwBwCdASogACAAPtFWpk2oJCOiMBgIAQAaCWwAnTKEgrWgNtWk6/u3YRkA+ummsr/gZSYfIrDJlsFRoLCynawuys3gQAD+PY+Jp9pNi1xvnsPpJriBzS63/AuSS6RURyBjTNcBwIoeEYDq5/yaI2h8p3IuY2UYi8OP6dfin2sLj8A0b0OrbfL/d08aLybCECpPOTzOasNUv6foDAeRhq4Vska1xFJP0KChPeY00bt/wVNiUO95tQoKHPYUTVnrf/oFndqZ74+uE+2VyIZBwYtvFIW015CMjXAe+P3pzYX1+7+TRAmzMUliiyCAva69p7H6Mw6pvnAN+jDu0gJKWCDqEEYZ66ZBdYF6L5ImDYNTavQi+NynYotUtOQmM5vzW//ziNJz/tNbRRqHj8md10EdozuNKp/er5w2SkCaVMQIBJF1n60rOlz+8QUeuzaIjZZwAAAA"
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/irmanabdic",
+  "personId": 1239,
+  "classes": [
+    {
+      "id": 77,
+      "label": "Spring 2015",
+      "season": "Spring",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2015",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Irman Abdić",
+  "ca": null,
+  "summary": "I am passionate about creating value through innovation in Artificial Intelligence for our clients, partners and shareholders. My work is broadly inspired by the theories of Prof. Marvin Minsky and Prof. Björn Schuller.\n\nI studied Computer Science and wrote my graduate thesis in field of Machine Intelligence at TUM and MIT under supervision of Lex Fridman (way before he became famous with his youtube videos). Soon after, I earned my Honors Degree in Technology Management at CDTM. I had a chance to stay abroad at Tel Aviv University and Tsinghua University. During my studies, I won numerous innovation competitions with somewhat novel research, useful business ideas and funky inventions.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Pipelogic",
+      "companyUrl": "https://www.linkedin.com/company/pipelogic-ai",
+      "description": null,
+      "location": null,
+      "start": "2025-05",
+      "end": null,
+      "dateRange": "May 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder",
+      "company": "Bleenco",
+      "companyUrl": "https://www.linkedin.com/company/bleenco",
+      "description": null,
+      "location": null,
+      "start": "2017-04",
+      "end": null,
+      "dateRange": "Apr 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Managing Partner",
+      "company": "Dataciders Catenate",
+      "companyUrl": "https://www.linkedin.com/company/catenate",
+      "description": "As a partner and managing director, with the direct reporting line to the president of the group:\n• I co-founded Catenate d.o.o., business unit for enterprise software development. \n• Built, managed and scaled technical teams in Slovenia and Germany. \n• Worked with automotive and insurance companies on large digitalisation projects.",
+      "location": null,
+      "start": "2014-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2014 – Dec 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Tel Aviv University",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Univerza na Primorskem",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Getting things done",
+    "Getting Things Done"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Pipelogic",
+    "tagline": "Backend infrastructure for AI applications",
+    "description": "Building AI on your own is hard. Pipelogic helps you build AI solutions in minutes.",
+    "industry": "Software Development",
+    "website": "https://www.pipelogic.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/pipelogic-ai",
+    "employeeCount": 2,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

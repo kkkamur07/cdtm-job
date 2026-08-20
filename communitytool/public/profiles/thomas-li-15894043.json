@@ -1,0 +1,255 @@
+{
+  "id": "thomas-li-15894043",
+  "name": "Thomas Li",
+  "headline": "Global Director, AI Transformation @ Olympus | Guest Lecturer | Ivey, TUM & CDTM Alum | Avid Traveller (45+ Countries)",
+  "avatar": {
+    "sm": "/avatars/thomas-li-15894043-sm.webp",
+    "lg": "/avatars/thomas-li-15894043.webp",
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAADQBQCdASogACAAPs1Yo0unpSMhsBgMAPAZiWIAVf1b0MttjQll+mj6yHvgQ+SWkn8XIOalUZAAAP7+qyEae0b/Uy67fDVEqqy9iXt7C1cAqKibCkYrwzo4q8PnU5n/6JHQnfUeRP+JZ2FGC6z+VMMYNXihLJpJC6LsDxCEM5n01+SDY5p3HH/Mw7DEVdmkHRXeir0lS1SIFC1ttveMYFtTdYSvL8su5nOLHYZe0xevCJPCWwMtdg1e4Seq9bRN76DvKSs+DDN35YepVfmUe6QTc2cIVWL+jiLWFLwA"
+  },
+  "location": "Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/thomas-li-15894043",
+  "personId": 1025,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Consumer Affairs",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Thomas Li",
+  "ca": null,
+  "summary": "I take pride in relentlessly pursuing what makes me happy: delivering novel solutions (currently GenAI), landing in another new country, or finding the next best sushi restaurant.",
+  "positions": [
+    {
+      "title": "Global Director, AI Transformation",
+      "company": "Olympus Corporation",
+      "companyUrl": "https://www.linkedin.com/company/olympus-corp",
+      "description": "Reporting directly to our Global CIO to:\n\n- Co-lead internal (Gen)AI strategy globally\n- Lead the development and launch of Olympus’ internal GenAI platform for employees worldwide; 11,000+ active users and 7-digit savings\n- Lead the Global AI Transformation Team (project managers, data scientists/ML engineers, communication specialists, AI strategists) to build 10+ GenAI solutions across EMEA, APAC, and Americas.\n\nFY2026 CEO Award (America Region)",
+      "location": "Hamburg, Germany",
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Guest Lecturer",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Behavioral Economics/Consumer Behavior",
+      "location": null,
+      "start": "2023-11",
+      "end": null,
+      "dateRange": "Nov 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Global AI Transformation Lead",
+      "company": "Olympus Corporation",
+      "companyUrl": "https://www.linkedin.com/company/olympus-corp",
+      "description": null,
+      "location": null,
+      "start": "2024-07",
+      "end": "2025-03",
+      "dateRange": "Jul 2024 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "Senior AI Transformation Strategist",
+      "company": "appliedAI Initiative GmbH",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": "AI Strategy for DAX30",
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-07",
+      "dateRange": "Jan 2024 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Research Associate",
+      "company": "University of St.Gallen",
+      "companyUrl": "https://www.linkedin.com/company/university-of-st-gallen",
+      "description": "Emotions, decision-making and AI-enabled behavioral analysis",
+      "location": "St Gallen, Switzerland",
+      "start": "2020-09",
+      "end": "2024-03",
+      "dateRange": "Sep 2020 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Change Manager (AI)",
+      "company": "Allianz",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": "Design,  evaluate, and conceptualize AI-focused solutions within Allianz (or through acqusition of firms), with a focus on maximizing ROI, ensuring process efficiency and maintaining employee buy-in",
+      "location": "Munich Area, Germany",
+      "start": "2018-05",
+      "end": "2019-07",
+      "dateRange": "May 2018 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Product / Strategy Roles in AI",
+      "company": "Various Startups",
+      "companyUrl": "https://www.linkedin.com/company/various-startups1",
+      "description": "WeWalk (Microsoft-backed): AI-powered white cane for the visually impaired\n\nmetris.io (TUM and German-gov't backed): NLP-powered trend analysis based on news data",
+      "location": null,
+      "start": "2017-03",
+      "end": "2020-09",
+      "dateRange": "Mar 2017 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "AI External Consultant",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Developing AI-enabled predictive maintenance (using machine vision) for gas turbines.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2017 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Assistant Product Manager",
+      "company": "Cornerstone OnDemand",
+      "companyUrl": "https://www.linkedin.com/company/cornerstoneondemand",
+      "description": "Generated and prioritized new product ideas, managed internal software development resources, conducted customer interviews, and enabled the sales team for core HR products. \n\n(formerly Halogen Software)",
+      "location": "Ottawa, Canada",
+      "start": "2014-07",
+      "end": "2016-07",
+      "dateRange": "Jul 2014 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Strategy Consultant (Intern)",
+      "company": "Air Canada",
+      "companyUrl": "https://www.linkedin.com/company/air-canada",
+      "description": "Conceptualized a new loyalty product for Aeroplan (Star Alliance - Air Canada), including its financial, customer, marketing and implementation strategy.",
+      "location": "Toronto, Canada Area",
+      "start": "2013-05",
+      "end": "2013-08",
+      "dateRange": "May 2013 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Analyst (Intern)",
+      "company": "Morgan Stanley",
+      "companyUrl": "https://www.linkedin.com/company/morgan-stanley",
+      "description": null,
+      "location": null,
+      "start": "2012-05",
+      "end": "2012-08",
+      "dateRange": "May 2012 – Aug 2012",
+      "current": false
+    },
+    {
+      "title": "Financial Services Advisor",
+      "company": "TD Bank Group",
+      "companyUrl": "https://www.linkedin.com/company/td",
+      "description": "Provided tailored banking advice for customer, alongside up-sells and cross-sells. Exceeded quarterly targets by over 200%.",
+      "location": null,
+      "start": "2012-01",
+      "end": "2013-04",
+      "dateRange": "Jan 2012 – Apr 2013",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "Dino Trading Company",
+      "companyUrl": null,
+      "description": "Led the market entry of a luxury-goods manufacturer (U&G Trading) into Canada to provide fashion-forward custom attire.",
+      "location": "Canada",
+      "start": "2010-01",
+      "end": "2012-04",
+      "dateRange": "Jan 2010 – Apr 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of St.Gallen",
+      "degree": "Doctorate, Management and Strategy",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Consumer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Master's degree, Honors Degree in Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ivey Business School at Western University",
+      "degree": "Bachelor of Arts (B.A.), Honors Business Administration",
+      "dateRange": null
+    },
+    {
+      "school": "Università Bocconi",
+      "degree": "Bachelor of Arts (B.A.), Honors Business Administration",
+      "dateRange": null
+    },
+    {
+      "school": "Western University",
+      "degree": "Bachelor of Arts (B.A.), Psychology",
+      "dateRange": null
+    },
+    {
+      "school": "Webber Academy",
+      "degree": "High School Diploma",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Teamwork",
+    "Public Speaking",
+    "Team Leadership",
+    "Time Management",
+    "Customer Service",
+    "Marketing",
+    "Microsoft Excel",
+    "Event Planning",
+    "PowerPoint",
+    "Strategic Planning",
+    "Analysis",
+    "Microsoft Word",
+    "Financial Analysis",
+    "Microsoft Office",
+    "Data Analysis",
+    "Research",
+    "Event Management",
+    "Social Networking",
+    "Analytical Skills",
+    "Marketing Strategy"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "company": {
+    "name": "Olympus Corporation",
+    "tagline": null,
+    "description": "Olympus is passionate about creating customer-driven solutions for the medical industry. For more than 100 years, Olympus has focused on making people’s lives healthier, safer and more fulfilling by helping detect, prevent, and treat disease, furthering scientific research, and ensuring public safety. Olympus is headquartered in Tokyo, Japan, with more than 31,000 employees worldwide in nearly 40 countries and regions.",
+    "industry": "Medical Equipment Manufacturing",
+    "website": "https://www.olympus-global.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/olympus-corp",
+    "employeeCount": 13582,
+    "foundedYear": 1919,
+    "location": "Shinjuku-ku, Japan",
+    "specialities": []
+  }
+}

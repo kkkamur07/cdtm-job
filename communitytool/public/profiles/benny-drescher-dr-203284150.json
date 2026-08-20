@@ -1,0 +1,176 @@
+{
+  "id": "benny-drescher-dr-203284150",
+  "name": "Benny Drescher Dr.",
+  "headline": "Director Technology AI Solution Engineering at INC",
+  "avatar": null,
+  "location": "Hong Kong SAR",
+  "linkedInUrl": "https://www.linkedin.com/in/benny-drescher-dr-203284150",
+  "personId": 1865,
+  "classes": [
+    {
+      "id": 63,
+      "label": "Spring 2008",
+      "season": "Spring",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2008",
+  "major": "Electrical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Benny Drescher",
+  "ca": null,
+  "summary": "Dr. Benny Drescher is a recognized leader in Industrial Artificial Intelligence and Robotics, bringing over 15 years of experience supporting manufacturing companies in adopting cutting-edge technological solutions. He has delivered presentations at more than 30 international conferences and authored over 30 technical publications. \n\nCurrently, Dr. Drescher serves as Director of Technology, AI Solution Engineering at INC Innovation Center, with operations in both Hong Kong, SAR China, and Aachen, Germany. In addition, he helped to establish the Hong Kong Industrial AI and Robotics Centre and holds the position of Chief Technology Officer there since 2020. Dr. Drescher is also Guest Lecturer at Hang Seng University in Hong Kong and Advisor to the German Accelerator in Singapore. \n\nPreviously, he co-founded two startups specializing in drone technology and data analytics. His engineering experience includes projects with automotive, production equipment, and manufacturing companies across Germany, Japan, South Korea, and China. He has conducted research in mechatronics, sensor systems, and robotics at Fraunhofer, the Technical University of Munich (TUM), and MIT. Dr. Drescher holds a B.Sc. and M.Sc. in Electrical Engineering and Information Technology, as well as a Dr.-Ing. (Ph.D.) in Mechanical Engineering from TUM. He also earned an Honors Degree in Technology Management from the Center for Digital Technology and Management.",
+  "positions": [
+    {
+      "title": "Director Technology AI Solution Engineering",
+      "company": "INC Innovation Center",
+      "companyUrl": "https://www.linkedin.com/company/inc-innovation-center",
+      "description": "I am responsible for building AI-based software solutions for industrial use, guiding a team of engineers in project delivery, ensure quality standards/timelines, support software/mechatronic design.\n\n✔ Building a team of >10 engineers and consultants\n✔ Establishing expertise in Industrial AI and Robotics\n✔ Consulting and implementing projects with industrial partners",
+      "location": "Hong Kong, SAR China",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief Technology Officer",
+      "company": "Hong Kong Industrial Artificial Intelligence and Robotics Centre (FLAIR)",
+      "companyUrl": "https://www.linkedin.com/company/innohk-flair",
+      "description": "The Hong Kong Industrial Artificial Intelligence and Robotics Centre is a cooperation of RWTH Aachen Campus and Hong Kong Productivity Council. The Centre is located in Hong Kong Science Park and part of the InnoHK Programme. The team at the Centre builds landing technologies in Digital Twin, Computer Vision, and Smart Machineries for the manufacturing industry.\n\nI lead a R&D team of more than 25 scientists, developers, and engineers. My responsibilities lie in connecting the applied research teams in Aachen and Hong Kong; hiring, coaching, and mentoring of R&D team members; ensuring program timeline, quality, and milestones; designing and reviewing software code/architecture and mechatronic designs in projects; establishing technology stack for AI solution development; define scientific research direction; ensure high-quality and practical engineering application in industry.\n\n ✔ Hired and lead a diverse/international team of more than 25 R&D members\n ✔ Formed R&D organisation with three pillars in Digital Twin, Computer Vision, Smart Machinery\n ✔ Contributed to more than 15 publications or patents, 2 awards, 1 spin-off foundation\n ✔ Established partnerships with more than 15 industrial companies in China, Germany, and worldwide\n ✔ Kicked off of more than 10 long-term AI projects with 5 projects in implementation stage at factory site",
+      "location": "Hong Kong, SAR China",
+      "start": "2020-01",
+      "end": null,
+      "dateRange": "Jan 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Director Technology Artificial Intelligence",
+      "company": "INC Innovation Center",
+      "companyUrl": "https://www.linkedin.com/company/inc-innovation-center",
+      "description": "Establishing a technical team in Industrial Artificial Intelligence for international project delivery",
+      "location": "Hong Kong",
+      "start": "2018-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2018 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and Managing Director",
+      "company": "Technovation GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2016-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2016 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Dronefence GmbH",
+      "companyUrl": null,
+      "description": "Develop technical systems for drone/UAV, acquire investors and customers worldwide.",
+      "location": null,
+      "start": "2016-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2016 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Research Associate",
+      "company": "Fraunhofer IGCV",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-igcv",
+      "description": "formerly known as Fraunhofer RMV together with Institute for Machine Tools and Industrial Management, Technical University of Munich",
+      "location": "Augsburg, Bavaria, Germany",
+      "start": "2012-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2012 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Porsche Consulting; SITEC Industrietechnologie; Daimler AG and Mitsubishi Fuso Truck",
+      "companyUrl": null,
+      "description": "Design-to-Cost/Development of automation systems in automotive, machinery, optical industry.",
+      "location": null,
+      "start": "2007-01",
+      "end": "2010-12",
+      "dateRange": "Jan 2007 – Dec 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr.-Ing. (Ph.D.), Mechanical Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Scholar, Laboratory for Manufacturing and Productivity",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc. and M.Sc., Electrical Engineering and Information Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science, Electrical and Electronics Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Bachelor's Degree, Information Technology Project Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Philosophy, Mechanical Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Researcher, Manufacturing Engineering",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Artificial Intelligence (AI)",
+    "Technology Leadership",
+    "Digital Manufacturing",
+    "Global R&D",
+    "Mobile Robotics",
+    "Industry 4.0",
+    "Robotics",
+    "Software Development",
+    "Digital Technology"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Hong Kong Industrial Artificial Intelligence and Robotics Centre (FLAIR)",
+    "tagline": null,
+    "description": "The Hong Kong Productivity Council (HKPC) and the RWTH Aachen Campus (RWTH Campus) from Germany join forces to establish the Hong Kong Industrial Artificial Intelligence & Robotics Centre (FLAIR) at the Hong Kong Science Park to support Hong Kong’s development into an international innovation & technology hub.\n\nAs the sole founder, HKPC will work together with RWTH Campus, the major collaborator of FLAIR, by bundling their strengths and repertoire of resources in technical expertise, networks, innovation and patents etc. to set up the FLAIR and support its operation.",
+    "industry": "Appliances, Electrical, and Electronics Manufacturing",
+    "website": "http://www.hkflair.org",
+    "linkedInUrl": "https://www.linkedin.com/company/innohk-flair",
+    "employeeCount": 24,
+    "foundedYear": null,
+    "location": "Hong Kong, Hong Kong SAR China",
+    "specialities": []
+  }
+}

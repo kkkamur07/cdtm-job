@@ -1,0 +1,195 @@
+{
+  "id": "elisabeth-goebel",
+  "name": "Elisabeth Goebel",
+  "headline": "Strategy & Operations @Zeit AI | CDTM",
+  "avatar": {
+    "sm": "/avatars/elisabeth-goebel-sm.webp",
+    "lg": "/avatars/elisabeth-goebel.webp",
+    "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAADwBQCdASogACAAPtFOpkuoI6OhsBgMAQAaCUAZQzQAgcFb9814InTsNmf5JED4t/v0mxMs1mIMwAD+/NgaB/A4IoteXVndx7u+F9HkelrSf8ckf9MRdI9REHLRPvJ/2gkt4rrUGPSR5iaZgqdH+45fMxNV7x/TPrRaBt2M9adj7PcCB5j/kfrnQa5curPKSnMJWZODFxpmKdeqvZZQufbTlBfWssNidlgR0hIqnxTRJ0s8n4OQyWwI6h4E73FkQY0FnJXgDCiCOMlelGpVnypFebI0M4ij0RvCIlDCRj84ZYIhGVzCv24CgN+cssWl8jdoYrPt6AKuvcAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/elisabeth-goebel",
+  "personId": 1300,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Elisabeth Goebel",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Strategy & Ops",
+      "company": "Zeit AI (YC S24)",
+      "companyUrl": "https://www.linkedin.com/company/zeit-ai",
+      "description": null,
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Junior Value Creation Analyst",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": "Early-stage VC backing European B2B tech startups",
+      "location": null,
+      "start": "2025-07",
+      "end": "2026-01",
+      "dateRange": "Jul 2025 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Co-Founder ISAR Unfiltered",
+      "company": "START Munich",
+      "companyUrl": "https://www.linkedin.com/company/startmunich",
+      "description": "Bits & Pretzels side-event for radically honest founders",
+      "location": null,
+      "start": "2025-07",
+      "end": "2025-10",
+      "dateRange": "Jul 2025 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Founders Associate Product | osapiens terra",
+      "company": "osapiens",
+      "companyUrl": "https://www.linkedin.com/company/osapiens",
+      "description": "ESG and supply-chain compliance platform",
+      "location": null,
+      "start": "2024-07",
+      "end": "2024-12",
+      "dateRange": "Jul 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "BCG Platinion",
+      "companyUrl": "https://www.linkedin.com/company/bcg-platinion",
+      "description": "BCG’s specialized tech/IT expert unit",
+      "location": null,
+      "start": "2023-09",
+      "end": "2023-10",
+      "dateRange": "Sep 2023 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Founders Associate Ops",
+      "company": "Circus Group",
+      "companyUrl": "https://www.linkedin.com/company/circus-se",
+      "description": "Formerly Aitme - a fully automated robotic kitchen solution focused on B2B customers",
+      "location": null,
+      "start": "2023-02",
+      "end": "2023-07",
+      "dateRange": "Feb 2023 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Founders Associate",
+      "company": "getvoila",
+      "companyUrl": "https://www.linkedin.com/company/getvoila",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2022-11",
+      "end": "2023-02",
+      "dateRange": "Nov 2022 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Business Development & GTM",
+      "company": "KoRo",
+      "companyUrl": "https://www.linkedin.com/company/koro-offical",
+      "description": "German D2C food brand rethinking retail\n\npaused during erasmus",
+      "location": "Berlin, Germany",
+      "start": "2020-09",
+      "end": "2022-10",
+      "dateRange": "Sep 2020 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Internship Startup-Ecosystem Food",
+      "company": "DIL Deutsches Institut für Lebensmitteltechnik e. V.",
+      "companyUrl": "https://www.linkedin.com/company/deutsches-institut-f-r-lebensmitteltechnik-e-v-",
+      "description": "Applied R&D partner for food innovation",
+      "location": null,
+      "start": "2020-03",
+      "end": "2020-04",
+      "dateRange": "Mar 2020 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "TortenGlück",
+      "companyUrl": null,
+      "description": "Student venture that won PionierGarage’s GROW competition with an online “mix-your-cake” ingredient-kit concept",
+      "location": "Karlsruhe, Baden-Württemberg, Deutschland",
+      "start": "2018-10",
+      "end": "2019-05",
+      "dateRange": "Oct 2018 – May 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Management & Technology",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "Karlsruhe Institute of Technology (KIT)",
+      "degree": "Bachelor, Industrial Engineering and Management",
+      "dateRange": "2018 – 2022"
+    },
+    {
+      "school": "INSA Lyon - Institut National des Sciences Appliquées de Lyon",
+      "degree": "Exchange semester Industrial Engineering, Industrial Engineering",
+      "dateRange": "2021"
+    }
+  ],
+  "skills": [
+    "Start-ups",
+    "Projektmanagement",
+    "Teamführung",
+    "Rhetorische Fähigkeiten",
+    "Backen",
+    "Pitching Ideas"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Zeit AI (YC S24)",
+    "tagline": "Building ZeitMind, the autonomous data engineer that helps your company run on data.",
+    "description": "Vital insights for business decisions are never generated because most people don't know database languages, and Excel demands extensive manual effort. Zeit AI allows enterprises to access their tabular data with just a few words.",
+    "industry": "Data Infrastructure and Analytics",
+    "website": "https://www.zeit-ai.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/zeit-ai",
+    "employeeCount": 10,
+    "foundedYear": 2024,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

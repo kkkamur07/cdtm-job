@@ -1,0 +1,155 @@
+{
+  "id": "jutta-pitz-a0045879",
+  "name": "Jutta Pitz",
+  "headline": "Deployment Strategist at Palantir Technologies",
+  "avatar": null,
+  "location": "Hamburg, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jutta-pitz-a0045879",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Deployment Strategist",
+      "company": "Palantir Technologies",
+      "companyUrl": "https://www.linkedin.com/company/palantir-technologies",
+      "description": null,
+      "location": null,
+      "start": "2016-11",
+      "end": null,
+      "dateRange": "Nov 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Country Lead Germany",
+      "company": "GoCardless",
+      "companyUrl": "https://www.linkedin.com/company/gocardless",
+      "description": null,
+      "location": "London, United Kingdom",
+      "start": "2015-05",
+      "end": "2016-11",
+      "dateRange": "May 2015 – Nov 2016",
+      "current": false
+    },
+    {
+      "title": "Head of Product",
+      "company": "Mactrac and MathsDoctor, Macmillan Science and Education",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2014-08",
+      "end": "2015-05",
+      "dateRange": "Aug 2014 – May 2015",
+      "current": false
+    },
+    {
+      "title": "Project Manager",
+      "company": "Mactrac and MathsDoctor, Macmillan Science and Education",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2013-10",
+      "end": "2014-07",
+      "dateRange": "Oct 2013 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "CF:G Cohort Member",
+      "company": "Code First: Girls",
+      "companyUrl": "https://www.linkedin.com/company/code-first-girls",
+      "description": "I was part of the first cohort of Code First: Girls, a part-time course in web programming run by the team of Entrepreneur First in London. HTML, CSS, JS, Ruby on Rails, Sinatra, MongoDB and Github.",
+      "location": "London, Level 39",
+      "start": "2013-07",
+      "end": "2013-08",
+      "dateRange": "Jul 2013 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Mactrac and MathsDoctor, Macmillan Science and Education",
+      "companyUrl": null,
+      "description": "Mactrac is part of Macmillan Digital Education, a corporate venture capital investor and incubator within Macmillan Science and Education.",
+      "location": null,
+      "start": "2013-03",
+      "end": "2013-10",
+      "dateRange": "Mar 2013 – Oct 2013",
+      "current": false
+    },
+    {
+      "title": "Venture Analyst Intern",
+      "company": "Siemens Technology Accelerator",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": null,
+      "start": "2012-10",
+      "end": "2013-02",
+      "dateRange": "Oct 2012 – Feb 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Imperial College London",
+      "degree": "Master of Science (M.Sc.), Pure Mathematics",
+      "dateRange": "2011 – 2012"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2011 – 2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Mathematics",
+      "dateRange": "2008 – 2011"
+    },
+    {
+      "school": "Nanyang Technological University Singapore",
+      "degree": "Semester Abroad, Pure Mathematics",
+      "dateRange": "2010"
+    }
+  ],
+  "skills": [
+    "Project Management",
+    "Business Strategy",
+    "Web Development",
+    "CSS",
+    "Entrepreneurship",
+    "Business Development"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Palantir Technologies",
+    "tagline": "Software that dominates.",
+    "description": "AI-powered automation for every decision.\n\nAt Palantir, our software powers AI-driven decisions in critical government and commercial enterprises in the West, from the factory floors to the front lines.\n\nOur platforms feature advanced tools for data protection, governance, responsible use of AI, and civilian protection capabilities for defense applications.\n\nDominate your most complex problems with Palantir.",
+    "industry": "Software Development",
+    "website": "http://www.palantir.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/palantir-technologies",
+    "employeeCount": 5694,
+    "foundedYear": null,
+    "location": "Denver, United States",
+    "specialities": [
+      "data integration",
+      "big data",
+      "enterprise software",
+      "data analytics",
+      "data protection",
+      "data engineering",
+      "artificial intelligence",
+      "ai platform"
+    ]
+  }
+}

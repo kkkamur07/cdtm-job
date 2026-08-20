@@ -1,0 +1,225 @@
+{
+  "id": "dr-dominik-schmidt",
+  "name": "Dominik Schmidt",
+  "headline": "Director of Product & Engineering at Plantura GmbH",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-dominik-schmidt",
+  "personId": 1325,
+  "classes": [
+    {
+      "id": 57,
+      "label": "Spring 2005",
+      "season": "Spring",
+      "year": 2005,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2005",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Dominik Schmidt",
+  "ca": null,
+  "summary": "Passionate about building useful and delightful products. Excited about working at the intersection of product, engineering, and UX. Built and lead cross-functional teams. Experienced in UX research. Strong engineering skills with Ph.D. in computer science.",
+  "positions": [
+    {
+      "title": "Director of Product & Engineering",
+      "company": "Plantura",
+      "companyUrl": "https://www.linkedin.com/company/plantura",
+      "description": null,
+      "location": null,
+      "start": "2023-05",
+      "end": null,
+      "dateRange": "May 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Digital Product",
+      "company": "Plantura",
+      "companyUrl": "https://www.linkedin.com/company/plantura",
+      "description": null,
+      "location": null,
+      "start": "2020-12",
+      "end": "2023-04",
+      "dateRange": "Dec 2020 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Director Product",
+      "company": "Cliqz GmbH",
+      "companyUrl": "https://www.linkedin.com/company/cliqz-gmbh",
+      "description": "Leading product development for privacy browsers, product analytics, UX\nResponsible for a cross-functional team of 15 (engineering, QA testers, and UX)\nMember of leadership team, reporting to the CEO",
+      "location": null,
+      "start": "2019-08",
+      "end": "2020-11",
+      "dateRange": "Aug 2019 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Cliqz GmbH",
+      "companyUrl": "https://www.linkedin.com/company/cliqz-gmbh",
+      "description": "Lead efforts from conception to successful launch of a subscription-based mobile privacy browser with a product team of six",
+      "location": null,
+      "start": "2018-08",
+      "end": "2019-07",
+      "dateRange": "Aug 2018 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Team Lead User Experience",
+      "company": "Cliqz GmbH",
+      "companyUrl": "https://www.linkedin.com/company/cliqz-gmbh",
+      "description": "Established UX as an essential part of product development, built and lead a UX team of five. Implemented data processing pipelines for product and company metrics (Python, PySpark).",
+      "location": null,
+      "start": "2017-06",
+      "end": "2019-07",
+      "dateRange": "Jun 2017 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "User Experience Researcher",
+      "company": "Cliqz GmbH",
+      "companyUrl": "https://www.linkedin.com/company/cliqz-gmbh",
+      "description": "Owning qualitative (e.g., usability studies) and quantitative (e.g., AB testing) UX research\nResponsible for prototyping and interaction design\nDrove implementation from architecture to rollout of a search-as-you-type feature (JavaScript)",
+      "location": null,
+      "start": "2015-02",
+      "end": "2017-05",
+      "dateRange": "Feb 2015 – May 2017",
+      "current": false
+    },
+    {
+      "title": "Postdoc Researcher",
+      "company": "Hasso Plattner Institute",
+      "companyUrl": "https://www.linkedin.com/company/hasso-plattner-institute",
+      "description": "Academic HCI research lab. Built and investigated large-scale natural user interface systems, resulting in four publications at top-tier conferences. Co-taught HCI lectures and supervised students.",
+      "location": null,
+      "start": "2012-07",
+      "end": "2015-01",
+      "dateRange": "Jul 2012 – Jan 2015",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Microsoft Research HCI lab. Designed and built hardware & software for pico-projector-based interaction techniques, resulting in patent application.",
+      "location": null,
+      "start": "2011-06",
+      "end": "2011-09",
+      "dateRange": "Jun 2011 – Sep 2011",
+      "current": false
+    },
+    {
+      "title": "Co-founder",
+      "company": "emeyo",
+      "companyUrl": null,
+      "description": "Early-stage startup. Co-founder and main developer (Ruby on Rails). Enabling users to create and format professional CVs online.",
+      "location": null,
+      "start": "2008-01",
+      "end": "2012-06",
+      "dateRange": "Jan 2008 – Jun 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Lancaster University",
+      "degree": "Ph.D., Computer Science",
+      "dateRange": "2008 – 2012"
+    },
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Computer Science",
+      "dateRange": "2007"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2005 – 2007"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom (Master Equiv.), Medieninformatik (Media-Related Computer Science)",
+      "dateRange": "2002 – 2007"
+    },
+    {
+      "school": "Wayne State University",
+      "degree": "Computer Science",
+      "dateRange": "2005 – 2006"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "SQL",
+    "Java",
+    "Python (Programming Language)",
+    "Team Management",
+    "Team Leadership",
+    "Machine Learning",
+    "Data Analytics",
+    "Research",
+    "Project Management",
+    "Product Management",
+    "Mobile Devices",
+    "User Experience",
+    "Data Analysis",
+    "C#",
+    "Cross-functional Team Leadership",
+    "Programming",
+    "Computer Vision",
+    "User Experience Design",
+    "UX Research",
+    "Qualitative Research",
+    "Computer Science",
+    "Algorithms",
+    "Matlab",
+    "LaTeX",
+    "PySpark",
+    ".NET",
+    "Software Engineering",
+    "Artificial Intelligence",
+    "Human Computer Interaction",
+    "Prototyping",
+    "Windows Phone",
+    "Arduino",
+    "WPF Development"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Plantura",
+    "tagline": "Bringing nature home",
+    "description": "Bringing nature home! That is our mission at Plantura. We want to reconnect people with nature and make the world a little bit greener every day! How?\n\nBy providing everything people need to live a greener and healthier life in an easy and joyful way: \n\n- A curated one-stop-shop, offering indoor & outdoor plants, plant care (like vegan fertilizers and CO2 reduced soils), plant protection and beneficial organisms\n- An app that takes you by the hand with smart features & digital guidance\n- And an online magazine that is your go-to place for every-day inspirational content & how-to instructions \n\nIn this huge and sometimes overlooked segment of home & garden, there is room for a truly sustainable and authentic brand! \n\nFeel like joining our mission? Then please get in touch or check out our open positions.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://shop.plantura.garden/",
+    "linkedInUrl": "https://www.linkedin.com/company/plantura",
+    "employeeCount": 62,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Data Analytics",
+      "Data-driven Content Creation",
+      "Consumer Tech",
+      "Direct-to-Consumer",
+      "Sustainable Gardening",
+      "Media Powerhouse",
+      "Sustainability",
+      "Startup",
+      "Digitally Native Vertical Brand",
+      "Organic & Animal-Free Fertilizers",
+      "App",
+      "Plants & Plant Care"
+    ]
+  }
+}

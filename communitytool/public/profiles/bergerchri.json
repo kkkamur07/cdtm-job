@@ -1,0 +1,270 @@
+{
+  "id": "bergerchri",
+  "name": "Christoph Berger",
+  "headline": "Head of Product @ Tanso | CDTM",
+  "avatar": {
+    "sm": "/avatars/bergerchri-sm.webp",
+    "lg": "/avatars/bergerchri.webp",
+    "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAADwBQCdASogACAAPs1aoUunpaMhsBgMAPAZiWMACBAueyWnCM/45nRL1bvkwH2J18WxKutEx6n5AAD++qfOTWnPNVWlseKThj4/CCOEW85auYdsxu+WTwtr0PfLEdvNUIfj28jR+7VO9Bn7oYZix2QCLJPi5AI2pkP/fQ+MiBs2o5DsuLqY6fSAPWV4LAcqL6Yon5GhnBnKUEf6pQXNGo6cdHbcGZLD/0t/mI4oGlU3vCL0NNh1EJkn4x8EA0NbgvQNJ+jFCyZZWGCYaxYTGktNDg9AaZhAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/bergerchri",
+  "personId": 1111,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "B.Sc. in Engineering Science and M.Sc. in Biomedical Computing",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christoph Berger",
+  "ca": null,
+  "summary": "Combining a diverse skillset in engineering, research in machine learning, sustainability and entrepreneurship into building products that set up humanity for the future 💚",
+  "positions": [
+    {
+      "title": "Head of Product",
+      "company": "Tanso",
+      "companyUrl": "https://www.linkedin.com/company/tansotechnologies",
+      "description": "Tanso develops software solutions for Carbon Accounting and Sustainability Management tailored to the needs of industrial companies.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Lead",
+      "company": "Tanso",
+      "companyUrl": "https://www.linkedin.com/company/tansotechnologies",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-11",
+      "end": "2026-01",
+      "dateRange": "Nov 2024 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Tanso",
+      "companyUrl": "https://www.linkedin.com/company/tansotechnologies",
+      "description": "We automate processes in carbon accounting and lay the analytical foundation for effective emission reduction in producing companies.\n\nCheck out Tanso here: https://www.tanso.de",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Tanso",
+      "companyUrl": "https://www.linkedin.com/company/tansotechnologies",
+      "description": "We automate processes in carbon accounting and lay the analytical foundation for effective emission reduction in producing companies.\n\nCheck out Tanso here: https://www.tanso.de",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-11",
+      "end": "2024-01",
+      "dateRange": "Nov 2022 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Pre-Incorporation Venture",
+      "companyUrl": null,
+      "description": "Ideation and validation of several startup ideas in the area of healthcare and medical devices. Successfully applied for an EXIST Grant. Ended the project before founding a company in October 2022.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-03",
+      "end": "2022-10",
+      "dateRange": "Mar 2022 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Product Management Intern",
+      "company": "Tanso",
+      "companyUrl": "https://www.linkedin.com/company/tansotechnologies",
+      "description": "We leverage the power of data and machine learning to help industrial manufacturing companies transition towards a lower carbon economy. We do so by making sustainability accounting as integrated, transparent, and verifiable as financial accounting.\nCheck out Tanso here: https://www.tanso.io/en/\n\nAt Tanso, I worked on all topics from initial product discovery in user interviews and low-fidelity testing to delivery of a Proof-of-Concept app as well as the first MVP in close collaboration with the rest of the Product & Engineering team.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-02",
+      "dateRange": "Oct 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Capmo",
+      "companyUrl": "https://www.linkedin.com/company/capmo",
+      "description": "Working Student in Software Engineering. Full-Stack role developing in TypeScript across the React web app, React Native mobile apps and the Node.js backend deployed on AWS. I additionally worked on some projects exploring NLP integrations for customer-facing features to structure user-generated content and predict future data points to speed up data entry into the app.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-06",
+      "end": "2021-08",
+      "dateRange": "Jun 2020 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Visiting Research Assistant",
+      "company": "Dana-Farber Cancer Institute",
+      "companyUrl": "https://www.linkedin.com/company/dana-farber-cancer-institute",
+      "description": "Working with the Computational Imaging and Bioinformatics Lab at DFCI and Harvard Medical School: http://www.cibl-harvard.org \nThis data science laboratory is focused on the development and application of novel Artificial Intelligence (AI) approaches to various types of data, including imaging and genomic data. The lab’s research is highly oriented towards real world translation of these findings into clinical diagnostic and therapeutic tools to help improve the lives of patients.",
+      "location": "Greater Boston Area",
+      "start": "2019-08",
+      "end": "2019-10",
+      "dateRange": "Aug 2019 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Visiting Research Assistant",
+      "company": "Harvard Medical School",
+      "companyUrl": "https://www.linkedin.com/company/harvard-medical-school",
+      "description": "Working with the Computational Imaging and Bioinformatics Lab at DFCI and Harvard Medical School: http://www.cibl-harvard.org \nThis data science laboratory is focused on the development and application of novel Artificial Intelligence (AI) approaches to various types of data, including imaging and genomic data. The lab’s research is highly oriented towards real world translation of these findings into clinical diagnostic and therapeutic tools to help improve the lives of patients.",
+      "location": "Boston, Massachusetts, United States",
+      "start": "2019-08",
+      "end": "2019-10",
+      "dateRange": "Aug 2019 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Klinikum rechts der Isar der TU München",
+      "companyUrl": "https://www.linkedin.com/company/tum-universitätsklinikum-rechts-der-isar",
+      "description": "https://compimg.github.io/ \nStudent Research Assistant at the Neuroradiology Department of TUM's Rechts der Isar Clinic. Tasks include work on the newly introduced Brain Tumor Database, containerization of brain tumor segmentation algorithms and research in ensemble methods for segmentation.\nSupervision by Dr. B. Wiestler",
+      "location": "Munich Area, Germany",
+      "start": "2019-02",
+      "end": "2020-01",
+      "dateRange": "Feb 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Tutor",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Tutor in Engineering Informatics I (MSE) \nTeaching a weekly exercise session with ~25 students and administrative assistance in the course organisation and the final exam",
+      "location": "Munich Area, Germany",
+      "start": "2018-10",
+      "end": "2019-03",
+      "dateRange": "Oct 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Tutor in Heat Transfer and Fluid & Structural Mechanics",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Supervising weekly exercises sessions and answering student's questions both on- and offline.",
+      "location": "Garching bei München, Bavaria, Germany",
+      "start": "2018-04",
+      "end": "2018-08",
+      "dateRange": "Apr 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Tutor",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Tutor in Engineering Informatics I (MSE)\nTeaching a weekly exercise session with ~25 students",
+      "location": "Munich Area, Germany",
+      "start": "2017-10",
+      "end": "2018-04",
+      "dateRange": "Oct 2017 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Research internship at the Image-Based Biomedical Modeling (IBBM) Group of Prof. Dr. Bjoern Menze\nProof of concept for the implementation and distribution of tumor segmentation algorithms in Docker containers. Developed a standard interface definition for Docker image submissions.\nGithub profile with project repositories: https://github.com/christophbrgr/",
+      "location": "Munich Area, Germany",
+      "start": "2017-05",
+      "end": "2018-09",
+      "dateRange": "May 2017 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Tutor",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Tutor for Engineering Informatics I (MSE)",
+      "location": "Garching-Forschungszentrum",
+      "start": "2016-10",
+      "end": "2017-09",
+      "dateRange": "Oct 2016 – Sep 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Imperial College London",
+      "degree": "Visting Student - Master Thesis, Computer Science",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Biomedical Computing",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Engineering Science",
+      "dateRange": "2015 – 2019"
+    }
+  ],
+  "skills": [
+    "Software Product Management",
+    "Corporate Sustainability Reporting Directive (CSRD)",
+    "Product Leadership",
+    "ISO14064",
+    "CSRD",
+    "Life Cycle Assessment",
+    "ISO 14064",
+    "Artificial Intelligence (AI)",
+    "Corporate Carbon Footprints (CCF)",
+    "Software Development",
+    "Technical Product Management",
+    "Analytical Skills",
+    "TensorFlow",
+    "Presentation Skills",
+    "Business Requirements",
+    "Communication",
+    "Sustainability",
+    "Carbon Accounting",
+    "B2B Software",
+    "Radiation Oncology"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Tanso",
+    "tagline": "Carbon accounting & ESG data management software for manufacturing companies",
+    "description": "Tanso is the ESG and carbon accounting software that industrial companies in DACH rely on to compete and comply in carbon-sensitive sectors. The Tanso platform enables companies to meet customer requests and regulatory requirements in sustainability, ensuring data management to the highest standards through structured, audit-proof processes. With TÜV Rheinland-certified methodology, Tanso is trusted by over 300 industrial customers across automotive, mechanical engineering, food and chemicals to strengthen their competitive position in sustainability and ESG performance.\n\nMore information about Tanso: www.tanso.de",
+    "industry": "Software Development",
+    "website": "https://www.tanso.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/tansotechnologies",
+    "employeeCount": 72,
+    "foundedYear": 2021,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Software",
+      "Carbon accounting",
+      "CO2 accounting",
+      "Software development",
+      "CO2 management",
+      "Carbon management",
+      "Climate Intelligence"
+    ]
+  }
+}

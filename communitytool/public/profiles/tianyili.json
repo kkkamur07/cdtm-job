@@ -1,0 +1,169 @@
+{
+  "id": "tianyili",
+  "name": "Tianyi L.",
+  "headline": "AI Transformation & GTM Strategy Leader | Enterprise GenAI Deployment, Agentic AI, GTM Strategy & Execution | Director @ AlixPartners | Ex-Salesforce, BCG",
+  "avatar": null,
+  "location": "Los Angeles, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/tianyili",
+  "personId": 1870,
+  "classes": [
+    {
+      "id": 63,
+      "label": "Spring 2008",
+      "season": "Spring",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2008",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Tianyi Li",
+  "ca": null,
+  "summary": "AI strategy advice is everywhere. Hands-on AI building experience is rare. Both matter.\n\nOver the last 18 months I've gone deep on building with generative AI — architecting AI-enabled tools and workflows for AlixPartners, and using frontier models daily to rethink how strategy and transformation work actually gets done. That practitioner experience now shapes how I help clients think through their own AI transformations: not as abstract roadmaps, but as concrete decisions about where AI creates real value, what to build, how to deploy it, and how to know whether it moved the P&L.\n\nAs a Director at AlixPartners, I lead AI and digital transformation work for Fortune 500 and PE-backed software and technology companies. My approach combines three things: a decade of enterprise strategy and GTM experience across BCG, BCG Digital Ventures, Salesforce, Magic Leap, and Choco; genuine hands-on fluency with LLMs, agents, RAG, and evaluation frameworks; and the operator instincts to know what will actually land inside a complex organization.\n\nWhat I care about: helping leaders cut through the AI hype cycle to make decisions that compound — the use cases worth pursuing, the platforms worth betting on, and the operating model shifts that make the investment pay back.\nIf you're working through what AI transformation looks like for your business — as an operator, a board, or an investor — I'm always glad to compare notes.",
+  "positions": [
+    {
+      "title": "Director",
+      "company": "AlixPartners",
+      "companyUrl": "https://www.linkedin.com/company/alixpartners",
+      "description": "Lead AI and digital transformation work for Fortune 500 and PE-backed software, technology, and services companies — from diagnosing where AI creates real value through directing the build and tracking outcomes. Over the last year I've gone hands-on with generative AI, architecting internal AI-enabled tools and workflows that are reshaping how our practice delivers transformation engagements. The work sits at the intersection of strategy, product, and applied AI — combining executive advisory with practitioner-level fluency in LLMs, agents, and evaluation frameworks.",
+      "location": "Los Angeles, CA",
+      "start": "2024-11",
+      "end": null,
+      "dateRange": "Nov 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Director, Strategic Growth",
+      "company": "Salesforce",
+      "companyUrl": "https://www.linkedin.com/company/salesforce",
+      "description": "Owned strategic growth for Salesforce's most complex enterprise accounts, with a focus on driving outsized growth. Built the executive narrative and the commercial case for enterprise AI adoption with C-suite buyers, and partnered with Sales, Value Engineering, and Solutions Engineering to translate platform capability into measurable customer outcomes.",
+      "location": "Los Angeles, CA",
+      "start": "2024-01",
+      "end": "2024-10",
+      "dateRange": "Jan 2024 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Managing Director, Commercial Strategy and Product",
+      "company": "ORIGYN Foundation",
+      "companyUrl": "https://www.linkedin.com/company/origyn-foundation",
+      "description": "Joined as Managing Director, Commercial Strategy, and took on Product leadership through subsequent company transitions. Owned commercial strategy, partnership architecture, and market positioning for a Web3 real-world asset tokenization platform during its enterprise commercialization phase, then expanded scope to product strategy and execution as the company evolved.",
+      "location": null,
+      "start": "2022-02",
+      "end": "2023-10",
+      "dateRange": "Feb 2022 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Senior Director, Strategy & Corporate Development",
+      "company": "Magic Leap",
+      "companyUrl": "https://www.linkedin.com/company/magic-leap",
+      "description": "Led corporate strategy and business development through Magic Leap's enterprise pivot. Evaluated new market opportunities, structured strategic partnerships, and transformed Magic's Leap Go-To-Market function, working directly with the Chief Business Officer on the strategic plan and execution.",
+      "location": "Los Angeles Metropolitan Area",
+      "start": "2021-02",
+      "end": "2022-02",
+      "dateRange": "Feb 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "General Manager US Westcoast",
+      "company": "Choco",
+      "companyUrl": "https://www.linkedin.com/company/choco-ai",
+      "description": "Ran the US West Coast market for a high-growth B2B SaaS company transforming the food supply chain. Owned P&L, team, and go-to-market execution end-to-end — sales, customer success, and operations — in a fragmented, offline-first category.",
+      "location": "Los Angeles, CA",
+      "start": "2020-01",
+      "end": "2021-01",
+      "dateRange": "Jan 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Principal and Venture General Manager",
+      "company": "The Boston Consulting Group",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "Built 0-to-1 corporate ventures and led enterprise digital strategies for Fortune 500 TMT clients across tech, media, telco, and automotive. Managed cross-functional teams of up to 30 spanning strategy, product, design, and engineering — taking concepts from market sizing through MVP launch and commercial readiness. This is where I learned that the hard part of any transformation is never the strategy deck.\n\nI started my BCG career on the strategy consulting side serving TMT clients across strategy, growth, and operating model work.",
+      "location": "Los Angeles, California, United States",
+      "start": "2012-02",
+      "end": "2019-05",
+      "dateRange": "Feb 2012 – May 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Columbia Engineering",
+      "degree": "Master of Science - MS, Engineering Management Systems",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2008 – 2010"
+    },
+    {
+      "school": "UC Berkeley School of Information",
+      "degree": "Visiting Student Researcher, Technology Management",
+      "dateRange": "2009"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science, Information Systems",
+      "dateRange": "2006 – 2009"
+    }
+  ],
+  "skills": [
+    "Artificial Intelligence (AI)",
+    "AI Strategy",
+    "Go-to-Market Strategy",
+    "Management Consulting",
+    "Strategic Consulting",
+    "Business Strategy",
+    "Growth Strategies",
+    "Anthropic Claude",
+    "Project Management",
+    "Business Planning",
+    "Business Modeling",
+    "Market Analysis",
+    "Strategy",
+    "Entrepreneurship",
+    "Start-ups",
+    "Financial Modeling",
+    "Business Analysis",
+    "Analytics",
+    "Product Management",
+    "Strategisches Management"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "AlixPartners",
+    "tagline": "When it really matters.",
+    "description": "For more than forty years, AlixPartners has helped businesses around the world respond quickly and decisively to their most critical challenges – circumstances as diverse as urgent performance improvement, accelerated transformation, complex restructuring and risk mitigation.\n\nThese are the moments when everything is on the line – a sudden shift in the market, an unexpected performance decline, a time-sensitive deal, a fork-in-the-road decision. But it’s not what we do that makes a difference, it’s how we do it. \n\nTackling situations when time is of the essence is part of our DNA – so we adopt an action-oriented approach at all times. We work in small, highly qualified teams with specific industry and functional expertise, and we operate at pace, moving quickly from analysis to implementation. We stand shoulder to shoulder with our clients until the job is done, and only measure our success in terms of the results we deliver.\n\nOur approach enables us to help our clients confront and overcome truly future-defining challenges. We partner with you to make the right decisions and take the right actions. And we are right by your side. When it really matters.\n\nRecent Awards & Recognition:\n- Best Firm to Work For – Consulting Magazine, 2023\n- Best Places to Work For LGBTQ+ Equality – Human Rights Campaign, 2022\n- Best Management Consulting Firms – Forbes, 2021\n- Ranked in the Top 10 in UHLALA Group’s Pride Index",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.alixpartners.com",
+    "linkedInUrl": "https://www.linkedin.com/company/alixpartners",
+    "employeeCount": 3859,
+    "foundedYear": null,
+    "location": "New York, United States",
+    "specialities": [
+      "Performance Improvement",
+      "Investigations, Disputes & Risk",
+      "Turnaround & Restructuring",
+      "Technology & Digital",
+      "Transformative Leadership",
+      "Economics Consulting",
+      "Revenue and Growth",
+      "Supply Chain",
+      "Mergers and Acquisitions"
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "maxjosefmeier",
+  "name": "Max Meier",
+  "headline": "Health Is Happiness.",
+  "avatar": null,
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/maxjosefmeier",
+  "personId": 1353,
+  "classes": [
+    {
+      "id": 60,
+      "label": "Fall 2006",
+      "season": "Fall",
+      "year": 2006,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2006",
+  "major": "Economics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Max-Josef Meier",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Aonic",
+      "companyUrl": "https://www.linkedin.com/company/aonic-inc",
+      "description": "Our mission is to do everything in our power to forge a healthier human existence.\n\nWe do that by providing 100% clean products you can trust, digital tools that make it simple to track your progress, and personalized guidance tailored specifically to you.\n\nWe understand that doing the research, having the knowledge, and trusting the science isn’t always easy—or enjoyable. So sit back while we take care of that.\n\nFrom our small space in San Francisco, we want our impact to be felt around the world.",
+      "location": null,
+      "start": "2024-08",
+      "end": null,
+      "dateRange": "Aug 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "CEO & Co-Founder",
+      "company": "FINN",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": "FINN's mission is to make mobility fun and sustainable: FINN helps everyone who loves to own a car but refuses the struggle, commitment and intransparent costs associated with car ownership. FINN addresses this need by offering all-inclusive, easy-to-book and quickly available car subscriptions.",
+      "location": null,
+      "start": "2019-05",
+      "end": "2023-04",
+      "dateRange": "May 2019 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Member of the board & founding investor",
+      "company": "TeleClinic",
+      "companyUrl": "https://www.linkedin.com/company/teleclinic",
+      "description": "TeleClinic is a digital health platform that serves its customer as a one stop solution for all health related questions. TeleClinic has been aquired by Zur Rose Group (DocMorris) in July 2020.",
+      "location": null,
+      "start": "2016-02",
+      "end": "2020-07",
+      "dateRange": "Feb 2016 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "COO/CFO & Co-Founder",
+      "company": "Stylight",
+      "companyUrl": "https://www.linkedin.com/company/stylight",
+      "description": "Stylight is the place to discover and shop fashion you love from the best online stores. Millions of people use Stylight‘s website and app every month to discover and shop the latest fashion trends. \n\nLaunched in August 2008, Stylight is headquartered in Munich, Germany and was founded by Anselm Bauer, Benjamin Günther, Max-Josef Meier and Sebastian Schuon. Stylight was acquired by ProSiebenSat.1 Media SE in June 2016 for 80m€.",
+      "location": null,
+      "start": "2008-11",
+      "end": "2016-07",
+      "dateRange": "Nov 2008 – Jul 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree Technology Management, Technology Management",
+      "dateRange": "2006 – 2008"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": "Visiting Student, MBA Studies",
+      "dateRange": "2008"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "M.Sc. Econ., Economics",
+      "dateRange": "2005 – 2008"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Leadership",
+    "Retail",
+    "Marketing",
+    "Marketing Strategy",
+    "Strategy",
+    "Online Advertising",
+    "Online Marketing",
+    "Digital Marketing",
+    "Start-ups",
+    "Entrepreneurship",
+    "E-commerce",
+    "Blogging",
+    "Venture Capital",
+    "E-Commerce"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Aonic",
+    "tagline": "In It For You.",
+    "description": "Our mission is to do everything in our power to forge a healthier human existence.\n\nWe do that by providing 100% clean products you can trust, digital tools that make it simple to track your progress, and personalized guidance tailored specifically to you.\n\nWe understand that doing the research, having the knowledge, and trusting the science isn’t always easy—or enjoyable. So sit back while we take care of that.\n\nFrom our small space in San Francisco, we want our impact to be felt around the world.",
+    "industry": "Health and Human Services",
+    "website": "https://www.aoniclife.com",
+    "linkedInUrl": "https://www.linkedin.com/company/aonic-inc",
+    "employeeCount": 10,
+    "foundedYear": 2024,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

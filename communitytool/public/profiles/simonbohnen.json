@@ -1,0 +1,186 @@
+{
+  "id": "simonbohnen",
+  "name": "Simon Bohnen",
+  "headline": "M.Sc. Informatics @ TUM, CDTM | prev. UC Berkeley, QuantCo, TUM Boring",
+  "avatar": {
+    "sm": "/avatars/simonbohnen-sm.webp",
+    "lg": "/avatars/simonbohnen.webp",
+    "blur": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAABQBgCdASogACAAPsVUn0unpSKht/VYAPAYiWYAtRr1NWSAA0FoSj/9xy8NWP6Gv0o1EQWLk5/1WKmPIAD+/ntw7XvtQPsxl7IL/Q6QsNCPzPD7hpb0trk5f6BKZV1DrEsABiKo3Uv/YY0nv+UiQsUwFVDVNaZtn0yNMqQml7FRfp88WTObqy1qOMKe0BIwM7Yh0NlGYqhzkEIHQs0UCsv0iaeiyBikP3SdB64SELbQ1Z4vH7V/EclazstvC2FxmvNEzH/JgPzUIy2cCLe+yJu2AAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/simonbohnen",
+  "personId": 1216,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Simon Bohnen",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Data Engineer",
+      "company": "Deutsches Herzzentrum München des Freistaates Bayern - Klinik an der Technischen Universität München",
+      "companyUrl": "https://www.linkedin.com/company/dhmmhn",
+      "description": "The German Heart Centre Munich is a leading data-science-driven hospital for cardiovascular diseases. As a data engineer, I collaborated with partners such as the Microsoft AI for Health program to contribute to better clinical decisions for patients with cardiovascular diseases.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-10",
+      "end": "2024-11",
+      "dateRange": "Oct 2023 – Nov 2024",
+      "current": false
+    },
+    {
+      "title": "Working Student – Data Engineering",
+      "company": "QuantCo",
+      "companyUrl": "https://www.linkedin.com/company/quantco",
+      "description": null,
+      "location": null,
+      "start": "2022-12",
+      "end": "2023-02",
+      "dateRange": "Dec 2022 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Data Engineer",
+      "company": "QuantCo",
+      "companyUrl": "https://www.linkedin.com/company/quantco",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2022-09",
+      "end": "2022-11",
+      "dateRange": "Sep 2022 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Logistics Team Member",
+      "company": "TUM Boring – Innovation in Tunneling e.V.",
+      "companyUrl": "https://www.linkedin.com/company/tum-boring",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-01",
+      "end": "2021-03",
+      "dateRange": "Jan 2021 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Founding Member & Web Developer",
+      "company": "TUM Boring – Innovation in Tunneling e.V.",
+      "companyUrl": "https://www.linkedin.com/company/tum-boring",
+      "description": "We are over 60 students dedicated to building a machine that bores tunnels more than 10x faster than current technologies. Elon Musk's The Boring Company has chosen us among the best 12 out of 400 teams worldwide and we aim to win at the Not-a-Boring Competition Finals in California.",
+      "location": "Munich",
+      "start": "2020-07",
+      "end": "2020-12",
+      "dateRange": "Jul 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Software Engineer, University project",
+      "company": "Quartett mobile",
+      "companyUrl": "https://www.linkedin.com/company/quartett-mobile",
+      "description": "In a team of 7 developers, I developed an iOS app that makes connected car functionalities available in Shortcuts, Apple's automation app. This enables users to automate recurring workflows, which can include smart home capabilities, playing music, sending messages with ETAs etc. This was part of the iPraktikum, an elective course designed to provide first-hand industry experiences to students at TUM in the context of iOS app development. The cooperating company was Quartett mobile, a subsidiary of Audi focused on app development for connected cars.",
+      "location": "Munich Area, Germany",
+      "start": "2019-10",
+      "end": "2020-02",
+      "dateRange": "Oct 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "OroraTech",
+      "companyUrl": "https://www.linkedin.com/company/ororatech",
+      "description": "OroraTech is a NewSpace startup that develops wildfire detection tools using CubeSat satellites. As a student software engineer, I developed a web application using Vue.js and OpenLayers which displays geospatial information related to wildfires.",
+      "location": "Munich, Germany",
+      "start": "2019-07",
+      "end": "2019-12",
+      "dateRange": "Jul 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "MIBS INFORMATIK Beratungs Service GmbH",
+      "companyUrl": "https://www.linkedin.com/company/mibs-informatik-beratungs-service-gmbh",
+      "description": "I did an internship at an IT company which involved getting used to SAP-based systems and learning the corresponding programming language ABAP.",
+      "location": "Mülheim, Germany",
+      "start": "2016-06",
+      "end": "2016-07",
+      "dateRange": "Jun 2016 – Jul 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science, Computer Science",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science, Computer Science",
+      "dateRange": "2018 – 2022"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student, Computer Science",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Maria-Wächtler-Gymnasium Essen",
+      "degree": null,
+      "dateRange": "2010 – 2018"
+    }
+  ],
+  "skills": [
+    "HTML",
+    "JavaScript",
+    "Swift (Programming Language)",
+    "Java",
+    "Visual Basic .NET (VB.NET)",
+    "Microsoft Office",
+    "Cascading Style Sheets (CSS)",
+    "JSON",
+    "ABAP (Basic)",
+    "iOS Development (Basic)",
+    "Android Studio",
+    "Git",
+    "Object-Oriented Programming (OOP)",
+    "Python (Programming Language)",
+    "Xcode",
+    "SwiftUI"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "TUM Klinikum Deutsches Herzzentrum",
+    "tagline": "Spitzenmedizin im Herzen von München",
+    "description": "Spitzenmedizin der Zukunft unter einem Dach: Seit 1. August 2024 bilden das Klinikum rechts der Isar und das Deutsche Herzzentrum München das TUM Universitätsklinikum. Das neu gegründete TUM Universitätsklinikum vereint Patientenversorgung, Forschung und Lehre auf höchstem Niveau und bietet ein einmaliges Leistungsspektrum im Bereich der Herzmedizin.\nAls Teil des TUM Universitätsklinikums bietet das Deutsche Herzzentrum München als international renommiertes Haus mit seinen 1.400 Beschäftigten fachbezogene Medizin auf höchstem Niveau und versorgt herzkranke Menschen jeder Altersstufe. In der universitären Klinik wird klinisch behandelt, geforscht und Lehre betrieben.\nDas Deutsche Herzzentrum München bietet Ihnen neben modernen Arbeitsplätzen und der Arbeit in international zusammengesetzten Teams aus Spezialisten auch eine Vielfalt an Einsatzmöglichkeiten in den verschiedenen Abteilungen des Hauses: \n•\tKlinik für Herz- und Gefäßchirurgie, Klinik für Herz- und Kreislauferkrankungen, Klinik für Chirurgie angeborener Herzfehler und Kinderherzchirurgie, Klinik für angeborene Herzfehler und Kinderkardiologie \n•\tInstitut für Radiologie und Nuklearmedizin, Institut für Anästhesie, Institut für Laboratoriumsmedizin \n•\tPflegedienst \n•\tVerwaltung \nWen suchen wir: Für die verschiedensten Bereiche in unserem Haus suchen wir Sie. Ob mit Berufserfahrung, als Absolventin oder Absolvent oder mitten im Studium, wir haben ein passendes Jobangebot für Sie. \nWir suchen regelmäßig: \n→ Gesundheits- und Krankenpfleger (m/w/x) \n→ Gesundheits- und Kinderkrankenpfleger (m/w/x) \n→ Fachgesundheits- und Krankenpfleger (m/w/x) \n→ Fachgesundheits- und Kinderkrankenpfleger (m/w/x) \n→ Operationstechnische Assistenten (m/w/x)\n→ Bachelor of Science in Nursing (BScN)\n→ Medizinisch-technische Mitarbeiter/innen (MTA) \n→ Assistenzärzte (m/w/x)\n→ Study Nurses (m/w/x) \n→ Doktoranden, Postdocs \n→ Wissenschaftliche Mitarbeiter/innen (Bachel\n\nImpressum:\nhttps://www.deutsches-herzzentrum-muenchen.de/impressum/",
+    "industry": "Hospitals and Health Care",
+    "website": "https://www.deutsches-herzzentrum-muenchen.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/dhmmhn",
+    "employeeCount": 530,
+    "foundedYear": 1974,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

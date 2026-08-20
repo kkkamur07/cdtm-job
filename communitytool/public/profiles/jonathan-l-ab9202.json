@@ -1,0 +1,50 @@
+{
+  "id": "jonathan-l-ab9202",
+  "name": "Jonathan L.",
+  "headline": "Publisher & CEO Suhrkamp Verlag AG",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jonathan-l-ab9202",
+  "personId": 1732,
+  "classes": [
+    {
+      "id": 99,
+      "label": "Spring 2000",
+      "season": "Spring",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2000",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Jonathan Landgrebe",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": null,
+      "company": null,
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    }
+  ],
+  "schools": [],
+  "skills": [
+    "Publishing"
+  ],
+  "languages": [],
+  "company": null
+}

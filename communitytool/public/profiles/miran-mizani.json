@@ -1,0 +1,240 @@
+{
+  "id": "miran-mizani",
+  "name": "Miran Mizani",
+  "headline": "PhD Candidate & IT Security Architect @LRZ | CDTM | LMU Munich",
+  "avatar": {
+    "sm": "/avatars/miran-mizani-sm.webp",
+    "lg": "/avatars/miran-mizani.webp",
+    "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAADwBQCdASogACAAPtFiqk+oJaOiKAgBABoJYwDN4HAgszz543A+BaiNevBUGRJgQH441zF0AxgEAAD++qcYn8DABsDHvA+8x+1NvuoYJGtMSHMTbU8vym91NfaVkBdX8pt7M6BwwhX55v0SMSPRWy8QOLjsK0lqpZQQNnQuITNXlqpevvLsyqufzt7CHatfPuDnDowhUkO5/BIWrXI7srMO/PFFpV1bDDiHLcAp1tbD0N7eidXXnMPHvP58PzkpzUDCRDWVGfFft7JnL14p31ogJFv6sWoAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/miran-mizani",
+  "personId": 1161,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Miran Mizani",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Member of the Management Board",
+      "company": "Leibniz Supercomputing Centre",
+      "companyUrl": "https://www.linkedin.com/company/leibniz-supercomputing-centre",
+      "description": null,
+      "location": null,
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Working Group Expert on cyber security",
+      "company": "ISO - International Organization for Standardization",
+      "companyUrl": "https://www.linkedin.com/company/isostandards",
+      "description": "Contributing as an expert in ISO/IEC JTC 1/SC 27 Information security, cybersecurity and privacy protection WG 4 Security controls forging new international standards",
+      "location": null,
+      "start": "2022-04",
+      "end": null,
+      "dateRange": "Apr 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "IT Security Architect",
+      "company": "Leibniz Supercomputing Centre",
+      "companyUrl": "https://www.linkedin.com/company/leibniz-supercomputing-centre",
+      "description": null,
+      "location": null,
+      "start": "2020-10",
+      "end": null,
+      "dateRange": "Oct 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Deputy Network Department Management",
+      "company": "Leibniz Supercomputing Centre",
+      "companyUrl": "https://www.linkedin.com/company/leibniz-supercomputing-centre",
+      "description": null,
+      "location": null,
+      "start": "2023-08",
+      "end": "2025-07",
+      "dateRange": "Aug 2023 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Coordinator of the IT Security Lecture",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-10",
+      "end": "2024-09",
+      "dateRange": "Oct 2020 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Consulting on Knowledge Discovery & Data Visualization - Dataguard",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-07",
+      "dateRange": "Apr 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Master thesis: Cross-organizational management of security incidents",
+      "company": "Leibniz Supercomputing Centre",
+      "companyUrl": "https://www.linkedin.com/company/leibniz-supercomputing-centre",
+      "description": null,
+      "location": null,
+      "start": "2019-12",
+      "end": "2020-08",
+      "dateRange": "Dec 2019 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Product & Venture Development - Käfer Capital",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": null,
+      "start": "2019-10",
+      "end": "2020-02",
+      "dateRange": "Oct 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Trend Research & Venture Development - Better Ventures Group",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-08",
+      "end": "2019-09",
+      "dateRange": "Aug 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "IT-Consulting for insurance brokers",
+      "company": "Business TV GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2020-09",
+      "dateRange": "Jan 2019 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "IoT-Prototyping",
+      "company": "Business TV GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2018-07",
+      "end": "2019-02",
+      "dateRange": "Jul 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Evaluation of systems for multi-factor authentication",
+      "company": "Leibniz Supercomputing Centre",
+      "companyUrl": "https://www.linkedin.com/company/leibniz-supercomputing-centre",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "IT-Consulting for law firms",
+      "company": "Business TV GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2017-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2017 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Student employee",
+      "company": "Business TV GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2013-11",
+      "end": "2017-12",
+      "dateRange": "Nov 2013 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Teacher for computer courses for children",
+      "company": "Landratsamt Weißenburg-Gunzenhausen",
+      "companyUrl": "https://www.linkedin.com/company/landratsamt-weißenburg-gunzenhausen",
+      "description": null,
+      "location": null,
+      "start": "2009-03",
+      "end": "2019-09",
+      "dateRange": "Mar 2009 – Sep 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours degree, Technology Management , Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master's degree, Informatik",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Informatik",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Arts - BA, Philosophie",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor's degree, Biologie, allgemein",
+      "dateRange": "2012 – 2018"
+    },
+    {
+      "school": "AEG Oettingen",
+      "degree": "Abitur",
+      "dateRange": "2004 – 2012"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": null
+}

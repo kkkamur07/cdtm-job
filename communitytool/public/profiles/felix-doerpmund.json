@@ -1,0 +1,237 @@
+{
+  "id": "felix-doerpmund",
+  "name": "Felix Doerpmund",
+  "headline": "Carbon Dioxide Removal and Biomass | CDTM | UCB",
+  "avatar": {
+    "sm": "/avatars/felix-doerpmund-sm.webp",
+    "lg": "/avatars/felix-doerpmund.webp",
+    "blur": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAABwBQCdASogACAAPr1QnkunJSKht/qoAOAXiUAToA81WfADngh+ShbCWPr1X42kr60Gs5+AAP7D/bKKyKPGiOu/ofyg2lO8FdicVKHA6duY/QiSJ5l3npQ7Arq0k/x590DwmISY7cGJnGHbX6dnk9IV+5ENNpBvhT8nTbfDI+ds8ZZh1wqgWhJzhXZFFlJ02xdw57YaXa85QnOWrNF7qrfs+xtG0AeWwUuJhb4wbU4WjuoxM/pXwkEv3WZSKCD3xuRIVAVmSPHQflKKAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/felix-doerpmund",
+  "personId": 1270,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": false,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Felix Dörpmund",
+  "ca": {
+    "alumni": false,
+    "about": "Felix Dörpmund studied Business Administration (Münster School of Business) and Information Systems (WWU Münster). During his studies, he focussed on data analytics and sustainability and participated in international research projects on innovation and design at Stanford.\n\nDuring and after graduating, Felix gained practical experience in web development, data science, as well as in research on Green IT and decarbonization.\n\nFelix joined the CDTM in June of 2022 and is in charge of the Trend Seminar, the Entrepreneurship Taskforce, and Recruitment. He loves to work on everything sustainability and focuses his research on (nature-based) Carbon Dioxide Removal technologies and what it takes to scale them up and keep the planet inhabitable.",
+    "responsibilities": [
+      "Trend Seminar Course",
+      "Entrepreneurship Task Force"
+    ],
+    "researchFields": [
+      "Carbon Dioxide Removal Synergies, Potentials, Scaling"
+    ],
+    "email": "doerpmund@cdtm.com"
+  },
+  "summary": "Felix is a doctoral candidate at the geosciences department of the LMU with previous visiting research stints at Stanford and the University of California, Berkeley. Felix' main research focus is on the perception, acceptance, and economics of Carbon Dioxide Removal technologies, specifically biomass-based systems, as well as remote-sensing and gespatial applications. Other research interests include: Geoengineering, translation of science to commercial.\n\nFelix is also part of the management team of the CDTM, one of the most successful entrepreneurship education institutions (per-capita) worldwide.",
+  "positions": [
+    {
+      "title": "Management & Doctoral Candidate",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": null,
+      "start": "2022-06",
+      "end": null,
+      "dateRange": "Jun 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Doctoral Candidate",
+      "company": "Institute for Energy Economics and Rational use of Energy - University of Stuttgart, Germany",
+      "companyUrl": "https://www.linkedin.com/company/ier-uni-stuttgart",
+      "description": null,
+      "location": "Stuttgart, Baden-Württemberg, Germany",
+      "start": "2022-01",
+      "end": "2022-05",
+      "dateRange": "Jan 2022 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Project Manager",
+      "company": "Climate Founders",
+      "companyUrl": "https://www.linkedin.com/company/climate-founders",
+      "description": null,
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-01",
+      "dateRange": "Oct 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Tiliaa",
+      "companyUrl": "https://www.linkedin.com/company/tiliaa",
+      "description": "Tiliaa is a company working on making carbon estimation and offsetting easy for online retailers, specifically in the fashion business. Now discontinued.\n\nCofounded and developed the project and learnt about: \n- LCA and carbon estimation\n- Carbon offsetting applications, bottlenecks, markets\n- eCommerce landscape and app development\n- Ideation & validation",
+      "location": null,
+      "start": "2020-11",
+      "end": "2021-09",
+      "dateRange": "Nov 2020 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Company IT & Web Development",
+      "company": "Social Match",
+      "companyUrl": "https://www.linkedin.com/company/social-match",
+      "description": "Development of web apps for influencer marketing (React / Django / Postgres)\nAdministration of company IT",
+      "location": null,
+      "start": "2020-08",
+      "end": "2021-09",
+      "dateRange": "Aug 2020 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Designer/ Engineer",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": "Three-quarter project around the development of an innovative product in the real estate sector.\n\nLearnt about the entire product development process based on design thinking, including user-centric needfinding, ideation, prototyping, testing, stakeholdermanagement and more.\n\nDevelopment of a cross-platform mobile application using React Native / Firebase that empowers users to make better  decisions.",
+      "location": null,
+      "start": "2019-10",
+      "end": "2020-06",
+      "dateRange": "Oct 2019 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Data Scientist - Working Student",
+      "company": "Westphalia DataLab GmbH",
+      "companyUrl": "https://www.linkedin.com/company/westphalia-datalab",
+      "description": "- Feature development and testing for forecasting product\n- Data integration and pipelining \n- Project initialisation and feasibility assessment\n- Project reporting and client communication",
+      "location": null,
+      "start": "2019-05",
+      "end": "2020-05",
+      "dateRange": "May 2019 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Data Science Thesis Student",
+      "company": "Westphalia DataLab GmbH",
+      "companyUrl": "https://www.linkedin.com/company/westphalia-datalab",
+      "description": "Thesis-Related:\n - Exploration of optimisation methods for machine learning applications\n - Theoretical foundations of cluster algorithms\n - Experimental application of optimisation paradigms to unsupervised methods\n\nOther work: \n- Part of the project team working on forecasting applications",
+      "location": null,
+      "start": "2018-10",
+      "end": "2019-01",
+      "dateRange": "Oct 2018 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Data Scientist Intern",
+      "company": "Westphalia DataLab GmbH",
+      "companyUrl": "https://www.linkedin.com/company/westphalia-datalab",
+      "description": "- Project work along entire data science lifecycle  in different settings (customer retention, NBO, segmentation)\n- Data gathering/ scraping, processing and integration (MongoDB, Hive, Postgres) \n- Client facing communication and expectation management\n- Usability and design works",
+      "location": null,
+      "start": "2018-02",
+      "end": "2018-08",
+      "dateRange": "Feb 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Audit Intern",
+      "company": "Dr. von der Hardt & Partner",
+      "companyUrl": "https://www.linkedin.com/company/dr-von-der-hardt-&-partner",
+      "description": "- Audit and creation of financial reports\n- Financial and Tax Due Diligence",
+      "location": null,
+      "start": "2017-06",
+      "end": "2017-08",
+      "dateRange": "Jun 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Tax Consultant Intern",
+      "company": "Dr. von der Hardt & Partner",
+      "companyUrl": "https://www.linkedin.com/company/dr-von-der-hardt-&-partner",
+      "description": "Accounting and Taxation",
+      "location": null,
+      "start": "2017-02",
+      "end": "2017-03",
+      "dateRange": "Feb 2017 – Mar 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher at the Carbon Removal Lab w/ Prof. Daniel Sanchez",
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Doctor of Philosophy - PhD, Physical Geography",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "ME310",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Rennes School of Business",
+      "degree": "Master in Management",
+      "dateRange": "2020"
+    },
+    {
+      "school": "University of Münster",
+      "degree": "Master of Science in Information Systems",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Universidad de Granada",
+      "degree": "Bachelor of Business Administration - BBA, Semester Abroad",
+      "dateRange": "2017"
+    },
+    {
+      "school": "FH Münster",
+      "degree": "Bachelor of Arts - BA, Business Administration",
+      "dateRange": "2015 – 2019"
+    }
+  ],
+  "skills": [
+    "Product Development",
+    "Python",
+    "React Native",
+    "Machine Learning",
+    "Data Science",
+    "R",
+    "React.js",
+    "JavaScript",
+    "Git",
+    "MongoDB",
+    "Prototyping",
+    "PostgreSQL",
+    "Firebase",
+    "Design Thinking",
+    "Teamwork",
+    "Communication"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Center for Digital Technology and Management (CDTM)",
+    "tagline": "Connect, Educate and Empower the Innovators of Tomorrow",
+    "description": "The Center for Digital Technology and Management (CDTM), a joint institution of the Ludwig-Maximilians-Universität München (LMU) and the Technische Universität München (TUM), offers talented students the international and interdisciplinary study program Technology Management. \n\nThe CDTM focuses on how to manage High-Tech in close cooperation with industry, research and education, while simultaneously being committed to preparing the students for future leadership positions in their professional career.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.cdtm.de",
+    "linkedInUrl": "https://www.linkedin.com/company/cdtm-munich",
+    "employeeCount": 35,
+    "foundedYear": 1998,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Entrepreneurship",
+      "Product Development"
+    ]
+  }
+}

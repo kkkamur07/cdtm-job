@@ -1,0 +1,202 @@
+{
+  "id": "quirinkoerner",
+  "name": "Quirin Körner",
+  "headline": "Co-Founder | Cliniserve",
+  "avatar": {
+    "sm": "/avatars/quirinkoerner-sm.webp",
+    "lg": "/avatars/quirinkoerner.webp",
+    "blur": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAAAQBgCdASogACAAPtFUpk2oJCOiMBgIAQAaCWIAnQGM0nmrLHC1Vk6/u4xlJJelFqPsgbLEdn4mkMAA/r87adDIV9G4jVnzY545awWPP3oUJOT5rXwRKvx+HkGvsCi/xckq0vfTWd+O+jHrPDhRV6y40NeQ3kfJZ4icM1f4ikxJ9TI6ng/L0GVY+JLBGlIaw6VWfPoa/LJr6MMLicsAXE4Ty9u0yAY6YZadZLSiDbpJqZkLFIWOfV1S0Y81omgYTPggMSAa5S+E4RYNXSK5FMgrvErHJru34uYQnzxVjAboGExdTz72gJ0fYDTqvy1gO1A9KoF4+o8AAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/quirinkoerner",
+  "personId": 802,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Electrical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Quirin Körner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Cliniserve",
+      "companyUrl": "https://www.linkedin.com/company/cliniserve",
+      "description": "Cliniserve provides a care management and patient communication solution. We develop for carers and enable them to focus on their patients.\n\nhttps://cliniserve.de/",
+      "location": "München, Bayern, Deutschland",
+      "start": "2017-05",
+      "end": null,
+      "dateRange": "May 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Project Tech Development",
+      "company": "Reederei Claus-Peter Offen (GmbH & Co.) KG",
+      "companyUrl": "https://www.linkedin.com/company/reederei-claus-peter-offen-gmbh-&-co-kg",
+      "description": "Freelance innovation consulting project as a startup team, analysis of the shipping market and identification of potential innovations and business models",
+      "location": "Hamburg und Umgebung, Deutschland",
+      "start": "2017-02",
+      "end": "2017-04",
+      "dateRange": "Feb 2017 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Viessmann",
+      "companyUrl": "https://www.linkedin.com/company/viessmann",
+      "description": null,
+      "location": null,
+      "start": "2016-04",
+      "end": "2016-07",
+      "dateRange": "Apr 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Magazino GmbH",
+      "companyUrl": "https://www.linkedin.com/company/magazino-a-jungheinrich-company",
+      "description": null,
+      "location": null,
+      "start": "2016-04",
+      "end": "2016-07",
+      "dateRange": "Apr 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Elekta",
+      "companyUrl": "https://www.linkedin.com/company/elekta",
+      "description": "Physics department (R&D)",
+      "location": null,
+      "start": "2013-08",
+      "end": "2013-10",
+      "dateRange": "Aug 2013 – Oct 2013",
+      "current": false
+    },
+    {
+      "title": "Working student",
+      "company": "UnternehmerTUM GmbH",
+      "companyUrl": "https://www.linkedin.com/company/unternehmertum",
+      "description": null,
+      "location": null,
+      "start": "2013-01",
+      "end": "2014-06",
+      "dateRange": "Jan 2013 – Jun 2014",
+      "current": false
+    },
+    {
+      "title": "Working student",
+      "company": "Klinikum Rechts der Isar der Technischen Universität München",
+      "companyUrl": "https://www.linkedin.com/company/tum-universitätsklinikum-rechts-der-isar",
+      "description": "Physics department at clinic for radiotherapy",
+      "location": null,
+      "start": "2011-04",
+      "end": "2012-03",
+      "dateRange": "Apr 2011 – Mar 2012",
+      "current": false
+    },
+    {
+      "title": "Zivildienst",
+      "company": "Klinikum Rechts der Isar der Technischen Universität München",
+      "companyUrl": "https://www.linkedin.com/company/tum-universitätsklinikum-rechts-der-isar",
+      "description": "Physics department at clinic for radiotherapy",
+      "location": null,
+      "start": "2010-10",
+      "end": "2011-03",
+      "dateRange": "Oct 2010 – Mar 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Elektrotechnik und Informationstechnik",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Georgia Institute of Technology",
+      "degree": "Visiting Scholar",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Elektrotechnik und Informationstechnik",
+      "dateRange": "2011 – 2014"
+    }
+  ],
+  "skills": [
+    "C++",
+    "Rapid Prototyping",
+    "C",
+    "Product Development",
+    "Hardware",
+    "Python",
+    "AngularJS",
+    "Matlab",
+    "ROS",
+    "OpenCV",
+    "Entrepreneurship",
+    "Adobe Creative Suite",
+    "Project Management",
+    "Mikrocontroller",
+    "rs485",
+    "Microsoft Office",
+    "Produktentwicklung",
+    "Strategisches Management",
+    "Unternehmensstrategie",
+    "Projektmanagement"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Cliniserve",
+    "tagline": "Cliniserve - Software for better nursing",
+    "description": "Cliniserve CARE ist ein intelligentes Aufgabenmanagement- und Kommunikationssystem für die Pflege. Mit Cliniserve CARE verringern Sie die Arbeitsbelastung Ihres Pflegepersonals in Einrichtungen wie Krankenhäusern und Pflegeheimen. Interne Prozesse werden vereinfacht und automatisiert.\n\nCliniserve TEAM ist ein digitales Ausfallmanagemt, das bei kurzfristigen Ausfällen hilft, schnell passende Mitarbeitende zu finden. Mit Cliniserve TEAM verhindert Sie lange Telefonketten bei Pflegedirektoren und sozialen Druck bei Mitarbeitenden.\n\nCliniserve CARE is an intelligent task management and communication system for nursing. With Cliniserve CARE you reduce the workload of your nursing staff in facilities such as hospitals and nursing homes. Internal processes are simplified and automated.\n\nCliniserve TEAM is a digital outage management system that helps to quickly find suitable employees in case of short-term absences. With Cliniserve TEAM you avoid long telephone chains for nursing directors and social pressure for employees.",
+    "industry": "Hospitals and Health Care",
+    "website": "https://cliniserve.de",
+    "linkedInUrl": "https://www.linkedin.com/company/cliniserve",
+    "employeeCount": 16,
+    "foundedYear": 2017,
+    "location": "Munich, Germany",
+    "specialities": [
+      "SaaS",
+      "Nursing",
+      "Software",
+      "Ausfallmanagement",
+      "Pflege",
+      "Digitalhealth",
+      "StartUp",
+      "Communication",
+      "Taskmanagement",
+      "Hospitals",
+      "Shiftmanagement",
+      "MedTech",
+      "HealthTech",
+      "Smart Hospital",
+      "Aufgabenmanagement",
+      "Pflegeassistent"
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "id": "leondri",
+  "name": "Leon D.",
+  "headline": "Helping early-stage startups with design | TUM | CDTM | CMU",
+  "avatar": {
+    "sm": "/avatars/leondri-sm.webp",
+    "lg": "/avatars/leondri.webp",
+    "blur": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAAAwBgCdASogACAAPtFYpUyoJSOiKA1RABoJYgDCgYvtLbvY78GETCRqDIqMpj+MpZK0MwjGXZuuSNWgAP7v03y7i3DQk6bnsgH/9TuWn7WFqwztNJ2oBoRWUZ6vJjSFSSZfZWUjPbHsngqswKM348PhrHnp9UXGD8KpoRrbFkrsjAlcoGAHsLRVrU7XlY3+lmFOoKubOwDZKR01j6HVzJJlk6030Fj8b5LVx63KhUczMjnnQe4c1OceOTDCbVwSxOd3jVdpXqQcpWz5Cp8AAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/leondri",
+  "personId": 2008,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Leon Driese",
+  "ca": null,
+  "summary": "Hello 👋 \n\nMe in 10 Seconds:\nCurrently wrapping up my master’s at TUM and CDTM. Besides that, I help early-stage startups build usable products through design. I worked closely with Felix from Lovable/Quick Coffee. I love great design, good food, and writing essays. If you do too, or need help with product design, let’s talk.\n\nMe in 10 Minutes?\nLet’s grab a coffee and chat!\n\nCheck out my past work: \nhttps://leons.website/",
+  "positions": [
+    {
+      "title": "Designer & Chief of Staff",
+      "company": "Quick Coffee",
+      "companyUrl": "https://www.linkedin.com/company/quickcoffeevc",
+      "description": "Working closely with Felix Haas on product & design topics for several startups.",
+      "location": null,
+      "start": "2024-10",
+      "end": "2025-10",
+      "dateRange": "Oct 2024 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Product Manager - SCM Tech",
+      "company": "HelloFresh",
+      "companyUrl": "https://www.linkedin.com/company/hellofresh",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2022-07",
+      "end": "2023-10",
+      "dateRange": "Jul 2022 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Junior Product Manager - SCM Tech",
+      "company": "HelloFresh",
+      "companyUrl": "https://www.linkedin.com/company/hellofresh",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2021-04",
+      "end": "2022-06",
+      "dateRange": "Apr 2021 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "International Production & Fulfillment Intern",
+      "company": "HelloFresh",
+      "companyUrl": "https://www.linkedin.com/company/hellofresh",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2020-05",
+      "end": "2021-03",
+      "dateRange": "May 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Business Development Intern",
+      "company": "the nu company",
+      "companyUrl": "https://www.linkedin.com/company/the-nu-company-gmbh",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2018-09",
+      "end": "2019-03",
+      "dateRange": "Sep 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Fleet Management & Operations Working Student",
+      "company": "foodora",
+      "companyUrl": "https://www.linkedin.com/company/foodora",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2017-09",
+      "end": "2018-08",
+      "dateRange": "Sep 2017 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Rider",
+      "company": "foodora",
+      "companyUrl": "https://www.linkedin.com/company/foodora",
+      "description": null,
+      "location": "Sydney, New South Wales, Australien",
+      "start": "2017-05",
+      "end": "2017-08",
+      "dateRange": "May 2017 – Aug 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "CMU Human-Computer Interaction Institute",
+      "degree": "Visiting Researcher, Carnegie Mellon University",
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., Management & Technology",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "Drexel University",
+      "degree": "Visiting Student",
+      "dateRange": "2019"
+    },
+    {
+      "school": "The Berlin School of Economics and Law",
+      "degree": "B.A., Business Administration",
+      "dateRange": "2017 – 2021"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Quick Coffee",
+    "tagline": "A podcast and early-stage investment vehicle by Patrick Haede and Felix Haas.",
+    "description": "Meet your new podcast on product, design, startups and venture capital.\nEvery Thursday, we have a 25 - 35 minute coffee chat about a topic that inspires us, or we invite selected guests who we believe the Quick Coffee community would be inspired by.\n\nQuick Coffee is your format around all things product, design, startups, venture capital, culture, and more. Interesting, inspiring and thrilling short-form conversations about topics from the startup world.\n\nFollow our show on Apple Podcasts or Spotify and we look forward to welcoming you!",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "https://quickcoffee.vc",
+    "linkedInUrl": "https://www.linkedin.com/company/quickcoffeevc",
+    "employeeCount": 3,
+    "foundedYear": 2022,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

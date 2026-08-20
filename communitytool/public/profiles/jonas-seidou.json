@@ -1,0 +1,173 @@
+{
+  "id": "jonas-seidou",
+  "name": "Jonas Seidou",
+  "headline": "CDTM | ETH | TUM",
+  "avatar": {
+    "sm": "/avatars/jonas-seidou-sm.webp",
+    "lg": "/avatars/jonas-seidou.webp",
+    "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACQBQCdASogACAAPtFWo0uoJKMhsAgBABoJYwC7AYw8tXcgaz/HmhGw9LTy4hDaJerj0o13HAD++W+qt+3+25U/+o7/aw63gypj4fcI2KBb+anAL3CfJnXAOJjBN2fGHqUDruOJdI801jG4FIsiudN54fa0FkRI7U+LFtKQlCr0BaJ/2DIrIZhUHV4k9M/bpEEG5YBqColv9QQmocOBXMWxqStEABnqdtwo1+zFUZQ4KoVAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jonas-seidou",
+  "personId": 2020,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jonas Seidou",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Working Student Operations",
+      "company": "QuantCo",
+      "companyUrl": "https://www.linkedin.com/company/quantco",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2025-11",
+      "end": "2026-03",
+      "dateRange": "Nov 2025 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "Data Automation Intern",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-05",
+      "end": "2025-09",
+      "dateRange": "May 2025 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-01",
+      "end": "2025-03",
+      "dateRange": "Jan 2025 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-07",
+      "end": "2025-01",
+      "dateRange": "Jul 2024 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Summer Trainee",
+      "company": "Kearney",
+      "companyUrl": "https://www.linkedin.com/company/kearney",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-10",
+      "end": "2023-12",
+      "dateRange": "Oct 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "M&A Intern",
+      "company": "TCG Corporate Finance",
+      "companyUrl": "https://www.linkedin.com/company/tcg-corporate-finance",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-03",
+      "end": "2023-05",
+      "dateRange": "Mar 2023 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Product Management Working Student",
+      "company": "CHECK24 Vergleichsportal GmbH",
+      "companyUrl": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-10",
+      "end": "2023-09",
+      "dateRange": "Oct 2022 – Sep 2023",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "Master of Science, Statistics",
+      "dateRange": "2025 – 2027"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Information Systems",
+      "dateRange": "2021 – 2025"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Exchange Student",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Maria-Theresia-Gymnasium Augsburg",
+      "degree": "Abitur",
+      "dateRange": "2013 – 2021"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "QuantCo",
+    "tagline": null,
+    "description": "QuantCo turns advances in artificial intelligence and statistical learning into real-world impact in leading enterprises and public sector organizations. Leveraging privileged data access and world-class expertise in AI, quantitative optimization and engineering, we build scalable systems that drastically improve decisions that matter – from algorithmic pricing and data-driven claims management to precision medicine. \n\nJoin us!\nIf you want to tackle complex problems from first principles in a fast-paced, entrepreneurial environment that values ownership and intellectual rigor, check out our website for full-time and internship positions.",
+    "industry": "Software Development",
+    "website": "http://www.quantco.com",
+    "linkedInUrl": "https://www.linkedin.com/company/quantco",
+    "employeeCount": 248,
+    "foundedYear": null,
+    "location": "Boston, United States",
+    "specialities": [
+      "Big Data",
+      "Smart Data",
+      "Data Analysis",
+      "Quantitative Modelling",
+      "Pricing",
+      "Fraud Detection",
+      "Machine Learning",
+      "Deep Learning",
+      "Healthcare",
+      "Insurance",
+      "Cancer screening",
+      "NLP",
+      "Computer Vision",
+      "Enterprise AI",
+      "AI",
+      "Input Management",
+      "Claims AI"
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "id": "alena-wimmer",
+  "name": "Alena Wimmer",
+  "headline": "Celonis | CDTM | Harvard | TUM",
+  "avatar": {
+    "sm": "/avatars/alena-wimmer-sm.webp",
+    "lg": "/avatars/alena-wimmer.webp",
+    "blur": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAAAQBQCdASogACAAPslUn0unpKKhsAwA8BkJYgCuHHtvxn2dJu3dwGqKhirYuEaWIhQAAP7+epxtH+/74YFOgmNDyl8tG5gdj7Fbp2phxe/P04FfyB9dB+Z8//de6YjAg5H1FugTgLdRWVVYUPib+oCZjrJtJTowpkgSlW4rUeymIODTL9xsZLsYDJpS/pbDQih/k7xcNnYzsz0cMrLsc9N/K+ZBibggDZQ0mLQegGVpDk1HfLhXVwNl3pE0hFmagkMLoRMPr8OiKe/gvXxjKrMVAAA="
+  },
+  "location": "New York, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/alena-wimmer",
+  "personId": 1217,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Data Engineering and Analytics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Alena Wimmer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Operating Partner",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "New York, New York, United States",
+      "start": "2025-08",
+      "end": null,
+      "dateRange": "Aug 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Manex AI",
+      "companyUrl": "https://www.linkedin.com/company/manex-ai",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-05",
+      "end": "2024-09",
+      "dateRange": "May 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Investor",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-03",
+      "end": "2024-05",
+      "dateRange": "Mar 2024 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "Delicious Data",
+      "companyUrl": "https://www.linkedin.com/company/deliciousdata",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2022-10",
+      "end": "2023-12",
+      "dateRange": "Oct 2022 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Junior Software Developer",
+      "company": "xentral ERP Software",
+      "companyUrl": "https://www.linkedin.com/company/xentralsoftware",
+      "description": null,
+      "location": "Augsburg, Bayern, Deutschland",
+      "start": "2021-11",
+      "end": "2022-10",
+      "dateRange": "Nov 2021 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Working Student Software Development",
+      "company": "xentral ERP Software",
+      "companyUrl": "https://www.linkedin.com/company/xentralsoftware",
+      "description": null,
+      "location": "Augsburg, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2021-11",
+      "dateRange": "Apr 2021 – Nov 2021",
+      "current": false
+    },
+    {
+      "title": "Junior Data Scientist | Solution Engineering",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-09",
+      "end": "2020-02",
+      "dateRange": "Sep 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Kernkompetenzzentrum Finanz- & Informationsmanagement",
+      "companyUrl": "https://www.linkedin.com/company/fim-forschungsinstitut",
+      "description": null,
+      "location": "Augsburg, Bavaria, Germany",
+      "start": "2019-03",
+      "end": "2021-04",
+      "dateRange": "Mar 2019 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "External Consultant",
+      "company": "Hilti Deutschland AG",
+      "companyUrl": "https://www.linkedin.com/company/hiltideutschlandag",
+      "description": null,
+      "location": null,
+      "start": "2018-08",
+      "end": "2018-12",
+      "dateRange": "Aug 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "External Consultant | Process Optimization",
+      "company": "WashTec AG",
+      "companyUrl": "https://www.linkedin.com/company/washtec-holding-gmbh",
+      "description": null,
+      "location": "Augsburg, Bavaria, Germany",
+      "start": "2018-07",
+      "end": "2018-09",
+      "dateRange": "Jul 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Student Assistant",
+      "company": "Universität Augsburg",
+      "companyUrl": "https://www.linkedin.com/company/uniaugsburg",
+      "description": "Institute of Materials Resource Management & Applied Data Science\nResponsibilities included data research and tutoring students of the introductory mathematics course",
+      "location": "Augsburg, Bavaria, Germany",
+      "start": "2018-04",
+      "end": "2018-07",
+      "dateRange": "Apr 2018 – Jul 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Data Engineering & Analytics",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Harvard Business School",
+      "degree": "Visiting Researcher at the Laboratory for Innovation Science\nCourses: Avoiding Startup Failure",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "University of Augsburg",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "University of Augsburg",
+      "degree": "Bachelor of Science - BS, Industrial Engineering",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "Zinzendorfschulen Königsfeld",
+      "degree": "High School Diploma",
+      "dateRange": "2007 – 2016"
+    },
+    {
+      "school": "Crystal Lake South High School",
+      "degree": "High School Diploma",
+      "dateRange": "2013 – 2014"
+    }
+  ],
+  "skills": [
+    "Early Stage Investment",
+    "Venture Capital",
+    "Strategy",
+    "Operations Management",
+    "Human Resources (HR)",
+    "Recruiting",
+    "Accounting",
+    "Scrum",
+    "Git",
+    "Unit Testing",
+    "Celonis",
+    "Process Analysis",
+    "SQL",
+    "Research",
+    "Materials Science",
+    "Software Development",
+    "Data Science",
+    "Reinforcement Learning",
+    "Machine Learning",
+    "Data Analysis",
+    "Natural Language Processing (NLP)",
+    "Statistics",
+    "Entrepreneurship",
+    "JavaScript",
+    "React.js",
+    "Vue.js",
+    "Consulting",
+    "Project Management",
+    "Process Management",
+    "Java",
+    "Python (Programming Language)",
+    "R",
+    "HTML",
+    "Cascading Style Sheets (CSS)",
+    "Process Mining",
+    "TypeScript"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "Celonis",
+    "tagline": "When processes work, everything works.",
+    "description": "Celonis makes processes work for people, companies, and the planet.\n\nThe Celonis Process Intelligence Platform takes the data from the systems you already use, and presents you with a living digital twin of your end-to-end processes. It’s system-agnostic, without bias, and provides everyone with a common language for understanding and improving processes. \n\nBecause when processes work, everything works. \n\nSince 2011, Celonis has helped 1,000+ of the world’s largest companies to realize value across the top, bottom, and green line.\n\nCelonis is headquartered in Munich, Germany, and New York City, USA, with more than 20 offices worldwide. Find out more at www.celonis.com.",
+    "industry": "Software Development",
+    "website": "http://www.celonis.com",
+    "linkedInUrl": "https://www.linkedin.com/company/celonis",
+    "employeeCount": 3804,
+    "foundedYear": 2011,
+    "location": "New York City, United States",
+    "specialities": [
+      "Process Mining",
+      "Big Data",
+      "Business Analytics",
+      "Business Processes",
+      "Intelligent Business Cloud",
+      "Intelligent Business System",
+      "Digital Transformation",
+      "Business Process Automation",
+      "Robotic Process Automation",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "SaaS",
+      "Big Data Analysis",
+      "Business Process Analysis",
+      "Process Analytics",
+      "Digital Innovation",
+      "Software Development",
+      "Real Time Optimisation",
+      "Execution Management System"
+    ]
+  }
+}

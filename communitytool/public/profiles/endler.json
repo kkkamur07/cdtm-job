@@ -1,0 +1,238 @@
+{
+  "id": "endler",
+  "name": "Daniel Meier Endler",
+  "headline": "Lead Deployment Strategist @ Parloa | Driving Enterprise AI Transformation with Meaningful Customer Relationships",
+  "avatar": {
+    "sm": "/avatars/endler-sm.webp",
+    "lg": "/avatars/endler.webp",
+    "blur": "data:image/webp;base64,UklGRkYBAABXRUJQVlA4IDoBAABwBgCdASogACAAPtFWoEwoJKMiMBgMAQAaCWwAnTM0QpnQZIQ7a1rbT2/LTN4qw+/rXZ14bT+kA9A+OgAA/sOW2YTWBkw/LVfapEIts3iCStGFfBrkv1lkDtvmCAK7ySoe9Su3w6fxqCtgagBnNfP/IgjpZosby3j/WrVxJxB3jCQbEagTelPfLg9y34/+xv36dqc5fwgtWtBppxRLYl3yyT+XJLNzeWUx62pDb748PWAlIYFxR6Qd+v0DBJPs7KUc8qOPp8kSuuXc3UQOcAzqpk1SFk97V3u+hBxa49W9XuPDdtJ7Tp4swBdz/EmGvHmupOrxRpa7aE8eIY8BhUqqVy/xZvEJj4XQLoy2vGcB9U5as8bu3RA7y5K8skpC+4PwEja5JDs423xy/bKQsL+drjkd4xsIWzaIAA=="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/endler",
+  "personId": 1132,
+  "classes": [
+    {
+      "id": 73,
+      "label": "Spring 2013",
+      "season": "Spring",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2013",
+  "major": "Economics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Daniel Endler",
+  "ca": null,
+  "summary": "I am a Product & Technology leader with 10+ years of experience scaling companies from early-stage startups to IPO preparation. My expertise spans fintech, logistics, and climate tech, with leadership roles in B2C (N26, Delivery Hero) and B2B (Remagine, Resourcify, Deel).\n\nI specialize in product-led growth, international expansion, compliance, and operational excellence, building and scaling cross-functional teams that drive business impact. At Deel, I lead the Platform & Fintech verticals, overseeing global payments, financial products, and infrastructure while preparing the company for IPO. Previously, at N26, I helped shape Europe’s first cloud-native bank, leading core banking, compliance, UX, and AI-driven credit models.\n\nI am passionate about solving complex problems at scale, from launching new financial ecosystems to optimizing regulatory frameworks. My approach is rooted in data-driven decision-making, customer-centricity, and team empowerment to build products that are not only scalable but also drive meaningful value.",
+  "positions": [
+    {
+      "title": "Lead Deployment Strategist",
+      "company": "Parloa",
+      "companyUrl": "https://www.linkedin.com/company/parloa",
+      "description": "Parloa is a conversational AI platform that helps enterprises deliver smarter, more human-like customer interactions across voice and digital channels.\n\nAs part of the Product Deployment Group, my role is to bridge product and go-to-market:\n - Designing strategies to bring new features and solutions to customers successfully\n - Partnering with Product, Sales, and Customer Success to ensure adoption and measurable impact\n - Defining how product deployment can become a core growth driver for Parloa",
+      "location": "Berlin, Germany",
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Director of Product Management",
+      "company": "Deel",
+      "companyUrl": "https://www.linkedin.com/company/deel",
+      "description": "- Leading Platform & Fintech verticals, managing 17 teams and influencing over 80 designers, engineers, and product managers.\n- Overseeing Deel’s financial ecosystem, including Deel Card, Deel Advance, and Deel Wallets.\n- Leading fintech GMV growth initiatives, streamlining global payment flows, and optimizing compliance for IPO readiness.\n- Enhancing automation in reconciliation, significantly improving payout efficiency.",
+      "location": "Berlin, Germany",
+      "start": "2024-04",
+      "end": "2025-06",
+      "dateRange": "Apr 2024 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "VP Product & Engineering",
+      "company": "Resourcify",
+      "companyUrl": "https://www.linkedin.com/company/resourcify",
+      "description": "Enabling a Zero-Waste Future for Businesses\nLeading Product, User Experience and Engineering (PXE), I am helping the company to grow from a late-seed to Series A and beyond. I am overseeing a department of 25 engineers, product managers and user experience designers as a manager of managers. \nBeing part of the management team of the company, I am leading the efforts towards a product lead company.\nI am responsible for the product strategy, defining KPIs, hiring, organizational design and support our key strategic clients.",
+      "location": "Berlin, Germany",
+      "start": "2022-08",
+      "end": "2024-04",
+      "dateRange": "Aug 2022 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Director of Product Strategy",
+      "company": "Delivery Hero",
+      "companyUrl": "https://www.linkedin.com/company/delivery-hero-se",
+      "description": "Working in the Global Product Strategy of leading local delivery platform, I was responsible for several projects in close alignment of the Global CPO and entities' CPOs and product leaders, such as: new OKR process across entities, creating a new product management career progression framework, increasing content and taxonomy strategy between entities to rise conversion, as well as competitor +  internal product benchmark based on qualitative and quantitative analysis.",
+      "location": "Berlin, Germany",
+      "start": "2021-11",
+      "end": "2022-08",
+      "dateRange": "Nov 2021 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Head of Product",
+      "company": "Remagine",
+      "companyUrl": "https://www.linkedin.com/company/letsremagine",
+      "description": "Leading product and design, I spearheaded the product development of two impact B2B banking products: lending and current account. I was responsible for the product strategy & roadmap, quantitative and qualitative user research, integration of the banking partner and launching a product 0 to 1.",
+      "location": "Berlin, Germany",
+      "start": "2020-12",
+      "end": "2021-10",
+      "dateRange": "Dec 2020 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Head of Product",
+      "company": "N26",
+      "companyUrl": "https://www.linkedin.com/company/n26",
+      "description": "Head of Product responsible for Core Banking, Open Banking (Open API & PSD2) and Bank Products (Savings, Overdraft and Consumer Loans)",
+      "location": "Berlin, Germany",
+      "start": "2020-08",
+      "end": "2020-12",
+      "dateRange": "Aug 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Acting Head of Product Core",
+      "company": "N26",
+      "companyUrl": "https://www.linkedin.com/company/n26",
+      "description": "Responsible for Bank Core, Bank API and Bank Products, I manage a team of 6 Product Managers across 2 location - Berlin and Barcelona.\nI work with product and tech solutions in core banking, compliance, accounting, PSD2, GDPR, open APIs, lending and savings products.",
+      "location": "Berlin, Germany",
+      "start": "2020-01",
+      "end": "2020-08",
+      "dateRange": "Jan 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Product Lead",
+      "company": "N26",
+      "companyUrl": "https://www.linkedin.com/company/n26",
+      "description": "Platforms Segments - Foundation Group\nResponsible for 4 tech teams on the topics of GDPR, PSD2 SCA, authentication & authorization of users, API gateway, SMS Email and Push gateway, translation CMS and translation tools.",
+      "location": "Berlin Area, Germany",
+      "start": "2019-09",
+      "end": "2020-01",
+      "dateRange": "Sep 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Group Product Owner",
+      "company": "N26",
+      "companyUrl": "https://www.linkedin.com/company/n26",
+      "description": null,
+      "location": "Berlin",
+      "start": "2017-09",
+      "end": "2019-09",
+      "dateRange": "Sep 2017 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "N26",
+      "companyUrl": "https://www.linkedin.com/company/n26",
+      "description": null,
+      "location": "Berlin und Umgebung, Deutschland",
+      "start": "2015-06",
+      "end": "2017-08",
+      "dateRange": "Jun 2015 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "N26",
+      "companyUrl": "https://www.linkedin.com/company/n26",
+      "description": null,
+      "location": "Berlin",
+      "start": "2015-03",
+      "end": "2015-06",
+      "dateRange": "Mar 2015 – Jun 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "UC Berkeley School of Information",
+      "degree": null,
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Economics",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "University of Mannheim",
+      "degree": "Bachelor, Economics, Minor in Mathematics",
+      "dateRange": "2009 – 2012"
+    },
+    {
+      "school": "Universidade Católica Portuguesa - Lisboa",
+      "degree": "Bachelor, Economics",
+      "dateRange": "2011"
+    }
+  ],
+  "skills": [
+    "Competitive Analysis",
+    "Product Planning",
+    "IT Integration",
+    "UX Research",
+    "Objectives and Key Results (OKRs)",
+    "Career Development Programs",
+    "Conference Organization",
+    "Engineering Management",
+    "Product Strategy",
+    "People Management",
+    "Hiring",
+    "Stakeholder Management",
+    "Research",
+    "Economics",
+    "Project Management",
+    "Statistics",
+    "Drupal",
+    "Time Management",
+    "Project Coordination",
+    "Teaching"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Parloa",
+    "tagline": "Amplify your customer service experience with an AI agent management platform.",
+    "description": "Parloa is a leading global AI company with a vision to make every customer interaction as easy as talking to a friend. We amplify the customer service experience with our AI Agent Management Platform. This enterprise-grade platform automates contact centers by leveraging the full power of generative AI safely & reliably in the context of consumer interactions. It combines highly-skilled personal AI agents that engage in natural and unique conversations with every customer, with AI assistance for human agents when they get on the line. Global brands trust Parloa to connect with their customers, ensuring they feel heard through exceptional experiences that increase satisfaction, encourage sales, and build loyalty. Parloa was founded in 2018 by Malte Kosub and Stefan Ostwald with offices in Berlin, Munich, and New York.",
+    "industry": "Software Development",
+    "website": "http://www.parloa.com",
+    "linkedInUrl": "https://www.linkedin.com/company/parloa",
+    "employeeCount": 472,
+    "foundedYear": 2018,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Artificial Intelligence",
+      "Telephony",
+      "Conversational AI",
+      "Voice AI",
+      "Generative AI",
+      "customer service automation",
+      "contact center",
+      "machine learning",
+      "enterprise platform",
+      "contact center platform",
+      "chatbot services",
+      "augment agents",
+      "messenger automation",
+      "low-code frontend"
+    ]
+  }
+}

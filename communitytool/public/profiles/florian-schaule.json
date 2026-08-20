@@ -1,0 +1,119 @@
+{
+  "id": "florian-schaule",
+  "name": "Florian Schaule",
+  "headline": "Co-Founder & CTO at doraly",
+  "avatar": {
+    "sm": "/avatars/florian-schaule-sm.webp",
+    "lg": "/avatars/florian-schaule.webp",
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAABwBQCdASogACAAPtFapk2oJSOiKAqpABoJbACdGaaAIsXw6WClkf5EpO5tr8DUcDj13gAAAP6eX0UvonFQuou8xFqnz1QGyuaqHGSaVLUUj3/QYyYVQRpw2HaZW4GqCgYsQ5rLt0ViAGYe9RpaYqovKq6TjoDfcXMJhrXHNKXtjhUHfg0GgIoBl+vDwZvyFdAZIhSbhIpI6nv2+txJotfcYtCrS72nT6N987tu56MeZ36AxQCIkAyAv49lyUCiGus67KHYBdWqRLUsO+jdB4Dy5tBWMQ5a+KSTYlAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/florian-schaule",
+  "personId": 1248,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Florian Schaule",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CTO",
+      "company": "doraly",
+      "companyUrl": "https://www.linkedin.com/company/doraly-legal",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Alpineyards Technologies",
+      "companyUrl": "https://www.linkedin.com/company/alpineyards",
+      "description": null,
+      "location": "Singapore, Singapore",
+      "start": "2024-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Peter Park",
+      "companyUrl": "https://www.linkedin.com/company/peterpark",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2018 – Dec 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Computer Science",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Collège des Ingénieurs",
+      "degree": "Master of Business Administration - MBA",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Visiting Scholar",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Computer Science with a minor in Philosophy",
+      "dateRange": "2010 – 2013"
+    },
+    {
+      "school": "University of Calgary",
+      "degree": "Exchange studies, Computer Science",
+      "dateRange": "2012 – 2013"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Start-ups",
+    "Teamwork",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Business Strategy",
+    "Project Management",
+    "Management",
+    "Microsoft PowerPoint",
+    "English"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": null
+}

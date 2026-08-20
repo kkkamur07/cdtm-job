@@ -1,0 +1,222 @@
+{
+  "id": "peter-budweiser-9a89ab118",
+  "name": "Peter Budweiser",
+  "headline": "Product Management | Supply Chain | Celonis",
+  "avatar": {
+    "sm": "/avatars/peter-budweiser-9a89ab118-sm.webp",
+    "lg": "/avatars/peter-budweiser-9a89ab118.webp",
+    "blur": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAAAwBgCdASogACAAPtFWo0uoJKMhsAgBABoJYgCxDCXgxUkhIW7afMPANIcy/1BuRPltlDWjewsH0o8AAP7sznvtlfkgsLVdt/znFj3CMg185/ptUbBOeTkt27g/sp/ZuLHu4uYiHhzH0tteFRV7SL8XW4r352vutPi8BnURa7hRidRE0j1dJJNMOd38CbMxoQ8FZGp436KHu4ZQUSDBvbXUjOFYgXgh3/gSOIn0su7evOP1BXJWcEiLZEaHQj9FpQJxNxDBLuw7aTaJrNVzauyNcVm4iPAzzFYirpyrUaF5/MXcaT6DRAYj4+C86lTQAo8NaJBiPs8K2RKVAYJqKmZAhK40DaTY7BIAAA=="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/peter-budweiser-9a89ab118",
+  "personId": 707,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Physics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Peter Budweiser",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "General Manager Supply Chain",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-04",
+      "end": null,
+      "dateRange": "Apr 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Aachen",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Director Product Management, Supply Chain",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "Aachen, North Rhine-Westphalia, Germany",
+      "start": "2022-08",
+      "end": "2024-04",
+      "dateRange": "Aug 2022 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Site Lead Aachen",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": null,
+      "start": "2022-05",
+      "end": "2024-04",
+      "dateRange": "May 2022 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Full-time",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "• Leading the development of our Execution Applications in the area of Supply Chain - starting with Inventory Management\n• Taking care of market analysis, user interviews, problem statement, persona research, user stories, customer deployments, go-to-market\n• Support of sales, customer success, partner management and others in the area of Supply Chain\n• Continued building and scaling of the team",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-07",
+      "end": "2022-07",
+      "dateRange": "Jul 2020 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Senior Data Scientist | Solution Engineer",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": null,
+      "start": "2019-06",
+      "end": "2020-06",
+      "dateRange": "Jun 2019 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Data Scientist | Solution Engineer",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-03",
+      "end": "2019-05",
+      "dateRange": "Mar 2018 – May 2019",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant Intern",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": "Associate consultant intern with project work in the automotive and digital sector. \n\nwww.bain.de",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-06",
+      "end": "2017-07",
+      "dateRange": "Jun 2017 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Academy Consult München e.V.",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": "Part of the organization team for the BDSU-Congress 2012, a congress for more than 300 participants lasting four days, including events like a company contact fair, company workshops, and a formal diner.\n\nwww.academyconsult.de",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2012 – Dec 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Research Scholar, School of Information/ Haas Business School",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honorary Degree, Technology Management",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Physics",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Université Joseph Fourier (Grenoble I)",
+      "degree": "Physics",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Physics",
+      "dateRange": "2011 – 2014"
+    }
+  ],
+  "skills": [
+    "Projektmanagement",
+    "Unternehmensstrategie",
+    "Marktanalyse",
+    "Business Development",
+    "Marktforschung",
+    "Analytische Fähigkeiten",
+    "Datenanalyse",
+    "Unternehmertum",
+    "Physik",
+    "Halbleiter",
+    "Nanotechnologie",
+    "Produktentwicklung",
+    "Start-ups",
+    "Forschung",
+    "Product Development",
+    "Microsoft Office",
+    "Strategisches Denken",
+    "Englisch",
+    "Unternehmensberatung",
+    "Agile Mindset"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "Celonis",
+    "tagline": "When processes work, everything works.",
+    "description": "Celonis makes processes work for people, companies, and the planet.\n\nThe Celonis Process Intelligence Platform takes the data from the systems you already use, and presents you with a living digital twin of your end-to-end processes. It’s system-agnostic, without bias, and provides everyone with a common language for understanding and improving processes. \n\nBecause when processes work, everything works. \n\nSince 2011, Celonis has helped 1,000+ of the world’s largest companies to realize value across the top, bottom, and green line.\n\nCelonis is headquartered in Munich, Germany, and New York City, USA, with more than 20 offices worldwide. Find out more at www.celonis.com.",
+    "industry": "Software Development",
+    "website": "http://www.celonis.com",
+    "linkedInUrl": "https://www.linkedin.com/company/celonis",
+    "employeeCount": 3804,
+    "foundedYear": 2011,
+    "location": "New York City, United States",
+    "specialities": [
+      "Process Mining",
+      "Big Data",
+      "Business Analytics",
+      "Business Processes",
+      "Intelligent Business Cloud",
+      "Intelligent Business System",
+      "Digital Transformation",
+      "Business Process Automation",
+      "Robotic Process Automation",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "SaaS",
+      "Big Data Analysis",
+      "Business Process Analysis",
+      "Process Analytics",
+      "Digital Innovation",
+      "Software Development",
+      "Real Time Optimisation",
+      "Execution Management System"
+    ]
+  }
+}

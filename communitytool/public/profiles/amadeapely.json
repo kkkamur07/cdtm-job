@@ -1,0 +1,254 @@
+{
+  "id": "amadeapely",
+  "name": "Jacqueline-Amadea Pely",
+  "headline": "Co-founder @Alfa | TOP 50 GTM Startup | UC Berkeley",
+  "avatar": {
+    "sm": "/avatars/amadeapely-sm.webp",
+    "lg": "/avatars/amadeapely.webp",
+    "blur": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAACwBQCdASogACAAPtFcqU2oJSQiKAqpABoJYgC3udwLfYWbuQJwBfkyY8KrZKCGP0bnBw0PgAAA/vi1L9d2Ci/4g2I8tOBROhbHhrc41JQ7vlDbzNivCmu9PecwP/quRCzD6JF7XxqyO2KN2GqkWfuEjpfAKPkrlMRWc1LDI46mV8t/f1LDNy1jPP/II2co0+SRKzfbqsKRDvG96JkP8lc6leNjF7N6o0LHzSreAZKhmdQWLDR5LtmP+oEK7tE62jG2j8wg7+k3gWX1avY5Xpuqfb5cALyA+H+oreOymPIdZc66gUA9kPMjLsEmJ4AA"
+  },
+  "location": "New York, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/amadeapely",
+  "personId": 1150,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Media, Management & Digital Technologies",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jacqueline-Amadea Pély",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CPO",
+      "company": "Alfa",
+      "companyUrl": "https://www.linkedin.com/company/getalfa",
+      "description": "GetAlfa.ai",
+      "location": null,
+      "start": "2025-03",
+      "end": null,
+      "dateRange": "Mar 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Munich",
+      "company": "JLL",
+      "companyUrl": "https://www.linkedin.com/company/jll",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Co-Founder & CPO",
+      "company": "Loyee.ai",
+      "companyUrl": "https://www.linkedin.com/company/loyeeai",
+      "description": null,
+      "location": null,
+      "start": "2022-05",
+      "end": "2025-02",
+      "dateRange": "May 2022 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Co-founder",
+      "company": "denkFEmale",
+      "companyUrl": null,
+      "description": "We create awareness for forgotten female figures from history by placing digital memorials with Augmented Reality in cities.",
+      "location": null,
+      "start": "2021-07",
+      "end": "2024-12",
+      "dateRange": "Jul 2021 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "Airbus",
+      "companyUrl": "https://www.linkedin.com/company/airbusgroup",
+      "description": "Developing a software prototype for a chip technology that provides internet through satellite connection; Validating the business plan and go-to-market strategy for the prototype",
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "Cliniserve",
+      "companyUrl": "https://www.linkedin.com/company/cliniserve",
+      "description": "Developing a native application that allows hospitals to flexibly staff the shifts of their care personnel.",
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "Deloitte",
+      "companyUrl": "https://www.linkedin.com/company/deloitte",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "DataGuard",
+      "companyUrl": "https://www.linkedin.com/company/dataguard1",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "LucyBalu",
+      "companyUrl": "https://www.linkedin.com/company/lucybalu",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "JLL",
+      "companyUrl": "https://www.linkedin.com/company/jll",
+      "description": null,
+      "location": null,
+      "start": "2017-05",
+      "end": "2017-08",
+      "dateRange": "May 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Working Student Executive Board Office (CIO)",
+      "company": "Allianz",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": null,
+      "location": null,
+      "start": "2017-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2017 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "JLL",
+      "companyUrl": "https://www.linkedin.com/company/jll",
+      "description": "Office Leasing Department",
+      "location": null,
+      "start": "2017-01",
+      "end": "2017-04",
+      "dateRange": "Jan 2017 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Working Student Consulting",
+      "company": "zeb consulting",
+      "companyUrl": "https://www.linkedin.com/company/zebconsulting",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "reINVENT innovation GmbH",
+      "companyUrl": "https://www.linkedin.com/company/showroomplusgmbh",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-08",
+      "end": "2015-10",
+      "dateRange": "Aug 2015 – Oct 2015",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "LMU Innovation & Entrepreneurship Center",
+      "companyUrl": "https://www.linkedin.com/company/lmu-innovation-entrepreneurship-center",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-02",
+      "end": "2015-04",
+      "dateRange": "Feb 2015 – Apr 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Master of Science - MS, visiting scholar",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Management & Digital Technologies (MMT)",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "San Diego State University",
+      "degree": "Visiting Student, Business",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Product Management",
+    "Leadership"
+  ],
+  "languages": [
+    "Czech",
+    "English",
+    "German",
+    "Latin",
+    "Slovak",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Alfa",
+    "tagline": "Loyee is an AI SaaS platform for B2B sales teams to capture their next best customer!",
+    "description": "Autonomous Growth Engineer, in one click!",
+    "industry": "Software Development",
+    "website": "https://www.getalfa.ai/?utm_source=li",
+    "linkedInUrl": "https://www.linkedin.com/company/getalfa",
+    "employeeCount": 23,
+    "foundedYear": null,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

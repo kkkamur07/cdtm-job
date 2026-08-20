@@ -1,0 +1,144 @@
+{
+  "id": "polatm",
+  "name": "Mete Polat",
+  "headline": "formal verification | cambridge | cdtm | tum",
+  "avatar": {
+    "sm": "/avatars/polatm-sm.webp",
+    "lg": "/avatars/polatm.webp",
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAADQBQCdASogACAAPsFKn0unpCKht/qoAPAYCUAAfL3v4YS6T1CqY+4ffu/oaz15JoDTWIL3dBn4AP76qlntsiXoLv+MwJhAql3lJ+VzpmXHR2CepFZL01ev/ouYXUc6wFiAKzGeGwO8iZdl/OHS0jLpkWPtbZfK92ar+zpO/EWtkmFxoNZhkc/Qa701Puh9ZW8vo/SwcS7phdDfMiyr3lI8TfpbTHML02qdtZA6Y8EB+bY2JTDslPg0NqfWBTknb8DiGvD71JygQzPK3+U3l+uZpd9DT8oCGMQA4oAA"
+  },
+  "location": "Palo Alto, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/polatm",
+  "personId": 884,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Mete Polat",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder",
+      "company": "Stealth",
+      "companyUrl": "https://www.linkedin.com/company/steath",
+      "description": null,
+      "location": null,
+      "start": "2026-04",
+      "end": null,
+      "dateRange": "Apr 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder",
+      "company": "Out of Order Capital",
+      "companyUrl": "https://www.linkedin.com/company/ooocap",
+      "description": "The first nonprofit VC for mission-aligned startups. Postponed duo to insufficient legal provisions for nonprofit investments globally.",
+      "location": null,
+      "start": "2024-10",
+      "end": "2025-06",
+      "dateRange": "Oct 2024 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Software Formal Verification Engineer",
+      "company": "Apple",
+      "companyUrl": "https://www.linkedin.com/company/apple",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Tutored students in the course \"Functional Programming and Verification\" with a focus on the Haskell programming language and functional correctness proofs.",
+      "location": null,
+      "start": "2020-10",
+      "end": "2021-04",
+      "dateRange": "Oct 2020 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Worked on kernel development related tools as a working student within BMW's \"Enabling Linux in Safety-Critical Applications\" group.",
+      "location": null,
+      "start": "2019-04",
+      "end": "2019-12",
+      "dateRange": "Apr 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Konzern Versicherungskammer",
+      "companyUrl": "https://www.linkedin.com/company/konzern-versicherungskammer",
+      "description": "Assisted in building a vulnerability detection and quality assurance pipeline.",
+      "location": null,
+      "start": "2019-03",
+      "end": "2019-04",
+      "dateRange": "Mar 2019 – Apr 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Visiting Student, Department of Computer Science and Technology",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Trial Studies, Computer Science",
+      "dateRange": "2016"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Stealth",
+    "tagline": "Stealth-ing!",
+    "description": "TimelyAI is building a Marketing Saas for Time-based Businesses. \n\n“The idea is to solve the most burning need of our customers- Growing their clientele at an affordable price and being able to build lasting relationships with them for repeat business and referrals.”\n\n\"Coming soon with something extremely 'crazy'!\"",
+    "industry": "Software Development",
+    "website": "https://www.timelyai.com",
+    "linkedInUrl": "https://www.linkedin.com/company/steath",
+    "employeeCount": 4605,
+    "foundedYear": 2021,
+    "location": "Phoenix, United States",
+    "specialities": []
+  }
+}

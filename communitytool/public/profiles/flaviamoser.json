@@ -1,0 +1,212 @@
+{
+  "id": "flaviamoser",
+  "name": "Flavia Moser",
+  "headline": "GenAI Product Manager at SAP",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/flaviamoser",
+  "personId": 1595,
+  "classes": [
+    {
+      "id": 53,
+      "label": "Spring 2003",
+      "season": "Spring",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Flavia Moser",
+  "ca": null,
+  "summary": "Hello, I’m Flavia Moser and I’m dedicated to data and its transformative potential. I am thriving in my current role as a Product Manager specializing in Analytics and generative AI. Each day, I have the privilege of sharing this commitment with both customers and colleagues, cultivating meaningful insights that drive innovation and elevate outcomes.\n\nEngaging Presenter | Collaborator:\nMy journey is marked by a distinct ability to translate complex concepts into captivating narratives. As an\naccomplished presenter and effective communicator, I've had the honor of taking the stage at international conferences and webinars, delivering enlightening sessions that resonate with audiences. \n\nHolistic Strategist | Innovator:\nCollaborating with (executive) stakeholders from diverse domains - development, user experience, marketing, sales, and presales - embodies my holistic approach to shaping a data-driven strategies. I thrive in the dynamic interplay of ideas, fusing Design Thinking with strategic foresight to sculpt effective roadmaps.\n\nData Science Trailblazer:\nAs a trailblazer in Data Science, I laid the foundation long before it became a buzzword. Holding a Ph.D. in Data Mining, I've diligently honed my expertise through impactful engagements at industry giants like SAP and Microsoft, as well as the esteemed research institution BC Centre for Disease Control. My\naccomplishments are highlighted by co-innovation on five granted and three in-progress patents, each harnessed by released features that have transformed the Analytic landscape.\n\nLet's connect and explore how our shared passion for data can shape the future of innovation.",
+  "positions": [
+    {
+      "title": "GenAI Product Manager",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": "Product Manager specializing in Analytics and Generative AI, responsible for defining product strategy, prioritizing features, and guiding cross-functional teams through development cycles. Successfully released two GenAI features, see blogs below.",
+      "location": "Walldorf, Baden-Württemberg, Germany",
+      "start": "2022-08",
+      "end": null,
+      "dateRange": "Aug 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Lead Product Expert",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": "I am Lead Product Expert (leading a virtual team of product experts) of the \"smart feature\" portfolio within SAP Analytics Cloud. The smart features are Machine Learning powered features that enable business users to automatically gain insights into their data. In my role, I work with customers to understand their business needs and translate into innovative, easy to use features. \n\nYou can find one of our recently released features, Search to Insight, here: https://www.sapanalytics.cloud/search-to-insights-use-case/",
+      "location": "Vancouver, Canada Area",
+      "start": "2019-04",
+      "end": "2022-07",
+      "dateRange": "Apr 2019 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Product Expert",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": "I am the Chief Product Expert for the Smart Assist portfolio in SAP Analytics Cloud (SAC), SAP's SaaS offering in the Analytics space. In my role, I am driving Machine Learning-based innovations for Business Users, including the recently released features showcased in links below. My responsibilities  include: \n- roadmap definition\n- feature requirements\n- internal and external enablement",
+      "location": "Vancouver, Canada Area",
+      "start": "2016-08",
+      "end": "2019-03",
+      "dateRange": "Aug 2016 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": "I am leading the predictive Product Management team for Americas. Our goal is to enable customers in the area of SAP BusinessObjects Predictive Analytics, SAP HCP predictive services and SAP BusinessObjects Cloud.",
+      "location": "Vancouver, BC",
+      "start": "2015-01",
+      "end": "2016-08",
+      "dateRange": "Jan 2015 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Data Scientist",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": "As a Data Scientist, I was in the development organization in various capacities: \n- As a product expert / product owner, I worked closely with the development team defining new features in SAP Lumira\n- As a trainer, I created and offered internal training\n- As a data scientist, I developed new methods in the area of SmartBI, which resulted in four patent applications. Some of these ideas have been productized.",
+      "location": "Vancouver, Canada Area",
+      "start": "2013-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2013 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Senior Scientist",
+      "company": "BC Centre for Disease Control",
+      "companyUrl": "https://www.linkedin.com/company/bc-centre-for-disease-control",
+      "description": "• Internal promotion: from 'Postdoctoral Intern' to 'Research Scientist' to 'Senior Scientist'",
+      "location": null,
+      "start": "2010-01",
+      "end": "2012-12",
+      "dateRange": "Jan 2010 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Database Consultant",
+      "company": "Simon Fraser University",
+      "companyUrl": "https://www.linkedin.com/company/simon-fraser-university",
+      "description": null,
+      "location": "Burnaby, BC",
+      "start": "2008-01",
+      "end": "2008-12",
+      "dateRange": "Jan 2008 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": null,
+      "location": "Redmond, WA",
+      "start": "2008-01",
+      "end": "2008-05",
+      "dateRange": "Jan 2008 – May 2008",
+      "current": false
+    },
+    {
+      "title": "Research/Teaching Assistant",
+      "company": "Simon Fraser University",
+      "companyUrl": "https://www.linkedin.com/company/simon-fraser-university",
+      "description": null,
+      "location": "Burnaby, BC",
+      "start": "2004-01",
+      "end": "2009-12",
+      "dateRange": "Jan 2004 – Dec 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Simon Fraser University",
+      "degree": "Doctor of Philosophy (PhD), Computing Science",
+      "dateRange": "2006 – 2009"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (MSc), Computing Science",
+      "dateRange": "2001 – 2006"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master's degree",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master's degree",
+      "dateRange": null
+    },
+    {
+      "school": "The University of British Columbia",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Leadership & Product Management",
+    "Conversational AI",
+    "Design Thinking",
+    "Data Mining",
+    "Data Science",
+    "SAP Lumira",
+    "Business Intelligence",
+    "Presentation Skills",
+    "Project Management",
+    "R",
+    "Data Visualization",
+    "Data Analysis",
+    "Machine Learning",
+    "Mathematical Modeling",
+    "Programming",
+    "Analytics",
+    "Big Data",
+    "Data Warehousing",
+    "RFID applications",
+    "Statistics"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "SAP",
+    "tagline": "We bring out the best in every business.",
+    "description": "SAP is a global leader in enterprise applications and business AI, helping organizations run end-to-end operations on a unified cloud ERP platform.\nWith SAP S/4HANA Cloud, SAP Business AI, and SAP Business Technology Platform (BTP), SAP enables companies to connect data, automate processes, and make real-time, intelligent decisions across the enterprise.\nSAP capabilities and portfolio\n•\tCloud ERP: SAP S/4HANA Cloud (finance, procurement, core operations) \n•\tBusiness AI: Embedded AI across HR, finance, supply chain, and customer experience \n•\tData & Integration: SAP Business Technology Platform (BTP) data, analytics, and application development \n•\tHuman Resources: SAP SuccessFactors (workforce management and employee experience) \n•\tCustomer Experience: SAP CX (commerce, marketing, sales, and service) \n•\tSupply Chain: SAP SCM (planning, logistics, manufacturing, operations) \n•\tEnterprise integration: Connect SAP and non-SAP systems across the business \n•\tReal-time insights: Operational data, analytics, and predictive capabilities \n•\tAutomation: Intelligent workflows embedded directly into business processes \n\nSAP combines cloud ERP, data, and AI to help organizations operate more efficiently, adapt faster, and grow in an AI-driven world, supported by a global ecosystem of customers and partners.\n\nOur Community Guidelines\nWe’re committed to fostering meaningful, respectful conversations. To maintain a positive environment, we moderate comments that:\n•\tTarget individuals, including employees, customers, or partners\n•\tContain discriminatory, harassing, or threatening content\n•\tShare personal information without consent\n•\tPromote misinformation, spam, or third-party links\nWe support open dialogue and constructive feedback but will remove content that violates these guidelines without notice. Thank you for contributing to a respectful community.\nFor questions about moderation, please DM us or contact brandsocial@sap.com\nSAP privacy statement for followers: www.sap.com/sps",
+    "industry": "Software Development",
+    "website": "http://www.sap.com",
+    "linkedInUrl": "https://www.linkedin.com/company/sap",
+    "employeeCount": 142888,
+    "foundedYear": 1972,
+    "location": "Walldorf, Germany",
+    "specialities": [
+      "ERP",
+      "Financials",
+      "Business Intelligence",
+      "Procurement",
+      "HCM",
+      "SCM",
+      "business",
+      "planning",
+      "efficiency",
+      "sustainability",
+      "innovation",
+      "analytics",
+      "reporting",
+      "dashboarding"
+    ]
+  }
+}

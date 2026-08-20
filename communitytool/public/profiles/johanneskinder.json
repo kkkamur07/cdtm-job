@@ -1,0 +1,192 @@
+{
+  "id": "johanneskinder",
+  "name": "Johannes Kinder",
+  "headline": "Professor of Computer Science at LMU Munich",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/johanneskinder",
+  "personId": 1638,
+  "classes": [
+    {
+      "id": 51,
+      "label": "Spring 2002",
+      "season": "Spring",
+      "year": 2002,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2002",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Johannes Kinder",
+  "ca": null,
+  "summary": "My research focuses on automated methods for assessing and ensuring the security and correctness of software, at the intersection of programming languages research, systems security, and machine learning. I am driven by concrete problems in software systems, but strive to deduce general principles and find formally well-founded solutions. My areas of expertise include automated testing and bug-finding, static analysis, verification of untrusted low-level code, machine learning on software representations, and malware detection.",
+  "positions": [
+    {
+      "title": "Professor of Computer Science",
+      "company": "LMU Munich – Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Chair of Programming Languages and Artificial Intelligence (PLAI)",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-04",
+      "end": null,
+      "dateRange": "Apr 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Professor of Computer Science",
+      "company": "Universität der Bundeswehr München",
+      "companyUrl": "https://www.linkedin.com/company/universitaet-der-bundeswehr-muenchen",
+      "description": "Head of PATCH lab at FI CODE",
+      "location": "Munich Area, Germany",
+      "start": "2019-01",
+      "end": "2023-03",
+      "dateRange": "Jan 2019 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Professor of Computer Science",
+      "company": "Royal Holloway, University of London",
+      "companyUrl": "https://www.linkedin.com/company/royal-holloway-university-of-london",
+      "description": null,
+      "location": "Egham, England, United Kingdom",
+      "start": "2018-06",
+      "end": "2018-12",
+      "dateRange": "Jun 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Senior Lecturer (~Associate Professor)",
+      "company": "Royal Holloway, University of London",
+      "companyUrl": "https://www.linkedin.com/company/royal-holloway-university-of-london",
+      "description": null,
+      "location": "Egham, England, United Kingdom",
+      "start": "2016-01",
+      "end": "2018-06",
+      "dateRange": "Jan 2016 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Lecturer (~Assistant Professor)",
+      "company": "Royal Holloway, University of London",
+      "companyUrl": "https://www.linkedin.com/company/royal-holloway-university-of-london",
+      "description": null,
+      "location": "Egham, England, United Kingdom",
+      "start": "2013-09",
+      "end": "2015-12",
+      "dateRange": "Sep 2013 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Postdoctoral Researcher",
+      "company": "EPFL",
+      "companyUrl": "https://www.linkedin.com/company/epfl",
+      "description": "Dependable Systems Laboratory, George Candea",
+      "location": "Lausanne, Switzerland",
+      "start": "2011-03",
+      "end": "2013-08",
+      "dateRange": "Mar 2011 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Microsoft Research, Patrice Godefroid",
+      "location": "Redmond, WA, USA",
+      "start": "2009-06",
+      "end": "2009-09",
+      "dateRange": "Jun 2009 – Sep 2009",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technische Universität Darmstadt",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-darmstadt",
+      "description": "Formal Methods in Systems Engineering, Helmut Veith",
+      "location": "Darmstadt, Germany",
+      "start": "2008-03",
+      "end": "2011-02",
+      "dateRange": "Mar 2008 – Feb 2011",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Chair for Theoretical Computer Science, Helmut Veith",
+      "location": "Munich, Germany",
+      "start": "2005-11",
+      "end": "2008-02",
+      "dateRange": "Nov 2005 – Feb 2008",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "University of Wisconsin-Madison",
+      "companyUrl": "https://www.linkedin.com/company/uwmadison",
+      "description": "Security group, Somesh Jha",
+      "location": "Madison, WI, USA",
+      "start": "2005-07",
+      "end": "2005-09",
+      "dateRange": "Jul 2005 – Sep 2005",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technische Universität Darmstadt",
+      "degree": "Dr. rer. nat. (PhD), Computer Science",
+      "dateRange": "2008 – 2010"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom (BSc + MSc), Computer Science",
+      "dateRange": "1999 – 2005"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2002 – 2004"
+    }
+  ],
+  "skills": [
+    "Computer Science",
+    "Research",
+    "Static Analysis",
+    "Software Engineering",
+    "Algorithms",
+    "Automated Software Testing",
+    "Model Checking",
+    "Malware Analysis",
+    "Software Verification",
+    "Reverse Engineering",
+    "Malware Detection",
+    "Test Case Generation",
+    "Abstract Interpretation",
+    "Symbolic Execution"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "tagline": null,
+    "description": "Die LMU zählt zu den renommiertesten Universitäten Europas. Sie steht für hervorragende Forschung, die sich mit einem anspruchsvollen Lehrangebot verbindet. Knapp 53.000 Studierende, davon 17 Prozent aus dem Ausland, nutzen derzeit das breite Fächerspektrum mit 150 Angeboten und zahlreichen Kombinationsmöglichkeiten - von den Geistes- und Kulturwissenschaften über Rechts-, Wirtschafts- und Sozialwissenschaften bis hin zur Medizin und den Naturwissenschaften. \n\nDas Know-how und die kreative Intelligenz von rund 700 Professorinnen und Professoren und 3.600 wissenschaftlichen Mitarbeiterinnen und Mitarbeitern bilden die Grundlage für die hervorragende Forschungsbilanz der LMU und sorgen für ihr regelmäßig gutes Abschneiden in nationalen und internationalen Rankings. \n\nMachen Sie sich ein Bild von der LMU: www.lmu.de\n\nUnsere Netiquette sowie Datenschutzinformationen zur Nutzung der Social-Media-Auftritte der LMU finden Sie hier: \n\nhttps://www.lmu.de/de/die-lmu/struktur/zentrale-universitaetsverwaltung/kommunikation-und-presse/social-media/index.html\n\nFür die inhaltliche Konzeption und Pflege der Seiten ist die Stabsstelle Kommunikation und Presse verantwortlich.",
+    "industry": "Higher Education",
+    "website": "http://www.lmu.de",
+    "linkedInUrl": "https://www.linkedin.com/company/lmu.muenchen",
+    "employeeCount": 9313,
+    "foundedYear": null,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

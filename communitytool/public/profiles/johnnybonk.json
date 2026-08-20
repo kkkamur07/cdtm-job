@@ -1,0 +1,293 @@
+{
+  "id": "johnnybonk",
+  "name": "Johnny Bonk",
+  "headline": "Senior Strategy Consultant | Siemens | Digital Transformation & AI | Geopolitics of Technology",
+  "avatar": {
+    "sm": "/avatars/johnnybonk-sm.webp",
+    "lg": "/avatars/johnnybonk.webp",
+    "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAABwBQCdASogACAAPtFWoEuoJKMhsBgMAQAaCWgAA+VHOORC49ecoy6Nl9yFH4lB/ZuJqf/AAP7L/Zl+lVo3ilhfF/OvP65HT42HFPoRCjHQ6rKIqjlTYLgOYYOiAm5ilZ7LJpTaA/1RYZDx9gL+Dq04Ry31GN/8wBRVQP+kMBgm+nxKG4KaKLf7cxrv/khTJuljw5SIF9CjxzUbe1cYXOSA9pt6+35TIJ+qexoayY9XOZozQGUFOEuwc9+Q3pae1JOfVrUVTMm3zhznbVcdnNvB3hd7kWPOSEcilp10ohUIDcCJLwPx3lae2Ic5HWuLd5sEAE48zLB3AAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/johnnybonk",
+  "personId": 948,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "M.Sc. Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Johnny Bonk",
+  "ca": null,
+  "summary": "I am an experienced strategy consultant at Siemens, accelerating the digital transformation of clients around the globe. My passion lies in bridging strategy and organizational design with disruptive new technologies: \n#Strategy: Strategy development, business model innovation, and competitiveness\n#Technology: AI, platforms, and ecosystems",
+  "positions": [
+    {
+      "title": "Senior Strategy Consultant",
+      "company": "Siemens Advanta",
+      "companyUrl": "https://www.linkedin.com/company/siemens-advanta",
+      "description": "Former Siemens Management Consulting (SMC)\n🧭 Business Strategy: From foresight & scenarios to service strategy\n🌐 Digital Business: Ecosystem design (e.g., Catena-X, Xcelerator) on DAX top-mgmt. level\n📊 Digital Organization: Defining and driving Data & AI strategy, Accelerating use cases \n👥 Organizational Development: P&O strategies with focus change & adoption\n🚀 Transformation: Executing #OneTech strategy",
+      "location": null,
+      "start": "2023-04",
+      "end": null,
+      "dateRange": "Apr 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Strategy Consultant Siemens Advanta",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "#International & social engagement: \n🌍 Mercator Alumni\n🇫🇷🇪🇺 Generation Europa 2025\n🇯🇵 German-Japanese Young Leader 2025\n\n#Strategic Contributions:\n♻️ Siempact",
+      "location": null,
+      "start": "2023-04",
+      "end": null,
+      "dateRange": "Apr 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Scholar in the 1st cohort (lifelong learning)",
+      "company": "AI pioneers",
+      "companyUrl": "https://www.linkedin.com/company/pioneers-ai",
+      "description": "\"Educating the next generation of AI leadership\"\nTUM School of Management (Chair of Strategy & Organization - Professor Dr. Isabell M. Welpe)",
+      "location": null,
+      "start": "2025-06",
+      "end": "2025-10",
+      "dateRange": "Jun 2025 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Generation Europe",
+      "company": "OFAJ DFJW",
+      "companyUrl": "https://www.linkedin.com/company/ofaj-dfjw",
+      "description": "Fellowship by the German and French governments for young leaders, financially supported by Siemens, AXA, Bosch, Oddo BHF, and Amundi, with three seminars in Paris, Berlin, and Warsaw",
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-10",
+      "dateRange": "Jan 2025 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Automotive Consulting",
+      "company": "Monitor Deloitte",
+      "companyUrl": "https://www.linkedin.com/company/monitordeloitte",
+      "description": "Student project on Data-based Business Models in the Car Cockpit",
+      "location": null,
+      "start": "2021-04",
+      "end": "2021-09",
+      "dateRange": "Apr 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Trend Researcher",
+      "company": "alley",
+      "companyUrl": null,
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-08",
+      "end": "2020-10",
+      "dateRange": "Aug 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Visiting Research Assistant",
+      "company": "Saïd Business School, University of Oxford",
+      "companyUrl": "https://www.linkedin.com/company/oxfordsbs",
+      "description": "Data Analysis for a systematic literature review for a systems change related research project with Prof. Dr. Paulo Savaget at the Skoll Centre for Social Entrepreneurship",
+      "location": null,
+      "start": "2020-07",
+      "end": "2020-12",
+      "dateRange": "Jul 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Intern Economics & Trade Policy",
+      "company": "Auswärtiges Amt (Federal Foreign Office) Germany",
+      "companyUrl": "https://www.linkedin.com/company/auswaertigesamt",
+      "description": "Department of international economic and financial policy, Trade policy\n- Weekly articles for the magazine \"Fokus Weltwirtschaft\"\n- Support for the Ambassadors' Conference BoKoWiTa19 and INSTEX\n- Country analyses and economic analyses",
+      "location": "Berlin und Umgebung, Deutschland",
+      "start": "2019-08",
+      "end": "2019-09",
+      "dateRange": "Aug 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Junior Staff Big Data & Business Intelligence",
+      "company": "Deloitte",
+      "companyUrl": "https://www.linkedin.com/company/deloitte",
+      "description": "- Big Data Analytics and Business Intelligence for Investment Funds\n- Audit in Financial Services\n- Testing and Software Engineering",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-03",
+      "end": "2019-05",
+      "dateRange": "Mar 2019 – May 2019",
+      "current": false
+    },
+    {
+      "title": "Fellowship Think digital",
+      "company": "Think Digital",
+      "companyUrl": "https://www.linkedin.com/company/think-digital-ibc",
+      "description": "- Interdisciplinary Network & Community in Munich\n- Participation in events & at speeches like DLD Campus Lecture \n- Connecting with companies & chairs of digitalization in the Internet Business Cluster",
+      "location": null,
+      "start": "2018-10",
+      "end": "2019-07",
+      "dateRange": "Oct 2018 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Scholarship for Marketing",
+      "company": "M-Excellence",
+      "companyUrl": "https://www.linkedin.com/company/m-excellence",
+      "description": "- Education at the Institute of Marketing (Strategic & Digital Marketing) \n- Workshops with Companies (e.g. Customer Journey, Consulting, Digital Transformation)\n- Conferences and Expeditions (e.g. Ludwig-Erhard-Gipfel) \n- Soft Skills Training and Community Programme",
+      "location": null,
+      "start": "2018-09",
+      "end": "2020-07",
+      "dateRange": "Sep 2018 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Social Entrepreneurship Certificate Urban Sustainability",
+      "company": "Social Entrepreneurship Akademie",
+      "companyUrl": "https://www.linkedin.com/company/social-entrepreneurship-akademie",
+      "description": "- Design Thinking (Explore, Ideation, Prototype, Iteration) \n- Masterclasses (New Work, Politik, Circular Economy, Intrapreneurship)\n- Storytelling & Pitch Training\n- Skalierung & Impact\n- Finanzierung, Business Model Canvas & Go2Market",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-09",
+      "end": "2019-07",
+      "dateRange": "Sep 2018 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Summer Internship Future Mobility & Connectivity",
+      "company": "Volkswagen AG",
+      "companyUrl": "https://www.linkedin.com/company/volkswagen-group",
+      "description": "- Develop and regularly create a management newsletter about digital, connectivity and mobility\n- Definition of requirements and offer development of an interface \n- Analysis of the competitive and market situation of fleet customers\n- Development of driving profiles for different user groups and feasibility study for electromobility",
+      "location": "Wolfsburg",
+      "start": "2018-08",
+      "end": "2018-10",
+      "dateRange": "Aug 2018 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Business Planning",
+      "company": "Institute for Innovation Management (IIM) - Ludwig-Maximilians-Universität (LMU)",
+      "companyUrl": "https://www.linkedin.com/company/lmu-iim",
+      "description": "- Business planning for an energy start-up of engineers\n- Cooperation with LMU Entrepreneurship Center and Institute for Innovation Management",
+      "location": null,
+      "start": "2018-04",
+      "end": "2018-07",
+      "dateRange": "Apr 2018 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "Certificate Excellence in Entrepreneurship",
+      "company": "LMU Innovation & Entrepreneurship Center",
+      "companyUrl": "https://www.linkedin.com/company/lmu-innovation-entrepreneurship-center",
+      "description": "- Start with Business Planning\n- Innovationmanagement\n- Course Enabling Entrepreneurs to Shape a better world \n- Seminars like IdeenAlm (InnovationsGeist) or Unglaublich unternehmerisch",
+      "location": null,
+      "start": "2017-10",
+      "end": "2020-09",
+      "dateRange": "Oct 2017 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Coach & Fundraising",
+      "company": "ProjectTogether",
+      "companyUrl": "https://www.linkedin.com/company/projecttogether",
+      "description": "Coaching for young entrepreneurs \n- Offering structure, clarity and new perspectives in the confusing and critical initial phase \n- Teaching the basics of Marketing, Finance & Social Entrepreneurship \n- Motivating and encouraging young founders\n\nFundraising \n- Development and Testing of Fundraising Project",
+      "location": null,
+      "start": "2016-12",
+      "end": "2021-07",
+      "dateRange": "Dec 2016 – Jul 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "M.Sc, Business",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology & Management",
+      "dateRange": null
+    },
+    {
+      "school": "University of Oxford",
+      "degree": "Visiting Researcher",
+      "dateRange": null
+    },
+    {
+      "school": "Università Bocconi",
+      "degree": "Visiting Student, Economics and Management",
+      "dateRange": null
+    },
+    {
+      "school": "Peking University",
+      "degree": "Incoming Exchange Student",
+      "dateRange": null
+    },
+    {
+      "school": "Elite Network of Bavaria",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Internationale Beziehungen",
+    "IT-Strategie",
+    "Künstliche Intelligenz (KI)",
+    "Leadership",
+    "Digital Transformation",
+    "Corporate Sustainability",
+    "Projektplanung",
+    "Trendanalysen",
+    "Automotive",
+    "Change",
+    "Strategie",
+    "Digitale Transformation",
+    "Nachhaltigkeit",
+    "Transformation",
+    "Industrie",
+    "Teamplayer",
+    "Leistungsbereitschaft",
+    "Projektmanagement",
+    "Pitching",
+    "Digital Economy"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Siemens Advanta",
+    "tagline": "Unlock the digital future",
+    "description": "Siemens Advanta is a strategic advisor and trusted implementation partner for digital and sustainability transformations on an enterprise level. \n\nDrawing on the Siemens tech stack, Siemens Advanta delivers end-to-end solutions, from strategy and operations consulting to solution architecture and implementation. With comprehensive expertise in IT and OT, Siemens Advanta combines extensive experience from Siemens’ own transformation journey with an established reliability stemming from customer projects across diverse industries and countries. \n\nBy leveraging the power of Siemens businesses and its partners, Siemens Advanta helps customers unlock the full value of Siemens technologies across their entire value chain. \n\nHeadquartered in Munich, Germany, Siemens Advanta operates with a global network of about 1000 employees in 18 countries and 47 offices.\n \nFor more information, visit www.siemens-advanta.com.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.siemens-advanta.com",
+    "linkedInUrl": "https://www.linkedin.com/company/siemens-advanta",
+    "employeeCount": 1365,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Management Consulting",
+      "Operations Consulting",
+      "Operations",
+      "Consulting",
+      "Digital Consulting",
+      "IoT",
+      "Digital Transformation",
+      "Strategy Consulting",
+      "Cost Transformation"
+    ]
+  }
+}

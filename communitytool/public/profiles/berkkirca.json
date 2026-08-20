@@ -1,0 +1,214 @@
+{
+  "id": "berkkirca",
+  "name": "Berk Kirca",
+  "headline": "DeepTech I Investment Banking I M&A",
+  "avatar": null,
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/berkkirca",
+  "personId": 1848,
+  "classes": [
+    {
+      "id": 62,
+      "label": "Fall 2007",
+      "season": "Fall",
+      "year": 2007,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2007",
+  "major": "Communication Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Berk Kirca",
+  "ca": null,
+  "summary": "Specialties: - M&A, Financial Modeling, Business Valuation, Technology Assessment,\n- Information Theory, Communication Theory, Probabilistics, Statistics",
+  "positions": [
+    {
+      "title": "Venture Partner",
+      "company": "DeepX Ventures",
+      "companyUrl": "https://www.linkedin.com/company/deepxventures",
+      "description": null,
+      "location": null,
+      "start": "2026-04",
+      "end": null,
+      "dateRange": "Apr 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Director",
+      "company": "Stifel Financial Corp.",
+      "companyUrl": "https://www.linkedin.com/company/stifel-financial-corp-",
+      "description": null,
+      "location": "Munich",
+      "start": "2025-06",
+      "end": "2026-03",
+      "dateRange": "Jun 2025 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "Director",
+      "company": "Bryan, Garnier & Co",
+      "companyUrl": "https://www.linkedin.com/company/stifel-ineurope",
+      "description": null,
+      "location": null,
+      "start": "2016-01",
+      "end": "2025-06",
+      "dateRange": "Jan 2016 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Associate Director",
+      "company": "Cartagena Capital",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2014-01",
+      "end": "2016-01",
+      "dateRange": "Jan 2014 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Associate",
+      "company": "Cartagena Capital",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2011-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2011 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Analist",
+      "company": "Arçelik A.Ş.",
+      "companyUrl": "https://www.linkedin.com/company/arcelikturkiye",
+      "description": null,
+      "location": null,
+      "start": "2010-01",
+      "end": "2011-02",
+      "dateRange": "Jan 2010 – Feb 2011",
+      "current": false
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "- Due diligence mandated by a major private equity client (deal size ~EUR 2bn).\n- Preparation of a strategic review for a major international insurance client.",
+      "location": null,
+      "start": "2008-01",
+      "end": "2008-12",
+      "dateRange": "Jan 2008 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "Part-time Analyst, German Venture Team",
+      "company": "3i Group plc",
+      "companyUrl": "https://www.linkedin.com/company/3i-group-plc",
+      "description": "Analyst in the German Venture Team, focusing on late stage IT and Cleantech deals.",
+      "location": null,
+      "start": "2007-01",
+      "end": "2008-12",
+      "dateRange": "Jan 2007 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Koc University",
+      "companyUrl": null,
+      "description": "College of Administrative Sciences and Economics\nAssistant to Levent Kockesen, Professor of Economics\nTeaching Assistant for an advanced course on game theory and strategy.",
+      "location": null,
+      "start": "2005-01",
+      "end": "2006-12",
+      "dateRange": "Jan 2005 – Dec 2006",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Fraunhofer Institute",
+      "companyUrl": null,
+      "description": "Department: Microscanner Product Development\nAccomplished project on characterization and testing of novel MOEMS (Micro Opto Electro Mechanical Systems).",
+      "location": null,
+      "start": "2005-01",
+      "end": "2005-12",
+      "dateRange": "Jan 2005 – Dec 2005",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Argela Technologies",
+      "companyUrl": "https://www.linkedin.com/company/argela-technologies",
+      "description": "Department: Research & Development\nParticipated in Mobile Video Streaming project in value adding and testing.",
+      "location": null,
+      "start": "2004-01",
+      "end": "2004-12",
+      "dateRange": "Jan 2004 – Dec 2004",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., Communications Engineering",
+      "dateRange": "2006 – 2009"
+    },
+    {
+      "school": "Koç University",
+      "degree": "B.Sc., Electrical & Electronics Engineering, minor in Economics",
+      "dateRange": "2002 – 2006"
+    },
+    {
+      "school": "TU Dortmund University",
+      "degree": "Exchange student, Bio- and Chemical Engineering",
+      "dateRange": "2005"
+    },
+    {
+      "school": "Istanbul Erkek Lisesi",
+      "degree": null,
+      "dateRange": "1993 – 2001"
+    }
+  ],
+  "skills": [
+    "Statistics",
+    "Financial Modeling",
+    "Business Valuation",
+    "Mergers",
+    "Venture Capital",
+    "Start-ups",
+    "Corporate Finance",
+    "Mergers & Acquisitions",
+    "Strategy",
+    "Analytics",
+    "Strategic Financial Planning",
+    "Due Diligence",
+    "Corporate Development",
+    "Business Strategy",
+    "Private Equity",
+    "Business Planning",
+    "Economics",
+    "Valuation",
+    "Project Management",
+    "Entrepreneurship"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "DeepX Ventures",
+    "tagline": "Venturing Beyond Limits",
+    "description": "deepXventures is a transatlantic catalyst for DeepTech innovation - connecting founders, funds and corporates to accelerate frontier technologies.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": null,
+    "linkedInUrl": "https://www.linkedin.com/company/deepxventures",
+    "employeeCount": 3,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

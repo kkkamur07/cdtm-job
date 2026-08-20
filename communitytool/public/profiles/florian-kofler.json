@@ -1,0 +1,282 @@
+{
+  "id": "florian-kofler",
+  "name": "Florian Kofler",
+  "headline": "curious mind, researcher",
+  "avatar": {
+    "sm": "/avatars/florian-kofler-sm.webp",
+    "lg": "/avatars/florian-kofler.webp",
+    "blur": "data:image/webp;base64,UklGRmYBAABXRUJQVlA4IFoBAABQBwCdASogACAAPtFeqE4oJSQiKAqpABoJbACdL3ekGmHEt2zQp/UmXG7b4f8W4zIWItVs0j0OyiiGKXVmPTOLzLwAAP7oFiB1YqpPTHHoEm2qMLPnQi0wdsCFL0HVEdFJdwT//Dy+5Ngro/2rmLlS/6qc1xL2sgP2/JHSbzHQWyF6HRLFvsKCiEtXGSeLqLdjUMyHLgo3GiWKnR0efb7PX7l8xr/fOq64G/q7JO4faLYxGvqj/6PYJkpQW6fKiFL/9FNb3Isps9ifpKSQy4tUVkr80LExV1v0RIWe+u8hD0s0GSAkCws397+NQqJ31c6bbba6iNf73LzGA0OYcRAmwi1NytRfmt+G+rSRte3OaJ0hBKNFzC5WqnG0gWUdnkc6rqjfn46ELc6+nwbf9iX+pSAhZhXHZSNBic4WKylPtb0d8jnjkYSfl7QjktEGPm+uQei+c3BAiAAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/florian-kofler",
+  "personId": 969,
+  "classes": [
+    {
+      "id": 74,
+      "label": "Fall 2013",
+      "season": "Fall",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2013",
+  "major": "Neuro-cognitive Psychology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Florian Kofler",
+  "ca": null,
+  "summary": "I research how to integrate human expertise into AI models—and how to embed AI models into human-computer-interactive workflows. My work bridges the gap between algorithmic intelligence and human judgment, aiming to make AI systems more interpretable, collaborative, and effective.\n\nMy background combines expertise in AI model development, statistics, software engineering, sociology, and experimental Psychology, giving me a unique perspective on both the technical and human sides of intelligent systems.",
+  "positions": [
+    {
+      "title": "Research Group Leader",
+      "company": "Hertie Institute for AI in Brain Health",
+      "companyUrl": "https://www.linkedin.com/company/hertie-institute-for-ai-in-brain-health",
+      "description": null,
+      "location": "Tübingen, Baden-Württemberg, Germany",
+      "start": "2025-08",
+      "end": null,
+      "dateRange": "Aug 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Group Leader",
+      "company": "University of Tübingen",
+      "companyUrl": "https://www.linkedin.com/company/eberhard-karls-universit-t-t-bingen",
+      "description": null,
+      "location": "Tübingen, Baden-Württemberg, Germany",
+      "start": "2025-08",
+      "end": null,
+      "dateRange": "Aug 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Freelance",
+      "companyUrl": null,
+      "description": "**currently only working on very selective projects**\n\nFreelance projects for the following organizations among others:\n- Audi AG\n- The Lego Group\n- Ricola AG\n- Technical University of Munich\n- Hyve AG",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-10",
+      "end": null,
+      "dateRange": "Oct 2015 – Present",
+      "current": true
+    },
+    {
+      "title": "Postdoctoral Researcher",
+      "company": "University of Zurich",
+      "companyUrl": "https://www.linkedin.com/company/uzh",
+      "description": "Postdoctoral researcher in the Menze group at the Department of Quantitative Biomedicine (DQBM)\n\n---\n\nworking on brain lesion processing and analysis pipelines mainly in MR imaging.",
+      "location": "Zurich, Switzerland",
+      "start": "2024-07",
+      "end": "2025-09",
+      "dateRange": "Jul 2024 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Yale University",
+      "companyUrl": "https://www.linkedin.com/company/yale-university",
+      "description": null,
+      "location": null,
+      "start": "2023-05",
+      "end": "2024-01",
+      "dateRange": "May 2023 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "AI Consultant",
+      "company": "Helmholtz AI",
+      "companyUrl": "https://www.linkedin.com/company/helmholtz-ai",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-07",
+      "end": "2024-06",
+      "dateRange": "Jul 2022 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "King's College London",
+      "companyUrl": "https://www.linkedin.com/company/king's-college-london",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-06",
+      "dateRange": "Jan 2022 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Visting Researcher",
+      "company": "University of Pennsylvania",
+      "companyUrl": "https://www.linkedin.com/company/university-of-pennsylvania",
+      "description": null,
+      "location": null,
+      "start": "2021-04",
+      "end": "2021-12",
+      "dateRange": "Apr 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Doctoral Candidate / Researcher: Computer Vision / AI",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "PhD candidate at the Chair for Computer Aided Medical Procedures & Augmented Reality. Focus on biomedical image analysis and brain lesions.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-01",
+      "end": "2022-06",
+      "dateRange": "Jan 2018 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Senior Data Scientist",
+      "company": "ONE LOGIC GmbH",
+      "companyUrl": "https://www.linkedin.com/company/one-data-it",
+      "description": "various data science projects for internal r&d and industry",
+      "location": "Munich",
+      "start": "2017-09",
+      "end": "2017-12",
+      "dateRange": "Sep 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Startup Project: Developing robotic camera head with optical tracking",
+      "companyUrl": null,
+      "description": "- Business strategy\n- User experience\n- Product Development\n- Market research",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-02",
+      "end": "2015-11",
+      "dateRange": "Feb 2015 – Nov 2015",
+      "current": false
+    },
+    {
+      "title": "Master Thesis",
+      "company": "Technical University of Munich",
+      "companyUrl": null,
+      "description": "Master Thesis: \"Prediction of manual flying performance based on eye movements and other parameters\"\n- Collaboration with TU Berlin and Lufthansa AG\n- Analysis of Dikablis eye-tracking experiments in Airbus A-320/A-340 flight simulator\n- Development of a data analysis procedure using Matlab and R",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-02",
+      "end": "2014-08",
+      "dateRange": "Feb 2014 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Netherlands Institute for Neuroscience",
+      "companyUrl": null,
+      "description": "- Design and realization of eye-tracking experiments (Eyelink C2)\n- Data analysis with Matlab",
+      "location": "The Randstad, Netherlands",
+      "start": "2012-08",
+      "end": "2012-10",
+      "dateRange": "Aug 2012 – Oct 2012",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Klinikum Rechts Der Isar",
+      "companyUrl": "https://www.linkedin.com/company/tum-universitätsklinikum-rechts-der-isar",
+      "description": "- tDCS brain stimulation\n- TVA attention testing\n- Presentation of the results: Visual Search and Selective Attention III, Holzhausen am\nAmmersee, Germany.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2011-10",
+      "end": "2012-05",
+      "dateRange": "Oct 2011 – May 2012",
+      "current": false
+    },
+    {
+      "title": "Working Student | Student Researcher",
+      "company": "Ludwig-Maximilians Universität München",
+      "companyUrl": null,
+      "description": "- Attention testing\n- Intelligence testing (HAWIE etc.)\n- Data analysis, statistics\n- Administrative tasks / Recruiting",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2010-06",
+      "end": "2013-10",
+      "dateRange": "Jun 2010 – Oct 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr. rer. nat., Informatics",
+      "dateRange": "2018 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management, Product & Innovation Management, Entrepreneurship",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Neuro-Cognitive Psychology",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Arts (B.A.), Sociology / Psychology",
+      "dateRange": "2008 – 2011"
+    }
+  ],
+  "skills": [
+    "Software Development",
+    "Biomedical Image Analysis",
+    "Medical Imaging",
+    "Biomedical Sciences",
+    "Python (Programming Language)",
+    "R (Programming Language)",
+    "Research",
+    "Statistics",
+    "Business Strategy",
+    "Entrepreneurship",
+    "Marketing",
+    "Business Development",
+    "Project Management",
+    "Data Analysis",
+    "Social Media",
+    "Product Development",
+    "Photography",
+    "Start-ups",
+    "Data Science",
+    "Computer Vision",
+    "Strategy",
+    "Artificial Intelligence (AI)",
+    "Machine Learning",
+    "Deep Learning",
+    "R",
+    "Adobe Creative Suite",
+    "Matlab",
+    "Microsoft Office",
+    "Photoshop",
+    "Python",
+    "Public Speaking",
+    "Cognitive Psychology",
+    "Neuropsychology",
+    "EEG",
+    "fMRI",
+    "Experimental Psychology",
+    "Eye Tracking"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Hertie Institute for AI in Brain Health",
+    "tagline": "We improve early diagnosis and prevention of diseases of the nervous system using artificial intelligence.",
+    "description": "Transforming Neurology through AI: Pioneering Innovations for Early Disease Detection, Predictive Healthcare, and Targeted Treatments at Hertie AI. Bridging the Gap between Neuroscience and Artificial Intelligence, we harness cutting-edge methodologies to understand and advance the realms of clinical AI precision. Proudly part of Tübingen's unique network, collaborating with leaders like CyberValley and Tübingen AI Center. Join us in shaping the future of healthcare through groundbreaking research and collaboration. #HertieAI #NeuroTech #AIinHealthcare\"",
+    "industry": "Research Services",
+    "website": "https://hertie.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/hertie-institute-for-ai-in-brain-health",
+    "employeeCount": 31,
+    "foundedYear": 2023,
+    "location": "Tübingen, Germany",
+    "specialities": [
+      "Neuroscience",
+      "AI",
+      "ML",
+      "Data Science",
+      "AI in healthcare"
+    ]
+  }
+}

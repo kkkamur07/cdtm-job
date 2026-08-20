@@ -1,0 +1,152 @@
+{
+  "id": "srajit-sakhuja",
+  "name": "Srajit Sakhuja",
+  "headline": "BITS Pilani | TUM | CDTM",
+  "avatar": {
+    "sm": "/avatars/srajit-sakhuja-sm.webp",
+    "lg": "/avatars/srajit-sakhuja.webp",
+    "blur": "data:image/webp;base64,UklGRigBAABXRUJQVlA4IBwBAADwBgCdASogACAAPtFcpk6oJSMiKAqpABoJagCdMzBGA1gYYJn1KHd7R18wQdLF4Ay947UDQa/uqOtsO7W5b60AAP7tSH8j4jNE7A8op91+//mStNioA0cxsZZN7Ewyi0apna5yqwTUrnlNcC9z34dCX8Aac2LI3KjHTeRsXnc9hG+ugGiRPcj6ZIlgDCz8LQ+Wc72B+otf9jtD/Kd1831YeOOHU58RnPLH3CS8iNmQ/PxupsHYTzBuaW3mH25th3MWJENfLBg5kt6Z//NXESigIvvdjRDUd7Vx+jj6mh3sFTXi+DVa5DCOY4UPT1YwGxEltEPcadsmrWZ5R+s2LQznWRE4fL0YOISNxMPaQM9xqjs/baE9CtHj4AAAAA=="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/srajit-sakhuja",
+  "personId": 1222,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "M.Sc. Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Srajit Sakhuja",
+  "ca": null,
+  "summary": "An avid reader, writer, and current affairs enthusiast who studies computer science and has a keen interest in product management and software development.",
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "January 2024 - present: Sending emails, a billion users at a time.\nSep 2022 - December 2023: Ensuring safety of minor users on the Internet.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-09",
+      "end": null,
+      "dateRange": "Sep 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": "Export fulfilment @ Amazon INTech",
+      "location": "Luxembourg, Luxembourg",
+      "start": "2022-06",
+      "end": "2022-09",
+      "dateRange": "Jun 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Maltego Technologies",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": "E-commerce and Access Management @ Maltego Admin Experience",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-06",
+      "dateRange": "Oct 2021 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Call Recording and Transcription @ Microsoft Teams",
+      "location": "Tallinn, Estonia (remotely from Munich, Germany)",
+      "start": "2021-07",
+      "end": "2021-09",
+      "dateRange": "Jul 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "KPIT",
+      "companyUrl": "https://www.linkedin.com/company/kpit",
+      "description": "Automotive firmware and dependency management @ KPIT Vehicle Diagnostics",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-07",
+      "end": "2021-06",
+      "dateRange": "Jul 2018 – Jun 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Birla Institute of Technology and Science, Pilani",
+      "degree": "Bachelor's degree, Computer Science",
+      "dateRange": "2013 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree (part-time studies), Computer Science",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Master's degree, Technology Management",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Research Affiliate, Computer Science",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Singapore University of Technology and Design (SUTD)",
+      "degree": "Bachelor’s Thesis",
+      "dateRange": "2017"
+    },
+    {
+      "school": "St. John's High School, Chandigarh",
+      "degree": "High School",
+      "dateRange": "2001 – 2010"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Google",
+    "tagline": null,
+    "description": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.\n\nCheck out our career opportunities at goo.gle/3DLEokh",
+    "industry": "Software Development",
+    "website": "https://goo.gle/3DLEokh",
+    "linkedInUrl": "https://www.linkedin.com/company/google",
+    "employeeCount": 341631,
+    "foundedYear": null,
+    "location": "Mountain View, United States",
+    "specialities": [
+      "search",
+      "ads",
+      "mobile",
+      "android",
+      "online video",
+      "apps",
+      "machine learning",
+      "virtual reality",
+      "cloud",
+      "hardware",
+      "artificial intelligence",
+      "youtube",
+      "software"
+    ]
+  }
+}

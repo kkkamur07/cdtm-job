@@ -1,0 +1,194 @@
+{
+  "id": "saadamin94",
+  "name": "Saad Amin",
+  "headline": "Product @ TeamViewer | TUM | CDTM",
+  "avatar": {
+    "sm": "/avatars/saadamin94-sm.webp",
+    "lg": "/avatars/saadamin94.webp",
+    "blur": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAAAQBwCdASogACAAPtFWpkwoJKOiKA1RABoJaADKINo6AFPQrS/uGqHpFwg40xsCZJcsnn76qsQ0ZkZ6ekl2lFJQAAD+/XtCxRbdOQdH4OFc27pXbZRY2i7X8VOZ7AyHiG/Nc9BUbKDM4163yLKp2w4EM/3A/DDSt3glUJJuMsOJHOZXtDHnWPT7Q06x7w6TOwc6DIV1u04fXJPIkdSrZsdJRZP+LO+eqIvCYFb5IRzskTZuOfBzYM69jSbGmMjiDQ1g5RgE54Lvue/1a2kK3GruN6SOm4wieVRxJOCipEmlFw5oXUoacDVH8skYXXbwCW81clRWAV8DuDqR7uxhUZsJQAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/saadamin94",
+  "personId": 831,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Management",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Saad Amin",
+  "ca": null,
+  "summary": "How do you combine electronics, UX design, programming, and industrial psychology?\n\nHi, my name is Saad and I love everything technology. That's how I got started with engineering and where I picked up the passion for programming. Working as a systems programmer, I realised that as much as I enjoy finding solutions, my real skill lies in facilitating and coordinating teams to build great products and solutions. The interface between business and engineering is where I thrive.\n\nI started a master's in management in 2017 and that's where I became engrossed with the field of industrial psychology and UX design.\n\nCurrently you'll find me in my natural habitat, at the interface of business and engineering, chirping in both tech and corporate speak to build cool solutions. My role requires flexibility more than anything else, so whether it's gathering user feedback, fixing networking issues, being a scrum master, or completing a risk assessment, my tech background and business knowledge allows me take it all on.\n\nOutside of work, I enjoy reading, fencing, football and working on my own electronics or software projects.\nAs for the first question, I don't have the answer yet but I am getting close.\n\nSkills/Interests: Collaboration, Project Management, Product Management, UX Design, Python, C++, Dart, MATLAB, Flutter, Flask",
+  "positions": [
+    {
+      "title": "Senior Product Manager",
+      "company": "TeamViewer",
+      "companyUrl": "https://www.linkedin.com/company/teamviewer",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Workpath",
+      "companyUrl": "https://www.linkedin.com/company/workpathhq",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2023-08",
+      "dateRange": "Jan 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Technical Product Manager",
+      "company": "Workpath",
+      "companyUrl": "https://www.linkedin.com/company/workpathhq",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Allianz Technology",
+      "companyUrl": "https://www.linkedin.com/company/allianz-technology",
+      "description": "Team: Robotics and AI 🤖\nProduct Management\n- Led a product team of multiple product owners and developers through a complete product lifecycle: discovery, MVP build, customer acquisition, and pivot to a more scalable product offering.\n- Currently responsible for organizing the dev team by prioritizing backlog, facilitating in estimation, planning sprints, running stand-ups, reviews and retros.\n- Designed and implemented the first UX audit of our custom SaaS solution. The UX audit reported up to 60% improvement in key user interactions.\n- Created wire-frames and UX mock-up for multiple, high-impact features.\n- Experienced in customer acquisition: Converted 5 B2B leads to customers in a span of 6 months.\n\nProject Management\n- Currently managing a project for delivering an automated chat solution as part of a multi-million € program that aims to ease the load on the contact center agents.\n- In the past, led a team of 3 delivery managers and 6 developers to deliver process automation (RPA) to the 140,000 people across Allianz.\n- Led a product enhancement project which delivered near 400% gain in efficiency due to scaling of a single solution across multiple regions.",
+      "location": "Munich Area, Germany",
+      "start": "2019-12",
+      "end": "2021-12",
+      "dateRange": "Dec 2019 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Product Management Intern",
+      "company": "Allianz Technology",
+      "companyUrl": "https://www.linkedin.com/company/allianz-technology",
+      "description": "Team: Robotics and AI 🤖\nProject Management\n- Facilitated global delivery model for creating chat-bot proof of concepts\n\nProduct Management\n- Coordinated prioritization of backlog for chat-bot platform\n- Designed high level architecture for global chat-bot platform in collaboration with lead developer\n- Carried out risk assessment and technical review for chat-bot platform\n\nPre-Sales\n- Successfully moved more than a dozen leads along the sales funnel\n- Led on-boarding of customers to chat-bot platform",
+      "location": "Munich Area, Germany",
+      "start": "2018-11",
+      "end": "2019-11",
+      "dateRange": "Nov 2018 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Product Development Consultant",
+      "company": "Oxford Academic Health Science Network (Oxford AHSN)",
+      "companyUrl": "https://www.linkedin.com/company/health-innovation-oxford",
+      "description": "In cooperation with Center for Digital Technology and Management (CDTM)",
+      "location": null,
+      "start": "2018-10",
+      "end": "2019-01",
+      "dateRange": "Oct 2018 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "System Programmer",
+      "company": "Helmholtz Zentrum München",
+      "companyUrl": "https://www.linkedin.com/company/helmholtzmunich",
+      "description": "- Worked on development of high-speed data acquisition and system control for optoacoustic microscopy of biomedical samples.\n- Optimized system and code for live imaging of optoacoustic sample.\n- Primary tools: Matlab and C++",
+      "location": "Munich Area, Germany",
+      "start": "2018-03",
+      "end": "2018-08",
+      "dateRange": "Mar 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Software Design Engineer",
+      "company": "xFlow Research Inc.",
+      "companyUrl": "https://www.linkedin.com/company/xflow-research-inc",
+      "description": "- Primary role was creating high performance networking applications in C/C++. \n- Improved efficiency of existing software modules by as much as 44%.\n- Created multiple user guides and documentations for an existing company product.\n- Researched into the possibility of adopting other technologies to expand portfolio of company.",
+      "location": "Islamabad",
+      "start": "2016-07",
+      "end": "2016-10",
+      "dateRange": "Jul 2016 – Oct 2016",
+      "current": false
+    },
+    {
+      "title": "Network Engineer",
+      "company": "Ufone",
+      "companyUrl": "https://www.linkedin.com/company/ufone",
+      "description": "- Worked on mobile broadband and 3G network expansion. \n- Responsible for migration form existing PM software to MS Project Server.",
+      "location": "Islamabad",
+      "start": "2015-07",
+      "end": "2015-08",
+      "dateRange": "Jul 2015 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Embedded Engineer",
+      "company": "SEECS",
+      "companyUrl": null,
+      "description": "- Worked on developing a rice sorting machine.\n- Primary tools: PIC micro-controllers and C.",
+      "location": "Islamabad",
+      "start": "2014-07",
+      "end": "2014-08",
+      "dateRange": "Jul 2014 – Aug 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "TUM School of Management",
+      "degree": "Master of Science - MS, Management",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology management",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "National University of Sciences and Technology (NUST)",
+      "degree": "Bachelor’s Degree, Electrical and Electronics Engineering",
+      "dateRange": "2012 – 2016"
+    }
+  ],
+  "skills": [
+    "Product Management",
+    "User Experience (UX)",
+    "C++",
+    "Python",
+    "Project Management",
+    "Embedded Systems",
+    "Embedded C",
+    "Microsoft Excel"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "TeamViewer",
+    "tagline": "Creating a world that works better",
+    "description": "TeamViewer provides a Digital Workplace platform that connects people with technology – enabling, improving and automating digital processes to make work work better.\n\nIn 2005, TeamViewer started with software to connect to computers from anywhere to eliminate travel and enhance productivity. It rapidly became the de facto standard for remote access and support and the preferred solution for hundreds of millions of users across the world to help others with IT issues. Today, more than 635,000 customers across industries rely on TeamViewer to optimize their digital workplaces - from small to medium sized businesses to the world’s largest enterprises - empowering both desk-based employees and frontline workers. Organizations use TeamViewer’s solutions to prevent and resolve disruptions with digital endpoints of any kind, securely manage complex IT and industrial device landscapes, and enhance processes with augmented reality powered workflows and assistance - leveraging AI and integrating seamlessly with leading tech partners. Against the backdrop of global digital transformation and challenges like shortage of skilled labor, hybrid working, accelerated data analysis and the rise of new technologies, TeamViewer’s solutions offer a clear value add by increasing productivity, reducing machine downtime, speeding up talent onboarding, and improving customer and employee satisfaction.\nThe company is headquartered in Göppingen, Germany, and employs around 1,900 people globally. In 2025, TeamViewer achieved a revenue of around EUR 768 million. TeamViewer SE (TMV) is listed at Frankfurt Stock Exchange and belongs to the MDAX. Further information can be found at www.teamviewer.com.\n\nImprint:\n\nTeamViewer Germany GmbH \nBahnhofsplatz 2 \n73033 Göppingen\nGermany \n\nCEO: Oliver Steil\nCFO: Michael Wilkens\nCRO: Mark Banfield\nCPTO: Mei Dent\nRegistration: Ulm HRB 534075\nVAT: DE245838579",
+    "industry": "Software Development",
+    "website": "http://www.teamviewer.com",
+    "linkedInUrl": "https://www.linkedin.com/company/teamviewer",
+    "employeeCount": 2745,
+    "foundedYear": null,
+    "location": "Göppingen, Germany",
+    "specialities": [
+      "Remote Control Software",
+      "Remote Monitoring Solutions",
+      "Augmented Reality"
+    ]
+  }
+}

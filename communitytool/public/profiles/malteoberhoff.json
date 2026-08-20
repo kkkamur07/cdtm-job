@@ -1,0 +1,135 @@
+{
+  "id": "malteoberhoff",
+  "name": "Malte Oberhoff",
+  "headline": "CDTM | TUM | x-Creandum | x-BCG",
+  "avatar": {
+    "sm": "/avatars/malteoberhoff-sm.webp",
+    "lg": "/avatars/malteoberhoff.webp",
+    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAABwBgCdASogACAAPtFSo0yoJCMiMBgMAQAaCWQAnTKATj5lwwh++8ELSTyLcl+2LM3lDbwVEhq+Or3TkYAA/vumDaP5q42pReic+tl6OzgNn1D8xN598+y+wytZ5gd1cYkSLIVOmHUyTEjTypJBUPLS1znf9bjLy5i636lskOGNN0KLTswuTn7ubjpizo970Js11L4uYoTJiVcUXZgOWRNnZcDpowOWB4Q8KNNYafCnlEZCg3Y2xvyCMsPLhIv8aOgd0c8sgtWSsQ5kQ9sFIP/TVmb3I3z7ksitaxYVmu9vYsp1U7Abq8jOsJMZJyG3AAA="
+  },
+  "location": "Munster, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/malteoberhoff",
+  "personId": 2121,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Malte Oberhoff",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Visiting Analyst",
+      "company": "Creandum",
+      "companyUrl": "https://www.linkedin.com/company/creandum",
+      "description": null,
+      "location": "Berlin/Stockholm/London",
+      "start": "2025-03",
+      "end": "2025-07",
+      "dateRange": "Mar 2025 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Hamburg, Deutschland",
+      "start": "2025-01",
+      "end": "2025-03",
+      "dateRange": "Jan 2025 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "Venture Development Intern",
+      "company": "trawa",
+      "companyUrl": "https://www.linkedin.com/company/trawa-energy",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2024-10",
+      "end": "2024-12",
+      "dateRange": "Oct 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Investment Analyst",
+      "company": "caesar.",
+      "companyUrl": "https://www.linkedin.com/company/caesarventures",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2024-03",
+      "end": "2024-06",
+      "dateRange": "Mar 2024 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Additional Internships",
+      "company": "Various Companies",
+      "companyUrl": "https://www.linkedin.com/company/various-boards",
+      "description": "Student Research Assistant @ University of Münster | Chair of International Accounting: 10/23 - 03/24\nVisiting Consultant @ Bertelsmann Management Consulting: 04/23 - 06/23\nVisiting Consultant @ Deutsche Bahn Management Consulting: 01/23 - 04/23\nAssurance Intern @ PwC: 02/22 - 04/22",
+      "location": "Frankfurt am Main, Hessen, Deutschland",
+      "start": "2022-02",
+      "end": "2024-03",
+      "dateRange": "Feb 2022 – Mar 2024",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management and Technology",
+      "dateRange": "2025 – 2027"
+    },
+    {
+      "school": "University of Münster",
+      "degree": "B. Sc., Business Administration",
+      "dateRange": "2020 – 2024"
+    },
+    {
+      "school": "Copenhagen Business School",
+      "degree": "Semester abroad, Business Administration",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Immanuel Kant Gymnasium Münster Hiltrup",
+      "degree": "German High School Diploma (Abitur)",
+      "dateRange": "2012 – 2020"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Creandum",
+    "tagline": "We back the companies of tomorrow before it's obvious.",
+    "description": "Creandum is a leading early-stage venture capital firm backing the world's most ambitious founders building generational companies, including Spotify, Lovable, Klarna, Trade Republic, Depop, Bolt, and many more.\n\nCreandum has hubs in San Francisco, London, Berlin, and Stockholm.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://www.creandum.com",
+    "linkedInUrl": "https://www.linkedin.com/company/creandum",
+    "employeeCount": 55,
+    "foundedYear": 2003,
+    "location": "Stockholm, Sweden",
+    "specialities": [
+      "Investments in Focused Sectors Including: Computing & Storage Infrastructure, Consumer Internet & Media, Enterprise Software & Services, Mobile, Networking Systems, Retail Consumer, Security, and Technology Enabled Services"
+    ]
+  }
+}

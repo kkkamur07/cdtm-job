@@ -1,0 +1,177 @@
+{
+  "id": "alex-farr",
+  "name": "Alexander Farr",
+  "headline": "Co-Founder getclera.com | Today #1 on getclera.com/producthunt | AI talent agent for 80,000+ candidates",
+  "avatar": {
+    "sm": "/avatars/alex-farr-sm.webp",
+    "lg": "/avatars/alex-farr.webp",
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAACwBgCdASogACAAPslSnkunpKKhsAwA8BkJQBlEErkA2zTb6xQReKt+uT6kUzXoaSg7tR9h1uPkrH/yc40oAAD+8NOmAC9raOK8+wR5bpx3ICxHu2SwI4hfIG9+KLGH7nsB/3E2xSQNgef2s4h5VlDF+RmjoEzTKH371pCDuHCw4DE4upgtudVSXeaCFHChsoPG6a45mErBTznXFrAUhG6Wz/NSWHT8p+uYz+IfSEHUYqc9+hph4lEmBe+zmzSjVDFUNSsBnLgXVfQVAzM++vplVBCq5HROk2zLr2PwucXOmXMYzojnVAAA"
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/alex-farr",
+  "personId": 1200,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Alexander Farr",
+  "ca": null,
+  "summary": "Hi, I’m Alex 👋 co-founder of getclera.com. We’re building the AI talent agent that is bringing the personal headhunter experience to everyone. Clera communicates with top talents, learns about their preferences to share matching roles. Clera then coaches through the process to hire. \n\nWe intro talents to hundreds of leading startups backed by the best VCs.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Clera",
+      "companyUrl": "https://www.linkedin.com/company/getclera",
+      "description": "Clera is the talent agent that matches top talent with leading start-ups. Introduced candidates to get thousands of interviews with companies backed by a16z, Index, General Catalyst, and others.",
+      "location": null,
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief of Staff",
+      "company": "Superchat",
+      "companyUrl": "https://www.linkedin.com/company/superchatcom",
+      "description": "Scaled Superchat into the go-to WhatsApp CRM; 3× revenue. Led recruiting, GTM, growth, OKRs, AI-driven ops; raised $19M from Blossom Capital and 468 Capital.",
+      "location": null,
+      "start": "2023-01",
+      "end": "2025-02",
+      "dateRange": "Jan 2023 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Associate Investment Team (Flash Ventures)",
+      "company": "Rocket Internet SE",
+      "companyUrl": "https://www.linkedin.com/company/rocket-internet-se",
+      "description": "Sourced and built new ventures with founders from idea to launch. Flash Ventures (Rocket Internet) with follow-ons from Sequoia, Y Combinator, Insight, Tiger Global etc.",
+      "location": null,
+      "start": "2022-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2022 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Investment Team Intern",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": "Investment Due Diligence | Built new processes for sourcing & screening",
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Strategy Consulting Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "Automotive | Business Transformation | Europe.",
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student Researcher, Management and Technology",
+      "dateRange": null
+    },
+    {
+      "school": "TUM School of Management",
+      "degree": "Master of Science, Management & Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "TUM School of Management",
+      "degree": "Bachelor's degree, Management & Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Singapore Management University",
+      "degree": "Exchange Student",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Java",
+    "C",
+    "Leadership",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Problem Solving",
+    "Business Development",
+    "SharePoint",
+    "Data Visualization",
+    "Data Analytics",
+    "Market Research",
+    "Entrepreneurship",
+    "Project Management",
+    "Business Strategy",
+    "Teamwork",
+    "Consulting",
+    "Data Analysis",
+    "Python",
+    "Tableau",
+    "R",
+    "Business Modeling",
+    "Produktmanagement",
+    "Requirements Engineering",
+    "Creativity",
+    "Software Development Management"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "company": {
+    "name": "Clera",
+    "tagline": "Your AI career agent. Warm intros to startups backed by a16z, Index, YC & more.",
+    "description": "Your AI career agent. Warm intros to startups backed by a16z, Index, YC & more.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://getclera.com",
+    "linkedInUrl": "https://www.linkedin.com/company/getclera",
+    "employeeCount": 15,
+    "foundedYear": 2025,
+    "location": "San Francisco, United States",
+    "specialities": [
+      "headhunting",
+      "jobs",
+      "AI",
+      "startups",
+      "recruiting",
+      "career",
+      "coaching"
+    ]
+  }
+}

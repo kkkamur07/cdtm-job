@@ -1,0 +1,195 @@
+{
+  "id": "moritz-miersch",
+  "name": "Moritz Miersch",
+  "headline": "CFO & COO at XO Life",
+  "avatar": {
+    "sm": "/avatars/moritz-miersch-sm.webp",
+    "lg": "/avatars/moritz-miersch.webp",
+    "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAAAwBgCdASogACAAPtFYpUyoJSOiKA1RABoJQAp+mgAp/FakGxEF3/MqxaQ3ygxFWmNh+YdnPEOCcjBAAP7+lDG+Tq0YWwlEtavfcb9xNwcK4PxmUgPP7cEsoX6tIg1FW8S/THjQnmO6cpcl/+qXNUT8KT2vYeUaPkErpUhmFoExQMZjqDiirX0zOZOy7z1p4lgIynjXlEWyusy7W41mWcpnJUGZfhkt7fO3PaDcKHnuLyWIpIhC6aO4+f7wisRUnT79xb43G+DHXqc0iaQMpbYNL6iHtYxlyiecLCx9yrl8QXJLYBIU/KjNPLy5j2w5l4jbGHoL3PEEgAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/moritz-miersch",
+  "personId": 865,
+  "classes": [
+    {
+      "id": 80,
+      "label": "Fall 2016",
+      "season": "Fall",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2016",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Moritz Miersch",
+  "ca": null,
+  "summary": "Industry: Finance, Growth/Private Equity;\nExperience: Financial- and returns modelling, commercial DD, deal structuring and execution;\nInterests: Startups, technology investments.",
+  "positions": [
+    {
+      "title": "CFO & COO",
+      "company": "XO Life",
+      "companyUrl": "https://www.linkedin.com/company/xo-life",
+      "description": null,
+      "location": null,
+      "start": "2024-12",
+      "end": null,
+      "dateRange": "Dec 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Board Observer",
+      "company": "PriceHubble",
+      "companyUrl": "https://www.linkedin.com/company/pricehubble-ag",
+      "description": null,
+      "location": null,
+      "start": "2024-04",
+      "end": "2024-12",
+      "dateRange": "Apr 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Investment Manager",
+      "company": "Yttrium",
+      "companyUrl": "https://www.linkedin.com/company/yttrium",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Board Observer",
+      "company": "Pricefx",
+      "companyUrl": "https://www.linkedin.com/company/pricefx",
+      "description": null,
+      "location": null,
+      "start": "2022-05",
+      "end": "2024-12",
+      "dateRange": "May 2022 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Senior Associate",
+      "company": "Yttrium",
+      "companyUrl": "https://www.linkedin.com/company/yttrium",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-12",
+      "end": "2024-01",
+      "dateRange": "Dec 2021 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Board Observer",
+      "company": "casavi GmbH",
+      "companyUrl": "https://www.linkedin.com/company/casavi-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2021-12",
+      "end": "2024-12",
+      "dateRange": "Dec 2021 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Board Observer",
+      "company": "Anyline",
+      "companyUrl": "https://www.linkedin.com/company/anyline",
+      "description": null,
+      "location": null,
+      "start": "2021-07",
+      "end": "2024-12",
+      "dateRange": "Jul 2021 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Investment Associate",
+      "company": "Yttrium",
+      "companyUrl": "https://www.linkedin.com/company/yttrium",
+      "description": "Growth equity investment fund focusing on B2B technology/ SaaS companies",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-07",
+      "end": "2021-12",
+      "dateRange": "Jul 2019 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Board Observer",
+      "company": "riskmethods",
+      "companyUrl": "https://www.linkedin.com/company/riskmethods",
+      "description": null,
+      "location": null,
+      "start": "2019-07",
+      "end": "2022-09",
+      "dateRange": "Jul 2019 – Sep 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "The London School of Economics and Political Science (LSE)",
+      "degree": "Master of Science (MSc), Finance & Private Equity",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), BWL",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Financial modelling",
+    "Due Diligence",
+    "Deal execution",
+    "Finanzanalysen",
+    "Investitionen",
+    "Modellierung",
+    "Data analysis",
+    "Microsoft Excel",
+    "Microsoft Office",
+    "Teamwork",
+    "Englisch",
+    "Transaktionsabwicklung"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "XO Life",
+    "tagline": "Enabling better Patient Education, Treatment Support and Real World Evidence from Patient Insights 🌎",
+    "description": "XO Life stands for\n✅ a state-of-the-art platform solution for long-term Patient Insights from the real world\n✅ real time information exchange between patients and pharma\n✅ a all-in-one platform to be used across all treatments and indications\n\nWe are a young and dynamic eHealth company setting a new standard patient data collection through scientifically based questionnaires across all treatments and medications.\n\nXO Life helps the pharmaceutical industry to better understand its patients. Our goal is to make digital treatment monitoring and patient feedback the gold standard in R&D, marketing and sales, while ensuring the highest data protection and security standards.\n\n➡️ Join us in shaping the future of patient centered medical data collection and learn more at:",
+    "industry": "Hospitals and Health Care",
+    "website": "https://www.xo-life.com/en",
+    "linkedInUrl": "https://www.linkedin.com/company/xo-life",
+    "employeeCount": 36,
+    "foundedYear": 2021,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Digital Health",
+      "Real-World-Evidence",
+      "patient-safety",
+      "communications platform provider",
+      "multidirectional communication for medical experts",
+      "pharmacovogilance",
+      "SaaS-solutions for pharma & biotech companies",
+      "Software & Add-on Service for pharmacovigilance",
+      "PROM",
+      "patient insights"
+    ]
+  }
+}

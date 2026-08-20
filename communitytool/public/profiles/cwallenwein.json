@@ -1,0 +1,183 @@
+{
+  "id": "cwallenwein",
+  "name": "Christian Wallenwein",
+  "headline": "Research Engineer @ Mistral | CDTM",
+  "avatar": {
+    "sm": "/avatars/cwallenwein-sm.webp",
+    "lg": "/avatars/cwallenwein.webp",
+    "blur": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAADwBQCdASogACAAPtFWokuoJKMhsAgBABoJbAC1CQSgykojWdMe94dcqGJg7lGJz1bF7QNt41/oWAD+9++bVL7Es8BZdAguS5R1O+N0jZlDnfR4pd+MolVzeWMXlPSXXIYJxOQ/KG1SF5V/Ww0QDO2CeJHqQxyveYqmYJvxiX4szf+MMTL1DJaugP/6gClAbS1emGq8bQfayQmvK4FDH7pa53wHmXTUD6dwVBuUXu8pf/CCX0Nqe7BOvpldyk7aGGbIutMCRErOocvBALf/oASX4gHW9K1fWVFEsP5D9idGbQAA"
+  },
+  "location": "France",
+  "linkedInUrl": "https://www.linkedin.com/in/cwallenwein",
+  "personId": 723,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christian Wallenwein",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Research Engineer",
+      "company": "Mistral AI",
+      "companyUrl": "https://www.linkedin.com/company/mistralai",
+      "description": null,
+      "location": "Paris, Île-de-France, France",
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "AI Scientist Intern",
+      "company": "Mistral AI",
+      "companyUrl": "https://www.linkedin.com/company/mistralai",
+      "description": null,
+      "location": "Paris, Île-de-France, Frankreich",
+      "start": "2025-04",
+      "end": "2025-10",
+      "dateRange": "Apr 2025 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Intern",
+      "company": "Speechmatics",
+      "companyUrl": "https://www.linkedin.com/company/speechmatics",
+      "description": "Pre-training SOTA transcription models",
+      "location": "Greater London, England, Vereinigtes Königreich",
+      "start": "2025-01",
+      "end": "2025-03",
+      "dateRange": "Jan 2025 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Aleph Alpha",
+      "companyUrl": "https://www.linkedin.com/company/aleph-alpha",
+      "description": "Research on LLM tokenization (pre-training)",
+      "location": "Heidelberg, Baden-Württemberg, Deutschland",
+      "start": "2023-08",
+      "end": "2024-04",
+      "dateRange": "Aug 2023 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "HubSpot",
+      "companyUrl": "https://www.linkedin.com/company/hubspot",
+      "description": null,
+      "location": "Remote (from Munich)",
+      "start": "2021-10",
+      "end": "2021-12",
+      "dateRange": "Oct 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Working Student - Data Science",
+      "company": "IABG",
+      "companyUrl": "https://www.linkedin.com/company/iabg",
+      "description": null,
+      "location": "Munich, Bavaria",
+      "start": "2020-03",
+      "end": "2020-12",
+      "dateRange": "Mar 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Data Science Intern",
+      "company": "SANDY Energized Analytics - Eine Innovation der EnBW",
+      "companyUrl": "https://www.linkedin.com/company/sandyenergizedanalytics-eineinnovationderenbw",
+      "description": null,
+      "location": "Cologne Area, Germany",
+      "start": "2019-01",
+      "end": "2019-04",
+      "dateRange": "Jan 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Frontend Web Development Intern",
+      "company": "SUCCESS DRIVERS",
+      "companyUrl": "https://www.linkedin.com/company/success-drivers",
+      "description": null,
+      "location": "Cologne Area, Germany",
+      "start": "2018-10",
+      "end": "2018-12",
+      "dateRange": "Oct 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Product Management Internship",
+      "company": "Movinga",
+      "companyUrl": "https://www.linkedin.com/company/movinga-gmbh",
+      "description": null,
+      "location": "Berlin Area, Germany",
+      "start": "2017-10",
+      "end": "2017-11",
+      "dateRange": "Oct 2017 – Nov 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2019 – 2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Class of Fall '22",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Gymnasium am Oelberg",
+      "degree": "High School Diploma",
+      "dateRange": "2010 – 2018"
+    }
+  ],
+  "skills": [
+    "Natural Language Processing (NLP)",
+    "Large Language Models (LLMs)",
+    "PyTorch",
+    "Python",
+    "Machine Learning",
+    "JavaScript",
+    "Continuous Improvement",
+    "MySQL",
+    "Java",
+    "R",
+    "Data Science",
+    "Deep Learning"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Mistral AI",
+    "tagline": "Frontier AI. In Your Hands.",
+    "description": "Frontier AI. In your hands. \n\nWe believe in a future where AI is abundant and accessible. We aspire to empower the world to build with—and benefit from—the most significant technology of our time.\n\nJoin us: https://jobs.lever.co/mistral/",
+    "industry": "Technology, Information and Internet",
+    "website": "https://mistral.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/mistral-ai",
+    "employeeCount": 1031,
+    "foundedYear": 2023,
+    "location": "Paris, France",
+    "specialities": []
+  }
+}

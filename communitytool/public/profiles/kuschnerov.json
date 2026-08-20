@@ -1,0 +1,192 @@
+{
+  "id": "kuschnerov",
+  "name": "Maxim Kuschnerov",
+  "headline": "Sr. Director of R&D | Photonic Network Architect",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/kuschnerov",
+  "personId": 1602,
+  "classes": [
+    {
+      "id": 53,
+      "label": "Spring 2003",
+      "season": "Spring",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Maxim Kuschnerov",
+  "ca": null,
+  "summary": "Manager of an R&amp;D department at Huawei... Shaping the future of optical communications... Product management, marketing, R&amp;D management, engineering, research experience... Expert on AI compute networks, optical DSPs, high speed optics, DWDM/OTN transport, cloud data center interconnect, long-haul, metro, access networks... Active in IEEE and OIF standardization focusing on next generation Ethernet optics using IMDD and coherent...",
+  "positions": [
+    {
+      "title": "Sr. Director of R&D",
+      "company": "Huawei",
+      "companyUrl": "https://www.linkedin.com/company/huawei",
+      "description": "Manager of an R&D department focusing on optical communication. Optical architect for AI data center networks.",
+      "location": null,
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Director of R&D",
+      "company": "Huawei",
+      "companyUrl": "https://www.linkedin.com/company/huawei",
+      "description": "- Manager of the optical R&D department\n- Leading pre-development activities covering data center networks and interfaces, coherent optical communication for data center interconnect/metro/edge, optical switching, next generation access, quantum key distribution, optical design\n- AI compute networks technology planning (scale out / scale up)\n- Covering high speed interface standards in IEEE and OIF",
+      "location": null,
+      "start": "2020-01",
+      "end": "2025-09",
+      "dateRange": "Jan 2020 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Senior R&D Manager",
+      "company": "Huawei",
+      "companyUrl": "https://www.linkedin.com/company/huawei",
+      "description": "- Architect for 800Gb/s short reach coherent optical DSP\n- Machine learning research for optical DSPs\n- Standards representative at the OIF on the topic of 400ZR coherent low power data center modules",
+      "location": null,
+      "start": "2016-09",
+      "end": "2019-12",
+      "dateRange": "Sep 2016 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Principal Product Manager",
+      "company": "Coriant, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/coriant-optical-networks",
+      "description": "- Product Manager for hiT 7300 core network interconnect platform\n- PLM for CFP2-ACO product targeting short reach, metro, long haul low cost coherent DCI in Groove G30 based on a Silicon Photonics engine designed by Elenion",
+      "location": null,
+      "start": "2015-07",
+      "end": "2016-08",
+      "dateRange": "Jul 2015 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Coriant, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/coriant-optical-networks",
+      "description": "- Lead architect & PLM for Coriant Groove G30 data center interconnect platform\n- PLM for CFP2-ACO product\n- Data center, metro, longhaul, submarine networks",
+      "location": null,
+      "start": "2014-01",
+      "end": "2015-06",
+      "dateRange": "Jan 2014 – Jun 2015",
+      "current": false
+    },
+    {
+      "title": "Senior R&D Engineer",
+      "company": "Coriant, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/coriant-optical-networks",
+      "description": "- Specification and integration of lasers, receivers, ASICs for DWDM 100Gb/s+ coherent applications in close cooperation with suppliers\n- Build, debugging and optical performance tests of prototypes of 400Gbit/s ASICs and line interface modules\n- Ph.D. student supervisor",
+      "location": null,
+      "start": "2013-05",
+      "end": "2013-12",
+      "dateRange": "May 2013 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "R&D Engineer",
+      "company": "Nokia",
+      "companyUrl": "https://www.linkedin.com/company/nokia",
+      "description": "- DSP concept design for a high speed coherent optical ASIC with continuous verification of the DSP concepts in the laboratory\n- Testing and specification of lasers, integrated receivers, ASICs for DWDM 100Gb/s+ coherent applications in close cooperation with suppliers\n- Build, debugging and optical performance tests of prototypes of 100/400Gbit/s ASICs and line interface modules\n- Project leader of the system trial work package for the ModeGap project - transmission over multi-mode fibers.",
+      "location": null,
+      "start": "2010-08",
+      "end": "2013-05",
+      "dateRange": "Aug 2010 – May 2013",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Bundeswehr University Munich",
+      "companyUrl": "https://www.linkedin.com/company/universitaet-der-bundeswehr-muenchen",
+      "description": "- PhD researcher in digital signal processing. External employee for Nokia Siemens Networks\n- Research on digital signal processing for coherent fiber optic systems with single carrier transmission (100Gbit/s+)\n- Algorithm development for all receiver components (equalization, synchronization, forward error correction, optical performance monitoring)\n- Modeling and simulation of DWDM nonlinear optical fiber transmission",
+      "location": null,
+      "start": "2007-01",
+      "end": "2010-08",
+      "dateRange": "Jan 2007 – Aug 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Bundeswehr University Munich",
+      "degree": "Dr.-Ing., Electrical, Electronics and Communications Engineering",
+      "dateRange": "2007 – 2011"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom-Ingenieur, Electrical, Electronics and Communications Engineering",
+      "dateRange": "2001 – 2006"
+    }
+  ],
+  "skills": [
+    "Public Speaking",
+    "Machine Learning",
+    "Thought Leadership",
+    "Project Management",
+    "Line Management",
+    "Product Management",
+    "Strategic Partnerships",
+    "Strategic Planning",
+    "Business Strategy",
+    "Signal Processing",
+    "Product Development",
+    "Telecommunications",
+    "Product Marketing",
+    "Branding",
+    "System Architecture",
+    "Product Lifecycle Management",
+    "Supplier Negotiation",
+    "Customer Engagement",
+    "Application-Specific Integrated Circuits (ASIC)",
+    "Digital Signal Processing",
+    "Strategic Roadmaps",
+    "Data Center Infrastructure",
+    "Photonics",
+    "Algorithm Development",
+    "Transmission",
+    "DWDM",
+    "DSP",
+    "Technical Standards",
+    "Optical Communications",
+    "Optical Components",
+    "Optical Transport Network (OTN)",
+    "Transmission Systems",
+    "Data center interconnect",
+    "Serious Nunchucks skillz"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Ukrainian"
+  ],
+  "company": {
+    "name": "Huawei",
+    "tagline": null,
+    "description": "Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices. With integrated solutions across four key domains – telecom networks, IT, smart devices, and cloud services – we are committed to bringing digital to every person, home and organization for a fully connected, intelligent world.\n\nHuawei's end-to-end portfolio of products, solutions and services are both competitive and secure. Through open collaboration with ecosystem partners, we create lasting value for our customers, working to empower people, enrich home life, and inspire innovation in organizations of all shapes and sizes.\n\nAt Huawei, innovation focuses on customer needs. We invest heavily in basic research, concentrating on technological breakthroughs that drive the world forward. We have more than 207,000 employees, and we operate in more than 170 countries and regions. Founded in 1987, Huawei is a private company fully owned by its employees.\n\nHouse Rules\nThis page is for ICT professionals with an interest in Huawei and our industry to engage in open discussions.\nTo facilitate dialogue, please follow these rules:\n- Huawei holds the right to delete comments that are offensive, misleading, false, unlawful, off-topic and in violation of any regulations.\n- Repeated violations of any of the above will be removed and users may be blocked.\n- Huawei does not necessarily endorse the information shared by members.\n- Please be familiar with and follow LinkedIn's User Agreement.\n- By publicly uploading a photograph or comment, you give Huawei permission to feature your content. This will always be credited.\n\nPlease visit the below portals for career or customer service queries.\nCareer page: http://bit.ly/2rdljD7\nCustomer service: http://bit.ly/2a4mXNY\n\nThank you for visiting us & we hope you enjoy your time on our page.",
+    "industry": "Telecommunications",
+    "website": "http://www.huawei.com/en/",
+    "linkedInUrl": "https://www.linkedin.com/company/huawei",
+    "employeeCount": 137156,
+    "foundedYear": null,
+    "location": "Shenzhen, China",
+    "specialities": [
+      "Information and Communications Technology ICT",
+      "Enterprise Solutions",
+      "Consumer Devices",
+      "Carrier Network"
+    ]
+  }
+}

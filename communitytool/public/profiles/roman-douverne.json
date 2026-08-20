@@ -1,0 +1,123 @@
+{
+  "id": "roman-douverne",
+  "name": "Roman Douverne",
+  "headline": "Einfach Digital | Eine Lösung für alle Prozesse | SAP Business One | Geschäftsführer conesprit",
+  "avatar": null,
+  "location": "Backnang, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/roman-douverne",
+  "personId": 1662,
+  "classes": [
+    {
+      "id": 97,
+      "label": "Fall 2001",
+      "season": "Fall",
+      "year": 2001,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2001",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Roman Douverne",
+  "ca": null,
+  "summary": "Zu viele Einzellösungen, kein durchgängiges System.\n\nJedes Team, jede Abteilung nutzt ihre eigenen Tools und Prozesse. Lager, Produktion, Einkauf und Finanzen , jeder Bereich hat seinen eigenen Prozess, aber keiner ist miteinander verknüpft. \n\nDas Ergebnis? Keine Transparenz, keine klare Übersicht, und wertvolle Daten bleiben isoliert.\nAber das muss nicht so bleiben.\n\nMit SAP Business One bieten wir Ihnen ein einheitliches System, das alle Bereiche miteinander verbindet, vom Lager über Produktion bis hin zum Einkauf und der Finanzbuchhaltung. Kein isoliertes Arbeiten mehr, sondern durchgängige Prozesse und volle Transparenz, die Ihnen helfen, Ihre Ziele zu erreichen und Wachstum zu ermöglichen.\n\nMit über 150 erfolgreichen Implementierungen und umfangreicher Erfahrung in der Digitalisierung von Geschäftsprozessen wissen wir genau, was es braucht, um Komplexität zu reduzieren und Wachstum zu fördern. Sie erhalten eine Lösung, die skalierbar, effizient und anpassbar ist, ohne Ihre IT-Abteilung zu überlasten.\n\nSie können es selbst testen.\nMit unserem Same-Day-Delivery Versprechen für unsere Apps bekommen Sie heute noch Zugriff auf eine SAP Business One Demo und erleben live, wie das System Ihre Prozesse vereinfacht und effizienter macht.\n\nLassen Sie uns darüber sprechen, wie wir Ihre Geschäftsprozesse miteinander verbinden können.\n\nDamit Sie nicht länger in einzelnen Tools arbeiten, sondern alles nahtlos integriert wird.",
+  "positions": [
+    {
+      "title": "Geschäftsführer",
+      "company": "conesprit GmbH",
+      "companyUrl": "https://www.linkedin.com/company/conesprit-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2008-01",
+      "end": null,
+      "dateRange": "Jan 2008 – Present",
+      "current": true
+    },
+    {
+      "title": "Consultant",
+      "company": "Inforte",
+      "companyUrl": "https://www.linkedin.com/company/inforte",
+      "description": null,
+      "location": null,
+      "start": "2005-01",
+      "end": "2007-12",
+      "dateRange": "Jan 2005 – Dec 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "University of Hohenheim",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "University of Edinburgh Business School",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom Kaufman, Betriebswirtschaftslehre",
+      "dateRange": "2001 – 2005"
+    }
+  ],
+  "skills": [
+    "Business Process",
+    "Business Intelligence",
+    "Start-ups",
+    "SAP",
+    "Project Management",
+    "Consulting",
+    "ERP",
+    "Business Analysis",
+    "Projektmanagement",
+    "SAP ERP",
+    "Business Objects",
+    "Unternehmensanalyse",
+    "Geschäftsprozesse",
+    "IT-Strategie",
+    "SAP Business One",
+    "SAP-Produkte",
+    "Unternehmertum",
+    "Business-Intelligence",
+    "Datenlager",
+    "E-Commerce"
+  ],
+  "languages": [],
+  "company": {
+    "name": "conesprit GmbH",
+    "tagline": "Consultancy for SAP Business Intelligence and SAP Business One",
+    "description": "We are an SAP consulting and software house founded in 2008 by experienced SAP consultants. We combine processes, technology and digitalization for the best possible benefit of our customers. Our passion is to combine new technologies to create added value.\n\nConsulting for SAP Business Intelligence and SAP Business One\nWe focus on individual consulting solutions in the field of Enterprise Data Warehousing & Business Intelligence using SAP NetWeaver. Our consulting spectrum includes architecture, project- & system planning, implementation, operation, maintenance, reporting and dashboard design, planning design as well as training.\nIn addition, we assist companies during the introduction of SAP Business One, the SAP ERP-Software for SMEs. Our consulting services include conception, planning and implementation of SAP Business One as well as reporting and dashboarding, training, support and maintenance. We implement SAP Business One in the cloud or on your local server.\n\nSoftware Sesam - SAP BI solution for SMEs\nSesam is the first business intelligence solution as a service based on SAP, which we developed especially for SMEs. The application is installed in the cloud within a few days. Sesam was awarded by the Initiative Mittelstand as the winner of the Innovation Award IT 2018.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://conesprit.de",
+    "linkedInUrl": "https://www.linkedin.com/company/conesprit-gmbh",
+    "employeeCount": 5,
+    "foundedYear": 2008,
+    "location": "Backnang, Germany",
+    "specialities": [
+      "SAP Business Intelligence",
+      "SAP Business One",
+      "Cloud",
+      "Digitalisierung",
+      "SAP Beratung",
+      "IT Beratung",
+      "KI",
+      "Künstliche Intelligence",
+      "SAP Analytics Cloud",
+      "Microsoft Azure Cognitive Services"
+    ]
+  }
+}

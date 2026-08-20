@@ -1,0 +1,303 @@
+{
+  "id": "sveta-tokareva",
+  "name": "Svetlana Tokareva",
+  "headline": "Early-stage Tech Investing @UVC | CDTM | UC Berkeley | TUM",
+  "avatar": {
+    "sm": "/avatars/sveta-tokareva-sm.webp",
+    "lg": "/avatars/sveta-tokareva.webp",
+    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAAAQBgCdASogACAAPtFQokwoJCMiMBgMAQAaCWQAVwu8i1zK36/63HckUhqFALG+/sej8HSmDprloJAA/vstxn+BA/Q8omGtKSqR+kGPIuISpICJSBlanIaNzHOpWFu2HrUDGLOQi5VZ8PxPrXKL5dUGw9mlUPdTJS8dPwlCFQCQOoOxSJJc3ZtvTnA2pUwxDWyo+d/E4fpUANq6+6c8QW2ZdSnMCi8UamKN0ONnW0cY8fHfdbdmd1kFSiRP1SNr5UEXm3O9qccvnKvycvaO0z8TWDkBfPCd7x2FDQQKtOuvgzqtfzJ3W4wm4AA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sveta-tokareva",
+  "personId": 722,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Power Engineering and Management",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Svetlana Tokareva",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Early stage VC investor",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": "Backing great minds building next category leaders in Climate, Deep Tech, B2B SaaS, AI, and Mobility at Pre-Seed, Seed and Series A",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-10",
+      "end": null,
+      "dateRange": "Oct 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "THINK.MAKE.START. by TUM and UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/tmseducation",
+      "description": "Think.Make.Start is a product development course organized by TUM to promote innovation. \n\nI joined an interdisciplinary team as a product manager to help develop a desirable, viable, and feasible product that will address the problem of personal exposure to air pollutants.  \n\n-Conducted problem interviews;\n-Developed a sustainable business model;\n-Developed market entry strategy.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-09",
+      "end": null,
+      "dateRange": "Sep 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Venture Partner",
+      "company": "Haas Impact Fund",
+      "companyUrl": "https://www.linkedin.com/company/haas-impact-fund",
+      "description": null,
+      "location": "Berkeley, California, United States",
+      "start": "2024-01",
+      "end": "2024-04",
+      "dateRange": "Jan 2024 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Radicle Impact Partners",
+      "companyUrl": "https://www.linkedin.com/company/radicle-impact",
+      "description": "San Francisco Bay Area",
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-04",
+      "dateRange": "Jan 2024 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "GTM",
+      "company": "ecoplanet",
+      "companyUrl": "https://www.linkedin.com/company/ecoplanet-green-operations",
+      "description": "Development of go-to-market strategy for an early-stage start-up",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-04",
+      "end": "2023-08",
+      "dateRange": "Apr 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Junior Investment Analyst",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": null,
+      "location": null,
+      "start": "2023-02",
+      "end": "2023-10",
+      "dateRange": "Feb 2023 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Bayern Innovativ GmbH",
+      "companyUrl": "https://www.linkedin.com/company/bayern-innovativ",
+      "description": "As part of the CDTM program and their Trend Seminar course, I explored the technical, social, economic, and regulatory landscape influencing the today and tomorrow of German SMEs. Together with a team of 25 talented students having diverse cultural and educational backgrounds, I had a chance to help the project partner Bayern Innovativ, which combines extensive expertise in supporting innovations at German SMEs, in identifying new business models and key technologies shaping the future of the Mittelstand companies. \n\n- Co-author of a comprehensive 200-page Trend Report, covering technical, social, economic, and regulatory dimensions;\n- Co-developed a start-up idea for a water waste management solution relevant for SMEs focusing on production;    \n- Learned and applied creativity tactics such as TRIZ.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-07",
+      "end": "2022-09",
+      "dateRange": "Jul 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Product and RevOps B2B",
+      "company": "FINN",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": "FINN is one of the German fastest-growing start-ups that is revolutionizing traditional car ownership. The company needed efficient in-house products to help them keep up with the hyper-growth. I focused on developing a scalable billing tool for Sales and RevOps teams. \n\n- Led product development from discovery to delivery: conducting problem interviews, mapping user stories, writing feature specs and DODs for developers, making sure that each feature delivers in accordance to the preset business goals; \n- Rallied multiple stakeholders around the product vision, ensuring their requirements were incorporated into product decisions;\n- Iteratively delivered product functionality that met predefined product goals on time.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-04",
+      "end": "2022-07",
+      "dateRange": "Apr 2022 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Engineering Consulting for Sustainable Energy Systems",
+      "company": "ILF Consulting Engineers in Germany",
+      "companyUrl": "https://www.linkedin.com/company/ilf-consulting-engineers-germany-",
+      "description": "ILF offers consulting services in the fields of oil and gas, renewable energy systems and electrical grid studies. Following my passion for cleantech and striving to apply my knowledge in electricity transmission systems, I provided engineering consultancy in the integration of photovoltaic systems in distribution grids in Africa. \n\n-Designed electricity grid, dimensioning of grid components;\n-Calculated and analyzed load flows using PSS SINCAL;  \n-Modelled network expansion scenarios and faults.\n\nIn addition to my deep engineering dive at ILF, I also supported business units in:\n\n-Created customer materials, capability statements, and project reports;\n-Investigated new business opportunities such as tenders and project partners.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2022-01",
+      "dateRange": "Apr 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Business Development Manager",
+      "company": "Digital Charging Solutions",
+      "companyUrl": "https://www.linkedin.com/company/digitalchargingsolutions",
+      "description": "Digital Charging Solutions is an e-mobility service provider with one of the largest charging networks in Europe. I joined the company to help unlock new business opportunities and expand the product portfolio. As a result of my 6-month internship, I was proud to announce that my team and I had launched Green Charging. With Green Charging, customers of Germany's largest OEMs can charge their vehicles with 100% renewable energy (RE) from local suppliers, contributing to the enhancement of RE economics and its expansion.\n\nIn addition to Green Charging, I was responsible for identifying new business opportunities in smart charging and V2G domains. After conducting a comprehensive market analysis, I prepared business case calculations, proposed a go-to-market strategy, and developed a product roadmap. \n\nIn parallel with the project work, I prepared monthly profitability reports and competitors' benchmarks. I assisted managers in preparing marketing presentations and communicating with partners from automotive OEMs.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-09",
+      "end": "2021-03",
+      "dateRange": "Sep 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Project Owner",
+      "company": "Motius",
+      "companyUrl": "https://www.linkedin.com/company/motius-gmbh",
+      "description": "Motius is an R&D company specializing in emerging technologies. Having joined as a project owner, I had a chance to put gained knowledge in agile project management into practice. Leading 3 projects in the fields of computer vision, power electronics, and LiDAR, I:\n\n-Was responsible for project controlling;\n-Organized and moderated workshops with customers and teams' meetings;\n-Presented project results to the customers; \n-Met customer’s expectations and extended a project contract.",
+      "location": "Munich Area, Germany",
+      "start": "2019-11",
+      "end": "2020-03",
+      "dateRange": "Nov 2019 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Wallter Smart Home",
+      "companyUrl": null,
+      "description": "Made company profitable within 12 months \nAll things GTM and ops",
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Power System Engineer",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "During my internship at Siemens, I gained experience in modeling and analyzing distribution grids using SINCAL. \n\n-Work was assessed by the head of the internship program with excellent grade.",
+      "location": "St Petersburg, St Petersburg City, Russia",
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Power System Engineer",
+      "company": "Scientific and Technical Center for the Unified Power Systems of Russia",
+      "companyUrl": null,
+      "description": "During my research work at the Center, I helped a professor conduct research for his doctoral dissertation. \n\n-Researched combined circuits 10 kV (Overhead Power Transmission Lines + Cable Lines) and their exploitation problems;\n-Collected the findings in a scientific paper “Exploitation problems of electricity transmission networks with overhead and cable power transmission lines”.",
+      "location": "St Petersburg, St Petersburg City, Russia",
+      "start": "2016-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2016 – Dec 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor’s Degree, Technology Management",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Abroad stay where I took courses on negotiations, entrepreneurship and VC.",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Business Administration and Management, General",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Power Engineering",
+      "dateRange": "2018 – 2022"
+    },
+    {
+      "school": "Peter the Great St.Petersburg Polytechnic University",
+      "degree": "Bachelor's degree, Electrical Networks and Power Transmission Systems",
+      "dateRange": "2014 – 2018"
+    }
+  ],
+  "skills": [
+    "Financial Modeling",
+    "VC investments",
+    "Impact Investing",
+    "Negotiation",
+    "Pitching Ideas",
+    "Go-to-Market Strategy",
+    "Customer Development",
+    "Analytical Skills",
+    "Project Planning",
+    "Management Consulting",
+    "Entrepreneurship",
+    "Competitive Analysis",
+    "Business Development",
+    "Team Management",
+    "Start-ups",
+    "Venture Capital",
+    "Business Case Development",
+    "Grid Modeling",
+    "Scientific Writing",
+    "MATLAB",
+    "Simulink",
+    "Budget Control",
+    "Workshop Moderation",
+    "New Business Opportunities",
+    "Strategic Partnerships",
+    "Market Entry",
+    "Business Modeling",
+    "Trend Analysis",
+    "Market Research",
+    "Electric Vehicles",
+    "V2G",
+    "Structured Interviews",
+    "Renewable Energy",
+    "PV Integration",
+    "Electrical Grid",
+    "Network Design",
+    "Computer-Aided Design (CAD)",
+    "Consulting Engineering",
+    "Product Development",
+    "Product Road Mapping",
+    "Customer Journey Mapping",
+    "Impact Mapping",
+    "Stakeholder Management",
+    "User Story Mapping",
+    "API",
+    "Cross-functional Team Leadership",
+    "Trend Research",
+    "Market Analysis",
+    "Story Pitching",
+    "Digitization",
+    "Energy Technology",
+    "Renewable Energy Systems",
+    "Agile Project Management"
+  ],
+  "languages": [
+    "English"
+  ],
+  "company": {
+    "name": "UVC Partners",
+    "tagline": "We partner with Europe's most ambitious B2B tech startups.",
+    "description": "UVC Partners is a Munich- and Berlin-based early-stage venture capital firm investing in European B2B startups in the fields of Deep Tech, Climate Tech, Enterprise Software and Mobility.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://www.uvcpartners.com",
+    "linkedInUrl": "https://www.linkedin.com/company/uvc-partners",
+    "employeeCount": 72,
+    "foundedYear": 2011,
+    "location": "Garching (Munich), Germany",
+    "specialities": [
+      "Venture Capital",
+      "Early Stage",
+      "Internet",
+      "Software",
+      "Mobility",
+      "B2B",
+      "SaaS",
+      "Industry 4.0",
+      "Manufacturing Technologies",
+      "Hardware",
+      "Enterprise Software",
+      "Deep Tech",
+      "Climate Tech",
+      "Mobility"
+    ]
+  }
+}

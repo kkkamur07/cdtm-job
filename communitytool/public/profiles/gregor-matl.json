@@ -1,0 +1,115 @@
+{
+  "id": "gregor-matl",
+  "name": "Gregor Matl",
+  "headline": "Working passionately to improve computer science education in schools.",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/gregor-matl",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "Algorithms often seem abstract. At Algonautin, our mission is to make algorithms visual, intuitive, and fun. We boost the quality of computer science education while unburdening teachers and contributing to educational equity.\n\nThanks to a partnership with the German National Computer Science Competition (BWINF), our educational platform is available free of charge to German schools and is currently used by over 1300 teachers. Try it now at https://algo.bwinf.de\n\nMy background:\n\nAfter being the overall winner of the German National Computer Science Competition in 2014, I've had the privilege of coaching the national team for the olympiade in computer science for over a decade. In this capacity, other passionate coaches and I have used and developed advanced programming tasks and automated evaluation systems. Our goal now is to make this technology more widely available to high schools and universities.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Algonautin",
+      "companyUrl": "https://www.linkedin.com/company/algonautin",
+      "description": null,
+      "location": null,
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Tutorial Instructor for Efficient Algorithms and Data Structures",
+      "company": "Technische Universität München (Technical University of Munich)",
+      "companyUrl": "https://www.linkedin.com/company/c446-deccan-m.ed-college-gulbarga",
+      "description": "Teaching at weekly tutorials, grading exercises and exams.\n\nEfficient Algorithms and Data Structures is a master's level course that can also be taken as an elective by bachelor's students.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2016-10",
+      "end": "2017-03",
+      "dateRange": "Oct 2016 – Mar 2017",
+      "current": false
+    },
+    {
+      "title": "Tutorial Instructor for Efficient Algorithms and Data Structures",
+      "company": "Technische Universität München (Technical University of Munich)",
+      "companyUrl": "https://www.linkedin.com/company/c446-deccan-m.ed-college-gulbarga",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2015-10",
+      "end": "2016-03",
+      "dateRange": "Oct 2015 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Tutorial Instructor for Introduction to Algorithms and Data Structures",
+      "company": "Technische Universität München (Technical University of Munich)",
+      "companyUrl": "https://www.linkedin.com/company/c446-deccan-m.ed-college-gulbarga",
+      "description": null,
+      "location": "Teaching at weekly tutorials, grading exercises and exams.",
+      "start": "2015-04",
+      "end": "2015-09",
+      "dateRange": "Apr 2015 – Sep 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Oxford",
+      "degree": "Master of Science - MS, Mathematics and Foundations of Computer Science",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Studies without degree, Mathematics",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Informatics",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Studies parallel to school (Schüler.IN.TUM), Informatics",
+      "dateRange": "2012 – 2014"
+    }
+  ],
+  "skills": [
+    "Algorithmen",
+    "Go",
+    "Kryptographie"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Italienisch"
+  ],
+  "company": {
+    "name": "Algonautin",
+    "tagline": "Empowering Engineers of tomorrow",
+    "description": "Understanding algorithms is more important than ever before. Meanwhile, education systems worldwide struggle to keep up with the rapid pace of technological development. We solve the problem by providing a fully automated computer science learning platform. Our intelligent evaluation system can understand the approach of individual solutions and provide reliable and detailed feedback. Engaging animations allow learners to visualize their algorithmic ideas to gain an intuitive understanding of even abstract concepts.\n\nOur goal is to make quality computer science education accessible online to pupils and students regardless of geography, gender, or wealth. Teachers and students in German schools already enjoy free access to our system thanks to a broad license by the Bundesweite Informatikwettbewerbe (BWINF): Try it at algo.bwinf.de\n\nOur team consists of experts in computer science and mathematics as well as experienced teachers and UX experts. We have decades of coaching experience in international computer science competitions, and many team members have won such competitions as participants. For example, one IOI and one IMO gold medalist, three ICPC World Finalists and one overall winner in the German National Competition in Computer Science are part of our team.",
+    "industry": "E-Learning Providers",
+    "website": "https://algonautin.com",
+    "linkedInUrl": "https://www.linkedin.com/company/algonautin",
+    "employeeCount": 5,
+    "foundedYear": 2023,
+    "location": "München, Germany",
+    "specialities": [
+      "Education of Algorithms",
+      "High Schools",
+      "Universities"
+    ]
+  }
+}

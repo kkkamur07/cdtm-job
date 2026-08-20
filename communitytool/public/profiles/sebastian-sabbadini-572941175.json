@@ -1,0 +1,195 @@
+{
+  "id": "sebastian-sabbadini-572941175",
+  "name": "Sebastian Sabbadini",
+  "headline": "Embedded Software Engineer @Blickfeld | M.Sc. Electrical Engineering @TUM | Technology Management @CDTM",
+  "avatar": {
+    "sm": "/avatars/sebastian-sabbadini-572941175-sm.webp",
+    "lg": "/avatars/sebastian-sabbadini-572941175.webp",
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAAAwBgCdASogACAAPsVSoEunpKMht/VYAPAYiUAZmjuisDMqs0eN4hj+0U83yTrS8mkzJ6EbGs50asQAAP7+evewEpdM6q82qfmMTPRhYGPy2POtVNVFJMn5/H96kjvcJbwnvKXTa5Fpn62K/BtWy4kTYy4/xSz+TbTToIiaqNTDUe0Vik07h1qZGwTlw9XEk1u5/CowPx2ivbgmc67Kq6wprydZAJSBv6klExwsJPRwbIl3bJAN6PRZa3sqR1L/LsqMrxSuTWGR4rLwbQ0fxMqEOkiXq2buK7ziiLMOs5grhrlrhPGHsAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sebastian-sabbadini-572941175",
+  "personId": 856,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sebastian Sabbadini",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Embedded Software Engineer",
+      "company": "Blickfeld",
+      "companyUrl": "https://www.linkedin.com/company/blickfeld-gmbh",
+      "description": "Design and implementation of the system architecture and DSP algorithms for a smart industrial LiDAR on embedded systems, in particular FPGA.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-11",
+      "end": null,
+      "dateRange": "Nov 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Intern",
+      "company": "Durst Group / HQ Durst Phototechnik AG",
+      "companyUrl": "https://www.linkedin.com/company/durst-group",
+      "description": "Development of a test adapter for quality inspection of products before shipment.",
+      "location": "Brixen",
+      "start": "2016-03",
+      "end": null,
+      "dateRange": "Mar 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Intern",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Collaboration on the Cellface project: Applying clustering methods to digital holographic data of white blood cells.",
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-08",
+      "dateRange": "Apr 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Student Consultant in Trend Research and Product Development",
+      "company": "Innovationsmanagement Bau",
+      "companyUrl": "https://www.linkedin.com/company/innovationsmanagement-bau",
+      "description": "Trend and futures research in the construction industry followed by prototype development of a digital construction log book.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-08",
+      "end": "2019-02",
+      "dateRange": "Aug 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Development of a Content Management System used for data creation for the Intelligent Personal Assistant (IPA).",
+      "location": "München",
+      "start": "2018-03",
+      "end": "2018-04",
+      "dateRange": "Mar 2018 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Student Assistant",
+      "company": "TUM chair of Neuroscientific System Theory",
+      "companyUrl": null,
+      "description": "Firmware development of a robot used for research purposes.",
+      "location": "Munich",
+      "start": "2016-11",
+      "end": "2017-03",
+      "dateRange": "Nov 2016 – Mar 2017",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Brainlab",
+      "companyUrl": "https://www.linkedin.com/company/brainlab",
+      "description": "Database migration and data processing in the field of Deep Brain Stimulation (DBS).",
+      "location": "München",
+      "start": "2016-04",
+      "end": "2016-07",
+      "dateRange": "Apr 2016 – Jul 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Electrical Engineering",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Electrical Engineering",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "École de technologie supérieure",
+      "degree": "Semester Abroad, Electrical Engineering",
+      "dateRange": "2017"
+    },
+    {
+      "school": "adveisor",
+      "degree": "Soft-Skill Program",
+      "dateRange": "2014 – 2015"
+    }
+  ],
+  "skills": [
+    "System Architecture",
+    "Digital Signal Processing",
+    "Embedded Systems",
+    "Machine Learning",
+    "Robotics",
+    "Circuit Design",
+    "Rapid Prototyping",
+    "User Interface Design",
+    "Wireframing",
+    "Matlab",
+    "Java",
+    "JavaScript",
+    "HTML",
+    "Django",
+    "React.js",
+    "C++",
+    "LabVIEW",
+    "Python",
+    "MongoDB",
+    "CSS",
+    "Design Thinking",
+    "C (Programming Language)",
+    "Eagle",
+    "µCOS-ii",
+    "Spinnaker",
+    "SystemC",
+    "VHDL",
+    "Teamwork",
+    "LaTeX",
+    "Field-Programmable Gate Arrays (FPGA)",
+    "Xilinx Vivado"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Blickfeld",
+    "tagline": "Stay up to date with news and developments from Blickfeld: https://www.blickfeld.com/newsletter/",
+    "description": "Blickfeld is a leading innovator in LiDAR technology. Founded in Munich in 2017, we develop advanced hardware and perception software that work hand in hand to transform raw 3D data into valuable insights.\n\nOur compact and versatile sensors stand out for their performance and reliability, while our software empowers companies to analyze, optimize, and automate processes in real time. In doing so, we help industries worldwide increase efficiency, enhance safety, and gain a competitive edge.\nBlickfeld is part of Senstar Technologies. \n\nBlickfeld ist ein führender Innovator im Bereich LiDAR-Technologie. Seit der Gründung 2017 in München entwickeln wir fortschrittliche Hardware und Perzeptionssoftware, die nahtlos zusammenarbeiten, um aus rohen 3D-Daten wertvolle Erkenntnisse zu gewinnen. \n\nUnsere kompakten, vielseitigen Sensoren überzeugen durch Leistung und Zuverlässigkeit, während unsere Software es Unternehmen ermöglicht, Prozesse in Echtzeit zu analysieren, zu optimieren und zu automatisieren. So unterstützen wir Branchen weltweit dabei, Effizienz zu steigern, Sicherheit zu erhöhen und Wettbewerbsvorteile zu schaffen.\nBlickfeld ist Teil von Senstar Technologies.",
+    "industry": "Automation Machinery Manufacturing",
+    "website": "http://www.blickfeld.com",
+    "linkedInUrl": "https://www.linkedin.com/company/blickfeld-gmbh",
+    "employeeCount": 45,
+    "foundedYear": 2017,
+    "location": "Munich, Germany",
+    "specialities": [
+      "LiDAR"
+    ]
+  }
+}

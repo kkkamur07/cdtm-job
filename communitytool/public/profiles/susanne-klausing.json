@@ -1,0 +1,202 @@
+{
+  "id": "susanne-klausing",
+  "name": "Susanne Klausing",
+  "headline": "PhD Information Systems and Innovation at LSE | appliedAI | D64",
+  "avatar": {
+    "sm": "/avatars/susanne-klausing-sm.webp",
+    "lg": "/avatars/susanne-klausing.webp",
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAABQBQCdASogACAAPtFYpUyoJSOiKA1RABoJZADN4HAK9INiXG/eKzqzSB28zSxA8wwT6AAA/v6TqzEG1B/bVWqrgjniDrWyTeY5BbvVKtXl6l4jS5xn0dEC+iwvGcyR30Mf9UKFR/mj+gbebRe7ueYmU22V0Nsp/SfDReuq6FXlsVwUJte9f0B2ACkwZypTPbevcgv2Fmh8ZpzyqO06naspBZCooHTFuqwbXjpJEMD7PCnoyWXV4csqtjUokjyrK9hIpAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/susanne-klausing",
+  "personId": 789,
+  "classes": [
+    {
+      "id": 80,
+      "label": "Fall 2016",
+      "season": "Fall",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2016",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Susanne Maria Klausing",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "PhD Student in Information Systems & Innovation",
+      "company": "The London School of Economics and Political Science (LSE)",
+      "companyUrl": "https://www.linkedin.com/company/london-school-of-economics",
+      "description": "Awarded an LSE PhD Studentship for the MPhil/PhD in Information Systems & Innovation at the Department of Management at LSE. Research in the field of privacy-preserving machine learning.",
+      "location": "Region London, Vereinigtes Königreich",
+      "start": "2022-09",
+      "end": null,
+      "dateRange": "Sep 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "AI Project Lead",
+      "company": "appliedAI Initiative GmbH",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2022-07",
+      "end": null,
+      "dateRange": "Jul 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "AI Strategist",
+      "company": "appliedAI Initiative GmbH",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-01",
+      "end": "2022-07",
+      "dateRange": "Jan 2021 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Research Strategist",
+      "company": "Rhodes Artificial Intelligence Lab (RAIL)",
+      "companyUrl": "https://www.linkedin.com/company/rhodes-artificial-intelligence-lab-rail",
+      "description": null,
+      "location": "Oxford, Großbritannien",
+      "start": "2020-01",
+      "end": "2020-06",
+      "dateRange": "Jan 2020 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Summer Intern",
+      "company": "Berkman Klein Center for Internet & Society at Harvard University",
+      "companyUrl": "https://www.linkedin.com/company/bkcharvard",
+      "description": null,
+      "location": null,
+      "start": "2019-07",
+      "end": "2019-09",
+      "dateRange": "Jul 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Working Student Strategy Consulting",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2017-08",
+      "end": "2019-02",
+      "dateRange": "Aug 2017 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Student Intern",
+      "company": "Deloitte Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/deloitte",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2016-01",
+      "end": "2016-04",
+      "dateRange": "Jan 2016 – Apr 2016",
+      "current": false
+    },
+    {
+      "title": "Student Intern",
+      "company": "Linde AG",
+      "companyUrl": "https://www.linkedin.com/company/linde",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-03",
+      "end": "2015-06",
+      "dateRange": "Mar 2015 – Jun 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Oxford",
+      "degree": "Master of Science - MS, Social Science of the Internet",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Visiting Scholarship",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor's degree, Business Administration",
+      "dateRange": "2013 – 2017"
+    },
+    {
+      "school": "Heriot-Watt University",
+      "degree": "Semester Abroad, International Studies",
+      "dateRange": "2015"
+    }
+  ],
+  "skills": [
+    "Internet Research",
+    "Innovation Management",
+    "Entrepreneurship",
+    "Strategy",
+    "STATA",
+    "Visual Basic for Applications (VBA)",
+    "SAP",
+    "Personal Development",
+    "Productivity Improvement",
+    "Stata",
+    "R",
+    "Python",
+    "Projektmanagement",
+    "Datenschutz-Grundverordnung (DSGVO)"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "company": {
+    "name": "The London School of Economics and Political Science (LSE)",
+    "tagline": null,
+    "description": "We're a world-leading university, unique in our dedication to the social sciences.",
+    "industry": "Higher Education",
+    "website": "https://lse.ac.uk",
+    "linkedInUrl": "https://www.linkedin.com/company/london-school-of-economics",
+    "employeeCount": 9624,
+    "foundedYear": null,
+    "location": "London, United Kingdom",
+    "specialities": [
+      "Education",
+      "Social Sciences",
+      "Management",
+      "Economics",
+      "Geography",
+      "Finance",
+      "History",
+      "Sociology",
+      "Political Science",
+      "International Relations",
+      "Media and Communications",
+      "Public Policy",
+      "Social Policy",
+      "Statistics",
+      "Mathematics",
+      "Law",
+      "Research"
+    ]
+  }
+}

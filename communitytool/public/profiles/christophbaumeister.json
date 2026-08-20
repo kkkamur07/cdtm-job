@@ -1,0 +1,236 @@
+{
+  "id": "christophbaumeister",
+  "name": "Dr. Christoph Baumeister",
+  "headline": "Partner at Possible Ventures | CDTM | TUM | 3x Founder",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christophbaumeister",
+  "personId": 1843,
+  "classes": [
+    {
+      "id": 62,
+      "label": "Fall 2007",
+      "season": "Fall",
+      "year": 2007,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2007",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christoph Baumeister",
+  "ca": null,
+  "summary": "If you want to connect with me and I don't know you personally yet, please add a short note on why. Thank you!\n\nI am an early-stage deeptech investor with strong entrepreneurial roots, having transitioned to the investor side after co-founding three startups over eight years. Most recently, I co-founded Avi Medical, a hybrid health company, where I operated as Chief Product Officer and led Product and Marketing. Before that, I co-founded two hardware-focused startups: one in the IoT space and another focused on unattended deliveries. I also bring hands-on experience from innovation and strategy roles at major corporations, including Telefónica, Siemens, and BMW.\n\nI hold a Master's Degree in Management and Electrical Engineering from TUM, an Honours Degree in Technology Management from CDTM, and a PhD in Consumer Behavior from TUM.",
+  "positions": [
+    {
+      "title": "Partner",
+      "company": "Possible Ventures",
+      "companyUrl": "https://www.linkedin.com/company/possible-vc",
+      "description": "Possible Ventures backs the brightest minds who are using frontier technologies to build meaningful companies that benefit people and the planet. We invest in the early stages (pre-seed/seed), actively supporting founders with our own entrepreneurial experience, deeptech experience and investor network.\n\nFocussing on #resilience, #health, #energy, #space, #compute, #industrials, #robotics.\n\nCyberdesk (Pre-Seed), Tilebox (Pre-Seed), Auriga Space (Pre-Seed), Cosmic Aerospace (Seed), Levy Health (Seed), Reverion (Series A), ISPTech (Pre-Seed), Hyperheat (Pre-Seed), Continuity (Pre-Seed), Enadyne (Seed), ViridiCO2 (Seed), SWARM Biotactics (Seed), Recycling (unannounced, Pre-Seed), Orbem (Series B), allunderground (Pre-Seed), Telura (Pre-Seed), Transition Metal Solutions (Seed), Health (unannounced, Pre-Seed), Defense/Robotics (unannounced, Seed), Space (unannounced, Pre-Seed), Robotics (unannounced, Pre-Seed) + more coming soon!",
+      "location": "München",
+      "start": "2023-03",
+      "end": null,
+      "dateRange": "Mar 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Angel Investor",
+      "company": "Angel Investor",
+      "companyUrl": null,
+      "description": "Invested in Rex, Zavvy (acquired by Deel), Coboworx, BauGPT (prev. Crafthunt), Kertos and many more",
+      "location": null,
+      "start": "2022-03",
+      "end": null,
+      "dateRange": "Mar 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Avi Medical",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": "Avi Medical is on a mission to elevate the patient experience and provide the best possible primary care by combining technology with a human touch. Avi Medical runs patient-centric, tech-enabled medical practices that provide a convenient, personalized and holistic digital and physical patient experience unlike regular general practitioners in Munich, Hamburg and Berlin. \nResponsible for product vision, strategy and roadmap. Led product and marketing teams. Raised more than 75m€ venture capital from Addition, Balderton, Heal, 3VC, Picus, Possible Ventures and others.\nwww.avimedical.com",
+      "location": "Munich, Bavaria",
+      "start": "2020-01",
+      "end": null,
+      "dateRange": "Jan 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Investor in Residence",
+      "company": "equation",
+      "companyUrl": "https://www.linkedin.com/company/equation-equity-innovation",
+      "description": "equation is a data-driven Fund-of-Fund that I supported refining their pitch deck",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-11",
+      "end": "2023-01",
+      "dateRange": "Nov 2022 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & Chief Product Officer",
+      "company": "Avi Medical",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-01",
+      "end": "2022-02",
+      "dateRange": "Jan 2020 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Co-founder & CEO",
+      "company": "nello.io",
+      "companyUrl": "https://www.linkedin.com/company/nello.io",
+      "description": "Built the world's first B2C solution for keyless access to apartment buildings with the mission to enable unattended services: a smart home device connected to the cloud and controlled via mobile app. Raised 3.5m€ from BMW, KfW, KPN Ventures, SOSV and family offices. Accomplished 15k+ monthly active users, very good product reviews and 4m+ door openings. Successfully piloted a last mile night logistics service. Sold to SCLAK in 2019.",
+      "location": "New York City / Munich",
+      "start": "2015-10",
+      "end": "2019-10",
+      "dateRange": "Oct 2015 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Co-founder & CEO",
+      "company": "LOCUMI",
+      "companyUrl": "https://www.linkedin.com/company/locumi-labs",
+      "description": "Developed and launched a hardware solution to securely receive parcels at the apartment door while not being at home: the LOCUMI parcel bag. Sold to Burg-Wächter in 2015.",
+      "location": "Munich",
+      "start": "2014-05",
+      "end": "2015-09",
+      "dateRange": "May 2014 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "TUM CREATE",
+      "companyUrl": "https://www.linkedin.com/company/tum-create-limited",
+      "description": "Electric Vehicles, Market Research, Business Model Development",
+      "location": "Singapore",
+      "start": "2011-09",
+      "end": "2011-12",
+      "dateRange": "Sep 2011 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Research Associate",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Market Research, Expert Interviews & Statistical Analysis for different clients in the mobility sector. Wrote my PhD thesis about consumer behavior in the sharing economy.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2010-11",
+      "end": "2014-07",
+      "dateRange": "Nov 2010 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "Venture Development",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Market Analysis, Business Model Validation, Expert Interviews",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2009-08",
+      "end": "2009-10",
+      "dateRange": "Aug 2009 – Oct 2009",
+      "current": false
+    },
+    {
+      "title": "Inhouse Consulting",
+      "company": "BMW",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Product Development Process, Cost-Down, Controlling",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2009-01",
+      "end": "2009-04",
+      "dateRange": "Jan 2009 – Apr 2009",
+      "current": false
+    },
+    {
+      "title": "Strategy and Business Development",
+      "company": "Credit Suisse",
+      "companyUrl": "https://www.linkedin.com/company/credit-suisse",
+      "description": "ETFs, Empirical Analysis",
+      "location": "München, Zürich",
+      "start": "2008-03",
+      "end": "2008-08",
+      "dateRange": "Mar 2008 – Aug 2008",
+      "current": false
+    },
+    {
+      "title": "Strategy and Business Development",
+      "company": "Telefonica",
+      "companyUrl": "https://www.linkedin.com/company/telefonica",
+      "description": "Market Intelligence, Corporate Strategy",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2006-09",
+      "end": "2007-09",
+      "dateRange": "Sep 2006 – Sep 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management",
+      "dateRange": "2007 – 2010"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "PhD, Service and Technology Marketing",
+      "dateRange": "2010 – 2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Technology and Management",
+      "dateRange": "2005 – 2010"
+    },
+    {
+      "school": "HEC Paris",
+      "degree": "Grande École Exchange Semester, Marketing, Operations, Finance",
+      "dateRange": "2008"
+    }
+  ],
+  "skills": [
+    "Venture Capital",
+    "Fundraising",
+    "Product Strategy",
+    "Product Management",
+    "Market Analysis",
+    "Quantitative Research",
+    "Data Analysis",
+    "Interviewing",
+    "Online Marketing",
+    "Recruiting",
+    "Customer Service",
+    "Customer Relationship Management (CRM)",
+    "Marketing Strategy",
+    "Unternehmertum",
+    "Entrepreneurship",
+    "Business Strategy",
+    "Marketing",
+    "Projektmanagement",
+    "Start-ups",
+    "Unternehmensstrategie"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Possible Ventures",
+    "tagline": "Investing in the future of technology and humanity.",
+    "description": "Possible Ventures backs the most ambitious teams using frontier tech in critical industries at the intersection of AI, energy, robotics, space, compute, climate and health.\n\nAs a team of proven entrepreneurs, we invest early and actively support founders as a wingman. \n\nWe're unabashed optimists when it comes to the power of technology to solve problems. \n\nSee our website for the missions we’re helping make possible: https://possible.ventures",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://possible.ventures",
+    "linkedInUrl": "https://www.linkedin.com/company/possible-vc",
+    "employeeCount": 13,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "daniela-selch-124305112",
+  "name": "Daniela Selch",
+  "headline": "Quantitative Analyst",
+  "avatar": null,
+  "location": "United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/daniela-selch-124305112",
+  "personId": 1347,
+  "classes": [
+    {
+      "id": 60,
+      "label": "Fall 2006",
+      "season": "Fall",
+      "year": 2006,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2006",
+  "major": "Mathematics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Daniela Selch",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Quantitative Analyst",
+      "company": "Barclays",
+      "companyUrl": "https://www.linkedin.com/company/barclays-bank",
+      "description": null,
+      "location": null,
+      "start": "2015-06",
+      "end": null,
+      "dateRange": "Jun 2015 – Present",
+      "current": true
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "PhD, Financial Mathematics",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Elite Network of Bavaria",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Stochastic Calculus",
+    "Financial Engineering",
+    "Mathematical Modeling",
+    "Data Analysis",
+    "Statistics",
+    "Applied Mathematics",
+    "Quantitative Analytics",
+    "Programming",
+    "Quantitative Finance",
+    "Equity Derivatives",
+    "Python (Programming Language)",
+    "C++",
+    "Derivatives",
+    "Mathematics"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Barclays",
+    "tagline": null,
+    "description": "Barclays is a British universal bank. Our vision is to be the UK-centred leader in global finance. We are a diversified bank with comprehensive UK consumer, corporate and wealth and private banking franchises, a leading investment bank and a strong, specialist US consumer bank. Through these five divisions, we are working together for a better financial future for our customers, clients and communities.\n\nWith over 325 years of history and expertise in banking, Barclays operates in over 40 countries and employs approximately 83,500 people. Barclays moves, lends, invests and protects money for customers and clients worldwide.\n\nBarclays is a trading name of Barclays Bank PLC and its subsidiaries. Barclays Bank PLC is registered in England and is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Registered in England. Registered No. 1026167. Registered office: 1 Churchill Place, London E14 5HP.",
+    "industry": "Financial Services",
+    "website": "http://www.home.barclays",
+    "linkedInUrl": "https://www.linkedin.com/company/barclays-bank",
+    "employeeCount": 81373,
+    "foundedYear": null,
+    "location": "London, United Kingdom",
+    "specialities": [
+      "Banking",
+      "Wealth and Investment Management",
+      "Private Equity and Investment Management",
+      "Retail Banking",
+      "Investment Banking",
+      "Credit Cards",
+      "Corporate Banking"
+    ]
+  }
+}

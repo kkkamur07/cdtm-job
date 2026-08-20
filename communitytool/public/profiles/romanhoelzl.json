@@ -1,0 +1,133 @@
+{
+  "id": "romanhoelzl",
+  "name": "Roman Hölzl",
+  "headline": "Co-founder & CEO of RobCo — Automate the ordinary, so humans can do the extraordinary",
+  "avatar": {
+    "sm": "/avatars/romanhoelzl-sm.webp",
+    "lg": "/avatars/romanhoelzl.webp",
+    "blur": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAABQBgCdASogACAAPs1Yo0unpSMhsBgMAPAZiWYAtQk73AET6rfvmd5cepXtAJ70n0bgYPG6yKkkQ2/1AAD+/mE8ro/cKvTT4zT8cq90SU82C5/t3rCNjLXkHPNxaxoWHw83+8hYQbXhoG1RVsDCI6OdAK3F8ZfZ2BGzZKF2BGkpHLWVHXfjUmXYx0O0zv8KoMNB2Z1HzI/Rgo0dq7nfkv2/soUK4MTkZTU8wJ5E24TMP4xUxwih9SR6R/OSp+TH4lxrTxnKeKEAPmOC7ojaWSniTfDciilmZUYoIdWCwHR4GiIKr1LwfFaaQ1IrgqIYkiD1Mk9i+AAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/romanhoelzl",
+  "personId": 744,
+  "classes": [
+    {
+      "id": 82,
+      "label": "Fall 2017",
+      "season": "Fall",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2017",
+  "major": "Human Factors Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Roman Hölzl",
+  "ca": null,
+  "summary": "RobCo’s purpose is to automate the ordinary, so humans can do the extraordinary\n\nGone are the days when a manufacturing company could do everything with human labor alone. Today, the only way to compete is to automate, but current automation solutions are anything but automatic.\n\nTo assemble even a simple automation solution, you have to stitch bits and pieces together. Once you have all the pieces you then have to figure out how to get them to work together. This means paying a systems integrator to figure out how to get the thing up and running. The whole process can take months to quarters. And you have to pay everything upfront – a huge CapEx cost that kills your balance sheet.\n\nAnd for what? A brittle system that only works on one task and requires paying additional fees if anything goes wrong. And that's in the best case scenario. On the job it's a different story; the ground truth is sobering. Things break. Requirements change. Suddenly your automation robot feels destined to be an expensive, automatic disaster. But you do it anyway. Because human labor alone is not enough. Today's world moves too quickly to do everything by hand, even if you've got strong and capable hands. There has to be a different way.\n\nDifferent, not better: RobCo is different. We asked ourselves: what if we could shift the industry from bespoke hardware to autonomous, adaptable, and affordable robot solutions? Then you could solve problems at a pace and a price that today's manufacturing demands. \n\nTransforming our customers: We've created a system that gets a full end-to-end robotics solution in place in weeks and can change as your needs change. You only pay a low monthly fee, instead of a huge upfront expense, and then watch as your efficiency (and safety and worker happiness) all dramatically improve. And when your business changes, we shift with you. Instantly and seamlessly adapting to the new process or requirements, helping you get more done, no matter what the job is. RobCo's purpose is exactly that: To automate the ordinary, so humans can do the extraordinary.",
+  "positions": [
+    {
+      "title": "Co-founder & CEO",
+      "company": "RobCo",
+      "companyUrl": "https://www.linkedin.com/company/robco-therobotcompany",
+      "description": null,
+      "location": null,
+      "start": "2020-10",
+      "end": null,
+      "dateRange": "Oct 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Robotics PhD Candidate",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Ran lab course at the Chair of Robotics & AI, published three scientific papers",
+      "location": null,
+      "start": "2019-04",
+      "end": "2021-03",
+      "dateRange": "Apr 2019 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Human-Robot Interaction",
+      "company": "KUKA",
+      "companyUrl": "https://www.linkedin.com/company/kukaglobal",
+      "description": null,
+      "location": null,
+      "start": "2017-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2017 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Business Development for Tesla Model S",
+      "company": "Tesla",
+      "companyUrl": "https://www.linkedin.com/company/tesla-motors",
+      "description": null,
+      "location": null,
+      "start": "2015-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Sponsored Athlete Freestyle Skiing",
+      "company": "Rossignol Group",
+      "companyUrl": "https://www.linkedin.com/company/rossignol-group",
+      "description": "Won several competitions (e.g. German National Academic Champ 2014, King of Shred 2013), and did video shoots all over Europe, Japan, and Canada. Backflips, deep snow, and great times!",
+      "location": null,
+      "start": "2009-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2009 – Dec 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc. Engineering/Human Factors Engineering (with Distinction)",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "M.Sc. Research Scholar to Prof. Bowers, Human-Machine Interaction (with Highest Distinction)",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management (with Distinction)",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "University of Sydney",
+      "degree": "M.Sc. Research Scholar to Prof. Jay, Human-Machine Interaction (with Highest Distinction)",
+      "dateRange": "2016 – 2017"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English (fluent), Spanish (fluent), German (native), French (basic)"
+  ],
+  "company": {
+    "name": "RobCo",
+    "tagline": "RobCo’s vision is to automate the ordinary, so humans can do the extraordinary",
+    "description": "RobCo's mission is to automate the ordinary, so humans can do the extraodinary. \n\nFounded in 2020 out of the Technical University of Munich, RobCo is on a mission to make industrial automation more accessible, affordable, and adaptable. Its patented modular hardware kit, combined with the RobCo Studio no-code software platform, allows industrial companies of all sizes to automate repetitive and dangerous tasks quickly and with unmatched flexibility. Whether it’s machine tending, palletizing, dispensing, or welding, RobCo’s modular robot kits provide versatile end-to-end solutions that are simple to deploy and manage remotely — without heavy upfront investment or specialist expertise. With offices in Munich and San Francisco and robots already in operation worldwide, RobCo is supercharging a new generation of industrial companies to reduce costs, boost productivity, and compete on a global stage.\n\nRobCo’s modular robot kits provide versatile end-to-end solutions that are simple to deploy and manage remotely — without heavy upfront investment or specialist expertise. With offices in Munich and San Francisco and robots already in operation worldwide, RobCo is supercharging a new generation of industrial companies to reduce costs, boost productivity, and compete on a global stage.",
+    "industry": "Technology, Information and Internet",
+    "website": "http://www.rob.co",
+    "linkedInUrl": "https://www.linkedin.com/company/robco-therobotcompany",
+    "employeeCount": 191,
+    "foundedYear": 2020,
+    "location": "München, Germany",
+    "specialities": [
+      "Robotics",
+      "Automation"
+    ]
+  }
+}

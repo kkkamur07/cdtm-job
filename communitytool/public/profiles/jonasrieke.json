@@ -1,0 +1,190 @@
+{
+  "id": "jonasrieke",
+  "name": "Jonas Rieke",
+  "headline": "Co-Founder & COO at Personio",
+  "avatar": {
+    "sm": "/avatars/jonasrieke-sm.webp",
+    "lg": "/avatars/jonasrieke.webp",
+    "blur": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAABwBgCdASogACAAPtFcqU4oJSQiKAqpABoJbACdL8CCsPMFsOoO+7/HSry+KJrxuJtyIMdUgNBxH8NMp0AA/s19mRlyP8cbIynayojjAgE3mhm/4/HEbpLG+FHY17ObXz6k/aRfjiv2AQvyK/pAZ66cd9jcgG+TMJwmzRZfwRaqt/UUiG0OebFJ+XqXYkEsS284bnq9TcG9GJdhFl/D3Ox+M6fS2qGY48kAEeMhqqeMasJpgtkTqo86LyqCqtr9oLowzRf6HXwGh7DSgm6kDx3MFdgwgaASptFCYCRAAAA="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jonasrieke",
+  "personId": 908,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jonas Rieke",
+  "ca": null,
+  "summary": "Unlocking the power of the people for organizations around the world.\n\nCheck out our latest product announcements: https://youtu.be/MaEpMVhyHpU?si=2r3kV5W4xaMAAkmK",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Personio Foundation",
+      "companyUrl": "https://www.linkedin.com/company/personio-foundation",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-12",
+      "end": null,
+      "dateRange": "Dec 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Board Member",
+      "company": "Capmo",
+      "companyUrl": "https://www.linkedin.com/company/capmo",
+      "description": null,
+      "location": null,
+      "start": "2021-03",
+      "end": null,
+      "dateRange": "Mar 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Board Advisor",
+      "company": "Workpath",
+      "companyUrl": "https://www.linkedin.com/company/workpathhq",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-12",
+      "end": null,
+      "dateRange": "Dec 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "COO & Co-Founder",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2016-06",
+      "end": null,
+      "dateRange": "Jun 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment Management",
+      "company": "Project A Ventures",
+      "companyUrl": "https://www.linkedin.com/company/project-a-vc",
+      "description": null,
+      "location": "Berlin und Umgebung, Deutschland",
+      "start": "2016-02",
+      "end": "2016-05",
+      "dateRange": "Feb 2016 – May 2016",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Hendricks & Schwartz",
+      "companyUrl": "https://www.linkedin.com/company/hendricks-&-schwartz",
+      "description": null,
+      "location": "Munich",
+      "start": "2013-07",
+      "end": "2014-08",
+      "dateRange": "Jul 2013 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "komoot",
+      "companyUrl": "https://www.linkedin.com/company/komoot-gmbh",
+      "description": null,
+      "location": "Potsdam and Munich",
+      "start": "2011-03",
+      "end": "2011-06",
+      "dateRange": "Mar 2011 – Jun 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "B.Sc., Business Administration",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "B.Sc., Geography",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Business Strategy",
+    "Business Process Design",
+    "Business Planning",
+    "Management",
+    "Start-ups",
+    "Venture Capital",
+    "Excel Models",
+    "Microsoft Office",
+    "Market Research",
+    "HTML",
+    "CSS",
+    "Photoshop",
+    "Illustrator",
+    "InDesign",
+    "SQL",
+    "Zendesk",
+    "Zapier",
+    "Natero",
+    "Customer Satisfaction Research",
+    "JIRA"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Personio",
+    "tagline": "Unlocking the power of people",
+    "description": "Founded in 2015 and built in Europe, Personio is the Intelligent HR Platform championing every side of HR's evolution.\n\nAs work becomes more complex and HR's role more strategic, most technology still treats HR as one-dimensional. We see it differently. Trusted by over 16,000 customers managing more than 1 million employees globally, Personio is built for everything HR has become. We support organisations of all sizes and industries, but specialise in global companies with between 200 and 5000 employees. \n\nWe connect Core HR, Talent, and Payroll in one intelligent platform. Our platform eliminates manual work through automation, adapts to multi-entity complexity with flexible workflows, and transforms people data into strategic insights with AI.\n\nPersonio is built with deep European expertise, and we're the only HR platform with native payroll in Germany—Europe's most complex market. Plus we offer comprehensive apps to manage the entire employee lifecycle including recruiting, performance, compensation, and feedback. \n\nFrom implementation to everyday support, Personio is your partner from day one. We focus on the real challenges of HR and build with purposeful AI that amplifies the power of HR teams. \n\nWe help organisations around the world unlock the power of their people.",
+    "industry": "Software Development",
+    "website": "https://www.personio.com",
+    "linkedInUrl": "https://www.linkedin.com/company/personio",
+    "employeeCount": 1739,
+    "foundedYear": 2015,
+    "location": "Munich, Germany",
+    "specialities": [
+      "HR Software",
+      "HR Management",
+      "Recruitung",
+      "Employee Management",
+      "Applicant Tracking System",
+      "Employee Selfservice",
+      "Time-Off Management",
+      "Cloud Software",
+      "Onboarding and Offboarding",
+      "HR Reporting",
+      "Performance Management",
+      "Payroll",
+      "HR",
+      "HR Tech",
+      "Human Resources"
+    ]
+  }
+}

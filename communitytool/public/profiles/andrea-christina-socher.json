@@ -1,0 +1,79 @@
+{
+  "id": "andrea-christina-socher",
+  "name": "Andrea Socher",
+  "headline": "Munich",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/andrea-christina-socher",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Technology Transfer / SPIN-OFF Service",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": null,
+      "start": "2024-07",
+      "end": null,
+      "dateRange": "Jul 2024 – Present",
+      "current": true
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "University of Navarra",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Waseda University",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Strategy",
+    "Business Development",
+    "Start-ups",
+    "Project Management",
+    "Business Strategy",
+    "Management Consulting",
+    "Change Management",
+    "Business Analysis"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "tagline": null,
+    "description": "Die LMU zählt zu den renommiertesten Universitäten Europas. Sie steht für hervorragende Forschung, die sich mit einem anspruchsvollen Lehrangebot verbindet. Knapp 53.000 Studierende, davon 17 Prozent aus dem Ausland, nutzen derzeit das breite Fächerspektrum mit 150 Angeboten und zahlreichen Kombinationsmöglichkeiten - von den Geistes- und Kulturwissenschaften über Rechts-, Wirtschafts- und Sozialwissenschaften bis hin zur Medizin und den Naturwissenschaften. \n\nDas Know-how und die kreative Intelligenz von rund 700 Professorinnen und Professoren und 3.600 wissenschaftlichen Mitarbeiterinnen und Mitarbeitern bilden die Grundlage für die hervorragende Forschungsbilanz der LMU und sorgen für ihr regelmäßig gutes Abschneiden in nationalen und internationalen Rankings. \n\nMachen Sie sich ein Bild von der LMU: www.lmu.de\n\nUnsere Netiquette sowie Datenschutzinformationen zur Nutzung der Social-Media-Auftritte der LMU finden Sie hier: \n\nhttps://www.lmu.de/de/die-lmu/struktur/zentrale-universitaetsverwaltung/kommunikation-und-presse/social-media/index.html\n\nFür die inhaltliche Konzeption und Pflege der Seiten ist die Stabsstelle Kommunikation und Presse verantwortlich.",
+    "industry": "Higher Education",
+    "website": "http://www.lmu.de",
+    "linkedInUrl": "https://www.linkedin.com/company/lmu.muenchen",
+    "employeeCount": 9313,
+    "foundedYear": null,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

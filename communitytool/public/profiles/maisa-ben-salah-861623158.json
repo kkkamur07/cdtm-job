@@ -1,0 +1,183 @@
+{
+  "id": "maisa-ben-salah-861623158",
+  "name": "Maisa Ben Salah",
+  "headline": "SWE @ Amazon | SWE Elite Master @ TUM, LMU, and UA | CDTM",
+  "avatar": {
+    "sm": "/avatars/maisa-ben-salah-861623158-sm.webp",
+    "lg": "/avatars/maisa-ben-salah-861623158.webp",
+    "blur": "data:image/webp;base64,UklGRh4BAABXRUJQVlA4IBIBAADwBQCdASogACAAPtFYpE0oJSOiKA1RABoJaACsAYwLLba20D03m2Tghf12jtPxxNfP3FI3Qa4SPAD+/by4LSRuKXtvfbe/9xcCf2/7Lf80v67cZbTYqrCjOMg00i7NKNO1oJVmDm+E37FV1Sg4OXc/Z4FkDv6112ib6hQS1oeBlS9wHDUxVkHeGkV/e/+FbnkManE0crJj+5GfnJKbbUn7oLSs5ewBhWCmmEIgJVOrMBjrHkPeggHQc8Z6BibPIh7aq85JBoMirYudu5edrJ5rSGlP1LOJodykyvdpmaBvpYtTaVTwFHM9Cwjn4emNkzTTqAeZhcFHeInawYM+sI1sAFCEOCQZ1A8SDGpSNYKRvQAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/maisa-ben-salah-861623158",
+  "personId": 995,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Software Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Maisa Ben Salah",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": null,
+      "location": null,
+      "start": "2024-05",
+      "end": "2024-10",
+      "dateRange": "May 2024 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "EPFL",
+      "companyUrl": "https://www.linkedin.com/company/epfl",
+      "description": "NeuroAI Lab: Scaling laws for behaviorally-aligned brain models\nAdvisor: Martin Schrimpf",
+      "location": null,
+      "start": "2023-10",
+      "end": "2024-05",
+      "dateRange": "Oct 2023 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Predium",
+      "companyUrl": "https://www.linkedin.com/company/predium-technology",
+      "description": null,
+      "location": null,
+      "start": "2022-11",
+      "end": "2023-11",
+      "dateRange": "Nov 2022 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Oracle",
+      "companyUrl": "https://www.linkedin.com/company/oracle",
+      "description": null,
+      "location": null,
+      "start": "2022-08",
+      "end": "2022-10",
+      "dateRange": "Aug 2022 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Junior Software Consultant",
+      "company": "TNG Technology Consulting",
+      "companyUrl": "https://www.linkedin.com/company/tng-technology-consulting",
+      "description": null,
+      "location": null,
+      "start": "2021-03",
+      "end": "2021-10",
+      "dateRange": "Mar 2021 – Oct 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Elite Graduate Program in Software Engineering",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Heidelberg University",
+      "degree": "DSH3, Feststellungsprüfung",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Pioneer High School of Monastir",
+      "degree": "Scientific Baccalaureate, Mathematics",
+      "dateRange": "2013 – 2017"
+    }
+  ],
+  "skills": [
+    "PostgreSQL",
+    "JavaScript",
+    "SQL",
+    "Java",
+    "Haskell",
+    "Python (Programming Language)",
+    "Databases",
+    "Kotlin",
+    "Business Development",
+    "Machine Learning",
+    "Forecasting",
+    "Project Management",
+    "Fundraising",
+    "React.js",
+    "Git",
+    "Design Thinking",
+    "PyTorch",
+    "TypeScript",
+    "Algorithms",
+    "Material UI",
+    "Software Engineering",
+    "Time Series Analysis",
+    "Energy Management",
+    "Unified Modeling Language (UML)",
+    "Product Ideation",
+    "Swift (Programming Language)",
+    "User Interviews"
+  ],
+  "languages": [
+    "Arabic",
+    "French",
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Amazon",
+    "tagline": null,
+    "description": "Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. We are driven by the excitement of building technologies, inventing products, and providing services that change lives. We embrace new ways of doing things, make decisions quickly, and are not afraid to fail. We have the scope and capabilities of a large company, and the spirit and heart of a small one.\n\nTogether, Amazonians research and develop new technologies from Amazon Web Services to Alexa on behalf of our customers: shoppers, sellers, content creators, and developers around the world.\n\nOur mission is to be Earth's most customer-centric company. Our actions, goals, projects, programs, and inventions begin and end with the customer top of mind.\n\nYou'll also hear us say that at Amazon, it's always \"Day 1.\"​ What do we mean? That our approach remains the same as it was on Amazon's very first day - to make smart, fast decisions, stay nimble, invent, and focus on delighting our customers.",
+    "industry": "Software Development",
+    "website": "https://www.aboutamazon.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/amazon",
+    "employeeCount": 780806,
+    "foundedYear": null,
+    "location": "Seattle, United States",
+    "specialities": [
+      "e-Commerce",
+      "Retail",
+      "Operations",
+      "Internet"
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "id": "manuel-concepcion-brito",
+  "name": "Manuel C.",
+  "headline": "CDTM | TUM | Harvard | ex-RobCo",
+  "avatar": {
+    "sm": "/avatars/manuel-concepcion-brito-sm.webp",
+    "lg": "/avatars/manuel-concepcion-brito.webp",
+    "blur": "data:image/webp;base64,UklGRjwBAABXRUJQVlA4IDABAACwBgCdASogACAAPs1SpUunpKOhsBgMAPAZiUAX52XXc8PhXbd3yGQFcS/fuFKQHD2/6Uid2sOQhbOv9lDZgAD+9/YhakvUZr62K2nirYWFn1vKMcuPgCveMoXy71yNcuQTlcbJbsSD/cL4MGXziDZYs96NWIyq/YZFk3aU/O2rr/p4SB+2a8CzmBI6nkmVYBUPFDgBPZuHMqdgDXVcFa5eh6O2f9F6z8vVw1L7q3i1I40zTOWqe/AdvtRTfe7wcc2/GL/27yWokAxrxG3Y8WiWqsPs7+xMK5btwSdn3iqhLVTUgK5AuMNWxEPwdDX7JGBZ3SYSkqAKPBHSPv4eVtK7HYqfOQMIDhiDNcj6gZLGg6T7dDWV6seqJh1+SLFbeMuyWhCvzn08qq4/qepy/4AA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/manuel-concepcion-brito",
+  "personId": 1138,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "M.Sc. Biomedical Computing",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "arbitrary",
+  "needsReview": true,
+  "rosterName": "Manuel Concepcion-Brito",
+  "ca": null,
+  "summary": "Building cool products. CDTM alumni, born and raised in the Canary Islands",
+  "positions": [
+    {
+      "title": "CTO",
+      "company": "Stealth Startup",
+      "companyUrl": "https://www.linkedin.com/company/stealth-startup-community",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2026-01",
+      "end": "2026-12",
+      "dateRange": "Jan 2026 – Dec 2026",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "RobCo",
+      "companyUrl": "https://www.linkedin.com/company/robco-therobotcompany",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2026-12",
+      "dateRange": "Jan 2023 – Dec 2026",
+      "current": false
+    },
+    {
+      "title": "RobCo autonomy",
+      "company": "RobCo",
+      "companyUrl": "https://www.linkedin.com/company/robco-therobotcompany",
+      "description": null,
+      "location": "On-site",
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Software Engineer, ML",
+      "company": "Peter Park",
+      "companyUrl": "https://www.linkedin.com/company/peterpark",
+      "description": "- Reduced hardware costs (cameras) by 80% by moving from third-party integrated software to edge computing devices with internal Deep Learning algorithms.\n\n- Increased the reliability of the ML microservice by refactoring codebase to include logs, monitoring, testing and automatic restarting of the system.\n\n- Build an ML Pipeline to transition the main DL model serving from a REST API to a message broker system based on RabbitMQ",
+      "location": "Germany",
+      "start": "2021-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2021 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer, Research",
+      "company": "BiiG - Biomedical Imaging and Instrumentation Group",
+      "companyUrl": "https://www.linkedin.com/company/biig-uc3m-hggm",
+      "description": "Developed a system based on new AI techniques to reduce the contouring of organs from several hours to a few minutes in the context of radiotherapy",
+      "location": "Madrid y alrededores, España",
+      "start": "2018-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2018 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Software Engineer, Research",
+      "company": "Harvard Medical School",
+      "companyUrl": "https://www.linkedin.com/company/harvard-medical-school",
+      "description": "Development of Deep Learning Algorithms for the classification of Chronic Obstructive Pulmonary disease. This project will help classify sick patients based on the routinely acquired CT scans instead of the time consuming and subjective previous testing methods.",
+      "location": "Greater Boston Area",
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor's Degree in Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Biomedical Computing, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Northeastern University",
+      "degree": "Bachelor's degree, Biomedical/Medical Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "QUT (Queensland University of Technology)",
+      "degree": "Biomedical engineering, ENGINEERING",
+      "dateRange": null
+    },
+    {
+      "school": "Universidad Carlos III de Madrid",
+      "degree": "Ingeniería Biomédica, Computer Science",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Python",
+    "Deep Learning",
+    "C++",
+    "Web development",
+    "React Native",
+    "Aprendizaje automático",
+    "Matlab",
+    "Django",
+    "Research and Development (R&D)",
+    "SQL",
+    "JavaScript",
+    "Node.js",
+    "React.js",
+    "PyTorch",
+    "Tensorflow",
+    "Docker",
+    "Inglés",
+    "DevOps",
+    "Git",
+    "Kubernetes",
+    "Amazon Web Services (AWS)"
+  ],
+  "languages": [
+    "Alemán",
+    "Español",
+    "Inglés"
+  ],
+  "company": {
+    "name": "Stealth Startup",
+    "tagline": null,
+    "description": "A network for entrepreneurs building in stealth. \n\nSubmit your information here so investors can find you:\nharmonic.ai/get-discovered",
+    "industry": "Technology, Information and Internet",
+    "website": "https://harmonic.ai/get-discovered",
+    "linkedInUrl": "https://www.linkedin.com/company/stealth-startup-community",
+    "employeeCount": 33008,
+    "foundedYear": null,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "id": "michaela-graedener",
+  "name": "Michaela Grädener",
+  "headline": "Innovation @ ecoplanet | Ex-McKinsey | CDTM",
+  "avatar": {
+    "sm": "/avatars/michaela-graedener-sm.webp",
+    "lg": "/avatars/michaela-graedener.webp",
+    "blur": "data:image/webp;base64,UklGRhABAABXRUJQVlA4IAQBAACwBgCdASogACAAPtFWpE2oJCMiMBgIAQAaCWgAnQWz5Tg8afPb8s7EchDuhFKN31yFFfgUq5tS6L24PVzKAAD+8QdBiGq2Ng5KTqXNF8qoaumv69HlD5dI4ewNQjOJr2ipJCE/zD86J0J/t5OupreT93wuYCxo4AkIRyH8WfTOEoMBHD4+I/YsFna10zU5jol3jTc74Y/PoGwLePUss6ZaHyVg83NQCoPQ27zn8DOpFK7+UoFHli0FIfJncb4F+4uCyp110nELo8CGjWh8s/l9T+6I3CAtazywX1k5BJ/REYNu9zGxBhs0Wa67TpD/rtR3j6UhIZ0J+8efUy/abVkwhdAAAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/michaela-graedener",
+  "personId": 1005,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Michaela Grädener",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Head of Research And Development",
+      "company": "ecoplanet",
+      "companyUrl": "https://www.linkedin.com/company/ecoplanet-green-operations",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Investor",
+      "company": "415 Capital",
+      "companyUrl": "https://www.linkedin.com/company/415-capital",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-10",
+      "end": "2024-05",
+      "dateRange": "Oct 2023 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Co Managing Director",
+      "company": "Radia - the inclusive tech network",
+      "companyUrl": "https://www.linkedin.com/company/radia-network",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-03",
+      "end": "2024-10",
+      "dateRange": "Mar 2023 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Associate",
+      "company": "Othoz GmbH",
+      "companyUrl": "https://www.linkedin.com/company/ultramarin-gmbh",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2021-01",
+      "end": "2023-02",
+      "dateRange": "Jan 2021 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2018-10",
+      "end": "2023-10",
+      "dateRange": "Oct 2018 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2016-11",
+      "end": "2016-12",
+      "dateRange": "Nov 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "External Consultant",
+      "company": "Deloitte Digital",
+      "companyUrl": "https://www.linkedin.com/company/deloitte-digital",
+      "description": null,
+      "location": null,
+      "start": "2016-04",
+      "end": "2016-06",
+      "dateRange": "Apr 2016 – Jun 2016",
+      "current": false
+    },
+    {
+      "title": "External Consultant",
+      "company": "Stylight",
+      "companyUrl": "https://www.linkedin.com/company/stylight",
+      "description": null,
+      "location": null,
+      "start": "2015-10",
+      "end": "2016-01",
+      "dateRange": "Oct 2015 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": "Development of the international sales strategy for an automobile distributer",
+      "location": "Munich",
+      "start": "2014-08",
+      "end": "2014-10",
+      "dateRange": "Aug 2014 – Oct 2014",
+      "current": false
+    },
+    {
+      "title": "External Consultant",
+      "company": "Bayerischer Rundfunk",
+      "companyUrl": "https://www.linkedin.com/company/br-bayerischer-rundfunk",
+      "description": "Concept development for a multimedia-based recruiting process",
+      "location": null,
+      "start": "2013-06",
+      "end": "2013-11",
+      "dateRange": "Jun 2013 – Nov 2013",
+      "current": false
+    },
+    {
+      "title": "On-board Courier",
+      "company": "Sameday Logistics",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2012-08",
+      "end": "2020-12",
+      "dateRange": "Aug 2012 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Hanlynn Technologies",
+      "companyUrl": null,
+      "description": "Development, Testing and Integration of Bluetooth Chips",
+      "location": "Shanghai, China",
+      "start": "2011-05",
+      "end": "2011-07",
+      "dateRange": "May 2011 – Jul 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Information Systems",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "RWTH Aachen University",
+      "degree": "Research Assistant, Innovation & Entrepreneurship",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": "Visiting Scholar (MBA)",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Computer Science",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "Seoul National University",
+      "degree": "Computer Science",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Bundeswehr University Munich",
+      "degree": "Enrolled in Electrical Engineering (B. Sc.) - Scholarship for gifted high school students",
+      "dateRange": "2006 – 2010"
+    },
+    {
+      "school": "Gymnasium Oberhaching",
+      "degree": "Abitur",
+      "dateRange": "2001 – 2011"
+    }
+  ],
+  "skills": [
+    "Data Science",
+    "Business Analytics",
+    "Management Consulting",
+    "Start-ups",
+    "Entrepreneurship",
+    "Teamwork",
+    "Rhetoric",
+    "Java",
+    "JavaScript",
+    "C",
+    "R",
+    "Matlab",
+    "Market Research",
+    "Data Analytics",
+    "Design Thinking",
+    "Scrum",
+    "Project Management",
+    "Linux",
+    "Big Data",
+    "C++"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "ecoplanet",
+    "tagline": "Günstigste Energiepreise & innovatives Energiemanagement für den deutschen Mittelstand",
+    "description": "ecoplanet ist die weltweite erste Software für integriertes Energiemanagement: Verbrauchssteuerung, intelligente Beschaffung und Regulatorik an einem Ort & KI-basiert optimiert.\n\nMit einem großen Team aus Energieexpert:innen, Produkttalenten und Branchenprofis treiben wir die Energiewende im Mittelstand voran.\n\n📍 Offices in Berlin & München | ✉️ info@ecoplanet.tech",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.ecoplanet.tech",
+    "linkedInUrl": "https://www.linkedin.com/company/ecoplanet-green-operations",
+    "employeeCount": 109,
+    "foundedYear": 2022,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

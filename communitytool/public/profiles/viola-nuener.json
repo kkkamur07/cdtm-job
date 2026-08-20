@@ -1,0 +1,193 @@
+{
+  "id": "viola-nuener",
+  "name": "Viola Nuener",
+  "headline": "Chief of Staff @ ZenML // CDTM // TUM",
+  "avatar": {
+    "sm": "/avatars/viola-nuener-sm.webp",
+    "lg": "/avatars/viola-nuener.webp",
+    "blur": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAAAwBgCdASogACAAPtFWokuoJKMhsBgMAQAaCWgArC/UlX4y27lGB8UQbqD60liRIegupvlm6j4vufKAAP78eyf3MpUCd0P2hY3kqsxkzERbjIMRONJ295GGtaHGcgf5POk7wJcXO8po1CK/sUonZb+WCN7JZCBfq8T7FMudK/xdjUdFXzMt1uIIvbABh0/yEXbD4LX2scwD6o1gpdx/Rl86Fs1hSV0GQB3of9c3m7nrm3na2ASZLjji/WzqGiN06rpQogfYV5lZvq8CvT13Lj0QRAAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/viola-nuener",
+  "personId": 893,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "MSc in Consumer Science (TUM), BSC in Psychology (LMU)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Viola Nuener",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Chief of Staff",
+      "company": "ZenML",
+      "companyUrl": "https://www.linkedin.com/company/zenml",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Founders Associate",
+      "company": "ZenML",
+      "companyUrl": "https://www.linkedin.com/company/zenml",
+      "description": "ZenML is an open-source MLOps framework to create reproducible Machine Learning pipelines. A reoccurring struggle in machine learning is the large gap between the training part of the ML development and the post-training/deployment phase. ZenML aims to bridge that gap, by building a simple, open-source, pipeline framework aimed towards data scientists to create ML workflows that can be taken to production with minimum effort.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-03",
+      "end": "2026-02",
+      "dateRange": "Mar 2025 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Plantura GmbH",
+      "companyUrl": "https://www.linkedin.com/company/plantura",
+      "description": "As a vertically integrated direct-to-consumer brand, Plantura is thriving to make gardening more sustainable and ecologically friendly. To do so, we combine high-quality content on our website, plantura.garden, with sustainable products that make your garden blossom.\n\nSince our launch in 2017, we have grown our Plantura fan base to more than 1m hobby gardeners and continue to provide them with educational and inspiring content. In summer 2018, we launched our first product line, consisting of five organic and vegan fertilizers. Currently, we are expanding our product portfolio to include biological plant protection and soils with a low CO2 footprint.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2024-01",
+      "dateRange": "Jan 2023 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Venture Building",
+      "company": "MAP Venture Partners",
+      "companyUrl": null,
+      "description": "Building a new venture in the used and refurbished electronics space in South Africa and Egypt for the South African venture Builder MAP Venture Partners.",
+      "location": "Cape Town, Western Cape, South Africa",
+      "start": "2022-10",
+      "end": "2022-12",
+      "dateRange": "Oct 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Venture Analyst",
+      "company": "27pilots",
+      "companyUrl": "https://www.linkedin.com/company/27pilots",
+      "description": "27pilots helps companies to benefit strategically from startups through a breakthrough corporate venturing tool: The Venture Client model. \n\nInstead of acquiring non-controlling equity stake, the company buys the startup product, hence becoming a venture client rather than a venture investor. The objective is to harness a strategic benefit that emerges from applying the startup product to improve an existing or create a new product/service, process, business model, or even entire business. The startup solution is applied in a real business environment immediately, without being incubated or accelerated.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-11",
+      "end": "2022-07",
+      "dateRange": "Nov 2021 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Venture Analyst (via 27pilots)",
+      "company": "Open Bosch",
+      "companyUrl": "https://www.linkedin.com/company/open-bosch",
+      "description": "Open Bosch is the Venture Client unit of Bosch Group. It offers a unique approach for startups to establish long-term collaborations with Bosch.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-11",
+      "end": "2022-02",
+      "dateRange": "Nov 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Founders Associate",
+      "company": "foxxbee",
+      "companyUrl": "https://www.linkedin.com/company/foxxbee-deine-wohnung-dein-style",
+      "description": "foxxbee is a digital interior design service where customers can buy personalized interior designs online according to their individual taste and budget. With its digital approach foxxbee aims to make interior design accessible and affordable for everyone.",
+      "location": "Berlin, Germany",
+      "start": "2021-03",
+      "end": "2021-09",
+      "dateRange": "Mar 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Operations Intern",
+      "company": "Limehome GmbH",
+      "companyUrl": "https://www.linkedin.com/company/limehome",
+      "description": "Limehome is the digital world’s answer to the hotel industry of the 21st century. Its suites are located in prime locations across Germany and Austria and merge the top quality of the most respected hotels with all the advantages of an apartment.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-07",
+      "end": "2020-10",
+      "dateRange": "Jul 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Academy Consult München",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": "Academy Consult is a student-run consultancy where students learn to apply their theoretical knowledge in practice and provide companies with new inspirations in external consulting projects. \n\nConducted consulting projects covering a variety of topics:\n- Caterna Vision GmbH (12/2020): Pitch deck design for upcoming financing round\n- T-Systems International GmbH (03/2020 - 07/2020): Market analysis, development of a sales concept, and lead generation for an IIoT data intelligence platform in the public sector\n- ProGlove (Workaround GmbH) (10/2019 – 12/2019): Development of pricing for new software features as project lead of a team of three\n- T-Systems International GmbH (03/2019 - 06/2019): Development of a sales concept and lead generation for an IIoT data intelligence platform in several sectors (Automotive, Logistics, Manufacturing, Public)\n- CODEX Partners GmbH (08/2018 - 10/2018): Development of a recruiting strategy through analysis of target group requirements as well as the compilation of case studies",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-11",
+      "end": "2021-12",
+      "dateRange": "Nov 2017 – Dec 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "University of Melbourne",
+      "degree": "Master of Science - MS, Consumer Science",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Consumer Science",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Psychology",
+      "dateRange": "2017 – 2021"
+    }
+  ],
+  "skills": [
+    "Figma (Software)",
+    "R",
+    "Python",
+    "Java",
+    "Project Management",
+    "Statistical Data Analysis",
+    "Interpersonal Skills",
+    "Teamwork",
+    "Prototyping",
+    "Microsoft PowerPoint",
+    "Microsoft Excel"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "ZenML",
+    "tagline": "#Opensource #MLOps #Framework that integrates all your ML tools.\nRun ML pipelines on any stack with minimum effort!",
+    "description": "ZenML is an extensible, open-source MLOps framework for creating portable, production-ready MLOps pipelines. It's built for data scientists, ML Engineers, and MLOps Developers to collaborate as they develop to production. ZenML has simple, flexible syntax, is cloud- and tool-agnostic, and has interfaces/abstractions that are catered towards ML workflows. ZenML brings together all your favorite tools in one place so you can tailor your workflow to cater to your needs.",
+    "industry": "Information Technology & Services",
+    "website": "https://zenml.io/",
+    "linkedInUrl": "https://www.linkedin.com/company/zenml",
+    "employeeCount": 21,
+    "foundedYear": 2021,
+    "location": "Munich, Germany",
+    "specialities": [
+      "MLOps",
+      "ProductionML",
+      "reproducibleML",
+      "opensource",
+      "framework"
+    ]
+  }
+}

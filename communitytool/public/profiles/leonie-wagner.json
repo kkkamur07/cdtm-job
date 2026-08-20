@@ -1,0 +1,175 @@
+{
+  "id": "leonie-wagner",
+  "name": "Leonie Wagner",
+  "headline": "Co-Founder at Lumera Energy",
+  "avatar": {
+    "sm": "/avatars/leonie-wagner-sm.webp",
+    "lg": "/avatars/leonie-wagner.webp",
+    "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADwBQCdASogACAAPtFQpEwoJCOiMBgMAQAaCWQAxvWMCy05yLZYi2FUBa5R3iSgwtU+xIQxiK0IgAD+/mDGsx5giFwmH70Jq75sMa0oXjd6Hb5O+2b46ahCwX67GYgBWtkMymdAU3kNw6gVr5SKCYqBh2KS0DeQcwb0Fu64P2KMDHFnhq3bhAus9mY3Q2J42sv2wSZU1ZH8l4fexYWvnxK28si6/GVg2LRsFTcSoHyiSl0te9YJrl+sn/A/JSPioCvSYa2NVkXurXqJVXC0765q0q5znB2bhqpqgkcCzdng4hQE4AA="
+  },
+  "location": "Stanford, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/leonie-wagner",
+  "personId": 1114,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Leonie Wagner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Lumera Energy",
+      "companyUrl": "https://www.linkedin.com/company/lumera-energy",
+      "description": null,
+      "location": "On-site",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior AI Researcher",
+      "company": "Jua.ai",
+      "companyUrl": "https://www.linkedin.com/company/juaai",
+      "description": "GitHub - juaAI/stationbench: Benchmarking of weather forecasts based on station observations",
+      "location": "Zurich, Switzerland",
+      "start": "2024-07",
+      "end": "2025-03",
+      "dateRange": "Jul 2024 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "AI Resident",
+      "company": "X, the moonshot factory",
+      "companyUrl": "https://www.linkedin.com/company/x",
+      "description": null,
+      "location": "Mountain View, California, United States",
+      "start": "2023-11",
+      "end": "2024-05",
+      "dateRange": "Nov 2023 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Research Fellow",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "Cell membrane buckling governs early-stage ridge formation in butterfly wing scales",
+      "location": "Boston, Massachusetts, United States",
+      "start": "2021-10",
+      "end": "2022-01",
+      "dateRange": "Oct 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-02",
+      "end": "2021-04",
+      "dateRange": "Feb 2021 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Diehl Group",
+      "companyUrl": "https://www.linkedin.com/company/diehl-group",
+      "description": null,
+      "location": "Röthenbach an der Pegnitz, Bavaria, Germany",
+      "start": "2020-10",
+      "end": "2021-01",
+      "dateRange": "Oct 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Teaching assistant experimental physics",
+      "company": "University of Erlangen-Nuremberg",
+      "companyUrl": "https://www.linkedin.com/company/fau-erlangen-nürnberg",
+      "description": null,
+      "location": null,
+      "start": "2019-04",
+      "end": "2020-08",
+      "dateRange": "Apr 2019 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Consultant Intern",
+      "company": "quattron management consulting GmbH - Technology Transformers",
+      "companyUrl": "https://www.linkedin.com/company/quattron-gmbh",
+      "description": null,
+      "location": "Frankfurt am Main, Hesse, Germany",
+      "start": "2019-02",
+      "end": "2019-04",
+      "dateRange": "Feb 2019 – Apr 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Researcher, Computer Science",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Robotics, Cognition and Intelligence",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "FAU Erlangen-Nürnberg",
+      "degree": "Bachelor of Science - BS, Physics",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Lund University",
+      "degree": "Exchange semester, Physics",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Christoph-Jacob-Treu Gymnasium",
+      "degree": "Abitur",
+      "dateRange": "2008 – 2017"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "Lumera Energy",
+    "tagline": "Empowering commercial and industrial battery storage.",
+    "description": null,
+    "industry": "Services for Renewable Energy",
+    "website": "https://www.lumeraenergy.de",
+    "linkedInUrl": "https://www.linkedin.com/company/lumera-energy",
+    "employeeCount": 9,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

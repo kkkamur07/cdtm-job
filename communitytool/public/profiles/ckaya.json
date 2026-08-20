@@ -1,0 +1,216 @@
+{
+  "id": "ckaya",
+  "name": "Can Kaya",
+  "headline": "Driving Data-Driven Decisions | Head of BI & Analytics at Nansen | Transforming Insights into Action",
+  "avatar": {
+    "sm": "/avatars/ckaya-sm.webp",
+    "lg": "/avatars/ckaya.webp",
+    "blur": "data:image/webp;base64,UklGRooBAABXRUJQVlA4IH4BAABQBwCdASogACAAPtFWo0uoJKMhsAgBABoJbACdMoCpA4wO4Fv6VAEr/eQt89WTf0qoSzL+9f4zYxLAOMulhzdbg3AAAP7yVBK2mAXhrtAsiw7L1fVSzAR+MobDGweUk86mzG6f/nGfzrdtL6gGJXVw/ItNwauWrIQbypnUTWQMUIwG3gRlVANx4JVTq54hwku/kJ2MQJ7/ZDt/xDbeDqOt9QRd64OaI7zcLWwZFnvVDAOIZwifbzBLRDy4NaK62JkKZj85KTVfvsdBX9iv0lFK/XpWxAX9m4L110gU923A1x40VCbS8jp9Qo372mtCl19koAzzdg6KWqHzd3K7YhOYfki13Y+51PjmiRUK0IwZ3vTimFmiGaFfSP7tWc7a+3jRNLASEVnxzPWbGNwOkUNGLww4xHcfADOnfhboebXuqc7v/YKnXs+DYnBjAxBX4rLkLMFplAJJwBsxzW6iK47rl3JeHdd6fk81DynkA5AbTEs2A/zt1uU+zzAzZAAA"
+  },
+  "location": "Bangkok City, Thailand",
+  "linkedInUrl": "https://www.linkedin.com/in/ckaya",
+  "personId": 1058,
+  "classes": [
+    {
+      "id": 73,
+      "label": "Spring 2013",
+      "season": "Spring",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2013",
+  "major": "Wirtschaft mit Technologie",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Can Kaya",
+  "ca": null,
+  "summary": "Experience in SaaS, AI, consulting, e-commerce, crypto, fintech... Passionate about leveraging data-driven insights to drive growth and deliver impactful solutions across diverse industries.",
+  "positions": [
+    {
+      "title": "Head of BI & Analytics",
+      "company": "Nansen",
+      "companyUrl": "https://www.linkedin.com/company/nansen",
+      "description": null,
+      "location": null,
+      "start": "2022-08",
+      "end": null,
+      "dateRange": "Aug 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Business Intelligence Team Lead",
+      "company": "Bitwala",
+      "companyUrl": "https://www.linkedin.com/company/bitwala",
+      "description": null,
+      "location": null,
+      "start": "2021-04",
+      "end": "2022-07",
+      "dateRange": "Apr 2021 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Senior Data & Insights Manager",
+      "company": "Bitwala",
+      "companyUrl": "https://www.linkedin.com/company/bitwala",
+      "description": null,
+      "location": null,
+      "start": "2020-04",
+      "end": "2021-03",
+      "dateRange": "Apr 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Senior Analyst",
+      "company": "Delivery Hero",
+      "companyUrl": "https://www.linkedin.com/company/delivery-hero-se",
+      "description": null,
+      "location": "Berlin Metropolitan Area",
+      "start": "2017-10",
+      "end": "2020-03",
+      "dateRange": "Oct 2017 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Business Intelligence Manager",
+      "company": "Delivery Hero",
+      "companyUrl": "https://www.linkedin.com/company/delivery-hero-se",
+      "description": null,
+      "location": "Berlin Metropolitan Area",
+      "start": "2016-03",
+      "end": "2017-10",
+      "dateRange": "Mar 2016 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Product Management & BI",
+      "company": "ZenMate",
+      "companyUrl": "https://www.linkedin.com/company/zenguard-gmbh",
+      "description": null,
+      "location": "Berlin Metropolitan Area",
+      "start": "2014-10",
+      "end": "2016-02",
+      "dateRange": "Oct 2014 – Feb 2016",
+      "current": false
+    },
+    {
+      "title": "BI & Strategic Planning",
+      "company": "Experteer",
+      "companyUrl": "https://www.linkedin.com/company/experteer",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-11",
+      "end": "2013-09",
+      "dateRange": "Nov 2012 – Sep 2013",
+      "current": false
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Rocket Internet",
+      "companyUrl": "https://www.linkedin.com/company/rocket-internet-se",
+      "description": null,
+      "location": "Istanbul, Istanbul, Türkiye",
+      "start": "2011-11",
+      "end": "2012-09",
+      "dateRange": "Nov 2011 – Sep 2012",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Kartaca",
+      "companyUrl": "https://www.linkedin.com/company/kartaca",
+      "description": null,
+      "location": "Istanbul, Istanbul, Türkiye",
+      "start": "2010-01",
+      "end": "2011-01",
+      "dateRange": "Jan 2010 – Jan 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Boğaziçi University",
+      "degree": "Bachelor of Arts (B.A.), Management",
+      "dateRange": "2008 – 2012"
+    },
+    {
+      "school": "The Berlin School of Economics and Law",
+      "degree": "Exchange Semester, Business Administration",
+      "dateRange": "2011"
+    },
+    {
+      "school": "Istanbul Erkek Lisesi",
+      "degree": "Secondary Education",
+      "dateRange": "2002 – 2007"
+    }
+  ],
+  "skills": [
+    "E-commerce",
+    "Business Intelligence",
+    "Start-ups",
+    "Project Management",
+    "SQL",
+    "Web Analytics",
+    "Competitive Analysis",
+    "Product Management",
+    "Web Applications",
+    "Business Development",
+    "Linux",
+    "Customer Support",
+    "KPI Reports",
+    "HTML",
+    "Unix Shell Scripting",
+    "User Documentation",
+    "Google Data API",
+    "Data Warehousing",
+    "PowerPivot",
+    "Business Workflows",
+    "Supply Chain Management",
+    "International Project Experience",
+    "Localization",
+    "Amazon Web Services (AWS)",
+    "Tableau",
+    "ETL",
+    "Market Analysis",
+    "R"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Turkish"
+  ],
+  "company": {
+    "name": "Nansen",
+    "tagline": "Agentic Trading with Onchain Intelligence",
+    "description": "An AI Research Team In Your Pocket, 24/7",
+    "industry": "Data Infrastructure and Analytics",
+    "website": "https://nsn.ai/explore",
+    "linkedInUrl": "https://www.linkedin.com/company/nansen",
+    "employeeCount": 104,
+    "foundedYear": 2020,
+    "location": "Singapore, Singapore",
+    "specialities": [
+      "blockchain",
+      "crypto",
+      "data analytics",
+      "NFT",
+      "DeFi",
+      "data",
+      "decentralized finance",
+      "web3",
+      "cryptocurrency",
+      "SaaS"
+    ]
+  }
+}

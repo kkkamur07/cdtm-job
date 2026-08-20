@@ -1,0 +1,239 @@
+{
+  "id": "abraham-duplaa",
+  "name": "Abraham Duplaa",
+  "headline": "Head of Product @ Angle Health",
+  "avatar": {
+    "sm": "/avatars/abraham-duplaa-sm.webp",
+    "lg": "/avatars/abraham-duplaa.webp",
+    "blur": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAACwBQCdASogACAAPsFMoEunpCMht/qoAPAYCWIAuwGMZSq0zYyE6T2+hlJanu0KAb6MyrCsQAAA/vqqWg1KNLwbHnOEM0uqzZTunux5oCTgu2KKPvJcq/2te31HECRmOn9W/lapmYuw0ERh6WmT6j/y32xv4+aq1fL9WiUds3y6tcnxNlXMoXN6bd/ykBVQ9HrJBF1Moylh+sKXJSkGWGAfYyh65sWWy8VMdM/sII9ifygdF2Yqox9bDC0wCyQ2nUqRdexzUprdNG0odAy+HIrAAAA="
+  },
+  "location": "New York, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/abraham-duplaa",
+  "personId": 1264,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Abraham Duplaa",
+  "ca": null,
+  "summary": "Outcomes driven leader with experience in several industries",
+  "positions": [
+    {
+      "title": "Head of Product",
+      "company": "Angle Health",
+      "companyUrl": "https://www.linkedin.com/company/anglehealth",
+      "description": null,
+      "location": null,
+      "start": "2025-02",
+      "end": null,
+      "dateRange": "Feb 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Operations",
+      "company": "Angle Health",
+      "companyUrl": "https://www.linkedin.com/company/anglehealth",
+      "description": null,
+      "location": null,
+      "start": "2023-12",
+      "end": "2025-02",
+      "dateRange": "Dec 2023 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "San Francisco Bay Area",
+      "company": "Angle Health",
+      "companyUrl": "https://www.linkedin.com/company/anglehealth",
+      "description": "San Francisco Bay Area",
+      "location": null,
+      "start": "2023-05",
+      "end": "2023-12",
+      "dateRange": "May 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": null,
+      "start": "2022-10",
+      "end": "2023-04",
+      "dateRange": "Oct 2022 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Kyte",
+      "companyUrl": "https://www.linkedin.com/company/drivekyte",
+      "description": null,
+      "location": null,
+      "start": "2021-07",
+      "end": "2022-08",
+      "dateRange": "Jul 2021 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and CTO",
+      "company": "faktual (IP acquired by PEIQ)",
+      "companyUrl": "https://www.linkedin.com/company/faktually",
+      "description": "faktual is a NLP-supported research and content gathering suite. faktual does not only structure the process of information collection, it also pre-processes search results by extracting the most important ready2use facts, quotes and further information. faktual's full IP was acquired.",
+      "location": null,
+      "start": "2019-04",
+      "end": "2021-04",
+      "dateRange": "Apr 2019 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Developer Advocate",
+      "company": "HEAVY.AI",
+      "companyUrl": "https://www.linkedin.com/company/heavy-ai",
+      "description": "Traffic, Weather and Incidents: a 360 Degree View of California Commutes | OmniSci",
+      "location": null,
+      "start": "2019-02",
+      "end": "2020-02",
+      "dateRange": "Feb 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Volkswagen Data:Lab Munich",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2017-09",
+      "end": "2018-03",
+      "dateRange": "Sep 2017 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Drilling Engineer",
+      "company": "Southwestern Energy",
+      "companyUrl": "https://www.linkedin.com/company/southwestern-energy",
+      "description": null,
+      "location": null,
+      "start": "2015-07",
+      "end": "2016-03",
+      "dateRange": "Jul 2015 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Production Engineer",
+      "company": "Southwestern Energy",
+      "companyUrl": "https://www.linkedin.com/company/southwestern-energy",
+      "description": null,
+      "location": null,
+      "start": "2015-01",
+      "end": "2015-07",
+      "dateRange": "Jan 2015 – Jul 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Master's degree, Computer/Information Technology Administration and Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Computational Science and Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Penn State University",
+      "degree": "Bachelor of Science (BS), Petroleum and Natural Gas Engineering",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "PostgreSQL",
+    "SQL",
+    "Leadership",
+    "C++",
+    "Linux",
+    "Microsoft Office",
+    "Public Speaking",
+    "Microsoft Excel",
+    "Python (Programming Language)",
+    "Django",
+    "Flask",
+    "Customer Service",
+    "Docker Products",
+    "Communication",
+    "Data Science",
+    "Deep Learning",
+    "Data Analytics",
+    "Software Development",
+    "Project Management",
+    "Product Management",
+    "Teamwork",
+    "Data Analysis",
+    "Git",
+    "Agile Methodologies",
+    "Hadoop",
+    "Big Data",
+    "Scrum",
+    "Amazon Web Services (AWS)",
+    "Windows",
+    "Heroku",
+    "Computer Science",
+    "Algorithms",
+    "Matlab",
+    "Apache Spark",
+    "Data Engineering",
+    "Engineering",
+    "Oil & Gas",
+    "Pandas (Software)",
+    "C (Programming Language)",
+    "Representational State Transfer (REST)",
+    "Natural Language Processing (NLP)",
+    "Elasticsearch",
+    "Django REST Framework",
+    "BERT",
+    "Apache Airflow",
+    "Petroleum Engineering",
+    "Elastic Stack (ELK)",
+    "Technical Product Management",
+    "Netlify",
+    "python"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Spanish",
+    "German"
+  ],
+  "company": {
+    "name": "Angle Health",
+    "tagline": "Health insurance for the modern employee | anglehealth.com",
+    "description": "Angle Health isn’t just another health plan or TPA – we’re a frictionless health plan experience based in San Francisco, CA. Born in 2019 from a shared frustration with the status quo, we’ve modernized the health insurance experience. \n\nOur new angle? An AI-enabled, full-stack health platform with lightning-fast implementation. \n\nAs your trustworthy partner in health, we bring transparency, simplicity, and humanity to healthcare so people can live their best lives. That’s why we make it easy. \n\nWith Angle Health, you’ll enjoy unlimited access to our reliable and compassionate team of healthcare professionals who will guide you every step of the way.\n\nInterested in learning more? Visit anglehealth.com.",
+    "industry": "Insurance",
+    "website": "https://www.anglehealth.com",
+    "linkedInUrl": "https://www.linkedin.com/company/anglehealth",
+    "employeeCount": 133,
+    "foundedYear": 2019,
+    "location": "San Francisco, United States",
+    "specialities": [
+      "Health Benefit Plans",
+      "Employee Benefit Plans",
+      "Third Party Administrator",
+      "Self-funded Benefit Plans"
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "id": "armaghankhan",
+  "name": "Armaghan Ahmad Khan",
+  "headline": "Product @ Synthesia",
+  "avatar": {
+    "sm": "/avatars/armaghankhan-sm.webp",
+    "lg": "/avatars/armaghankhan.webp",
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAADQBQCdASogACAAPrlKnUunJCKht+gA4BcJYwDOdywTl6tiEhDd4aCnZq0sTSTXqVz7z78m0DhgAP7+euECe7XX/+JjkyJR/TAZM41PxMZt+z+G85yJWh7mO3EYUV+FHQ8/8u8Als564QVFlIz1nPsah7Oe4r6h8gFJbMRIQPG7llIoNnMnZYWRDu/b0gCZQ2bBIt4Zw0c3bSGIINergtv1b+5FY+Q+UuYHC5YvWFGxNqD9O/FxYPw46klgQBLtqWbFoe6vmvsSu7x8vj6TYCfsCNRjSV1/oS1IrwAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/armaghankhan",
+  "personId": 1162,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Communications Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Armaghan Khan",
+  "ca": null,
+  "summary": "Building Synthesia Studio to make video creation as easy as writing an email!",
+  "positions": [
+    {
+      "title": "Principal Product Manager",
+      "company": "Synthesia",
+      "companyUrl": "https://www.linkedin.com/company/synthesia-technologies",
+      "description": "Making Synthesia the best tool for enterprises to build, create and distribute L&D video content.",
+      "location": "London - Berlin",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Synthesia",
+      "companyUrl": "https://www.linkedin.com/company/synthesia-technologies",
+      "description": "Focusing on platform and growth for Synthesia Studio, the leading AI video creation platform.",
+      "location": "London - Berlin",
+      "start": "2023-03",
+      "end": "2024-12",
+      "dateRange": "Mar 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Scale AI",
+      "companyUrl": "https://www.linkedin.com/company/scaleai",
+      "description": "Led product management for Scale Nucleus, a data curation platform to accelerate ML model improvements.",
+      "location": "Berlin - San Francisco",
+      "start": "2021-11",
+      "end": "2023-02",
+      "dateRange": "Nov 2021 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Product Lead",
+      "company": "SiaSearch",
+      "companyUrl": "https://www.linkedin.com/company/siasearch",
+      "description": "Led product for SiaSearch's data curation platform. Acquired by Scale AI.",
+      "location": "Berlin, Germany",
+      "start": "2019-10",
+      "end": "2021-10",
+      "dateRange": "Oct 2019 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Ventures Analyst",
+      "company": "Plug and Play Tech Center",
+      "companyUrl": "https://www.linkedin.com/company/plug-and-play-tech-center",
+      "description": "Worked closely with innovation arms of top tier companies in insurance (Allianz, MunicRe, SwissRe etc.) and retail (Lidl, MediaMarkt, S.Oliver etc.) space to help search, select and integrate innovative startup solutions. Conducted investment sourcing and due diligence. Initiated and executed European deeptech landscape analysis.",
+      "location": "Munich Area, Germany",
+      "start": "2018-04",
+      "end": "2019-08",
+      "dateRange": "Apr 2018 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Product Consultant",
+      "company": "adidas",
+      "companyUrl": "https://www.linkedin.com/company/adidas",
+      "description": "Worked on new potential products in the field of fitness. Deeply analyzed the driving forces in fitness technology and mapped user journeys.",
+      "location": "Munich Area, Germany",
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Communication Engineering, Electrical, Electronics and Communications Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Management and Technology",
+      "dateRange": null
+    },
+    {
+      "school": "National University of Sciences and Technology (NUST)",
+      "degree": "Bachelor of Engineering (BEng), Electrical and Electronics Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Lahore Grammar School",
+      "degree": "GCE Advanced Level",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Electrical Engineering",
+    "Analytical Skills",
+    "Entrepreneurship",
+    "Start-ups",
+    "Business Analysis",
+    "Programming",
+    "Product Development",
+    "Research",
+    "Instrumentation",
+    "C++",
+    "C",
+    "Matlab",
+    "Python (Programming Language)",
+    "Microsoft Office",
+    "Team Leadership",
+    "Teamwork",
+    "Critical Thinking",
+    "Venture Capital"
+  ],
+  "languages": [
+    "English",
+    "Urdu"
+  ],
+  "company": {
+    "name": "Synthesia",
+    "tagline": "Create studio-quality videos with AI avatars and voiceovers in 140+ languages. Trusted by Reuters, BBC, Amazon and more.",
+    "description": "Synthesia is the #1 rated AI video platform for business. Thousands of companies use it to create videos in 160 languages, saving up to 80% of their time and budget. 👉 Trusted by Zoom, Xerox, Teleperformance, Amazon and more.",
+    "industry": "Software Development",
+    "website": "https://synthesia.io",
+    "linkedInUrl": "https://www.linkedin.com/company/synthesia-technologies",
+    "employeeCount": 757,
+    "foundedYear": 2017,
+    "location": "London, United Kingdom",
+    "specialities": []
+  }
+}

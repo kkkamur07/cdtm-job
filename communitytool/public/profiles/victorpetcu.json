@@ -1,0 +1,158 @@
+{
+  "id": "victorpetcu",
+  "name": "Victor Petcu",
+  "headline": "Munich",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/victorpetcu",
+  "personId": 1939,
+  "classes": [
+    {
+      "id": 68,
+      "label": "Fall 2010",
+      "season": "Fall",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2010",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Victor Petcu",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Master's Thesis",
+      "company": "The Mobility House",
+      "companyUrl": "https://www.linkedin.com/company/the-mobility-house",
+      "description": "Forecasting of Electric Vehicle behavior using ARIMA processes",
+      "location": null,
+      "start": "2016-04",
+      "end": "2016-09",
+      "dateRange": "Apr 2016 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "Trade Finance and Project Management",
+      "company": "Hilton Lee International",
+      "companyUrl": null,
+      "description": null,
+      "location": "Johannesburg, South Africa",
+      "start": "2013-04",
+      "end": "2013-06",
+      "dateRange": "Apr 2013 – Jun 2013",
+      "current": false
+    },
+    {
+      "title": "Bachelor's Thesis",
+      "company": "BMW",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2012-09",
+      "end": "2012-11",
+      "dateRange": "Sep 2012 – Nov 2012",
+      "current": false
+    },
+    {
+      "title": "Supply Chain Operations",
+      "company": "O'Mage Supply and Distribution",
+      "companyUrl": null,
+      "description": null,
+      "location": "Johannesburg, South Africa",
+      "start": "2011-10",
+      "end": "2011-12",
+      "dateRange": "Oct 2011 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Founder and Director of New Business Development",
+      "company": "The Consulting Academy",
+      "companyUrl": "https://www.linkedin.com/company/the-consulting-academy-johannesburg",
+      "description": "Co-founded the first student-run consulting firm in South Africa.",
+      "location": "Johannesburg, South Africa",
+      "start": "2011-01",
+      "end": "2011-12",
+      "dateRange": "Jan 2011 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Founder and CEO",
+      "company": "Rectify",
+      "companyUrl": null,
+      "description": null,
+      "location": "Johannesburg, South Africa",
+      "start": "2008-07",
+      "end": "2011-12",
+      "dateRange": "Jul 2008 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Logistics",
+      "company": "Hilton Lee International",
+      "companyUrl": null,
+      "description": null,
+      "location": "Johannesburg, South Africa",
+      "start": "2007-12",
+      "end": "2011-05",
+      "dateRange": "Dec 2007 – May 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master’s Degree, Management",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master’s Degree, Electrical Engineering",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Georgia Institute of Technology",
+      "degree": "Visiting Scholar",
+      "dateRange": "2012"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor's Degree, Technology Management",
+      "dateRange": "2010 – 2016"
+    },
+    {
+      "school": "Deutsche Internationale Schule Johannesburg",
+      "degree": "High School",
+      "dateRange": "2007"
+    }
+  ],
+  "skills": [
+    "Mobile Devices",
+    "Entrepreneurship",
+    "Logistics",
+    "Project Management",
+    "Product Development",
+    "International Trade",
+    "IT Management",
+    "Supply Chain Management",
+    "Digital Marketing",
+    "Sales",
+    "Strategy",
+    "Business Strategy",
+    "Management Consulting",
+    "Mobile Applications"
+  ],
+  "languages": [
+    "Afrikaans",
+    "English"
+  ],
+  "company": null
+}

@@ -1,0 +1,180 @@
+{
+  "id": "darko-zikic-1b33b3166",
+  "name": "Darko Zikic",
+  "headline": "Computer Vision for Industrial Robotics",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/darko-zikic-1b33b3166",
+  "personId": 1619,
+  "classes": [
+    {
+      "id": 52,
+      "label": "Fall 2002",
+      "season": "Fall",
+      "year": 2002,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2002",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Darko Zikic",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Software Engineer (Computer Vision)",
+      "company": "Intrinsic",
+      "companyUrl": "https://www.linkedin.com/company/intrinsic",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-03",
+      "end": null,
+      "dateRange": "Mar 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Traffic modelling for navigation",
+      "company": "Lyft",
+      "companyUrl": "https://www.linkedin.com/company/lyft",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Real-time traffic modelling for navigation",
+      "company": "Lyft",
+      "companyUrl": "https://www.linkedin.com/company/lyft",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Staff Software Engineer (Machine Learning and Data Science)",
+      "company": "Lyft",
+      "companyUrl": "https://www.linkedin.com/company/lyft",
+      "description": null,
+      "location": null,
+      "start": "2021-08",
+      "end": "2022-02",
+      "dateRange": "Aug 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer (Machine Learning and Data Science)",
+      "company": "Lyft",
+      "companyUrl": "https://www.linkedin.com/company/lyft",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2021-07",
+      "dateRange": "Apr 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer (Machine Learning and Computer Vision)",
+      "company": "Lyft",
+      "companyUrl": "https://www.linkedin.com/company/lyft",
+      "description": "Computer Vision and Machine Learning for Autonomous Driving at Lyft Level5",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-05",
+      "end": "2021-03",
+      "dateRange": "May 2018 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Patent Examiner",
+      "company": "European Patent Office",
+      "companyUrl": "https://www.linkedin.com/company/european-patent-office",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2015-01",
+      "end": "2018-02",
+      "dateRange": "Jan 2015 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Post-Doc Researcher",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Research in Medical Image Analysis, Computer Vision and Machine Learning",
+      "location": "Cambridge, England, United Kingdom",
+      "start": "2011-12",
+      "end": "2014-12",
+      "dateRange": "Dec 2011 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Medical Image Analysis, Computer Vision and Numerical Optimization",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2006-04",
+      "end": "2011-09",
+      "dateRange": "Apr 2006 – Sep 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr. rer. nat. (PhD), Computer Science",
+      "dateRange": "2006 – 2011"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diploma, Computer Science",
+      "dateRange": "2000 – 2006"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2002 – 2004"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Physics",
+      "dateRange": "1999 – 2000"
+    }
+  ],
+  "skills": [
+    "Machine Learning",
+    "Computer Vision",
+    "Research",
+    "Optimization",
+    "Medical Imaging",
+    "Image Processing",
+    "Pattern Recognition",
+    "Computer Science",
+    "Image Analysis",
+    "Computer Aided Diagnosis",
+    "Autonomous Vehicles"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Intrinsic",
+    "tagline": null,
+    "description": "Intrinsic is an AI robotics group at Google. Our mission is to democratize intelligent robotics for millions more businesses, entrepreneurs, and developers. We are a multidisciplinary team of engineers, roboticists, designers, and technologists who are passionate about unlocking the creative and economic potential of industrial robotics.",
+    "industry": "Software Development",
+    "website": "https://www.intrinsic.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/intrinsic",
+    "employeeCount": 296,
+    "foundedYear": 2021,
+    "location": "Mountain View, United States",
+    "specialities": []
+  }
+}

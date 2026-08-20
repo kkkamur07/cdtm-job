@@ -1,0 +1,165 @@
+{
+  "id": "ria-rosenauer",
+  "name": "Ria Rosenauer",
+  "headline": "Playing with atoms @Caltech",
+  "avatar": {
+    "sm": "/avatars/ria-rosenauer-sm.webp",
+    "lg": "/avatars/ria-rosenauer.webp",
+    "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAACwBgCdASogACAAPsFOn0unpCKht/qoAPAYCWQAtRrz4L7srHKu79/C+tdEnIpSMkuFRw5wQPX9Aj2XnxuFAAD+/pOrPqYzfKHfqUjzX2Dk8DwfDyHEDUal0N32aUZU5DyvFWrJhrRqFZkszrKHHPqA4zSis3TcWwm5URxHcrXQ5ZFjKPsGVlgd3/Y3rRBaD54hwotSgCvFMd03d/7cObk0mzgbpSoMIOvpMXLOkqB8v9XiBj22z6Y8N/6BikfOPGHJNSSk1InY8GiYnpQmIFHEm5fcv0ppO7mlEx/MqcUX9vjX4Jhb3mirKgxQj6OttcAAAA=="
+  },
+  "location": "United States, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/ria-rosenauer",
+  "personId": 1036,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Physics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Ria Rosenauer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Intern",
+      "company": "planqc",
+      "companyUrl": "https://www.linkedin.com/company/planqc",
+      "description": null,
+      "location": null,
+      "start": "2024-10",
+      "end": "2025-02",
+      "dateRange": "Oct 2024 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "founders associate intern",
+      "company": "planqc",
+      "companyUrl": "https://www.linkedin.com/company/planqc",
+      "description": null,
+      "location": null,
+      "start": "2024-09",
+      "end": "2024-10",
+      "dateRange": "Sep 2024 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Wissenschaftliche Hilfskraft",
+      "company": "Max Planck Institute of Quantum Optics",
+      "companyUrl": "https://www.linkedin.com/company/max-planck-institute-of-quantum-optics",
+      "description": null,
+      "location": "Bloch group, MQV Lab",
+      "start": "2024-04",
+      "end": "2025-02",
+      "dateRange": "Apr 2024 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Werkstudent",
+      "company": "Rohde & Schwarz",
+      "companyUrl": "https://www.linkedin.com/company/rohde-schwarz",
+      "description": "Innovationsabteilung Quantentechnologien",
+      "location": null,
+      "start": "2023-03",
+      "end": "2024-03",
+      "dateRange": "Mar 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Wissenschaftliche Hilfskraft",
+      "company": "Max Planck Institute of Quantum Optics",
+      "companyUrl": "https://www.linkedin.com/company/max-planck-institute-of-quantum-optics",
+      "description": null,
+      "location": null,
+      "start": "2022-10",
+      "end": "2023-07",
+      "dateRange": "Oct 2022 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Werkstudent",
+      "company": "OmicEra Diagnostics GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-05",
+      "end": "2021-11",
+      "dateRange": "May 2020 – Nov 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Caltech",
+      "degree": "Masters thesis, Physics",
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Quantum science and technology",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, TUM-BWL",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Physics",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "University of Stuttgart",
+      "degree": "Early studies of Analysis I and II",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Karls-Gymnasium",
+      "degree": "Abitur",
+      "dateRange": "2011 – 2019"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "French",
+    "Latin"
+  ],
+  "company": {
+    "name": "planqc",
+    "tagline": "creating quantum computers atom by atom",
+    "description": "planqc's quantum computers store information in individual atoms – nature's best qubits. Quantum information is processed by arranging these qubits in highly scalable arrays and manipulating them with precisely controlled laser pulses. planqc’s unique combination of quantum technologies is the fastest way to scale to thousands of qubits, a prerequisite for industry-relevant quantum advantage.\n\nplanqc's founding team combines decades of international research on neutral-atom quantum technologies. Our quantum computers are built on the precision of the world’s best atomic clocks, the world’s best quantum gas microscopes, and high-speed Rydberg gates.\n\nplanqc is the first startup to emerge from the Munich Quantum Valley, which with its vast network of research institutes and industrial partners fosters a unique quantum ecosystem for startups.",
+    "industry": "Computer Hardware Manufacturing",
+    "website": "http://www.planqc.eu",
+    "linkedInUrl": "https://www.linkedin.com/company/planqc",
+    "employeeCount": 125,
+    "foundedYear": 2022,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Quanten Computing",
+      "Quanten Algorithmen",
+      "Quanten Software",
+      "neutrale Atome",
+      "Quantum Computing as a Service",
+      "QCaaS"
+    ]
+  }
+}

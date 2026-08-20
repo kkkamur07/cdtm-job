@@ -1,0 +1,148 @@
+{
+  "id": "federico-harjes",
+  "name": "Federico Harjes Ruiloba",
+  "headline": "CS @ LMU | CDTM | RelAI",
+  "avatar": null,
+  "location": "Zürich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/federico-harjes",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "I am a student and research assistant at the LMU Munich. One of my primary fields of research is the overlap between Quantum Computing and AI, having worked on projects connecting Deep Learning models with Quantum Algorithms for Siemens and the LMU. Explainable AI is another personal point of interest, especially as a tool for AI Safety and Governance.",
+  "positions": [
+    {
+      "title": "Graduate Research Fellow",
+      "company": "relAI Konrad Zuse School of Excellence",
+      "companyUrl": "https://www.linkedin.com/company/relai-konrad-zuse-school-of-excellence",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Research Assistant at the Chair for Mobile and Distributed Systems at the LMU Munich, with a focus on Quantum Computing and Quantum Information Science.",
+      "location": "Germany",
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Machine Learning Researcher",
+      "company": "Lyceum",
+      "companyUrl": "https://www.linkedin.com/company/lyceum-technology",
+      "description": "As a Machine Learning Researcher at Lyceum, my goal is to work on the task of runtime prediction. The goal is to create a model capable of predicting different properties of a program, such as the expected runtime on different hardware, the memory consumption or the latency. \n\nFor this task, I'll first improve and optimize an existing pipeline capable of taking any snippet of code (for now optimized to deep learning models), and estimate the runtime of the given code, or in this case, the training / inference time of the model. Later, I will create my own pipeline, managing large training data and proposing alternative, state-of-the-art architectures.",
+      "location": "Zurich, Switzerland",
+      "start": "2025-10",
+      "end": "2026-01",
+      "dateRange": "Oct 2025 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Student Intern",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "University project in cooperation with Siemens for the task of\nQuantum Error Mitigation in the presence of noise. Intelligent Quantum Circuit Design and Discovery with PyTorch.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-10",
+      "end": "2024-03",
+      "dateRange": "Oct 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Calculus Tutor",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Teaching of two weekly Calculus classes at the Mathematical\nInstitute under Priv.-Doz. Dr. Peter Philip. Correction of weekly worksheets and final exams.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-10",
+      "end": "2023-04",
+      "dateRange": "Oct 2022 – Apr 2023",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Deutsche Schule La Paz",
+      "degree": "Abitur",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Machine Learning",
+    "Java",
+    "Matplotlib",
+    "NumPy",
+    "Generative Adversarial Networks (GANs)",
+    "Communication",
+    "Sequence Models",
+    "Hyperparameter Optimization",
+    "Convolutional Neural Networks (CNN)",
+    "Neural Networks",
+    "Generative AI",
+    "MLOps",
+    "Python (Programming Language)",
+    "Computer Vision",
+    "University Teaching",
+    "Calculus",
+    "Public Speaking",
+    "PyTorch",
+    "Qiskit",
+    "Deep Learning",
+    "Analytical Skills",
+    "Creative Problem Solving",
+    "Programming",
+    "Theoretical Computer Science",
+    "Quantum Computing",
+    "Qualitative Research",
+    "Quantitative Research",
+    "Topic Modeling",
+    "Quantum Information"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "relAI Konrad Zuse School of Excellence",
+    "tagline": "relAI Konrad Zuse School of Excellence",
+    "description": "relAI’s research mission is to train future generations of AI experts in Germany who combine technical brilliance with awareness of the importance of the reliability of AI. As a central component of the Munich AI ecosystem, relAI is committed to making artificial intelligence more safe, secure, responsible and protective regarding the privacy of individuals. It encourages responsible use to exploit AI’s vast potential for the benefit of humanity, to advance insight into and debate on machine learning including its ethical and societal dimensions, and to strengthen “AI made in Germany”.",
+    "industry": "Research Services",
+    "website": "https://zuseschoolrelai.de/home",
+    "linkedInUrl": "https://www.linkedin.com/company/relai-konrad-zuse-school-of-excellence",
+    "employeeCount": 46,
+    "foundedYear": null,
+    "location": "Garching bei München, Germany",
+    "specialities": []
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "id": "kairiemenschneider",
+  "name": "Kai Riemenschneider",
+  "headline": "Product @ Entrix | Intelligent Energy",
+  "avatar": {
+    "sm": "/avatars/kairiemenschneider-sm.webp",
+    "lg": "/avatars/kairiemenschneider.webp",
+    "blur": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAADwBQCdASogACAAPtFSoUuoJKMhsAgBABoJQBm8BO9ACnnSiGLsP0o+tXThTiqLtt0ipHLiapdfAAD++6Xyrza5vRF/f6pfpP0K/N6KkZOTMVOrjWwAl92X4Y+6Q/rtTA0qCa4IpKtP9uoQwFuTqnILdbxJCWTX5IZpII7fIS0Dfy++pnG3Puy/S0KMGeABvCu+H20GNkVbS775Hf89FB0knD5WfVWhfbd/rOVCdJLjGo4k7YCC7R/OaBUfy6AdBfWUfQrkn88czyFUKMaNtb37gBzuzIhngkQ9HLd6IAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/kairiemenschneider",
+  "personId": 964,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Kai Riemenschneider",
+  "ca": null,
+  "summary": "Tech x Sustainability",
+  "positions": [
+    {
+      "title": "Senior Product Manager",
+      "company": "Entrix",
+      "companyUrl": "https://www.linkedin.com/company/entrixenergy",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "econvio",
+      "companyUrl": "https://www.linkedin.com/company/econvio",
+      "description": "Europe's building stock is powered by dirty and expensive energy.\nWith econvio, we transform buildings into active, intelligent components of a connected energy system. Reducing energy costs and carbon emissions.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-09",
+      "end": "2025-04",
+      "dateRange": "Sep 2022 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "Head of Operations",
+      "company": "Orbem",
+      "companyUrl": "https://www.linkedin.com/company/orbem-ai",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-08",
+      "end": "2022-08",
+      "dateRange": "Aug 2020 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Visiting Venture Architect",
+      "company": "BCG Digital Ventures",
+      "companyUrl": "https://www.linkedin.com/company/bcg-digital-ventures",
+      "description": null,
+      "location": "Berlin Metropolitan Area",
+      "start": "2019-11",
+      "end": "2019-12",
+      "dateRange": "Nov 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Berlin Metropolitan Area",
+      "start": "2019-09",
+      "end": "2019-10",
+      "dateRange": "Sep 2019 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "Climedo Health GmbH",
+      "companyUrl": "https://www.linkedin.com/company/climedo",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-03",
+      "end": "2019-08",
+      "dateRange": "Mar 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Analyst - Impact Investing",
+      "company": "Uncap - Unconventional Capital",
+      "companyUrl": "https://www.linkedin.com/company/uncap-io",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-02",
+      "end": "2019-04",
+      "dateRange": "Feb 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "President",
+      "company": "180 Degrees Consulting Munich",
+      "companyUrl": "https://www.linkedin.com/company/180dcmuc",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-02",
+      "end": "2019-03",
+      "dateRange": "Feb 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Intern Risk Consulting",
+      "company": "PwC Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/pwc-deutschland",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-01",
+      "end": "2018-03",
+      "dateRange": "Jan 2018 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Intern IT Consulting",
+      "company": "CGI",
+      "companyUrl": "https://www.linkedin.com/company/cgi",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-10",
+      "end": "2017-12",
+      "dateRange": "Oct 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Head of Human Resources",
+      "company": "180 Degrees Consulting Munich",
+      "companyUrl": "https://www.linkedin.com/company/180dcmuc",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-03",
+      "end": "2018-02",
+      "dateRange": "Mar 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "180 Degrees Consulting Munich",
+      "companyUrl": "https://www.linkedin.com/company/180dcmuc",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-10",
+      "end": "2017-02",
+      "dateRange": "Oct 2016 – Feb 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, Information Management",
+      "dateRange": "2020"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Business Administration",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), PSYCHOLOGY",
+      "dateRange": "2014 – 2017"
+    }
+  ],
+  "skills": [
+    "Projektmanagement",
+    "Leadership",
+    "Microsoft Office",
+    "Research",
+    "SPSS",
+    "Adobe Creative Suite",
+    "Visual Basic for Applications (VBA)",
+    "Microsoft PowerPoint"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Entrix",
+    "tagline": "Beyond Trading",
+    "description": "Beyond Trading\nWe are an energy trader and market leader for trading flexible energy systems in Europe.\nBeyond AI-powered trading, Entrix provides innovative solutions for long-term revenue security and grid-supportive battery operation. With our full-service package, we support customers throughout every project phase – from technical design and integration, to continuous optimization, all the way to 24/7 operational support. That includes adapting to changing market conditions and unlocking new revenue opportunities.\n\nWith more than 3 GW and 8.5 GWh as well as 70 battery storage assets under contract, Entrix is active in Germany, Poland, Italy, Spain, and Portugal, with offices in Munich, Warsaw, Milan, and Madrid. Entrix has been pioneering battery optimization in Germany by managing one of the country’s first large-scale storage projects – and is now the trusted partner of leading infrastructure players such as Encavis, MEAG (Munich Re), as well as a wide range of local utilities.​",
+    "industry": "Services for Renewable Energy",
+    "website": "https://www.entrixenergy.com",
+    "linkedInUrl": "https://www.linkedin.com/company/entrixenergy",
+    "employeeCount": 144,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Energy Storage",
+      "Battery Energy Storage System",
+      "Green Energy",
+      "Renewables",
+      "Battery Storage",
+      "Power Trading",
+      "Energy Transition",
+      "Energy Management",
+      "Asset Management",
+      "Erneuerbare Energien",
+      "Climate Tech",
+      "Batteriespeicher",
+      "Batteriespeichersystem",
+      "Energiewende",
+      "Grüne Energie",
+      "Energiespeicher",
+      "Energy",
+      "Energie",
+      "Battery",
+      "Artificial Intelligence",
+      "Künstliche Intelligenz",
+      "Technology",
+      "Technologie",
+      "Algorithms",
+      "Energy Trading",
+      "Energiehandel",
+      "Smart Energy",
+      "Optimization Platform",
+      "Trading Platform",
+      "Energy Network",
+      "Virtual Power Plants",
+      "Virtuelle Kraftwerke",
+      "Batteriegroßspeicher",
+      "Grid-Scale Battery Storage"
+    ]
+  }
+}

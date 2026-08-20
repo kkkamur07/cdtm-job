@@ -1,0 +1,200 @@
+{
+  "id": "razvan-ion-radulescu",
+  "name": "Razvan Ion Radulescu",
+  "headline": "Cofounder & CTO @ Bevel | CDTM | UTCP",
+  "avatar": {
+    "sm": "/avatars/razvan-ion-radulescu-sm.webp",
+    "lg": "/avatars/razvan-ion-radulescu.webp",
+    "blur": "data:image/webp;base64,UklGRgABAABXRUJQVlA4IPQAAAAwBgCdASogACAAPsFKoEunpCMht/qoAPAYCWoAtt0ABTyK2ITyTTGWiDWcCrYSW6Wtd6mtEkiidgoAAP7+epsd3X/OGnqcGBo2XC6b9nAYHBx1moQJx9Z5WFfRvcGOX9L7Q7mr+ZciYvv+BeA7wAswpPuc7ODfkhxNLPewXFf+YRvWivy/CZDch/ZjvNmbkVkcwyYExZGgZKtYV5nuTZb4OJsWp0cPKZBcqWbpqhYGKg9VXlHQQSsmnxY7ZqDWL3+ZHjAMBoKS3340Wyqc1hIdOkMS4t5Nie95TxAPOWl8+zNAzfnCs60SlaKcZUfu6iowgAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/razvan-ion-radulescu",
+  "personId": 866,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Computer Science with specialization in Neuroscience",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Razvan Ion Radulescu",
+  "ca": null,
+  "summary": "I love working with others, creating new things and growing along the way.",
+  "positions": [
+    {
+      "title": "Author and Maintainer",
+      "company": "UTCP",
+      "companyUrl": "https://www.linkedin.com/company/universal-tool-calling-protocol",
+      "description": "UTCP is a lightweight, secure, and scalable standard that enables AI agents and applications to discover and call tools directly using their native protocols - no wrapper servers required.\n\nThe Universal Tool Calling Protocol (UTCP) is a fully open source project with the goal of being entirely community-driven. We aim to create a modern, flexible, and scalable standard for defining and interacting with tools across various communication protocols.",
+      "location": null,
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Bevel",
+      "companyUrl": "https://www.linkedin.com/company/bevel-software",
+      "description": null,
+      "location": null,
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Project Student - Product Development",
+      "company": "avi",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": "Product development project as part of the CDTM program",
+      "location": null,
+      "start": "2023-10",
+      "end": "2024-01",
+      "dateRange": "Oct 2023 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Ebenbuild",
+      "companyUrl": "https://www.linkedin.com/company/ebenbuild",
+      "description": "Business strategy student consulting as part of the CDTM program",
+      "location": null,
+      "start": "2023-04",
+      "end": "2023-07",
+      "dateRange": "Apr 2023 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Full Stack Engineer",
+      "company": "Be | Shaping the Future Germany.",
+      "companyUrl": "https://www.linkedin.com/company/be-shaping-the-future-germany",
+      "description": null,
+      "location": null,
+      "start": "2022-03",
+      "end": "2024-03",
+      "dateRange": "Mar 2022 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Full Stack Developer & Team Lead",
+      "company": "Fortech",
+      "companyUrl": "https://www.linkedin.com/company/fortech",
+      "description": "Coordinated by a mentor from Fortech Brasov, a team of 6 students had developed an Android app using  Android Studio and Firebase. This app was presented in DPIT Software Development Contest.",
+      "location": null,
+      "start": "2019-07",
+      "end": "2019-10",
+      "dateRange": "Jul 2019 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Software Test Engineer",
+      "company": "Pentalog",
+      "companyUrl": "https://www.linkedin.com/company/pentalog",
+      "description": "Pentalog Estival Experience 2019",
+      "location": null,
+      "start": "2019-06",
+      "end": "2019-06",
+      "dateRange": "Jun 2019 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Product Manager, Team Lead & Lead Programmer",
+      "company": "Krondev Entertainment",
+      "companyUrl": null,
+      "description": "I created my own indie game studio with 4 other friends. We launched our first title, Society's Paradigms, on Steam.",
+      "location": null,
+      "start": "2019-04",
+      "end": "2022-10",
+      "dateRange": "Apr 2019 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Unity Developer",
+      "company": "Pentalog",
+      "companyUrl": "https://www.linkedin.com/company/pentalog",
+      "description": "Pentalog Estival Experience 2018",
+      "location": null,
+      "start": "2018-06",
+      "end": "2018-06",
+      "dateRange": "Jun 2018 – Jun 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Informatics",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Abroad Thesis, Computer Science",
+      "dateRange": "2024"
+    },
+    {
+      "school": "CNI \"Grigore Moisil\" Brasov",
+      "degree": "High School Diploma, Mathematics and Computer Science",
+      "dateRange": "2017 – 2021"
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Java",
+    "Leadership",
+    "C++",
+    "Communication",
+    "Problem Solving",
+    "Creative Problem Solving",
+    "German",
+    "English",
+    "Software Development",
+    "C#",
+    "Unity",
+    "Android",
+    "Spring Boot",
+    "Emotional Intelligence",
+    "Self Learning",
+    "Love Of Learning",
+    "Perseverant",
+    "Romanian"
+  ],
+  "languages": [
+    "Romanian",
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Bevel",
+    "tagline": "We de-risk modernization of critical legacy applications.",
+    "description": "At Bevel, our mission is to create the most fulfilling workforce in the world, by empowering our workers with unique opportunities for meaningful work. For us, that means tackling one of the most pressing problems in our generation: the innovation bottleneck of legacy code.\n\nAs such, we help companies unlock the full potential of their legacy code. Bevel's AI tool enables developer teams work more efficiently with complex codebases by helping them extract, understand and trace the embedded business logic.\n\nWhether you're a small team or a large enterprise facing the complexity of legacy software, Bevel provides a seamless, secure, and scalable solution. Together, we can turn legacy code into an opportunity for growth, innovation, and a more fulfilling work environment for your teams. Let's transform your legacy systems and drive your business forward.",
+    "industry": "Software Development",
+    "website": "https://www.bevel.software/",
+    "linkedInUrl": "https://www.linkedin.com/company/bevel-software",
+    "employeeCount": 3,
+    "foundedYear": 2024,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Developer Tools",
+      "Legacy Software",
+      "Technical Debt"
+    ]
+  }
+}

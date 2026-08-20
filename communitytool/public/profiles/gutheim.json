@@ -1,0 +1,189 @@
+{
+  "id": "gutheim",
+  "name": "Philipp Gutheim",
+  "headline": "Supply Chain Executive and Board Member | ex-Google",
+  "avatar": null,
+  "location": "San Francisco Bay, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/gutheim",
+  "personId": 1868,
+  "classes": [
+    {
+      "id": 63,
+      "label": "Spring 2008",
+      "season": "Spring",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2008",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Philipp Gutheim",
+  "ca": null,
+  "summary": "I’m the founder & CEO of Glacis. We help supply chain teams get more visibility, control and efficiency in their processes to reduce costs and increase service quality. We do that by eliminating manual communication with service providers, coordination with suppliers, rekeying of documents, and cross-system handoffs between ERPs, TMSs - so that teams close loops faster, exceptions resolve automatically, and leaders operate on clean, real-time data.\n\nI started in supply chain 10 years ago when co-founding an ocean visibility provider (Terminal 49), by working out of the office of a drayage trucking company at the port for 2 years. Prior to that, I ran strategy for a $2.5B advertiser segment at Google and and co-founded LeadGenius.\n\nI’m a Y Combinator alum and a former Forbes 30 Under 30 honoree. I hold two master’s degrees (Computer Science; Information Management) from UC Berkeley and a bachelor’s in business.\n\nWhat I’m focused on now\n- Shipping reliable agent workflows that do real work (not demos)\n- Measurable ops impact (cycle time, touch reduction, on-time delivery)\n- Seamless change management for busy logistics teams\n- If you lead transportation or supply chain execution and want to remove manual work—or pilot agentic automation—message me and let’s compare notes.",
+  "positions": [
+    {
+      "title": "Founder",
+      "company": "Glacis",
+      "companyUrl": "https://www.linkedin.com/company/glacisinc",
+      "description": "AI-powered end-to-end Supply Chain Execution\nwww.glacis.com",
+      "location": null,
+      "start": "2024-04",
+      "end": null,
+      "dateRange": "Apr 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Product, New Verticals",
+      "company": "Rappi",
+      "companyUrl": "https://www.linkedin.com/company/rappi",
+      "description": null,
+      "location": null,
+      "start": "2021-04",
+      "end": "2024-05",
+      "dateRange": "Apr 2021 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Co-Founder | Board Member",
+      "company": "Terminal49",
+      "companyUrl": "https://www.linkedin.com/company/terminal49",
+      "description": null,
+      "location": null,
+      "start": "2019-04",
+      "end": "2025-02",
+      "dateRange": "Apr 2019 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Co-Founder | CEO",
+      "company": "Terminal49",
+      "companyUrl": "https://www.linkedin.com/company/terminal49",
+      "description": null,
+      "location": null,
+      "start": "2015-02",
+      "end": "2019-03",
+      "dateRange": "Feb 2015 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Lecturer/Visiting Faculty",
+      "company": "University of California, Berkeley",
+      "companyUrl": "https://www.linkedin.com/company/uc-berkeley",
+      "description": null,
+      "location": null,
+      "start": "2013-06",
+      "end": "2013-08",
+      "dateRange": "Jun 2013 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Program Manager",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": "2013-05",
+      "end": "2015-04",
+      "dateRange": "May 2013 – Apr 2015",
+      "current": false
+    },
+    {
+      "title": "Co-founder, COO (YC S11)",
+      "company": "LeadGenius",
+      "companyUrl": "https://www.linkedin.com/company/leadgenius",
+      "description": null,
+      "location": null,
+      "start": "2011-05",
+      "end": "2013-05",
+      "dateRange": "May 2011 – May 2013",
+      "current": false
+    },
+    {
+      "title": "Summer Product Manager",
+      "company": "Infosys",
+      "companyUrl": "https://www.linkedin.com/company/infosys",
+      "description": null,
+      "location": null,
+      "start": "2010-05",
+      "end": "2010-07",
+      "dateRange": "May 2010 – Jul 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "MS, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Y Combinator",
+      "degree": "Summer 2011 Batch, LeadGenius",
+      "dateRange": "2011"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "M.S., Information Management & Systems",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "BS, Business Administration",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor Degree, Management Information Systems, General",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Early Stage Investment",
+    "Strategy",
+    "Start-ups",
+    "Software Development",
+    "Entrepreneurship",
+    "Product Management",
+    "Business Strategy",
+    "Venture Capital",
+    "Mobile Applications",
+    "Start-up Ventures",
+    "Product Development",
+    "Product Marketing",
+    "Python",
+    "Ruby on Rails",
+    "Ruby",
+    "Computer Science",
+    "Crowdsourcing",
+    "Ember.js",
+    "Go-to-market Strategy"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Vietnamese",
+    "Spanish",
+    "(French)"
+  ],
+  "company": {
+    "name": "Glacis",
+    "tagline": "Supply chain AI platform automating enterprise order management, procurement, and transportation to manage by exception",
+    "description": "Glacis is an AI-powered, end-to-end supply chain execution platform that closes the gap left by ERPs, TMSs, and control towers: the day-to-day coordination still happens in emails, calls, and spreadsheets slow and error-prone. \n\nGlacis deploys enterprise-ready AI agents to automate this coordination, handle exceptions early, and keep partners on track across order intake, procurement, logistics, fulfilment.",
+    "industry": "Software Development",
+    "website": "https://www.glacis.com/?utm_source=li&utm_medium=corp",
+    "linkedInUrl": "https://www.linkedin.com/company/glacisinc",
+    "employeeCount": 16,
+    "foundedYear": 2023,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

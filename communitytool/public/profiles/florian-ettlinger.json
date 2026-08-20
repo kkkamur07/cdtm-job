@@ -1,0 +1,147 @@
+{
+  "id": "florian-ettlinger",
+  "name": "Florian Ettlinger",
+  "headline": "Gründer @ Capmo",
+  "avatar": {
+    "sm": "/avatars/florian-ettlinger-sm.webp",
+    "lg": "/avatars/florian-ettlinger.webp",
+    "blur": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAADQBQCdASogACAAPtFcqU2oJSQiKAqpABoJYgC7AdwCr50Ly6clFqCop+T08fXQvUdd9DFGl7XwAP7P6kod4TQf84IazTE3zvln/2z5kdrYvfT2RsCKMc6Oq2pvTzydPjlZ55iU4xAM36k87tblv8u60p4JuawSszwd4Q+sVRdsvs2xArONJKvt8dKV0RG+A96BluHJHvpriSqU9Jo781MNwTxKf/ZPZz5J6mjalf7c8Y1hy/2qdfBq8q+OOySBexCTfMq2LwwymPmOHCm375uBDVtS68n16SKRbfgFCtfe4FFw6hML0LAs+thT8hKifxI3jh46xENDdYDm2rvkT0Zvgs+JIZFpYQAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/florian-ettlinger",
+  "personId": 943,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Physics (Biophysics)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Florian Ettlinger",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Capmo",
+      "companyUrl": "https://www.linkedin.com/company/capmo",
+      "description": "Mit der cloudbasierten Lösung von Capmo können Baumängel, Aufgaben, Baufortschritte und Co. direkt am Smartphone oder Tablet in einem digitalen Plan erfasst und dokumentiert werden. Die direkte Kommunikation mit allen Beteiligten und die einheitliche Verwaltung der aufgenommenen Punkte schafft eine transparente Nachverfolgung offener Baumängel und Aufgaben und ermöglicht eine effiziente Bearbeitung. Capmo kann für den gesamten Lebenszyklus einer Immobilie eingesetzt werden, von der Planung über die Ausführung bis zum Facility Management.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-01",
+      "end": null,
+      "dateRange": "Jan 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Munich Center for Internet Research",
+      "companyUrl": null,
+      "description": "Internet-based technologies and digital business models – analyses on the innovation behavior of small and medium-sized enterprises in Germany.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Product Development Consultant",
+      "company": "Building Radar",
+      "companyUrl": "https://www.linkedin.com/company/buildingradar",
+      "description": "Development of a concept and a prototype of a market network online application for the construction industry and modelling of a respective business.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2015 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "UNESCO",
+      "companyUrl": "https://www.linkedin.com/company/unesco",
+      "description": null,
+      "location": "Kampala, Uganda",
+      "start": "2013-09",
+      "end": "2014-03",
+      "dateRange": "Sep 2013 – Mar 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M. Sc., Physics",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "The University of Queensland",
+      "degree": "Semester Abroad",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc., Physics",
+      "dateRange": "2011 – 2013"
+    }
+  ],
+  "skills": [
+    "Data Analysis",
+    "Scrum",
+    "React",
+    "Machine Learning",
+    "React Native",
+    "Angular",
+    "Amazon Web Services (AWS)",
+    "Linux",
+    "Python",
+    "JavaScript",
+    "C",
+    "App Development",
+    "Deep Learning"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Capmo",
+    "tagline": "Capmo is the construction software that delivers instant efficiency to project teams. **WE ARE HIRING**",
+    "description": "Capmo is a technology company for the construction industry. With its same-named software, the company simplifies the complex daily tasks in construction.\nWith intuitive functions for documenting defects, meeting notes and schedules directly on the construction site, construction managers save themselves a lot of double work.\nWith a strong focus on usability and customer service, the 100-strong team ensures that the construction industry receives the best possible support on the road to digitization.\nWith the help of the software, more than 10,000 construction projects have already been completed.\n\n--------\nInformation according to § 5 TMG\n\nCapmo GmbH\nRidlerstraße 39\n80339 Munich, Germany\nEmail: info@capmo.de\n\nRepresented by\nManaging Director: Florian Biller\nManaging Director: Sebastian Schlecht\n\nEntry in the commercial register\nRegistration number: HRB 239286\nRegister court: Munich Local Court",
+    "industry": "Software Development",
+    "website": "https://www.capmo.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/capmo",
+    "employeeCount": 99,
+    "foundedYear": 2018,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Bausoftware",
+      "Baudokumentation",
+      "Mängelmanagement",
+      "Planverwaltung",
+      "Aufgabenverwaltung",
+      "Digitale Baupläne",
+      "Bautagesberichte",
+      "Bautagebuch",
+      "Software für Bauleiter",
+      "Software für Architekten",
+      "Software für Gewerke",
+      "Construction Site OS",
+      "Baustellenbetriebssystem",
+      "Construction Site Operating System",
+      "Baumangement"
+    ]
+  }
+}

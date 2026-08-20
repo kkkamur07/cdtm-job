@@ -1,0 +1,155 @@
+{
+  "id": "raffaele-t",
+  "name": "Raffaele T.",
+  "headline": "linux systems & kernel | hpc & ml | cloud | tum & carnegie mellon",
+  "avatar": null,
+  "location": "Zürich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/raffaele-t",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "I try to make software a bit more usable and respectful of its users, which, to no one's surprise, makes me most passionate about Linux, open-source, and usable privacy even in the uncertain age of AI. \n\nIn general, I have a strong preference for research / R&D, open-source, and academia. I have experience in large-scale distributed systems and low-level systems engineering, with my formal specialization being in HPC and distributed systems engineering, and a minor in Machine Learning acquired at Carnegie Mellon University.\n\n[Not too active here, please email me directly for urgent inquiries :]",
+  "positions": [
+    {
+      "title": "Cloud Software Engineer",
+      "company": "Elli - A Brand of the Volkswagen Group",
+      "companyUrl": "https://www.linkedin.com/company/elli-vw",
+      "description": "Architecting the new unified platform for EV charging network serving multiple VW Group brands, based on open OCPI/OICP standards",
+      "location": "Berlin, Germany",
+      "start": "2024-03",
+      "end": null,
+      "dateRange": "Mar 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Fraunhofer AISEC",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-aisec",
+      "description": "Designed novel hardware-software codesign solution for fault-tolerant memory safety on RISC-V architecture. Extended Linux kernel, bootloader (U-Boot), and glibc to enable tunable dynamic memory safety with zero overhead for legal executions.\n\n- Implemented FTMS (Fault-Tolerant Memory Safety) framework correcting Out-Of-Bounds and Use-After-Free errors\n- Achieved memory safety enforcement with minimal performance penalty on legal operations vs standard RISC-V builds\n- Demonstrated availability restoration in real-world benchmark tests under memory corruption scenarios\n- Extended multiple layers of the software stack: kernel, bootloader, C library allocator\n\n(Tech: RISC-V, C/C++, Linux kernel, glibc, hardware-software codesign, memory safety)",
+      "location": "Munich",
+      "start": "2023-08",
+      "end": "2024-02",
+      "dateRange": "Aug 2023 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Covadonga (TUM-IDP project)",
+      "companyUrl": null,
+      "description": "Research project funded by ESA/Galileo developing secure post-GNSS navigation protocol for maritime applications.\n\n- Designed geolocation protocol from concept to MVP for ship navigation in GPS-denied environments\n- Built real-time simulator for sensor/radar triangulation and interaction modeling\n- Parallelized core algorithms achieving ~10x performance improvement through optimization\n- Received return offer as Research Engineer",
+      "location": "Oslo, Norvegia",
+      "start": "2022-08",
+      "end": "2022-12",
+      "dateRange": "Aug 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "alpitronic",
+      "companyUrl": "https://www.linkedin.com/company/alpitronic-srl",
+      "description": "Developed firmware and telemetry systems for high-power EV charging stations.\n\n- Implemented real-time telemetry system for 350kW DC fast chargers\n- Designed OTA firmware update system with fault-tolerant packet distribution over CANbus\n- Built batch update infrastructure for fleet-wide deployments over SSH",
+      "location": "Greater Bolzano Metropolitan Area",
+      "start": "2020-07",
+      "end": "2020-08",
+      "dateRange": "Jul 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Biology lab intern",
+      "company": "CIMeC UniTrento",
+      "companyUrl": "https://www.linkedin.com/company/cimecunitrento",
+      "description": "- Proposed and led development of open-source software to assist the studies of insect sociality from lab photos, automating existing experiments and serving as a basis for subsequent studies. \n- Received a return offer from the head of the institute.",
+      "location": "Rovereto, Trentino-Alto Adige, Italy",
+      "start": "2016-07",
+      "end": "2016-08",
+      "dateRange": "Jul 2016 – Aug 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honour's Degree, Honours Degree in Technology and Management",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Free University of Bozen-Bolzano",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "University of Helsinki",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2020"
+    },
+    {
+      "school": "Liceo A. Rosmini Rovereto",
+      "degree": "Diploma di Liceo Scientifico",
+      "dateRange": "2013 – 2018"
+    }
+  ],
+  "skills": [
+    "Kubernetes",
+    "Google Cloud Platform (GCP)",
+    "Database Design",
+    "Event Driven Programming",
+    "Terraform",
+    "DevOps",
+    "Site Reliability Engineering",
+    "Data Analysis",
+    "Image Processing",
+    "Real Time System Design",
+    "Network Engineering",
+    "CAN bus",
+    "Cloud Computing",
+    "glibc",
+    "Parallel Computing",
+    "Navigation Systems",
+    "Computer Simulations",
+    "RISC-V",
+    "U-Boot",
+    "Artificial Intelligence (AI)"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Elli",
+    "tagline": "A brand of the Volkswagen Group",
+    "description": "Elli is here to make your life with electricity [Electric life] easier, safer, cooler and totally hassle-free. When energy meets mobility - Elli will be there for you and your business. Smart, convenient, reliable and 100% eco-friendly.\n\nWe are Elli - a provider of energy and charging solutions. We will manage all customer needs at the interface between energy and mobility. Elli will make the benefits of the energy transition accessible to people around the world - smooth and hassle-free.\n\nAs part of the Volkswagen Group we will be the first provider on the market to offer a seamless and holistic energy and charging experience for electric car drivers and fleet managers.\n\nElli was founded in 2018, with offices in Wolfsburg, Berlin and Munich.",
+    "industry": "Consumer Services",
+    "website": "http://www.elli.eco",
+    "linkedInUrl": "https://www.linkedin.com/company/elli-vw",
+    "employeeCount": 401,
+    "foundedYear": 2018,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Electricity",
+      "Home Storage",
+      "Smart Data",
+      "Data Science",
+      "Energie und Mobilität",
+      "Ladelösungen"
+    ]
+  }
+}

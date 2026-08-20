@@ -1,0 +1,186 @@
+{
+  "id": "marc-girard-b976977b",
+  "name": "Marc Girard",
+  "headline": "adidas /// Brand, Creation, & Sourcing Solutions",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/marc-girard-b976977b",
+  "personId": 1555,
+  "classes": [
+    {
+      "id": 55,
+      "label": "Spring 2004",
+      "season": "Spring",
+      "year": 2004,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2004",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Marc Girard",
+  "ca": null,
+  "summary": "Strategy, Project Management, Technology Management, Marketing, Operations, Sports & Fashion, Consumer Goods",
+  "positions": [
+    {
+      "title": "VP Brand, Creation, & Sourcing Solutions",
+      "company": "adidas",
+      "companyUrl": "https://www.linkedin.com/company/adidas",
+      "description": null,
+      "location": "Herzogenaurach",
+      "start": "2025-06",
+      "end": null,
+      "dateRange": "Jun 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "VP Digital Brand Solutions",
+      "company": "adidas",
+      "companyUrl": "https://www.linkedin.com/company/adidas",
+      "description": null,
+      "location": "Herzogenaurach, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2025-08",
+      "dateRange": "Oct 2021 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "VP Supply Chain Strategy & Programs",
+      "company": "adidas",
+      "companyUrl": "https://www.linkedin.com/company/adidas",
+      "description": null,
+      "location": "Luzern, Schweiz",
+      "start": "2019-03",
+      "end": "2021-10",
+      "dateRange": "Mar 2019 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Senior Director Digital Creation Programs",
+      "company": "adidas",
+      "companyUrl": "https://www.linkedin.com/company/adidas",
+      "description": null,
+      "location": null,
+      "start": "2017-11",
+      "end": "2019-02",
+      "dateRange": "Nov 2017 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Senior Director Strategic Projects, Product Operations",
+      "company": "adidas",
+      "companyUrl": "https://www.linkedin.com/company/adidas",
+      "description": null,
+      "location": "Herzogenaurach",
+      "start": "2016-01",
+      "end": "2017-11",
+      "dateRange": "Jan 2016 – Nov 2017",
+      "current": false
+    },
+    {
+      "title": "Director Strategic Projects, CoE Brand Operations",
+      "company": "adidas",
+      "companyUrl": "https://www.linkedin.com/company/adidas",
+      "description": null,
+      "location": "Herzogenaurach",
+      "start": "2015-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Senior Project Manager, CoE Brand Operations",
+      "company": "adidas",
+      "companyUrl": "https://www.linkedin.com/company/adidas",
+      "description": null,
+      "location": "Herzogenaurach, Deutschland",
+      "start": "2012-08",
+      "end": "2014-12",
+      "dateRange": "Aug 2012 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "The Boston Consulting Group",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2007-01",
+      "end": "2012-05",
+      "dateRange": "Jan 2007 – May 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Dr. oec. publ., Institute for Marketing",
+      "dateRange": "2010 – 2014"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Certificate in Technology Management, Second Degree",
+      "dateRange": "2004 – 2006"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": null,
+      "dateRange": "2005 – 2006"
+    },
+    {
+      "school": "ESSEC Business School",
+      "degree": null,
+      "dateRange": "2003"
+    }
+  ],
+  "skills": [
+    "Project Management",
+    "Consulting",
+    "Strategisches Management",
+    "Unternehmensstrategie",
+    "Marktforschung",
+    "Marketing",
+    "Unternehmensführung",
+    "Produktentwicklung",
+    "Veränderungsmanagement",
+    "Fusionen und Übernahmen",
+    "Management Consulting",
+    "Strategy",
+    "Business Strategy",
+    "Strategic Planning",
+    "Teamführung"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "adidas",
+    "tagline": "Through sport, we have the power to change lives.",
+    "description": "Inspired by our heritage, our brand is rooted in sports and the culture born from it. Headquartered in Herzogenaurach, Germany, we’re a global leader in the sporting goods industry, employing 62,035 worldwide.",
+    "industry": "Sporting Goods",
+    "website": "http://www.adidas-group.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/adidas",
+    "employeeCount": 95491,
+    "foundedYear": null,
+    "location": "Herzogenaurach, Germany",
+    "specialities": [
+      "apparel",
+      "footwear",
+      "premium fashion",
+      "sports brand",
+      "football",
+      "running",
+      "training",
+      "basketball",
+      "originals"
+    ]
+  }
+}

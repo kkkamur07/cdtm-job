@@ -1,0 +1,150 @@
+{
+  "id": "justus-murke-b79111161",
+  "name": "Justus Murke",
+  "headline": "Chief of Staff | Mistral AI",
+  "avatar": {
+    "sm": "/avatars/justus-murke-b79111161-sm.webp",
+    "lg": "/avatars/justus-murke-b79111161.webp",
+    "blur": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAABQBgCdASogACAAPsFMoEunpCMht/qoAPAYCWMAvmkgQ4G0u79/gzr3bCxgmyZioQ8RDU/7e0GMUjsoAAD+/by4KVF6wFPBXkH+SV5g5uP2L+TJgLGqJXu7WSvh+QmL5ltTriqmH6YheedvPp/zGv3C1wqzH6uHo+sxqNbAM5rjUecWbZ7JvSDsMbokgRNfxNxXOj9qt6R+DD95IulTsJ9HWOpl3sVRY370GUFqk6ePlDiuhkyI2xf0bD2wPeurQE7l+tk91agvwfNZR93EfsCWC3AJzpbqHD8IJ6OAAAA="
+  },
+  "location": "Paris, France",
+  "linkedInUrl": "https://www.linkedin.com/in/justus-murke-b79111161",
+  "personId": 1085,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Justus Maximilian Murke",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Chief of Staff to the CEO",
+      "company": "Mistral AI",
+      "companyUrl": "https://www.linkedin.com/company/mistral-ai",
+      "description": null,
+      "location": null,
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief of Staff - GTM",
+      "company": "Mistral AI",
+      "companyUrl": "https://www.linkedin.com/company/mistral-ai",
+      "description": null,
+      "location": null,
+      "start": "2024-09",
+      "end": "2025-10",
+      "dateRange": "Sep 2024 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "GTM",
+      "company": "Mistral AI",
+      "companyUrl": "https://www.linkedin.com/company/mistral-ai",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-09",
+      "dateRange": "Jan 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Strategy & Operations",
+      "company": "topi",
+      "companyUrl": "https://www.linkedin.com/company/topi-eu",
+      "description": null,
+      "location": null,
+      "start": "2022-03",
+      "end": "2023-07",
+      "dateRange": "Mar 2022 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur In Residence",
+      "company": "Luminovo",
+      "companyUrl": "https://www.linkedin.com/company/luminovo",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Investment Team",
+      "company": "Cherry Ventures",
+      "companyUrl": "https://www.linkedin.com/company/cherry-ventures",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (MSc.), Management & Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Erasmus University Rotterdam",
+      "degree": "Bachelor of Science (BSc.), Economics",
+      "dateRange": null
+    },
+    {
+      "school": "University of Buenos Aires",
+      "degree": "Exchange Semester",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Mistral AI",
+    "tagline": "Frontier AI. In Your Hands.",
+    "description": "Frontier AI. In your hands. \n\nWe believe in a future where AI is abundant and accessible. We aspire to empower the world to build with—and benefit from—the most significant technology of our time.\n\nJoin us: https://jobs.lever.co/mistral/",
+    "industry": "Technology, Information and Internet",
+    "website": "https://mistral.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/mistral-ai",
+    "employeeCount": 1031,
+    "foundedYear": 2023,
+    "location": "Paris, France",
+    "specialities": []
+  }
+}

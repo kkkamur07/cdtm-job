@@ -1,0 +1,189 @@
+{
+  "id": "schmidtgregor",
+  "name": "Gregor Schmidt",
+  "headline": "Investment Director at Egeria | Private Equity",
+  "avatar": {
+    "sm": "/avatars/schmidtgregor-sm.webp",
+    "lg": "/avatars/schmidtgregor.webp",
+    "blur": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAABQBQCdASogACAAPslQoEunpKMht/VYAPAZCWMAxvWMPSq2NOUA9+2LNnSf4gKv8g7bXuAA/v2COKZHvPf1hsWfeh5t8jC7ZpY7t7P9s9K8uu03oA1KCsO/PhxDqcrMO89oAay0J0fIKyhyg8bvUTEisHjN76bN6gSm+oWqoTo5B5wZx0AxCCb6ptWdbyeSBVVd2pZnqQE+USWHZIHvuhQacTsVVsGhjHea6XawAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/schmidtgregor",
+  "personId": 791,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Gregor Schmidt",
+  "ca": null,
+  "summary": "I am an Investment Director at Egeria, a leading investment company active in the Netherlands (Amsterdam), Germany (Munich), and the US (Boston) that focuses on medium-sized companies with EBITDA of €10M-€50M. Prior to joining Egeria, I was a management consultant at Bain & Company.\n\nI hold a Master's degree in Management & Technology from the Technical University of Munich (TUM), where I specialized in Finance and Mechanical Engineering. Prior to that, I obtained a Bachelor's degree in Business Administration from WHU.",
+  "positions": [
+    {
+      "title": "Investment Director",
+      "company": "Egeria",
+      "companyUrl": "https://www.linkedin.com/company/egeria",
+      "description": "Investing in IT services, business services and light industrials",
+      "location": "München, Bayern, Deutschland",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Board Observer",
+      "company": "Cpro Industry Projects & Solutions GmbH",
+      "companyUrl": "https://www.linkedin.com/company/cpro-industry",
+      "description": null,
+      "location": "Hamburg, Deutschland",
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Board Observer",
+      "company": "Implico Group",
+      "companyUrl": "https://www.linkedin.com/company/implicogroup",
+      "description": null,
+      "location": "Hamburg, Deutschland",
+      "start": "2025-02",
+      "end": null,
+      "dateRange": "Feb 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Board Member & Shareholder",
+      "company": "H.J. Schmidt Mineraltechnik",
+      "companyUrl": "https://www.linkedin.com/company/hjschmidt-mineraltechnik",
+      "description": "- Private family business not related to Egeria",
+      "location": "Bendorf, Rheinland-Pfalz, Deutschland",
+      "start": "2019-01",
+      "end": null,
+      "dateRange": "Jan 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment Manager",
+      "company": "Egeria",
+      "companyUrl": "https://www.linkedin.com/company/egeria",
+      "description": "- Implico (Acquisition: 2025)\n- CPRO (Acquisition: 2025)",
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-01",
+      "end": "2026-01",
+      "dateRange": "Jan 2023 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Board Observer",
+      "company": "KLAFS GmbH",
+      "companyUrl": "https://www.linkedin.com/company/klafs",
+      "description": "- Acquisition, portfolio work and exit to Kohler\n- Executed add-ons (Guncast, Prim Spa, Dröm)",
+      "location": "Schwäbisch Hall, Baden-Württemberg, Deutschland",
+      "start": "2020-12",
+      "end": "2023-12",
+      "dateRange": "Dec 2020 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Associate",
+      "company": "Egeria",
+      "companyUrl": "https://www.linkedin.com/company/egeria",
+      "description": "- Klafs (Acquisition: 2020 | Exit: 2023)\n- Isoplus (Acquisition: 2021 | Exit: 2024)",
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-10",
+      "end": "2022-12",
+      "dateRange": "Oct 2020 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Management Consultant | Strategy & Private Equity",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": "München, Bayern",
+      "start": "2019-02",
+      "end": "2020-10",
+      "dateRange": "Feb 2019 – Oct 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc. Management & Technology, Finance & Mechanical Engineering",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "WHU – Otto Beisheim School of Management",
+      "degree": "B.Sc. Business Administration",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "The Hong Kong Polytechnic University",
+      "degree": "Semester Abroad",
+      "dateRange": "2015"
+    },
+    {
+      "school": "Bradfield College",
+      "degree": "General Certificate of Education (GCE) Advanced Level",
+      "dateRange": "2010 – 2012"
+    }
+  ],
+  "skills": [
+    "Due Diligence",
+    "Corporate Finance",
+    "Consulting",
+    "Mergers & Acquisitions (M&A)",
+    "PowerPoint",
+    "Microsoft Excel",
+    "Business Development",
+    "Unternehmertum",
+    "Project Management",
+    "Unternehmensstrategie",
+    "Marktforschung",
+    "Start-ups",
+    "Strategisches Management",
+    "Microsoft Office",
+    "Projektmanagement",
+    "Unternehmensführung",
+    "Entrepreneurship"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Egeria",
+    "tagline": null,
+    "description": "We are Egeria: an independent investment company active in three asset classes, aimed at long-term value growth through entrepreneurial partnerships:\n\n-\tPrivate Equity: we invest in healthy businesses in the Benelux- and DACH-region with an enterprise value of up to €350 million with the underlying principle that management is co-owner. We operate out of our offices in Amsterdam (NL) and Munich (DE). \n-\tReal Estate: we invest in commercial and residential real estate in Germany, the Netherlands and the US and we (re)develop real estate projects in the Netherlands. \n-\tListed Investments: we invest in listed companies by taking minority interests and acting as an active partner to management and other shareholders. \n\nWe are always looking for both talented professionals to strengthen our team as well as companies and real estate projects in which to invest. \nPlease take a look at our website and reach out to us: www.egeriagroup.com.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://www.egeriagroup.com",
+    "linkedInUrl": "https://www.linkedin.com/company/egeria",
+    "employeeCount": 142,
+    "foundedYear": 1997,
+    "location": "Amsterdam, Netherlands",
+    "specialities": [
+      "Private Equity"
+    ]
+  }
+}

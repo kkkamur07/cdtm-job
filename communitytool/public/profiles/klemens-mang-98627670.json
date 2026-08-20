@@ -1,0 +1,265 @@
+{
+  "id": "klemens-mang-98627670",
+  "name": "Klemens Mang",
+  "headline": "Team Lead DevOps / Platform @ Peter Park System",
+  "avatar": {
+    "sm": "/avatars/klemens-mang-98627670-sm.webp",
+    "lg": "/avatars/klemens-mang-98627670.webp",
+    "blur": "data:image/webp;base64,UklGRjoBAABXRUJQVlA4IC4BAABwBgCdASogACAAPsFIn0unpCKht/qoAPAYCWwAnTMjo/xG8ibYTX024HawHGeVqs0EJl5suk0ugIQf9AAA/rCsbwEOAatuu6OnKz42xQt4bXLSk3+vG3Sp1lSyHoNot1PeNQ72Xit5/2ZkTX9wZ0UUCB3FtXam5oIhIyDhLVftpFezN1yBMPugq9bV5/oHYxpVeTxsotgKO5ocsXefdPeSOfD5u+6NmuOgOIPddd/xOd4U3MeBCpXXzFV3pNEyvYR2xrkitM+h83zUYl2UrbxXadAwTYgtmm7ULbirbeDfaJJ0MeYNlHsai1BEGVz/xuJlXd8cC63l8765vVgwxxSh1/eqD7BIgUnnkrAxe6wblcHVGVBQq2hz3aqOx9WKwtvTMJPrb7519D6bcXLoAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/klemens-mang-98627670",
+  "personId": 1046,
+  "classes": [
+    {
+      "id": 73,
+      "label": "Spring 2013",
+      "season": "Spring",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2013",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Klemens Mang",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Team Lead DevOps / Platform",
+      "company": "Peter Park",
+      "companyUrl": "https://www.linkedin.com/company/peterpark",
+      "description": "As DevOps / Platform Team Manager, I provide both technical and disciplinary leadership for the DevOps team, driving reliability, scalability, and security across our IoT and cloud-based product ecosystem. \nAlongside leading the team, I actively contribute to platform engineering, database optimization, FinOps and security hardening initiatives. \nOur technology stack spans Node.js and Python, supporting a full-stack solution with ALPR (Automatic License Plate Recognition) capabilities that seamlessly integrates IoT, cloud, and application components.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-08",
+      "end": null,
+      "dateRange": "Aug 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer and IT Consultant",
+      "company": "Klemens Mang IT Consulting",
+      "companyUrl": null,
+      "description": "Working as full stack mobile/web developer and independent IT consultant for start-ups, institutions and large companies.\n\nCustomer projects include:\nPeter Park GmbH – Lead DevOps cloud platform engineer (AWS, Terraform, Kubernetes, Serverless)\nCapmo GmbH – Full stack software engineer and cloud architect (AWS, Typescript, node.js, react.js, GraphQL, Serverless)\nMIT Climate CoLab – Idea crowdsourcing platform (Java, Liferay)\nBMW Group AG – Innovation management platform (JS, d3)\nNexthomie GmbH – Social App (iOS/Android) for finding friends abroad (Swift, Java, Parse)",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-09",
+      "end": null,
+      "dateRange": "Sep 2014 – Present",
+      "current": true
+    },
+    {
+      "title": "Cloud Architecture and Security Team Lead @ Connected Car Plattform",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Cloud Architecture and Security Teamlead at the Connected Car Plattform Architecture team. \n\nAs Cloud Architecture and Security Team Lead, I drive the design and implementation of scalable, secure architecture building blocks and provide strategic consulting to development teams across the Connected Car division. \nI lead cross-cutting initiatives to standardize cloud security and architecture practices across an ecosystem of 1,000+ developers, 1,300 microservices, and over 12 billion daily requests. \nMy focus is on enabling innovation while ensuring resilience, compliance, and operational excellence at scale.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": "2025-08",
+      "dateRange": "Jan 2024 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Technical Product Owner / Cloud Security Architect @ BMW Digital Key Backend",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Technical Product Owner and Cloud Security Architect for the BMW Digital Key Backend enabling the customer feature BMW Digital Key. \n\nThe BMW Digital Key is an innovative feature allowing BMW Group customers to access and start their vehicles with a vehicle key securely stored on their smartphones making classic vehicle key fobs obsolete. Furthermore, the feature enables new use cases such as vehicle key sharing over iMessage and other communication channels as well as enabling BMW's Remote Controlled Parking functionality.\n\nKey achievements:\n- Scaling the user base of BMW Digital Key customers from zero to 1.4M actively used digital car keys while collaborating with various company-internal divisions (Offboard development, Onboard development, business development, after sales) and leading a team of 15 external developers.\n- Active and forward-looking contribution to shaping the Digital Key specification within the Car Connectivity Consortium (for the BMW Digital Key), while representing BMW's interests in a consortium of over 200 international member companies (e.g., Apple, Google, Huawei, …), resulting in BMW having the most innovative implementation of the Digital Key.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-05",
+      "end": "2023-12",
+      "dateRange": "May 2021 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Technical Product Owner / Cloud Security Architect @ Map and Automated Driving Services",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Technical Product Owner and Cloud Security Architect for the product Map and Automated Driving Services.\n\nAs a Technical Product Owner and Cloud Security Architect in the field of highly autonomous driving (L2+, L3), I was responsible for defining and delivering secure, scalable cloud solutions supporting advanced vehicle data processing and AI-driven development. \nI led cross-functional teams to align product roadmaps with security and compliance requirements, ensuring robust protection of sensitive data across global cloud environments. \n\nKey achievements were:\n- Development and delivery of a highly secure, technical solution over several main departments at BMW for the secure delivery of highly-autonomous driving data to BMW vehicles for supporting L2+ and L3 autonomous driving capabilities\n- Development of a secure system to remotely control and steer L4 autonomous driving capable vehicles in real-time on real roads using real-time video, audio and vehicle trajectory transmission over 4G / 5G networks (Teleoperation)",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-06",
+      "end": "2021-04",
+      "dateRange": "Jun 2019 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "IT Security Architect",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Central IT security architect within the Connected Car and digital services IT department (ConnectedDrive). \n\nAs an IT Security Architect, I work in and across other ConnectedDrive departments to strengthen our organization’s security, compliance, and data privacy posture with a strong focus on Public Cloud environments. \nI design and align cloud security architectures, define policies and standards, and collaborate with stakeholders to ensure regulatory compliance and robust data protection for all IT products and projects managed in my department.\nMy goal is to enable secure, scalable, and compliant cloud adoption while supporting efficient and resilient business operations.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-11",
+      "end": "2019-05",
+      "dateRange": "Nov 2017 – May 2019",
+      "current": false
+    },
+    {
+      "title": "Full Stack Engineer (Backend lead)",
+      "company": "simplinic GmbH",
+      "companyUrl": "https://www.linkedin.com/company/simplinic",
+      "description": "Simplinic GmbH is digitalizing hospitals by providing a real-time location system infrastructure using novel technologies (Bluetooth LE, IoT hardware, Cloud computing).\n\nResponsible for the software design and implementation of all backend systems in an\nagile and DevOps oriented working environment. Used technologies: Ruby on Rails, Java, Akka, PostgreSQL, MQTT, RabbitMQ. \nAdditional work on web and mobile frontend projects using JS, ReactJS, Android.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-08",
+      "end": "2017-10",
+      "dateRange": "Aug 2016 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Master's degree candidate",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Doing research in the area of Human-Computer-Interfaces and interaction in the context of the innovation processes at BMW. Activities include requirements elicitation, prototype development, project management and evaluation of research results.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-04",
+      "end": "2015-10",
+      "dateRange": "Apr 2015 – Oct 2015",
+      "current": false
+    },
+    {
+      "title": "Visiting Research Student",
+      "company": "Massachusetts Institute of Technology (MIT)",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "Visiting research student at MIT SLOAN School of Management's Center for Collective Intelligence (CCI). \n\nResponsible for the active software development of the Climate CoLab online platform (www.climatecolab.org) - a novel internet platform that allows people all over the world to work on plans what humans can do about global climate change.\n\nAdditionally working as a scientific researcher in the field of innovation management, collaboration and collective intelligence.",
+      "location": "Cambridge, MA",
+      "start": "2014-02",
+      "end": "2014-05",
+      "dateRange": "Feb 2014 – May 2014",
+      "current": false
+    },
+    {
+      "title": "Java Web Developer",
+      "company": "eGym GmbH",
+      "companyUrl": null,
+      "description": "eGym GmbH is a startup company in the fitness and health sector.\n\nHave been working as a Java web developer for frontend and backend tasks. The main task involves the improvement of eGym's strong web presence and the implementation of new functionality on the web platform for its business partners and end customers.",
+      "location": "Munich",
+      "start": "2013-10",
+      "end": "2014-02",
+      "dateRange": "Oct 2013 – Feb 2014",
+      "current": false
+    },
+    {
+      "title": "iOS Software Developer",
+      "company": "Kupferwerk",
+      "companyUrl": "https://www.linkedin.com/company/intive",
+      "description": "Kupferwerk GmbH is Germanys biggest independent App development agency.\nCurrent work at Kupferwerk includes development for iOS. \n\nHave been working as an advanced software developer in various customer projects, experience of customer communication and project management. Increased ability to work independently.",
+      "location": "Munich, Germany",
+      "start": "2012-03",
+      "end": "2013-08",
+      "dateRange": "Mar 2012 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "Flextronics",
+      "companyUrl": "https://www.linkedin.com/company/flexintl",
+      "description": "Worked in the IT production department and contributed to the development of an internal web application based on ASP.NET and MS SQL.",
+      "location": "Althofen, Austria",
+      "start": "2008-08",
+      "end": "2008-09",
+      "dateRange": "Aug 2008 – Sep 2008",
+      "current": false
+    },
+    {
+      "title": "HelpDesk Support Intern",
+      "company": "Flextronics",
+      "companyUrl": "https://www.linkedin.com/company/flexintl",
+      "description": "Worked in the IT internal department and as a Help Desk technician.",
+      "location": "Althofen, Austria",
+      "start": "2007-08",
+      "end": "2007-09",
+      "dateRange": "Aug 2007 – Sep 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's Degree, Computer Science",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management",
+      "degree": "Honors degree in Technology Management, Digital Technology",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Computer Science",
+      "dateRange": "2011 – 2013"
+    },
+    {
+      "school": "HTBL Mössingerstraße",
+      "degree": "Reife- und Diplomprüfung, Information Technology",
+      "dateRange": "2004 – 2010"
+    }
+  ],
+  "skills": [
+    "Artificial Intelligence (AI)",
+    "Node.js",
+    "Application Security",
+    "Team Leadership",
+    "Security",
+    "Network Security",
+    "Backend",
+    "Real-Time Transport Protocol (RTP)",
+    "Cloud-Native Applications",
+    "Product Management",
+    "Hardware Security Module (HSM)",
+    "Back-End Web Development",
+    "Cybersecurity",
+    "Data Privacy",
+    "Cloud Computing",
+    "Microsoft Azure",
+    "IT Compliance",
+    "Tech Leadership",
+    "Platform Engineering",
+    "DevOps",
+    "Amazon Web Services (AWS)",
+    "Kubernetes",
+    "Java",
+    "Ruby on Rails",
+    "Objective-C",
+    "Software Development",
+    "Databases",
+    "HTML",
+    "CSS",
+    "Linux",
+    "JavaScript",
+    "SQL",
+    "XML",
+    "PHP",
+    "Agile Methodologies",
+    "C",
+    "Web Applications",
+    "Software Engineering",
+    "Web Development",
+    "Akka",
+    "Git",
+    "Python",
+    "Mobile Applications",
+    "React.js",
+    "Mqtt"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Peter Park",
+    "tagline": "The barrier-free system for your parking lot.",
+    "description": "Einfahrt in die Zukunft: Wir definieren Parken neu.\nWir bei Peter Park schaffen eine Welt ohne Schranken. Mit unserer Vision, Mobilität einfacher, effizienter und menschlicher zu gestalten, verwandeln wir Parkflächen in intelligente Mobilitätszentren.\n\nWas wir tun\nAls führender Anbieter für digitales Parkraummanagement bieten wir Inhabern eine Gesamtlösung für Ihre Parkflächen. Wir verknüpfen modernste smarte Hardware mit einer KI-gestützten Software-Plattform und integrierten Payment-Lösungen. So ersetzen wir physische Barrieren durch nahtlose digitale Prozesse.\n\nWir sind ein Team aus Visionären, Technik-Experten und Machern mit Sitz in München. Gemeinsam arbeiten wir an der Zukunft der urbanen Mobilität.\nBegleite uns auf dem Weg in eine Welt ohne Schranken oder werde Teil unserer Mission!\n________________________________\n\nEntry into the Future: Redefining Parking.\nAt Peter Park, we are creating a world without barriers. Driven by our vision to make mobility simpler, more efficient, and more human-centered, we transform parking areas into intelligent mobility hubs.\n\nWhat we do\nAs a leading provider of digital parking management, we offer owners a comprehensive end-to-end solution for their parking spaces. We combine state-of-the-art smart hardware with an AI-powered software platform and integrated payment solutions. In doing so, we replace physical barriers with seamless digital processes.\n\nWe are a team of visionaries, tech experts, and doers based in Munich. Together, we are shaping the future of urban mobility.\nJoin us on the journey toward a world without barriers and be part of our mission!",
+    "industry": "Information Technology & Services",
+    "website": "https://www.peter-park.de",
+    "linkedInUrl": "https://www.linkedin.com/company/peterpark",
+    "employeeCount": 205,
+    "foundedYear": 2019,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "id": "leon-sandner",
+  "name": "Leon Sandner",
+  "headline": "building yume | CDTM, TUM, Cambridge, The Residency",
+  "avatar": {
+    "sm": "/avatars/leon-sandner-sm.webp",
+    "lg": "/avatars/leon-sandner.webp",
+    "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAADQBQCdASogACAAPtFQpEuoJCOhsBgMAQAaCWIAwpZAAnHlb+B+h6lMki4lQqtQcsVMOmGODwkAAP782e2+2Z7MIa6z0s4GcqXZ52t3UTCTJZbi3qdj1iUTDTtqXqLBxOKyHE4an3aQE1UJljJ9r0Sx73ASoDvvsVmjx8dm/0mkK5/Rb0maEbmLNHHWDorekcU1QRr1+yXY9dD+BZOz4pusqTLQ3xRL0lX09hn3z7HFq4nS51KzcFDdUJ02xU97c5SmUCq8vdtYiRD1q6yEzULzSdTt7T9GdogIlAu/LRZqowrZEQAAAA=="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/leon-sandner",
+  "personId": 973,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Leon Sandner",
+  "ca": null,
+  "summary": "www.leonsandner.com",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "yume",
+      "companyUrl": "https://www.linkedin.com/company/yumevideo",
+      "description": "www.yume.video\nbuilding the future of storytelling.",
+      "location": "Berlin, Germany",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder",
+      "company": "publyc",
+      "companyUrl": "https://www.linkedin.com/company/publyc-app",
+      "description": "solving the distribution problem.\n\nget the deals, talent, and investors you deserve.\nthrough effortless personal branding.",
+      "location": "Berlin, Germany",
+      "start": "2025-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Fellow",
+      "company": "The Sandbox",
+      "companyUrl": "https://www.linkedin.com/company/the-sandbox-community",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2025-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Founder in Residence",
+      "company": "The Residency",
+      "companyUrl": "https://www.linkedin.com/company/live-the-residency",
+      "description": "Incubator program backed by Sam Altman.\nCame here to experience the magic of Silicon Valley and start building my next business.",
+      "location": "San Francisco, California, United States",
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "XPLORE Participant",
+      "company": "XPLORE by UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/xplore-by-unternehmertum",
+      "description": "XPLORE is a pre-incubation program that supports early-stage startups and connects them with talent.\n\nAs a participant, I supported ‘numi. circular’ - a young start-up that focuses on product circularity and develops an automated product take-back system - in business development and marketing\nLearned a lot about ideation, pivoting, market research, and the early phases of a technology-based startup.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Founder & Creative Director",
+      "company": "vibe.one",
+      "companyUrl": "https://www.linkedin.com/company/vibeone",
+      "description": "Founded a marketing agency with focus on media production and digital marketing. \nOur USP is maximum efficiency, while still creating a unique vibe for every project.\n\nScaled the agency to six-figures next to my studies at university.\n\nWorked with clients like Visionaries Club, Tacto, Daimler, TUM, B. Braun, the Queensland Government and many SMBs – helping them to visualize their message and reach the right people.\n\nwww.vibe.one",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2021 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Freelance Marketing Manager",
+      "company": "scale up",
+      "companyUrl": "https://www.linkedin.com/company/scaleup-de",
+      "description": "scale up is a leading management consultancy in the field of start-up scaling and advises many fast-growing companies in the DACH region.\n\nI help to set up digital marketing processes for customer and employee acquisition. My responsibilities include marketing strategy, funnel development, media production, web design, and performance marketing.\n\nIn the process, I work closely with the founders and coaches, accompany consulting appointments at various companies on-site and gained a deep understanding of the Scaling Up Framework",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2021-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2021 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Founders Associate",
+      "company": "simpleclub",
+      "companyUrl": "https://www.linkedin.com/company/simpleclub",
+      "description": "simpleclub is an EdTech startup and Germany's most popular learning platform for school and education with over 2 million users per month.\n\nI studied a lot with simpleclub in school and became a fan of the company and its founders, so after my Abitur I thought: \"Why not apply and try to work there?\"\n\nI coordinated marketing, development and customer service, working closely with the founders. My key tasks included customer support, quality management, team restructuring, recruiting, and automation of internal processes.",
+      "location": "Remote",
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Freelance Tutor",
+      "company": "Selbstständig",
+      "companyUrl": null,
+      "description": "Helped students to improve their performances in the subjects physics and mathematics. Mainly I taught prospective high school graduates and supported them in their preparation for the written finals.",
+      "location": "Heidelberg, Baden-Württemberg, Germany",
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Filmmaker & Marketer",
+      "company": "Leon Sandner Film & Medienproduktion",
+      "companyUrl": "https://www.linkedin.com/company/leon-sandner-media",
+      "description": "Started my first business at age 15 with film and media production for SMBs.\nI continued my freelance work in a bigger scope with vibe.one.",
+      "location": "Heidelberg, Baden-Württemberg, Germany",
+      "start": "2017-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2017 – Dec 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Visiting Researcher, Cambridge Judge Business School",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Management & Technology",
+      "dateRange": "2020 – 2024"
+    },
+    {
+      "school": "National Taiwan University",
+      "degree": "Exchange Semester",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Elisabeth-von-Thadden-Schule Heidelberg",
+      "degree": "German High School Diploma (Abitur), Main Subjects: Political Science, Maths, Physics, English, German",
+      "dateRange": "2011 – 2019"
+    },
+    {
+      "school": "Kawana Waters State College (Queensland, Australia)",
+      "degree": "High School Semester Abroad",
+      "dateRange": "2017"
+    }
+  ],
+  "skills": [
+    "Unternehmertum",
+    "Digitales Marketing",
+    "Künstliche Intelligenz (KI)",
+    "Softwareentwicklung",
+    "SQL",
+    "Java",
+    "Next.js",
+    "UX-Design",
+    "KI für Design",
+    "KI für Unternehmen",
+    "Filmproduktion",
+    "Fotografie",
+    "Marketingstrategie",
+    "Business Development",
+    "Content Marketing",
+    "Content-Strategie",
+    "Online-Content-Erstellung",
+    "Neu gegründete Startups",
+    "Webanwendungsentwicklung",
+    "Performance-Marketing"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "yume",
+    "tagline": "the future of storytelling.\ncreate your own movie at www.yume.video",
+    "description": null,
+    "industry": "Technology, Information and Media",
+    "website": "https://yume.video/",
+    "linkedInUrl": "https://www.linkedin.com/company/yumehq",
+    "employeeCount": 3,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

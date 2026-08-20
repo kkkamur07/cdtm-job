@@ -1,0 +1,192 @@
+{
+  "id": "laszlovidos",
+  "name": "Laszlo Vidos",
+  "headline": "Private Investor, and assistant to Real Estate CEO",
+  "avatar": null,
+  "location": "Hungary",
+  "linkedInUrl": "https://www.linkedin.com/in/laszlovidos",
+  "personId": 1899,
+  "classes": [
+    {
+      "id": 66,
+      "label": "Fall 2009",
+      "season": "Fall",
+      "year": 2009,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2009",
+  "major": "Economics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "László Vidos",
+  "ca": null,
+  "summary": "Private investor for more than 10 years in high-quality\n- privately-held businesses,\n- Micro-cap stocks and\n- Real Estate.\nI blog about my financial journey and thoughts on my blog (in Hungarian): www.ertecash.hu. Co-founder Győri Befektetők Klubja",
+  "positions": [
+    {
+      "title": "Blogger",
+      "company": "www.ertecash.hu",
+      "companyUrl": null,
+      "description": "I write on my blog about finanacial and investment topics with a focus on Value Investing and Growth at Ultra Low Prices Investing in the stock market, with the occasional post about the fundamentals of Real Estate investing and private business investing, and I document my own journey.",
+      "location": null,
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Győri Befektetők Klubja (Investor Club of the city of Győr)",
+      "companyUrl": null,
+      "description": "Organise events for club members.",
+      "location": null,
+      "start": "2022-02",
+      "end": null,
+      "dateRange": "Feb 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Executive Assistant to Chief Executive Officer",
+      "company": "HÖRMANN HOLDING Kft.",
+      "companyUrl": "https://www.linkedin.com/company/hörmann-holding-kft.",
+      "description": "Conducting financial analysis and forecasting in EXCEL for the Real Estate portfolio, supporting the leasing and management of office and industrial properties, editing tenant leases, helping the CEO with translation and everyday tasks",
+      "location": "Győr, Győr-Moson-Sopron, Hungary",
+      "start": "2016-03",
+      "end": null,
+      "dateRange": "Mar 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Private Investor",
+      "company": "Private Microcap Investor",
+      "companyUrl": null,
+      "description": "Analyse investment opportunities in the public and private markets based on fundamentals and make and monitor investments based on such analysis.",
+      "location": null,
+      "start": "2014-05",
+      "end": null,
+      "dateRange": "May 2014 – Present",
+      "current": true
+    },
+    {
+      "title": "Real Estate Assistant",
+      "company": "Rmanagement Group Kft.",
+      "companyUrl": null,
+      "description": "Rmanagement Group Kft. is a software startup that has an app called \"Ingatlan Elemző Rendszer\" (\"Property Analyzer System\"), which has around 10.000 analysis points and helps people make better Real Estate decisions, before they buy or rent a property. Conducted market research on the hungarian Real Estate market, worked on the business model of the startup, communicated with potential business partners, helped create the slides for the CEO's presenation in the TV show \"Cápák Között\" (\"Sharktank\"), and prepared Pitch Decks for potential investors.",
+      "location": "Győr, Győr-Moson-Sopron, Hungary",
+      "start": "2021-04",
+      "end": "2023-01",
+      "dateRange": "Apr 2021 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Chair of Dynamic Modeling, Ludwig-Maximilians-Universität München",
+      "companyUrl": null,
+      "description": "Conducted research in financial literature\nWas responsible for updating the homepage\nPerformed administrative tasks",
+      "location": null,
+      "start": "2009-07",
+      "end": "2010-12",
+      "dateRange": "Jul 2009 – Dec 2010",
+      "current": false
+    },
+    {
+      "title": "M&A and Strategy Intern",
+      "company": "Concentro Management AG",
+      "companyUrl": null,
+      "description": "M&A, restructuring and strategy consultancy\nCreated short and long lists for M&A mandates, received training in M&A\nWrote parts of a business plan, conducted benchmarking and market research",
+      "location": null,
+      "start": "2009-01",
+      "end": "2009-04",
+      "dateRange": "Jan 2009 – Apr 2009",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Munich Experimental Laboratory for Economic and Social Sciences",
+      "companyUrl": null,
+      "description": "Research center that belongs to four departments of Ludwig-Maximilians-Universität München\nProgrammed and conducted experiments in the field of Game Theory",
+      "location": null,
+      "start": "2008-04",
+      "end": "2008-07",
+      "dateRange": "Apr 2008 – Jul 2008",
+      "current": false
+    },
+    {
+      "title": "Financial Advisory Intern",
+      "company": "BDO AG Wirtschaftsprüfungsgesellschaft",
+      "companyUrl": "https://www.linkedin.com/company/bdo-germany",
+      "description": "Interned in the Financial Advisory Services unit of the fifth largest auditing firm\nWorked on company valuations and due diligence projects\nPrepared and held a presentation about challenges in company valuation that are related to pensions",
+      "location": null,
+      "start": "2007-08",
+      "end": "2008-01",
+      "dateRange": "Aug 2007 – Jan 2008",
+      "current": false
+    },
+    {
+      "title": "Member",
+      "company": "Academy Consult e.V",
+      "companyUrl": null,
+      "description": "Academy Consult is a junior enterprise, which seeks to establish collaborations between students and companies in various ways, such as workshops and other events, and consulting projects\nLead a team of three, which were responsible for the quality management of external projects\nParticipated in workshops such as project management and presentation skills",
+      "location": null,
+      "start": "2006-11",
+      "end": "2008-07",
+      "dateRange": "Nov 2006 – Jul 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2009 – 2012"
+    },
+    {
+      "school": "Ludwig-Maximilians-Univeristät München",
+      "degree": "Diploma (equivalent to Masters), Economics",
+      "dateRange": "2006 – 2012"
+    },
+    {
+      "school": "Copenhagen Business School",
+      "degree": "Business Administration and Management, General",
+      "dateRange": "2008 – 2009"
+    },
+    {
+      "school": "Københavns Universitet - University of Copenhagen",
+      "degree": "Economics",
+      "dateRange": "2008 – 2009"
+    },
+    {
+      "school": "Czuczor Gergely Benedictine Secondary Grammar School",
+      "degree": "Final secondary-school examinations",
+      "dateRange": "2000 – 2005"
+    },
+    {
+      "school": "Adrian High School",
+      "degree": "High School Diploma",
+      "dateRange": "2002 – 2003"
+    }
+  ],
+  "skills": [
+    "M&A experience",
+    "Business Strategy",
+    "Management Consulting",
+    "Internet start-ups",
+    "Project Management",
+    "Environmental Economics",
+    "E-Energy",
+    "Start-ups",
+    "Valuation",
+    "Business Development"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": null
+}

@@ -1,0 +1,187 @@
+{
+  "id": "miriammetz",
+  "name": "Miriam Metz",
+  "headline": "Product & UX @Algonautin",
+  "avatar": {
+    "sm": "/avatars/miriammetz-sm.webp",
+    "lg": "/avatars/miriammetz.webp",
+    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAACwBQCdASogACAAPtFQpkuoJKOhsBgMAQAaCWQAuyE7oKNXA3rrXIA1Vk+tacgLUsmRqEcyY4AA/v4wet3pHI2e5C4UNrSzxXj/OnulhmZJxoY1AOknklH4j78iKmcCRic5tKYXUtLOLUlE1UXiZxlD4f1316u1RUevWIxTNdGrtPmyKuMUATjsmywkMOaZnGNIwcKC7Rln2AovPT5HtQlhb3vSLLBKmubGf0mA2RKL5VvvdwEq4MGVp+I9mG//g8DQsAXTO835QPVlx7eGd+7w1pj0+2fenmrScnsAAXq/Cyy0+8wytvXTUfwl181gEIB4C+NgAAA="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/miriammetz",
+  "personId": 772,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Media Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Miriam Metz",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founding Product Designer",
+      "company": "Algonautin",
+      "companyUrl": "https://www.linkedin.com/company/algonautin",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-12",
+      "end": null,
+      "dateRange": "Dec 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "UX Researcher",
+      "company": "Kaia Health",
+      "companyUrl": "https://www.linkedin.com/company/kaiahealth",
+      "description": null,
+      "location": "Munich, Germany; New York City, USA",
+      "start": "2022-02",
+      "end": "2022-10",
+      "dateRange": "Feb 2022 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Thesis Researcher",
+      "company": "Kaia Health",
+      "companyUrl": "https://www.linkedin.com/company/kaiahealth",
+      "description": null,
+      "location": null,
+      "start": "2021-06",
+      "end": "2022-01",
+      "dateRange": "Jun 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "UX Research Associate",
+      "company": "Kaia Health",
+      "companyUrl": "https://www.linkedin.com/company/kaiahealth",
+      "description": null,
+      "location": null,
+      "start": "2020-11",
+      "end": "2021-05",
+      "dateRange": "Nov 2020 – May 2021",
+      "current": false
+    },
+    {
+      "title": "Design Fellow",
+      "company": "Tech4Germany",
+      "companyUrl": "https://www.linkedin.com/company/tech4germany",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2020-07",
+      "end": "2020-10",
+      "dateRange": "Jul 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "UX/UI Designer",
+      "company": "Cliniserve",
+      "companyUrl": "https://www.linkedin.com/company/cliniserve",
+      "description": null,
+      "location": null,
+      "start": "2019-07",
+      "end": "2020-06",
+      "dateRange": "Jul 2019 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "UX Research Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2018-08",
+      "end": "2018-12",
+      "dateRange": "Aug 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Android Development Working Student",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": null,
+      "start": "2016-10",
+      "end": "2017-07",
+      "dateRange": "Oct 2016 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "UI Design Working Student",
+      "company": "Payoneer",
+      "companyUrl": "https://www.linkedin.com/company/payoneer",
+      "description": null,
+      "location": null,
+      "start": "2014-07",
+      "end": "2015-04",
+      "dateRange": "Jul 2014 – Apr 2015",
+      "current": false
+    },
+    {
+      "title": "Assistant in Media Literacy Projects",
+      "company": "SIN - Studio Im Netz",
+      "companyUrl": "https://www.linkedin.com/company/sin-studio-im-netz",
+      "description": null,
+      "location": null,
+      "start": "2008-09",
+      "end": "2014-06",
+      "dateRange": "Sep 2008 – Jun 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "M.Sc., Human-Computer-Interaction",
+      "dateRange": null
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student Researcher, Human Computer Interaction",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "B.Sc., Computer Science & Media",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Algonautin",
+    "tagline": "Empowering Engineers of tomorrow",
+    "description": "Understanding algorithms is more important than ever before. Meanwhile, education systems worldwide struggle to keep up with the rapid pace of technological development. We solve the problem by providing a fully automated computer science learning platform. Our intelligent evaluation system can understand the approach of individual solutions and provide reliable and detailed feedback. Engaging animations allow learners to visualize their algorithmic ideas to gain an intuitive understanding of even abstract concepts.\n\nOur goal is to make quality computer science education accessible online to pupils and students regardless of geography, gender, or wealth. Teachers and students in German schools already enjoy free access to our system thanks to a broad license by the Bundesweite Informatikwettbewerbe (BWINF): Try it at algo.bwinf.de\n\nOur team consists of experts in computer science and mathematics as well as experienced teachers and UX experts. We have decades of coaching experience in international computer science competitions, and many team members have won such competitions as participants. For example, one IOI and one IMO gold medalist, three ICPC World Finalists and one overall winner in the German National Competition in Computer Science are part of our team.",
+    "industry": "E-Learning Providers",
+    "website": "https://algonautin.com",
+    "linkedInUrl": "https://www.linkedin.com/company/algonautin",
+    "employeeCount": 5,
+    "foundedYear": 2023,
+    "location": "München, Germany",
+    "specialities": [
+      "Education of Algorithms",
+      "High Schools",
+      "Universities"
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": "sophia-wessling-35092684",
+  "name": "Sophia Wessling",
+  "headline": "Online-Lebensmittel",
+  "avatar": {
+    "sm": "/avatars/sophia-wessling-35092684-sm.webp",
+    "lg": "/avatars/sophia-wessling-35092684.webp",
+    "blur": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAAAwBgCdASogACAAPslSoEunpKMhsAwA8BkJYgBUf8wEyxbzO/f4lsjTGN1u1X6whNdUL8T+g1MoquDAAP7+wqDL0BvYVt8vWFHylz5FM/Eyaafrr9VznHzZCFShNgkXuX0CY1MnndS7JpyfpeGwO8iPtkhfly+wrceGhGEqA9IIXQA8lsRONohZaI0I1Rmsvm5vu4qV/jYEqUCxwocK37NmvnKEvVwkB84/IbsfAXqAmgAVUJNXNCBOwE+5oP76OI+cMp9G2nzYou/sviax9G6IuzQmP/V+cu2RHA1gXgEwAx742mYu7CEJ/5gIQAAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sophia-wessling-35092684",
+  "personId": 761,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": "Management with Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sophia Wessling",
+  "ca": null,
+  "summary": "Customer-centric startup enthusiast with >4 years of experience. Bridging the gap between\ntechnology and business by turning complex requirements into manageable projects. Passionate about\nefficiency and getting things done. Leading teams and colleagues with great empathy. Entrepreneurial minded and backed by a resourceful network from WHU & CDTM.",
+  "positions": [
+    {
+      "title": "Team Lead Strategic Revenue Management",
+      "company": "flaschenpost SE",
+      "companyUrl": "https://www.linkedin.com/company/flaschenpost",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Team Lead Chief of Staff / Business Development",
+      "company": "flaschenpost SE",
+      "companyUrl": "https://www.linkedin.com/company/flaschenpost",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2022-10",
+      "end": "2023-12",
+      "dateRange": "Oct 2022 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Co-Founder Frischepost Berlin",
+      "company": "Frischepost Berlin",
+      "companyUrl": null,
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2020-08",
+      "end": "2022-07",
+      "dateRange": "Aug 2020 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Freelance Product Manager",
+      "company": null,
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-07",
+      "dateRange": "Jan 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager @Visable Labs",
+      "company": "Gebraucht.de / Visable Labs",
+      "companyUrl": "https://www.linkedin.com/company/gebraucht-de-ug-haftungsbeschränkt-",
+      "description": null,
+      "location": "Berlin und Umgebung, Deutschland",
+      "start": "2019-05",
+      "end": "2019-12",
+      "dateRange": "May 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Product Manager @gebraucht.de",
+      "company": "Gebraucht.de / Visable Labs",
+      "companyUrl": "https://www.linkedin.com/company/gebraucht-de-ug-haftungsbeschränkt-",
+      "description": null,
+      "location": "Berlin und Umgebung, Deutschland",
+      "start": "2018-02",
+      "end": "2019-04",
+      "dateRange": "Feb 2018 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Head of Business Development",
+      "company": "Minodes",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2013-06",
+      "end": "2015-09",
+      "dateRange": "Jun 2013 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Johannesburg, Südafrika",
+      "start": "2012-05",
+      "end": "2012-07",
+      "dateRange": "May 2012 – Jul 2012",
+      "current": false
+    },
+    {
+      "title": "Finance & Controlling Intern",
+      "company": "Robert Bosch México (Commercial Division)",
+      "companyUrl": "https://www.linkedin.com/company/boschmexico",
+      "description": null,
+      "location": "Aguascalientes, Mexiko",
+      "start": "2011-05",
+      "end": "2011-07",
+      "dateRange": "May 2011 – Jul 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Business, Management, Marketing und verbundene unterstützende Dienste",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Management and Technology",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "WHU – Otto Beisheim School of Management",
+      "degree": "Bachelor of Science (BSc)",
+      "dateRange": "2010 – 2013"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Exchange",
+      "dateRange": "2012"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "flaschenpost SE",
+    "tagline": "Wir sind flaschenpost!",
+    "description": "Die flaschenpost SE erweitert den Getränkehandel durch on-demand delivery. Dies ist durch eine weitgehende Automatisierung der logistischen Prozesse sowie die Nutzung eines effizienten Routing-Algorithmus zur Tourenplanung möglich. Unser Geschäftsmodell ist bisher einzigartig in Deutschland. Die flaschenpost bietet den Kunden einen enormen Nutzen im Vergleich zu anderen Wettbewerbern – dem Einzelhandel und auch anderen Lieferdiensten. Wesentliche Elemente der Dienstleistung der flaschenpost sind: \n \n•\tKeine Liefergebühr \n•\tLieferung innerhalb von 120 Minuten nach Bestellung \n•\tGünstige Preise wie im Supermarkt \n•\tKostenlose Leergutmitnahme und sofortige Verrechnung mit dem \n        Bestellwert \n•\tAlle Bestellungen werden kostenfrei bis an die Wohnungs- oder \n        Haustür geliefert - egal in welchem Stockwerk sich diese befindet. \n•\tBezahlung einfach und sicher per PayPal oder Lastschrift \n\n2016 in Münster gegründet, sorgen mittlerweile über 500 flaschenpostler dafür, dass unsere 80 Auslieferungsfahrzeuge tagtäglich auf den Straßen der Fahrradmetropole unterwegs sind und unsere Kunden schnell und unkompliziert Ihre Bestellungen erhalten.\n\nDu möchtest Teil dieses Teams werden und unsere Expansion in andere Städte mit vorantreiben? Dann schau jetzt vorbei auf www.wirsindflaschenpost.de !",
+    "industry": "Food and Beverage Retail",
+    "website": "https://www.flaschenpost.de/unternehmen",
+    "linkedInUrl": "https://www.linkedin.com/company/flaschenpost",
+    "employeeCount": 1361,
+    "foundedYear": 2016,
+    "location": "Münster, Germany",
+    "specialities": []
+  }
+}

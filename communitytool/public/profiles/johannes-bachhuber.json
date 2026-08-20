@@ -1,0 +1,185 @@
+{
+  "id": "johannes-bachhuber",
+  "name": "Johannes Bachhuber",
+  "headline": "Staff Engineer at XO Life",
+  "avatar": {
+    "sm": "/avatars/johannes-bachhuber-sm.webp",
+    "lg": "/avatars/johannes-bachhuber.webp",
+    "blur": "data:image/webp;base64,UklGRh4BAABXRUJQVlA4IBIBAABQBgCdASogACAAPtFiqk+oJaOiKAgBABoJbACdKIHOALAWLJlQDM9fza/V5kX2Erh0hjbWgXBUbpbFPAD+5Z4u/hWrEvwcRqLra5l0Vqk3WuqPTbEKlAsgi6m7fiiH6GoSBOXkZ2p30GufydH7FbA/9SaJ7NUxvRVe/bxcJSlvHDnbA48cmk31EGx2tgq9NLcoxch75F6UKQJALRj1Dic1zKufk1JA8DryjKlM6nOf5cv8HJLxjGpme5sT/rSjtWPRehONeWkoCwF6+xegT+S6wAFL5n3fg2e4yTMv8MVa1+ejc8TZ83RURFDyzmyygCykHsOerl8frFpV1Ii8b9ioRp9rmim+g1U9XZSys4P4AAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/johannes-bachhuber",
+  "personId": 716,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Johannes Bachhuber",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Staff Engineer",
+      "company": "XO Life",
+      "companyUrl": "https://www.linkedin.com/company/xo-life",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief Technology Officer",
+      "company": "XO Life",
+      "companyUrl": "https://www.linkedin.com/company/xo-life",
+      "description": "We are building the largest Patient Insights Platform for all kinds of medicines and treatments together with great partners including from research institutes, media houses and life science companies. Check it out at https://britehealth.com",
+      "location": "Munich Area, Germany",
+      "start": "2018-09",
+      "end": "2023-08",
+      "dateRange": "Sep 2018 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Web Developer",
+      "company": "Sympatient GmbH",
+      "companyUrl": "https://www.linkedin.com/company/sympatient-gmbh",
+      "description": "Built the company website https://sympatient.com and consulted on the backend architecture.",
+      "location": null,
+      "start": "2018-03",
+      "end": "2018-12",
+      "dateRange": "Mar 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Technical Lead",
+      "company": "MIT Center for Collective Intelligence",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "Led a team of developers at the MIT Center for Collective Intelligence working on the Climate CoLab project, a family of related crowd-sourcing projects, and the Platform for Online Group Studies (POGS).",
+      "location": null,
+      "start": "2017-09",
+      "end": "2019-01",
+      "dateRange": "Sep 2017 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "MIT Center for Collective Intelligence",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "Worked as a Software Developer on the Climate CoLab project. The goal of the Climate CoLab is to harness the collective intelligence of thousands of people from all around the world to address global climate change.",
+      "location": null,
+      "start": "2016-02",
+      "end": "2017-08",
+      "dateRange": "Feb 2016 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Guest Lecturer",
+      "company": "International University Bremen",
+      "companyUrl": "https://www.linkedin.com/company/jacobs-university-bremen",
+      "description": "Taught yearly block course on \"Digital Entrepreneurship and Web Design\" every January. Designed a curriculum and course materials to teach students the basics entrepreneurship and programming and guide them in applying their knowledge working as small founder teams on practical exercises throughout the course.",
+      "location": "Bremen, Germany",
+      "start": "2016-01",
+      "end": "2019-01",
+      "dateRange": "Jan 2016 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Software Developer (Working Student)",
+      "company": "BTC - Business Technology Consulting AG",
+      "companyUrl": "https://www.linkedin.com/company/btcag",
+      "description": "Built the initial version of an iOS app for checking in guests at trade fairs and then coordinated further work on it done by two trainees. Also contributed to the ongoing development of several web projects.",
+      "location": null,
+      "start": "2013-09",
+      "end": "2015-09",
+      "dateRange": "Sep 2013 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Summer Intern",
+      "company": "Oak Ridge National Laboratory",
+      "companyUrl": "https://www.linkedin.com/company/oak-ridge-national-laboratory",
+      "description": "Worked as an intern in the Computer Science and Mathematics Division for two summers. Developed a simulation of the movement of the cantilever of an atomic force microscope (AFM) across a surface to measure the effects of small oscillations on the friction force it experiences. Designed experiments for this simulation and ran them on the ORNL's super computer.\n\n(Position held intermittently June to August 2012 and June to July 2013.)",
+      "location": "Oak Ridge, Tennessee, United States",
+      "start": "2012-06",
+      "end": "2013-07",
+      "dateRange": "Jun 2012 – Jul 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Informatics",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Student",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Jacobs University Bremen",
+      "degree": "Bachelor of Science (B.Sc.), Computer Science",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "University of Liverpool",
+      "degree": "Bachelor's degree (1st year), Computer Science",
+      "dateRange": "2011 – 2012"
+    },
+    {
+      "school": "Shanghai American School",
+      "degree": "International Baccalaureate (IB Diploma)",
+      "dateRange": "2009 – 2011"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "XO Life",
+    "tagline": "Enabling better Patient Education, Treatment Support and Real World Evidence from Patient Insights 🌎",
+    "description": "XO Life stands for\n✅ a state-of-the-art platform solution for long-term Patient Insights from the real world\n✅ real time information exchange between patients and pharma\n✅ a all-in-one platform to be used across all treatments and indications\n\nWe are a young and dynamic eHealth company setting a new standard patient data collection through scientifically based questionnaires across all treatments and medications.\n\nXO Life helps the pharmaceutical industry to better understand its patients. Our goal is to make digital treatment monitoring and patient feedback the gold standard in R&D, marketing and sales, while ensuring the highest data protection and security standards.\n\n➡️ Join us in shaping the future of patient centered medical data collection and learn more at:",
+    "industry": "Hospitals and Health Care",
+    "website": "https://www.xo-life.com/en",
+    "linkedInUrl": "https://www.linkedin.com/company/xo-life",
+    "employeeCount": 36,
+    "foundedYear": 2021,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Digital Health",
+      "Real-World-Evidence",
+      "patient-safety",
+      "communications platform provider",
+      "multidirectional communication for medical experts",
+      "pharmacovogilance",
+      "SaaS-solutions for pharma & biotech companies",
+      "Software & Add-on Service for pharmacovigilance",
+      "PROM",
+      "patient insights"
+    ]
+  }
+}

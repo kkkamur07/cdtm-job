@@ -1,0 +1,142 @@
+{
+  "id": "tillkern",
+  "name": "Till Kern",
+  "headline": "-",
+  "avatar": {
+    "sm": "/avatars/tillkern-sm.webp",
+    "lg": "/avatars/tillkern.webp",
+    "blur": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAAAwBgCdASogACAAPtFYpEyoJSOiKA1RABoJQBahF6VIHuT7+7J+V8O6nfhMOhZRDdvfyrn3qeSH6oAAAP79+aADD/jrHlL0/5O1x0C/eeoErMwO3/kVXTiWl2Wre3r95CSTgL/xwfTygo7Kct/c4ItKG3lFM5o9gwoxeAFKOYzbYglGGsHpNvs5LRslKjCGPeBhalRyHD/DAAMRw+qtqNub9aEMzyfCBkkPfVjsJPvsCq0Vxq3rSVs/VxhhahD7+u8BI7IYol9BP7iBRE0VRH5XsSeV5cZ5oQy9llL+KmG8iC1ZtElYuPktmqOPM2P+dWAwbWFK0YAAAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/tillkern",
+  "personId": 735,
+  "classes": [
+    {
+      "id": 82,
+      "label": "Fall 2017",
+      "season": "Fall",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2017",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Till Kern",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CPTO",
+      "company": "opus",
+      "companyUrl": "https://www.linkedin.com/company/opus-manufacturing",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Palantir Technologies",
+      "companyUrl": "https://www.linkedin.com/company/palantir-technologies",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2018 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Intern | Data Analyst",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": null,
+      "location": null,
+      "start": "2017-10",
+      "end": "2018-06",
+      "dateRange": "Oct 2017 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Student Researcher | SAP UCC",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2017-07",
+      "end": "2017-09",
+      "dateRange": "Jul 2017 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Intern | Technology Strategist",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": null,
+      "location": null,
+      "start": "2017-01",
+      "end": "2017-09",
+      "dateRange": "Jan 2017 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Academy Consult München e.V.",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": null,
+      "location": null,
+      "start": "2016-10",
+      "end": "2017-04",
+      "dateRange": "Oct 2016 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Academic Tutor",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2016-10",
+      "end": "2017-02",
+      "dateRange": "Oct 2016 – Feb 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Wirtschaftsinformatik",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Palantir Foundry"
+  ],
+  "languages": [],
+  "company": {
+    "name": "opus",
+    "tagline": null,
+    "description": "AI agents for industrial supply chains",
+    "industry": "Software Development",
+    "website": "https://opus-tech.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/opus-manufacturing",
+    "employeeCount": 12,
+    "foundedYear": null,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

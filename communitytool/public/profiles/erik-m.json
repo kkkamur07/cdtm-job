@@ -1,0 +1,193 @@
+{
+  "id": "erik-m",
+  "name": "Erik M.",
+  "headline": "Real Estate | CDTM",
+  "avatar": {
+    "sm": "/avatars/erik-m-sm.webp",
+    "lg": "/avatars/erik-m.webp",
+    "blur": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAADwBQCdASogACAAPtFWoUuoJKMhsBgMAQAaCWMAzNMsE5sSgbnwOOCUln5SG1q3NxkEbip6MZpu0AD+78LfS6tZ/XGJj5/t/vCeWRI1gci0egD2z3fIcv+E0/ypBgW+e7L7iFI/LOk/l7LuZH7gzO4WLAGkZtefYhfEuk+tTm75io/O7p0Bhy3xbpzDHI0Klc590smgdZxNJDjyXmPmvSWFZV4nEsfUf728ERIDYqiShs47IuSusxXGLZhvuJu0gACo78gCwoUvpNSmWAVqAAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/erik-m",
+  "personId": 962,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "B.Sc. and current M.Sc. in Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "claim-elimination",
+  "needsReview": true,
+  "rosterName": "Erik Mahler",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Managing Director",
+      "company": "Aledo Studio",
+      "companyUrl": "https://www.linkedin.com/company/aledo-studio",
+      "description": "Turning rundown real estate in Munich into profitable assets for investors like you.",
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Working on something new",
+      "company": "Stealth",
+      "companyUrl": "https://www.linkedin.com/company/steath",
+      "description": "A fresh take on Real Estate Asset & Investment Management. \nBased on Munich. Focus on FO & HNWI",
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Content Creator",
+      "company": "rik.haus",
+      "companyUrl": "https://www.linkedin.com/company/rikhaus",
+      "description": "Boutique social media content on real estate, city planning, architecture, and everything in between.\n~50k followers, ~300k impressions / month",
+      "location": null,
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": "Building software to help people build buildings.\nDiscovery & product management for profitable real estate.",
+      "location": null,
+      "start": "2023-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2023 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Product",
+      "company": "20fifty.de",
+      "companyUrl": "https://www.linkedin.com/company/20fifty-de",
+      "description": "Smart ESG estimates for asset managers and real estate developers, starting in early planning stages. Co-Founder, Business + Product Development.",
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Data Manager / Consultant",
+      "company": "F4 Immobilien GmbH",
+      "companyUrl": "https://www.linkedin.com/company/f4-immobilien",
+      "description": "Managing product development for a web-scraping based real estate market analysis and comparables tool.\nConsulting on ESG measures in preparation for an exit",
+      "location": null,
+      "start": "2022-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2022 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Product Development (via CDTM)",
+      "company": "Pina Earth",
+      "companyUrl": "https://www.linkedin.com/company/pina-de",
+      "description": "Initial discovery & solution prototyping for a carbon reduction certification method using satellite imagery in a team of 7. Handover to team that then founded & scaled the project to its current state.",
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Chauffeur",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Transfer of national and international guests (e.g. Munich Security Conference, Ryder Cup); driving in local, regional and international settings.",
+      "location": null,
+      "start": "2017-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2017 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Sales & Business Development",
+      "company": "ORDA",
+      "companyUrl": "https://www.linkedin.com/company/orda-technologies",
+      "description": "SDR & BDR for ORDA, a mobile ordering & payment app.",
+      "location": null,
+      "start": "2017-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2017 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Project Management",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Internship in Management/Controlling dept. for Carbon Structure in Electric Vehicles",
+      "location": null,
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar,  Real Estate Development, City Planning, Web Development, Entrepreneurship",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Business Administration (M.Sc.)",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "TUM Entrepreneurial Masterclass",
+      "degree": "Master Thesis with UnternehmerTUM, Startup Creation Track",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Maastricht University",
+      "degree": "Exchange via Erasmus",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Business Administration (B.Sc.), Specialized in Digital Business, Technology & Innovation",
+      "dateRange": "2015 – 2019"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Aledo Studio",
+    "tagline": "Wir kaufen, sanieren, und verkaufen hochwertige und durchdachte Wohnimmobilien in München.",
+    "description": "Im Ankauf agieren wir schnell, diskret, und verlässlich. Wir kaufen insbesondere sanierungsbedürftige Wohneinheiten, Reihenhäuser, Doppelhäuser, Einfamilien- und Mehrfamilienhäuser. \n\nBei der Sanierung achten wir auf durchdachte Wohnkonzepte, hochwertige Materialien und Qualitäten, und einen reibungslosen Ablauf. Bei vielen unserer Projekte können Sie sich als Käufer die Kosten der Ertüchtigung steuerlich geltend machen.\n\nIm Verkauf agieren wir persönlich und nahbar. Wir stellen sicher, dass Sie als Käufer ein werthaltiges Investment tätigen.",
+    "industry": "Real Estate",
+    "website": "https://www.aledo.studio",
+    "linkedInUrl": "https://www.linkedin.com/company/aledo-studio",
+    "employeeCount": 2,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

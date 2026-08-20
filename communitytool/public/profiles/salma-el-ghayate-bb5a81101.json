@@ -1,0 +1,201 @@
+{
+  "id": "salma-el-ghayate-bb5a81101",
+  "name": "Salma El Ghayate",
+  "headline": "EGYM | CDTM | Harvard",
+  "avatar": {
+    "sm": "/avatars/salma-el-ghayate-bb5a81101-sm.webp",
+    "lg": "/avatars/salma-el-ghayate-bb5a81101.webp",
+    "blur": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAACQBgCdASogACAAPtFSpEuoJKOhsBgMAQAaCWQAts2wEgKrfr/tpLQgAc+khbiuyecn9elkL+82mn5pcXMAAP79LFTYPtzb89U2BCb1+sSrf0lo34mlwVS2L0cSSdVGPEK00/vL/Qq3cHgd5lOGqtDQ4k8a8y/oXN/uE/S14sKuz8bFCLDZXXQI5xuAfesJyOON8askcsiXStUg8LjoYg9nBkyz5zall2cs80qU4rR4fsVEn53qeWOi1QfzXXffIvULm/N4f0Cyy4NnLfmrXsqksc+o4afSGGpPvuN1LYcGSrHHtYhsmsiAr+VsOHaT7oJMN6Lt0C/6Q4EC/fdqv1xuMYxhSTVEAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/salma-el-ghayate-bb5a81101",
+  "personId": 945,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Management and Digital Technologies",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Salma El Ghayate",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Group Business Analyst",
+      "company": "EGYM",
+      "companyUrl": "https://www.linkedin.com/company/egym-global",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder's Associate",
+      "company": "Futurail",
+      "companyUrl": "https://www.linkedin.com/company/futurail",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-04",
+      "end": "2024-09",
+      "dateRange": "Apr 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Harvard Business School",
+      "companyUrl": "https://www.linkedin.com/company/harvard-business-school",
+      "description": null,
+      "location": "Boston, Massachusetts, United States",
+      "start": "2023-08",
+      "end": "2024-02",
+      "dateRange": "Aug 2023 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Product Management and Marketing",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": "Responsible for product management and marketing of semiconductors for the automotive industry",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-03",
+      "end": "2023-08",
+      "dateRange": "Mar 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Allianz Technology",
+      "companyUrl": "https://www.linkedin.com/company/allianz-technology",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-03",
+      "end": "2023-03",
+      "dateRange": "Mar 2022 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "User Experience Research Intern",
+      "company": "UC San Diego",
+      "companyUrl": "https://www.linkedin.com/company/ucsandiego",
+      "description": null,
+      "location": null,
+      "start": "2020-06",
+      "end": "2020-09",
+      "dateRange": "Jun 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "User Experience Researcher",
+      "company": "University of Washington",
+      "companyUrl": "https://www.linkedin.com/company/university-of-washington",
+      "description": null,
+      "location": "Seattle, Washington, United States",
+      "start": "2019-09",
+      "end": "2020-06",
+      "dateRange": "Sep 2019 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "MENA-Michigan Initiative for Global Action Through Entrepreneurship",
+      "company": "William Davidson Institute at the University of Michigan",
+      "companyUrl": "https://www.linkedin.com/company/william-davidson-institute",
+      "description": "The M2GATE program is a team-based social entrepreneurship program that offers experiential learning and cross-cultural interactions with international peers through a virtual exchange. The goal of the M2GATE program is to create an entrepreneurial solution to a pressing social concern within the MENA region.\n\n-Developed a business model to increase access to extracurricular activities in Morocco for people from different backgrounds",
+      "location": null,
+      "start": "2018-05",
+      "end": "2018-07",
+      "dateRange": "May 2018 – Jul 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Research Fellow at the Laboratory for Innovation Science at Harvard Business School\nCourses: Launching Tech Ventures, Global Tech Entrepreneurship",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science, Management and Digital Technologies",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "University of Washington",
+      "degree": "Exchange Program, Computer Science",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Al Akhawayn University",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2017 – 2021"
+    },
+    {
+      "school": "Lycée Hassan II",
+      "degree": "Baccalauréat , Sciences mathématiques A",
+      "dateRange": "2015 – 2017"
+    }
+  ],
+  "skills": [
+    "Programming",
+    "Leadership",
+    "Mathematics",
+    "Python",
+    "MATLAB",
+    "Cascading Style Sheets (CSS)",
+    "Bootstrap",
+    "Public Speaking",
+    "Communication",
+    "Octave",
+    "Community Service",
+    "C",
+    "Microsoft Power BI",
+    "MySQL",
+    "Neo4j",
+    "Marketing",
+    "Figma (Software)"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French",
+    "German",
+    "Moroccan Colloquial Arabic"
+  ],
+  "company": {
+    "name": "EGYM",
+    "tagline": null,
+    "description": "EGYM is a global fitness technology company on a mission to shift healthcare from repair to prevention — equipping fitness and health facilities with smart, connected training solutions and employers with corporate wellness through EGYM Wellpass. \n\nEGYM is part of the Playlist portfolio of brands.",
+    "industry": "Wellness and Fitness Services",
+    "website": "https://us.egym.com/en-us",
+    "linkedInUrl": "https://www.linkedin.com/company/egym-global",
+    "employeeCount": 483,
+    "foundedYear": null,
+    "location": "Denver, United States",
+    "specialities": [
+      "Fully Electronic Strength Equipment",
+      "Open Cloud Platform",
+      "Online Workout Planning & Tracking",
+      "Training Analysis",
+      "Smart Trainer-Member Interaction"
+    ]
+  }
+}

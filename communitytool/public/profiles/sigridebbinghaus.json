@@ -1,0 +1,145 @@
+{
+  "id": "sigridebbinghaus",
+  "name": "Sigrid Ebbinghaus",
+  "headline": "Director bei UnternehmerTUM",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sigridebbinghaus",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Director",
+      "company": "UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/unternehmertum",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Manager",
+      "company": "UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/unternehmertum",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-01",
+      "end": "2023-01",
+      "dateRange": "Jan 2019 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Senior Consultant New Venture Creation",
+      "company": "UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/unternehmertum",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-01",
+      "end": "2019-01",
+      "dateRange": "Jan 2015 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Lead Startup Advisor Assistant",
+      "company": "BlueChilli Group",
+      "companyUrl": "https://www.linkedin.com/company/blue-chilli-technology",
+      "description": "Sydney",
+      "location": null,
+      "start": "2013-08",
+      "end": "2013-12",
+      "dateRange": "Aug 2013 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Scientific Assistant",
+      "company": "Ludwig-Maximilians-Universität (LMU) München - Unterrichtsmitschau",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2010-03",
+      "end": "2013-02",
+      "dateRange": "Mar 2010 – Feb 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Medieninformatik",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2011 – 2012"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Medieninformatik",
+      "dateRange": "2009 – 2012"
+    }
+  ],
+  "skills": [
+    "Unternehmertum",
+    "Start-ups",
+    "Design Thinking",
+    "Business Design",
+    "Rapid Prototyping",
+    "Projektmanagement",
+    "Entrepreneurship",
+    "Strategisches Management",
+    "Project Management",
+    "Business Development",
+    "Product Development",
+    "Innovation Management",
+    "Agile Methods",
+    "Workshops",
+    "User Experience",
+    "Team-Mentoring",
+    "Unternehmensstrategie",
+    "Business Strategy",
+    "Unternehmensführung",
+    "Incubation"
+  ],
+  "languages": [],
+  "company": {
+    "name": "UnternehmerTUM",
+    "tagline": null,
+    "description": "At UnternehmerTUM, visions turn into value. Our teams empower innovation enthusiasts to take entrepreneurial action. Together with startups and established companies, we drive tech ventures forward - from first idea to market leadership. \n\nIn collaboration with the Technical University of Munich (TUM) and entrepreneur Susanne Klatten, we’ve been promoting future-forward startups such as Celonis, Konux, Lilium, inveox, and Isar Aerospace since 2002.",
+    "industry": "Higher Education",
+    "website": "https://www.unternehmertum.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/unternehmertum",
+    "employeeCount": 647,
+    "foundedYear": null,
+    "location": "Garching (Munich), Germany",
+    "specialities": [
+      "Innovation",
+      "Entrepreneurship",
+      "KI",
+      "Nachhaltigkeit",
+      "Mittelstand",
+      "Female Entrepreneurship",
+      "Mobilität",
+      "Built Environment",
+      "Healthcare",
+      "Leadership",
+      "Tech Education",
+      "Venture Capital",
+      "Startups",
+      "Deep Tech"
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "felixcbinder",
+  "name": "Felix Binder",
+  "headline": "Quantum Physicist",
+  "avatar": null,
+  "location": "Dublin, Ireland",
+  "linkedInUrl": "https://www.linkedin.com/in/felixcbinder",
+  "personId": 1883,
+  "classes": [
+    {
+      "id": 66,
+      "label": "Fall 2009",
+      "season": "Fall",
+      "year": 2009,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2009",
+  "major": "Physics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Felix Binder",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Assistant Professor in Quantum Science",
+      "company": "Trinity College Dublin",
+      "companyUrl": "https://www.linkedin.com/company/trinity-college-dublin",
+      "description": null,
+      "location": "Dublin, County Dublin, Ireland",
+      "start": "2021-09",
+      "end": null,
+      "dateRange": "Sep 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Postdoc",
+      "company": "IQOQI Vienna - Austrian Academy of Sciences",
+      "companyUrl": "https://www.linkedin.com/company/iqoqi-vienna",
+      "description": null,
+      "location": null,
+      "start": "2019-05",
+      "end": "2021-08",
+      "dateRange": "May 2019 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Research Fellow",
+      "company": "Nanyang Technological University",
+      "companyUrl": "https://www.linkedin.com/company/ntusg",
+      "description": null,
+      "location": "Singapore",
+      "start": "2016-04",
+      "end": "2019-05",
+      "dateRange": "Apr 2016 – May 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Oxford",
+      "degree": "DPhil",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2009 – 2011"
+    },
+    {
+      "school": "EPFL",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom (physics)",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Quantum Mechanics",
+    "Thermodynamics",
+    "Science",
+    "Research",
+    "Matlab",
+    "Microsoft Office",
+    "LaTeX",
+    "Teaching",
+    "Mathematical Modeling",
+    "Physics"
+  ],
+  "languages": [
+    "English"
+  ],
+  "company": {
+    "name": "Trinity College Dublin",
+    "tagline": "Ireland's leading university",
+    "description": "Trinity College Dublin is recognised internationally as Ireland's premier university and is ranked joint 75th in the world (QS World University Rankings, 2024). In the Times Higher Education World University Rankings, Trinity is ranked 134th globally.",
+    "industry": "Higher Education",
+    "website": "http://www.tcd.ie/",
+    "linkedInUrl": "https://www.linkedin.com/company/trinity-college-dublin",
+    "employeeCount": 7276,
+    "foundedYear": 1592,
+    "location": "Dublin, Ireland",
+    "specialities": [
+      "Education",
+      "Research",
+      "Innovation"
+    ]
+  }
+}

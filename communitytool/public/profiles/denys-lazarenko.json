@@ -1,0 +1,196 @@
+{
+  "id": "denys-lazarenko",
+  "name": "🇺🇦 Denys Lazarenko",
+  "headline": "AI Engineer @ Interloom",
+  "avatar": {
+    "sm": "/avatars/denys-lazarenko-sm.webp",
+    "lg": "/avatars/denys-lazarenko.webp",
+    "blur": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABwBQCdASogACAAPsVSoEunpKMht/VYAPAYiWMAVw/QAGgtSsfhRlHDpRHWaSpMMiR7UaeQAP79vSPI/cZ/kMb0IZA28amr1kqicyb3JZJ5Ur1Tw2tEIS2A4yvBQ4DCXkLbpKAOX7+K079ZL49wCpY2SxIbja223d3Q1crPW+v6pAnMErKf69MwtsSQBd/5yb1e51uiUBpvGopJ0M4ansmE3/XEUAv82FQ5E3XZykjmGl218aWizAKcuCFoYAAA"
+  },
+  "location": "Barcelona, Spain",
+  "linkedInUrl": "https://www.linkedin.com/in/denys-lazarenko",
+  "personId": 1103,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "M.Sc. Mathematics in Data Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Denys Lazarenko",
+  "ca": null,
+  "summary": "I'm a data-driven problem solver with years of experience in Software Engineering, Data Engineering and Machine Learning. I have strong technical skills in Mathematics, Data Science, and Software Engineering. I'm driven by the desire to work in growth environment and committed to make a meaningful impact on the world through AI. I'm a team player with a strong \"get-it-done\" attitude and a passion for continuous learning.",
+  "positions": [
+    {
+      "title": "Founding AI Engineer",
+      "company": "Interloom",
+      "companyUrl": "https://www.linkedin.com/company/interloom",
+      "description": "Building ⚒️",
+      "location": "Berlin, Germany",
+      "start": "2024-04",
+      "end": null,
+      "dateRange": "Apr 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Founding Product Engineer",
+      "company": "pyne",
+      "companyUrl": "https://www.linkedin.com/company/pyneai",
+      "description": "Building ⚒️\n\nProduct #1\n• Developed data analytics platform for RevOps teams. \n• Designed data model and integrated with Hubspot, Salesforce and Chargebee. \n• Created Insights system using ML and LLMs: GPT-4 with Vision + diagrams + tabular data = insights.\n• Responsible for diverse functions: Data Management, Backend Development, Product & Hiring.\n\nProduct #2\n• Building a an easier way to achieve AI automation of your browser tasks.\n• Developed a browser-based extension that captures user interactions and voice, processes data using Speech Recognition and LLMs, and creates interactive product tours available as video, chatbot, or web page injection.\n• Developed a ChatBot for marketing teams based on RAGs.\n• Designed quality evaluation and retraining pipeline for RAGs.\n\nTechnologies: FastAPI, SQLAlchemy, Pydentic; OpenAI, LlamaIndex; BigQuery, AirByte; GCP, Docker, supabase, render, vectorstores; React.",
+      "location": "Berlin, Germany",
+      "start": "2022-12",
+      "end": "2024-04",
+      "dateRange": "Dec 2022 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": "Engineered ELT pipelines and analytics empowering customers to make informed decisions.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-04",
+      "end": "2022-09",
+      "dateRange": "Apr 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Software Engineer at Azure Speech Services",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Azure Speech Services Team:\n• Perform cloud engineering tasks in the context of the Azure Speech Service’s backend infrastructure.\n• Design, and implement code for deploying and testing acoustic and language models for Speech Recognition.\n• Operationalize this code in Azure DevOps to handle Speech Service model deployment across Azure’s global infrastructure and according to Azure safe deployment practices.\n\nModeling Team:\n• Design Acoustic Language/Dialect Identification [LID/DID] for DACH region using end-to-end models.\n\nTechnologies: C#, Azure Cloud Infrastructure, YAML scripting; PyTorch, Kaldi, CycleCloud.",
+      "location": "Munich, Germany",
+      "start": "2020-09",
+      "end": "2022-01",
+      "dateRange": "Sep 2020 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Research Scientist",
+      "company": "Télécom Paris",
+      "companyUrl": "https://www.linkedin.com/company/telecom-paris",
+      "description": "Research on the topic of Hierarchical Graph Co-Clustering. The objective of this work was to develop a metric that assesses the quality of a tree in terms of graph reconstruction. The research was done in cooperation with the DIG group (https://dig.telecom-paris.fr/), under the supervision of Prof. Thomas Bonald.\nTechnologies: C programming, Cython, CPython; ete3, scikit-learn.",
+      "location": "Paris, Île-de-France, France",
+      "start": "2020-03",
+      "end": "2020-08",
+      "dateRange": "Mar 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur",
+      "company": "Lamiloo",
+      "companyUrl": null,
+      "description": "Solution is a game-changer for local pharmacies that aims to deliver medicaments door to door just in 2 hours using green transport.\n\nAs Entrepreneur:\n• Selected for the final stage of the HiReach Startup Project.\n• Selected for the new batch at LMU Entrepreneurship Center.\n• Run MVP Pilot Project in cooperation with Sanacorp pharmaceutical wholesaler.\n\nAs Lead Data Science/Engineering:\n• Design, deploy and manage cloud infrastructure.\n• Develop and integrate Route Optimization Solution.\n• Build frontend and backend parts of core product.\n\nTechnologies: Elixir (Phoenix Framework); Terraform, Docker, AWS; Google Maps API; OR-tools.",
+      "location": "Munich, Germany",
+      "start": "2020-01",
+      "end": "2020-07",
+      "dateRange": "Jan 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": "Climate intelligence for construction\n• Tackled the problem of \"How to reduce carbon emissions in the construction industry?\".\n• Product development: research, customer interviews, ideating, prototyping, and pitching.\n• Implemented a Full Stack MVP that offers actionable insights for carbon emission reduction.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Data Scientist",
+      "company": "MergerSpot",
+      "companyUrl": "https://www.linkedin.com/company/mergerspot",
+      "description": "Mergerspot is a fintech startup providing detailed market profiles of German mid-sized companies. It was acquired by Gain.Pro in 02/2020.\n\n• Participated in design implementation and support of ML end-to-end pipeline which retrains model, reweight parameters and provides a feedback loop. Built a full-stack web app and launched it.\n• Automated deployment and management of containerized microservices (decreased month price for GCP ≈5 times) using Kubernetes and Terraform.\n• Improved an Automatic Information Extraction using Dependency Parsers from papers(≈10% growth).\nTechnologies: spaCy, NLTK, StanfordNLP; Flask, Vue.js; MongoDB, RabbitMQ, Consul.",
+      "location": "Munich Area, Germany",
+      "start": "2019-04",
+      "end": "2019-12",
+      "dateRange": "Apr 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Junior Machine Learning Engineer",
+      "company": "Genesis Tech",
+      "companyUrl": "https://www.linkedin.com/company/genesis-technology-partners",
+      "description": "I was a part of Jiji.ng Team - the biggest classified in East and West Africa.\n\n• Website User Text Analysis: error detection and correction of English texts, gibberish detection and semantic analysis using NLP based approaches.\n• Improved quality of advert auto-moderation system (≈10% growth): implemented models for multi-class classification of pictures and texts using Deep Learning.\n• Developed a recommendation system for advertisements.\n• Created a fraud detection system for web and mobile apps.\nTechnologies: Keras, PySpark, Gensim; Flask, SQLAlchemy, Celery; Clickhouse, Elasticsearch, PostgreSQL.",
+      "location": "Kiev Region, Ukraine",
+      "start": "2017-06",
+      "end": "2018-08",
+      "dateRange": "Jun 2017 – Aug 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Mathematics in Data Science, Mathematics and Computer Science",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "National Technical University of Ukraine 'Kyiv Polytechnic Institute'​",
+      "degree": "Bachelor, System analysis",
+      "dateRange": "2014 – 2018"
+    }
+  ],
+  "skills": [
+    "Great Expectations",
+    "Flask",
+    "Vue.js",
+    "GCP",
+    "Tailwind CSS",
+    "Firebase",
+    "Hugging Face",
+    "Data Warehousing",
+    "Microsoft Azure",
+    "Data Architecture",
+    "data orchestration",
+    "Continuous Integration and Continuous Delivery (CI/CD)",
+    "ELT",
+    "Prefect",
+    "dbt",
+    "Large Language Models (LLM)",
+    "Data Engineering",
+    "Machine Learning",
+    "Data Analysis",
+    "Logistics"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Interloom",
+    "tagline": "Supercharged Operations",
+    "description": "Interloom is the first Navigation System for Work. It helps you map how your teams actually work. Grounded in this precedent, it guides your operational teams with suggested next steps and relevant context and empowers your AI agents to follow their lead.",
+    "industry": "Software Development",
+    "website": "https://interloom.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/interloom",
+    "employeeCount": 19,
+    "foundedYear": 2024,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

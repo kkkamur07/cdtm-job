@@ -1,0 +1,131 @@
+{
+  "id": "claas-meiners-a86112133",
+  "name": "Claas Meiners",
+  "headline": "Engineer at Palantir | ex Amazon | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/claas-meiners-a86112133-sm.webp",
+    "lg": "/avatars/claas-meiners-a86112133.webp",
+    "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAACQBQCdASogACAAPtFOpEwoI6OiMBgMAQAaCWYANQAKfJW/XHwisaFat8lkEABkpFja5pRAAAD+/pOi38yC5EHG/TeaQr42e0z4mpq/OLVidwJq2HPkJXwaj7c/8o8M8P4ZiO45fAyoE/bk/tBmZVUEFD7N6ZOxKuNsQOSsnYLW1lnfHKuGr/tidr+qbd40Oo2h8r7LcT0mxKnmcyuwSHzWP8LLsP/AOGbU4F7u5rtH2ty9dLptSzaaKSCKX/nouW4jW05UxbP50DX9zvsCO+xwvc+Fhx1IGSYnEZkD7+0RYVEVAAA="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/claas-meiners-a86112133",
+  "personId": 824,
+  "classes": [
+    {
+      "id": 80,
+      "label": "Fall 2016",
+      "season": "Fall",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2016",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Claas Meiners",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Forward Deployed Software Engineer",
+      "company": "Palantir Technologies",
+      "companyUrl": "https://www.linkedin.com/company/palantir-technologies",
+      "description": null,
+      "location": null,
+      "start": "2021-08",
+      "end": null,
+      "dateRange": "Aug 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Business lntelligence Engineer",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": null,
+      "location": null,
+      "start": "2019-06",
+      "end": "2021-07",
+      "dateRange": "Jun 2019 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Carnegie Mellon University",
+      "companyUrl": "https://www.linkedin.com/company/carnegie-mellon-university",
+      "description": "Masters Thesis titled \"Deep Learning for Video to Text Retrieval on News Media\"",
+      "location": null,
+      "start": "2018-07",
+      "end": "2018-12",
+      "dateRange": "Jul 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "Deloitte Digital",
+      "companyUrl": "https://www.linkedin.com/company/deloitte-digital",
+      "description": null,
+      "location": null,
+      "start": "2017-04",
+      "end": "2017-07",
+      "dateRange": "Apr 2017 – Jul 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Informatik",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Informatik",
+      "dateRange": "2014 – 2017"
+    }
+  ],
+  "skills": [
+    "AngularJS",
+    "JavaScript",
+    "Java",
+    "Node.js",
+    "Android",
+    "Python",
+    "Künstliche Intelligenz",
+    "Windows Phone",
+    "Maschinelles Lernen"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Palantir Technologies",
+    "tagline": "Software that dominates.",
+    "description": "AI-powered automation for every decision.\n\nAt Palantir, our software powers AI-driven decisions in critical government and commercial enterprises in the West, from the factory floors to the front lines.\n\nOur platforms feature advanced tools for data protection, governance, responsible use of AI, and civilian protection capabilities for defense applications.\n\nDominate your most complex problems with Palantir.",
+    "industry": "Software Development",
+    "website": "http://www.palantir.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/palantir-technologies",
+    "employeeCount": 5694,
+    "foundedYear": null,
+    "location": "Denver, United States",
+    "specialities": [
+      "data integration",
+      "big data",
+      "enterprise software",
+      "data analytics",
+      "data protection",
+      "data engineering",
+      "artificial intelligence",
+      "ai platform"
+    ]
+  }
+}

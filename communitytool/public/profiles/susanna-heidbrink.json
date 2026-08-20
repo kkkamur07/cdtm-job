@@ -1,0 +1,179 @@
+{
+  "id": "susanna-heidbrink",
+  "name": "Susanna Heidbrink",
+  "headline": "Stanford | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/susanna-heidbrink-sm.webp",
+    "lg": "/avatars/susanna-heidbrink.webp",
+    "blur": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAADwBQCdASogACAAPrlKnUunJCKht+gA4BcJYwCBu0gDRBM2q2Jh+dT1D/gQvaJ5dsxHB3ybUQ4ikAD++6l3z4Z51VGaNlNTSR9Gfp1tb5Fc2SeBNukdg+bMvFLBQ9lbgd60yD5DUrKPz1/+96z/MzA+4JvsoadjrwZdzZneAm+ZgZMcSoAl1nuT9IkCygCKP1XSwGqMOxQ/NoquGh96vhzDsGp6lLk1sSQTYKfpAdqaRZTG+hsXI872aEUk+7m0w1RJblfWhgIcPFNyZcfgAA=="
+  },
+  "location": "San Francisco Bay, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/susanna-heidbrink",
+  "personId": 930,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Susanna Heidbrink",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Business Operations",
+      "company": "Nomos",
+      "companyUrl": "https://www.linkedin.com/company/nomos-energy",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2024-11",
+      "end": "2025-02",
+      "dateRange": "Nov 2024 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2024-09",
+      "end": "2024-10",
+      "dateRange": "Sep 2024 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Project Student | Product Development",
+      "company": "Avi Medical",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-10",
+      "end": "2024-01",
+      "dateRange": "Oct 2023 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Junior Investment Analyst",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-06",
+      "end": "2024-04",
+      "dateRange": "Jun 2023 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Intern | Founder's Associate",
+      "company": "Tanso",
+      "companyUrl": "https://www.linkedin.com/company/tansotechnologies",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-02",
+      "end": "2023-05",
+      "dateRange": "Feb 2023 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Working Student | Consulting",
+      "company": "TCW Management Consulting",
+      "companyUrl": "https://www.linkedin.com/company/tcwtransfer-centrum",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-09",
+      "end": "2023-02",
+      "dateRange": "Sep 2022 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Intern | Product Management",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-03",
+      "end": "2022-07",
+      "dateRange": "Mar 2022 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Project Student | AI Automation",
+      "company": "KPMG Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/kpmg-deutschland",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-03",
+      "end": "2021-05",
+      "dateRange": "Mar 2021 – May 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Graduate Researcher, Entrepreneurship",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management and Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Sogang University",
+      "degree": "Semester Abroad in Seoul, South Korea",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Management and Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Universitat Politècnica de València (UPV)",
+      "degree": "Semester Abroad in Valencia, Spain",
+      "dateRange": null
+    },
+    {
+      "school": "John F. Kennedy School Berlin",
+      "degree": "Abitur & American High School Diploma",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Nomos",
+    "tagline": "Because it’s about more than energy.\nIt’s about power.",
+    "description": "Nomos helps leading hardware companies launch their own electricity plans by abstracting all legal and operational complexity into a simple API layer.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.nomos.energy/",
+    "linkedInUrl": "https://www.linkedin.com/company/nomos-energy",
+    "employeeCount": 11,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "id": "manuelscholz",
+  "name": "Manuel Scholz",
+  "headline": "Director Global Risk at Bain & Company in Zurich",
+  "avatar": {
+    "sm": "/avatars/manuelscholz-sm.webp",
+    "lg": "/avatars/manuelscholz.webp",
+    "blur": "data:image/webp;base64,UklGRlQBAABXRUJQVlA4IEgBAACQBgCdASogACAAPtFap04oJSOiKAqpABoJbACdAd2vgUYGca0OJGgJyBJYIXPxEuWJRTBykSneaF3kwE0wAP5y4gp3sHpgcawg03TVW8/2QtLj/7V5WxLzBF/wnH2urgxCfySDZ6OQUBkAdXbgvRRHBVVOE5Zb3Tw0F2GP/lEH5SQZb95HI9Etpm7xJAJrdIb8iOk6Pb+PiHX0c7nMU+/jRffW8PTEohl7P7dDShl9e9IPAlyKteAwweY+5x2OCfTtzLb86vMvfvltcNOysCddbcfTJ0YmEIeEXw2KVplwb52M2PYHnikgzdNP5bh0dYnSo9hP+CGHNdhmw7P6kH/x/Bat1FGuQ2rqOHNzrFzYBb35akviXY/J67rJfXbI+KInL+H59VPKrQxgiQCWkRw0IQcws1KK+WJrdJqnBdGVlLkKlI1LAAAA"
+  },
+  "location": "Zurich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/manuelscholz",
+  "personId": 1219,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Economics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Manuel Scholz",
+  "ca": null,
+  "summary": "Director at Bain & Company, specializing in assessing AI, software, and technology risks across complex global environments. I lead initiatives that ensure responsible AI adoption and robust risk governance while driving IT transformation to strengthen operational resilience and digital capability. Passionate about helping organizations harness technology safely and strategically.",
+  "positions": [
+    {
+      "title": "Director Global Risk",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Program Manager Global Risk",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Practice / Program Manager",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2023-04",
+      "end": "2024-10",
+      "dateRange": "Apr 2023 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Manager",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2021-10",
+      "end": "2024-10",
+      "dateRange": "Oct 2021 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2019-07",
+      "end": "2021-09",
+      "dateRange": "Jul 2019 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Senior Associate Consultant",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-09",
+      "end": "2019-06",
+      "dateRange": "Sep 2017 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2017-05",
+      "end": "2017-07",
+      "dateRange": "May 2017 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant Intern",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": "Strategy consulting internship with a focus on digitalization",
+      "location": "Munich",
+      "start": "2017-01",
+      "end": "2017-03",
+      "dateRange": "Jan 2017 – Mar 2017",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "eFonds Solutions AG",
+      "companyUrl": "https://www.linkedin.com/company/efondsag",
+      "description": "Developing a platform for crowd-based investments",
+      "location": null,
+      "start": "2015-04",
+      "end": "2015-06",
+      "dateRange": "Apr 2015 – Jun 2015",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Magazino",
+      "companyUrl": "https://www.linkedin.com/company/magazino-a-jungheinrich-company",
+      "description": "Analysing the logistics market and creating a market entry strategy",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-10",
+      "end": "2015-02",
+      "dateRange": "Oct 2014 – Feb 2015",
+      "current": false
+    },
+    {
+      "title": "Working Student Institutional Sales",
+      "company": "Pioneer Investments",
+      "companyUrl": "https://www.linkedin.com/company/amundi-us",
+      "description": "Munich",
+      "location": null,
+      "start": "2013-07",
+      "end": "2014-06",
+      "dateRange": "Jul 2013 – Jun 2014",
+      "current": false
+    },
+    {
+      "title": "Tutor for Micro- and Macroeconomics",
+      "company": "LMU - Ludwig-Maximilians-Universität München",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2013-04",
+      "end": "2016-07",
+      "dateRange": "Apr 2013 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Working Student Asset Management & Research",
+      "company": "GLL Real Estate Partners",
+      "companyUrl": "https://www.linkedin.com/company/gll-real-estate-partners",
+      "description": "- Working student in Fund and Asset Management (12 months)\n- Internship developing an empirical rating tool for real estate properties (3 months)",
+      "location": "Munich",
+      "start": "2011-09",
+      "end": "2012-09",
+      "dateRange": "Sep 2011 – Sep 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science, Economics",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Graduate Economics Student Exchange Program (GESEP), Economics",
+      "dateRange": "2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Technology Management",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor, Economics",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "University of Warwick",
+      "degree": "Erasmus Scholarship, Economics",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Le Wagon",
+      "degree": "Computer Programming",
+      "dateRange": "2020"
+    }
+  ],
+  "skills": [
+    "Artificial Intelligence (AI)",
+    "Responsible AI",
+    "Third Party Risk Management (TPRM)",
+    "Risk Management",
+    "Research",
+    "Asset Management",
+    "Data Analysis",
+    "Microsoft Excel",
+    "Statistics",
+    "PowerPoint",
+    "Consulting",
+    "Macroeconomics",
+    "Microeconomics",
+    "Industrial Organization",
+    "Technology Management",
+    "Microsoft Office",
+    "Unternehmensstrategie",
+    "Wirtschaftswissenschaften",
+    "Unternehmensberatung",
+    "Strategie",
+    "Project Management",
+    "Business Strategy",
+    "Digitalisierung",
+    "Ruby on Rails",
+    "Ruby",
+    "JavaScript",
+    "Digital Transformation",
+    "Management",
+    "Analytical Skills"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "Bain & Company",
+    "tagline": null,
+    "description": "Bain & Company is a global consultancy that helps the world’s most ambitious change makers define the future. \n\nAcross 65 cities in 40 countries, we work alongside our clients as one team with a shared ambition to achieve extraordinary results, outperform the competition, and redefine industries. We complement our tailored, integrated expertise with a vibrant ecosystem of digital innovators to deliver better, faster, and more enduring outcomes. Our 10-year commitment to invest more than $1 billion in pro bono services brings our talent, expertise, and insight to organizations tackling today’s urgent challenges in education, racial equity, social justice, economic development, and the environment. We earned a platinum rating from EcoVadis, the leading platform for environmental, social, and ethical performance ratings for global supply chains, putting us in the top 1% of all companies. Since our founding in 1973, we have measured our success by the success of our clients.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bain.com",
+    "linkedInUrl": "https://www.linkedin.com/company/bain-and-company",
+    "employeeCount": 23379,
+    "foundedYear": null,
+    "location": "Boston, United States",
+    "specialities": [
+      "Strategy",
+      "Customer Strategy & Marketing",
+      "Performance Improvement",
+      "Mergers & Acquisitions",
+      "Private Equity",
+      "Organization",
+      "Results Delivery",
+      "Information Technology",
+      "Corporate Renewal"
+    ]
+  }
+}

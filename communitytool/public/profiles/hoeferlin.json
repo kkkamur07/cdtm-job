@@ -1,0 +1,290 @@
+{
+  "id": "hoeferlin",
+  "name": "Simon Höferlin",
+  "headline": "Consultant at McKinsey & Company · prev. Product Manager at Avi Medical · Technology & Management @ UC Berkeley · CDTM · TUM",
+  "avatar": {
+    "sm": "/avatars/hoeferlin-sm.webp",
+    "lg": "/avatars/hoeferlin.webp",
+    "blur": "data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAACwBQCdASogACAAPtFcqE4oJSQiKAqpABoJQBmDu4FvnLNsaNfFGj0SqBLd7pNYfIVyPPiQB4AA/vuiw37630p5H3c/z3eqTPMT/Alkh20s+zAuUcDG+k6rtsM7MbjrRvgOwYzfBnJ9hxdmTqSZFglrtbIqXuaugbS8kpDLs0WvdRlFBPr57Zey7L0rMPPVI9yXLI9mwDHUj2aiOxIxlneZJWinUAmskw/jdvEaGDF24LGOalL+7FCUQ21l/8UfWHHFZeoD4hv8krx9j20q7n5KCWZbN1dd06hhAl4LalJ8UMFYDsmh7jPiRJ4QAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/hoeferlin",
+  "personId": 848,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Simon Höferlin",
+  "ca": null,
+  "summary": "I am passionate about building digital products!\n\nWorked in product management, software engineering and and management consulting. Graduated from the Master’s in Management and Technology at the Technical University of Munich (TUM) with a major in Innovation & Entrepreneurship and a minor in Computer Science. Spent my semester abroad as Visiting Scholar at UC Berkeley's School of Information. Completed the Honor's Degree program in Technology Management by the Center for Digital Technology and Management (CDTM). Besides my Bachelor's Degree in Business Administration at the Ludwig Maximilian University of Munich (LMU), I completed a full stack web development coding bootcamp at Le Wagon in Berlin.",
+  "positions": [
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Interim Product Manager during gap year between B.Sc. and M.Sc. while the CPO was on paternity leave.",
+      "company": "Climedo Health",
+      "companyUrl": "https://www.linkedin.com/company/climedo",
+      "description": null,
+      "location": "Hybrid",
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "Avi Medical",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-09",
+      "end": "2024-09",
+      "dateRange": "Sep 2023 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Intern Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-10",
+      "end": "2022-12",
+      "dateRange": "Oct 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Interim Product Manager",
+      "company": "Climedo Health",
+      "companyUrl": "https://www.linkedin.com/company/climedo",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-07",
+      "end": "2020-09",
+      "dateRange": "Jul 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Climedo Health",
+      "companyUrl": "https://www.linkedin.com/company/climedo",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-01",
+      "end": "2020-06",
+      "dateRange": "Jan 2020 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Strategy Consulting Project Support",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": null,
+      "start": "2019-04",
+      "end": "2022-09",
+      "dateRange": "Apr 2019 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Product Development Consultant",
+      "company": "Innovationsmanagement Bau",
+      "companyUrl": "https://www.linkedin.com/company/innovationsmanagement-bau",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2018 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Student Trainee (Mergers & Acquisitions / Financial Services)",
+      "company": "Deloitte Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/deloitte",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Student Trainee (Global Insurance Processes)",
+      "company": "Allianz Global Corporate & Specialty (AGCS)",
+      "companyUrl": "https://www.linkedin.com/company/allianz-global-corporate-&-specialty-agcs-",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Lab (Hit Finding Unit)",
+      "company": "Novartis",
+      "companyUrl": "https://www.linkedin.com/company/novartis",
+      "description": null,
+      "location": "Basel, Basel, Switzerland",
+      "start": "2015-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Product and System Test (P&S)",
+      "company": "Endress+Hauser Group",
+      "companyUrl": "https://www.linkedin.com/company/endress-hauser-group",
+      "description": null,
+      "location": "Basel und Umgebung, Schweiz",
+      "start": "2014-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2014 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Intern (Master Data Management)",
+      "company": "Syngenta",
+      "companyUrl": "https://www.linkedin.com/company/syngenta",
+      "description": null,
+      "location": "Basel, Basel, Switzerland",
+      "start": "2013-01",
+      "end": "2013-12",
+      "dateRange": "Jan 2013 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Intern (Abgeordnetenbüro)",
+      "company": "Deutscher Bundestag",
+      "companyUrl": "https://www.linkedin.com/company/deutscher-bundestag",
+      "description": "One-week trial internship in the office of the representative of my electoral district in the German Bundestag (parliament) in Berlin.",
+      "location": "Berlin Area, Germany",
+      "start": "2012-01",
+      "end": "2012-12",
+      "dateRange": "Jan 2012 – Dec 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, Management and Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Management and Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Le Wagon",
+      "degree": "Full Stack Web Developer, Web Development",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Business Administration",
+      "dateRange": null
+    },
+    {
+      "school": "University of Warwick - Warwick Business School",
+      "degree": "Exchange Student, BUSINESS, MANAGEMENT, MARKETING, AND RELATED SUPPORT SERVICES",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Product Management",
+    "Digital Business",
+    "Web Development",
+    "Projektmanagement",
+    "Finance",
+    "Graphic Design",
+    "Event Management",
+    "Web Design",
+    "Research",
+    "Trendanalysen",
+    "Rapid Prototyping",
+    "Scrum",
+    "Product Development",
+    "Start-ups",
+    "Business Planning",
+    "User Studies",
+    "Entrepreneurship",
+    "Ruby on Rails",
+    "Microsoft Word",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "SharePoint",
+    "Adobe Creative Suite",
+    "SQL",
+    "JavaScript",
+    "Cascading Style Sheets (CSS)",
+    "HTML",
+    "Ruby",
+    "GitHub",
+    "Bootstrap",
+    "CSS",
+    "Adobe InDesign",
+    "Microsoft PowerPoint",
+    "Git",
+    "Tableau",
+    "WordPress",
+    "Python",
+    "Teamwork",
+    "Mentoring",
+    "Public Speaking",
+    "Design Thinking",
+    "Englisch",
+    "Software-Prototyping",
+    "Back-End Web Development",
+    "Consulting",
+    "Business Development"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "McKinsey & Company",
+    "tagline": null,
+    "description": "McKinsey & Company is a global management consulting firm. We are the trusted advisor to the world's leading businesses, governments, and institutions. \r\n\r\nWe work with leading organizations across the private, public and social sectors. Our scale, scope, and knowledge allow us to address problems that no one else can. We have deep functional and industry expertise as well as breadth of geographical reach. We are passionate about taking on immense challenges that matter to our clients and, often, to the world. \r\n\r\nWe work with our clients as we do with our colleagues. We build their capabilities and leadership skills at every level and every opportunity. We do this to help build internal support, get to real issues, and reach practical recommendations. We bring out the capabilities of clients to fully participate in the process and lead the ongoing work.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.mckinsey.com",
+    "linkedInUrl": "https://www.linkedin.com/company/mckinsey",
+    "employeeCount": 38159,
+    "foundedYear": null,
+    "location": "United States",
+    "specialities": [
+      "Management Consulting"
+    ]
+  }
+}

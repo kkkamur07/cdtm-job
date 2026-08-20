@@ -1,0 +1,130 @@
+{
+  "id": "martin-kliebhan",
+  "name": "Martin Kliebhan",
+  "headline": "Electrify America - Director of Planning Analysis and Financial Strategy",
+  "avatar": null,
+  "location": "Arlington, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/martin-kliebhan",
+  "personId": 1911,
+  "classes": [
+    {
+      "id": 67,
+      "label": "Spring 2010",
+      "season": "Spring",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2010",
+  "major": "Philosophy & Economics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Martin Kliebhan",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Director of Planning Analysis and Financial Strategy",
+      "company": "Electrify America",
+      "companyUrl": "https://www.linkedin.com/company/electrifyamerica",
+      "description": "Responsible for long term financial planning, planning analysis and investor relations",
+      "location": "Metropolregion Washington DC/Baltimore",
+      "start": "2024-06",
+      "end": "2024-08",
+      "dateRange": "Jun 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Head of Controlling \"Digital Services\" Volkswagen",
+      "company": "Volkswagen Passenger Cars",
+      "companyUrl": "https://www.linkedin.com/company/volkswagen",
+      "description": null,
+      "location": null,
+      "start": "2021-11",
+      "end": "2024-05",
+      "dateRange": "Nov 2021 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Senior Vice President Finance",
+      "company": "Elli - A Brand of the Volkswagen Group",
+      "companyUrl": "https://www.linkedin.com/company/elli-vw",
+      "description": "Head of Finance\nResponsible for Controlling, Accounting, Reporting",
+      "location": "Berlin / Munich / Wolfsburg",
+      "start": "2019-11",
+      "end": "2021-10",
+      "dateRange": "Nov 2019 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Project Manager",
+      "company": "Volkswagen Group",
+      "companyUrl": "https://www.linkedin.com/company/volkswagen-group",
+      "description": "Responsible for projects accross various Volkswagen Group brands and units\ne.g.: Charging; Finance; M&A",
+      "location": "Wolfsburg",
+      "start": "2015-10",
+      "end": "2019-10",
+      "dateRange": "Oct 2015 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Volkswagen Group",
+      "companyUrl": "https://www.linkedin.com/company/volkswagen-group",
+      "description": "Projects accross various Volkswagen Group brands and units\ne.g.: Finance; Sales; IT",
+      "location": "Wolfsburg",
+      "start": "2012-04",
+      "end": "2015-09",
+      "dateRange": "Apr 2012 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant",
+      "company": "SDI Management Consulting AG",
+      "companyUrl": "https://www.linkedin.com/company/sdi-management-consulting",
+      "description": "US S&P500 utilities company\nDevelopment of financial model for M&A transaction",
+      "location": "Philadelphia, Pennsylvanien, Vereinigte Staaten von Amerika",
+      "start": "2011-07",
+      "end": "2011-09",
+      "dateRange": "Jul 2011 – Sep 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom (Master), Economics",
+      "dateRange": "2006 – 2011"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours, Technology Management",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Magister Artium (Master), Philosophy",
+      "dateRange": "2005 – 2010"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Electrify America",
+    "tagline": "Show us how you #ChargeOn: www.EAChargeOn.com",
+    "description": "Electrify America was built for the future of charging. We deployed, listened, and learned to create a charging experience electric vehicle (EV) drivers can trust. Today, hundreds of thousands of EV owners rely on our coast-to-coast network every week. With industry-leading expertise and our Hyper-Fast chargers delivering up to 350 kilowatts (kW) at convenient locations, EV drivers can confidently power their journeys with seamless charging.\n\nShow us how you #ChargeOn: https://bit.ly/48lIRu7",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "http://www.electrifyamerica.com",
+    "linkedInUrl": "https://www.linkedin.com/company/electrifyamerica",
+    "employeeCount": 342,
+    "foundedYear": null,
+    "location": "Reston, United States",
+    "specialities": []
+  }
+}

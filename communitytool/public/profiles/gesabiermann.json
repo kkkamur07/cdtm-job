@@ -1,0 +1,242 @@
+{
+  "id": "gesabiermann",
+  "name": "Dr. Gesa Biermann",
+  "headline": "Chief of Staff, CEO Office @RobCo | Co-Founder @Pina Earth (Y Combinator W22) | CDTM | UC Berkeley | PhD @LMU",
+  "avatar": {
+    "sm": "/avatars/gesabiermann-sm.webp",
+    "lg": "/avatars/gesabiermann.webp",
+    "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAACwBQCdASogACAAPtFao02oJSMiKA1RABoJQBlEBswSqtSE8oxlaNVn138NV/JT1/8hUPKZFogA/v4u2Oj7y6t0RHs/kSSE35a6uEDZkJmt8F+ljbWKnuJSqoMIXFF0tXe2whfYyrnSxnE6HFlsaamjLgnfv0xuFCL8sF3JGbfQBltDLvwnzsdZXjGa9GbFLvYZYmx5Noe1WK1LZrAtgjR/0i3/Xe17pf3elBs0TW05SwkuZ5p575TuqrvNDqXAI8FyEmClD78xWaMP+yLo6dApOqRPSaqHy3KQXY9Nwn8U6Qv5WAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/gesabiermann",
+  "personId": 1281,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Gesa Biermann",
+  "ca": {
+    "alumni": true,
+    "about": null,
+    "responsibilities": [],
+    "researchFields": [],
+    "email": null
+  },
+  "summary": "My interests lie, where technology and sustainability meet. As a co-founder of the climate-tech startup Pina Earth, I work on a solution to protect our forests by quantifying and rewarding sustainable forestry. Previously, I taught innovation and entrepreneurship methods as part of the Management Team of the Center for Digital Technology and Management (CDTM), a joint institution of LMU and TUM in Munich. I completed my PhD at LMU, where I researched sustainable food consumption. I have experience in environmental impact assessment (LCA) and published articles on the sustainability of our food system in the peer-reviewed journals Nature Sustainability, Current Research in Environmental Sustainability, Appetite, and Aquaculture.I'm looking forward to fruitful discussions and inspiration on what living within the bounds of our planet could look like.",
+  "positions": [
+    {
+      "title": "Chief of Staff, CEO Office",
+      "company": "RobCo",
+      "companyUrl": "https://www.linkedin.com/company/robco-therobotcompany",
+      "description": "The Robot Company centered on Software and AI.\n\nRobCo maximizes industrial productivity with AI-powered, software-defined robots.\n\nBacked by Lightspeed Venture Partners, Lingotto Innovation, Sequoia Capital, Greenfield Partners, Kindred Capital, Leitmotif and The Friedkin Group.",
+      "location": null,
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Advisor",
+      "company": "Pina Earth",
+      "companyUrl": "https://www.linkedin.com/company/pina-de",
+      "description": null,
+      "location": null,
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & CEO (YC W22)",
+      "company": "Pina Earth",
+      "companyUrl": "https://www.linkedin.com/company/pina-de",
+      "description": "Europe’s Leading Tech-Enabled Forest Carbon Platform\n\nPina Earth protects our forests by quantifying and rewarding sustainable forestry. With our suite of digital tools for data collection, monitoring, and certification, forest owners can start high-quality carbon projects on their properties. Buyers of the resulting carbon credits invest in preparing local forests for a changing climate. \n\nPina Earth is backed by Y Combinator (W22) and further leading VCs and business angels: https://techcrunch.com/2022/07/05/pina-earth-seed/ \n\nIn 2025, Pina Earth and Tree.ly merged to scale our impact even further.",
+      "location": null,
+      "start": "2021-01",
+      "end": "2025-10",
+      "dateRange": "Jan 2021 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "CDTM is a joint institute of LMU & TUM providing interdisciplinary research & teaching in entrepreneurship & digitalization. CDTM has the highest unicorn founder to alumni-ratio in the world.",
+      "location": null,
+      "start": "2016-08",
+      "end": "2020-12",
+      "dateRange": "Aug 2016 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Strategy Consulting Trainee",
+      "company": "Kearney",
+      "companyUrl": "https://www.linkedin.com/company/kearney",
+      "description": "Strategy consulting in the utilities industry\n\nResponsibilities: market and data analysis, preparation, mediation and review of strategy workshops, formulation of company vision and strategic approach",
+      "location": null,
+      "start": "2016-01",
+      "end": "2016-03",
+      "dateRange": "Jan 2016 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Corporate Strategy & Innovation Management Intern",
+      "company": "Audi Electronics Venture GmbH",
+      "companyUrl": "https://www.linkedin.com/company/audi-electronics-venture-gmbh",
+      "description": "Audi Electronics Venture GmbH, a fully owned Audi subsidiary, creates and secures access to key technologies for the company.\n\nResponsibilities: Trend analysis, ‘TechScouting’ newsletter, market reports, support of strategy workshops",
+      "location": null,
+      "start": "2015-04",
+      "end": "2015-07",
+      "dateRange": "Apr 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & Vice President",
+      "company": "180 Degrees Consulting",
+      "companyUrl": "https://www.linkedin.com/company/180degreesconsulting",
+      "description": "Co-founded the Munich branch of the world’s largest international student consultancy focused on social impact.\n\nResponsibilities: Acquisition of university, corporate, and foundation partners, marketing, branding, strategy\n\n2015 | 180 Degrees Consulting Munich is voted \"Best New Branch in Europe\"",
+      "location": null,
+      "start": "2014-07",
+      "end": "2015-08",
+      "dateRange": "Jul 2014 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & Managing Director",
+      "company": "Das Goldene Taxi",
+      "companyUrl": null,
+      "description": "Launch of the fashion brand \"Das Goldene Taxi\" - a label for street style and Bavarian chic.\nBrand video: https://www.youtube.com/watch?v=D0e3U-LSxK8\n\nSale & exit in 2014.\n\nResponsibilities: Market research, Product Development & Management, Accounting & Controlling, Quality Management & Purchasing",
+      "location": null,
+      "start": "2012-04",
+      "end": "2014-06",
+      "dateRange": "Apr 2012 – Jun 2014",
+      "current": false
+    },
+    {
+      "title": "Quality Management Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Responsibilities:  Support of the project management team, KPI-tracking, Reporting, support in Shenyang, China (building of new plant in Tiexi)",
+      "location": null,
+      "start": "2011-08",
+      "end": "2011-10",
+      "dateRange": "Aug 2011 – Oct 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Y Combinator",
+      "degree": "YC W22",
+      "dateRange": "2022"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, School of Information and Haas School of Business",
+      "dateRange": "2019"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "PhD,  Human Geography and Sustainability",
+      "dateRange": "2017 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Sustainable Resource Management",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "University of Buenos Aires",
+      "degree": "Exchange Semester, Ecology",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Tecnológico de Monterrey",
+      "degree": "Global Entrepreneurship Summer School, Topic: Migration",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Stiftung Bayerische EliteAkademie (BEA)",
+      "degree": "Scholarship and Educational Program",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Arts (B.A.), Communication Studies, Economics and Business Studies",
+      "dateRange": "2009 – 2012"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Leadership",
+    "Marketing",
+    "Microsoft Office",
+    "Design",
+    "Business Development",
+    "Statistics",
+    "Research",
+    "Entrepreneurship",
+    "Innovation",
+    "Sustainability",
+    "Product Management",
+    "Social Entrepreneurship",
+    "Fundraising",
+    "Data Analysis",
+    "Adobe Creative Suite",
+    "Mergers & Acquisitions (M&A)",
+    "Qualitative Research",
+    "Sustainable Development",
+    "Corporate Social Responsibility",
+    "Projektmanagement",
+    "Strategie",
+    "Quantitative Research",
+    "Unternehmensstrategie",
+    "Produktentwicklung",
+    "Unternehmensberatung",
+    "Einkauf",
+    "Qualitätsmanagement",
+    "Life Cycle Assessment",
+    "Corporate Sustainability",
+    "Strategy Consulting",
+    "Vertrieb",
+    "Rechnungswesen",
+    "Environmental Impact Assessment",
+    "KPI-Reporte",
+    "Unternehmertum",
+    "Erneuerbare Energien",
+    "Trendanalysen",
+    "Treueprogramme",
+    "Market Research / Analysis",
+    "People Management",
+    "E-Commerce",
+    "Non-Profit Organizations"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French"
+  ],
+  "company": {
+    "name": "RobCo",
+    "tagline": "RobCo’s vision is to automate the ordinary, so humans can do the extraordinary",
+    "description": "RobCo's mission is to automate the ordinary, so humans can do the extraodinary. \n\nFounded in 2020 out of the Technical University of Munich, RobCo is on a mission to make industrial automation more accessible, affordable, and adaptable. Its patented modular hardware kit, combined with the RobCo Studio no-code software platform, allows industrial companies of all sizes to automate repetitive and dangerous tasks quickly and with unmatched flexibility. Whether it’s machine tending, palletizing, dispensing, or welding, RobCo’s modular robot kits provide versatile end-to-end solutions that are simple to deploy and manage remotely — without heavy upfront investment or specialist expertise. With offices in Munich and San Francisco and robots already in operation worldwide, RobCo is supercharging a new generation of industrial companies to reduce costs, boost productivity, and compete on a global stage.\n\nRobCo’s modular robot kits provide versatile end-to-end solutions that are simple to deploy and manage remotely — without heavy upfront investment or specialist expertise. With offices in Munich and San Francisco and robots already in operation worldwide, RobCo is supercharging a new generation of industrial companies to reduce costs, boost productivity, and compete on a global stage.",
+    "industry": "Technology, Information and Internet",
+    "website": "http://www.rob.co",
+    "linkedInUrl": "https://www.linkedin.com/company/robco-therobotcompany",
+    "employeeCount": 191,
+    "foundedYear": 2020,
+    "location": "München, Germany",
+    "specialities": [
+      "Robotics",
+      "Automation"
+    ]
+  }
+}

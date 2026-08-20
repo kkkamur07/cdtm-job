@@ -1,0 +1,206 @@
+{
+  "id": "a-telegin",
+  "name": "Arkadiy Telegin",
+  "headline": "Founder @ Leaping AI (YC W25) | The only self-improving voice AI",
+  "avatar": {
+    "sm": "/avatars/a-telegin-sm.webp",
+    "lg": "/avatars/a-telegin.webp",
+    "blur": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAABQBgCdASogACAAPtFaqE4oJSQiKAqpABoJZADDVP9DghANa9mYXL5be3eTpBf7ykdHNeuZU3+WfX42gAD+/NhICpbUYalya5RM5mRh70Jd1C2wEopVohtcxRmOllb6X1TiKLGf0UfNAz0m+4dJjIOWsuWPqK0nWbwM18BRW0Gnq7MJ1W93a1sBHIT15EptaTFUI5vjWH2TYX88+if6lkLd2CFGAyfM9FmhkYV1d637Wde9a11BcTGuHtv0oJYXXPY+gTu4k6QQ6XgyzvckjkMntIUjfMHD4L9PJYyF0+5pv5jeQIJ2zfn+ABAgJOGl2LVsfTRAI5d+p4y6y5TtNCqeAAA="
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/a-telegin",
+  "personId": 1212,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Arkadiy Telegin",
+  "ca": null,
+  "summary": "🤖🧠 • 🚀🛰️ • 🧬🔬 • 🎶📀\n\nI don't entertain any kind of IT/dev outsourcing. Recruiters, plz send resume(s) with your first message",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Leaping AI",
+      "companyUrl": "https://www.linkedin.com/company/leaping-ai",
+      "description": "Self-improving and human-indistinguishable voice AI agents for enterprise. We are performing over 50k calls a day, performing sales, outreach, customer and tech support at scale.\n \nJoin us, we're hiring!",
+      "location": null,
+      "start": "2023-08",
+      "end": null,
+      "dateRange": "Aug 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief Software Officer, WARR Space Robotics",
+      "company": "WARR",
+      "companyUrl": "https://www.linkedin.com/company/warrtum",
+      "description": "WARR is Germany's largest space-tech R&D university organization, leading cutting-edge research and engineering projects for space exploration.\n\nBuilt up the software engineering org and led ca. 15 to build software for autonomous Mars rover.",
+      "location": null,
+      "start": "2023-07",
+      "end": "2024-04",
+      "dateRange": "Jul 2023 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "ML Engineer Intern, Perception",
+      "company": "PlusAI",
+      "companyUrl": "https://www.linkedin.com/company/plusai",
+      "description": "Plus is a unicorn startup building self-driving trucks.\n\n- Adapted LiDAR neural networks for object detection to use 4D radar data; conducted experiments and provided insights on feasibility of replacing high-cost LiDAR with 4D radar\n- Led adaptation of traffic sign detection ML model for European roads by integrating synthetic data, using domain adaptation techniques. Achieved a significant performance enhancement on real-world test datasets",
+      "location": null,
+      "start": "2023-05",
+      "end": "2023-12",
+      "dateRange": "May 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Techical Lead, WARR Exploration",
+      "company": "WARR",
+      "companyUrl": "https://www.linkedin.com/company/warrtum",
+      "description": "Led a team of 6 in developing an autonomous rover MVP (that was featured by Hightech Agenda Bavaria and showcased to Bavarian Minister President M. Söeder)",
+      "location": null,
+      "start": "2023-04",
+      "end": "2023-07",
+      "dateRange": "Apr 2023 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Software & Robotics Engineer, WARR Exploration",
+      "company": "WARR",
+      "companyUrl": "https://www.linkedin.com/company/warrtum",
+      "description": null,
+      "location": null,
+      "start": "2022-11",
+      "end": "2023-04",
+      "dateRange": "Nov 2022 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer Intern, Azure Cognitive Services",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Part of core Azure Cognitive Services team, worked on OpenAI Dall-E2 for Azure.",
+      "location": null,
+      "start": "2022-10",
+      "end": "2023-03",
+      "dateRange": "Oct 2022 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer, AI and Autonomous Systems",
+      "company": "STTech GmbH",
+      "companyUrl": "https://www.linkedin.com/company/sttech-gmbh",
+      "description": "STTech is a university spin-off focusing on creating autonomous systems using the latest research in AI and robotics.\n\nDevelopment of an autonomous industrial cleaning robot:\n- Designed and implemented an online self-supervised machine learning module that enabled robust SLAM in changing environments, allowing robot deployment in previously infeasible settings\n\nDevelopment of an autonomous driving system:\n- Set up 3D multi-object tracking using ROS and Carla Simulator\n\nOne of lead contributors of open-source middleware component for ROS1/ROS2.\n- ROS bridge for Carla simulator\n- Compatibility node for ROS 1 and ROS 2",
+      "location": null,
+      "start": "2019-11",
+      "end": "2022-11",
+      "dateRange": "Nov 2019 – Nov 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Y Combinator",
+      "degree": null,
+      "dateRange": "2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2023"
+    },
+    {
+      "school": "The University of Tokyo",
+      "degree": "Visiting Scholar, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., Computer Science",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc., Computer Science",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "Streets of Kazakhstan",
+      "degree": null,
+      "dateRange": "2000 – 2018"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "SQL",
+    "Haskell",
+    "C++",
+    "Linux",
+    "Python (Programming Language)",
+    "Go (Programming Language)",
+    "Artificial Intelligence (AI)",
+    "Statistics",
+    "Data Science",
+    "Machine Learning",
+    "Deep Learning",
+    "Data Analysis",
+    "C#",
+    "Programming",
+    "Large Language Models (LLM)",
+    "Distributed Systems",
+    "Microsoft Azure",
+    "Computer Vision",
+    "Vue.js",
+    "Computer Science",
+    "Mathematical Modeling",
+    "Robot Operating System (ROS)",
+    "Redis",
+    "Mathematics",
+    "R (Programming Language)",
+    "TensorFlow",
+    "Keras",
+    "Pandas (Software)",
+    "Multi-agent Systems",
+    "Numerical Analysis",
+    "Physics",
+    "MLOps",
+    "Reinforcement Learning",
+    "RDBMS",
+    "Transformers",
+    "Embedded Linux",
+    "Azure Kusto",
+    "Autonomous Vehicles",
+    "Nvidia Jetson"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Russian",
+    "Kazakh"
+  ],
+  "company": {
+    "name": "Leaping AI",
+    "tagline": "Voice AI agents for businesses - automating customer service, appointment scheduling and ops calls across industries",
+    "description": "Voice AI agents for businesses. Our Voice AI agents can be used for a variety of customer support, lead qualification and appointment scheduling use cases. We serve home remodelling, home services, travel, customer service and digital receptionist use cases.\n\nDual headquarters in San Francisco and in Berlin.",
+    "industry": "Software Development",
+    "website": "https://leapingai.com/?utm_source=linkedin&utm_medium=public_profile&utm_campaign=public_brand&utm_content=profile_link",
+    "linkedInUrl": "https://www.linkedin.com/company/leaping-ai",
+    "employeeCount": 12,
+    "foundedYear": 2023,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

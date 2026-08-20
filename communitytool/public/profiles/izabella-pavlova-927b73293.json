@@ -1,0 +1,176 @@
+{
+  "id": "izabella-pavlova-927b73293",
+  "name": "Izabella Pavlova",
+  "headline": "TUM CSE & CDTM | SAP STAR",
+  "avatar": {
+    "sm": "/avatars/izabella-pavlova-927b73293-sm.webp",
+    "lg": "/avatars/izabella-pavlova-927b73293.webp",
+    "blur": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAACwBQCdASogACAAPsFOn0unpCKht/qoAPAYCWoAs4B7Xab0C6lhquX/vuQLUxog1QR1h8USDGAA/uc55hdp1IJRTLbb3Q7SXiWCkEQxqYyfg4ilAMZf3Z89yz20wcPWxK8ch+IgfVXu5T/kpmHbxZZMvJiqMkcZTTrBrcA+X1S3M7HMzSAFhwCx+bJmh5OoujKJgTkxqQC5CeTGSZUy52WXGHgaE7COcNjXy8+G58cIcB9l5/gTYan4O3dXS02MnQ1qleRpAMFt9A4CjO0uHBduLHm14pbScWVEYxq41uSs8QAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/izabella-pavlova-927b73293",
+  "personId": 2077,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Computational Science & Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Izabella Pavlova",
+  "ca": null,
+  "summary": "Software developer passionate about data.",
+  "positions": [
+    {
+      "title": "SAP STAR",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": "STAR (Student Training and Rotation) Program, 2024 Cohort\n\n- Signavio Value Accelerator Library: Gathered requirements and collaborated with the team to design and deliver a stable serverless API on AWS, ensuring business continuity for content creators and preventing disruptions from signature changes.\n- Global Content Group: Gathered cross-stakeholder requirements, aligned them with the future roadmap, defined edge-case scenarios and handling strategies, and integrated the first MELT-based knowledge-graph matchers into the PMF to enable automated execution and real-time alignment updates.\n- Signavio Innovations & Demo Solutions: Led the end-to-end implementation of eight tailored business cases for procurement processes, to support demo enablement and enhance customer engagement. Built complete data pipelines, that enables the Signavio Presales team to accelerate future demo development.\n- Sustainability Control Tower: Collected business and technical requirements, translated them into a structured roadmap, and built a reusable filtering system used by 3 microservices to enhance data querying and maintainability.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-03",
+      "end": null,
+      "dateRange": "Mar 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Design Engineer and Business Analyst (DeepTech startup)",
+      "company": "ILLUTHERM GmbH",
+      "companyUrl": "https://www.linkedin.com/company/illutherm-gmbh",
+      "description": "- Designed and built a prototype for a disruptive technology of low & high temperature applications in material science;\n- Delivered data-driven market insights and investor materials through comprehensive research and stakeholder interviews.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2025-04",
+      "end": "2025-08",
+      "dateRange": "Apr 2025 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Back End Developer",
+      "company": "MTS Group",
+      "companyUrl": "https://www.linkedin.com/company/mts-group",
+      "description": "Development of the web application for conducting vibrodiagnostics of industry machines\n\n- Implemented automatic generation of PDF and EXCEL reports (FPDF, Openpyxl, Celery), which made it possible to reduce the T2M of the report (key product metric) from 4 days to 3 hours;\n- Created a service for collecting statistics on labeled data, which allowed PO and CTO to monitor the problem of lack of valid data for training ML models;\n- Designed a PostgreSQL and S3 databases for the application’s services;\n- Split the database when migrating from a monolithic to a microservices-based architecture;\n- Implemented automated DQ checks, which allowed timely anomaly detection of in data;\n- Moderated a weekly meeting of developers to discuss the implementation of features, which allowed to reduce the number of logical errors in code and estimate the time required to implement a feature more accurately during planning;\n- Conducted technical discovery to optimize the application and timely refactoring.",
+      "location": "Moscow, Russia",
+      "start": "2022-02",
+      "end": "2023-09",
+      "dateRange": "Feb 2022 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Data Engineer",
+      "company": "MTS Group",
+      "companyUrl": "https://www.linkedin.com/company/mts-group",
+      "description": "Development of business intelligent solutions for Rich Communication Services (5,5MM customers)\n\n- Implemented the creation of optimized data marts (DAU, MAU...) and ad-hoc reports;\n- Automated ETL processes for transferring data between Data Lake layers and generating client reporting by writing AirFlow dags.",
+      "location": "Moscow, Russia",
+      "start": "2021-07",
+      "end": "2022-02",
+      "dateRange": "Jul 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Design Engineer",
+      "company": "Bauman Moscow State Technical University",
+      "companyUrl": "https://www.linkedin.com/company/bmstu",
+      "description": "Constructing a roadster\n\n- Studied the behavior of the car in an accident by simulating collisions in SolidWorks and NX Siemens;\n- Designed and conducted research on the frame, rims, and retractable roof strength by simulating loads from a person’s weight to accidents in NX.\n\nConstructing a Formula Student bolid\n\n- Designed and carried out strength calculations of an aero-dynamic system for Formula student bolid by simulating air flows in Ansys and SolidWorks;\n- Led a team of 7 members and managed the development of 3 types of wings, which allowed designing front and back wings that create an optimum downforce at their minimum weight.",
+      "location": "Moscow, Russia",
+      "start": "2019-10",
+      "end": "2021-07",
+      "dateRange": "Oct 2019 – Jul 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computational Science and Engineering",
+      "dateRange": "2023 – 2026"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Visiting Researcher",
+      "dateRange": "2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "Bauman Moscow State Technical University",
+      "degree": "Bachelor's degree, Automation of technological processes and productions",
+      "dateRange": "2018 – 2022"
+    }
+  ],
+  "skills": [
+    "AWS Lambda",
+    "Amazon Web Services (AWS)",
+    "Serverless API",
+    "TypeScript",
+    "Business Storytelling",
+    "Dashboard Development",
+    "Process Mining",
+    "Business Process Modeling",
+    "Market Research & Competitive Analysis",
+    "Business Case Development",
+    "Julia (Programming Language)",
+    "GPGPU",
+    "Numerical Simulation",
+    "Software Development",
+    "SAP CAP",
+    "Java",
+    "SQLAlchemy",
+    "Python",
+    "PostgreSQL",
+    "FastAPI",
+    "SQL",
+    "Celery",
+    "Airflow",
+    "Alembic",
+    "Siemens NX",
+    "Greenplum",
+    "Ansys Workbench",
+    "SOLIDWORKS"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian"
+  ],
+  "company": {
+    "name": "SAP",
+    "tagline": "We bring out the best in every business.",
+    "description": "SAP is a global leader in enterprise applications and business AI, helping organizations run end-to-end operations on a unified cloud ERP platform.\nWith SAP S/4HANA Cloud, SAP Business AI, and SAP Business Technology Platform (BTP), SAP enables companies to connect data, automate processes, and make real-time, intelligent decisions across the enterprise.\nSAP capabilities and portfolio\n•\tCloud ERP: SAP S/4HANA Cloud (finance, procurement, core operations) \n•\tBusiness AI: Embedded AI across HR, finance, supply chain, and customer experience \n•\tData & Integration: SAP Business Technology Platform (BTP) data, analytics, and application development \n•\tHuman Resources: SAP SuccessFactors (workforce management and employee experience) \n•\tCustomer Experience: SAP CX (commerce, marketing, sales, and service) \n•\tSupply Chain: SAP SCM (planning, logistics, manufacturing, operations) \n•\tEnterprise integration: Connect SAP and non-SAP systems across the business \n•\tReal-time insights: Operational data, analytics, and predictive capabilities \n•\tAutomation: Intelligent workflows embedded directly into business processes \n\nSAP combines cloud ERP, data, and AI to help organizations operate more efficiently, adapt faster, and grow in an AI-driven world, supported by a global ecosystem of customers and partners.\n\nOur Community Guidelines\nWe’re committed to fostering meaningful, respectful conversations. To maintain a positive environment, we moderate comments that:\n•\tTarget individuals, including employees, customers, or partners\n•\tContain discriminatory, harassing, or threatening content\n•\tShare personal information without consent\n•\tPromote misinformation, spam, or third-party links\nWe support open dialogue and constructive feedback but will remove content that violates these guidelines without notice. Thank you for contributing to a respectful community.\nFor questions about moderation, please DM us or contact brandsocial@sap.com\nSAP privacy statement for followers: www.sap.com/sps",
+    "industry": "Software Development",
+    "website": "http://www.sap.com",
+    "linkedInUrl": "https://www.linkedin.com/company/sap",
+    "employeeCount": 142888,
+    "foundedYear": 1972,
+    "location": "Walldorf, Germany",
+    "specialities": [
+      "ERP",
+      "Financials",
+      "Business Intelligence",
+      "Procurement",
+      "HCM",
+      "SCM",
+      "business",
+      "planning",
+      "efficiency",
+      "sustainability",
+      "innovation",
+      "analytics",
+      "reporting",
+      "dashboarding"
+    ]
+  }
+}

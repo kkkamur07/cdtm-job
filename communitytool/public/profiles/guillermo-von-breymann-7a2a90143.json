@@ -1,0 +1,75 @@
+{
+  "id": "guillermo-von-breymann-7a2a90143",
+  "name": "Guillermo von Breymann",
+  "headline": "Test Engineer en BMW Group",
+  "avatar": null,
+  "location": "Costa Rica",
+  "linkedInUrl": "https://www.linkedin.com/in/guillermo-von-breymann-7a2a90143",
+  "personId": 1574,
+  "classes": [
+    {
+      "id": 54,
+      "label": "Fall 2003",
+      "season": "Fall",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Guillermo von Breymann",
+  "ca": null,
+  "summary": "15-year working experience, mostly in the automotive field (electric & hybrid powertrain development & testing). Expert in test management (ISTQB-certified) with a solid background in systems engineering. Deep knowledge of automotive development processes and diagnostic tools. Multilingual liaison experience.\n\nObjective: to relocate back to my home country of Costa Rica and to carry my international knowledge and experience over into a fresh working environment.",
+  "positions": [
+    {
+      "title": "Test Engineer",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2013-12",
+      "end": null,
+      "dateRange": "Dec 2013 – Present",
+      "current": true
+    }
+  ],
+  "schools": [],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "BMW Group",
+    "tagline": "We make individual mobility more human, more intelligent and more responsible.",
+    "description": "With its four brands, BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world’s leading premium manufacturer of automobiles and motorcycles and also provides premium financial services. The BMW Group production network comprises over 30 production sites worldwide; the company has a global sales network in more than 140 countries.\n\nIn 2025, the BMW Group sold 2.46 million passenger vehicles and more than 202,500 motorcycles worldwide. The profit before tax in the financial year 2025 was € 10.2 billion on revenues amounting to € 133,5 billion. As of 31 December 2025, the BMW Group had a workforce of 154,540 employees.\n\nThe economic success of the BMW Group has always been based on long-term thinking and respon-sible action. Sustainability is a key element of the BMW Group’s corporate strategy and covers all products – from the supply chain through production to the end of their useful life.",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://www.bmwgroup.com/en/general/imprint.html",
+    "linkedInUrl": "https://www.linkedin.com/company/bmw-group",
+    "employeeCount": 65541,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Automotive",
+      "Information Technology",
+      "Data Science",
+      "Software Development",
+      "Artificial Intelligence",
+      "Data Security",
+      "Motorcycles",
+      "Financial Services",
+      "Mobility Services",
+      "Digital Services",
+      "IoT",
+      "Future of Mobilty",
+      "Autonomous Driving",
+      "Connectivity",
+      "Sheer Driving Pleasure"
+    ]
+  }
+}

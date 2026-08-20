@@ -1,0 +1,181 @@
+{
+  "id": "nora-liesenfeld",
+  "name": "Nora Liesenfeld",
+  "headline": "Senior Site Reliability Engineer at Spotify",
+  "avatar": null,
+  "location": "United States, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/nora-liesenfeld",
+  "personId": 1376,
+  "classes": [
+    {
+      "id": 69,
+      "label": "Spring 2011",
+      "season": "Spring",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2011",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Nora Liesenfeld",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Spotify",
+      "companyUrl": "https://www.linkedin.com/company/spotify",
+      "description": null,
+      "location": "New York, United States",
+      "start": "2021-09",
+      "end": null,
+      "dateRange": "Sep 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "company": "Spotify",
+      "companyUrl": "https://www.linkedin.com/company/spotify",
+      "description": null,
+      "location": "New York, New York",
+      "start": "2020-01",
+      "end": "2021-08",
+      "dateRange": "Jan 2020 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "company": "eGym",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": null,
+      "location": "Berlin Area, Germany",
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "eGym",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": null,
+      "location": "Berlin",
+      "start": "2015-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2015 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Product Manager / Developer",
+      "company": "PreisEnergie",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich",
+      "start": "2012-10",
+      "end": "2014-09",
+      "dateRange": "Oct 2012 – Sep 2014",
+      "current": false
+    },
+    {
+      "title": "Working Student (Junior Developer)",
+      "company": "Arrabiata Solutions",
+      "companyUrl": null,
+      "description": "Flash Builder, ASP.Net, XML, CSS, HTML",
+      "location": null,
+      "start": "2009-01",
+      "end": "2011-02",
+      "dateRange": "Jan 2009 – Feb 2011",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Knorr Bremse",
+      "companyUrl": null,
+      "description": "Started out in the IT department and switched to the project management department in June 2008.",
+      "location": null,
+      "start": "2007-12",
+      "end": "2008-12",
+      "dateRange": "Dec 2007 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Knorr-Bremse (France)",
+      "companyUrl": "https://www.linkedin.com/company/knorr-bremse",
+      "description": "Rotational Program",
+      "location": null,
+      "start": "2007-03",
+      "end": "2007-03",
+      "dateRange": "Mar 2007 – Mar 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2011 – 2012"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master, Information Systems",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Universidad Carlos III de Madrid",
+      "degree": "Master's degree, Information Systems",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor, Information Systems",
+      "dateRange": "2005 – 2009"
+    }
+  ],
+  "skills": [
+    "Problem Solving",
+    "Preventive Maintenance",
+    "Troubleshooting",
+    "Cloud Computing",
+    "Infrastructure",
+    "Computer Science",
+    "Resource Allocation",
+    "Optimization",
+    "Infrastructure Management",
+    "Incident Response",
+    "Debugging",
+    "Communication",
+    "Automation",
+    "Java",
+    "Software Engineering",
+    "SQL",
+    "Kubernetes",
+    "Docker",
+    "Python",
+    "MySQL"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Spotify",
+    "tagline": "Passionate music fans. Innovative tech pros. Perfect harmony. Join our band.",
+    "description": "Deliver creativity to the world -- one note, one voice, one idea at a time.\n\nAt Spotify, we focus relentlessly on building the best and most valuable experience available anywhere, enhancing every moment by connecting the world to the art and the creatives who shape it.\n\nSpotify transformed music listening forever when it launched in Sweden in 2008. Discover, manage and share over 70m tracks for free, or upgrade to Spotify Premium to access exclusive features including offline mode, improved sound quality, and an ad-free music listening experience. \n\nToday, Spotify is the most popular global audio streaming service with 365m users, including 165m subscribers across 178 markets. We are the largest driver of revenue to the music business today.",
+    "industry": "Musicians",
+    "website": "http://www.lifeatspotify.com",
+    "linkedInUrl": "https://www.linkedin.com/company/spotify",
+    "employeeCount": 18655,
+    "foundedYear": 2006,
+    "location": "Stockholm, Sweden",
+    "specialities": []
+  }
+}

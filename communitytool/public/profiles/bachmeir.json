@@ -1,0 +1,215 @@
+{
+  "id": "bachmeir",
+  "name": "Prof. Dr. Christian Bachmeir",
+  "headline": "cloud, security, AI, DSGVO",
+  "avatar": null,
+  "location": "Frankfurt Rhine-Main, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/bachmeir",
+  "personId": 1784,
+  "classes": [
+    {
+      "id": 50,
+      "label": "1999",
+      "season": null,
+      "year": 1999,
+      "location": 1
+    }
+  ],
+  "classLabel": "1999",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christian Bachmeir",
+  "ca": null,
+  "summary": "Dr. Bachmeir is working in the aera of Internet of Things,  (Edge-)Cloud, PaaS, and distributed Cyber-Physical-Systems, with the target to improve processes or develop new products/services.\n\nIn this context he is working with clients on strategic questions.\n\nBefore he served on several leadership positions in the industry:\nAt IBM he lead strategic projects, was a Client Director for at that time the largest Client of IBM in Europe, with more than 200 mill. USD in revenue and a specialized delivery-team of more than 1.000 talented global colleagues,  was Sales Director for Security Services in the DACH region, an Associate Partner, and an Account Manager within Global Technology Services (GTS) for several large banking clients in Frankfurt.\nHis first Job in IBM was \"Integrated Technology Services Manager\", working on Client-Problems for several large banks in Frankfurt.\nBefore joining IBM he worked at Mercer as divisional CIO in Outsourcing, working on Development and Operations of an SAP-based platform.\nHis first professional tenure was with Accenture working as a Manager in Technology Consulting and Outsourcing within the Datacenter Technology & Operations Practice. The focus was on Operations, Implementation and Rollout of global SAP-Systems in the area of Procurement and Accounts Payable.\nHis first job in Accenture was Technical Architect for a large full stack BPO-Offering for a large global bank.\nIn this first assignment already, Christian worked globally at various client and Accenture offices, in India, London, Warwick, Barcelona, New York (downtown), and various other places. Usually at Accenture to prepare the team, then followed by a country-go-live at client site.\nThat kind of work, kind of continued 🤣\n\nOn his various assignments he gathered industry expertise in Aviation (primarily working for Lufthansa), Financial Services (working primarily for Allianz, Deutsche Bank, Commerzbank, Deutsche Bundesbank and European Central Bank), and Telecommunications (working for Deutsche Telekom) - all within the Infrastructure/Cloud/Security-domain.\n\nChristian studied Electrical Engineering & Information Technology, and Management at Technische Universität München, at Massachusetts Institute of Technology (MIT), and at the Center for Digital Technology and Management (CDTM).",
+  "positions": [
+    {
+      "title": "Managing Director",
+      "company": "FRAtax.net",
+      "companyUrl": null,
+      "description": "asset management, Cloud, AI, Security, assessments",
+      "location": null,
+      "start": "2022-10",
+      "end": null,
+      "dateRange": "Oct 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Professor",
+      "company": "Technische Hochschule Würzburg-Schweinfurt (THWS)",
+      "companyUrl": "https://www.linkedin.com/company/thws",
+      "description": "cloud, security, AI",
+      "location": null,
+      "start": "2018-10",
+      "end": null,
+      "dateRange": "Oct 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Advisory Board - wissenschaftlicher Beirat",
+      "company": "Rubinstein & Schmiedel",
+      "companyUrl": "https://www.linkedin.com/company/rubinstein-schmiedel",
+      "description": "development AI systems for financial market forecasting and applying them to trading systems for global financial markets and cryptocurrencies.",
+      "location": "Frankfurt am Main, Hessen, Deutschland",
+      "start": "2022-04",
+      "end": "2024-03",
+      "dateRange": "Apr 2022 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Professor",
+      "company": "Hochschule Neu-Ulm",
+      "companyUrl": "https://www.linkedin.com/company/hochschule-neu-ulm",
+      "description": "Cloud, Security, AI",
+      "location": null,
+      "start": "2015-10",
+      "end": "2018-08",
+      "dateRange": "Oct 2015 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Scientific Advisor - Strategic Projects",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "Digital Transformation; Internet of Things; Business Development; Cognitive Systems; Commercial Drones; Humanoid Robots; Cloud; PaaS; Watson and more.",
+      "location": "Frankfurt",
+      "start": "2015-10",
+      "end": "2017-06",
+      "dateRange": "Oct 2015 – Jun 2017",
+      "current": false
+    },
+    {
+      "title": "Client Director, Leitender Angestellter",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "Account Management des größten Kundens in Europa, Leitung Vertrieb DACH Security Services, Technology Consulting (Workplace, Datacenter, Cloud), Outsourcing, IT Operations, Sales & Delivery Leadership",
+      "location": "Frankfurt",
+      "start": "2010-07",
+      "end": "2015-10",
+      "dateRange": "Jul 2010 – Oct 2015",
+      "current": false
+    },
+    {
+      "title": "CIO Outsourcing CE (Principal)",
+      "company": "Mercer",
+      "companyUrl": "https://www.linkedin.com/company/mercer",
+      "description": "Responsible for IT Strategy, Organisation, Implementation & Operation",
+      "location": "Frankfurt",
+      "start": "2010-01",
+      "end": "2010-12",
+      "dateRange": "Jan 2010 – Dec 2010",
+      "current": false
+    },
+    {
+      "title": "Manager",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": "Technology Consulting, Outsourcing, BPO Procurement, Program Management, Technical Architecture, Datacenter, IT-Management, SAP Operations, Sales Support, SAP Infrastructure Offering Lead for DACH",
+      "location": "Frankfurt, Hof",
+      "start": "2005-01",
+      "end": "2009-12",
+      "dateRange": "Jan 2005 – Dec 2009",
+      "current": false
+    },
+    {
+      "title": "Research Staff Member",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Research topic:\nProgrammable Networks; Resilience; Adaptive loadable Services;\nSoftware-Router Architectures",
+      "location": null,
+      "start": "2000-01",
+      "end": "2004-12",
+      "dateRange": "Jan 2000 – Dec 2004",
+      "current": false
+    },
+    {
+      "title": "Research Assistant, Intern",
+      "company": "Siemens Corporate Research, Princeton",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Software Development, Ubiquituous Computing",
+      "location": null,
+      "start": "2000-01",
+      "end": "2000-12",
+      "dateRange": "Jan 2000 – Dec 2000",
+      "current": false
+    },
+    {
+      "title": "Research Assistant, Intern",
+      "company": "IBM Research, Rüschlikon, Schweiz",
+      "companyUrl": null,
+      "description": "Software Development, Next Generation Internet",
+      "location": "Rüschlikon, Zürich, Schweiz",
+      "start": "1999-01",
+      "end": "1999-12",
+      "dateRange": "Jan 1999 – Dec 1999",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr.-Ing., Communication Engineering",
+      "dateRange": "2001 – 2004"
+    },
+    {
+      "school": "Boston University",
+      "degree": "Certified in Advanced Sales Leadership, IBM Executive Program, School of Management",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl.-Ing. Univ., Information Technology",
+      "dateRange": "1995 – 2000"
+    },
+    {
+      "school": "MIT Sloan School of Management",
+      "degree": "Sloan Visiting Fellow, 2nd year MBA Programme",
+      "dateRange": "1999"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Connecting Technology & Business",
+      "dateRange": "1997 – 1999"
+    }
+  ],
+  "skills": [
+    "Business Development",
+    "Technology Consulting",
+    "Program Management",
+    "Outsourcing",
+    "Cloud Computing",
+    "BPO",
+    "Sales Management",
+    "Consulting",
+    "IT Service Management",
+    "Data Center",
+    "Telecommunications",
+    "Management",
+    "Managed Services",
+    "Pre-sales",
+    "Software Development",
+    "Security",
+    "IT Strategy",
+    "Management Consulting",
+    "Business Transformation"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Technical University of Applied Sciences Würzburg-Schweinfurt (THWS)",
+    "tagline": "THWS (früher FHWS)",
+    "description": "Innovative Studiengänge und zukunftsweisende Forschung prägen die Technische Hochschule Würzburg-Schweinfurt (THWS). Ob Robotik, KI oder Wasserstofftechnik, unsere 240 Professorinnen und Professoren und 400 Mitarbeitende begleiten junge Menschen, zukünftigen Herausforderungen zu begegnen. Unsere acht Forschungsinstitute stehen für interdisziplinäre Zusammenarbeit und ein kollegiales Miteinander, eingebettet in das malerische Mainfranken.",
+    "industry": "Higher Education",
+    "website": "http://www.thws.de",
+    "linkedInUrl": "https://www.linkedin.com/company/thws",
+    "employeeCount": 1033,
+    "foundedYear": 1971,
+    "location": "Würzburg, Germany",
+    "specialities": []
+  }
+}

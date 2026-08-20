@@ -1,0 +1,191 @@
+{
+  "id": "ali--khan",
+  "name": "Ali Khan",
+  "headline": "Product Manager @ Trade Republic | TUM | CDTM | NUST",
+  "avatar": {
+    "sm": "/avatars/ali--khan-sm.webp",
+    "lg": "/avatars/ali--khan.webp",
+    "blur": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAABQBgCdASogACAAPslQoUunpKMht/VYAPAZCUAZnhFZABA9K2HqtQdUgSHwEq4YoJigdmaPfG93szfyAAD+/S2sclEUtz324khUuP13q9LTrsocc/UdBIR+xw6gBEkX0g9s4R3BY20H/RrTvjXynUeXAi3bGXlXuxJSKrDKmuJbCTWwa6dqjR8iTdKf8xiVbkg4Ao586D5GrMXfhGfnwbWTWthLhUvEGd1yGEXpbhsRCU3R4deL0xnncBy4nk6rf80G23lbhCBBYRYLrM9KuRE0z1AZwUyb3GlFGIriSAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/ali--khan",
+  "personId": 1236,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Ali Khan",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Product",
+      "company": "Trade Republic",
+      "companyUrl": "https://www.linkedin.com/company/trade-republic",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2021-06",
+      "end": null,
+      "dateRange": "Jun 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Product",
+      "company": "cubemos GmbH",
+      "companyUrl": "https://www.linkedin.com/company/cubemos-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-01",
+      "end": "2021-05",
+      "dateRange": "Jan 2020 – May 2021",
+      "current": false
+    },
+    {
+      "title": "Product",
+      "company": "VISCOPIC",
+      "companyUrl": "https://www.linkedin.com/company/viscopic",
+      "description": "Worked closely with the founding team to find product-market fit for Viscopic's Augmented Reality product, PINs. \n• Ideated new use cases for Viscopic's PINs product. \n• Recommended two promising markets to Viscopic for their product.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-10",
+      "end": "2020-01",
+      "dateRange": "Oct 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Product",
+      "company": "Airbus",
+      "companyUrl": "https://www.linkedin.com/company/airbusgroup",
+      "description": "As part of the \"Managing Product Development\" course at CDTM, worked with Airbus to find a relevant market and product for a new invention of Airbus. \n• Ideated and analyzed use-cases for Airbus's new invention.\n• Developed an Emergency App for hikers using agile methodologies.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-06",
+      "end": "2019-08",
+      "dateRange": "Jun 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Product",
+      "company": "GEA Group",
+      "companyUrl": "https://www.linkedin.com/company/geagroup",
+      "description": "• Identified trends in the dairy industry and created future scenarios around them\n• Ideated and developed new potential products with a viable business case.",
+      "location": "Munich Area, Germany",
+      "start": "2019-04",
+      "end": "2019-06",
+      "dateRange": "Apr 2019 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "NXP Semiconductors",
+      "companyUrl": "https://www.linkedin.com/company/nxp-semiconductors",
+      "description": "• Developed code for NXP's Microcontrollers and NFC devices.\n• Ported NXP's NFC Reader Library to several NXP Microcontrollers. \n• Presented webinars and created community articles on NXP's NFC Reader Library.",
+      "location": "Munich Area, Germany",
+      "start": "2018-08",
+      "end": "2019-12",
+      "dateRange": "Aug 2018 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Management Associate",
+      "company": "Fauji Fertilizer Bin Qaism Limited",
+      "companyUrl": "https://www.linkedin.com/company/fertilizer-bin",
+      "description": null,
+      "location": "Karachi, Pakistan",
+      "start": "2016-12",
+      "end": "2017-05",
+      "dateRange": "Dec 2016 – May 2017",
+      "current": false
+    },
+    {
+      "title": "Junior Project Manager",
+      "company": "HUAWEI Pakistan",
+      "companyUrl": "https://www.linkedin.com/company/huawei-pakistan11",
+      "description": "• Managed the execution of telecom projects.\n• Communicated the progress of projects to customers.\n• Coordinated between different teams to ensure timely completion of tasks.",
+      "location": "Islamabad, Pakistan",
+      "start": "2016-06",
+      "end": "2016-12",
+      "dateRange": "Jun 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "President",
+      "company": "SEECS Sports Society",
+      "companyUrl": null,
+      "description": "As president of sports society at my university, I led a team of 20 students to plan and organize several sports events and tournaments throughout the year.",
+      "location": "Islamabad, Pakistan",
+      "start": "2015-06",
+      "end": "2016-06",
+      "dateRange": "Jun 2015 – Jun 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Electrical, Electronics and Communications Engineering",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "National University of Sciences and Technology (NUST)",
+      "degree": "Bachelor of Engineering (BE), Electrical Engineering",
+      "dateRange": "2012 – 2016"
+    }
+  ],
+  "skills": [
+    "Agentic AI Development",
+    "Product Management",
+    "Product Development",
+    "Machine Learning",
+    "Programming",
+    "Deep Learning",
+    "Analytical Skills",
+    "Microcontrollers",
+    "Computer Vision",
+    "Research and Development (R&D)",
+    "Market Research",
+    "Agile Methodologies",
+    "Data Analysis",
+    "Software Development",
+    "Image Processing",
+    "Artificial Intelligence (AI)",
+    "Project Management",
+    "Strategy",
+    "Competitive Analysis",
+    "Project Planning"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Trade Republic",
+    "tagline": "From chart to pie.",
+    "description": "Save now, for later.",
+    "industry": "Banking",
+    "website": "https://traderepublic.com/customer-council",
+    "linkedInUrl": "https://www.linkedin.com/company/trade-republic",
+    "employeeCount": 1332,
+    "foundedYear": 2015,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

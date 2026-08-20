@@ -1,0 +1,183 @@
+{
+  "id": "teresa-mercedes-maurer-b6a065178",
+  "name": "Teresa Mercedes Maurer",
+  "headline": "McKinsey | Harvard | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/teresa-mercedes-maurer-b6a065178-sm.webp",
+    "lg": "/avatars/teresa-mercedes-maurer-b6a065178.webp",
+    "blur": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACQBQCdASogACAAPtFcp04oJSOiKAqpABoJQBllsXiWbuQK6htIzywC2hlk3a/AhxPUX706UAD+9Nca0QB1/gMZf/FwTwDWby6VFFgiLJRTZ9tZFUgGhY5w/FyP+NfQ483QmYU3srnWIMeH3z3MtAl0f6QWXkh+8ZMmBwWQ2110nqz974gBPaiFgN7ODlfMcyRv0Teociiow9IuURBGfQVvbJQ538NqPvXTBIjx2BZUKoznvgQAAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/teresa-mercedes-maurer-b6a065178",
+  "personId": 2019,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Teresa Mercedes Maurer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2025-02",
+      "end": "2025-03",
+      "dateRange": "Feb 2025 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "Product Development Project",
+      "company": "E.ON",
+      "companyUrl": "https://www.linkedin.com/company/e-on",
+      "description": "Building a digital solution for Energy Sharing Communities",
+      "location": "Metropolregion München",
+      "start": "2024-10",
+      "end": "2025-01",
+      "dateRange": "Oct 2024 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Working Student Product Strategy",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2023-11",
+      "end": "2024-06",
+      "dateRange": "Nov 2023 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "BCG Platinion",
+      "companyUrl": "https://www.linkedin.com/company/bcg-platinion",
+      "description": null,
+      "location": null,
+      "start": "2023-08",
+      "end": "2023-10",
+      "dateRange": "Aug 2023 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "remberg",
+      "companyUrl": "https://www.linkedin.com/company/remberg",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-08",
+      "end": "2023-07",
+      "dateRange": "Aug 2022 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "External Consultant",
+      "company": "Messe München",
+      "companyUrl": "https://www.linkedin.com/company/messemuenchen",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-01",
+      "end": "2022-04",
+      "dateRange": "Jan 2022 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Project Student | Identifying Investment Trends in South Africa",
+      "company": "TUM Entrepreneurship Research Institute",
+      "companyUrl": "https://www.linkedin.com/company/tum-entrepreneurship-research-institute",
+      "description": null,
+      "location": "Kapstadt, Westkap, Südafrika",
+      "start": "2021-03",
+      "end": "2021-06",
+      "dateRange": "Mar 2021 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "External Consultant",
+      "company": "OMMAX - Digital Solutions",
+      "companyUrl": "https://www.linkedin.com/company/ommax",
+      "description": null,
+      "location": "München",
+      "start": "2020-08",
+      "end": "2021-01",
+      "dateRange": "Aug 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Praktikantin | Public Advisory",
+      "company": "PwC Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/pwc-deutschland",
+      "description": null,
+      "location": "München, Bayern",
+      "start": "2020-04",
+      "end": "2020-06",
+      "dateRange": "Apr 2020 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Praktikantin im Entwicklungsbereich",
+      "company": "Doppelmayr Seilbahnen GmbH",
+      "companyUrl": "https://www.linkedin.com/company/doppelmayr-seilbahnen-gmbh",
+      "description": null,
+      "location": "Wolfurt, Vorarlberg, Österreich",
+      "start": "2020-03",
+      "end": "2020-04",
+      "dateRange": "Mar 2020 – Apr 2020",
+      "current": false
+    }
+  ],
+  "schools": [],
+  "skills": [
+    "Produktstrategie",
+    "Wasserstoff",
+    "Nachhaltige Entwicklung",
+    "Digitale Transformation",
+    "Software as a Service (SaaS)",
+    "Strategisches Denken",
+    "Datenanalyse",
+    "Analytische Fähigkeiten",
+    "Kundenbeziehungen",
+    "Präsentationsfertigkeiten",
+    "Projektmanagement",
+    "Process Mining",
+    "Computer-Aided Design (CAD)",
+    "Consulting",
+    "Microsoft Office"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "McKinsey & Company",
+    "tagline": null,
+    "description": "McKinsey & Company is a global management consulting firm. We are the trusted advisor to the world's leading businesses, governments, and institutions. \r\n\r\nWe work with leading organizations across the private, public and social sectors. Our scale, scope, and knowledge allow us to address problems that no one else can. We have deep functional and industry expertise as well as breadth of geographical reach. We are passionate about taking on immense challenges that matter to our clients and, often, to the world. \r\n\r\nWe work with our clients as we do with our colleagues. We build their capabilities and leadership skills at every level and every opportunity. We do this to help build internal support, get to real issues, and reach practical recommendations. We bring out the capabilities of clients to fully participate in the process and lead the ongoing work.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.mckinsey.com",
+    "linkedInUrl": "https://www.linkedin.com/company/mckinsey",
+    "employeeCount": 38159,
+    "foundedYear": null,
+    "location": "United States",
+    "specialities": [
+      "Management Consulting"
+    ]
+  }
+}

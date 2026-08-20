@@ -1,0 +1,203 @@
+{
+  "id": "lenasophiavoss",
+  "name": "Lena Sophia Voß",
+  "headline": "Co-Founder at Lumera Energy",
+  "avatar": {
+    "sm": "/avatars/lenasophiavoss-sm.webp",
+    "lg": "/avatars/lenasophiavoss.webp",
+    "blur": "data:image/webp;base64,UklGRgwBAABXRUJQVlA4IAABAABQBgCdASogACAAPtFUpU2oJCMiMBgIAQAaCWYAwN3cC4I1pEkEro0q5by6WHg2ht/NQ9q1Ekph0q64AAD++qpZyj4Pzm+rY7B04mv7MaARLy9rnsWd4o85MYUIJo4l22f6dJzzKLzK8p/snKkf2zfD2opaW4PLZdki1ELCwYh4grUUL1qm9k7fb4TssSB8BPf/7qR2EbJ776gyqg5tX69bhEmh30rXlLkVAHz8ugalTI9pm0IUEw5ExhBzzhwfXidxq0k/v5awn6fz0NVpkppmvrWkRWnMKdpIaImkpBlcGgx5pRhiuXHmg2wd/36UyfEWajDaXns8PfDtyAJoAAAA"
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/lenasophiavoss",
+  "personId": 734,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Mechanical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Lena Voß",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Lumera Energy",
+      "companyUrl": "https://www.linkedin.com/company/lumera-energy",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Founding Team",
+      "company": "Stealth Startup",
+      "companyUrl": "https://www.linkedin.com/company/stealth-startup-community",
+      "description": null,
+      "location": "San Francisco Bay Area",
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Graduate Researcher",
+      "company": "FTM Institute of Automotive Technology TUM",
+      "companyUrl": "https://www.linkedin.com/company/ftm-tum",
+      "description": "Electrifying agricultural machinery with battery storage systems",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Founder's Associate",
+      "company": "Cosuno",
+      "companyUrl": "https://www.linkedin.com/company/cosuno",
+      "description": "Scaling enterprise sales",
+      "location": "Berlin",
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Founder's Associate",
+      "company": "CyberDesk",
+      "companyUrl": "https://www.linkedin.com/company/cyberdesk",
+      "description": "First commercial hire",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Venture Analyst",
+      "company": "Siemens Technology Accelerator",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Siemens Technology Accelerator commercializes innovative technologies and builds new businesses by founding startups or selling and licensing technologies.",
+      "location": "Munich, Germany",
+      "start": "2021-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "Restructuring and Transformation in Energy",
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Strategy",
+      "company": "Moss",
+      "companyUrl": "https://www.linkedin.com/company/moss-finance",
+      "description": "International Expansion across multiple European markets",
+      "location": "Berlin, Germany",
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Research Engineer",
+      "company": "MTU Aero Engines",
+      "companyUrl": "https://www.linkedin.com/company/mtu-aero-engines",
+      "description": null,
+      "location": "Munich",
+      "start": "2020-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "RWTH Aachen University",
+      "companyUrl": "https://www.linkedin.com/company/rwth-aachen-university",
+      "description": "Research in multi-objective optimization for aerospace and in thermodynamics",
+      "location": "Aachen, Nordrhein-Westfalen, Deutschland",
+      "start": "2017-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2017 – Dec 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Information Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Mechanical Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "RWTH Aachen University",
+      "degree": "Bachelor of Science - BS, Business Administration and Engineering: Mechanical Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Centrale Méditerranée",
+      "degree": "Diplôme d'Ingénieur",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Microsoft Office",
+    "Präsentationsfertigkeiten",
+    "C++",
+    "Teamwork",
+    "Rechercheanalyse",
+    "NX Unigraphics",
+    "Marktforschung",
+    "Unternehmensstrategie",
+    "Flugzeugdesign",
+    "Luft- und Raumfahrttechnik",
+    "Strategie"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Lumera Energy",
+    "tagline": "Empowering commercial and industrial battery storage.",
+    "description": null,
+    "industry": "Services for Renewable Energy",
+    "website": "https://www.lumeraenergy.de",
+    "linkedInUrl": "https://www.linkedin.com/company/lumera-energy",
+    "employeeCount": 9,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

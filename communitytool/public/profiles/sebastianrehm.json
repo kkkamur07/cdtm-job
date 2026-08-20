@@ -1,0 +1,236 @@
+{
+  "id": "sebastianrehm",
+  "name": "Sebastian Rehm",
+  "headline": "Engineering Manager",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sebastianrehm",
+  "personId": 1396,
+  "classes": [
+    {
+      "id": 70,
+      "label": "Fall 2011",
+      "season": "Fall",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2011",
+  "major": "Media Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sebastian Rehm",
+  "ca": null,
+  "summary": "Motivated and empathetic people and technology leader. Experienced with UX and across the web technology stack. I am passionate about helping team members grow and building teams that can deliver impact.",
+  "positions": [
+    {
+      "title": "Engineering Manager, Agent Foundations",
+      "company": "GitLab",
+      "companyUrl": "https://www.linkedin.com/company/gitlab-com",
+      "description": null,
+      "location": null,
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Engineering Manager, Analytics Instrumentation",
+      "company": "GitLab",
+      "companyUrl": "https://www.linkedin.com/company/gitlab-com",
+      "description": null,
+      "location": null,
+      "start": "2022-10",
+      "end": "2024-09",
+      "dateRange": "Oct 2022 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "VP of Engineering",
+      "company": "Agrando",
+      "companyUrl": "https://www.linkedin.com/company/agrando",
+      "description": "Grew a diverse and performant team across software and data engineering from 8 to 20 engineers and from one to two locations. Fully responsible for all software engineering architecture and processes.",
+      "location": null,
+      "start": "2020-02",
+      "end": "2022-09",
+      "dateRange": "Feb 2020 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Lead Software Engineer (Frontend)",
+      "company": "Agrando",
+      "companyUrl": "https://www.linkedin.com/company/agrando",
+      "description": "Responsible for the technical architecture and further development of a Nuxt Single-Page-Application. Took over responsibility for a 3 person team and introduced improvements in software engineering as well as the surrounding process.",
+      "location": "Munich Area, Germany",
+      "start": "2019-03",
+      "end": "2020-02",
+      "dateRange": "Mar 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Futurice",
+      "companyUrl": "https://www.linkedin.com/company/futurice",
+      "description": "Delivered Software and UX services to corporate customers around Germany. Included taking part in sales efforts, leading development teams, promoting agile practices and project management.",
+      "location": "Munich Area, Germany",
+      "start": "2018-02",
+      "end": "2019-02",
+      "dateRange": "Feb 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Lead Software Engineer",
+      "company": "Avocando",
+      "companyUrl": "https://www.linkedin.com/company/avocando",
+      "description": "Lead full-stack development as well as product management of our consumer facing products at Avocando, which provided shoppable content solutions for grocery items. Avocando's products were integrated in Germany's biggest recipe publishing sites and in leading smart home applications.",
+      "location": "Munich, Germany",
+      "start": "2016-09",
+      "end": "2018-01",
+      "dateRange": "Sep 2016 – Jan 2018",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Avocando",
+      "companyUrl": "https://www.linkedin.com/company/avocando",
+      "description": "Worked on full-stack development (Ruby on Rails, Postgres and Javascript SPA) as well as user experience and interface design at Simplora, a comparison platform for grocery shopping in Germany.",
+      "location": "Munich",
+      "start": "2015-07",
+      "end": "2016-08",
+      "dateRange": "Jul 2015 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Simplora",
+      "companyUrl": null,
+      "description": "Responsible for frontend development and user experience at Simplora, a comparison platform for grocery shopping in Germany.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2013-05",
+      "end": "2014-08",
+      "dateRange": "May 2013 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Wooga",
+      "companyUrl": "https://www.linkedin.com/company/wooga",
+      "description": "Worked on Bachelor Thesis. Created internal tooling for visualising game design elements.",
+      "location": "Berlin und Umgebung, Deutschland",
+      "start": "2012-09",
+      "end": "2012-11",
+      "dateRange": "Sep 2012 – Nov 2012",
+      "current": false
+    },
+    {
+      "title": "Project Work Entrepreneurship Laboratory",
+      "company": "European Games Group AG",
+      "companyUrl": "https://www.linkedin.com/company/european-games-group-ag",
+      "description": "Analyzing and forecasting the web and mobile gaming market.",
+      "location": "Munich",
+      "start": "2012-05",
+      "end": "2012-07",
+      "dateRange": "May 2012 – Jul 2012",
+      "current": false
+    },
+    {
+      "title": "Tutor",
+      "company": "Ludwig-Maximilians Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Tutoring the course \"Algorithms and Data Structures\"",
+      "location": null,
+      "start": "2012-04",
+      "end": "2012-08",
+      "dateRange": "Apr 2012 – Aug 2012",
+      "current": false
+    },
+    {
+      "title": "Project Work Product Development",
+      "company": "Wooga",
+      "companyUrl": "https://www.linkedin.com/company/wooga",
+      "description": "Creating the concept and prototype of a cooperative web-based game.",
+      "location": "Munich",
+      "start": "2011-10",
+      "end": "2012-01",
+      "dateRange": "Oct 2011 – Jan 2012",
+      "current": false
+    },
+    {
+      "title": "Tutor",
+      "company": "Ludwig-Maximilians Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Tutoring the courses \"Digital Media\" and \"Algorithms and Data Structures\"",
+      "location": null,
+      "start": "2010-10",
+      "end": "2011-08",
+      "dateRange": "Oct 2010 – Aug 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master's degree, Human Computer Interaction",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "QUT (Queensland University of Technology)",
+      "degree": "Visiting Researcher, Urban Informatics",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2011 – 2013"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor's degree, Media and Computer Science",
+      "dateRange": "2009 – 2013"
+    }
+  ],
+  "skills": [
+    "Engineering Management",
+    "Software Engineering",
+    "Recruiting",
+    "TypeScript",
+    "React Native",
+    "GraphQL",
+    "Back-End Web Development",
+    "Front-End Development",
+    "Node.js",
+    "PostgreSQL",
+    "Web Development",
+    "User Experience",
+    "Ruby on Rails",
+    "User Interface Design",
+    "JavaScript",
+    "CSS",
+    "Rapid Prototyping",
+    "Ruby",
+    "React.js",
+    "ElasticSearch"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "GitLab",
+    "tagline": "Build software faster. The DevSecOps Platform enables your entire org to collaborate around your code. We're hiring.",
+    "description": "GitLab is a complete DevOps platform, delivered as a single application, fundamentally changing the way Development, Security, and Ops teams collaborate and build software. From idea to production, GitLab helps teams improve cycle time from weeks to minutes, reduce development costs and time to market while increasing developer productivity.\n\nWe're the world's largest all-remote company with team members located in more than 65 countries. As part of the GitLab team, you can work from anywhere with good internet. You'll have the freedom to contribute when and where you do your best work.\n\nInterested in opportunities at GitLab? Join our talent community and share your information with our recruiting team: https://about.gitlab.com/jobs/",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://about.gitlab.com/?utm_medium=social&utm_source=linkedin&utm_campaign=profile",
+    "linkedInUrl": "https://www.linkedin.com/company/gitlab-com",
+    "employeeCount": 3417,
+    "foundedYear": 2014,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

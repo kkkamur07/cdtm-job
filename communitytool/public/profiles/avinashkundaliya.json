@@ -1,0 +1,162 @@
+{
+  "id": "avinashkundaliya",
+  "name": "Avinash Kundaliya",
+  "headline": "Engineering Innovations",
+  "avatar": {
+    "sm": "/avatars/avinashkundaliya-sm.webp",
+    "lg": "/avatars/avinashkundaliya.webp",
+    "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAAAQBgCdASogACAAPtFeqE4oJSQiKAqpABoJbACdL3WC306MaGNq2TpGLJGljhQmPUQfn3yj8/xPfzAA/rusZxcCN5qu1Ibt9UP5BoJHCmvRv90W+Jffa3qYSHtiU/EIPy+ENS9WH98WHqpbtk7tqJpItU9BNCgKqqrZXlfA4YbqMUo+hC7z7EmGUWfVfUaddpUk2paJYQtxfc7QYffgNhvuLwDx5P+0ckoSKnggWpsmNByz3zxhYXAbuWGYyO9T9pqP0hxmfiOaOafYvDC/qSMPKslRXEdJy6K6kDEfbwWFrU90eFt05Kxe0fX3YjzuSVDP8u2fIOCy0VgA"
+  },
+  "location": "Kathmandu, Nepal",
+  "linkedInUrl": "https://www.linkedin.com/in/avinashkundaliya",
+  "personId": 900,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Avinash Kundaliya",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Event Organizer",
+      "company": "wwktm",
+      "companyUrl": "https://www.linkedin.com/company/wwktm",
+      "description": null,
+      "location": "Nepal",
+      "start": "2018-02",
+      "end": null,
+      "dateRange": "Feb 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Engineer, Co-Founder",
+      "company": "Arbyte Solutions",
+      "companyUrl": "https://www.linkedin.com/company/arbytesolutions",
+      "description": null,
+      "location": "Kathmandu, Nepal",
+      "start": "2018-01",
+      "end": null,
+      "dateRange": "Jan 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Head Of Engineering",
+      "company": "Plantura GmbH",
+      "companyUrl": "https://www.linkedin.com/company/plantura",
+      "description": null,
+      "location": "Kathmandu, Munich, Remote",
+      "start": "2017-04",
+      "end": null,
+      "dateRange": "Apr 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Wirecard AG",
+      "companyUrl": "https://www.linkedin.com/company/wirecard",
+      "description": null,
+      "location": null,
+      "start": "2015-08",
+      "end": "2016-09",
+      "dateRange": "Aug 2015 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "Werkstudent Software Developer",
+      "company": "Contigua GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2013-11",
+      "end": "2015-07",
+      "dateRange": "Nov 2013 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Software Design Engineer",
+      "company": "Dewberry Web Logic Pvt. Ltd.",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2011-06",
+      "end": "2012-03",
+      "dateRange": "Jun 2011 – Mar 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Masters of Science, Informatics",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "National Institute of Technology Surat",
+      "degree": "Bachelor of Technology (BTech), Computer Science and Engineering",
+      "dateRange": "2007 – 2011"
+    }
+  ],
+  "skills": [
+    "SQL",
+    "HTML",
+    "C",
+    "Git",
+    "C++",
+    "Java",
+    "JavaScript",
+    "HTML 5",
+    "Software Engineering",
+    "HTML5",
+    "PHP"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Plantura",
+    "tagline": "Bringing nature home",
+    "description": "Bringing nature home! That is our mission at Plantura. We want to reconnect people with nature and make the world a little bit greener every day! How?\n\nBy providing everything people need to live a greener and healthier life in an easy and joyful way: \n\n- A curated one-stop-shop, offering indoor & outdoor plants, plant care (like vegan fertilizers and CO2 reduced soils), plant protection and beneficial organisms\n- An app that takes you by the hand with smart features & digital guidance\n- And an online magazine that is your go-to place for every-day inspirational content & how-to instructions \n\nIn this huge and sometimes overlooked segment of home & garden, there is room for a truly sustainable and authentic brand! \n\nFeel like joining our mission? Then please get in touch or check out our open positions.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://shop.plantura.garden/",
+    "linkedInUrl": "https://www.linkedin.com/company/plantura",
+    "employeeCount": 62,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Data Analytics",
+      "Data-driven Content Creation",
+      "Consumer Tech",
+      "Direct-to-Consumer",
+      "Sustainable Gardening",
+      "Media Powerhouse",
+      "Sustainability",
+      "Startup",
+      "Digitally Native Vertical Brand",
+      "Organic & Animal-Free Fertilizers",
+      "App",
+      "Plants & Plant Care"
+    ]
+  }
+}

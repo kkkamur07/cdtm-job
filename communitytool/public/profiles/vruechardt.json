@@ -1,0 +1,197 @@
+{
+  "id": "vruechardt",
+  "name": "Valentin Ruechardt",
+  "headline": "Mine, Merge, Map Data",
+  "avatar": {
+    "sm": "/avatars/vruechardt-sm.webp",
+    "lg": "/avatars/vruechardt.webp",
+    "blur": "data:image/webp;base64,UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASogACAAPtFcpEyoJSOiMBgIAQAaCWwAnTLfZyukCaHRmMSpwlcXaaGTJ3JBdVL9jAbrhn5zPzoEjIAA/j6U/LizLXf5X1LOzidVGGv+XpUtpEbVP+8imwG7zlIOIMBKTraHWnwKarOJdIp8AfwHUmQuWyxGCsYesMu8Q/4MuEgTlfWB0yHejcvZz64siXNR9eqX86PkRBF8zl+yK9kvjEl89cGfPnyALy5CdXLNNYA38ujPEvfbf+Ul91X1LZuuYGaAb5g19yxZpgpm0p8JTB5pBSQXfb9fFyNQaglF6tcKyY4s0sEt+UOOrDMYK8iyZzdsOxFFz3CVseY8HWo0Ho+gVlxRq6gwdIlTGKToZ36Wd6jWdEwgl6jXDxqNZocey5BCu2GchniU1TJfF/k4FFOLXUhLnW4jL0Ow458Jxe7qpaAA"
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/vruechardt",
+  "personId": 717,
+  "classes": [
+    {
+      "id": 77,
+      "label": "Spring 2015",
+      "season": "Spring",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2015",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Valentin Rüchardt",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Nukipa",
+      "companyUrl": "https://www.linkedin.com/company/nukipa-online-marketing",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Principal Product Manager",
+      "company": "Maltego Technologies",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": null,
+      "location": null,
+      "start": "2024-11",
+      "end": "2025-12",
+      "dateRange": "Nov 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Maltego Technologies",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-08",
+      "end": "2024-11",
+      "dateRange": "Aug 2021 – Nov 2024",
+      "current": false
+    },
+    {
+      "title": "CTO & Co-Founder",
+      "company": "reINVENT innovation GmbH",
+      "companyUrl": "https://www.linkedin.com/company/showroomplusgmbh",
+      "description": "Bauprojekte digital steuern - keine Insellösungen mehr: wir schaffen das digitale Ökosystem, in dem alle Projektbeteiligten zusammenarbeiten.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2016-07",
+      "end": "2021-07",
+      "dateRange": "Jul 2016 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "CTO",
+      "company": "UpStories",
+      "companyUrl": "https://www.linkedin.com/company/upstories",
+      "description": "Wir vermitteln urbane Flächen mit kurzfristigen Mietverträgen für PopUp-Stores, Events und vieles mehr. Online und unkompliziert.",
+      "location": null,
+      "start": "2016-03",
+      "end": "2016-06",
+      "dateRange": "Mar 2016 – Jun 2016",
+      "current": false
+    },
+    {
+      "title": "Founding Member",
+      "company": "eleza.org",
+      "companyUrl": null,
+      "description": "Let's solve global issues by sharing solutions: www.eleza.org",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-11",
+      "end": "2018-01",
+      "dateRange": "Nov 2015 – Jan 2018",
+      "current": false
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "investiert AG",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2015-08",
+      "end": "2015-09",
+      "dateRange": "Aug 2015 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Freelancer",
+      "company": "INTEC Venture Advisors",
+      "companyUrl": null,
+      "description": "Full stack developer for a web platform for extensive filtering and administrating small tech companies, venture capitalists and research & development institutes.",
+      "location": null,
+      "start": "2014-10",
+      "end": "2015-04",
+      "dateRange": "Oct 2014 – Apr 2015",
+      "current": false
+    },
+    {
+      "title": "Freelancer",
+      "company": "Bernhard und Bauer IT Consulting GmbH",
+      "companyUrl": null,
+      "description": "Designing the company's web presence and connecting it to a customized content management system.",
+      "location": "Munich",
+      "start": "2014-09",
+      "end": "2015-01",
+      "dateRange": "Sep 2014 – Jan 2015",
+      "current": false
+    },
+    {
+      "title": "Freelancer",
+      "company": "Motius GmbH",
+      "companyUrl": "https://www.linkedin.com/company/motius-gmbh",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2014-05",
+      "end": "2014-08",
+      "dateRange": "May 2014 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Tutor",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Teaching a group of 20 firsties the basics of Java",
+      "location": null,
+      "start": "2013-10",
+      "end": "2014-02",
+      "dateRange": "Oct 2013 – Feb 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Computer Science",
+      "dateRange": "2012 – 2016"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Java",
+    "HTML",
+    "CSS",
+    "SQL",
+    "C",
+    "Microsoft Office",
+    "NetBeans",
+    "PHP",
+    "HTML 5",
+    "Haskell",
+    "Objective-C",
+    "XML",
+    "Eclipse",
+    "AngularJS",
+    "Node.js",
+    "HTML5",
+    "Cascading Style Sheets (CSS)",
+    "Project Management",
+    "Business Strategy"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": null
+}

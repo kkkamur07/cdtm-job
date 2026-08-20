@@ -1,0 +1,330 @@
+{
+  "id": "sefeldmann",
+  "name": "Sebastian Feldmann",
+  "headline": "Company Building",
+  "avatar": {
+    "sm": "/avatars/sefeldmann-sm.webp",
+    "lg": "/avatars/sefeldmann.webp",
+    "blur": "data:image/webp;base64,UklGRgABAABXRUJQVlA4IPQAAABQBgCdASogACAAPtFQo0uoJCMhsBgMAQAaCWwAnTNY8YwohLDT29Kt17ZygZdi9n81I5+6cRRxKDIoCAD+y+VyH7pjrnwKXL5Jhyv30gS38EVSW4Wupic/iSgvDtrf35yEv03KadLNvicrSNT+K6+9U8rwyaPeqWsbr+H3/z5k0uwihI3v4S8VqFY8WGIlwZqN7jSJBwwiGgm8ihO2snLItdZo2RIisSoXc4tglIWQyAIePvkE3//wg1fYbbJd770XkdmvrVxSYWkVb9olKnQpxn/TXdgrKcSmUiq9BizIolWlEKYhnErr3P+uLDBzTyQOOCAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sefeldmann",
+  "personId": 711,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sebastian Feldmann",
+  "ca": null,
+  "summary": "creative open minded entrepreneurial business guy",
+  "positions": [
+    {
+      "title": "Senior Venture Development",
+      "company": "Lufthansa Innovation Hub",
+      "companyUrl": "https://www.linkedin.com/company/lufthansa-innovation-hub",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2022-09",
+      "end": null,
+      "dateRange": "Sep 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Junior Accountant",
+      "company": "RS Reproduktions GmbH",
+      "companyUrl": null,
+      "description": "Singen",
+      "location": null,
+      "start": "2004-08",
+      "end": null,
+      "dateRange": "Aug 2004 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "brightensport",
+      "companyUrl": "https://www.linkedin.com/company/brightensport",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-05",
+      "end": "2023-01",
+      "dateRange": "May 2021 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Senior Consultant - Innovation, Entrepreneurship and Innovation",
+      "company": "PMI",
+      "companyUrl": null,
+      "description": null,
+      "location": "Accra, Greater Accra Region, Ghana",
+      "start": "2020-06",
+      "end": "2021-04",
+      "dateRange": "Jun 2020 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Initiator",
+      "company": "Deep Dive Africa",
+      "companyUrl": "https://www.linkedin.com/company/deep-dive-africa",
+      "description": "Accra",
+      "location": null,
+      "start": "2019-11",
+      "end": "2021-04",
+      "dateRange": "Nov 2019 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Digital Ambassador",
+      "company": "Impact Hub Accra",
+      "companyUrl": "https://www.linkedin.com/company/impact-hub-accra",
+      "description": "Accra",
+      "location": null,
+      "start": "2018-09",
+      "end": "2020-01",
+      "dateRange": "Sep 2018 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "Clevis Research GmbH",
+      "companyUrl": "https://www.linkedin.com/company/clevis-research-gmbh",
+      "description": "Data driven innovation and trend research, corporate company building",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-05",
+      "end": "2018-07",
+      "dateRange": "May 2016 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "Manager Business Modelling and Research",
+      "company": "GERMANTECH DIGITAL",
+      "companyUrl": null,
+      "description": "Identifying and building data driven business models for corporates.",
+      "location": "Berlin",
+      "start": "2016-05",
+      "end": "2018-07",
+      "dateRange": "May 2016 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "Head of Business Development",
+      "company": "investiert AG",
+      "companyUrl": null,
+      "description": "Sales and business development during the roll out of the crowdinvesting plattform investiert.de",
+      "location": "München",
+      "start": "2015-09",
+      "end": "2016-04",
+      "dateRange": "Sep 2015 – Apr 2016",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "QMedify",
+      "companyUrl": null,
+      "description": "Consulting on market validation and entry strategy for QMedify's SmartRadiology Suite.",
+      "location": "Munich",
+      "start": "2015-04",
+      "end": "2015-07",
+      "dateRange": "Apr 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "TeleClinic",
+      "companyUrl": null,
+      "description": "Product development in the field of telemedical services for expatriates.",
+      "location": "Munich",
+      "start": "2014-10",
+      "end": "2015-01",
+      "dateRange": "Oct 2014 – Jan 2015",
+      "current": false
+    },
+    {
+      "title": "Digital Helping Hand",
+      "company": "Axel Springer Media House",
+      "companyUrl": "https://www.linkedin.com/company/axelspringer",
+      "description": "Berlin",
+      "location": null,
+      "start": "2013-10",
+      "end": "2014-10",
+      "dateRange": "Oct 2013 – Oct 2014",
+      "current": false
+    },
+    {
+      "title": "Associate",
+      "company": "make a startup . com",
+      "companyUrl": "https://www.linkedin.com/company/angelfund-vc",
+      "description": "Deal flow management, portfolio management, event management, fundraising, startup coaching",
+      "location": "Berlin",
+      "start": "2011-03",
+      "end": "2013-08",
+      "dateRange": "Mar 2011 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Intern @hub:raum",
+      "company": "Deutsche Telekom",
+      "companyUrl": "https://www.linkedin.com/company/telekom",
+      "description": "Intern at Deutsche Telekom Laboratories Entrepreneurs Program (now hub:raum), finished the internship with a bachelor thesis about entrepreneurial traits",
+      "location": "Berlin",
+      "start": "2010-06",
+      "end": "2010-12",
+      "dateRange": "Jun 2010 – Dec 2010",
+      "current": false
+    },
+    {
+      "title": "QA Officer",
+      "company": "Ovitas",
+      "companyUrl": "https://www.linkedin.com/company/ovitas",
+      "description": "Greater Boston",
+      "location": null,
+      "start": "2009-06",
+      "end": "2009-07",
+      "dateRange": "Jun 2009 – Jul 2009",
+      "current": false
+    },
+    {
+      "title": "Junior Controller",
+      "company": "RS Reproduktions GmbH",
+      "companyUrl": null,
+      "description": "Implementing a project management and controlling software",
+      "location": "Singen",
+      "start": "2008-10",
+      "end": "2009-01",
+      "dateRange": "Oct 2008 – Jan 2009",
+      "current": false
+    },
+    {
+      "title": "Junior Controller",
+      "company": "Empolis",
+      "companyUrl": "https://www.linkedin.com/company/empolis",
+      "description": "Gütersloh",
+      "location": null,
+      "start": "2008-05",
+      "end": "2008-08",
+      "dateRange": "May 2008 – Aug 2008",
+      "current": false
+    },
+    {
+      "title": "Event Manager",
+      "company": "Zeppelin University",
+      "companyUrl": "https://www.linkedin.com/company/zeppelin-university",
+      "description": "Friedrichshafen",
+      "location": null,
+      "start": "2008-04",
+      "end": "2010-05",
+      "dateRange": "Apr 2008 – May 2010",
+      "current": false
+    },
+    {
+      "title": "Purchasing Agent",
+      "company": "Georg Fischer",
+      "companyUrl": "https://www.linkedin.com/company/georg-fischer",
+      "description": null,
+      "location": "Greater Sydney Area",
+      "start": "2007-02",
+      "end": "2007-03",
+      "dateRange": "Feb 2007 – Mar 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Business and Technology",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "hons., Technology Management",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Zeppelin University",
+      "degree": "Bachelor of Arts, Corporate Management & Economics, Public Management & Governance",
+      "dateRange": "2007 – 2011"
+    },
+    {
+      "school": "Robert Gerwig Schule Singen",
+      "degree": "A-Level, commercial high-school",
+      "dateRange": "2003 – 2006"
+    },
+    {
+      "school": "CDTM",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "CDTM",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Start-ups",
+    "Entrepreneurship",
+    "Venture Capital",
+    "Business Strategy",
+    "Angel Investing",
+    "Financial Modeling",
+    "Business Planning",
+    "Corporate Development",
+    "Private Equity",
+    "Strategy",
+    "Mobile Applications",
+    "Business Modeling",
+    "Management Consulting",
+    "Market Research",
+    "Mergers & Acquisitions",
+    "Start-up Ventures",
+    "Start-up Consulting",
+    "Unternehmertum",
+    "Projektmanagement",
+    "Privates Eigenkapital",
+    "Unternehmensberatung",
+    "Unternehmensplanung",
+    "Unternehmensstrategie",
+    "Marktforschung",
+    "Finanzmodelle",
+    "Risikokapital",
+    "Unternehmensführung",
+    "Strategisches Management",
+    "Unternehmensentwicklung",
+    "Fusionen und Übernahmen",
+    "Mobilanwendungen",
+    "Project Management",
+    "Management",
+    "Strategie",
+    "venture development",
+    "company building",
+    "Modellierung von Business Cases"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Lufthansa Innovation Hub",
+    "tagline": "We accelerate the NEXT in travel.",
+    "description": "At the Lufthansa Innovation Hub, we’re pioneering the future of travel for the Lufthansa Group, the industry, but most importantly for everyone who travels. \n\nThe landscape of the travel industry is changing – due to new technologies and competitors, evolving consumer needs, and market dynamics. Our job is to identify these shifts and translate them into new business opportunities in the travel sector.\n\nWe are guided by our ambition to take travel to new destinations. We recognize that travel is about connecting and exploring and will always remain a human, universal and transformative experience. At the same time, we believe that we need to redefine what traveling means and include additional fields.\n\nTo take travel to new destinations, we push ourselves, the Lufthansa Group, and the industry to make travel easier, more convenient, and more enjoyable.",
+    "industry": "Technology, Information and Internet",
+    "website": "http://www.lh-innovationhub.com",
+    "linkedInUrl": "https://www.linkedin.com/company/lufthansa-innovation-hub",
+    "employeeCount": 71,
+    "foundedYear": 2014,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

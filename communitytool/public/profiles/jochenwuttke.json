@@ -1,0 +1,190 @@
+{
+  "id": "jochenwuttke",
+  "name": "Jochen Wuttke",
+  "headline": "Busy",
+  "avatar": null,
+  "location": "Zurich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/jochenwuttke",
+  "personId": 1656,
+  "classes": [
+    {
+      "id": 97,
+      "label": "Fall 2001",
+      "season": "Fall",
+      "year": 2001,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2001",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jochen Wuttke",
+  "ca": null,
+  "summary": "Software Engineer, specialising in automation infrastructure, middleware and micro services.",
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": "2019-03",
+      "end": "2023-04",
+      "dateRange": "Mar 2019 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer, Tools and Infra",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": "2017-02",
+      "end": "2019-03",
+      "dateRange": "Feb 2017 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Test Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": "Zurich",
+      "start": "2013-03",
+      "end": "2017-02",
+      "dateRange": "Mar 2013 – Feb 2017",
+      "current": false
+    },
+    {
+      "title": "Research associate",
+      "company": "University of Washington",
+      "companyUrl": "https://www.linkedin.com/company/university-of-washington",
+      "description": "Research in test automation, static and dynamic analysis for fault localization.",
+      "location": null,
+      "start": "2011-03",
+      "end": "2012-08",
+      "dateRange": "Mar 2011 – Aug 2012",
+      "current": false
+    },
+    {
+      "title": "Post-doctoral Researcher",
+      "company": "University of Lugano",
+      "companyUrl": "https://www.linkedin.com/company/usi-universita-della-svizzera-italiana",
+      "description": null,
+      "location": null,
+      "start": "2010-03",
+      "end": "2011-02",
+      "dateRange": "Mar 2010 – Feb 2011",
+      "current": false
+    },
+    {
+      "title": "PhD Candidate",
+      "company": "University of Lugano",
+      "companyUrl": "https://www.linkedin.com/company/usi-universita-della-svizzera-italiana",
+      "description": null,
+      "location": null,
+      "start": "2005-10",
+      "end": "2010-03",
+      "dateRange": "Oct 2005 – Mar 2010",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Definiens AG",
+      "companyUrl": "https://www.linkedin.com/company/definiens-ag",
+      "description": "Intern, part-time SW developer",
+      "location": null,
+      "start": "2003-10",
+      "end": "2005-06",
+      "dateRange": "Oct 2003 – Jun 2005",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Ludwig Maximilians Universität München",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2000-01",
+      "end": "2002-12",
+      "dateRange": "Jan 2000 – Dec 2002",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "USI Università della Svizzera italiana",
+      "degree": "PhD, Computer Science",
+      "dateRange": "2005 – 2010"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom, Computer Science",
+      "dateRange": "1999 – 2005"
+    },
+    {
+      "school": "University of Kent",
+      "degree": "MBA, Business Administration",
+      "dateRange": "2002 – 2003"
+    }
+  ],
+  "skills": [
+    "Adaptive Systems",
+    "Testing",
+    "Computer Science",
+    "Research",
+    "Teaching",
+    "Programming",
+    "Economics",
+    "Software Engineering",
+    "Java",
+    "Software Development",
+    "LaTeX",
+    "SQL",
+    "HTML",
+    "XML",
+    "Software Design",
+    "Eclipse",
+    "Python",
+    "Go",
+    "C++",
+    "Distributed Systems"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Google",
+    "tagline": null,
+    "description": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.\n\nCheck out our career opportunities at goo.gle/3DLEokh",
+    "industry": "Software Development",
+    "website": "https://goo.gle/3DLEokh",
+    "linkedInUrl": "https://www.linkedin.com/company/google",
+    "employeeCount": 341631,
+    "foundedYear": null,
+    "location": "Mountain View, United States",
+    "specialities": [
+      "search",
+      "ads",
+      "mobile",
+      "android",
+      "online video",
+      "apps",
+      "machine learning",
+      "virtual reality",
+      "cloud",
+      "hardware",
+      "artificial intelligence",
+      "youtube",
+      "software"
+    ]
+  }
+}

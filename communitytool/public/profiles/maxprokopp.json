@@ -1,0 +1,241 @@
+{
+  "id": "maxprokopp",
+  "name": "Max Prokopp",
+  "headline": "Harvard | CDTM | Film Production",
+  "avatar": {
+    "sm": "/avatars/maxprokopp-sm.webp",
+    "lg": "/avatars/maxprokopp.webp",
+    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAADwBQCdASogACAAPtFWokuoJKMhsBgMAQAaCWYAwPyp4LXdAMtu13o8Ed597msxIjf8nN7090MNQAD++y4HJWuR+sW0YDTZ2jfVh7GzqLD2dM6n9lg0chx7OU8gIuEMopHaoDRHGakbY8QCBzO25gyg8g+12eTleg1ejiN0SWDTOK4NDnmYf0prpdNKUd4BEC6BBUe4En9lUG4dMOw7Edxrh9SwmAUiwmeHjeAz58kOZcxoDG3sOtDXJ7HomMwGPPfcXcpDUhiwy7l6CfHdtjqnwkxDs/Go9gAo4yqV5BwPvlqJd+XvGO7QAAA="
+  },
+  "location": "Cambridge, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/maxprokopp",
+  "personId": 888,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Business Administration and Management",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Maximilian Prokopp",
+  "ca": null,
+  "summary": "Interested in the intersection of Audio, Creative Arts, and Artificial Intelligence.\nWorked on three films with Oscar-winners and -nominees.\nLove curating my music, art, and readings.",
+  "positions": [
+    {
+      "title": "Research Fellow",
+      "company": "Harvard University",
+      "companyUrl": "https://www.linkedin.com/company/harvard-university",
+      "description": "Digital Data Design Lab | Human-AI Interaction & Creativity Research",
+      "location": null,
+      "start": "2023-08",
+      "end": null,
+      "dateRange": "Aug 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Assistant Director",
+      "company": "Bavaria Fiction GmbH",
+      "companyUrl": "https://www.linkedin.com/company/bavaria-fiction",
+      "description": null,
+      "location": null,
+      "start": "2018-03",
+      "end": null,
+      "dateRange": "Mar 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Production Assistant",
+      "company": "Constantin Entertainment",
+      "companyUrl": "https://www.linkedin.com/company/constantin-entertainment",
+      "description": null,
+      "location": null,
+      "start": "2017-07",
+      "end": null,
+      "dateRange": "Jul 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Intern",
+      "company": "UFA SERIAL DRAMA GmbH",
+      "companyUrl": "https://www.linkedin.com/company/grundy-ufa-tv-produktions-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2015-04",
+      "end": null,
+      "dateRange": "Apr 2015 – Present",
+      "current": true
+    },
+    {
+      "title": "External Consultant Fundraising and Sales",
+      "company": "Dryft",
+      "companyUrl": "https://www.linkedin.com/company/dryft-hq",
+      "description": null,
+      "location": "San Francisco Bay Area",
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Producer",
+      "company": "ScholtenBergmann Film",
+      "companyUrl": "https://www.linkedin.com/company/scholtenbergmann-film",
+      "description": "Commercial production for companies like Mercedes-Benz",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-07",
+      "end": "2021-12",
+      "dateRange": "Jul 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Assistant Director",
+      "company": "Lionsgate",
+      "companyUrl": "https://www.linkedin.com/company/lionsgate",
+      "description": "The Unbearable Weight of Massive Talent\nProduction team of the Nicolas Cage & Pedro Pascal cinema action comedy",
+      "location": null,
+      "start": "2020-09",
+      "end": "2020-12",
+      "dateRange": "Sep 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Assistant Director",
+      "company": "Legendary Entertainment",
+      "companyUrl": "https://www.linkedin.com/company/legendary-entertainment",
+      "description": "DUNE",
+      "location": null,
+      "start": "2019-05",
+      "end": "2019-08",
+      "dateRange": "May 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Production Assistant",
+      "company": "Warner Bros. Entertainment",
+      "companyUrl": "https://www.linkedin.com/company/warner-bros--entertainment",
+      "description": null,
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "start": "2019-03",
+      "end": "2019-04",
+      "dateRange": "Mar 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Production Assistant Intern",
+      "company": "Carnival Film & Television Limited",
+      "companyUrl": "https://www.linkedin.com/company/carnival-film-&-television-limited",
+      "description": null,
+      "location": null,
+      "start": "2018-08",
+      "end": "2018-10",
+      "dateRange": "Aug 2018 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Production Manager",
+      "company": "University of Television and Film Munich (HFF)",
+      "companyUrl": "https://www.linkedin.com/company/university-of-television-and-film-munich-germany",
+      "description": "Diverse short films",
+      "location": null,
+      "start": "2017-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2017 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Constantin Entertainment",
+      "companyUrl": "https://www.linkedin.com/company/constantin-entertainment",
+      "description": null,
+      "location": null,
+      "start": "2014-06",
+      "end": "2014-07",
+      "dateRange": "Jun 2014 – Jul 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Fellow",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "University of Buenos Aires",
+      "degree": "Master of Science - MS, Economics",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Business Administration and Management",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Zhejiang University",
+      "degree": "Bachelor, School of Management, Business/Managerial Economics",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Business Administration - BBA, International Business",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Deutsche Schule Budapest - Thomas Mann Gymnasium",
+      "degree": "German-Hungarian double language school",
+      "dateRange": "2009 – 2017"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Visiting Fellow",
+      "dateRange": "2023 – 2024"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Hungarian",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Harvard University",
+    "tagline": null,
+    "description": "Harvard University is devoted to excellence in teaching, learning, and research, and to developing leaders in many disciplines who make a difference globally. Founded in 1636, Harvard is the oldest institution of higher learning in the United States.\n\nThe official flagship Harvard social media channels are maintained by Harvard Public Affairs and Communications and aim to provide access to the people, places, events, news and research at our Institution. We ask that all visitors to Harvard’s digital spaces be civil to one another and to the site editors. Personal attacks, profanity, commercial solicitations, spam, misinformation or other inappropriate contributions are grounds for comment removal. We ask that you stay on topic when contributing to a discussion and refrain from duplicate posts.\n\nHateful or discriminatory comments regarding race, ethnicity, religion, gender, disability, sexual orientation, or political beliefs will not be tolerated. The page administrators reserve the right to delete inappropriate or abusive comments and to permanently ban or block users from the Harvard social media accounts.",
+    "industry": "Higher Education",
+    "website": "http://harvard.edu",
+    "linkedInUrl": "https://www.linkedin.com/company/harvard-university",
+    "employeeCount": 34744,
+    "foundedYear": null,
+    "location": "Cambridge, United States",
+    "specialities": [
+      "Education",
+      "Research",
+      "Business",
+      "Medicine",
+      "Law",
+      "Engineering",
+      "Design",
+      "Science",
+      "Arts and Humanities"
+    ]
+  }
+}

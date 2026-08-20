@@ -1,0 +1,285 @@
+{
+  "id": "thilo-koch-47ab923a",
+  "name": "Thilo Koch",
+  "headline": "Head of Product Mgmt @Maltego",
+  "avatar": {
+    "sm": "/avatars/thilo-koch-47ab923a-sm.webp",
+    "lg": "/avatars/thilo-koch-47ab923a.webp",
+    "blur": "data:image/webp;base64,UklGRjwBAABXRUJQVlA4IDABAAAQBwCdASogACAAPslSoEunpKMht/VYAPAZCWwAnS8CJAuTMjwPdv2Aqpr0dKe38t3IEHGl+Nw0OZ33K+E/vGKW4AD+ZgxJ3wb+rVr6Cz7k4nDTlxEBjSgek1bduT9t0WD6eZ0Ixf98k72OGljtiBQuYO6SZz+jAh4mEUE5sJ+H9818F0o99ojSnOxgOEfWRsK3wSq8pz/WTkCTzAbtA3JSKg6jMGz8S88cjo/3d0NhB5esZsADDLIj3CYNSazhm09mBeIC5nQj2fc/er361IJ7mQfNzsVHznzNQh62dqScFcthqyHeOwv2dLGXC+J0a3hteZ3iH6p5TwLiV10YKfL46kWW/2OcHnyRSTxw085HP27/bQEaTz+kfkeOvFhIW3dIg0tTkhoYxprMNpfQQAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/thilo-koch-47ab923a",
+  "personId": 1165,
+  "classes": [
+    {
+      "id": 74,
+      "label": "Fall 2013",
+      "season": "Fall",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2013",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Thilo Koch",
+  "ca": null,
+  "summary": "• I am fascinated by experiences—products & services—that solve real-life problems. I made it my personal goal to do the same for companies like Maltego (market-leading link analysis for fighting crime & cybersecurity), Freeletics (exceptional sports & fitness app) and GEIST/Memorado (one of Germany's leading mental fitness apps).\n\n• Working as a Head of Product/PM in high growth environments has taught me the necessary skills to solve people's problems with software—enabling interdisciplinary teams of developers, designers, content creators and data analysts in the process.\n\n• During my studies I made it a mission to learn about the world. I did so by using the great educational systems which I was lucky to have access to. I'm drawing from those experiences each and every day. I'm a strong believer in diversity, equality/equity and inclusion.",
+  "positions": [
+    {
+      "title": "Head of Product Management",
+      "company": "Maltego Technologies",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Clean Eating Lifestyle / I Am What I Eat / Freeletics Nutrition",
+      "company": "Freeletics",
+      "companyUrl": "https://www.linkedin.com/company/freeletics",
+      "description": "Clean eating. Weight loss. Muscle gain. No calorie counting. No diets. Just results. Reach your goals with the Freeletics Nutrition app: ► http://frltcs.com/FreeleticsNutrition I AM WHAT I EAT. Food is the fuel of life. What you eat defines who you are today and who you will become tomorrow.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Product Management",
+      "company": "Maltego Technologies",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-03",
+      "end": "2023-09",
+      "dateRange": "Mar 2021 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Customer & Business Development",
+      "company": "y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": "• Leading the early stage customer development process\n• Finding the ideal customer profile, pain points and jobs-to-be-done.\n• Defining the buyer’s journey while setting up and iterating the sales processes\n• End-to-end client acquisition with 5 digits annual contract value.",
+      "location": "Berlin, Germany",
+      "start": "2020-06",
+      "end": "2020-11",
+      "dateRange": "Jun 2020 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Freelance Product Consultant",
+      "company": "Freelance Product Manager I Product Consultant I Interim-Management I Project Management",
+      "companyUrl": null,
+      "description": "Experienced with (not limited to) the following topics:\n• Strategic Product Mgmt — e.g. mission, vision, product principles, product roadmap\n• New Product and Feature Ideation, Execution — e.g. workshops, experience & user st. maps\n• User Research — e.g. customer interviews, surveys\n• Growth Strategies — e.g. conversion & paywall optimization, promotions, referrals\n• Data Analytics Concept & Implementation — e.g. A/B testing, event tracking map\n• Team Audit & Coaching — e.g. collaboration & process improvements",
+      "location": null,
+      "start": "2020-05",
+      "end": "2021-08",
+      "dateRange": "May 2020 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Head of Product & Brand",
+      "company": "GEIST",
+      "companyUrl": "https://www.linkedin.com/company/geist-app",
+      "description": "• Responsible for end-to-end product development leading a team of UX designers, content creators, data scientists and engineers. Projects:\n• Setup of a new market, product and content strategy extending the value propositions to Brain Training, Meditation & Sleep\n• Leading repositioning & rebranding from Memorado to GEIST \n• Evaluation, migration and setup of analytics stack, incl. event tracking & AB testing\n• Implementation of growth mechanisms like season-based promotions and price tests using discounts, free trials or lifetime products. \n--> Resulting in 45% year-on-year growth of paying active subscribers in September 2019",
+      "location": "Berlin, Germany",
+      "start": "2018-09",
+      "end": "2019-11",
+      "dateRange": "Sep 2018 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Product Manager - Training App",
+      "company": "Freeletics",
+      "companyUrl": "https://www.linkedin.com/company/freeletics",
+      "description": "Responsible for establishing and implementing Freeletics’ growth strategy for the Training app (incl. in-app promotions, deep-linking, push notifications and conversion optimization) substantially impacting the business success in 2018.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-11",
+      "end": "2018-08",
+      "dateRange": "Nov 2017 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Product Manager - Launch of Nutrition App",
+      "company": "Freeletics",
+      "companyUrl": "https://www.linkedin.com/company/freeletics",
+      "description": "• From-scratch conception and launch of a personalized nutrition & lifestyle mobile app („Freeletics Nutrition“) in 2 languages extending the Freeletics value propositions and strengthening the leading position in digital health & fitness category.\n• Continuing to iterate “Freeletics Nutrition” based on user research & expanding to 4 new markets, leading to high five digit number of monthly users.\n• Launch of a bundled Training & Nutrition subscription with six digit contribution to monthly revenue.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-09",
+      "end": "2017-10",
+      "dateRange": "Sep 2015 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "FIFA Soccer World Cup 2014 - Brazil",
+      "company": "ARD & ZDF",
+      "companyUrl": "https://www.linkedin.com/company/ard-wir-sind-deins",
+      "description": "Event organization for the biggest public German TV broadcasters ARD and ZDF. Main tasks: \n• Match day coordination between ARD/ZDF and FIFA organizations in Maracanã Stadium \n• Organization of local drivers' fleet\n• Assistance to ARD/ZDF production team at the International Broadcast Center",
+      "location": "Greater Rio de Janeiro",
+      "start": "2014-05",
+      "end": "2014-07",
+      "dateRange": "May 2014 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "Project Work: Mobile Application Concept",
+      "company": "Landeshauptstadt München",
+      "companyUrl": "https://www.linkedin.com/company/stadt-muenchen",
+      "description": "Project: Developed a mobile concept for citizen participation in cities and prototyped an Android app with the team.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-10",
+      "end": "2013-12",
+      "dateRange": "Oct 2013 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Project Work: Smart Cities",
+      "company": "Telekom Innovation Laboratories",
+      "companyUrl": "https://www.linkedin.com/company/t-labs-telekom-laboratories",
+      "description": "Project: Conducted trend research and development of digital business concepts for smart cities.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-08",
+      "end": "2013-09",
+      "dateRange": "Aug 2013 – Sep 2013",
+      "current": false
+    },
+    {
+      "title": "IT Strategy",
+      "company": "Daimler Northeast Asia Ltd.",
+      "companyUrl": "https://www.linkedin.com/company/mercedes-benz_ag",
+      "description": "Internship in IT Strategy of all Daimler Joint Ventures in China;\nProject management in make-or-buy decisions, IT landscape analysis",
+      "location": "Beijing, China",
+      "start": "2011-01",
+      "end": "2011-06",
+      "dateRange": "Jan 2011 – Jun 2011",
+      "current": false
+    },
+    {
+      "title": "Chairman & Member",
+      "company": "PionierGarage e.V.",
+      "companyUrl": "https://www.linkedin.com/company/pioniergarage",
+      "description": "PionierGarage is a student entrepreneurship club promoting and teaching entrepreneurship at university\n• Project management, event organization, e.g. speaker series, workshops\n• Silicon Valley Trip learning about Bay area ecosystem incl. visits to Google, Facebook, Twitter, Stanford Bases and others.",
+      "location": "Karlsruhe, Germany",
+      "start": "2009-10",
+      "end": "2011-12",
+      "dateRange": "Oct 2009 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Karlsruhe Institute of Technology (KIT) / University of Karlsruhe (TH)",
+      "companyUrl": "https://www.linkedin.com/company/kit",
+      "description": "Teaching assistant for the lecture “Java: Basics of Programming”;\nPreparation and teaching of three tutorials per week (20 students each)",
+      "location": null,
+      "start": "2009-10",
+      "end": "2010-03",
+      "dateRange": "Oct 2009 – Mar 2010",
+      "current": false
+    },
+    {
+      "title": "Controlling / Analytics",
+      "company": "Enamora GmbH",
+      "companyUrl": null,
+      "description": "Internship in controlling & analytics\nEnamora: Germany's leading online premium dessous shop, Rocket Internet incubated\nwww.enamora.de",
+      "location": "Berlin Metropolitan Area",
+      "start": "2009-08",
+      "end": "2009-09",
+      "dateRange": "Aug 2009 – Sep 2009",
+      "current": false
+    },
+    {
+      "title": "Assistance to the CEO",
+      "company": "Enamora GmbH",
+      "companyUrl": null,
+      "description": "First employee of the start-up, assistance to the CEOs, online marketing (SEM & SEO) and shop development;\nClose cooperation with incubator company Rocket Internet",
+      "location": "Berlin Metropolitan Area",
+      "start": "2008-06",
+      "end": "2008-09",
+      "dateRange": "Jun 2008 – Sep 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's Degree, Technology and Management",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Interdisciplinary Honours Degree in Technology Management, Digital Technology, Management & Entrepreneurship",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": "Visiting Scholarship at the Institute for Tele-Information (CITI)",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Karlsruhe Institute of Technology (KIT)",
+      "degree": "Bachelor's Degree, Industrial Engineering and Management",
+      "dateRange": "2008 – 2012"
+    },
+    {
+      "school": "Federal University of Rio de Janeiro",
+      "degree": "Business, Management, Marketing",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Korea Advanced Institute of Science and Technology",
+      "degree": "Industrial and Systems Engineering Department",
+      "dateRange": "2010"
+    }
+  ],
+  "skills": [
+    "People Management",
+    "Product Leadership",
+    "Product Strategy",
+    "Business Growth Strategies",
+    "Entrepreneurship",
+    "Project Management",
+    "Start-ups",
+    "Leadership",
+    "E-commerce",
+    "Research",
+    "Intercultural Communication",
+    "VBA",
+    "Strategy",
+    "Microsoft Office",
+    "English",
+    "Management",
+    "Mobile Devices",
+    "Microsoft Excel",
+    "Java",
+    "Product Management"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Portuguese"
+  ],
+  "company": {
+    "name": "Maltego",
+    "tagline": "Maltego is the world’s most used all-in-one intelligence platform for complex cyber investigations.",
+    "description": "Maltego is the world’s most used all-in-one investigation platform that turns complex data into actionable insights in minutes. Used by industry experts, law enforcement, and analysts at major organizations, it brings together all your data in one place, helping you uncover hidden connections with a suite of investigative tools. \n\nWith Maltego, teams can conduct everything from preliminary OSINT investigations to in-depth link analysis of large datasets. The platform also makes it easy to spot threats in real time with social media monitoring and enables the capture of digital evidence before it is altered or removed.\n\nHeadquartered in Munich, Germany, Maltego has grown to over 100 employees and is trusted by 2,000+ government organizations and 4,000+ companies worldwide—including the FBI, INTERPOL, and leading tech and financial firms, including half of the Dow 30.",
+    "industry": "Software Development",
+    "website": "https://www.maltego.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/maltego",
+    "employeeCount": 175,
+    "foundedYear": 2017,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

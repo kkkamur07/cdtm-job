@@ -1,0 +1,197 @@
+{
+  "id": "mschmidt1995",
+  "name": "Miriam Schmidt",
+  "headline": "Product Manager @ Flexa",
+  "avatar": {
+    "sm": "/avatars/mschmidt1995-sm.webp",
+    "lg": "/avatars/mschmidt1995.webp",
+    "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAAAQBgCdASogACAAPtFcpk4oJSOiKAqpABoJQBlmbQCrAdT/Mv8RntNcs3BQ0rOpJnVbGXw7K9HQSgAA/v0spp1amkxPNdb4RXYbwkDSua/06qtVhYOss0SVClJV2Rw7gwL0/bGRN4M/K1o479ExG6zImiW6iDMOGhMaCcgQZ374+Io09rYXOohqxRzha2+c7TN2SvXJlIGjvSXO0ARyJtAkkNf2IM3SIdIkKY4pmcnuHi0/NUE8zGdr/hSkM+mdO0jenOrZem9sAhlb66t1U2pKHfzDIAAAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/mschmidt1995",
+  "personId": 1097,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Miriam Schmidt",
+  "ca": null,
+  "summary": "As a product manager, I am passionate about co-creating tech innovation that drives a more sustainable future. I lead cross-functional teams to build high-value products by providing focus and direction, combining a solution-oriented mindset with strong ownership and fostering collaborative relationships.  My expertise lies in user/market research, prototyping/MVP, requirements engineering, product roadmap and strategy - for B2B software-as-a-service. Looking for opportunities to make a difference!",
+  "positions": [
+    {
+      "title": "Product Manager VPP Operations",
+      "company": "flexa",
+      "companyUrl": "https://www.linkedin.com/company/flexaenergy",
+      "description": null,
+      "location": "München",
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager · Decentralised Energy Billing (Mieterstrom)",
+      "company": "Ampeers Energy",
+      "companyUrl": "https://www.linkedin.com/company/ampeersenergy",
+      "description": "// Increased delivery speed through clarity and simplification\n\n·\tAnalyse customer needs, competitors, regulations (EnWG)\n·\tTranslate user and business needs into requirements\n·\tPrioritize requirements and deliver high-value features, focusing on standardization and automation\n·\tManage integrations, e.g. energy service providers\n·\tDefine metrics to measure and report impact\n·\tDevelop product roadmap, strategy, vision\n·\tDevelop new photovoltaic business models\n·\tFoster cross-functional collaboration",
+      "location": "München, Bayern, Deutschland",
+      "start": "2025-01",
+      "end": "2026-02",
+      "dateRange": "Jan 2025 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Product Manager · Data & Emission Reporting (CSRD)",
+      "company": "Ampeers Energy",
+      "companyUrl": "https://www.linkedin.com/company/ampeersenergy",
+      "description": "// Built and scaled Carbon Dashboard from 0 to 81 customers\n\n·\tAnalyse customer needs, competitors, market trends\n·\tDevelop methodology building carbon footprint (CSRD)\n·\tBuild and iterate minimal viable product (MVP)\n·\tTranslate user and business needs into requirements\n·\tPrioritize requirements and deliver high-value features\n·\tDevelop product roadmap, strategy, vision\n·\tFoster cross-functional collaboration",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-11",
+      "end": "2024-12",
+      "dateRange": "Nov 2022 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Working Student · Product Development · Forest Carbon Credits",
+      "company": "Pina",
+      "companyUrl": "https://www.linkedin.com/company/pina-earth",
+      "description": "· Develop methdology for forest carbon projects\n· Prepare documents for third-party verification of forest carbon projects\n· Report social and environemental goals and implement actions\n· Setup and maintain accounting tools and processes",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-09",
+      "dateRange": "Oct 2021 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Project Student (TUM) · Business Development · EU-MDR",
+      "company": "Climedo Health",
+      "companyUrl": "https://www.linkedin.com/company/climedo",
+      "description": "· Analyse German dental market\n· Conduct interviews with potential stakeholders\n· Develop and validate new business model\n· Recommend future actions",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-11",
+      "end": "2021-03",
+      "dateRange": "Nov 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Intern · Corporate Strategy · Smart Mobility and Transport",
+      "company": "Volkswagen Commercial Vehicles",
+      "companyUrl": "https://www.linkedin.com/company/volkswagen-commercial-vehicles-",
+      "description": "· Analyse travel / mobility market, competitors, customers\n· Support design of a new digital business model\n· Define customer journey and operational processes\n· Support development in-depth business plan",
+      "location": "Berlin Area, Germany",
+      "start": "2019-10",
+      "end": "2020-02",
+      "dateRange": "Oct 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Intern · Business Development · Mobility Services",
+      "company": "unu",
+      "companyUrl": "https://www.linkedin.com/company/unu-ug",
+      "description": "· Analyse vehicle sharing industry\n· Calculate business case e-scooter sharing\n· Support partner management key mobility operators\n· Support steering internal MaaS strategy processes \n· Bachelor Thesis: Internationalization of Born Globals: Forming, Designing and Managing Strategic Alliances",
+      "location": "Berlin Area, Germany",
+      "start": "2019-04",
+      "end": "2019-07",
+      "dateRange": "Apr 2019 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Intern · Group Strategy · Urban Solutions",
+      "company": "Volkswagen AG",
+      "companyUrl": "https://www.linkedin.com/company/volkswagen-group",
+      "description": "· Analyse smart city strategies, transport and climate plans\n· Analyse ITS and smart city markets and competitors\n· Support assessment of strategic new business fields \n· Support development market research tool",
+      "location": "Wolfsburg, Germany",
+      "start": "2018-09",
+      "end": "2019-03",
+      "dateRange": "Sep 2018 – Mar 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science, Technology and Management",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "International Mediation Campus",
+      "degree": "Qualified Mediator",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "The Berlin School of Economics and Law",
+      "degree": "Bachelor of Arts, International Business Management",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "Universidad Mayor",
+      "degree": "Semester abroad in Chile, International Business Management",
+      "dateRange": "2018"
+    },
+    {
+      "school": "The University of Edinburgh",
+      "degree": "Semester abroad in the United Kingdom, International Business Management",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Public Freiherr-vom-Stein-Gymnasium Betzdorf",
+      "degree": "Allgemeine Hochschulreife",
+      "dateRange": "2005 – 2014"
+    },
+    {
+      "school": "Penticton Secondary School",
+      "degree": "Academic Language Exchange in Canada",
+      "dateRange": "2010"
+    }
+  ],
+  "skills": [
+    "Kanban",
+    "Requirements Engineering",
+    "Market Research",
+    "Product Strategy",
+    "Interdisciplinary Collaboration",
+    "Design Thinking",
+    "Scrum",
+    "Kanban",
+    "Conflict Management",
+    "Software as a Service (SaaS)",
+    "Data Analysis",
+    "Python (Programming Language)"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "flexa",
+    "tagline": "Managing every kilowatt-hour intelligently",
+    "description": "flexa is on a mission to build Europe's largest Virtual Power Plant (VPP) in the residential sector together with our partners at Enpal and Entrix. \n\nOur mission is to build and operate a Virtual Power Plant that not only delivers significant energy cost savings but also supports the transition to a 100% renewable electricity future. By offering complete residential energy systems at competitive prices and strategically tapping into multiple revenue streams, we are well-positioned to provide substantial real-world savings to our customers. This approach enhances customer satisfaction as they experience the full benefits of an electrified, energy-generating home.\n\nThrough a deep integration into the installed hardware and a direct connection to the customer interfaces, flexa’s AI-based solution controls the energy assets (such as EV, heat pump, home storage, and others) of a decentralized energy community with an exceptional level of accuracy, speed, transparency, and thus customer satisfaction. With intelligent algorithms, flexa maximizes customers’ usable flexibility and its returns on energy markets while considering costs, such as grid fees and asset degradation.\n\nWe are rapidly growing our team and are hiring experienced tech professionals interested in revolutionizing the energy sector. We are looking forward to receiving your application!",
+    "industry": "Renewable Energy Power Generation",
+    "website": "http://www.flexa.energy",
+    "linkedInUrl": "https://www.linkedin.com/company/flexaenergy",
+    "employeeCount": 45,
+    "foundedYear": 2024,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

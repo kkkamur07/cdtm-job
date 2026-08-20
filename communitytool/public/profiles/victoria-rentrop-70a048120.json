@@ -1,0 +1,305 @@
+{
+  "id": "victoria-rentrop-70a048120",
+  "name": "Victoria Rentrop",
+  "headline": "MPH Candidate at Columbia University | Harvard | CDTM | UNHCR",
+  "avatar": {
+    "sm": "/avatars/victoria-rentrop-70a048120-sm.webp",
+    "lg": "/avatars/victoria-rentrop-70a048120.webp",
+    "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAADwBQCdASogACAAPrVKnEunJCKht+gA4BaJZACw7ywToath/+oBkWNJZRXvZjgMeW2mQX1eOHgrAAD+/nqbTkI9jgAKv9jPJXGmmP0rvNVafF02aZ5512OOR1iOIOinN+c/VYr62l0Xbl4qGmLR5y2EdyudMbYvl3N6PO9TIFsV7vknQ7Tk2Cmgna02DQND1/c/NJOIOgwMi/fUIjn8I4xWvzE4YQjRWesCsbTMelu0dqXOu0m7lYoYl5GHiVZn4pp+0tANAufF/dDaLnw+SYXl8Ir7eEFwAAA="
+  },
+  "location": "New York, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/victoria-rentrop-70a048120",
+  "personId": 977,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Health Sciences",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Victoria Rentrop",
+  "ca": null,
+  "summary": "https://livelovepeanuts.de/",
+  "positions": [
+    {
+      "title": "Cohort 0",
+      "company": "Relativity Collective",
+      "companyUrl": "https://www.linkedin.com/company/relativity-collective",
+      "description": "A highly selective pan-European student founder programme connecting Europe’s most ambitious AI talent early. Launched by leading universities (ETH, TUM, Oxford, KTH, Aalto, CDTM) under the RISE Europe alliance and endorsed by founders from Personio, Hugging Face, Silo AI, DeepJudge, n8n, GetYourGuide, Black Forest Labs, and more.",
+      "location": null,
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Harvard T.H. Chan School of Public Health",
+      "companyUrl": "https://www.linkedin.com/company/harvardpublichealth",
+      "description": "Master thesis conducted with Harvard University under the supervision of Nils Krüger & Sebastian Schneeweiss, and Elena Elkin from Columbia University on the topic of real world evidence in clinical guidelines",
+      "location": "Boston, Massachusetts, United States",
+      "start": "2025-08",
+      "end": null,
+      "dateRange": "Aug 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "President",
+      "company": "Columbia Healthcare Ventures",
+      "companyUrl": "https://www.linkedin.com/company/columbia-healthcareventures",
+      "description": null,
+      "location": "New York, United States",
+      "start": "2025-05",
+      "end": null,
+      "dateRange": "May 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Self-employed photographer and recipe developer",
+      "company": "VNR Verlag für die Deutsche Wirtschaft AG",
+      "companyUrl": "https://www.linkedin.com/company/vnr",
+      "description": null,
+      "location": "Bonn, North Rhine-Westphalia, Germany",
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Data Science Intern",
+      "company": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+      "companyUrl": "https://www.linkedin.com/company/gizgmbh",
+      "description": "Built an infectious disease prediction model now deployed by Cameroon's Ministry of Health",
+      "location": "Yaoundé, Centre, Cameroon",
+      "start": "2025-06",
+      "end": "2025-12",
+      "dateRange": "Jun 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Project Manager, Ethical AI & Digital Transformation (GAEIA Initiative)",
+      "company": "UNHCR, the UN Refugee Agency",
+      "companyUrl": "https://www.linkedin.com/company/unhcr",
+      "description": "As part of GAEIA (Global Alliance for Ethical and Impactful AI), a joint initiative between Stanford University’s Center for Human Rights and International Justice, UNHCR, and Copenhagen FinTech, I support the development of ethical frameworks for the responsible use of AI and advanced technologies in refugee contexts. This interdisciplinary project bridges academic expertise with industry insights to address the societal and ethical challenges of digital transformation.\n\nMy work includes project management, research coordination, and stakeholder engagement, ensuring alignment between research objectives and UNHCR's needs. I contribute to research on AI ethics and policy, organize workshops and collaborative sessions & manage project timelines.",
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-09",
+      "dateRange": "Jan 2025 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "External Relations",
+      "company": "Columbia Healthcare Ventures",
+      "companyUrl": "https://www.linkedin.com/company/columbia-healthcareventures",
+      "description": null,
+      "location": "On-site",
+      "start": "2024-09",
+      "end": "2025-06",
+      "dateRange": "Sep 2024 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-06",
+      "end": "2024-07",
+      "dateRange": "Jun 2024 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Research Fellow",
+      "company": "GAEIA",
+      "companyUrl": "https://www.linkedin.com/company/gaeia",
+      "description": null,
+      "location": "San Francisco Bay Area",
+      "start": "2024-04",
+      "end": "2025-03",
+      "dateRange": "Apr 2024 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "Managing Product Development",
+      "company": "Avi Medical",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-10",
+      "end": "2024-01",
+      "dateRange": "Oct 2023 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Entrepreneurship Laboratory Project",
+      "company": "Ebenbuild",
+      "companyUrl": "https://www.linkedin.com/company/ebenbuild",
+      "description": "Within eLab, student teams of 3-4 students work on business challenges presented by project partners, we modeled advanced, physiology-based inputs by integrating patient-specific data in lung disease centers, with a focus on market segmentation and clinical trial strategy.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-04",
+      "end": "2023-07",
+      "dateRange": "Apr 2023 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "HR & Marketing Intern and Working Student",
+      "company": "Edurino | We are hiring!",
+      "companyUrl": "https://www.linkedin.com/company/edurinoapp",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-07",
+      "end": "2023-08",
+      "dateRange": "Jul 2022 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Research And Development Intern",
+      "company": "Biome Diagnostics",
+      "companyUrl": "https://www.linkedin.com/company/biomediagnostics",
+      "description": null,
+      "location": "Vienna, Austria",
+      "start": "2022-01",
+      "end": "2022-04",
+      "dateRange": "Jan 2022 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Social Media Manager",
+      "company": "Edurino | We are hiring!",
+      "companyUrl": "https://www.linkedin.com/company/edurinoapp",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-10",
+      "end": "2022-07",
+      "dateRange": "Oct 2020 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Photographer, Recipe Developer & Content Creator",
+      "company": "VNR Verlag für die Deutsche Wirtschaft AG",
+      "companyUrl": "https://www.linkedin.com/company/vnr",
+      "description": null,
+      "location": "Bonn, North Rhine-Westphalia, Germany",
+      "start": "2020-04",
+      "end": "2023-01",
+      "dateRange": "Apr 2020 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Marketing Intern",
+      "company": "Just Spices GmbH",
+      "companyUrl": "https://www.linkedin.com/company/just-spices",
+      "description": null,
+      "location": "Düsseldorf, North Rhine-Westphalia, Germany",
+      "start": "2020-04",
+      "end": "2020-07",
+      "dateRange": "Apr 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "VNR Verlag für die Deutsche Wirtschaft AG",
+      "companyUrl": "https://www.linkedin.com/company/vnr",
+      "description": null,
+      "location": "Bonn, North Rhine-Westphalia, Germany",
+      "start": "2020-01",
+      "end": "2020-04",
+      "dateRange": "Jan 2020 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Founder Live.Love.Peanuts",
+      "company": "Live Love Peanuts",
+      "companyUrl": "https://www.linkedin.com/company/live-love-peanuts",
+      "description": "Social Media Manager, Social Media Consultant, Content Creator, Recipe Developer & Photographer - https://livelovepeanuts.de/",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-04",
+      "end": "2024-03",
+      "dateRange": "Apr 2019 – Mar 2024",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Columbia University",
+      "degree": "Master of Public Health - MPH, Data Science",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher, Applied Health Science",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours degree, Technology & Management",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Health Sciences / Gesundheitswissenschaften",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Korea University",
+      "degree": "Health Sciences",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Clifton College",
+      "degree": "Auslandsjahr",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Aloisiuskolleg",
+      "degree": "Abitur",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Project Management",
+    "Project Planning",
+    "Market Analysis",
+    "Consulting",
+    "English",
+    "Social Media",
+    "Strategy",
+    "Adobe Photoshop",
+    "Photography",
+    "Adobe Lightroom",
+    "Web Design"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italienisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "Harvard T.H. Chan School of Public Health",
+    "tagline": "Health, dignity, and justice for every human.",
+    "description": "The Harvard T.H. Chan School of Public Health works to improve health and promote equity so everyone can thrive. Together, we: \n\nDiscover\nResearch drivers of health, disease, and inequity and develop powerful solutions.\n\nTeach\nTrain creative leaders to identify, analyze, and tackle challenges to population health.\n\nEngage\nCollaborate with policy makers, practitioners, and the public to drive meaningful change.",
+    "industry": "Higher Education",
+    "website": "http://www.hsph.harvard.edu/",
+    "linkedInUrl": "https://www.linkedin.com/company/harvardpublichealth",
+    "employeeCount": 2500,
+    "foundedYear": null,
+    "location": "Boston, United States",
+    "specialities": [
+      "public health"
+    ]
+  }
+}

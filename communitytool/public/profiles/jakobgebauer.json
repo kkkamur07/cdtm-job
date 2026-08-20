@@ -1,0 +1,163 @@
+{
+  "id": "jakobgebauer",
+  "name": "Jakob Gebauer",
+  "headline": "Product at Helsing",
+  "avatar": {
+    "sm": "/avatars/jakobgebauer-sm.webp",
+    "lg": "/avatars/jakobgebauer.webp",
+    "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAACQBQCdASogACAAPtFgqE+oJSOiKAgBABoJZADH5YsGOj+nSRdIWu/qJ3wHrKIycy/DLP0AAAD+/Sq2xGxh35x8fC8j/96v3p+NRaBYma21FaT6Tzcz8jNm3VCoL/JtmDbR2+AJ78+b8fuE+NrWXGX+DBOUIuxPVQYUYnsMUYmoAju/u8u4b6Zkkr60d+1qDyv6dlocl/S+gVszjEoMsYK0ZR3Uq9c2YFXEI+Q4G/PlITj9LEiy4hsOLrygosDFmiZDKj6po1soJJG8hyWeNUgoK3HSd3mg7BZZKyvP/X0AAA=="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jakobgebauer",
+  "personId": 891,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jakob Gebauer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Product Manager",
+      "company": "Helsing",
+      "companyUrl": "https://www.linkedin.com/company/helsing",
+      "description": null,
+      "location": null,
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": "2020-11",
+      "end": "2025-08",
+      "dateRange": "Nov 2020 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Associate Product Manager",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Google Travel\n\nPreviously:\nGoogle Assistant",
+      "location": null,
+      "start": "2019-03",
+      "end": "2020-11",
+      "dateRange": "Mar 2019 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Venture Analyst",
+      "company": "N47",
+      "companyUrl": "https://www.linkedin.com/company/n47capital",
+      "description": "next47 is a global venture firm created by Siemens to invest in entrepreneurs who think big and build companies that will change the way we live and work.\n\nAt next47 I supported the investment managers in the fields of automation and industrial IoT. I joined the unit shortly before its inception and separation from Siemens,  actively taking part in benchmarking the activities of the past as well as shaping the future direction by identifying investment markets and ventures.",
+      "location": null,
+      "start": "2016-09",
+      "end": "2017-08",
+      "dateRange": "Sep 2016 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": null,
+      "start": "2015-09",
+      "end": "2015-11",
+      "dateRange": "Sep 2015 – Nov 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Management & Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": "Chinese Government Scholarship, School of Economics and Management",
+      "dateRange": null
+    },
+    {
+      "school": "Waseda University",
+      "degree": "Visiting Student, ICT Economics and Policies",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Management & Technology",
+      "dateRange": null
+    },
+    {
+      "school": "The University of Hong Kong",
+      "degree": "Visiting Student",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Management",
+    "Java",
+    "Microsoft Word",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Strategy",
+    "English",
+    "Business Development",
+    "Analytical Skills",
+    "Private Equity",
+    "Analysis",
+    "Project Management",
+    "Business Strategy",
+    "Teamwork",
+    "Microsoft PowerPoint",
+    "Management Consulting",
+    "Data Analysis",
+    "Economics"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "Chinese",
+    "French"
+  ],
+  "company": {
+    "name": "Helsing",
+    "tagline": "Protecting our democracies",
+    "description": "Helsing was founded to provide Artificial Intelligence to protect our democracies. Helsing works with partners in governments and across industry. Together, we develop systems that leverage AI and autonomy to provide autonomous mass that is sovereign, scalable and affordable.\n\n We’re looking for people with their heart in the right place, who share our conviction that liberal democratic values are worth protecting, for ourselves and for future generations.",
+    "industry": "Software Development",
+    "website": "http://www.helsing.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/helsing",
+    "employeeCount": 720,
+    "foundedYear": 2021,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

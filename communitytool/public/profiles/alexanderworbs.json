@@ -1,0 +1,185 @@
+{
+  "id": "alexanderworbs",
+  "name": "Alexander Worbs",
+  "headline": "Chief of Staff at Tacto | CDTM",
+  "avatar": {
+    "sm": "/avatars/alexanderworbs-sm.webp",
+    "lg": "/avatars/alexanderworbs.webp",
+    "blur": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAABwBQCdASogACAAPtFYpEyoJSOiKA1RABoJYwDGX8AgqVaWj6TWofN9sY4bKcc9WtLKEddAAP7+lDN9A6C9XHo8nblw4Bblil5uDRtbgzsj9uNzff61/VD2K9/y/aOIpzd8drcCOu5EInFmamp7FPmkMx2LdC0hZJMx7br5dTrQvpIBUxL/eWQST1DYSOb7x//BwwTxtyBybDsYY708rW3FxJed/kovwoLnRRp4Yl0SlMxpD1naWmVpk6jCcv4f72lz1Hhb8vkbEYLRCpha3I0XPrQbkeB0Qqf0w7zULQkhxdBBLuSgBWJRRk+/mAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/alexanderworbs",
+  "personId": 850,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Alexander Worbs",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Chief of Staff",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": null,
+      "start": "2024-06",
+      "end": null,
+      "dateRange": "Jun 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Investor",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": "Focused on PreSeed Topics in B2B SaaS, FinTech & beyond",
+      "location": null,
+      "start": "2022-02",
+      "end": "2024-06",
+      "dateRange": "Feb 2022 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Trend Research & Product Development",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": null,
+      "start": "2021-08",
+      "end": "2022-01",
+      "dateRange": "Aug 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Pre-Seed Investments",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": "Picus Capital is an early-stage technology investment firm with offices in Munich, Berlin, London, Paris, New York, Singapore, Bangalore, and Bejing.",
+      "location": null,
+      "start": "2021-05",
+      "end": "2021-07",
+      "dateRange": "May 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Founders Associate",
+      "company": "Demodesk",
+      "companyUrl": "https://www.linkedin.com/company/demodesk",
+      "description": "Demodesk is a VC-backed (Balderton, Kleiner Perkins, YC) B2B SaaS startup based in Munich.",
+      "location": null,
+      "start": "2020-11",
+      "end": "2021-03",
+      "dateRange": "Nov 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Junior Investment Analyst",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": "UVC is an early-stage technology investment firm. Supported investments in Tacto (PreSeed) & Twaice (Series A).",
+      "location": null,
+      "start": "2020-02",
+      "end": "2020-11",
+      "dateRange": "Feb 2020 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Infrastructure Investments",
+      "company": "Allianz Capital Partners",
+      "companyUrl": "https://www.linkedin.com/company/allianz-global-investors",
+      "description": "Direct investments in Global Infrastructure projects.",
+      "location": null,
+      "start": "2019-09",
+      "end": "2019-12",
+      "dateRange": "Sep 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Strategy",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": null,
+      "location": null,
+      "start": "2017-05",
+      "end": "2018-09",
+      "dateRange": "May 2017 – Sep 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - B.Sc., Management and Technology",
+      "dateRange": "2020"
+    },
+    {
+      "school": "Audencia",
+      "degree": "Summer School, Big Data - Data Analytics and Visualization",
+      "dateRange": "2020"
+    },
+    {
+      "school": "Tongji University",
+      "degree": "Semester Abroad, Tongji School of Economics and Management",
+      "dateRange": "2019"
+    }
+  ],
+  "skills": [
+    "Venture Capital",
+    "Startups",
+    "Market Research",
+    "Datenanalyse",
+    "Financial Modelling",
+    "Project Management",
+    "Strategische Planung",
+    "Data Visualization",
+    "Alternative Investments",
+    "Due Diligence",
+    "Risikoprüfung",
+    "Finanzanalysen",
+    "Unternehmensbewertung",
+    "Datenmodellierung",
+    "Entrepreneurship",
+    "Microsoft Excel",
+    "MS Office",
+    "Visual Basic for Applications (VBA)",
+    "Microsoft PowerBI",
+    "Teamwork"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Tacto",
+    "tagline": "Stronger Procurement. Stronger Company. Stronger Future.",
+    "description": "The world is getting more complex and dynamic than ever before. China, climate, elections, trade wars, bureaucracy. Yet manufacturing, our hidden gem, is struggling to evolve. \n\nOften overlooked: the supply chain. Hundreds of tightly interconnected suppliers, thousands of production-critical parts, global dependencies. Yet procurement is expected to manage this complexity with Excel and Outlook, static ERP systems, and outdated supplier data. That no longer works.\n\nMore than 50% of the cost of a physical product is created in the supply chain. Competitive manufacturing therefore starts in procurement. AI offers the opportunity to optimally balance time, cost, and quality in procurement.\n\nThat’s why Tacto is building the first Procurement Intelligence Platform for industrial companies: not another workflow tool, but a system that creates transparency, delivers actionable recommendations, and enables execution - with procurement as the decision-maker at the center.\n\nPowered by Tacto Intelligence, you see your procurement operations at a glance: KPIs, suppliers, and real-time order and material movements. In the background, Tacto connects your ERP data with external market data to form the Procurement Brain. On top of that, AI agents automate manual work, identify risks and savings opportunities, and provide precise recommendations. Automated workflows turn these signals into action - delivering measurable results: lower costs, better quality, and higher availability.",
+    "industry": "Software Development",
+    "website": "https://www.tacto.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/tactotechnology",
+    "employeeCount": 152,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

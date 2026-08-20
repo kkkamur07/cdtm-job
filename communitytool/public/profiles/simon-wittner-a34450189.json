@@ -1,0 +1,171 @@
+{
+  "id": "simon-wittner-a34450189",
+  "name": "Simon Wittner",
+  "headline": "Co-Founder at Lumera Energy",
+  "avatar": {
+    "sm": "/avatars/simon-wittner-a34450189-sm.webp",
+    "lg": "/avatars/simon-wittner-a34450189.webp",
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAADQBQCdASogACAAPtFYo0uoJSMhsAgBABoJZgC7AYyMtIpFfcBF6/2f92ckxmhirWDX4psdYCGsAP76qloj7Lsez+Qmcmcxc+OZ+IYVmmVP2AbTv7vOPODr0f4gbct+zSd5AtNIdM3TEjH6sPTLSLr7yewBSmWKtZz4zGXFHGjoz5WJEF+WEVK6KJGlHoLkNKV6j0jyldxRIgz1UqiEp6SuE/F1E7YW14T1L1YIQJzaoNMaEdgpk3VPSP2wzkD7Cmp1WHKshare7zfKIsVSlsFvjol7gAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/simon-wittner-a34450189",
+  "personId": 932,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Mechanical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Simon Wittner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Lumera Energy",
+      "companyUrl": "https://www.linkedin.com/company/lumera-energy",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Apple",
+      "companyUrl": "https://www.linkedin.com/company/apple",
+      "description": null,
+      "location": "Seattle, Washington, United States",
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Venture Scout",
+      "company": "Planet A Ventures",
+      "companyUrl": "https://www.linkedin.com/company/planet-a",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "TWAICE",
+      "companyUrl": "https://www.linkedin.com/company/twaice",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Famtastisch Stiftung",
+      "companyUrl": "https://www.linkedin.com/company/famtastisch-stiftung",
+      "description": null,
+      "location": "Attendorn, North Rhine-Westphalia, Germany",
+      "start": "2020-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Volkswagen Group",
+      "companyUrl": "https://www.linkedin.com/company/volkswagen-group",
+      "description": "Washington DC-Baltimore Area",
+      "location": null,
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Student Researcher, Computer Science",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Mechanical Engineering",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Development, Production and Management",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "Sorbonne Université",
+      "degree": "Semester Abroad",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Mechanical Engineering",
+      "dateRange": "2017 – 2021"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Lumera Energy",
+    "tagline": "Empowering commercial and industrial battery storage.",
+    "description": null,
+    "industry": "Services for Renewable Energy",
+    "website": "https://www.lumeraenergy.de",
+    "linkedInUrl": "https://www.linkedin.com/company/lumera-energy",
+    "employeeCount": 9,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

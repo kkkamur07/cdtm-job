@@ -1,0 +1,227 @@
+{
+  "id": "jablonka",
+  "name": "Claudius Jablonka",
+  "headline": "Tech VC, Entrepreneur, Angel Investor",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jablonka",
+  "personId": 1312,
+  "classes": [
+    {
+      "id": 62,
+      "label": "Fall 2007",
+      "season": "Fall",
+      "year": 2007,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2007",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Claudius Jablonka",
+  "ca": null,
+  "summary": "Claudius is a Tech VC and an experienced investor and operator with a strong track record of identifying and empowering exceptional early stage founders. For more than a decade, he has created a deep network in the European and US tech ecosystem. \n \nPrior to being a GP at Volkswagen backed VC firm Leitmotif, Claudius was a Co-Founder and General Partner at 10x Founders, an early-stage venture capital firm that raised €160 million from an extraordinary network of 200 European and US angel investors. During his tenure, 10x Founders invested in 70 startups across Europe and the US – notably Cylib (battery recycling), Ixana (semiconductors) and Magic (AI foundation models). Previously, Claudius established the Munich office of Plug and Play Tech Center, where he led several deep tech and AI investments – including Recogni and Presize.ai – and successfully facilitated open innovation programs with some of Europe’s largest corporations.\n\nAs Chief of Staff at notebooksbilliger.de, one of the most successful e-commerce companies in Germany, Claudius was instrumental in scaling the organization to €800 million in annual net revenue. Claudius began his career at the Center for Digital Technology and Management (CDTM) managing an elite entrepreneurship program that included the founders of five unicorn companies – Personio, Razor, Cellares, Trade Republic and Forto. He continues to be a lecturer and advisor at CDTM. \n \nClaudius earned a doctorate in Economics and a Master of Business Research from the Ludwig-Maximilians-Universität München (LMU). In his PhD thesis he researched successful internationalization strategies of startup companies. He also holds a Master’s degree in Management & Technology, with a minor in Mechanical Engineering, from the Technische Universität München (TUM), during which he spent a semester abroad at UC Berkeley.\n\nWHU | CDTM | TUM | LMU | UC Berkeley | Studienstiftung | Rotary | EO",
+  "positions": [
+    {
+      "title": "Stealth Mode",
+      "company": "Stealth",
+      "companyUrl": "https://www.linkedin.com/company/steath",
+      "description": null,
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "General Partner",
+      "company": "Leitmotif",
+      "companyUrl": "https://www.linkedin.com/company/leitmotifvc",
+      "description": "Leitmotif is an independent venture capital firm backed by European industrial interests that actively bridges the innovation ecosystems of the US and Europe. With investors in Palo Alto and Munich, our first fund focuses on decarbonization and leans later stage. Leitmotif has a soft spot for hard tech.",
+      "location": null,
+      "start": "2024-09",
+      "end": "2025-12",
+      "dateRange": "Sep 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & General Partner",
+      "company": "10x Founders",
+      "companyUrl": "https://www.linkedin.com/company/10x-founders",
+      "description": "I co-founded 10x Founders, a leading early-stage venture capital firm that raised €160 million from an extraordinary network of 200 European and US angel investors. During my tenure as a General Partner, 10x Founders invested in 70 startups across Europe and the US – notably Magic (AI foundation model), Beam (enterprise automation AI), iGent (agentic AI CTO), Cylib (battery recycling), and Ixana (semiconductors), to name a few.",
+      "location": null,
+      "start": "2020-01",
+      "end": "2024-07",
+      "dateRange": "Jan 2020 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Co-Founder, Director",
+      "company": "Plug and Play Tech Center",
+      "companyUrl": "https://www.linkedin.com/company/plug-and-play-tech-center",
+      "description": "Having co-founded the Munich office of Plug and Play Tech Center, I led deep tech and AI investments in startups including Tensordyne.ai (AI GPU) and Presize.ai (acquired by META) – and successfully facilitated open innovation programs with some of Europe’s largest corporations.\n\nPlug and Play is the world's most active Seed VC (2018), and operates the world's largest open innovation platform.",
+      "location": null,
+      "start": "2017-12",
+      "end": "2019-11",
+      "dateRange": "Dec 2017 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Chief of Staff",
+      "company": "notebooksbilliger.de AG",
+      "companyUrl": "https://www.linkedin.com/company/notebooksbilliger-de-ag",
+      "description": "As Chief of Staff at notebooksbilliger.de, one of the most successful e-commerce companies in Germany, I contributed to scaling the organization to €800 million in annual revenue.",
+      "location": null,
+      "start": "2015-09",
+      "end": "2017-11",
+      "dateRange": "Sep 2015 – Nov 2017",
+      "current": false
+    },
+    {
+      "title": "Associate",
+      "company": "Yope",
+      "companyUrl": "https://www.linkedin.com/company/the-yope-foundation",
+      "description": "Founder.org (rebranded: yope) empowers the next generation of innovators to build companies that create positive global change. Our vision is a world where “conscious” is the new standard of innovation, creating technologies that make life better for people and the planet.\n\nManaged the very first $100K challenge in Europe and supported setup of startup competitions in Germany, resulting in investments into Unu Motors, BuildingRadar, etc.",
+      "location": null,
+      "start": "2014-01",
+      "end": "2015-08",
+      "dateRange": "Jan 2014 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "Order&Pay GmbH",
+      "companyUrl": null,
+      "description": "Mobile payment and ordering platform for the hospitality industry.",
+      "location": null,
+      "start": "2011-05",
+      "end": "2012-11",
+      "dateRange": "May 2011 – Nov 2012",
+      "current": false
+    },
+    {
+      "title": "Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "CDTM is the birthplace of 25% of Germany’s unicorns. It’s not only one of the most selective educational institutions to get into, with a mere 6% acceptance rate, but it also boasts the highest \"unicorn-to-alumni ratio\" in the world (9 unicorns / 1,200 alumni, as of 2025). \n\nCDTM stands for a culture of ambition and creativity, of excellence and passion that successfully inspires outlier success in the startup ecosystem (Personio, Razor, Cellares, Trade Republic and Forto, etc.). \n\nI've selected, supported and coached brilliant talents who went on to become inspiring founders and leaders in diverse fields.\n\nSince finishing my PhD in 2015, I continue to be a university guest lecturer at CDTM. Designing and teaching courses such as: \"Sales, Persuasion and Influence\", \"Pitching to Venture Capitalists\", \"Emotional Leadership and Social Dynamics\", \"Advanced B2B Sales\"",
+      "location": null,
+      "start": "2011-04",
+      "end": "2015-09",
+      "dateRange": "Apr 2011 – Sep 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "PhD, Economics",
+      "dateRange": "2011 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diploma in Management & Technology (M.Sc. equivalent), Business Administration",
+      "dateRange": "2007 – 2011"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2007 – 2009"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher",
+      "dateRange": "2009"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Business Research (MBR), Business Administration",
+      "dateRange": "2011 – 2013"
+    },
+    {
+      "school": "Stiftung Bayerische EliteAkademie (BEA)",
+      "degree": "Bavarian EliteAcademy, Value-driven Leadership and Responsibility",
+      "dateRange": "2009 – 2010"
+    },
+    {
+      "school": "WHU – Otto Beisheim School of Management",
+      "degree": "Bachelor of Science (transferred to TU München), Business Administration",
+      "dateRange": "2005 – 2007"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Leadership",
+    "Sales",
+    "Marketing",
+    "Marketing Strategy",
+    "Strategy",
+    "Operations Management",
+    "Business Development",
+    "Start-ups",
+    "Private Equity",
+    "Entrepreneurship",
+    "Project Management",
+    "Innovation",
+    "Product Management",
+    "Strategic Partnerships",
+    "Strategic Planning",
+    "Business Strategy",
+    "Venture Capital",
+    "Innovation Management",
+    "Management Consulting",
+    "Fundraising",
+    "Consulting",
+    "Entrepreneurship Education",
+    "Cleantech",
+    "Data Analysis",
+    "Product Development",
+    "Renewable Energy",
+    "Higher Education Teaching",
+    "Startups",
+    "Strategie",
+    "Consumer Electronics",
+    "Venture Financing",
+    "Guest Lecturing",
+    "Climate Tech",
+    "University Lecturing",
+    "Corporate Venture Capital",
+    "International Management",
+    "Unternehmertum",
+    "Corporate Innovation",
+    "Deep Tech",
+    "VC",
+    "climate tech",
+    "deep tech",
+    "vc",
+    "late stage",
+    "late stage",
+    "E-Commerce",
+    "deep tech",
+    "climate tech",
+    "vc"
+  ],
+  "languages": [
+    "French",
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Stealth",
+    "tagline": "Stealth-ing!",
+    "description": "TimelyAI is building a Marketing Saas for Time-based Businesses. \n\n“The idea is to solve the most burning need of our customers- Growing their clientele at an affordable price and being able to build lasting relationships with them for repeat business and referrals.”\n\n\"Coming soon with something extremely 'crazy'!\"",
+    "industry": "Software Development",
+    "website": "https://www.timelyai.com",
+    "linkedInUrl": "https://www.linkedin.com/company/steath",
+    "employeeCount": 4605,
+    "foundedYear": 2021,
+    "location": "Phoenix, United States",
+    "specialities": []
+  }
+}

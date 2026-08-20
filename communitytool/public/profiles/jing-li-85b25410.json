@@ -1,0 +1,86 @@
+{
+  "id": "jing-li-85b25410",
+  "name": "Jing Li",
+  "headline": "Partner \nKPMG China Advisory",
+  "avatar": null,
+  "location": "Dongcheng District, People's Republic of China",
+  "linkedInUrl": "https://www.linkedin.com/in/jing-li-85b25410",
+  "personId": 1328,
+  "classes": [
+    {
+      "id": 57,
+      "label": "Spring 2005",
+      "season": "Spring",
+      "year": 2005,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2005",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jing Li",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Partner",
+      "company": "KPMG",
+      "companyUrl": "https://www.linkedin.com/company/kpmg",
+      "description": null,
+      "location": "Beijing, China",
+      "start": "2015-01",
+      "end": null,
+      "dateRange": "Jan 2015 – Present",
+      "current": true
+    },
+    {
+      "title": "高级经理",
+      "company": "KPMG Advisory",
+      "companyUrl": "https://www.linkedin.com/company/kpmg-uk",
+      "description": null,
+      "location": "Germany",
+      "start": "2008-12",
+      "end": "2014-09",
+      "dateRange": "Dec 2008 – Sep 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Management Consulting",
+    "Business Strategy",
+    "Strategy",
+    "Mergers & Acquisitions",
+    "Due Diligence"
+  ],
+  "languages": [],
+  "company": {
+    "name": "KPMG",
+    "tagline": null,
+    "description": "KPMG is a global organization of independent professional services firms providing Audit, Tax and Advisory services. KPMG is the brand under which the member firms of KPMG International Limited (“KPMG International”) operate and provide professional services. “KPMG” is used to refer to individual member firms within the KPMG organization or to one or more member firms collectively. \n  \nKPMG firms operate in 143 countries and territories with more than 273,000 partners and employees working in member firms around the world. Each KPMG firm is a legally distinct and separate entity and describes itself as such. Each KPMG member firm is responsible for its own obligations and liabilities. \n  \nKPMG International Limited is a private English company limited by guarantee. KPMG International Limited and its related entities do not provide services to clients. \nFor more detail about our structure, please visit kpmg.com/governance.",
+    "industry": "Accounting",
+    "website": "http://www.kpmg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/kpmg",
+    "employeeCount": 241222,
+    "foundedYear": null,
+    "location": "Worldwide, Canada",
+    "specialities": [
+      "Advisory",
+      "Tax",
+      "Audit"
+    ]
+  }
+}

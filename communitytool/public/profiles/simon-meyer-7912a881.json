@@ -1,0 +1,126 @@
+{
+  "id": "simon-meyer-7912a881",
+  "name": "Simon Meyer",
+  "headline": "Director Card Present Support, Cybersource bei Visa",
+  "avatar": null,
+  "location": "Aschaffenburg, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/simon-meyer-7912a881",
+  "personId": 1397,
+  "classes": [
+    {
+      "id": 70,
+      "label": "Fall 2011",
+      "season": "Fall",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2011",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Simon Meyer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Director Card Present Support, Cybersource",
+      "company": "Visa",
+      "companyUrl": "https://www.linkedin.com/company/visa",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-07",
+      "end": null,
+      "dateRange": "Jul 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "München",
+      "company": "payworks GmbH",
+      "companyUrl": "https://www.linkedin.com/company/payworks-gmbh",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Head of Customer Support",
+      "company": "payworks GmbH",
+      "companyUrl": "https://www.linkedin.com/company/payworks-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2017-09",
+      "end": "2019-07",
+      "dateRange": "Sep 2017 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Payworks was acquired by VISA.",
+      "company": "payworks GmbH",
+      "companyUrl": "https://www.linkedin.com/company/payworks-gmbh",
+      "description": "Payworks provides payment providers with Pulse - a payment gateway technology that makes card acceptance at the modern-day Point of Sale quick & easy.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-07",
+      "end": "2017-09",
+      "dateRange": "Jul 2016 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Project Manager",
+      "company": "payworks GmbH",
+      "companyUrl": "https://www.linkedin.com/company/payworks-gmbh",
+      "description": "Payworks provides a mobile payment platform enabling you to launch mobile point of sale solutions to your customers – quickly and cost-efficiently.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2013-03",
+      "end": "2016-06",
+      "dateRange": "Mar 2013 – Jun 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Technology Management",
+      "dateRange": "2011 – 2012"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": "Semester Abroad, Technology Management",
+      "dateRange": "2012"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Business Administration",
+      "dateRange": "2010 – 2012"
+    }
+  ],
+  "skills": [
+    "Unternehmertum",
+    "Mobile Payment",
+    "Mobile Geräte",
+    "Unternehmensstrategie"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Visa",
+    "tagline": null,
+    "description": "Visa (NYSE: V) is a world leader in digital payments, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories. Our purpose is to uplift everyone, everywhere by being the best way to pay and be paid. \n\nLearn more at Visa.com.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://corporate.visa.com/en/careers.html",
+    "linkedInUrl": "https://www.linkedin.com/company/visa",
+    "employeeCount": 30425,
+    "foundedYear": null,
+    "location": "Foster City, United States",
+    "specialities": [
+      "Global payments technology company"
+    ]
+  }
+}

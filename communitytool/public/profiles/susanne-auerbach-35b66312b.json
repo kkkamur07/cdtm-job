@@ -1,0 +1,124 @@
+{
+  "id": "susanne-auerbach-35b66312b",
+  "name": "Susanne Auerbach",
+  "headline": "Regionalverkaufsleiterin bei ALDI SÜD",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/susanne-auerbach-35b66312b",
+  "personId": 1609,
+  "classes": [
+    {
+      "id": 53,
+      "label": "Spring 2003",
+      "season": "Spring",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Susanne Auerbach",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Regionalverkaufsleiterin",
+      "company": "ALDI SÜD",
+      "companyUrl": "https://www.linkedin.com/company/aldi-sued",
+      "description": null,
+      "location": null,
+      "start": "2017-01",
+      "end": null,
+      "dateRange": "Jan 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Kleinaitingen",
+      "company": "ALDI SÜD",
+      "companyUrl": "https://www.linkedin.com/company/aldi-sued",
+      "description": null,
+      "location": null,
+      "start": "2013-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2013 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Eichenau",
+      "company": "ALDI SÜD",
+      "companyUrl": "https://www.linkedin.com/company/aldi-sued",
+      "description": "Eichenau",
+      "location": null,
+      "start": "2007-01",
+      "end": "2013-12",
+      "dateRange": "Jan 2007 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Praktikant Customer Relations",
+      "company": "Porsche",
+      "companyUrl": "https://www.linkedin.com/company/porsche-ag",
+      "description": "Ludwigsburg",
+      "location": null,
+      "start": "2005-01",
+      "end": "2006-12",
+      "dateRange": "Jan 2005 – Dec 2006",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "BWL",
+      "dateRange": "2001 – 2007"
+    },
+    {
+      "school": "University of Sydney",
+      "degree": "Faculty of Economics and Business",
+      "dateRange": "2004 – 2005"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2003 – 2005"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "ALDI SÜD",
+    "tagline": null,
+    "description": "Gemeinsam mit ALDI Nord gehören wir zu den führenden Discountern auf dem deutschen und internationalen Markt. Für mehr als 170.000 Kolleg:innen in 11 Ländern sind wir nicht nur Händler, sondern auch ein verlässlicher und verantwortungsvoller Arbeitgeber. \n\nUnsere Teams sind vielfältig und divers. In Deutschland arbeiten mehr als 50.000 Mitarbeiter:innen in verschiedenen Jobs, in Voll- und Teilzeit, nach der Ausbildung, während des Studiums, in einer Führungsposition oder als Quereinsteiger:in. Ein wertschätzender, fairer und offener Umgang miteinander ist uns dabei wichtig.\n\nWir geben unseren Mitarbeiter:innen die Möglichkeit, ihre persönlichen Ziele zu erreichen. Diese sind so individuell, wie unsere Kolleg:innen selbst. Führungsverantwortung, der nächste Karriereschritt oder langfristige Sicherheit – egal, wofür sie vollen Einsatz zeigen, wir geben ihnen Rückendeckung.\n\nAls Teil von ALDI SÜD übernehmen unsere Mitarbeiter:innen verantwortungsvolle Aufgaben. Gemeinsam entwickeln wir uns weiter und erreichen Großes. Wir wissen, was unsere Kolleg:innen leisten. Deswegen bezahlen wir sie fair. Neben einem attraktiven Gehalt erhalten Mitarbeiter:innen von ALDI SÜD Urlaubs- und Weihnachtsgeld, sechs Wochen Urlaub im Jahr und viele weitere Vorteile.\n\nImpressum: https://www.aldi-sued.de/de/impressum\nDatenschutz: https://www.aldi-sued.de/de/informationen/datenschutzhinweis-impressum.html#11",
+    "industry": "Retail",
+    "website": "https://karriere.aldi-sued.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/aldi-sued",
+    "employeeCount": 8782,
+    "foundedYear": null,
+    "location": "Mülheim an der Ruhr, Germany",
+    "specialities": [
+      "Verwaltung",
+      "Corporate Buying",
+      "Qualitätswesen",
+      "Corporate Responsibility",
+      "Finance",
+      "Administration",
+      "Logistikmanagament",
+      "HR",
+      "Marketing",
+      "Unternehmenskommunikation",
+      "International Buying",
+      "IT",
+      "Filialentwicklung",
+      "Sekretariat",
+      "Verkaufsmanagement"
+    ]
+  }
+}

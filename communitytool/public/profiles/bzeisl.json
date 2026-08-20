@@ -1,0 +1,160 @@
+{
+  "id": "bzeisl",
+  "name": "Bernhard Z.",
+  "headline": "Computer Vision @ Google | ETH | CDTM",
+  "avatar": null,
+  "location": "Zurich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/bzeisl",
+  "personId": 1473,
+  "classes": [
+    {
+      "id": 59,
+      "label": "Spring 2006",
+      "season": "Spring",
+      "year": 2006,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2006",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Bernhard Zeisl",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Staff Software Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2023-05",
+      "end": null,
+      "dateRange": "May 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Building the next generation of a highly detailed, up-to-date 3d semantic map.",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": "Zürich Area, Switzerland",
+      "start": "2017-11",
+      "end": "2023-04",
+      "dateRange": "Nov 2017 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Visual Localization for StreetView, LiveView, Google Maps",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Daydream, Tango",
+      "location": "Zürich Area, Switzerland",
+      "start": "2015-11",
+      "end": "2017-10",
+      "dateRange": "Nov 2015 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Willow Garage",
+      "companyUrl": "https://www.linkedin.com/company/willow-garage",
+      "description": "Research on 3D perception and development of PCL (pointcloud library)",
+      "location": "Menlo Park, CA, USA",
+      "start": "2011-11",
+      "end": "2012-01",
+      "dateRange": "Nov 2011 – Jan 2012",
+      "current": false
+    },
+    {
+      "title": "Research assistant in Computer Vision",
+      "company": "ETH Zurich",
+      "companyUrl": "https://www.linkedin.com/company/eth-zurich",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2010-03",
+      "end": "2015-11",
+      "dateRange": "Mar 2010 – Nov 2015",
+      "current": false
+    },
+    {
+      "title": "Guest Researcher",
+      "company": "TU Graz",
+      "companyUrl": "https://www.linkedin.com/company/tugraz1811",
+      "description": null,
+      "location": "Graz, Austria",
+      "start": "2009-07",
+      "end": "2009-11",
+      "dateRange": "Jul 2009 – Nov 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "Doctor of Philosophy (PhD), Computer Science",
+      "dateRange": "2010 – 2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2006 – 2009"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl.-Ing., Information Technology / Electrical Engineering",
+      "dateRange": "2003 – 2009"
+    }
+  ],
+  "skills": [
+    "Computer Vision",
+    "Machine Learning",
+    "Matlab",
+    "Computer Science",
+    "Algorithms",
+    "Image Processing",
+    "C++",
+    "Signal Processing",
+    "Artificial Intelligence",
+    "Software Engineering",
+    "Data Mining",
+    "Robotics",
+    "Research",
+    "Innovation Management",
+    "3D reconstruction"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Google",
+    "tagline": null,
+    "description": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.\n\nCheck out our career opportunities at goo.gle/3DLEokh",
+    "industry": "Software Development",
+    "website": "https://goo.gle/3DLEokh",
+    "linkedInUrl": "https://www.linkedin.com/company/google",
+    "employeeCount": 341631,
+    "foundedYear": null,
+    "location": "Mountain View, United States",
+    "specialities": [
+      "search",
+      "ads",
+      "mobile",
+      "android",
+      "online video",
+      "apps",
+      "machine learning",
+      "virtual reality",
+      "cloud",
+      "hardware",
+      "artificial intelligence",
+      "youtube",
+      "software"
+    ]
+  }
+}

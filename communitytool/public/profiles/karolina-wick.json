@@ -1,0 +1,220 @@
+{
+  "id": "karolina-wick",
+  "name": "Karolina Wick",
+  "headline": "Sustainable Resources @TUM | CDTM | START | Enpal | Roland Berger",
+  "avatar": {
+    "sm": "/avatars/karolina-wick-sm.webp",
+    "lg": "/avatars/karolina-wick.webp",
+    "blur": "data:image/webp;base64,UklGRiABAABXRUJQVlA4IBQBAACQBgCdASogACAAPtFgqU+oJSOiKAgBABoJagCdMtCCm8La0Vh4HFy0L1he2xDkuyF0KsU1RbcQi19XgYjkAP76qEP8ddzs+ynUDX0rJ5NdU7IEWYEErp33HKsK57Z6FsYPepTkPsiluniVQUD41gGrxLHitoWJlcx8y5O10VXrYlYWq/H5kpVIHAYImvd8bCZsETmrcHt5F+HSG364i0dp2R/QbpKzi0k+Y9q9aHYkkhr/9PqZ9AQodVYZ/dvAfKdcoUUk7Fp18Y16fjuK/E4Hb9jC9eaTTWCy3U2UKWzElNS14JKzaYJ33PyDWyPEmes0CHfhPwba4wukj2wr4puZ6vn7k38E3IlDUoXEUFiua83AAAA="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/karolina-wick",
+  "personId": 2132,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Sustainable Resource Management",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Karolina Wick",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founders Associate",
+      "company": "Fairoo",
+      "companyUrl": "https://www.linkedin.com/company/fairoo",
+      "description": null,
+      "location": null,
+      "start": "2025-11",
+      "end": null,
+      "dateRange": "Nov 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder START Labs",
+      "company": "START Munich",
+      "companyUrl": "https://www.linkedin.com/company/startmunich",
+      "description": "𝐖𝐞 𝐣𝐮𝐬𝐭 𝐛𝐮𝐢𝐥𝐝 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝𝐬 𝐟𝐢𝐫𝐬𝐭 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐥𝐞𝐝 𝐆𝐨𝐯𝐭𝐞𝐜𝐡 𝐢𝐧𝐜𝐮𝐛𝐚𝐭𝐨𝐫. | START Munich",
+      "location": null,
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Partnerships Manager",
+      "company": "START Munich",
+      "companyUrl": "https://www.linkedin.com/company/startmunich",
+      "description": null,
+      "location": null,
+      "start": "2024-11",
+      "end": null,
+      "dateRange": "Nov 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Consulting Mid-Term Challenge Intern",
+      "company": "EFS Unternehmensberatung GmbH",
+      "companyUrl": "https://www.linkedin.com/company/efs-unternehmensberatung",
+      "description": "Worked on a strategic internal project on the operationalization of the “Wiener Klima Fahrplan 2022”",
+      "location": null,
+      "start": "2022-02",
+      "end": null,
+      "dateRange": "Feb 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "START connects the new generation of entrepreneurs who master future social and technological challenges.",
+      "company": "START Munich",
+      "companyUrl": "https://www.linkedin.com/company/startmunich",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Part-time",
+      "company": "START Munich",
+      "companyUrl": "https://www.linkedin.com/company/startmunich",
+      "description": null,
+      "location": null,
+      "start": "2025-05",
+      "end": "2026-01",
+      "dateRange": "May 2025 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Venture Development Working Student",
+      "company": "Enpal",
+      "companyUrl": "https://www.linkedin.com/company/enpal",
+      "description": "• Led the end-to-end management of a nearshoring project, including the strategic preparation, recruitment, onboarding, and performance management of a team of 10 customer service agents.\n• Developed and implemented proactive processes and mechanisms to prepare the heat pump customer service team for increased demand, ensuring efficient handling of escalated client issues",
+      "location": null,
+      "start": "2024-07",
+      "end": "2025-07",
+      "dateRange": "Jul 2024 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Venture Development Intern",
+      "company": "Enpal",
+      "companyUrl": "https://www.linkedin.com/company/enpal",
+      "description": "• Supported the operational management of a large scale retrofit project (5000+ clients, 20+ team members) thereby implementing process improvements and innovations\n• Set up the damage control for Enpal Heat including the process landscape, data infrastructure and controlling tools",
+      "location": "Berlin, Germany",
+      "start": "2024-02",
+      "end": "2024-05",
+      "dateRange": "Feb 2024 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Strategy Consulting Intern",
+      "company": "Roland Berger",
+      "companyUrl": "https://www.linkedin.com/company/rolandberger",
+      "description": "Conducted a restructuring project within the healthcare sector as well as an operations project for a large automotive manufacturer.",
+      "location": "Vienna, Austria",
+      "start": "2023-08",
+      "end": "2023-10",
+      "dateRange": "Aug 2023 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Project Analyst",
+      "company": "EFS Unternehmensberatung GmbH",
+      "companyUrl": "https://www.linkedin.com/company/efs-unternehmensberatung",
+      "description": "• Worked on a Process Transformation Project for an automotive manufacturer",
+      "location": null,
+      "start": "2022-08",
+      "end": "2022-12",
+      "dateRange": "Aug 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Head Organizer",
+      "company": "Talent Elevator",
+      "companyUrl": "https://www.linkedin.com/company/talent-elevator",
+      "description": "The Talent Elevator is Vienna´s most exclusive Career Event for Business and Engineering Students.\n• Organized a 12-hour program, filled with Keynote Speeches, Working sessions and Networking opportunities",
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-05",
+      "dateRange": "Oct 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Sales & Operations Intern",
+      "company": "CheckYeti",
+      "companyUrl": "https://www.linkedin.com/company/checkyetiofficial",
+      "description": "Responsible for the Advice and Sales of Outdoor Activities to German, English, Italian and Spanish customers (+100 bookings, +50k€ revenue)",
+      "location": null,
+      "start": "2021-07",
+      "end": "2021-08",
+      "dateRange": "Jul 2021 – Aug 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Stellenbosch University",
+      "degree": "Visiting Student, School of Agrisciences",
+      "dateRange": "2026"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Sustainable Resource Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Exchange Semester at NUS Business School, Business and Economics",
+      "dateRange": "2023"
+    },
+    {
+      "school": "WU (Vienna University of Economics and Business)",
+      "degree": "Bachelor of Science - BS, Business and Economics",
+      "dateRange": "2020 – 2023"
+    }
+  ],
+  "skills": [
+    "Teamwork",
+    "Öffentliches Reden",
+    "Organisationsfähigkeiten"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Italienisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "Fairoo",
+    "tagline": "Run events, not spreadsheets.",
+    "description": "Fairoo is the operations platform for modern events. \n\nWe centralize and automate exhibitor, speaker, and service-provider workflows with digital forms, self-service portals, APIs, and our AI Copilot - so teams save time, cut data work, and unlock new revenue.",
+    "industry": "Software Development",
+    "website": "http://www.fairoo.de",
+    "linkedInUrl": "https://www.linkedin.com/company/fairoo",
+    "employeeCount": 3,
+    "foundedYear": 2024,
+    "location": null,
+    "specialities": []
+  }
+}

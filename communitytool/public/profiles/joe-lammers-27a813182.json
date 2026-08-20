@@ -1,0 +1,172 @@
+{
+  "id": "joe-lammers-27a813182",
+  "name": "Joe Lammers",
+  "headline": "Exploring 🇯🇵 | CDTM",
+  "avatar": {
+    "sm": "/avatars/joe-lammers-27a813182-sm.webp",
+    "lg": "/avatars/joe-lammers-27a813182.webp",
+    "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAADwBQCdASogACAAPtFYpUyoJSOiKA1RABoJZACdMyGlpFaqc2AhtJUB/mUKX1Wbc9f484b++LXGwAD+/Hu+k5qkGwyWPnOm8/0vb802PRBQByIf6dNhZGn0w/ERbgT9j2LFyOMXPZ2RnNqGTSYR9wztDXv1WF10oBhokQyXJecGnIHZ+79gZyNKpSYUNzzvsjE3Ohbaq559ux3+YpzDl8dRkmVfGMt5KdqYgX4exeVSYeQ6/At+D2UixsYXpmNSRZ3uoP2yAG6ouAtGUbKfSa7NUZqnp5bh17EXpSx4S5zE4Larp8XbrDpg/HiiYNSMpRHgJJsAStiYAAAA"
+  },
+  "location": "Kyoto, Japan",
+  "linkedInUrl": "https://www.linkedin.com/in/joe-lammers-27a813182",
+  "personId": 2120,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Joe Enno Karl Lammers",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founders Associate",
+      "company": "Qontext",
+      "companyUrl": "https://www.linkedin.com/company/qontext-ai",
+      "description": "Building the context layer for AI, backed by HV Capital and Zero Prime, alongside founders of n8n, neo4j, Celonis, Cognigy, make.com, and Nabla.",
+      "location": "Berlin, Germany",
+      "start": "2025-11",
+      "end": "2026-03",
+      "dateRange": "Nov 2025 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "Junior Investment Analyst",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-10",
+      "end": "2025-07",
+      "dateRange": "Oct 2024 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-02",
+      "end": "2024-08",
+      "dateRange": "Feb 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Equity Investments",
+      "company": "SevenVentures",
+      "companyUrl": "https://www.linkedin.com/company/sevenventures",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-09",
+      "end": "2024-01",
+      "dateRange": "Sep 2023 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Consulting Project Assistant",
+      "company": "SR Strategy Routes - Experts in markets & people",
+      "companyUrl": "https://www.linkedin.com/company/sr-strategy-routes",
+      "description": null,
+      "location": "Remote",
+      "start": "2023-01",
+      "end": "2023-05",
+      "dateRange": "Jan 2023 – May 2023",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Kyoto University",
+      "degree": "Msc. Exchange",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management and Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Maastricht University School of Business and Economics",
+      "degree": "Bachelor, International Business",
+      "dateRange": null
+    },
+    {
+      "school": "Católica Lisbon School of Business and Economics",
+      "degree": "Bsc. Exchange",
+      "dateRange": null
+    },
+    {
+      "school": "Delphi Community High School",
+      "degree": "Foreign exchange year Delphi, Indiana, USA with YFU",
+      "dateRange": null
+    },
+    {
+      "school": "Gymnasium Eppendorf - Economics Specialization",
+      "degree": "High School Diploma",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Due Diligence",
+    "Recherche",
+    "Marktanalyse",
+    "Präsentationen",
+    "ThinkCell",
+    "Risikofinanzierung",
+    "Unternehmensberatung",
+    "Problemlösung",
+    "Betriebswirtschaft",
+    "Kommunikation",
+    "Teamwork",
+    "Analytische Fähigkeiten",
+    "Deutsch",
+    "Microsoft Office",
+    "Bilanzanalyse",
+    "Cashflow-Analyse",
+    "Gewinn- und Verlustrechnung",
+    "Geschäftsmodellentwicklung",
+    "Social-Media-Marketing",
+    "Datenmanagement",
+    "Bloggen",
+    "Microsoft Excel",
+    "IBM SPSS",
+    "WordPress",
+    "E-Mail-Marketing",
+    "Englisch",
+    "International Financial Reporting Standards (IFRS)",
+    "Allgemein anerkannte Rechnungslegungsgrundsätze der USA (GAAP)"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Qontext",
+    "tagline": "Building the context layer for AI",
+    "description": "Qontext is building the independent context layer for AI, the horizontal company state every serious AI stack will run on.\n\nIt turns fragmented knowledge, decisions, and processes into a governed, continuously evolving system of record that agents don’t just query, but operate and collaborate on. Instead of reconstructing reality at runtime for every AI system, companies define their state once and every agent runs on it.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://qontext.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/qontext-ai",
+    "employeeCount": 7,
+    "foundedYear": null,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

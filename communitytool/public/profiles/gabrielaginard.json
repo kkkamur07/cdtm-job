@@ -1,0 +1,262 @@
+{
+  "id": "gabrielaginard",
+  "name": "Gabriela Ginard",
+  "headline": "HR Tech | CDTM Alumn",
+  "avatar": {
+    "sm": "/avatars/gabrielaginard-sm.webp",
+    "lg": "/avatars/gabrielaginard.webp",
+    "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAACwBQCdASogACAAPr1QnkunJSKht/qoAOAXiUAZZbF7JVaZsI+aidm/JuzE5ycA1a45vo5rgoAA/v56fWLGvKIIn/1bOe/xowQiOeAeD9NnRaMcj+zUMaIxrA3mfcC07Zqt55tJeyoX5bOdDFVgCCTM5oTGOckManKCbg35h+Ky8RemXKS0Jmp7zM+tXfk3I5yximnwtnzn7T0F678ZuDA6w1kdYl6/Fs9VPmKMWFIt9HGx4swnbYlYUsvZRXMuNf920q0tYpBAvanhLkeEV10vmNaVf1a3Xx8Em8V1gp0AAA=="
+  },
+  "location": "Zürich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/gabrielaginard",
+  "personId": 859,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Industrial Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Gabriela Ginard",
+  "ca": null,
+  "summary": "I have over five years of experience working with HR SaaS products and am currently the People Tech Manager at Medbase Gruppe. In my role, I lead the implementation, optimization, and strategy of HR technology solutions, ensuring alignment with organizational goals and enhancing user experiences.\n\nI am fluent in four languages—English, Spanish, German, and Portuguese—and am learning Swiss German. My international experience spans Mexico, Argentina, Brazil, Germany, and Switzerland, giving me a global perspective on people and technology.\n\nWhen I’m not working, you’ll find me enjoying Switzerland’s stunning outdoors through activities like hiking, biking, running, or swimming. I’m always up for a coffee and great conversation, so feel free to connect or send me a message!\n\nCompetencies:\nPeople Technology, Human Resources Information Systems (HRIS), Product Management, Agile Methodologies, Workday, Strategic Partnerships, Consulting, HR Technology Strategy, Jira, SCRUM, User Experience, Tableau, User Stories, Design Thinking, Strategic Roadmaps, SaaS, HCM, HRIS Database Management, Workday Reporting, Integrations, APIs, Digital Transformation.",
+  "positions": [
+    {
+      "title": "People Tech @ Medbase Gruppe",
+      "company": "Medbase Gruppe",
+      "companyUrl": "https://www.linkedin.com/company/medbasegruppe",
+      "description": "•\tLead the implementation, optimization, and integration of HR processes within Workday, ensuring seamless functionality across the organization.\n\t•\tDrive strategic HR technology initiatives, enhancing user experience and aligning systems with business objectives.\n\t•\tManage and support HRIS operations, data accuracy, and reporting to enable data-driven decision-making.",
+      "location": "Winterthur, Zurich, Switzerland",
+      "start": "2024-04",
+      "end": null,
+      "dateRange": "Apr 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Team Lead Product Management",
+      "company": "jacando AG",
+      "companyUrl": "https://www.linkedin.com/company/jacando-ag",
+      "description": "•\tManaged and coached a cross-functional product team, driving the development and enhancement of jacando’s HRIS tailored to mid-market clients.\n\t•\tOversaw the product lifecycle, from strategic roadmaps to feature delivery, ensuring alignment with client needs and market trends.\n\t•\tCollaborated with stakeholders across departments to improve user experience, implement agile methodologies, and achieve product excellence.",
+      "location": "Basel, Switzerland",
+      "start": "2023-04",
+      "end": "2024-03",
+      "dateRange": "Apr 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Technical Implementation Consultant (HR Tech)",
+      "company": "Degreed",
+      "companyUrl": "https://www.linkedin.com/company/degreed",
+      "description": "•\tSuccessful track record for overseeing technical implementations for enterprise clients with a shared ACV of over $1.2 million in EMEA and APAC\n•\tWork in partnership with learning consultants to manage the technical requirements for new implementations.\n•\tPresent and demonstrate product features and configuration options to drive requirement decisions and educate clients on the product and recommended practices.\n•\tUse technical and product expertise to consult with clients/providers on system configurations, user access criteria, SSO authentication, and data/content integrations that meet business needs and minimize risk.\n•\tPartner with the product organization for documentation initiatives, user tests and discovery",
+      "location": "Switzerland",
+      "start": "2021-11",
+      "end": "2023-03",
+      "dateRange": "Nov 2021 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "IT Project and Application Manager (Workday)",
+      "company": "Interhyp Gruppe",
+      "companyUrl": "https://www.linkedin.com/company/interhypgruppe",
+      "description": "Responsible for the implementation of Workday incl. support and process optimization:\no Modules: HCM, Absence, Compensation, Talent, Recruiting and Reporting\no Integrations: Payroll, IAM, personnel availability service and job posting portals\no Training: Report Writer, Configurable Security Fundamentals, Integration Systems Fundamentals and Integration Security\no Technical Support: 2nd level support and contact person for 3rd level support, end-user documentation and training",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-03",
+      "end": "2021-10",
+      "dateRange": "Mar 2020 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Product Owner - E-Learning Web App",
+      "company": "Skimio - Digital. Learning. Coach.",
+      "companyUrl": null,
+      "description": "Product owner of the Skimio learning apps: user app, HR-admin, and content authoring tool:\n- Set up of a product development process\n- User Tests and customer interviews\n- Feature and user stories definition \n- Backlog prioritization \n- Sprint planning\n- Support of the customer success team: collaboration with development partners",
+      "location": "Munich Area, Germany",
+      "start": "2019-06",
+      "end": "2020-01",
+      "dateRange": "Jun 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Project Manager - FLI Academy",
+      "company": "MLI Leadership Institut München GmbH",
+      "companyUrl": "https://www.linkedin.com/company/mli-leadership-institut-gmbh-metropolregion-münchen",
+      "description": "FLI Fellowship:\n- developed the Fellowship business case\n- set up the Fellowship online portal and community\n\nFLI Events\n- Design of co-creation workshops\n- development of concepts for agile leadership and self-leadership seminars\n- all around event management\n- partner acquisition and management\n- corporate communications\n- conception and operation of the FLI Website",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-11",
+      "end": "2019-05",
+      "dateRange": "Nov 2018 – May 2019",
+      "current": false
+    },
+    {
+      "title": "Project Management - Strategic Partnerships",
+      "company": "MLI Leadership Institut München GmbH",
+      "companyUrl": "https://www.linkedin.com/company/mli-leadership-institut-gmbh-metropolregion-münchen",
+      "description": "Stakeholder management and communication, concept development and management of the FLI Leadership Academy (agile leadership and self-leadership formats)\n\n\nThe Future of Leadership Initiative (FLI) aims to shape visionary leadership in times of digitalization, by fostering the dialogue between young talents, executives and thought leaders.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-10",
+      "end": "2018-10",
+      "dateRange": "Oct 2017 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "International Intern BMW i",
+      "company": "BMW Group Mexico",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Database management (charging station infrastructure, BMWi car dealerships, warehouse stock), BMWi fleet management, internal purchase and invoice processes",
+      "location": null,
+      "start": "2016-10",
+      "end": "2017-01",
+      "dateRange": "Oct 2016 – Jan 2017",
+      "current": false
+    },
+    {
+      "title": "Working student in Business Development",
+      "company": "ParkHere",
+      "companyUrl": "https://www.linkedin.com/company/parkhere",
+      "description": "Business Development, PR and Marketing: strategic and operational management support",
+      "location": "Garching, Germany",
+      "start": "2016-03",
+      "end": "2016-08",
+      "dateRange": "Mar 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Gründerpraktikantin",
+      "company": "Socialwave UG",
+      "companyUrl": "https://www.linkedin.com/company/socialwave-ug",
+      "description": "Strategic and operational management support with day-to-day issues (focus on sales and marketing)",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-04",
+      "end": "2015-06",
+      "dateRange": "Apr 2015 – Jun 2015",
+      "current": false
+    },
+    {
+      "title": "Fellow",
+      "company": "Social Entrepreneurship Akademie",
+      "companyUrl": "https://www.linkedin.com/company/social-entrepreneurship-akademie",
+      "description": "The certificate \"societal innovations\" is a program that delivers specific knowledge and skills in the field of social entrepreneurship.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-10",
+      "end": "2015-07",
+      "dateRange": "Oct 2014 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Working Student in Operations",
+      "company": "Arnold Jäger Werner",
+      "companyUrl": null,
+      "description": "Operations management and controlling: in my 4th and 5th semester as a student, while working for AJW as a store manager, I developed an inventory system that made measuring and controlling of key performance indicators possible.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-03",
+      "end": "2014-10",
+      "dateRange": "Mar 2014 – Oct 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors  Degree, Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Industrial Engineering - Innovation & Entrepreneurship",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor’s Degree, Engineering Science",
+      "dateRange": "2011 – 2015"
+    }
+  ],
+  "skills": [
+    "Systems Analysis",
+    "Troubleshooting",
+    "Technical Project Management",
+    "Wireframing",
+    "User Research",
+    "User Experience (UX)",
+    "Creativity and Innovation",
+    "Problem Solving",
+    "Communication",
+    "Agile Methodologies",
+    "Jira",
+    "Microsoft Office",
+    "Research",
+    "Solidworks",
+    "C++",
+    "Matlab",
+    "C",
+    "Programming",
+    "AutoCAD",
+    "Statistics",
+    "Teamwork",
+    "Visual Basic",
+    "Data Analysis",
+    "Labview",
+    "English",
+    "Project Management",
+    "Microsoft Excel",
+    "Business Strategy",
+    "PowerPoint",
+    "Public Speaking",
+    "Team Leadership",
+    "Leadership",
+    "Social Media",
+    "Strategic Planning",
+    "Entrepreneurship",
+    "Management",
+    "Microsoft Word",
+    "Start-ups",
+    "Spanish",
+    "Marketing",
+    "IT Project & Program Management",
+    "Human Resources Information Systems (HRIS)",
+    "HRIS",
+    "Workday",
+    "Workday Integration",
+    "Workday Reporting",
+    "Product owner",
+    "Product Development",
+    "Agile Project Management",
+    "Product Management"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Portuguese",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Medbase Gruppe",
+    "tagline": null,
+    "description": "Unsere Mission ist es, der Schweizer Bevölkerung eine koordinierte 360°-Versorgung anzubieten — von der Prävention über die ambulante Medizin bis hin zur Rehabilitation. Dafür arbeiten Medbase-Medizinerinnen, -Therapeuten, -Apothekerinnen, -Pharma-Assistenten, -MPAs, und viele weitere Profis Hand in Hand. \n\nMit dieser Idee sind wir seit 2001 erfolgreich unterwegs. Heute ist die Medbase Gruppe mit über 190 medizinischen Zentren, Apotheken und Zahnarztzentren und rund 4000 Kolleginnen und Kollegen die führende Leistungserbringerin für ambulante und integrierte Medizin in der Schweiz.\n\nInteressiert, selbst Teil dieser erfolgreichen Idee zu werden? Profitiere von unserer Netzwerkpower. Beweise Sportsgeist und erlebe eine Arbeitskultur, die auf Fairness und Teamgeist aufbaut. Bleibe im Rhythmus mit Arbeitsbedingungen, die dir ein gutes Leben ermöglichen. Zusammen gehen wir die Extrameile, – du bringst uns weiter und wir dich. Schau dir jetzt deine Karrieremöglichkeiten unter https://www.medbase.ch/ueber-medbase an.",
+    "industry": "Health and Human Services",
+    "website": "http://www.medbase.ch",
+    "linkedInUrl": "https://www.linkedin.com/company/medbasegruppe",
+    "employeeCount": 723,
+    "foundedYear": null,
+    "location": "Winterthur, Switzerland",
+    "specialities": [
+      "Medizin",
+      "Pharmazie",
+      "Therapie",
+      "Grundversorgung",
+      "Zahnmedizin"
+    ]
+  }
+}

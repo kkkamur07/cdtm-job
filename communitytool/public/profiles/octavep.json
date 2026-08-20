@@ -1,0 +1,197 @@
+{
+  "id": "octavep",
+  "name": "Octave Procope-Mamert",
+  "headline": "Head of Ground Operations Division at European Space Agency",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/octavep",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "Specialties: Mobile Network technologies\nProject management for network infrastrucure project\nPortfolio Management and product definition for consumer focused business",
+  "positions": [
+    {
+      "title": "Head of Ground Operations Division",
+      "company": "European Space Agency - ESA",
+      "companyUrl": "https://www.linkedin.com/company/european-space-agency",
+      "description": null,
+      "location": "Darmstadt, Hesse, Germany",
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Mission Operations IT  and OCC Infrastructure",
+      "company": "European Space Agency - ESA",
+      "companyUrl": "https://www.linkedin.com/company/european-space-agency",
+      "description": null,
+      "location": "Darmstadt, Germany",
+      "start": "2012-10",
+      "end": null,
+      "dateRange": "Oct 2012 – Present",
+      "current": true
+    },
+    {
+      "title": "Communications Technology Manager",
+      "company": "European Space Agency - ESA",
+      "companyUrl": "https://www.linkedin.com/company/european-space-agency",
+      "description": null,
+      "location": null,
+      "start": "2007-05",
+      "end": "2012-09",
+      "dateRange": "May 2007 – Sep 2012",
+      "current": false
+    },
+    {
+      "title": "Portfolio Manager",
+      "company": "BenQ Mobile GmbH",
+      "companyUrl": "https://www.linkedin.com/company/benq",
+      "description": "Responsible for Product definition within Portfolio Management.\nBased on market intelligence and consumer marketing drive the definition of new product concepts taking into account their profitability and their technical feasibility. Strong link to Innovation management",
+      "location": null,
+      "start": "2005-10",
+      "end": "2007-04",
+      "dateRange": "Oct 2005 – Apr 2007",
+      "current": false
+    },
+    {
+      "title": "Executive Project Manager",
+      "company": "Siemens Mobile Devices",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Reporting directly to Siemens Mobile CTO\nManaging several special projects and supporting organizational changes",
+      "location": null,
+      "start": "2004-06",
+      "end": "2005-10",
+      "dateRange": "Jun 2004 – Oct 2005",
+      "current": false
+    },
+    {
+      "title": "Project Manager Operation",
+      "company": "Siemens Mobile Devices",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Responsible for the SIP/IMS project for the Vodafone Group (Trials in Germany and France)",
+      "location": null,
+      "start": "2003-07",
+      "end": "2004-06",
+      "dateRange": "Jul 2003 – Jun 2004",
+      "current": false
+    },
+    {
+      "title": "Service Project Manager",
+      "company": "Siemens Mobile Devices",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Responsible for the implementation and rollout of Mobile Network infrastructure in Spain (GSM/GSM-R), Italy (GSM-R) and then France (GSM/UMTS)",
+      "location": null,
+      "start": "2001-07",
+      "end": "2003-07",
+      "dateRange": "Jul 2001 – Jul 2003",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "altran",
+      "companyUrl": "https://www.linkedin.com/company/altran",
+      "description": "Projects realized for:\nCompaq - Localization of handheld PC\nSiemens AG - Acquisition of Maintenance contracts for Mobile Networks",
+      "location": null,
+      "start": "1999-09",
+      "end": "2001-07",
+      "dateRange": "Sep 1999 – Jul 2001",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Northwestern University - Kellogg School of Management",
+      "degree": "EMBA, General Management",
+      "dateRange": "2009 – 2011"
+    },
+    {
+      "school": "Kellogg-WHU Executive MBA Program",
+      "degree": "EMBA, Management",
+      "dateRange": "2009 – 2011"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl.Ing, Telecommunications - Networks",
+      "dateRange": "1997 – 1999"
+    },
+    {
+      "school": "Centrale Lille",
+      "degree": "Ingenieur diplomé, Géneraliste",
+      "dateRange": "1995 – 1999"
+    }
+  ],
+  "skills": [
+    "Project Management",
+    "Project Portfolio Management",
+    "Product Management",
+    "Cross-functional Team Leadership",
+    "Negotiation",
+    "Telecommunications",
+    "Program Management",
+    "International Project Management",
+    "PMP",
+    "Product Lifecycle Management",
+    "Outsourcing",
+    "Integration",
+    "IT Strategy",
+    "Mobile Devices",
+    "Management",
+    "Change Management",
+    "Strategy",
+    "Business Strategy",
+    "Strategic Planning",
+    "Product Development"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "European Space Agency - ESA",
+    "tagline": null,
+    "description": "We are the European Space Agency. Our mission is the peaceful exploration and use of space for the benefit of everyone. We watch over Earth, develop and launch inspiring space projects, train astronauts and push the boundaries of science and technology, seeking answers to the big questions about the Universe. We are scientists, engineers and business professionals from all over Europe working together in a diverse and multinational environment. We are dedicated to united space in Europe and united Europe in space.",
+    "industry": "Space Research and Technology",
+    "website": "http://www.esa.int",
+    "linkedInUrl": "https://www.linkedin.com/company/european-space-agency",
+    "employeeCount": 6773,
+    "foundedYear": 1975,
+    "location": "Paris, France",
+    "specialities": [
+      "Space",
+      "Science",
+      "Navigation",
+      "Earth Observation",
+      "Communications",
+      "Manned Space Flight",
+      "System Engineering",
+      "Innovative",
+      "Inspirational",
+      "Aspirational",
+      "Rockets",
+      "Materials",
+      "Astronomy",
+      "Simulation",
+      "System Engineering",
+      "Concurrent Engineering",
+      "Testing",
+      "Hardware",
+      "Software",
+      "Training",
+      "Information Technology",
+      "GNSS",
+      "Galileo",
+      "IT and Security",
+      "Cyber"
+    ]
+  }
+}

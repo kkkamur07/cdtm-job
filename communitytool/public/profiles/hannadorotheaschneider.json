@@ -1,0 +1,305 @@
+{
+  "id": "hannadorotheaschneider",
+  "name": "Hanna Moser, PhD",
+  "headline": "Professor for Intelligent User Interfaces",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/hannadorotheaschneider",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Professor",
+      "company": "Hochschule München University of Applied Sciences",
+      "companyUrl": "https://www.linkedin.com/company/hochschule-muenchen",
+      "description": "Professor for Intelligent User Interfaces",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Design and Research, Workflows & Integrations",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-04",
+      "end": "2024-09",
+      "dateRange": "Apr 2022 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "UX Research Lead",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": "- Growing the UX Research team from 2 to 10, owning the growth of my team, through headcount planning and recruitment\n- Mentoring and coaching my team in their expertise and professional development\n- Prioritizing research opportunities, on a company level, based on need and impact - together with product, design, and business partners as well as my team\n- Developing and maintaining guidelines, best practices, standards, and systems for driving user-centered decisions and improving research quality\n- Together with the other UX leaders, setting the vision and strategy for the UX group that aligns UX Design, Research, and Writing\n- Planning the budget as well as coordinating tools and operations for the team",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-01",
+      "end": "2024-09",
+      "dateRange": "Jan 2021 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Sr. UX Researcher",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-07",
+      "end": "2021-01",
+      "dateRange": "Jul 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "UX Research Coordinator / UX Researcher",
+      "company": "Google via Adecco",
+      "companyUrl": "https://www.linkedin.com/company/adecco",
+      "description": "Coordinating UX lab and immersion studies at Google that involve cross-functional teams (PM, ENG, design, policy, legal), analysing and communicating research results.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-06",
+      "end": "2020-07",
+      "dateRange": "Jun 2019 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Senior User Experience Researcher",
+      "company": "Fujitsu Enabling Software Technology GmbH",
+      "companyUrl": null,
+      "description": "Planning and conducting UX research studies for multiple complex code and software\nmanagement systems (RunMyProcess, PICCO, Infrastructure Manager).",
+      "location": "Munich Area, Germany",
+      "start": "2019-01",
+      "end": "2019-05",
+      "dateRange": "Jan 2019 – May 2019",
+      "current": false
+    },
+    {
+      "title": "Post-doctoral researcher",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Mentoring PhD students to get to speed with teaching and research and help them connect with the scientific communities. Contribute to research grant applications and conference committee work (CHI '18, IUI '18, NordiCHI '20).",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-05",
+      "end": "2018-12",
+      "dateRange": "May 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Conducting qualitative research in the HXD team, Digital Possessions project.",
+      "location": "Cambridge, United Kingdom",
+      "start": "2017-05",
+      "end": "2017-08",
+      "dateRange": "May 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "UX Researcher",
+      "company": "Imago design",
+      "companyUrl": "https://www.linkedin.com/company/imagodesign",
+      "description": null,
+      "location": null,
+      "start": "2016-07",
+      "end": "2016-12",
+      "dateRange": "Jul 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Research and Teaching Assistant, PHD Candidate",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Teaching classes (Concept Development, Interaction Design, Design Workshops, ...)\nResearch: design processes and methods, persuasive design, personal informatics, tracking and information visualisation, health and wellbeing technologies, empowerment",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-10",
+      "end": "2018-05",
+      "dateRange": "Oct 2014 – May 2018",
+      "current": false
+    },
+    {
+      "title": "UX Researcher and Designer",
+      "company": "Patients Know Best",
+      "companyUrl": "https://www.linkedin.com/company/patients-know-best",
+      "description": "User research (interviews, observations), Prototyping (Pen & Paper, Balsamique, Axure,..)",
+      "location": null,
+      "start": "2014-05",
+      "end": "2014-09",
+      "dateRange": "May 2014 – Sep 2014",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "LMU - Ludwig-Maximilians-Universität München",
+      "companyUrl": null,
+      "description": "Course Human Computer Interaction",
+      "location": "Munich",
+      "start": "2012-02",
+      "end": "2012-07",
+      "dateRange": "Feb 2012 – Jul 2012",
+      "current": false
+    },
+    {
+      "title": "Interaction Designer for Predevelopment",
+      "company": "Bosch and Siemens Home Appliances Group (BSH)",
+      "companyUrl": "https://www.linkedin.com/company/bsh-home-appliances-group",
+      "description": "Testing and applying new prototyping methods to develop interactive prototypes",
+      "location": null,
+      "start": "2011-05",
+      "end": "2011-07",
+      "dateRange": "May 2011 – Jul 2011",
+      "current": false
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Conception and design of a project catalogue about all Center projects from 2005 to 2010",
+      "location": "Munich",
+      "start": "2011-02",
+      "end": "2011-07",
+      "dateRange": "Feb 2011 – Jul 2011",
+      "current": false
+    },
+    {
+      "title": "Specialist for New Technologies",
+      "company": "Bayerischer Rundfunk",
+      "companyUrl": "https://www.linkedin.com/company/br-bayerischer-rundfunk",
+      "description": "Customer Service of the Department New Technologies and Work Flow Management",
+      "location": null,
+      "start": "2009-02",
+      "end": "2010-12",
+      "dateRange": "Feb 2009 – Dec 2010",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Die Neue Sammlung - The International Design Museum Munich / Pinakothek der Moderne",
+      "companyUrl": "https://www.linkedin.com/company/die-neue-sammlung---the-international-design-museum-munich-pinakothek-der-moderne",
+      "description": null,
+      "location": "Munich",
+      "start": "2009-02",
+      "end": "2009-04",
+      "dateRange": "Feb 2009 – Apr 2009",
+      "current": false
+    },
+    {
+      "title": "Science Journalist and head of science department",
+      "company": "M 94.5",
+      "companyUrl": null,
+      "description": "Leading team meetings, preparing and moderating radio shows, conducting interviews, and attending regular courses to improve journalistic skills",
+      "location": "M94.5 (AFK)",
+      "start": "2008-10",
+      "end": "2010-10",
+      "dateRange": "Oct 2008 – Oct 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Doctor of Philosophy - PhD, Media Informatics",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "UCL",
+      "degree": "Master of Science (M.Sc.), ICT Innovation with major in Human Computer Interaction",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Paris-Sud University (Paris XI)",
+      "degree": "Master of Science (M.Sc.), Human Computer Interaction",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honour Degree, Technology Management",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Media Informatics",
+      "dateRange": "2008 – 2012"
+    },
+    {
+      "school": "Georgia Institute of Technology",
+      "degree": "Research Visitor, Research Networks Operation Center",
+      "dateRange": "2011"
+    },
+    {
+      "school": "EIT ICT Labs Masterschool",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "EIT ICT Labs Masterschool",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Higher Education Teaching",
+    "Guest Lecturing",
+    "University Lecturing",
+    "Higher Education Research",
+    "Human Computer Interaction",
+    "Interaction Design",
+    "iOS development",
+    "Web Development",
+    "Adobe Creative Suite",
+    "CSS",
+    "User Interface",
+    "JavaScript",
+    "User Interface Design",
+    "HTML",
+    "User Experience",
+    "ActionScript",
+    "CMS",
+    "Usability",
+    "User-centered Design",
+    "Entrepreneurship"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Hochschule München University of Applied Sciences",
+    "tagline": "Stark in Lehre, Forschung und Wirtschaft",
+    "description": "The most important thing about the university are the people – over 17,800 students, around 500 professors, 750 lecturers and 660 staff. We feel committed to our guiding principle: “transforming knowledge into know-how and learners into leaders.”\r\n\r\nQuality is always first and foremost. The most important quality of our teaching and research is its close link to practice. The link to practice is guaranteed by our professors due to their strong economic contacts.",
+    "industry": "Higher Education",
+    "website": "http://www.hm.edu",
+    "linkedInUrl": "https://www.linkedin.com/company/hochschule-muenchen",
+    "employeeCount": 2539,
+    "foundedYear": 1971,
+    "location": "München, Germany",
+    "specialities": [
+      "Architektur",
+      "Bauingenieurwesen",
+      "Maschinenbau, Elektrotechnik, Flugzeugtechnik",
+      "Elektrotechnik und Informationstechnik",
+      "Versorgungs- und Gebäudetechnik, Verfahrenstechnik Papier und Verpackung, Druck- und Medientechnik",
+      "Angewandte Naturwissenschaften und Mechatronik",
+      "Informatik und Mathematik",
+      "Geoinformation",
+      "Wirtschaftsingenieurwesen",
+      "Betriebswirtschaft",
+      "Angewandte Sozialwissenschaften",
+      "Design",
+      "Studium Generale und interdisziplinäre Studien",
+      "Tourismus"
+    ]
+  }
+}

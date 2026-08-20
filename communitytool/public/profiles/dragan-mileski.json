@@ -1,0 +1,218 @@
+{
+  "id": "dragan-mileski",
+  "name": "Dragan Mileski",
+  "headline": "Co-Founder & CTO at Climedo",
+  "avatar": {
+    "sm": "/avatars/dragan-mileski-sm.webp",
+    "lg": "/avatars/dragan-mileski.webp",
+    "blur": "data:image/webp;base64,UklGRroBAABXRUJQVlA4IK4BAAAQCQCdASogACAAPtFUpEuoJKOhsAgBABoJZAC1CNkrBMlvA3wdegowVQI5ncBKge7FBMHc8vjSe2TLhnWC9tVh5AyzRJ/J6DDw1khq6WOCZgAA/n6l+p4sn19eZIPj7wph0uGOW5Wfnr82Nw4FIXQtbXTCL/JmB/JEzjH7mxT1p4aVewVuzcrKylvxy4AF1OxLL1IIBbAI1kNHoRzVPQWQmI1FXn/7qv4uCCri5fHjj32AXvzmcEKU6geWYrvkZPXu5QmIDiRsu8ELaglBdbd6NLr+gmBoIFBRJW/a1p5SdLjdMC30srtbj93+XwrULyPlpQBkbxB5BTo6hhkv89mUVQdTM5qR4RbNibqa7+VbhBHhv0ptmeoYvsY9V66CYmT+XEVu5QL7YXsSHpBv8McoUW/nRCH5WZ+40XyjXUalOOGyhLnP3tF8A7D5vcNnDTizR06zHmjmOdptxsUfgnn2gLe38uroxoSzxHO3tVWTUf8xLqCBxVqH3rU73F63ZYUgGcRzUv7KrTe5ak3rIsIwyMCpqtYC7kRBYz1DcckVe1SMlSfixpVEkcafpAAA"
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dragan-mileski",
+  "personId": 976,
+  "classes": [
+    {
+      "id": 74,
+      "label": "Fall 2013",
+      "season": "Fall",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2013",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Dragan Mileski",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Climedo",
+      "companyUrl": "https://www.linkedin.com/company/climedo",
+      "description": "Climedo offers an all-in-one eCOA and EDC solution with hybrid capabilities for non-interventional studies and real-world evidence. By using a patient-centric approach and leveraging real-time data insights and visualizations around a study’s current progress, Climedo empowers its clients to better engage with healthcare professionals and other key opinion leaders (KOLs).\n\nThis boosts awareness, stimulates scientific dialogue and accelerates the launch success of new medical innovations, thus reaching more patients faster. Founded in Munich in 2017, Climedo is a leading trusted partner for pharma, medtech, CROs and academia with over 1.7 million patients enrolled to date.",
+      "location": "Munich, Germany",
+      "start": "2017-05",
+      "end": null,
+      "dateRange": "May 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Global Head of Mobile Engineering",
+      "company": "foodora",
+      "companyUrl": "https://www.linkedin.com/company/foodora",
+      "description": null,
+      "location": "Berlin Area, Germany",
+      "start": "2015-04",
+      "end": "2016-05",
+      "dateRange": "Apr 2015 – May 2016",
+      "current": false
+    },
+    {
+      "title": "MSc Student - Software Engineering",
+      "company": "SapientNitro",
+      "companyUrl": "https://www.linkedin.com/company/sapientnitro",
+      "description": "Product recommendation system for supermarket, by using iBeacons and shopping data analytics.\n\niOS Development - Client Application\nRuby On Rails - API + Content Management System\nJava Machine Learning Libraries for the recommendation system",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-08",
+      "end": "2015-03",
+      "dateRange": "Aug 2014 – Mar 2015",
+      "current": false
+    },
+    {
+      "title": "International Sales",
+      "company": "CoolJaffar Kft.",
+      "companyUrl": null,
+      "description": "Side project for selling highly customized cables and cable harnesses to manufacturing companies via cold calls.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-07",
+      "end": "2014-09",
+      "dateRange": "Jul 2014 – Sep 2014",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Tenida",
+      "companyUrl": null,
+      "description": "https://itunes.apple.com/us/app/tenida-create-join-activities/id869894887?mt=8\n\niOS Development\nMarketing Strategy",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-05",
+      "end": "2014-12",
+      "dateRange": "May 2014 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Freelance Consultant on developing Social Media Tools",
+      "company": "Voycer AG",
+      "companyUrl": "https://www.linkedin.com/company/voycer",
+      "description": "Ruby on Rails, HTML5, CSS, Javascript, Bootstrap, PostrgreSQL",
+      "location": "Munich",
+      "start": "2013-11",
+      "end": "2014-12",
+      "dateRange": "Nov 2013 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Sapient",
+      "companyUrl": "https://www.linkedin.com/company/sapient",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-05",
+      "end": "2013-11",
+      "dateRange": "May 2012 – Nov 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (MSc), Informatics",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "Technical University of Sofia",
+      "degree": "Bachelor of Science (BS), Computer Science",
+      "dateRange": "2006 – 2010"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Computer Science, Business Administration, Entrepreneurship, Management",
+      "dateRange": "2013"
+    },
+    {
+      "school": "LMU EC",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Project Management",
+    "Mobile Applications",
+    "Java",
+    "Software Engineering",
+    "Start-ups",
+    "Entrepreneurship",
+    "Web Applications",
+    "Agile Methodologies",
+    "Distributed Systems",
+    "Design Patterns",
+    "Strategy",
+    "Machine Learning",
+    "Angular",
+    "Node.js",
+    "MongoDB",
+    "HTML5",
+    "JavaScript",
+    "Docker",
+    "Hadoop",
+    "Ruby on Rails",
+    "Express.js",
+    "TypeScript",
+    "Augmented Reality",
+    "Big Data Analytics",
+    "Microservices"
+  ],
+  "languages": [
+    "Albanian",
+    "Bulgarian",
+    "English",
+    "German",
+    "Macedonian",
+    "Russian",
+    "Serbian"
+  ],
+  "company": {
+    "name": "Climedo",
+    "tagline": "The leading European EDC for eCOA-focused real-world and late-phase clinical studies.",
+    "description": "Climedo offers an all-in-one eCOA and EDC solution with hybrid capabilities for real-world and late-phase clinical studies. By using a patient-centric approach and leveraging real-time data insights and visualizations around a study’s current progress, Climedo empowers its clients to better engage with healthcare professionals and other key opinion leaders (KOLs). This boosts awareness, stimulates scientific dialogue and accelerates the launch success of new medical innovations, thus reaching more patients faster. Founded in Munich in 2017, Climedo is a leading trusted partner for pharma, medtech, CROs and academia with over 1.7 million patients enrolled to date. Learn more at www.climedo.com.",
+    "industry": "Information Technology & Services",
+    "website": "https://www.climedo.de/en",
+    "linkedInUrl": "https://www.linkedin.com/company/climedo",
+    "employeeCount": 28,
+    "foundedYear": 2017,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Digital Healthcare",
+      "Big Data",
+      "Analytics",
+      "Medical Research",
+      "Software",
+      "SaaS",
+      "Clinical Validation",
+      "Electronic Data Capture",
+      "ePRO",
+      "eSurveys",
+      "clinical trials",
+      "clinical data",
+      "data reporting",
+      "Pharma",
+      "BioTech",
+      "CROs",
+      "Hospitals & Academia",
+      "Health Offices",
+      "MedTech",
+      "Commercialization",
+      "Market Access",
+      "eCOA",
+      "Scientific dialogue",
+      "Medicomarketing",
+      "Phase IV trials",
+      "Post-market trials",
+      "Post-approval studies",
+      "KOL engagement",
+      "Data to dialogue",
+      "Interactive dashboards",
+      "Patient centricity",
+      "Real-world evidence",
+      "Real-time data insights"
+    ]
+  }
+}

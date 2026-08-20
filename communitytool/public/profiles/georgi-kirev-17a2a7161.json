@@ -1,0 +1,124 @@
+{
+  "id": "georgi-kirev-17a2a7161",
+  "name": "Georgi Kirev",
+  "headline": "Embedded Software Engineer at Apple",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/georgi-kirev-17a2a7161",
+  "personId": 1387,
+  "classes": [
+    {
+      "id": 70,
+      "label": "Fall 2011",
+      "season": "Fall",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2011",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Georgi Kirev",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Embedded Software Engineer",
+      "company": "Apple",
+      "companyUrl": "https://www.linkedin.com/company/apple",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-06",
+      "end": null,
+      "dateRange": "Jun 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief Executive Officer",
+      "company": "embedded life UG",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-09",
+      "end": null,
+      "dateRange": "Sep 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Objective Software GmbH, Munich",
+      "companyUrl": null,
+      "description": "- Development of high-precision localization software components for autonomous driving\n- Team lead and scrum master",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-07",
+      "end": "2019-08",
+      "dateRange": "Jul 2018 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Chief Technology Officer",
+      "company": "abaut GmbH",
+      "companyUrl": "https://www.linkedin.com/company/abaut-gmbh",
+      "description": "- Development of IoT solutions for the construction industry\n- Embedded HW/SW codesign\n- IT infrastructure & backend development and maintenance\n- Team lead for the hardware / embedded software team",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-04",
+      "end": "2020-08",
+      "dateRange": "Apr 2018 – Aug 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Electrical, Electronics and Communications Engineering",
+      "dateRange": "2006 – 2013"
+    }
+  ],
+  "skills": [
+    "C (Programming Language)",
+    "CAN bus",
+    "Software Development",
+    "Debugging",
+    "Universal Asynchronous Receiver/Transmitter (UART)",
+    "C++",
+    "Python (Programming Language)",
+    "KiCAD",
+    "OrCAD",
+    "Docker Products",
+    "Printed Circuit Board (PCB) Design",
+    "Electrical Engineering",
+    "Embedded Software",
+    "Embedded Software Programming",
+    "Embedded Linux",
+    "Yocto Project",
+    "Scrum",
+    "Agile Methodologies",
+    "Linux System Administration",
+    "Business Development"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Apple",
+    "tagline": null,
+    "description": "We’re a diverse collective of thinkers and doers, continually reimagining what’s possible to help us all do what we love in new ways. And the same innovation that goes into our products also applies to our practices — strengthening our commitment to leave the world better than we found it. This is where your work can make a difference in people’s lives. Including your own.\n\nApple is an equal opportunity employer that is committed to inclusion and diversity. Visit apple.com/careers to learn more.",
+    "industry": "Computers and Electronics Manufacturing",
+    "website": "http://www.apple.com/careers",
+    "linkedInUrl": "https://www.linkedin.com/company/apple",
+    "employeeCount": 175960,
+    "foundedYear": 1976,
+    "location": "Cupertino, United States",
+    "specialities": [
+      "Innovative Product Development",
+      "World-Class Operations",
+      "Retail",
+      "Telephone Support"
+    ]
+  }
+}

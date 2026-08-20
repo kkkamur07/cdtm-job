@@ -1,0 +1,164 @@
+{
+  "id": "matteo-wohlrapp-989b87190",
+  "name": "Matteo Wohlrapp",
+  "headline": "CS @TUM | CDTM | Research @ Harvard, ETH | sdw",
+  "avatar": {
+    "sm": "/avatars/matteo-wohlrapp-989b87190-sm.webp",
+    "lg": "/avatars/matteo-wohlrapp-989b87190.webp",
+    "blur": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAADwBQCdASogACAAPtFepU6oJSMiKAqpABoJYwCo9YvYs3fEX/kB4KVSDTHlGcSsdLb0OyXIhUsOwAD++heOeihb7f+rXt1vNymX2zk6T7ywoLv/S/j5R86MKw+39vIDZtKbuzcvjG1mgWUqG7n49aAbTdykcfbPls0+rPv3r55yfBRc5TnogVK8gLKzz2nV64/WKAgh+5+5kQPncxqNq2uYtkUc/dINGlTNQt6xWd0rIKb6tD97ZhJQU6a8W1OXQatf/goC478/QNDAXYl0iOcLMw4R0pKJ4z9w7xJDlitNIs+/ino5di1uaX03sdli6SFddrGniUKgVNNwu9DuP6CF41lu5QDEAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/matteo-wohlrapp-989b87190",
+  "personId": 933,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Matteo Wohlrapp",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Researcher",
+      "company": "Dana-Farber Cancer Institute",
+      "companyUrl": "https://www.linkedin.com/company/dana-farber-cancer-institute",
+      "description": "Bias and generalization in generative AI tasks for medicine.",
+      "location": "Boston, Massachusetts, Vereinigte Staaten von Amerika",
+      "start": "2024-09",
+      "end": "2025-04",
+      "dateRange": "Sep 2024 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Helmholtz Munich",
+      "companyUrl": "https://www.linkedin.com/company/helmholtzmunich",
+      "description": "Domain generalization for biomedical images.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2024-03",
+      "end": "2024-07",
+      "dateRange": "Mar 2024 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Fraunhofer IKS",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-iks",
+      "description": "Quantum based optimization.",
+      "location": "München",
+      "start": "2022-10",
+      "end": "2023-04",
+      "dateRange": "Oct 2022 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Backend architecture and global load balancing for production software.",
+      "location": "Dublin, Grafschaft Dublin, Irland",
+      "start": "2022-05",
+      "end": "2022-08",
+      "dateRange": "May 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "JESTER",
+      "companyUrl": "https://www.linkedin.com/company/narrenfreiheit",
+      "description": "Growth strategies for retail, fashion, mobility, and steel.",
+      "location": "Berlin, Deutschland",
+      "start": "2022-02",
+      "end": "2022-04",
+      "dateRange": "Feb 2022 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Introduction to Software Engineering at the Chair of Applied Software Engineering.",
+      "location": null,
+      "start": "2021-04",
+      "end": "2021-09",
+      "dateRange": "Apr 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Envidual",
+      "companyUrl": "https://www.linkedin.com/company/envidual",
+      "description": "Cross-platform mobile applications.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-06",
+      "end": "2022-01",
+      "dateRange": "Jun 2020 – Jan 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "Visiting Researcher, Computer Science",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Visiting Researcher",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., Informatics",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc., Informatics",
+      "dateRange": "2019 – 2023"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Dana-Farber Cancer Institute",
+    "tagline": null,
+    "description": "Dana-Farber Cancer Institute is committed to providing expert, compassionate care to children and adults with cancer, while advancing the understanding, treatment, cure, and prevention of cancer and related diseases.",
+    "industry": "Hospitals and Health Care",
+    "website": "https://www.dana-farber.org/",
+    "linkedInUrl": "https://www.linkedin.com/company/dana-farber-cancer-institute",
+    "employeeCount": 8877,
+    "foundedYear": 1947,
+    "location": "Boston, United States",
+    "specialities": [
+      "Cancer research",
+      "Adult cancer treatment",
+      "AIDS research",
+      "Pediatric cancer treatment",
+      "Innovation",
+      "Research",
+      "Patient Services",
+      "Technology"
+    ]
+  }
+}

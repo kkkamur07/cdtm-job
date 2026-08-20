@@ -1,0 +1,283 @@
+{
+  "id": "charlotteschoellkopf",
+  "name": "Charlotte Schöllkopf",
+  "headline": "Double Major Data Science & Psychology | CDTM",
+  "avatar": {
+    "sm": "/avatars/charlotteschoellkopf-sm.webp",
+    "lg": "/avatars/charlotteschoellkopf.webp",
+    "blur": "data:image/webp;base64,UklGRjQBAABXRUJQVlA4ICgBAACQBgCdASogACAAPtFepEyoJaOiMBgIAQAaCWgAnTKEgNnQczHgl3HK2YM2+yOarL+2qTzWlmZDQQcCzciAAP782Ed+AcAKVKwXlDLltvu8aIrW96xHrieTrYlyYH9ZbpYshva+dqVW5swVHHsSWjHaV8srLHebYffeQM3fcscWMV78pd5JjMizsXB+MQN1vDbt8AzuW7Z2/fyL+/gs+ecEU6LdwGzqwNkhEOMZcI+M59Xoh6U5q/nLzrRZrSqJkpUpDQe4FFXmXuOFAIAiQ6gCfXHh4gCbfEnHCtBT0tY4EsQWAoj7lVsL1Udag9pfrl+X0DN8RxeDpo+0foyZAsh8Ejw6xRW/TIr/nhdeDHyPcieG1Bh4iDQabs5pl4QDycY6Dj/a8zSwAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/charlotteschoellkopf",
+  "personId": 2135,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Statistics and Data Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Charlotte Schöllkopf",
+  "ca": null,
+  "summary": "\"Quantifying uncertainty in academia, embracing it in real life.\" \nI'm passionate about the intersection of science-science & science communication, statistical embeddings of psychological theories and impact quantification. \nLet's chat about all things CDTM, Munich ecosystem, psychology and mental health, ethical AI and AI policy, or nerding out about statistics.",
+  "positions": [
+    {
+      "title": "Project Consultant",
+      "company": "EGYM",
+      "companyUrl": "https://www.linkedin.com/company/egym-global",
+      "description": "Project under entrepreneurship lab at CDTM, tackling strategic AI decisions and prototyping in the AI space.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-10",
+      "end": "2026-01",
+      "dateRange": "Oct 2025 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Founder's Associate Business Development",
+      "company": "trail",
+      "companyUrl": "https://www.linkedin.com/company/trail-ml",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-07",
+      "end": "2025-08",
+      "dateRange": "Jul 2024 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Analyst",
+      "company": "Innovis VC",
+      "companyUrl": "https://www.linkedin.com/company/innovisvc",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-04",
+      "end": "2025-05",
+      "dateRange": "Apr 2024 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Teacher",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Teaching Assistant for Statistics for Economics, teaching students from a non-statistics field all the necessary (hopefully) details needed to get a proper grip on statistics!",
+      "location": "München, Bayern, Deutschland",
+      "start": "2024-03",
+      "end": "2024-09",
+      "dateRange": "Mar 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Strategic Business Consultant",
+      "company": "TCW Management Consulting",
+      "companyUrl": "https://www.linkedin.com/company/tcwtransfer-centrum",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-10",
+      "end": "2024-07",
+      "dateRange": "Oct 2023 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Board Member",
+      "company": "Hub AI",
+      "companyUrl": "https://www.linkedin.com/company/hubai",
+      "description": "Advisory position with 10 other board members",
+      "location": "Lund, Skåne County, Sweden",
+      "start": "2022-10",
+      "end": "2024-09",
+      "dateRange": "Oct 2022 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Vice President",
+      "company": "Hub AI",
+      "companyUrl": "https://www.linkedin.com/company/hubai",
+      "description": null,
+      "location": "Lund, Skåne County, Sweden",
+      "start": "2022-10",
+      "end": "2023-09",
+      "dateRange": "Oct 2022 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "180 Degrees Consulting Lund",
+      "companyUrl": "https://www.linkedin.com/company/180-degrees-consulting-lund",
+      "description": "Working as a consultant with the Stockholm team of 180 Degrees Consulting for a Finnish multicultural organisation; tasks and objectives included a fundraising strategy, the definition of further recruitment processes, and a business partnership strategy",
+      "location": "Lund, Skåne County, Sweden",
+      "start": "2022-10",
+      "end": "2022-12",
+      "dateRange": "Oct 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "PR-Manager",
+      "company": "Hub AI",
+      "companyUrl": "https://www.linkedin.com/company/hubai",
+      "description": null,
+      "location": "Lund, Schonen, Schweden",
+      "start": "2021-10",
+      "end": "2022-10",
+      "dateRange": "Oct 2021 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Studentische Hilfskraft",
+      "company": "Universität Salzburg",
+      "companyUrl": "https://www.linkedin.com/company/universitaet-salzburg",
+      "description": "Mitarbeit an einer Studie unter dem Projekt \"Digital Motion\", Betreuung von Probandinnen, Datenakquise, Zusammenarbeit mit EPFL in Lausanne",
+      "location": "Salzburg-Umgebung, Salzburg, Österreich",
+      "start": "2020-10",
+      "end": "2020-12",
+      "dateRange": "Oct 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Wissenschaftliche Hilfskraft",
+      "company": "Universität Salzburg",
+      "companyUrl": "https://www.linkedin.com/company/universitaet-salzburg",
+      "description": null,
+      "location": "Salzburg, Österreich",
+      "start": "2020-08",
+      "end": "2020-10",
+      "dateRange": "Aug 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Leiter der PR-Abteilung",
+      "company": "ÖH - Österreichische Hochschüler_innenschaft",
+      "companyUrl": "https://www.linkedin.com/company/öh---österreichische-hochschüler_innenschaft",
+      "description": "Aufbau der Marketingstrategie der ÖH Salzburg, Betreuung aller Social Media Kanäle, eines YouTube Kanals, Podcasts, und Newsletter Marketing, Eventmanagement und -begleitung, Teamanagement des wachsenden PR Teams, Koordination von Aufgaben und Verantwortlichkeiten, politische Kommunikation.",
+      "location": "Salzburg, Österreich",
+      "start": "2019-09",
+      "end": "2021-08",
+      "dateRange": "Sep 2019 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Bedienung",
+      "company": "Sonnenalm Kampenwand",
+      "companyUrl": "https://www.linkedin.com/company/sonnenalm-kampenwand",
+      "description": null,
+      "location": "Aschau im Chiemgau, Bayern, Deutschland",
+      "start": "2017-10",
+      "end": "2019-11",
+      "dateRange": "Oct 2017 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Personal Trainerin",
+      "company": "Lifegym Fitnessmacher GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Planegg, Bayern, Deutschland",
+      "start": "2016-06",
+      "end": "2018-06",
+      "dateRange": "Jun 2016 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Büromitarbeiter",
+      "company": "Schoellkopf&Knadler Steuerberater und Wirtschaftsprüfer",
+      "companyUrl": null,
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-02",
+      "end": "2019-09",
+      "dateRange": "Feb 2015 – Sep 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2025"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Statistics and Data Science",
+      "dateRange": "2023 – 2026"
+    },
+    {
+      "school": "Powered by CDTM",
+      "degree": "Digital Changemaker Course",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Lund University",
+      "degree": "Master of Science - MS, Psychology",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Universität Salzburg",
+      "degree": "Master of Science - MS, Data Science",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Universität Salzburg",
+      "degree": "Bachelor of Science - BS, Psychologie",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Universität Salzburg",
+      "degree": "rhetoricum maius, Sprachkommunikation und Rhetorik",
+      "dateRange": "2018 – 2021"
+    }
+  ],
+  "skills": [
+    "Agentic Automation",
+    "Agentic AI Development",
+    "Consulting",
+    "Stakeholder Management",
+    "Business Process Improvement",
+    "Generative AI",
+    "Chatbot Development",
+    "Chatbot Testing",
+    "Business Ethics",
+    "Venture Capital",
+    "Networking",
+    "Pitch Development",
+    "Unterrichten",
+    "Hochschullehre",
+    "Marketing Strategy",
+    "Social Media Marketing",
+    "Leadership",
+    "Team Management",
+    "Communication",
+    "Strategy"
+  ],
+  "languages": [
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "EGYM",
+    "tagline": null,
+    "description": "EGYM is a global fitness technology company on a mission to shift healthcare from repair to prevention — equipping fitness and health facilities with smart, connected training solutions and employers with corporate wellness through EGYM Wellpass. \n\nEGYM is part of the Playlist portfolio of brands.",
+    "industry": "Wellness and Fitness Services",
+    "website": "https://us.egym.com/en-us",
+    "linkedInUrl": "https://www.linkedin.com/company/egym-global",
+    "employeeCount": 483,
+    "foundedYear": null,
+    "location": "Denver, United States",
+    "specialities": [
+      "Fully Electronic Strength Equipment",
+      "Open Cloud Platform",
+      "Online Workout Planning & Tracking",
+      "Training Analysis",
+      "Smart Trainer-Member Interaction"
+    ]
+  }
+}

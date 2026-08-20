@@ -1,0 +1,196 @@
+{
+  "id": "adrian-ziegler",
+  "name": "Adrian Ziegler",
+  "headline": "Co-Founder at CloudCruise (YC W24)",
+  "avatar": {
+    "sm": "/avatars/adrian-ziegler-sm.webp",
+    "lg": "/avatars/adrian-ziegler.webp",
+    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAABQBQCdASogACAAPtFepk6oJSMiKAqpABoJYwDNhYvEs2xog6CdQiWr6KFxP5p0xzK9ZQAA/vuiybJhZW/8hk76hiDfC6Q9kcY0xrsG9rd5cMSlNTdTl9VvLPSjcqE31rK1ciTUvyPS1M6vJpQ7bmwZ16zj4RuqQaLtwGxm4d/QWaadzAXgDpPBkXKpb/+VzEOmKpb6NTyobNr7/s+VPfHAgP3ZxAhAodBzS4bIjViS/fh1VOS6dMBXykdmihQRdgA="
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/adrian-ziegler",
+  "personId": 1118,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Mathematics in Data Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Adrian Ziegler",
+  "ca": null,
+  "summary": "building fast and reliable browser agents",
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "CloudCruise",
+      "companyUrl": "https://www.linkedin.com/company/cloudcruise",
+      "description": "The developer platform for fast and reliable browser agents.",
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate Product Manager",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "AI-powered content inspiration tools that served millions of creators on YouTube, streamlining the ideation process for video content development.",
+      "location": null,
+      "start": "2023-08",
+      "end": "2023-12",
+      "dateRange": "Aug 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Associate Product Manager Intern",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "YouTube Ads: Reporting and Simplification",
+      "location": null,
+      "start": "2022-06",
+      "end": "2022-09",
+      "dateRange": "Jun 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Deep Learning Engineer",
+      "company": "Presize (acq. by Meta)",
+      "companyUrl": "https://www.linkedin.com/company/presizeai",
+      "description": "Training models for virtual try-on.\nPresize was acquired by Meta in March 2022.",
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-03",
+      "dateRange": "Oct 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "Forto",
+      "companyUrl": "https://www.linkedin.com/company/fortocompany",
+      "description": "Early-phase product and tech work on Forto’s new carbon-neutral shipping offering.\nDesigned product prototypes and explored partnerships with offsetting and footprinting providers.",
+      "location": null,
+      "start": "2020-09",
+      "end": "2020-10",
+      "dateRange": "Sep 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Maltego",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": "Responsible for core data transformation modules of Maltego’s software.\nDeveloped pre-sales demos for our customers.",
+      "location": null,
+      "start": "2019-11",
+      "end": "2020-11",
+      "dateRange": "Nov 2019 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "company": "OPITZ CONSULTING Deutschland GmbH",
+      "companyUrl": "https://www.linkedin.com/company/opitz-consulting-deutschland-gmbh",
+      "description": "Created a proof of concept for a platform to search employees by their skills for optimal project assignment.\nTrained a classifier for sentiment analysis of Twitter posts reacting to recent news.",
+      "location": null,
+      "start": "2017-08",
+      "end": "2018-05",
+      "dateRange": "Aug 2017 – May 2018",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "IVU Traffic Technologies",
+      "companyUrl": "https://www.linkedin.com/company/ivu-traffic-technologies-ag",
+      "description": "Developed health monitoring software for our production systems\nCreated health status dashboards with Grafana and continuous integration tasks for our dev-teams",
+      "location": null,
+      "start": "2016-04",
+      "end": "2017-07",
+      "dateRange": "Apr 2016 – Jul 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Y Combinator",
+      "degree": null,
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Mathematics in Data Science",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Student Researcher",
+      "dateRange": "2022"
+    },
+    {
+      "school": "EPFL",
+      "degree": "SEMP Exchange, Computer Science",
+      "dateRange": "2020"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours, Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Hasso Plattner Institute",
+      "degree": "Bachelor’s Degree, IT-Systems Engineering",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "Louisiana State University",
+      "degree": "Entrepreneurship & Engineering",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Hasso Plattner Institute",
+      "degree": "Basic Track, Design Thinking",
+      "dateRange": "2017 – 2018"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Java",
+    "C",
+    "Machine Learning",
+    "Software Development",
+    "Quality Assurance",
+    "Python",
+    "Jenkins",
+    "Continuous Integration"
+  ],
+  "languages": [
+    "Swahili",
+    "German",
+    "Spanish",
+    "English"
+  ],
+  "company": {
+    "name": "CloudCruise",
+    "tagline": "The developer platform for fast and reliable browser agents",
+    "description": "Build healthcare browser automations faster. Run self-healing payer portal and EHR workflows on fully managed infrastructure.",
+    "industry": "Software Development",
+    "website": "https://www.cloudcruise.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/cloudcruise",
+    "employeeCount": 3,
+    "foundedYear": 2024,
+    "location": null,
+    "specialities": []
+  }
+}

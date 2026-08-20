@@ -1,0 +1,168 @@
+{
+  "id": "jan-bodenbach",
+  "name": "Jan Bodenbach",
+  "headline": "Co-Founder @HospiChef | We are hiring",
+  "avatar": {
+    "sm": "/avatars/jan-bodenbach-sm.webp",
+    "lg": "/avatars/jan-bodenbach.webp",
+    "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBQCdASogACAAPtFYpEyoJSOiKA1RABoJYwC7MwnMDpYaY9hD+zFiy9mFs/nM5ut7WhXBtvgA/v0sV7lOe3uQtK4Ah6n8+z8+/TXfFHzRs71FuRyXskDVb0IiL2N13ipm1ysFXUPiehiQIOGdBgxrsob5agLvceeoEegQEvwx5tn3nZJ1wklNccVPKSLsy9DOlPTOMjgAMsxi6d61cLeCRzjq9jn0jS8zpfXZh1ZAHet2AAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jan-bodenbach",
+  "personId": 1075,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "M.Sc. Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Jan-Malte Bodenbach",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "HospiChef",
+      "companyUrl": "https://www.linkedin.com/company/hospichef",
+      "description": "With HospiChef we bring food intelligence to hospitals.",
+      "location": "Munich",
+      "start": "2022-04",
+      "end": null,
+      "dateRange": "Apr 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Project Development",
+      "company": "10x Founders",
+      "companyUrl": "https://www.linkedin.com/company/10x-founders",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Rocket Internet",
+      "companyUrl": "https://www.linkedin.com/company/rocket-internet-se",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Consulting",
+      "company": "Oliver Wyman",
+      "companyUrl": "https://www.linkedin.com/company/oliver-wyman",
+      "description": null,
+      "location": "Amsterdam, Netherlands",
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Business Development & Sales (now: Forto)",
+      "company": "FreightHub GmbH",
+      "companyUrl": "https://www.linkedin.com/company/fortocompany",
+      "description": "▪ Co-developed the B2B sales strategy of one of Europe’s fastest growing startups with top-line growth targets of more than 20% monthly in close collaboration with the CCO \n▪ Qualified and converted leads into paying customers and managed accounts  of amazon sellers (FBA)   \n▪ Implemented a lead & fair management system resulting in an additional €0.5 million in revenues per year",
+      "location": "Berlin, Germany",
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management and Technology",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "WHU – Otto Beisheim School of Management",
+      "degree": "Bachelor of Science - BS, International Business Administration and Management",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Computer Science",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Bucerius Law School",
+      "degree": "Wirtschaftsrecht, Law",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Stockholm School of Economics",
+      "degree": "Bachelor of Science - BS",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Max-Born-Gymnasium Neckargemünd",
+      "degree": "Abitur",
+      "dateRange": "2007 – 2015"
+    }
+  ],
+  "skills": [
+    "Teamwork",
+    "Unternehmertum",
+    "Microsoft Office",
+    "Projektmanagement",
+    "Strategie",
+    "Unternehmensstrategie",
+    "Finanzwesen",
+    "Analytische Fähigkeiten",
+    "Consulting",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Microsoft Word",
+    "Salesforce",
+    "Management",
+    "Englisch"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "HospiChef",
+    "tagline": "Das Menübestellsystem für die moderne Klinik.",
+    "description": "Unser Ziel ist es, dem Krankenhauspersonal mehr Zeit für das Wesentliche zu geben, die Lebensmittelverschwendung zu reduzieren und zu einem angenehmen Patientenerlebnis beizutragen.",
+    "industry": "Hospitals and Health Care",
+    "website": "http://www.hospichef.com",
+    "linkedInUrl": "https://www.linkedin.com/company/hospichef",
+    "employeeCount": 8,
+    "foundedYear": 2022,
+    "location": "München, Germany",
+    "specialities": [
+      "Verpflegung",
+      "Software",
+      "Krankenhausessen",
+      "Digital Health",
+      "Food Intelligence"
+    ]
+  }
+}

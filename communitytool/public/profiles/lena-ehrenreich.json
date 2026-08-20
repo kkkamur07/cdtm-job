@@ -1,0 +1,260 @@
+{
+  "id": "lena-ehrenreich",
+  "name": "Lena Ehrenreich",
+  "headline": "TUM | UC Berkeley | Cambridge | CDTM | Academy Consult | Heinrich-Böll-Scholarship",
+  "avatar": {
+    "sm": "/avatars/lena-ehrenreich-sm.webp",
+    "lg": "/avatars/lena-ehrenreich.webp",
+    "blur": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAADQBQCdASogACAAPtFWoUuoJKMhsBgMAQAaCWIAyNWMFS27yRJKKEctvna/z+9pd7CovpbV8lmAAP7XC3m0+96y0gsbZ+Y33IUrt6dm/hu0kR3Rp/YxoGN8S0mVqbPbRxuue1Cl1eiz8Ui1a/a7jodpnkz8facIl4PzG7wdCcXsrMFogGOfe5fHBsh7WJNARygl6JbYjAki/W9dWuEOc55eWzpSeQRe0suStKlgw8/at/xj2ieicL3r8NMcLnrPJxpeGjAe/B0JU/YNqgat2tRW0J5AAA=="
+  },
+  "location": "San Francisco Bay, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/lena-ehrenreich",
+  "personId": 2072,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Architecture",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lena Ehrenreich",
+  "ca": null,
+  "summary": "Merging Engineering and Technology, Science and Entrepreneurship.",
+  "positions": [
+    {
+      "title": "team lead I Quality Management (Technology and Process Management)",
+      "company": "Academy Consult München",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": "team lead of Quality Management (Technology and Process Management)",
+      "location": null,
+      "start": "2025-04",
+      "end": "2025-08",
+      "dateRange": "Apr 2025 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "engineer and business analyst (DeepTech Startup)",
+      "company": "ILLUTHERM GmbH",
+      "companyUrl": "https://www.linkedin.com/company/illutherm-gmbh",
+      "description": "prototype engineering of a disruptive technology of low & high temperature applications in material science",
+      "location": null,
+      "start": "2025-04",
+      "end": "2025-08",
+      "dateRange": "Apr 2025 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Academy Consult München",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": "focus on strategy, accelerators, and the startup ecosystem",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-10",
+      "end": "2025-08",
+      "dateRange": "Oct 2024 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "LIGNUM circular timber industry",
+      "companyUrl": "https://www.linkedin.com/company/lignum-circulartimberindustry",
+      "description": "founder of LIGNUM circular timber industry\n\nan intelligent navigation layer for the timber sector and its´ stakeholders",
+      "location": "Sydney, New South Wales, Australia",
+      "start": "2023-10",
+      "end": "2024-03",
+      "dateRange": "Oct 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "product development I partnerships",
+      "company": "nkm Naturkosmetik München GmbH",
+      "companyUrl": "https://www.linkedin.com/company/nkm-naturkosmetik-muenchen-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2021-06",
+      "end": "2021-07",
+      "dateRange": "Jun 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Marketing Innovation & Digital Content Strategist",
+      "company": "nkm Naturkosmetik München GmbH",
+      "companyUrl": "https://www.linkedin.com/company/nkm-naturkosmetik-muenchen-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2021-05",
+      "end": "2021-11",
+      "dateRange": "May 2021 – Nov 2021",
+      "current": false
+    },
+    {
+      "title": "Market Expansion (EU) & Internationalization Strategy",
+      "company": "nkm Naturkosmetik München GmbH",
+      "companyUrl": "https://www.linkedin.com/company/nkm-naturkosmetik-muenchen-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-04",
+      "dateRange": "Jan 2021 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "GTM Execution & Cross-Functional Launch Support",
+      "company": "nkm Naturkosmetik München GmbH",
+      "companyUrl": "https://www.linkedin.com/company/nkm-naturkosmetik-muenchen-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2020-06",
+      "end": "2021-01",
+      "dateRange": "Jun 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Architectural internship",
+      "company": "Grassinger Emrich Architekten GmbH",
+      "companyUrl": "https://www.linkedin.com/company/grassinger-emrich-architekten-gmbh",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-02",
+      "end": "2020-03",
+      "dateRange": "Feb 2020 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Internal Knowledge Infrastructure Builder (Wiki & Onboarding)",
+      "company": "nkm Naturkosmetik München GmbH",
+      "companyUrl": "https://www.linkedin.com/company/nkm-naturkosmetik-muenchen-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-07",
+      "dateRange": "Jan 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Retail Advisory Enablement & Client Experience Analyst",
+      "company": "nkm Naturkosmetik München GmbH",
+      "companyUrl": "https://www.linkedin.com/company/nkm-naturkosmetik-muenchen-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-06",
+      "dateRange": "Jan 2020 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Founders associate",
+      "company": "nkm Naturkosmetik München GmbH",
+      "companyUrl": "https://www.linkedin.com/company/nkm-naturkosmetik-muenchen-gmbh",
+      "description": "founders associate of the start up CEO & Co-founder Mareike Peters (Forbes 30 under 30)\n\nprojects in following fields: \nconceptualizing internal logistics, quantifying retail costumer advising, implementing client counseling systems, implementing new marketing strategies, partnership acquisition (dermatological approvement) for product development, process of internationalization into the european union, creating internal dermatological and product related wiki",
+      "location": null,
+      "start": "2019-09",
+      "end": "2021-12",
+      "dateRange": "Sep 2019 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Internal Operations & Logistics Strategy",
+      "company": "nkm Naturkosmetik München GmbH",
+      "companyUrl": "https://www.linkedin.com/company/nkm-naturkosmetik-muenchen-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2019-09",
+      "end": "2020-01",
+      "dateRange": "Sep 2019 – Jan 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "visiting student",
+      "dateRange": "2026"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "researcher, Engineering and Processes",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree Technology Management",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Architecture - MArch",
+      "dateRange": "2024"
+    },
+    {
+      "school": "The University of Queensland",
+      "degree": "Master courses of Architectural Engineering, Management, Data analytics and UX Design",
+      "dateRange": "2023"
+    },
+    {
+      "school": "TUM School of Management",
+      "degree": "Bachelor of Technology & Management",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Architecture (240 ECTS)",
+      "dateRange": "2020"
+    },
+    {
+      "school": "Oskar-von-Miller Gymnasium",
+      "degree": "Abitur",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Software Design",
+    "Business Strategy",
+    "AI Engineering",
+    "computational architecture",
+    "Computational Design",
+    "robotic fabrication",
+    "Project Management",
+    "UX Design",
+    "Business Concept Development",
+    "Real Estate Economics",
+    "Python (Programming Language)",
+    "parametric programming",
+    "BIM Modelling",
+    "robotical engineering",
+    "Chemical Formulation",
+    "partnership acquisition",
+    "Campaign Strategy Development",
+    "Creative Direction",
+    "Digital Marketing",
+    "Market Research"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Academy Consult München",
+    "tagline": "Unkonventionell.\nInnovativ.\nInterdisziplinär.",
+    "description": "Als Studentische Unternehmensberatung in München vermittelt Academy Consult Beratungsprojekte an seine Mitglieder mit dem Ziel, Engagement neben der universitären Ausbildung zu fördern. Unsere Mitglieder setzen sich aus Studenten aller Münchener Hochschulen zusammen, die bei uns die Möglichkeit wahrnehmen, ihr in der Universität erworbenes Wissen in der Praxis anzuwenden und Herausforderungen zu meistern. In enger Zusammenarbeit mit Unternehmen entwickeln wir erfolgsorientierte Konzepte, die unseren Kunden strategisch und operativ helfen, ihre Position nachhaltig zu festigen und auszubauen.\r\n\r\nDurch die Vermittlung und Betreuung von Beratungsprojekten an Studenten bilden wir die Brücke zwischen wissenschaftlicher Ausbildung und Wirtschaft.\r\n\r\nSo erhalten unsere Mitglieder die Möglichkeit, schon während des Studiums praktische Erfahrung in den unterschiedlichsten Branchen zu sammeln. Ferner ermöglichen wir den Studenten, Kontakt zu interessanten Unternehmen aufzubauen. Auf diese Weise lernen Firmen über uns engagierte Studenten und Doktoranden aus allen Fachrichtungen kennen.\r\n\r\nEin nicht zu vernachlässigendes Ziel von Academy Consult ist es, die Ausbildung unserer Mitglieder nach allen Kräften zu fördern. Neben den für alle Mitglieder verpflichtenden Basisschulungen, veranstalten wir in Kooperation mit unseren Kuratoren und weiteren Unternehmen anspruchsvolle Schulungen und Workshops – exklusiv für Academy Consult.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.academyconsult.de",
+    "linkedInUrl": "https://www.linkedin.com/company/academy-consult",
+    "employeeCount": 93,
+    "foundedYear": 1999,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

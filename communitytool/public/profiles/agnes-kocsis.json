@@ -1,0 +1,163 @@
+{
+  "id": "agnes-kocsis",
+  "name": "Agnes Kocsis",
+  "headline": "Stealth | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/agnes-kocsis-sm.webp",
+    "lg": "/avatars/agnes-kocsis.webp",
+    "blur": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAAAwBgCdASogACAAPr1SnkunJSKht/qoAOAXiWQArAGMASozmMoSFi0j7dLdbbZst0uHzhnAWvY3/BsAAP7+e3Hx1SKYzzPv3u9iqEwBVw3T1n+qwsA+0QQ9Rx6NRtytx679cosXI+20i7PULqCYAUhNftYynW9KzeSgmt1SclHoDr//lEbluL17hiU1LwGjzIqaXQU+5uLBxzkgZzQReOvKg7NejZ4zi31hXJxcn11O7BYIOIqFbHoMXkexH01FioQlcWf47AxE6+8cEv9v8QEpcaq8c64sv36LsVT43295OiBAXzLJd7AyfJKoi1Ry+sZM0t62yPlRGjn41TcxMk+AvbVjZR6AAAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/agnes-kocsis",
+  "personId": 1229,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Agnes Kocsis",
+  "ca": null,
+  "summary": "GM!",
+  "positions": [
+    {
+      "title": "BD",
+      "company": "Stealth Startup",
+      "companyUrl": "https://www.linkedin.com/company/stealth-startup-community",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Freelance",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2021-06",
+      "end": "2023-12",
+      "dateRange": "Jun 2021 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Analyst",
+      "company": "Novaspace",
+      "companyUrl": "https://www.linkedin.com/company/novaspace-leadingconsulting",
+      "description": null,
+      "location": null,
+      "start": "2019-09",
+      "end": "2021-04",
+      "dateRange": "Sep 2019 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Risk Analyst",
+      "company": "Morgan Stanley",
+      "companyUrl": "https://www.linkedin.com/company/morgan-stanley",
+      "description": null,
+      "location": null,
+      "start": "2016-07",
+      "end": "2018-06",
+      "dateRange": "Jul 2016 – Jun 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Operations Research",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Corvinus University of Budapest",
+      "degree": null,
+      "dateRange": "2014 – 2017"
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Microsoft Office",
+    "Python (Programming Language)",
+    "German",
+    "English",
+    "Finance",
+    "Analytical Skills",
+    "Financial Analysis",
+    "Market Research",
+    "Google Analytics",
+    "Advertising",
+    "Project Management",
+    "Product Management",
+    "Lean Startup",
+    "User Experience",
+    "Data Analysis",
+    "Agile Methodologies",
+    "Microsoft Outlook",
+    "Design Thinking",
+    "Scrum",
+    "Risk Management",
+    "MailChimp",
+    "R",
+    "Visual Basic for Applications (VBA)",
+    "Stata",
+    "Lean Six Sigma",
+    "A/B Testing",
+    "Figma (Software)",
+    "Financial Risk",
+    "User Research",
+    "Adobe Premiere Pro",
+    "Social Listening",
+    "Blockchain",
+    "Russian",
+    "Cryptocurrency",
+    "Solidity",
+    "AnyLogic",
+    "Cryptocurrency Trading",
+    "Decentralized Finance",
+    "Decentralized Applications (DApps)",
+    "Gurobi",
+    "Hungarian",
+    "Lean Start-Up",
+    "Jira",
+    "Lean Start-Up"
+  ],
+  "languages": [
+    "German",
+    "Hungarian",
+    "English",
+    "Russian"
+  ],
+  "company": {
+    "name": "Stealth Startup",
+    "tagline": null,
+    "description": "A network for entrepreneurs building in stealth. \n\nSubmit your information here so investors can find you:\nharmonic.ai/get-discovered",
+    "industry": "Technology, Information and Internet",
+    "website": "https://harmonic.ai/get-discovered",
+    "linkedInUrl": "https://www.linkedin.com/company/stealth-startup-community",
+    "employeeCount": 33008,
+    "foundedYear": null,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

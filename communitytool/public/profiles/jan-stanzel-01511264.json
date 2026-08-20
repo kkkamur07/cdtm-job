@@ -1,0 +1,126 @@
+{
+  "id": "jan-stanzel-01511264",
+  "name": "Jan Stanzel",
+  "headline": "Industrial Control · Reliable Embedded Systems & Electronics · Modern Interfaces & IoT | Managing Director",
+  "avatar": null,
+  "location": "Bessenbach, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jan-stanzel-01511264",
+  "personId": 1942,
+  "classes": [
+    {
+      "id": 68,
+      "label": "Fall 2010",
+      "season": "Fall",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2010",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jan Stanzel",
+  "ca": null,
+  "summary": "Reliable machines need reliable control — I design industrial systems that just work.\nWith a background in computer science, I combine embedded systems, electronics, firmware, and modern interfaces to deliver durable, practical solutions.\n\nAs Managing Director, I focus on understanding customer needs first: we deliver hardware, software, and IoT features that are reliable and maintainable. With my small, focused team, we handle projects from concept to fully integrated solution.",
+  "positions": [
+    {
+      "title": "Managing Director",
+      "company": "STEHA-Elektronik GmbH",
+      "companyUrl": "https://www.linkedin.com/company/steha-elektronik-gmbh",
+      "description": "Design of bespoke electronic control systems for industrial machines",
+      "location": "Frankfurt am Main Area, Germany",
+      "start": "2022-11",
+      "end": null,
+      "dateRange": "Nov 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Embedded Systems Engineer",
+      "company": "STEHA-Elektronik GmbH",
+      "companyUrl": "https://www.linkedin.com/company/steha-elektronik-gmbh",
+      "description": "Design & implementation of industrial embedded systems",
+      "location": "Frankfurt am Main Area, Germany",
+      "start": "2015-01",
+      "end": "2022-11",
+      "dateRange": "Jan 2015 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "payworks GmbH",
+      "companyUrl": "https://www.linkedin.com/company/payworks-gmbh",
+      "description": "Startup IT processes consulting (design & implementation of backup, team collaboration, logging etc. systems)",
+      "location": null,
+      "start": "2012-12",
+      "end": "2013-08",
+      "dateRange": "Dec 2012 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Mobile & Systems Engineer",
+      "company": "Contigua GmbH",
+      "companyUrl": "https://www.linkedin.com/company/10stamps-contigua-gmbh",
+      "description": "Startup server administration (MongoDB & Node.js; redundant, scalable and failover capable cloud infrastructure) and mobile development (10stamps App for Android and iOS)",
+      "location": null,
+      "start": "2011-07",
+      "end": "2012-11",
+      "dateRange": "Jul 2011 – Nov 2012",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "attempto GmbH & Co. KG",
+      "companyUrl": "https://www.linkedin.com/company/attempto-gmbh-co-kg",
+      "description": "Working student for server administration and web development",
+      "location": null,
+      "start": "2007-12",
+      "end": "2011-09",
+      "dateRange": "Dec 2007 – Sep 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Visiting scholar at Columbia Business School",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Prague City University",
+      "degree": "Master's Degree, Computing",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor’s Degree, Computer Science",
+      "dateRange": "2007 – 2010"
+    }
+  ],
+  "skills": [
+    "Product Development",
+    "Software Engineering",
+    "Software Development",
+    "Architecture",
+    "Java",
+    "Mobile Applications",
+    "SQL",
+    "HTML",
+    "Programming"
+  ],
+  "languages": [
+    "Czech",
+    "English"
+  ],
+  "company": null
+}

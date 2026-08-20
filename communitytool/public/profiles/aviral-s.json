@@ -1,0 +1,173 @@
+{
+  "id": "aviral-s",
+  "name": "Aviral S.",
+  "headline": "CDTM | TUM | Cambridge",
+  "avatar": {
+    "sm": "/avatars/aviral-s-sm.webp",
+    "lg": "/avatars/aviral-s.webp",
+    "blur": "data:image/webp;base64,UklGRggBAABXRUJQVlA4IPwAAADwBQCdASogACAAPtFcp04oJSOiKAqpABoJQAEDSdACzd7Va+JHBJOJP0Qkkb3DwYwJbWW0rMLsQAD++s8suOHQtmXyk2cfEu54b0SQD2fPE+vhJNzdVxbdGxm6ZPsVufWtQLVeY2xovRf+3YWkk71QiZG8KXwIRC0CwXr0y9uMJSxiUl310vSRMZn88GhSnle1rdgFgOKILmsrxvp+sNZnhrB9fGPNywkVo5I/t/aHS++fTjz8kFQAF+gQ8+VdMvQgJFjQKJlABpyT9gyLoAy1rG1Y+uFCPKBI9tOkSslLBaqpqHiUgqRaXd5JZSFvzFZ8bZ9eLlomcSrtiAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/aviral-s",
+  "personId": 935,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Mechanical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Aviral Shrivastava",
+  "ca": null,
+  "summary": "Aviral orchestrates the systems, people, and processes that keep research moving from lab to market.",
+  "positions": [
+    {
+      "title": "Founder's Associate - Research",
+      "company": "Aleph Alpha",
+      "companyUrl": "https://www.linkedin.com/company/aleph-alpha",
+      "description": null,
+      "location": "Heidelberg, Baden-Württemberg, Germany",
+      "start": "2025-08",
+      "end": "2025-12",
+      "dateRange": "Aug 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "ecoplanet",
+      "companyUrl": "https://www.linkedin.com/company/ecoplanet-green-operations",
+      "description": "Shaped and vibe-coded a tool to assist manufacturers in scheduling energy-heavy processes.",
+      "location": null,
+      "start": "2024-10",
+      "end": "2025-02",
+      "dateRange": "Oct 2024 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Sales Strategist",
+      "company": "Manex AI",
+      "companyUrl": "https://www.linkedin.com/company/manex-ai",
+      "description": "Set up HubSpot and built a slick outreach pipeline to help engage engineering clients effectively.",
+      "location": null,
+      "start": "2024-04",
+      "end": "2024-08",
+      "dateRange": "Apr 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Research Fellow",
+      "company": "Forto",
+      "companyUrl": "https://www.linkedin.com/company/fortocompany",
+      "description": "Explored tech trends shaping the seas and turned big shifts in shipping into bold business ideas.",
+      "location": null,
+      "start": "2023-07",
+      "end": "2023-09",
+      "dateRange": "Jul 2023 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Venture Clienting Analyst",
+      "company": "Deloitte",
+      "companyUrl": "https://www.linkedin.com/company/deloitte",
+      "description": "Scouted startups to solve OEM challenges and translate operational gaps into tech-driven opportunities.",
+      "location": null,
+      "start": "2022-12",
+      "end": "2023-07",
+      "dateRange": "Dec 2022 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Student Researcher",
+      "company": "Institut für Werkzeugmaschinen und Betriebswissenschaften, TUM",
+      "companyUrl": "https://www.linkedin.com/company/iwb-tum",
+      "description": "Trained a CNN to monitor welds in situ by classifying weld pool features via image contrast analysis.",
+      "location": null,
+      "start": "2020-10",
+      "end": "2021-03",
+      "dateRange": "Oct 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Shop Floor Intern",
+      "company": "Dürr Group",
+      "companyUrl": "https://www.linkedin.com/company/durr-group",
+      "description": "Got my hands dirty learning to weld, drill, file and solder with real tools on the factory floor.",
+      "location": null,
+      "start": "2018-08",
+      "end": "2018-09",
+      "dateRange": "Aug 2018 – Sep 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Research Stay, Institute for Manufacturing (IfM)",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Master (Honours) - Elite Graduate Program, Technology Management",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master - Elite Graduate Program, Responsibility in Science, Engineering and Technology (RESET)",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor, Mechanical Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Technische Universität Berlin",
+      "degree": "Studienkolleg, Technical Pre-Study Course",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Python (Programmiersprache)",
+    "C (Programmiersprache)",
+    "Matlab",
+    "Bildverarbeitung",
+    "HTML",
+    "Autodesk Inventor",
+    "Soft Skills",
+    "MySQL"
+  ],
+  "languages": [
+    "Deutsch",
+    "English",
+    "Hindi"
+  ],
+  "company": {
+    "name": "Aleph Alpha",
+    "tagline": "Master your sovereign AI transformation into a new era of knowledge work.",
+    "description": "Aleph Alpha delivers cutting-edge AI innovation from research to deployment. Our full-stack solution, PhariaAI, enables enterprises and public institutions to build sovereign, secure, and trustworthy applications – without compromising control.",
+    "industry": "Technology, Information and Internet",
+    "website": "http://www.aleph-alpha.com",
+    "linkedInUrl": "https://www.linkedin.com/company/aleph-alpha",
+    "employeeCount": 350,
+    "foundedYear": 2019,
+    "location": "Heidelberg, Germany",
+    "specialities": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "LLM",
+      "Specialized Language Models"
+    ]
+  }
+}

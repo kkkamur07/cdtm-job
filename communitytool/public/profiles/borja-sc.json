@@ -1,0 +1,168 @@
+{
+  "id": "borja-sc",
+  "name": "Borja Sánchez Clemente",
+  "headline": "TUM | CDTM | Global Shaper WEF",
+  "avatar": {
+    "sm": "/avatars/borja-sc-sm.webp",
+    "lg": "/avatars/borja-sc.webp",
+    "blur": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAADwBQCdASogACAAPtFYpUyoJSOiKA1RABoJZQDNwdwLfslu5jNLtBad+10+KlbU1gH9q8D2wewQAAD++hR23Ij8L+Livfce+Jv/K+26SVzpkLuVLK5LXSI030WF+0uI9F1U/CsfUmDOoMQe40KUKlZd1pTvhru6t3mTmexlp1/H+HqQWr0Ja2vYW/aUjceicKV8R08j7ONbgAWsAZhIZtTZHJexjaOFBCm3EyD+KEjH6Pbxdx0uw1zYLF5m2vgnZDG8p4sydmbjp3CVs2QDFkyKIiXErejjcHldnRfYZeJgAAAA"
+  },
+  "location": "Tokyo, Japan",
+  "linkedInUrl": "https://www.linkedin.com/in/borja-sc",
+  "personId": 1071,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "BS. Biomedical Engineering and M.Sc. Biomedical Computing",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Borja Sánchez Clemente",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "AI Group Product Manager",
+      "company": "Rakuten",
+      "companyUrl": "https://www.linkedin.com/company/rakuten",
+      "description": null,
+      "location": "Tokyo, Japan",
+      "start": "2023-06",
+      "end": null,
+      "dateRange": "Jun 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief Product Officer, Board Member",
+      "company": "Custom Surgical",
+      "companyUrl": "https://www.linkedin.com/company/customsurgical",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2020-01",
+      "end": "2023-06",
+      "dateRange": "Jan 2020 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Instituto Cajal, CSIC",
+      "companyUrl": "https://www.linkedin.com/company/instituto-cajal-csic",
+      "description": null,
+      "location": "Madrid Area, Spain",
+      "start": "2017-11",
+      "end": "2018-07",
+      "dateRange": "Nov 2017 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "Biomedical Engineer",
+      "company": "Protheus Technologies",
+      "companyUrl": "https://www.linkedin.com/company/protheus",
+      "description": null,
+      "location": "Madrid Area, Spain",
+      "start": "2017-10",
+      "end": "2018-03",
+      "dateRange": "Oct 2017 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Engineering Intern",
+      "company": "Adaptix Ltd",
+      "companyUrl": "https://www.linkedin.com/company/adaptixltd",
+      "description": null,
+      "location": "Oxford, United Kingdom",
+      "start": "2017-05",
+      "end": "2017-10",
+      "dateRange": "May 2017 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Neuroscience Researcher",
+      "company": "UC Irvine",
+      "companyUrl": "https://www.linkedin.com/company/university-of-california-irvine",
+      "description": null,
+      "location": "Greater Los Angeles Area",
+      "start": "2016-01",
+      "end": "2016-06",
+      "dateRange": "Jan 2016 – Jun 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor's Degree in Technology Management",
+      "dateRange": "2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Universidad Carlos III de Madrid",
+      "degree": "Bachelor's degree, Biomedical/Medical Engineering",
+      "dateRange": "2013 – 2018"
+    },
+    {
+      "school": "FH Technikum Wien",
+      "degree": "Master's degree, Biomedical/Medical Engineering",
+      "dateRange": "2016"
+    },
+    {
+      "school": "UC Irvine",
+      "degree": "Bachelor of Science - BS, Biomedical/Medical Engineering",
+      "dateRange": "2015 – 2016"
+    }
+  ],
+  "skills": [
+    "Python (Programming Language)",
+    "Research and Development (R&D)",
+    "Machine learning",
+    "User research",
+    "Entrepreneurship",
+    "Critical thinking"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Rakuten",
+    "tagline": null,
+    "description": "Rakuten Group, Inc. (TSE: 4755) is a global technology leader in services that empower individuals, communities, businesses and society. Founded in Tokyo in 1997 as an online marketplace, Rakuten has expanded to offer services in e-commerce, fintech, digital content and communications to 2 billion members around the world. The Rakuten Group has more than 30,000 employees, and operations in 30 countries and regions. For more information visit https://global.rakuten.com/corp/.",
+    "industry": "Software Development",
+    "website": "https://global.rakuten.com/corp/",
+    "linkedInUrl": "https://www.linkedin.com/company/rakuten",
+    "employeeCount": 11152,
+    "foundedYear": null,
+    "location": "Setagaya-ku, Japan",
+    "specialities": [
+      "E-commerce (Rakuten Ichiba, Rakuten Books...)",
+      "Card & Payments",
+      "Life & Leisure support services",
+      "Communications & Energy & Mobile",
+      "Investment",
+      "Sports",
+      "Digital Contents",
+      "Open EC, AD, Affiliate",
+      "Securities",
+      "Bank",
+      "Insurance",
+      "Travel",
+      "Mobile",
+      "Mobile Network Operator",
+      "Telecommunications",
+      "Artificial Intelligence"
+    ]
+  }
+}

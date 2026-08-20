@@ -1,0 +1,149 @@
+{
+  "id": "milos-rusic",
+  "name": "Milos Rusic",
+  "headline": "Co-Founder & CEO bei deepset",
+  "avatar": {
+    "sm": "/avatars/milos-rusic-sm.webp",
+    "lg": "/avatars/milos-rusic.webp",
+    "blur": "data:image/webp;base64,UklGRh4BAABXRUJQVlA4IBIBAACwBgCdASogACAAPsVSo0unpKMhsAwA8BiJbACdM3a6sIIsAkDRb/fH8TICLVTWoUODGORkZ5JNT+TKZdpLiAD+qMpP8Y9HczciuOYlOnISxnfrphrT1pcdl3Ptq3H6hmP37b9YuHTWXFzDzRXGiDXmSnCV+oDxsdgT37RxnMpOubG+w7L8sTlDE5dppko3fr8uugcPdVBguOywXHdptcFA6o5zf84dfK5b5iWGVc4XkR6fGr8WS/bc52XURxuvEFThPq7rc8opyMCiyl1q0uHhoTbz5gyrMxTnTScizGxqJ2RC9o/UYdHyKXwrf0pw+7yEsCL5wtS27OTqTClerk0C4QLltVszeV0NJO8RbJGYAAAA"
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/milos-rusic",
+  "personId": 1128,
+  "classes": [
+    {
+      "id": 72,
+      "label": "Fall 2012",
+      "season": "Fall",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2012",
+  "major": "Technical and Management oriented Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Milos Rusic",
+  "ca": null,
+  "summary": "Co-founder of deepset, the company behind Haystack (https://github.com/deepset-ai/haystack), one of the leading open-source projects for AI and LLM application building used by companies like NVIDIA, Intel. With deepset, we always focused on bringing language AI and NLP to enterprises. Since 2018 we have been serving leading global organizations like Siemens, Airbus, Infineon, and grew deepset without investors into a profitable company. We raised venture capital for the first time in 2021 to grow Haystack and our commercial offerings. Backed by GV, Balderton, Emil Eifrem, Mustafa Suleyman, Alex Ratner, System.one, Lunar Ventures, Harpoon Ventures, Acequia Capital, Tiny.VC. Team members and customers in Europe and the US, community in all parts of the world.",
+  "positions": [
+    {
+      "title": "Venture Partner",
+      "company": "Tiny Supercomputer Investment Company",
+      "companyUrl": "https://www.linkedin.com/company/tinyvc",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & CEO",
+      "company": "deepset",
+      "companyUrl": "https://www.linkedin.com/company/deepset-ai",
+      "description": null,
+      "location": "Berlin und Umgebung, Deutschland",
+      "start": "2018-09",
+      "end": null,
+      "dateRange": "Sep 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Director of Market Development",
+      "company": "KONUX",
+      "companyUrl": "https://www.linkedin.com/company/konux",
+      "description": "By combining the expertise of skilled engineers and the creative entrepreneurship of a dynamic team, KONUX opens up new paths in condition monitoring and predictive maintenance. We help industrial companies reduce maintenance costs and increase network capacity by providing them with smart sensor solutions and AI-based analytics.\n\nWorking at KONUX means being part of a high-performance engineering environment where real problems are solved, and real products are built. Are you eager to be creative and to apply and expand your area of expertise? You aspire to take on responsibilities and want to be part of one of the fastest growing AI startups? In this case, do not hesitate to contact me: milos@konux.com",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2016-05",
+      "end": "2018-09",
+      "dateRange": "May 2016 – Sep 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student, Information Systems, Entrepreneurial Strategy",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Finance and Information Management",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Norwegian School of Economics (NHH)",
+      "degree": "Energy Economics, Operations Research",
+      "dateRange": "2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Management and Technology",
+      "dateRange": "2010 – 2013"
+    }
+  ],
+  "skills": [
+    "Haystack open source framework",
+    "Energy Economics",
+    "Energy Markets",
+    "Finance",
+    "Data Analytics",
+    "Statistics",
+    "e-Commerce",
+    "Consulting",
+    "Scientific Work",
+    "Information Systems",
+    "Digital",
+    "Social Media",
+    "Unternehmensplanung",
+    "Statistik",
+    "Java",
+    "Unternehmertum",
+    "Product Development",
+    "Produktentwicklung",
+    "Projektmanagement",
+    "Finanzwesen"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "deepset, makers of Haystack",
+    "tagline": "Makers of Haystack and the deepset AI Platform. Leading the way in LLM orchestration for mission-critical business apps.",
+    "description": "deepset is the creator of the open-source Haystack AI orchestration framework and the Haystack Enterprise Platform. We help organizations build, run, and govern custom AI agents and retrieval-augmented generation (RAG) applications across cloud and on-premise environments.\n\nTeams start with Haystack to build immediately, add optional enterprise support through Haystack Enterprise Starter, and scale with the Haystack Enterprise Platform, which provides tooling for advanced indexing and retrieval, testing and evaluation, and governance for production AI.\n\nHaystack is trusted in production by enterprise teams and organizations including the European Commission, The Economist, Airbus, and the German Armed Forces.",
+    "industry": "Software Development",
+    "website": "https://www.deepset.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/deepset-ai",
+    "employeeCount": 85,
+    "foundedYear": 2018,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Artificial Intelligence",
+      "Natural Language Processing",
+      "Question Answering",
+      "Large Language Models",
+      "AI",
+      "LLMs",
+      "Machine Learning",
+      "Semantic Search",
+      "Conversational AI",
+      "Question Answering",
+      "Information Extraction",
+      "vetor-based search",
+      "Document Similarity"
+    ]
+  }
+}

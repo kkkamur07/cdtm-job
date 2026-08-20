@@ -1,0 +1,131 @@
+{
+  "id": "maximilian-k_gel-5020a630",
+  "name": "Maximilian Kögel",
+  "headline": "Expert in AI-Powered Interaction & Process Automation | CDTM",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/maximilian-kögel-5020a630",
+  "personId": 1517,
+  "classes": [
+    {
+      "id": 56,
+      "label": "Fall 2004",
+      "season": "Fall",
+      "year": 2004,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2004",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Maximilian Kögel",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "CEO",
+      "company": "EclipseSource",
+      "companyUrl": "https://www.linkedin.com/company/eclipsesource",
+      "description": null,
+      "location": null,
+      "start": "2011-04",
+      "end": null,
+      "dateRange": "Apr 2011 – Present",
+      "current": true
+    },
+    {
+      "title": "Researcher",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Research in the area of Model Versioning.",
+      "location": null,
+      "start": "2007-01",
+      "end": "2011-02",
+      "dateRange": "Jan 2007 – Feb 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr. rer. nat., Computer Science",
+      "dateRange": "2007 – 2011"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Master of honours, Technology Management",
+      "dateRange": "2004 – 2006"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl. Inf. Univ., Computer Science",
+      "dateRange": "2001 – 2006"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Eclipse",
+    "Open Source",
+    "Open Source Software",
+    "Software Engineering",
+    "Software Development",
+    "Architecture",
+    "Agile",
+    "UML",
+    "Modeling",
+    "Distributed Systems",
+    "Scrum",
+    "Software Design",
+    "Computer Science",
+    "Programming",
+    "Agile Methodologies",
+    "Linux",
+    "Git",
+    "XML",
+    "Object Oriented Design"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "EclipseSource",
+    "tagline": "Your Tech Partner for Building Tools & IDEs • AI-enhanced & Domain-specific • Consulting & Implementation Services",
+    "description": "EclipseSource has well over a decade of experience in designing, developing, and enhancing tools across a wide range of domains, leveraging all major technology platforms. Whether it's a classic IDE for software engineering, a modeling tool for domain experts, or a domain-specific solution for engineers—web-based, desktop-based, or a plugin for an existing IDE—EclipseSource supports you in delivering the best possible solution for your use case.\n\nBuilding on this foundation, EclipseSource now empowers tool creators to embrace the full potential of AI, with AI-native and AI-enhanced solutions as a core part of our offering. Whether you’re modernizing an existing tool or building a new AI-native product from the ground up, we help integrate intelligent features that deliver real value—transforming your tool into a smarter, more responsive, and future-ready solution.\n\nWe provide a complete range of services including conception, evaluation, training, support, and consulting/implementation—with a strong focus on framework adoption, custom framework development, and long-term maintenance. Our AI-related services extend this seamlessly, supporting everything from early-stage ideation to continuous AI evolution and lifecycle management.\n\nOur team combines deep expertise in all relevant technologies, including Eclipse Theia, Theia AI, Che, VS Code, Eclipse GLSP, LSP, EMF, EMF Forms, JSON Forms, GMF, CDT, JDT, Papyrus, the Eclipse 3.x/4 platform—and many more. With modern AI technologies and protocols such as the Model Context Protocol (MCP) and emerging standards for agent-based interaction, we help you create solutions that are not just current, but truly forward-looking.\n\nEclipseSource is a major contributor to numerous open-source projects inside and outside the Eclipse ecosystem. With teams located across North America and Europe, we support a global customer base—from Fortune 100 corporations to individual developers—delivering cutting-edge tools and IDEs.",
+    "industry": "Software Development",
+    "website": "http://eclipsesource.com",
+    "linkedInUrl": "https://www.linkedin.com/company/eclipsesource",
+    "employeeCount": 25,
+    "foundedYear": 1997,
+    "location": "München, Germany",
+    "specialities": [
+      "Software Engineering Tools",
+      "IDEs",
+      "Modeling Tools",
+      "Domain-specific Tools",
+      "Web-based Tools",
+      "Desktop-based Tools",
+      "Eclipse-based Tools",
+      "Eclipse Theia",
+      "Eclipse Che",
+      "Eclipse Platform",
+      "RCP",
+      "DSLs",
+      "EMF",
+      "EMF Forms",
+      "GLSP",
+      "LSP",
+      "JSON Forms",
+      "Modeling",
+      "Tools for Engineering",
+      "Open Source"
+    ]
+  }
+}

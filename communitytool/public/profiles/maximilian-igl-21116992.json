@@ -1,0 +1,203 @@
+{
+  "id": "maximilian-igl-21116992",
+  "name": "Maximilian Igl",
+  "headline": "Staff Research Scientist at Nvidia",
+  "avatar": {
+    "sm": "/avatars/maximilian-igl-21116992-sm.webp",
+    "lg": "/avatars/maximilian-igl-21116992.webp",
+    "blur": "data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAAAwBgCdASogACAAPslQoEunpKMht/VYAPAZCWwAnTKEfhkABT9mHKGsZGAmhWeWWZ/VGFP2rxEAra+gAP7qtvrlXk4QIkaFnuzmrqyDVr7nkuCKhwPX9F14an7zqk9yS0LlLCuecvzIS3Af8c8IR1gAA9TzMM7YeRWP87j7+qTk2To4xnjM933Cov8saNY+cyxz1doR2NeZpX4o4IxI/LC0G55NPNBPegq17TVithbk+uLjlTZpsfa2U3nrU/f9eXWTSW++SRWB26eGQ+sXXRck7BC5ppwjughg8jF/m5lKc09hBAAyVJCAP546/Z2cAMng/eWG9VPhCASmyDvTaobx1oD956ildWJDMsJK1HnyyYTr2gAAAA=="
+  },
+  "location": "Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/maximilian-igl-21116992",
+  "personId": 1145,
+  "classes": [
+    {
+      "id": 73,
+      "label": "Spring 2013",
+      "season": "Spring",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2013",
+  "major": "Physics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Maximilian Igl",
+  "ca": null,
+  "summary": "Work at NVIDIA",
+  "positions": [
+    {
+      "title": "Staff Research Scientist",
+      "company": "NVIDIA",
+      "companyUrl": "https://www.linkedin.com/company/nvidia",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Research Scientist",
+      "company": "NVIDIA",
+      "companyUrl": "https://www.linkedin.com/company/nvidia",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2023-11",
+      "end": "2026-03",
+      "dateRange": "Nov 2023 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "Research Scientist",
+      "company": "Waymo",
+      "companyUrl": "https://www.linkedin.com/company/waymo",
+      "description": null,
+      "location": "Oxford, England, United Kingdom",
+      "start": "2020-12",
+      "end": "2023-11",
+      "dateRange": "Dec 2020 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "DeepMind",
+      "companyUrl": "https://www.linkedin.com/company/googledeepmind",
+      "description": "I worked on Deep Reinforcement Learning with a focus on transfer learning in continuous control.",
+      "location": "London Area, United Kingdom",
+      "start": "2019-07",
+      "end": "2019-11",
+      "dateRange": "Jul 2019 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "I worked on Deep Reinforcement Learning, creating a new algorithm which improved the generalization capabilities of RL agents. The findings were published in the leading ML conference (Igl, Maximilian, et al. \"Generalization in reinforcement learning with selective noise injection and information bottleneck.\" Advances in Neural Information Processing Systems. 2019.) and also resulted in a successfully granted patent.",
+      "location": "Greater Cambridge Area",
+      "start": "2019-02",
+      "end": "2019-05",
+      "dateRange": "Feb 2019 – May 2019",
+      "current": false
+    },
+    {
+      "title": "Doctoral Student",
+      "company": "University of Oxford",
+      "companyUrl": "https://www.linkedin.com/company/oxforduni",
+      "description": null,
+      "location": "Oxford, Großbritannien",
+      "start": "2015-10",
+      "end": "2020-12",
+      "dateRange": "Oct 2015 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Consulting Director",
+      "company": "180 Degree Consulting",
+      "companyUrl": null,
+      "description": "Currently starting the Munich branch of the international student consultancy.\nResponsible for the consulting process as well as the supervision of the current consulting teams.\n\nWe work with non-profits and social enterprises to help them overcome challenges they're facing and achieve a greater social impact.\n\nSelected students receive professional consulting training and then work in teams to develop innovative, sustainable and practical solutions for clients. In this way, non-profits and social enterprises are empowered to overcome specific problems they face. At the same time, students are given the opportunity to contribute meaningfully to their communities, apply their university studies in a practical environment, and develop valuable life skills.",
+      "location": "Munich",
+      "start": "2014-10",
+      "end": "2015-10",
+      "dateRange": "Oct 2014 – Oct 2015",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "PreisAnalytics GmbH",
+      "companyUrl": null,
+      "description": "München",
+      "location": null,
+      "start": "2013-10",
+      "end": "2014-10",
+      "dateRange": "Oct 2013 – Oct 2014",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "d-fine GmbH",
+      "companyUrl": "https://www.linkedin.com/company/d-fine",
+      "description": "Mitarbeit bei der Einführung eines neuen Marktrisikomodells in einem großen deutschen Clearing-Haus",
+      "location": "Frankfurt am Main",
+      "start": "2012-08",
+      "end": "2012-10",
+      "dateRange": "Aug 2012 – Oct 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Oxford",
+      "degree": "Doctor of Philosophy (DPhil), Autonomous Intelligent Machines and Systems",
+      "dateRange": "2015 – 2020"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Physik",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Volkswirtschaftslehre",
+      "dateRange": "2009 – 2014"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Physik",
+      "dateRange": "2008 – 2012"
+    }
+  ],
+  "skills": [
+    "Projektmanagement",
+    "Unternehmensstrategie",
+    "Microsoft Office",
+    "Business Strategy",
+    "Research",
+    "Forschung",
+    "Unternehmensführung",
+    "Datenanalyse",
+    "Strategie",
+    "Management",
+    "Unternehmertum",
+    "Geschäftsentwicklung"
+  ],
+  "languages": [],
+  "company": {
+    "name": "NVIDIA",
+    "tagline": null,
+    "description": "Since its founding in 1993, NVIDIA (NASDAQ: NVDA) has been a pioneer in accelerated computing. The company’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, ignited the era of modern AI and is fueling the creation of the metaverse. NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry.",
+    "industry": "Computer Hardware Manufacturing",
+    "website": "http://www.nvidia.com",
+    "linkedInUrl": "https://www.linkedin.com/company/nvidia",
+    "employeeCount": 46517,
+    "foundedYear": 1993,
+    "location": "Santa Clara, United States",
+    "specialities": [
+      "GPU-accelerated computing",
+      "artificial intelligence",
+      "deep learning",
+      "virtual reality",
+      "gaming",
+      "self-driving cars",
+      "supercomputing",
+      "robotics",
+      "virtualization",
+      "parallel computing",
+      "professional graphics",
+      "automotive technology"
+    ]
+  }
+}

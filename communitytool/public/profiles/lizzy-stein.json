@@ -1,0 +1,194 @@
+{
+  "id": "lizzy-stein",
+  "name": "Lizzy Stein",
+  "headline": "CDTM | Stats@ LMU | UC Berkeley I Studienstiftung",
+  "avatar": {
+    "sm": "/avatars/lizzy-stein-sm.webp",
+    "lg": "/avatars/lizzy-stein.webp",
+    "blur": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAABQBgCdASogACAAPtFaqU2oJSQiKAqpABoJQBihXRnAQgGr4zMMxLzTsZSgBWDquMSBWkH7Jz3TcokeAAD+83+37zJ5iR/EqH8yw4SMN++9UcZyPGgwHhol65/JhdxIjwUlJwdNeIzAoBWJtj62Wu3nI6b3liCCrRP+dG9Q9VytVcmJvXdquLmzK5T+tstkY7CBDf3+qUvGU1Rt7MekgAeZ1NX0GyfQlPL/WyZ8F28lFTB906kfZMHvh/3L/6g5pdx/O09EEo1ASsUOnXWKaAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lizzy-stein",
+  "personId": 2003,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Economics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lizzy Stein",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Associate Consultant Intern",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": "Working on AI in CX.",
+      "location": "Berlin, Germany",
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "External Consultant",
+      "company": "Dryft",
+      "companyUrl": "https://www.linkedin.com/company/dryft-hq",
+      "description": "Advised on launch strategy and supported hiring.",
+      "location": "San Francisco Bay Area",
+      "start": "2025-10",
+      "end": "2026-01",
+      "dateRange": "Oct 2025 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Founders’ Associate",
+      "company": "Ebenbuild",
+      "companyUrl": "https://www.linkedin.com/company/ebenbuild",
+      "description": "Supported in fundraising and financial modelling.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-04",
+      "end": "2025-06",
+      "dateRange": "Apr 2025 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Conmercialization Consultant",
+      "company": "SynthesEyes GmbH",
+      "companyUrl": "https://www.linkedin.com/company/syntheseyes-gmbh",
+      "description": "Conducted IP landscape analysis and supported commercialization and go-to-market strategy for a MedTech spin-off.",
+      "location": "Munich",
+      "start": "2024-11",
+      "end": "2024-12",
+      "dateRange": "Nov 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Product Development @CDTM",
+      "company": "Personio Foundation",
+      "companyUrl": "https://www.linkedin.com/company/personio-foundation",
+      "description": "Developed an app for rare disease patients.\n@CDTM",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-10",
+      "end": "2025-02",
+      "dateRange": "Oct 2024 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and CEO",
+      "company": "UPPERFAST GmbH",
+      "companyUrl": "https://www.linkedin.com/company/upperfast",
+      "description": "Commercial Film Production Company.\nWinner of ADC Gold.",
+      "location": "Stuttgart, Baden-Württemberg, Germany",
+      "start": "2021-07",
+      "end": "2023-02",
+      "dateRange": "Jul 2021 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Self Employed",
+      "companyUrl": "https://www.linkedin.com/company/nunodemedia",
+      "description": "Drove go-to-market and sales execution for SME´s as a self-employed consultant.",
+      "location": "Germany",
+      "start": "2020-08",
+      "end": "2021-09",
+      "dateRange": "Aug 2020 – Sep 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Statistics",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Statistics and Data Science",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor's degree, Statistics and Data Science",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Ruprecht-Karls-Universität Heidelberg / Heidelberg University",
+      "degree": "Bachelor's degree, Political Economics",
+      "dateRange": "2020 – 2024"
+    },
+    {
+      "school": "UNSW",
+      "degree": "Bachelor's degree, Economics",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Goethegymnasium Weimar",
+      "degree": "Abitur",
+      "dateRange": "2019"
+    }
+  ],
+  "skills": [
+    "Machine Learning",
+    "Python",
+    "Econometrics",
+    "Stata",
+    "R",
+    "Business Modeling",
+    "Business Development",
+    "Operations Management",
+    "Customer Relationship Management (CRM)",
+    "Market Research",
+    "Market Analysis",
+    "Project Management",
+    "Marketing Strategy",
+    "Digital Marketing",
+    "Financial Planning",
+    "Financial Accounting",
+    "Tax Accounting",
+    "Sales"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Bain & Company",
+    "tagline": null,
+    "description": "Bain & Company is a global consultancy that helps the world’s most ambitious change makers define the future. \n\nAcross 65 cities in 40 countries, we work alongside our clients as one team with a shared ambition to achieve extraordinary results, outperform the competition, and redefine industries. We complement our tailored, integrated expertise with a vibrant ecosystem of digital innovators to deliver better, faster, and more enduring outcomes. Our 10-year commitment to invest more than $1 billion in pro bono services brings our talent, expertise, and insight to organizations tackling today’s urgent challenges in education, racial equity, social justice, economic development, and the environment. We earned a platinum rating from EcoVadis, the leading platform for environmental, social, and ethical performance ratings for global supply chains, putting us in the top 1% of all companies. Since our founding in 1973, we have measured our success by the success of our clients.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bain.com",
+    "linkedInUrl": "https://www.linkedin.com/company/bain-and-company",
+    "employeeCount": 23379,
+    "foundedYear": null,
+    "location": "Boston, United States",
+    "specialities": [
+      "Strategy",
+      "Customer Strategy & Marketing",
+      "Performance Improvement",
+      "Mergers & Acquisitions",
+      "Private Equity",
+      "Organization",
+      "Results Delivery",
+      "Information Technology",
+      "Corporate Renewal"
+    ]
+  }
+}

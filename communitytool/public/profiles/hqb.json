@@ -1,0 +1,214 @@
+{
+  "id": "hqb",
+  "name": "Quirin Bachmeier",
+  "headline": "BCG | RCI (TUM) | CDTM | UC Berkeley",
+  "avatar": {
+    "sm": "/avatars/hqb-sm.webp",
+    "lg": "/avatars/hqb.webp",
+    "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABQBQCdASogACAAPtFYpEuoJSOhsAgBABoJQAqIXgAHmW0hiF0Y7I04ZP/hr981DbfhAAAA/ucfFbOZe6j72IoBhq64gZayweZ3cU3lQQpLKq7w0eQh1CD4UAM9Lr1O1Xa+FeZOFRohG0ISh4/jOWRaDQNCa4H0Xz+7Rg1+9JA+PzC49BaF4XMsErPyADUglqk7AAy0YyYemYYHU2cWNNjJzYTZE8Sz5wAAAA=="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/hqb",
+  "personId": 1227,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "Bachelor in Technology & Management, Bachelor in Mechanical Engineering and Master in Robotics, Cognition & Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Quirin Bachmeier",
+  "ca": null,
+  "summary": "Passionate about solving problems related to transitioning to a sustainable society through technology and innovation in a holistic approach that demands analytical and entrepreneurial thinking.\n\n50% Techie, 20% Entrepreneur, 20% Business guy, 10% Other\n\nExperience in software development, big data analytics, product development, project management &\nTurned problem statements into solutions implemented by the clients in logistics and aviation maintenance;\nExpertise in sustainability, carbon markets, mobility, logistics;\nStrong analytical, organizational, creative, communication skills.\n\nI enjoy hiking, biking, and discovering the world by train.",
+  "positions": [
+    {
+      "title": "Consultant",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "• Industry focus on Industrial Goods (esp. Automotive), Energy, Transportation & Mobility\n• Functional focus on Strategy/Growth and Efficiency/Transformation",
+      "location": "Berlin, Germany",
+      "start": "2025-06",
+      "end": null,
+      "dateRange": "Jun 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-09",
+      "end": "2025-05",
+      "dateRange": "Sep 2023 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence - Product and Customer Success",
+      "company": "Tanso",
+      "companyUrl": "https://www.linkedin.com/company/tansotechnologies",
+      "description": "Contributed to Product Management and Customer Success department\n• Defined and standardized customer onboarding and support processes\n• Implemented customer process tracking\n• Developed logistics module strategy; including defining ISO 14083 requirements, benchmarking logistics emission calculation APIs, aligning with Tanso's engineering on implementability, outlining a versioned user flow/feature map\n• Developed a minimum viable product for logistics emissions calculation (python tool for automatically calculating sea, air, and road distances)\n• Assisted Customer Success department and Tanso customers in screening, preprocessing, and uploading data into the Tanso app",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-05",
+      "end": "2023-08",
+      "dateRange": "May 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Student Strategy Consultant",
+      "company": "Pina",
+      "companyUrl": "https://www.linkedin.com/company/pina-earth",
+      "description": "Pina (YC) is a Munich Startup protecting forests by quantifying and rewarding sustainable forestry, currently active in Germany. \nIn a group of three CDTM students we \n• identified geographical and technological follow-on markets, \n• analyzed and quantified the market potential of those, and \n• developed a go-to-market strategy for the most promising market. \nLearnings include:\n• analytic and structured working, market research, presenting and client communication, paired with a \n• thorough understanding of voluntary carbon credit markets and \n• carbon sequestration and measurement techniques.",
+      "location": null,
+      "start": "2021-04",
+      "end": "2021-07",
+      "dateRange": "Apr 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Sustainability Intern",
+      "company": "Forto",
+      "companyUrl": "https://www.linkedin.com/company/fortocompany",
+      "description": "Contributed to development of Forto's new sustainability offering by \n• defining automated offsetting processes, \n• conducting emissions analyses and scenario analyses for business case evaluation, \n• creating customer workshops.",
+      "location": null,
+      "start": "2020-09",
+      "end": "2020-10",
+      "dateRange": "Sep 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Student Product Developer",
+      "company": "Forto",
+      "companyUrl": "https://www.linkedin.com/company/fortocompany",
+      "description": "As part of Forto’s sustainability strategy, we were tasked to identify and develop a viable product to reduce the environmental impact of global logistics within a team of five CDTM students. The developed solution, an API automatically calculation and enabling compensation of CO2 emissions, served as concept and was integrated in a similar way into Forto's product.\n• Analysed the drivers of global logistic's huge climate effect and identified technologically and economically feasible solutions.\n• Conceptualized and developed an API enabling automated calculation and compensation of CO2 emissions that is embeddable in any website. This product realizes the three-stage strategy identified to overcome the drivers of pollution: Create awareness for the problem, Educate quantitatively about individual GHG emissions, and Enable mitigating action.\nLearnings include:\n• Methodologically on product development: problem analysis through user interviews, prototyping, market and competitor analysis, financial modeling, investor presentation, and pitch deck creation.\n• Content-related on sustainability: Emissions factors in logistics, voluntary carbon markets, (lack of practical) technological abatement options in global logistics, positioning and communication of sustainability/CSR-efforts.",
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-08",
+      "dateRange": "Apr 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Student Trend Researcher",
+      "company": "Tech4Germany",
+      "companyUrl": "https://www.linkedin.com/company/tech4germany",
+      "description": "„Public Administration in the Digital Era“: Publication of a Trend Report in cooperation with Tech4Germany, created with 25 fellow students of CDTM.",
+      "location": null,
+      "start": "2020-03",
+      "end": "2020-04",
+      "dateRange": "Mar 2020 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Internship and Bachelor's Thesis",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Bachelor's Thesis Student in logistics department:\n• Analysed inventory management processes, developed methodologies for data-driven inventory optimisation.\n• Developed inventory performance dashboard for identifying inventory inefficiencies based on Big Data analysis of SAP logistics data using Python (Pandas library).",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-04",
+      "end": "2018-12",
+      "dateRange": "Apr 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Project Intern - Maintenance Digitalization",
+      "company": "Lufthansa CityLine GmbH",
+      "companyUrl": "https://www.linkedin.com/company/lufthansa-cityline",
+      "description": "Project Intern tasked with identifying and developing concepts for optimizing aircraft maintenance through augmented reality in a team of two project interns. Additionally developed legally viable integrations of each concept into current maintenance processes and proposed a digital-twin-based digitalization strategy for maintenance processes. \nThe recommended solution was awarded with an internal, Lufthansa Group-wide innovation award and is being implemented.\n• Analyzed aircraft maintenance processes, identified improvement opportunities, researched technological solutions.\n• Developed various concepts for improving aircraft maintenance through deployment of augmented reality solutions including adjustment of respective current processes.\n• Ensured legal conformity of proposed solutions (esp. process adjustments) with requirements by the Luftfahrtbundesamt.\n• Validated each concept with technology suppliers (on site feasibility validation), maintenance experts (process validation), and IT-personell (implementability validation).\n• Performed joint data analysis of flight and maintenance data using Python for business case evaluation.\n• Pitched concrete recommendation especially considering the economic impact and technological limitations to senior maintenance management of Lufthansa Group airlines.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-10",
+      "end": "2017-12",
+      "dateRange": "Oct 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Engineer Intern",
+      "company": "Jaguar Land Rover",
+      "companyUrl": "https://www.linkedin.com/company/jaguar-land-rover_1",
+      "description": "Engineer Intern in department for development of modular architectures:\n• Participated in strategical phase of automotive development process with focus on modularisation and electrification, responsible for benchmarking vehicle packaging solutions.\n• Developed, organised and conducted full-day customer research workshops „Generation Y and their perception of sports cars“ with a total of 50 participants.",
+      "location": "Greater Coventry Area",
+      "start": "2017-06",
+      "end": "2017-09",
+      "dateRange": "Jun 2017 – Sep 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Robotics, Cognition, Intelligence",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Exchange Student, Focus on Entrepreneurship (Haas) and Sustainable Mobility",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Technology & Management",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Mechanical Engineering",
+      "dateRange": "2014 – 2019"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Chinesisch",
+    "Deutsch",
+    "Englisch",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Boston Consulting Group (BCG)",
+    "tagline": null,
+    "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.\n \nOur diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. \n\nWe work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.\n\nBCG Privacy Policy: https://www.bcg.com/about/privacy-policy.aspx",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bcg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/boston-consulting-group",
+    "employeeCount": 41217,
+    "foundedYear": 1963,
+    "location": "Boston, United States",
+    "specialities": [
+      "Consumer insight",
+      "corporate development",
+      "corporate finance",
+      "digital economy",
+      "globalization",
+      "growth",
+      "information technology",
+      "innovation",
+      "marketing & sales",
+      "operations",
+      "people & organization",
+      "postmerger integration",
+      "risk management",
+      "strategy",
+      "sustainability",
+      "transformation",
+      "climate",
+      "artificial intelligence",
+      "cost transformation",
+      "supply chains"
+    ]
+  }
+}

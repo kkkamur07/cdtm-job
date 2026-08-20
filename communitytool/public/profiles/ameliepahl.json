@@ -1,0 +1,133 @@
+{
+  "id": "ameliepahl",
+  "name": "Amelie Pahl",
+  "headline": "CDTM Management Team | Doctoral Candidate at TUM",
+  "avatar": {
+    "sm": "/avatars/ameliepahl-sm.webp",
+    "lg": "/avatars/ameliepahl.webp",
+    "blur": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAAAwBgCdASogACAAPtFYpEyoJSOiKA1RABoJQBlAZk90tWpDXhTutM43MQHYyqPt4lk/UIghTdyS7VYIAP7+lCxZc0XoQxl+3caI6ULBLDXFgXg2ehlebn3ty8kXevcOAe8GmbUq5dlvJ0I6KdzSt0fILOkNITwptOoCBtR0rct/fth9KatdzYSvqrGYJ601zwBEfIDnewUkzTa1fmfeyNgzkMwfK6yeRQ7n7uYwkjaOgdit8sZ+7rp4EuogFsXtRqydVyxKCbH3zEiRkzH6cvbs0kjO3WnAgIJ+m5lN4XvIYWmFxbsRE5lzZgCBC3gA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/ameliepahl",
+  "personId": 1277,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Amelie Pahl",
+  "ca": {
+    "alumni": true,
+    "about": "Amelie Pahl studied Management (M.A.) at the University of St Andrews in Scotland and recently completed her M.Sc. in Entrepreneurship at Trinity College Dublin in Ireland.\n\nIn between Amelie worked fulltime as a Management Consultant for PwC in Frankfurt participating in various outsourcing and process optimisation projects. Following her time at PwC Amelie pursued the opportunity of working as a Key Account Manager for a South African SME in the Tourism Industry spending a year in Cape Town working fulltime.\n\nAmelie joined the CDTM management team in February 2021. At CDTM she is responsible for ELab, the Community Engagement Taskforce as well as abroad relations. For her PhD she joined the Chair for Digital Services and Sustainability at LMU, with Prof. Kranz, where she focusses her research on the adoption of sustainability practcies in digital entrepreneurship.",
+    "responsibilities": [
+      "Entrepreneurship Laboratory Course",
+      "Community Engagement Task Force"
+    ],
+    "researchFields": [
+      "Sustainability Practices in Digital Entrepreneurship"
+    ],
+    "email": "pahl@cdtm.com"
+  },
+  "summary": "Aspiring to build and scale things that work. Passionate about driving equity for women and fostering family balance – without compromising ambition.\n\nI’m a generalist working hands-on across operations, strategy, and partnerships. I’m most comfortable in fast-paced environments where structure is missing and things need to get done quickly.\n\nCurrently: Part of the CDTM Management Team and pursuing a PhD at TUM, focused on how VC-backed entrepreneurship can scale sustainably alongside real life.\n\nLooking to connect with founders and operators who care about execution, equity, and building businesses that work alongside real life.",
+  "positions": [
+    {
+      "title": "Co-Initiator",
+      "company": "Relativity Collective",
+      "companyUrl": "https://www.linkedin.com/company/relativity-collective",
+      "description": "A highly selective pan-European student founder programme connecting Europe’s most ambitious AI talent early. Launched by leading universities (ETH, TUM, Oxford, KTH, Aalto, CDTM) under the RISE Europe alliance and endorsed by founders from Personio, Hugging Face, Silo AI, DeepJudge, n8n, GetYourGuide, Black Forest Labs, and more.",
+      "location": null,
+      "start": "2025-08",
+      "end": null,
+      "dateRange": "Aug 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Europe's leading programme for university entrepreneurship. I joint institution of TU Munich and LMU, operated fully by the management team.",
+      "location": "Munich",
+      "start": "2021-02",
+      "end": null,
+      "dateRange": "Feb 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Business Development & B2B Account Manager Germany",
+      "company": "Tour d'Afrique",
+      "companyUrl": "https://www.linkedin.com/company/tour-d'afrique",
+      "description": "A B2B destination management company designing and operating tailor-made travel programmes across Southern and East Africa to clients across Germany, the UK, North America, and Australia.",
+      "location": "City of Cape Town",
+      "start": "2018-07",
+      "end": "2019-06",
+      "dateRange": "Jul 2018 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Management Consultant Finance Transformation",
+      "company": "PwC",
+      "companyUrl": "https://www.linkedin.com/company/pwc",
+      "description": "The Finance Transformation practice supports organizations in redesigning and modernizing their finance and back-office functions with a focus on optimizing operating models, and implementing digital systems across core finance operations.",
+      "location": "Frankfurt am Main",
+      "start": "2016-12",
+      "end": "2018-06",
+      "dateRange": "Dec 2016 – Jun 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Philosophy - PhD, Entrepreneurship",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Business Research, Business",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Trinity College Dublin",
+      "degree": "Master of Science Entrepreneurship, Distinction",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "University of St Andrews",
+      "degree": "Master of Arts (Honours) Management, Distinction",
+      "dateRange": "2012 – 2016"
+    }
+  ],
+  "skills": [
+    "Analysis",
+    "Research",
+    "Microsoft Office",
+    "Management",
+    "Data Analysis",
+    "Teamwork"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Center for Digital Technology and Management (CDTM)",
+    "tagline": "Connect, Educate and Empower the Innovators of Tomorrow",
+    "description": "The Center for Digital Technology and Management (CDTM), a joint institution of the Ludwig-Maximilians-Universität München (LMU) and the Technische Universität München (TUM), offers talented students the international and interdisciplinary study program Technology Management. \n\nThe CDTM focuses on how to manage High-Tech in close cooperation with industry, research and education, while simultaneously being committed to preparing the students for future leadership positions in their professional career.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.cdtm.de",
+    "linkedInUrl": "https://www.linkedin.com/company/cdtm-munich",
+    "employeeCount": 35,
+    "foundedYear": 1998,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Entrepreneurship",
+      "Product Development"
+    ]
+  }
+}

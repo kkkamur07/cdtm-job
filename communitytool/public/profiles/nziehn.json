@@ -1,0 +1,130 @@
+{
+  "id": "nziehn",
+  "name": "Nils Ziehn",
+  "headline": "Numbers driven, moving fast and breaking things. Hooked on product, tech, data & machine learning.",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/nziehn",
+  "personId": 1443,
+  "classes": [
+    {
+      "id": 71,
+      "label": "Spring 2012",
+      "season": "Spring",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2012",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Nils Ziehn",
+  "ca": null,
+  "summary": "Numbers driven, moving fast and breaking things.\nHooked on tech, data & machine learning.",
+  "positions": [
+    {
+      "title": "CPO",
+      "company": "Limehome GmbH",
+      "companyUrl": "https://www.linkedin.com/company/limehome",
+      "description": "Revolutionizing the hospitality industry focusing on what's most important for our customers: a space that feels like home, beautiful apartments, great value for the price, and a brand that they rely on wherever they go.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-03",
+      "end": null,
+      "dateRange": "Mar 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief Technology Officer",
+      "company": "Homelike",
+      "companyUrl": "https://www.linkedin.com/company/the-homelike",
+      "description": "Building Europe's biggest platform for furnished apartments focusing on business customers and professionals.",
+      "location": "Cologne Area, Germany",
+      "start": "2018-07",
+      "end": "2020-02",
+      "dateRange": "Jul 2018 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Senior Vice President Data",
+      "company": "Stylight",
+      "companyUrl": "https://www.linkedin.com/company/stylight",
+      "description": "Spreading a data driven mindset and accelerating our business with machine learning and automation.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-01",
+      "end": "2018-06",
+      "dateRange": "Jan 2018 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Vice President Product Services",
+      "company": "Stylight",
+      "companyUrl": "https://www.linkedin.com/company/stylight",
+      "description": "Driving our business by recommending our users the best products on our platform.",
+      "location": "Munich, Germany",
+      "start": "2016-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2016 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Shotnote",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2014-03",
+      "end": "2016-07",
+      "dateRange": "Mar 2014 – Jul 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (BSc), Computer Science",
+      "dateRange": "2009 – 2011"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Technology Management",
+      "dateRange": "2012 – 2013"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Data Analytics",
+    "Business Strategy",
+    "Project Management",
+    "Strategy",
+    "Machine Learning",
+    "Software Development",
+    "Python",
+    "JSON",
+    "Leadership",
+    "Start-ups",
+    "Agile Methodologies"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Limehome",
+    "tagline": "Europe's leading technology-based hospitality operator I Designed to stay",
+    "description": "Limehome is the leading tech-enabled operator in the hospitality industry offering functional design accommodations across Europe. Using proprietary technology, Limehome delivers comfortable and convenient stays with a seamless digital guest experience for business and leisure travellers.\n\nOur vision is to be the first choice in travel for everyone, everywhere.\nBy now, our portfolio consists of more than 12,500 apartments and hotel rooms under contract across 159 cities in 13 European countries. \nThis is just the beginning. Stay tuned!",
+    "industry": "Hospitality",
+    "website": "https://career.limehome.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/limehome",
+    "employeeCount": 290,
+    "foundedYear": 2018,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

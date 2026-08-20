@@ -1,0 +1,138 @@
+{
+  "id": "konstantin-lackner",
+  "name": "Konstantin Lackner",
+  "headline": "Creative Technologist | TUM | CDTM | UC Berkeley",
+  "avatar": {
+    "sm": "/avatars/konstantin-lackner-sm.webp",
+    "lg": "/avatars/konstantin-lackner.webp",
+    "blur": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAADQBQCdASogACAAPtFco02oJSMiKA1RABoJbACdICXFr0Tu++L/OPwphQ0+a+E6V9Cb1hj47IGAAP7jSe1Hh9xI7Iy7UshKVhINzSnV6zmAaadmYgPjf5cW6eK4PeXNPwdlsT4MnfwwXoaYIzwankBvyWYunvd7NuqPqeubJvAOUQjUmgIq6jRUt9GTgv3Yqdsi1t+cQUwn2QDFpT5a9KRMP0homsGHEGeebjL3LZOxusmecogShEg4paomEM54VMpfqAsCN2RB7Zf8KFhox1tIOFYp4xUPhWMwAA=="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/konstantin-lackner",
+  "personId": 967,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Konstantin Lackner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Freelance Engineer",
+      "company": "TeleClinic",
+      "companyUrl": "https://www.linkedin.com/company/teleclinic",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-08",
+      "end": null,
+      "dateRange": "Aug 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Full Stack Ingenieur",
+      "company": "Datalyze Solutions GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2024-04",
+      "end": "2025-11",
+      "dateRange": "Apr 2024 – Nov 2025",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Personality Path",
+      "companyUrl": "https://www.linkedin.com/company/personalitypath",
+      "description": null,
+      "location": null,
+      "start": "2022-04",
+      "end": "2024-03",
+      "dateRange": "Apr 2022 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Software-Entwickler",
+      "company": "sento.io",
+      "companyUrl": "https://www.linkedin.com/company/sentohq",
+      "description": null,
+      "location": null,
+      "start": "2021-04",
+      "end": "2022-05",
+      "dateRange": "Apr 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Backend & Data Solutions Engineer",
+      "company": "KREATIZE GmbH | WE ARE HIRING!",
+      "companyUrl": "https://www.linkedin.com/company/kreatize-gmbh",
+      "description": null,
+      "location": "Berlin Metropolitan Area",
+      "start": "2017-10",
+      "end": "2019-12",
+      "dateRange": "Oct 2017 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Junior Backend Engineer",
+      "company": "KREATIZE GmbH | WE ARE HIRING!",
+      "companyUrl": "https://www.linkedin.com/company/kreatize-gmbh",
+      "description": null,
+      "location": "Berlin Metropolitan Area",
+      "start": "2016-10",
+      "end": "2017-09",
+      "dateRange": "Oct 2016 – Sep 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "n/a, Semester abroad",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Electrical Engineering and Computer Engineering",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology & Management",
+      "dateRange": "2014 – 2015"
+    }
+  ],
+  "skills": [
+    "Vue.js",
+    "React.js",
+    "WordPress",
+    "Python",
+    "SQL",
+    "Softwareentwicklung",
+    "HTML",
+    "C",
+    "Matlab",
+    "Microsoft Office",
+    "Unternehmensstrategie",
+    "Java",
+    "JavaScript",
+    "Management"
+  ],
+  "languages": [],
+  "company": null
+}

@@ -1,0 +1,199 @@
+{
+  "id": "florian-gall-56b2ba14",
+  "name": "Florian Gall",
+  "headline": "Product Manager at Alasco",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/florian-gall-56b2ba14",
+  "personId": 1829,
+  "classes": [
+    {
+      "id": 64,
+      "label": "Fall 2008",
+      "season": "Fall",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2008",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Florian Gall",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Produktmanager",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": "München",
+      "location": null,
+      "start": "2022-01",
+      "end": null,
+      "dateRange": "Jan 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Consultant",
+      "company": "Aras Corporation",
+      "companyUrl": "https://www.linkedin.com/company/aras-corporation",
+      "description": null,
+      "location": null,
+      "start": "2019-02",
+      "end": "2021-12",
+      "dateRange": "Feb 2019 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Aras Corporation",
+      "companyUrl": "https://www.linkedin.com/company/aras-corporation",
+      "description": "Projektleitung und -umsetzung",
+      "location": null,
+      "start": "2015-07",
+      "end": "2019-02",
+      "dateRange": "Jul 2015 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "As part of the small team running this education and research institute in Munich, I was responsible for IT, international relations, and course management. For the study program Technology Management I created and conducted various workshops and lectures related to product development and/or IT. Over the years I led and advised more than 25 project teams working with renowned partners in industry and academia, and acquired more than a dozen projects with a six-figure total volume.",
+      "location": null,
+      "start": "2011-07",
+      "end": "2015-04",
+      "dateRange": "Jul 2011 – Apr 2015",
+      "current": false
+    },
+    {
+      "title": "Visiting Scholar",
+      "company": "University of California, Berkeley",
+      "companyUrl": "https://www.linkedin.com/company/uc-berkeley",
+      "description": "In collaboration with Prof. Yale Braunstein and other researchers at the School of Information, I wrote my master’s thesis on \"Value Creation Patterns in Service Ecosystems\". Also I completed two courses at the Haas School of Business.",
+      "location": null,
+      "start": "2011-01",
+      "end": "2011-06",
+      "dateRange": "Jan 2011 – Jun 2011",
+      "current": false
+    },
+    {
+      "title": "Werkstudent",
+      "company": "KPMG US",
+      "companyUrl": "https://www.linkedin.com/company/kpmg-us",
+      "description": "As part-time consultant in Advisory: Performance and Technology, I worked on a global shared service center project for a leading engineering company, designed and implemented a database for a property management firm, and helped implement an internal HR platform at KPMG. I mainly worked with Microsoft SharePoint, Access, Excel and PowerPoint, including VBA to access web services and automatically create real-time reports.",
+      "location": null,
+      "start": "2010-09",
+      "end": "2010-12",
+      "dateRange": "Sep 2010 – Dec 2010",
+      "current": false
+    },
+    {
+      "title": "Wissenschaftliche Hilfskraft",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "As student research assistant at the chair for Information Systems (Prof. Krcmar) I worked on the BMWi project THESEUS aimed at creating the foundations for the Internet of Services. My main activities were ontology modelling, documentation of results, quality management, and general desk research.",
+      "location": null,
+      "start": "2009-01",
+      "end": "2011-04",
+      "dateRange": "Jan 2009 – Apr 2011",
+      "current": false
+    },
+    {
+      "title": "Praktikant",
+      "company": "Fraunhofer Institute for Industrial Engineering IAO",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-iao",
+      "description": "Stuttgart Region",
+      "location": null,
+      "start": "2008-04",
+      "end": "2008-07",
+      "dateRange": "Apr 2008 – Jul 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2008 – 2011"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science, Wirtschaftsinformatik",
+      "dateRange": "2008 – 2011"
+    },
+    {
+      "school": "Fachhochschule Kufstein",
+      "degree": "Bachelor of Arts in Business, Wirtschaftsinformatik",
+      "dateRange": "2005 – 2008"
+    },
+    {
+      "school": "Sungkyunkwan University",
+      "degree": "Business Informatics",
+      "dateRange": "2007"
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "Business Development",
+    "Start-ups",
+    "Entrepreneurship",
+    "Project Management",
+    "Product Management",
+    "Innovation Management",
+    "Consulting",
+    "Product Development",
+    "Scrum",
+    "Product Lifecycle Management",
+    "Teamführung",
+    "Software Engineering",
+    "Projektmanagement",
+    "Workshops",
+    "Unternehmensstrategie",
+    "Strategisches Management",
+    "Produktentwicklung",
+    "Produktmanagement",
+    "Unternehmensführung",
+    "Agile Methoden",
+    "Geschäftsprozesse",
+    "Unternehmensberatung",
+    "Produktlebenszyklusmanagement",
+    "Innovationsmanagement",
+    "Präsentationen",
+    "Softwaretechnik",
+    "Unternehmertum",
+    "Forschung",
+    "Prozessberatung",
+    "Moderationskompetenz",
+    "Aras Innovator"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Alasco",
+    "tagline": null,
+    "description": "Alasco is the financial management platform for real estate companies managing development, retrofit, and tenant improvement projects. Alasco helps real estate companies shift from reactive cost control to strategic financial management and set in place the financial data layer for a solid AI strategy.\n\nWith rapid time-to-value, the Alasco platform unites all stakeholders around a single source of truth, helping them plan, budget, analyse, optimise and execute on their business plans.\n\nThe platform is used by over 350 real estate players across Europe who collectively manage on Alasco more than €1Tn in project development volume to date. Key customers include: Hines, JLL, LaSalle, Ardian, ECE Gruppe, Alcaro Invest and Patrizia SE.",
+    "industry": "Software Development",
+    "website": "http://www.alasco.com",
+    "linkedInUrl": "https://www.linkedin.com/company/alasco-software",
+    "employeeCount": 134,
+    "foundedYear": 2018,
+    "location": "München, Germany",
+    "specialities": [
+      "Software",
+      "ESG",
+      "CapEx",
+      "Financial controlling",
+      "sustainability"
+    ]
+  }
+}

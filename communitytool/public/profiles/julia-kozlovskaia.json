@@ -1,0 +1,258 @@
+{
+  "id": "julia-kozlovskaia",
+  "name": "Julia Kozlovskaia",
+  "headline": "RevOps @ voize | CDTM",
+  "avatar": {
+    "sm": "/avatars/julia-kozlovskaia-sm.webp",
+    "lg": "/avatars/julia-kozlovskaia.webp",
+    "blur": "data:image/webp;base64,UklGRgwBAABXRUJQVlA4IAABAAAwBgCdASogACAAPtFaqU2oJSQiKAqpABoJQBUioPV5LgC3v1lEkEsSjd6Yi3PfYl6eR9mm1Dx/jL5QAP79e0DsKvW2Au6CJPYu7wfb4E/u0vCpiLYZfoWUK2nTst+5py9s8xYT2h6+94yMl/83FyZYC57IyniC0sL/NeWk81HrsRBER+koapSWs9UsWgyf42p6uABPVKKH1ELaoD9JwZe2bO7/rpCP9e+LSCdcmoeUH1udTVmwbzKu7F+rop+DzdVDftr5WI9yDdi47Osb4VZOYNHs0ahs2zuK5QcOQOLBJtu16BDLrlI26134JKoU/Sz3Qtt1E2Wx4xgAeIUsRAAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/julia-kozlovskaia",
+  "personId": 1087,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Consumer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Julia Kozlovskaia",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Lead, Revenue Operations",
+      "company": "voize",
+      "companyUrl": "https://www.linkedin.com/company/voize-ai",
+      "description": "voize is freeing nurses from administrative work so that they can focus on what matters most - the patients. \nYC & Balderton backed",
+      "location": "Berlin, Germany",
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "RevOps is a horizontal superglue function at Superchat overseeing all of the commercial processes",
+      "company": "Superchat",
+      "companyUrl": "https://www.linkedin.com/company/superchatcom",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Revenue Operations Lead",
+      "company": "Superchat",
+      "companyUrl": "https://www.linkedin.com/company/superchatcom",
+      "description": null,
+      "location": null,
+      "start": "2023-10",
+      "end": "2025-08",
+      "dateRange": "Oct 2023 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Full-time",
+      "company": "Superchat",
+      "companyUrl": "https://www.linkedin.com/company/superchatcom",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-02",
+      "end": "2023-09",
+      "dateRange": "Feb 2023 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Investment Team",
+      "company": "Redalpine",
+      "companyUrl": "https://www.linkedin.com/company/redalpine",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2022-07",
+      "end": "2022-11",
+      "dateRange": "Jul 2022 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Product Management",
+      "company": "sento.io",
+      "companyUrl": "https://www.linkedin.com/company/sentohq",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-03",
+      "end": "2022-06",
+      "dateRange": "Mar 2022 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Go-to-Market Strategy",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "Junior Manager in Go-to-Market Strategy at Academic Alliance @Celonis.\nMy primary focus is the creation & execution of GTM approaches of Celonis services; product management of software products, and strategic partner acquisition.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-02",
+      "dateRange": "Oct 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Managing Product Development",
+      "company": "Leevi Health",
+      "companyUrl": "https://www.linkedin.com/company/lilio-health",
+      "description": "Developing a smart parents companion for the Project Partner as a part of CDTM course Managing Product Development",
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-02",
+      "dateRange": "Oct 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "External Consultant | Trend Researcher",
+      "company": "STADLER Anlagenbau GmbH",
+      "companyUrl": "https://www.linkedin.com/company/stadler-sorting",
+      "description": "Trend Seminar is a full-time course at CDTM; is the scope of the Fall'21 Trend Seminar, we externally advised STADLER on the future of waste management.",
+      "location": null,
+      "start": "2021-08",
+      "end": "2021-10",
+      "dateRange": "Aug 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Summer Internship Flash",
+      "company": "Futury",
+      "companyUrl": "https://www.linkedin.com/company/futury",
+      "description": "During the flash internship at Futury, I worked on a project in the area of the construction industry and was responsible for product management.",
+      "location": null,
+      "start": "2021-07",
+      "end": "2021-08",
+      "dateRange": "Jul 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Participant of the program",
+      "company": "LMU Innovation & Entrepreneurship Center",
+      "companyUrl": "https://www.linkedin.com/company/lmu-innovation-entrepreneurship-center",
+      "description": "- Member of the Starting UP initiative by LMU IEC\n- Developing a financial-guidance app in my startup-group",
+      "location": null,
+      "start": "2021-04",
+      "end": "2021-07",
+      "dateRange": "Apr 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Podcast Host",
+      "company": "Podcast „82 degrees“ (ru)",
+      "companyUrl": null,
+      "description": "I am a co-host of the '82 degrees\" podcast:\n\nTwo best friends, separated by an ocean, nine time zones and 82\ndegrees, discuss phenomena, stories, and recent social trends.",
+      "location": null,
+      "start": "2020-12",
+      "end": "2022-02",
+      "dateRange": "Dec 2020 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Cybersecurity Marketing Strategy",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "As a part of the Cybersecurity team at Siemens, I was responsible for the marketing strategy of the department and Go-to-Market strategies for cybersecurity offerings.",
+      "location": null,
+      "start": "2020-06",
+      "end": "2021-09",
+      "dateRange": "Jun 2020 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Marketing Specialist",
+      "company": "Motius",
+      "companyUrl": "https://www.linkedin.com/company/motius-gmbh",
+      "description": "- Social media analysis & Google Analytics\n- Content Marketing\n- Benchmark & Trend analysis",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-01",
+      "end": "2020-05",
+      "dateRange": "Jan 2020 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Trainee in PR & Art Management",
+      "company": "Salon für Kunstbuch",
+      "companyUrl": "https://www.linkedin.com/company/salon-für-kunstbuch",
+      "description": "- maintenance of the product catalog \n- support with organizing promotion events",
+      "location": "Vienna, Austria",
+      "start": "2018-07",
+      "end": "2018-08",
+      "dateRange": "Jul 2018 – Aug 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology & Management",
+      "dateRange": null
+    },
+    {
+      "school": "TUM School of Management",
+      "degree": "Master of Science - MS, Consumer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Arts - MA, Kommunikationswissenschaft",
+      "dateRange": null
+    },
+    {
+      "school": "Freie Universität Berlin",
+      "degree": "German Studies Russia",
+      "dateRange": null
+    },
+    {
+      "school": "Moscow State Institute of International Relations (University) MFA Russia MGIMO",
+      "degree": "Bachelor of Arts - BA, International Journalism",
+      "dateRange": null
+    },
+    {
+      "school": "Lomonosov Moscow State University (MSU)",
+      "degree": "School for Young Journalists (MSU)",
+      "dateRange": null
+    },
+    {
+      "school": "Iowa State University",
+      "degree": "Literature",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Spanish"
+  ],
+  "company": {
+    "name": "voize",
+    "tagline": "For those who care",
+    "description": "voize, founded in 2020, develops the leading voice-powered AI assistant for the care sector. It enables nurses and caregivers to document care in real time, right at the patient’s bedside. By reducing administrative workload, voize gives care teams more time for what matters most: people.\n\nIts proprietary AI is built to handle dialects and accents, and supports grammar correction and additional AI features. voize integrates seamlessly with existing systems and is tailored specifically to everyday workflows in care settings. Developed in Germany and fully GDPR-compliant, voize is already used by more than 1,500 care facilities and supports over 100,000 caregivers every day.",
+    "industry": "Software Development",
+    "website": "http://voize.de",
+    "linkedInUrl": "https://www.linkedin.com/company/voize-ai",
+    "employeeCount": 129,
+    "foundedYear": 2020,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

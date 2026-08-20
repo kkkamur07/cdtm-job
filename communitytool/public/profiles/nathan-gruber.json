@@ -1,0 +1,188 @@
+{
+  "id": "nathan-gruber",
+  "name": "Nathan Gruber",
+  "headline": "Co-Founder @ Manex AI | CDTM | BEA | Forbes 30 - We help global manufacturers scale AI in their core processes",
+  "avatar": {
+    "sm": "/avatars/nathan-gruber-sm.webp",
+    "lg": "/avatars/nathan-gruber.webp",
+    "blur": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAADQBQCdASogACAAPtFYpUyoJSOiKA1RABoJZAC7AYvjLbY0QgnPU6p2t6uct0MWUaKNDGeZCvwYAP7998eaT/P3kAiBgaMBZnHIWBaxbMlHWCN4u3hMhVek/CdAjDGS6Mh1uP8brY69+QyFDFtE7aeZDLt2f26jLsz4HeOae3XCnEK31EUWDdg5uHsi9J1pIbvYbv/+3rwGQebD30eUUykEdDQfLU4D5c5EwcoRRni1OELNMIXhEMW37HXjKxIa0xFlOJuW2u3VvfAvQu0sF2AAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/nathan-gruber",
+  "personId": 1209,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Nathan Gruber",
+  "ca": null,
+  "summary": "Shaping the Future of Industrial AI #manexAI",
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Manex AI",
+      "companyUrl": "https://www.linkedin.com/company/manex-ai",
+      "description": "Manex AI entwickelt Manufacturing Optimization Agents für automatisierte Fabriken.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-07",
+      "end": null,
+      "dateRange": "Jul 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Deep Learning Scientist",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Forschung zu KI-basierter Optimierung von Qualitätsmanagement im Fertigungsprozess.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-07",
+      "end": "2023-03",
+      "dateRange": "Jul 2022 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Unabhängiger Berater",
+      "company": "Nathan Gruber Beratungsdienstleistungen",
+      "companyUrl": null,
+      "description": "Selbstständige Digitalisierungs- und Entwicklungsberatung im privaten und öffentlichem Sektor.",
+      "location": null,
+      "start": "2022-04",
+      "end": "2022-07",
+      "dateRange": "Apr 2022 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Vorstandsvorsitzender",
+      "company": "priamos consulting group e.V.",
+      "companyUrl": "https://www.linkedin.com/company/priamos-consulting-group-e.v.",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Unternehmensberater",
+      "company": "Junior Consultant Network Projektmanagement",
+      "companyUrl": "https://www.linkedin.com/company/jcnetwork-projektmanagement",
+      "description": "Beratung mit Schwerpunkt auf Developement, ERP und IT-Strategie.",
+      "location": null,
+      "start": "2019-12",
+      "end": "2022-04",
+      "dateRange": "Dec 2019 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Leitung eines Teams von 40+ studentischen Beratern.",
+      "company": "priamos consulting group e.V.",
+      "companyUrl": "https://www.linkedin.com/company/priamos-consulting-group-e.v.",
+      "description": "Leitung des 8-köpfigen Entwicklungsteams.",
+      "location": null,
+      "start": "2019-11",
+      "end": "2021-01",
+      "dateRange": "Nov 2019 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Wissenschaftlicher Mitarbeiter",
+      "company": "Universität Ulm",
+      "companyUrl": "https://www.linkedin.com/company/ulm-university",
+      "description": "Akademische Tätigkeiten an unterschiedlichen Lehrstühlen.",
+      "location": null,
+      "start": "2019-10",
+      "end": "2022-02",
+      "dateRange": "Oct 2019 – Feb 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M. Sc.), Informatik",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Ulm University",
+      "degree": "Bachelor of Science (B.Sc.), Informatik",
+      "dateRange": "2018 – 2021"
+    }
+  ],
+  "skills": [
+    "Qualitätsmanagement",
+    "Fertigung",
+    "Künstliche Intelligenz (KI)",
+    "Natural Language Processing (NLP)",
+    "Computer-Vision",
+    "GitHub",
+    "Kubernetes",
+    "Docker-Produkte",
+    "MERN Stack",
+    "Express.js",
+    "JavaScript",
+    "React.js",
+    "Webentwicklung",
+    "Enterprise Resource Planning (ERP)",
+    "MLOps",
+    "AWS SageMaker",
+    "GAN",
+    "Deep Learning",
+    "Machine Learning",
+    "Java",
+    "C++",
+    "Python",
+    "SQL",
+    "HTML",
+    "Teamführung",
+    "PHP",
+    "Projektmanagement"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Latein",
+    "Türkisch"
+  ],
+  "company": {
+    "name": "Manex AI",
+    "tagline": "Shaping the Future of Industrial AI",
+    "description": "Munich-based startup Manex AI is transforming industrial quality management and process steering with its manufacturing optimization agents. The team is working hard towards its vision of autonomous factories and industry leaders like BMW, Audi, BSH, Stellantis, TDK, Henkel, Resrg Automotive and other already rely on Qualitatio.\n\nManex AI's customers have proven to be able to reduce over 70% of test capacities and increase defect detection rates by 20% with Qualitatio, both in OEM and supplier setups.",
+    "industry": "Software Development",
+    "website": "https://www.manex.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/datagon-ai",
+    "employeeCount": 31,
+    "foundedYear": 2023,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Industrial AI",
+      "Quality Management",
+      "Software Development",
+      "Artificial Intelligence",
+      "Manufacturing",
+      "Automotive",
+      "Electronics",
+      "Home Appliances",
+      "Chemistry"
+    ]
+  }
+}

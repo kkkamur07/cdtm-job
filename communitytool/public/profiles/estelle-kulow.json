@@ -1,0 +1,185 @@
+{
+  "id": "estelle-kulow",
+  "name": "Estelle Kulow",
+  "headline": "CDTM | Emidat | Max-Weber | prev. Norrsken VC, BCG",
+  "avatar": {
+    "sm": "/avatars/estelle-kulow-sm.webp",
+    "lg": "/avatars/estelle-kulow.webp",
+    "blur": "data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAACwBgCdASogACAAPtFgqU+oJSOiKAgBABoJaACdMyYBS8LazrfYHVqu/h+Gc5OkBzsz+WdSsptWO2K65AGmGAD++qpaEzP8+bj08/hF3m7kbTEqe9yATYbnPjrfqvYlaJvrycdtNCl4eOTR2V1m47hvkNytAg9IxgpfrK7TGO+s7cyAl16TJPO3V6thoqhp5WRg4h4KCtXdH7+YDVSp+2+fQdyN0KzvZYECVEPflCiKLLvugaPm/jR/nn79d8fzSk69zOGFqj441ESvRi52sfLikIS2+IO7f5l8p6hRWbfzlej2PUZn5+ChKxmwRPjbqijzq0xvTG6YCTbdoXx22DF6P3ofShdOrvm4Jq+HJQYAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/estelle-kulow",
+  "personId": 2123,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "AI in Society",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Estelle Kulow",
+  "ca": null,
+  "summary": "Passionate about technology, innovation and climate.",
+  "positions": [
+    {
+      "title": "Founder's Associate",
+      "company": "Emidat",
+      "companyUrl": "https://www.linkedin.com/company/emidat",
+      "description": "Enabling climate positive manufacturing 🧱\n\nThe #1 solution for construction material manufacturers to easily create and turn environmental data into business value.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder's Associate",
+      "company": "Renasens AB",
+      "companyUrl": "https://www.linkedin.com/company/renasens",
+      "description": "A new era of textile recycling 🪡\n\nRenasens recycles blended textiles into high-quality fibers using a patented, waterless technology reducing both climate footprint and costs. Scalable, modular, and delivering unmatched quality - built on years of research, now ready for large-scale commercialization.",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "start": "2025-02",
+      "end": "2025-06",
+      "dateRange": "Feb 2025 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Climatetech Venture Capital",
+      "company": "Norrsken VC",
+      "companyUrl": "https://www.linkedin.com/company/norrskenvc",
+      "description": "Investing in Seed - Series A impact and climate tech 🌎 \n\nNorrsken VC is Europe’s leading investor in impact ventures.",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "start": "2024-09",
+      "end": "2025-02",
+      "dateRange": "Sep 2024 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-04",
+      "end": "2024-06",
+      "dateRange": "Apr 2024 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Investment Management @Funding for Innovators",
+      "company": "UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/unternehmertum",
+      "description": "Investing in Munich's early stage deep-tech startups ⭐\n\nUnternehmerTUM Funding for Innovators is the pre-seed funding initiative at UnternehmerTUM, Europe's leading center for deep-tech innovation and business creation.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-08",
+      "end": "2024-03",
+      "dateRange": "Aug 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Project Study | Customer Journey & Process Mining",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "Mapping B2B customer journeys using process mining 👩🏽‍💻\n\nProject study: \"Celonis Process Mining meets Customer Journey in a hyper growth environment\"\n- Pioneered and launched a new tool to visualize >2000 customer journeys",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-03",
+      "end": "2023-06",
+      "dateRange": "Mar 2023 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Transaction Advisory and Digital Strategy",
+      "company": "OMMAX",
+      "companyUrl": "https://www.linkedin.com/company/ommax",
+      "description": "Talking business 💭\n\nOMMAX is a fast-growing digital strategy consultancy in Europe, specializing in transaction advisory, strategy, and end-to-end execution of digital initiatives.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2023-03",
+      "dateRange": "Jan 2023 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Student Assistant",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-08",
+      "end": "2023-09",
+      "dateRange": "Aug 2022 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Projekt Management for Robotic Process Automation and Automation",
+      "company": "BayWa AG",
+      "companyUrl": "https://www.linkedin.com/company/baywa",
+      "description": "Increasing operational efficiency by automating business processes 🤖",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-08",
+      "end": "2022-08",
+      "dateRange": "Aug 2021 – Aug 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2025 – 2027"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., AI in Society",
+      "dateRange": "2025 – 2027"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc., Management and Technology (Computer Science)",
+      "dateRange": "2020 – 2024"
+    },
+    {
+      "school": "Université Laval",
+      "degree": "Bachelor of Business Administration - BBA, Economics",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Carl.Orff Gymnasium Unterschleißheim",
+      "degree": "Abitur",
+      "dateRange": "2013 – 2020"
+    }
+  ],
+  "skills": [
+    "Risikokapital",
+    "Start-ups",
+    "Englisch",
+    "Kommunikation",
+    "Analytische Fähigkeiten",
+    "Französisch",
+    "Nachhilfe"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Emidat",
+    "tagline": "Climate-Native Product Management: Create and turn environmental product data (EPDs, LCAs, DPPs) into business value.",
+    "description": "Climate-Native Product Management - We make it a business value to produce and provide sustainable materials.\n\nThe Emidat Platform enables automated generation and distribution of lifecycle assessments (LCAs), environmental product declarations (EPDs) and digital product passports (DPPs). This helps material manufacturers to fulfil customer demands, differentiate their product and be ready for upcoming regulation (e.g. EU CPR).\n\nWith Emidat, material manufacturers:\n- Reduce cost and time for generating EPDs / LCAs by over 70%\n- One license - unlimited product profiles through our third party verified platform\n- Save time on data collection and text writing based on AI\n\nThe Emidat database consists of environmental data on over 150k construction products and can be accessed via API and UI.",
+    "industry": "Data Infrastructure and Analytics",
+    "website": "https://emidat.com",
+    "linkedInUrl": "https://www.linkedin.com/company/emidat",
+    "employeeCount": 43,
+    "foundedYear": 2023,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

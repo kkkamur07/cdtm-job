@@ -1,0 +1,234 @@
+{
+  "id": "eileeneinwaechter",
+  "name": "Eileen Einwächter",
+  "headline": "Senior Product Designer @tanso",
+  "avatar": {
+    "sm": "/avatars/eileeneinwaechter-sm.webp",
+    "lg": "/avatars/eileeneinwaechter.webp",
+    "blur": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAAAQBgCdASogACAAPtFWo0uoJKMhsAgBABoJYgDLLYy0tW9IPWsCljrPp/U8WjfZRThN2gLHL1dTqgAA/vzZwtCcWzQu63k+7zbggxiiWkXNMo/aIDRPrW7d8H72eXrdh2A2w3+sv7TTtlVCKp4C+7Pktt1YbAcou0eFTHROe9vCrQ7Nw0j3f6DHBimYqxFENzLhjcJ2Ay2cBJTCDiDKN5SiRUq0WdafAvrL2tdFnuH7KAQpJ3StMjT4d49aUBOX+pquZShYoIESBmsUEemS+0zRgaYbyG74Afo/0m1AdtyA4EA7DmuFz3F5JV5sVWAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/eileeneinwaechter",
+  "personId": 879,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Media, Management and Digital Technologies",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Eileen Einwächter",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Product Designer",
+      "company": "Tanso",
+      "companyUrl": "https://www.linkedin.com/company/tansotechnologies",
+      "description": "At Tanso we are tackling one of our time's greatest challenges by supporting industrial companies to reduce their emissions actively. By automating carbon accounting and management processes, we are building the analytical basis for effective emission reduction.",
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Designer",
+      "company": "Tanso",
+      "companyUrl": "https://www.linkedin.com/company/tansotechnologies",
+      "description": null,
+      "location": null,
+      "start": "2022-11",
+      "end": "2025-01",
+      "dateRange": "Nov 2022 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Design Fellow",
+      "company": "Tech4Germany",
+      "companyUrl": "https://www.linkedin.com/company/tech4germany",
+      "description": "Tech4Germany is Germany's technology task force under Germany's Chief of Staff and Head of the Chancellory, Prof. Dr. Helge Braun. We are a startup within the German government that offers tech talents the opportunity to innovate within the public sector. With now 30 people, we want to prove that digital transformation is possible in the public sector, using tech and design.",
+      "location": null,
+      "start": "2021-08",
+      "end": "2021-11",
+      "dateRange": "Aug 2021 – Nov 2021",
+      "current": false
+    },
+    {
+      "title": "Junior Product Manager",
+      "company": "remberg",
+      "companyUrl": "https://www.linkedin.com/company/remberg",
+      "description": "remberg digitizes the service of industrial machinery and equipment with their cloud-based Asset-Relationship-Management System for manufacturers, service providers and operators.",
+      "location": null,
+      "start": "2020-11",
+      "end": "2021-07",
+      "dateRange": "Nov 2020 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Business Analyst Intern",
+      "company": "BCG Digital Ventures",
+      "companyUrl": "https://www.linkedin.com/company/bcg-digital-ventures",
+      "description": "BCG Digital Ventures is the corporate innovation and digital business-building arm of the Boston Consulting Group. They invent, build and invest in startups while working in highly inter-disciplinary teams.",
+      "location": null,
+      "start": "2019-08",
+      "end": "2019-09",
+      "dateRange": "Aug 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Product Development & Marketing",
+      "company": "Dialogue",
+      "companyUrl": "https://www.linkedin.com/company/dialogue-md",
+      "description": "Dialogue is a leading tele-medicine and virtual care provider based in Canada. With their Munich office they are building and growing operations in Germany.",
+      "location": null,
+      "start": "2019-05",
+      "end": "2019-08",
+      "dateRange": "May 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Business Development Consultant",
+      "company": "TrustYou",
+      "companyUrl": "https://www.linkedin.com/company/trustyou",
+      "description": "TrustYou is an independent provider of hotel reputation scores and reviews. With their natural language processing technology, they process millions of verified reviews from across the web and compute objective ratings and scores that power hundreds of travel sites across the globe.",
+      "location": null,
+      "start": "2019-04",
+      "end": "2019-07",
+      "dateRange": "Apr 2019 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Student Assistant",
+      "company": "EHG-TUM",
+      "companyUrl": "https://www.linkedin.com/company/ehg-tum",
+      "description": null,
+      "location": null,
+      "start": "2018-09",
+      "end": "2019-02",
+      "dateRange": "Sep 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Trend Researcher",
+      "company": "Innovationsmanagement Bau GmbH",
+      "companyUrl": "https://www.linkedin.com/company/innovationsmanagement-bau",
+      "description": "Co-authored a trend report for the construction industry using trend research, scenario planning and ideation methods",
+      "location": null,
+      "start": "2018-08",
+      "end": "2018-10",
+      "dateRange": "Aug 2018 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Online & Print Marketing",
+      "company": "LoadFox",
+      "companyUrl": "https://www.linkedin.com/company/loadfox-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2017-07",
+      "end": "2017-12",
+      "dateRange": "Jul 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Online Marketing",
+      "company": "ryd",
+      "companyUrl": "https://www.linkedin.com/company/rydofficial",
+      "description": null,
+      "location": null,
+      "start": "2016-03",
+      "end": "2017-02",
+      "dateRange": "Mar 2016 – Feb 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Technology Management",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Waseda University",
+      "degree": "Exchange Semester",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Media, Management and Digital Technologies",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Management & Technology",
+      "dateRange": "2013 – 2018"
+    },
+    {
+      "school": "Hankuk University of Foreign Studies",
+      "degree": "Exchange Semester",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "UCL",
+      "degree": "Summer English Course",
+      "dateRange": "2014"
+    }
+  ],
+  "skills": [
+    "Design",
+    "Research",
+    "User Experience (UX)",
+    "Teamwork",
+    "Microsoft PowerPoint",
+    "Product Development",
+    "InDesign",
+    "Design Thinking",
+    "User Experience Design",
+    "Adobe Illustrator",
+    "Figma (Software)",
+    "Online-Marketing",
+    "Präsentationen",
+    "E-Mail-Marketing",
+    "Produktdesign"
+  ],
+  "languages": [
+    "Deutsch",
+    "Französisch",
+    "Filipino",
+    "Englisch",
+    "Japanisch"
+  ],
+  "company": {
+    "name": "Tanso",
+    "tagline": "Carbon accounting & ESG data management software for manufacturing companies",
+    "description": "Tanso is the ESG and carbon accounting software that industrial companies in DACH rely on to compete and comply in carbon-sensitive sectors. The Tanso platform enables companies to meet customer requests and regulatory requirements in sustainability, ensuring data management to the highest standards through structured, audit-proof processes. With TÜV Rheinland-certified methodology, Tanso is trusted by over 300 industrial customers across automotive, mechanical engineering, food and chemicals to strengthen their competitive position in sustainability and ESG performance.\n\nMore information about Tanso: www.tanso.de",
+    "industry": "Software Development",
+    "website": "https://www.tanso.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/tansotechnologies",
+    "employeeCount": 72,
+    "foundedYear": 2021,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Software",
+      "Carbon accounting",
+      "CO2 accounting",
+      "Software development",
+      "CO2 management",
+      "Carbon management",
+      "Climate Intelligence"
+    ]
+  }
+}

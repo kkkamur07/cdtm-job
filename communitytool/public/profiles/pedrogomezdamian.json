@@ -1,0 +1,195 @@
+{
+  "id": "pedrogomezdamian",
+  "name": "Pedro Gómez",
+  "headline": "CEO & Co-Founder at Orbem",
+  "avatar": {
+    "sm": "/avatars/pedrogomezdamian-sm.webp",
+    "lg": "/avatars/pedrogomezdamian.webp",
+    "blur": "data:image/webp;base64,UklGRnYBAABXRUJQVlA4IGoBAADQBgCdASogACAAPtFao00oJSMiMBgIAQAaCWwAnTMlOmtwAVAHufxiCrfqh+k/sP+J+aKZosr/g/XOMwRohaAA+bhQCHX+lRs2sy0ph9mKSWcgPo+oL6HiJEH5b9M/385Lgwo8BkeP5iqLv2H/kD6wvPw9f96+lhusngvB1wA/yWLFDIfxMxrjH/q/sswt0jtxiDONh+RRut0LJpePh0+NeBPFPt8hC4Ga0y2xsMFyF/OuAcegvB7mrZkl5Og8wQS1V3cNlmMGaC3enkQxt66db+US7WTPCPnbSGE+cXGhrz+ruqoHC9TR0FAdSWkPQyvMbieAk4Szh9i22v3RAdSANhCJCbLMW29nMUhvP5yaF++MkefqOvVvyFc83Uu0W6ubUHPvZH1nbPOJj15YWbsaA3PjCsqeG7dv5tnPWvkMsSIeGgdeYJfmHHKLHp+OA/b7pahYv5uO/AUBVp2Bot0ZnMdTgZANdUYAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/pedrogomezdamian",
+  "personId": 1254,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Biomedical Computing",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Pedro Gómez",
+  "ca": null,
+  "summary": "Making the invisible visible with AI-powered MRI at an industrial scale. Discover more at orbem.ai",
+  "positions": [
+    {
+      "title": "CEO & Co-Founder",
+      "company": "Orbem",
+      "companyUrl": "https://www.linkedin.com/company/orbem-ai",
+      "description": "Making the invisible visible with AI-powered MRI at an industrial scale.",
+      "location": null,
+      "start": "2019-11",
+      "end": null,
+      "dateRange": "Nov 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "MRI Scientific Consultant",
+      "company": "Freelance, self-employed",
+      "companyUrl": null,
+      "description": "Scientific consultant developing advanced quantitative & AI-powered MRI technology.",
+      "location": null,
+      "start": "2017-09",
+      "end": "2019-10",
+      "dateRange": "Sep 2017 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Early Stage Researcher",
+      "company": "GE Research",
+      "companyUrl": "https://www.linkedin.com/company/geresearch",
+      "description": "AI-powered quantitative MRI technology development for Neuroimaging.",
+      "location": null,
+      "start": "2014-10",
+      "end": "2017-09",
+      "dateRange": "Oct 2014 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Research Associate",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Diffusion MRI technology development.",
+      "location": null,
+      "start": "2014-01",
+      "end": "2014-08",
+      "dateRange": "Jan 2014 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "RIO Complex",
+      "companyUrl": null,
+      "description": "Shared medical offices for health practitioners.",
+      "location": null,
+      "start": "2013-04",
+      "end": "2016-12",
+      "dateRange": "Apr 2013 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "CEO & Co-Founder",
+      "company": "METAS",
+      "companyUrl": null,
+      "description": "Social impact venture created to educate underserved Mexican youth.",
+      "location": null,
+      "start": "2012-01",
+      "end": "2017-08",
+      "dateRange": "Jan 2012 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Sourcing Intern",
+      "company": "GE HealthCare",
+      "companyUrl": "https://www.linkedin.com/company/gehealthcare",
+      "description": "Supply chain management and sourcing of medical equipment.",
+      "location": null,
+      "start": "2011-08",
+      "end": "2012-03",
+      "dateRange": "Aug 2011 – Mar 2012",
+      "current": false
+    },
+    {
+      "title": "R&D Intern",
+      "company": "GE Research",
+      "companyUrl": "https://www.linkedin.com/company/geresearch",
+      "description": "MRI imaging with hyperpolarized subtances for tumor monitoring.",
+      "location": null,
+      "start": "2011-01",
+      "end": "2011-07",
+      "dateRange": "Jan 2011 – Jul 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Philosophy (Ph.D.), Biomedical Imaging & Informatics",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's Degree, Biomedical Computing",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Tecnológico de Monterrey",
+      "degree": "Bachelor of Science (BSc), Biomedical/Medical Engineering",
+      "dateRange": "2007 – 2012"
+    }
+  ],
+  "skills": [
+    "Microsoft Office",
+    "Public Speaking",
+    "Microsoft Excel",
+    "Team Leadership",
+    "Public Health",
+    "Start-ups",
+    "Medical Devices",
+    "Research",
+    "Entrepreneurship",
+    "Project Management",
+    "New Business Development",
+    "Strategic Planning",
+    "Team Building",
+    "Business Strategy",
+    "Teamwork",
+    "Social Entrepreneurship",
+    "Healthcare",
+    "Matlab",
+    "Wellness",
+    "R&D",
+    "Biomedical Engineering",
+    "Research and Development (R&D)",
+    "Kinetic Modeling",
+    "13C NMR"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Portuguese",
+    "German",
+    "French"
+  ],
+  "company": {
+    "name": "Orbem",
+    "tagline": "Making the invisible visible with AI-powered MRI at an industrial scale.",
+    "description": "See the world from the inside out.\n\nWe use AI to industrialize MRI, delivering non-invasive insight into everything from fruits and seeds to eggs and the human body. By transforming what is becoming the world’s largest biological dataset into actionable intelligence, we help food producers, researchers, and innovators make better decisions.\n\nWith previously inaccessible information, such as an embryo’s sex inside an egg, a seed’s health, or an avocado’s internal quality, we serve global customers across agriculture, food, and health. Our rapid, nondestructive analyses reduce waste, increase quality and transparency, and accelerate the shift toward a more sustainable and healthier future.\n\nHeadquartered in Munich with an office in Houston, our world-class team is scaling inside-out technology to transform how humanity sees and understands biological matter.\n\nCurious what you could do if you could see inside? Discover our solutions at orbem.ai.\n\nJoin our team and help us build a more sustainable and healthier world.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://orbem.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/orbem-ai",
+    "employeeCount": 208,
+    "foundedYear": 2019,
+    "location": "Munich, Germany",
+    "specialities": [
+      "MRI",
+      "Artificial Intellilgence"
+    ]
+  }
+}

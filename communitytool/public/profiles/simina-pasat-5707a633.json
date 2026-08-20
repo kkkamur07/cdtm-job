@@ -1,0 +1,207 @@
+{
+  "id": "simina-pasat-5707a633",
+  "name": "Simina Pasat",
+  "headline": "VP of Product, GitHub",
+  "avatar": {
+    "sm": "/avatars/simina-pasat-5707a633-sm.webp",
+    "lg": "/avatars/simina-pasat-5707a633.webp",
+    "blur": "data:image/webp;base64,UklGRkYBAABXRUJQVlA4IDoBAAAwBgCdASogACAAPslSoUunpKMhsAwA8BkJbACdMoC4YKD4QrksLYckLc8EdeB2Tz8GhzJJbx/xybygAP6vl9Z3p3IAm8jdam8gsQ4a+5LIMOJJM7FYWL4yTyLVBVAvfjiyJqEbTIh0jl4jpX8SuKr1s/VEw+Wy/a84UOJmg+fhgPVOBlsAlFd3nionM2FesSAv8//a/cWOqegLyeVk7J03kyILcZMWfkr3E+oLRPsbo88eEWr1Vj7GxrAzuNN34zmdGaJPvCTkkiR/b6Y91B5JYRFE50wQ5ZNdc7uxIuOoSQNpjFT5n7RWtjY31I3aHzsBNIzuSCYkzwZWiJzmDmMN/bWWqZynNmwyeAJgss2EIoDN98o/9r8ZcziS+rXgB0XB63bqBUaLjPfDDl7j2BK0n7FWQhaXNOAAAA=="
+  },
+  "location": "Seattle, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/simina-pasat-5707a633",
+  "personId": 1024,
+  "classes": [
+    {
+      "id": 73,
+      "label": "Spring 2013",
+      "season": "Spring",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2013",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Simina Pasat",
+  "ca": null,
+  "summary": "Product leader with 9+ years experience of leading diverse, high performing teams. Passionate to truly understand what problems customers face and ship beautiful experiences to make their lives better. Time to market matters.",
+  "positions": [
+    {
+      "title": "VP, Product Management",
+      "company": "GitHub",
+      "companyUrl": "https://www.linkedin.com/company/github",
+      "description": null,
+      "location": null,
+      "start": "2024-11",
+      "end": null,
+      "dateRange": "Nov 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Sr Director of Product, Copilot Enterprise",
+      "company": "GitHub",
+      "companyUrl": "https://www.linkedin.com/company/github",
+      "description": "Leading our investments in Copilot Enterprise and Copilot experiences on github.com, including the GA launch for Copilot Enterprise (Feb 2024)",
+      "location": null,
+      "start": "2023-11",
+      "end": "2024-11",
+      "dateRange": "Nov 2023 – Nov 2024",
+      "current": false
+    },
+    {
+      "title": "Sr. Director of Product, Core Productivity",
+      "company": "GitHub",
+      "companyUrl": "https://www.linkedin.com/company/github",
+      "description": "Lead the product team responsible for our investments in repositories, code search and client apps (Mobile, CLI, Desktop) .",
+      "location": null,
+      "start": "2023-05",
+      "end": "2024-05",
+      "dateRange": "May 2023 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Sr. Director of Product, Communities",
+      "company": "GitHub",
+      "companyUrl": "https://www.linkedin.com/company/github",
+      "description": null,
+      "location": null,
+      "start": "2022-05",
+      "end": "2023-05",
+      "dateRange": "May 2022 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Sr. Director, Special Projects",
+      "company": "GitHub",
+      "companyUrl": "https://www.linkedin.com/company/github",
+      "description": "I lead the Special Projects team at GitHub, a customer-obsessed team of PMs & engineers, with the mission to address top customer friction encountered by developers as they're using GitHub. \n\nIn the past year, the team tackled over 100 customer-facing product improvements, building excitement in the open source community (and measured through their reactions to our releases) and trust with our Enterprise customers. As a leader, I more than doubled the size of the team across PM and engineering, leading in a high performing, diverse team and helped design a solid process to continuously prioritize and release value to customers.",
+      "location": null,
+      "start": "2021-09",
+      "end": "2022-05",
+      "dateRange": "Sep 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Director of Product, Special Projects",
+      "company": "GitHub",
+      "companyUrl": "https://www.linkedin.com/company/github",
+      "description": "- Immediately after joining GitHub, I led the product launch for the free pricing tier offering developers unlimited private repositories - https://github.blog/2019-01-07-new-year-new-github/ . \n- I led product and launch for GitHub Package Registry, culminating in one of the most successful product launches and betas in GitHub at that time https://github.blog/2019-05-10-introducing-github-package-registry/\n- I was the acquisition lead for Dependabot joining GitHub\n- I then started growing the Special Projects PM team, who continued important product launches such as making GitHub free for teams https://github.blog/2020-04-14-github-is-now-free-for-teams/",
+      "location": null,
+      "start": "2018-12",
+      "end": "2021-08",
+      "dateRange": "Dec 2018 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Senior PM Manager",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "During this time, I helped taking App Center from a beta product to GA (November 2017), and in May 2018 my team was among the first partners to integrate with the new GitHub Checks API with a presence at the //build conference keynote.\n\nIn my role, I lead a team of program managers which owned few different services in App Center which allow users to build their apps in the cloud, test them on real devices and ship them to the App Store and Google Play Store. My team took customer obsession to heart, and worked together with UX researchers and designers to listen to our customers, ship new (or improved) experiences and measure their business impact.\n\nIn Summer 2018 I was part of the integration team which worked on the GitHub acquisition, and I led the Product work stream of the acquisition.",
+      "location": null,
+      "start": "2017-04",
+      "end": "2018-11",
+      "dateRange": "Apr 2017 – Nov 2018",
+      "current": false
+    },
+    {
+      "title": "Program Manager",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Between 2014 and 2015, I was a PM on the XBOX Live team. My responsibilities included running the GameDVR offering on Xbox One, also known as \"Xbox, record that\", including user-facing features as well as financial projections and optimizations for a responsible usage of storage and encoding services (which were expensive at the time).\n\nFollowing that, I worked as a PM on the Analytics offering of HockeyApp, and then App Center.",
+      "location": null,
+      "start": "2014-10",
+      "end": "2017-04",
+      "dateRange": "Oct 2014 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Technology Strategy & Software Engineer - Working Student",
+      "company": "SAP Hybris",
+      "companyUrl": "https://www.linkedin.com/company/sap-hybris",
+      "description": "I was part of the Hybris Labs team and focused on exploring and prototyping new technologies and concepts in combination with eCommerce. The technologies at that time were around IoT and Voice UIs, and the prototypes I built were using mobile apps and shown to consumers at conferences around the world as a way to get early feedback to be included in the Hybris (now SAP) offering.",
+      "location": null,
+      "start": "2012-12",
+      "end": "2014-07",
+      "dateRange": "Dec 2012 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "Tutor, Design Patterns in Software Engineering",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2012-11",
+      "end": "2013-03",
+      "dateRange": "Nov 2012 – Mar 2013",
+      "current": false
+    },
+    {
+      "title": "Web Developer",
+      "company": "4PSA",
+      "companyUrl": "https://www.linkedin.com/company/4psa",
+      "description": null,
+      "location": null,
+      "start": "2011-06",
+      "end": "2012-10",
+      "dateRange": "Jun 2011 – Oct 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Computer Software Engineering",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Technology Management",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Computer Science",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "\"Politehnica\" University of Bucharest",
+      "degree": "Bachelor, Computer Science",
+      "dateRange": "2007 – 2011"
+    }
+  ],
+  "skills": [
+    "Product Management",
+    "Strategic Planning",
+    "Team Building",
+    "Organizational Leadership",
+    "Diversity & Inclusion",
+    "Organizational Effectiveness",
+    "Product Vision"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian",
+    "French"
+  ],
+  "company": {
+    "name": "GitHub",
+    "tagline": "The home of software development",
+    "description": "As the global home for all developers, GitHub is the complete AI-powered developer platform to build, scale, and deliver secure software. Over 100 million people, including developers from 90 of the Fortune 100 companies, use GitHub to build amazing things together across 330+ million repositories. With all the collaborative features of GitHub, it has never been easier for individuals and teams to write faster, better code.",
+    "industry": "Software Development",
+    "website": "https://github.com",
+    "linkedInUrl": "https://www.linkedin.com/company/github",
+    "employeeCount": 6137,
+    "foundedYear": 2008,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

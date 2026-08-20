@@ -1,0 +1,151 @@
+{
+  "id": "pietrobelligoli",
+  "name": "Pietro Belligoli",
+  "headline": "Digital Twins @Roche | LLM Research @Harvard Med | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/pietrobelligoli-sm.webp",
+    "lg": "/avatars/pietrobelligoli.webp",
+    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACwBQCdASogACAAPtFaqU2oJSQiKAqpABoJZQDBzYw8s3e1i57BLnkQOAggyD5l7DOXTtTMHQAA/vqsyJ7jMiV/1BL0MER+ayKv+yJeQ+PV6xmaqFE+zxySOiO8HgLX45BfyEXTHQ1cSLRN346JUtwfDin6Zc98P2PoW1wyQ0jgM+oFDH3zXaHEnVboAg6L9nA2A+HGXinhJM7OEltZuS4SVQOvCgyXZqAVJvUncyoity2Q2t9rvzI8QfQy6FTA5AA="
+  },
+  "location": "Cambridge, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/pietrobelligoli",
+  "personId": 922,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Pietro Belligoli",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Applied Research | Multimodal Foundation Models",
+      "company": "Roche",
+      "companyUrl": "https://www.linkedin.com/company/roche",
+      "description": "Researching the use of patient digital twins in clinical trials to simulate control arms. Pretraining and fine-tuning of multimodal foundation models with ophthalmology clinical trial data.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-04",
+      "end": "2025-08",
+      "dateRange": "Apr 2025 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Research | LLMs for Oncology Decision Support",
+      "company": "Boston Children's Hospital",
+      "companyUrl": "https://www.linkedin.com/company/bostonchildrenshospital",
+      "description": "Research at the Machine Learning for Medical Language (MLML) lab, part of the Computation Health Informatics Program (CHIP) at Boston Children's Hospital. Research on how to leverage LLMs to enhance oncologists' decision-making support for breast cancer treatment.",
+      "location": "Cambridge, Massachusetts, United States",
+      "start": "2024-09",
+      "end": "2025-09",
+      "dateRange": "Sep 2024 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Avi Medical",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-03",
+      "end": "2024-06",
+      "dateRange": "Mar 2024 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Product Management",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-05",
+      "end": "2024-03",
+      "dateRange": "May 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Data Science",
+      "company": "Blink",
+      "companyUrl": "https://www.linkedin.com/company/blinklastmile",
+      "description": "Blink (YC W21), startup backed by Y Combinator, provides sustainable same-day delivery service for eCommerce companies in Europe.",
+      "location": "Milan, Lombardy, Italy",
+      "start": "2022-01",
+      "end": "2022-07",
+      "dateRange": "Jan 2022 – Jul 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard Medical School",
+      "degree": "Visiting Researcher",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Student Researcher, Center for Collective Intelligence",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science and Business",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Università Ca'​ Foscari Venezia",
+      "degree": "Bachelor of Science - BS, Digital Management",
+      "dateRange": "2019 – 2022"
+    }
+  ],
+  "skills": [
+    "Digital Transformation",
+    "English",
+    "Management",
+    "Computer Literacy",
+    "Microsoft Office",
+    "Digital Marketing",
+    "Group Work",
+    "Python (Programming Language)",
+    "Data Analytics",
+    "Start-up"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Boston Children's Hospital",
+    "tagline": "Where the world comes for answers.",
+    "description": "Boston Children's Hospital is a 404-bed comprehensive center for pediatric health care. As one of the largest pediatric medical centers in the United States, Boston Children's offers a complete range of health care services for children from birth through 21 years of age. (Our services can begin interventions at 15 weeks gestation and in some situations we also treat adults.)\n\nWe have approximately 25,000 inpatient admissions each year and our 200+ specialized clinical programs schedule 557,000 visits annually. Last year, the hospital performed more than 26,500 surgical procedures and 214,000 radiological examinations.\n\nOur team of physicians and nurses has been recognized by a number of independent organizations for overall excellence, and we're proud to share some notable examples with you here.",
+    "industry": "Hospitals and Health Care",
+    "website": "http://www.childrenshospital.org",
+    "linkedInUrl": "https://www.linkedin.com/company/bostonchildrenshospital",
+    "employeeCount": 17272,
+    "foundedYear": 1869,
+    "location": "Boston, United States",
+    "specialities": [
+      "Research",
+      "Patient Services",
+      "Technology",
+      "Pediatrics",
+      "Hospital",
+      "Innovation"
+    ]
+  }
+}

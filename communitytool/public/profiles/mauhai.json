@@ -1,0 +1,149 @@
+{
+  "id": "mauhai",
+  "name": "Hai Mau",
+  "headline": "Founder @ Kausate | Building neo data infrastructure for direct access to company registers",
+  "avatar": {
+    "sm": "/avatars/mauhai-sm.webp",
+    "lg": "/avatars/mauhai.webp",
+    "blur": "data:image/webp;base64,UklGRkoBAABXRUJQVlA4ID4BAACQBgCdASogACAAPtFiqk+oJaOiKAgBABoJbACdM1gYwQyu1Gm3Y+shHUFp0BXCuZ09B4V+K/fDkv+eY74AANvrILdwEZHhvGIEmE8LsI/3x6wph/XNFPRwLotoEsthGZNYl3+LFVncqpun/Au8VNc1QCGQ2dCAti80aBHc5tAUiRwcmMOWgMs1vv1iRkB/QoDlknADzvwnm6xnNDs0njYwBi1ewmv8liREc+x42+WF3pJbcOV2jnFxwNlCzr05V8FJ7VKjCRUMpp8rd9hQzUjIkR3KA7ykyXnjFp4H/82/a2sUWWBf1DqtUtphWnaQUDVfzpgDgLPwdCX35gDz/APJlc08awmYG3tWK9s4h1X/cfPxcXWJdVIJkfPqMpyqVBF7vL/1XsjS0W0ZCFDIozSjXSRykS9Y0GzSqn2kAAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/mauhai",
+  "personId": 1185,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Technical and Management oriented Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Hai Nguyen Mau",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "customer service & founder",
+      "company": "Kausate",
+      "companyUrl": "https://www.linkedin.com/company/kausate",
+      "description": "Building neo data infrastructure for direct access to company registers",
+      "location": null,
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Advisor",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": null,
+      "location": null,
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "COO",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": "Y42 is the first fully managed Modern DataOps Cloud for production-ready data pipelines on top of Google BigQuery and Snowflake. Raised largest European Series A in SaaS until that date.",
+      "location": null,
+      "start": "2024-07",
+      "end": "2025-08",
+      "dateRange": "Jul 2024 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "VP Operations",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": null,
+      "location": null,
+      "start": "2021-06",
+      "end": "2024-07",
+      "dateRange": "Jun 2021 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Head of Operations",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2021-06",
+      "dateRange": "Jan 2020 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "metris.io",
+      "companyUrl": "https://www.linkedin.com/company/metris-io",
+      "description": "Automating desk research using state-of-the-art natural language processing via LLMs (BERT). Use Cases: Structured information extraction from ESG reports, Event & Metadata Extraction for Asset Management & Consulting",
+      "location": null,
+      "start": "2018-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2018 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Several Roles",
+      "company": "Various Companies",
+      "companyUrl": "https://www.linkedin.com/company/various-boards",
+      "description": "Analyst roles in different industries such as consulting (Boston Consulting Group), infectious diseases (Fraunhofer EMFT), oil & gas (Siemens), defense (Renk AG) and research (Max Planck Institute, CITI of Columbia University)",
+      "location": null,
+      "start": "2011-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2011 – Dec 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Columbia University",
+      "degree": "Visiting Scholar, Columbia Business School",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master’s Degree, Management and Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Singapore Management University",
+      "degree": "Visiting Student",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Management and Technology",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Python (Programming Language)",
+    "Data Engineering",
+    "Business Operations"
+  ],
+  "languages": [],
+  "company": null
+}

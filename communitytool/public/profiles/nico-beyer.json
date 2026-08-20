@@ -1,0 +1,124 @@
+{
+  "id": "nico-beyer",
+  "name": "Nico Alexander Beyer",
+  "headline": "IT-Expert, Entrepreneur",
+  "avatar": null,
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/nico-beyer",
+  "personId": 1582,
+  "classes": [
+    {
+      "id": 54,
+      "label": "Fall 2003",
+      "season": "Fall",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Nico Beyer",
+  "ca": null,
+  "summary": "IT Guy, Entrepreneur and Optimist.",
+  "positions": [
+    {
+      "title": "Son No. 1",
+      "company": "Beyer & Söhne",
+      "companyUrl": "https://www.linkedin.com/company/beyer-&-s-hne",
+      "description": "Beyer & Söhne is the producer of insane quality anti-aging skin care products. Our customers can not only expect high quality products, but also an open and honest explanation on what we do and why. This combination of openess, transparency and great products sets us appart.\n\nResponsible for everything behind the scenes: Finance, Operations, IT",
+      "location": "Berlin, Germany",
+      "start": "2011-03",
+      "end": null,
+      "dateRange": "Mar 2011 – Present",
+      "current": true
+    },
+    {
+      "title": "Management consultant",
+      "company": "Detecon International GmbH",
+      "companyUrl": "https://www.linkedin.com/company/detecon",
+      "description": "ITIL, IT Service Management, Interim ITIL Service Manager, IT Outsourcing",
+      "location": "Business Consultant",
+      "start": "2008-10",
+      "end": "2011-03",
+      "dateRange": "Oct 2008 – Mar 2011",
+      "current": false
+    },
+    {
+      "title": "CTO",
+      "company": "CVex GmbH",
+      "companyUrl": null,
+      "description": "StartUp for a Saas Recruiting Platform, Product Development, Project Management",
+      "location": null,
+      "start": "2007-10",
+      "end": "2008-07",
+      "dateRange": "Oct 2007 – Jul 2008",
+      "current": false
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": "Technology Consulting - Performance Engineering",
+      "location": null,
+      "start": "2007-04",
+      "end": "2007-10",
+      "dateRange": "Apr 2007 – Oct 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Certificate in Technology Management, Technology Management",
+      "dateRange": "2004 – 2006"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "MSc hons., Finance & Information Management",
+      "dateRange": "2001 – 2006"
+    },
+    {
+      "school": "Center for Digital Technology and Management",
+      "degree": "Certificate, Technology Management",
+      "dateRange": "2003 – 2005"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "BSc, Informatics / Computer Science",
+      "dateRange": "2001 – 2004"
+    }
+  ],
+  "skills": [
+    "Management Consulting",
+    "Software Engineering",
+    "Lean Startup",
+    "Business Operations",
+    "IT Outsourcing",
+    "Web Development",
+    "Business Analysis",
+    "Innovation Management",
+    "Product Management",
+    "Business Strategy",
+    "Management",
+    "Telecommunications",
+    "Consulting",
+    "Project Management",
+    "Start-ups",
+    "Node.js",
+    "Amazon Web Services (AWS)",
+    "TypeScript"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": null
+}

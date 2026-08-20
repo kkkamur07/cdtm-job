@@ -1,0 +1,321 @@
+{
+  "id": "manuelzahn-com",
+  "name": "Manuel Zahn",
+  "headline": "Founding ML Engineer at Parable | Researcher at Harvard & Stanford  | TUM & CDTM Alumn",
+  "avatar": {
+    "sm": "/avatars/manuelzahn-com-sm.webp",
+    "lg": "/avatars/manuelzahn-com.webp",
+    "blur": "data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAABwBgCdASogACAAPs1Yo0unpaMhsBgMAPAZiUAVhCDsep8i3fvuZxDRicPAZwjklHpypOSoH+fNh8P6TAAA/v5gxnSPwPJqi0Hfed0ybGQuv87zvRBnt8siw/0PPCHhF3V3OIwU9Fb/yxaPvnVfv4nKZMx7ZQGSL0ozTOMPBpk3QKeB2dr+72aDPkctFzZ9kNa3qZj9gbrRSlbAWeO15H5EApBvCPT2HqFaoRVWy6sNEMrMWh2vT1p1648wvUJHk1yDz+8uqmXQRW1qfXN+rZ+24gCO9RnC6Pyfoabjuj199kChBPVQ+aaGRBL1keFpXmNERktGns+6YdKzRhPkGgSA6yYc62Lv8OO24atshOAAAA=="
+  },
+  "location": "New York, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/manuelzahn-com",
+  "personId": 974,
+  "classes": [
+    {
+      "id": 82,
+      "label": "Fall 2017",
+      "season": "Fall",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2017",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Manuel Zahn",
+  "ca": null,
+  "summary": "manuelzahn.com",
+  "positions": [
+    {
+      "title": "Founding Engineer - Machine Learning",
+      "company": "Parable",
+      "companyUrl": "https://www.linkedin.com/company/askparable",
+      "description": null,
+      "location": null,
+      "start": "2024-08",
+      "end": null,
+      "dateRange": "Aug 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Intern | Institute of Product Development (IPEK)",
+      "company": "Karlsruher Institut für Technologie (KIT)",
+      "companyUrl": "https://www.linkedin.com/company/kit",
+      "description": null,
+      "location": "Greater Karlsruhe Area",
+      "start": "2010-11",
+      "end": null,
+      "dateRange": "Nov 2010 – Present",
+      "current": true
+    },
+    {
+      "title": "Greater Boston",
+      "company": "VideaHealth",
+      "companyUrl": "https://www.linkedin.com/company/videaai",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Greater Boston",
+      "company": "VideaHealth",
+      "companyUrl": "https://www.linkedin.com/company/videaai",
+      "description": "Building cutting edge Machine Learning algorithms for medical applications. Annotation collection, data preprocessing, deep learning model development, cloud deployment and monitoring.",
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Machine Learning Engineering Team Lead",
+      "company": "VideaHealth",
+      "companyUrl": "https://www.linkedin.com/company/videaai",
+      "description": null,
+      "location": "New York City Metropolitan Area",
+      "start": "2022-10",
+      "end": "2024-08",
+      "dateRange": "Oct 2022 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "company": "VideaHealth",
+      "companyUrl": "https://www.linkedin.com/company/videaai",
+      "description": null,
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-10",
+      "dateRange": "Oct 2021 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Global Entrepreneur in Residence",
+      "company": "Venture Development Center at UMass Boston",
+      "companyUrl": "https://www.linkedin.com/company/vdc-umb",
+      "description": "As a Global Entrepreneur in Residence I give lectures, provide mentoring, business support and networking opportunities to entrepreneurs who desire to launch a new venture at the VDC. I assist entrepreneurs in robotics, AI and healthcare technology to design and develop products that meet potential customer's needs.",
+      "location": "Boston, Massachusetts, United States",
+      "start": "2021-03",
+      "end": "2021-10",
+      "dateRange": "Mar 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Founding Engineer - Machine Learning",
+      "company": "VideaHealth",
+      "companyUrl": "https://www.linkedin.com/company/videaai",
+      "description": null,
+      "location": null,
+      "start": "2019-09",
+      "end": "2021-10",
+      "dateRange": "Sep 2019 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Master Thesis | Business Development",
+      "company": "Rosenberger Hochfrequenztechnik GmbH & Co. KG",
+      "companyUrl": "https://www.linkedin.com/company/rosenberger-group",
+      "description": "Thesis topic: \"Design of a business development strategy for development projects\",\nLeading a student team during a market analysis for a new development project and coordinating the cooperation between the company and university",
+      "location": "Munich Area, Germany",
+      "start": "2018-04",
+      "end": "2018-10",
+      "dateRange": "Apr 2018 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Business Development Consultant",
+      "company": "Viscopic",
+      "companyUrl": "https://www.linkedin.com/company/viscopic",
+      "description": "Consulting Viscopic on a new business opportunity as part of CDTM. The project included horizontal, vertical research and focused research. Part of the process included expert interviews, market analysis, competitor analysis and revenue potential calculations.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-04",
+      "end": "2018-07",
+      "dateRange": "Apr 2018 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "Product Development Consultant",
+      "company": "FRAMOS - WE ENABLE IMAGING",
+      "companyUrl": "https://www.linkedin.com/company/framos-gmbh",
+      "description": "Building a prototype of 3D-enabled glasses and a haptic feedback wristband for blind people, based on a new Intel RealSense 3D camera. Working in a team of four, in cooperation with our project partner Framos as part of the CDTM. The process included:\n- Analyzing multiple industries through core KPIs (market size, growth, margins etc.) to select the right maket for a 3D-camera application\n- Producing a prototype for proof of concept through agile development techniques\n- Creating marketing and branding around the product vision (video, flyers, logo, CI etc.)\n- Transferring the expertise gained, both tech and business, to the partner company and presenting the final prototype and vision",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-10",
+      "end": "2018-02",
+      "dateRange": "Oct 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Trend Research Analyst",
+      "company": "Vodafone",
+      "companyUrl": "https://www.linkedin.com/company/vodafone",
+      "description": "Worked in a team on future trend analysis for Vodafone. The project involved:\n- Identifying and analyzing tech and non-tech trends in the field of customer interatction in the telco\n- Creating future scenarios around these trends to help envision a potential customer's life\n- Proposing new potential products for Vodavone around the core trends, with a strong business case\nThe project involved 2 months of full-time work in close collaboration with Vodafone and multiple workshops on scenario based ideation techniques as part of the CDTM.",
+      "location": "Munich Area, Germany",
+      "start": "2017-08",
+      "end": "2017-10",
+      "dateRange": "Aug 2017 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & Media Coordinator",
+      "company": "Stanford Digital Shapers",
+      "companyUrl": "https://www.linkedin.com/company/digitalshapers",
+      "description": "We are an interdisciplinary club that aims to increase awareness of the impacts of technology on society. We seek to educate the Stanford community about the future of privacy, digital rights, social systems and employment in the digital age.\nwww.digitalshapers.org",
+      "location": "Stanford, CA, USA",
+      "start": "2017-01",
+      "end": "2017-06",
+      "dateRange": "Jan 2017 – Jun 2017",
+      "current": false
+    },
+    {
+      "title": "Intern | development department",
+      "company": "Magazino GmbH",
+      "companyUrl": "https://www.linkedin.com/company/magazino-a-jungheinrich-company",
+      "description": "Development of a production test bench for cables, PCB-design, Python programming, development of an intelligent sorting algorithm",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-11",
+      "end": "2016-12",
+      "dateRange": "Nov 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Intern | department „Industry 4.0“",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Accuracy specification of 3D Laser scanners as planning tool for BMW production halls",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-08",
+      "end": "2015-09",
+      "dateRange": "Aug 2015 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Soundsetter",
+      "companyUrl": "https://www.linkedin.com/company/soundsetter",
+      "description": "Soundsetter is an early-stage audio technology startup that develops headphones that can also be used as speakers. By simply folding up your Soundsetter headphones you are able to share your music at any time. By combining headphones and docking speakers into only one product, Soundsetter lets you never miss a chance to share your music. Additionally the possibility to connect your headphones with other Soundsetters in speaker and headphone mode creates a whole new experience of enjoying music together.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-04",
+      "end": "2016-10",
+      "dateRange": "Apr 2015 – Oct 2016",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis  | sensor development",
+      "company": "fos4X GmbH",
+      "companyUrl": "https://www.linkedin.com/company/polytech-a-s",
+      "description": "Compensation of Thermal and Mechanical Influences of Fiber Optic Rail Sensors",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-04",
+      "end": "2015-09",
+      "dateRange": "Apr 2015 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Intern | development department",
+      "company": "PULS GmbH",
+      "companyUrl": "https://www.linkedin.com/company/puls-gmbh",
+      "description": "Integrating an electrical logic circuit into a Complex Programmable Logic Device (CPLD)",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-09",
+      "end": "2013-10",
+      "dateRange": "Sep 2013 – Oct 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard University",
+      "degree": "Visiting Researcher at the Harvard Biorobotics Lab",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Researcher at the Stanford Robotics Lab, CS department",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Electrical Engineering and Information Technology",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "TUM School of Management",
+      "degree": "Master of Science (M. Sc.), Entrepreneurship/Entrepreneurial Studies",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Nanyang Technological University Singapore",
+      "degree": "Study abroad, Major: Electrical and Electronic Engineering",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Stiftung Bayerische EliteAkademie (BEA)",
+      "degree": "Additional Qualification, Organizational Leadership",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Electrical Engineering and Information Technology",
+      "dateRange": "2012 – 2015"
+    }
+  ],
+  "skills": [
+    "Engineering",
+    "Deep Learning",
+    "Data Analysis",
+    "Entrepreneurship",
+    "Machine Learning",
+    "Start-ups",
+    "Analytical Skills",
+    "Microcontrollers",
+    "Electrical Engineering",
+    "PCB Design",
+    "Computer Vision",
+    "Python",
+    "Matlab",
+    "C",
+    "PHP",
+    "HTML",
+    "MySQL",
+    "LaTeX",
+    "Team Leadership",
+    "Teamwork",
+    "Management",
+    "Presentation Skills",
+    "Discipline",
+    "Creativity Skills"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German"
+  ],
+  "company": {
+    "name": "Parable",
+    "tagline": "Parable is enterprise intelligence purpose-built for leaders\nwho want data-driven, measurable AI transformation.",
+    "description": "Executives have perfect visibility into financial allocation and zero visibility into time allocation. That's the problem behind 95% of AI transformation failures.\n\nParable is building Enterprise Intelligence - the operational measurement infrastructure that gives organizations the same clarity on time that they have on money. We aggregate workplace data, decode collective patterns with AI, and answer the strategic questions executives can't answer today: Do we have the time budget to execute these five priorities? Which AI pilots create real value? Where is operational debt hiding?\n\nFounded in 2024 when we realized companies were spending billions on AI transformation while flying completely blind on their most expensive resource. We saw an opportunity to build the foundational system enterprises actually need—not another point solution, but the measurement layer that makes all transformation work.\n\nWe've raised $17M to build what every Fortune 1000 company will eventually have: an aggregated operational database. The question isn't whether this exists, but whether it's built with transparency, security, and strategic intention.\n\nNot surveillance. Not productivity tracking. Aggregate insights only. Single-tenant architecture. Bank-level security. Your data stays in your dedicated private cloud.\n\nThe companies that win in the next decade won't be those with the most AI tools. They'll be those with operational clarity about what to automate, what to reimagine, and where to focus their most precious resource.\n\nIf you'd like to find out more about Parable, visit our website: http://www.askparable.com/",
+    "industry": "Business Intelligence Platforms",
+    "website": "https://www.askparable.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/askparable",
+    "employeeCount": 41,
+    "foundedYear": 2024,
+    "location": "Brooklyn, United States",
+    "specialities": []
+  }
+}

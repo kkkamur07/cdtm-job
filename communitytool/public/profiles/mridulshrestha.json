@@ -1,0 +1,237 @@
+{
+  "id": "mridulshrestha",
+  "name": "Mridul Shrestha",
+  "headline": "Director at Arbyte Solutions Pvt. Ltd.",
+  "avatar": {
+    "sm": "/avatars/mridulshrestha-sm.webp",
+    "lg": "/avatars/mridulshrestha.webp",
+    "blur": "data:image/webp;base64,UklGRjoBAABXRUJQVlA4IC4BAABwBgCdASogACAAPsFOn0unpCKht/qoAPAYCWwAnTMcgpnQ0q/Tn085zN2vDpuieKjtTP6yu6/W+nLA7YAA4a+55cUGmRnK2basuRRTqgbcnO8DKcEsxKODGCqjMbg812P1lETsmPAwdz13y1bKvrxSKahMjCaX4fw2kN6AluDl9/flQ2K5PBR/xuSycg+cu2cLKPG3fuWo3jC2yA5vq6HM9c3wM8Zz3/HPnWXTTj/1D3hfSllCH2On6wU+H1lEf/siBqwmn0JQbKmaqjCHnZ9I8VCCGk+i9gU2Dk0gUBLOUJtVtrz7lqAETNVXfcu2j8EDlFRtdq8UHPDfSOUPGFKjHPnmJFBCa9JJlzUZcD7DOCYHnLOVg8Ghzw0DAg2Om2pP8ajp/ugtvzEDHwAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/mridulshrestha",
+  "personId": 1256,
+  "classes": [
+    {
+      "id": 74,
+      "label": "Fall 2013",
+      "season": "Fall",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2013",
+  "major": "Communications Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Mridul Shrestha",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Arbyte Solutions",
+      "companyUrl": "https://www.linkedin.com/company/arbytesolutions",
+      "description": "Nepal",
+      "location": null,
+      "start": "2017-12",
+      "end": null,
+      "dateRange": "Dec 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Researcher",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Researching on ‘Performance Evaluation of Bluetooth Low Energy for proximity detection’. \nBuilding simulation models and analyzing the observations on Omnet++.",
+      "location": null,
+      "start": "2014-04",
+      "end": "2014-09",
+      "dateRange": "Apr 2014 – Sep 2014",
+      "current": false
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "company": "Actiworks Application Solutions GmbH",
+      "companyUrl": null,
+      "description": "• Programmed a robot consisting of several sensors that is communicated and controlled by a smartphone. \n• Built cross platform plugins in C++ for embedded system development boards that run on Android and Linux OS. \nWeb and cross platform application developer \n• Developed web and cross-platform iOS/ mobile applications using JavaScript, HTML5, and CSS3.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-06",
+      "end": "2015-06",
+      "dateRange": "Jun 2012 – Jun 2015",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant (Renewable Energy)",
+      "company": "Jacobs University Bremen",
+      "companyUrl": "https://www.linkedin.com/company/jacobs-university-bremen",
+      "description": "-Held weekly tutorials (lectures) for an average class size of 25 students.\n-Prepared weekly problem sets to monitor the students’ performance throughout the semester.",
+      "location": null,
+      "start": "2012-01",
+      "end": "2012-05",
+      "dateRange": "Jan 2012 – May 2012",
+      "current": false
+    },
+    {
+      "title": "Tutor",
+      "company": "Rice University",
+      "companyUrl": "https://www.linkedin.com/company/riceuniversity",
+      "description": "Greater Houston",
+      "location": null,
+      "start": "2011-09",
+      "end": "2011-12",
+      "dateRange": "Sep 2011 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "TeliaSonera - Ncell",
+      "companyUrl": "https://www.linkedin.com/company/teliacompany",
+      "description": "Radio Network Planning and Optimization\n-Planned and optimized radio network using ASSET simulation software.\n-Performed war drive to monitor the implemented radio network using TEMS Investigation.\n-As a member of Customer Complaints Resolution team, dealt personally with the clients and helped them solve the issues regarding network failure.",
+      "location": "Nepal",
+      "start": "2011-06",
+      "end": "2011-08",
+      "dateRange": "Jun 2011 – Aug 2011",
+      "current": false
+    },
+    {
+      "title": "Student Assistant (International Office)",
+      "company": "Jacobs University Bremen",
+      "companyUrl": "https://www.linkedin.com/company/jacobs-university-bremen",
+      "description": "Researched about the partner institutes of Jacobs University Bremen and updated the information in International Office's website",
+      "location": "Greater Bremen Area",
+      "start": "2011-01",
+      "end": "2011-02",
+      "dateRange": "Jan 2011 – Feb 2011",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant (General Electrical Engineering I/II)",
+      "company": "Jacobs University Bremen",
+      "companyUrl": "https://www.linkedin.com/company/jacobs-university-bremen",
+      "description": "-Held weekly tutorials (lectures) for an average class size of 25 students.\n-Prepared weekly problem sets to monitor the students’ performance throughout the semester.",
+      "location": "Greater Bremen Area",
+      "start": "2010-09",
+      "end": "2011-05",
+      "dateRange": "Sep 2010 – May 2011",
+      "current": false
+    },
+    {
+      "title": "Student Assistant (Academic Website)",
+      "company": "Jacobs University Bremen",
+      "companyUrl": "https://www.linkedin.com/company/jacobs-university-bremen",
+      "description": "Assisted Office for Academic Affairs and International Office in visual web design and Website (www.jacobs-university.de/academics) and Confluence editing",
+      "location": "Greater Bremen Area",
+      "start": "2010-09",
+      "end": "2011-05",
+      "dateRange": "Sep 2010 – May 2011",
+      "current": false
+    },
+    {
+      "title": "Assistant to Sr. Network Engineer",
+      "company": "Mercantile Communications Pvt. Ltd.",
+      "companyUrl": "https://www.linkedin.com/company/future-now",
+      "description": "- Configured several access layer routers and switches to provide the internet and intranet links: switch security and VLANs in Cisco Switches and dynamic and static routing protocols in Cisco Routers",
+      "location": "Nepal",
+      "start": "2010-06",
+      "end": "2010-08",
+      "dateRange": "Jun 2010 – Aug 2010",
+      "current": false
+    },
+    {
+      "title": "Student Assistant",
+      "company": "Jacobs University Bremen",
+      "companyUrl": "https://www.linkedin.com/company/jacobs-university-bremen",
+      "description": "Assisted in writing Bash scripts and programs in C++ for database evaluation",
+      "location": "Greater Bremen Area",
+      "start": "2010-06",
+      "end": "2010-07",
+      "dateRange": "Jun 2010 – Jul 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors degree in Technology Management",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Communications Engineering",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Jacobs University Bremen",
+      "degree": "Bachelor of Science, Electrical and Computer Engineering",
+      "dateRange": "2009 – 2012"
+    },
+    {
+      "school": "Rice University",
+      "degree": "Study Abroad, Electrical and Computer Engineering",
+      "dateRange": "2011"
+    },
+    {
+      "school": "Budhanilkantha School",
+      "degree": "GCE A-Level, Physics, Chemistry, Economics, Mathematics",
+      "dateRange": "2006 – 2008"
+    }
+  ],
+  "skills": [
+    "OS - Windows, Mac, Ubuntu",
+    "Microsoft Office",
+    "Photoshop",
+    "Drupal",
+    "Confluence",
+    "R project for Statistical Analysis",
+    "LT spice",
+    "Qbasic",
+    "C",
+    "C++",
+    "Matlab",
+    "Asset (Aircom)",
+    "TEMS Investigation",
+    "EAGLE PCB design Software",
+    "Tcpdump",
+    "Bash",
+    "HTML",
+    "Windows",
+    "Linux",
+    "Shell Scripting",
+    "JavaScript",
+    "CSS",
+    "PHP",
+    "Programming",
+    "HTML 5",
+    "Python",
+    "Algorithms",
+    "LaTeX",
+    "VHDL",
+    "Java",
+    "Pspice"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hindi",
+    "Nepal Bhasa",
+    "Nepali"
+  ],
+  "company": {
+    "name": "Arbyte Solutions",
+    "tagline": "Provide specialized software solutions while creating high-quality jobs.",
+    "description": "We build technology that is functional and trustworthy. Arbyte is a boutique technology company that delivers customized software solutions to cross-industry clients. We also work on offshore software development.",
+    "industry": "Software Development",
+    "website": "http://arbyte.com.np",
+    "linkedInUrl": "https://www.linkedin.com/company/arbyte-solutions",
+    "employeeCount": 16,
+    "foundedYear": 2018,
+    "location": null,
+    "specialities": []
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "martinkiechle",
+  "name": "Dr. Martin Kiechle",
+  "headline": "Director of Research at Maltego Technologies",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/martinkiechle",
+  "personId": 1932,
+  "classes": [
+    {
+      "id": 68,
+      "label": "Fall 2010",
+      "season": "Fall",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2010",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Martin Kiechle",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Director of Research",
+      "company": "Maltego",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Research",
+      "company": "Maltego",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2026-03",
+      "dateRange": "Jan 2023 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "Head of Technology",
+      "company": "Maltego",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2022-03",
+      "end": "2022-12",
+      "dateRange": "Mar 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Founder | Head of Technology",
+      "company": "Cobrainer GmbH",
+      "companyUrl": "https://www.linkedin.com/company/cobrainer",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2014-04",
+      "end": "2022-02",
+      "dateRange": "Apr 2014 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2013-02",
+      "end": "2016-12",
+      "dateRange": "Feb 2013 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "EGYM | DACH",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2012-05",
+      "end": "2012-12",
+      "dateRange": "May 2012 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "BMW Forschung und Technik GmbH",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2011-02",
+      "end": "2011-07",
+      "dateRange": "Feb 2011 – Jul 2011",
+      "current": false
+    },
+    {
+      "title": "Software Developer, Intern",
+      "company": "Nepton Oy",
+      "companyUrl": "https://www.linkedin.com/company/saarni-nepton",
+      "description": null,
+      "location": "Espoo, Finnland",
+      "start": "2010-03",
+      "end": "2010-04",
+      "dateRange": "Mar 2010 – Apr 2010",
+      "current": false
+    },
+    {
+      "title": "Linguistic Specialist, Part-time Associate",
+      "company": "symbio",
+      "companyUrl": "https://www.linkedin.com/company/symbio",
+      "description": null,
+      "location": "Beijing, China",
+      "start": "2006-10",
+      "end": "2007-03",
+      "dateRange": "Oct 2006 – Mar 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr.-Ing., Electrical, Electronics and Communications Engineering",
+      "dateRange": "2013 – 2019"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting student",
+      "dateRange": "2011"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Product & Innovation Management, Entrepreneurship",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl.-Ing., Electrical Engineering and Information Technology",
+      "dateRange": "2007 – 2012"
+    }
+  ],
+  "skills": [
+    "Data Science",
+    "Technology Management",
+    "Machine Learning",
+    "Software Engineering",
+    "Programming",
+    "Project Management",
+    "Data Mining",
+    "Algorithms",
+    "Computer Vision",
+    "Python (Programming Language)",
+    "Matlab",
+    "Java",
+    "C++",
+    "C",
+    "Mathematical Programming",
+    "Natural Language Processing (NLP)"
+  ],
+  "languages": [
+    "Chinese",
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Maltego",
+    "tagline": "Maltego is the world’s most used all-in-one intelligence platform for complex cyber investigations.",
+    "description": "Maltego is the world’s most used all-in-one investigation platform that turns complex data into actionable insights in minutes. Used by industry experts, law enforcement, and analysts at major organizations, it brings together all your data in one place, helping you uncover hidden connections with a suite of investigative tools. \n\nWith Maltego, teams can conduct everything from preliminary OSINT investigations to in-depth link analysis of large datasets. The platform also makes it easy to spot threats in real time with social media monitoring and enables the capture of digital evidence before it is altered or removed.\n\nHeadquartered in Munich, Germany, Maltego has grown to over 100 employees and is trusted by 2,000+ government organizations and 4,000+ companies worldwide—including the FBI, INTERPOL, and leading tech and financial firms, including half of the Dow 30.",
+    "industry": "Software Development",
+    "website": "https://www.maltego.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/maltego",
+    "employeeCount": 175,
+    "foundedYear": 2017,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

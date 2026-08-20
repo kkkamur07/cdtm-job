@@ -1,0 +1,169 @@
+{
+  "id": "dr-stephanie-schatz",
+  "name": "Dr. Stephanie Schatz",
+  "headline": "Head of Strategic Customers, EMEA Central",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-stephanie-schatz",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "Dr. Stephanie Schatz serves as Head of Strategic Customers at ServiceNow and is a member of the EMEA Central Leadership Team, where she built an elite team that drives value for enterprise clients through digital transformation and strategic partnerships. \nAs an ICF-certified Business Coach, Stephanie also supports executives on their growth journeys. Prior to ServiceNow, she served as Strategic Account Advisor at Salesforce and as Associate Partner at McKinsey & Company, where she spent a decade advising clients on driving their topline, mainly in Automotive & Manufacturing.\nStephanie holds a PhD in Negotiations, a Double Master’s Degree in International Management, and an Honors Degree in Technology Management. Beyond her professional work, she is committed to mentorship, a trained Yoga Instructor, and volunteers regularly at dog shelters around the world.",
+  "positions": [
+    {
+      "title": "Head of Strategic Customers, Central Europe",
+      "company": "ServiceNow",
+      "companyUrl": "https://www.linkedin.com/company/servicenow",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-05",
+      "end": null,
+      "dateRange": "May 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Director, Business Value Services",
+      "company": "Salesforce",
+      "companyUrl": "https://www.linkedin.com/company/salesforce",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-07",
+      "end": "2024-03",
+      "dateRange": "Jul 2020 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Associate Partner",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2010-10",
+      "end": "2020-07",
+      "dateRange": "Oct 2010 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Master Thesis (Marketing Innovations)",
+      "company": "BMW",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2009-07",
+      "end": "2010-05",
+      "dateRange": "Jul 2009 – May 2010",
+      "current": false
+    },
+    {
+      "title": "Working student",
+      "company": "Kabel Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/vodafone",
+      "description": null,
+      "location": null,
+      "start": "2007-10",
+      "end": "2008-09",
+      "dateRange": "Oct 2007 – Sep 2008",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Infosys Technologies Ltd.",
+      "companyUrl": "https://www.linkedin.com/company/infosys",
+      "description": null,
+      "location": null,
+      "start": "2007-01",
+      "end": "2007-12",
+      "dateRange": "Jan 2007 – Dec 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of St.Gallen",
+      "degree": "CEMS MIM, International Management",
+      "dateRange": "2009 – 2010"
+    },
+    {
+      "school": "University of Potsdam",
+      "degree": "Dr. rer. pol. (Ph.D.), Negotiation",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "University College Dublin",
+      "degree": "M.Sc., International Management",
+      "dateRange": "2010"
+    },
+    {
+      "school": "University of St.Gallen",
+      "degree": "Master of Arts, Marketing",
+      "dateRange": "2008 – 2010"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Arts (BA), Communication Science",
+      "dateRange": "2004 – 2008"
+    },
+    {
+      "school": "University of California, Berkeley, Haas School of Business",
+      "degree": "Visiting Research Scholar",
+      "dateRange": "2007"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2005 – 2007"
+    },
+    {
+      "school": "Trailhead by Salesforce",
+      "degree": "Ranger",
+      "dateRange": "2020 – 2024"
+    }
+  ],
+  "skills": [
+    "Coaching",
+    "German",
+    "Business Strategy",
+    "Management Consulting",
+    "Strategy",
+    "Market Research",
+    "Project Management",
+    "Marketing Strategy",
+    "Competitive Analysis",
+    "Consulting",
+    "Business Analysis"
+  ],
+  "languages": [],
+  "company": {
+    "name": "ServiceNow",
+    "tagline": "The AI platform for business transformation",
+    "description": "ServiceNow (NYSE: NOW) makes the world work better for everyone. Our cloud-based platform and solutions help digitize and unify organizations so that they can find smarter, faster, better ways to make work flow. So employees and customers can be more connected, more innovative, and more agile. And we can all create the future we imagine. The world works with ServiceNow. \n\nFor more information, visit www.servicenow.com.",
+    "industry": "Software Development",
+    "website": "http://www.servicenow.com",
+    "linkedInUrl": "https://www.linkedin.com/company/servicenow",
+    "employeeCount": 33401,
+    "foundedYear": null,
+    "location": "Santa Clara, United States",
+    "specialities": [
+      "Service Management",
+      "Enterprise Cloud",
+      "Custom App Development",
+      "Platform",
+      "ITSM",
+      "Security Operations",
+      "Customer Service Management",
+      "ITOM",
+      "GRC",
+      "HR Service Delivery",
+      "digitize workflows"
+    ]
+  }
+}

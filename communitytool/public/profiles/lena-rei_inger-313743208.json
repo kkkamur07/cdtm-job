@@ -1,0 +1,202 @@
+{
+  "id": "lena-rei_inger-313743208",
+  "name": "Lena Reißinger",
+  "headline": "Msc. Statistics & Data Science LMU | CDTM |  Munich Re",
+  "avatar": {
+    "sm": "/avatars/lena-rei_inger-313743208-sm.webp",
+    "lg": "/avatars/lena-rei_inger-313743208.webp",
+    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAAAQBgCdASogACAAPtFWpk2oJCOiMBgIAQAaCWIAyLjJugBT1JR34zDz1u80c2ZKheWS7gKfr0ymR4AA/vlza++HqTdr+H7Vkz9BQGyX07PXZzii3yeI6JbbsVgy7Ej3OMhltvmfrC/5Y4wCeuVuOiPX1eS2AZQOmllvD4kjJdCeo2Zgaxz16PAnVGrb24Ko50JjWfaz9IrAi5TJZfZY8MCJFYswrrX+vRxD2OQa+ef5m6C/6PrOyYF1gxL0/WTivXjbzQoB24MVaZ4XeN4x5JTklk/Jrwzo3xLUgh+q6UYSUuS6vXhLWecOrC9T/FdbOz49hHkiqAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lena-reißinger-313743208",
+  "personId": 929,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Statistics and Data Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lena Reißinger",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Apprenticeship Training Integrated Study",
+      "company": "Munich Re (Group)",
+      "companyUrl": "https://www.linkedin.com/company/munich-re",
+      "description": null,
+      "location": null,
+      "start": "2018-09",
+      "end": null,
+      "dateRange": "Sep 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Munich Re Ventures",
+      "companyUrl": "https://www.linkedin.com/company/munich-re-ventures",
+      "description": null,
+      "location": "San Francisco Bay Area",
+      "start": "2024-02",
+      "end": "2024-05",
+      "dateRange": "Feb 2024 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Risk Management and Compliance",
+      "company": "Great Lakes Insurance SE",
+      "companyUrl": "https://www.linkedin.com/company/great-lakes-reinsurance-uk-plc",
+      "description": null,
+      "location": null,
+      "start": "2023-04",
+      "end": "2023-07",
+      "dateRange": "Apr 2023 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Property facultative underwriting",
+      "company": "Munich Re (Group)",
+      "companyUrl": "https://www.linkedin.com/company/munich-re",
+      "description": null,
+      "location": "Ciudad de México, México",
+      "start": "2022-08",
+      "end": "2022-10",
+      "dateRange": "Aug 2022 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Marketing Communications",
+      "company": "Munich Re (Group)",
+      "companyUrl": "https://www.linkedin.com/company/munich-re",
+      "description": null,
+      "location": null,
+      "start": "2021-02",
+      "end": "2021-08",
+      "dateRange": "Feb 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "IMPROVEX",
+      "company": "Munich Re (Group)",
+      "companyUrl": "https://www.linkedin.com/company/munich-re",
+      "description": "Data analytics",
+      "location": null,
+      "start": "2020-09",
+      "end": "2021-01",
+      "dateRange": "Sep 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Digital Process Efficiency & Process Automation",
+      "company": "Munich Re (Group)",
+      "companyUrl": "https://www.linkedin.com/company/munich-re",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-08",
+      "dateRange": "Jan 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Property treaty underwriting",
+      "company": "Munich Re (Group)",
+      "companyUrl": "https://www.linkedin.com/company/munich-re",
+      "description": "Underwriting for property business in North America and for global clients",
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Freiwilliges soziales Jahr",
+      "company": "Municipalidad de Escazú, Costa Rica",
+      "companyUrl": "https://www.linkedin.com/company/municipalidad-de-escaz-costa-rica",
+      "description": null,
+      "location": null,
+      "start": "2017-07",
+      "end": "2018-07",
+      "dateRange": "Jul 2017 – Jul 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting scholar, School of Information",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Statistics and Data Science",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Statistik und Data Science",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Bundeswehr University Munich",
+      "degree": "Bachelor of Science - BS, Wirtschafts- und Organisationswissenschaften",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Berufsbildungswerk der Deutschen Versicherungswirtschaft (BWV) München",
+      "degree": "Ausbildung, Kauffrau für Versicherungen und Finanzen",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Gymnasium Fridericianum Erlangen",
+      "degree": "Abitur",
+      "dateRange": "2008 – 2017"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Munich Re",
+    "tagline": null,
+    "description": "Munich Re is one of the world’s leading providers of reinsurance, primary insurance and insurance-related risk solutions. The group consists of the reinsurance and ERGO business segments, as well as the capital investment company MEAG. We are globally active and operate in all lines of the insurance business. \n\nSince our founding in 1880, we’ve been known for our unrivaled risk-related expertise and sound financial position. We offer customers financial protection when faced with exceptional levels of damage – from the 1906 San Francisco earthquake to the 2017 Atlantic hurricane season. We possess outstanding innovative strength, which enables us to also provide coverage for extraordinary risks such as rocket launches, renewable energies, cyber attacks, or pandemics.\n\nWe’re also playing a key role in driving forward the digital transformation of the insurance industry, and in doing so have further expanded our ability to assess risks and the range of services that we offer. Our tailor-made solutions and close proximity to our customers make Munich Re one of the world’s most sought-after risk partners for businesses, institutions, and private individuals.\n\nWorking at Munich Re is more than a career. It’s an invitation to tackle some of the world’s most pressing challenges. Together with our team, consisting of specialists from more than 80+ fields of expertise, we turn risks into exciting opportunities that move humanity forward. https://www.munichre.com/en/career\n\nMunich Re Careers: p0060018221@munichre.com\nMunich Re Imprint: www.munichre.com/en/service/imprint/index.html\nMunich Re Legal Notice: https://www.munichre.com/en/service/legal-notice/index.html\nMunich Re Privacy Policy: https://www.munichre.com/en/service/privacy-statement/index.html\n\nBy accessing the Munich Re LinkedIn page, you agree to LinkedIn's terms and conditions and its data use policy: www.linkedin.com/legal/privacy-policy\n\n© 2000–2018\nMünchener Rückversicherungs-Gesellschaft\nGroup Communications",
+    "industry": "Insurance",
+    "website": "http://www.munichre.com",
+    "linkedInUrl": "https://www.linkedin.com/company/munich-re",
+    "employeeCount": 14746,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "cyber insurance",
+      "reinsurance",
+      "primary insurance",
+      "marine",
+      "special enterprise risks",
+      "business interruption",
+      "construction risks",
+      "life insurance",
+      "health insurance",
+      "internet of things",
+      "property insurance"
+    ]
+  }
+}

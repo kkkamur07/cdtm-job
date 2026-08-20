@@ -1,0 +1,137 @@
+{
+  "id": "matthias-leu-031527b7",
+  "name": "Matthias Leu",
+  "headline": "Vice President bei CompuGroup Medical AG",
+  "avatar": null,
+  "location": "Coblenz, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/matthias-leu-031527b7",
+  "personId": 1714,
+  "classes": [
+    {
+      "id": 100,
+      "label": "Fall 2000",
+      "season": "Fall",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2000",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Matthias Leu",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Vice President",
+      "company": "CompuGroup Medical AG",
+      "companyUrl": "https://www.linkedin.com/company/compugroup-medical-ag",
+      "description": "Business Development",
+      "location": null,
+      "start": "2003-04",
+      "end": null,
+      "dateRange": "Apr 2003 – Present",
+      "current": true
+    },
+    {
+      "title": "Leiter Marketingabteilung",
+      "company": "Internet Sevice Provider",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2000-01",
+      "end": "2003-12",
+      "dateRange": "Jan 2000 – Dec 2003",
+      "current": false
+    },
+    {
+      "title": "Leiter der Marketingabteilung",
+      "company": "Unternehmensbeteiligungsgesellschaft",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "1997-01",
+      "end": "2000-12",
+      "dateRange": "Jan 1997 – Dec 2000",
+      "current": false
+    },
+    {
+      "title": "Leiter Kontakt",
+      "company": "Werbeagentur",
+      "companyUrl": "https://www.linkedin.com/company/werbeagentur",
+      "description": null,
+      "location": "Wiesbanden",
+      "start": "1995-01",
+      "end": "1997-12",
+      "dateRange": "Jan 1995 – Dec 1997",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Kiel University",
+      "degree": "Diplom, Volkswirtschaftslehre, Betriebswirtschaftslehre",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Unternehmensstrategie",
+    "Strategisches Management",
+    "Unternehmensführung",
+    "Strategische Planung",
+    "Projektmanagement",
+    "Marketingstrategie",
+    "Veränderungsmanagement",
+    "Geschäftsführung",
+    "Business Development",
+    "Vertrieb",
+    "Unternehmensanalyse",
+    "Unternehmensberatung",
+    "Pharmaindustrie",
+    "Marketing",
+    "Produktmanagement",
+    "Software-Projektleitung",
+    "Softwareentwicklung",
+    "Microsoft Office",
+    "Project Management",
+    "Strategic Planning"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "CompuGroup Medical SE & Co. KGaA",
+    "tagline": "„Nobody should suffer or die because medical information was missing, never and nowhere. [CGM leverages AI.]”",
+    "description": "CompuGroup Medical is one of the leading e-health companies in the world. With a revenue base of EUR 1.21 billion in 2025, its software products are designed to support all medical and organizational activities in doctors’ offices, pharmacies, laboratories, hospitals and social welfare institutions. Its information services for all parties involved in the healthcare system and its web-based personal health records contribute towards safer and more efficient healthcare. The basis of\n\nCompuGroup Medical's services is its unique customer base, including doctors, dentists, pharmacists and other healthcare professionals in inpatient and outpatient facilities, as well as insurance and pharmaceutical companies. CompuGroup Medical has offices in 19 countries and offers its solutions in 60 countries worldwide. More than 8,700 highly qualified employees support customers with innovative solutions for the steadily growing demands of the healthcare system.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://www.cgm.com",
+    "linkedInUrl": "https://www.linkedin.com/company/compugroup-medical-ag",
+    "employeeCount": 1361,
+    "foundedYear": 1987,
+    "location": "Koblenz am Rhein, Germany",
+    "specialities": [
+      "eHealth",
+      "Healthcare",
+      "Software",
+      "HIS",
+      "KIS",
+      "AIS",
+      "Apotheke",
+      "Arztinformationssystem",
+      "Hospital Information System",
+      "LIS",
+      "Labatory Information System",
+      "Warenwirtschaftssystem",
+      "Digital Health",
+      "elektronische Patientenakte"
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": "steffenwenz",
+  "name": "Steffen Wenz",
+  "headline": "CTPO at Workpath | CDTM",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/steffenwenz",
+  "personId": 1859,
+  "classes": [
+    {
+      "id": 62,
+      "label": "Fall 2007",
+      "season": "Fall",
+      "year": 2007,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2007",
+  "major": "Media Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Steffen Wenz",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Chief Technology & Product Officer",
+      "company": "Workpath",
+      "companyUrl": "https://www.linkedin.com/company/workpathhq",
+      "description": null,
+      "location": "On-site",
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief Technology Officer",
+      "company": "Workpath",
+      "companyUrl": "https://www.linkedin.com/company/workpathhq",
+      "description": null,
+      "location": null,
+      "start": "2021-11",
+      "end": "2023-12",
+      "dateRange": "Nov 2021 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "VP of Engineering",
+      "company": "Workpath",
+      "companyUrl": "https://www.linkedin.com/company/workpathhq",
+      "description": null,
+      "location": null,
+      "start": "2021-02",
+      "end": "2021-11",
+      "dateRange": "Feb 2021 – Nov 2021",
+      "current": false
+    },
+    {
+      "title": "Chief Technology Officer",
+      "company": "TrustYou GmbH",
+      "companyUrl": "https://www.linkedin.com/company/trustyou",
+      "description": "TrustYou crawls and analyzes online consumer reviews, mostly in the hospitality sector. I was privileged to experience and shape its growth over nearly ten years, from a small startup through its acquisition in 2017, reaching more than 160 employees.\n\nIn my role as CTO, I oversaw these areas, together with an excellent leadership team:\n\nEngineering Leadership\n- Grew teams from 10 to over 60 engineers in 3 office locations: Munich, Spain, Romania\n- Technology leadership for diverse stack, ranging from AI, data science, data engineering to web and mobile app development\n\nProduct Management\n- Leadership of product management and design teams\n- Launch of several successful products, combining data analysis with intuitive UX to deliver valuable insights to our customers\n- String of successful projects with enterprise customers and big tech partners\n\nCustomer Success\n- Since 2017, responsible for customer success teams across our 5 office locations\n- Creation of a professional services team to cater to the needs of our largest customers",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-09",
+      "end": "2021-01",
+      "dateRange": "Sep 2012 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Data Engineer",
+      "company": "TrustYou GmbH",
+      "companyUrl": "https://www.linkedin.com/company/trustyou",
+      "description": "Wore many hats in the early startup days of TrustYou:\n- Data engineering: Python, Hadoop stack\n- Web development: Python, frontend development\n- Product management",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2011-05",
+      "end": "2012-08",
+      "dateRange": "May 2011 – Aug 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom, Computer Science",
+      "dateRange": "2005 – 2011"
+    },
+    {
+      "school": "Télécom Paris",
+      "degree": "Erasmus, Computer Science",
+      "dateRange": "2009 – 2010"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Software Engineering",
+    "Python",
+    "JavaScript",
+    "Linux",
+    "Java",
+    "Computer Science",
+    "SQL",
+    "Hadoop",
+    "C++",
+    "MySQL",
+    "Algorithms"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Workpath",
+    "tagline": "Enabling organizations to define and achieve their most important goals.",
+    "description": "Workpath is a strategic planning software company helping organizations turn their most important goals into measurable results.\n\nOur platform enables leadership teams to define strategic priorities, align execution across the organization, and track progress with clarity and accountability.\n\nIn addition to our software, we offer advisory and enablement services to support successful strategy deployment and lasting execution discipline.\n\nOur mission: Enabling organizations to define and achieve their most important goals.",
+    "industry": "Software Development",
+    "website": "https://www.workpath.com",
+    "linkedInUrl": "https://www.linkedin.com/company/workpathhq",
+    "employeeCount": 39,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Strategy Execution",
+      "Operating Model",
+      "AI in Strategy",
+      "Strategy Execution Trainings",
+      "OKRs",
+      "Outcome Management",
+      "KPI Management",
+      "Alignment of Strategy and Teams",
+      "Functional Steering",
+      "Frameworks & Methodologies",
+      "Strategic Planning",
+      "Strategic Planning Software",
+      "Enterprise Goal Management",
+      "Corporate Strategy Deployment",
+      "Strategic Alignment",
+      "Goal Setting & Tracking",
+      "Strategy Enablement",
+      "Strategic Advisory & Enablement",
+      "Business Execution Platform",
+      "Outcome-Based Management",
+      "AI-Enabled Strategic Planning",
+      "AI-Powered Goal Management"
+    ]
+  }
+}

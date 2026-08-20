@@ -1,0 +1,127 @@
+{
+  "id": "maximilian-k_rner-70b479b6",
+  "name": "Maximilian Körner",
+  "headline": "Co-Founder @ Predium | Computer Science  | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/maximilian-k_rner-70b479b6-sm.webp",
+    "lg": "/avatars/maximilian-k_rner-70b479b6.webp",
+    "blur": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAADwBQCdASogACAAPslQokunpKMht/VYAPAZCUAZQDGFJVbGiED0FqL1axXoMCDgFFJYBhfRZXJ8AAD+/pOrO8rbLIfWWQIaSxYnyUUT+wMlDAjGZ/VtVPPri1EZd3pApkhYCdo/EO7qlFGyinQQ1wIQcwOmi8Wjre1om93FxbkFzKOkeh8wyHSOU+HqEf5NH4Ii00G2v6CmX06lv6wnVetcT7nhbJmKpu6STcL8gh7jX4GRGOcM94Hs7NKsMi0YY5XLjQA+MLgAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/maximilian-körner-70b479b6",
+  "personId": 783,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Media Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Maximilian Körner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Chief Technology Officer",
+      "company": "Predium",
+      "companyUrl": "https://www.linkedin.com/company/predium-technology",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-01",
+      "end": null,
+      "dateRange": "Jan 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder",
+      "company": "boost",
+      "companyUrl": "https://www.linkedin.com/company/boost-app",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2019 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Freelance Software Engineering",
+      "company": "Self-Employed",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2013-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2013 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Media Informatics",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Technische Hochschule Augsburg",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Python",
+    "Project Management",
+    "iOS Development",
+    "Microsoft Office",
+    "MeteorJs",
+    "Ionic Framework",
+    "AngularJS",
+    "Objective-C",
+    "jQuery",
+    "HTML",
+    "HTML5",
+    "Cascading Style Sheets (CSS)",
+    "Java",
+    "PyTorch",
+    "Node",
+    "Apache Cordova",
+    "Digital Signal Processing",
+    "Deep Learning",
+    "css3"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Predium",
+    "tagline": "Effective capital decisions in the real estate industry",
+    "description": "Manage your real estate portfolio with foresight. With Predium’s Real Estate Intelligence Platform, decision-makers gain clarity and confidence at a glance. Understand your property portfolio holistically and identify where your capital delivers the greatest value - both economically and sustainably.",
+    "industry": "Software Development",
+    "website": "https://www.predium.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/predium-technology",
+    "employeeCount": 58,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

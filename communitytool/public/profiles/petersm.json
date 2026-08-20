@@ -1,0 +1,110 @@
+{
+  "id": "petersm",
+  "name": "Peter Schneider-Manzell",
+  "headline": "IT Consultant",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/petersm",
+  "personId": 1605,
+  "classes": [
+    {
+      "id": 53,
+      "label": "Spring 2003",
+      "season": "Spring",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Peter Schneider-Manzell",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "IT Freelancer",
+      "company": "Schneider-Manzell IT Consulting",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2008-01",
+      "end": null,
+      "dateRange": "Jan 2008 – Present",
+      "current": true
+    },
+    {
+      "title": "IT Freelancer",
+      "company": "M-net Telekommunikations GmbH",
+      "companyUrl": "https://www.linkedin.com/company/m-net-telekommunikations-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2010-10",
+      "end": "2011-04",
+      "dateRange": "Oct 2010 – Apr 2011",
+      "current": false
+    },
+    {
+      "title": "IT Freelancer",
+      "company": "SVA BizSphere AG",
+      "companyUrl": "https://www.linkedin.com/company/bizsphere-ag",
+      "description": null,
+      "location": null,
+      "start": "2008-01",
+      "end": "2010-11",
+      "dateRange": "Jan 2008 – Nov 2010",
+      "current": false
+    },
+    {
+      "title": "CTO",
+      "company": "Web Reisen GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2007-01",
+      "end": "2007-12",
+      "dateRange": "Jan 2007 – Dec 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom, Informatik",
+      "dateRange": null
+    },
+    {
+      "school": "CDTM",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Java",
+    "Groovy",
+    "Linux",
+    "Grails",
+    "SQL",
+    "Agile Methodologies",
+    "J2EE Application Development",
+    "Scrum",
+    "Eclipse",
+    "UML",
+    "Spring",
+    "Maven",
+    "Ant",
+    "JUnit",
+    "Hibernate",
+    "Agile Methoden",
+    "Java Enterprise Edition"
+  ],
+  "languages": [],
+  "company": null
+}

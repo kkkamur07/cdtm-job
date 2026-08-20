@@ -1,0 +1,327 @@
+{
+  "id": "vincent-von-b_ren-68893283",
+  "name": "Vincent von Büren",
+  "headline": "Senior IT Consultant @ ipt",
+  "avatar": {
+    "sm": "/avatars/vincent-von-b_ren-68893283-sm.webp",
+    "lg": "/avatars/vincent-von-b_ren-68893283.webp",
+    "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAACQBQCdASogACAAPs1aoUunpaMhsBgMAPAZiWMAxvcsBjH7goHsqq+NsF6xZ+L4d6J1XuG4gAD+/XtgAaSrfrXv9TCQCpz70DizmFh4lfksnLsZr2+/J3S1EbhVl2SDQfNC1hitFXdmjkB1vMfyfi2KIVEIO94lWPISQ5WoCfo9rDA4sTmE1X06Ob4y7Zt800BH6JWxvu54Ozz/jzccE9Ve2M3xsAAA"
+  },
+  "location": "Zurich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/vincent-von-büren-68893283",
+  "personId": 1189,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "M.Sc. Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Vincent von Büren",
+  "ca": null,
+  "summary": "As a Senior Consultant at ipt Consulting (CH), I specialize in Cloud Native Technologies while also driving initiatives in improv and storytelling. With a diverse background in Law & Economics, Electrical Engineering, and Management, I have cultivated a deep interest in Software Development, Robotics, and Artificial Intelligence. My passion for software development has led me to contribute to establishing Switzerland's largest Tech Conference, showcasing my commitment to the tech community.\n\nI am dedicated to continuous learning and staying abreast of technological advancements, particularly in the realms of front-end and back-end design. I thrive on being involved in the full product development cycle, from initial design to deployment. This holistic approach allows me to craft solutions that are both technically robust and user-centric.\n\nBeyond my professional endeavors, I have a penchant for non-fiction literature, standup comedy, travel, and outdoor sports. My multidisciplinary background, combined with a curiosity-driven mindset, empowers me to deliver innovative solutions in Software Development that create value for both businesses and society.",
+  "positions": [
+    {
+      "title": "Senior IT Consultant",
+      "company": "ipt Innovation Process Technology",
+      "companyUrl": "https://www.linkedin.com/company/ipt-innovation-process-technology",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "IT Consultant",
+      "company": "ipt Innovation Process Technology",
+      "companyUrl": "https://www.linkedin.com/company/ipt-innovation-process-technology",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2024-03",
+      "end": "2025-01",
+      "dateRange": "Mar 2024 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "IT Consultant",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-04",
+      "end": "2024-02",
+      "dateRange": "Apr 2023 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Investment Analyst & Data Engineer",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-09",
+      "end": "2023-03",
+      "dateRange": "Sep 2021 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Scandio GmbH",
+      "companyUrl": "https://www.linkedin.com/company/hiq-germany",
+      "description": "As a software developer at Scandio, I supported my co-workers in their projects, leveraging my expertise in a range of programming languages and technologies including Java (Atlassian SDK), JavaScript, TypeScript, React, NodeJS, and Python.\n\nDuring my time with the Bosch Home Appliances team, I contributed to developing API gateway solutions for various home appliance devices. It was my responsibility to ensure the stability, security, and usability of the API gateways. I utilized TypeScript to maintain and optimize the gateways, while JEST was employed for comprehensive testing and quality assurance.\n\nOn the front end, I took charge of curating the API platform, utilizing the React framework to develop interfaces that were not only visually appealing but also intuitive, enhancing the overall user experience.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2020-01",
+      "end": "2021-08",
+      "dateRange": "Jan 2020 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": "As data analyst of the Pricing team, Germany, I was supporting the implementation and analysis of new pricing strategies. I was covering with my work the following points: \n\n- Automation of processes with Python and VBA, \n- Performance of price analyses, \n- Maintenance of price reports and reports on price errors, \n- etc.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-08",
+      "end": "2019-12",
+      "dateRange": "Aug 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Project Manager Partnerships",
+      "company": "EESTEC - Electrical Engineering STudents'​ European assoCiation",
+      "companyUrl": "https://www.linkedin.com/company/eestec",
+      "description": "Electrical Engineering Students’ European Association (EESTEC) is an apolitical, non-governmental and non-profit organization which targets and trains through it’s activities students from electrical profile Universities, Institutes and Technical Schools in Europe.\n\nBuilding the network with partners for events such as workshops, career fairs, etc.",
+      "location": "München",
+      "start": "2019-01",
+      "end": "2020-01",
+      "dateRange": "Jan 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Software Developer for Chair of Data Processing",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Preparation and realization of various workshops on the topic: embedded systems, 3-D printing and programming\n\n- Arduino Environment, \n- Creality Ender 3, \n- Fusion Autodesk, \n- Python 3 (Numpy, Pandas, Scikit, Flask, etc.), \n- etc.",
+      "location": "Chair for Data Processing",
+      "start": "2018-04",
+      "end": "2023-03",
+      "dateRange": "Apr 2018 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Tutor for Chair for Computer Aided Medical Procedures & Augmented Reality",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Tutor for the subject \"Algorithms & Data Structures\"",
+      "location": "Chair for Computer Aided Medical Procedures & Augmented Reality",
+      "start": "2018-04",
+      "end": "2018-09",
+      "dateRange": "Apr 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Project Worker",
+      "company": "eCARus",
+      "companyUrl": "https://www.linkedin.com/company/tumecarus",
+      "description": "In the eCARus project, over 50 students from the Technical University of Munich (TUM) are developing two electric vehicles. All technical tasks, from drive technology to IT as well as project organization are in the hands of the students. In my project phase I was responsible for the following topics:\n\n- Development of Entertainment System\n- Sponsoring Activities",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-03",
+      "end": "2018-04",
+      "dateRange": "Mar 2018 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Digital Analytics Consultant",
+      "company": "LEROI Consulting",
+      "companyUrl": "https://www.linkedin.com/company/leroi-consulting",
+      "description": "LeROI Consulting (now part of DEPT) is a data and marketing intelligence consultancy which empowers companies to understand, manage, and leverage their Data and Analytics. LeROI covers consulting and implementation of data strategies, data due dilligence, report automation, business intelligence, digital analytics, data science and much more. \n\nDuring my time at LeROI I was responsible for data visualization in various projects. Together with the customer, I prepared reports in Tableau, BIME (Zendesk), Google Studios, etc.",
+      "location": null,
+      "start": "2016-08",
+      "end": "2016-12",
+      "dateRange": "Aug 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Digital Analytics Consultant (Intern)",
+      "company": "LEROI Consulting",
+      "companyUrl": "https://www.linkedin.com/company/leroi-consulting",
+      "description": "LeROI Consulting (now part of DEPT) is a data and marketing intelligence consultancy which empowers companies to understand, manage, and leverage their Data and Analytics. LeROI covers consulting and implementation of data strategies, data due dilligence, report automation, business intelligence, digital analytics, data science and much more. \n\nIn the beginning I supported one of the co-founders in his daily business. Later, I focused on Digital Analytics and implemented especially Google based Tracking solutions for our customers.",
+      "location": "Berlin",
+      "start": "2016-03",
+      "end": "2016-08",
+      "dateRange": "Mar 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Intern (Taxation)",
+      "company": "Walder Wyss Ltd.",
+      "companyUrl": "https://www.linkedin.com/company/walderwyss",
+      "description": "With around 220 legal experts Walder Wyss is one of the most successful Swiss commercial law firms. Their clients include national and international companies, publicly held corporations and family businesses as well as public law institutions and individuals. \n\nDuring my time at WalderWyss, I was assigned to the Taxation Team. My tasks were legal research, preparation of correspondence and general legal analyses.",
+      "location": "Zürich",
+      "start": "2016-02",
+      "end": "2016-03",
+      "dateRange": "Feb 2016 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "Code_ToGo",
+      "companyUrl": "https://www.linkedin.com/company/code_togo",
+      "description": "Code_ToGo was a project created by two HSG students and one ETH student. The idea was to teach programming to students interested in technology. In sessions of 2-3 days the students were taught the basics of various programming languages.",
+      "location": null,
+      "start": "2016-01",
+      "end": "2018-10",
+      "dateRange": "Jan 2016 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Trainee",
+      "company": "Credit Suisse",
+      "companyUrl": "https://www.linkedin.com/company/credit-suisse",
+      "description": "Credit Suisse Group AG is one of the most important Swiss banks and at the same time one of the largest globally active financial services companies with headquarters in Zurich. \n\nDuring my time at Credit Suisse, I underwent a rotation program. I gained insight into the Research Team, Asses Management, Pension Fund and finally the Chairman's Office. In this sense, my tasks were of a supporting nature. For example, I was involved in the publication of a research report on Litigation Risks for Banking, as well as the preparation of the Chairman's website.",
+      "location": "Zürich und Umgebung, Schweiz",
+      "start": "2014-07",
+      "end": "2014-09",
+      "dateRange": "Jul 2014 – Sep 2014",
+      "current": false
+    },
+    {
+      "title": "President",
+      "company": "STARTglobal",
+      "companyUrl": "https://www.linkedin.com/company/startglobal",
+      "description": "START Global was founded 1998 at the University of St.Gallen. Today it is an internationally positioned organization whilst being locally anchored within European start-up hubs. Not only, does STARTglobal organize the biggest Tech conference in Switzerland, START Summit, but alsom lays ground for fostering and accelerating regional entrepreneurship ecosystems, with events such as START Nework or START Hack.\n\nIn my second year at STARTglobal, as president of the organisation, I was not only responsible for building the START network, but also for organising the START Summit conference. I had a team of 35 enthuastic students which worked days and nights for the success of STARTglobal\n\nThe START Summit 14/15 welcomed a total of 1500 international and entrepreneurship enthusiastic participants. During the two days of the event not only state-of-the-art technologies were presented, but also cooperations with organizations such as UnternehmerTUM, or Entrepreneurship Club ETH were consolidated. In addition, the most innovative start-up was honoured with a prize money of 15000CHF by a renowned jury.",
+      "location": "St.Gallen",
+      "start": "2014-05",
+      "end": "2015-07",
+      "dateRange": "May 2014 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Sales Manager",
+      "company": "STARTglobal",
+      "companyUrl": "https://www.linkedin.com/company/startglobal",
+      "description": "START Global was founded 1998 at the University of St.Gallen. Today it is an internationally positioned organization whilst being locally anchored within European start-up hubs. Not only, does STARTglobal organize the biggest Tech conference in Switzerland, START Summit, but alsom lays ground for fostering and accelerating regional entrepreneurship ecosystems, with events such as START Nework or START Hack.\n\nIn my first year, I was part of the sponsoring team. My mission was to acquire new partners for the conference and build an interesting partnership plan for the event.",
+      "location": null,
+      "start": "2013-06",
+      "end": "2014-05",
+      "dateRange": "Jun 2013 – May 2014",
+      "current": false
+    },
+    {
+      "title": "Assistant of Production",
+      "company": "Kontraproduktion AG",
+      "companyUrl": null,
+      "description": "Kontra was a boutique production firm based in Zurich which was fused together to Highlight Communications in 2016. In my time at Kontra, I was assistant of production for the movie \"Missen Massaker\". My job was mainly administrative. Tasks included: \n\n- Organisation of crew and cast hosting,\n- Preparation of legal documents,\n- Review of financial documents,\n- etc.",
+      "location": null,
+      "start": "2012-03",
+      "end": "2012-05",
+      "dateRange": "Mar 2012 – May 2012",
+      "current": false
+    },
+    {
+      "title": "Soldier Tank Infantry Combat",
+      "company": "Schweizer Armee",
+      "companyUrl": "https://www.linkedin.com/company/swiss-armed-forces",
+      "description": "In Switzerland, the armored infantryman is a special unit and fights infantry in a mounted or dismounted infantry tanks. Armored infantrymen accompany the own battle tanks of the armored corps and fight in operations of combined forces mounted and dismounted enemy infantry as well as armored vehicles by means of anti-tank weapons.",
+      "location": "Thun",
+      "start": "2011-07",
+      "end": "2011-11",
+      "dateRange": "Jul 2011 – Nov 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (MSc), Elektrotechnik und Informationstechnik",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Student , Visiting Researcher at MIT Center for Collective Intelligence (CCI) - Climate Colab",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Management & Technology",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (BSc), Elektrotechnik und Informationstechnik",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "University of St.Gallen",
+      "degree": "Bachelor's degree, Law & Economics",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Universidad Adolfo Ibáñez",
+      "degree": "Bachelor of Business Administration (BBA), Economics",
+      "dateRange": "2015"
+    }
+  ],
+  "skills": [
+    "Data Engineering",
+    "Data Science",
+    "Software Development",
+    "Cloud Computing",
+    "Sponsorship Sales",
+    "Sales",
+    "Microsoft Office",
+    "Photoshop",
+    "Leadership",
+    "Business Strategy",
+    "Event Management",
+    "Strategisches Management",
+    "Strategy",
+    "Entrepreneurship",
+    "Geschäftsführung",
+    "Unternehmensstrategie",
+    "Vertrieb",
+    "Unternehmertum",
+    "Management Consulting",
+    "Marketing"
+  ],
+  "languages": [
+    "Chinesisch",
+    "Deutsch"
+  ],
+  "company": {
+    "name": "ipt Innovation Process Technology",
+    "tagline": "We make technology valuable — because we put our heart into your IT",
+    "description": "Let’s make technology valuable!\nDein Business-Vorteil ist unser Ziel. Damit Du auf dem Markt einen Schritt voraus bist, setzen wir auf ein umfassendes Dienstleistungsangebot. High-end IT-Consulting mit Leading-edge-Technologien in drei Fokusfeldern. Ob in AI & Data, Digital Experience und Cloud — wir beraten Dich und liefern Dir Lösungen auf Deine Herausforderungen massgeschneidert. \nipt ist eine 1996 gegründete Schweizer IT-Consulting-Firma mit 180 Teamplayer.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.ipt.ch",
+    "linkedInUrl": "https://www.linkedin.com/company/ipt-innovation-process-technology",
+    "employeeCount": 249,
+    "foundedYear": 1996,
+    "location": "Zürich, Switzerland",
+    "specialities": [
+      "Cloud native Entwicklung",
+      "Cloud Governance",
+      "Cloud Automatisierung",
+      "Analytics Plattformen",
+      "Agile Organization",
+      "Agile Integration",
+      "Integration",
+      "AI & Data",
+      "Machine Learning",
+      "Custom Applications"
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "id": "rzhin",
+  "name": "Igor Rzhin",
+  "headline": "Building up Solution Engineering @Luminovo | CDTM",
+  "avatar": {
+    "sm": "/avatars/rzhin-sm.webp",
+    "lg": "/avatars/rzhin.webp",
+    "blur": "data:image/webp;base64,UklGRggBAABXRUJQVlA4IPwAAADwBQCdASogACAAPr1QnkunJSKht/qoAOAXiUAKk54AXABKtzHKhr+Rjl5tjksI7y5sZvSbnWguYAD+/nsR+L5//iwlnYGf/a8Hmaai3YNtKH54nA7iqkdYacYP0Z5f3/B/ze+OB3vJG+IYBUraMQ7JSfXjktRE7tttNvv4pCkY7T3X9m+uzUolZKbONCzDg+UHufaYqN6NzWMGehErxP1g8Wj4wTbbb0+cCcwF2aa41/rVW5cYSagQ7Yf/4bDuG95iMKpWvQVHmofvh6rBH+QYMWElcd0dUa3Kf8AyIKvs/oKtNRJ/U4yrKUvVXZ05C5E+bzBk/iWPcoFAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/rzhin",
+  "personId": 1063,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Physics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Igor Rzhin",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Solutions Engineer",
+      "company": "Luminovo",
+      "companyUrl": "https://www.linkedin.com/company/luminovo",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-03",
+      "end": null,
+      "dateRange": "Mar 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Cloud Engineer",
+      "company": "BinaryCore",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-09",
+      "end": "2024-03",
+      "dateRange": "Sep 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Entrix",
+      "companyUrl": "https://www.linkedin.com/company/entrixenergy",
+      "description": "Munich",
+      "location": null,
+      "start": "2022-10",
+      "end": "2023-09",
+      "dateRange": "Oct 2022 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Investment Analyst Intern",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": "Pre-Seed team with focus on Deep Tech and MedTech topics",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-05",
+      "end": "2022-08",
+      "dateRange": "May 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Product Strategy",
+      "company": "KINEXON",
+      "companyUrl": "https://www.linkedin.com/company/kinexon",
+      "description": "Munich",
+      "location": null,
+      "start": "2021-11",
+      "end": "2022-04",
+      "dateRange": "Nov 2021 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Product Development Manager",
+      "company": "FINN",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": "Our team developed a functional MVP to ensure smooth communication between Mobility-as-a-service companies and their logistic partners as part of the Technology Management Program of CDTM.\n\nI was responsible for user research, project partner communication, product management, and design\n\nPitch (01:28:00 – 01:42:00):",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-02",
+      "dateRange": "Oct 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Wissenschaftliche Hilfskraft",
+      "company": "Fraunhofer EMFT",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-emft",
+      "description": "Research in the field of robustness of IoT devices | ESD Robustness analysis | Software Development",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-08",
+      "end": "2021-11",
+      "dateRange": "Aug 2020 – Nov 2021",
+      "current": false
+    },
+    {
+      "title": "Technical Support Engineer",
+      "company": "SCAPS GmbH",
+      "companyUrl": "https://www.linkedin.com/company/scaps-gmbh",
+      "description": "Requirements analysis | Software and Hardware Support | Product Management",
+      "location": "Deisenhofen",
+      "start": "2019-07",
+      "end": "2020-08",
+      "dateRange": "Jul 2019 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Customer Voice Monitoring",
+      "company": "Consline AG",
+      "companyUrl": "https://www.linkedin.com/company/consline",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-02",
+      "end": "2019-07",
+      "dateRange": "Feb 2017 – Jul 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Physics",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Physics",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "Max Planck Institut Für Astrophysik",
+      "degree": "Masther Thesis, Physics",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Amazon Web Services (AWS)",
+    "Apache Spark",
+    "Python",
+    "Elektronik",
+    "Laser",
+    "Soziale Medien",
+    "R",
+    "Matlab",
+    "C#",
+    "Calligraphy",
+    "Maschinelles Lernen",
+    "Statistik"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Luminovo",
+    "tagline": "The electronics supply chain platform",
+    "description": "Luminovo is the electronics supply chain platform that helps you quote and procure faster and better by bringing all your data, processes, and players together in one place. Our products for OEM (Design-to-source) and for EMS (Configure-price-quote) are modular and easily tailored to your needs thanks to an array of add-ons specifically built for the electronics industry challenges. \n\nWe are a mix of deep learning natives, business talents and product enthusiasts. Our current team not only includes top graduates from institutions such as Stanford University, Cambridge, ETH Zurich, TUM, and CDTM, but also motivated individuals with rather unconventional CVs who are burning for what they do. Luminovo was born in Munich but has evolved into a remote-first company operating globally and with our team spread from Amsterdam to Valencia, Tirana, and Nairobi. 🌍\n\nIf you're someone working in the electronics industry or looking to grow a software startup – join Luminovo as we pioneer a modern setup of the all-encompassing electronics industry. 🚀",
+    "industry": "Software Development",
+    "website": "https://luminovo.com",
+    "linkedInUrl": "https://www.linkedin.com/company/luminovo",
+    "employeeCount": 92,
+    "foundedYear": 2017,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Industrie 4.0",
+      "Electronics Engineering",
+      "EMS Software",
+      "Electronics Manufacturing Quotation System",
+      "Electronics Quotation Software",
+      "EMS Quoting System",
+      "Electronics Manufacturing",
+      "EMS Angebotserstellung System",
+      "System zur Angebotserstellung für Elektronikfertigung",
+      "PCB Software Bereitstellung",
+      "Elektrotechnik",
+      "Elektronikfertigung",
+      "Electronics Development",
+      "Electronics Design",
+      "Electronics Manufacturing",
+      "Electronics Procurement",
+      "OEM Software",
+      "Customer Portal",
+      "Electronics Supply Chain"
+    ]
+  }
+}

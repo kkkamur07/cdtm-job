@@ -1,0 +1,165 @@
+{
+  "id": "samuel-valenzuela-a49159188",
+  "name": "Samuel Valenzuela",
+  "headline": "Management Team @ CDTM",
+  "avatar": {
+    "sm": "/avatars/samuel-valenzuela-a49159188-sm.webp",
+    "lg": "/avatars/samuel-valenzuela-a49159188.webp",
+    "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABQBQCdASogACAAPtFYpEuoJSOhsAgBABoJYgCsAYxatWxow2Eo7/q04SvL25EwrIg48YAA/vi0jL/bmSCH19sI7AHkHnRY4ojRqeTJA7ZGWD0YlZmZ+BJC4N4pvYWfK3YmTBEekGt9kRikwRL58a8fVUdiHef+KvcWvdM7CKldut8SmQJ4n24W1yM5tg4QfV9bvvKqSwysxvHhthZXvjyKP1/78vCMx1DPSuEEBXzG424AAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/samuel-valenzuela-a49159188",
+  "personId": 1274,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": false,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Samuel Valenzuela",
+  "ca": {
+    "alumni": false,
+    "about": "Samuel Valenzuela studied Informatics: Games Engineering (B.Sc.) and Informatics (M.Sc.) at the Technical University of Munich (TUM). During this time, he joined the \"TUM: Junge Akademie\", TUM's scholarship program dedicated to fostering interdisciplinary research projects, both as a scholarship holder and later as a tutor.\n\nIn parallel to his studies, Samuel also completed several internships in which he took on various roles from a software engineer at Amazon Web Services in Dublin, Ireland, to a management consultant at Bain & Company. Samuel joined the CDTM management team in September 2023. He is responsible for the Digital Changemaker course as well as the Ecosystem task force.\n\nWorking with Prof. Dr. Johannes Kinder at the LMU Chair of Programming Languages and Artificial Intelligence, his research is at the intersection of machine learning and software security. Leveraging explainability techniques, Samuel aims to understand and improve machine learning models for binary code. Please reach out to him if you are interested in writing your master's thesis in this area.",
+    "responsibilities": [
+      "Digital Changemaker Course",
+      "Ecosystem Task Force",
+      "IT Task Force"
+    ],
+    "researchFields": [
+      "Explainable Machine Learning for Software Security"
+    ],
+    "email": "valenzuela@cdtm.com"
+  },
+  "summary": "Hi! I'm Samuel, a member of the Management Team at CDTM and a PhD student in computer science at LMU. If you are interested in collaborating with me or want to write a master's thesis in the area of explainable machine learning for binary code, please reach out via email (valenzuela@cdtm.com or samuel.valenzuela@lmu.de) or add a message to your connection request.",
+  "positions": [
+    {
+      "title": "Member of the Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate Consultant Intern",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": "• Drove multiple six-figure savings initiatives in a cost transformation case of a global automotive supplier\n• Prepared and conducted various on-site client meetings in three European plants\n• Built client-ready Excel models & PowerPoint slides using advanced features & add-ins",
+      "location": "Munich, Germany",
+      "start": "2022-03",
+      "end": "2022-05",
+      "dateRange": "Mar 2022 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Data Science Project Student",
+      "company": "retorio",
+      "companyUrl": "https://www.linkedin.com/company/retorio",
+      "description": "• Systematic analysis of unwanted influencing factors on the company’s machine learning models\n• Hands-on experience with various facets of the field of data science, such as data preparation and augmentation, exploratory data analysis, and the analysis of correlations",
+      "location": "Munich, Germany",
+      "start": "2021-04",
+      "end": "2021-09",
+      "dateRange": "Apr 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Software Development Engineer Intern",
+      "company": "Amazon Web Services (AWS)",
+      "companyUrl": "https://www.linkedin.com/company/amazon-web-services",
+      "description": "• Acted as a full stack developer within the EC2 Core Platform\n• Used React and Ruby on Rails as well as the services provided by AWS\n• Applied Amazon's leadership principles, in particular by showing a strong sense of ownership and focusing on the customer's needs",
+      "location": "Dublin, Ireland",
+      "start": "2020-10",
+      "end": "2021-03",
+      "dateRange": "Oct 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Junior Consultant – Software Engineering Working Student",
+      "company": "TNG Technology Consulting",
+      "companyUrl": "https://www.linkedin.com/company/tng-technology-consulting",
+      "description": "• Finished developing the Rust crate \"gs-rs\", an optimization library for graph-based simultaneous localization and mapping (SLAM) in 2D and 3D\n• Prepared to publish gs-rs as open source software on GitHub and crates.io",
+      "location": "Munich, Germany",
+      "start": "2020-04",
+      "end": "2020-07",
+      "dateRange": "Apr 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Junior Consultant – Software Engineering Intern",
+      "company": "TNG Technology Consulting",
+      "companyUrl": "https://www.linkedin.com/company/tng-technology-consulting",
+      "description": "• Started developing the Rust crate \"gs-rs\", an optimization library for graph-based simultaneous localization and mapping (SLAM) in 2D and 3D",
+      "location": "Munich, Germany",
+      "start": "2020-03",
+      "end": "2020-04",
+      "dateRange": "Mar 2020 – Apr 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "PhD, Computer Science",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Computer Science: Games Engineering",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "TUM: Junge Akademie",
+      "degree": "Scholarship Holder",
+      "dateRange": "2018 – 2020"
+    }
+  ],
+  "skills": [
+    "Software Development",
+    "Python (Programming Language)",
+    "Microsoft Excel",
+    "Deep Learning",
+    "Data Science",
+    "Game Development",
+    "Programming",
+    "Microsoft PowerPoint",
+    "Scrum",
+    "Java",
+    "Rust (Programming Language)",
+    "Assembly Language",
+    "React.js",
+    "Ruby on Rails",
+    "Git"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Center for Digital Technology and Management (CDTM)",
+    "tagline": "Connect, Educate and Empower the Innovators of Tomorrow",
+    "description": "The Center for Digital Technology and Management (CDTM), a joint institution of the Ludwig-Maximilians-Universität München (LMU) and the Technische Universität München (TUM), offers talented students the international and interdisciplinary study program Technology Management. \n\nThe CDTM focuses on how to manage High-Tech in close cooperation with industry, research and education, while simultaneously being committed to preparing the students for future leadership positions in their professional career.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.cdtm.de",
+    "linkedInUrl": "https://www.linkedin.com/company/cdtm-munich",
+    "employeeCount": 35,
+    "foundedYear": 1998,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Entrepreneurship",
+      "Product Development"
+    ]
+  }
+}

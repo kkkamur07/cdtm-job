@@ -1,0 +1,117 @@
+{
+  "id": "toscabaroth",
+  "name": "Tosca Baroth",
+  "headline": "Manager at McKinsey | Picus Capital | Valedictorian",
+  "avatar": {
+    "sm": "/avatars/toscabaroth-sm.webp",
+    "lg": "/avatars/toscabaroth.webp",
+    "blur": "data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAABwBgCdASogACAAPtFgqU+oJSOiKAgBABoJQBj9VlbcG+BVAo62WsnoquerP6+qihDojKxLTjW81vsNAKAA/vcIlOrVEvXDnq7tZr6OP2icSxeDo9/IzvLv3KUgAaMUtf7o2ygOejiM3Nx9Kz+sz8f/5Py6teyyYenmsh78cnPJkGIW2KvzOdfnl90T2/L+QPdbGwO6/w21NpjqzqbyX0J3ViPUS37egexneUccdE+KEgsULisq6mv43htznAe3Xal/jPhN3GE2K3GT/sj6NFruZxbk+TNEcw9uLMjYXGqOkclMB5CRQ0WdrmYXP3xS0gidqdbnbs+mu6TJ9TTn4y6kCWt9ywcMXyh8jS7pt1l/3nFVqqAAAA=="
+  },
+  "location": "Saudi Arabia",
+  "linkedInUrl": "https://www.linkedin.com/in/toscabaroth",
+  "personId": 1001,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "B.Sc. in Psychology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Tosca Baroth",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Engagement Manager",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Middle East Office",
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Middle East Office",
+      "start": "2021-09",
+      "end": "2025-12",
+      "dateRange": "Sep 2021 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Strategy Consulting",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Investment Analyst",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2020 – Dec 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - B.Sc., Psychology and Statistics",
+      "dateRange": null
+    },
+    {
+      "school": "Ernst-Mach-Gymnasium Haar",
+      "degree": "Abitur (German High School Certificate)",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "McKinsey & Company",
+    "tagline": null,
+    "description": "McKinsey & Company is a global management consulting firm. We are the trusted advisor to the world's leading businesses, governments, and institutions. \r\n\r\nWe work with leading organizations across the private, public and social sectors. Our scale, scope, and knowledge allow us to address problems that no one else can. We have deep functional and industry expertise as well as breadth of geographical reach. We are passionate about taking on immense challenges that matter to our clients and, often, to the world. \r\n\r\nWe work with our clients as we do with our colleagues. We build their capabilities and leadership skills at every level and every opportunity. We do this to help build internal support, get to real issues, and reach practical recommendations. We bring out the capabilities of clients to fully participate in the process and lead the ongoing work.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.mckinsey.com",
+    "linkedInUrl": "https://www.linkedin.com/company/mckinsey",
+    "employeeCount": 38159,
+    "foundedYear": null,
+    "location": "United States",
+    "specialities": [
+      "Management Consulting"
+    ]
+  }
+}

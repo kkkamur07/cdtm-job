@@ -1,0 +1,242 @@
+{
+  "id": "dr-caroline-meder-45621a66",
+  "name": "Dr. Caroline Meder",
+  "headline": "Associate Partner at McKinsey & Company",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-caroline-meder-45621a66",
+  "personId": 1432,
+  "classes": [
+    {
+      "id": 71,
+      "label": "Spring 2012",
+      "season": "Spring",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2012",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Caroline Meder",
+  "ca": null,
+  "summary": "Associate Partner at McKinsey & Company with 10+ years of experience working with industry-leading tech, telco, and consumer-facing companies to drive topline growth through a range of topics especially sales acceleration, go-to-market strategy, (digital) marketing, and pricing. PhD in quantitative marketing from RWTH Aachen.",
+  "positions": [
+    {
+      "title": "Associate Partner",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "Leader in McKinsey’s Growth, Marketing & Sales and Technology, Media & Telco Practices focused on analytics-driven commercial growth for tech (cloud/AI), telco and consumer companies. Deep expertise in sales, marketing, pricing, and ecommerce.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-07",
+      "end": null,
+      "dateRange": "Jul 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Engagement Manager",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-01",
+      "end": "2023-06",
+      "dateRange": "Jan 2022 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Senior Associate, Educational Leave",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2019-08",
+      "end": "2021-12",
+      "dateRange": "Aug 2019 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Marketing Analytics & CFO Office",
+      "company": "ProSiebenSat.1 Media SE",
+      "companyUrl": "https://www.linkedin.com/company/prosiebensat1-media-se",
+      "description": "Conducted large-scale econometric research on advertising effectiveness as part of my PhD. As part of the CFO Office and NuCom Operating Office teams, supported portfolio company growth initiatives, investor relations, and commercial due diligences. \n\nNuCom Group (ProSiebenSat.1 Digital) is the digital unit of ProSiebenSat.1, one of the largest European media and TV conglomerates.",
+      "location": "Munich Area, Germany",
+      "start": "2017-08",
+      "end": "2019-07",
+      "dateRange": "Aug 2017 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2015-04",
+      "end": "2017-07",
+      "dateRange": "Apr 2015 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Johannesburg, South Africa",
+      "start": "2013-09",
+      "end": "2013-10",
+      "dateRange": "Sep 2013 – Oct 2013",
+      "current": false
+    },
+    {
+      "title": "Marketing",
+      "company": "Clueda AG",
+      "companyUrl": null,
+      "description": "Developed the marketing concept and product showcase for Clueda's semantic and associative knowledge extraction and analysis software.\n\nClueda provides real-time big data analytics via event-spotting solutions for security traders and analysts as well as semantic text mining tools for medical scientists. Among others, it was named 'Best in Big Data 2013' by Computerwoche. Acquired in 2015.",
+      "location": "Munich Area, Germany",
+      "start": "2013-05",
+      "end": "2013-07",
+      "dateRange": "May 2013 – Jul 2013",
+      "current": false
+    },
+    {
+      "title": "Digital Product",
+      "company": "Telefónica",
+      "companyUrl": "https://www.linkedin.com/company/telefonica",
+      "description": "Worked for the Digital Business Unit to build an Android app and develop a business model for advanced urban mapping in London, including integration of crime data, to optimize police force allocation.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2012-10",
+      "end": "2013-01",
+      "dateRange": "Oct 2012 – Jan 2013",
+      "current": false
+    },
+    {
+      "title": "Country Controlling",
+      "company": "BMW Financial Services",
+      "companyUrl": "https://www.linkedin.com/company/bmwgroupus",
+      "description": "Analyzed business cases for market entries of financial services entities and derived target approaches for different market types.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2012-05",
+      "end": "2012-08",
+      "dateRange": "May 2012 – Aug 2012",
+      "current": false
+    },
+    {
+      "title": "Chief Technology Office",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Conducted trend and futures research and worked on developing new business models for sustainable cities.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2012-03",
+      "end": "2012-05",
+      "dateRange": "Mar 2012 – May 2012",
+      "current": false
+    },
+    {
+      "title": "Teleco, Information, Media & Electronics Consultant",
+      "company": "Arthur D. Little",
+      "companyUrl": "https://www.linkedin.com/company/arthur-d--little",
+      "description": "Assessed a leading European Internet Service Provider's positioning and developed its repositioning strategy and business model.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2011-11",
+      "end": "2012-03",
+      "dateRange": "Nov 2011 – Mar 2012",
+      "current": false
+    },
+    {
+      "title": "Pricing",
+      "company": "Jebsen Group",
+      "companyUrl": "https://www.linkedin.com/company/jebsen-&-co",
+      "description": "Developed a pricing model for investment-intensive products and spare parts in mainland China.",
+      "location": "Hongkong",
+      "start": "2011-08",
+      "end": "2011-10",
+      "dateRange": "Aug 2011 – Oct 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.) with honors, Management and Technology",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "RWTH Aachen University",
+      "degree": "Dr. rer. pol. (Doctor of Philosphy, PhD), Quantitative Marketing",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Visiting Researcher/Student",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Sciences Po",
+      "degree": "Master (Grande École), Visiting Graduate Student, Finance et Stratégie",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Management and Technology",
+      "dateRange": "2009 – 2012"
+    },
+    {
+      "school": "John F. Kennedy School",
+      "degree": "German Abitur and US High School Diploma (Honors) in parallel",
+      "dateRange": "2009"
+    }
+  ],
+  "skills": [
+    "Applied Econometrics",
+    "Business Strategy",
+    "Business Development",
+    "Project Management",
+    "Management Consulting",
+    "Financial Modeling",
+    "Data Analysis",
+    "Market Analysis",
+    "Product Management",
+    "Marketing",
+    "Statistical Modeling",
+    "Econometrics",
+    "Data Science",
+    "Entrepreneurship",
+    "Social Entrepreneurship",
+    "E-commerce",
+    "Retail",
+    "Fashion",
+    "Microsoft Office",
+    "R"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "McKinsey & Company",
+    "tagline": null,
+    "description": "McKinsey & Company is a global management consulting firm. We are the trusted advisor to the world's leading businesses, governments, and institutions. \r\n\r\nWe work with leading organizations across the private, public and social sectors. Our scale, scope, and knowledge allow us to address problems that no one else can. We have deep functional and industry expertise as well as breadth of geographical reach. We are passionate about taking on immense challenges that matter to our clients and, often, to the world. \r\n\r\nWe work with our clients as we do with our colleagues. We build their capabilities and leadership skills at every level and every opportunity. We do this to help build internal support, get to real issues, and reach practical recommendations. We bring out the capabilities of clients to fully participate in the process and lead the ongoing work.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.mckinsey.com",
+    "linkedInUrl": "https://www.linkedin.com/company/mckinsey",
+    "employeeCount": 38159,
+    "foundedYear": null,
+    "location": "United States",
+    "specialities": [
+      "Management Consulting"
+    ]
+  }
+}

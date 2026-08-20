@@ -1,0 +1,243 @@
+{
+  "id": "lisa-schmierer",
+  "name": "Lisa Schmierer",
+  "headline": "PhD Student (AI x Social Good), TUM | CDTM | LMU | relAI",
+  "avatar": {
+    "sm": "/avatars/lisa-schmierer-sm.webp",
+    "lg": "/avatars/lisa-schmierer.webp",
+    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAADQBQCdASogACAAPslSnkunpKKhsAwA8BkJYgDGfYxHLbY5W2T3fRTwI68TN+GbISYI7CcyT3kAAP78ehAlKJ1VRCWaMl2hjmzuw5NiwMaPP2IMmdHUaq8znfpNpRqdXiXoKgkXW3Fz8MwEukZm+Vth0VkCP1gU6cJ2X7zDsLm2Qs6mnJ0DLXgz6ChlU1eYLLxE6oYX4ETVW7bRYUckgaGY8KSfEM0V4piNmhsyyDnbh6K+ey41kVtVyVZR96jbAw+debLCHRXK6VEmOYxkbd+zoBVqNuVU5W2EyQVa2+r5UQ9DAmzKyj/dgS/1IgnPDz6qNm8AAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lisa-schmierer",
+  "personId": 906,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lisa Schmierer",
+  "ca": null,
+  "summary": "Computer scientist and journalist interested in the mathematical and computational foundations at the intersection of ML and social justice. Striving to meet global challenges with innovative ideas and technology.",
+  "positions": [
+    {
+      "title": "Doctoral Researcher",
+      "company": "relAI Konrad Zuse School of Excellence",
+      "companyUrl": "https://www.linkedin.com/company/relai-konrad-zuse-school-of-excellence",
+      "description": "PhD student at the Social Data Science and AI Lab at the Department of Statistics under the supervision of Prof. Frauke Kreuter and funded by the Konrad Zuse School of Excellence in Reliable AI (relAI). In my work I focus on projects that combine interesting theory with real world impact at the intersection of social justice and theoretical computer science.",
+      "location": null,
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "AI Research",
+      "company": "Maltego Technologies",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-08",
+      "dateRange": "Jan 2025 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Data Science",
+      "company": "Maltego Technologies",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": "Building on GraphRAG, I built an MVP that allows Maltego users to interact with their open source investigations, e.g. by asking questions or finding hidden connections.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-09",
+      "end": "2024-12",
+      "dateRange": "Sep 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Data & Software Engineer",
+      "company": "econvio",
+      "companyUrl": "https://www.linkedin.com/company/econvio",
+      "description": "Building on existing frameworks for microclimate simulation, it is my task to improve microclimate prediction using different ML approaches. I regularly use Docker and GCP for this and also support implementing features in the front- and backend.",
+      "location": null,
+      "start": "2024-02",
+      "end": "2024-08",
+      "dateRange": "Feb 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Freelance Author",
+      "company": "SWR",
+      "companyUrl": "https://www.linkedin.com/company/swr",
+      "description": null,
+      "location": "Baden-Baden, Baden-Württemberg, Germany",
+      "start": "2022-05",
+      "end": "2022-06",
+      "dateRange": "May 2022 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Internship Science Editor",
+      "company": "SWR",
+      "companyUrl": "https://www.linkedin.com/company/swr",
+      "description": "As an intern, I wrote articles for the \"Tagesschau\", and was the author of TV reports for the science magazine \"Nano\" and \"SWR Aktuell\". Furthermore, I worked in various forms for different radio programs like \"SWR3\" and \"SWR1\", including live talks and self-spoken reports. In addition, I interviewed numerous people, wrote treatments for TikTok-Videos, and hosted them myself.",
+      "location": "Baden-Baden, Baden-Württemberg, Germany",
+      "start": "2022-03",
+      "end": "2022-04",
+      "dateRange": "Mar 2022 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "QAware GmbH",
+      "companyUrl": "https://www.linkedin.com/company/qaware-gmbh",
+      "description": "As working student in Java development, I gained experience in large software projects, implemented features in the backend, worked with Docker, Jenkins and AWS among others.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-12",
+      "end": "2022-07",
+      "dateRange": "Dec 2021 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Head of Sports Department",
+      "company": "M94.5 - Ein Angebot der MEDIASCHOOL BAYERN",
+      "companyUrl": "https://www.linkedin.com/company/m94-5-afk-radio-für-münchen",
+      "description": "As the sports department head, I was responsible for all forms of content, including our podcast \"Die Sportgondel\". I supervised editors and accompanied cooperations with Munich sports clubs. \nMeanwhile, I gained valuable experience in team and employee management. Furthermore, I interviewed and was responsible for hiring new members.",
+      "location": null,
+      "start": "2021-03",
+      "end": "2021-09",
+      "dateRange": "Mar 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "iOS App Developer",
+      "company": "ZEISS Group",
+      "companyUrl": "https://www.linkedin.com/company/zeiss",
+      "description": "In a team of eight students, we developed an app that will help people suffering from dry eye disease manage their treatments and keep track of their symptoms. Furthermore, the app enables sharing reports with doctors and includes a section where people can learn about the causes and potential treatments of the disease. \nWe practiced Scrum throughout the process.",
+      "location": null,
+      "start": "2020-10",
+      "end": "2021-02",
+      "dateRange": "Oct 2020 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Editorial Intern in Local News Coverage",
+      "company": "Märkische Allgemeine (MAZ)",
+      "companyUrl": "https://www.linkedin.com/company/märkische-allgemeine-maz-",
+      "description": "During the internship, I wrote reportages and reports about topics in and around Potsdam. Furthermore, I  maintained live tickers and coverage for various demonstrations as well as the state elections in Brandenburg.",
+      "location": null,
+      "start": "2019-08",
+      "end": "2019-09",
+      "dateRange": "Aug 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Editor",
+      "company": "M94.5 - Ein Angebot der MEDIASCHOOL BAYERN",
+      "companyUrl": "https://www.linkedin.com/company/m94-5-afk-radio-für-münchen",
+      "description": "From the very beginning, I have been producing reports of daily local happenings as well as sports events, including live coverage of elections. Furthermore, I gained experience as a news editor and spokesperson. \nI regularly worked with audio processing tools and hosted live shows in the regular radio program.",
+      "location": null,
+      "start": "2017-10",
+      "end": "2022-04",
+      "dateRange": "Oct 2017 – Apr 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Doctor of Science, Statistics",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "KTH Royal Institute of Technology",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "KTH Royal Institute of Technology",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "ifp- Institut für publizistische Ausbildung",
+      "degree": "Journalism Training",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science, Information Systems",
+      "dateRange": "2017 – 2021"
+    }
+  ],
+  "skills": [
+    "TensorFlow",
+    "Graph Convolutional Networks",
+    "Drug Response Prediction",
+    "Genomics",
+    "Attention Mechanisms",
+    "PyTorch",
+    "Machine Learning",
+    "Streamlit",
+    "React.js",
+    "Google Cloud Platform (GCP)",
+    "Docker",
+    "Software Infrastructure",
+    "Amazon Web Services (AWS)",
+    "iOS Development",
+    "Python",
+    "Editing",
+    "Programming",
+    "Software Development",
+    "Java",
+    "Swift",
+    "R",
+    "Git",
+    "SQL",
+    "Xcode",
+    "HTML",
+    "Operations Research",
+    "Public Speaking",
+    "Communication",
+    "Moderation"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "relAI Konrad Zuse School of Excellence",
+    "tagline": "relAI Konrad Zuse School of Excellence",
+    "description": "relAI’s research mission is to train future generations of AI experts in Germany who combine technical brilliance with awareness of the importance of the reliability of AI. As a central component of the Munich AI ecosystem, relAI is committed to making artificial intelligence more safe, secure, responsible and protective regarding the privacy of individuals. It encourages responsible use to exploit AI’s vast potential for the benefit of humanity, to advance insight into and debate on machine learning including its ethical and societal dimensions, and to strengthen “AI made in Germany”.",
+    "industry": "Research Services",
+    "website": "https://zuseschoolrelai.de/home",
+    "linkedInUrl": "https://www.linkedin.com/company/relai-konrad-zuse-school-of-excellence",
+    "employeeCount": 46,
+    "foundedYear": null,
+    "location": "Garching bei München, Germany",
+    "specialities": []
+  }
+}

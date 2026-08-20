@@ -1,0 +1,220 @@
+{
+  "id": "selin-yasen-yildiz",
+  "name": "Selin Yasen Yildiz",
+  "headline": "BCG | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/selin-yasen-yildiz-sm.webp",
+    "lg": "/avatars/selin-yasen-yildiz.webp",
+    "blur": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAABQBgCdASogACAAPtFYpU0oJSOiMBgIAQAaCUAYaev6FPeYK4jWruQMM91Gvh7ZrNv2oyYwfNq+20LgAAD+9Nca0szJB17O4so2hfblLbyWOxCbsv+fH4SRZUNPj3iTfvlR853oV2fxMqw/LUlfFYOF6Qai+3E0jtZOUr+pJpM3+TaqxLiyWATVdpqTlPRU4P3izCbn8/BuCBDYm1EYWZpxzaq2yDtRTFjb5QklooegQ6/nMRWjJWmdJR/yhZHEXl8YspsqZu90/pXuZ0re3dyy8Rf0tOxjeWQAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/selin-yasen-yildiz",
+  "personId": 2021,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Selin Yildiz",
+  "ca": null,
+  "summary": "Work at Boston Consulting Group (BCG)",
+  "positions": [
+    {
+      "title": "Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": null,
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Corporate Strategy Intern",
+      "company": "FC Bayern München",
+      "companyUrl": "https://www.linkedin.com/company/fcbayern",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-03",
+      "dateRange": "Jan 2025 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "Oliver Wyman",
+      "companyUrl": "https://www.linkedin.com/company/oliver-wyman",
+      "description": null,
+      "location": null,
+      "start": "2024-10",
+      "end": "2024-12",
+      "dateRange": "Oct 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Consulting Working Student",
+      "company": "TCW Management Consulting",
+      "companyUrl": "https://www.linkedin.com/company/tcwtransfer-centrum",
+      "description": null,
+      "location": null,
+      "start": "2023-03",
+      "end": "2023-07",
+      "dateRange": "Mar 2023 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Corporate Strategy Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2022-10",
+      "end": "2023-02",
+      "dateRange": "Oct 2022 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Sustainability Strategy & Consulting Intern",
+      "company": "Accenture DACH",
+      "companyUrl": "https://www.linkedin.com/company/accenture-dach",
+      "description": null,
+      "location": null,
+      "start": "2021-12",
+      "end": "2022-02",
+      "dateRange": "Dec 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Risk Assurance Solutions Intern",
+      "company": "PwC Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/pwc-deutschland",
+      "description": null,
+      "location": null,
+      "start": "2021-10",
+      "end": "2021-11",
+      "dateRange": "Oct 2021 – Nov 2021",
+      "current": false
+    },
+    {
+      "title": "Risk Assurance Working Student & Bachelor Thesis Candidate",
+      "company": "PwC Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/pwc-deutschland",
+      "description": null,
+      "location": null,
+      "start": "2021-05",
+      "end": "2021-09",
+      "dateRange": "May 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Business Development Project Student",
+      "company": "Golfstrom",
+      "companyUrl": "https://www.linkedin.com/company/golfstrom-energy",
+      "description": null,
+      "location": null,
+      "start": "2020-03",
+      "end": "2020-05",
+      "dateRange": "Mar 2020 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Carveout Working Student",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": null,
+      "start": "2018-10",
+      "end": "2019-04",
+      "dateRange": "Oct 2018 – Apr 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "TUM School of Management",
+      "degree": "Master of Science - MS, Management and Technology",
+      "dateRange": "2023 – 2026"
+    },
+    {
+      "school": "ISEG - Lisbon School of Economics & Management",
+      "degree": "Exchange Semester",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "TUM School of Management",
+      "degree": "Bachelor of Science - BS, Management & Technology",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Antai College of Economics & Management, Shanghai Jiao Tong University",
+      "degree": "Exchange semester",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "WACO High School",
+      "degree": "Year abroad during High School",
+      "dateRange": "2016"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Portugiesisch",
+    "Türkisch"
+  ],
+  "company": {
+    "name": "Boston Consulting Group (BCG)",
+    "tagline": null,
+    "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.\n \nOur diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. \n\nWe work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.\n\nBCG Privacy Policy: https://www.bcg.com/about/privacy-policy.aspx",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bcg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/boston-consulting-group",
+    "employeeCount": 41217,
+    "foundedYear": 1963,
+    "location": "Boston, United States",
+    "specialities": [
+      "Consumer insight",
+      "corporate development",
+      "corporate finance",
+      "digital economy",
+      "globalization",
+      "growth",
+      "information technology",
+      "innovation",
+      "marketing & sales",
+      "operations",
+      "people & organization",
+      "postmerger integration",
+      "risk management",
+      "strategy",
+      "sustainability",
+      "transformation",
+      "climate",
+      "artificial intelligence",
+      "cost transformation",
+      "supply chains"
+    ]
+  }
+}

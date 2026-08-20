@@ -1,0 +1,119 @@
+{
+  "id": "tpischke",
+  "name": "Thomas Pischke",
+  "headline": "Trade Republic",
+  "avatar": {
+    "sm": "/avatars/tpischke-sm.webp",
+    "lg": "/avatars/tpischke.webp",
+    "blur": "data:image/webp;base64,UklGRk4BAABXRUJQVlA4IEIBAACwBgCdASogACAAPtFcp04oJSOiKAqpABoJagCdKIAawLfYXH/844FHuc2pfRR5konpx0URn71Fibfqc//6AAD+l5LcO8WeihnUG64Il2L1aKQwRW//fzE/BPaoCeN082n82qQIGntm/49pAlUip4rq8RGQiS8qpM/YvwyI/X46NNIOj1nbMR/Szvql/BtR0LvuFk2vDZo/3d/1ZEl/pcmwx8stbQR9RdFkc2RjnQxbaTcMlQOhmeRMXbTnHxjIBhf8Vs7XX3qVQejj8F/WGhscBJe3CXaJlpTp1/x1TMrK97rW+ro4I59BfyJAjmRCdbO6DNhR9NBE7kznd+BJbLYjdEC0DbpzOeo9m7mIrxpIn+VuCnY594B8mjcLk8Td7I6LQy8XvFLVULf5wYfBYHH4xEPJk5wKo5B0ByHu9IZaQAAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/tpischke",
+  "personId": 1155,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Physics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Thomas Pischke",
+  "ca": null,
+  "summary": "At Trade Republic, we empower millions of Europeans to put their money to work. We believe everybody should have easy, fast and free access to capital markets. \n\nFor decades banks have only offered opaque products for fat prices. To change the system, Trade Republic has been building a bank from scratch since 2015. We offer a beautifully simple product everybody can afford. Yet, we are still a bank. We secure your money and protect your wealth.\n\nSo you can save money and build your wealth with free savings plans on ETFs and stocks. Invest in companies you love with commission-free trading or hedge the market with derivatives.\n\nFind out more about us: https://traderepublic.com/en-de",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Trade Republic",
+      "companyUrl": "https://www.linkedin.com/company/trade-republic",
+      "description": null,
+      "location": null,
+      "start": "2016-03",
+      "end": null,
+      "dateRange": "Mar 2016 – Present",
+      "current": true
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Physics",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "ETH Zürich",
+      "degree": "Physics, Philosophy",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Physics",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Management",
+    "PHP",
+    "CSS",
+    "Java",
+    "Microsoft Office",
+    "Django",
+    "Graphic Design",
+    "Machine Learning",
+    "Start-ups",
+    "Software Development",
+    "User Interface Design",
+    "Android",
+    "REST",
+    "Python",
+    "Computer Vision",
+    "Web Development",
+    "Cascading Style Sheets (CSS)",
+    "Web Design",
+    "Projektmanagement",
+    "Strategie",
+    "Computational Physics",
+    "Unternehmensstrategie",
+    "Strategisches Management",
+    "Softwareentwicklung",
+    "Natural Language Processing",
+    "Webdesign",
+    "Mobile Product Development",
+    "Unternehmertum",
+    "Web-Entwicklung",
+    "Interfacedesign"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "Trade Republic",
+    "tagline": "From chart to pie.",
+    "description": "Save now, for later.",
+    "industry": "Banking",
+    "website": "https://traderepublic.com/customer-council",
+    "linkedInUrl": "https://www.linkedin.com/company/trade-republic",
+    "employeeCount": 1332,
+    "foundedYear": 2015,
+    "location": "Berlin, Germany",
+    "specialities": []
+  }
+}

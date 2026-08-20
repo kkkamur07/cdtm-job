@@ -1,0 +1,69 @@
+{
+  "id": "tabenquan",
+  "name": "Ben T.",
+  "headline": "🌚",
+  "avatar": {
+    "sm": "/avatars/tabenquan-sm.webp",
+    "lg": "/avatars/tabenquan.webp",
+    "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAAAQBgCdASogACAAPs1QpkunpKOhsBgMAPAZiWUAzlg2YKtW8Jhf0t5RtxCdsD44RBVqHLHvqRQGXzAA/vx6c48gKj+/cz4MmvU+P3RcT9auP1Mregu/+z60o4vv5/TFyfJIOldolykRBP4owV0y4wQydVimNfdqwXDUTqAnfxmkss1xeWjoPOpT4u9PinKwceUYqNT6iR16Ekve0+gL/bdHvxXBY2GTpcN6nysbR5pnj+erQyS1j3O6BVVWHibe16ZPsaxqVr+Sa02Ros0Muv42K6Ojlf2BO5Atv1sG2FfX6bEhbh7AAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/tabenquan",
+  "personId": 1299,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Ben Ta",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Full steak ‘n gin/beer",
+      "company": "The Krusty Krab",
+      "companyUrl": "https://www.linkedin.com/company/the-krusty-krab",
+      "description": null,
+      "location": null,
+      "start": "2000-01",
+      "end": null,
+      "dateRange": "Jan 2000 – Present",
+      "current": true
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of bikini bottom",
+      "degree": "Valedictonion",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "The Krusty Krab",
+    "tagline": null,
+    "description": null,
+    "industry": "Restaurants",
+    "website": null,
+    "linkedInUrl": "https://www.linkedin.com/company/the-krusty-krab",
+    "employeeCount": 3748,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

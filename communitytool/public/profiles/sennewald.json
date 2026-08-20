@@ -1,0 +1,206 @@
+{
+  "id": "sennewald",
+  "name": "Adrian Sennewald",
+  "headline": "Management Consulting | Allianz | adidas | Disney | CDTM",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sennewald",
+  "personId": 1898,
+  "classes": [
+    {
+      "id": 66,
+      "label": "Fall 2009",
+      "season": "Fall",
+      "year": 2009,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2009",
+  "major": "Industrial Design",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Adrian Sennewald",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Principal Consultant",
+      "company": "Allianz",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-10",
+      "end": null,
+      "dateRange": "Oct 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Digital Strategy & Innovation",
+      "company": "adidas",
+      "companyUrl": "https://www.linkedin.com/company/adidas",
+      "description": null,
+      "location": null,
+      "start": "2017-08",
+      "end": "2022-09",
+      "dateRange": "Aug 2017 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Senior Project Manager – Global Operations, Strategy & Projects",
+      "company": "adidas",
+      "companyUrl": "https://www.linkedin.com/company/adidas",
+      "description": null,
+      "location": null,
+      "start": "2016-02",
+      "end": "2017-08",
+      "dateRange": "Feb 2016 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Head of Product",
+      "company": "Parce",
+      "companyUrl": null,
+      "description": "Parce is a VC-backed startup in the IoT domain. At the Apple WWDC 2016 & '17 keynote, Parce earned itself a spot on the HomeKit slide, as one of the first smart home solutions to be controlled by Siri.\n•  Set up and managed business- and financial planning, securing a seed investment to cover product development and a 100k unit Manufacturing Service Agreement\n•  Managed product team, launching Parce as one of the first Apple HomeKit certified in devices in Europe with an initial 10k unit production run.\n•  Achieved pre-production status in the first wave of Apple HomeKit product certification.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-05",
+      "end": "2015-12",
+      "dateRange": "May 2014 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Independent Consultant",
+      "company": "Independent Consultant",
+      "companyUrl": null,
+      "description": "Multiple Locations in the USA and Germany",
+      "location": null,
+      "start": "2012-11",
+      "end": "2014-04",
+      "dateRange": "Nov 2012 – Apr 2014",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "The Walt Disney Company",
+      "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company",
+      "description": "Managed the development of consumer goods for Pixar, Marvel, and Disney brands.\nPioneered in addressing the a new consumer segment, achieving sales of 10k SKUs per day in the German market.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2011-04",
+      "end": "2012-09",
+      "dateRange": "Apr 2011 – Sep 2012",
+      "current": false
+    },
+    {
+      "title": "Partner",
+      "company": "Sennewald & Bizer Design",
+      "companyUrl": null,
+      "description": "Lead multi-disciplinary teams to design and develop innovative products and solutions. Clients include Sagemcom, and Siemens.",
+      "location": "Munich, Stuttgart",
+      "start": "2007-09",
+      "end": "2010-09",
+      "dateRange": "Sep 2007 – Sep 2010",
+      "current": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "TEAMS Design",
+      "companyUrl": "https://www.linkedin.com/company/teams-design",
+      "description": "Product design and development projects for companies such as Bosch, Siemens, EnBW, Johnson Controls, Silit, Leifheit, Soehnle, Kärcher, etc.",
+      "location": null,
+      "start": "2006-01",
+      "end": "2006-12",
+      "dateRange": "Jan 2006 – Dec 2006",
+      "current": false
+    },
+    {
+      "title": "Industrial Designer / Intern",
+      "company": "IPDD GmbH & Co KG",
+      "companyUrl": "https://www.linkedin.com/company/updesignstudio",
+      "description": "Worked on projects for companies such as Bosch, Koziol, Playmobil, Sigma.",
+      "location": "Stuttgart Region",
+      "start": "2005-01",
+      "end": "2005-12",
+      "dateRange": "Jan 2005 – Dec 2005",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Semcon",
+      "companyUrl": "https://www.linkedin.com/company/semcon",
+      "description": "— Generated and visualized Ideas for a concept car in early design phases. \n— Identified and analysed product differences in a product benchmarking project.",
+      "location": "Frankfurt Rhine-Main Metropolitan Area",
+      "start": "2004-01",
+      "end": "2004-12",
+      "dateRange": "Jan 2004 – Dec 2004",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Postgraduate Honors Degree, Technology Management",
+      "dateRange": "2009 – 2011"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "MSc, Product Design and Development",
+      "dateRange": "2007 – 2010"
+    },
+    {
+      "school": "Hochschule für Gestaltung Schwäbisch Gmünd",
+      "degree": "Dipl. (FH), Product & Environmental Design",
+      "dateRange": null
+    },
+    {
+      "school": "The Ohio State University",
+      "degree": "Exchange Student",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Marketing Strategy",
+    "Agile Project Management",
+    "Customer Journeys",
+    "Product Development",
+    "Project Management",
+    "Entrepreneurship",
+    "Strategy",
+    "Strategic Planning",
+    "User Experience",
+    "Product Design",
+    "Start-ups",
+    "Product Management",
+    "Customer Experience",
+    "Social Media",
+    "E-commerce",
+    "Management",
+    "Scenario Planning",
+    "Digital Transformation"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "company": {
+    "name": "Allianz",
+    "tagline": null,
+    "description": "The Allianz Group is one of the world's leading insurers and asset managers with more than 100 million private and corporate customers in nearly 70 countries. We are proud to be the Worldwide Insurance Partner of the Olympic & Paralympic Movements from 2021 until 2032 and to be recognized as one of the industry leaders in the Dow Jones Sustainability Index.\n\nCaring for our employees, their ambitions, dreams and challenges is what makes us a unique employer. Together we can build an environment where everyone feels empowered and has the confidence to explore, to grow and to shape a better future for our customers and the world around us. Join us and together, let’s care for tomorrow. \n\nCredits: https://www.allianz.com/en_GB/credits-allianz-se.html \n\nFollow us on:\nTwitter: twitter.com/Allianz\nInstagram: https://www.instagram.com/teamallianz\nFacebook: https://www.facebook.com/AllianzCareers \nGlassdoor: https://www.glassdoor.de/%C3%9Cberblick/Arbeit-bei-Allianz-EI_IE3062.11,18.htm\n\nAllianz Data Privacy Statement for Social Media: \nhttps://www.allianz.com/en/privacy-statement.html#social-media\nAllianz Careers Data Privacy Statement: https://careers.allianz.com/en_EN/footer/data-privacy.html\nLinkedIn Privacy Policy: https://www.linkedin.com/legal/privacy-policy\nLinkedIn General Terms: https://www.linkedin.com/legal/user-agreement",
+    "industry": "Financial Services",
+    "website": "https://www.allianz.com/en.html",
+    "linkedInUrl": "https://www.linkedin.com/company/allianz",
+    "employeeCount": 144915,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Insurance",
+      "Asset Management",
+      "Financials"
+    ]
+  }
+}

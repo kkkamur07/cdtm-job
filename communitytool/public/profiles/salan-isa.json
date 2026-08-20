@@ -1,0 +1,161 @@
+{
+  "id": "salan-isa",
+  "name": "Salan Isaqzoi",
+  "headline": "AI Research @p(doom)  | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/salan-isa-sm.webp",
+    "lg": "/avatars/salan-isa.webp",
+    "blur": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAACQBgCdASogACAAPtFYpEyoJSOiKA1RABoJZACdMt8vQTNStUL9D30V5Oj2UnasdhI0Mk1OUG+7MnGbtT4AAP78e5gen/9RpdtjNP1uczDSFKl+GcHFpob2/qkhfyOHaVNreal46FspCzIq+DaVufxrD7StpxngS+hPwkLnjVvN5ZvQSmmla1kAt7B3I1N66gv5HRSTwv1I6Bip2cS/1/4jBqh37VFmM+QogOwqNu1CjbkEUrDpK8OAkavHofhRPMi4/pb2/93p4Uo9TXxfQjDmmrkHGLJw34gNRr1OmvKOg+4V/JhpiAIn3dPDp9M2k7cB+FqwCoEVUmT89Q4W/gQWAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/salan-isa",
+  "personId": 2119,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Salan Isaqzoi",
+  "ca": null,
+  "summary": "Began my career in M&A, consulting, and fundraising before founding a startup that grew to 7,000+ users. Pivoted into AI Research in 2025. My expertise spans Finance, Product, Marketing, Recruiting, BD, UX/UI, as well as Machine Learning and Computational Biology. Besides work I am interested in philosophy, chinese history and politics, classical music & jazz, psychoanalysis & machine learning (it is not only work but also my biggest hobby :DD)",
+  "positions": [
+    {
+      "title": "AI Research",
+      "company": "p(doom)",
+      "companyUrl": "https://www.linkedin.com/company/p-doom",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2026-04",
+      "end": null,
+      "dateRange": "Apr 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Helmholtz Munich",
+      "companyUrl": "https://www.linkedin.com/company/helmholtzmunich",
+      "description": "München",
+      "location": null,
+      "start": "2026-04",
+      "end": null,
+      "dateRange": "Apr 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Stealth Startup",
+      "companyUrl": "https://www.linkedin.com/company/stealth-startup-community",
+      "description": "Marketing, BD, Finance, Strategy, Product, HR \n+ 7.000 User   |  + 100.000 Social Media Impressions",
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-04",
+      "dateRange": "Jan 2025 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "Board Member & Advisor",
+      "company": "TUM Blockchain Club",
+      "companyUrl": "https://www.linkedin.com/company/tum-blockchain-club",
+      "description": "• Co-Organized conference with 150+ speakers and 1500+ visitors\n• Recruited 50+ new Members",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-05",
+      "end": "2026-03",
+      "dateRange": "May 2024 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "Blockchain Institute",
+      "company": "Deloitte",
+      "companyUrl": "https://www.linkedin.com/company/deloitte",
+      "description": null,
+      "location": null,
+      "start": "2022-11",
+      "end": "2024-03",
+      "dateRange": "Nov 2022 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Fundraising",
+      "company": "bloXmove",
+      "companyUrl": "https://www.linkedin.com/company/futurizer",
+      "description": null,
+      "location": null,
+      "start": "2022-07",
+      "end": "2022-10",
+      "dateRange": "Jul 2022 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "M&A - Venture Services",
+      "company": "KPMG Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/kpmg-deutschland",
+      "description": null,
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-02",
+      "dateRange": "Oct 2021 – Feb 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Class of Fall 2025 | 2% Acceptance Rate",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Bonn-Rhein-Sieg University of Applied Sciences",
+      "degree": "Business Administration (Grade: 1,7)",
+      "dateRange": "2018 – 2023"
+    }
+  ],
+  "skills": [
+    "Digitale Assets",
+    "Digital Money",
+    "Tokenization",
+    "Blockchain",
+    "Defi",
+    "Ethereum",
+    "Layer 2",
+    "Web3",
+    "Englisch",
+    "Analytische Fähigkeiten",
+    "Finanzwesen",
+    "Unternehmensbewertung",
+    "Finanzanalysen",
+    "Börse",
+    "Wirtschaftswissenschaften"
+  ],
+  "languages": [],
+  "company": {
+    "name": "p(doom)",
+    "tagline": "AI research FOR EVERYONE.",
+    "description": "Pioneering truly open research on the path to AGI.",
+    "industry": "Research Services",
+    "website": "https://pdoom.org",
+    "linkedInUrl": "https://www.linkedin.com/company/p-doom",
+    "employeeCount": 7,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "id": "frank-danzinger-238375144",
+  "name": "Frank Danzinger",
+  "headline": "Professor for Digital Business at Hochschule Augsburg; VP Technology & Research",
+  "avatar": null,
+  "location": "Augsburg, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/frank-danzinger-238375144",
+  "personId": 1573,
+  "classes": [
+    {
+      "id": 54,
+      "label": "Fall 2003",
+      "season": "Fall",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Frank Danzinger",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Vizepräsident für Technologie und Forschung",
+      "company": "Technische Hochschule Augsburg",
+      "companyUrl": "https://www.linkedin.com/company/hochschule-augsburg",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Professor for Digital Business at Technische Hochschule Augsburg",
+      "company": "Technische Hochschule Augsburg",
+      "companyUrl": "https://www.linkedin.com/company/hochschule-augsburg",
+      "description": null,
+      "location": null,
+      "start": "2020-09",
+      "end": null,
+      "dateRange": "Sep 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Augsburg",
+      "company": "Technische Hochschule Augsburg",
+      "companyUrl": "https://www.linkedin.com/company/hochschule-augsburg",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Augsburg",
+      "company": "Technische Hochschule Augsburg",
+      "companyUrl": "https://www.linkedin.com/company/hochschule-augsburg",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Vizepräsident für Technologie und Innovation",
+      "company": "Technische Hochschule Augsburg",
+      "companyUrl": "https://www.linkedin.com/company/hochschule-augsburg",
+      "description": null,
+      "location": null,
+      "start": "2024-03",
+      "end": "2024-12",
+      "dateRange": "Mar 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Präsidialbeauftragter für Technologie und Innovation",
+      "company": "Technische Hochschule Augsburg",
+      "companyUrl": "https://www.linkedin.com/company/hochschule-augsburg",
+      "description": "Augsburg",
+      "location": null,
+      "start": "2022-10",
+      "end": "2024-02",
+      "dateRange": "Oct 2022 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Geschäftsfeldkoordination \"Digitaler Wandel\"",
+      "company": "Fraunhofer IIS",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-iis",
+      "description": null,
+      "location": "Nuremberg, Bavaria, Germany",
+      "start": "2020-10",
+      "end": "2024-05",
+      "dateRange": "Oct 2020 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Head of the Department for Innovation & Transformaion",
+      "company": "Fraunhofer IIS",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-iis",
+      "description": "Nürnberg",
+      "location": null,
+      "start": "2017-06",
+      "end": "2020-08",
+      "dateRange": "Jun 2017 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Deputy Manager",
+      "company": "Fraunhofer SCS",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2014-02",
+      "end": "2020-08",
+      "dateRange": "Feb 2014 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Nürnberg",
+      "company": "Fraunhofer SCS",
+      "companyUrl": null,
+      "description": null,
+      "location": "Nuremberg, Bavaria, Germany",
+      "start": "2012-09",
+      "end": "2017-05",
+      "dateRange": "Sep 2012 – May 2017",
+      "current": false
+    },
+    {
+      "title": "Postdoc",
+      "company": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "companyUrl": "https://www.linkedin.com/company/fau-erlangen-nürnberg",
+      "description": null,
+      "location": "Nuremberg, Bavaria, Germany",
+      "start": "2010-04",
+      "end": "2012-09",
+      "dateRange": "Apr 2010 – Sep 2012",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "CVex GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2005-01",
+      "end": "2010-12",
+      "dateRange": "Jan 2005 – Dec 2010",
+      "current": false
+    },
+    {
+      "title": "Asset Management",
+      "company": "Sparkasse Hof",
+      "companyUrl": null,
+      "description": "Hof",
+      "location": null,
+      "start": "1997-01",
+      "end": "2001-12",
+      "dateRange": "Jan 1997 – Dec 2001",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctorate, Chair for Information, Organization & Management",
+      "dateRange": "2007 – 2010"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diploma, Business Education",
+      "dateRange": "2001 – 2007"
+    },
+    {
+      "school": "The University of Waikato",
+      "degree": "Individual Paper Credit",
+      "dateRange": "2005"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Certificate in Technology Management",
+      "dateRange": "2003 – 2005"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Technische Hochschule Augsburg",
+    "tagline": "Shaping the world together",
+    "description": "Our university has a friendly, welcoming atmosphere. We are dedicated to offering our students a unique and exceptional experience in an atmosphere of vibrant cultural diversity. We take great pride in providing our students with the knowledge, skills and support they need now – and in the future – so they become employable graduates.\n\nUnited by exceptional motivation, creativity and potential, and situated in the heart of Bavaria, we are a community in the centre of a lively, historical and beautiful city, an attractive location for business and research. Our university plays a prominent role in providing a communication network for the local political, economic and social community. We set very high standards and have a clear vision of the future.",
+    "industry": "Education",
+    "website": "http://www.tha.de",
+    "linkedInUrl": "https://www.linkedin.com/company/hochschule-augsburg",
+    "employeeCount": 917,
+    "foundedYear": 1971,
+    "location": "Augsburg, Germany",
+    "specialities": []
+  }
+}

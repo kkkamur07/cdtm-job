@@ -1,0 +1,202 @@
+{
+  "id": "anasaa",
+  "name": "Dr. Anas Al-Nuaimi",
+  "headline": "Data Architect for Machine Learning and AI at BMW Autonomous Driving | TUM | CDTM",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/anasaa",
+  "personId": 1825,
+  "classes": [
+    {
+      "id": 64,
+      "label": "Fall 2008",
+      "season": "Fall",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2008",
+  "major": "Communication Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Anas Al-Nuaimi",
+  "ca": null,
+  "summary": "Dr of Engineering (Dr.-Ing.) Computer Vision and Master's degree in communications engineering and hons degree in technology management from CDTM (www.cdtm.de).\n\n8 years experience in SW engineering for autonomous driving at BMW filling the roles of Senior SW Eng, Data Engineer and Data Architect as well as the Lead for the AI/ML Community for Autonomous Driving.\n\nExtensive research and development experience incl. years as research associate at the Chair of Media Technology of the Department of Electrical and Computer Eng. of TUM.\n\nExtensive programming experience in the following languages Python, C++, Scala.\n\nTopics in which I have experience:\n-3D Computer Vision (content-based image retrieval, 3D mapping, 3D mapping and reconstruction, etc.)\n-Machine learning\n-Navigation and sensor fusion\n-Video processing",
+  "positions": [
+    {
+      "title": "Data Architect",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "- Design and architecture of ETL Data pipelines\n- Project management of migration of ETL data pipelines from on-prem to AWS cloud impacting multiple teams\n- Development of an MLOps data lifecycle tracker\n- Community lead for AI/ML Community of Autonomous Driving",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-07",
+      "end": null,
+      "dateRange": "Jul 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Data Engineer for Computer Vision",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Leadership:\n- Led the drafting of the ML-specific part for an RfP for cloud service provisioning\n- Led the evaluation of the offerings of major cloud providers from ML perspective in coordination with stakeholders\n- Facilitator of the AI/ML community\n\nSoftware Engineering\n- [Data Engineering] Built and maintained data pipelines running on an on-prem cloud (Airflow, Python, Kubernetes, C++, Docker)\n- [MLOps] Built a database-based data lifecycle tracker (Postgres, Kubernetes, SQLAlchemy)\n- [MLOps] Integrated the ML model training with an experiment tracker running on the on-prem cloud using Kubernetes (Postgres, MLFlow)",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2023-06",
+      "dateRange": "Oct 2021 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer for Machine Learning and Artificial Intelligence",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Software Engineering:\n- Developed an embedded predictor launched in the BMW 7 Series\n- Wrote code for applications running on an on-prem cloud for Big Data processing of test car fleet data (Apache Spark, Scala, Python, Bazel, Zuul CI, Airflow)\n- Built a framework for product-grade Machine Learning (MLOps)\n\nSteering & Project Management:\n- Supervised two external software partner teams in the area of Data Engineering and Machine Learning\n- Shaped the milestone plans and item backlog\n\nLeadership:\n- As facilitator of the AI/ML Community organized meetups and reported to management\n- Coordinated evaluations of startup offerings",
+      "location": "Munich Area, Germany",
+      "start": "2016-09",
+      "end": "2021-09",
+      "dateRange": "Sep 2016 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Research Associate",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Research:\n-3D mapping of indoor spaces using 3D LIDAR (specifically LIDAR scan matching).\n-3D scanning and reconstruction of objects using Lidar and Time-of-Flight sensors (Kinect).\n-Content-based Image Retrieval (with Docomo Eurolabs).\n-Outdoor navigation using sensor fusion of GPS and IMU and Kalman filtering (with Docomo Eurolabs).\n-Image and video processing.\n\nFund acquisition: \nWrote multiple research proposals and successfully acquired funds for the institute. \n\nSupervision: \nSupervised >20 bachelor's and master's thesis as well as interns.\n\nTeaching: \nDeveloped and taught a lab on designing and programming Augemented Reality (AR) computer games.",
+      "location": "Munich Area, Germany",
+      "start": "2010-04",
+      "end": "2016-06",
+      "dateRange": "Apr 2010 – Jun 2016",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "DOCOMO Euro-Labs",
+      "companyUrl": "https://www.linkedin.com/company/docomo-eurolabs",
+      "description": "Conducted an internship on the topic of H.264 rate adaptation through transcoding and layer dropping.\nHad to deal extensively with the technical standard and included implementation and testing in Matlab.",
+      "location": null,
+      "start": "2008-08",
+      "end": "2010-10",
+      "dateRange": "Aug 2008 – Oct 2010",
+      "current": false
+    },
+    {
+      "title": "Patent Examiner Assistant",
+      "company": "European Patent Office",
+      "companyUrl": "https://www.linkedin.com/company/european-patent-office",
+      "description": "Part-time job during my M.Sc. study. Worked as patent examiner assistant within the Examiner Assistance Program. \n\nThe job included:\n-Reading patents related to fault-tolerant computer architectures and communications\n-Classifying the patents in predefined categories.",
+      "location": null,
+      "start": "2007-12",
+      "end": "2008-06",
+      "dateRange": "Dec 2007 – Jun 2008",
+      "current": false
+    },
+    {
+      "title": "Wissenschaftliche Hilfskraft (Graduate Assistant)",
+      "company": "BIAS - Bremer Institut für angewandte Strahltechnik GmbH",
+      "companyUrl": "https://www.linkedin.com/company/biasbremen",
+      "description": "Developed a MATLAB-based experimental visual samples analyzer by performing processing of images.",
+      "location": null,
+      "start": "2007-08",
+      "end": "2007-12",
+      "dateRange": "Aug 2007 – Dec 2007",
+      "current": false
+    },
+    {
+      "title": "Wissenschaftliche Hilfskraft (Graduate Assistant)",
+      "company": "University of Bremen",
+      "companyUrl": "https://www.linkedin.com/company/university-of-bremen",
+      "description": "Part-time job during M.Sc. study.\nMain task was to re-programm signal processing algorithms from MATLAB to MATLAB-embedded C (C-MEX). The algorithms were used for the institute's MIMO (Multiple-Input Multiple-Output) demonstration and test platform.",
+      "location": null,
+      "start": "2007-08",
+      "end": "2007-10",
+      "dateRange": "Aug 2007 – Oct 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Research Doctorate (Dr.-Ing.), Electrical Engineering and Information Technology",
+      "dateRange": "2010 – 2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Graduate Hons in Technology Management, Technology Management and Business Administration",
+      "dateRange": "2008 – 2011"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc.Communications Engineering (MSCE), Electrical Engineering and Information Technology",
+      "dateRange": "2007 – 2009"
+    },
+    {
+      "school": "Hashemite University, Jordan",
+      "degree": "B.Sc. Electrical and Computer Engineering, Telecommunications",
+      "dateRange": "2002 – 2006"
+    },
+    {
+      "school": "Computer Vision Summer School, Sicily",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Generative AI",
+    "Agile Methodologies",
+    "Microsoft Word",
+    "Microsoft PowerPoint",
+    "Microsoft Excel",
+    "Telecommunications",
+    "Electronics",
+    "Research",
+    "Student Supervision",
+    "Project Planning",
+    "Publishing",
+    "Technology Management",
+    "Business Development",
+    "Startup Development",
+    "Product Development",
+    "Leadership",
+    "Team Management",
+    "Teamwork",
+    "Airflow",
+    "Bazel"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "company": {
+    "name": "BMW Group",
+    "tagline": "We make individual mobility more human, more intelligent and more responsible.",
+    "description": "With its four brands, BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world’s leading premium manufacturer of automobiles and motorcycles and also provides premium financial services. The BMW Group production network comprises over 30 production sites worldwide; the company has a global sales network in more than 140 countries.\n\nIn 2025, the BMW Group sold 2.46 million passenger vehicles and more than 202,500 motorcycles worldwide. The profit before tax in the financial year 2025 was € 10.2 billion on revenues amounting to € 133,5 billion. As of 31 December 2025, the BMW Group had a workforce of 154,540 employees.\n\nThe economic success of the BMW Group has always been based on long-term thinking and respon-sible action. Sustainability is a key element of the BMW Group’s corporate strategy and covers all products – from the supply chain through production to the end of their useful life.",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://www.bmwgroup.com/en/general/imprint.html",
+    "linkedInUrl": "https://www.linkedin.com/company/bmw-group",
+    "employeeCount": 65541,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Automotive",
+      "Information Technology",
+      "Data Science",
+      "Software Development",
+      "Artificial Intelligence",
+      "Data Security",
+      "Motorcycles",
+      "Financial Services",
+      "Mobility Services",
+      "Digital Services",
+      "IoT",
+      "Future of Mobilty",
+      "Autonomous Driving",
+      "Connectivity",
+      "Sheer Driving Pleasure"
+    ]
+  }
+}

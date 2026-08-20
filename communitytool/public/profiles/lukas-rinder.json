@@ -1,0 +1,261 @@
+{
+  "id": "lukas-rinder",
+  "name": "Lukas Rinder",
+  "headline": "Director of AI @ Tensordyne | AI Leader | TUM & CDTM | Ex-BMW",
+  "avatar": {
+    "sm": "/avatars/lukas-rinder-sm.webp",
+    "lg": "/avatars/lukas-rinder.webp",
+    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACQBQCdASogACAAPsFOn0unpCKht/qoAPAYCUAGoaBoHyZf15fdiXqY00y42s9KtJ4zSwNxoAD+/NhDV/3rTAXwP8Zk/5dOg0/HgBafpQ0tg5WA1U4PWe/5BHnIjG9R36EBsdXEZ09y0zU+GhBE3lPeVgsIexB1fvkH4od3tYo3vA2HSJtHaqS63jVdjK6CxBGVniqintYmvYY8ADjFYc91ei0xtW/V4PrwycI4zl7Lcb/9Z+EFu+jFqP6CDB0sAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lukas-rinder",
+  "personId": 1261,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lukas Rinder",
+  "ca": null,
+  "summary": "https://lukasrinder.carrd.co/\nhttps://github.com/LukasRinder",
+  "positions": [
+    {
+      "title": "Director of AI",
+      "company": "Tensordyne",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": "Promoted to team lead at Tensordyne, I now steer a dynamic team of 9 AI engineers. We specialize in converting floating-point precision neural networks into a format optimized for Tensordyne's advanced AI accelerator. Our key competency is the design and implementation of state-of-the-art post-training quantization (PTQ) and quantization-aware training (QAT) methods, maintaining task performance even under significant model compression. Our developments are bundled into an intuitive SDK, enabling customers to leverage the full capabilities of our accelerator. In parallel, we spearhead the mathematical innovations of our next-generation hardware.",
+      "location": "München",
+      "start": "2023-06",
+      "end": null,
+      "dateRange": "Jun 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Lead AI Software Engineer",
+      "company": "Tensordyne",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-04",
+      "end": "2023-06",
+      "dateRange": "Apr 2023 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "AI Software Engineer",
+      "company": "Tensordyne",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": "I continued to broaden my expertise at Tensordyne, orchestrating the efforts of the Munich office in the hardware-algorithm co-design for our next-gen chip. I pioneered improvements to our custom quantization and cluster compression schemes, leading to substantial accuracy enhancements in post-training quantization. Additionally, I delved into AI trends such as LLMs, Vision Transformers, and Diffusion Models to strategically prioritize potential support for our upcoming inference accelerator. My role included a three-month tenure at our Silicon Valley office, where I collaborated closely with our chip design team.",
+      "location": "München",
+      "start": "2021-05",
+      "end": "2023-03",
+      "dateRange": "May 2021 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Master's Thesis (Full Time)",
+      "company": "Tensordyne",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": "In my master's thesis, I devised a progressive model compression technique, merging quantization and knowledge distillation. This novel method enhanced the stability and accuracy of heavily compressed neural networks, becoming Tensordyne's standard for AI accelerator model conversion. I also proposed a novel contrastive knowledge distillation loss, inspired by contrastive learning. The thesis received the highest grade (1.0) in the German Grading System.",
+      "location": "München",
+      "start": "2020-09",
+      "end": "2021-05",
+      "dateRange": "Sep 2020 – May 2021",
+      "current": false
+    },
+    {
+      "title": "AI Strategy Consultant",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Supported Siemens as an external student consultant team in expanding its \"Data Strategy, Quality & Extraction\" offering with competitive benchmarking and a market-entry strategy. The project was part of a collaboration with the Center for Digital Technology and Management (CDTM).",
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-04",
+      "end": "2020-07",
+      "dateRange": "Apr 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "AI Software Engineer (Part Time)",
+      "company": "Tensordyne",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": "As the fourth member of Tensordyne's Munich team, I tackled diverse AI development tasks, from model development to infrastructure work and network compression. Over time, my focus shifted to improving quantized neural network accuracy using quantization-aware training (QAT) and analyzing model stability under compression.",
+      "location": "München",
+      "start": "2019-09",
+      "end": "2020-09",
+      "dateRange": "Sep 2019 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "External Developer",
+      "company": "Limehome GmbH",
+      "companyUrl": "https://www.linkedin.com/company/limehome",
+      "description": "Product development project focusing on digital solutions in the hotel industry in cooperation with CDTM and Limehome. The project covered all product development stages from identifying a customer need to building a working prototype and pitching the idea in front of ~350 people.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2019-04",
+      "end": "2019-08",
+      "dateRange": "Apr 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Student Consultant - Trend Research",
+      "company": "GEA Group",
+      "companyUrl": "https://www.linkedin.com/company/geagroup",
+      "description": "Trend research in the dairy industry and publication of a trend report in autumn 2019 in cooperation with CDTM and GEA",
+      "location": "München, Bayern, Deutschland",
+      "start": "2019-02",
+      "end": "2019-04",
+      "dateRange": "Feb 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Vehicle Integration Intern",
+      "company": "BMW of North America, LLC",
+      "companyUrl": "https://www.linkedin.com/company/bmwgroupus",
+      "description": "• Retrofitted hardware and software (sensors, compute node, ROS communication, etc.) to a series vehicle to build up a data collection vehicle from scratch \n• Developed an Android in-vehicle labeling and system monitoring app using Unity 3D",
+      "location": "San Francisco Bay und Umgebung",
+      "start": "2018-03",
+      "end": "2018-09",
+      "dateRange": "Mar 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Bachelor's Thesis",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Title: \"Classification of a cooperative lane change using machine learning\"\n\n• Researched literature about lane change models and machine learning\n• Analyzed and prepared sensory data with Matlab, which has been conducted in a driving simulator study\n• Trained a logistic regression and support vector machine (SVM) model to classify cooperative lane changes achieving 91 % accuracy",
+      "location": "München, Bayern, Deutschland",
+      "start": "2017-08",
+      "end": "2018-02",
+      "dateRange": "Aug 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Academic Tutor",
+      "company": "Technische Hochschule Deggendorf",
+      "companyUrl": "https://www.linkedin.com/company/technische-hochschule-deggendorf",
+      "description": "Tutor of the course \"Basics of Electrical Engineering\".",
+      "location": "Deggendorf",
+      "start": "2017-03",
+      "end": "2017-08",
+      "dateRange": "Mar 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Autonomous Driving Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "• Successfully integrated virtual vehicle data from a Matlab/Simulink model into a visualization in the framework ADTF.\n• Established a communication from Autobox respectively Matlab/Simulink to the framework ADTF via Ethernet.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2017-01",
+      "end": "2017-02",
+      "dateRange": "Jan 2017 – Feb 2017",
+      "current": false
+    },
+    {
+      "title": "Virtual Reality Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "• Programmed immersive virtual reality scenes in Unreal Engine 4 that were still in use years after I left the team.\n• Programmed VR interactions with the hand-tracking camera Leap Motion.\n• Presented the work at the BMW IT-Fair 2016 in Munich.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2016-08",
+      "end": "2017-01",
+      "dateRange": "Aug 2016 – Jan 2017",
+      "current": false
+    },
+    {
+      "title": "Software Testing Intern",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "• Tested new software and evaluated its usability.\n• Evaluated the usability findings with a SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis and presented the results.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2016-02",
+      "end": "2016-03",
+      "dateRange": "Feb 2016 – Mar 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Robotics, Cognition, Intelligence",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Deggendorf Institute of Technology",
+      "degree": "Bachelor of Engineering - BE, Electrical Engineering",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "University of Technology Sydney",
+      "degree": "Semester abroad, Electrical Engineering",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "BMW AG Manufacturing Plant Regensburg",
+      "degree": "Mechatronics technician",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "Staatliche Fachoberschule Regensburg",
+      "degree": "Fachhochschulreife (Fachabitur)",
+      "dateRange": "2011 – 2014"
+    }
+  ],
+  "skills": [
+    "Engineering Management",
+    "Leadership",
+    "Coaching",
+    "Software Development",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "Virtual Reality",
+    "Project Management",
+    "Design Thinking",
+    "Data Mining",
+    "Business Development",
+    "React.js",
+    "Django REST Framework",
+    "Public Speaking",
+    "Product Development",
+    "Strategic Planning",
+    "Market Research"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Tensordyne",
+    "tagline": "Math, Chips, and Systems for AI Inference.",
+    "description": "Every leap in AI has followed the same pattern: first we made models bigger, then we tailored them, and now we let them think longer. \n\nEach step (scaling law) truly adds intelligence.\n\nBut in the end we land on the same runway: inference, and demand is exploding while power supply lags. \n\nWe asked: what if the next step isn’t stacking another law on top, but a zeroth law beneath them all. A law that changes AI math. \n\nBecause after all, AI is math, trillions of multiplies, and multiplication burns watts. \n\nTensordyne uses logarithmic compute to turn multiplies into adds, cutting power at the root. \n\nWe’ve cast our proprietary logarithmic math into custom silicon, hardware, interconnect, and system software. The result: one integrated system for multimodal GenAI inference designed for Hyperscaler and Neo Cloud data centers. \n\nWhat this means for our customers: With Tensordyne they can run the world’s largest multimodal models for thousands of users, with fewer racks, less power, and lower cost.\n\nWe’re well-funded and fast-moving, with co-headquarters in Sunnyvale, California and Munich, Germany, and a distributed team across North America and Europe.\n\nJoin us to change how the world runs Gen AI.",
+    "industry": "Computer Hardware Manufacturing",
+    "website": "https://www.tensordyne.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/recogni",
+    "employeeCount": 111,
+    "foundedYear": null,
+    "location": "Sunnyvale, United States",
+    "specialities": []
+  }
+}

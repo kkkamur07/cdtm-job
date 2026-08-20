@@ -1,0 +1,327 @@
+{
+  "id": "vishwamsingh",
+  "name": "Vishwa Mohan Singh",
+  "headline": "AI@CertHub || CDTM || Data Science @ LMU München || AI @ cBRAIN || Ex-BMW || Ex-Dozee",
+  "avatar": {
+    "sm": "/avatars/vishwamsingh-sm.webp",
+    "lg": "/avatars/vishwamsingh.webp",
+    "blur": "data:image/webp;base64,UklGRgwBAABXRUJQVlA4IAABAAAQBgCdASogACAAPtFcpk6oJKMiKAqpABoJZADE2dz5fnWbat3sqKft0XSlqw2M2gMyzTjK/vAPYAAA/t6soOOjRfIWzYg2E+TAHzz7y+6qUBSWNn9tKd2xdX88dJ33LXur629c1O8xnlNRTPGnrY06a0/PSvZRFF/8BcLyFXmpE7OH0jnjXxreFeiVf8SmdpeFkDKuxHY/BKGeys6Ii4mr26k5MZ4P3H3PKDBuOT0QXPxusnkndDIniWMSI30XZvzVMJH8Y/B+zKd6rnELBemgnt6qr7ICGduxXn5Pn+6/FeFbRNdjM84UJ9C/+o2C9GH6efIne0FZ15YKvgepcvAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/vishwamsingh",
+  "personId": 2081,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Data Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Vishwa Singh",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "AI Engineer",
+      "company": "CertHub",
+      "companyUrl": "https://www.linkedin.com/company/certhub-ai",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Member, R&D Team",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": "- Working on a stable diffusion-based approach to forecasting the white matter hyperintensities in 3D\nmedical images.\n- Aim to improve upon the flexibility and performance of the current distribution and GAN-based\napproaches.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-05",
+      "end": null,
+      "dateRange": "May 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "AI/ML Engineer",
+      "company": "Playbook®",
+      "companyUrl": "https://www.linkedin.com/company/operating-memory",
+      "description": "- Working on an AI based eQMS system to manage and process Standard Operating Procedures for pharmaceuticals and medical device manufacturing organizations.\n- Built a solution to create digital twins of legacy SOPs for fast onboarding. Currently working on Graph Agents based on SOPs and Regulations to check for conformity and consistency.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-04",
+      "end": "2026-02",
+      "dateRange": "Apr 2025 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Associate Researcher",
+      "company": "Helmholtz Munich",
+      "companyUrl": "https://www.linkedin.com/company/helmholtzmunich",
+      "description": "- Developed an evaluation pipeline and a representation methodology for viral-mediated delivery experiments with oligodendrocyte progenitor cells.\n- Worked in collaboration with members of TUM.ai and Helmholtz Munich.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-11",
+      "end": "2026-02",
+      "dateRange": "Nov 2024 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Working Student - AI in Formal Verification",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-09",
+      "end": "2025-02",
+      "dateRange": "Sep 2024 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Thesis Student - AI for Neuroimaging",
+      "company": "LMU Klinikum München",
+      "companyUrl": "https://www.linkedin.com/company/lmu-klinikum",
+      "description": "- Working on a multi-modal deep learning approach to detect small brain alterations caused by repetitive head impacts in athletes.\n- The model uses MR Elastography, MR Spectroscopy, Diffusion Tensor Imaging, and other such modalities to create a sensitive detection method.\n- The model focuses on combining modalities into a latent space in an interpretable manner.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-07",
+      "end": "2026-02",
+      "dateRange": "Jul 2024 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Praktikant - Data Science",
+      "company": "DB InfraGO",
+      "companyUrl": "https://www.linkedin.com/company/db-infrago",
+      "description": "- Performing Causal Analysis on a new dispatcher recommendation system to understand the drivers for the number of recommendations made.\n- Working with DML-BCF and SHAP on data collected from the Frankfurt and Stuttgart pilots",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-12",
+      "end": "2024-07",
+      "dateRange": "Dec 2023 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Working Student - Machine Learning and AI",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "- Improving the efficieny of Master Data tools with AI solutions. \n- Intorduced XAI and multi-model solutions in the softwares to increase reliablity of the alerts.\n- Improving productivity by building LLMs and context models.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-07",
+      "end": "2024-06",
+      "dateRange": "Jul 2023 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Data Scientist II",
+      "company": "Dozee",
+      "companyUrl": "https://www.linkedin.com/company/dozeehealth",
+      "description": "- Worked with a small team to create and deploy large scale state-of-the-art solutions for contactless health monitoring using ballistocardiography.\n- Reduce the cleaning and preproceesing time of the collected clinical data from the blood pressure study by 300%.\n- Worked on a one-of-a-kind solution for low ejection fraction screening with multi-modal neural networks and Convolutional LSTMs. \n- Increased the range of heart rate calculation algorithm by 30% while retaining FDA standard precision with anomaly detection methods like DB-Scan and FB-Prophet.",
+      "location": "Bengaluru, Karnataka, India",
+      "start": "2022-04",
+      "end": "2022-10",
+      "dateRange": "Apr 2022 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Junior Data Scientist",
+      "company": "Dozee",
+      "companyUrl": "https://www.linkedin.com/company/dozeehealth",
+      "description": "- Improved the accuracy of the contactless blood pressure monitoring algorithm by 100%.\n- Wrote several live-service filter codes from scratch and deployed them AWS EC2 instances with docker.\n- Improved over the accuracy of state-of-the-art infarction detection algorihtm by 2X using a novel multi label classification method.",
+      "location": "Bangalore Urban, Karnataka, India",
+      "start": "2021-07",
+      "end": "2022-03",
+      "dateRange": "Jul 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Project Intern",
+      "company": "National Institute of Technology Rourkela",
+      "companyUrl": "https://www.linkedin.com/company/national-institute-of-technology-rourkela",
+      "description": "- Developed a network for vehicle detection in dense traffic using an augmented YOLO architecture with an ensemble backbone of ResNet and DenseNet with Channel Wise projection pooling. \n- Improved the speed by 25% and the mAP by 2% for vehicle detection.\n- Worked on several other alternatives using FRD-CNN and SpineNet.",
+      "location": "Raurkela, Odisha, India",
+      "start": "2020-11",
+      "end": "2021-03",
+      "dateRange": "Nov 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and Director",
+      "company": "Indegree Technologies Pvt.Ltd",
+      "companyUrl": "https://www.linkedin.com/company/indi-pro",
+      "description": "- Designed and manufactured smart sanitizer bands with variants including touch detection with EMG and gyroscopes.\n- Pitched the product, developed the marketing website and drove sales for the band to over 15,000 pieces while remaining completely bootstrapped.\n- Additionally, worked on use-case specific BCI devices and single-cylinder oxygen concentrators.",
+      "location": "Pune District, Maharashtra, India",
+      "start": "2020-07",
+      "end": "2021-08",
+      "dateRange": "Jul 2020 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Intern",
+      "company": "Suzlon Group",
+      "companyUrl": "https://www.linkedin.com/company/suzlon-group",
+      "description": "- Designed and deployed a large scale machine learning based performance monitoring platform for anomaly detection in wind turbines. \n- Worked with unsupervised anomaly detection algorithms using Mahalanobis distances and FBProphet.\n- Deployed the solution on an MS-SQL based system using Transact-SQL with real-time predictions from a large amount of data.",
+      "location": "Maharashtra, India",
+      "start": "2020-07",
+      "end": "2020-10",
+      "dateRange": "Jul 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Intern",
+      "company": "Ai Adventures",
+      "companyUrl": "https://www.linkedin.com/company/aiadventures",
+      "description": "Pune/Pimpri-Chinchwad Area",
+      "location": null,
+      "start": "2019-06",
+      "end": "2019-07",
+      "dateRange": "Jun 2019 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Technical Head",
+      "company": "MIT-WPU Aananta Tantra",
+      "companyUrl": "https://www.linkedin.com/company/mit-wpu-aananta-tantra",
+      "description": "- Conducted and organized workshops on machine learning and computer vision.\n- Participated in several hackathons and competitions with 4 wins.",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "start": "2019-02",
+      "end": "2021-02",
+      "dateRange": "Feb 2019 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Core Member",
+      "company": "The S.C.R.I.P.T Group",
+      "companyUrl": "https://www.linkedin.com/company/the-script-group",
+      "description": "Pune/Pimpri-Chinchwad Area",
+      "location": null,
+      "start": "2018-09",
+      "end": "2020-09",
+      "dateRange": "Sep 2018 – Sep 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Data Science (Elite Graduate Program)",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Electives for MSc., Data Science",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "MIT World Peace University",
+      "degree": "Bachelor of Technology, Computer Science",
+      "dateRange": "2017 – 2021"
+    },
+    {
+      "school": "The Bishop's School, Pune",
+      "degree": "High School Diploma",
+      "dateRange": "2011 – 2015"
+    }
+  ],
+  "skills": [
+    "Amazon Bedrock",
+    "Agentic AI Development",
+    "LangChain",
+    "Agents",
+    "Bioinformatics",
+    "GraphRAG",
+    "Biological Systems",
+    "Stable Diffusion",
+    "Supervised Learning",
+    "Medical Technology",
+    "Generative AI",
+    "Diffusion",
+    "Medical Imaging",
+    "Language Modeling",
+    "Artificial Intelligence (AI)",
+    "Pandas (Software)",
+    "Git",
+    "Machine Learning",
+    "Deep Learning",
+    "Computer Vision",
+    "Formal Verification",
+    "Transformers",
+    "Causal Analysis",
+    "MS-SQL",
+    "Transact-SQL (T-SQL)",
+    "Internet of Things (IoT)",
+    "Digital Marketing",
+    "Amazon Web Services (AWS)",
+    "Docker",
+    "Research and Development (R&D)",
+    "Anomaly Detection",
+    "Generative Model",
+    "Healthcare",
+    "Statistical Modeling",
+    "XAI",
+    "Large Language Models (LLM)",
+    "Java",
+    "Natural Language Processing (NLP)",
+    "Neural Networks",
+    "Engineering",
+    "Android Development",
+    "Web Development",
+    "Project Management",
+    "Python (Programming Language)",
+    "Linux",
+    "C++",
+    "PyTorch",
+    "Github",
+    "LaTeX",
+    "TensorFlow",
+    "Problem Solving",
+    "Communication",
+    "Teamwork",
+    "Presentation Skills",
+    "Scikit-Learn",
+    "OpenCV",
+    "Data Science",
+    "PL/SQL",
+    "MySQL",
+    "Microsoft SQL Server",
+    "SQL Server Integration Services (SSIS)",
+    "Business Intelligence (BI)",
+    "Customer Service",
+    "Microsoft Office",
+    "Reinforcement Learning"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hindi"
+  ],
+  "company": {
+    "name": "CertHub",
+    "tagline": "Delivering medical products years faster to patients by automating regulatory processes",
+    "description": "CertHub helps to bring medical products years faster and easier to patients by digitizing and automating regulatory processes of manufacturers like Technical Documentation and Quality Management System with our AI-fueled compliance software.",
+    "industry": "Software Development",
+    "website": "https://certhub.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/certhub-ai",
+    "employeeCount": 24,
+    "foundedYear": 2024,
+    "location": "München, Germany",
+    "specialities": [
+      "Quality Management System",
+      "Technical Documentation"
+    ]
+  }
+}

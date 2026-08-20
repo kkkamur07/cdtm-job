@@ -1,0 +1,181 @@
+{
+  "id": "ignazforstmeier",
+  "name": "Ignaz Forstmeier",
+  "headline": "3VC | Founders Pledge | CDTM",
+  "avatar": {
+    "sm": "/avatars/ignazforstmeier-sm.webp",
+    "lg": "/avatars/ignazforstmeier.webp",
+    "blur": "data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAAAQBgCdASogACAAPtFeqE6oJSOiKAqpABoJbACdMoPKmoAFP8FLgRFa9CyXguWVSoCxqM65TExcFEgAzdWSJB2chStVnmRuecwpbSjbcxsWqQoewFtOLOs2gBwrH0b+AiRT2AutLM1e1HTpnGnCd57rN9+j70GGzB1A6svGjrGS8svp9w/xK167Jm+sEM58p4/L/6Sie/wn9fu25X7bM6pGK9yIGMtJPP3KUUW/QBfacmXX/ITMXcJrbK8CnBTXwQMhk0doevce718rww2JPzkd73WkvJ9o6ufhSriX8fSUcBzFxMziFvIMbS29K7aEDcpdlvooF0MAdYRWR9MvmgOgLCd0BssKN4dZdyWczdpO9bEmlwAAAA=="
+  },
+  "location": "Vienna, Austria",
+  "linkedInUrl": "https://www.linkedin.com/in/ignazforstmeier",
+  "personId": 993,
+  "classes": [
+    {
+      "id": 73,
+      "label": "Spring 2013",
+      "season": "Spring",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2013",
+  "major": "Technical and Management oriented Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Ignaz Forstmeier",
+  "ca": null,
+  "summary": "》Co-founder and ex-CMO at Personio\n》Committed to giving a share of my exit proceeds to the world's most effective charities via Founders Pledge",
+  "positions": [
+    {
+      "title": "VC",
+      "company": "3VC",
+      "companyUrl": "https://www.linkedin.com/company/three-vc",
+      "description": "3VC was created in 2017 to invest in selected tech startups with proven product market. \n\nStarting from Series A, we focus on teams and opportunities with roots in DACH/CEE/Baltics and global ambition, both B2B and B2C.\n\nOur team consists of experienced entrepreneurs, operators and investors and our Venture Partners bring experience from scaling companies such as UiPath and SmallPDF.\n\nwww.three.vc",
+      "location": "Vienna, Austria",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Social Business Angel",
+      "company": "effektiv-spenden.org",
+      "companyUrl": "https://www.linkedin.com/company/effektiv-spenden-org",
+      "description": "True evidence-based thinking is rare, especially in the charitable sector.\nEffektiv-spenden set out to identify and vet the most impactful charities in climate change, poverty, malaria and more, and make them accessible to German donors.",
+      "location": null,
+      "start": "2021-12",
+      "end": null,
+      "dateRange": "Dec 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Member",
+      "company": "Founders Pledge",
+      "companyUrl": "https://www.linkedin.com/company/founders-pledge",
+      "description": "I pledged to give 15% of my exit/IPO proceeds as founder to the most effective global charities tackling the climate crisis and other existential risks. \nThe Founders Pledge team conducts extensive research and recommends the most impactful organizations based on the cause areas I care about.\nhttps://founderspledge.com/",
+      "location": null,
+      "start": "2019-04",
+      "end": null,
+      "dateRange": "Apr 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder (non-active)",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": "Co-founded and helped grow Personio to 100+ employees / post-series A phase as CMO.\n\nPersonio is the all-in-one HR software for small and medium-sized companies. With \"People Workflow Automation\", we built a new category of software.\nwww.personio.com\n\nGermany's 3rd-highest valued startup and Europe's most valuable private HR tech company.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-03",
+      "end": null,
+      "dateRange": "Mar 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Marketing & Management Advisor",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": "Helped set up inbound marketing strategy, teams and processes and advised leadership on company growth.",
+      "location": "Berlin, Germany",
+      "start": "2021-01",
+      "end": "2021-09",
+      "dateRange": "Jan 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Growth Manager & Venture CMO",
+      "company": "Rocket Internet SE",
+      "companyUrl": "https://www.linkedin.com/company/rocket-internet-se",
+      "description": "Supporting early-stage venture growth by setting up online marketing channels, teams, BI processes and consulting venture employees on behalf of Rocket Internet.",
+      "location": "Berlin",
+      "start": "2015-01",
+      "end": "2016-02",
+      "dateRange": "Jan 2015 – Feb 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "altMBA",
+      "degree": "Home",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Technology and Management",
+      "dateRange": "2010 – 2013"
+    },
+    {
+      "school": "Udacity",
+      "degree": "Nanodegree, Programming for Data Science with R",
+      "dateRange": "2020"
+    }
+  ],
+  "skills": [
+    "Online Marketing",
+    "Technology Management",
+    "Sales",
+    "Start-ups",
+    "Projektmanagement",
+    "Online-Marketing",
+    "Business Intelligence",
+    "Microsoft Excel",
+    "Web Tracking",
+    "SQL",
+    "Facebook Marketing",
+    "Display Advertising",
+    "Google Analytics",
+    "Python",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Business Development",
+    "Entrepreneurship",
+    "ETFs",
+    "Mobile Applications",
+    "Project Management",
+    "Pandas",
+    "Data Analysis",
+    "Analytical Skills",
+    "Web Analytics",
+    "Search Engine Marketing (SEM)",
+    "R",
+    "GitHub",
+    "ggplot",
+    "Bayesian statistics",
+    "A/B Testing",
+    "y42"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Spanish"
+  ],
+  "company": {
+    "name": "3VC",
+    "tagline": "We believe in entrepreneurs with big ideas and the determination to drive humanity forward.",
+    "description": "3VC is a European venture capital fund investing in carefully selected startups with global ambition and signals of product-market fit. We focus on quality over quantity and partner with only a handful of exceptional teams per year.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "https://three.vc/",
+    "linkedInUrl": "https://www.linkedin.com/company/capital300",
+    "employeeCount": 21,
+    "foundedYear": 2018,
+    "location": "Vienna, Austria",
+    "specialities": [
+      "Startups",
+      "Private Equity",
+      "Venture Capital"
+    ]
+  }
+}

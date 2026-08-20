@@ -1,0 +1,317 @@
+{
+  "id": "deboeser",
+  "name": "Corvin Deboeser",
+  "headline": "Engineering @ OpenAI",
+  "avatar": null,
+  "location": "Singapore",
+  "linkedInUrl": "https://www.linkedin.com/in/deboeser",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "I’m always keen to explore new ways to utilize data and AI, partner with visionary builders/founders, and collaborate with innovative teams to ship products that push boundaries and empower improve lives.\n\nWith experience across software engineering, data science, and production management, I've developed a passion for creating high-impact solutions at the intersection of data, user experience, and AI. Over the past few years, I’ve built and deployed AI platforms in various industries including telco, med tech, and financial services, always focusing on how cutting-edge technology — like GenAI and Agentic AI — can deliver real-world value. Along the way, I’ve helped build and scale engineering teams in both startup and corporate environments, not only ensuring organizations gain a tangible tech advantage, but also focusing on the individual growth of my mentees in the process.\n\nWhat truly drives me is building products that make a positive difference in people’s lives. Whether mentoring junior engineers or leading cross-functional teams, I love blending technical expertise with a forward-thinking business perspective.",
+  "positions": [
+    {
+      "title": "Forward Deployed Engineering Manager",
+      "company": "OpenAI",
+      "companyUrl": "https://www.linkedin.com/company/openai",
+      "description": null,
+      "location": "Singapore",
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "company": "OpenAI",
+      "companyUrl": "https://www.linkedin.com/company/openai",
+      "description": null,
+      "location": "Singapore",
+      "start": "2025-08",
+      "end": null,
+      "dateRange": "Aug 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Lead Software Engineer",
+      "company": "BCG X",
+      "companyUrl": "https://www.linkedin.com/company/bcg-x",
+      "description": null,
+      "location": "Singapore",
+      "start": "2023-12",
+      "end": "2025-08",
+      "dateRange": "Dec 2023 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "BCG X",
+      "companyUrl": "https://www.linkedin.com/company/bcg-x",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2022-12",
+      "end": "2023-11",
+      "dateRange": "Dec 2022 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Senior Data Scientist",
+      "company": "BCG X",
+      "companyUrl": "https://www.linkedin.com/company/bcg-x",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2022-06",
+      "end": "2022-12",
+      "dateRange": "Jun 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Senior Data Scientist",
+      "company": "BCG Digital Ventures",
+      "companyUrl": "https://www.linkedin.com/company/bcg-digital-ventures",
+      "description": "BCG Digital Ventures, the dedicated business building firm of Boston Consulting Group (BCG), is uniquely positioned to help the world’s most influential organizations drive the next wave of innovation. As the industry’s leading business builder, we’ve launched nearly 200 trailblazing businesses, with a success rate that is unmatched industry-wide.",
+      "location": "Berlin, Germany",
+      "start": "2022-06",
+      "end": "2023-11",
+      "dateRange": "Jun 2022 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Founder In Residence",
+      "company": "Entrepreneur First",
+      "companyUrl": "https://www.linkedin.com/company/entrepreneurs-first",
+      "description": "Entrepreneur First is the world’s leading talent investor. It invests time and money in the world’s most talented and ambitious individuals, helping them to find a co-founder, develop an idea, and start a company. So far, EF has helped 1,000+ people create 200+ companies, worth a combined US$1.5bn.",
+      "location": "Berlin, Germany",
+      "start": "2021-10",
+      "end": "2022-01",
+      "dateRange": "Oct 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Chief Science Officer",
+      "company": "Quod AI",
+      "companyUrl": "https://www.linkedin.com/company/quod-ai",
+      "description": "Find code - fast. Even in large and unfamiliar code bases.\n\nWe build a search engine for your source code beyond regex that helps you discover code naturally in plain English. Search less, code more.",
+      "location": "Singapore",
+      "start": "2021-04",
+      "end": "2021-09",
+      "dateRange": "Apr 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Lead Data Scientist",
+      "company": "Quod AI",
+      "companyUrl": "https://www.linkedin.com/company/quod-ai",
+      "description": "■  Developed AI models to translate code to english.\n■  Set up a scalable + cost efficient architecture to deploy AI models on Kubernetes.\n■  Designed user experience and established a user centric development environment.\n\nTech stack: Tensorflow + serving, Kubernetes, Knative, Istio, Apache Beam, AWS and many others",
+      "location": "Singapore",
+      "start": "2020-10",
+      "end": "2021-03",
+      "dateRange": "Oct 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Quod AI",
+      "companyUrl": "https://www.linkedin.com/company/quod-ai",
+      "description": "■  Creating major parts of the core semantic search engine on code.\n■ Created and implemented architectures of NLP models in Tensorflow (BERT, Transformer, GPT...)\n■  Deployment of AI models into production with TF Serving, Docker, FastAPI in Kubernetes\n■  Building and processing large-scale datasets with Apache Beam on Google Dataflow",
+      "location": "Singapore",
+      "start": "2019-10",
+      "end": "2020-09",
+      "dateRange": "Oct 2019 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and CTO",
+      "company": "Foresky Pte Ltd",
+      "companyUrl": "https://www.linkedin.com/company/foresky",
+      "description": "Foresky aimed to help airlines make the commercially best decisions for any flight schedule deviations, considering all cost-drivers and situational circumstances for any flight.\n ■  Customer development with airlines and other aviation stakeholders\n ■  Created ML model to predict the turnaround-time for aircraft between two flights\n ■  Created series of mock-ups for customer and project-acquisition\n\nTech & skills: Tensorflow for deep learning, Sklearn for experimental tree-based prediction model, Pandas for data wrangling and fusion, Adobe Xd for product mock-ups",
+      "location": "Singapur",
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Researcher and Software Engineer @ BEARS",
+      "company": "University of California, Berkeley",
+      "companyUrl": "https://www.linkedin.com/company/uc-berkeley",
+      "description": "Fixed 6-month project on modeling of autonomous vehicle platooning. \n■ Designed architecture to model autonomous vehicle behavior\n■ Implementation in agent-based simulation framework in C++\n■ Co-authored two scientific papers around autonomous vehicle platooning",
+      "location": "Singapore",
+      "start": "2018-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2018 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Junior Product Manager",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "Celonis is the worlds leading process mining software company. Process Mining is a new big data analytics technology designed to help customers to optimize their operations. Process Mining goes through the already existing log data every IT system produces and finds out where you can improve. Why? In order to be more efficient than your competitors, get rid of bottlenecks, make your customers even happier and create processes that everybody loves to deal with. Celonis already has an outstanding customer base including Siemens, Dow Chemicals, ABB, Bayer Pharmaceuticals and many more customers from over 16 industries and follows a bold vision!",
+      "location": "Munich Area, Germany",
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Researcher and Software Engineer",
+      "company": "TUMCREATE",
+      "companyUrl": "https://www.linkedin.com/company/tum-create-limited",
+      "description": "Fixed 6-months project to evaluate influence of driving cycle parameters on vehicle energy consumption for a public transport system.\n■ Created machine learning model to predict energy consumption of air-conditioning system\n■ Model performed with < 1% MAPE at 30x the speed of conventional air-conditioning models\n■ Implementation of sophisticated power-train model in agent-based simulation in C++\n\nTech and skills: Matlab for conventional aircon model, Numpy+Pandas for data wrangling, Tensorflow for deep learning model, C++ for implementation in agent-based simulation framework\n\nTUMCREATE is a research platform for the improvement of Singapore's public transportation, including the deployment of electric and autonomous mobility. The Mission of TUMCREATE is to seek the ultimate public transport system for the people of Singapore. Our innovative road transport solutions will provide high comfort and a positive travel experience, best protection of the environment and maximum benefit to the society and the economy.",
+      "location": "Singapore",
+      "start": "2017-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2017 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "External Innovation Consultant",
+      "company": "adidas",
+      "companyUrl": "https://www.linkedin.com/company/adidas",
+      "description": "This project aimed at identifying new and innovative moon-shot business concepts. The main focus for those endeavours was to create ideas how to create and sustain healthy habits, especially targeting change resistant people. Intersected into three phases, the project started with discovering and analysing trends and current developments in various relevant fields, such as in technology, society and regarding political and legal regulations. Afterwards, we identified and analyzed the main drivers behind those trends. The most significant drivers then build the foundation for describing future scenarios. In the final stage, we built business concept based on the identified trends and the elaborated future scenarios. The project was part of the Technology Management curriculum at the CDTM. It was conducted by a group of 25 students whereas we exchanged team members were after each phase to maximize interdisciplinarity and diversity.",
+      "location": "Munich Area, Germany",
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "External Consultant",
+      "company": "Technische Universität München Asia (German Institute of Science & Technology - TUM Asia)",
+      "companyUrl": "https://www.linkedin.com/company/tum-asia",
+      "description": "Creation of a method for analyzing the economy and education of target markets to reveal the largest potentials to acquire new applicants, analysis of 40 markets worldwide",
+      "location": "Singapore",
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "External Consultant",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "During this project, we created a proof of concept for the world-wide sales KPI management tool. It was concerned with both the conception of the general design of the tool and its technical implementation. My tasks involved the development of the tool in VBA including both the backend and the frontend of the KPI tool.",
+      "location": "Munich",
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Consultant Management & Technology",
+      "company": "infologis AG",
+      "companyUrl": "https://www.linkedin.com/company/trulyfied",
+      "description": "Infologis combines extensive experience, the highest quality standards and cross-sector best practice methods with in-depth industry knowledge. From practice – into practice. With this approach, Infologis bridges the gap between strategy development and the operating business. Measurability and sustainable anchoring of the strategy within the client's organisation is permanently in our focus.\n\nTasks and Responsibilities:\n●  Supporting the creation of a global rollout-concept for a car-sharing provider\n●  Process analysis and optimization\n●  Conceptualization and implementation of a company-wide resource-management \n●  Support for the financial planning and strategy of the company\n●  Implementation of a new approach for managing and controlling customer projects following international project management guidelines (IPMA)",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2014-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2014 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Chairman",
+      "company": "IKOM - The Career Fair at TU Munich",
+      "companyUrl": "https://www.linkedin.com/company/ikom",
+      "description": "IKOM organizes multiple career events throughout the year, the largest one accommodating more than 300 companies and 30,000 visitors.\n\n■ Motivated and guided 100 employees across 11 departments\n■ Restructured company, achieved +50% events with remaining headcount\n■ Slashed workload for key projects by ~80% through automation, cut down work from 2 months to 3 weeks with only 60% of allocated headcount\n■ Created and set-up new event format that attracted 2 top-tier and 2 mid-tier consultancies as customers in the first year, now part of the portfolio",
+      "location": "Garching near Munich",
+      "start": "2013-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2013 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Maintenance and development of the website of the Chair of Ergonomics (LFE), perparation of educaitonal materials, tutoring for the seminar Interaction Prototyping",
+      "location": "Garching near Munich",
+      "start": "2013-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2013 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Intern in Measurement Technique",
+      "company": "Webasto",
+      "companyUrl": "https://www.linkedin.com/company/webasto",
+      "description": "Measurement of roof components from the automotive sector, warehouse logsitics",
+      "location": "Utting",
+      "start": "2012-01",
+      "end": "2012-12",
+      "dateRange": "Jan 2012 – Dec 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "TUM School of Management",
+      "degree": "Bachelor of Science (B.Sc.), Management & Technology",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Generative AI",
+    "Engineering Leadership",
+    "Software Architecture",
+    "Artificial Intelligence (AI)",
+    "Machine Learning",
+    "DevSecOps",
+    "AI Agents",
+    "Data Science",
+    "Product Management",
+    "Produktmanagement",
+    "Entrepreneurship",
+    "Agile Development",
+    "Design Thinking",
+    "Start-ups",
+    "Python",
+    "JavaScript",
+    "C++",
+    "Google Cloud Platform (GCP)",
+    "Amazon Web Services (AWS)",
+    "Kubernetes"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "OpenAI",
+    "tagline": "Creating safe AGI that benefits all of humanity.",
+    "description": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. AI is an extremely powerful tool that must be created with safety and human needs at its core. OpenAI is dedicated to putting that alignment of interests first — ahead of profit.\n\nTo achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. Our investment in diversity, equity, and inclusion is ongoing, executed through a wide range of initiatives, and championed and supported by leadership.\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+    "industry": "Research Services",
+    "website": "https://openai.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/openai",
+    "employeeCount": 8411,
+    "foundedYear": 2015,
+    "location": "San Francisco, United States",
+    "specialities": [
+      "artificial intelligence",
+      "machine learning"
+    ]
+  }
+}

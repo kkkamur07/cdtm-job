@@ -1,0 +1,235 @@
+{
+  "id": "alexanderschenker",
+  "name": "Alexander Schenker",
+  "headline": "Product & Design",
+  "avatar": {
+    "sm": "/avatars/alexanderschenker-sm.webp",
+    "lg": "/avatars/alexanderschenker.webp",
+    "blur": "data:image/webp;base64,UklGRh4BAABXRUJQVlA4IBIBAABwBgCdASogACAAPtFcpk0oJSOiMBgIAQAaCWIAtOquydDRLH+qJlMgXCp9YirXub3FduV5vH7escukiiAA/uXPUswY0KNYULVt198iDacJ9+pXfeD2qgffrY3+VLGvBFLYexHG5zeqr57INDsFHt4JotU6D/4CTX1IzXdB8u61SkNxebqq46u5tH1/lKYwyoSgWP3u5DYkoIso1RG11q/9mSIY/e7KYiJ3W1HeqOhkdH+GjV1nuI2orenom8SUa83T9TAuBiLvFIq4oVgfMAOxhpukcuFHaURnMLEFe1x/Oj0kTgjUcccl/ArHQ5wxSupAPh9I3m69tW8nrqHHjDQJRptYdTndeWVdykJSo+mKQYAA"
+  },
+  "location": "Rhein-Neckar Metropolitan, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/alexanderschenker",
+  "personId": 804,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Human Computer Interaction",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Alexander Schenker",
+  "ca": null,
+  "summary": "Product designer and leader with a multidisciplinary background in design, development, and product strategy. I bring a hybrid perspective that connects user needs, technical realities, and business goals.\n\nRooted in Human-Computer Interaction and product thinking, I pair technical fluency with design leadership to help shape product vision and drive meaningful outcomes.",
+  "positions": [
+    {
+      "title": "Founding Product Designer",
+      "company": "QuantCo",
+      "companyUrl": "https://www.linkedin.com/company/quantco",
+      "description": "Founding designer, AI in insurance",
+      "location": "Хайдельберг",
+      "start": "2025-12",
+      "end": null,
+      "dateRange": "Dec 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Director of Product Design",
+      "company": "SoSafe",
+      "companyUrl": "https://www.linkedin.com/company/sosafe-cyber-security",
+      "description": "Scaled the Product Design org from 8 to 24, spanning Product Design, Research, and Learning Experience Design.\nSpearheaded a complete overhaul of SoSafe’s e-learning product, accessible, mobile-first, and AI-enabled, resulting in significantly improved user experience and reduced time to ship for new content.\nElevated design from a support function to a core pillar in the product trio, driving strategic direction and innovation across teams.\nFostered a high-performing, collaborative team culture focused on quality, speed, and business impact.",
+      "location": "Heidelberg, Baden-Württemberg, Deutschland",
+      "start": "2022-10",
+      "end": "2025-11",
+      "dateRange": "Oct 2022 – Nov 2025",
+      "current": false
+    },
+    {
+      "title": "Director Design Operations",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "Joined as the first UX designer and individual contributor, responsible for all aspects of product design across the early Celonis platform\nProgressively built and scaled the design organization from a one-person UX function to a multidisciplinary team of over 20 designers, researchers, and UX architects\nLed global design operations and the design systems team, introducing scalable processes, tooling, and governance across the EMS platform\nServed as Interim Director of User Research, embedding research into product strategy and cross-functional decision-making\nPartnered closely with product and engineering to elevate design maturity, improve platform consistency, and accelerate delivery",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-02",
+      "end": "2022-10",
+      "dateRange": "Feb 2022 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "User Experience Lead",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2020-01",
+      "end": "2022-01",
+      "dateRange": "Jan 2020 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Senior UX Designer",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-06",
+      "end": "2020-01",
+      "dateRange": "Jun 2018 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Interaction Designer",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2017-04",
+      "end": "2018-05",
+      "dateRange": "Apr 2017 – May 2018",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "The Hong Kong Polytechnic University School of Design (PolyU Design)",
+      "companyUrl": "https://www.linkedin.com/company/polyudesign",
+      "description": "Conducted thesis research on cross-cultural differences in user experience design based on Hofstede's cultural dimensions",
+      "location": "Hongkong",
+      "start": "2016-09",
+      "end": "2017-02",
+      "dateRange": "Sep 2016 – Feb 2017",
+      "current": false
+    },
+    {
+      "title": "User Experience Designer / Frontend Developer",
+      "company": "eGym",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": "User Research, Concept and Frontend Development for the New Customer Generation team.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2016-04",
+      "end": "2016-08",
+      "dateRange": "Apr 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "User Experience Designer / Frontend Developer",
+      "company": "Planet Sports GmbH",
+      "companyUrl": "https://www.linkedin.com/company/planet-sports-gmbh",
+      "description": "Frontend Development, User Research, and Usability Testing",
+      "location": "Metropolregion München",
+      "start": "2015-01",
+      "end": "2016-02",
+      "dateRange": "Jan 2015 – Feb 2016",
+      "current": false
+    },
+    {
+      "title": "Interactive Developer",
+      "company": "diva-e Digital Value Enterprise GmbH",
+      "companyUrl": "https://www.linkedin.com/company/divae",
+      "description": "Web & Android Development for Deutsche Bank, eon, Postbank, MEAG and more.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2012-07",
+      "end": "2014-09",
+      "dateRange": "Jul 2012 – Sep 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Human-Computer-Interaction",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "The Hong Kong Polytechnic University",
+      "degree": "Master's degree, Visiting Researcher – User Experience",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Tecnológico de Monterrey",
+      "degree": "Business, Management, Marketing",
+      "dateRange": "2011"
+    },
+    {
+      "school": "University of Cape Town",
+      "degree": "Computer Science and Media",
+      "dateRange": "2009 – 2010"
+    },
+    {
+      "school": "Hochschule Furtwangen",
+      "degree": "Bachelor of Science (B.Sc.), Computer Science and Media",
+      "dateRange": "2008 – 2012"
+    }
+  ],
+  "skills": [
+    "Artificial Intelligence (AI)",
+    "Vibe Coding",
+    "Design Leadership",
+    "Product Design",
+    "Design Management",
+    "Business Strategy",
+    "Product Vision",
+    "Qualitative Research",
+    "Quantitative Research",
+    "Interviewing",
+    "Usability Testing",
+    "UX Design",
+    "Facilitation",
+    "Design Systems",
+    "Team Leadership",
+    "Agile Methodologies",
+    "Design Strategy",
+    "User Experience Design",
+    "Rapid Prototyping",
+    "Interaction Design"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "QuantCo",
+    "tagline": null,
+    "description": "QuantCo turns advances in artificial intelligence and statistical learning into real-world impact in leading enterprises and public sector organizations. Leveraging privileged data access and world-class expertise in AI, quantitative optimization and engineering, we build scalable systems that drastically improve decisions that matter – from algorithmic pricing and data-driven claims management to precision medicine. \n\nJoin us!\nIf you want to tackle complex problems from first principles in a fast-paced, entrepreneurial environment that values ownership and intellectual rigor, check out our website for full-time and internship positions.",
+    "industry": "Software Development",
+    "website": "http://www.quantco.com",
+    "linkedInUrl": "https://www.linkedin.com/company/quantco",
+    "employeeCount": 248,
+    "foundedYear": null,
+    "location": "Boston, United States",
+    "specialities": [
+      "Big Data",
+      "Smart Data",
+      "Data Analysis",
+      "Quantitative Modelling",
+      "Pricing",
+      "Fraud Detection",
+      "Machine Learning",
+      "Deep Learning",
+      "Healthcare",
+      "Insurance",
+      "Cancer screening",
+      "NLP",
+      "Computer Vision",
+      "Enterprise AI",
+      "AI",
+      "Input Management",
+      "Claims AI"
+    ]
+  }
+}

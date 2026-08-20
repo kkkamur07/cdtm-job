@@ -1,0 +1,169 @@
+{
+  "id": "christian-ihring-5600182",
+  "name": "Christian Ihring",
+  "headline": "Digital Business",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christian-ihring-5600182",
+  "personId": 1634,
+  "classes": [
+    {
+      "id": 51,
+      "label": "Spring 2002",
+      "season": "Spring",
+      "year": 2002,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2002",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christian Ihring",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Head of Product Development and Platform at Digital Interaction",
+      "company": "Allianz Technology",
+      "companyUrl": "https://www.linkedin.com/company/allianz-technology",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2019-07",
+      "end": null,
+      "dateRange": "Jul 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of IT and InCar Technology",
+      "company": "Audi Business Innovation GmbH",
+      "companyUrl": "https://www.linkedin.com/company/audibusinessinnovation",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2016-01",
+      "end": "2019-06",
+      "dateRange": "Jan 2016 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Head of Workplace Solutions & Operations",
+      "company": "AUDI AG",
+      "companyUrl": "https://www.linkedin.com/company/audi-ag",
+      "description": null,
+      "location": "Ingolstadt",
+      "start": "2012-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2012 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "VP IT Asia Pacific IPu",
+      "company": "Knorr-Bremse",
+      "companyUrl": "https://www.linkedin.com/company/knorr-bremse",
+      "description": "Lead and manage Knorr-Bremse APA IT Operations",
+      "location": "Hongkong",
+      "start": "2010-11",
+      "end": "2011-07",
+      "dateRange": "Nov 2010 – Jul 2011",
+      "current": false
+    },
+    {
+      "title": "Director Global Client Services & Regional IT EU",
+      "company": "Knorr-Bremse",
+      "companyUrl": "https://www.linkedin.com/company/knorr-bremse",
+      "description": null,
+      "location": "Munich",
+      "start": "2009-01",
+      "end": "2011-12",
+      "dateRange": "Jan 2009 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Director IT Planning & Controlling",
+      "company": "Knorr-Bremse",
+      "companyUrl": "https://www.linkedin.com/company/knorr-bremse",
+      "description": null,
+      "location": null,
+      "start": "2004-09",
+      "end": "2008-12",
+      "dateRange": "Sep 2004 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "Manager Corporate Development e-business",
+      "company": "SupplyOn",
+      "companyUrl": "https://www.linkedin.com/company/supplyon",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2002-01",
+      "end": "2004-09",
+      "dateRange": "Jan 2002 – Sep 2004",
+      "current": false
+    },
+    {
+      "title": "Manager Corporate Development",
+      "company": "Atraxis",
+      "companyUrl": "https://www.linkedin.com/company/atraxis",
+      "description": null,
+      "location": null,
+      "start": "1999-01",
+      "end": "2001-12",
+      "dateRange": "Jan 1999 – Dec 2001",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diploma, Business & Computer Science",
+      "dateRange": "1992 – 1998"
+    },
+    {
+      "school": "Center for Digital Technology & Management",
+      "degree": "Master of Business Engineering, Technology Management",
+      "dateRange": "2002 – 2004"
+    }
+  ],
+  "skills": [
+    "Digitale Transformation",
+    "Outsourcing",
+    "ITIL",
+    "SAP",
+    "Vendor Management",
+    "Enterprise Architecture",
+    "IT Management",
+    "IT Strategy",
+    "IT Operations",
+    "Business Process Improvement",
+    "Business Analysis",
+    "Automotive",
+    "IT Service Management",
+    "Change Management",
+    "Business Strategy",
+    "ERP"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Allianz Technology",
+    "tagline": "Let's care for tomorrow. You. IT",
+    "description": "With its headquarters in Munich, Germany, Allianz Technology is Allianz's global IT service provider and delivers IT solutions that drive the group's digitalization. With more than 11,000 employees in more than 20 countries around the world, Allianz Technology is tasked to run, optimize, transform, and innovate the infrastructure, applications, and services together with Allianz companies to co-create the best customer experience.\n\nWe service the entire spectrum of digitalization - from one of the industry's largest IT infrastructure projects that spans data centres, networks, and security, to application platforms ranging from workplace services to digital interaction. \n\nIn short: We deliver comprehensive end-to-end IT solutions for Allianz in the digital age. We are the backbone of Allianz.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://careers.allianz.com/go/Allianz-Technology/5123701/",
+    "linkedInUrl": "https://www.linkedin.com/company/allianz-technology",
+    "employeeCount": 11678,
+    "foundedYear": 2010,
+    "location": "Unterföhring, Germany",
+    "specialities": [
+      "DevOps",
+      "IT Transformation",
+      "Applications",
+      "ABS"
+    ]
+  }
+}

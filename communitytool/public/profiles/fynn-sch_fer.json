@@ -1,0 +1,158 @@
+{
+  "id": "fynn-sch_fer",
+  "name": "Fynn Schäfer",
+  "headline": "BCG | Berkeley | CDTM | Studienstiftung",
+  "avatar": {
+    "sm": "/avatars/fynn-sch_fer-sm.webp",
+    "lg": "/avatars/fynn-sch_fer.webp",
+    "blur": "data:image/webp;base64,UklGRhABAABXRUJQVlA4WAoAAAAQAAAAHwAAHwAAQUxQSBMAAAABF3D7/4iIQUiQMN7/1oj+B6BvAFZQOCDWAAAAMAYAnQEqIAAgAD7RWKZNKCUjojAYCAEAGgliAMT4gKC8SkL7jJamVtm1Ai3bfzNW+nIjil/7G9wONAD+5yrm5D+9StzEJvgSmIdaZsd9P8btDVSVuL2ri4RgqyO1JOfM2/5H1E4l3srltdOtI4xWIgj5RMRvJDvU6uufWpQtqKSQqJQ74fMfYhrCRf2cxSM/i7IsortWneH/f/xvxbsdHNRosYVQs1Uf+w8CwaihK32fQzYKspS0KimagOjnvfhP7kNYpp0/V36UgM9UXzG5e99SDkAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/fynn-schäfer",
+  "personId": 2094,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Fynn Schäfer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2026-01",
+      "end": "2026-12",
+      "dateRange": "Jan 2026 – Dec 2026",
+      "current": false
+    },
+    {
+      "title": "Founder Associate",
+      "company": "Valuecase",
+      "companyUrl": "https://www.linkedin.com/company/valuecase",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Visiting Analyst",
+      "company": "Armira Growth",
+      "companyUrl": "https://www.linkedin.com/company/armira-growth",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Analyst",
+      "company": "FLEX Capital",
+      "companyUrl": "https://www.linkedin.com/company/flex-capital-management-gmbh",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Private Equity Consulting Intern",
+      "company": "EY-Parthenon",
+      "companyUrl": "https://www.linkedin.com/company/ey-parthenon",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Exchange Semester, Finance & Computer Science",
+      "dateRange": "2025"
+    },
+    {
+      "school": "TUM School of Management",
+      "degree": "Master of Science - MS, Management and Technology, Finance & Computer Science",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Universidad de Los Andes",
+      "degree": "Exchange Semester, International Business",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Maastricht University School of Business and Economics",
+      "degree": "Bachelor of Science - BS, International Business, Finance",
+      "dateRange": "2020 – 2023"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Boston Consulting Group (BCG)",
+    "tagline": null,
+    "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.\n \nOur diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. \n\nWe work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.\n\nBCG Privacy Policy: https://www.bcg.com/about/privacy-policy.aspx",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bcg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/boston-consulting-group",
+    "employeeCount": 41217,
+    "foundedYear": 1963,
+    "location": "Boston, United States",
+    "specialities": [
+      "Consumer insight",
+      "corporate development",
+      "corporate finance",
+      "digital economy",
+      "globalization",
+      "growth",
+      "information technology",
+      "innovation",
+      "marketing & sales",
+      "operations",
+      "people & organization",
+      "postmerger integration",
+      "risk management",
+      "strategy",
+      "sustainability",
+      "transformation",
+      "climate",
+      "artificial intelligence",
+      "cost transformation",
+      "supply chains"
+    ]
+  }
+}

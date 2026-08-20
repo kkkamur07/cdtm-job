@@ -1,0 +1,163 @@
+{
+  "id": "julia-aulbach",
+  "name": "Julia Aulbach",
+  "headline": "BCG | MBA Wharton",
+  "avatar": {
+    "sm": "/avatars/julia-aulbach-sm.webp",
+    "lg": "/avatars/julia-aulbach.webp",
+    "blur": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAADwBQCdASogACAAPslQoUunpKMht/VYAPAZCWMAzu8sE50rYhPKwJizD94vxtlZRV8y4xySs+fugAD+/Xh84V3Q9bns0/EiitWbrnwDsA/U5GxpWAfH7tdweHqQJcT+paQhaQfiN3F0k13P1JQpqeqZpTCWXDAdws4RZBNNyrSkpvxlTOj1QLnX66tnvpg99v8EE3C9xjTKySv39pY6qZx1v5ePC+ElE2iw9vq5cK9OPGD092800kimxm0+M4Pp/QjRa2MAAAA="
+  },
+  "location": "New York, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/julia-aulbach",
+  "personId": 1135,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Chemical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Julia Aulbach",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Management Consultant",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "2023-2025: Educational Leave of Absence (Wharton MBA)",
+      "location": "New York, United States",
+      "start": "2020-02",
+      "end": null,
+      "dateRange": "Feb 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment Professional",
+      "company": "Triton Partners",
+      "companyUrl": "https://www.linkedin.com/company/triton-partners",
+      "description": null,
+      "location": "London Area, United Kingdom",
+      "start": "2024-06",
+      "end": "2024-08",
+      "dateRange": "Jun 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Strategic Associate to CTO",
+      "company": "Automobili Pininfarina",
+      "companyUrl": "https://www.linkedin.com/company/automobilipininfarinaofficial",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2019-03",
+      "end": "2019-07",
+      "dateRange": "Mar 2019 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Global Strategy & Market Intelligence",
+      "company": "BASF",
+      "companyUrl": "https://www.linkedin.com/company/basf",
+      "description": null,
+      "location": "Hong Kong",
+      "start": "2018-08",
+      "end": "2019-01",
+      "dateRange": "Aug 2018 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Bold Group GmbH",
+      "companyUrl": "https://www.linkedin.com/company/bold-group-gmbh",
+      "description": null,
+      "location": "Munich",
+      "start": "2017-11",
+      "end": "2018-06",
+      "dateRange": "Nov 2017 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Student Consultant & Women Ambassador",
+      "company": "Academy Consult München e.V.",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2016-04",
+      "end": "2019-01",
+      "dateRange": "Apr 2016 – Jan 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "The Wharton School",
+      "degree": "Master of Business Administration - MBA, Business, Energy, Environment and Sustainability & Finance",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Chemical Engineering",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree Technology Management",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Seoul Foreign School",
+      "degree": "International Baccalaureate",
+      "dateRange": "2009 – 2014"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Boston Consulting Group (BCG)",
+    "tagline": null,
+    "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.\n \nOur diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. \n\nWe work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.\n\nBCG Privacy Policy: https://www.bcg.com/about/privacy-policy.aspx",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bcg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/boston-consulting-group",
+    "employeeCount": 41217,
+    "foundedYear": 1963,
+    "location": "Boston, United States",
+    "specialities": [
+      "Consumer insight",
+      "corporate development",
+      "corporate finance",
+      "digital economy",
+      "globalization",
+      "growth",
+      "information technology",
+      "innovation",
+      "marketing & sales",
+      "operations",
+      "people & organization",
+      "postmerger integration",
+      "risk management",
+      "strategy",
+      "sustainability",
+      "transformation",
+      "climate",
+      "artificial intelligence",
+      "cost transformation",
+      "supply chains"
+    ]
+  }
+}

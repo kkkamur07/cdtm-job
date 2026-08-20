@@ -1,0 +1,220 @@
+{
+  "id": "dr-sebastian-kobarg-38743b6a",
+  "name": "Dr. Sebastian Kobarg",
+  "headline": "Associate Partner at Bain & Company | Performance Improvement | M&A",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-sebastian-kobarg-38743b6a",
+  "personId": 1395,
+  "classes": [
+    {
+      "id": 70,
+      "label": "Fall 2011",
+      "season": "Fall",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2011",
+  "major": "Technology & Management",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sebastian Kobarg",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Associate Partner",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": null,
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Manager",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": null,
+      "start": "2022-10",
+      "end": null,
+      "dateRange": "Oct 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Manager",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2022-10",
+      "dateRange": "Jan 2021 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": null,
+      "start": "2018-04",
+      "end": "2020-12",
+      "dateRange": "Apr 2018 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Founder & MD",
+      "company": "I·DO",
+      "companyUrl": "https://www.linkedin.com/company/ido-bio",
+      "description": "Managing Director, Strategy & Business Development",
+      "location": null,
+      "start": "2014-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2014 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "PHD Candidate",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2013-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2013 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Visiting Research Associate",
+      "company": "Columbia Business School",
+      "companyUrl": "https://www.linkedin.com/company/columbia-business-school",
+      "description": "Research assistant at the Columbia Institute for Tele-Information",
+      "location": null,
+      "start": "2013-01",
+      "end": "2013-12",
+      "dateRange": "Jan 2013 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Contigua GmbH",
+      "companyUrl": "https://www.linkedin.com/company/10stamps-contigua-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2012-04",
+      "end": "2012-07",
+      "dateRange": "Apr 2012 – Jul 2012",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2011-02",
+      "end": "2011-05",
+      "dateRange": "Feb 2011 – May 2011",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "EY",
+      "companyUrl": "https://www.linkedin.com/company/ernstandyoung",
+      "description": null,
+      "location": null,
+      "start": "2010-02",
+      "end": "2010-04",
+      "dateRange": "Feb 2010 – Apr 2010",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Bosch",
+      "companyUrl": "https://www.linkedin.com/company/bosch",
+      "description": null,
+      "location": null,
+      "start": "2008-08",
+      "end": "2008-10",
+      "dateRange": "Aug 2008 – Oct 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doktor (Ph.D.), Wirtschaftswissenschaften",
+      "dateRange": "2013 – 2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2011 – 2013"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": "Visiting Student, Economics and Finance",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom, Management and Technology",
+      "dateRange": "2007 – 2012"
+    },
+    {
+      "school": "Tongji University",
+      "degree": null,
+      "dateRange": "2009 – 2010"
+    }
+  ],
+  "skills": [
+    "Business Intelligence",
+    "Start-ups",
+    "Business Strategy",
+    "Geschäftsentwicklung",
+    "Strategie",
+    "Econometrics",
+    "Unternehmensberatung",
+    "Innovationsmanagement",
+    "Unternehmertum"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Chinese",
+    "French"
+  ],
+  "company": {
+    "name": "Bain & Company",
+    "tagline": null,
+    "description": "Bain & Company is a global consultancy that helps the world’s most ambitious change makers define the future. \n\nAcross 65 cities in 40 countries, we work alongside our clients as one team with a shared ambition to achieve extraordinary results, outperform the competition, and redefine industries. We complement our tailored, integrated expertise with a vibrant ecosystem of digital innovators to deliver better, faster, and more enduring outcomes. Our 10-year commitment to invest more than $1 billion in pro bono services brings our talent, expertise, and insight to organizations tackling today’s urgent challenges in education, racial equity, social justice, economic development, and the environment. We earned a platinum rating from EcoVadis, the leading platform for environmental, social, and ethical performance ratings for global supply chains, putting us in the top 1% of all companies. Since our founding in 1973, we have measured our success by the success of our clients.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bain.com",
+    "linkedInUrl": "https://www.linkedin.com/company/bain-and-company",
+    "employeeCount": 23379,
+    "foundedYear": null,
+    "location": "Boston, United States",
+    "specialities": [
+      "Strategy",
+      "Customer Strategy & Marketing",
+      "Performance Improvement",
+      "Mergers & Acquisitions",
+      "Private Equity",
+      "Organization",
+      "Results Delivery",
+      "Information Technology",
+      "Corporate Renewal"
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "adinagoerres",
+  "name": "Adina Goerres",
+  "headline": "CEO, superglue (YC W25)",
+  "avatar": {
+    "sm": "/avatars/adinagoerres-sm.webp",
+    "lg": "/avatars/adinagoerres.webp",
+    "blur": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAACwBQCdASogACAAPs1YoUunpaMhsBgMAPAZiUAKeGuAWW2aPsqhz4Lug5pUFDYuzu4BOeyHcAAA/v0trzV+pEQly5ZQsZ4FHsnR+BB0z2fzuUf+EM4nMIfEwrhJNNBvPDTt+al4dkudeAllbudYbCDTzxRTdgGcz0oHK+EFBMau7ypxRDjpawViUTGe3w6B9O43mlaOaREEtHvt3G+b+kFnq2K6ZT9OCmqab7yjG7na4QU6QYdlkv7IzfVVMR84Y/1l6WWwOBtWZ1qJ9gAAAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/adinagoerres",
+  "personId": 1044,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Adina Görres",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "superglue (YC W25)",
+      "companyUrl": "https://www.linkedin.com/company/superglue-ai",
+      "description": "agentic integration for enterprise systems",
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "index",
+      "companyUrl": null,
+      "description": "one API for any product on the internet.",
+      "location": null,
+      "start": "2024-02",
+      "end": "2024-12",
+      "dateRange": "Feb 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "viva",
+      "companyUrl": "https://www.linkedin.com/company/wantviva",
+      "description": "next-gen marketplace for consumer goods",
+      "location": null,
+      "start": "2023-01",
+      "end": "2024-03",
+      "dateRange": "Jan 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Founding Member",
+      "company": "PretzelDAO",
+      "companyUrl": "https://www.linkedin.com/company/pretzeldao",
+      "description": null,
+      "location": null,
+      "start": "2022-02",
+      "end": "2022-12",
+      "dateRange": "Feb 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Commercial Projects, Platform Solutions",
+      "company": "FARFETCH",
+      "companyUrl": "https://www.linkedin.com/company/farfetch.com",
+      "description": null,
+      "location": null,
+      "start": "2017-05",
+      "end": "2018-08",
+      "dateRange": "May 2017 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "GTM",
+      "company": "Scalable Capital",
+      "companyUrl": "https://www.linkedin.com/company/scalable-capital",
+      "description": null,
+      "location": null,
+      "start": "2016-08",
+      "end": "2017-04",
+      "dateRange": "Aug 2016 – Apr 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Y Combinator",
+      "degree": "W25",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science and Finance",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Reichman University",
+      "degree": "Bachelor of Business Administration (BBA), Cum Laude, Entrepreneurship",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Yonsei University",
+      "degree": "Economics",
+      "dateRange": "2015"
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "Marketing",
+    "Social Media",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "German",
+    "Entrepreneurship",
+    "Teamwork",
+    "Mac OS",
+    "Marketingstrategie",
+    "Soziale Medien",
+    "Geschäftsführung",
+    "Kundendienst",
+    "Non-profit Volunteer",
+    "Eventplanung",
+    "Unternehmertum",
+    "Interkulturelle Kommunikation",
+    "Mobile Kommunikation"
+  ],
+  "languages": [],
+  "company": {
+    "name": "superglue (YC W25)",
+    "tagline": "AI that fixes enterprise glue",
+    "description": "superglue replaces brittle scripts, cron jobs, and one-off connectors that power enterprise operations with clean, versioned syncs you can actually understand and trust. It rebuilds the logic behind integrations, so migrating systems, adding tools, or scaling processes no longer breaks everything. Companies running on superglue roll out AI projects faster, spend less on maintenance, and future-proof their business for continuous optimization.",
+    "industry": "Software Development",
+    "website": "https://superglue.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/superglue-ai",
+    "employeeCount": 5,
+    "foundedYear": null,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

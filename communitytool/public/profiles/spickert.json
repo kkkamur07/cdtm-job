@@ -1,0 +1,168 @@
+{
+  "id": "spickert",
+  "name": "Simon Pickert",
+  "headline": "Stealth Startup",
+  "avatar": null,
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/spickert",
+  "personId": 1398,
+  "classes": [
+    {
+      "id": 70,
+      "label": "Fall 2011",
+      "season": "Fall",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2011",
+  "major": "Technology & Management",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Simon Pickert",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Special Projects",
+      "company": "Stealth Startup",
+      "companyUrl": "https://www.linkedin.com/company/stealth-startup-community",
+      "description": "San Francisco Bay Area",
+      "location": null,
+      "start": "2025-08",
+      "end": null,
+      "dateRange": "Aug 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "First hire",
+      "company": "Coinwatch",
+      "companyUrl": "https://www.linkedin.com/company/coinwatchco",
+      "description": null,
+      "location": null,
+      "start": "2023-09",
+      "end": "2025-07",
+      "dateRange": "Sep 2023 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Venture Hacker",
+      "company": "AngelList",
+      "companyUrl": "https://www.linkedin.com/company/angellist",
+      "description": "San Francisco Bay Area",
+      "location": null,
+      "start": "2015-10",
+      "end": "2022-06",
+      "dateRange": "Oct 2015 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "7snaps",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2014-02",
+      "end": "2015-10",
+      "dateRange": "Feb 2014 – Oct 2015",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant Intern",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": "Munich",
+      "location": null,
+      "start": "2010-08",
+      "end": "2010-10",
+      "dateRange": "Aug 2010 – Oct 2010",
+      "current": false
+    },
+    {
+      "title": "Student Intern",
+      "company": "Kearney",
+      "companyUrl": "https://www.linkedin.com/company/kearney",
+      "description": null,
+      "location": null,
+      "start": "2009-09",
+      "end": "2010-02",
+      "dateRange": "Sep 2009 – Feb 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, Business Administration",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": "Visiting Scholar, Business Administration",
+      "dateRange": "2012"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2011 – 2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., Management with Technology (M.Sc.)",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "Ateneo de Manila University",
+      "degree": "Business Administration",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Catholic University of Eichstätt-Ingolstadt",
+      "degree": "B.Sc., Business Administration",
+      "dateRange": "2008 – 2011"
+    }
+  ],
+  "skills": [
+    "PHP",
+    "CSS",
+    "HTML",
+    "SQL",
+    "Java",
+    "Statistics",
+    "Machine Learning",
+    "Start-ups",
+    "WordPress",
+    "Programming",
+    "R",
+    "Web Design",
+    "Stata",
+    "Adobe Photoshop",
+    "Amazon EC2",
+    "Statistik",
+    "Online-Marketing",
+    "Webdesign",
+    "Web-Entwicklung"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Stealth Startup",
+    "tagline": null,
+    "description": "A network for entrepreneurs building in stealth. \n\nSubmit your information here so investors can find you:\nharmonic.ai/get-discovered",
+    "industry": "Technology, Information and Internet",
+    "website": "https://harmonic.ai/get-discovered",
+    "linkedInUrl": "https://www.linkedin.com/company/stealth-startup-community",
+    "employeeCount": 33008,
+    "foundedYear": null,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

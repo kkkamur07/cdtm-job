@@ -1,0 +1,237 @@
+{
+  "id": "christianhuelsemeyer",
+  "name": "Christian Hülsemeyer",
+  "headline": "KINEXON Sports | TU Munich | CDTM | UC Berkeley",
+  "avatar": {
+    "sm": "/avatars/christianhuelsemeyer-sm.webp",
+    "lg": "/avatars/christianhuelsemeyer.webp",
+    "blur": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAAAwBgCdASogACAAPsVSoEunpKMhsAwA8BiJYwDAHvUzG0nOW9E+Er3c+2y+CWL7aaUmBY2vp2JEmSQAAP7+wqCf6+f3/u2xTyieFfMB+cL9OU9OUFYRvrw/3FFRNNkcgY+tbDa/fmFvjQZ3btFvPIPfBcwTgKsWKQEIQBYNENEqVFgTiZrcdQh/1rdrcd8ByLQpwef6D0ntrwYUbnSzY5Mr45/NxzptYVXSE1J1W9CA3gzlkTe1FFGVIx8vmZV58s9NG7JeHlkj1gcpvR1ggKsklKklR4M1XmDIBXPj4AA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christianhuelsemeyer",
+  "personId": 819,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christian Hülsemeyer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Product Manager",
+      "company": "KINEXON",
+      "companyUrl": "https://www.linkedin.com/company/kinexon",
+      "description": "- KINEXON ball tracking technology\n\n- KINEXON Local Positioning System (LPS) provides clubs with data insights to team and athletes' performances and tactics to prevent injuries and enhance return to play and enhance individual skills. The world’s most precise player and ball tracking system\n\n- KINEXON Engage enhances fan experience and leverages the power of real-time sports data to boost their fan engagement and marketing potential, by delivering unique and insightful data to digital media, broadcasts, in-stadium video boards, and AR/VR",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Technical Product Manager",
+      "company": "KINEXON",
+      "companyUrl": "https://www.linkedin.com/company/kinexon",
+      "description": "Products:\n- KINEXON Mesh, the first wireless UWB real-time location system with the fastest RoI in the market to reduce search and dwelling times in production processes and automate SAP bookings\n\n- KINEXON RTLS, the world's largest UWB real-time location system (asset tracking), used to automate mass production processes, ranging from assembly tool control over to order tracking and paperless manufacturing (until October 2023)",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2024-09",
+      "dateRange": "Jan 2023 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Staff Engineer",
+      "company": "KINEXON",
+      "companyUrl": "https://www.linkedin.com/company/kinexon",
+      "description": "- Developed a smart, connected ball solution in Sports that was used in major football tournaments around the world\n- Developed an innovative wireless industrial RTLS that tracks a high number of industrial assets accurately in real-time to reduce search and dwelling times, as well as automate production processes",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-05",
+      "end": "2023-01",
+      "dateRange": "May 2022 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Embedded Software Developer",
+      "company": "KINEXON",
+      "companyUrl": "https://www.linkedin.com/company/kinexon",
+      "description": "Developing real-time location system (RTLS) solutions for Industry 4.0 and Sports",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-12",
+      "end": "2022-05",
+      "dateRange": "Dec 2019 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "After graduating at CDTM, taught and supervised CDTM core course 'Managing Product Development' in semesters WS2018/19 and SS2019",
+      "location": "Munich Area, Germany",
+      "start": "2018-10",
+      "end": "2019-09",
+      "dateRange": "Oct 2018 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Embedded Development Working Student",
+      "company": "nello.io",
+      "companyUrl": "https://www.linkedin.com/company/nello.io",
+      "description": "Developed IoT firmware in C++ based on ARM mbedos\nDeveloped signal processing tools in python\nReverse-engineered intercom hardware",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-03",
+      "end": "2019-06",
+      "dateRange": "Mar 2018 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Partner | Tech Lead",
+      "company": "Insurance 3.0",
+      "companyUrl": "https://www.linkedin.com/company/the-insurtech-conference",
+      "description": null,
+      "location": "London Area, United Kingdom",
+      "start": "2016-03",
+      "end": "2017-12",
+      "dateRange": "Mar 2016 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Embedded Development Working Student",
+      "company": "OHB SE",
+      "companyUrl": "https://www.linkedin.com/company/ohb-se",
+      "description": "Developed satellite module low level software (C, C++)\nDesigned satellite module's data transmission system VHDL\nDesigned circuits for satellite and ground support\nTook responsibility for MIL-STD-1553 communication\nVerified space hardware in breadboard and EM/EQM phase\nCreated Space System Analysis and Criticality Evaluation",
+      "location": "Oberpfaffenhofen, Germany",
+      "start": "2015-08",
+      "end": "2017-09",
+      "dateRange": "Aug 2015 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Chair for Technology and Innovation Management (Prof. Henkel):\nAnalyzed intellectual property strategies in regards of open source software\nMaintained the institutes IT infrastructure\nDeveloped the transcription software Transkribo",
+      "location": "München",
+      "start": "2015-02",
+      "end": "2015-07",
+      "dateRange": "Feb 2015 – Jul 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student Researcher",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc, B.Sc., Electrical Engineering and Information Technology",
+      "dateRange": "2013 – 2019"
+    }
+  ],
+  "skills": [
+    "VHDL",
+    "C",
+    "C++",
+    "Atmel AVR",
+    "python",
+    "MIL-STD-1553",
+    "LEON3FT",
+    "TensorFlow",
+    "Microsemi ProASIC",
+    "ECSS-E-70-41A PUS",
+    "Projektmanagement",
+    "Unternehmertum",
+    "Forschung",
+    "Engineering",
+    "Space Systems",
+    "Start-ups",
+    "Microsoft Excel",
+    "Microsoft Office",
+    "Matlab",
+    "Research",
+    "Embedded Systems",
+    "Linux",
+    "Software Development",
+    "Embedded C",
+    "Microcontrollers",
+    "Field-Programmable Gate Arrays (FPGA)",
+    "ASICS",
+    "Embedded Software",
+    "Real-Time Operating Systems (RTOS)",
+    "ARM Cortex-M"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "KINEXON",
+    "tagline": "The leading AI-powered IoT platform for manufacturing and logistics, seamlessly connecting and automating operations.",
+    "description": "KINEXON provides the leading AI-powered IoT platform for businesses to connect and automate operations.  \n\nAs global technology leader in indoor location services KINEXON's real-time locating system and AMR & AGV fleet management offer solutions across automotive, manufacturing, and aerospace sectors to achieve real-time visibility and traceability of moving assets, along with actionable insights to drive automation. \n\nLeading customers such as BMW, SIEMENS, Airbus, Continental, or MTU Aero Engines utilize KINEXON's solutions to digitize and orchestrate physical processes, thereby enhancing efficiency, productivity, and quality while preparing for AI-supported operations. \n\nAs an official SAP Endorsed App partner, KINEXON enables seamless synchronization and integration with SAP systems, empowering end-to-end operations and Physical AI execution. \n\nHeadquartered in Munich, Germany, with another office in Chicago, USA, over 250 employees drive innovation in the IoT landscape. For more information, visit www.kinexon.com.",
+    "industry": "Technology, Information and Internet",
+    "website": "http://www.kinexon.com",
+    "linkedInUrl": "https://www.linkedin.com/company/kinexon",
+    "employeeCount": 218,
+    "foundedYear": 2012,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Indoor Localization",
+      "Industry 4.0",
+      "Smart Factory",
+      "Internet of Things",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Analytics",
+      "UWB",
+      "IIoT",
+      "industrial automation",
+      "automation",
+      "RTLS",
+      "location-based automation",
+      "location technology",
+      "supply chain",
+      "localization",
+      "IoT",
+      "Digital Transformation",
+      "location-based process automation",
+      "AI",
+      "AMR",
+      "AGV",
+      "Fleet Management",
+      "VDA 5050",
+      "Mobile Robots",
+      "Operating System Platform",
+      "Manufacturing",
+      "Logistics",
+      "SAP Endorsed App",
+      "SAP",
+      "Intralogistics",
+      "Physical AI",
+      "IPS",
+      "Autonomous Operations",
+      "Lights-Out Operations"
+    ]
+  }
+}

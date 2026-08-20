@@ -1,0 +1,214 @@
+{
+  "id": "tigguo",
+  "name": "Tiger Guo",
+  "headline": "Senior AI Engineer at BCG X",
+  "avatar": null,
+  "location": "Dubai, United Arab Emirates",
+  "linkedInUrl": "https://www.linkedin.com/in/tigguo",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "I apply technology to solve complex problems faced by our community.\n\nAt university, I built up software products that won US$40,000 of prizes and grants. I have experience leading cross-functional teams (engineers, designers, BDs) of up to 10 people. Some topics I worked on include EdTech, FinTech, HealthTech, the blockchain, industrials, and traditional finance. \n\nMy problem-solving toolkit is diverse. Amongst my most useful qualities are the quantitative skills of a trader, business acumen of a consultant, technical understanding of a software engineer, and the communication skills of a product manager.\n\nFurthermore, having grown up in China and Germany, and worked/studied across the UK, Hong Kong, Singapore, and the UAE, I am fluent in three languages (German, Mandarin, English).",
+  "positions": [
+    {
+      "title": "Senior AI Engineer",
+      "company": "BCG X",
+      "companyUrl": "https://www.linkedin.com/company/bcg-x",
+      "description": null,
+      "location": null,
+      "start": "2026-04",
+      "end": null,
+      "dateRange": "Apr 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Consultant",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "Fast track promoted twice",
+      "location": null,
+      "start": "2026-02",
+      "end": "2026-03",
+      "dateRange": "Feb 2026 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "Senior Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Dubai, United Arab Emirates",
+      "start": "2025-07",
+      "end": "2026-01",
+      "dateRange": "Jul 2025 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "AI Engineer",
+      "company": "BCG X",
+      "companyUrl": "https://www.linkedin.com/company/bcg-x",
+      "description": "Secondment",
+      "location": "Dubai, United Arab Emirates",
+      "start": "2025-04",
+      "end": "2026-04",
+      "dateRange": "Apr 2025 – Apr 2026",
+      "current": false
+    },
+    {
+      "title": "Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Dubai, United Arab Emirates",
+      "start": "2024-01",
+      "end": "2025-06",
+      "dateRange": "Jan 2024 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Trader",
+      "company": "Bank of America Merrill Lynch",
+      "companyUrl": "https://www.linkedin.com/company/bank-of-america-merrill-lynch",
+      "description": "Asia Credit & CDS Systematic Trading\nBuilding the first APAC Credit Trading Algo",
+      "location": "Hong Kong SAR",
+      "start": "2022-01",
+      "end": "2023-11",
+      "dateRange": "Jan 2022 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Product Management",
+      "company": "StraitsX",
+      "companyUrl": "https://www.linkedin.com/company/straitsx",
+      "description": "Building XSGD, the largest non-USD backed multi-chain stablecoin (crypto stuff)",
+      "location": "Singapore",
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Loyal.t",
+      "companyUrl": "https://www.linkedin.com/company/loyal-tt",
+      "description": "Loyal.t is a smart contract that helping content creators incentivize follower engagement by launching and distributing customized utility NFTs.",
+      "location": "Singapore",
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Summer Analyst",
+      "company": "Bank of America Merrill Lynch",
+      "companyUrl": "https://www.linkedin.com/company/bank-of-america-merrill-lynch",
+      "description": null,
+      "location": "Hong Kong SAR",
+      "start": "2021-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Quantitative Investment Strategies",
+      "company": "Deutsche Bank",
+      "companyUrl": "https://www.linkedin.com/company/deutsche-bank",
+      "description": null,
+      "location": "Frankfurt am Main, Hesse, Germany",
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Management Consulting",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": "Automotive Practice",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Management and Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "University of Oxford",
+      "degree": "Visiting Student, Philosophy, Politics and Economics (PPE)",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "International Baccalaureate",
+      "degree": "High School Diploma",
+      "dateRange": null
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Exchange Student, NUS Business School and NOC",
+      "dateRange": null
+    },
+    {
+      "school": "NUS Overseas Colleges",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Public Speaking",
+    "Management Consulting",
+    "Product Management",
+    "Project Management",
+    "Business Strategy",
+    "Investment Strategies",
+    "Financial Modeling",
+    "Investment Banking",
+    "Business Intelligence (BI)",
+    "Lesson Planning",
+    "Machine Learning",
+    "Visual Basic for Applications (VBA)",
+    "Java",
+    "Microsoft PowerPoint",
+    "Microsoft Excel",
+    "Microsoft Office",
+    "Leadership",
+    "Personal Development",
+    "Quantitative Finance"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "BCG X",
+    "tagline": "BCG’s tech build and design unit. We build tomorrow. #BCGX",
+    "description": "BCG X is the tech build & design unit of BCG.  \n\nTurbocharging BCG’s deep industry and functional expertise, BCG X brings together advanced tech knowledge and ambitious entrepreneurship to help organizations enable innovation at scale.  \n\nWith nearly 3,000 technologists, scientists, programmers, engineers, and human-centered designers located across 80+ cities, BCG X builds and designs platforms and software to address the world’s most important challenges and opportunities.  \n\nTeaming across our practices, and in close collaboration with our clients, our end-to-end global team unlocks new possibilities. Together we’re creating the bold and disruptive products, services, and businesses of tomorrow.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.bcg.com/x",
+    "linkedInUrl": "https://www.linkedin.com/company/bcg-x",
+    "employeeCount": 2009,
+    "foundedYear": null,
+    "location": "Boston, United States",
+    "specialities": []
+  }
+}

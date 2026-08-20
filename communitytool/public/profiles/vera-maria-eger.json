@@ -1,0 +1,212 @@
+{
+  "id": "vera-maria-eger",
+  "name": "Vera Maria Eger",
+  "headline": "CDTM | PhD Candidate TUM",
+  "avatar": {
+    "sm": "/avatars/vera-maria-eger-sm.webp",
+    "lg": "/avatars/vera-maria-eger.webp",
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAADwBQCdASogACAAPtFYpUyoJSOiKA1RABoJaACdMy/vaOIguNIXNJRAczh0UYgxNnWZopJyq0lqwAD+5ygSw6ZXjsGsgLc5O9t/5sGr47esPKLov3QTn81r45vkP7X+5ytcP3OGf1/eM7gqCvNBjQHfXMV0G3HgFjdDQKNl9Jq18zZKzvv0v+7tlrXVmbjTGNsFqeu/O4hA53HRJ0ypYVUnv5uSMn3XYWvxkLNMII8+fx1hMRi6Q4o8/JrcUbcchwcIRC75Sn7kAhITRms5FgQSdD3wGLxNtp78OGLqxIM5YsAUKGjByAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/vera-maria-eger",
+  "personId": 1275,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": false,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Vera Eger",
+  "ca": {
+    "alumni": false,
+    "about": "Vera Eger studied Psychology (M.A.) at the Ludwig-Maximilians-University in Munich and recently completed her M.Sc. in Business-, Organizational-, and Social Psychology. As part of her studies, she did her thesis project in collaboration with Prof. Thomas Bohné from the Cyber-Human Lab, University of Cambridge. During her studies, Vera gained experience in strategic communication and project management at the Siemens AI lab.\n\nIn between Vera worked full-time as an Innovation Consultant for UnternehmerTUM in Munich leading customer projects in entrepreneurial and digital education.\n\nVera joined the CDTM management team in July of 2022. At CDTM she is responsible for the Community Engagement Taskforce as well as strategic partnerships. For her PhD she explores allyship behavior in entrepreneurship.",
+    "responsibilities": [
+      "Trend Seminar Course",
+      "Community Engagement Task Force"
+    ],
+    "researchFields": [
+      "Male Allyship in Entrepreneurship",
+      "Female Empowerment"
+    ],
+    "email": "eger@cdtm.com"
+  },
+  "summary": "As a psychologist and researcher with an entrepreneurial spirit and a creative mindset, I want to contribute to a society that strives for future innovation with people's well-being at its core.\n\nCurrently working on a review paper on allyship in entrepreneurship - reach out to chat!\n\nEntrepreneurship | Innovation | Qualitative & Quantitative Research | Allyship | Diversity",
+  "positions": [
+    {
+      "title": "Doctoral Candidate",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": null,
+      "start": "2022-07",
+      "end": null,
+      "dateRange": "Jul 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Innovation Consultant and Business Creator",
+      "company": "UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/unternehmertum",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-10",
+      "end": "2022-07",
+      "dateRange": "Oct 2021 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Student Assistant at the Chair of Business and Organisational Psychology",
+      "company": "Ludwig-Maximilians Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Conducting research in the field of leadership and cross-media communication. Coding and evaluating qualitative interviews. Preparing online lectures and exams.",
+      "location": "München",
+      "start": "2020-05",
+      "end": "2020-09",
+      "dateRange": "May 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Future of Work and Podcast Production@ Siemens AI Lab",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Creation and Co-Moderation of the interdisciplinary Siemens AI Lab Podcast: Human and AI - Mind, Machines, and the Gradient Descent. Driving and Exploring future of work concepts and communication strategies. Organization of the Siemens AI Lab flagship event AI@Sustainability Hackathon.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2019-11",
+      "end": "2020-10",
+      "dateRange": "Nov 2019 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Capgemini Invent",
+      "companyUrl": "https://www.linkedin.com/company/capgemini-invent",
+      "description": "I supported an internal project by exploring and analysing new techniques and methodologies to enhance motivation, cooperation and team identy. Moreover, I supported a customer project at a car manufacturer where I conceptualized and co-moderated team workshops as well as did the customer management.",
+      "location": "München",
+      "start": "2019-08",
+      "end": "2019-10",
+      "dateRange": "Aug 2019 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Working Student Recruiting",
+      "company": "TNG Technology Consulting",
+      "companyUrl": "https://www.linkedin.com/company/tng-technology-consulting",
+      "description": "I supported the ongoing recruiting processes, conducted phone interviews and was responsible for the maintenance and preparation of applicant data.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-11",
+      "end": "2019-03",
+      "dateRange": "Nov 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Statistics tutor at the Chair of Statistics and Risk management",
+      "company": "Universität Regensburg",
+      "companyUrl": "https://www.linkedin.com/company/university-of-regensburg",
+      "description": "I was responsible for the preparation and teaching of statistics tutorials for up to 60 students (SPSS). Furthermore, I corrected written examinations in statistics and used LaTex for the creation and preparation of the task.",
+      "location": "Regensburg und Umgebung, Deutschland",
+      "start": "2017-04",
+      "end": "2018-09",
+      "dateRange": "Apr 2017 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Praktikantin",
+      "company": "Sozial- und Lern-therapeutisches Internat Weiße Villa Harz",
+      "companyUrl": null,
+      "description": "I took care of leisure activities and math tutoring for young people with mental health problems in residential groups.",
+      "location": "Braunschweig und Umgebung, Deutschland",
+      "start": "2015-06",
+      "end": "2015-08",
+      "dateRange": "Jun 2015 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Prototyping, Product developing and Testing (9 months)",
+      "company": "Electrolux",
+      "companyUrl": "https://www.linkedin.com/company/electroluxgroup",
+      "description": "I was involved in various prototype construction projects with 3D printing. Thereby, I conducted measurements of light and temperature, and helped to train an artificial intelligence for object recognition.",
+      "location": "Rothenburg ob der Tauber, Bayern, Deutschland",
+      "start": "2015-03",
+      "end": "2018-03",
+      "dateRange": "Mar 2015 – Mar 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Psychologie",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Visiting Researcher Cyber-Human Lab , Psychologie",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "University of Lincoln",
+      "degree": "Auslandssemester, Psychologie",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "OTH Regensburg",
+      "degree": "Degree in International Action Competence (2018)",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "University of Regensburg",
+      "degree": "Bachelor of Applied Science - BASc, Psychologie",
+      "dateRange": "2015 – 2018"
+    }
+  ],
+  "skills": [
+    "Analytische Fähigkeiten",
+    "Interkulturelle Kompetenzen",
+    "Kreativität",
+    "Scrum",
+    "Statistik",
+    "Microsoft Office",
+    "Microsoft PowerPoint",
+    "Microsoft Excel",
+    "R",
+    "SPSS",
+    "Jira",
+    "Präsentationen",
+    "Teamfähigkeit",
+    "Emotionale Intelligenz",
+    "Beratung",
+    "Confluence",
+    "LaTeX",
+    "Design Thinking",
+    "Coaching"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Center for Digital Technology and Management (CDTM)",
+    "tagline": "Connect, Educate and Empower the Innovators of Tomorrow",
+    "description": "The Center for Digital Technology and Management (CDTM), a joint institution of the Ludwig-Maximilians-Universität München (LMU) and the Technische Universität München (TUM), offers talented students the international and interdisciplinary study program Technology Management. \n\nThe CDTM focuses on how to manage High-Tech in close cooperation with industry, research and education, while simultaneously being committed to preparing the students for future leadership positions in their professional career.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.cdtm.de",
+    "linkedInUrl": "https://www.linkedin.com/company/cdtm-munich",
+    "employeeCount": 35,
+    "foundedYear": 1998,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Entrepreneurship",
+      "Product Development"
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "id": "florian-lachner-ux",
+  "name": "Dr. Florian Lachner",
+  "headline": "Staff UXR Manager at Google",
+  "avatar": null,
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/florian-lachner-ux",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "I'm a passionate mixed-methods UXR lead and manager with over 13 years of experience in the field of Human-Computer Interaction (HCI) and UX Research. Throughout my career I've led research programs at the intersections of human psychology, culturally sensitive design, privacy, regulation, and AI memory. Right now I manage and enable a globally distributed team of UX researchers working on personalization and AI.",
+  "positions": [
+    {
+      "title": "Staff UX Research Manager",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Leading and enabling a distributed team of UX Researchers across multiple locations and time zones. Focused on aligning research strategy, operationalizing workflows, and fostering a unified culture of insight-driven design and individual growth.",
+      "location": null,
+      "start": "2025-12",
+      "end": null,
+      "dateRange": "Dec 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Staff UX Researcher",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Leading UX research for multiple complex Chrome Trust & Safety areas shaping product strategy and business decisions. This involves driving cross-functional stakeholders alignment, translating business objectives into actionable user-centered insights, and conducting research programs that span ideation, foundational research, concept testing, and success measurement. My focus areas include privacy, AI, account/identity, child safety, and regulation. I work directly with multiple teams, including 5 product managers, 5 UX designers/writers, and 30+ engineers, as well as Chrome and T&S leadership. In addition, I've coached, mentored, and onboarded multiplen other UXRs.",
+      "location": null,
+      "start": "2024-11",
+      "end": "2025-12",
+      "dateRange": "Nov 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Senior UX Researcher Trust & Safety",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Leading UXR for various Chrome efforts including compliance and regulatory projects (e.g., Digital Markets Act), privacy (e.g., general availability of Privacy Sandbox APIs), sign-in and sync, as well as research with minors/kids and families.",
+      "location": null,
+      "start": "2022-05",
+      "end": "2024-10",
+      "dateRange": "May 2022 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "UX Researcher Chrome Privacy Sandbox",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Chrome UXR lead for the Privacy Sandbox initiative which aims to improve web privacy for users, while also giving publishers, creators and other developers the tools they need to build thriving businesses, ensuring a safe and healthy web for all.",
+      "location": null,
+      "start": "2020-10",
+      "end": "2022-05",
+      "dateRange": "Oct 2020 – May 2022",
+      "current": false
+    },
+    {
+      "title": "UX Researcher Chrome Trust & Safety",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": "Qualitative user research for Chrome privacy and security topics including cross-product/area alignment and strategy definition. I led research for Chrome Incognito Mode and Chrome Identity including sign-in/sync features and managed the research program for Chrome's multi profiles launch.",
+      "location": null,
+      "start": "2019-06",
+      "end": "2020-10",
+      "dateRange": "Jun 2019 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "UX Researcher Cloud Robotics",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": "2018-11",
+      "end": "2019-06",
+      "dateRange": "Nov 2018 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": "Munich",
+      "start": "2015-06",
+      "end": "2018-10",
+      "dateRange": "Jun 2015 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Inbound Marketing & UX Strategy",
+      "company": "doo GmbH",
+      "companyUrl": "https://www.linkedin.com/company/doo",
+      "description": null,
+      "location": "Munich",
+      "start": "2015-02",
+      "end": "2015-05",
+      "dateRange": "Feb 2015 – May 2015",
+      "current": false
+    },
+    {
+      "title": "Innovation Engineering & Business Development",
+      "company": "Detecon Inc. USA",
+      "companyUrl": "https://www.linkedin.com/company/detecon",
+      "description": null,
+      "location": "San Francisco, CA, USA",
+      "start": "2012-03",
+      "end": "2012-09",
+      "dateRange": "Mar 2012 – Sep 2012",
+      "current": false
+    },
+    {
+      "title": "Strategy & Structure Planning",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich",
+      "start": "2011-10",
+      "end": "2012-02",
+      "dateRange": "Oct 2011 – Feb 2012",
+      "current": false
+    },
+    {
+      "title": "Market Research & Analysis",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": "Munich",
+      "start": "2010-04",
+      "end": "2012-03",
+      "dateRange": "Apr 2010 – Mar 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Dr.rer.nat., Human-Computer Interaction",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher, Human-Computer Interaction",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Mechanical Engineering and Management",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "RMIT University",
+      "degree": "Visiting Research Fellow, Media and Communication (Exertion Games Lab)",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Stiftung Bayerische EliteAkademie (BEA)",
+      "degree": "Leadership and Ethics",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Mechanical Engineering",
+      "dateRange": "2008 – 2012"
+    }
+  ],
+  "skills": [
+    "Usable Privacy",
+    "Human-Computer Interaction",
+    "Product Management",
+    "UX Research",
+    "Cross-Cultural UX",
+    "Produktmanagement",
+    "Produktentwicklung",
+    "User Experience Design",
+    "Marktforschung",
+    "User Experience",
+    "Unternehmensstrategie",
+    "Unternehmensberatung",
+    "Interaction Design",
+    "Management Consulting",
+    "Business Strategy",
+    "Strategic Consulting",
+    "Product Development",
+    "Data Analysis",
+    "Market Research",
+    "Marktanalyse"
+  ],
+  "languages": [
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "Google",
+    "tagline": null,
+    "description": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.\n\nCheck out our career opportunities at goo.gle/3DLEokh",
+    "industry": "Software Development",
+    "website": "https://goo.gle/3DLEokh",
+    "linkedInUrl": "https://www.linkedin.com/company/google",
+    "employeeCount": 341631,
+    "foundedYear": null,
+    "location": "Mountain View, United States",
+    "specialities": [
+      "search",
+      "ads",
+      "mobile",
+      "android",
+      "online video",
+      "apps",
+      "machine learning",
+      "virtual reality",
+      "cloud",
+      "hardware",
+      "artificial intelligence",
+      "youtube",
+      "software"
+    ]
+  }
+}

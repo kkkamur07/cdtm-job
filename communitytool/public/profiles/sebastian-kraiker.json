@@ -1,0 +1,147 @@
+{
+  "id": "sebastian-kraiker",
+  "name": "Sebastian Kraiker",
+  "headline": "Founder @ LetsVibe | The first Vibe-Dating app | A new paradigm for better vibes & more respect in online dating",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sebastian-kraiker",
+  "personId": 1336,
+  "classes": [
+    {
+      "id": 57,
+      "label": "Spring 2005",
+      "season": "Spring",
+      "year": 2005,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2005",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sebastian Kraiker",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder",
+      "company": "LetsVibe GmbH",
+      "companyUrl": "https://www.linkedin.com/company/letsvibe-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "VP Integration Engineering",
+      "company": "Payoneer",
+      "companyUrl": "https://www.linkedin.com/company/payoneer",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-01",
+      "end": "2023-07",
+      "dateRange": "Jan 2020 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "VP Product Management",
+      "company": "Payoneer",
+      "companyUrl": "https://www.linkedin.com/company/payoneer",
+      "description": "Former optile GmbH",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-07",
+      "end": "2019-12",
+      "dateRange": "Jul 2013 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Partner",
+      "company": "appStructors Mobile App Agency",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-12",
+      "end": "2013-06",
+      "dateRange": "Dec 2012 – Jun 2013",
+      "current": false
+    },
+    {
+      "title": "CTO & Co-Founder",
+      "company": "Order & Pay",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2011-09",
+      "end": "2012-12",
+      "dateRange": "Sep 2011 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Web Developer",
+      "company": "Freelancer",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2010-04",
+      "end": "2011-08",
+      "dateRange": "Apr 2010 – Aug 2011",
+      "current": false
+    },
+    {
+      "title": "CTO & Co-Founder",
+      "company": "Rabattwiese GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2008-11",
+      "end": "2010-03",
+      "dateRange": "Nov 2008 – Mar 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2005 – 2007"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diploma, Media Informatics",
+      "dateRange": "2002 – 2008"
+    },
+    {
+      "school": "UNSW",
+      "degree": "Business & Technology",
+      "dateRange": "2006"
+    }
+  ],
+  "skills": [
+    "Start-up Leadership",
+    "Usability Engineering",
+    "Social Psychology",
+    "Product Management",
+    "Software Development"
+  ],
+  "languages": [],
+  "company": {
+    "name": "LetsVibe GmbH",
+    "tagline": "Bringing more respect & better vibes to online dating.",
+    "description": "We solve the disrespect and dullness that kills today's dating apps, with fair user ratings. Social Proof works for AirBnB & Uber; we’re bringing it to dating. Proven by excellent retention & CAC.",
+    "industry": "Consumer Services",
+    "website": "https://www.lets-vibe.app/",
+    "linkedInUrl": "https://www.linkedin.com/company/letsvibe-gmbh",
+    "employeeCount": 2,
+    "foundedYear": 2025,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "benedikt-alb",
+  "name": "Benedikt Albertsen",
+  "headline": "Chief of Staff @ ERC | Sigma Squared Fellow | CDTM",
+  "avatar": {
+    "sm": "/avatars/benedikt-alb-sm.webp",
+    "lg": "/avatars/benedikt-alb.webp",
+    "blur": "data:image/webp;base64,UklGRgoBAABXRUJQVlA4IP4AAACwBQCdASogACAAPs1Oo0unpCMht/VYAPAZiWoAsO3cC3zpUdZt37oxL3AqBy3a9GWnwITosQAA/v34yuef/zCcBfe7kjrDnTYBgNev5+TwWzGpcTjPm/OoBzPYsqy1A4Npk/1XwbjyVOho3etVcm+qMMKnQeOLpjPUBpOUET7lmO9ADmypHtq4RelSWeFmAcJJPkUlD5zhhfd79egBnjQpN+xELgM/N4vE2QPS9Ub/pTQE8qrH/J9vPfxpX72SGimJAOfznTpLipPz7jirM52KlQ+YK8ELKX2YiM8kA+XNc7rij8KZ8lXT+NDirfIQDUa/rTR9uD4t0K7CaoAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/benedikt-alb",
+  "personId": 2136,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Benedikt Albertsen",
+  "ca": null,
+  "summary": "Transforming aviation by creating electric aircraft for patient transportation",
+  "positions": [
+    {
+      "title": "Chief of Staff",
+      "company": "ERC System",
+      "companyUrl": "https://www.linkedin.com/company/erc-system",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Sigma Squared Fellow / Investor Relations Team",
+      "company": "Sigma Squared Society",
+      "companyUrl": "https://www.linkedin.com/company/sigma-squared-society",
+      "description": null,
+      "location": null,
+      "start": "2022-04",
+      "end": null,
+      "dateRange": "Apr 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder",
+      "company": "Sarowa",
+      "companyUrl": "https://www.linkedin.com/company/sarowa",
+      "description": null,
+      "location": "Germany",
+      "start": "2018-12",
+      "end": null,
+      "dateRange": "Dec 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Growth/Expansion",
+      "company": "Enpal",
+      "companyUrl": "https://www.linkedin.com/company/enpal",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2024-03",
+      "end": "2024-09",
+      "dateRange": "Mar 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Investment Team",
+      "company": "Project A Ventures",
+      "companyUrl": "https://www.linkedin.com/company/project-a-vc",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-09",
+      "end": "2024-01",
+      "dateRange": "Sep 2023 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "IDO Project",
+      "company": "I DO Project",
+      "companyUrl": "https://www.linkedin.com/company/i-do-project",
+      "description": null,
+      "location": "Rotterdam",
+      "start": "2021-09",
+      "end": "2022-08",
+      "dateRange": "Sep 2021 – Aug 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Rotterdam School of Management, Erasmus University",
+      "degree": "Bachelor of Science - BS, International Business",
+      "dateRange": null
+    },
+    {
+      "school": "Erasmus University Rotterdam",
+      "degree": "Honours Programme | Erasmus Academie, interdisciplinary | Erasmus Academie",
+      "dateRange": null
+    },
+    {
+      "school": "Le Wagon",
+      "degree": "Junior Full Stack Developer, 9 week intensive Web Development Bootcamp",
+      "dateRange": null
+    },
+    {
+      "school": "Collegium Augustinianum Gaesdonck",
+      "degree": "German A Levels",
+      "dateRange": null
+    },
+    {
+      "school": "Box Hill High School",
+      "degree": "Student Exchange, Student",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "ERC System",
+    "tagline": "We Elevate Critical Missions",
+    "description": "ERC System is a Munich-based aviation startup that develops electrified aviation solutions for the most critical missions. The company’s hybrid-electric aircraft take off vertically like helicopters, but fly forward wing-borne, like airplanes. They provide high speeds, long ranges, and cost-efficient operations for patient, passenger, and cargo transport. ERC’s flagship product is a crewed, hybrid-electric lift-and-cruise aircraft optimized for interhospital patient transport.\n \nFounded in 2020 by experienced aerospace professionals, ERC currently has approximately 60 employees and is backed by aerospace powerhouse IABG, a leading provider of testing and certification services for aircraft, spacecraft, and defense solutions. The team focuses on heads-down engineering, \ncapital-efficient development, and designing aircraft that fulfill highest customer and regulatory requirements.",
+    "industry": "Aviation & Aerospace",
+    "website": "https://www.erc-system.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/erc-system",
+    "employeeCount": 73,
+    "foundedYear": 2020,
+    "location": "Ottobrunn, Germany",
+    "specialities": [
+      "aerospace",
+      "aviation",
+      "eVTOL"
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "id": "nick-stracke",
+  "name": "Nick Stracke",
+  "headline": "PhD Student Ommer Lab | CDTM | Entrepreneur",
+  "avatar": {
+    "sm": "/avatars/nick-stracke-sm.webp",
+    "lg": "/avatars/nick-stracke.webp",
+    "blur": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAAAQBgCdASogACAAPtFaoUuoJaMhsBgMAQAaCUATozQG2rFP0rfrLHvyvt62091QIKOYQtFyA0rmAAAA/v28b6yaUB7ITdHgtLvcBPEedNo3ZP4e+nQbdtGOD/u5fqzvvl3Bu02DSLoTaxFD1665XmKKeX8DtSJrWeQixYzQMHX7Oo0434fUaeglglcTKmwCUgf6E24qTaxoLVKcWvWxOnLev74u4obqjB+cEEXBCH2Z+WU0O3+j9CeCk4fjLC+loshUluMLBT9QsvBYdJzK3V3YawZqJpNU6M1piWQAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/nick-stracke",
+  "personId": 952,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Data Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Nick Stracke",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Doctoral Researcher",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Computer Vision & Learning (Ommer) Group",
+      "location": null,
+      "start": "2023-10",
+      "end": null,
+      "dateRange": "Oct 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Full-Stack Web3 Freelancer",
+      "company": "Web3 Consulting Nick Stracke",
+      "companyUrl": null,
+      "description": "Freelance Web3 Engineer specialized in EVM-based blockchain development. I design and build full-stack decentralized applications, including frontend, backend, and Solidity smart contracts. I also develop custom indexers and data pipelines to efficiently query and process on-chain data.",
+      "location": null,
+      "start": "2022-01",
+      "end": null,
+      "dateRange": "Jan 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "fundle3",
+      "companyUrl": "https://www.linkedin.com/company/fundle3",
+      "description": "We help brands manage their NFT communities by combining on-chain, social and internal data to provide analytics as well as management tooling. As the CTO I was responsible for setting up the entire tech-stack including on-chain indexers and event parsing.",
+      "location": null,
+      "start": "2022-04",
+      "end": "2023-02",
+      "dateRange": "Apr 2022 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Founder / Vorstandsvorsitzender",
+      "company": "PretzelDAO",
+      "companyUrl": "https://www.linkedin.com/company/pretzeldao",
+      "description": "What started as a small Telegram group in late 2021 quickly became a busy Discord and the largest Web3 community in Munich. I co-founded the PretzelDAO (back then Web3 Builders) and significantly shaped its early days by organizing weekly meetings, establishing DAO processes, developing the needed token contracts and working on the tokenomics. We are a strong community with a focus on founders that meets regularly (feel free to join!), participates in Hackathons and attends conferences together.",
+      "location": null,
+      "start": "2021-12",
+      "end": "2024-03",
+      "dateRange": "Dec 2021 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Data Scientist",
+      "company": "ASMPT Ltd",
+      "companyUrl": "https://www.linkedin.com/company/asmpt",
+      "description": "I am working on prognostic health management to detect anomalies, predict remaining useful life and classify different error modes within the mechatronic team. In particular, I evaluated an in-house built tool and implementing my own solution on different platforms as a reference.",
+      "location": null,
+      "start": "2020-02",
+      "end": "2020-09",
+      "dateRange": "Feb 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "ASMPT Ltd",
+      "companyUrl": "https://www.linkedin.com/company/asmpt",
+      "description": "In combination with my Bachelor's Thesis, I worked on predicting depth maps from single images of semiconductor devices to detect anomalies. This was a completely independent project where I generated ground truth data, created a data set, selected appropriate state of the art NN architectures and ran experiments.",
+      "location": null,
+      "start": "2019-09",
+      "end": "2020-01",
+      "dateRange": "Sep 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "TKH Innovations",
+      "companyUrl": null,
+      "description": "I worked on both a timeseries model to predict the demand of camera components and a convolutional neural network to classify whether a welding seam is faulty. In the first case, I was responsible for pre-processing and visualizing the data next to building an ARIMA model in python using scikit-learn. In the second case, it was my responsibility to design a convolutional neural network and implement it in TensorFlow.",
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-04",
+      "dateRange": "Jan 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Founding Project",
+      "company": "Brily",
+      "companyUrl": "https://www.linkedin.com/company/brily-app",
+      "description": "Brily was created during a yearlong university course focused on teaching the basics auf start-ups. At the end of the course, we acquired one customer who was willing to finance the pilot phase of the project. We developed a native mobile app for Android and iOS and onboarded 20 student dorms. Even though the app was loved by some students, we unfortunately decided to discontinue the project due to a lack of tractions.\n\nAfterwards, we used the skills we had gained to develop custom apps for local businesses.",
+      "location": null,
+      "start": "2018-10",
+      "end": "2020-12",
+      "dateRange": "Oct 2018 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Chief of Education",
+      "company": "Study Association CognAC",
+      "companyUrl": "https://www.linkedin.com/company/sv-cognac",
+      "description": "As the Chief of Education, I was board member of CognAC, the study association of Artificial Intelligence with about 500 members. Next to managing the association, I was the main contact point between the programme of Artificial Intelligence and the students. It was my responsibility to stay in close contact with the teachers and to enrich the study process of our members by organizing workshops and by maintaining the tutoring network.",
+      "location": null,
+      "start": "2018-09",
+      "end": "2019-08",
+      "dateRange": "Sep 2018 – Aug 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Data Science",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree Technology Managment",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Radboud University",
+      "degree": "Bachelor of Science (BSc), Artificial Intelligence",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "Walburgisgymnasium Menden",
+      "degree": "Abitur",
+      "dateRange": "2007 – 2015"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Doctor of Philosophy - PhD, Computer Vision",
+      "dateRange": "2023"
+    }
+  ],
+  "skills": [
+    "PHP",
+    "HTML",
+    "JavaScript",
+    "SQL",
+    "Java",
+    "Linux",
+    "Node.js",
+    "Object-Oriented Programming (OOP)",
+    "Data Science",
+    "Machine Learning",
+    "Deep Learning",
+    "Data Mining",
+    "Git",
+    "Python",
+    "NumPy",
+    "Computer Vision",
+    "Web Development",
+    "Cascading Style Sheets (CSS)",
+    "LaTeX",
+    "Artificial Neural Networks",
+    "R",
+    "TensorFlow",
+    "Pandas (Software)",
+    "Scikit-Learn",
+    "Artificial Intelligence",
+    "Natural Language Processing (NLP)",
+    "Linux System Administration"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "tagline": null,
+    "description": "Die LMU zählt zu den renommiertesten Universitäten Europas. Sie steht für hervorragende Forschung, die sich mit einem anspruchsvollen Lehrangebot verbindet. Knapp 53.000 Studierende, davon 17 Prozent aus dem Ausland, nutzen derzeit das breite Fächerspektrum mit 150 Angeboten und zahlreichen Kombinationsmöglichkeiten - von den Geistes- und Kulturwissenschaften über Rechts-, Wirtschafts- und Sozialwissenschaften bis hin zur Medizin und den Naturwissenschaften. \n\nDas Know-how und die kreative Intelligenz von rund 700 Professorinnen und Professoren und 3.600 wissenschaftlichen Mitarbeiterinnen und Mitarbeitern bilden die Grundlage für die hervorragende Forschungsbilanz der LMU und sorgen für ihr regelmäßig gutes Abschneiden in nationalen und internationalen Rankings. \n\nMachen Sie sich ein Bild von der LMU: www.lmu.de\n\nUnsere Netiquette sowie Datenschutzinformationen zur Nutzung der Social-Media-Auftritte der LMU finden Sie hier: \n\nhttps://www.lmu.de/de/die-lmu/struktur/zentrale-universitaetsverwaltung/kommunikation-und-presse/social-media/index.html\n\nFür die inhaltliche Konzeption und Pflege der Seiten ist die Stabsstelle Kommunikation und Presse verantwortlich.",
+    "industry": "Higher Education",
+    "website": "http://www.lmu.de",
+    "linkedInUrl": "https://www.linkedin.com/company/lmu.muenchen",
+    "employeeCount": 9313,
+    "foundedYear": null,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

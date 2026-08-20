@@ -1,0 +1,236 @@
+{
+  "id": "shouvik-ghosh",
+  "name": "Shouvik Ghosh",
+  "headline": "Staking Facilities | CDTM | TUM Blockchain Club | ex-CERN",
+  "avatar": {
+    "sm": "/avatars/shouvik-ghosh-sm.webp",
+    "lg": "/avatars/shouvik-ghosh.webp",
+    "blur": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAABQBQCdASogACAAPtFcp04oJSOiKAqpABoJZADG9YvOs2WKgnelv387CocHm+rzhsh1mQwA/vqsydBHlo+1iv9o2L/89DLNe4s+hZhqYnMVStwZGLWN0573PD7yqqsF+X24zNJ8y71hKOeg59wmv7GlbbHWOYuv9e0zn1Ug2tk8OwCFaR7OuIi+Kcs71C6NLea8wtS7t5WbDcqLZ0/u+qrF1i3CN4A5vIY4CcHDk2Fjcgf+2fBH1zxx5Xvf7cMFjZ+5ibfm/+q3ZGRieWtHseAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/shouvik-ghosh",
+  "personId": 1305,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Shouvik Ghosh",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Strategic Advisor",
+      "company": "TUM Blockchain Club",
+      "companyUrl": "https://www.linkedin.com/company/tum-blockchain-club",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Work Student",
+      "company": "Staking Facilities GmbH",
+      "companyUrl": "https://www.linkedin.com/company/stakingfacilities",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-11",
+      "end": null,
+      "dateRange": "Nov 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "President",
+      "company": "TUM Blockchain Club",
+      "companyUrl": "https://www.linkedin.com/company/tum-blockchain-club",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-08",
+      "end": "2024-10",
+      "dateRange": "Aug 2023 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Head of External Relations",
+      "company": "TUM Blockchain Club",
+      "companyUrl": "https://www.linkedin.com/company/tum-blockchain-club",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2023-08",
+      "dateRange": "Jan 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Work Student",
+      "company": "Crypto Carbon Ratings Institute (CCRI)",
+      "companyUrl": "https://www.linkedin.com/company/crypto-carbon-ratings-institute",
+      "description": "• Designing the architecture and developing a novel API-based product from scratch for providing the carbon emissions of major Ethereum ERC20 tokens.\n• Collaborating closely with the CEO to align project goals with business needs and strategies and developing a project plan that met the needs of the company and its stakeholders.\n• Configured and deployed statping service in order to track the status of all the important services and APIs internal to the company.\n• Technology used: Trueblocks, Erigon, Python, Nginx, Bash, Docker",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-09",
+      "end": "2023-08",
+      "dateRange": "Sep 2022 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Founding Member",
+      "company": "TUM Blockchain Club",
+      "companyUrl": "https://www.linkedin.com/company/tum-blockchain-club",
+      "description": "• Part of the founding team. Growing the club from 10 students to a current reach of 1000+ students by structuring the infrastructure with all official procedures.\n• Leading a team of 8 members in outreach activities to build relationships with industry professionals and companies.\n• Organizing events and meetups to connect club members with industry leaders.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-06",
+      "end": "2023-01",
+      "dateRange": "Jun 2022 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "CERN",
+      "companyUrl": "https://www.linkedin.com/company/cern",
+      "description": "- Responsible for migrating default Gitlab container registry to Harbor container registry to improve automatic garbage collection, vulnerability scanning, and OCI artifact support for docker containers. Working under the supervision of Mr. Iago Santos Pardo and Mr. Alexandre Lossent.\n- Design, implementation, and support for automatic authentication by Gitlab CI to the harbor. Will provide documentation and training to end-users.\n- Researching and optimizing login process using robot accounts in Harbor for making the process seamless for the end users.\n- Once deployed, the changes will affect approximately 17,000 CERN users and handle more than 10,000 Gitlab CI jobs everyday.\n- Experienced production-level software development environment.",
+      "location": "Geneva, Switzerland",
+      "start": "2020-10",
+      "end": "2021-12",
+      "dateRange": "Oct 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Research And Development Intern",
+      "company": "Veritas Technologies LLC",
+      "companyUrl": "https://www.linkedin.com/company/veritas-technologies-llc",
+      "description": "- Worked on the project ”Sharing Docker Images across hosts on Veritas distributed file system”.\n- Conducting research to enable distributed daemons to collaboratively retrieve and store container images in shared storage and create containers from the shared images.\n- Phase 1: To make OverlayFS(Linux) compatible with Veritas Cluster file system (VxFS) for supporting docker’s overlay2 storage driver.\n- Phase 2: Design and develop a middleware that helps in sharing the read-only layers of a docker image with distributed daemons.\n- Experienced first hand pioneer industry research.",
+      "location": "Pune Area, India",
+      "start": "2020-01",
+      "end": "2020-08",
+      "dateRange": "Jan 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Indraprastha Institute of Information Technology, Delhi",
+      "companyUrl": "https://www.linkedin.com/company/iiit-delhi",
+      "description": "- Undertook the project ”Train electricity consumption prediction” under the guidance of Dr. Pravesh Biyani. Developed an LSTM forecasting model and optimized using a genetic algorithm. Achieved a low RMSE value of 473kWh for every 15-minute time slot.\n- Optimised a variant of A* algorithm for public transport routing. Significantly reduced the average query time for source-destination pair from 27s to 0.8s.\n- Experienced first hand academia-industry collaboration.",
+      "location": "New Delhi Area, India",
+      "start": "2019-05",
+      "end": "2019-07",
+      "dateRange": "May 2019 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "The University of Auckland",
+      "companyUrl": "https://www.linkedin.com/company/university-of-auckland",
+      "description": "Undertaking a research project under the guidance of Dr. Aniket Mahanti.\nResponsibilities:\n-Design a Fog-IoT architecture for real-time context-aware collaborative decision making.\n-Literature review on fog computing and efficient data communication protocols.\n-Simulating fog nodes using a raspberry pi and testing various protocols for secure data transfer.\n-Balance trade-off between energy consumption and delay.",
+      "location": "Auckland, New Zealand",
+      "start": "2018-12",
+      "end": "2019-02",
+      "dateRange": "Dec 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Software Development Intern",
+      "company": "L&T Infotech",
+      "companyUrl": null,
+      "description": "Interned as a software developer focusing on shop\rfloor control modernization for a LTI client.\r\nResponsibilities:\r\n- Prototyping UI/UX, database, and backbone application.\r\n- Secure and modular programming by using nodeJS.\r\n- Integration and maintenance of the proposed\r\nplatform.",
+      "location": "Chennai Area, India",
+      "start": "2018-05",
+      "end": "2018-06",
+      "dateRange": "May 2018 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Member",
+      "company": "Next Tech Lab",
+      "companyUrl": "https://www.linkedin.com/company/next-tech-lab",
+      "description": null,
+      "location": null,
+      "start": "2018-02",
+      "end": "2020-05",
+      "dateRange": "Feb 2018 – May 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours degree, Technology Management",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Informatics",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "SRM IST Chennai",
+      "degree": "Bachelor of Technology, Computer Science",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "Delhi Public School, Gandhinagar",
+      "degree": null,
+      "dateRange": "2009 – 2016"
+    }
+  ],
+  "skills": [
+    "Business Development",
+    "DevOps",
+    "Research and Development (R&D)",
+    "Blockchain",
+    "staking",
+    "Leadership",
+    "Fundraising",
+    "Project Management",
+    "trueblocks",
+    "Continuous Integration and Continuous Delivery (CI/CD)",
+    "Nginx",
+    "C++",
+    "Python",
+    "Machine Learning",
+    "Artificial Neural Networks",
+    "HTML5",
+    "Node.js",
+    "MongoDB",
+    "Express.js",
+    "JavaScript"
+  ],
+  "languages": [
+    "Bengali",
+    "English"
+  ],
+  "company": {
+    "name": "TUM Blockchain Club",
+    "tagline": "Leading student-run Blockchain Club in Germany💜\n| founded in 2022\n| Munich based",
+    "description": "At TUM Blockchain Club, our core mission is to provide a comprehensive and unbiased understanding of blockchain technology. As a blockchain-neutral, non-profit organization, we take pride in hosting enlightening conferences, interactive workshops, and bridging the gap between academia and the industry. We are dedicated to fostering collaborations between students, educators, and blockchain professionals, driving innovation and knowledge forward.",
+    "industry": "Blockchain Services",
+    "website": "http://tum-blockchain.com",
+    "linkedInUrl": "https://www.linkedin.com/company/tum-blockchain-club",
+    "employeeCount": 34,
+    "foundedYear": 2022,
+    "location": "München, Germany",
+    "specialities": [
+      "web3",
+      "Blockchain",
+      "Events",
+      "Education",
+      "TUM",
+      "Munich"
+    ]
+  }
+}

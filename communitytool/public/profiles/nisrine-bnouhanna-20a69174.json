@@ -1,0 +1,184 @@
+{
+  "id": "nisrine-bnouhanna-20a69174",
+  "name": "Nisrine Bnouhanna",
+  "headline": "Head of product at Wemolo",
+  "avatar": {
+    "sm": "/avatars/nisrine-bnouhanna-20a69174-sm.webp",
+    "lg": "/avatars/nisrine-bnouhanna-20a69174.webp",
+    "blur": "data:image/webp;base64,UklGRnwBAABXRUJQVlA4IHABAACQBwCdASogACAAPtFepk6oJSMiKAqpABoJagCdMoMsqdAlgMEFayggN7C1OlEgHKCvOAA2XoCdYWvLAO60pmraal8cUAAA/ltaFIEC2FInSJ4XdNYknhnxQQTAYhk4ov3718dTQD4hrpMHW7GZOmjMr86SwE1pKY7y8X8UYiiTwNRC7po+6x4bzuHuci5VyMQbMhpaA5FzQ3k3Opd+vA267B3WoVFCvGZQzCeR/THuutoreym1gS1dXQ+oMDXFBMMVfRUyJThuJBHAyIjz3AG+bwlgKLeyNrQdIBjiTGRG1yho7KW1bH8w829ofTuleAqUwwUyCU1SUW9SeBDYcaJKhoC0nT1x8o+wNGt0MU/K0BxhieDWqmZv0sJzZSkuyVIbFi9v7PEji4EHY0XlzZS3XLV29CVAndj+CNEq2Qp1x2Qa53RFN9FqTjp0JhNxcZLb7W5A5F070eYUVR9DBCKw4PjdtbHf/LLw/qDfGTAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/nisrine-bnouhanna-20a69174",
+  "personId": 947,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Power Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Nisrine Bnouhanna",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Product Manager",
+      "company": "Wemolo",
+      "companyUrl": "https://www.linkedin.com/company/wemolo",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-04",
+      "end": null,
+      "dateRange": "Apr 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Researcher and project manager",
+      "company": "Fortiss",
+      "companyUrl": "https://www.linkedin.com/company/fortiss",
+      "description": "Project manager of H2020 EFPF project: \n* Focus on Industrial IoT \n* Development of smart IoT gateway for decentralized information exchange\nInvolved as researcher and developer in H2020 DIGICOR project: \n* Focus on collaborative networks in Industry 4.0\n* Development of  factory connector for shop floor to cloud integration",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-09",
+      "end": "2022-03",
+      "dateRange": "Sep 2016 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Master Thesis",
+      "company": "Technical University Munich - Institute for Renewable and Sustainable Energy Systems",
+      "companyUrl": null,
+      "description": "The master thesis tackles the optimization of the power plant dispatch in an electricity system in Germany. The goal is a more efficient resource management and an informed decision making about which model inputs are object to more investigation in the estimation of their future values.",
+      "location": null,
+      "start": "2015-12",
+      "end": "2016-05",
+      "dateRange": "Dec 2015 – May 2016",
+      "current": false
+    },
+    {
+      "title": "Student Job",
+      "company": "Fortiss",
+      "companyUrl": "https://www.linkedin.com/company/fortiss",
+      "description": "Worked on research topics related to OPC UA, Pub-Sub communication, 3D printing, prototyping of demo solutions",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2014-10",
+      "end": "2016-07",
+      "dateRange": "Oct 2014 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Student Job",
+      "company": "Solar Tower Systems",
+      "companyUrl": "https://www.linkedin.com/company/solar-tower-systems",
+      "description": null,
+      "location": null,
+      "start": "2014-03",
+      "end": "2014-08",
+      "dateRange": "Mar 2014 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Student job",
+      "company": "Fraunhofer FKIE",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-fkie",
+      "description": null,
+      "location": null,
+      "start": "2013-01",
+      "end": "2013-09",
+      "dateRange": "Jan 2013 – Sep 2013",
+      "current": false
+    },
+    {
+      "title": "Internsip",
+      "company": "Daimler AG",
+      "companyUrl": "https://www.linkedin.com/company/mercedes-benz_ag",
+      "description": null,
+      "location": null,
+      "start": "2010-06",
+      "end": "2010-09",
+      "dateRange": "Jun 2010 – Sep 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Power Engineering",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "PhD candidate at Technical University Munich",
+      "degree": "PhD , TUM Department of Informatics Informatics 17 - Chair for Information Systems",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor degree in technology management , Technology management",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "al akhawayn university in Ifrane",
+      "degree": "Bachelor of Applied Science (BASc), Engineering and Management Science",
+      "dateRange": "2008 – 2013"
+    }
+  ],
+  "skills": [
+    "Software Development",
+    "Automation",
+    "Teamwork",
+    "Agile Methodologies",
+    "Industrie 4.0",
+    "Manufacturing Automation",
+    "Project Management",
+    "Leadership",
+    "Agile Project Management",
+    "Strategic Planning",
+    "Product Management",
+    "Internet of Things",
+    "Energy Markets",
+    "Renewable Energy",
+    "English",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "PowerPoint",
+    "Public Speaking",
+    "Rapid Prototyping",
+    "Design Thinking",
+    "Research",
+    "ISA 95",
+    "OPC UA",
+    "JavaScript",
+    "MySQL",
+    "Node.js",
+    "Microsoft Visual Studio C++"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French",
+    "German"
+  ],
+  "company": {
+    "name": "Wemolo",
+    "tagline": "Enabling seamless parking - We are hiring!",
+    "description": "Since 2019, Wemolo has been shaping the future of digital parking with AI-based license plate recognition and a modular full-service offering that ensures the efficient use of parking spaces. By optimizing utilization and significantly reducing administrative complexity for property owners, Wemolo has grown to a team of over 250 employees across the DACH region, Poland, and Italy.\nToday, more than 3,500 parking facilities rely on Wemolo’s solution to record over 2.5 million transactions daily, establishing seamless processes for both operators and drivers. This has earned Wemolo recognition as the fastest-growing startup in Germany in the Deloitte Fast 50 ranking.\nOur diverse customer base includes leading retailers, major real estate companies, restaurant groups, hotel chains, renowned healthcare institutions, as well as numerous financial service providers and municipalities across Europe.",
+    "industry": "Information Technology & Services",
+    "website": "http://www.wemolo.com",
+    "linkedInUrl": "https://www.linkedin.com/company/wemolo",
+    "employeeCount": 250,
+    "foundedYear": 2019,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

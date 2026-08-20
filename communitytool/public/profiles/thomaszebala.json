@@ -1,0 +1,167 @@
+{
+  "id": "thomaszebala",
+  "name": "Thomas Z.",
+  "headline": "research",
+  "avatar": {
+    "sm": "/avatars/thomaszebala-sm.webp",
+    "lg": "/avatars/thomaszebala.webp",
+    "blur": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAACQBQCdASogACAAPs1WpUunpKOhsBgMAPAZiWMAA+T/fwy1DmHGc7ZqnmJ+sy+4Ohj/6/D0EAD+/DEVH1Ewj31jlgsgV34Osdif3sl936d3CI3rcUA0ohV7OrdvksIlGT2wPbhfkCa0Gj/QA8897Nx7s6vDDnNJIgWbZ1xd8LD2BZvH+HjKRbyoZ/A4Uf4nLOogeYY/wO5cUywAHf4cPYB0dFYnH30z+8KVj1b8V91qeIh8k4dzNr5gGrtaOo+ZWNfq4DOzHfhOkCAAAAA="
+  },
+  "location": "United States, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/thomaszebala",
+  "personId": 1123,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Mathematics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Thomas Zebala",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Visiting Student Researcher",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": "Data Science in Economic Policy Research",
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Associate Consultant",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Investment Analyst",
+      "company": "468 Capital",
+      "companyUrl": "https://www.linkedin.com/company/468-capital",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Investment Analyst",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Trading Summer Analyst",
+      "company": "Bank of America Merrill Lynch",
+      "companyUrl": "https://www.linkedin.com/company/bank-of-america-merrill-lynch",
+      "description": null,
+      "location": "London",
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Investment and M&A Analyst",
+      "company": "TCG Equity Partners",
+      "companyUrl": "https://www.linkedin.com/company/tcg-equity-partners",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Financial Auditor",
+      "company": "EY",
+      "companyUrl": "https://www.linkedin.com/company/ernstandyoung",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "MSc, Mathematics & Finance (ETH UZH QF)",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management (Class of Fall 2023)",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "BSc, Mathematics",
+      "dateRange": null
+    },
+    {
+      "school": "Karls-Gymnasium Stuttgart",
+      "degree": "Abitur, High School",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Stanford University",
+    "tagline": "One of the world's leading research and teaching institutions.",
+    "description": "Stanford is a place of discovery, creativity and innovation located in the San Francisco Bay Area on the ancestral land of the Muwekma Ohlone Tribe. Dedicated to our founding mission—benefitting society through research and education—we are working toward a sustainable future, accelerating the impact of research with external partners, catalyzing discoveries about ourselves and our world, and educating students as global citizens. Our main campus, which welcomed its first class in 1891, is now home to 650+ student organizations, 36 varsity athletic teams, 20 libraries, 21 living Nobel laureates, 18 interdisciplinary research institutes, seven schools, and a vibrant arts scene. More than 9,000 graduate students and 7,000 undergraduates pursue studies at Stanford each year. Our financial aid program, one of the most generous in the nation, makes it possible for any admitted undergraduate to attend without taking on student debt.",
+    "industry": "Higher Education",
+    "website": "http://stanford.edu",
+    "linkedInUrl": "https://www.linkedin.com/company/stanford-university",
+    "employeeCount": 28403,
+    "foundedYear": null,
+    "location": "Stanford, United States",
+    "specialities": [
+      "higher education",
+      "research",
+      "teaching",
+      "natural sciences",
+      "social sciences",
+      "humanities",
+      "interdisciplinary research",
+      "engineering",
+      "business",
+      "medicine",
+      "law",
+      "k-12 education",
+      "earth science"
+    ]
+  }
+}

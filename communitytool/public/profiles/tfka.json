@@ -1,0 +1,190 @@
+{
+  "id": "tfka",
+  "name": "Thomas Knauer-Arnold",
+  "headline": "Vice President, Software Development at TeamViewer",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/tfka",
+  "personId": 1448,
+  "classes": [
+    {
+      "id": 71,
+      "label": "Spring 2012",
+      "season": "Spring",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2012",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Thomas Knauer-Arnold",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Full-time",
+      "company": "TeamViewer",
+      "companyUrl": "https://www.linkedin.com/company/teamviewer",
+      "description": null,
+      "location": "Director, R&D Mixed Reality",
+      "start": "2023-12",
+      "end": null,
+      "dateRange": "Dec 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Jan 2022 - Dec 2023 · 2 yrs",
+      "company": "TeamViewer",
+      "companyUrl": "https://www.linkedin.com/company/teamviewer",
+      "description": null,
+      "location": "Vice President, Software Development",
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Team Lead, R&D 3D Mixed Reality",
+      "company": "TeamViewer",
+      "companyUrl": "https://www.linkedin.com/company/teamviewer",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-05",
+      "end": "2022-01",
+      "dateRange": "May 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & Managing Director",
+      "company": "Viscopic",
+      "companyUrl": "https://www.linkedin.com/company/viscopic",
+      "description": "Viscopic develops immersive mixed reality training applications, where candidates can conduct industrial training exercises in an efficient, flexible and inexpensive virtual environment. Through the use of mixed reality glasses like the Microsoft HoloLens machinery can be virtually projected in any classroom. Furthermore, trainees can manipulate and control the digital twins in order to learn how to maintain and repair them.\n\nViscopic was acquired by TeamViewer in 05/2021.",
+      "location": "Munich",
+      "start": "2015-06",
+      "end": "2021-05",
+      "dateRange": "Jun 2015 – May 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineer, Freelancer",
+      "company": "Massachusetts Institute of Technology (MIT)",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "The Climate CoLab harnesses the collective intelligence of thousands of people from all around the world to address global climate change.\n\nFull Stack Web development for the Climate CoLab Platform using Java - Spring (MVC Framework) and JavaScript.",
+      "location": "Greater Boston",
+      "start": "2014-11",
+      "end": "2015-12",
+      "dateRange": "Nov 2014 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Master's Thesis, Freelancer",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Frontend Single Page Web-App development for mobile devices using JavaScript - KnockoutJS (MVVM Framework).",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-03",
+      "end": "2014-11",
+      "dateRange": "Mar 2014 – Nov 2014",
+      "current": false
+    },
+    {
+      "title": "Co-Founder Tech",
+      "company": "Real Liker",
+      "companyUrl": null,
+      "description": "The Real Liker is the tool that connects the virtual and physical world in an intuitive, touch-free and joyful way. We transferred the social concept of „liking” from the digital into the physical world with simple vision based “thumbs up“ recognition. This enables any person to approve, vote or rate with a simple “thumbs up or down” gesture\n\nResearch in the area of object detection and machine learning for computer vision purposes.\nDevelopment of a vision based “Real Like” detector using Kinect SDK and C++ - OpenCV.\nConduction of Lead-User tests. Customer acquisition. Public relations.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-07",
+      "end": "2014-11",
+      "dateRange": "Jul 2013 – Nov 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Research Student",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Electrical Engineering and Information Technology",
+      "dateRange": "2011 – 2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Exchange Semester",
+      "dateRange": "2013"
+    },
+    {
+      "school": "The Faculty of Engineering at Lund University",
+      "degree": "ERASMUS, Exchange semester",
+      "dateRange": "2011"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Electrical Engineering and Information Technology",
+      "dateRange": "2008 – 2011"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Python",
+    "LaTeX",
+    "Matlab",
+    "JavaScript",
+    "Mensch-Computer-Interaktion",
+    "Workshops",
+    "Produktentwicklung",
+    "Softwareentwicklung",
+    "Web-Entwicklung",
+    "C++",
+    "Computer-Vision",
+    "Mobilanwendungen",
+    "Adobe Illustrator",
+    "MySQL",
+    "Knockout",
+    "Spring Framework",
+    "OpenCV",
+    "Systematic Inventive Thinking",
+    "CCNA",
+    "Kinect",
+    "Assemblersprache",
+    "Signalverarbeitung",
+    "PhoneGap",
+    "Unity Technologies"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Schwedisch"
+  ],
+  "company": {
+    "name": "TeamViewer",
+    "tagline": "Creating a world that works better",
+    "description": "TeamViewer provides a Digital Workplace platform that connects people with technology – enabling, improving and automating digital processes to make work work better.\n\nIn 2005, TeamViewer started with software to connect to computers from anywhere to eliminate travel and enhance productivity. It rapidly became the de facto standard for remote access and support and the preferred solution for hundreds of millions of users across the world to help others with IT issues. Today, more than 635,000 customers across industries rely on TeamViewer to optimize their digital workplaces - from small to medium sized businesses to the world’s largest enterprises - empowering both desk-based employees and frontline workers. Organizations use TeamViewer’s solutions to prevent and resolve disruptions with digital endpoints of any kind, securely manage complex IT and industrial device landscapes, and enhance processes with augmented reality powered workflows and assistance - leveraging AI and integrating seamlessly with leading tech partners. Against the backdrop of global digital transformation and challenges like shortage of skilled labor, hybrid working, accelerated data analysis and the rise of new technologies, TeamViewer’s solutions offer a clear value add by increasing productivity, reducing machine downtime, speeding up talent onboarding, and improving customer and employee satisfaction.\nThe company is headquartered in Göppingen, Germany, and employs around 1,900 people globally. In 2025, TeamViewer achieved a revenue of around EUR 768 million. TeamViewer SE (TMV) is listed at Frankfurt Stock Exchange and belongs to the MDAX. Further information can be found at www.teamviewer.com.\n\nImprint:\n\nTeamViewer Germany GmbH \nBahnhofsplatz 2 \n73033 Göppingen\nGermany \n\nCEO: Oliver Steil\nCFO: Michael Wilkens\nCRO: Mark Banfield\nCPTO: Mei Dent\nRegistration: Ulm HRB 534075\nVAT: DE245838579",
+    "industry": "Software Development",
+    "website": "http://www.teamviewer.com",
+    "linkedInUrl": "https://www.linkedin.com/company/teamviewer",
+    "employeeCount": 2745,
+    "foundedYear": null,
+    "location": "Göppingen, Germany",
+    "specialities": [
+      "Remote Control Software",
+      "Remote Monitoring Solutions",
+      "Augmented Reality"
+    ]
+  }
+}

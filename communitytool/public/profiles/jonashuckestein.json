@@ -1,0 +1,157 @@
+{
+  "id": "jonashuckestein",
+  "name": "Jonas Templestein",
+  "headline": "Founder/CEO iterate.com",
+  "avatar": null,
+  "location": "London, United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/jonashuckestein",
+  "personId": 1833,
+  "classes": [
+    {
+      "id": 64,
+      "label": "Fall 2008",
+      "season": "Fall",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2008",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jonas Templestein",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder / CEO",
+      "company": "Iterate.com",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2024-02",
+      "end": null,
+      "dateRange": "Feb 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Monzo Bank",
+      "companyUrl": "https://www.linkedin.com/company/monzo-bank",
+      "description": "CTO from 02/2015 - 08/2018 and 01/2020 - 02/2023",
+      "location": null,
+      "start": "2015-02",
+      "end": "2023-12",
+      "dateRange": "Feb 2015 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Starling",
+      "companyUrl": "https://www.linkedin.com/company/starlingbank",
+      "description": null,
+      "location": null,
+      "start": "2014-10",
+      "end": "2015-02",
+      "dateRange": "Oct 2014 – Feb 2015",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "HipDial",
+      "companyUrl": "https://www.linkedin.com/company/hipdial",
+      "description": null,
+      "location": null,
+      "start": "2012-05",
+      "end": "2018-11",
+      "dateRange": "May 2012 – Nov 2018",
+      "current": false
+    },
+    {
+      "title": "Lead Engineer",
+      "company": "Campfire Labs (acquired by Groupon)",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2010-05",
+      "end": "2012-01",
+      "dateRange": "May 2010 – Jan 2012",
+      "current": false
+    },
+    {
+      "title": "Director of Experience",
+      "company": "StartupBus",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2010-03",
+      "end": "2012-04",
+      "dateRange": "Mar 2010 – Apr 2012",
+      "current": false
+    },
+    {
+      "title": "NLP Researcher",
+      "company": "ExB Communication Systems GmbH",
+      "companyUrl": null,
+      "description": "- tools for collaborative distributed translation\n - Bachelor's Thesis on Latent Semantic Analysis",
+      "location": null,
+      "start": "2008-05",
+      "end": "2009-05",
+      "dateRange": "May 2008 – May 2009",
+      "current": false
+    },
+    {
+      "title": "Management Consultant",
+      "company": "Academy Consult",
+      "companyUrl": null,
+      "description": "Various projects. ITSM (ITIL), Process Optimization, Software Development",
+      "location": null,
+      "start": "2007-11",
+      "end": "2010-01",
+      "dateRange": "Nov 2007 – Jan 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Sustainable Urban Mobility at School of Information",
+      "dateRange": "2009"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc., Computer Science, Mathematics, Software Engineering",
+      "dateRange": "2007 – 2009"
+    },
+    {
+      "school": "University of Cologne",
+      "degree": "Vordiplom, Mathematics",
+      "dateRange": "2003 – 2007"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Graduate Degree in Technology Management (incomplete), Technology Management",
+      "dateRange": "2008"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Start-ups",
+    "Entrepreneurship",
+    "Product Management",
+    "Venture Capital",
+    "Ruby on Rails",
+    "Ruby"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": null
+}

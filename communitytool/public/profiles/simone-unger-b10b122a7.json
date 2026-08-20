@@ -1,0 +1,105 @@
+{
+  "id": "simone-unger-b10b122a7",
+  "name": "Simone Unger",
+  "headline": "Manager Strategic Business Development & Business Partnerships",
+  "avatar": null,
+  "location": "Regensburg, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/simone-unger-b10b122a7",
+  "personId": 1504,
+  "classes": [
+    {
+      "id": 58,
+      "label": "Fall 2005",
+      "season": "Fall",
+      "year": 2005,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2005",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Simone Unger",
+  "ca": null,
+  "summary": "Open-minded, solution-oriented and energetic professional with academic background in business administration and technology management. Experienced in strategy development, communication and implementation; portfolio management; business development (partnerships and new business models). Track record of successful M&A projects including post-merger integration management. Demonstrated skillset in leading cross-discipline and multicultural project teams. Broad functional understanding through background in business consulting (e.g. R&D, operations, quality). International work experience in several countries.",
+  "positions": [
+    {
+      "title": "Manager Strategic Business Development & Business Partnerships",
+      "company": "AUMOVIO",
+      "companyUrl": "https://www.linkedin.com/company/aumovio",
+      "description": null,
+      "location": null,
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Manager Strategy & Transactions",
+      "company": "Continental",
+      "companyUrl": "https://www.linkedin.com/company/continental",
+      "description": null,
+      "location": "Regensburg, Bayern, Deutschland",
+      "start": "2016-01",
+      "end": "2025-09",
+      "dateRange": "Jan 2016 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Continental",
+      "companyUrl": "https://www.linkedin.com/company/continental",
+      "description": null,
+      "location": "Regensburg, Bayern, Deutschland",
+      "start": "2011-11",
+      "end": "2016-01",
+      "dateRange": "Nov 2011 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Business Development Manager",
+      "company": "Dallmeier electronic",
+      "companyUrl": "https://www.linkedin.com/company/dallmeier-electronic",
+      "description": null,
+      "location": "Regensburg, Bayern, Deutschland",
+      "start": "2009-09",
+      "end": "2011-09",
+      "dateRange": "Sep 2009 – Sep 2011",
+      "current": false
+    }
+  ],
+  "schools": [],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "AUMOVIO",
+    "tagline": null,
+    "description": "AUMOVIO – ready for the automotive transition \n\nWe are the Adaptive Powerhouse for Future Mobility, making it safe, exciting, connected, and autonomous. \n\nTo achieve this goal, we offer innovative hardware and software, modern mobility solutions, and a wide range of mobility services. \n\nWe act in the here and now while thinking far ahead. We are reliable, no matter what, utterly focused, and passionate team players.  \n\nWith nearly 93,000 employees (as of December 31, 2024), we generated revenue of almost EUR 20 billion in the business year 2024.  \n\nWe have more than 100 locations globally, with headquarters in Frankfurt, Germany.  \n \nInspired by Future. Driven by Technology.",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://www.aumovio.com/en.html",
+    "linkedInUrl": "https://www.linkedin.com/company/aumovio",
+    "employeeCount": 19334,
+    "foundedYear": null,
+    "location": "Frankfurt, Germany",
+    "specialities": [
+      "Global Automotive Supplier",
+      "Software Development",
+      "Automated Driving",
+      "Driver Assistance Systems",
+      "Global Industrial Supplier",
+      "Internet of Things",
+      "Connectivity",
+      "Architecture and Network Solutions",
+      "Autonomous Mobility and Safety",
+      "User Experience",
+      "Engineering Solutions",
+      "Safety Engineering Services"
+    ]
+  }
+}

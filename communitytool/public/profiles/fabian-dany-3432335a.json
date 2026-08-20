@@ -1,0 +1,223 @@
+{
+  "id": "fabian-dany-3432335a",
+  "name": "Fabian Dany",
+  "headline": "GF@Finanztip Stiftung | alumnus: CDTM, S&",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/fabian-dany-3432335a",
+  "personId": 1951,
+  "classes": [
+    {
+      "id": 53,
+      "label": "Spring 2003",
+      "season": "Spring",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2003",
+  "major": null,
+  "roles": [
+    "student",
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Fabian Dany",
+  "ca": {
+    "alumni": true,
+    "about": null,
+    "responsibilities": [],
+    "researchFields": [],
+    "email": null
+  },
+  "summary": null,
+  "positions": [
+    {
+      "title": "Geschäftsführer",
+      "company": "Finanztip Stiftung",
+      "companyUrl": "https://www.linkedin.com/company/finanztip-stiftung",
+      "description": null,
+      "location": null,
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Geschäftsführer",
+      "company": "Finanztip",
+      "companyUrl": "https://www.linkedin.com/company/finanztip",
+      "description": null,
+      "location": null,
+      "start": "2017-10",
+      "end": "2025-04",
+      "dateRange": "Oct 2017 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "Senior Manager Business Development",
+      "company": "Finanztip",
+      "companyUrl": "https://www.linkedin.com/company/finanztip",
+      "description": null,
+      "location": null,
+      "start": "2017-02",
+      "end": "2017-10",
+      "dateRange": "Feb 2017 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Senior Associate",
+      "company": "Strategy&",
+      "companyUrl": "https://www.linkedin.com/company/strategyand",
+      "description": null,
+      "location": null,
+      "start": "2015-07",
+      "end": "2017-02",
+      "dateRange": "Jul 2015 – Feb 2017",
+      "current": false
+    },
+    {
+      "title": "Associate",
+      "company": "Strategy&",
+      "companyUrl": "https://www.linkedin.com/company/strategyand",
+      "description": null,
+      "location": null,
+      "start": "2015-03",
+      "end": "2015-06",
+      "dateRange": "Mar 2015 – Jun 2015",
+      "current": false
+    },
+    {
+      "title": "Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": null,
+      "start": "2009-07",
+      "end": "2014-11",
+      "dateRange": "Jul 2009 – Nov 2014",
+      "current": false
+    },
+    {
+      "title": "working student",
+      "company": "Campana & Schott",
+      "companyUrl": "https://www.linkedin.com/company/campana-&-schott",
+      "description": null,
+      "location": null,
+      "start": "2008-11",
+      "end": "2009-04",
+      "dateRange": "Nov 2008 – Apr 2009",
+      "current": false
+    },
+    {
+      "title": "Co-Founder, Sales and Business Development",
+      "company": "MEMICS AG",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2005-07",
+      "end": "2009-07",
+      "dateRange": "Jul 2005 – Jul 2009",
+      "current": false
+    },
+    {
+      "title": "working student",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": null,
+      "start": "2004-06",
+      "end": "2004-10",
+      "dateRange": "Jun 2004 – Oct 2004",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Axel Springer",
+      "companyUrl": "https://www.linkedin.com/company/axelspringer",
+      "description": null,
+      "location": null,
+      "start": "2002-02",
+      "end": "2002-04",
+      "dateRange": "Feb 2002 – Apr 2002",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doktor (Ph.D.), Computer Science",
+      "dateRange": "2009 – 2014"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting researcher",
+      "dateRange": "2012"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Applied Informatics, Applied Informatics",
+      "dateRange": "2007 – 2009"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Certificate in Technology Management, Technology Management",
+      "dateRange": "2003 – 2005"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom-Kaufmann, Betriebswirtschaftslehre",
+      "dateRange": "2000 – 2005"
+    },
+    {
+      "school": "Prague University of Economics and Business",
+      "degree": "Visiting student",
+      "dateRange": "2002"
+    },
+    {
+      "school": "Karlsgymnasium Pasing",
+      "degree": "Abitur",
+      "dateRange": "1994 – 1999"
+    },
+    {
+      "school": "Christianeum",
+      "degree": null,
+      "dateRange": "1990 – 1999"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Strategy",
+    "Business Development",
+    "Start-ups",
+    "Project Management",
+    "Consulting",
+    "Geschäftsentwicklung",
+    "Projektmanagement",
+    "Strategie",
+    "Unternehmensstrategie",
+    "Strategisches Management",
+    "Marktforschung",
+    "Produktmanagement",
+    "Unternehmensplanung",
+    "Unternehmensberatung",
+    "Unternehmertum"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Finanztip Stiftung",
+    "tagline": "Mehr Finanzbildung für Deutschland",
+    "description": "Wir bieten die Chance, in einer jungen dynamischen Organisation mitzuwachsen und gemeinsam eine unabhängige Finanz- und Verbraucherbildung in Deutschland voranzutreiben - mit klarer Vision und Tätigkeiten mit Impact.​",
+    "industry": "Information Services",
+    "website": "https://www.finanztip-stiftung.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/finanztip-stiftung",
+    "employeeCount": 3,
+    "foundedYear": 2020,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

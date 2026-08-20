@@ -1,0 +1,235 @@
+{
+  "id": "bernd-waschneck",
+  "name": "Dr. Bernd Waschneck",
+  "headline": "Vice President R&D at Infineon | Chip Design | Semiconductor Manufacturing | Organizational Leadership",
+  "avatar": {
+    "sm": "/avatars/bernd-waschneck-sm.webp",
+    "lg": "/avatars/bernd-waschneck.webp",
+    "blur": "data:image/webp;base64,UklGRgwBAABXRUJQVlA4IAABAABQBgCdASogACAAPtFYokuoJSMhsBgMAQAaCWwAnTMYL0ANY36Us4Ok03Qk7FKvye9vEjcGZXydj/EaoAD+liSA6iq/GNLxfMfdN+VYshplcagYXc/7HsdmPfrfH4M8qcEku8IAcN/o6whbfowRc561VxRnIRRnUJszOcUJKJsi4dluPQowSqGXG12PMXpTv4xehJnUudk3n3ash3uIDT0VAprpYZH89HLezLi14KiZ/PT168Byd5DGvBKvGynquI7WHg4jTPQvII0h+zkQNeiMMZXWrzwjAN6/cN3IGpm4PWOrHxM4fXLOqRTqE2dc3rLrJS7V31WfVYFuDbVOAAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/bernd-waschneck",
+  "personId": 742,
+  "classes": [
+    {
+      "id": 72,
+      "label": "Fall 2012",
+      "season": "Fall",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2012",
+  "major": "Physics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Bernd Waschneck",
+  "ca": null,
+  "summary": "Global semiconductor R&D leader with strong end-to-end perspective from manufacturing/operations to advanced chip development. I scale innovation to commercial success. As Vice President R&D, I lead 330+ engineers across 6 sites in Asia and Europe, driving results in System-on-Chip design, physical implementation, chip‑package‑board co-design (incl. PCB), Design-for-Test, and RTL2GDS methodology. \n    \nI build resilient, high-performing organizations, develop leaders, and deliver measurable improvements in execution, productivity, and time-to-market through AI, platform reuse and automation. \n  \nI complement deep R&D leadership with hands-on experience in semiconductor operations and manufacturing excellence, including time in the Operations Office supporting the COO - strengthening my ability to align technology roadmaps with business strategy, translate priorities into execution, and drive cross-functional change at scale.\n  \nAcademic background: PhD (AI/ML in Manufacturing Engineering, University of Stuttgart); studies in semiconductor physics and technology management (LMU/CDTM, Munich; NUS, Singapore).\n  \n\n Academic profile: https://scholar.google.de/citations?user=G4oK_VQAAAAJ",
+  "positions": [
+    {
+      "title": "Vice President Research and Development",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": "I lead 330+ engineers across 6 sites in Asia & Europe, driving innovation in System-on-Chip Design, Physical Implementation, Chip-Package-Board Co-Design (incl. PCB), Design-for-Test, and RTL2GDS methodology for Infineon in the central R&D department. Delivered high-impact results, driving business growth and competitiveness through global collaboration and innovation.",
+      "location": "München",
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Interim Head of System Innovation & Software",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": "Leading the global \"System Innovation & Software\" team within the Power & Sensor Systems division, which comprises of ~110 people at locations in Munich, Dresden, Villach, and Singapore. \n\nSuccessfully navigated the team through a period of transformation, driving strategic realignment, restructuring, and site consolidation (including the closure of the Singapore location), with direct accountability to the Division CTO.",
+      "location": "München",
+      "start": "2025-11",
+      "end": "2026-01",
+      "dateRange": "Nov 2025 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Senior Director Chip Design",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": "Senior Director, Chip Development within System Innovation for power & sensor systems. Led a ~60 FTE, multi-site organization across Munich, Dresden and Singapore (digital design, analog/layout, application firmware, innovation & demonstrators) with an ~€9M annual budget.\n\nDrove platform-based SoC development, design methodology and agile application firmware development to reduce design cost and accelerate innovation-to-customer—delivering key programs ahead of schedule. Shaped division strategy toward platform-based design and built cross-divisional partnerships to scale platform initiatives.  Delivered critical IP on time, owned end-to-end R&D for an innovation accelerator in wireless power, drove commercialization of AI-enabled edge/control solutions, as well as next-generation sensor ICs. Transformed multiple teams into a unified, skill-based platform organization.",
+      "location": "München",
+      "start": "2022-10",
+      "end": "2025-10",
+      "dateRange": "Oct 2022 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Director System Innovation & Software Dresden",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": "- Head of the System Innovation & Software group (10+ FTEs) in the Development Center Dresden\n- Embedded AI & AI hardware; development of AI acceleration IP for SoCs\n- Hired 10+ FTEs for Infineon\n- Presentations in front of 600 people including IFX board members; representation of Infineon Dresden in front of high-ranking politicians",
+      "location": "Dresden, Sachsen, Deutschland",
+      "start": "2019-07",
+      "end": "2022-09",
+      "dateRange": "Jul 2019 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Senior Specialist AI Algorithms",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": "(Hardware) AI acceleration; Machine Learning for sensors (radar, pressure, audio); sensor fusion",
+      "location": "Metropolregion München",
+      "start": "2018-10",
+      "end": "2019-06",
+      "dateRange": "Oct 2018 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Manufacturing Analytics",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": "Data Science & Machine Learning in manufacturing",
+      "location": "München, Bayern, Deutschland",
+      "start": "2018-04",
+      "end": "2018-09",
+      "dateRange": "Apr 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Operations Office (COO Office)",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": "Digitalization strategy for Infineon Operations: Industrie 4.0; preparation of board level and supervisory board presentations for the Infineon COO (Jochen Hanebeck)",
+      "location": "München",
+      "start": "2016-10",
+      "end": "2018-03",
+      "dateRange": "Oct 2016 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Manufacturing Excellence",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": "Inhouse consulting for semiconductor manufacturing; digitalization strategy in manufacturing; Industrie 4.0; knowledge transfer between industry and academia",
+      "location": "München",
+      "start": "2014-12",
+      "end": "2016-09",
+      "dateRange": "Dec 2014 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "Infosys Instep Intern (Bangalore)",
+      "company": "Infosys",
+      "companyUrl": "https://www.linkedin.com/company/infosys",
+      "description": null,
+      "location": "Bangalore, India",
+      "start": "2013-02",
+      "end": "2013-04",
+      "dateRange": "Feb 2013 – Apr 2013",
+      "current": false
+    },
+    {
+      "title": "Tutor (Mathematics, Physics)",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Leading tutorials with ~20 students for lectures \"Rechenmethoden\" and \"Theoretische Mechanik\".",
+      "location": "München",
+      "start": "2010-10",
+      "end": "2012-08",
+      "dateRange": "Oct 2010 – Aug 2012",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Max Planck Institute for Plasma Physics",
+      "companyUrl": "https://www.linkedin.com/company/max-planck-institute-for-plasma-physics",
+      "description": null,
+      "location": null,
+      "start": "2010-03",
+      "end": "2010-04",
+      "dateRange": "Mar 2010 – Apr 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "INSEAD",
+      "degree": "Infineon ILEAD, Leadership Development",
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "University of Stuttgart",
+      "degree": "Dr. (PhD), Advanced Manufacturing Engineering",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Technology Management",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Semiconductor Physics",
+      "dateRange": "2008 – 2014"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Semester abroad, Physics",
+      "dateRange": "2011"
+    },
+    {
+      "school": "Maria von Linden - Gymnasium",
+      "degree": "Abitur",
+      "dateRange": "2007"
+    }
+  ],
+  "skills": [
+    "Organizational Leadership",
+    "Technology Management",
+    "Semiconductor Engineering",
+    "Artificial Intelligence (AI)",
+    "R&D Operations",
+    "Semiconductor Industry",
+    "Manufacturing Engineering",
+    "Technology Roadmapping",
+    "Integrated Circuits (IC)",
+    "Research and Development (R&D)",
+    "Organizational Development",
+    "System on a Chip (SoC)",
+    "Chip Architecture",
+    "Restructuring",
+    "Strategy",
+    "Python (Programmiersprache)",
+    "Maschinelles Lernen",
+    "Strategie",
+    "Embedded Systems",
+    "Projektmanagement"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Infineon Technologies",
+    "tagline": null,
+    "description": "Semiconductors are crucial to solve the energy challenges of our time and shape the digital transformation. This is why Infineon is committed to actively driving decarbonization and digitalization. As a global semiconductor leader in power systems and IoT, we enable game-changing solutions for green and efficient energy, clean and safe mobility, as well as smart and secure IoT. We make life easier, safer, and greener. Together with our customers and partners. For a better tomorrow.\n\nTogether, with more than 58,000 people from over 100 countries, we are not just shaping the future. We are redefining it. We engineer innovative products, while caring for our people and empowering them to reach ambitious goals. We offer work-life balance, long term growth and a supportive environment where individuality is celebrated. \n\n#WeAreIn for driving decarbonization and digitalization. Are you in?",
+    "industry": "Semiconductor Manufacturing",
+    "website": "https://www.infineon.com",
+    "linkedInUrl": "https://www.linkedin.com/company/infineon-technologies",
+    "employeeCount": 43749,
+    "foundedYear": null,
+    "location": "Neubiberg, München, Germany",
+    "specialities": [
+      "Energy Efficiency",
+      "Mobility",
+      "Security",
+      "decarbonization",
+      "digitalization",
+      "Internet of Things"
+    ]
+  }
+}

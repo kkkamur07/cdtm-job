@@ -1,0 +1,113 @@
+{
+  "id": "hagen-schmidtchen",
+  "name": "Hagen Schmidtchen",
+  "headline": "Co-Founder & Chief Architect @ remberg | CDTM",
+  "avatar": {
+    "sm": "/avatars/hagen-schmidtchen-sm.webp",
+    "lg": "/avatars/hagen-schmidtchen.webp",
+    "blur": "data:image/webp;base64,UklGRgoBAABXRUJQVlA4IP4AAACQBgCdASogACAAPsFKoEunpCMht/qoAPAYCWoAxxRBalY269+/rilyWXTilIJyh1bF+uxbZrF3r4opexoAAP7+wp70QF91/jqdBS31D2ND1qog/glGoEC3tvAIh9Tu99PgUZacEgbQkFYFRH/N8PnT867Rf1vOg5eoc/K/YHPyOJu8urLiKz2vDYDTKTLAF3S1ZhA4QuWajgJxkWMTFfRAx8E2vapk7eBNILJZMYnF/aoV4+6WW/RCB7BvSgXtl/w+5AGQs2Km1ES68FRUYAEvWn6I7JUNQpDJZZSAd5sQgItd7xpr/HYhgXszbVmDAjLGihTmnqJYDZd1Zt4AAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/hagen-schmidtchen",
+  "personId": 927,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Hagen Schmidtchen",
+  "ca": null,
+  "summary": "The Intelligent Maintenance Platform for Industrial Companies\n\nwww.remberg.com",
+  "positions": [
+    {
+      "title": "Co-Founder & Chief Architect",
+      "company": "remberg",
+      "companyUrl": "https://www.linkedin.com/company/remberg",
+      "description": "remberg offers an AI-powered solution for industrial companies who service, operate or maintain assets & equipment such as machines, energy utilities, facilities, vehicles & many more. Today, our customers manage over 1 million different kinds of assets in the remberg software to maximize uptime and tackle the shortage of technical talent.\n\nSee our remberg AI copilot for industrial companies in action at www.remberg.com\n\nWe are hiring in product & engineering, sales, customer success and talent acquisition!\n\nwww.remberg.de/en/careers/",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-08",
+      "end": null,
+      "dateRange": "Aug 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Deep Learning Engineer (Thesis)",
+      "company": "eGym",
+      "companyUrl": "https://www.linkedin.com/company/egym-gmbh",
+      "description": "\"Application of Deep Learning and Recurrent Neural Networks to Classify Sports Exercises Based on Motion Capture Data\"",
+      "location": null,
+      "start": "2017-02",
+      "end": "2017-10",
+      "dateRange": "Feb 2017 – Oct 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Robotics, Cognition, Intelligence",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "École de technologie supérieure",
+      "degree": "Exchange Session (Montréal, Canada) via TUMexchange",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Engineering Science",
+      "dateRange": "2011 – 2015"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "French",
+    "Latin"
+  ],
+  "company": {
+    "name": "remberg",
+    "tagline": "The Modern Maintenance Software",
+    "description": "remberg is the modern maintenance software that simplifies how industrial companies manage maintenance.\n\nWith remberg, maintenance teams plan and document preventive maintenance, handle breakdowns and manage technical documentation in one central system. Assets, work orders and knowledge are always available – structured, mobile and easy to use.\n\nremberg enables clear processes, better collaboration and full transparency across maintenance operations, so teams can avoid working in constant firefighting mode. This helps to reduce unplanned downtime and maintenance costs, while keeping you audit-ready.\n\nWe simplify maintenance so that companies can keep the world running.",
+    "industry": "Software Development",
+    "website": "https://remberg.com/de/",
+    "linkedInUrl": "https://www.linkedin.com/company/remberg",
+    "employeeCount": 84,
+    "foundedYear": 2018,
+    "location": "Munich, Germany",
+    "specialities": [
+      "remberg",
+      "Enterprise Software",
+      "Machine Manufacturing",
+      "SaaS",
+      "IndustrialTech",
+      "Customer Service",
+      "Field Service",
+      "Maintenance",
+      "GenAI",
+      "AI Copilot",
+      "Industrial Copilot",
+      "Copilot for Machines"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "drosenke",
+  "name": "Dennis Rosenke",
+  "headline": "Geschäftsführer",
+  "avatar": {
+    "sm": "/avatars/drosenke-sm.webp",
+    "lg": "/avatars/drosenke.webp",
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAABwBQCdASogACAAPtFYpUyoJSOiKA1RABoJYwDM0YudNMJK1l0qvwt0kvsdcZ//5NJGgoAAAP79w/hBdfHwLsGQYE++IK8v8Ai+M3DcLHxXlVX88Lf087DUnYgmYnMwKkfuqdl+WANACRJrBW+G4xPKEuiO6fix5yaELtm6lrMmTKrW9H2o9swDx7Phf0vYbaF2W4AvqcDMxnPl8JAf7CR3IcvrYmP8sGVX5sRvPo4F0R4B4WJgW3T+Ypn1iEYATI/yKnptn71yGG3TaYezdku4Nw73qb/eUilLhIAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/drosenke",
+  "personId": 763,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Dennis Rosenke",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Geschäftsführer",
+      "company": "Team Rosenke",
+      "companyUrl": "https://www.linkedin.com/company/team-rosenke",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2021-10",
+      "end": null,
+      "dateRange": "Oct 2021 – Present",
+      "current": true
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Management and Informatics",
+      "dateRange": null
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student (MBA), Entrepreneurship",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Business Administration",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": null
+}

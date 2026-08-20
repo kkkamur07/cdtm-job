@@ -1,0 +1,318 @@
+{
+  "id": "knickerm",
+  "name": "Max Sina Knicker",
+  "headline": "Architecting Clarity in Complexity",
+  "avatar": {
+    "sm": "/avatars/knickerm-sm.webp",
+    "lg": "/avatars/knickerm.webp",
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPtFepU6oJSMiKAqpABoJZQAD5dZjvCqMsGz/qDsCGB3txV4Z6h/l0s2gAP73596m8mMVQmz/hmi1IfWSbyo2PBwzUUt5e/qW6t7/bSdFHMD0IKACsy4q5HR9RN/Fcp3haMtuidj+Ky0kZY8UKc1fKVcezkj9VTy6n5ZX+y5sN3O+QnxRvlPn4X8nDg1wjP2xv7FFF5HARFunQ9OXjjDktq2FrBI9HFrtn6haGc1+d+mkTX5hAfuXQAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/knickerm",
+  "personId": 980,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "Bachelor and M.Sc. in Physik",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Max Knicker",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "QFT Analytics",
+      "companyUrl": "https://www.linkedin.com/company/qft-analytics",
+      "description": null,
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "PHD Candidate",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "PhD Candidate at the Center for Entrepreneurial and Financial Studies",
+      "location": null,
+      "start": "2024-04",
+      "end": null,
+      "dateRange": "Apr 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Quantitative Research Scientist",
+      "company": "equation",
+      "companyUrl": "https://www.linkedin.com/company/equation-equity-innovation",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Research Fellow",
+      "company": "equation",
+      "companyUrl": "https://www.linkedin.com/company/equation-equity-innovation",
+      "description": null,
+      "location": null,
+      "start": "2022-10",
+      "end": "2025-01",
+      "dateRange": "Oct 2022 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "PHD Candidate",
+      "company": "EconophysiX Lab",
+      "companyUrl": "https://www.linkedin.com/company/econophysix-lab",
+      "description": "PhD Candidate at the CFM Chair of Econophysics and Complex Systems at LadHyX",
+      "location": null,
+      "start": "2022-10",
+      "end": "2025-05",
+      "dateRange": "Oct 2022 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "Researcher at the MIT Center for Collective Intelligence",
+      "location": null,
+      "start": "2022-10",
+      "end": "2024-10",
+      "dateRange": "Oct 2022 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "Teaching Assistant for Course 8.02 (Electricity and Magnetism)",
+      "location": null,
+      "start": "2022-03",
+      "end": "2022-04",
+      "dateRange": "Mar 2022 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Data Scientist",
+      "company": "equation",
+      "companyUrl": "https://www.linkedin.com/company/equation-equity-innovation",
+      "description": null,
+      "location": null,
+      "start": "2022-02",
+      "end": "2022-02",
+      "dateRange": "Feb 2022 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "École Polytechnique",
+      "companyUrl": "https://www.linkedin.com/company/ecole-polytechnique",
+      "description": "At the Chair of Econophysics & Complex Systems, I am working on sloppiness of Macroeconomic Agent Based Models.",
+      "location": null,
+      "start": "2021-08",
+      "end": "2022-02",
+      "dateRange": "Aug 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Head of Client Relations",
+      "company": "180 Degrees Consulting Munich",
+      "companyUrl": "https://www.linkedin.com/company/180dcmuc",
+      "description": null,
+      "location": null,
+      "start": "2021-03",
+      "end": "2021-08",
+      "dateRange": "Mar 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "finenso",
+      "companyUrl": "https://www.linkedin.com/company/finenso",
+      "description": "finenso is a web platform that enables private investors to create investment strategies intuitively, test them transparently, run them automatically, and share them with other users.\n\nSupported by the LMU EC Accelerator and TUM Chair of Digital Finance.\n\nAwarded as one of the 28 best Germany based FinTech firms founded in 2020-2021 (https://df.media/28-best-germany-based-fintech-firms-founded-in-2020-2021/)",
+      "location": null,
+      "start": "2020-09",
+      "end": "2021-09",
+      "dateRange": "Sep 2020 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Product Development Consultant",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "In order to make corporate finance frictionless, I develop with a team of five persons from the Managing Product Development course of CDTM in cooperation with Celonis a superfluid finance application.",
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-07",
+      "dateRange": "Apr 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Head of Legal & Finance",
+      "company": "180 Degrees Consulting Munich",
+      "companyUrl": "https://www.linkedin.com/company/180dcmuc",
+      "description": null,
+      "location": null,
+      "start": "2020-03",
+      "end": "2021-03",
+      "dateRange": "Mar 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Student Consultant - Trend Research: Public Administration in the Digital Era",
+      "company": "Tech4Germany",
+      "companyUrl": "https://www.linkedin.com/company/tech4germany",
+      "description": null,
+      "location": null,
+      "start": "2020-03",
+      "end": "2020-04",
+      "dateRange": "Mar 2020 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Team Manager",
+      "company": "180 Degrees Consulting Munich",
+      "companyUrl": "https://www.linkedin.com/company/180dcmuc",
+      "description": null,
+      "location": null,
+      "start": "2019-11",
+      "end": "2020-03",
+      "dateRange": "Nov 2019 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Institute for Theoretical Biophysics",
+      "location": null,
+      "start": "2019-06",
+      "end": "2020-02",
+      "dateRange": "Jun 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Karlsruhe Institute of Technology (KIT)",
+      "companyUrl": "https://www.linkedin.com/company/kit",
+      "description": "Institute for Theoretical Condensed Matter physics\n-Teaching Assistant for Theoretical Physics A",
+      "location": null,
+      "start": "2018-10",
+      "end": "2019-03",
+      "dateRange": "Oct 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Tutor Math and Natural Sciences",
+      "company": "Karlsruhe University of Applied  Sciences",
+      "companyUrl": "https://www.linkedin.com/company/hochschule-karlsruhe",
+      "description": null,
+      "location": null,
+      "start": "2018-09",
+      "end": "2018-09",
+      "dateRange": "Sep 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Tutor Math and Natural Sciences",
+      "company": "Karlsruhe University of Applied  Sciences",
+      "companyUrl": "https://www.linkedin.com/company/hochschule-karlsruhe",
+      "description": null,
+      "location": null,
+      "start": "2018-04",
+      "end": "2018-04",
+      "dateRange": "Apr 2018 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Department Manager",
+      "company": "Karlsruhe Institute of Technology (KIT)",
+      "companyUrl": "https://www.linkedin.com/company/kit",
+      "description": "Department Manager of Hockey Department",
+      "location": null,
+      "start": "2017-10",
+      "end": "2019-03",
+      "dateRange": "Oct 2017 – Mar 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Philosophy - PhD, Finance",
+      "dateRange": "2024"
+    },
+    {
+      "school": "École Polytechnique",
+      "degree": "Doctor of Philosophy - PhD, Physics",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "NLP Researcher, Center for Collective Intelligence",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Physics",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Princeton University",
+      "degree": "Center for the Physics of Biological Function, Physics of Life Summer School 2020",
+      "dateRange": "2020"
+    },
+    {
+      "school": "Karlsruhe Institute of Technology (KIT)",
+      "degree": "Bachelor of Science - BS, Physik",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "Gymnasium an der Stadtmauer",
+      "degree": "Abitur",
+      "dateRange": "2006 – 2015"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "German",
+    "Persian",
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "QFT Analytics",
+    "tagline": "Applying Science to Private Markets for Better LP Decisions.",
+    "description": null,
+    "industry": "Technology, Information and Internet",
+    "website": "https://qft-analytics.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/qft-analytics",
+    "employeeCount": 1,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

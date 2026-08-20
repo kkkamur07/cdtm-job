@@ -1,0 +1,212 @@
+{
+  "id": "elvira-yang-099803176",
+  "name": "Elvira Yang",
+  "headline": "Knowunity | Harvard, Berkeley, Cambridge & LMU | CDTM",
+  "avatar": {
+    "sm": "/avatars/elvira-yang-099803176-sm.webp",
+    "lg": "/avatars/elvira-yang-099803176.webp",
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAAAwBgCdASogACAAPs1WpEunpSOhsBgMAPAZiWYAuwHdFX05bbGjYnlbz77m49DVkig6JPU0uqG9WuLAAP79vdgyNkn6lOam6XWGj8GWRIsehQYcu6/zcrj9Wd45SIa/6v0pIJkzqEZU1beiRj2y7mkyM+2u/MghNiCWKGZol1R15QDsOecC5mNoOdYsHWfht+3gPQsEhGbiMhVUXT7bkrGpfSHCC3iqKyV4Yptt+U4VOkR5Q1VCtQS0uaY4lhSwWlBcPxZzfx7Um/GyZS1tJ8SrnF/vWXvvGA2vpEAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/elvira-yang-099803176",
+  "personId": 1181,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Economics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Elvira Yang",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Product Data Analyst",
+      "company": "Knowunity",
+      "companyUrl": "https://www.linkedin.com/company/knowunity",
+      "description": null,
+      "location": null,
+      "start": "2026-04",
+      "end": null,
+      "dateRange": "Apr 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "return offer",
+      "location": null,
+      "start": "2025-09",
+      "end": "2025-11",
+      "dateRange": "Sep 2025 – Nov 2025",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "political and behavioural economics",
+      "location": null,
+      "start": "2020-11",
+      "end": "2023-02",
+      "dateRange": "Nov 2020 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Business Development Intern",
+      "company": "Cliniserve",
+      "companyUrl": "https://www.linkedin.com/company/cliniserve",
+      "description": "market expansion strategy",
+      "location": null,
+      "start": "2020-09",
+      "end": "2020-12",
+      "dateRange": "Sep 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Associate Consultant",
+      "company": "Simon-Kucher & Partners",
+      "companyUrl": "https://www.linkedin.com/company/simon-kucher",
+      "description": "pricing & market access strategy | healthcare & life sciences",
+      "location": "München",
+      "start": "2020-03",
+      "end": "2020-05",
+      "dateRange": "Mar 2020 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Academy Consult München e.V.",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2019-04",
+      "end": "2021-02",
+      "dateRange": "Apr 2019 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Junior Consultant",
+      "company": "Academy Consult München e.V.",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2018-11",
+      "end": "2019-04",
+      "dateRange": "Nov 2018 – Apr 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard University",
+      "degree": "Visiting Student Researcher, AI in Medicine",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Statistics and Data Science",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student",
+      "dateRange": "2023"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Visiting Student Researcher, Cyber-Human Lab, Department of Engineering",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Economics",
+      "dateRange": "2018 – 2022"
+    },
+    {
+      "school": "University of Toronto",
+      "degree": "Bachelor of Science - BS, Economics",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Hildegard-Wegscheider-Gymnasium, Berlin",
+      "degree": "Allgemeine Hochschulreife",
+      "dateRange": "2010 – 2018"
+    }
+  ],
+  "skills": [
+    "Statistical Modeling",
+    "Statistical Inference",
+    "Causal Inference",
+    "Neuroimaging",
+    "Entrepreneurship",
+    "Prototyping",
+    "Large Language Models (LLM)",
+    "Statistical Data Analysis",
+    "Data Modeling",
+    "Deep Learning",
+    "Machine Learning",
+    "Natural Language Processing (NLP)",
+    "Research",
+    "Python (Programmiersprache)",
+    "Git",
+    "Business Development",
+    "Consulting",
+    "Data Science",
+    "Pricing",
+    "Microsoft Office"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "company": {
+    "name": "Knowunity",
+    "tagline": "Building the #1 daily AI companion for 1+ billion students globally",
+    "description": "We're building the #1 AI learning companion for 1 billion students worldwide - driven by the purpose of democratising access to the highest quality education.\n\nMillions of students already use our AI learning companion weekly across multiple countries. With proprietary learning data and breakthrough AI technology, we're determined to become the defining platform that transforms how students access education globally. \n\nEducation is at a historic inflection point. AI is finally enabling truly personalised learning at scale - not just disrupting traditional methods, but revolutionising the entire global learning experience. \n\nReady to join our elite team of hands-on builders? Help us become the generational AI learning company serving 1+ billion students. We're looking for engineers, product builders, and growth accelerators who thrive in high-velocity environments and want to architect the future of learning.",
+    "industry": "Mobile Computing Software Products",
+    "website": "https://knowunity.com/careers",
+    "linkedInUrl": "https://www.linkedin.com/company/knowunity",
+    "employeeCount": 185,
+    "foundedYear": 2020,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Large Language Models",
+      "AI Product Development",
+      "AI Learning Platform",
+      "Personalised Learning",
+      "Educational AI",
+      "Learning Analytics",
+      "Product-Led Growth",
+      "Global Scaling",
+      "Consumer AI Products",
+      "Mobile-First Platform",
+      "Product Engineering",
+      "AI-First Workplace",
+      "Natural Language Processing",
+      "Software Engineering",
+      "Startup Innovation"
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "michaelgnatz",
+  "name": "Dr. Michael Gnatz",
+  "headline": "Independent IT-Consultant / Freelancer",
+  "avatar": null,
+  "location": "Poing, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/michaelgnatz",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "I am dedicated to providing you with comprehensive support in efficiently steering your projects to successful completion, maintaining the highest standards of quality.\n\nWith my extensive expertise in the realm of IT – both as a lead of a software development team within a renowned medium-sized enterprise, and through a multitude of consulting projects – I extend my full assistance across the entirety of the software development lifecycle:\n\n* Java-centric software development\n* Conception and realization of software architectures\n* Technical project leadership\n* Guiding and coaching of development teams\n* Proficiency in Microservices, Cloud technologies, and DevOps\n\nThe advantages for you encompass:\n\n* Effective and targeted software development within a collaborative team\n* Solutions synonymous with exceptional quality and dependability\n* Well-devised, scalable architecture\n* Methodically structured and sustainable software\n\nBeyond my well-founded theoretical background, I am particularly distinguished by my pragmatism. I enthusiastically utilize my sharp analytical skills and strong communication abilities to empower dynamic teams. My optimum project milieu is one defined by demanding challenges that serve to drive me to achieve peak performance.",
+  "positions": [
+    {
+      "title": "IT Freelancer",
+      "company": "Software Engineering Büro (www.michaelgnatz.de)",
+      "companyUrl": null,
+      "description": null,
+      "location": "Poing",
+      "start": "2014-12",
+      "end": null,
+      "dateRange": "Dec 2014 – Present",
+      "current": true
+    },
+    {
+      "title": "SW-Entwicklung, Architekturberatung und DevOps",
+      "company": "GEMA",
+      "companyUrl": "https://www.linkedin.com/company/gema",
+      "description": "Neuentwicklung Abrechnungssoftware für Lizenzkosten von\nTonträgern",
+      "location": "München, Bayern",
+      "start": "2019-01",
+      "end": "2023-06",
+      "dateRange": "Jan 2019 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Konzeption, Architektur, Implementierung und DevOps in der Cloud",
+      "company": "Conrad Electronic Group",
+      "companyUrl": "https://www.linkedin.com/company/conrad-electronic-se",
+      "description": "Push Notifications Javascript SDK und Backend",
+      "location": "Hirschhausen",
+      "start": "2018-10",
+      "end": "2018-12",
+      "dateRange": "Oct 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Java Developer and Architect",
+      "company": "Atos",
+      "companyUrl": "https://www.linkedin.com/company/atos",
+      "description": "Identity and Access Management in the Cloud: Implementation, Architecture and Coaching",
+      "location": "München",
+      "start": "2017-09",
+      "end": "2018-09",
+      "dateRange": "Sep 2017 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Team Lead Backend Software",
+      "company": "ATRON electronic GmbH",
+      "companyUrl": "https://www.linkedin.com/company/atron-group",
+      "description": null,
+      "location": "Markt Schwaben",
+      "start": "2011-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2011 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Sapient",
+      "companyUrl": "https://www.linkedin.com/company/sapient",
+      "description": null,
+      "location": null,
+      "start": "2009-01",
+      "end": "2011-12",
+      "dateRange": "Jan 2009 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "PENTASYS",
+      "companyUrl": "https://www.linkedin.com/company/ausy-technologies-germany-ag",
+      "description": null,
+      "location": null,
+      "start": "2005-01",
+      "end": "2008-12",
+      "dateRange": "Jan 2005 – Dec 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr. rer. nat., Promovierter Diplom-Informatiker",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Testautomatisierung",
+    "Google PubSub",
+    "Objektorientierte Programmierung (OOP)",
+    "Java",
+    "Spring Boot",
+    "Kubernetes",
+    "Scrum",
+    "Requirements Analysis",
+    "Software Project Management",
+    "Agile Methodologies",
+    "SOA",
+    "Software-Projektleitung",
+    "Anforderungsanalyse",
+    "Softwareentwicklung",
+    "Serviceorientierte Architektur",
+    "Projektmanagement",
+    "GCP",
+    "SQL",
+    "Java Enterprise Edition",
+    "Spring"
+  ],
+  "languages": [
+    "Deutsch",
+    "Deutsch"
+  ],
+  "company": null
+}

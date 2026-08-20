@@ -1,0 +1,311 @@
+{
+  "id": "paulina-lewandowski",
+  "name": "Paulina Lewandowski",
+  "headline": "Product Strategy | Product thinking for people who build the future.",
+  "avatar": {
+    "sm": "/avatars/paulina-lewandowski-sm.webp",
+    "lg": "/avatars/paulina-lewandowski.webp",
+    "blur": "data:image/webp;base64,UklGRoIBAABXRUJQVlA4IHYBAAAQBwCdASogACAAPtFapUuoJSOhsAgBABoJbACdMoSGd9GIcj0D8/6oAn//37b21LaGqX2Ik51tjcKNUx8Al+H74AD+9lr8ynbjKhiAZSVac9STgl+b5q0MCJA6nx4RJ/sA/xuH8Uufnge4TRaUc3NKe2tJKPWSX5mjwN33c/z/W97q/uLVMXm0/h2956GaoBuU3kzq9Vv/qs9gkSA2jlaZkevx/9AJ5+awz131/Vokw5wRoxB41gnNKSNs5pZN1/oO62PLvFi9zD7RVU4fS2uLOxV75vi/06YUYXqd5pywwkjQpyH11etC9vMiU7ffN60hTYi7KQqSlhxqRNBoMIOgUxlXXLQIy6mzl4+Ds6SgzfICDsfCTLljBEnXPe9IsV3VmWVNqv3fzz8pouRF7Kj+SKWAA1xZhCtui4O5L/FsNqB3n4/YfYJeV5ytWJ2V0lWLGR72klY2cup2vih4nlcCK4yRLLbTIjv0muYE0AA33rOW5Q+AAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/paulina-lewandowski",
+  "personId": 1125,
+  "classes": [
+    {
+      "id": 73,
+      "label": "Spring 2013",
+      "season": "Spring",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2013",
+  "major": "Consumer Affairs",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Paulina Lewandowski",
+  "ca": null,
+  "summary": "When you start thinking like a product builder, everything changes: you become more customer-centric, you choose the right opportunities (instead of all of them), and you build an ecosystem that delivers simplicity, scalability, and freedom. For you and for your customers.\n\nMy goal is to make product thinking accessible to everyone: every business, every builder. I am like a little voice that translates the lessons of product management into practical tools for everyday use.\n\nIn the age of AI, where opportunities are endless and overwhelming, I’m here to provide a guidebook. Not just for building something, but for building the right thing: with focus, with value, and with fun.",
+  "positions": [
+    {
+      "title": "Founder & Product Consultant",
+      "company": "LEAD TOMORROW",
+      "companyUrl": "https://www.linkedin.com/company/lead-tomorrow-llc",
+      "description": "Helping founders craft products that cut through the noise and grow.",
+      "location": null,
+      "start": "2023-03",
+      "end": null,
+      "dateRange": "Mar 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder & Product Consultant",
+      "company": "Product Northstar",
+      "companyUrl": "https://www.linkedin.com/company/product-northstar",
+      "description": "Enabling start-ups and scale-ups to build strong digital products with ease.",
+      "location": null,
+      "start": "2021-06",
+      "end": null,
+      "dateRange": "Jun 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Management Tutor",
+      "company": "CareerFoundry",
+      "companyUrl": "https://www.linkedin.com/company/careerfoundry",
+      "description": "Supporting aspiring product leaders to land their dream job through hands-on education.",
+      "location": null,
+      "start": "2023-03",
+      "end": "2025-10",
+      "dateRange": "Mar 2023 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Interim Product Lead",
+      "company": "mylo – Das Dienstrad-Abo",
+      "companyUrl": "https://www.linkedin.com/company/mylo-gmbh",
+      "description": "> Setting business goals for a digital-physical service\n> Leading and executing the product discovery process\n> Conducting qualitative and quantitative user interviews to derive product insights \n> Defining the mylo MVP \n> Hiring for the position of Senior Designer, UX Researcher, and Senior Product Owner \n> Defining the pre-launch roadmap",
+      "location": null,
+      "start": "2021-07",
+      "end": "2021-12",
+      "dateRange": "Jul 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "UX Researcher & Consultant",
+      "company": "Plantura",
+      "companyUrl": "https://www.linkedin.com/company/plantura",
+      "description": "> Iterating on the Plantura App's UX post launch by gathering qualitative data and deriving actionable insights from them",
+      "location": null,
+      "start": "2020-12",
+      "end": "2021-07",
+      "dateRange": "Dec 2020 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Interim Product Lead",
+      "company": "Plantura",
+      "companyUrl": "https://www.linkedin.com/company/plantura",
+      "description": "> Setting business goals for Plantura's new digital path\n> Leading and executing the discovery process around digital potentials in the gardening field \n> Conducting qualitative and quantitative user interviews to derive product insights \n> Defining the Plantura App MVP \n> Interviewing and hiring for the position of Head of Product and Senior Designer for the Plantura App",
+      "location": null,
+      "start": "2020-02",
+      "end": "2020-12",
+      "dateRange": "Feb 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Product Owner",
+      "company": "Freeletics",
+      "companyUrl": "https://www.linkedin.com/company/freeletics",
+      "description": null,
+      "location": null,
+      "start": "2017-10",
+      "end": "2019-05",
+      "dateRange": "Oct 2017 – May 2019",
+      "current": false
+    },
+    {
+      "title": "Product Marketing Manager",
+      "company": "Freeletics",
+      "companyUrl": "https://www.linkedin.com/company/freeletics",
+      "description": "• Responsible to leverage the impact of new product releases. \n• Drove consistent, meaningful and exciting communication across all Marketing channels while ensuring a coherent user experience across Product and Marketing. \n• Identified communication criticality and planned simultaneous releases on all Product and Marketing platforms.\n• Worked closely with all relevant stakeholders to define the \"golden thread\" for Product Marketing Communication.",
+      "location": null,
+      "start": "2016-06",
+      "end": "2018-01",
+      "dateRange": "Jun 2016 – Jan 2018",
+      "current": false
+    },
+    {
+      "title": "Entrepreneurial Marketing Manager",
+      "company": "Freeletics",
+      "companyUrl": "https://www.linkedin.com/company/freeletics",
+      "description": "• Created and executed a marketing strategy for the Freeletics Nutrition app\n• Built brand identity, distribution strategy as well as customer journeys from scratch",
+      "location": null,
+      "start": "2016-01",
+      "end": "2016-06",
+      "dateRange": "Jan 2016 – Jun 2016",
+      "current": false
+    },
+    {
+      "title": "Project Manager",
+      "company": "Innovationsmanufaktur GmbH",
+      "companyUrl": "https://www.linkedin.com/company/innovationsmanufaktur-gmbh",
+      "description": "• Facilitated the conceptualisation of a portable electric vehicle to be used in intermodal travelling.\n• Conceptualised and held innovation workshops for managers from BMW and Siemens.",
+      "location": null,
+      "start": "2015-06",
+      "end": "2015-12",
+      "dateRange": "Jun 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Workshop Facilitator",
+      "company": "SIT Innovation - Systematic Inventive Thinking ®",
+      "companyUrl": "https://www.linkedin.com/company/sit---systematic-inventive-thinking-",
+      "description": "Facilitated product, process and business innovation workshops using a systematic approach to creative thinking. Worked for companies like Shell, Merck & Apetito.",
+      "location": null,
+      "start": "2014-10",
+      "end": "2015-03",
+      "dateRange": "Oct 2014 – Mar 2015",
+      "current": false
+    },
+    {
+      "title": "Project Management Intern",
+      "company": "Innovationsmanufaktur GmbH",
+      "companyUrl": "https://www.linkedin.com/company/innovationsmanufaktur-gmbh",
+      "description": "Prepared and led innovation workshops to develop innovative product and business concepts with clients.",
+      "location": null,
+      "start": "2014-04",
+      "end": "2014-08",
+      "dateRange": "Apr 2014 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "CDTM Student Consultant",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Consulted Siemens to develop business opportunities in the area of intelligent parking.",
+      "location": null,
+      "start": "2013-10",
+      "end": "2014-02",
+      "dateRange": "Oct 2013 – Feb 2014",
+      "current": false
+    },
+    {
+      "title": "CDTM Student Consultant",
+      "company": "Experteer",
+      "companyUrl": "https://www.linkedin.com/company/experteer",
+      "description": "Consulted Experteer to develop a gamification-based iOS-App for new customer acquisition.",
+      "location": null,
+      "start": "2013-04",
+      "end": "2013-07",
+      "dateRange": "Apr 2013 – Jul 2013",
+      "current": false
+    },
+    {
+      "title": "CDTM Student Consultant",
+      "company": "AUDI AG",
+      "companyUrl": "https://www.linkedin.com/company/audi-ag",
+      "description": "Investigated future trends and submitted a report on „Human Machine Interaction in Individual Mobility\".",
+      "location": null,
+      "start": "2013-03",
+      "end": "2013-04",
+      "dateRange": "Mar 2013 – Apr 2013",
+      "current": false
+    },
+    {
+      "title": "Working Student Research",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Research assistant at the Chair for Product Development. \nResearch Topic: “Open innovation and Stakeholder Analysis – Developing a guideline for the involvement of Stakeholders in Open Innovation Projects.\"",
+      "location": null,
+      "start": "2012-12",
+      "end": "2014-03",
+      "dateRange": "Dec 2012 – Mar 2014",
+      "current": false
+    },
+    {
+      "title": "Marketing Intern",
+      "company": "Camino Barcelona Spanish School",
+      "companyUrl": "https://www.linkedin.com/company/camino-barcelona",
+      "description": "Worked in international marketing, organized school activities and supervised incoming students.",
+      "location": null,
+      "start": "2012-06",
+      "end": "2012-08",
+      "dateRange": "Jun 2012 – Aug 2012",
+      "current": false
+    },
+    {
+      "title": "Working Student, Assistant Marketing/Communication",
+      "company": "Vertbaudet",
+      "companyUrl": "https://www.linkedin.com/company/vertbaudet",
+      "description": "Developed the seasonal marketing strategy, hosted marketing events and wrote monthly newsletters.",
+      "location": null,
+      "start": "2011-09",
+      "end": "2012-02",
+      "dateRange": "Sep 2011 – Feb 2012",
+      "current": false
+    },
+    {
+      "title": "Working Student Research",
+      "company": "FAU Erlangen-Nürnberg",
+      "companyUrl": "https://www.linkedin.com/company/fau-erlangen-nürnberg",
+      "description": "Research assistant at the Chair for Information Systems I - Innovation and Value Creation.\nResearch Topic: \"Innovation Practices – Supporting knowledge sharing across knowledge \t\tboundaries in projects\".",
+      "location": null,
+      "start": "2010-04",
+      "end": "2011-10",
+      "dateRange": "Apr 2010 – Oct 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Consumer Affairs",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "SGH Warsaw School of Economics",
+      "degree": "Visiting Student, International Business Studies",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "FAU Erlangen-Nürnberg",
+      "degree": "Bachelor of Arts (B.A.), International Business Studies",
+      "dateRange": "2008 – 2012"
+    }
+  ],
+  "skills": [
+    "Marketing",
+    "Marketing Strategy",
+    "Business Planning",
+    "Business Development",
+    "Research",
+    "Project Management",
+    "Social Entrepreneurship",
+    "Innovation Management",
+    "Marketing Communications",
+    "Product Development",
+    "Product Marketing",
+    "Creative Writing",
+    "Marketingkommunikation",
+    "Marketingstrategie",
+    "Creativity Skills",
+    "Projektmanagement",
+    "Open Innovation",
+    "Produktentwicklung",
+    "Unternehmensplanung",
+    "Technological Innovation",
+    "Innovationsmanagement",
+    "Forschung"
+  ],
+  "languages": [
+    "Spanish",
+    "German",
+    "Polish",
+    "French",
+    "English"
+  ],
+  "company": {
+    "name": "LEAD TOMORROW",
+    "tagline": "Helping founders craft products that cut through the noise and grow.",
+    "description": null,
+    "industry": "Business Consulting and Services",
+    "website": null,
+    "linkedInUrl": "https://www.linkedin.com/company/lead-tomorrow-llc",
+    "employeeCount": 1,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

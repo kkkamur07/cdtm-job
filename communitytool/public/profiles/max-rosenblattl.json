@@ -1,0 +1,246 @@
+{
+  "id": "max-rosenblattl",
+  "name": "Max Rosenblattl",
+  "headline": "AI Research @ Stanford | ETH | CDTM | TUM | AWS",
+  "avatar": {
+    "sm": "/avatars/max-rosenblattl-sm.webp",
+    "lg": "/avatars/max-rosenblattl.webp",
+    "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAADQBQCdASogACAAPtFgqE+oJSOiKAgBABoJZADE2Yt+OkFDn+ncnExDcmY86HiApWsYCprKQkQAAP7ehZqJF39R9YdAh2N4OV8WbdDQ182A8R0AyQEc1DRMHPlXOa9fMKgt7djX0qB0pqfPgaznCdy2Og1NlvETDuqYB8tuVzoz55sF6ZnaQ01RoDAcss8i9qfvyaC28ylSF+NQ6cE6+/OLT1OAPnumJINI7lRD0uymEbw4zD+jyE0QbjKOiNOidr8ubzZ96/0yyC8KP4dbv1ixC4ePy6W43PW+sWNRElAuY2SKWfcAAA=="
+  },
+  "location": "San Francisco Bay, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/max-rosenblattl",
+  "personId": 2078,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Max Rosenblattl",
+  "ca": null,
+  "summary": "At the intersection of design, engineering and research.",
+  "positions": [
+    {
+      "title": "AI Researcher",
+      "company": "ETH Agentic Systems Lab",
+      "companyUrl": "https://www.linkedin.com/company/agentic-systems-lab",
+      "description": "Time Series Language Models",
+      "location": null,
+      "start": "2025-08",
+      "end": null,
+      "dateRange": "Aug 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": "Aligning LLMs with health data",
+      "location": null,
+      "start": "2025-05",
+      "end": null,
+      "dateRange": "May 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Amazon Web Services (AWS)",
+      "companyUrl": "https://www.linkedin.com/company/amazon-web-services",
+      "description": "S3",
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "SIXT",
+      "companyUrl": "https://www.linkedin.com/company/sixt",
+      "description": "iOS Platform",
+      "location": null,
+      "start": "2024-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Entrepreneurship-Lab",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Product Engineer",
+      "company": "DieProduktMacher",
+      "companyUrl": "https://www.linkedin.com/company/dieproduktmacher-gmbh",
+      "description": "Product design & iOS development",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "App Monkey Development Studio",
+      "companyUrl": null,
+      "description": null,
+      "location": "Graz",
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "App Monkey Development Studio",
+      "companyUrl": null,
+      "description": null,
+      "location": "Graz",
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Outson",
+      "companyUrl": null,
+      "description": "Bootstrapped iOS apps to 200K+ users, featured on apple.com/mx/siri/",
+      "location": null,
+      "start": "2018-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2018 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Civil Servant",
+      "company": "Bundesamt für Fremdenwesen und Asyl (BFA)",
+      "companyUrl": "https://www.linkedin.com/company/bundesamt-für-fremdenwesen-und-asyl-bfa-",
+      "description": "First contact person for refugees in legal matters",
+      "location": "Graz",
+      "start": "2017-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2017 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Hardware Engineer",
+      "company": "NXP Semiconductors",
+      "companyUrl": "https://www.linkedin.com/company/nxp-semiconductors",
+      "description": "Side-channel attacks on NFC systems (AES-128, SHA-256)",
+      "location": "Gratkorn",
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Hardware Engineer",
+      "company": "NXP Semiconductors",
+      "companyUrl": "https://www.linkedin.com/company/nxp-semiconductors",
+      "description": "Research on side-channel analysis tools",
+      "location": "Gratkorn",
+      "start": "2015-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Android Engineer",
+      "company": "CISC Semiconductor GmbH",
+      "companyUrl": "https://www.linkedin.com/company/ciscsemiconductor",
+      "description": "Android app simulating NFC smart cards",
+      "location": "Graz",
+      "start": "2014-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2014 – Dec 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science and Business Administration",
+      "dateRange": null
+    },
+    {
+      "school": "Technische Universität Graz",
+      "degree": "Bachelor of Science - BS, Software Engineering and Management",
+      "dateRange": null
+    },
+    {
+      "school": "HTL BULME Graz-Gösting",
+      "degree": "Electronics - Software Development",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Continuous Integration and Continuous Delivery (CI/CD)",
+    "User-centered Design",
+    "iOS",
+    "Swift (Programming Language)",
+    "Design Thinking",
+    "User Experience (UX)",
+    "User Interface Design",
+    "Figma (Software)",
+    "C++",
+    "C (Programming Language)",
+    "Python (Programming Language)"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Stanford University",
+    "tagline": "One of the world's leading research and teaching institutions.",
+    "description": "Stanford is a place of discovery, creativity and innovation located in the San Francisco Bay Area on the ancestral land of the Muwekma Ohlone Tribe. Dedicated to our founding mission—benefitting society through research and education—we are working toward a sustainable future, accelerating the impact of research with external partners, catalyzing discoveries about ourselves and our world, and educating students as global citizens. Our main campus, which welcomed its first class in 1891, is now home to 650+ student organizations, 36 varsity athletic teams, 20 libraries, 21 living Nobel laureates, 18 interdisciplinary research institutes, seven schools, and a vibrant arts scene. More than 9,000 graduate students and 7,000 undergraduates pursue studies at Stanford each year. Our financial aid program, one of the most generous in the nation, makes it possible for any admitted undergraduate to attend without taking on student debt.",
+    "industry": "Higher Education",
+    "website": "http://stanford.edu",
+    "linkedInUrl": "https://www.linkedin.com/company/stanford-university",
+    "employeeCount": 28403,
+    "foundedYear": null,
+    "location": "Stanford, United States",
+    "specialities": [
+      "higher education",
+      "research",
+      "teaching",
+      "natural sciences",
+      "social sciences",
+      "humanities",
+      "interdisciplinary research",
+      "engineering",
+      "business",
+      "medicine",
+      "law",
+      "k-12 education",
+      "earth science"
+    ]
+  }
+}

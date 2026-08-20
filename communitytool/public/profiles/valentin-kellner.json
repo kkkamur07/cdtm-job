@@ -1,0 +1,334 @@
+{
+  "id": "valentin-kellner",
+  "name": "Valentin Kellner",
+  "headline": "Development Engineer @ emz Hanauer",
+  "avatar": {
+    "sm": "/avatars/valentin-kellner-sm.webp",
+    "lg": "/avatars/valentin-kellner.webp",
+    "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAACQBQCdASogACAAPtFWoUwoJKMiMBgMAQAaCWYAvmfABKokJyxPDa6+ITRXeaA2SZFGnOZEwAD+7794fXzlbNEwMr2NAePUMt6pE5mNaPWpX0nWYatUWAKFsewvuV1CB5J1Dynp1ro+lTgVL+MZiLc3KyD5dRLA0VOjhh68nlRKh89aSHsSYPb0Wx/T5uNR0nxUs2moZHCFHTooA8gsPHd3UsRMdwtvBaHSOx+F7UTRYv13nYoZENzAAAA="
+  },
+  "location": "Vohenstrauß, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/valentin-kellner",
+  "personId": 1235,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "B. Eng. Electrical Engineering - Vehicle Electronics  M. Sc. Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Valentin Kellner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Product Category Manager - Ice and Water Systems (IWS)",
+      "company": "emz - Hanauer GmbH & Co. KGaA",
+      "companyUrl": "https://www.linkedin.com/company/emz-hanauer-gmbh-co-kgaa",
+      "description": "Definition of product platform strategy, prioritization of features, and working with engineering, industrialization and sales to deliver scalable solutions.",
+      "location": "On-site",
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Lead Engineer",
+      "company": "emz - Hanauer GmbH & Co. KGaA",
+      "companyUrl": "https://www.linkedin.com/company/emz-hanauer-gmbh-co-kgaa",
+      "description": null,
+      "location": "Nabburg, Bavaria, Germany",
+      "start": "2024-07",
+      "end": null,
+      "dateRange": "Jul 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Full-time",
+      "company": "emz - Hanauer GmbH & Co. KGaA",
+      "companyUrl": "https://www.linkedin.com/company/emz-hanauer-gmbh-co-kgaa",
+      "description": "Development of electronics from the idea to the series product in the household appliance industry",
+      "location": "On-site",
+      "start": "2022-09",
+      "end": null,
+      "dateRange": "Sep 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Coordination of mechanics, electronics, sensors and software in development projects",
+      "company": "emz - Hanauer GmbH & Co. KGaA",
+      "companyUrl": "https://www.linkedin.com/company/emz-hanauer-gmbh-co-kgaa",
+      "description": null,
+      "location": "Nabburg, Bavaria, Germany",
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Friedrichshafen",
+      "company": "ZF Group",
+      "companyUrl": "https://www.linkedin.com/company/zf-group",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Development of a Demonstrator for the Functional Verification of a Near-Field Detection on an Electrical Conductor; Grade: 1,0",
+      "company": "ZF Group",
+      "companyUrl": "https://www.linkedin.com/company/zf-group",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Friedrichshafen",
+      "company": "ZF Group",
+      "companyUrl": "https://www.linkedin.com/company/zf-group",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "During the studies multiple internships were done at the ZF Friedrichshafen AG plants in Friedrichshafen and Yokohama.",
+      "company": "ZF Group",
+      "companyUrl": "https://www.linkedin.com/company/zf-group",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Friedrichshafen",
+      "company": "ZF Group",
+      "companyUrl": "https://www.linkedin.com/company/zf-group",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Friedrichshafen",
+      "company": "ZF Group",
+      "companyUrl": "https://www.linkedin.com/company/zf-group",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Development Engineer",
+      "company": "DEPRAG SCHULZ GMBH u. CO.",
+      "companyUrl": "https://www.linkedin.com/company/deprag",
+      "description": "Development of Measurement and Control Systems (Electronics & Embedded Software)",
+      "location": "Amberg, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-08",
+      "dateRange": "Oct 2021 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Master Thesis Student",
+      "company": "Blickfeld",
+      "companyUrl": "https://www.linkedin.com/company/blickfeld-gmbh",
+      "description": "Development of a Laser Driver PCB with Optimized Heat Dissipation",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-03",
+      "end": "2021-09",
+      "dateRange": "Mar 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "Munich School of Robotics and System Intelligence (MSRM)",
+      "companyUrl": null,
+      "description": "- Development of a powder dosing process with robotic arms\n- Design and manufacturing (3D-printing) of grippers and tools for the robotic arm",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-10",
+      "end": "2021-02",
+      "dateRange": "Oct 2020 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis: Research and Development: Sensors",
+      "company": "ZF Group",
+      "companyUrl": "https://www.linkedin.com/company/zf-group",
+      "description": null,
+      "location": null,
+      "start": "2019-07",
+      "end": "2019-09",
+      "dateRange": "Jul 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Research and Development: Sensors",
+      "company": "ZF Group",
+      "companyUrl": "https://www.linkedin.com/company/zf-group",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-03",
+      "dateRange": "Jan 2019 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Research and Development: Power Electronics",
+      "company": "ZF Group",
+      "companyUrl": "https://www.linkedin.com/company/zf-group",
+      "description": "Practical stay in Yokohama at R&D ZF Japan.\nWorking on current Power Electronics projects.",
+      "location": "Yokohama, Kanagawa, Japan",
+      "start": "2018-04",
+      "end": "2018-09",
+      "dateRange": "Apr 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Tutor",
+      "company": "DHBW Ravensburg",
+      "companyUrl": "https://www.linkedin.com/company/dhbw-ravensburg",
+      "description": "Tutor for freshmen in several fields: principles of electrical engineering, mathematics, digital technology, computer science, business processes, physics",
+      "location": "Friedrichshafen",
+      "start": "2018-01",
+      "end": "2018-03",
+      "dateRange": "Jan 2018 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Software Development Construction Machines",
+      "company": "ZF Group",
+      "companyUrl": "https://www.linkedin.com/company/zf-group",
+      "description": null,
+      "location": null,
+      "start": "2017-07",
+      "end": "2017-09",
+      "dateRange": "Jul 2017 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Reconditioning of Electronics and Mechatronics in Customer Service",
+      "company": "ZF Group",
+      "companyUrl": "https://www.linkedin.com/company/zf-group",
+      "description": "Friedrichshafen",
+      "location": null,
+      "start": "2016-10",
+      "end": "2016-12",
+      "dateRange": "Oct 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Co-op",
+      "company": "ZF Group",
+      "companyUrl": "https://www.linkedin.com/company/zf-group",
+      "description": null,
+      "location": null,
+      "start": "2016-09",
+      "end": "2019-09",
+      "dateRange": "Sep 2016 – Sep 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Elektro- und Informationstechnik",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Baden-Wuerttemberg Cooperative State University (DHBW)",
+      "degree": "Bachelor of Engineering - BE, Electrical Engineering - Vehicle Electronics and Mechatronical Systems",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Gymnasium Neustadt a. d. Waldnaab",
+      "degree": "Abitur",
+      "dateRange": "2008 – 2016"
+    }
+  ],
+  "skills": [
+    "Requirements Engineering",
+    "Systems Engineering Process",
+    "Platform Development",
+    "Produktmanagement",
+    "Forschung und Entwicklung (F&E)",
+    "Produktentwicklung",
+    "Altium Designer",
+    "EAGLE",
+    "OrCAD",
+    "FMEA",
+    "Hardware",
+    "Internationale Erfahrung",
+    "Interdisziplinäre Denkweise",
+    "Fahrzeugelektronik",
+    "LaTeX",
+    "Matlab",
+    "Python",
+    "C++",
+    "Java",
+    "KiCAD",
+    "Automobilelektronik",
+    "LTSpice",
+    "Ingenieurwissenschaften",
+    "Simulink",
+    "C",
+    "Mikrocontroller",
+    "Autodesk Fusion 360",
+    "Eagle",
+    "Printed Circuit Board (PCB) Design",
+    "Leitung von Ehrenamtlichen"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Latein"
+  ],
+  "company": {
+    "name": "emz - Hanauer GmbH & Co. KGaA",
+    "tagline": "Join emz: Create smart solutions – and help protect the planet.",
+    "description": "emz-Hanauer: „Smart Solutions“ for the global market\n\n75 years of emz – family-owned, globally connected.\n\nFounded by Ernst Hanauer in the Upper Palatinate in 1948, emz-Hanauer GmbH & Co. KGaA has grown into a global technology partner – still family-run, still rooted in its values.\n\nOur headquarters is located in Nabburg, Bavaria – with additional sites in Zangenstein (Germany), the Czech Republic, Romania, Mexico and China.\nOver 1,600 colleagues worldwide work on intelligent components for household appliances: door locks, sensors, electric actuators and LED modules – used in dishwashers, washing machines, dryers and refrigerators.\n\nIn locking systems and sensor technology, we are proud to be the global market leader – and to have more than doubled our revenue in the last decade.\n\nWe're also shaping the future in building and waste management technology, with a strong focus on digitalization and IoT.\n\nWhat makes us special?\nFlat hierarchies, freedom to decide, and a culture built on respect, fairness and joy at work.\nBecause we believe: success is built by people who feel at home in what they do.\n\n💬 Curious about who we are or how we work?\nFeel free to reach out – we’d love to hear from you!\n\nImprint: \nemz - Hanauer GmbH & Co. KGaA\nErnst-Hanauer-Straße 1 \nD - 92507 Nabburg \n\nE-Mail: info@emz-hanauer.com \nWebsite: https://www.emz-hanauer.de/en/home/\n\nRegistered office: Nabburg / Germany\nVAT No.: DE186319372\nTax ID: 211/115/30049 \nRG Amberg \n\nGeneral Manager: Thomas Hanauer & Andreas Weidmüller\n\nPrivacy Policy: https://www.emz-hanauer.de/en/privacy-policy/",
+    "industry": "Appliances, Electrical, and Electronics Manufacturing",
+    "website": "http://www.emz-hanauer.de",
+    "linkedInUrl": "https://www.linkedin.com/company/emz-hanauer-gmbh-co-kgaa",
+    "employeeCount": 158,
+    "foundedYear": 1948,
+    "location": "Nabburg, Germany",
+    "specialities": [
+      "Hausgeräte",
+      "Haustechnik",
+      "Umwelttechnik",
+      "Elektronik",
+      "Maschinenbau"
+    ]
+  }
+}

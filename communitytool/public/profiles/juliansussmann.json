@@ -1,0 +1,166 @@
+{
+  "id": "juliansussmann",
+  "name": "Julian Sussmann",
+  "headline": "We build sustainable tech for digital health",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/juliansussmann",
+  "personId": 1350,
+  "classes": [
+    {
+      "id": 60,
+      "label": "Fall 2006",
+      "season": "Fall",
+      "year": 2006,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2006",
+  "major": "Media Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Julian Sußmann",
+  "ca": null,
+  "summary": "Working together with startups and corporations on digital trends and innovations since 2010. Always looking for ways to solve user needs with innovative technologies – it's amazing how many successful patterns from different industries can bring value into completely unrelated markets.",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "azuma healthtech GmbH",
+      "companyUrl": "https://www.linkedin.com/company/azuma-healthtech",
+      "description": null,
+      "location": null,
+      "start": "2022-09",
+      "end": null,
+      "dateRange": "Sep 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Elternzeit",
+      "company": null,
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2020-07",
+      "end": "2022-09",
+      "dateRange": "Jul 2020 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Director Digital Innovation",
+      "company": "Hoffmann Group",
+      "companyUrl": "https://www.linkedin.com/company/hoffmann-group",
+      "description": "Headed new business strategy program (building digital platform, developing digital products). Built up of initial internal digital product team and framework. Initiated data science team. Set up digital innovation unit with a focus on building MVPs for new digital business models that support the current Hoffmann strategy. Built up a network with startups and universities.",
+      "location": null,
+      "start": "2017-07",
+      "end": "2020-07",
+      "dateRange": "Jul 2017 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Innovations Manager IT",
+      "company": "Hoffmann Group",
+      "companyUrl": "https://www.linkedin.com/company/hoffmann-group",
+      "description": "Setting up innovation management practices and methodologies. Projects ranging from big data / data science projects to IoT proof of concepts. The focus lied in projects and concepts that initiate a transformation towards digital business models. Project lead in the industry 4.0 initiative. Finally contributor to the new (digital) business strategy part of Hoffmann for 2027.",
+      "location": null,
+      "start": "2017-06",
+      "end": "2022-10",
+      "dateRange": "Jun 2017 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": null,
+      "start": "2010-04",
+      "end": "2015-11",
+      "dateRange": "Apr 2010 – Nov 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diploma in Media Computer Science, Media Computer Science",
+      "dateRange": "2003 – 2010"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Technology Managment",
+      "dateRange": "2006 – 2008"
+    }
+  ],
+  "skills": [
+    "Business-to-Business (B2B)",
+    "Start-ups",
+    "Entrepreneurship",
+    "Project Management",
+    "Product Development",
+    "B2B",
+    "Design Thinking",
+    "Kommunikation",
+    "Projektmanagement",
+    "Digitale strategie",
+    "Open Innovation",
+    "Analytische Fähigkeiten",
+    "Scenario Planning",
+    "Unternehmensstrategie",
+    "Künstliche Intelligenz",
+    "Strategisches Management",
+    "Produktentwicklung",
+    "Englisch",
+    "Produktmanagement",
+    "Unternehmensberatung",
+    "Digitale Transformation",
+    "Trend Research",
+    "Innovationsentwicklung",
+    "Internet of Things",
+    "Ideation",
+    "Innovationsmanagement",
+    "Technologische Innovation",
+    "Digital Innovation",
+    "User Journeys",
+    "Unternehmertum",
+    "Forschung",
+    "Business Innovation (Geschäftsinnovation)",
+    "Innovationsberatung",
+    "Nutzerzentriertes Design",
+    "Technologiemanagement",
+    "Geschäftsmodellinnovation",
+    "Produktinnovation",
+    "Geschäftsverständnis",
+    "Szenarioplanung",
+    "Privacy",
+    "Digitale Strategie"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "azuma healthtech GmbH",
+    "tagline": "we build sustainable tech for healthtech.",
+    "description": "Sustainable tech for healthtech: We boost developing healthtech solutions by providing easy-to-integrate, domain-specific cloud building blocks.\n\nWe are online now. Check our website and get to know our first market-ready product azuma doa - a full-service identity provider tailored to requirements of health industries.\n\nFeel free to contact us for more information!",
+    "industry": "Software Development",
+    "website": "https://azuma.health",
+    "linkedInUrl": "https://www.linkedin.com/company/azuma-healthtech",
+    "employeeCount": 3,
+    "foundedYear": 2022,
+    "location": "München, Germany",
+    "specialities": [
+      "Digital Innovation",
+      "Cloud Technologies",
+      "Software Development",
+      "Tech for Healthtech",
+      "Zero Trust Architecture",
+      "Identity Management"
+    ]
+  }
+}

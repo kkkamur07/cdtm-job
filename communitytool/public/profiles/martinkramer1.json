@@ -1,0 +1,94 @@
+{
+  "id": "martinkramer1",
+  "name": "Martin K.",
+  "headline": "Egon Zehnder | xMcK",
+  "avatar": null,
+  "location": "Zurich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/martinkramer1",
+  "personId": 1441,
+  "classes": [
+    {
+      "id": 71,
+      "label": "Spring 2012",
+      "season": "Spring",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2012",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "claim-elimination",
+  "needsReview": true,
+  "rosterName": "Martin Kramer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Consultant",
+      "company": "Egon Zehnder",
+      "companyUrl": "https://www.linkedin.com/company/egon-zehnder",
+      "description": null,
+      "location": "Zürich, Schweiz",
+      "start": "2021-01",
+      "end": null,
+      "dateRange": "Jan 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Management Consulting",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2016-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2016 – Dec 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard University",
+      "degree": "Master | Human Development & Psychology",
+      "dateRange": null
+    },
+    {
+      "school": "University of St.Gallen",
+      "degree": "Master | Business Management",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree | Technology Management",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Egon Zehnder",
+    "tagline": "Leadership For a Better World",
+    "description": "Egon Zehnder is the world’s preeminent leadership advisory firm. We partner with organizations to unlock transformative leadership solutions as they face accelerating complexity. With more than 600 consultants across 71 offices and 37 countries, we combine our individual strengths to form a powerful global team. They bring deep industry experience and a commitment to human-centered advisory—spanning CEO succession, board effectiveness, executive search, leadership development, and the evolving role of AI in business.\n\nWe believe leadership is the greatest lever for positive change. Together with our clients, we shape better leaders for a better world.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.egonzehnder.com",
+    "linkedInUrl": "https://www.linkedin.com/company/egon-zehnder",
+    "employeeCount": 3278,
+    "foundedYear": 1964,
+    "location": "Zurich, Switzerland",
+    "specialities": [
+      "Executive Search",
+      "Leadership Strategy Services",
+      "Board Consulting",
+      "CEO Search",
+      "Digital Transformation",
+      "Executive Development",
+      "CEO Succession"
+    ]
+  }
+}

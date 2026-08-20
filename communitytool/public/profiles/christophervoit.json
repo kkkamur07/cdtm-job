@@ -1,0 +1,227 @@
+{
+  "id": "christophervoit",
+  "name": "Christopher Voit",
+  "headline": "adtribute | CDTM | HCI (M.Sc.)",
+  "avatar": {
+    "sm": "/avatars/christophervoit-sm.webp",
+    "lg": "/avatars/christophervoit.webp",
+    "blur": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAABwBQCdASogACAAPtFYpkyoJSOiKA1RABoJQBYdsX7lpzg0NYvq4ye/ET/qiONcHmDw8jwAAP79+Z9VYL1OXb68yLkHzLWckLTmdI1GEMviJ3vIrvm1F7Km9reFrc9XFUIE4PJh+10acGVidfgc0MIfQVlz0Zk4qVogVO/IGCTVk7YEw0grlbe4XufnAfwB2+aeHOnUwcMF6/ftxD9rLpFRcIBGfyV/OG2oRZuSV3hQ0KofdYfbUYQ8VS+GG4WVdXAcoU0qU9r3Z9qlSJdb6gYtgXyZZOCYfKLdNseMj9bJACVF66TMlk10eqR3YQAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christophervoit",
+  "personId": 939,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Human-Computer-Interaction",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christopher Voit",
+  "ca": null,
+  "summary": "Human Centered Fullstack Engineer based in Munich, Germany.\n\nCollaborating towards a healthier and happier future for everyone.",
+  "positions": [
+    {
+      "title": "Fullstack Engineer",
+      "company": "adtribute",
+      "companyUrl": "https://www.linkedin.com/company/adtributeio",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-06",
+      "end": null,
+      "dateRange": "Jun 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer",
+      "company": "MaibornWolff GmbH",
+      "companyUrl": "https://www.linkedin.com/company/maibornwolff",
+      "description": "Customer: Public Defense Organization\nGoal: Implementation of spatiotemporal data visualization and analysis tool\n\n- Build API connectors for multiple datasources\n- Implemented map-based data visualization features\n- Improved Dockerization and CI/CD pipeline",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-12",
+      "end": "2025-06",
+      "dateRange": "Dec 2024 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Junior Software Engineer",
+      "company": "MaibornWolff GmbH",
+      "companyUrl": "https://www.linkedin.com/company/maibornwolff",
+      "description": "Customer: Internal Med-Tech Company\nGoal: Development multi-client web frontend\n\n- Defined API specifications for CRUD and file upload/processing operations\n- Refactored large parts of the application to modular, declarative structure\n- Implemented and maintained design system/library using Storybook.js\n- Designed, implemented and maintained E2E tests in CI/CD pipelines\n- Supervised working student in frontend dev team",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Backend Engineer",
+      "company": "adtribute",
+      "companyUrl": "https://www.linkedin.com/company/adtributeio",
+      "description": "- Integrated multiple third-party services into current ETL pipeline\n- Refactored and optimized data engineering operations\n- Designed and implemented unit tests",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-11",
+      "end": "2024-01",
+      "dateRange": "Nov 2023 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Technical Founding Member",
+      "company": "trail",
+      "companyUrl": "https://www.linkedin.com/company/trail-ml",
+      "description": "Problem Space: AI Regulation, Transparency & Documentation | EXIST-funded\n\n- Sourced and interviewed relevant experts (80+)\n- Gathered and evaluated user insights following the Contextual Design approach\n- Developed paper, Figma and low-code prototypes\n- Designed and put together pitch decks for funding/program/accelerator application materials\n- Developed business strategy including pricing, market entry and financing\n- Contacted and pitched to potential investors, partners and customers",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-04",
+      "end": "2022-09",
+      "dateRange": "Apr 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Product Development Consultant",
+      "company": "Lilio Health (former Leevi)",
+      "companyUrl": "https://www.linkedin.com/company/lilio-health",
+      "description": "- Gathered and evaluated user insights following the Contextual Design approach\n- Implemented real-time serverless & database architecture\n- Designed and developed cross-platform app\n- Implemented Google Assistant Skill using JavaScript\n- Co-created ICPs, pricing & financial models and market sizing\n- Pitched for investors and potential partners",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-01",
+      "dateRange": "Oct 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Technical Product Management",
+      "company": "Delicious Data",
+      "companyUrl": "https://www.linkedin.com/company/deliciousdata",
+      "description": "- Gathered and evaluated customer feedback\n- Implemented user-specific help center\n- Co-created XAI (Explainable AI) concept for new features\n- Developed frontend features",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-03",
+      "end": "2022-04",
+      "dateRange": "Mar 2021 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Marketing & Web Development",
+      "company": "A&L Consulting GmbH",
+      "companyUrl": null,
+      "description": "- Designed and implemented new website using Webflow\n- Sourced leads and took care of existing customers\n- Co-developed business strategy, KPIs and hiring",
+      "location": "Remote",
+      "start": "2020-05",
+      "end": "2021-01",
+      "dateRange": "May 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Julius-Maximilians-Universität Würzburg",
+      "companyUrl": "https://www.linkedin.com/company/julius-maximilians-universitat-wurzburg",
+      "description": "- Assisted in UX study design and execution\n- Developed room-scale VR environment\n- Implemented Alexa Skills for education-based research",
+      "location": "Würzburg, Bavaria, Germany",
+      "start": "2019-12",
+      "end": "2020-03",
+      "dateRange": "Dec 2019 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "NLP Machine Learning",
+      "company": "BMW of North America, LLC",
+      "companyUrl": "https://www.linkedin.com/company/bmwgroupus",
+      "description": "- Developed fullstack web application for prototyping\n- Implemented Android Auto based UI components\n- Sourced, cleaned and processed NLP data from AWS MTurk\n- Trained and evaluated NLP ML models for classifications tasks",
+      "location": "Mountain View, California",
+      "start": "2018-10",
+      "end": "2019-03",
+      "dateRange": "Oct 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "denkbares GmbH",
+      "companyUrl": "https://www.linkedin.com/company/denkbares-gmbh",
+      "description": "- Designed and implemented the new website (denkbares.com)\n- Procured and setup SBCs for internal testing\n- Implemented end-to-end tests for new UI features",
+      "location": "Würzburg, Bavaria, Germany",
+      "start": "2017-02",
+      "end": "2018-07",
+      "dateRange": "Feb 2017 – Jul 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science, Human-Computer-Interaction",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology & Management",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Arts - MA, RESET - Responsibility in Science, Engineering & Technology",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "The Julius Maximilians University of Würzburg",
+      "degree": "Bachelor of Science, Human-Computer-Interaction",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "Stanford Continuing Studies",
+      "degree": "SCI 54 Artificial Intelligence Masterclass,",
+      "dateRange": "2018"
+    }
+  ],
+  "skills": [
+    "User Experience (UX)",
+    "Web Development",
+    "Machine Learning",
+    "Data Science",
+    "Statistical Data Analysis",
+    "Agile Methodologies",
+    "Human Factors",
+    "JavaScript",
+    "React",
+    "MongoDB",
+    "Node.js",
+    "Python (Programming Language)",
+    "Kotlin",
+    "Java",
+    "SQL",
+    "Git",
+    "Unix",
+    "SPSS",
+    "Unity",
+    "Figma",
+    "User Interface Prototyping",
+    "Natural Language Processing (NLP)",
+    "Sketch",
+    "Informationsvisualisierung"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "adtribute",
+    "tagline": "Track Users & Unify Data With Unparalleled Accuracy. Power Your Custom Data Solutions With It.",
+    "description": "The Data Platform for fast-growing Online Businesses. Generate better outcomes by powering Marketing Attribution, Business Intelligence Reports and Data Activation Use-Cases with the best possible data.",
+    "industry": "Data Infrastructure and Analytics",
+    "website": "https://www.adtribute.io",
+    "linkedInUrl": "https://www.linkedin.com/company/adtributeio",
+    "employeeCount": 11,
+    "foundedYear": 2021,
+    "location": null,
+    "specialities": []
+  }
+}

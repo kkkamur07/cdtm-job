@@ -1,0 +1,251 @@
+{
+  "id": "raul-berganza",
+  "name": "⚡️ Raúl Berganza Gómez",
+  "headline": "🇪🇺 EU Commission YEA - Clean Datacenter Growth | GenAI Lead @ E.ON Digital Technology",
+  "avatar": {
+    "sm": "/avatars/raul-berganza-sm.webp",
+    "lg": "/avatars/raul-berganza.webp",
+    "blur": "data:image/webp;base64,UklGRgABAABXRUJQVlA4IPQAAABQBgCdASogACAAPtFap04oJKOiKAqpABoJYwDKBPOtEEzIk/XHwiscmGy6DYIGPyJmwSs+YQlZbI97AAD++LUwh+gz0aaYFSMdJc7EEHVG+Go8nP0rNJy2AsAdHj4AzVSVnr38xe5U/sLpD8/20OrMElDphCzDXNH2a6urDjfidaeLflBXse776Zo2ARb4kwuNJc6qYX73PES44S6gSE5YQLtpg0DWSz7B2vE/D4eiJb5AAKIC/bVhAp+M7tF31B3k9stGwyqcchphhiqSrQS/hYGs90+MxmNoK18pJUfW0UGi8FOeo0UrCm7PqxuQic0UAAAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/raul-berganza",
+  "personId": 1154,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Computational Science and Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Raúl Berganza Gómez",
+  "ca": null,
+  "summary": "I help grid operators and large energy users, from data centers to battery developers, address the power-access crisis: grid capacity is maxed out, connection timelines stretch years, and traditional procurement can't keep pace with exponential compute growth. My focus: helping you connect, generate, and purchase power smarter and faster.\n\nAs a Lead AI Engineer at E.ON, I design AI systems that help energy teams plan grid connections, optimize onsite generation, and make data-driven power procurement decisions - aspects that can make or break profitability of energy projects. My work bridges distribution and transmission operators with the fast-growing ecosystem of data centers, flexible loads, and renewables that are transforming the grid and creating mismatches between supply and demand.\n\nMy background in computational science and high-performance computing gives me a unique lens: I understand the compute infrastructure now straining the grid from the inside. That foundation helps me see the scaling and energy challenges from both sides, where compute demands meet grid constraints.\n\nThrough Powering Compute, I track the latest developments in datacenter connections and energy supply in Germany, helping grid operators and data center developers stay ahead of market shifts and infrastructure changes.\n\n👉 Subscribe to Powering Compute for insights on datacenter power access in Germany, or connect directly to explore how AI can help with your grid planning, on-site generation and procurement challenges.\n\nOpinions are my own.",
+  "positions": [
+    {
+      "title": "Young Energy Ambassador",
+      "company": "European Commission",
+      "companyUrl": "https://www.linkedin.com/company/european-commission",
+      "description": "Serving Europe's citizens, democracies and environment by enabling compute growth that balances global competitiveness with citizen and environmental well-being at local and regional levels.",
+      "location": "Brussels Region, Belgium",
+      "start": "2026-04",
+      "end": null,
+      "dateRange": "Apr 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "GenAI Lead – Energy Intelligence Team",
+      "company": "E.ON Digital Technology",
+      "companyUrl": "https://www.linkedin.com/company/e.on-digital-technology",
+      "description": "Coordinating and implementing GenAI initiatives within the Energy Intelligence team (Energy markets, assets, eMobility). Some of my responsibilities include: \n- Discovering use cases collaboratively with clients, and scoping effective implementations \n- Prototyping GenAI applications, including RAG, Agents, image generation and beyond\n- GenAI talent & upskilling strategy, and hiring\n- Aligning with top management to shape our GenAI strategy\n- Upskilling our engineers and data scientists in using state-of-the-art code generation techniques",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior AI Engineer",
+      "company": "E.ON Digital Technology",
+      "companyUrl": "https://www.linkedin.com/company/e.on-digital-technology",
+      "description": "At E.ON, my main responsibilities include: \n- Designing, implementing (Front-end, Back-end, ML), and striving for downtime-zero for our predictive maintenance product\n- GenAI Community @ data_on: Scouting company-wide for LLM use cases, organizing knowledge sharing sessions, and teaching internal trainings on \"AI for software engineering\"\n- LLMs @ Energy Intelligence: Collect, prioritize and validate LLM energy economics use cases in the areas of energy trading, flexibility trading, demand-side management, and smart grid security",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-12",
+      "end": "2025-07",
+      "dateRange": "Dec 2024 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "AI Product Engineer",
+      "company": "RBG AI Solutions",
+      "companyUrl": "https://www.linkedin.com/company/rbg-ai-solutions",
+      "description": "At RBG, I leverage over a year of specialized experience with LLMs and RAG systems to bring AI-powered features to production. With a background in quantum machine learning and recent projects in AI auditing, I’m here to help you achieve sophisticated, metrics-driven solutions tailored to complex use cases.\n\nMy approach is both lean and results-oriented, focusing on high-impact core competencies: Advanced RAG techniques, vector databases, long-term memory management, self-improving systems, and fine-tuning. Ideal for teams aiming to enhance AI capabilities quickly and efficiently, without drawing resources from essential projects.\n\nPast Happy Clients: AI Auditing (Stealth), Langfuse, Teleclinic",
+      "location": "Vienna, Austria",
+      "start": "2023-11",
+      "end": "2024-12",
+      "dateRange": "Nov 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "CTO",
+      "company": "NUA labs",
+      "companyUrl": "https://www.linkedin.com/company/asksuperminds",
+      "description": "At NUA labs, we built AI replicas of busy experts to scale their one-to-one coaching. I was the only engineer, and held most product delivery and design responsibilities. My tasks included implementing state-of-the art RAG techniques (>90% answer relevancy), LLM production monitoring and tracing, product analytics, and vendor and model procurement and evaluation.\n\nKeywords: Langchain, Python, Llama-3, Cohere, Mistral, Ragas, Groq, Prompt engineering, Next.js, Docker, Software architecture, Microservices, Product management, User research",
+      "location": "Vienna, Austria",
+      "start": "2023-11",
+      "end": "2024-07",
+      "dateRange": "Nov 2023 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Founding Engineer",
+      "company": "bldrs",
+      "companyUrl": "https://www.linkedin.com/company/joinbldrs",
+      "description": "- Conducted 15+ user research sessions and designed a startup job marketplace\n- Functional leader for product and engineering, owning architecture and stack decisions\n- Implemented backend and frontend on Next.js, including monitoring, CI/CD, and product tracking\n- Grew the app to 350+ users, with an average of 9 daily active users",
+      "location": "Berlin, Germany",
+      "start": "2023-04",
+      "end": "2023-11",
+      "dateRange": "Apr 2023 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2022-09",
+      "end": "2023-04",
+      "dateRange": "Sep 2022 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": "In my time at Y42, I owned 3 product areas that fall into the topics of data governance and search, lead and project manage 2 strategic projects using scrum, and support the leadership team in prototyping our most disruptive features.",
+      "location": "Berlin, Germany",
+      "start": "2022-02",
+      "end": "2022-09",
+      "dateRange": "Feb 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Software Engineer - Quantum Algorithms",
+      "company": "E.ON Digital Technology",
+      "companyUrl": "https://www.linkedin.com/company/e.on-digital-technology",
+      "description": "In my much enjoyed time at E.ON, I lead efforts to define requirements and implement a system for executing and analyzing quantum experiments in the cloud, saving resources equivalent to 0.5 FTEs.\nAdditionally, I defined and implemented a lighthouse use case to illustrate quantum advantage by conducting 5+ interviews with energy traders, defining a set of functional requirements, and successfully building a working MVP throughout the course of 12 sprints. The results will be soon available in Arxiv, stay tuned (:",
+      "location": "Munich, Baviera, Alemania",
+      "start": "2021-05",
+      "end": "2021-12",
+      "dateRange": "May 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "External Development Lead",
+      "company": "Limehome GmbH",
+      "companyUrl": "https://www.linkedin.com/company/limehome",
+      "description": "Architected and led the tech implementation of the Flexify project. We empower hotels to make last-minute extensions possible, by providing hotel guests with a web app that makes changes of check-in and check-out times easy. This is possible thanks to our cloud service that reschedules the cleaning appointments and notifies cleaners about the changes in the room order.\n\nKey technologies:\n- React.js\n- Python (Django framework)\n- PostgreSQL\n- Docker\n- Jest / Pytest",
+      "location": "Munich y alrededores, Alemania",
+      "start": "2019-04",
+      "end": "2019-09",
+      "dateRange": "Apr 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineer - Deep Learning & Infrastructure",
+      "company": "Luminovo Artificial Intelligence",
+      "companyUrl": "https://www.linkedin.com/company/luminovo",
+      "description": "Along my time in Luminovo, I had the pleasure to work with world-class Software and Deep Learning engineers (Ex. Google, Stanford...), from which I learned not only the technical implementation details, but the whole process required to take a Deep Learning project to market. \nSome of my responsibilities were:  \n- Building and tuning Q-learning models. \n- Heuristic modeling for reinforced learning. \n- Building infrastructure to automate experiments. \n- Making a whole project plug-and-play for the customer (Dockerization of DL solutions)",
+      "location": "Munich, Germany",
+      "start": "2018-11",
+      "end": "2019-02",
+      "dateRange": "Nov 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "2Eyes Vision",
+      "companyUrl": "https://www.linkedin.com/company/2eyesvision",
+      "description": "My main tasks cover the design and implementation of the platform necessary for the clinical use of the SimVis headset. Definition of communication protocols, database architecture, supervision and QA of the iOs app and web service backends. \n\nKey technologies:\n- Swift\n- C#",
+      "location": "Madrid, Spain",
+      "start": "2018-01",
+      "end": "2018-08",
+      "dateRange": "Jan 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "University of Tampere",
+      "companyUrl": "https://www.linkedin.com/company/university-of-tampere-1925-2018",
+      "description": "My research activities were completely devoted to the Living Lab Bus Project. Along this period, my most significant contributions have been the implementation of user authentication and new features to the developer platform and user research to enrich the user portal with new features that make bus rides in Tampere enjoyable and value adding. \n\nKey technologies:\n- Python (Pyramid).\n- Javascript (Angular.js, Node.js, Angular Material).\n- HTML5, CSS, SASS.\n- Alembic + MySQL.\n- Apache Web Server.",
+      "location": "Tampere Area, Finland",
+      "start": "2017-02",
+      "end": "2017-09",
+      "dateRange": "Feb 2017 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Full Stack Developer Intern",
+      "company": "Anima Ventures",
+      "companyUrl": "https://www.linkedin.com/company/anima-ventures",
+      "description": "Summer internship in a social venture capital fund in the heart of Madrid.  I was responsible for the technological department of Instavets, a mobile veterinarian online service.  Along these months I developed their website from scratch, including both front and backend. Its highlights are the payment system based on Redsys Sermepa, a single page payment app based on React.js and a powerful backoffice/CRM that eases customer management, appointments and automatic mailing services.\nGoogle Analytics/Tag Manager implementation, minimizing CAC in a 37%.\n\nKey technologies:\n- Python (Django).\n- Javascript (React.js, Node.js).\n- HTML5, CSS, SASS.\n- PosgreSQL.\n- Nginx.",
+      "location": null,
+      "start": "2016-06",
+      "end": "2016-09",
+      "dateRange": "Jun 2016 – Sep 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "MSc in Computational Science and Engineering",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Universidad Carlos III de Madrid",
+      "degree": "Bachelor's degree in Industrial Technologies, Minor in physics",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "Tampere University of Technology 1965-2018",
+      "degree": "Minor in Pattern Recognition and Machine Learning",
+      "dateRange": "2016 – 2017"
+    }
+  ],
+  "skills": [
+    "Energy",
+    "Artificial Intelligence (AI)",
+    "High Performance Computing (HPC)",
+    "Training",
+    "Generative AI",
+    "Critical Pedagogy",
+    "Product Design",
+    "Product Strategy",
+    "Leadership",
+    "People Development",
+    "Product Vision",
+    "Hiring",
+    "User Research",
+    "Product Management",
+    "Project Management",
+    "Entrepreneurship",
+    "Software Engineering",
+    "Python",
+    "React.js",
+    "Node.js"
+  ],
+  "languages": [
+    "Deutsch",
+    "English"
+  ],
+  "company": {
+    "name": "E.ON Digital Technology",
+    "tagline": "We love technology.",
+    "description": "E.ON Digital Technology is a group-wide business function which manages and implements the digital transformation of E.ON SE, an internationally active private energy company that focuses on energy networks, customer solutions and renewable energies.\nWith around 4500 employees in 10 countries E.ON Digital Technology aims at evolving to a multifaceted, guiding business partner for platforms, services and smart solutions with highly skilled people.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://www.eon.com/de/ueber-uns/karriere/digital-careers-hub.html",
+    "linkedInUrl": "https://www.linkedin.com/company/e.on-digital-technology",
+    "employeeCount": 1909,
+    "foundedYear": 1999,
+    "location": "Hannover, Germany",
+    "specialities": []
+  }
+}

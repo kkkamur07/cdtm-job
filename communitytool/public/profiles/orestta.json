@@ -1,0 +1,331 @@
+{
+  "id": "orestta",
+  "name": "Orest Tarasiuk",
+  "headline": "Building t1, and we're hiring (expect the bar to be high)! | zkWarsaw | Past: Engineer @ Scroll, Founder-CTO @ Cara Care & Knit",
+  "avatar": {
+    "sm": "/avatars/orestta-sm.webp",
+    "lg": "/avatars/orestta.webp",
+    "blur": "data:image/webp;base64,UklGRmoBAABXRUJQVlA4IF4BAACwBwCdASogACAAPslQoUunpKMht/VYAPAZCWwAnTlBUp4BFMBuqd4F0Uq3m67wBvBi3RiODwHU4I4PZf5lwgHK02KWB+wAAP7njNFRR9yxy72Kew/a/lcBrQ7SUWnsu1i8bmfaqeOBnjxuBaq2EvX20bHQGKGuKPXw7YhleM7qLCBw6A9HFdG5xBqaLQ/Wqo+PBboQ48XjwATSzaCp1f4CH12R3GnAmBQM5e7qBPT7fYy2o73ylcxaqavQg0GtNobaryGnMKNdkGUL0dglDCSvKXfPVxvN1QM7nm7PGrHEmDzYFuF2S/OORyPwQHRoRyOdrrr2LMyZWNNaSWCzO6naA22IvP3PV6DdyF7F8n4G/rGMIU9/edbTizNF5Omcjr6nmpzJ9yRTn20LLT2Dpxi9WkEECsgddXsaV7L1WhiesseTh5f27BgycZAQrbXNuc+xhJjvFExV33S7tgAAAA=="
+  },
+  "location": "Warsaw, Poland",
+  "linkedInUrl": "https://www.linkedin.com/in/orestta",
+  "personId": 1061,
+  "classes": [
+    {
+      "id": 73,
+      "label": "Spring 2013",
+      "season": "Spring",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2013",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Orest Tarasiuk",
+  "ca": null,
+  "summary": "My name is Orest. I’m a computer scientist. My current work is centred around Ethereum, TEE and ZKP. I have co-founded and am building t1, a protocol for real-time proof generation designed to unify Ethereum.\n\nBackground:\n\n- Co-founded zkWarsaw. zkWarsaw is a Warsaw community around zero-knowledge proofs organising lectures and workshops for researchers, hackers, and builders.\n- Worked as engineer at Scroll. Scroll is building a bytecode-level zkEVM (zero-knowledge-proof-based rollup with EVM compatibility) to scale the Ethereum blockchain.\n- Co-founded Cara Care. Cara uses technology to empower individuals suffering from chronic digestive diseases to live a better life.\n- Co-founded Knit. Knit’s app lets you tighten your organisation through video-based networking events.\n\nI’m also into good (drip!) coffee, ski touring, horse-riding, motorcycling, and blues and balfolk dance.",
+  "positions": [
+    {
+      "title": "Co-Founder & CTO",
+      "company": "t1",
+      "companyUrl": "https://www.linkedin.com/company/t1protocol",
+      "description": "𝚝𝟷 (aka t1 protocol): Real-time proof generation to unify Ethereum.",
+      "location": null,
+      "start": "2024-04",
+      "end": null,
+      "dateRange": "Apr 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "zkWarsaw",
+      "companyUrl": "https://www.linkedin.com/company/zkwarsaw",
+      "description": "Warsaw-based community around zero-knowledge proofs. We run zk events with lectures and workshops for researchers, hackers, and builders. ZKP! ♥\n\nResponsibilities:\n- Speaker and talk management\n- Sponsor acquisition\n- Community building\n- Facilitating meetup sessions, MC/moderating conference\n\nAchievements\n- Created an organic local community that meets regularly\n- Threw a full-day zk conference (zkWarsaw Day 2023) with world-calibre speakers just months after bootstrapping the community (and it sold out)\n\nReach out to my co-founder Marek Kirejczyk to learn more.",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "start": "2022-12",
+      "end": null,
+      "dateRange": "Dec 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Engineer",
+      "company": "Scroll",
+      "companyUrl": "https://www.linkedin.com/company/scroll-io",
+      "description": "Scroll is building a bytecode-level zkEVM rollup (zero-knowledge-proof-based rollup with EVM compatibility) infrastructure to scale the Ethereum blockchain.\n\nResponsibilities:\n- Infra engineering: Integrating Scroll's geth node (Go-Ethereum), zkevm circuits & zk prover (Rust) and dApp (React & Solidity) implementations towards a coherent L2 rollup network\n- DevOps: CI/CD for frontend apps such as bridge & rollup explorer (Netlify) and for backend components & services (Docker, Jenkins, GitHub Actions, AWS EC2)\n- Analytics & logging: Metrics collection for SRE, incident monitoring and BI (Sentry, Grafana, Google Analytics)\n- Process design: Project management (Asana), collaboration & code quality (GH PR guidance, monorepo dependency versioning), knowledge sharing (Notion), auditing, employee hiring & onboarding\n- Cross-team communication: Engineering-DevRel-BD coordination\n- Educating about Scroll: Giving talks, workshops & interviews and going on discussion panels during crypto conferences/events\n\nAchievements (as the company grew 5x):\n- Refactored codebase for stand-alone environments (production, staging, development) and large-team collaboration\n- Introduced, facilitated and led weekly meetings that established communication flows and a robust intra/cross team sync rhythm & culture\n- Streamlined the hiring & onboarding process\n- Raised awareness about Scroll among developers\n- Co-launched three testnets that culminated in mainnet",
+      "location": "Hong Kong, Hong Kong SAR",
+      "start": "2022-04",
+      "end": "2023-10",
+      "dateRange": "Apr 2022 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Knit",
+      "companyUrl": "https://www.linkedin.com/company/knit-works",
+      "description": "Knit lets you tighten your organisation through video-based networking events.\n\nResponsibilities:\n- Tech strategy and full-stack implementation\n- Controlling (KPIs, metric tracking, financials)\n\nAchievements:\n- Created and tested 4 MVPs during first 4 months (React frontend and Node backend)\n- Reached ramen-profitability 6 months after inception (hosted 300+ virtual events)\n- Helped 10k students and academics at top universities to socialise during the pandemic\n\nReach out to my co-founder Konrad Urban to learn more.",
+      "location": "Greater London, England, United Kingdom",
+      "start": "2020-04",
+      "end": "2022-01",
+      "dateRange": "Apr 2020 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Adviser",
+      "company": "Cara Care",
+      "companyUrl": "https://www.linkedin.com/company/hidoc",
+      "description": "- Hired and onboarded new tech team\n- Consulted app changes for German DiGA compliance (granted in 2021)",
+      "location": "Berlin Metropolitan Area",
+      "start": "2019-07",
+      "end": "2022-04",
+      "dateRange": "Jul 2019 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Managing Partner",
+      "company": "Dessert Ventures",
+      "companyUrl": "https://www.linkedin.com/company/dessert-ventures",
+      "description": "Tech entrepreneurs for your business. We provide freelance tech consulting and product development services. Reach out if you're looking for:\n- Web3 full-stack devs\n- Data engineers\n- Interim CTO",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "start": "2019-07",
+      "end": "2020-04",
+      "dateRange": "Jul 2019 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CTO Product",
+      "company": "Cara Care",
+      "companyUrl": "https://www.linkedin.com/company/hidoc",
+      "description": "Cara Care by HiDoc Technologies empowers individuals suffering from chronic digestive diseases to live a better life.\n\nResponsibilities:\n- Technical strategy\n- Hiring and onboarding process\n- Controlling (KPIs, metric tracking, financials)\n- Operations (patients, nutritionists, sales teams)\n\nAchievements:\n- Built digestive health tracker app (iOS, Android, RN; 4.7 stars @ 3k+ ratings, 500k+ downloads)\n- Set up agile structure and DevOps, co-led a product team of 7 members (Django, React and React Native)\n- Set up and led ops team of 20 medical therapy nutritionists and 10 B2C phone sales people\n- Co-raised $9M, seed from Atlantic Labs (Germany), series A from Asabys (Spain) and JJDC (USA)\n\nReach out to my co-founders Dankrad Feist, Andre Sommer and Jesaja Brinkmann to learn more.",
+      "location": "Berlin Metropolitan Area",
+      "start": "2015-12",
+      "end": "2019-06",
+      "dateRange": "Dec 2015 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Panasonic USA",
+      "companyUrl": "https://www.linkedin.com/company/panasonic-northamerica",
+      "description": "Panasonic R&D Company of America, Silicon Valley Lab, full-time intern, master's thesis\n- Developed custom reinforcement learning sandbox for robotics\n- Deep Q-learning, ROS, Python, autonomous systems",
+      "location": "Cupertino, USA",
+      "start": "2015-08",
+      "end": "2016-02",
+      "dateRange": "Aug 2015 – Feb 2016",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Telecom Etude",
+      "companyUrl": "https://www.linkedin.com/company/telecom-etude",
+      "description": "Telecom ParisTech's Junior Enterprise, full stack development consulting\n- Developed and maintained iOS app Iperio and AppliDroit\n- iPhone & iPad development, Objective-C, PHP backend",
+      "location": "Greater Paris Metropolitan Region",
+      "start": "2014-12",
+      "end": "2015-07",
+      "dateRange": "Dec 2014 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Academy Consult München e.V.",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": "Munich's Junior Enterprise, general consulting, three-person team\n- Analysed, structured and visualised the CRM market\n- Microsoft Sharepoint",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-06",
+      "end": "2014-09",
+      "dateRange": "Jun 2014 – Sep 2014",
+      "current": false
+    },
+    {
+      "title": "Intern iOS Application Developer",
+      "company": "adesso AG",
+      "companyUrl": "https://www.linkedin.com/company/adesso-se",
+      "description": "TUM cooperation internship, seven-person team\n- Built a B2B iOS app suite for interactive product sketch prototyping, easing designing new apps\n- iPhone & iPad development, Objective-C",
+      "location": "Munich Area, Germany (HQ: Dortmund)",
+      "start": "2014-04",
+      "end": "2014-07",
+      "dateRange": "Apr 2014 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "Thesis Student",
+      "company": "fortiss GmbH",
+      "companyUrl": "https://www.linkedin.com/company/fortiss",
+      "description": "Research institute, bachelor's thesis\n- Designed and built an energy production and consumption forecast system in an automated smart micro grid environment for a smart home/office, including a live demonstrator\n- Java backend, automation",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-05",
+      "end": "2013-09",
+      "dateRange": "May 2013 – Sep 2013",
+      "current": false
+    },
+    {
+      "title": "Web Application Developer",
+      "company": "Deutsche Telekom AG",
+      "companyUrl": "https://www.linkedin.com/company/telekom",
+      "description": "CDTM cooperation for Product Development Management, five-person team\n- Designed and built a rich mobile multimedia web app\n- HTML5, JS, WebRTC",
+      "location": "Munich Area, Germany (HQ: Bonn)",
+      "start": "2013-04",
+      "end": "2013-07",
+      "dateRange": "Apr 2013 – Jul 2013",
+      "current": false
+    },
+    {
+      "title": "Trend Researcher",
+      "company": "Audi Electronics Venture GmbH",
+      "companyUrl": null,
+      "description": "CDTM cooperation for Trend Research, five-person team\n- Co-authored human-machine-interaction trend report\n- Publication: „Human-Machine-Interaction in Individual Mobility“",
+      "location": "Munich Area, Germany (HQ: Ingolstadt)",
+      "start": "2013-03",
+      "end": "2013-05",
+      "dateRange": "Mar 2013 – May 2013",
+      "current": false
+    },
+    {
+      "title": "Tutor for Operating Systems",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "University tutor for students, ten fellow tutors on the team\n- Taught students about operating systems and programming languages\n- Didactics, inter-tutor coordination in a large team",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-10",
+      "end": "2013-03",
+      "dateRange": "Oct 2012 – Mar 2013",
+      "current": false
+    },
+    {
+      "title": "Tutor for Discrete Mathematics",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "University tutor for students, fifteen fellow tutors on the team\n- Taught first-year students about discrete mathematics, including algebra and combinatorics, and about using Matlab for basic computational and visualisation tasks\n- Didactics, dealing with technical novices, inter-tutor coordination in a large team",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2011-10",
+      "end": "2012-04",
+      "dateRange": "Oct 2011 – Apr 2012",
+      "current": false
+    },
+    {
+      "title": "Intern Backend Developer",
+      "company": "Flughafen München GmbH",
+      "companyUrl": "https://www.linkedin.com/company/munich-airport",
+      "description": "TUM cooperation internship, six-person team, six cooperating teams in project unit\n- Built business logic server for airport logistics monitoring and management\n- Java backend with OSGi, inter-team coordination",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2011-10",
+      "end": "2012-03",
+      "dateRange": "Oct 2011 – Mar 2012",
+      "current": false
+    },
+    {
+      "title": "Custom Software Developer",
+      "company": "Freelance",
+      "companyUrl": null,
+      "description": "Various freelance jobs\n- Built custom software and designed web pages. Example: Linux distribution for cashiers based on integrated free software components and custom user interface modules\n- Linux, Java, Javascript, web design, web apps",
+      "location": "Poland & Germany",
+      "start": "2011-08",
+      "end": "2013-03",
+      "dateRange": "Aug 2011 – Mar 2013",
+      "current": false
+    },
+    {
+      "title": "IT Systems Administrator",
+      "company": "Willy-Brandt-Schule Warschau",
+      "companyUrl": null,
+      "description": "School computer hardware, system and network management\n- Migrated school IT to a centralised Active Directory Linux/Windows environment with stationary thin and mobile fat clients\n- GNU/Linux, MS Windows, MS AD, LDAP, server-grade hardware",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "start": "2008-09",
+      "end": "2010-07",
+      "dateRange": "Sep 2008 – Jul 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Télécom Paris",
+      "degree": "French Ingénieur Diplômé/M.Eng., Computer Science",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master’s Degree, Computer Science",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Psychology",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor’s Degree, Computer Science",
+      "dateRange": "2010 – 2013"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Software Development",
+    "Project Management",
+    "iOS Development",
+    "Programming",
+    "Machine Learning",
+    "Mobile Applications",
+    "Business",
+    "Java",
+    "JavaScript",
+    "Python",
+    "Objective-C",
+    "Matlab",
+    "Linux",
+    "OS X",
+    "iOS",
+    "TEE",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Intercultural Communication",
+    "English",
+    "German",
+    "French",
+    "Polish",
+    "Ukrainian",
+    "Languages",
+    "Networking",
+    "Russian",
+    "React.js",
+    "React Native",
+    "Node.js",
+    "Amazon Web Services (AWS)"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Polish",
+    "Russian",
+    "Ukrainian"
+  ],
+  "company": {
+    "name": "t1",
+    "tagline": "t1 introduces real-time proofs to unify Ethereum and the rollup ecosystem. Backed by a16z csx.",
+    "description": "t1 introduces real-time proofs to unify Ethereum and the rollup ecosystem. Backed by a16z csx.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://t1protocol.com",
+    "linkedInUrl": "https://www.linkedin.com/company/t1protocol",
+    "employeeCount": 5,
+    "foundedYear": 2024,
+    "location": null,
+    "specialities": [
+      "Ethereum",
+      "Blockchain",
+      "Rollup"
+    ]
+  }
+}

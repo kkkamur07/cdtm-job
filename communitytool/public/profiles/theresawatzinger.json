@@ -1,0 +1,229 @@
+{
+  "id": "theresawatzinger",
+  "name": "Theresa Watzinger",
+  "headline": "MBA Candidate @ MIT Sloan | BCG | CDTM & LMU",
+  "avatar": {
+    "sm": "/avatars/theresawatzinger-sm.webp",
+    "lg": "/avatars/theresawatzinger.webp",
+    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAAAwBQCdASogACAAPs1Oo0unpCMht/VYAPAZiWQAvkh7XNu7Vioa8A68hQb2++eTgQaGAAD+/i82mzFT9IWnjmvV4QEvxTNrrujDdT9OZRNvYnG5FPd5/oE4FBxT62rlRrW1idadOougHirGgVEaFn6y1gL+ybir+Qkt7gTB/SS5AvIumBYQK0Wyd6C2o+YvwjoYKiZ+DS91mZ64FovXoLo8s/7h43SV5jM5i8ZIOd0H4BfOrGd6MnVAIZ8H6SOgAAA="
+  },
+  "location": "Boston, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/theresawatzinger",
+  "personId": 797,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Theresa Watzinger",
+  "ca": null,
+  "summary": "Work at Boston Consulting Group (BCG)",
+  "positions": [
+    {
+      "title": "Educational Leave",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Boston, Massachusetts, United States",
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Project Leader",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-07",
+      "end": "2024-08",
+      "dateRange": "Jul 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Member of the Principal Investors and Private Equity (PIPE) practice area",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-09",
+      "end": "2024-06",
+      "dateRange": "Sep 2022 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Member of the Principal Investors and Private Equity (PIPE) practice area",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-05",
+      "end": "2022-08",
+      "dateRange": "May 2021 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Member of the Principal Investors and Private Equity (PIPE) practice area",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-05",
+      "end": "2021-04",
+      "dateRange": "May 2020 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Intern Consulting",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2019-07",
+      "end": "2019-09",
+      "dateRange": "Jul 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Intern Center for Strategic Projects",
+      "company": "Deutsche Telekom",
+      "companyUrl": "https://www.linkedin.com/company/telekom",
+      "description": null,
+      "location": "Bonn, Nordrhein-Westfalen, Deutschland",
+      "start": "2019-04",
+      "end": "2019-06",
+      "dateRange": "Apr 2019 – Jun 2019",
+      "current": false
+    },
+    {
+      "title": "Intern Internationalization and Strategy",
+      "company": "FC Bayern München",
+      "companyUrl": "https://www.linkedin.com/company/fcbayern",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2019-01",
+      "end": "2019-03",
+      "dateRange": "Jan 2019 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Intern Inhouse Consulting",
+      "company": "AUDI AG",
+      "companyUrl": "https://www.linkedin.com/company/audi-ag",
+      "description": null,
+      "location": "Ingolstadt, Bavaria, Germany",
+      "start": "2018-10",
+      "end": "2018-12",
+      "dateRange": "Oct 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Working Student Financial Services Advisory",
+      "company": "PwC Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/pwc-deutschland",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-10",
+      "end": "2018-02",
+      "dateRange": "Oct 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Intern Financial Services Advisory",
+      "company": "PwC Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/pwc-deutschland",
+      "description": null,
+      "location": "Frankfurt Rhine-Main Metropolitan Area",
+      "start": "2017-08",
+      "end": "2017-10",
+      "dateRange": "Aug 2017 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Ludwig-Maximilians Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-01",
+      "end": "2017-05",
+      "dateRange": "Jan 2016 – May 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "MIT Sloan School of Management",
+      "degree": "Master of Business Administration - MBA",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Business Administration",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "Singapore Management University",
+      "degree": "Semester abroad",
+      "dateRange": "2016 – 2017"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Boston Consulting Group (BCG)",
+    "tagline": null,
+    "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.\n \nOur diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. \n\nWe work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.\n\nBCG Privacy Policy: https://www.bcg.com/about/privacy-policy.aspx",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bcg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/boston-consulting-group",
+    "employeeCount": 41217,
+    "foundedYear": 1963,
+    "location": "Boston, United States",
+    "specialities": [
+      "Consumer insight",
+      "corporate development",
+      "corporate finance",
+      "digital economy",
+      "globalization",
+      "growth",
+      "information technology",
+      "innovation",
+      "marketing & sales",
+      "operations",
+      "people & organization",
+      "postmerger integration",
+      "risk management",
+      "strategy",
+      "sustainability",
+      "transformation",
+      "climate",
+      "artificial intelligence",
+      "cost transformation",
+      "supply chains"
+    ]
+  }
+}

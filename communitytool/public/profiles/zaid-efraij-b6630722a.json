@@ -1,0 +1,151 @@
+{
+  "id": "zaid-efraij-b6630722a",
+  "name": "Zaid Efraij",
+  "headline": "Special Projects Engineer @ EGYM | CDTM | AI E-Lab | M.Sc. Robotics & AI @ TUM",
+  "avatar": {
+    "sm": "/avatars/zaid-efraij-b6630722a-sm.webp",
+    "lg": "/avatars/zaid-efraij-b6630722a.webp",
+    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAADwBQCdASogACAAPs1UpEunpKOhsBgMAPAZiUAZdOWCpaeRPv4VyZMoRuWri6cd8jWv1ZZen0TfAAD+/BUIPLkhjkvmwSpevia5GhBvyoW/vts0FBRzyE19d5aepJHsld8eMBLvJ7hOQDp6eB5Q36gZxz6547MQHkU4GcOrIHC2jItaPqky0Kt5X3338HRwlt6ZBjBPbHqL0MaPKxc++Ea3qBoIlwGGLLLTLCCdMOgQ9+Uhap1cJJncS6RJTbCCweLdR0v2SmoKsqMGbQfu2FhoqK+zUFWnwYu7yl1rXDz7xp4lyEVw/huEAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/zaid-efraij-b6630722a",
+  "personId": 1292,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Zaid Efraij",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Research & Development Engineer",
+      "company": "EGYM",
+      "companyUrl": "https://www.linkedin.com/company/egym-global",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Venture Operations Lead",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-05",
+      "end": "2025-01",
+      "dateRange": "May 2023 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "metamorphosis GmbH",
+      "companyUrl": "https://www.linkedin.com/company/metamorphosis-gmbh",
+      "description": null,
+      "location": "Paderborn, North Rhine-Westphalia, Germany",
+      "start": "2022-07",
+      "end": "2024-07",
+      "dateRange": "Jul 2022 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Research & Development Engineer",
+      "company": "dSPACE",
+      "companyUrl": "https://www.linkedin.com/company/dspace-group",
+      "description": null,
+      "location": "Paderborn, North Rhine-Westphalia, Germany",
+      "start": "2021-07",
+      "end": "2022-06",
+      "dateRange": "Jul 2021 – Jun 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Robotics, Cognition, Intelligence",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "Paderborn University",
+      "degree": "Bachelor's degree, Computer Engineering",
+      "dateRange": "2019 – 2022"
+    }
+  ],
+  "skills": [
+    "Semiconductor Engineering",
+    "Engineering Mathematics",
+    "Data Structures",
+    "Algorithms",
+    "Operating Systems",
+    "Systems Engineering",
+    "Early stage Product Development",
+    "TensorFlow",
+    "Keras",
+    "PyTorch",
+    "Robot Operating System (ROS)",
+    "Legacy Systems",
+    "Test Automation",
+    "Python (Programming Language)",
+    "C (Programming Language)",
+    "C#",
+    "Medical Technology",
+    "Software Development",
+    "Strategic Planning",
+    "Operations Management",
+    "Coaching & Mentoring",
+    "Technology Evaluation",
+    "Public Speaking",
+    "Machine Learning",
+    "Computer Vision",
+    "Research and Development (R&D)",
+    "Rapid Prototyping",
+    "Product Development"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "EGYM",
+    "tagline": null,
+    "description": "EGYM is a global fitness technology company on a mission to shift healthcare from repair to prevention — equipping fitness and health facilities with smart, connected training solutions and employers with corporate wellness through EGYM Wellpass. \n\nEGYM is part of the Playlist portfolio of brands.",
+    "industry": "Wellness and Fitness Services",
+    "website": "https://us.egym.com/en-us",
+    "linkedInUrl": "https://www.linkedin.com/company/egym-global",
+    "employeeCount": 483,
+    "foundedYear": null,
+    "location": "Denver, United States",
+    "specialities": [
+      "Fully Electronic Strength Equipment",
+      "Open Cloud Platform",
+      "Online Workout Planning & Tracking",
+      "Training Analysis",
+      "Smart Trainer-Member Interaction"
+    ]
+  }
+}

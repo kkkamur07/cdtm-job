@@ -1,0 +1,169 @@
+{
+  "id": "joana-haase",
+  "name": "Joana Haase",
+  "headline": "DevOps Engineer @IBM | Co-Founder @Prisma3D | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/joana-haase-sm.webp",
+    "lg": "/avatars/joana-haase.webp",
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAAAQBgCdASogACAAPr1QnkunJSKht/qoAOAXiWIAVEKbuPfvPJMRdx/p9AH5z/ZGOl/Lr8l4EmoHgAAA/v4xtuySImTyXdiYX8J7PPnNeThqAho0+R3z6ibSdqBs5XlsnVGFn62qdch1yGihvp6dRYE/w2B3Fw3NfPxI+QOlpTVpQyXuIkSPcDhwPXIvO7qlFBGS6MXCZtgiGVr98PYXWhKPFCHr6MyNh9InK98n7vZ4rIosm0obFUgA14EWlXUSZ7mfEqR88nOyrdlvDWK9+uoyxmp20MKJ3/Wn48bm+AqBI77AgS/CcAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/joana-haase",
+  "personId": 936,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Human Factors Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Joana Haase",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Prisma3D",
+      "companyUrl": "https://www.linkedin.com/company/prisma3d-app",
+      "description": "• Co-founded and scaled the Prisma3D mobile app to 10M+ downloads on Android and iOS\n\n• Directed the development of a 3D model store, coordinating 3D design freelancers and a working student\n\n• Led iOS development in Swift (implementation, testing, App Store launch) and built 3D/AR/VR features with Unity and C#\n\n• Managed finance and operations, including legal, accounting, and HR setup",
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-03",
+      "end": null,
+      "dateRange": "Mar 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "DevOps Engineer & Software Engineer - IBM Expert Labs",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "• Engineering CI/CD pipelines for Java and Python applications, integrating with Git to automatically trigger builds, containerizing Maven builds and quality checks, enabling scalable deployments to Kubernetes/OpenShift with Argo CD and Helm\n\n• Leveraged template-based code generation to automate configuration and deployment artifacts, improving consistency and developer productivity\n\n• Developed custom Maven plugins in Java to generate, test, and publish REST APIs as OpenAPI specifications, supporting API lifecycle management\n\n• Developed and deployed integration applications to process and route data streams between enterprise systems, Kafka, and external REST APIs",
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-01",
+      "end": null,
+      "dateRange": "Jan 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer - IBM Software Services",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "• Designed and developed an employee application for the IBM Watson Center using node.js / Express.js\n\n• Developed a backend application for large-scale IoT data processing using Java (Jakarta EE), IBM WebSphere Liberty, MQTT, IBM MQ\n\n• Led the technical team for an IoT project in the public transportation sector",
+      "location": "München, Bayern, Deutschland",
+      "start": "2016-10",
+      "end": "2017-07",
+      "dateRange": "Oct 2016 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Dual Student - Business Informatics",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "• Gained practical software engineering and project management experience at IBM: development of prototypes and backend applications, as part of six alternating industry placements\n\n• Junior Software Engineer at IBM China Systems and Technology Labs (Shanghai), defined test strategy, created test cases, introduced a tool for global verification testing\n\n• Bachelor thesis on credential management with blockchain and Open Badges, developed a working prototype with HTML, JavaScript and PHP",
+      "location": "Mannheim",
+      "start": "2013-10",
+      "end": "2016-09",
+      "dateRange": "Oct 2013 – Sep 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "M. Sc., Human Factors Engineering",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Centrale Méditerranée",
+      "degree": "Erasmus+ Study Abroad",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "DHBW Mannheim",
+      "degree": "B. Sc., Business Informatics",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Gymnasium Leopoldinum Detmold",
+      "degree": "Abitur",
+      "dateRange": "2005 – 2013"
+    },
+    {
+      "school": "Colegio Alemán de Quito",
+      "degree": "Student Exchange",
+      "dateRange": "2010 – 2011"
+    }
+  ],
+  "skills": [
+    "Robot Operating System (ROS)",
+    "Virtual Reality (VR)",
+    "App-Entwicklung für Mobilgeräte",
+    "Unternehmertum",
+    "Produktmanagement",
+    "Geschäftsführung",
+    "AWS",
+    "3D",
+    "Unity",
+    "C#",
+    "C++",
+    "VR-Entwicklung",
+    "Swift (Programmiersprache)",
+    "Software-Fehlerbehebung",
+    "Distributed Computing",
+    "Softwareverteilung",
+    "Softwareentwicklung",
+    "China",
+    "Blockchain",
+    "CI/CD"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "IBM",
+    "tagline": "Let's create smarter business.",
+    "description": "At IBM, we do more than work. We create. We create as technologists, developers, and engineers. We create with our partners. We create with our competitors. If you're searching for ways to make the world work better through technology and infrastructure, software and consulting, then we want to work with you.\n\nWe're here to help every creator turn their \"what if\" into what is. Let's create something that will change everything.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.ibm.com",
+    "linkedInUrl": "https://www.linkedin.com/company/ibm",
+    "employeeCount": 330976,
+    "foundedYear": null,
+    "location": "Armonk, New York, United States",
+    "specialities": [
+      "Cloud",
+      "Mobile",
+      "Cognitive",
+      "Security",
+      "Research",
+      "Watson",
+      "Analytics",
+      "Consulting",
+      "Commerce",
+      "Experience Design",
+      "Internet of Things",
+      "Technology support",
+      "Industry solutions",
+      "Systems services",
+      "Resiliency services",
+      "Financing",
+      "IT infrastructure"
+    ]
+  }
+}

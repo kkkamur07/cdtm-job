@@ -1,0 +1,223 @@
+{
+  "id": "michaelchromik",
+  "name": "Dr. Michael Chromik",
+  "headline": "TechPO/TechLead Data and Analytics @ DB InfraGO",
+  "avatar": {
+    "sm": "/avatars/michaelchromik-sm.webp",
+    "lg": "/avatars/michaelchromik.webp",
+    "blur": "data:image/webp;base64,UklGRkQBAABXRUJQVlA4IDgBAABwBgCdASogACAAPtFSo0yoJCMiMBgMAQAaCWwAnTM0NbJID3VsWs9FQWJu5C/Xju2N2zNuEh+jqLs5mMAA/uedozjm1MSf/3OrYvmvC8TJrHrJD4v929ybkOvbA3H8B6uXnXXC8WoMwXHsh6h1Lix8sPQOPmxUJ0OggpPTKK2LmSdoou3wQqGRiV16k3bczW/fmz+arlqlMoBzRWDUwbj35dGDdIMQ7oYO8U2r2fXfwVtZROSPeVutUJRWwSldqjsBSmr8URVMfJF5pTrBIhLYF7CkFK9mYgM6Y7n3zJfrUl5u6OpMTnRPWehoXzzTsb0BNjEDvJIWDJjVk7w77oe67XRaEXMSVpF5dHbR47T5pQ5NU/qErOf+wiVGIM15Y63e3tHs7HrTOzdSso5wQ9i9uF296gMAAAA="
+  },
+  "location": "Frankfurt, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/michaelchromik",
+  "personId": 987,
+  "classes": [
+    {
+      "id": 73,
+      "label": "Spring 2013",
+      "season": "Spring",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2013",
+  "major": "Wirtschaftsinformatik",
+  "roles": [
+    "student",
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Michael Chromik",
+  "ca": {
+    "alumni": true,
+    "about": null,
+    "responsibilities": [],
+    "researchFields": [],
+    "email": null
+  },
+  "summary": "I'm a development-savvy data product manager, data engineer, and researcher on Explainable AI with 10+ years of international experience at leading organizations in Munich, Beijing and Silicon Valley. I'm passionate about building user-centric data and analytics products for decision makers. Competitive endurance athlete. Student of the Stoa.",
+  "positions": [
+    {
+      "title": "TechPO/TechLead Big Data & Analytics",
+      "company": "DB InfraGO",
+      "companyUrl": "https://www.linkedin.com/company/db-infrago",
+      "description": "At DataNet, we build DB InfraGO's data and analytics platform with a value-driven product development approach to drive data innovation for Germany's railway infrastructure. As a Tech Lead, I promote that we as a team build the right data products and stay in line with DataNet's platform vision.",
+      "location": null,
+      "start": "2021-08",
+      "end": null,
+      "dateRange": "Aug 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Member of the Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Connecting, educating and empowering the innovators of tomorrow. The CDTM is a leading platform for open innovation and entrepreneurship education founded by the TU Munich and LMU Munich in 1998. Responsible for Strategic Partnerships • Product Development • IT",
+      "location": null,
+      "start": "2016-06",
+      "end": "2021-06",
+      "dateRange": "Jun 2016 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "StartX",
+      "companyUrl": "https://www.linkedin.com/company/startxfounders",
+      "description": "Frontend development and UX design for a social capital web platform in which StartX members ask the StartX community for introductions to potential investors. StartX is the startup accelerator, fellowship, and community for Stanford students, professors, and alumni.",
+      "location": null,
+      "start": "2015-04",
+      "end": "2015-10",
+      "dateRange": "Apr 2015 – Oct 2015",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and CTO",
+      "company": "ninu GbR",
+      "companyUrl": "https://www.linkedin.com/company/ninu-gbr",
+      "description": "Wearable Computing and Health Start-Up. NINU is a digital pregnancy companion for parents-to-be. It tracks general activity levels and health factors to provide individual feedback for a secure pregnancy.",
+      "location": null,
+      "start": "2013-10",
+      "end": "2015-02",
+      "dateRange": "Oct 2013 – Feb 2015",
+      "current": false
+    },
+    {
+      "title": "Senior Consultant Business Intelligence",
+      "company": "CRM Factory",
+      "companyUrl": "https://www.linkedin.com/company/crm-factory",
+      "description": "Designed, specified, and implemented enterprise data warehouses and business intelligence systems for automotive clients in Germany and Eastern Europe (SQL Server, Dynamics CRM, Tableau, Qlik). Onboarding and development of key accounts.",
+      "location": null,
+      "start": "2012-08",
+      "end": "2016-05",
+      "dateRange": "Aug 2012 – May 2016",
+      "current": false
+    },
+    {
+      "title": "Consultant Business Intelligence",
+      "company": "CRM Factory",
+      "companyUrl": "https://www.linkedin.com/company/crm-factory",
+      "description": "Designed processes, specifications, and systems for reporting and business intelligence for automotive clients in China and Eastern Europe (SQL Server, Dynamics CRM, Liferay).",
+      "location": null,
+      "start": "2011-09",
+      "end": "2012-08",
+      "dateRange": "Sep 2011 – Aug 2012",
+      "current": false
+    },
+    {
+      "title": "Data Warehouse Developer",
+      "company": "BMW China",
+      "companyUrl": "https://www.linkedin.com/company/bmw-auto-finance-china",
+      "description": "Designed and developed decision-support systems for BMW dealerships in China in close collaboration with business departments (Oracle, SAP BW).",
+      "location": null,
+      "start": "2010-10",
+      "end": "2011-09",
+      "dateRange": "Oct 2010 – Sep 2011",
+      "current": false
+    },
+    {
+      "title": "Research Internship/Bachelor Thesis",
+      "company": "Deutsche Post und DHL",
+      "companyUrl": "https://www.linkedin.com/company/deutsche-post-und-dhl",
+      "description": "Developed a statistical model for estimation of corrective maintenance efforts of IT systems within the corporate environment of Deutsche Post AG",
+      "location": null,
+      "start": "2010-02",
+      "end": "2010-06",
+      "dateRange": "Feb 2010 – Jun 2010",
+      "current": false
+    },
+    {
+      "title": "Freelance Frontend Developer",
+      "company": "Triplesense Reply",
+      "companyUrl": "https://www.linkedin.com/company/triplesense-gmbh",
+      "description": "Implemented user interfaces for corporate web projects (TYPO3, Drupal, JS).",
+      "location": null,
+      "start": "2009-12",
+      "end": "2010-10",
+      "dateRange": "Dec 2009 – Oct 2010",
+      "current": false
+    },
+    {
+      "title": "Internship Group Technology",
+      "company": "Deutsche Bank",
+      "companyUrl": "https://www.linkedin.com/company/deutsche-bank",
+      "description": "Designed and developed a business intelligence application for visualizing \nthe data quality of personnel databases (Pentaho, BIRT).",
+      "location": null,
+      "start": "2008-11",
+      "end": "2009-03",
+      "dateRange": "Nov 2008 – Mar 2009",
+      "current": false
+    },
+    {
+      "title": "Working Student Web-Services",
+      "company": "SCHUFA Holding AG",
+      "companyUrl": "https://www.linkedin.com/company/schufa-holding-ag",
+      "description": "Redesigned web presence and launched a corporate-wide content management system. Coordinated communications with IT service providers. Consulted inhouse web projects.",
+      "location": null,
+      "start": "2007-07",
+      "end": "2008-09",
+      "dateRange": "Jul 2007 – Sep 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Dr. rer. nat., Computer Science, Human Computer Interaction",
+      "dateRange": null
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting PhD Student Researcher, School of Information",
+      "dateRange": null
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Student Researcher, Human Computer Interaction",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., Information Systems",
+      "dateRange": null
+    },
+    {
+      "school": "Technische Universität Darmstadt",
+      "degree": "B.Sc., Information Systems",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Machine Learning",
+    "Product Management",
+    "Data Analysis",
+    "Product Development",
+    "Scrum",
+    "Data Warehousing",
+    "Business Intelligence (BI)",
+    "Python (Programmiersprache)",
+    "Agile mindset",
+    "Agile Mindset"
+  ],
+  "languages": [],
+  "company": {
+    "name": "DB InfraGO",
+    "tagline": "Deutschland braucht eine #StarkeSchiene",
+    "description": "Die DB InfraGO AG gestaltet die Zukunft der deutschen Eisenbahninfrastruktur. Seit dem 1. Januar 2024 bündeln wir die Kräfte der DB Netz AG und der DB Station&Service AG in einer gemeinwohlorientierten Infrastrukturgesellschaft. Mit über 61.000 Mitarbeiter:innen schaffen wir die Grundlage für die Mobilität von heute und morgen.",
+    "industry": "Railroad Equipment Manufacturing",
+    "website": "http://dbinfrago.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/db-infrago",
+    "employeeCount": 10376,
+    "foundedYear": null,
+    "location": "Frankfurt, Germany",
+    "specialities": []
+  }
+}

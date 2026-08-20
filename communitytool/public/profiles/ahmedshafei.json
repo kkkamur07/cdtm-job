@@ -1,0 +1,218 @@
+{
+  "id": "ahmedshafei",
+  "name": "Ahmed Shafei",
+  "headline": "Director of Products at ADHDS | Ex-McKinsey",
+  "avatar": {
+    "sm": "/avatars/ahmedshafei-sm.webp",
+    "lg": "/avatars/ahmedshafei.webp",
+    "blur": "data:image/webp;base64,UklGRlgBAABXRUJQVlA4IEwBAAAwBwCdASogACAAPtFYpEuoJSOhsAgBABoJbACdMoR7V/CxZxrO7ACPWNw9gcG5aZevNL+cD9BuD3wv75kw5Ib14gAA/tzf3xgz0q0ee+2IWNPG+om7fclT4uQGe5o04s7qXdVhVwL8amhYIJOyUqHMIvFP7aYIYmoVfyZ78yY+XmhwDJZ9HLGWiNqGgAb+f/mbfUyvTwcK8nam11qz5Ozvhakj/hhEB9YDoHmqCpY1Z6fUz3G8d+ApNb7nAnll6tm9/OBVX4IiNTn9JWiknfmgR+Ae2bUrEKXAEPxQYORES7YelVb+qPaiZ9FVwxzbwkRKB8pErnTqsA/QEhct3vy1/Jd+vWVUaycbmyfnzQybjfgatP76t1/Uhec2eCp9UCq6DCGKOtvVGnzmT4Y9JgL7IUYm6yzFvf2D+VqNg5KT61S9WeCchOe/+0+QAA=="
+  },
+  "location": "Abu Dhabi Emirate, United Arab Emirates",
+  "linkedInUrl": "https://www.linkedin.com/in/ahmedshafei",
+  "personId": 713,
+  "classes": [
+    {
+      "id": 77,
+      "label": "Spring 2015",
+      "season": "Spring",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2015",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Ahmed Shafei",
+  "ca": null,
+  "summary": "Ahmed is a Product Management Director at Abu Dhabi Health Data Services (ADHDS), where he leads digital strategy and delivery of innovative HealthTech products. He has over 10 years of experience in product management, software engineering, and applied research. Ahmed holds a MS in Computer Science from the Technical University of Munich and several professional certifications in product management and agile. He speaks Arabic, English, German, and worked in Europe, USA, China, and Middle East.\n\nAhmed is passionate about creating user-centric and data-driven solutions that leverage cutting-edge technologies. He is skilled in Digital Strategy and Roadmapping, Product Lifecycle Management, Digital Transformation, Agile and Scrum Methodologies, Market Analysis and Research, User-Centric Design Thinking, Data-Driven Decision Making, Pricing and Monetization Strategies, GTM Strategy, Data Analytics and Metrics Tracking, Customer Journey Mapping, Requirements Elicitation, and Rapid Prototyping.",
+  "positions": [
+    {
+      "title": "Director of Products",
+      "company": "Abu Dhabi Health Data Services",
+      "companyUrl": "https://www.linkedin.com/company/adhds",
+      "description": "• Transforming the organization into a product-led operating model and Agile ways of working.\n• Leading the digital product strategy and delivery across a portfolio of 5+ HealthTech products, including Malaffi Health Information Exchange, Sahatna healthcare super-app, E-prescription system, and Shafafiya e-claims management system.\n• Building and scaling the product management department including a team of 20+ product managers and designers.",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "start": "2024-10",
+      "end": null,
+      "dateRange": "Oct 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Director of Products, Senior Engagement Manager",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "My work focuses on digital strategy and product delivery, as well as overall digital transformation across Mckinsey’s banking and public sector practices.",
+      "location": "Abu Dhabi, United Arab Emirates",
+      "start": "2021-10",
+      "end": "2024-10",
+      "dateRange": "Oct 2021 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Associate Director of Products",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Abu Dhabi, United Arab Emirates",
+      "start": "2021-02",
+      "end": "2021-09",
+      "dateRange": "Feb 2021 – Sep 2021",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "KINEXON",
+      "companyUrl": "https://www.linkedin.com/company/kinexon",
+      "description": "• Developed the KINEXON OS product that enables location-based production process automation via standardized interfaces, and technology agnostic data integration layer.\n• Developed the KINEXON ePaper product that combines real-time indoor localization with E Ink-based production process visualization.\n• Established product management processes and tools for the entire company.\n• Led 3 Agile squads of 20+ members.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-07",
+      "end": "2020-12",
+      "dateRange": "Jul 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "BSH Home Appliances Group",
+      "companyUrl": "https://www.linkedin.com/company/bsh-home-appliances-group",
+      "description": "• Developed the Bosch X-Spect product, world's first multipurpose connected household device designed to assist users in laundry activities, pursuing it from conception to market launch in China.\n• Established the 1st hub for development of connected IoT products and related digital services at BSH worldwide.\n• Led 7 cross-functional HW & SW teams to develop and release connected products.\n• Kept high pace of work by grooming and prioritizing the product backlog to parallelize interdependent work streams.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2016-11",
+      "end": "2019-05",
+      "dateRange": "Nov 2016 – May 2019",
+      "current": false
+    },
+    {
+      "title": "Research Assistant, MSc. Student",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "• Developed an autonomous manufacturing assembly system using OWL Ontologies that enables safe human-robot collaborative task planning based on agent capabilities.",
+      "location": "Berkeley, California, United States",
+      "start": "2016-02",
+      "end": "2016-10",
+      "dateRange": "Feb 2016 – Oct 2016",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "• Implemented a REST web service based on the OpenGIS standard for a water supply station in Italy, which enabled 100% remote and autonomous control of deployed sensors & actuators.\n• Implemented a real-time visualization web service for 802.11s MESH networks using Kafka and Spark.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2014-01",
+      "end": "2016-01",
+      "dateRange": "Jan 2014 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Best in Class Program'19",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "• Developed an industrial application in ladder logic using Simatic S7.\n• Attended different courses on marketing, sales, time and project management.\n• Won 1st place in the annual Best in Class (BIC) competition.",
+      "location": "Cairo, Egypt",
+      "start": "2012-07",
+      "end": "2012-08",
+      "dateRange": "Jul 2012 – Aug 2012",
+      "current": false
+    },
+    {
+      "title": "Junior Teaching Assistant",
+      "company": "German University in Cairo",
+      "companyUrl": "https://www.linkedin.com/company/german-university-in-cairo",
+      "description": "• Instructed the practical content for three courses to undergraduate students: Network Protocols, Signaling and Network Control, Systems and Control.\n• Taught Android Development to 40 junior bachelor students.\n• Supervised and evaluated the Android projects developed by 40 students including system design and implementation.\n\nThere were two main apps developed by the students:\nGUC Portal: A cloud-based backend service and an Android app allowing the students to share their course material and have direct interaction with their lecturers, including a schedule organizer and live streaming of lectures.\n\nOnline Pictionary: A server and an Android gaming app allowing the players to create games in teams. According to turns, a player draws a live picture while the others start guessing the correct word.",
+      "location": "Cairo, Egypt",
+      "start": "2012-03",
+      "end": "2013-01",
+      "dateRange": "Mar 2012 – Jan 2013",
+      "current": false
+    },
+    {
+      "title": "Android Software Engineer",
+      "company": "German University in Cairo",
+      "companyUrl": "https://www.linkedin.com/company/german-university-in-cairo",
+      "description": "• Developed a media streaming app for the university's radio station including live chatting with the radio broadcaster.\n• Developed two apps for famous Egyptian singers to allow fans stream their music, videos, and receive latest photos and news.",
+      "location": "Cairo, Egypt",
+      "start": "2011-06",
+      "end": "2011-08",
+      "dateRange": "Jun 2011 – Aug 2011",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Innova Egypt",
+      "companyUrl": "https://www.linkedin.com/company/innova-egypt",
+      "description": "• Developed a smart home system with Spring backend and Android app to control our custom made sensor boards.\n• Developed a reefer temperature monitoring system for fleet management with real-time SMS & push notifications to ensure safety and freshness of refrigerated cargos.",
+      "location": "Cairo, Egypt",
+      "start": "2010-12",
+      "end": "2013-09",
+      "dateRange": "Dec 2010 – Sep 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (MS), Computer Science",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours degree, Computer/Information Technology Administration and Management",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "The German University in Cairo",
+      "degree": "Bachelor’s Degree, Computer Systems Networking and Telecommunications",
+      "dateRange": "2008 – 2013"
+    }
+  ],
+  "skills": [
+    "Product Management",
+    "Digital Strategy",
+    "Java",
+    "Programming",
+    "Android Development",
+    "Product Development",
+    "Agile Methodologies",
+    "Software Engineering",
+    "Project Management",
+    "Algorithms",
+    "Cloud Computing",
+    "Network Security",
+    "Computer Science",
+    "Design Patterns",
+    "Web Services",
+    "Project Delivery",
+    "TCP/IP",
+    "Databases",
+    "Matlab",
+    "SQL"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "company": {
+    "name": "Abu Dhabi Health Data Services",
+    "tagline": "Building Tomorrow's Healthcare with AI, Data & Digital Transformation",
+    "description": "M42’s Abu Dhabi Health Data Services (ADHDS) is a premier digital healthcare solutions company serving as a strategic catalyst for advancing the healthcare ecosystem in Abu Dhabi and beyond. ADHDS digitally empowers health by championing innovative solutions to elevate the quality of care, expand access, optimise costs, and unlock efficiencies on a national, regional, and global scale. Harnessing the power of data and technology, ADHDS drives transformative change across the healthcare eco-system and makes a lasting impact on the communities they serve.\n\nADHDS established a Private-Public Partnership (PPP) with the Department of Health Abu Dhabi (DOH) to build and operate Malaffi, the trailblazing Abu Dhabi Health Information Exchange (HIE). Following the successful delivery of Malaffi, as one of the fastest rolled-out and most advanced HIEs globally, ADHDS has become renowned for successfully delivering major national digital healthcare transformational projects, acting as a critical link between regulators, governments, healthcare providers, biopharma companies, and patient communities. ADHDS is an asset of M42, a global health leader powered by artificial intelligence and technology to transform care for all.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://adhds.ae/",
+    "linkedInUrl": "https://www.linkedin.com/company/adhds",
+    "employeeCount": 23,
+    "foundedYear": 2018,
+    "location": "Abu Dhabi, United Arab Emirates",
+    "specialities": [
+      "Health Data Services",
+      "Digital Transformation",
+      "AI",
+      "Consultancy"
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "konstantin-huneke",
+  "name": "Konstantin Huneke",
+  "headline": "Co-Founder & CEO @ Lemonflow | AI for EV Charging",
+  "avatar": {
+    "sm": "/avatars/konstantin-huneke-sm.webp",
+    "lg": "/avatars/konstantin-huneke.webp",
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAwBgCdASogACAAPslSoUunpKMht/VYAPAZCWIAVUd4DbOintVsQnkxgcp2HUbjlx38pa6OpOAF/FAAAP7+qyjrnHf2wOsRtOGAmd5orLTBhkt6xuPq10AFzPBJygE2Y/F4j/j2TeYxSKmVJs2AIAFWnr0KXhREYFd6/X9bNFz7XcThJZ3bEQaptRuy32zb3z9JbvKGWeOeX5bbX6NO2D1nrAR4L3l0wfoXuxG5CjCUrT1kw/O89/xk1ROOjEP6zTWDqAAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/konstantin-huneke",
+  "personId": 777,
+  "classes": [
+    {
+      "id": 80,
+      "label": "Fall 2016",
+      "season": "Fall",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2016",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Konstantin Huneke",
+  "ca": null,
+  "summary": "Co-Founder & CEO at Lemonflow - the AI Agent for EV Charging. Previously Senior Engagement Manager and Co-Leader of the European EV Charging Infra Practice at McKinsey & Company. Graduate of the University of Oxford with a MSc in Financial Economics.",
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Lemonflow",
+      "companyUrl": "https://www.linkedin.com/company/lemonflow-ai",
+      "description": "AI customer support agents and proactive operations monitoring - purpose-built for EV charging.",
+      "location": "Munich",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Engagement Manager",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "Co-Leader European EV Charging Infra Practice\nFounder EV Charging Software Service Line",
+      "location": "Munich",
+      "start": "2020-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2020 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Internships",
+      "company": "Various Companies",
+      "companyUrl": "https://www.linkedin.com/company/various-boards",
+      "description": "Yttrium (Investment Team, Growth Equity)\nMaxburg Capital (Investment Team, Buyout)\nFly Ventures (Investment Team, VC)\nBonVenture (Investment Team, Impact VC)\nKinexon (Business Development, Tech Startup)\nRoland Berger (Restructuring, Consulting)",
+      "location": null,
+      "start": "2015-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2015 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Oxford",
+      "degree": "MSc Financial Economics, Dean's List, graduated with Distinction (First Class)",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management, graduated with Distinction",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "BSc Business Administration, Dean's List, graduated top 5% of class",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Exchange Student, School of Information and Haas School of Business",
+      "dateRange": "2018"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Social Entrepreneurship",
+    "Start-ups",
+    "Business Strategy",
+    "Project Management",
+    "Public Speaking",
+    "Leadership",
+    "Social Media",
+    "Vorträge",
+    "Marketingstrategie",
+    "Projektmanagement",
+    "Unternehmertum",
+    "Private Equity",
+    "Hedge Funds",
+    "Corporate Finance",
+    "Financial Modeling",
+    "Business Valuation",
+    "Investments"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian"
+  ],
+  "company": {
+    "name": "Lemonflow",
+    "tagline": "AI purpose-built for EV charging.",
+    "description": "A positive connection with every charge. AI customer support agents and proactive operations monitoring - purpose-built for EV charging.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://lemonflow.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/lemonflow-ai",
+    "employeeCount": 9,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "carlaappel",
+  "name": "Carla A.",
+  "headline": "Pacifico Biolabs | CDTM",
+  "avatar": {
+    "sm": "/avatars/carlaappel-sm.webp",
+    "lg": "/avatars/carlaappel.webp",
+    "blur": "data:image/webp;base64,UklGRgwBAABXRUJQVlA4IAABAAAQBgCdASogACAAPtFapE0oJSMiKA1RABoJbAC7IBp8AEZ+iXyEfBb42cfUojZkpsbBlVfMSGIGGAAA/u1Ou1PNRQbu1Bcsw01CPycXL5PWwtGTdkywLbRWpMVVJrWE+XLbDf1tk9xTNGVCVjcm0gF4RP6d35iN0CRLoZuf+xB6bi8c2xi5z/MdVDR8xqpsl0uFnK2sJUD0VnDvdwyPKqtm7eyGWivSq3yivJcyMGap3z4NxifNyXMzieB5Q2DyTyALc3MkLguTwqtmXTcEmf4Mg1UJWKm6D6QvBsMBQEMSUafovyQRHhaMDtqdoptcKf+mrnhTNylAMIY1o7a/u0AA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/carlaappel",
+  "personId": 2085,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Sustainable Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Carla Appel",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder's Associate",
+      "company": "Pacifico Biolabs",
+      "companyUrl": "https://www.linkedin.com/company/pacifico-biolabs",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Assistant | Sustainable Economic Policy",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Munich",
+      "start": "2024-04",
+      "end": "2024-09",
+      "dateRange": "Apr 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Product Management & E-Commerce",
+      "company": "HONEST CATCH",
+      "companyUrl": "https://www.linkedin.com/company/honest-catch",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-11",
+      "end": "2024-02",
+      "dateRange": "Nov 2023 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Business Development Intern",
+      "company": "PROJECT EADEN",
+      "companyUrl": "https://www.linkedin.com/company/project-eaden",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-04",
+      "end": "2023-07",
+      "dateRange": "Apr 2023 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Global Operations Strategy & Programs - Sustainability Intern",
+      "company": "Adidas",
+      "companyUrl": "https://www.linkedin.com/company/adidas",
+      "description": null,
+      "location": "Herzogenaurach, Bavaria, Germany",
+      "start": "2021-05",
+      "end": "2021-08",
+      "dateRange": "May 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Center of Excellence Recruiting and Sourcing Intern",
+      "company": "Lufthansa Group",
+      "companyUrl": "https://www.linkedin.com/company/lufthansa-group",
+      "description": null,
+      "location": "Frankfurt am Main, Hesse, Germany",
+      "start": "2019-05",
+      "end": "2019-07",
+      "dateRange": "May 2019 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Corporate HR Deutschland & Employee Relations",
+      "company": "DHL",
+      "companyUrl": "https://www.linkedin.com/company/dhl",
+      "description": null,
+      "location": null,
+      "start": "2018-05",
+      "end": "2018-06",
+      "dateRange": "May 2018 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Corporate Brand Marketing",
+      "company": "Deutsche Post",
+      "companyUrl": "https://www.linkedin.com/company/deutsche-post-und-dhl",
+      "description": null,
+      "location": null,
+      "start": "2016-06",
+      "end": "2016-07",
+      "dateRange": "Jun 2016 – Jul 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree - Technology Management",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science, Sustainable Management & Technology, Distinction",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "The University of Edinburgh",
+      "degree": "Master of Arts (Honours), Business and Economics, Distinction",
+      "dateRange": "2018 – 2022"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": null
+}

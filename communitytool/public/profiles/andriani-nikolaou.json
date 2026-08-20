@@ -1,0 +1,186 @@
+{
+  "id": "andriani-nikolaou",
+  "name": "Andriani N.",
+  "headline": "CDTM | TUM | FINN | Product",
+  "avatar": {
+    "sm": "/avatars/andriani-nikolaou-sm.webp",
+    "lg": "/avatars/andriani-nikolaou.webp",
+    "blur": "data:image/webp;base64,UklGRggBAABXRUJQVlA4IPwAAADQBQCdASogACAAPtFYpU0oJSOiMBgIAQAaCWoArC/UlX9rR1mymc8wo3qIQqwMLI5YL8lDAhSgAP77Ljsz/UvNXR02JiJG+6YJ7OOIMR+6J++nr0gnLaeSDDZCCKbDQUtRhZ9q7jYs6+X+sQr9eQZJw9cAQcsqpFUJaLY+I2RBOa9PRojlO0kapJgP2a4b2eqKcsWYIBlb2cyD6drqEKogyzXL9vvw3ybmIXCo8Q6oJkv3UclxrvUzv89HpvMaW39VO55gmH34T2cHjtzK7GLOaH33CLeTLxqRt5UxInUBAH8xYGKsp4kn6KcH+O2kwpKqwU6LF3LooPqLrAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/andriani-nikolaou",
+  "personId": 2118,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Politics & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Andriani Nikolaou",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Product Management Intern",
+      "company": "FINN",
+      "companyUrl": "https://www.linkedin.com/company/finn-auto",
+      "description": null,
+      "location": null,
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Design Thinking Lead Coach",
+      "company": "UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/unternehmertum",
+      "description": "- Coached 20 students through a full design thinking cycle in partnership with Circular Republic, focusing on solutions around critical raw materials.\n- Facilitated problem framing, rapid prototyping, and final pitch development, guiding interdisciplinary teams from ideation to validated concepts",
+      "location": "Munich",
+      "start": "2026-01",
+      "end": "2026-01",
+      "dateRange": "Jan 2026 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "MONA Motors GmbH",
+      "companyUrl": "https://www.linkedin.com/company/mona-the-machine",
+      "description": "The joint industry project was a collaboration between MONA Motors (agricultural machinery startup) and the Center for Digital Technology and Management (CDTM).\n\nOur four-member multidisciplinary team developed a deep-tech computer vision-based autonomy solution for compact agricultural loaders, addressing labor shortages and high manual workload in farming. My responsibilities included:\n- Co-developing the business model and value proposition\n- UX design, including mobile app flows\n- Stakeholder coordination\n- Preparing presentations and pitching (together with the team)",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-10",
+      "end": "2026-01",
+      "dateRange": "Oct 2025 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Digital Product Development Analyst",
+      "company": "Aegean Airlines",
+      "companyUrl": "https://www.linkedin.com/company/aegean-airlines",
+      "description": "- Worked together with my team to manage the end-to-end rebuild of the Aegean Mobile App, focusing on user stories, testing, content, and user transition.\n- Worked with cross-functional teams to oversee development cycles, prioritize features, and ensure quality through QA testing and feedback.\n- Researched, proposed, and planned new app features, including vendor outreach and contract negotiations.",
+      "location": "Athens Metropolitan Area",
+      "start": "2024-04",
+      "end": "2025-03",
+      "dateRange": "Apr 2024 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "Founder | President",
+      "company": "UniAI",
+      "companyUrl": "https://www.linkedin.com/company/uniai",
+      "description": "- Founded and led the NGO UniAI, the first Greek student initiative aimed at promoting AI education and innovation among Greek students.\n- Organized seminars, workshops, intercultural experiences on AI, and the first “AI Makeathon” in Athens with over 200 participants.\n- Established partnerships with companies, institutions and professionals to enhance the organization's reach and impact, through events & workshops.",
+      "location": "Athens, Attiki, Greece",
+      "start": "2023-07",
+      "end": "2024-07",
+      "dateRange": "Jul 2023 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Rhetorics Tutor",
+      "company": "Ionios School",
+      "companyUrl": null,
+      "description": "Tutored children aged from 12 to 17 on competitive debating, negotiations, and public speaking. Participated in school tournaments as coach and adjudicator.",
+      "location": null,
+      "start": "2020-09",
+      "end": "2022-09",
+      "dateRange": "Sep 2020 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Summer Camp Counselor",
+      "company": "Xegniasto Melissi",
+      "companyUrl": "https://www.linkedin.com/company/xegniastomelissi",
+      "description": "Coordinated teams of 12–14-year-old girls, organized games, sport and creative activities",
+      "location": "Laurium, Attiki, Greece",
+      "start": "2020-08",
+      "end": "2021-07",
+      "dateRange": "Aug 2020 – Jul 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2025 – 2027"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Politics and Technology",
+      "dateRange": "2025 – 2027"
+    },
+    {
+      "school": "Athens University of Economics and Business",
+      "degree": "Bachelor's degree, Management Science and Technology",
+      "dateRange": "2020 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Management and Technology",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Ionios School",
+      "degree": "High School Diploma",
+      "dateRange": "2017 – 2020"
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "Partnerships",
+    "Product Management",
+    "Computer Vision",
+    "Facilitation",
+    "Program Design",
+    "Coaching",
+    "Data Analysis",
+    "Product Life Cycle",
+    "Product Development",
+    "Commercial Aviation",
+    "User Experience (UX)",
+    "Strategy",
+    "Collaborative Leadership",
+    "Self-Directed Learning",
+    "Start-ups",
+    "English",
+    "Business Administration",
+    "German",
+    "Project Planning"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "FINN",
+    "tagline": "FINN Car Subscription – We drive change for people, organizations and the planet through frictionless mobility.",
+    "description": "At FINN our mission is to drive change for people, organizations and the planet through frictionless mobility: We help everyone who loves driving their own car but refuses the struggle, commitment and intransparent costs associated with car ownership. We achieve this by offering all-inclusive, immediately available, monthly car-subscriptions. Best thing, yet: FINN provides a more sustainable mobility option through funding climate protection projects.",
+    "industry": "Consumer Services",
+    "website": "https://bit.ly/3kcW8yi",
+    "linkedInUrl": "https://www.linkedin.com/company/finn-auto",
+    "employeeCount": 592,
+    "foundedYear": 2019,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Mobilität",
+      "Autos",
+      "Ecommerce",
+      "Leasing",
+      "Flottenmanagement",
+      "Digitale Produkte"
+    ]
+  }
+}

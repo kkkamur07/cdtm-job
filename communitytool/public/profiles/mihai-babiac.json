@@ -1,0 +1,206 @@
+{
+  "id": "mihai-babiac",
+  "name": "Mihai Babiac",
+  "headline": "ML with neuromorphic cameras @ Sony | ETH Zurich | CDTM",
+  "avatar": {
+    "sm": "/avatars/mihai-babiac-sm.webp",
+    "lg": "/avatars/mihai-babiac.webp",
+    "blur": "data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASogACAAPsVOokunpCMhsAwA8BiJYwDM8KnqQPcV33RFc4nyQwIu5MHHzVYAFbuQ9lWr22dEAAD+/XpzVUd3drk9aj9gdNaVnmm45fOydxNJNCAx1CjrGlunK2JJLoi+lAn9YyFHjCzbCFqGwU2GOid7/fZIy/lE85gGL1RKxBU5mWqpiNlcn8bSuESoedOyjKGJV3To4syX7v1AngSqfeW3xXpDG9+dDk7l9M8j5pXyG1b1/ALzr5zBEGLEqO/RdLDeAWEMbpdukjkE9KEinP1YR2Pl5icLq9+X1ODGpgULNWOG0Remg/Plf2juwCfg5y3ZrXAV0EURoSeEzUs1WAAA"
+  },
+  "location": "Zurich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/mihai-babiac",
+  "personId": 885,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Mihai Babiac",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Sony Advanced Visual Sensing AG",
+      "companyUrl": "https://www.linkedin.com/company/sony-advanced-visual-sensing",
+      "description": null,
+      "location": null,
+      "start": "2024-02",
+      "end": null,
+      "dateRange": "Feb 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Graduate Machine Learning Engineer",
+      "company": "Sony Advanced Visual Sensing AG",
+      "companyUrl": "https://www.linkedin.com/company/sony-advanced-visual-sensing",
+      "description": null,
+      "location": "Zürich Metropolitan Area",
+      "start": "2023-02",
+      "end": "2024-01",
+      "dateRange": "Feb 2023 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Research Assistant Intern",
+      "company": "Oracle",
+      "companyUrl": "https://www.linkedin.com/company/oracle",
+      "description": null,
+      "location": "Zurich, Zurich, Switzerland",
+      "start": "2021-07",
+      "end": "2022-03",
+      "dateRange": "Jul 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "ETH Zürich",
+      "companyUrl": "https://www.linkedin.com/company/eth-zurich",
+      "description": "Part of Transport Systems Research Group, worked on implementing state-of-the-art railway delay prediction models based on particle filtering and assumed density filtering.",
+      "location": "Zurich, Switzerland",
+      "start": "2019-09",
+      "end": "2021-06",
+      "dateRange": "Sep 2019 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Working Student in FPGA Design",
+      "company": "Blickfeld",
+      "companyUrl": "https://www.linkedin.com/company/blickfeld-gmbh",
+      "description": "As part of the embedded programming team, I worked on offloading compute intensive processing from the software to the FPGA hardware. The result was that the majority of the point cloud post-processing operations were done in the FPGA, leaving headroom for other types of algorithms to be done on the CPU. The work-flow consisted of creating simulations with NumPy in Python, developing the circuits with VHDL and testing them with VUnit, a Python/VHDL unit testing framework, before doing live testing and debugging.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-01",
+      "end": "2019-09",
+      "dateRange": "Jan 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis \"Approximate Computing for Digital Cinema\"",
+      "company": "ARRI",
+      "companyUrl": "https://www.linkedin.com/company/arri",
+      "description": "I investigated how certain mathematical functions can be implemented in FPGAs to provide a tunable accuracy-performance trade-off and how the use of GPUs instead of CPUs influences the results of an image processing pipeline.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-10",
+      "end": "2018-02",
+      "dateRange": "Oct 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "VHDL Laboratory Tutor",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "I assisted bachelor and master students with learning digital circuit design using VHDL during the \"Praktikum VHDL\" course.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-05",
+      "end": "2017-07",
+      "dateRange": "May 2017 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Intern/Working Student Embedded Software Engineer",
+      "company": "NavVis",
+      "companyUrl": "https://www.linkedin.com/company/navvis",
+      "description": "I worked in the Design & Engineering team, developing firmware for a hardware module based on the STM32 family of microcontrollers.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-03",
+      "end": "2017-09",
+      "dateRange": "Mar 2017 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Working Student Software Engineer",
+      "company": "NavVis",
+      "companyUrl": "https://www.linkedin.com/company/navvis",
+      "description": "As part of the Indoorviewer team, I integrated an out-of-core point cloud rendering library into the browser-based 3D renderer of the company. The main JavaScript libraries used were Angular.js and Three.js.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-01",
+      "end": "2017-03",
+      "dateRange": "Jan 2016 – Mar 2017",
+      "current": false
+    },
+    {
+      "title": "Software Engineering Intern",
+      "company": "Ubisoft",
+      "companyUrl": "https://www.linkedin.com/company/ubisoft",
+      "description": "I contributed to improving the in-house cross-platform game engine. The implementation was in C++ and Lua.",
+      "location": "Craiova, Romania",
+      "start": "2013-06",
+      "end": "2013-08",
+      "dateRange": "Jun 2013 – Aug 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "Master's degree, Electrical and Electronics Engineering",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Digital Technology Management",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Electrical Engineering and Information Technology",
+      "dateRange": "2015 – 2019"
+    }
+  ],
+  "skills": [
+    "Deep Learning",
+    "Machine Learning",
+    "Computer Vision",
+    "Digital Image Processing",
+    "Probabilistic Models",
+    "PyTorch",
+    "Embedded Software",
+    "OpenGL",
+    "Python (Programming Language)",
+    "C++",
+    "C (Programming Language)",
+    "Embedded C",
+    "JavaScript",
+    "Linux",
+    "VHDL",
+    "Agile Software Development"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Romanian"
+  ],
+  "company": {
+    "name": "Sony Advanced Visual Sensing AG",
+    "tagline": "Sony Advanced Visual Sensing develops computer vision algorithms and \nsensors that let machines understand the world.",
+    "description": "Sony Advanced Visual Sensing enables new, exciting user experiences by developing artificial vision systems that let devices understand the world.",
+    "industry": "Semiconductor Manufacturing",
+    "website": null,
+    "linkedInUrl": "https://www.linkedin.com/company/sony-advanced-visual-sensing",
+    "employeeCount": 23,
+    "foundedYear": null,
+    "location": "Schlieren, Switzerland",
+    "specialities": [
+      "Image Sensors",
+      "Computer Vision",
+      "Event-based Vision Sensors",
+      "Machine Learning",
+      "CMOS Image Sensors"
+    ]
+  }
+}

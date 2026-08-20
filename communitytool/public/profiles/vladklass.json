@@ -1,0 +1,157 @@
+{
+  "id": "vladklass",
+  "name": "Vladislav Klass",
+  "headline": "Embedded-Software Security & PSIRT | Ex-Siemens R&D | Gründer Werkspilot",
+  "avatar": {
+    "sm": "/avatars/vladklass-sm.webp",
+    "lg": "/avatars/vladklass.webp",
+    "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBQCdASogACAAPsFMn0unpCKht/qoAPAYCWQAnTMYDAgCTvpjrVE1KRN87w2D0giqX7xgAP77pwhF3wX8ml4hzzImEPjr0m86exoX0CAUC9WGp5mQqLoLOnDb98Eu+6YeUeNB4R84OE8XeAzWCqeKsfC0QZrGsTcyrnFunmPCXbs+k+hrSVAESKBbwm4TgI9445CazYdzMXoQ8hn7IeQ6fvAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/vladklass",
+  "personId": 726,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "MSc in Robotics, Cognition, Intelligence (TUM)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Vladislav Klass",
+  "ca": null,
+  "summary": "Wir übernehmen das Schwachstellenmanagement für Embedded-Produkte — inklusive Haftung für Cyber Resilience Act. Damit sich Entwickler wieder auf Innovation konzentrieren können.",
+  "positions": [
+    {
+      "title": "Geschäftsführer",
+      "company": "Werkspilot",
+      "companyUrl": "https://www.linkedin.com/company/werkspilot",
+      "description": "PSIRT und Vulnerability Management für Embedded-Produkte. Wir übernehmen Setup, Monitoring, Triage und CRA-Dokumentation für Firmware-Teams — inkl. vertraglicher Haftung. Kostengünstiger als inhouse dank hohem Automatisierungsgrad.",
+      "location": "Munich",
+      "start": "2025-12",
+      "end": null,
+      "dateRange": "Dec 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Systemarchitekt",
+      "company": "Freiberuflich / Freelance",
+      "companyUrl": "https://www.linkedin.com/company/freiberuflich-freelance",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Softwareingenieur",
+      "company": "Manex AI",
+      "companyUrl": "https://www.linkedin.com/company/manex-ai",
+      "description": "Implemented on-premise IT and OT solutions for enterprise manufacturing clients (e.g., BMW, Henkel) following ISO 27001 and TISAX security standards to ensure production system availability and security on industrial shopfloors.",
+      "location": "Munich",
+      "start": "2024-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "BoWatt",
+      "companyUrl": "https://www.linkedin.com/company/bowatt",
+      "description": "BoWatt specializes in software solutions for machinery and plant manufacturers.",
+      "location": "Munich",
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Forschungs- und Entwicklungsingenieur",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Developed a computer-vision-based robotic grasping system (C++, Python, ROS) following ISO 10218 and ISO/TS 15066. Filed for patent.",
+      "location": "Munich",
+      "start": "2021-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Produktentwicklungsingenieur",
+      "company": "Bosch Engineering GmbH",
+      "companyUrl": "https://www.linkedin.com/company/bosch-engineering-gmbh",
+      "description": "Designed electric drive train components for automotive OEMs.",
+      "location": null,
+      "start": "2016-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2016 – Dec 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Informatics – Robotics and Cognitive Systems",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Automotive Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Universidad Nacional Autónoma de México",
+      "degree": "Automation Technology; Semester abroad in Mexico City (top 3 university in Latin America).",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Maschinenwesen",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "SBOM",
+    "Cybersecurity",
+    "Software Development Life Cycle (SDLC)",
+    "CICD",
+    "IEC 62443",
+    "ISO 27001",
+    "Node.js",
+    "Amazon Web Services (AWS)",
+    "Splunk",
+    "Figma (Software)",
+    "Design Thinking",
+    "Scikit-Learn",
+    "Data Science",
+    "Fine Tuning",
+    "Large Language Models (LLM)",
+    "End-to-end Testing",
+    "Cypress.io",
+    "Continuous Integration and Continuous Delivery (CI/CD)",
+    "Retrieval-Augmented Generation (RAG)",
+    "Vector Databases"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": null
+}

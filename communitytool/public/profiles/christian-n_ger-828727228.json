@@ -1,0 +1,124 @@
+{
+  "id": "christian-n_ger-828727228",
+  "name": "Christian Näger",
+  "headline": "Abteilungsleiter bei msg",
+  "avatar": null,
+  "location": "Nuremberg, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christian-näger-828727228",
+  "personId": 1816,
+  "classes": [
+    {
+      "id": 49,
+      "label": "1998",
+      "season": null,
+      "year": 1998,
+      "location": 1
+    }
+  ],
+  "classLabel": "1998",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Christian Naeger",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Abteilungsleiter",
+      "company": "msg",
+      "companyUrl": "https://www.linkedin.com/company/msggroup",
+      "description": null,
+      "location": "Nuremberg, Bavaria, Germany",
+      "start": "2016-07",
+      "end": null,
+      "dateRange": "Jul 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Berater",
+      "company": "Xenium AG",
+      "companyUrl": "https://www.linkedin.com/company/xenium-ag",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2004-01",
+      "end": "2016-06",
+      "dateRange": "Jan 2004 – Jun 2016",
+      "current": false
+    },
+    {
+      "title": "Forschungsassistent",
+      "company": "Technische Universität Graz",
+      "companyUrl": "https://www.linkedin.com/company/tugraz1811",
+      "description": null,
+      "location": null,
+      "start": "2002-07",
+      "end": "2003-10",
+      "dateRange": "Jul 2002 – Oct 2003",
+      "current": false
+    },
+    {
+      "title": "Software-Entwickler Spracherkennung",
+      "company": "PICAR AG",
+      "companyUrl": "https://www.linkedin.com/company/picar-ag",
+      "description": null,
+      "location": null,
+      "start": "2002-01",
+      "end": "2002-06",
+      "dateRange": "Jan 2002 – Jun 2002",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom-Informatiker (Univ.), Computer Science",
+      "dateRange": "1995 – 2001"
+    },
+    {
+      "school": "MIT Sloan School of Management",
+      "degree": "Sloan Visiting Fellow",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "1996 – 2000"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "msg",
+    "tagline": null,
+    "description": "Als internationale Unternehmensgruppe schaffen wir als msg einen Mehrwert in der digitalisierten Welt, indem wir den Menschen in den Mittelpunkt stellen: als Kunden, als Nutzer unserer Lösungen und als Mitarbeitenden. Wir bauen dabei auf über 40 Jahre Branchenexpertise und den kreativen und lösungsorientierten Unternehmergeist, der unsere Arbeit schon immer geprägt hat. Zudem schöpfen wir aus der Vielfalt in unserer Unternehmensgruppe: von der Ideenfindung bis zur Anwendung. Aus dieser ganzheitlichen Sicht nutzen wir das gesamte Angebot unserer Gruppe wie ein intelligenter Schwarm, der sich je nach Aufgabenstellung immer wieder neu formiert. Dies drückt sich auch in unserem Slogan „value – inspired by people“ aus.\n\nMit über 10.000 Mitarbeitenden in 34 Ländern sind wir auf den wichtigsten Märkten der Welt vertreten. Langjährige Partnerschaften verstärken unsere Schlagkraft und sorgen für nachhaltigen Erfolg.\n\nImpressum/Imprint:\n\nmsg systems ag\nRobert-​Bürkle-Straße 1\n85737 Ismaning/München\n\nTelefon:   +49 89 96101-0\nTelefax:   +49 89 96101-1113\n\ne-mail: info@msg.group\n\nVorstand:\nDr. Jürgen Zehetmaier (Vorsitzender), Michael Rasch, Karsten Redenius, Dr. Frank Schlottmann\n\nAufsichtsratvorsitzender:\nJohann Zehetmaier\n\nHandelsregister:\nAmtsgericht München\nHRB 140 149\n\nUSt-​Identifikationsnummer: DE 129 420 400\n\nHaftung:\nexterne Links:\nDie Inhalte externer Links werden von uns nicht geprüft.\nSie unterliegen der Haftung der jeweiligen Anbieter.\n\nDatenrichtlinie:\nUnsere Social-Media-Auftritte sollen eine möglichst umfassende Präsenz im Internet gewährleisten. Hierbei handelt es sich um ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO. Die von den sozialen Netzwerken initiierten Analyseprozesse beruhen ggf. auf abweichenden Rechtsgrundlagen, die von den Betreibern der sozialen Netzwerke anzugeben sind (z.B. Einwilligung im Sinne des Art. 6 Abs. 1 lit. a, Art. 7 DSGVO). Weitere Informationen: www.msg.group/datenschutz",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.msg.group",
+    "linkedInUrl": "https://www.linkedin.com/company/msggroup",
+    "employeeCount": 6554,
+    "foundedYear": 1980,
+    "location": "Ismaning, Germany",
+    "specialities": [
+      "Beratung",
+      "Branchenlösungen",
+      "Branchenunabhängige Services",
+      "Seminare und Schulungen",
+      "Automotive",
+      "Financial Services",
+      "Food",
+      "Insurance",
+      "Life Science & Healthcare",
+      "Public Sector",
+      "Telecommunications",
+      "Travel & Logistics",
+      "Utilities",
+      "IT consulting",
+      "System-integration"
+    ]
+  }
+}

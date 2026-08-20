@@ -1,0 +1,158 @@
+{
+  "id": "franz-xaver-waltenberger",
+  "name": "Franz Xaver Waltenberger",
+  "headline": "Managing Director @ CDTM Venture Fund | CDTM | TUM | HSE",
+  "avatar": {
+    "sm": "/avatars/franz-xaver-waltenberger-sm.webp",
+    "lg": "/avatars/franz-xaver-waltenberger.webp",
+    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAABwBQCdASogACAAPtFapk0oJSOiMBgIAQAaCWgAzNBpYVz2urSdBOnZH0R2HkaClNjvaXEYAP77puv8Z1cC/6RoQl9FS1O478ef7Mdz5FN2T+ZU89O32ZPbvWk+I7halXTPG+Dtl/coaN+BypIeaZdqcJsCBaCG15XAoFT28RqdcZFMB4uCwPZ5+xIkk/jWloIe7f/l/jmKvGbX284cyUGwYfKrB3uadb1u1zRdzXMHVHMKTYzyqMbWNhprKQeAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/franz-xaver-waltenberger",
+  "personId": 1272,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Franz Waltenberger",
+  "ca": {
+    "alumni": true,
+    "about": "Franz Waltenberger studied Technology and Management (B.Sc) at the Technical University of Munich and Politics, Economics and Philosophy (M.A.) at the Higher School of Economics in Moscow and Sciences Po in Paris.\n\nDuring his studies Franz worked for several SMEs in the areas of finance, cryptocurrencies and political lobbying. In his spare time, he likes to build and restore electric and combustion-powered motorcycles and bikes and is collecting and analyzing data in comment sections of German news outlets to understand what shapes public opinion online.\n\nFranz joined the CDTM in January 2021 and is responsible for the Trend Seminar and the Entrepreneurship Taskforce. In his research, he is focusing on the effects of information technology on human behavior.",
+    "responsibilities": [
+      "Managing Product Development Course",
+      "People Ops Task Force"
+    ],
+    "researchFields": [
+      "Effects of Persuasive Design on Online Discussion"
+    ],
+    "email": "waltenberger@cdtm.de"
+  },
+  "summary": "After four years as member of the management team of the Center for Digital Technology and Management (CDTM) Munich, I am now leveraging my industry insights to invest into early-stage ventures of current CDTM students and alumni.",
+  "positions": [
+    {
+      "title": "Co-Founder | Managing Director",
+      "company": "CDTM Venture Fund",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-venture-fund",
+      "description": "The CDTM Venture Fund ist the first university alumni VC fund in Germany, with a total volume of over €8.2mln raised exclusively from CDTM alumni. It deploys capital exclusively into high-potential startups with at least one CDTM co-founder. The fund donates 15% of its total profits (3/4 of its carried interest) back to the CDTM, strengthening the next generation of multinational CDTM-entrepreneurs.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2024-05",
+      "end": null,
+      "dateRange": "May 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Member of the Management Team, University Lecturer & Doctoral Candidate",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "The Center for Digital Technology and Management offers Munich's most talented and motivated university students the opportunity to jointly learn and work together on exciting projects. The CDTM is a joint institution of the LMU München and TU München and entirely run by a team of doctoral candidates and its students.",
+      "location": null,
+      "start": "2021-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2021 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Associate Content Producer",
+      "company": "The Good Lobby",
+      "companyUrl": "https://www.linkedin.com/company/the-good-lobby",
+      "description": null,
+      "location": "Brussels Metropolitan Area",
+      "start": "2020-01",
+      "end": "2020-03",
+      "dateRange": "Jan 2020 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Technischer Redakteur",
+      "company": "Blockchain Consulting GmbH",
+      "companyUrl": "https://www.linkedin.com/company/blockchain-consulting-gmbh",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-04",
+      "end": "2019-10",
+      "dateRange": "Apr 2018 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Praktikant in der Unternehmensführung",
+      "company": "AVP AUTOLAND",
+      "companyUrl": "https://www.linkedin.com/company/avp-autoland",
+      "description": null,
+      "location": "Plattling, Bavaria, Germany",
+      "start": "2017-10",
+      "end": "2018-04",
+      "dateRange": "Oct 2017 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Web Developer (Internship)",
+      "company": "Lendico",
+      "companyUrl": "https://www.linkedin.com/company/lendico",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2015-04",
+      "end": "2015-05",
+      "dateRange": "Apr 2015 – May 2015",
+      "current": false
+    },
+    {
+      "title": "IT-Techniker",
+      "company": "PerfectStaff GmbH",
+      "companyUrl": "https://www.linkedin.com/company/perfectstaff-gmbh",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-04",
+      "end": "2015-05",
+      "dateRange": "Apr 2014 – May 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Philosophy - PhD, Computational Social Science",
+      "dateRange": "2021 – 2026"
+    },
+    {
+      "school": "Higher School of Economics",
+      "degree": "Master of Arts - MA, Politics. Economics. Philosophy.",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Management & Technology",
+      "dateRange": "2013 – 2017"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher, Human Computer Interaction, Venture Capital",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Sciences Po",
+      "degree": "Exchange, Politics",
+      "dateRange": "2019"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "CDTM Venture Fund",
+    "tagline": "capital for the innovators of tomorrow",
+    "description": "CDTM is the birthplace of 25% of Germany’s unicorns. It’s not only one of the most selective educational institutions to get into, with a mere 6% acceptance rate, but it also boasts the highest \"unicorn-to-alumni ratio\" in the world (9 unicorns / 1,200 alumni). \n\nThe CDTM Venture Fund is Germany’s first alumni fund. We invest in the next generation of CDTM startups at the (pre)seed stage and provide support to founders through our network of 300+ LPs, all of whom are entrepreneurial operators at heart. The majority of the carry is donated to CDTM.",
+    "industry": "Financial Services",
+    "website": null,
+    "linkedInUrl": "https://www.linkedin.com/company/cdtm-venture-fund",
+    "employeeCount": 4,
+    "foundedYear": 2024,
+    "location": null,
+    "specialities": []
+  }
+}

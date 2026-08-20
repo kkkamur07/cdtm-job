@@ -1,0 +1,102 @@
+{
+  "id": "michael-boenning",
+  "name": "Michael Boenning",
+  "headline": "Experienced transformation and reorganization advisor",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/michael-boenning",
+  "personId": 1557,
+  "classes": [
+    {
+      "id": 55,
+      "label": "Spring 2004",
+      "season": "Spring",
+      "year": 2004,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2004",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Michael Boenning",
+  "ca": null,
+  "summary": "Senior transformation leader and project manager with 17 years of experience delivering turnarounds, restructuring, profitability improvement and cost transformation for multinational corporations and PE-owned industrial businesses.\n\nFormer Director at Strategy& (Booz & Company) and Senior Consultant at Siemens Management Consulting, advising CEOs and operational leaders on how to stabilize performance and accelerate transformation in complex, engineering-driven environments.\n\nI lead critical programs end-to-end — from strategy design to hands-on implementation, including PMO setup, operational governance, milestone steering, performance management, pricing improvement and commercial execution. My focus is always on tangible financial results.\n\nCore expertise:\n• Transformation & Turnaround Management\n• PMO Leadership & Operational Excellence\n• Profitability & Cost Reduction (SG&A, R&D, quality, supply chain)\n• Portfolio Optimization, PMI & Carve-outs\n• Pricing, Go-to-Market & Commercial Performance\n\nIndustry focus: Manufacturing, building materials, industrial equipment, facility management and technical services.\nProjects delivered in 15+ countries across Europe, Asia and the Americas.\n\nAcademic background: Business Administration (LMU Munich) and Technology Management (TU Munich).\n\nIf your organization needs someone who combines executive-level advisory with pragmatic implementation and results you can measure — let’s connect.",
+  "positions": [
+    {
+      "title": "Management Consultant & Project Manager",
+      "company": "Independent Professional",
+      "companyUrl": null,
+      "description": "- Transformation & reorganization \n - SG&A cost reduction\n - Post merger integration\n - Sales performance management & profitability improvement \n - PMO",
+      "location": null,
+      "start": "2013-08",
+      "end": null,
+      "dateRange": "Aug 2013 – Present",
+      "current": true
+    },
+    {
+      "title": "Director",
+      "company": "Strategy&",
+      "companyUrl": "https://www.linkedin.com/company/strategyand",
+      "description": "- Turn-around\n - Transformation\n - Profitability improvement & cost reduction \n - Performance management & KPI systems",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-12",
+      "end": "2023-08",
+      "dateRange": "Dec 2021 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Senior Consultant",
+      "company": "Siemens Management Consulting",
+      "companyUrl": "https://www.linkedin.com/company/siemens-advanta",
+      "description": "- Reorganization \n - Strategy and growth \n - Sales stimulation, market entry",
+      "location": "Munich, Germany",
+      "start": "2008-07",
+      "end": "2013-07",
+      "dateRange": "Jul 2008 – Jul 2013",
+      "current": false
+    },
+    {
+      "title": "Various freelance positions, internships, and projects",
+      "company": "Various companies, i.a. Siemens AG, OSRAM AG, Infosys Ltd.",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2001-10",
+      "end": "2008-06",
+      "dateRange": "Oct 2001 – Jun 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom-Kaufmann (equ. M. Sc. in Business), Management of innovations, marketing, industrial organization",
+      "dateRange": "2001 – 2007"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": "Research stay, Media strategy, media technology",
+      "dateRange": "2006"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Certificate in Technology Management (Master level), Technology Management",
+      "dateRange": "2004 – 2006"
+    },
+    {
+      "school": "University of Warwick - Warwick Business School",
+      "degree": "ERASMUS exchange program, Strategy, project management",
+      "dateRange": "2003 – 2004"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": null
+}

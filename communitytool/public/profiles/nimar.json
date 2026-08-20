@@ -1,0 +1,197 @@
+{
+  "id": "nimar",
+  "name": "Nimar Blume",
+  "headline": "--",
+  "avatar": {
+    "sm": "/avatars/nimar-sm.webp",
+    "lg": "/avatars/nimar.webp",
+    "blur": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAAAQBQCdASogACAAPtFWokuoJKMhsBgMAQAaCUAAfGPv3+JMS421IJFXdUBs+AAViCUAAP7+wiZxGxxtjCgO2K89BD3bDNzIrNmXmzzNwcxfp6/bPf9hUOYzmYK+uC8qvEQ3gKOx0g+LgiZgPlSviSK14MSQffSlXGhn81F158t3ztfghWL/GHMMDF+eafqc7VUjS1E5BzdI523tGNLoVcbq4ecoJrVv2hDHR9RBScAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/nimar",
+  "personId": 875,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Nimar Blume",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Engineer",
+      "company": "Langfuse",
+      "companyUrl": "https://www.linkedin.com/company/langfuse",
+      "description": null,
+      "location": null,
+      "start": "2025-06",
+      "end": null,
+      "dateRange": "Jun 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "sento.io",
+      "companyUrl": "https://www.linkedin.com/company/sentohq",
+      "description": "Plug & Play B2B integrations to automate global trade. 1-click ERP to retail Integrations. Raised 11mio from Insight Partners, Picus Capital & +",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-11",
+      "end": null,
+      "dateRange": "Nov 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Tohoku University",
+      "companyUrl": "https://www.linkedin.com/company/tohoku-univ",
+      "description": "Computer Vision Lab (Okatani - Suganuma Lab) at Tohoku University.",
+      "location": "Sendai, Miyagi, Japan",
+      "start": "2019-02",
+      "end": "2019-09",
+      "dateRange": "Feb 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Open Innovation Project",
+      "company": "Hoffmann Group",
+      "companyUrl": "https://www.linkedin.com/company/hoffmann-group",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2018-04",
+      "end": "2018-08",
+      "dateRange": "Apr 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "NTT DATA Deutschland GmbH",
+      "companyUrl": "https://www.linkedin.com/company/ntt-data-europe-latam",
+      "description": "Innovation & Product Lifecycle Management",
+      "location": "Munich Area, Germany",
+      "start": "2015-09",
+      "end": "2018-08",
+      "dateRange": "Sep 2015 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Hydac",
+      "companyUrl": null,
+      "description": null,
+      "location": "Tokyo, Japan",
+      "start": "2011-12",
+      "end": "2012-06",
+      "dateRange": "Dec 2011 – Jun 2012",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Hydac",
+      "companyUrl": null,
+      "description": null,
+      "location": "Sulzbach/Saar, Germany",
+      "start": "2011-09",
+      "end": "2011-12",
+      "dateRange": "Sep 2011 – Dec 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Electrical Engineering and Information Technology",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Tohoku University",
+      "degree": "Master's degree, Computer Science",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Engineering Science",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Hokkaido University",
+      "degree": "Exchange Student, Mechanical Engineering",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Helene-Lange-Gymnasium",
+      "degree": "High School Diploma",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Product Development",
+    "Computer Vision",
+    "Cryptography",
+    "Machine Learning",
+    "Project Management",
+    "Research",
+    "Computer Networking",
+    "Server Administration",
+    "Python",
+    "Microsoft Office",
+    "C",
+    "Linux",
+    "Blockchain",
+    "Lightroom",
+    "Adobe Photoshop",
+    "LaTeX",
+    "Embedded Systems",
+    "Microsoft Excel",
+    "PyTorch",
+    "Deep Learning"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Langfuse",
+    "tagline": "Open Source LLM Engineering Platform (now part of ClickHouse)",
+    "description": "Langfuse is the 𝗺𝗼𝘀𝘁 𝗽𝗼𝗽𝘂𝗹𝗮𝗿 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲 𝗟𝗟𝗠𝗢𝗽𝘀 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺. It helps teams collaboratively develop, monitor, evaluate, and debug AI applications.\n\nLangfuse can be 𝘀𝗲𝗹𝗳-𝗵𝗼𝘀𝘁𝗲𝗱 in minutes and is battle-tested and used in production by thousands of users from YC startups to large companies like Khan Academy or Twilio. Langfuse builds on a proven track record of reliability and performance.\n\nDevelopers can trace any Large Language model or framework using our SDKs for Python and JS/TS, our open API or our native integrations (OpenAI, Langchain, Llama-Index, Vercel AI SDK). Beyond tracing, developers use 𝗟𝗮𝗻𝗴𝗳𝘂𝘀𝗲 𝗣𝗿𝗼𝗺𝗽𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁, 𝗶𝘁𝘀 𝗼𝗽𝗲𝗻 𝗔𝗣𝗜𝘀, 𝗮𝗻𝗱 𝘁𝗲𝘀𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝗲𝘃𝗮𝗹𝘂𝗮𝘁𝗶𝗼𝗻 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 to improve the quality of their applications.\n\nProduct managers can 𝗮𝗻𝗮𝗹𝘆𝘇𝗲, 𝗲𝘃𝗮𝗹𝘂𝗮𝘁𝗲, 𝗮𝗻𝗱 𝗱𝗲𝗯𝘂𝗴 𝗔𝗜 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀 by accessing detailed metrics on costs, latencies, and user feedback in the Langfuse Dashboard. They can bring 𝗵𝘂𝗺𝗮𝗻𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗹𝗼𝗼𝗽 by setting up annotation workflows for human labelers to score their application. Langfuse can also be used to 𝗺𝗼𝗻𝗶𝘁𝗼𝗿 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗿𝗶𝘀𝗸𝘀 through security framework and evaluation pipelines.\n\nLangfuse enables 𝗻𝗼𝗻-𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘁𝗲𝗮𝗺 𝗺𝗲𝗺𝗯𝗲𝗿𝘀 to iterate on prompts and model configurations directly within the Langfuse UI or use the Langfuse Playground for fast prompt testing.\n\nLangfuse is 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲 and we are proud to have a fantastic community on Github and Discord that provides help and feedback. Do get in touch with us!",
+    "industry": "Software Development",
+    "website": "https://langfuse.com",
+    "linkedInUrl": "https://www.linkedin.com/company/langfuse",
+    "employeeCount": 19,
+    "foundedYear": 2022,
+    "location": "San Francisco, United States",
+    "specialities": [
+      "Langfuse",
+      "Large Language Models",
+      "Observability",
+      "Prompt Management",
+      "Evaluations",
+      "Testing",
+      "Open Source",
+      "LLM",
+      "AI",
+      "Analytics",
+      "Open Source",
+      "Artificial Intelligence"
+    ]
+  }
+}

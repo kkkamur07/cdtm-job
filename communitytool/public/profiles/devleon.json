@@ -1,0 +1,202 @@
+{
+  "id": "devleon",
+  "name": "Leon M.",
+  "headline": "Embedded Engineer with a focus on Rust and end-to-end product development. \nHighly skilled in Rapid Prototyping, PCB Design, Rust, C, Python and AI on the edge. Hardware Tinkerer by heart.",
+  "avatar": {
+    "sm": "/avatars/devleon-sm.webp",
+    "lg": "/avatars/devleon.webp",
+    "blur": "data:image/webp;base64,UklGRgoBAABXRUJQVlA4IP4AAAAwBgCdASogACAAPs1Wo0unpKMhsBgMAPAZiUAY05sUFIrgbcdseKh/761B+W4prPmmj57NB7EAFJAAAP79/2n1/ZV/pqVzPy6A4vkMeeXlr9zaxsK/zlUcYy5msaDIDsUMlfz8QGYnnOtiYTb3R5PoK1B6Nj5o2m7wLGUW70PiW9fvcyuzvGC+Sg8dqVLV3kRywoD5++ckKZsz0ZDx1t7JpAGwEfZK2HEIbjyjYH0U10HMmmRz70esgG+/0+w73Z43165ICYq28t27ij/E+Iu4XciPZOi0gtOfcXPIDKHvJrwp7ixgW2UI4eEN8BqgVQAWwv177htx2KfSYxwAAA=="
+  },
+  "location": "Amsterdam, Netherlands",
+  "linkedInUrl": "https://www.linkedin.com/in/devleon",
+  "personId": 815,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Media Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Leon Frederik Müller",
+  "ca": null,
+  "summary": "I’m a highly innovative embedded engineer with a passion for building products end-to-end. With schematic and PCB design, CAD work, rapid prototyping with 3D printing, and firmware development in C and Rust, I have experience in every aspect of embedded product development.\nMy expertise in connectivity protocols such as BLE, MQTT, CoAP, OpenThread, Zigbee, LoRa, WiFi and Matter enables me to create robust, self-healing and highly connected IoT solutions. \nI have successfully led the development through multiple generations of IoT devices, with over 4,000 devices successfully deployed throughout Europe.  \nAdditionally, I have strong skills in data analysis with Python, and have developed and deployed machine learning models with PyTorch, TensorFlow (Lite), and DeepStream running on the edge.\nI am an active contributor to the open source community (especially Rust) and always eager to share my knowledge with others.",
+  "positions": [
+    {
+      "title": "Mechatronics Engineer",
+      "company": "NOWATCH",
+      "companyUrl": "https://www.linkedin.com/company/thenowatch",
+      "description": null,
+      "location": "Amsterdam, North Holland, Netherlands",
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Embedded and Machine Learning Engineer",
+      "company": "ivy Solutions GmbH",
+      "companyUrl": "https://www.linkedin.com/company/ivy-solutions-gmbh",
+      "description": "• Developed IoT solutions for digitalizing self-storage parks with access control, monitoring, and alerting systems with data analytics\n• Successfully led the development of multiple IoT device generations, with over 4000 devices deployed throughout Europe\n• Responsible for research and development of new IoT products (PoCs, MVPs) and rapid prototyping with 3D-printing\n• End-to-end product design and development: PCB and schematic design, CAD, firmware, connectivity, PCBA and mass production\n• Firmware, I2C/SPI driver and algorithm development with Rust, C, Embassy, Zephyr, FreeRTOS, Nordic nRF, ESP-IDF\n• Integration of sensors and supporting algorithms, including optical smoke detection and presence detection using mmWave radar\n• Hardware and firmware debugging with logic analyzer and oscilloscope\n• Tooling for mass production and manufacturing automation (Bash, Python, Linux, Docker)\n• Deployment of large-scale self-healing networks with OpenThread, WiFi, MQTT and CoAP\n• Local and secure communication via BLE (Bluetooth Low Energy)\n• Deployment of deep neural networks on the edge (NVidia Jetson) for on-premise AI-based video analysis (PyTorch, Tensorflow, DeepStream)\n• Increasing in-park security with sensor fusion and data analysis",
+      "location": "Remote",
+      "start": "2022-02",
+      "end": "2025-04",
+      "dateRange": "Feb 2022 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "Research Intern (Master Thesis)",
+      "company": "imec",
+      "companyUrl": "https://www.linkedin.com/company/imec",
+      "description": "Event-based (Neuromorphic) radar signal encodings. Master thesis led to a publication:\n\"Aircraft Marshaling Signals Dataset of FMCW Radar and Event-Based Camera for Sensor Fusion\"",
+      "location": "Eindhoven, Nordbrabant, Niederlande",
+      "start": "2021-12",
+      "end": "2022-08",
+      "dateRange": "Dec 2021 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Research And Development Intern",
+      "company": "Avular",
+      "companyUrl": "https://www.linkedin.com/company/avular",
+      "description": "Development of a toolkit to explore hardware-aware and efficient deep neural network based object detection and tracking for autonomous driving with ROS",
+      "location": "Eindhoven, Nordbrabant, Niederlande",
+      "start": "2021-09",
+      "end": "2021-11",
+      "dateRange": "Sep 2021 – Nov 2021",
+      "current": false
+    },
+    {
+      "title": "Strategy Consultant",
+      "company": "PEIQ by multicom & GOGOL",
+      "companyUrl": "https://www.linkedin.com/company/peiq-by-multicom-und-gogol",
+      "description": "Consulting project for developing a sales lead generation pipeline to systematically identify newspapers for a new product by Multicom / Gogol which automatically layouts digital content for printable newspaper issues",
+      "location": "München, Bayern, Deutschland",
+      "start": "2019-10",
+      "end": "2020-01",
+      "dateRange": "Oct 2019 – Jan 2020",
+      "current": false
+    },
+    {
+      "title": "Unity Developer (C#)",
+      "company": "Viscopic",
+      "companyUrl": "https://www.linkedin.com/company/viscopic",
+      "description": "Cutting-edge AR and VR Development of training applications with HoloLens 1/2, SteamVR and Oculus Quest 2.\nFor my work with DB AG, we won two awards for our training application. \"Innovationspreis für digitale Bildung delina 2020\" and the \"e-Learning Award 2019\".",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-09",
+      "end": "2020-07",
+      "dateRange": "Sep 2017 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Developer",
+      "company": "TherapyLens - TUM - CDTM",
+      "companyUrl": null,
+      "description": "- Developing an personal avatar, to help early-stage dementia patients live independently and stay at home longer, with the use of AR (HoloLens)\n- Leveraging state of the art object and image-recognition, speech-recognition and spatial mapping abilities of the HoloLens\n- Creating  Business Model, Financial Plans and Investor Pitch for potential Startup\n- In close collaboration with TherapyLens and the Chair of Human Movement Science from TUM\n- For more information visit http://animatino.care",
+      "location": "Munich, Germany",
+      "start": "2017-04",
+      "end": "2017-07",
+      "dateRange": "Apr 2017 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Mobile Developer (iOS & Android)",
+      "company": "Pretio Interactive",
+      "companyUrl": null,
+      "description": "- Developed a cross promotion ad-framework with native support for iOS (Objective-C), Android (Java) and Unity (C#)\n- Maintained developer documentation\n- Quality control and testing on Android and iOS\n- Responsible for one-on-one customer and developer support\n- Project management with Scrum and Jira",
+      "location": "Victoria, BC, Canada",
+      "start": "2015-06",
+      "end": "2015-09",
+      "dateRange": "Jun 2015 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Maximusfilm GmbH",
+      "companyUrl": null,
+      "description": "- Internship at a local company specialized in producing TV formats\n- Customer and company interaction in English and German\n- Worked as an editor and in the production\n- Helped with the creation of a new TV-Show\n- Supported filming of many other shows\n- Provided technical support",
+      "location": null,
+      "start": "2014-06",
+      "end": "2014-08",
+      "dateRange": "Jun 2014 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Freelancer",
+      "company": "Freelancer.com",
+      "companyUrl": "https://www.linkedin.com/company/freelancer-com",
+      "description": "- Installation and configuration of scalable (web-)servers, both Windows and Linux\n- Designing, configuring and maintanance of websites with HTML5, JavaScript,\nAngular.js, ASP.Net, WordPress, WooCommerce, Drupal and Joomla\n- Developing desktop applications in C# (WPF) and Java\n- Source control with Git and TFS\n- Stock photography and video editing (Adobe After Effects, Premiere Pro, Photoshop,\nLightroom)\n- Cross-Platform Mobile App Development with Ionic Framework\n- Native Mobile Development with Android and iOS",
+      "location": null,
+      "start": "2012-01",
+      "end": "2015-01",
+      "dateRange": "Jan 2012 – Jan 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Eindhoven University of Technology",
+      "degree": "Master of Science, Embedded Systems",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.S.), Media Informatics and Human-Computer Interaction",
+      "dateRange": "2015 – 2020"
+    }
+  ],
+  "skills": [
+    "Electrical Layouts",
+    "Production",
+    "Altium Designer",
+    "EDA",
+    "3D Modeling",
+    "Mechatronics",
+    "Electro-Mechanical Design",
+    "Research and Development (R&D)",
+    "Manufacturing",
+    "Manufacturing Engineering",
+    "Hardware",
+    "Firmware",
+    "PSoC",
+    "CNC Manufacturing",
+    "Engineering",
+    "Programming",
+    "Debugging",
+    "Systems Design",
+    "Electronic Circuits",
+    "Circuit Design"
+  ],
+  "languages": [
+    "Chinesisch",
+    "Deutsch"
+  ],
+  "company": {
+    "name": "NOWATCH",
+    "tagline": "The world's first Awareable™️, designed for nervous system regulation.",
+    "description": "NOWATCH is an Amsterdam-based health-tech company, established in 2020. Our mission is to empower people to feel better. We create technology rooted in science that aims to support healthy habits and a better quality of life. Research-grade sensors and unrivalled personalisation make our product a powerhouse tool for supporting preventative mental and physical health. We fuse science and technology with timeless design into one elegant healthtracker for building stress resilience. When you feel better, the impact extends beyond just yourself – your wellbeing affects the people you love - today, tomorrow, and beyond.\n\nIf you are passionate about helping people feel better, we want to hear from you.",
+    "industry": "Wellness and Fitness Services",
+    "website": "http://www.nowatch.com",
+    "linkedInUrl": "https://www.linkedin.com/company/thenowatch",
+    "employeeCount": 45,
+    "foundedYear": 2020,
+    "location": "Amsterdam, Netherlands",
+    "specialities": []
+  }
+}

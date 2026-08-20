@@ -1,0 +1,71 @@
+{
+  "id": "dr-alexander-reinhold-werbik-913873106",
+  "name": "Dr. Alexander Reinhold Werbik",
+  "headline": "For scientific inquiries: alexander.werbik@hslu.ch",
+  "avatar": null,
+  "location": "Lucerne, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-alexander-reinhold-werbik-913873106",
+  "personId": 1490,
+  "classes": [
+    {
+      "id": 58,
+      "label": "Fall 2005",
+      "season": "Fall",
+      "year": 2005,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2005",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Alexander Werbik",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Lecturer & Senior Researcher",
+      "company": "HSLU Hochschule Luzern",
+      "companyUrl": "https://www.linkedin.com/company/hslu-hochschule-luzern",
+      "description": null,
+      "location": "Lucerne, Switzerland",
+      "start": "2022-09",
+      "end": null,
+      "dateRange": "Sep 2022 – Present",
+      "current": true
+    }
+  ],
+  "schools": [],
+  "skills": [],
+  "languages": [
+    "Englisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "Lucerne University of Applied Sciences and Arts",
+    "tagline": "News aus den Departementen Technik & Architektur, Wirtschaft, Informatik, Soziale Arbeit, Design Film Kunst und Musik.",
+    "description": "The Lucerne University of Applied Sciences and Arts is one of seven universities of applied sciences in Switzerland. It was founded in 1997 and comprises of the Lucerne Schools of Engineering and Architecture, Business, Information Technology, Social Work, Design, Film and Art​ and Music. It is the largest educational institution in the region and supported by the six central Swiss cantons Lucerne, Uri, Schwyz, Obwalden, Nidwalden and Zug. \n\nThe Lucerne University of Applied Sciences and Arts fulfils its mandate in the four areas of education, continuing and executive education, applied research and development, and services. The bachelor's and master's degree programmes follow the requirements of business, culture and civil society and prepare students for the needs of the job market. Ambitious professionals can choose from a wide range of continuing and executive education courses.\nAt the moment, more than 6'200 students are enrolled and more than 4'500 persons are taking continuing education courses. \n\nBecause of its research activities and specialised services, the Lucerne University of Applied Sciences and Arts is an important and reliable partner for enterprises in the private sector, federations/associations and public authorities. It maintains an extensive national and international network.",
+    "industry": "Education Administration Programs",
+    "website": "https://www.hslu.ch",
+    "linkedInUrl": "https://www.linkedin.com/company/hochschule-luzern",
+    "employeeCount": 3143,
+    "foundedYear": 1997,
+    "location": "Luzern, Switzerland",
+    "specialities": [
+      "Fachhochschule",
+      "Architektur",
+      "Wirtschaft",
+      "Soziale Arbeit",
+      "Design & Kunst",
+      "Musik",
+      "Ingenieurwesen",
+      "Informatik"
+    ]
+  }
+}

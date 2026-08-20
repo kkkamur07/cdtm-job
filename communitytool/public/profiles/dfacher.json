@@ -1,0 +1,194 @@
+{
+  "id": "dfacher",
+  "name": "Dominik Facher",
+  "headline": "Chief Product Officer @ ZoomInfo",
+  "avatar": null,
+  "location": "Boston, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/dfacher",
+  "personId": 1889,
+  "classes": [
+    {
+      "id": 66,
+      "label": "Fall 2009",
+      "season": "Fall",
+      "year": 2009,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2009",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Dominik Facher",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Chief Product Officer",
+      "company": "ZoomInfo",
+      "companyUrl": "https://www.linkedin.com/company/zoominfo",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "San Francisco Bay Area",
+      "company": "ZoomInfo",
+      "companyUrl": "https://www.linkedin.com/company/zoominfo",
+      "description": null,
+      "location": null,
+      "start": "2021-07",
+      "end": "2023-12",
+      "dateRange": "Jul 2021 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "VP Product & Engineering (acquired by ZoomInfo)",
+      "company": "Chorus.ai",
+      "companyUrl": "https://www.linkedin.com/company/chorus.ai",
+      "description": "Get the insights from every sales and success conversation without sitting in on a single call.\n\nChorus is using advanced artificial intelligence to identify best practices based on what your A-Players say and do on calls - to easily build and refine your sales playbook at scale",
+      "location": "San Francisco Bay Area",
+      "start": "2016-01",
+      "end": "2021-07",
+      "dateRange": "Jan 2016 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Consultant - Technology Strategy",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": "Technology and strategy consulting for enterprise software and semiconductor • salesforce optimization and compensation, M&A and organizational transformations  •  US, Europe and Asia",
+      "location": "San Francisco Bay Area",
+      "start": "2011-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2011 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Emplido (exited to Experteer GmbH)",
+      "companyUrl": null,
+      "description": "Sold social network analytics startup Emplido to German mid-size player Experteer GmbH in 2011 • Emplido provides social network algorithms for candidate sourcing",
+      "location": "Munich",
+      "start": "2008-01",
+      "end": "2011-12",
+      "dateRange": "Jan 2008 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Secure Dataroom SaaS",
+      "company": "Brainloop AG",
+      "companyUrl": "https://www.linkedin.com/company/brainloop-ag",
+      "description": null,
+      "location": null,
+      "start": "2008-01",
+      "end": "2009-12",
+      "dateRange": "Jan 2008 – Dec 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University Graduate School of Business",
+      "degree": "Master of Business Administration (M.B.A.), Business Administration and Management, General",
+      "dateRange": null
+    },
+    {
+      "school": "ETH Zürich",
+      "degree": "Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management, Product Development",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Tel Aviv University",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Machine Learning",
+    "Business Intelligence",
+    "Management Consulting",
+    "Entrepreneurship",
+    "Product Management",
+    "Business Strategy",
+    "Mobile Applications",
+    "Team Building",
+    "Technology Product Development",
+    "Scrum",
+    "JavaScript",
+    "Databases",
+    "MongoDB",
+    "Unsupervised Learning",
+    "Backbone.js",
+    "Financial Analysis",
+    "Node.js",
+    "Python",
+    "Hadoop",
+    "MapReduce",
+    "Java",
+    "EJB",
+    "Statistics",
+    "Strategy",
+    "Business Development",
+    "Mobile Devices",
+    "Software Product Management",
+    "Semiconductors",
+    "Artificial Intelligence",
+    "Product Road Mapping",
+    "SaaS",
+    "Web Analytics",
+    "Go-to-market Strategy",
+    "Project Management"
+  ],
+  "languages": [],
+  "company": {
+    "name": "ZoomInfo",
+    "tagline": null,
+    "description": "ZoomInfo (NASDAQ: GTM) is the go-to-market platform that helps businesses find, acquire and grow their customers. \n\nZoomInfo delivers accurate, real-time data, insights, and technology to more than 35,000 companies worldwide. Businesses use our data and platform to increase efficiency, align sales and marketing teams, and consolidate technology stacks. We are a recognized leader in data privacy, with industry-leading GDPR and CCPA compliance and numerous data security and privacy certifications. For more information about how ZoomInfo helps customers unlock insights, engage customers, and win faster visit: www.zoominfo.com \n\nSpecialties: GTM platform, GTM strategy, sales intelligence, conversation intelligence, marketing intelligence, sales engagement, contact data, intent data, lead generation, improved prospecting, business information, business contacts, account-based marketing (ABM), data accuracy, database hygiene, and data orchestration.",
+    "industry": "Software Development",
+    "website": "https://www.zoominfo.com",
+    "linkedInUrl": "https://www.linkedin.com/company/zoominfo",
+    "employeeCount": 4306,
+    "foundedYear": null,
+    "location": "Vancouver, United States",
+    "specialities": [
+      "GTM platform",
+      "GTM strategy",
+      "sales intelligence",
+      "conversation intelligence",
+      "marketing intelligence",
+      "sales engagement",
+      "contact data",
+      "intent data",
+      "lead generation",
+      "improved sales prospecting",
+      "business information",
+      "business contacts",
+      "account-based marketing (ABM)",
+      "data accuracy",
+      "database hygiene",
+      "data orchestration",
+      "sales AI",
+      "AI for GTM"
+    ]
+  }
+}

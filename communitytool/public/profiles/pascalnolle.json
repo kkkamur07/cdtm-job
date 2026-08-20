@@ -1,0 +1,204 @@
+{
+  "id": "pascalnolle",
+  "name": "Pascal Nolle",
+  "headline": "Senior Product Manager BMW Maps",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/pascalnolle",
+  "personId": 1938,
+  "classes": [
+    {
+      "id": 68,
+      "label": "Fall 2010",
+      "season": "Fall",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2010",
+  "major": "Technology and Management oriented Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Pascal Nolle",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Product Manager BMW Maps",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2022-12",
+      "end": null,
+      "dateRange": "Dec 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Manager in Digital Strategy Department",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2019-06",
+      "end": "2022-11",
+      "dateRange": "Jun 2019 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Assistant to SVP Digital and Strategy Manager Digital Services",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2018-06",
+      "end": "2019-05",
+      "dateRange": "Jun 2018 – May 2019",
+      "current": false
+    },
+    {
+      "title": "Internal Entrepreneurship Program",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "BMW Startup Accelerator",
+      "location": "Munich, Germany",
+      "start": "2017-11",
+      "end": "2018-02",
+      "dateRange": "Nov 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Management Accountant, Strategy Planning",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2014-05",
+      "end": "2018-05",
+      "dateRange": "May 2014 – May 2018",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and Managing Partner",
+      "company": "StraTec Partners",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich",
+      "start": "2011-12",
+      "end": "2013-12",
+      "dateRange": "Dec 2011 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Intern in Innovation Management",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2010-03",
+      "end": "2010-05",
+      "dateRange": "Mar 2010 – May 2010",
+      "current": false
+    },
+    {
+      "title": "Student Trainee supporting Deal Flow and Due Dilligence",
+      "company": "GloTec (Venture Capital)",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich",
+      "start": "2008-10",
+      "end": "2009-06",
+      "dateRange": "Oct 2008 – Jun 2009",
+      "current": false
+    },
+    {
+      "title": "Student consultant, Assistant to the CEO",
+      "company": "prevero UKI",
+      "companyUrl": "https://www.linkedin.com/company/prevero-ag",
+      "description": null,
+      "location": "Munich",
+      "start": "2008-06",
+      "end": "2008-08",
+      "dateRange": "Jun 2008 – Aug 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Technology and Management",
+      "dateRange": "2007 – 2013"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Columbia Business School",
+      "dateRange": "2012"
+    },
+    {
+      "school": "HEC Paris",
+      "degree": "Business Administration",
+      "dateRange": "2009"
+    }
+  ],
+  "skills": [
+    "Team Management",
+    "Leadership",
+    "Project Management",
+    "Strategy",
+    "Product Management",
+    "Entrepreneurship",
+    "Management Consulting",
+    "Business Development",
+    "Marketing Strategy",
+    "Start-ups",
+    "Business Planning",
+    "Business Strategy",
+    "Market Research",
+    "Marketing",
+    "Product Development",
+    "Research",
+    "Microsoft Office",
+    "Innovation Management",
+    "Management"
+  ],
+  "languages": [],
+  "company": {
+    "name": "BMW Group",
+    "tagline": "We make individual mobility more human, more intelligent and more responsible.",
+    "description": "With its four brands, BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world’s leading premium manufacturer of automobiles and motorcycles and also provides premium financial services. The BMW Group production network comprises over 30 production sites worldwide; the company has a global sales network in more than 140 countries.\n\nIn 2025, the BMW Group sold 2.46 million passenger vehicles and more than 202,500 motorcycles worldwide. The profit before tax in the financial year 2025 was € 10.2 billion on revenues amounting to € 133,5 billion. As of 31 December 2025, the BMW Group had a workforce of 154,540 employees.\n\nThe economic success of the BMW Group has always been based on long-term thinking and respon-sible action. Sustainability is a key element of the BMW Group’s corporate strategy and covers all products – from the supply chain through production to the end of their useful life.",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://www.bmwgroup.com/en/general/imprint.html",
+    "linkedInUrl": "https://www.linkedin.com/company/bmw-group",
+    "employeeCount": 65541,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Automotive",
+      "Information Technology",
+      "Data Science",
+      "Software Development",
+      "Artificial Intelligence",
+      "Data Security",
+      "Motorcycles",
+      "Financial Services",
+      "Mobility Services",
+      "Digital Services",
+      "IoT",
+      "Future of Mobilty",
+      "Autonomous Driving",
+      "Connectivity",
+      "Sheer Driving Pleasure"
+    ]
+  }
+}

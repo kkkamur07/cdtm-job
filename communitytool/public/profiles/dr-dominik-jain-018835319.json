@@ -1,0 +1,118 @@
+{
+  "id": "dr-dominik-jain-018835319",
+  "name": "Dr. Dominik Jain",
+  "headline": "AI Researcher & Software Architect",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-dominik-jain-018835319",
+  "personId": 1549,
+  "classes": [
+    {
+      "id": 55,
+      "label": "Spring 2004",
+      "season": "Spring",
+      "year": 2004,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2004",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Dominik Jain",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Oraios AI",
+      "companyUrl": "https://www.linkedin.com/company/oraios-ai",
+      "description": null,
+      "location": null,
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Lead Researcher",
+      "company": "appliedAI Initiative GmbH",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": "* Forschung und Entwicklung in den Bereichen Reinforcement Learning (verstärkendes Lernen) und generative KI\n* Erstellung von Fortbildungsmaterialen zum Thema Software-Design und -Engineering im Kontext maschinelles Lernen und KI\n* Entwicklung von Open-Source-Bibliotheken (gemeinnützig)",
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-05",
+      "end": "2024-11",
+      "dateRange": "May 2023 – Nov 2024",
+      "current": false
+    },
+    {
+      "title": "AI Research Scientist, Senior Software Architect",
+      "company": "jambit GmbH",
+      "companyUrl": "https://www.linkedin.com/company/jambit-gmbh",
+      "description": "Competence Center für künstliche Intelligenz: Konzeption, Entwicklung und wissenschaftliche Dokumentation von Methoden des maschinellen Lernens und Schlussfolgerns, typischerweise im Rahmen von Forschungs-/Vorentwicklungsprojekten im Automobilsektor; zu den Problembereichen zählten u.a.:\n\n* Optimale Multi-Agenten-Aufgabenplanung\n* Probabilistisches Map-Matching und Kartenänderungserkennung\n* Graph-basierte simultane Lokalisierung und Kartierung (Graph-SLAM)\n* Routing mit probabilistischen Zielen\n* Datengesteuerte Bewertung sowie Ranking von Points of Interest\n* Reichweitenvorhersage für Elektrofahrzeuge\n* Lernen von Mobilitäts- und Lademustern\n* Vorhersage der (lokalen) Nachfrage nach Mobilitätsdiensten\n\nLean Enterprise Systems (bis 2014): Full-Stack-Entwicklung von Softwareapplikation im Automobilbereich, technische Projektleitung",
+      "location": "München, Bayern, Deutschland",
+      "start": "2012-07",
+      "end": "2023-03",
+      "dateRange": "Jul 2012 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Wissenschaftlicher Mitarbeiter",
+      "company": "Technische Universität München (Technical University of Munich)",
+      "companyUrl": "https://www.linkedin.com/company/c446-deccan-m.ed-college-gulbarga",
+      "description": "Intelligent Automonous Systems Group, Institut für Informatik\n\nForschung:\n* Entwicklung von Wissensrepräsentationsformalismen, Inferenz- und Lernmethoden im Kontext der statistischen relationalen künstlichen Intelligenz\n* Anwendungen in kognitiven technischen Systemen, insbesondere in autonomen Robotersystemen\n* Verfassen von Forschungsarbeiten (über 20 wissenschaftliche Veröffentlichungen) sowie von Förderanträgen\n\nLehre: Kurse zu den Themenbereichen künstliche Intelligenz, Wissensrepräsentation, statistisches relationales Lernen und diskrete Wahrscheinlichkeitstheorie; Betreuung von studentischen Abschlussarbeiten",
+      "location": "Garching bei München, Bayern, Deutschland",
+      "start": "2007-01",
+      "end": "2012-06",
+      "dateRange": "Jan 2007 – Jun 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technische Universität München (Technical University of Munich)",
+      "degree": "Dr. rer. nat., Informatik (künstliche Intelligenz)",
+      "dateRange": "2007 – 2012"
+    },
+    {
+      "school": "Technische Universität München (Technical University of Munich)",
+      "degree": "Diplom-Informatiker, Informatik",
+      "dateRange": "2001 – 2007"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Certificate, Technology Management",
+      "dateRange": "2004 – 2006"
+    }
+  ],
+  "skills": [
+    "Softwareentwicklung",
+    "Künstliche Intelligenz (KI)"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Oraios AI",
+    "tagline": "Delivering elegant solutions to complex problems",
+    "description": "We can assist you in turning your ideas into reality.\nWhether you require a full AI solution, an ideation workshop or are looking for training, we are here to help.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://oraios-ai.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/oraios-ai",
+    "employeeCount": 2,
+    "foundedYear": 2024,
+    "location": "Munich, Germany",
+    "specialities": [
+      "AI Consulting",
+      "Reinforcement Learning",
+      "Probabilistic Modeling",
+      "Optimization",
+      "Machine Learning",
+      "Generative AI"
+    ]
+  }
+}

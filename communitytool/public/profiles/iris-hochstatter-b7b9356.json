@@ -1,0 +1,102 @@
+{
+  "id": "iris-hochstatter-b7b9356",
+  "name": "Iris Hochstatter",
+  "headline": "Deutsche Bundesbank",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/iris-hochstatter-b7b9356",
+  "personId": 1707,
+  "classes": [
+    {
+      "id": 100,
+      "label": "Fall 2000",
+      "season": "Fall",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2000",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Iris Hochstatter",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "ITSM",
+      "company": "Deutsche Bundesbank",
+      "companyUrl": "https://www.linkedin.com/company/deutsche-bundesbank",
+      "description": null,
+      "location": null,
+      "start": "2012-09",
+      "end": null,
+      "dateRange": "Sep 2012 – Present",
+      "current": true
+    },
+    {
+      "title": "Researcher",
+      "company": "Universität der Bundeswehr München",
+      "companyUrl": "https://www.linkedin.com/company/universitaet-der-bundeswehr-muenchen",
+      "description": null,
+      "location": null,
+      "start": "2007-01",
+      "end": "2011-12",
+      "dateRange": "Jan 2007 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2003-01",
+      "end": "2006-12",
+      "dateRange": "Jan 2003 – Dec 2006",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Computer Science",
+      "dateRange": "1997 – 2002"
+    }
+  ],
+  "skills": [
+    "Distributed Systems",
+    "LaTeX",
+    "Algorithms",
+    "Computer Science",
+    "Software Engineering"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Deutsche Bundesbank",
+    "tagline": "Zentralbank der Bundesrepublik Deutschland und Teil des Europäischen Systems der Zentralbanken",
+    "description": "Arbeit von besonderem Wert\n\nAls Zentralbank der Bundesrepublik Deutschland agieren wir am Puls der internationalen Finanzmärkte und an den Schnittstellen von Politik, Wirtschaft und Wissenschaft. Als hochmoderne Institution, die Digitalisierung und gesellschaftlichen Wandel mitgestaltet, haben wir den Anspruch, an der Spitze der Entwicklung zu stehen. Damit unsere Währung für das Gemeinwohl stabil bleibt. \n\nArbeiten bei der Bundesbank bedeutet, sich mit komplexen, spannenden und herausfordernden Themen auseinanderzusetzen und Inhalte in ihrer Tiefe zu erfassen. Es bedeutet aber auch: Persönliche Sinnfindung und Entfaltung – als Mitarbeiterin oder Mitarbeiter und als Individuum.\n\nKarriere nicht nur für Bankfachleute\n\nUnsere rund 10.000 Beschäftigten stehen an erster Stelle. Denn unser Erfolg basiert auf ihrem Wissen, ihrem Können und ihrem Einsatz. Und damit meinen wir nicht nur Mitarbeitende mit einer Bank- oder Wirtschaftsausbildung. \n\nWir bieten Berufsmöglichkeiten für\n•\tWirtschaftswissenschaftler*innen\n•\tIT-Fachkräfte\n•\tData Scientists\n•\tIngenieur*innen\n•\tArchitekt*innen\n•\tJurist*innen\n\nUnsere Einstiegsprogramme (Traineeprogramm für Absolvent*innen sowie duale Studiengänge für Abiturient*innen) ermöglichen einen optimalen Einstieg in die Welt des Zentralbankwesen.",
+    "industry": "Banking",
+    "website": "https://www.bundesbank.de",
+    "linkedInUrl": "https://www.linkedin.com/company/deutsche-bundesbank",
+    "employeeCount": 3475,
+    "foundedYear": 1957,
+    "location": "Frankfurt am Main, Germany",
+    "specialities": [
+      "Geldpolitik",
+      "Bankenaufsicht",
+      "Finanz- und Währungssystem",
+      "Bargeld",
+      "Unbarer Zahlungsverkehr"
+    ]
+  }
+}

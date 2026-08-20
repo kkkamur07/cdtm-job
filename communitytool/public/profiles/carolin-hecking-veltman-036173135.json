@@ -1,0 +1,233 @@
+{
+  "id": "carolin-hecking-veltman-036173135",
+  "name": "Carolin Hecking-Veltman",
+  "headline": "Senior Research / ML Engineer",
+  "avatar": {
+    "sm": "/avatars/carolin-hecking-veltman-036173135-sm.webp",
+    "lg": "/avatars/carolin-hecking-veltman-036173135.webp",
+    "blur": "data:image/webp;base64,UklGRh4BAABXRUJQVlA4IBIBAAAwBgCdASogACAAPtFSpUuoJKOhsBgMAQAaCUAAogPcn38MJwmyQYQQx1gQ3j6Umif7tTlkWONEdLKAAP77pzJJL8ZPBDyitkg6+va6mQ1NO8AYHpKvmU5+s2oVBlzxX2P1rCP9+ONt59LMzM2uxShbBSp4zdCB4nt8ZyqWgSRCTOLfXy5mon3mLGEYsycILfPnXvqwtHcYR8Geyzfgi/viaeWAxlQ3P97G1DE3PBcw0xbSeDH5h0/FVx6xr3Twn009snzy4LLUpvt10+761GPxjxw0k/ltqFYj1gePpJc4a5J+a+7BMwJ27mA/SdVyuTtMVXUD1+GFF+ZvWOfq+OhhCHyKJG06SBLp7ye92wtTgAAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/carolin-hecking-veltman-036173135",
+  "personId": 1143,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Mathematics in Data Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Carolin Hecking-Veltman",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Machine Learning Engineer",
+      "company": "Tavus",
+      "companyUrl": "https://www.linkedin.com/company/tavus-io",
+      "description": null,
+      "location": null,
+      "start": "2025-03",
+      "end": null,
+      "dateRange": "Mar 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "CTO & Co-Founder",
+      "company": "econvio",
+      "companyUrl": "https://www.linkedin.com/company/econvio",
+      "description": "econvio is a climate tech startup developing innovative solutions to facilitate sustainable energy transitions in residential buildings.\n\nAs a co-founder, I lead the technical development, managing a team of software engineers to build our tech stack that includes:\n\n- Automated data ingestion pipelines integrating diverse data sources, including complex geometrical information, visual data, and various other inputs\n- APIs for seamless interaction with building management systems\n- An intuitive dashboard for real-time data visualization and system control\n- Support for technical planners in simulating and computing the heating load of buildings",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": "2025-03",
+      "dateRange": "Jan 2024 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "Research Engineer | Digital Humans, Neural Rendering",
+      "company": "Synthesia",
+      "companyUrl": "https://www.linkedin.com/company/synthesia-technologies",
+      "description": "• Executed advanced research projects focusing on Neural Rendering, NeRFs, and Controllable 3D Scene Representations\n• Developed production-ready code with robust experiment tracking, dockerization, and automated multi-stage training pipelines\n• Processed large-scale multi-view datasets and implemented state-of-the-art papers in computer vision\n• Conducted comprehensive literature reviews and adapted advanced algorithms for practical applications\n• Mentored new team members and performed regular code reviews to ensure high-quality outputs\n• Stepped in as interim team lead for 6 weeks, successfully managing a team of 4 and driving project progress",
+      "location": null,
+      "start": "2021-10",
+      "end": "2024-01",
+      "dateRange": "Oct 2021 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "AI Research Intern | Active Learning for Object Detection",
+      "company": "NVIDIA",
+      "companyUrl": "https://www.linkedin.com/company/nvidia",
+      "description": "• Research intern in the Active Learning for Autonomous Driving R&D team \n• Identified research questions in the usage of Active Learning with the team\n• Implemented approaches from literature and own ideas\n• Set up and executed large scale trainings and presented results with implications to stakeholders in the team",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-04",
+      "end": "2020-07",
+      "dateRange": "Apr 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "ORBEM A.I.",
+      "companyUrl": "https://www.linkedin.com/company/orbem-ai",
+      "description": "• Implemented accelerated reconstruction of MR images from raw scanner data in C++ \n• Supported successful grant application for EXIST Forschungstransfer (2 Mio. Euros)",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-01",
+      "end": "2019-04",
+      "dateRange": "Jan 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineering Intern",
+      "company": "TNG Technology Consulting",
+      "companyUrl": "https://www.linkedin.com/company/tng-technology-consulting",
+      "description": "• Contributed to client project delivering a defect detection approach based on siamese networks",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-11",
+      "end": "2018-12",
+      "dateRange": "Nov 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Bachelor's Thesis",
+      "company": "GE Healthcare",
+      "companyUrl": "https://www.linkedin.com/company/gehealthcare",
+      "description": "• Adjusted MRI reconstruction for phase images, implemented preprocessing and augmentation\n• Implemented a neural network that separates phase contributions from eddy currents and motion\n• Presented results at conference (ISMRM 2019 in Montreal)",
+      "location": "Garching bei München",
+      "start": "2018-06",
+      "end": "2018-10",
+      "dateRange": "Jun 2018 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "StudySmarter",
+      "companyUrl": null,
+      "description": "•      Customer Interviews with students for identication of problems  \n•      Development of new features using Design Thinking",
+      "location": "München",
+      "start": "2017-08",
+      "end": "2018-02",
+      "dateRange": "Aug 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Research Intern at Chair for Mechanics on High Performance Computers",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "• Implementation and Adaptation of an algorithm to remove redundancy from aneurysm surface representations in STL files",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-09",
+      "end": "2016-11",
+      "dateRange": "Sep 2016 – Nov 2016",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant for Mathematics in Engineering Science",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-10",
+      "end": "2016-02",
+      "dateRange": "Oct 2015 – Feb 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "Master's Thesis",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Mathematics in Data Science",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Udacity",
+      "degree": "NanoDegree, Machine Learning DevOps Engineer",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science, ENGINEERING",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "KTH Royal Institute of Technology",
+      "degree": "Semester Abroad",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Exchange Semester, Engineering",
+      "dateRange": "2017"
+    }
+  ],
+  "skills": [
+    "Präsentationsfertigkeiten",
+    "Produktmanagement",
+    "Django REST Framework",
+    "Projektmanagement",
+    "React.js",
+    "Data Engineering",
+    "OpenCV",
+    "Matlab",
+    "Defect Detection",
+    "Computer Vision",
+    "C++",
+    "Medizinische Bildgebung",
+    "MRI-Software",
+    "Object Detection",
+    "Active Learning",
+    "Ansible",
+    "Infrastructure as code (IaC)",
+    "GANs",
+    "Robust Deep Learning",
+    "Generative Modeling",
+    "TensorFlow",
+    "Docker",
+    "Python",
+    "Neural Rendering",
+    "MLOps",
+    "docker",
+    "Amazon Web Services (AWS)",
+    "PyTorch",
+    "Deep Learning"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Tavus",
+    "tagline": "The human computing company",
+    "description": "Tavus is a research lab pioneering human computing. \n\nWe’re building AI humans: a new interface that closes the gap between us and machines, free from the friction of today’s systems. Our real-time human simulation models let machines see, hear, respond, and even look real, enabling meaningful face-to-face conversations with people. \n\nAI Humans connect and act with precision and empathy, making them capable, trusted agents. It’s the best of both worlds: the emotional intelligence of humans, with the reach and reliability of machines. They’re available 24/7, in every language, on our terms. \n\nImagine a therapist that anyone can afford. A personal trainer that adapts to your schedule. A fleet of medical assistants that can give every patient the attention they need.\n\nTavus: teaching machines how to be human.",
+    "industry": "Software Development",
+    "website": "http://www.tavus.io",
+    "linkedInUrl": "https://www.linkedin.com/company/tavus-io",
+    "employeeCount": 83,
+    "foundedYear": 2020,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

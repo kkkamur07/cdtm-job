@@ -1,0 +1,221 @@
+{
+  "id": "uwesandner",
+  "name": "Uwe Sandner",
+  "headline": "CTO | CPO | Building ventures and platforms from greenfield to scale",
+  "avatar": null,
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/uwesandner",
+  "personId": 1954,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Uwe Sandner",
+  "ca": {
+    "alumni": true,
+    "about": null,
+    "responsibilities": [],
+    "researchFields": [],
+    "email": null
+  },
+  "summary": "Visionary and results-oriented executive (CEO/CTO/CPO, Managing Director, Product & Engineering) with 20+ years of experience shaping the future of digital. I specialize in leading organizations through complex transformations, leveraging emerging technologies like AI and Low-Code platforms, and building robust Cloud Infrastructure. My approach integrates strategic thinking with hands-on expertise in Modern Engineering, Product Management, and Design Thinking. I have a proven track record in Venture Building, navigating M&A and PMI processes, and ensuring rigorous Compliance. As a dedicated coach and servant leader, I build and scale sustainable, high-impact teams grounded in data, trust, and transparency. Passionate about translating innovative ideas into monetizable digital solutions that deliver exceptional customer value.\n\n#TechLeader #CTO #CPO #DigitalInnovation #AIStrategy",
+  "positions": [
+    {
+      "title": "Chief Technology Officer",
+      "company": "Elevion Green",
+      "companyUrl": "https://www.linkedin.com/company/elevion-green",
+      "description": "Elevion Green transforms decarbonization into a profitable business strategy through Energy as a Service (EaaS) and advanced Contracting models. As part of the Elevion Group, we provide a \"one-stop shop\" for integrated renewable ecosystems in several countries, combining high-efficiency photovoltaics with Battery Energy Storage Systems (BESS). We manage the entire lifecycle—from conceptualization to full realization—enabling companies to achieve energy independence and cost-optimization without CAPEX complexity.\n- Built a greenfield digital B2B platform from zero to launch for the Elevion Group, empowering businesses with renewable energy solutions. Held full P&L and operational responsibility for product, technology, and infrastructure.\n- Architected and launched a transformative B2B platform, digitalizing end-to-end processes including marketing, sales, EPC, and value-added services. This included deep integration with existing CRM and ERP landscapes.\n- Championed and implemented innovative AI and low-code technologies, resulting in demonstrable uplift in conversion rates and substantial reductions in operational process costs.",
+      "location": null,
+      "start": "2023-12",
+      "end": null,
+      "dateRange": "Dec 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief Technology Officer",
+      "company": "Qwist",
+      "companyUrl": "https://www.linkedin.com/company/qwist",
+      "description": "Qwist offers a full-stack Open Banking platform. It enables partners to connect to over three thousand financial institutions across Europe and Middle East, access accounts, and enrich transactions with data & analytics tools, creating new value from financial data.\n\n- Led the entire technology function for a leading independent OpenBanking SaaS provider, serving clients across the EU and MENA regions.\n- Drove the development and delivery of core OpenBanking solutions, including Account Information Services (AIS), Payment Initiation Services (PIS), and advanced data enrichment capabilities (leveraging ML for categorization, contract recognition, insights, and risk indicators).\n- Successfully implemented these services by integrating with diverse data sources via PSD2 APIs, web scraping techniques, and premium APIs across multiple European and MENA markets.\n- Engineered and operated a secure, private hybrid cloud infrastructure spanning multiple datacenters (bare-metal, AWS, GCP) and client-side deployments, ensuring compliance within a highly regulated environment.\n- Played a pivotal technology leadership role in strategic business initiatives, including acquisitions, financing rounds, post-merger integrations (PMI), and the ultimate sale of the company.",
+      "location": null,
+      "start": "2020-01",
+      "end": "2023-01",
+      "dateRange": "Jan 2020 – Jan 2023",
+      "current": false
+    },
+    {
+      "title": "Associate Partner • Digital Expert • Venture Builder • VP Technology",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "A results-driven leader focused on building new digital units and transforming existing organizations to capture significant new value. I specialize in creating innovative products, enhanced customer experiences, and new business ventures by developing and integrating cutting-edge capabilities.\n\nKey Achievements Include:\n\n- Building High-Impact Teams: Architected and scaled an innovation hub to 200 FTE, comprising dedicated product and technology professionals.\n- Driving Transformation: Successfully restructured delivery units within digital transformation programs, implementing agile frameworks, design thinking, and modern development tools to boost productivity and innovation.\n- Stabilizing & Leading: Served as an interim manager for software development organizations, providing strategic direction and operational oversight during critical periods.",
+      "location": null,
+      "start": "2017-11",
+      "end": "2019-12",
+      "dateRange": "Nov 2017 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Chief Technology Officer",
+      "company": "Movinga",
+      "companyUrl": "https://www.linkedin.com/company/movinga-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2016-05",
+      "end": "2017-10",
+      "dateRange": "May 2016 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Director Product - Ströer Digital",
+      "company": "Ströer SE & Co. KGaA",
+      "companyUrl": "https://www.linkedin.com/company/stroeer",
+      "description": "- Digital Product for Ströer's advertising technology stack (DSP, SSP, adservers) for various channels and formats (video, digital, mobile, OOH)\n- M&A and PMI for adtech companies",
+      "location": null,
+      "start": "2015-03",
+      "end": "2016-05",
+      "dateRange": "Mar 2015 – May 2016",
+      "current": false
+    },
+    {
+      "title": "CTO and Managing Director Ströer Mobile",
+      "company": "Ströer SE & Co. KGaA",
+      "companyUrl": "https://www.linkedin.com/company/stroeer",
+      "description": null,
+      "location": null,
+      "start": "2013-05",
+      "end": "2016-05",
+      "dateRange": "May 2013 – May 2016",
+      "current": false
+    },
+    {
+      "title": "Founder and CTO",
+      "company": "Servtag",
+      "companyUrl": "https://www.linkedin.com/company/servtag-istanbul",
+      "description": "servtag developed digital products focused on mobile advertising. Acquired by Ströer Digital.",
+      "location": null,
+      "start": "2008-01",
+      "end": "2013-12",
+      "dateRange": "Jan 2008 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Program Coordinator",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": null,
+      "start": "2004-01",
+      "end": "2008-12",
+      "dateRange": "Jan 2004 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2004-01",
+      "end": "2008-12",
+      "dateRange": "Jan 2004 – Dec 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Computer Science",
+      "dateRange": "1999 – 2003"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Entrepreneurship/Entrepreneurial Studies",
+      "dateRange": "2001 – 2003"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher, Information Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Management",
+    "SQL",
+    "Leadership",
+    "Software Architecture",
+    "Artificial Intelligence (AI)",
+    "Strategy",
+    "Business-to-Business (B2B)",
+    "Online Advertising",
+    "Cloud Computing",
+    "Customer Relationship Management (CRM)",
+    "Start-ups",
+    "Due Diligence",
+    "Entrepreneurship",
+    "E-commerce",
+    "Advertising",
+    "Product Management",
+    "Business Strategy",
+    "Venture Capital",
+    "Mobile Applications",
+    "Product Development",
+    "Android",
+    "Agile Methodologies",
+    "Design Thinking",
+    "Scalability",
+    "Distributed Systems",
+    "Ruby on Rails",
+    "Ruby",
+    "Software as a Service (SaaS)",
+    "iPhone",
+    "Software Engineering",
+    "IT Strategy",
+    "Interim Management",
+    "Technology Leadership",
+    "Technical Leadership",
+    "NoSQL",
+    "Agile Leadership",
+    "Software Development Methodologies",
+    "Online Marketplace",
+    "FinTech",
+    "Product Leadership",
+    "Technical Vision",
+    "Low-Code Development Platforms",
+    "E-Commerce",
+    "cto",
+    "CTO"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "company": {
+    "name": "Elevion Green",
+    "tagline": "Wir machen aus Klimaschutz einen Business Case.",
+    "description": "Elevion Green macht Klimaschutz zum Business-Case. Die B2B-Plattform befähigt Unternehmen in ganz Deutschland, mit schneller, durchdachter und unkomplizierter Installation von Photovoltaik-Anlagen und Batteriespeichern Kosten zu sparen – dank günstiger Sonnenenergie. Die Unternehmen gewinnen dadurch Freiheit mittels dezentraler Energieversorgung, die Gemeinschaft profitiert von der Dekarbonisierung.\n\nElevion Green ist ein Angebot der Elevion Group, zu der mehr als 80 spezialisierte Unternehmen in über 13 europäischen Ländern gehören. So kann Elevion Green als „One-Stop-Shop“ von der Beauftragung bis zur Realisierung alles aus einer Hand anbieten.\n\nDas Unternehmen Elevion Green mit Sitz in Berlin wird von dem Geschäftsführer Daniel Netušil geführt.",
+    "industry": "Services for Renewable Energy",
+    "website": "https://www.eleviongreen.de",
+    "linkedInUrl": "https://www.linkedin.com/company/elevion-green",
+    "employeeCount": 30,
+    "foundedYear": 2024,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Photovoltaik",
+      "New Energy",
+      "Renewables",
+      "Energy as a Service",
+      "BESS"
+    ]
+  }
+}

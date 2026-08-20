@@ -1,0 +1,192 @@
+{
+  "id": "claudia-simion-53774724",
+  "name": "Claudia Simion",
+  "headline": "Patent Examiner at European Patent Office",
+  "avatar": null,
+  "location": "The Hague, Netherlands",
+  "linkedInUrl": "https://www.linkedin.com/in/claudia-simion-53774724",
+  "personId": 1919,
+  "classes": [
+    {
+      "id": 67,
+      "label": "Spring 2010",
+      "season": "Spring",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2010",
+  "major": "Computational Science and Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Claudia Simion",
+  "ca": null,
+  "summary": "Passionate about software engineering, HPC, embedded software, CFD",
+  "positions": [
+    {
+      "title": "Patent Examiner",
+      "company": "European Patent Office",
+      "companyUrl": "https://www.linkedin.com/company/european-patent-office",
+      "description": "Search and examination of patent applications in the field of distributed systems.",
+      "location": "The Hague, South Holland, Netherlands",
+      "start": "2015-08",
+      "end": null,
+      "dateRange": "Aug 2015 – Present",
+      "current": true
+    },
+    {
+      "title": "Munich",
+      "company": "ESG GmbH",
+      "companyUrl": "https://www.linkedin.com/company/esg-gmbh",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "- Software Quality Assurance\n- Requirements review, consolidation and coordination",
+      "company": "ESG GmbH",
+      "companyUrl": "https://www.linkedin.com/company/esg-gmbh",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Ottobrun/ Donauwörth",
+      "company": "ESG GmbH",
+      "companyUrl": "https://www.linkedin.com/company/esg-gmbh",
+      "description": "- Software development (Ada 83), V Model XT, DOD-STD2167A\n- Unit testing\n- Static code analysis (Ada Analyser)\n- Software architecture modelling and software design using the HOOD (hierarchical object-oriented design) method",
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Automotive System Engineer",
+      "company": "ESG GmbH",
+      "companyUrl": "https://www.linkedin.com/company/esg-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2015-01",
+      "end": "2015-07",
+      "dateRange": "Jan 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Avionics Software Engineer - Embedded Computing",
+      "company": "ESG GmbH",
+      "companyUrl": "https://www.linkedin.com/company/esg-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2011-11",
+      "end": "2015-01",
+      "dateRange": "Nov 2011 – Jan 2015",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "ANSYS, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/ansys-inc",
+      "description": "Numerical Simulation of Temperature-Driven and Density-Driven Buoyancy Flow",
+      "location": null,
+      "start": "2010-10",
+      "end": "2011-03",
+      "dateRange": "Oct 2010 – Mar 2011",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Max-Planck Institute for Extraterrestrial Physics",
+      "companyUrl": "https://www.linkedin.com/company/european-southern-observatory",
+      "description": "Visualization of SPH Data with Delaunay Tesselation: \n- 2D/3D Delaunay triangulation for very large SPH data (using the Qhull library)\n- Verification and validation of the results by visualizing the prepared data set with various commercial tools\nProject poster: http://www.rzg.mpg.de/services/visualization/presentations/delaunay-poster",
+      "location": null,
+      "start": "2010-02",
+      "end": "2010-05",
+      "dateRange": "Feb 2010 – May 2010",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "OEC AG",
+      "companyUrl": "https://www.linkedin.com/company/oec-ag",
+      "description": "Diploma Thesis in the field of Computer-Aided Geometric Design\n- Developed a library that allows correct import/export of freeform surfaces from an internal NURBS representation from/to the STEP/IGES format\n- Visualization and validation of the resulting geometries by using various commercial CAD tools such as Rhino and LightTools\nFurther description (in Romanian): http://odl.opendrum.upt.ro/kathrein/?page=diploma_show&id=44&&year=2008&lang=1",
+      "location": null,
+      "start": "2008-03",
+      "end": "2008-08",
+      "dateRange": "Mar 2008 – Aug 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technische Universität München & Ludwig-Maximilians-Universität München",
+      "degree": "Technology Management",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "MSc., Computational Science and Engineering",
+      "dateRange": "2008 – 2011"
+    },
+    {
+      "school": "Polytechnic University of Timisoara",
+      "degree": "Dipl. Ing., Automation and Computer Engineering",
+      "dateRange": "2003 – 2008"
+    },
+    {
+      "school": "University of Augsburg",
+      "degree": "Erasmus Exchange Student, Informatik",
+      "dateRange": "2006 – 2007"
+    }
+  ],
+  "skills": [
+    "C",
+    "C++",
+    "Matlab",
+    "OpenMP",
+    "OpenGL",
+    "MPI",
+    "Java",
+    "CUDA",
+    "Mathematica",
+    "OpenCV",
+    "Pascal",
+    "Lisp",
+    "Software Engineering",
+    "Embedded Systems",
+    "Eclipse"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Romanian"
+  ],
+  "company": {
+    "name": "European Patent Office",
+    "tagline": "As the patent office for Europe, we support innovation, competitiveness and economic growth across Europe.",
+    "description": "The European Patent Organisation is an intergovernmental organisation that was set up on 7 October 1977 on the basis of the European Patent Convention (EPC) signed in Munich in 1973. It has two bodies, the European Patent Office and the Administrative Council, which supervises the Office's activities.\r\n\r\nWe offer inventors a uniform application procedure which enables them to seek patent protection in up to 40 European countries. Supervised by the Administrative Council, the Office is the executive arm of the European Patent Organisation. \r\n\r\nAs the Patent Office for Europe, we support innovation, competitiveness and economic growth across Europe through a commitment to high quality and efficient services delivered under the European Patent Convention.\r\n\r\nWith expert, well-supported staff, motivated to set worldwide standards in quality and efficiency, we will continue to contribute to innovation across Europe, and play a leading role in developing an effective global patent system. All our relationships - within our Office and with partners around the world - will prosper through trust, transparency, fairness and mutual respect. Our processes will empower our people to use their knowledge and skills to the full. \r\n\r\nThe EPO is an equal opportunity employer providing our staff with the chance to build long-term stable careers. We offer one of the most comprehensive and family-friendly benefits packages in Europe.",
+    "industry": "Government Administration",
+    "website": "http://www.epo.org",
+    "linkedInUrl": "https://www.linkedin.com/company/european-patent-office",
+    "employeeCount": 5001,
+    "foundedYear": 1977,
+    "location": "München, Germany",
+    "specialities": [
+      "Intellectual property",
+      "Patents"
+    ]
+  }
+}

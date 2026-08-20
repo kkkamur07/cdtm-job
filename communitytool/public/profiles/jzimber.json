@@ -1,0 +1,124 @@
+{
+  "id": "jzimber",
+  "name": "Josias Zimber",
+  "headline": "Product @ Tacto | AI Product Leader | Ex - BCG",
+  "avatar": null,
+  "location": "Frankfurt, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jzimber",
+  "personId": 1924,
+  "classes": [
+    {
+      "id": 67,
+      "label": "Spring 2010",
+      "season": "Spring",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2010",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Josias Zimber",
+  "ca": null,
+  "summary": "I'm a product leader who builds great products through great teams.\n\nFrom BCG strategy roots to leading product at high-growth startups - I've helped scale CLARK (Series A → D), was part of the leadership team that enabled sevdesk's successful exit, and now lead product at Tacto, a fast-scaling B2B procurement platform.\n\nWhat I bring: Commercial instinct meets product craft. I connect strategy to execution, build empowered teams, and stay obsessed with customer problems worth solving.\n\nWhat I value in teams: Ownership, curiosity, and the courage to challenge assumptions - including mine.\n\nAlways happy to connect with product builders (PM, design, engineering), founders, or anyone in the B2B Saas / manufacturing space.",
+  "positions": [
+    {
+      "title": "Head of Product",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": "Tacto is the procurement intelligence platform for industrials.\n\nWe enable procurement teams to impact their companies' competitiveness by helping them to source optimally.",
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Vice President Product",
+      "company": "sevDesk",
+      "companyUrl": "https://www.linkedin.com/company/sevdesk-gmbh",
+      "description": "sevdesk is a SaaS company providing an accounting & tax tool to small businesses. Our vision is to transform financial management for small businesses with a tech-powered system that simplifies accounting and taxes, reduces administrative work, and provides actionable insights and services. We are part of Cegid SAS, a global accounting software company based in France.\n\nI lead the product management function consisting of ~17 people that work in a cross-functional product & tech org of ~120.",
+      "location": null,
+      "start": "2022-04",
+      "end": "2025-10",
+      "dateRange": "Apr 2022 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Vice President Growth, Product",
+      "company": "CLARK",
+      "companyUrl": "https://www.linkedin.com/company/goclark",
+      "description": "CLARK is a B2C digital insurance broker with a mobile app. During my time there the company went from series A (40 employees) to series D (400 employees). My work at CLARK contributed significantly to its growth (now > €100M revenue).\n\nI worked both as an IC and as a manager (up to 4 directs) across several high impact areas such as establishing bank partnerships (e.g., w/ N26) as major acquisition channel, international expansion, ramping up & scaling down the B2B business, building a great P&C insurance offering as engagement driver of our app. I also played an instrumental role in building a modern & empowered product & tech organization.",
+      "location": null,
+      "start": "2017-07",
+      "end": "2022-03",
+      "dateRange": "Jul 2017 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Strategy Consulting",
+      "company": "The Boston Consulting Group",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "Created PowerPoints while learning my way around in business. 15+ projects across strategy, operations/manufacturing, marketing & digital.",
+      "location": null,
+      "start": "2013-01",
+      "end": "2017-06",
+      "dateRange": "Jan 2013 – Jun 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diploma, Business and Mechanical Engineering",
+      "dateRange": "2007 – 2012"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Visiting Scholar, Business Administration",
+      "dateRange": "2011"
+    },
+    {
+      "school": "Universidad Carlos III de Madrid",
+      "degree": "Exchange Program, Business Administration",
+      "dateRange": "2009 – 2010"
+    }
+  ],
+  "skills": [
+    "Product & Growth Strategy",
+    "Organizational Development",
+    "Product Discovery",
+    "Business Strategy",
+    "Communication",
+    "Product Management",
+    "Product Strategy"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Tacto",
+    "tagline": "Stronger Procurement. Stronger Company. Stronger Future.",
+    "description": "The world is getting more complex and dynamic than ever before. China, climate, elections, trade wars, bureaucracy. Yet manufacturing, our hidden gem, is struggling to evolve. \n\nOften overlooked: the supply chain. Hundreds of tightly interconnected suppliers, thousands of production-critical parts, global dependencies. Yet procurement is expected to manage this complexity with Excel and Outlook, static ERP systems, and outdated supplier data. That no longer works.\n\nMore than 50% of the cost of a physical product is created in the supply chain. Competitive manufacturing therefore starts in procurement. AI offers the opportunity to optimally balance time, cost, and quality in procurement.\n\nThat’s why Tacto is building the first Procurement Intelligence Platform for industrial companies: not another workflow tool, but a system that creates transparency, delivers actionable recommendations, and enables execution - with procurement as the decision-maker at the center.\n\nPowered by Tacto Intelligence, you see your procurement operations at a glance: KPIs, suppliers, and real-time order and material movements. In the background, Tacto connects your ERP data with external market data to form the Procurement Brain. On top of that, AI agents automate manual work, identify risks and savings opportunities, and provide precise recommendations. Automated workflows turn these signals into action - delivering measurable results: lower costs, better quality, and higher availability.",
+    "industry": "Software Development",
+    "website": "https://www.tacto.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/tactotechnology",
+    "employeeCount": 152,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

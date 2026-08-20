@@ -1,0 +1,150 @@
+{
+  "id": "leonblumenthal",
+  "name": "Leon Blumenthal",
+  "headline": "Co-Founder @ Blick | TUM | CDTM",
+  "avatar": {
+    "sm": "/avatars/leonblumenthal-sm.webp",
+    "lg": "/avatars/leonblumenthal.webp",
+    "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAADwBQCdASogACAAPsVQoUunpKMhsAwA8BiJZgDCgdwLhGlpmG+Hlpm/gvN+SugDAij9IMXymaaaQAD+/mE8vDWckaXLEUOCF8Uaw9OvDqpR9Q6jLzLpvfsXNLwl4dq8Ki5nI9Wz4fsAzpr9uTT5Ymooygfl4KO/+kN4kQ5qQTlDeVJVLfYfK+i/FX9LAHQ8d6DuTs1iLxFS4lN1xHWDgAVFrztPf4MIKO5p+fKs7xsUPt7I0vxlDzJOCya5O0ZmYp27rARlsWbXz9v+we01zFKWSvtfeOrWmu/IVtMem9kgAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/leonblumenthal",
+  "personId": 1002,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Leon Blumenthal",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder (CTO)",
+      "company": "Blick",
+      "companyUrl": "https://www.linkedin.com/company/blick-ai",
+      "description": "Blick develops AI to reduce manual work with reality capture data like point clouds or drone imagery.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-03",
+      "end": null,
+      "dateRange": "Mar 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Engineer",
+      "company": "SE3 Labs",
+      "companyUrl": "https://www.linkedin.com/company/se3-labs",
+      "description": "Building spatial AI by combining real-time 3D computer vision and LLMs into a \"spatialGPT\"",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-05",
+      "end": "2025-01",
+      "dateRange": "May 2024 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "AI Engineer",
+      "company": "Recogni",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-04",
+      "end": "2024-04",
+      "dateRange": "Apr 2022 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Data Scientist",
+      "company": "KONUX",
+      "companyUrl": "https://www.linkedin.com/company/konux",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-09",
+      "end": "2022-01",
+      "dateRange": "Sep 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "codestryke GmbH",
+      "companyUrl": "https://www.linkedin.com/company/codestryke",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-10",
+      "end": "2021-07",
+      "dateRange": "Oct 2020 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Mobile Software AG",
+      "companyUrl": "https://www.linkedin.com/company/mobile-software-ag",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-11",
+      "end": "2020-10",
+      "dateRange": "Nov 2018 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Youth Basketball Coach",
+      "company": "TB Wülfrath",
+      "companyUrl": null,
+      "description": null,
+      "location": "Wülfrath, North Rhine-Westphalia, Germany",
+      "start": "2015-04",
+      "end": "2018-05",
+      "dateRange": "Apr 2015 – May 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Robotics, Cognition, Intelligence",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2018 – 2022"
+    },
+    {
+      "school": "Städtisches Gymnasium Wülfrath",
+      "degree": "Abitur",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Blick",
+    "tagline": "Blick is developing AI that can analyze point clouds.",
+    "description": "Blick builds specialized AI that reduces manual work with reality capture data. \n\nWe turn data like laser scans and drone imagery into structured outputs for planning, progress checks, and documentation.",
+    "industry": "Software Development",
+    "website": null,
+    "linkedInUrl": "https://www.linkedin.com/company/blick-ai",
+    "employeeCount": 2,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

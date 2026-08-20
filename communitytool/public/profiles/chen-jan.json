@@ -1,0 +1,188 @@
+{
+  "id": "chen-jan",
+  "name": "Jan Chen",
+  "headline": "CS & BA @TUM | MIT | CDTM | UC Berkeley | sdw | TU Invest",
+  "avatar": {
+    "sm": "/avatars/chen-jan-sm.webp",
+    "lg": "/avatars/chen-jan.webp",
+    "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAADQBQCdASogACAAPtFap04oJKOiKAqpABoJQBnOtPZzoVm0zZh8WXvLlWARpYUgjDsY0wUs7QSgAP76qkgk7f2If3FskWMv983j3uLn6N3cU4jloymXhYb4W6hTV6+vRLPHRRpxumFX+h0uDddzxYL0IN0tm5lYEkgRqqk7M07MulGqSX5PU/u0MQ/v9rbgv9YlACNs2pEK1aCs/4Qfn62skxcNaj4qANoAPZufjQSa8I+p+FbEF3goNWWn1IvGSCHpsOqE2w+Dp8kR36pu0GkVPHdqWepgAAA="
+  },
+  "location": "United States, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/chen-jan",
+  "personId": 1308,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jan Chen",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Visiting Researcher",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": null,
+      "location": "Cambridge, Massachusetts, United States",
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "National University of Singapore",
+      "companyUrl": "https://www.linkedin.com/company/national-university-of-singapore",
+      "description": null,
+      "location": "Singapore",
+      "start": "2025-02",
+      "end": "2025-05",
+      "dateRange": "Feb 2025 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "Roland Berger",
+      "companyUrl": "https://www.linkedin.com/company/rolandberger",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-05",
+      "end": "2024-07",
+      "dateRange": "May 2024 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Spring Intern",
+      "company": "Goldman Sachs",
+      "companyUrl": "https://www.linkedin.com/company/goldman-sachs",
+      "description": null,
+      "location": "Frankfurt, Hesse, Germany",
+      "start": "2024-04",
+      "end": "2024-04",
+      "dateRange": "Apr 2024 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Intern | COO Office",
+      "company": "Enpal",
+      "companyUrl": "https://www.linkedin.com/company/enpal",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-09",
+      "end": "2023-11",
+      "dateRange": "Sep 2023 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Spring Intern",
+      "company": "Macquarie Group",
+      "companyUrl": "https://www.linkedin.com/company/macquariegroup",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "start": "2023-04",
+      "end": "2023-04",
+      "dateRange": "Apr 2023 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "Spring Intern",
+      "company": "Deutsche Bank",
+      "companyUrl": "https://www.linkedin.com/company/deutsche-bank",
+      "description": null,
+      "location": "Frankfurt, Hesse, Germany",
+      "start": "2023-03",
+      "end": "2023-03",
+      "dateRange": "Mar 2023 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Business Development Intern",
+      "company": "Appic",
+      "companyUrl": "https://www.linkedin.com/company/appic-group",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2022-08",
+      "end": "2022-09",
+      "dateRange": "Aug 2022 – Sep 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student, Computer Science",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc., Computer Science w/ Business",
+      "dateRange": "2022 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Landesgymnasium für Hochbegabte Schwäbisch Gmünd",
+      "degree": "High School for Gifted Students, Core Subjects: Mathematics, Economics, English",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Evangelisches Gymnasium zum Grauen Kloster",
+      "degree": "Middle School / High School, Grades 5-9",
+      "dateRange": "2014 – 2019"
+    },
+    {
+      "school": "Deutsche Schule Shanghai",
+      "degree": "Elementary School, Grades 1-2",
+      "dateRange": "2010 – 2012"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Leadership",
+    "Management",
+    "Analytical Skills",
+    "C (Programming Language)",
+    "Strategy",
+    "Entrepreneurship",
+    "Music"
+  ],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "company": {
+    "name": "Massachusetts Institute of Technology",
+    "tagline": "mens et manus",
+    "description": "The Massachusetts Institute of Technology (MIT) is a private research university located in Cambridge, Massachusetts.  MIT is devoted to the advancement of knowledge and education of students in areas that contribute to or prosper in an environment of science and technology.",
+    "industry": "Higher Education",
+    "website": "http://web.mit.edu/",
+    "linkedInUrl": "https://www.linkedin.com/company/mit",
+    "employeeCount": 23554,
+    "foundedYear": 1861,
+    "location": "Cambridge, United States",
+    "specialities": [
+      "science",
+      "engineering",
+      "education",
+      "research"
+    ]
+  }
+}

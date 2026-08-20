@@ -1,0 +1,201 @@
+{
+  "id": "herbert-gillig",
+  "name": "Dr. Herbert Gillig",
+  "headline": "Professor of Entrepreneurship at HM Hochschule München",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/herbert-gillig",
+  "personId": 1655,
+  "classes": [
+    {
+      "id": 97,
+      "label": "Fall 2001",
+      "season": "Fall",
+      "year": 2001,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2001",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Herbert Gillig",
+  "ca": null,
+  "summary": "Experienced Entrepreneurship Professor with an exceptional understanding of the startup landscape, cultivated through roles as a founder, startup consultant, authorized signatory of an Entrepreneurship Center, board member, and early-stage investor.",
+  "positions": [
+    {
+      "title": "Co-Founder and Member of the Executive Board of the Think-Tank for Universities",
+      "company": "Denkfabrik Hochschulen & Entrepreneurship e.V.",
+      "companyUrl": "https://www.linkedin.com/company/denkfabrik-hochschulen-entrepreneurship",
+      "description": null,
+      "location": "München",
+      "start": "2021-09",
+      "end": null,
+      "dateRange": "Sep 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder and Member of the Investment Committee of an Early-Stage Investment Fund",
+      "company": "SCE Freiraum Ventures",
+      "companyUrl": "https://www.linkedin.com/company/sce-freiraum-ventures",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-12",
+      "end": null,
+      "dateRange": "Dec 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Professor of Entrepreneurship and New Venture Creation",
+      "company": "Hochschule München University of Applied Sciences",
+      "companyUrl": "https://www.linkedin.com/company/hochschule-muenchen",
+      "description": null,
+      "location": null,
+      "start": "2014-02",
+      "end": null,
+      "dateRange": "Feb 2014 – Present",
+      "current": true
+    },
+    {
+      "title": "Deputy Chairman of the Executive Board of the Initiative to foster Start-ups in Munich",
+      "company": "GründerRegio M e.V.",
+      "companyUrl": "https://www.linkedin.com/company/gr-nderregio-m-e.v.",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2013-11",
+      "end": null,
+      "dateRange": "Nov 2013 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Semester at NTU Entrepreneurship Academy (NTUpreneur)",
+      "company": "Nanyang Technological University Singapore",
+      "companyUrl": "https://www.linkedin.com/company/ntusg",
+      "description": null,
+      "location": "Singapore",
+      "start": "2023-08",
+      "end": "2024-03",
+      "dateRange": "Aug 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Authorized Signatory and Head of New Venture Program",
+      "company": "Strascheg Center  for Entrepreneurship gGmbH",
+      "companyUrl": "https://www.linkedin.com/company/strascheg-center",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2011-11",
+      "end": "2022-08",
+      "dateRange": "Nov 2011 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Lecturer in Entrepreneurship",
+      "company": "Hochschule München University of Applied Sciences",
+      "companyUrl": "https://www.linkedin.com/company/hochschule-muenchen",
+      "description": null,
+      "location": null,
+      "start": "2006-10",
+      "end": "2008-09",
+      "dateRange": "Oct 2006 – Sep 2008",
+      "current": false
+    },
+    {
+      "title": "New Venture Consultant & Project Manager",
+      "company": "Strascheg Center  for Entrepreneurship gGmbH",
+      "companyUrl": "https://www.linkedin.com/company/strascheg-center",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2005-01",
+      "end": "2011-10",
+      "dateRange": "Jan 2005 – Oct 2011",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and Managing Partner",
+      "company": "Biardzki & Gillig GbR",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2000-01",
+      "end": "2008-12",
+      "dateRange": "Jan 2000 – Dec 2008",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "EBS Universität für Wirtschaft und Recht",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Grenoble Ecole de Management",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "UCLA Anderson School of Management",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Hochschule München University of Applied Sciences",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Bernhard-Strigel-Gymnasium",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Start-ups",
+    "Consulting",
+    "Business Planning",
+    "Innovation Management",
+    "Business Strategy",
+    "Business Development"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Hochschule München University of Applied Sciences",
+    "tagline": "Stark in Lehre, Forschung und Wirtschaft",
+    "description": "The most important thing about the university are the people – over 17,800 students, around 500 professors, 750 lecturers and 660 staff. We feel committed to our guiding principle: “transforming knowledge into know-how and learners into leaders.”\r\n\r\nQuality is always first and foremost. The most important quality of our teaching and research is its close link to practice. The link to practice is guaranteed by our professors due to their strong economic contacts.",
+    "industry": "Higher Education",
+    "website": "http://www.hm.edu",
+    "linkedInUrl": "https://www.linkedin.com/company/hochschule-muenchen",
+    "employeeCount": 2539,
+    "foundedYear": 1971,
+    "location": "München, Germany",
+    "specialities": [
+      "Architektur",
+      "Bauingenieurwesen",
+      "Maschinenbau, Elektrotechnik, Flugzeugtechnik",
+      "Elektrotechnik und Informationstechnik",
+      "Versorgungs- und Gebäudetechnik, Verfahrenstechnik Papier und Verpackung, Druck- und Medientechnik",
+      "Angewandte Naturwissenschaften und Mechatronik",
+      "Informatik und Mathematik",
+      "Geoinformation",
+      "Wirtschaftsingenieurwesen",
+      "Betriebswirtschaft",
+      "Angewandte Sozialwissenschaften",
+      "Design",
+      "Studium Generale und interdisziplinäre Studien",
+      "Tourismus"
+    ]
+  }
+}

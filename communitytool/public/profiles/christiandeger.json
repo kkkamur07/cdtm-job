@@ -1,0 +1,162 @@
+{
+  "id": "christiandeger",
+  "name": "Christian Deger",
+  "headline": "Entrepreneur, Investor, Advisor",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christiandeger",
+  "personId": 1906,
+  "classes": [
+    {
+      "id": 67,
+      "label": "Spring 2010",
+      "season": "Spring",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2010",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christian Deger",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Avento Hausverwaltung",
+      "companyUrl": "https://www.linkedin.com/company/avento-immobilien-services",
+      "description": "Avento provides professional property management services for multi-unit residential properties to owners and investors.",
+      "location": "Munich",
+      "start": "2025-06",
+      "end": null,
+      "dateRange": "Jun 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment Commitee Member",
+      "company": "CDTM Venture Fund",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-venture-fund",
+      "description": "CDTM is the birthplace of 25% of Germany’s unicorns. It’s not only one of the most selective educational institutions to get into, with a mere 6% acceptance rate, but it also boasts the highest \"unicorn-to-alumni ratio\" in the world (9 unicorns / 1,200 alumni, as of 2025). \n\nThe CDTM Venture Fund is Germany’s first alumni fund. We invest in the next generation of CDTM startups at the (pre)seed stage and provide support to founders through our network of 300+ LPs, all of whom are entrepreneurial operators at heart.",
+      "location": "Munich",
+      "start": "2024-04",
+      "end": null,
+      "dateRange": "Apr 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Angel Investor, Builder, Advisor",
+      "company": "One Venture",
+      "companyUrl": "https://www.linkedin.com/company/oneventure",
+      "description": "One Venture is my personal investment company. I build and support early-stage companies, providing capital, strategic guidance, and operational expertise. While my primary focus is on fintech and SaaS, I occasionally explore other areas of personal interest. Leveraging my experience as a founder, operator, and investor, I offer hands-on mentorship when needed—helping founders navigate challenges and avoid the mistakes I’ve made along the way.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-01",
+      "end": null,
+      "dateRange": "Jan 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Venture Partner",
+      "company": "CommerzVentures",
+      "companyUrl": "https://www.linkedin.com/company/commerzventures",
+      "description": "CommerzVentures is a leading fintech investor, focusing on Series A & B investments across three funds with €550M assets under management. I support the team primarily on payments-related deals, leveraging my experience and network in the space to identify and back high-potential founders.",
+      "location": null,
+      "start": "2022-05",
+      "end": "2025-06",
+      "dateRange": "May 2022 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Head of Europe, Cybersource",
+      "company": "Visa",
+      "companyUrl": "https://www.linkedin.com/company/visa",
+      "description": null,
+      "location": null,
+      "start": "2020-06",
+      "end": "2021-12",
+      "dateRange": "Jun 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Vice President, Cybersource",
+      "company": "Visa",
+      "companyUrl": "https://www.linkedin.com/company/visa",
+      "description": null,
+      "location": null,
+      "start": "2019-07",
+      "end": "2020-06",
+      "dateRange": "Jul 2019 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Payworks",
+      "companyUrl": "https://www.linkedin.com/company/payworks-gmbh",
+      "description": "Payment gateway technology company. Payworks was acquired by Visa in 2019.",
+      "location": "Munich Area, Germany",
+      "start": "2012-02",
+      "end": "2019-07",
+      "dateRange": "Feb 2012 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Payreto",
+      "companyUrl": "https://www.linkedin.com/company/payretoph",
+      "description": "BPO company helping payment providers to scale faster. Acquired by Finparx.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2011-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2011 – Dec 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diploma, Controlling, Entrepreneurial Finance & Automotive Engineering, Production Management",
+      "dateRange": "2006 – 2011"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours DegreeHonours Degree, Technology Management",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Georgia Institute of Technology",
+      "degree": "College of Management",
+      "dateRange": "2008"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Business Development",
+    "Hands-on Problem Solver",
+    "Out Of the Box",
+    "Start-ups",
+    "Hands-on Approach",
+    "Result Oriented",
+    "Business Strategy",
+    "Management",
+    "Strategy",
+    "Consulting",
+    "Electronic Payments",
+    "Credit Cards",
+    "Product Management",
+    "Management Consulting",
+    "Project Management",
+    "Strategic Partnerships",
+    "Payments",
+    "Mobile Payments",
+    "Mobile Devices"
+  ],
+  "languages": [],
+  "company": null
+}

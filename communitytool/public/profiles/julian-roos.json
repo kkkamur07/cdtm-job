@@ -1,0 +1,226 @@
+{
+  "id": "julian-roos",
+  "name": "Julian Roos",
+  "headline": "Tech Strategy & Transaction Advisory @OMMAX",
+  "avatar": {
+    "sm": "/avatars/julian-roos-sm.webp",
+    "lg": "/avatars/julian-roos.webp",
+    "blur": "data:image/webp;base64,UklGRkQBAABXRUJQVlA4IDgBAADwBQCdASogACAAPtFeqE+oJKOiKAgBABoJZACdBAnJ6dvJizG+8+eZTtWVpixgMk5/K/yNeBGlwAD9RieC2Qe4CwLZr/jPwfJDayP+NF9FVdq9JJ8nKtpgtr1j0CnLasQ2kCmwA421QaEjZbfBlVuOrB/VlbH0Lgwv6/b/6pzeHl66joWlIsHUXodH6cO32Yi6TgHRcNATBfmDX256vd7p5JhobACTjydwRTPOmKfsA7Gy6FPxPnbuYAsjv6Zu9FPRWemYOamPa609Rl8Zc+Q2seHeupfP4ds+/hoGATmNsfLb97V7dGqYfB9yuYNZyfmQ/T1qrCrCsuxQnD0YzH/1+5t8znjR13Mdkls/Comz8JhoXRxzqOqJ+ar7lLUzVOUaM9H0vdE5lfYi3gN5HjkAHQsi0/yeAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/julian-roos",
+  "personId": 704,
+  "classes": [
+    {
+      "id": 77,
+      "label": "Spring 2015",
+      "season": "Spring",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2015",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Julian Roos",
+  "ca": null,
+  "summary": "I lead technology and strategy engagements for companies and investors in situations where technology decisions materially shape value, risk, and scalability.\n\nMy work typically sits at moments of high irreversibility, including tech due diligences, platform and cloud strategy, operating model design, and architectural decisions that need to hold under growth and ownership change.\n\nAcross 20+ engagements, I have taken end-to-end ownership of the technology agenda, working closely with founders, CTOs, and private-equity teams. I focus on fundamentals that survive pressure: architectures that scale, teams that execute, and roadmaps that turn strategic intent into delivery.\n\nI don’t optimize technology in isolation. I optimize for clarity, execution, and decisions that stand up over time.",
+  "positions": [
+    {
+      "title": "Tech Strategy Manager",
+      "company": "OMMAX",
+      "companyUrl": "https://www.linkedin.com/company/ommax",
+      "description": "OMMAX is a fast-growing digital strategy consultancy in Europe, specializing in transaction advisory, strategy, and end-to-end execution of digital initiatives. It’s our vision to build digital leaders in Europe to foster innovation and accelerate digital growth and profitability. Over the past 12 years, OMMAX realized 300+ M&A deals with >€20B deal value and 2,000+ international value creation projects in various industries for leading private equity firms in commercial strategy, digital operational excellence, advanced data strategy, analytics, tech, and automation. As a front-runner for holistic data-driven strategy consulting and end-to-end execution, OMMAX is the leading consultancy within the European Private Equity sphere, designing and delivering best-in-class digital strategy and value creation.\n\nFor more information: www.ommax.com",
+      "location": null,
+      "start": "2024-11",
+      "end": null,
+      "dateRange": "Nov 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder",
+      "company": "Luvely Studios",
+      "companyUrl": "https://www.linkedin.com/company/luvely-studio",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Tech Strategy Advisor",
+      "company": null,
+      "companyUrl": null,
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-08",
+      "end": "2024-10",
+      "dateRange": "Aug 2022 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Head of Marketplace Strategy",
+      "company": "arive",
+      "companyUrl": "https://www.linkedin.com/company/arive-gmbh",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2022-03",
+      "end": "2022-07",
+      "dateRange": "Mar 2022 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Head of Innovation",
+      "company": "Hubert Burda Media",
+      "companyUrl": "https://www.linkedin.com/company/hubert-burda-media",
+      "description": null,
+      "location": null,
+      "start": "2021-03",
+      "end": "2022-03",
+      "dateRange": "Mar 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Manager Special Projects & Innovation",
+      "company": "Hubert Burda Media",
+      "companyUrl": "https://www.linkedin.com/company/hubert-burda-media",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2019-10",
+      "end": "2021-02",
+      "dateRange": "Oct 2019 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Associate Corporate Development",
+      "company": "Hubert Burda Media",
+      "companyUrl": "https://www.linkedin.com/company/hubert-burda-media",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-05",
+      "end": "2019-09",
+      "dateRange": "May 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "AI Growth Manager",
+      "company": "Luminovo Artificial Intelligence",
+      "companyUrl": "https://www.linkedin.com/company/luminovo",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-07",
+      "end": "2018-09",
+      "dateRange": "Jul 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Manager Group Strategy & Operations",
+      "company": "ProSiebenSat.1 Media SE",
+      "companyUrl": "https://www.linkedin.com/company/prosiebensat1-media-se",
+      "description": "The Group Strategy & Operations team directly assists the executive board  of ProSiebenSat.1 with the development and implementation of strategies for the whole group.",
+      "location": "Unterföhring, Bayern, Deutschland",
+      "start": "2017-03",
+      "end": "2017-08",
+      "dateRange": "Mar 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Student Trainee",
+      "company": "Bain & Company",
+      "companyUrl": "https://www.linkedin.com/company/bain-and-company",
+      "description": null,
+      "location": "Munich",
+      "start": "2013-10",
+      "end": "2015-08",
+      "dateRange": "Oct 2013 – Aug 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of St.Gallen",
+      "degree": "Master of Arts - MA, Business Innovation",
+      "dateRange": null
+    },
+    {
+      "school": "MIT Sloan School of Management",
+      "degree": "Visiting Scholar",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Business Administration",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Due Diligence",
+    "Consulting",
+    "Startup-Management",
+    "Business Development",
+    "Softwareentwicklung",
+    "Strategie",
+    "Unternehmertum",
+    "Full-Stack-Entwicklung",
+    "Microsoft Office",
+    "Strategische Planung",
+    "Forschung",
+    "Microsoft Word",
+    "Social Media",
+    "Strategisches Management",
+    "Unternehmensstrategie",
+    "Marktforschung",
+    "Programmmanagement",
+    "Projektmanagement",
+    "Business Planning",
+    "Research"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "OMMAX",
+    "tagline": "Building Digital Leaders",
+    "description": "About OMMAX – Building Digital Leaders \nOMMAX is a pan-European digital strategy consultancy shaping the next generation of technology, data, and AI-powered businesses. \nPartnering with investors, corporates, and mid-sized companies, OMMAX delivers measurable impact through digital strategy, M&A advisory, and transformation in technology, data, and AI. \nIts mission is to unlock growth, enhance efficiency, and build lasting competitive advantage in an era defined by artificial intelligence, automation, and deep tech. \nSince 2011, OMMAX has delivered 3,000+ digital value creation projects and supported 500+ commercial and digital due diligence projects with a combined deal value exceeding €20 billion, establishing itself as a trusted advisor to leading private equity firms, global enterprises, and digital innovators. \nWith a high-performing international and diverse team, OMMAX combines strategic foresight with executional excellence, advising at the board level while driving operational transformation on the ground. The firm continues to strengthen its leadership in technology, data, and AI transformation, redefining how businesses innovate, scale, and compete globally.",
+    "industry": "Business Consulting and Services",
+    "website": "https://www.ommax-digital.com",
+    "linkedInUrl": "https://www.linkedin.com/company/ommax",
+    "employeeCount": 360,
+    "foundedYear": 2011,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Digital Consulting",
+      "Digital Strategy",
+      "Digital Transformation",
+      "Due Diligences",
+      "Business Intelligence",
+      "Digital go-to-market",
+      "Transaction Advisory",
+      "Advanced Data Analytics",
+      "Experience Design",
+      "AI",
+      "tech",
+      "data",
+      "exit readiness",
+      "data governance",
+      "AI implementation",
+      "Value creation accross value chain",
+      "Operational efficiency",
+      "digital marketing and sales"
+    ]
+  }
+}

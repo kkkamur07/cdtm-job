@@ -1,0 +1,161 @@
+{
+  "id": "johannes-groll",
+  "name": "Johannes Groll",
+  "headline": "Co-Founder & MD at Tacto | We build AI that helps industrial companies stay competitive for the long term",
+  "avatar": {
+    "sm": "/avatars/johannes-groll-sm.webp",
+    "lg": "/avatars/johannes-groll.webp",
+    "blur": "data:image/webp;base64,UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPtFUpU2oJCOiMBgIAQAaCWwAweyVyAbYAU+KUdce+g9Q0P7/uCzaZFP8kOoXJky7wCAAAP7+Ltt1REGudqWCG/aGMwIiSwu3iim2j9XUUyrdB2guEdMVRnGCDRpFgX45jE3qzEeryk3JsbdvIVQd403FPLSWtvbfSkLacqW/wEt9CCrqNY405iBAuFAWVRiPy3t2Eo8LXLgL7w+d487gdbthd4K3LpTvaZAYzluZGHdvyLoM572pS5+POLD12EwxeUH2f8HR0S4NC8ljQmWYJDsuwOKoGZB4QX/n/3buTbbktmRutq3fsAAA"
+  },
+  "location": "New York City, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/johannes-groll",
+  "personId": 784,
+  "classes": [
+    {
+      "id": 80,
+      "label": "Fall 2016",
+      "season": "Fall",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2016",
+  "major": "Electrical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Johannes Groll",
+  "ca": null,
+  "summary": "Why AI in procurement? Procurement is the biggest value driver in industry: 50% of costs and 80% of emissions in industrial companies originate here. At the same time, most procurement teams still work with Excel, email, and gut feeling. The growing complexity of parts, suppliers, and supply chains can no longer be managed this way.\n\n \n\nThat's why we're building Tacto: the Procurement Intelligence Platform that connects internal data (ERP data, emails, notes, calls, etc.) with external market data and deploys AI agents to uncover savings potential and automate operational tasks so that procurement teams can finally work strategically.\n\n \n\nAbout me: I'm co-founder and managing director of Tacto. What excites me most is working directly with our customers and the potential we can unlock with AI in procurement. Every feature we build, every AI agent, emerges from real conversations and real challenges, always with the shared ambition of actively shaping the procurement of tomorrow. I regularly share practical insights here: what we learn from our customers, the patterns we see in procurement, and which approaches actually work.",
+  "positions": [
+    {
+      "title": "Co-Founder & CPO",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": "Tacto is an AI-powered procurement platform for industrial companies. We help manufacturers bring procurement data, supplier management, and sourcing workflows into one system. Tacto gives teams better visibility into spend, uncovers savings opportunities, improves supplier oversight, and automates RFQs and day-to-day procurement tasks. The result: procurement teams can work more strategically, reduce manual effort, and build more resilient supply chains — without large IT projects or added complexity.",
+      "location": null,
+      "start": "2020-01",
+      "end": null,
+      "dateRange": "Jan 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Deployment Strategist",
+      "company": "Palantir Technologies",
+      "companyUrl": "https://www.linkedin.com/company/palantir-technologies",
+      "description": "At Palantir, I was able to learn rapidly about analyzing and evaluating Big Data. In several international projects, the company supports companies and public institutions with their Big Data issues while providing support for data-based and strategic decisions.\n\nI now apply this knowledge to the sector of industrial SMEs to support them in their future strategic purchasing decisions.",
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Acrai",
+      "companyUrl": "https://www.linkedin.com/company/acrai",
+      "description": "Together with Acrai, I worked on a project about environmentally friendly use of herbicides based on machine learning methods.",
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Product and Project management",
+      "company": "KINEXON",
+      "companyUrl": null,
+      "description": "KINEXON develops modern sensor solutions for the industry 4.0. The company enables intelligent networking of individual production steps and thereby enables manufacturers to respond effectively to product bottlenecks and several other problems.",
+      "location": null,
+      "start": "2017-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2017 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Research",
+      "company": "Silver Atena GmbH",
+      "companyUrl": "https://www.linkedin.com/company/silveratena",
+      "description": null,
+      "location": null,
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student Researcher at UC Berkeley, School of Information",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Electrical Engineering and Information Technology",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "University of Agder (UiA)",
+      "degree": "Information and Communications Technology",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.S.), Electrical Engineering and Information Technology",
+      "dateRange": "2013 – 2017"
+    }
+  ],
+  "skills": [
+    "Java",
+    "C",
+    "C++",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Machine Learning",
+    "Start-ups",
+    "Research",
+    "Sourcing",
+    "Python",
+    "Matlab",
+    "Projektmanagement",
+    "Enterprise Resource Planning (ERP)",
+    "Lieferantenmanagement",
+    "Automatisierung",
+    "Supply-Chain-Management",
+    "Einkauf",
+    "Strategischer Einkauf",
+    "Unternehmertum",
+    "Forschung",
+    "Procurement Software",
+    "Programmierung",
+    "Anfrage (RFQ)",
+    "Procurement Software"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Tacto",
+    "tagline": "Stronger Procurement. Stronger Company. Stronger Future.",
+    "description": "The world is getting more complex and dynamic than ever before. China, climate, elections, trade wars, bureaucracy. Yet manufacturing, our hidden gem, is struggling to evolve. \n\nOften overlooked: the supply chain. Hundreds of tightly interconnected suppliers, thousands of production-critical parts, global dependencies. Yet procurement is expected to manage this complexity with Excel and Outlook, static ERP systems, and outdated supplier data. That no longer works.\n\nMore than 50% of the cost of a physical product is created in the supply chain. Competitive manufacturing therefore starts in procurement. AI offers the opportunity to optimally balance time, cost, and quality in procurement.\n\nThat’s why Tacto is building the first Procurement Intelligence Platform for industrial companies: not another workflow tool, but a system that creates transparency, delivers actionable recommendations, and enables execution - with procurement as the decision-maker at the center.\n\nPowered by Tacto Intelligence, you see your procurement operations at a glance: KPIs, suppliers, and real-time order and material movements. In the background, Tacto connects your ERP data with external market data to form the Procurement Brain. On top of that, AI agents automate manual work, identify risks and savings opportunities, and provide precise recommendations. Automated workflows turn these signals into action - delivering measurable results: lower costs, better quality, and higher availability.",
+    "industry": "Software Development",
+    "website": "https://www.tacto.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/tactotechnology",
+    "employeeCount": 152,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

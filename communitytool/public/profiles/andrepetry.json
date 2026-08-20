@@ -1,0 +1,198 @@
+{
+  "id": "andrepetry",
+  "name": "André Petry",
+  "headline": "Co-Founder & CEO at Tacto",
+  "avatar": {
+    "sm": "/avatars/andrepetry-sm.webp",
+    "lg": "/avatars/andrepetry.webp",
+    "blur": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAAAQBQCdASogACAAPsFMoEunpCMht/qoAPAYCUAZEzGHpVbGeZ+0glfczdgkws75ABVQAP79+YP9w+cvuQJsNvXwyZ3Hm7DHB9vkAGbXkpVT58p8PxcwOZRj/8kwV+imSK0i9togNniXvwe/a79veyqHhCtFGG3xFTyXnswMpQbERziASIkPiCWZpd/Dm68GoY/n7rF+R17ahm/spybt83H9f/ScvHjHFgr7gAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/andrepetry",
+  "personId": 746,
+  "classes": [
+    {
+      "id": 82,
+      "label": "Fall 2017",
+      "season": "Fall",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2017",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "André Petry",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-01",
+      "end": null,
+      "dateRange": "Jan 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Machine Learning Engineering",
+      "company": "ORBEM GmbH",
+      "companyUrl": "https://www.linkedin.com/company/orbem-ai",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2019-07",
+      "end": "2019-12",
+      "dateRange": "Jul 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Investment Team",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2019-04",
+      "end": "2019-12",
+      "dateRange": "Apr 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "AI Strategy",
+      "company": "appliedAI Initiative - UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2018-03",
+      "end": "2018-09",
+      "dateRange": "Mar 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Management Consulting",
+      "company": "The Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Berlin Area, Germany",
+      "start": "2017-02",
+      "end": "2017-04",
+      "dateRange": "Feb 2017 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Venture Architecture",
+      "company": "Deloitte Digital",
+      "companyUrl": "https://www.linkedin.com/company/deloitte-digital",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2016-10",
+      "end": "2017-01",
+      "dateRange": "Oct 2016 – Jan 2017",
+      "current": false
+    },
+    {
+      "title": "Products & Innovation",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": null,
+      "location": "Walldorf, Germany",
+      "start": "2016-05",
+      "end": "2016-07",
+      "dateRange": "May 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Business Intelligence",
+      "company": "Lazada Group (Alibaba Group)",
+      "companyUrl": "https://www.linkedin.com/company/lazada",
+      "description": null,
+      "location": "Bangkok, Thailand",
+      "start": "2015-11",
+      "end": "2016-01",
+      "dateRange": "Nov 2015 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Helpling (Rocket Internet)",
+      "companyUrl": "https://www.linkedin.com/company/helpling",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2015-06",
+      "end": "2015-08",
+      "dateRange": "Jun 2015 – Aug 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": null,
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": null,
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "University of Mannheim",
+      "degree": null,
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Chulalongkorn University",
+      "degree": null,
+      "dateRange": "2015"
+    }
+  ],
+  "skills": [
+    "Business Analysis",
+    "Business Strategy",
+    "Business Planning",
+    "Digital Marketing",
+    "Leadership",
+    "Project Management",
+    "Data Analysis",
+    "Entrepreneurship",
+    "Business Development",
+    "Marketing Strategy",
+    "Start-ups",
+    "Cross-functional Team Leadership",
+    "Change Management",
+    "Web Development",
+    "Analytical Reasoning",
+    "Web Analytics",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Ethics",
+    "AI Strategy"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Tacto",
+    "tagline": "Stronger Procurement. Stronger Company. Stronger Future.",
+    "description": "The world is getting more complex and dynamic than ever before. China, climate, elections, trade wars, bureaucracy. Yet manufacturing, our hidden gem, is struggling to evolve. \n\nOften overlooked: the supply chain. Hundreds of tightly interconnected suppliers, thousands of production-critical parts, global dependencies. Yet procurement is expected to manage this complexity with Excel and Outlook, static ERP systems, and outdated supplier data. That no longer works.\n\nMore than 50% of the cost of a physical product is created in the supply chain. Competitive manufacturing therefore starts in procurement. AI offers the opportunity to optimally balance time, cost, and quality in procurement.\n\nThat’s why Tacto is building the first Procurement Intelligence Platform for industrial companies: not another workflow tool, but a system that creates transparency, delivers actionable recommendations, and enables execution - with procurement as the decision-maker at the center.\n\nPowered by Tacto Intelligence, you see your procurement operations at a glance: KPIs, suppliers, and real-time order and material movements. In the background, Tacto connects your ERP data with external market data to form the Procurement Brain. On top of that, AI agents automate manual work, identify risks and savings opportunities, and provide precise recommendations. Automated workflows turn these signals into action - delivering measurable results: lower costs, better quality, and higher availability.",
+    "industry": "Software Development",
+    "website": "https://www.tacto.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/tactotechnology",
+    "employeeCount": 152,
+    "foundedYear": 2020,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

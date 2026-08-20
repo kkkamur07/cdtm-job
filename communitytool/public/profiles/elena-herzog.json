@@ -1,0 +1,211 @@
+{
+  "id": "elena-herzog",
+  "name": "Elena Herzog",
+  "headline": "CDTM | HCI Master @LMU | Scholar @BMW | B.Sc. UX Design",
+  "avatar": {
+    "sm": "/avatars/elena-herzog-sm.webp",
+    "lg": "/avatars/elena-herzog.webp",
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAACwBQCdASogACAAPsVSn0unpKKhsAwA8BiJYgC/OYx5IrnVdEJB3lILaw2dDVYbiwUFr1WfhwgA/sP9sADd1yf1wlcnvihLDd3qNK2aOiqnbLTH3VdXD2enqT1gVqpAQq6d0Ta1D5qH/JTuEzv243Cr/FV5UX9M9qlQRiJ7EKTBGdJa4QEV5kfkAMC1HcRkQw8XmTTrXAGsjjhjWlumZpnB8X3m+MMTkh5iQA85Tl5WyxQiHfUg1OaesvrtxZiuNSA2REYoqv0gEdG80vl9WbtPG1QXgAAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/elena-herzog",
+  "personId": 2076,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Human-Computer Interaction",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Elena Herzog",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "SpeedUp Nachwuchsförderungsprogramm",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Vorentwicklung UI/UX",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Working Student CDTM",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2024-04",
+      "end": "2024-06",
+      "dateRange": "Apr 2024 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Strategy Consultant",
+      "company": "bemorrow",
+      "companyUrl": "https://www.linkedin.com/company/bemorrow",
+      "description": null,
+      "location": null,
+      "start": "2023-04",
+      "end": "2023-06",
+      "dateRange": "Apr 2023 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Strategy Consultant",
+      "company": "bemorrow",
+      "companyUrl": "https://www.linkedin.com/company/bemorrow",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-10",
+      "end": "2023-03",
+      "dateRange": "Oct 2022 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Full-time",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Erarbeitung eines menschzentrierten Konzepts zur Stärkung der Kommunikation und Interaktion der Fahrzeuginsassen verschiedener Fahrzeuge auf Langstrecken",
+      "location": null,
+      "start": "2021-12",
+      "end": "2022-05",
+      "dateRange": "Dec 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "User Experience Concepts",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-09",
+      "end": "2021-12",
+      "dateRange": "Sep 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Full-time",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Innovationen und Pilotprojekte",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-09",
+      "end": "2021-01",
+      "dateRange": "Sep 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Stipendiatin",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2019-09",
+      "end": "2022-08",
+      "dateRange": "Sep 2019 – Aug 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science, Human Computer Interaction",
+      "dateRange": "2023 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Kyoto University (京都大学)",
+      "degree": "Intelligence Science and Technology",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Hanyang University",
+      "degree": "Media Technology",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Technische Hochschule Ingolstadt",
+      "degree": "Bachelor of Science - BS, User Experience Design",
+      "dateRange": "2018 – 2022"
+    }
+  ],
+  "skills": [
+    "Kooperation",
+    "Hardware Prototyping",
+    "Game Design",
+    "Human Computer Interaction",
+    "Empathy Research",
+    "Interaktionsdesign",
+    "UX-Writing",
+    "Storytelling",
+    "Figma (Software)",
+    "Konzeptentwicklung",
+    "Ideation",
+    "Ideenentwicklung",
+    "Lean UX",
+    "Human Centered Design",
+    "Innovationsmanagement",
+    "UX Research",
+    "Ethical Design",
+    "Rapid Prototyping",
+    "Teamwork",
+    "UX-Design",
+    "Geschäftsmodellentwicklung",
+    "Design Thinking",
+    "Adobe Illustrator",
+    "adobe xd",
+    "Englisch",
+    "Software-Prototyping"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Japanisch"
+  ],
+  "company": {
+    "name": "Center for Digital Technology and Management (CDTM)",
+    "tagline": "Connect, Educate and Empower the Innovators of Tomorrow",
+    "description": "The Center for Digital Technology and Management (CDTM), a joint institution of the Ludwig-Maximilians-Universität München (LMU) and the Technische Universität München (TUM), offers talented students the international and interdisciplinary study program Technology Management. \n\nThe CDTM focuses on how to manage High-Tech in close cooperation with industry, research and education, while simultaneously being committed to preparing the students for future leadership positions in their professional career.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.cdtm.de",
+    "linkedInUrl": "https://www.linkedin.com/company/cdtm-munich",
+    "employeeCount": 35,
+    "foundedYear": 1998,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Entrepreneurship",
+      "Product Development"
+    ]
+  }
+}

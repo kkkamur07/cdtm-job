@@ -1,0 +1,145 @@
+{
+  "id": "mhuber",
+  "name": "Martin Huber",
+  "headline": "CEO at PEIQ",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/mhuber",
+  "personId": 1952,
+  "classes": [
+    {
+      "id": 50,
+      "label": "1999",
+      "season": null,
+      "year": 1999,
+      "location": 1
+    }
+  ],
+  "classLabel": "1999",
+  "major": null,
+  "roles": [
+    "student",
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Martin Huber",
+  "ca": {
+    "alumni": true,
+    "about": null,
+    "responsibilities": [],
+    "researchFields": [],
+    "email": null
+  },
+  "summary": null,
+  "positions": [
+    {
+      "title": "CEO",
+      "company": "PEIQ by multicom & GOGOL",
+      "companyUrl": "https://www.linkedin.com/company/peiq-by-multicom-und-gogol",
+      "description": null,
+      "location": null,
+      "start": "2017-09",
+      "end": null,
+      "dateRange": "Sep 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "CEO",
+      "company": "PEIQ by multicom & GOGOL",
+      "companyUrl": "https://www.linkedin.com/company/peiq-by-multicom-und-gogol",
+      "description": "Strategy, marketing, innovation management, product development of cloud-based publishing-solution for media industry",
+      "location": null,
+      "start": "2006-01",
+      "end": null,
+      "dateRange": "Jan 2006 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Fireflow GmbH",
+      "companyUrl": null,
+      "description": "Busines development for technology platform (web &amp; wireless services)",
+      "location": null,
+      "start": "2005-01",
+      "end": "2006-01",
+      "dateRange": "Jan 2005 – Jan 2006",
+      "current": false
+    },
+    {
+      "title": "Project Manager",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Management of industrie & research project (BMW, Siemens, Vodafone)\nDevelopment of CDTM program together with board of directors",
+      "location": null,
+      "start": "2001-09",
+      "end": "2004-12",
+      "dateRange": "Sep 2001 – Dec 2004",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Ph.D, Business Administration",
+      "dateRange": "2001 – 2004"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "1999 – 2001"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl.-Ing., Electrical Engineering / Information Systems",
+      "dateRange": "1995 – 2001"
+    },
+    {
+      "school": "MIT Sloan School of Management",
+      "degree": "Visiting Fellow, Innovation, Leadership, Entrepreneurship",
+      "dateRange": "2000"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Mergers & Acquisitions",
+    "Marketing Strategy",
+    "Strategy",
+    "Online Advertising",
+    "Business Planning",
+    "Business Development",
+    "Online Marketing",
+    "Start-ups",
+    "Entrepreneurship",
+    "E-commerce",
+    "Project Management",
+    "Product Management",
+    "Strategic Partnerships",
+    "Business Strategy",
+    "Venture Capital",
+    "Mobile Devices",
+    "Mobile Applications",
+    "Innovation Management",
+    "Management Consulting",
+    "Product Development",
+    "SaaS",
+    "Product Marketing",
+    "Go-to-market Strategy"
+  ],
+  "languages": [],
+  "company": {
+    "name": "PEIQ by multicom & GOGOL",
+    "tagline": "Gestalte die digitale Zukunft als Cloud-Pionier:in",
+    "description": "Aus den Erfahrungen mit über 600 Zeitungen, Onlineportalen mit 600 Mio. PIs pro Monat und über 500.000 Autor:innen und Redakteur:innen entwickeln wir seit über 40 Jahren Werkzeuge für Zeitungsverlage. Unsere 75 Mitarbeiter:innen beschäftigen sich tagtäglich mit Themen wie Cloud-Computing, Software-as-a-Service (S-a-a-S), Digital Publishing und Print 2.0. Mit einem tiefen Verständnis fürs Digitale und Entwicklungsprojekten gefördert durch den Google Digital News Innovation Fund (DNI) begleiten wir unsere Kund:innen auf dem Weg in die digitale Zukunft. \n\nLink zur Jobs-Seite: https://peiq.de/jobs",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.peiq.de",
+    "linkedInUrl": "https://www.linkedin.com/company/peiq-by-multicom-und-gogol",
+    "employeeCount": 49,
+    "foundedYear": null,
+    "location": "Augsburg, Germany",
+    "specialities": []
+  }
+}

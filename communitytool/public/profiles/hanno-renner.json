@@ -1,0 +1,173 @@
+{
+  "id": "hanno-renner",
+  "name": "Hanno Renner",
+  "headline": "Co-Founder & CEO at Personio | Proudly European 🇪🇺",
+  "avatar": {
+    "sm": "/avatars/hanno-renner-sm.webp",
+    "lg": "/avatars/hanno-renner.webp",
+    "blur": "data:image/webp;base64,UklGRlQBAABXRUJQVlA4IEgBAADwBgCdASogACAAPtFUpE2oJCMiMBgIAQAaCWwAnS+vwAA7Kpwywwk2CLQ6AwG+JYO+zjiTRVXgvE6junBzZRSAAP7AUyoqNo2aTbTQ4g2TLlDvcTVe65j5NTV3Yh12LGcIZrfzN3Q5SJPEPS/UDuEhosu/22H5pdaBlEag+Pyu6AaO/pgjOqcJ3vtrXOOxre3n8pMDERc5xX/r6l30AZe7+LP+do7DvNewo7wwLDgO10FA3sxjWIPX7t4VB7JLY+jRQ4Y9DAuG9BGjFPWJ2dluYtbpSnn2ggCXHSqb1R5yMKL6DjMSPzBYpb/YFxU0qDmV9mgXfdwbsba48daaIu6RHr/Ge+IzgLmIEwqU71TPvVt34phfdkP1lQ+2KLYTmPjX44djHgJJ9IsUV/W2NiAmmmHZRsizRzRAJ6aaqhvnG3Xgp7PwAAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/hanno-renner",
+  "personId": 915,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Technical and Management oriented Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Hanno Renner",
+  "ca": null,
+  "summary": "UNLOCKING THE POWER OF PEOPLE FOR ORGANIZATIONS AROUND THE WORLD\n\nPersonio is The Intelligent HR Platform that unlocks the power of people for small and medium-sized organizations. \nTrusted by over 14,000 organizations that together manage more than 1 million employees, we drive productivity for HR teams, managers and employees by improving HR processes and boosting employee experience. \nLearn more about our product, or how to join our teams here: www.personio.com",
+  "positions": [
+    {
+      "title": "Co-Founder and Chairman",
+      "company": "Personio Foundation",
+      "companyUrl": "https://www.linkedin.com/company/personio-foundation",
+      "description": "Personio Foundation supports forward-thinking nonprofit organizations operating in the fields of climate action and education.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-12",
+      "end": null,
+      "dateRange": "Dec 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder and CEO",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": "Building The People Operating System for small and mid-sized organizations. Transforming manual people processes into automated workflows so HR can focus on the most valuable assets in the company: their people.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-06",
+      "end": null,
+      "dateRange": "Jun 2015 – Present",
+      "current": true
+    },
+    {
+      "title": "Member of the Board \"Junge Digitale Wirtschaft\"",
+      "company": "Federal Ministry for Economics and Climate Action",
+      "companyUrl": "https://www.linkedin.com/company/bmwe-bund",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2022-07",
+      "end": "2025-02",
+      "dateRange": "Jul 2022 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Feedbackme",
+      "companyUrl": "https://www.linkedin.com/company/feedbackme",
+      "description": "- digitalizing feedback for presentations\n- building a platform where people can prepare for future presentations\n- feedback can be style- and content-based",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-04",
+      "end": "2015-12",
+      "dateRange": "Apr 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Skipper of Sailing Yachts",
+      "company": "Quarterdeck Life Ltd",
+      "companyUrl": "https://www.linkedin.com/company/quarterdeck-life-ltd",
+      "description": "- full responsibility for yachts and crews\n- making safety relevant decisions\n- Qualification: RYA Yachtmaster",
+      "location": "Mediterranean, Caribbean & Brazil",
+      "start": "2013-07",
+      "end": "2016-12",
+      "dateRange": "Jul 2013 – Dec 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Columbia University",
+      "degree": "Visiting Graduate Student, Entrepreneurship and Sustainability Management",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (MS), Technologie- und Managementorientierte Betriebswirtschaftslehre",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "University of Auckland",
+      "degree": "Exchange Degree, Industrial Engineering",
+      "dateRange": "2011"
+    },
+    {
+      "school": "HTWG Hochschule Konstanz – Technik, Wirtschaft und Gestaltung",
+      "degree": "Bachelor of Engineering (B.Eng.), Wirtschaftsingenieurswesen",
+      "dateRange": "2009 – 2013"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Leadership",
+    "Sales",
+    "Project Management",
+    "Start-ups",
+    "Software as a Service (SaaS)",
+    "Business Strategy",
+    "Unternehmensberatung",
+    "HR Software",
+    "Strategy",
+    "Unternehmertum",
+    "Marketing Strategy",
+    "Projektmanagement",
+    "Microsoft Excel",
+    "Industrial Engineering",
+    "Continuous Improvement",
+    "Marktforschung",
+    "Market Research",
+    "Innovation Management",
+    "Marketingstrategie"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Personio",
+    "tagline": "Unlocking the power of people",
+    "description": "Founded in 2015 and built in Europe, Personio is the Intelligent HR Platform championing every side of HR's evolution.\n\nAs work becomes more complex and HR's role more strategic, most technology still treats HR as one-dimensional. We see it differently. Trusted by over 16,000 customers managing more than 1 million employees globally, Personio is built for everything HR has become. We support organisations of all sizes and industries, but specialise in global companies with between 200 and 5000 employees. \n\nWe connect Core HR, Talent, and Payroll in one intelligent platform. Our platform eliminates manual work through automation, adapts to multi-entity complexity with flexible workflows, and transforms people data into strategic insights with AI.\n\nPersonio is built with deep European expertise, and we're the only HR platform with native payroll in Germany—Europe's most complex market. Plus we offer comprehensive apps to manage the entire employee lifecycle including recruiting, performance, compensation, and feedback. \n\nFrom implementation to everyday support, Personio is your partner from day one. We focus on the real challenges of HR and build with purposeful AI that amplifies the power of HR teams. \n\nWe help organisations around the world unlock the power of their people.",
+    "industry": "Software Development",
+    "website": "https://www.personio.com",
+    "linkedInUrl": "https://www.linkedin.com/company/personio",
+    "employeeCount": 1739,
+    "foundedYear": 2015,
+    "location": "Munich, Germany",
+    "specialities": [
+      "HR Software",
+      "HR Management",
+      "Recruitung",
+      "Employee Management",
+      "Applicant Tracking System",
+      "Employee Selfservice",
+      "Time-Off Management",
+      "Cloud Software",
+      "Onboarding and Offboarding",
+      "HR Reporting",
+      "Performance Management",
+      "Payroll",
+      "HR",
+      "HR Tech",
+      "Human Resources"
+    ]
+  }
+}

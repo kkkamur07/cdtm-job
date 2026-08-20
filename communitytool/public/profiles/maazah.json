@@ -1,0 +1,205 @@
+{
+  "id": "maazah",
+  "name": "Maaz Ahmed",
+  "headline": "Data Science @ LMU Munich | CDTM | NYU",
+  "avatar": {
+    "sm": "/avatars/maazah-sm.webp",
+    "lg": "/avatars/maazah.webp",
+    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAADwBQCdASogACAAPtFcpUyoJSOiMBgIAQAaCWYABRAe3XM1rSiDEccCAxZdP37RJFhRHD6bawXZ4AD+6BAggS7qx/28Vja+j8Zfk8npN6v8f3S722h/Qyw0kYRW9pc7kkvX84cEJPO2szlkyBjcvuXJdb/X672z2sGECPECnTlBB8uJTjHZgL9tOtA+rl0LmmK4s6Ok9fCj0BOSl91Dmbx9U0bSEF554treJvkZWVfq5kHF5uU2L2TJaJCXBOgU9cGnSmfgrghgcwS+oEANDKZRmmV05ffEJ+4dr9ivCIBB82s6WdwnFXFQ/+d3hzfMp6C8HqkUvAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/maazah",
+  "personId": 2080,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Data Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Maaz Ahmed",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Social Data Science and AI Lab",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Machine Learning Intern",
+      "company": "FortyGuard",
+      "companyUrl": "https://www.linkedin.com/company/fortyguard",
+      "description": null,
+      "location": "Abu Dhabi, United Arab Emirates",
+      "start": "2024-05",
+      "end": "2024-09",
+      "dateRange": "May 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Global Career Peer",
+      "company": "NYUAD Career Development Center",
+      "companyUrl": "https://www.linkedin.com/company/nyuadcdc",
+      "description": null,
+      "location": "Abu Dhabi, United Arab Emirates",
+      "start": "2023-08",
+      "end": "2024-05",
+      "dateRange": "Aug 2023 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Analytics",
+      "company": "Procter & Gamble",
+      "companyUrl": "https://www.linkedin.com/company/procter-and-gamble",
+      "description": null,
+      "location": "Dubai, United Arab Emirates",
+      "start": "2023-05",
+      "end": "2023-08",
+      "dateRange": "May 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "NYU College of Arts and Science",
+      "companyUrl": "https://www.linkedin.com/company/nyu-college-of-arts-and-science",
+      "description": "Data Structures Teaching Assistant",
+      "location": "New York, United States",
+      "start": "2022-08",
+      "end": "2022-12",
+      "dateRange": "Aug 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Product Intern",
+      "company": "Tazah Technologies",
+      "companyUrl": "https://www.linkedin.com/company/tazahtech",
+      "description": null,
+      "location": null,
+      "start": "2022-07",
+      "end": "2022-09",
+      "dateRange": "Jul 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Interactive Media Lab Assistant",
+      "company": "New York University Abu Dhabi",
+      "companyUrl": "https://www.linkedin.com/company/new-york-university-abu-dhabi",
+      "description": null,
+      "location": "Abu Dhabi, United Arab Emirates",
+      "start": "2022-02",
+      "end": "2023-05",
+      "dateRange": "Feb 2022 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Global Education Officer, Visiting Students Program - Office of Global Education",
+      "company": "New York University Abu Dhabi",
+      "companyUrl": "https://www.linkedin.com/company/new-york-university-abu-dhabi",
+      "description": null,
+      "location": "Abu Dhabi, United Arab Emirates",
+      "start": "2022-01",
+      "end": "2024-05",
+      "dateRange": "Jan 2022 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Resident Assistant",
+      "company": "New York University Abu Dhabi",
+      "companyUrl": "https://www.linkedin.com/company/new-york-university-abu-dhabi",
+      "description": null,
+      "location": "Abu Dhabi, United Arab Emirates",
+      "start": "2021-08",
+      "end": "2024-05",
+      "dateRange": "Aug 2021 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Research Assistant - Data Science and AI Lab",
+      "company": "New York University Abu Dhabi",
+      "companyUrl": "https://www.linkedin.com/company/new-york-university-abu-dhabi",
+      "description": null,
+      "location": "Abu Dhabi, United Arab Emirates",
+      "start": "2021-08",
+      "end": "2021-12",
+      "dateRange": "Aug 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Data Science Intern",
+      "company": "InstaVal",
+      "companyUrl": "https://www.linkedin.com/company/instaval",
+      "description": null,
+      "location": "Dubai, United Arab Emirates",
+      "start": "2021-07",
+      "end": "2021-08",
+      "dateRange": "Jul 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Nixor College",
+      "companyUrl": "https://www.linkedin.com/company/nixor-college",
+      "description": null,
+      "location": "Karachi, Pakistan",
+      "start": "2019-01",
+      "end": "2020-03",
+      "dateRange": "Jan 2019 – Mar 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Data Science",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "New York University Abu Dhabi",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Nixor College",
+      "degree": "A-Levels",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "tagline": null,
+    "description": "Die LMU zählt zu den renommiertesten Universitäten Europas. Sie steht für hervorragende Forschung, die sich mit einem anspruchsvollen Lehrangebot verbindet. Knapp 53.000 Studierende, davon 17 Prozent aus dem Ausland, nutzen derzeit das breite Fächerspektrum mit 150 Angeboten und zahlreichen Kombinationsmöglichkeiten - von den Geistes- und Kulturwissenschaften über Rechts-, Wirtschafts- und Sozialwissenschaften bis hin zur Medizin und den Naturwissenschaften. \n\nDas Know-how und die kreative Intelligenz von rund 700 Professorinnen und Professoren und 3.600 wissenschaftlichen Mitarbeiterinnen und Mitarbeitern bilden die Grundlage für die hervorragende Forschungsbilanz der LMU und sorgen für ihr regelmäßig gutes Abschneiden in nationalen und internationalen Rankings. \n\nMachen Sie sich ein Bild von der LMU: www.lmu.de\n\nUnsere Netiquette sowie Datenschutzinformationen zur Nutzung der Social-Media-Auftritte der LMU finden Sie hier: \n\nhttps://www.lmu.de/de/die-lmu/struktur/zentrale-universitaetsverwaltung/kommunikation-und-presse/social-media/index.html\n\nFür die inhaltliche Konzeption und Pflege der Seiten ist die Stabsstelle Kommunikation und Presse verantwortlich.",
+    "industry": "Higher Education",
+    "website": "http://www.lmu.de",
+    "linkedInUrl": "https://www.linkedin.com/company/lmu.muenchen",
+    "employeeCount": 9313,
+    "foundedYear": null,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

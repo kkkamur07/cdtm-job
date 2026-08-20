@@ -1,0 +1,162 @@
+{
+  "id": "kupec",
+  "name": "Dr. Jan K.",
+  "headline": "Senior R&D Manager",
+  "avatar": null,
+  "location": "Zürich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/kupec",
+  "personId": 1512,
+  "classes": [
+    {
+      "id": 56,
+      "label": "Fall 2004",
+      "season": "Fall",
+      "year": 2004,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2004",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "ranked",
+  "needsReview": true,
+  "rosterName": "Jan Kupec",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Chief Technology Officer",
+      "company": "broncolor",
+      "companyUrl": "https://www.linkedin.com/company/broncolor-swiss",
+      "description": "Managing the R&D department at the cutting edge of innovation to produce high-quality, high-performance flash and continuous lighting solutions for professional photographers.",
+      "location": "Allschwil",
+      "start": "2022-04",
+      "end": "2026-03",
+      "dateRange": "Apr 2022 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "Manager Development Digital Products",
+      "company": "Reichle & De-Massari AG",
+      "companyUrl": "https://www.linkedin.com/company/reichle-&-de-massari",
+      "description": "Managing software and hardware development. Responsibility for all IoT activities, from concept innovation, supply chain to market launch of cloud-backed Industrial IoT solutions, data driven business models and value generation, early customer involvement and pre-sales consulting, strategy, portfolio planning.",
+      "location": "Wetzikon",
+      "start": "2018-10",
+      "end": "2022-04",
+      "dateRange": "Oct 2018 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Innovation Project Manager",
+      "company": "Reichle & De-Massari AG",
+      "companyUrl": "https://www.linkedin.com/company/reichle-&-de-massari",
+      "description": "Building partner network for development of business models backed by Industrial IoT, patent portfolio management, acqusition of external R&D funding",
+      "location": "Zürich Area, Switzerland",
+      "start": "2016-03",
+      "end": "2018-09",
+      "dateRange": "Mar 2016 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "R&D Engineer",
+      "company": "Reichle & De-Massari AG",
+      "companyUrl": "https://www.linkedin.com/company/reichle-&-de-massari",
+      "description": "High-peed RF design, IoT software development, technology scouting, technology roadmapping aligned with market trens analysis",
+      "location": null,
+      "start": "2012-11",
+      "end": "2016-03",
+      "dateRange": "Nov 2012 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "swissQuant Group AG",
+      "companyUrl": "https://www.linkedin.com/company/swissquant-group-ag",
+      "description": "Quantitative analysis, portfolio estimation, for long term investment strategies of pension funds. Reverse engineering of commodity portfolios.",
+      "location": null,
+      "start": "2012-02",
+      "end": "2012-07",
+      "dateRange": "Feb 2012 – Jul 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "Doctor of Science (Dr. sc.), Electrical, Electronics and Communications Engineering",
+      "dateRange": "2008 – 2012"
+    },
+    {
+      "school": "FHS St.Gallen University of Applied Sciences",
+      "degree": "CAS/MAS, Innovation Management",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Graduate Student, Electrical, Electronics and Communications Engineering",
+      "dateRange": "2006 – 2008"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honorary Degree in Management, Innovation Management",
+      "dateRange": "2004 – 2007"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Engineering (M.Eng.), Electrical, Electronics and Communications Engineering",
+      "dateRange": "2002 – 2007"
+    }
+  ],
+  "skills": [
+    "Innovation Management",
+    "Innovation Development",
+    "Technology Scouting",
+    "Agile Project Management",
+    "Project Management",
+    "Numerical Simulation",
+    "RF Engineering",
+    "Embedded Systems",
+    "Embedded C++",
+    "Embedded C",
+    "High Performance Computing",
+    "Relational Databases",
+    "Business Model Innovation",
+    "Internet of Things",
+    "Smart Cities",
+    "Management",
+    "Microsoft Office",
+    "C (Programming Language)",
+    "Digital Innovation",
+    "RF Design"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "broncolor",
+    "tagline": "Flash & continuous lighting solutions for professional photographers, eCommerce and cultural heritage institutions.",
+    "description": "For more than 60 years, Bron Elektronik AG is at the cutting edge of innovation to produce high-quality, high-performance flash and continuous lighting solutions for professional photographers. Under its well-known brand broncolor, a large portfolio of mutually compatible product is available. From power packs to monolights, lamps to parabolic reflectors and light shapers, you can create your tailored lighting set to tackle every photographic challenges. \n\nNumerous patents, technical innovations, reliability and longevity are just some of the reasons why broncolor is so appreciated worldwide. From the company headquarters in Allschwil, Switzerland, we export to about 60 countries. Through our passion for light and innovation, more than 50 collaborators are committed to provide exceptional lightning solutions to enable every photographer get the prefect shot.",
+    "industry": "Photography",
+    "website": "https://www.broncolor.swiss",
+    "linkedInUrl": "https://www.linkedin.com/company/broncolor-swiss",
+    "employeeCount": 33,
+    "foundedYear": 1958,
+    "location": "Allschwil, Switzerland",
+    "specialities": [
+      "Flash Lighting System",
+      "Continuous Lighting System",
+      "Light Shapers",
+      "Professional Photography",
+      "Power Packs",
+      "Monolights",
+      "Studio Photography",
+      "High Volume Photography"
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "id": "leonszeli",
+  "name": "Leon Szeli",
+  "headline": "Product @ Meta | Presize (acq. by Meta) Founding CEO | IC @ CDTM Venture Fund",
+  "avatar": {
+    "sm": "/avatars/leonszeli-sm.webp",
+    "lg": "/avatars/leonszeli.webp",
+    "blur": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAABQBgCdASogACAAPs1UpkunpKOhsBgMAPAZiWQAuKssE6Krfr+iJijjS0o2f/D+PHKBYwWgZCTV4m9yAAD+/vY1bFefOo0+OCqfqFjFBLFz6ho5mlvVLaTVBIj+g18JY+Wr1fiXnoXMzzNMPga4P0s/W/6q6ZoOz7kC1GV7jHUWfZ0SgY7OQQVz3gbAByyi9lNxK+STF9KHTA00EsrtQgt4K+clLPqRg0iPhrHDdypJoPWrX5QjZDZWf0kKChqhOr2Bv3C8b4hbZKSh81GylxewNgAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/leonszeli",
+  "personId": 881,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Consumer Affairs",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Leon Szeli",
+  "ca": null,
+  "summary": "Entrepreneurship changed my life. You can reach me via office.leonszeli@gmail.com.\n\nI founded Presize, a company you might recognize from 'Die Höhle der Löwen' (the German version of Shark Tank). Presize helps online shoppers find their perfect clothing size with AI. In April 2022, Presize was acquired by Meta (Facebook/Instagram), where we continued to scale our size recommendation technology to 4 billion users.\n\nAs a Product Manager (L7) at Meta, I work on one of the largest product catalogs in the world, driving xx billions in revenue across a variety of e-commerce use cases, from ads to Facebook Shops and Instagram Shopping.\n\nI am also an active startup investor. At the CDTM Venture Fund, I serve on the board and investment committee. I also support the EWOR Team. In addition to that, I am Limited Partner in multiple venture capital funds and have made 40 angel investments.\n\nMy academic background is in Human-Computer Interaction research, with studies at LMU, Stanford, CDTM, and Cambridge. I graduated as valedictorian from TUM with a Master’s degree.",
+  "positions": [
+    {
+      "title": "Co-Founder & Investment Committee",
+      "company": "CDTM Venture Fund",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-venture-fund",
+      "description": "CDTM is the birthplace of 25% of Germany’s unicorns. It’s not only one of the most selective educational institutions to get into, with a mere 6% acceptance rate, but it also boasts the highest \"unicorn-to-alumni ratio\" in the world (9 unicorns / 1,200 alumni). \n\nThe CDTM Ventures Fund is Germany’s first alumni fund. We invest in the next generation of CDTM startups at the (pre)seed stage and provide support to founders through our network of 300+ LPs, all of whom are entrepreneurial operators at heart. The majority of the carry is donated to CDTM.",
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Shareholder & Mentor",
+      "company": "EWOR",
+      "companyUrl": "https://www.linkedin.com/company/ewor",
+      "description": "I am an early investor in EWOR (the program itself). EWOR is the most selective startup program in the world (0.1% acceptance rate). Fellows are supported through a virtual-first model built on 1:1 mentorship (including 1 to 5 hours per week with one of the partners (unicorn founders)), bespoke modules, and a curated network of over 2,000 mentors, VCs, and subject matter experts.",
+      "location": null,
+      "start": "2024-03",
+      "end": null,
+      "dateRange": "Mar 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager (L7)",
+      "company": "Meta",
+      "companyUrl": "https://www.linkedin.com/company/meta",
+      "description": "Joined through the acquisition of Presize and seeded the Meta Munich Office. Product Lead (IC7 - Senior Staff) for Meta's Product Catalog:\n- Over 200 billion products - largest product catalog in the world\n- powering over $50 billion of Meta's ads revenue\n- spanning a team of 200 engineers and 50 cross-functional partners, including 16 PMs\n- working on several company-wide initiatives with C-level visibility with cross-organisational partners, such as the Meta Super Intelligence Team (L10s)\n- built Catalog's product intelligence layer using state of the art large language models for personalized commerce experiences\n- Selected projects: Machine Learning-based Product recognition technology for Meta Ray Ban, making organic content shoppable, Conversational Commerce with Meta AI and WhatsApp Business Messaging, Instagram and Facebook's Shops, including integration of Presize's AI and computer vision technology for personalised clothing size recommendations and Gen AI based virtual Try-On for Fashion products",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-04",
+      "end": null,
+      "dateRange": "Apr 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Family Office",
+      "company": "Szeli Ventures GmbH",
+      "companyUrl": "https://www.linkedin.com/company/szeli-ventures-gmbh",
+      "description": "Limited Partner in 8 Venture Capital Funds (e.g. Lightspeed, EWOR, CDTM Venture Fund) and Private Equity Funds (e.g. KKR). Angel Investor in 40 early stage B2B AI Startups (e.g. Artifact AI, Peec AI, You.com). Serving as Advisory Board Member (Growth & Product) for equity.",
+      "location": null,
+      "start": "2022-04",
+      "end": null,
+      "dateRange": "Apr 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Founding CEO",
+      "company": "Presize (acq. by Meta)",
+      "companyUrl": "https://www.linkedin.com/company/presizeai",
+      "description": "Presize was a VC-backed AI startup with 50 employees, >1m users, 50 B2B customers, grew from 0 to 7-digit ARR in one year after airing on German shark tank (\"Die Höhle der Löwen\").\n\nProduct: The most accurate body measurements from one turn in front of a smartphone and/or body shape questions. Fashion eCommerce Size recommendations people trust (higher conversion) & keep (less returns & CO2).",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-04",
+      "end": "2022-03",
+      "dateRange": "Apr 2019 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Ginmon",
+      "companyUrl": "https://www.linkedin.com/company/ginmon",
+      "description": "Master Thesis about UX in AI. Ginmon is my industry partner (Leading Roboadvisor in Europe). Based on an algorithm, they create and rebalance a diversified investment portfolio for you. No humans needed.\n\nMy research question is: Building consumers’ trust in AI - Would you trust an algorithm with your money? It combines my passions in Tech, Innovation and Behaviourism.",
+      "location": null,
+      "start": "2018-08",
+      "end": "2019-03",
+      "dateRange": "Aug 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Student Employee",
+      "company": "OSRAM",
+      "companyUrl": "https://www.linkedin.com/company/osram",
+      "description": null,
+      "location": "Digital Business Development, eCommerce, Data Analytics",
+      "start": "2016-07",
+      "end": "2017-04",
+      "dateRange": "Jul 2016 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Founding CPO",
+      "company": "HIGGS livestreaming technologies",
+      "companyUrl": "https://www.linkedin.com/company/higgs-live-streaming-technologies",
+      "description": "Growth & Product Management\n• Livestreaming technology that enables interactive and engaging mobile quiz shows as a whitelabel solution\n• Selected customers: FC Bayern Munich, Sky, TU Munich, BMW, UNO & Vodafone\n• Admitted to Angelpad’s Batch #11 (based in NYC, less than 1% acceptance rate, first German startup ever)\n• Admitted to 6 German Incubators & Accelerators, e.g. German Accelerator Q1 2018",
+      "location": null,
+      "start": "2016-02",
+      "end": "2018-01",
+      "dateRange": "Feb 2016 – Jan 2018",
+      "current": false
+    },
+    {
+      "title": "Innovation Consultant",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Evaluation of future technologies in predevelopment, conceptualisation & prototyping a smart assistance for 2025",
+      "location": null,
+      "start": "2015-10",
+      "end": "2016-05",
+      "dateRange": "Oct 2015 – May 2016",
+      "current": false
+    },
+    {
+      "title": "Business Development DACH",
+      "company": "Rocket Internet SE",
+      "companyUrl": "https://www.linkedin.com/company/rocket-internet-se",
+      "description": "Internship in Business Development & Key Account Management of the DACH-Region in one of the fastest growing Rocket Internet Start-Ups: Global Savings Group",
+      "location": null,
+      "start": "2015-09",
+      "end": "2015-12",
+      "dateRange": "Sep 2015 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Munich Re (Group)",
+      "companyUrl": "https://www.linkedin.com/company/munich-re",
+      "description": "Analysis of the international market for eHealth and prototyping of a Digital Doctor Application",
+      "location": null,
+      "start": "2015-06",
+      "end": "2015-08",
+      "dateRange": "Jun 2015 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Academy Consult München e.V.",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": "Team leader in one of Germany's leading Student Consultancies",
+      "location": null,
+      "start": "2014-10",
+      "end": "2017-09",
+      "dateRange": "Oct 2014 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Student Employee",
+      "company": "Roland Berger Strategy Consultants",
+      "companyUrl": "https://www.linkedin.com/company/rolandberger",
+      "description": "Daily Press Review for Roland Berger himself.",
+      "location": null,
+      "start": "2014-05",
+      "end": "2014-10",
+      "dateRange": "May 2014 – Oct 2014",
+      "current": false
+    },
+    {
+      "title": "PR Consulting Intern",
+      "company": "Emanate PR",
+      "companyUrl": "https://www.linkedin.com/company/emanate-pr",
+      "description": "Creation of a communication concept for Maxdome (Video-Demand-Service)",
+      "location": null,
+      "start": "2014-02",
+      "end": "2014-04",
+      "dateRange": "Feb 2014 – Apr 2014",
+      "current": false
+    },
+    {
+      "title": "Student Employee",
+      "company": "markt.de GmbH & Co. KG",
+      "companyUrl": "https://www.linkedin.com/company/markt-de-gmbh-&-co-kg",
+      "description": "Online-Marketing (SEO and Content Management) the German version of eBay Kleinanzeigen",
+      "location": null,
+      "start": "2013-04",
+      "end": "2014-03",
+      "dateRange": "Apr 2013 – Mar 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Researcher, Stanford School of Engineering / Center for Design Research",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Researcher at Cambridge Judge Business School: Centre for Alternative Finance",
+      "dateRange": "2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Consumer Affairs: Technology & Innovation",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Manage and More by UnternehmerTUM",
+      "degree": "Scholarship holder of the entrepreneurial qualification program Manage&More",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "FernUniversität in Hagen",
+      "degree": "Bachelor of Science (B.Sc.), Psychology",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Arts (B.A.), Communication Science",
+      "dateRange": "2013 – 2015"
+    }
+  ],
+  "skills": [
+    "Business Development",
+    "Entrepreneurship",
+    "Consulting",
+    "Ecommerce",
+    "Product Management",
+    "Data Analysis",
+    "Datenanalyse",
+    "Digital Marketing",
+    "Project Management",
+    "Key-Account-Management",
+    "Strategy",
+    "Strategisches Management",
+    "E-Commerce",
+    "SEO",
+    "Unternehmertum",
+    "Geschäftsentwicklung",
+    "Microsoft Office",
+    "Design Thinking",
+    "Management",
+    "Growth Hacking",
+    "user testing",
+    "UX research",
+    "Agile Methoden",
+    "Projektmanagement",
+    "Suchmaschinenoptimierung (SEO)"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Latein"
+  ],
+  "company": {
+    "name": "Meta",
+    "tagline": null,
+    "description": "Meta's mission is to build the future of human connection and the technology that makes it possible. \n\nOur technologies help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.\n\nTo help create a safe and respectful online space, we encourage constructive conversations on this page. Please note the following:\n\n• Start with an open mind. Whether you agree or disagree, engage with empathy.\n• Comments violating our Community Standards will be removed or hidden. Please treat everybody with respect.\n• Keep it constructive. Use your interactions here to learn about and grow your understanding of others.\n• Our moderators are here to uphold these guidelines for the benefit of everyone, every day.\n• If you are seeking support for issues related to your Facebook account, please reference our Help Center (https://www.facebook.com/help) or Help Community (https://www.facebook.com/help/community).\n\nFor a full listing of our jobs, visit https://www.metacareers.com",
+    "industry": "Software Development",
+    "website": "https://www.metacareers.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/meta",
+    "employeeCount": 155447,
+    "foundedYear": null,
+    "location": "Menlo Park, United States",
+    "specialities": [
+      "Connectivity",
+      "Artificial Intelligence",
+      "Virtual Reality",
+      "Machine Learning",
+      "Social Media",
+      "Augmented Reality",
+      "Marketing Science",
+      "Mobile Connectivity",
+      "Open Compute",
+      "Metaverse"
+    ]
+  }
+}

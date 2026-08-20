@@ -1,0 +1,113 @@
+{
+  "id": "silvia-appelt-8aba6959",
+  "name": "Silvia Appelt",
+  "headline": "Economist at OECD",
+  "avatar": null,
+  "location": "Paris Metropolitan, France",
+  "linkedInUrl": "https://www.linkedin.com/in/silvia-appelt-8aba6959",
+  "personId": 1585,
+  "classes": [
+    {
+      "id": 54,
+      "label": "Fall 2003",
+      "season": "Fall",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Silvia Appelt",
+  "ca": null,
+  "summary": "In my role as Economist at the OECD Directorate for Science, Technology and Innovation, I am responsible for the measurement and analytical work on public support for R&D and innovation, including R&D tax incentives and public procurement of innovation. I also contributed to analytical work on the mobility of scientific researchers. Before joining the OECD in 2012, I worked as a consultant on private-equity and telecommunications projects, and contributed to research projects on patent and trademark filings at the Institute for Innovation and Technology Management, University of Munich. I hold a Master’s degree in Business Administration and PhD in Economics from the University of Munich.",
+  "positions": [
+    {
+      "title": "Economist",
+      "company": "OECD",
+      "companyUrl": "https://www.linkedin.com/company/organisation-eco-cooperation-development-organisation-cooperation-developpement-eco",
+      "description": "Economist with experience in the measurement and analysis of government support for R&D and innovation, ranging from the development of indictors and methodological guidance, design and implementation of surveys, to the analysis of innovation polices through country-specific studies and cross-country distributed analysis.",
+      "location": "Paris, Île-de-France, France",
+      "start": "2012-06",
+      "end": null,
+      "dateRange": "Jun 2012 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Assistant",
+      "company": "INNO-tec, Ludwig-Maximilians-University",
+      "companyUrl": null,
+      "description": "Match and analysis of IP and business data (e.g. OHIM, USPTO, DPMA,\nCOMPUSTAT, Amadeus), preparation of research proposals",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2009-11",
+      "end": "2012-06",
+      "dateRange": "Nov 2009 – Jun 2012",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Von Braun & Schreiber, Private Equity Fund-of-Funds Investor",
+      "companyUrl": null,
+      "description": "Investment analyses and reports, private-equity market studies",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2006-04",
+      "end": "2006-10",
+      "dateRange": "Apr 2006 – Oct 2006",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Roland Berger Strategy Consultants",
+      "companyUrl": "https://www.linkedin.com/company/roland-berger-strategy-consultants",
+      "description": "Telecom market research and analysis (incl. interviews), client briefings",
+      "location": "Bonn, North Rhine-Westphalia, Germany",
+      "start": "2005-03",
+      "end": "2005-07",
+      "dateRange": "Mar 2005 – Jul 2005",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Economics",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Writing",
+    "Econometric Modeling",
+    "Tax",
+    "Policy Analysis",
+    "Economic Research",
+    "Economic Indicators",
+    "Economic Analysis",
+    "Applied Economics",
+    "Economic Statistics"
+  ],
+  "languages": [],
+  "company": {
+    "name": "OECD - OCDE",
+    "tagline": "Better policies for better lives",
+    "description": "The Organisation for Economic Co-operation and Development (OECD) is an international organisation that works to build better policies for better lives. We draw on more than 60 years of experience and insights to shape policies that foster prosperity and opportunity, underpinned by equality and well-being.\n\nWe work closely with policy makers, stakeholders and citizens to establish evidence-based international standards and to find solutions to social, economic and environmental challenges. From improving economic performance and strengthening policies to fight climate change to bolstering education and fighting international tax evasion, the OECD is a unique forum and knowledge hub for data, analysis and best practices in public policy. \n\nOur core aim is to set international standards and support their implementation – and help countries forge a path towards stronger, fairer and cleaner societies.",
+    "industry": "International Affairs",
+    "website": "https://oe.cd/en-li",
+    "linkedInUrl": "https://www.linkedin.com/company/organisation-eco-cooperation-development-organisation-cooperation-developpement-eco",
+    "employeeCount": 5658,
+    "foundedYear": 1960,
+    "location": "Paris, France",
+    "specialities": [
+      "Policy Analysis",
+      "Economic Analysis",
+      "Monitoring",
+      "Modelling and forecasting"
+    ]
+  }
+}

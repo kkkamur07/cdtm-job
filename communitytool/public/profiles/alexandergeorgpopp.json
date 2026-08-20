@@ -1,0 +1,138 @@
+{
+  "id": "alexandergeorgpopp",
+  "name": "Alex Popp",
+  "headline": "Co-Founder at Demodesk",
+  "avatar": {
+    "sm": "/avatars/alexandergeorgpopp-sm.webp",
+    "lg": "/avatars/alexandergeorgpopp.webp",
+    "blur": "data:image/webp;base64,UklGRkABAABXRUJQVlA4IDQBAABQBgCdASogACAAPslQokunpKMht/VYAPAZCWwAnTMZ4ABT/GDNFYeEq3TPMRVskdC2I90M6lliFsHpgAD+WTzv4hYcBP/lm0IJAvzUkFs2wKwLFFRn5lX9ef7Ddjed5ziSzrZCJYKqZr59v0wOv64y0paoE8zRSfW/AVgNZfEjzSC2C8fYUifcbQumlRDyazO9QRqgi73kIzlLZYnXiemQPF7cHggExJTR6JoE8C+9Wzthn3o0zEhhi19tw1+qVHT5xuJKjMRO3f6hqluK0lqxssMxVhjp4L4OtmbECe0/2mSI3EUOfSiFVbKMoTfENqUotP62RKpG/Mi8TQF2LzDemm6syTp2lmt+q0u+EqT1w7L4Sti5RlBZTdeCnMLt/BLp8kAPDeWkmyZ3qlJSZ7KM9wAAAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/alexandergeorgpopp",
+  "personId": 1130,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Alexander Popp",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Demodesk",
+      "companyUrl": "https://www.linkedin.com/company/demodesk",
+      "description": null,
+      "location": null,
+      "start": "2025-06",
+      "end": null,
+      "dateRange": "Jun 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Demodesk",
+      "companyUrl": "https://www.linkedin.com/company/demodesk",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2025-06",
+      "dateRange": "Jan 2018 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "StartX",
+      "companyUrl": "https://www.linkedin.com/company/startxfounders",
+      "description": null,
+      "location": "Palo Alto, CA",
+      "start": "2014-09",
+      "end": "2015-02",
+      "dateRange": "Sep 2014 – Feb 2015",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Teaching assistant at the chair for Data Processing.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2014 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Taxi.de",
+      "companyUrl": null,
+      "description": null,
+      "location": "Greater Hamburg Area",
+      "start": "2012-01",
+      "end": "2013-12",
+      "dateRange": "Jan 2012 – Dec 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Researcher, Computer Science Department",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Electrical Engineering",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, Technology Management",
+      "dateRange": "2014"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Demodesk",
+    "tagline": "🚀 AI Sales Agents that analyze conversations, fill CRM, coach reps on autopilot, and provide GTM insights",
+    "description": "🚀 AI Sales Agents That Help Teams Sell Smarter, Faster\n\nSales teams are overwhelmed with admin work, scattered insights, and inconsistent coaching. Reps spend hours updating CRMs, writing follow-ups, and tracking deals—slowing down pipeline velocity and costing businesses millions in lost revenue.\n\nAt Demodesk, we’re changing that.\n\nOur AI Sales Agents work alongside your team to automate execution, improve decision-making, and help every rep perform at their best.\n\n💡 What Demodesk Does:\n✅ AI Sales Assistant – Automates CRM updates, drafts follow-ups, and tracks deal progress\n✅ AI Sales Analyst – Surfaces deal risks, forecasts pipeline trends, and delivers real-time insights\n✅ AI Sales Coach – Analyzes sales conversations, provides instant coaching, and helps reps improve call by call\n\n🚀 The result? More deals closed, stronger execution, and better coaching—without the manual work.\n\n🔹 Used by fast-growing B2B sales teams, consulting firms, and industrial sales organizations\n🔹 Integrated with Salesforce, HubSpot, Pipedrive and major CRMs\n🔹 Works out of the box—no complex setup needed\n\n💡 Scale your sales team’s efficiency with AI Sales Agents.\n👉 Try for Free or Book a Demo at www.demodesk.com\n\nDemodesk is a proud YC company.",
+    "industry": "Software Development",
+    "website": "https://demodesk.com",
+    "linkedInUrl": "https://www.linkedin.com/company/demodesk",
+    "employeeCount": 20,
+    "foundedYear": 2018,
+    "location": "Munich, Germany",
+    "specialities": [
+      "SaaS",
+      "software demos",
+      "software sales",
+      "sales analytics",
+      "remote sales",
+      "sales intelligence",
+      "conversation analytics",
+      "sales enablement",
+      "AI Meeting Assistant",
+      "AI Sales Coach",
+      "Call Analytics",
+      "Sales Performance",
+      "sales meetings",
+      "AI Agents"
+    ]
+  }
+}

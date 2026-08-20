@@ -1,0 +1,147 @@
+{
+  "id": "seyed-ahmad-ahmadi-2509279",
+  "name": "Seyed-Ahmad Ahmadi",
+  "headline": "Senior Solution Architect - AI in Healthcare | Digital Health, Multimodal AI & Accelerated Infrastructure | NVIDIA",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/seyed-ahmad-ahmadi-2509279",
+  "personId": 1608,
+  "classes": [
+    {
+      "id": 53,
+      "label": "Spring 2003",
+      "season": "Spring",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Seyed-Ahmad Ahmadi",
+  "ca": null,
+  "summary": "Senior Solution Architect for AI in Healthcare at NVIDIA.\n\nTrusted advisor to healthcare and life sciences enterprises on AI strategy, digital health platforms, and accelerated compute infrastructure.\n\nI operate at the intersection of research innovation and enterprise-scale deployment, helping organizations:\n1. Identify high-impact AI workloads across medical imaging, multimodal clinical data, and generative AI\n2. Configure scalable AI factories and AI data platforms, leveraging NVIDIA reference architectures from single-node systems to multi-node and SuperPOD environments. Translate validated workload mappings into optimized, production-ready systems.\n\nCore focus areas:\n- Multimodal AI integrating imaging, structured and unstructured clinical data\n- LLM-powered digital health workflows (RAG, agentic AI, knowledge-grounded systems)\n- AI workload identification, infrastructure sizing, and performance optimization\n- Relational and graph-based AI, including geometric deep learning and knowledge graphs\n- Translating advanced AI research into scalable clinical decision support\n\n20+ years at the intersection of computer science, neuroscience, and clinical research.\nDoctorate in Health Informatics; ~20,000 citations (h-index 31).",
+  "positions": [
+    {
+      "title": "Senior Solution Architect - Deep Learning in Healthcare @ NVIDIA",
+      "company": "NVIDIA",
+      "companyUrl": "https://www.linkedin.com/company/nvidia",
+      "description": "Senior Solution Architect for AI in Healthcare, advising large healthcare and life sciences enterprises on AI strategy, multimodal digital health systems, and accelerated compute infrastructure.",
+      "location": "Munich",
+      "start": "2021-05",
+      "end": null,
+      "dateRange": "May 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Young Scientist Group Leader",
+      "company": "German Center for Vertigo and Balance Disorders, LMU",
+      "companyUrl": null,
+      "description": "Group leader Medical AI (BMBF 01 EO 0901 / YSGII-6)\nTopics: Clinical translational of SOTA machine&deep learning models; multimodal data from posture, gait, eye motion, multi-modal imaging and clinical meta-data (demographics, clinical scores); multimodal computer aided diagnosis (CADx); representation learning (sequential/variational/adversarial auto-encoders); geometric deep learning, graph neural networks;",
+      "location": "München",
+      "start": "2016-11",
+      "end": "2021-05",
+      "dateRange": "Nov 2016 – May 2021",
+      "current": false
+    },
+    {
+      "title": "Postdoctoral Researcher",
+      "company": "Ludwig-Maximilians Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Acquisition and coordination of DFG grant “3D freehand ultrasound for Parkinson’s disease diagnosis” (Co-funding by DFG Individual Grant BO 1895/4-1 and Lüneburg association, ~570.000 EUR total funding); Part of \"Movement Disorders\" research group by Prof. Dr. Kai Bötzel\nTopics: Computer-assisted Parkinson's disease diagnosis (CADx), Multi-modal ultrasound+MRI+CT atlasing; post-operative assessment of Deep Brain Stimulation (DBS) neurosurgery; development of deep learning models Hough-CNN and V-Net (>2300 citations) with Dice loss (research and industry standard in medical image segmentation); PhD supervision, teaching at Graduate School of Systemic Neurosciences (GSN) LMU/TUM Munich;",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-02",
+      "end": "2016-10",
+      "dateRange": "Feb 2013 – Oct 2016",
+      "current": false
+    },
+    {
+      "title": "Doctoral Researcher",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Graded with highest distinction (summa cum laude). Supervised by Prof. Dr. Nassir Navab, Computer-Aided Medical Procedures (CAMP), Faculty of Informatics, Technical University of Munich (TUM). Co-examiner: Prof. Dr. Benoit Dawant (Vanderbilt University)\nTopics: Medical image analysis, Ultrasound imaging, Magnetic Resonance Imaging, Robot-assisted neurosurgery; Workpackage leader ROBOCAST (EU FP7), Task leader ACTIVE (EU Horizon 2020);",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2008-05",
+      "end": "2012-11",
+      "dateRange": "May 2008 – Nov 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master’s Degree, Electrical, Electronics and Communications Engineering",
+      "dateRange": "2001 – 2008"
+    },
+    {
+      "school": "Georgia Institute of Technology",
+      "degree": "Master’s Degree, Electrical, Electronics and Communications Engineering",
+      "dateRange": "2006 – 2007"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Non-degree Graduate Level Coursewor, Electrical and Computer Engineering",
+      "dateRange": "2004 – 2005"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Non-degree extra-curricular program (4 semesters), Entrepreneurship/Entrepreneurial Studies",
+      "dateRange": "2003 – 2005"
+    }
+  ],
+  "skills": [
+    "Enterprise AI Architecture",
+    "Digital Health",
+    "Agentic Workflows",
+    "Multimodal AI",
+    "Deep Learning",
+    "Scientific Computing",
+    "Leadership",
+    "Machine Learning",
+    "Medical Imaging",
+    "Image Processing",
+    "Algorithms",
+    "Signal Processing",
+    "Computer Science",
+    "Simulations",
+    "Computer Vision",
+    "Programming",
+    "Artificial Intelligence (AI)",
+    "Medicine",
+    "Data Science",
+    "Project Management"
+  ],
+  "languages": [],
+  "company": {
+    "name": "NVIDIA",
+    "tagline": null,
+    "description": "Since its founding in 1993, NVIDIA (NASDAQ: NVDA) has been a pioneer in accelerated computing. The company’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, ignited the era of modern AI and is fueling the creation of the metaverse. NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry.",
+    "industry": "Computer Hardware Manufacturing",
+    "website": "http://www.nvidia.com",
+    "linkedInUrl": "https://www.linkedin.com/company/nvidia",
+    "employeeCount": 46517,
+    "foundedYear": 1993,
+    "location": "Santa Clara, United States",
+    "specialities": [
+      "GPU-accelerated computing",
+      "artificial intelligence",
+      "deep learning",
+      "virtual reality",
+      "gaming",
+      "self-driving cars",
+      "supercomputing",
+      "robotics",
+      "virtualization",
+      "parallel computing",
+      "professional graphics",
+      "automotive technology"
+    ]
+  }
+}

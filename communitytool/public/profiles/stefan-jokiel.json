@@ -1,0 +1,171 @@
+{
+  "id": "stefan-jokiel",
+  "name": "Stefan Jokiel",
+  "headline": "Co-Founder @Celsio - Economical and sustainable process heat | Energy Enthusiast | batterydata.info",
+  "avatar": {
+    "sm": "/avatars/stefan-jokiel-sm.webp",
+    "lg": "/avatars/stefan-jokiel.webp",
+    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAACwBQCdASogACAAPslQoUunpKMht/VYAPAZCUAWnTF2JVbHCWSCFDbBLO45Vdw7s9RTJ/jVTIAA/vst9CRCv4i/eSg4DjSPLSf/pVq7I4LNgah3J30E1t+oc8jnpLAcuoXrS7TSBb2ZYnDCB0HTqPt3zRDBKF6dodFHvvogXW4X91PafsmNZnb7mR+ljp+5WKwz1QCtpRzHsDk7u9/UovzE4aIxt62AUDyMd4A2Dzk3EIereCKJVgaT7w/L2N5O6uj8kd86TwK6duRG0m7N7umC9gwkKQwvbx7iY0IX2JlRZGNJYLq6KMFajFzZNlRuAAA="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/stefan-jokiel",
+  "personId": 867,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "BSc in Physics (LMU)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Stefan Jokiel",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Celsio",
+      "companyUrl": "https://www.linkedin.com/company/celsiotech",
+      "description": "Product & Technology | Building the next-generation energy provider for sustainable and economical process heat",
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Data Science Intern",
+      "company": "Entrix",
+      "companyUrl": "https://www.linkedin.com/company/entrixenergy",
+      "description": "Built trading algos, backtesting environments and market research for battery energy storage systems (BESS)",
+      "location": null,
+      "start": "2023-07",
+      "end": "2023-12",
+      "dateRange": "Jul 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Customer & Project Management Intern",
+      "company": "FERNRIDE",
+      "companyUrl": "https://www.linkedin.com/company/fernride",
+      "description": "Worked on bringing the first teleoperated yard trucks to operations",
+      "location": null,
+      "start": "2021-11",
+      "end": "2022-02",
+      "dateRange": "Nov 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "COGS optimization program for a leading European food retailer and wholesaler. I led a group of BCG Gamma data scientists building a data-driven negotiation tool and supported the roll-out at the client.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-08",
+      "end": "2021-10",
+      "dateRange": "Aug 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Academy Consult München e.V.",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": "Active club member and four external consulting projects",
+      "location": null,
+      "start": "2019-11",
+      "end": "2022-11",
+      "dateRange": "Nov 2019 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Intern Consultant",
+      "company": "GEPRO mbH",
+      "companyUrl": "https://www.linkedin.com/company/gepro-mbh",
+      "description": "Supported on consulting projects in the field of logistics and process management",
+      "location": null,
+      "start": "2019-04",
+      "end": "2019-04",
+      "dateRange": "Apr 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Intern R&D (series development)",
+      "company": "SFS Group",
+      "companyUrl": "https://www.linkedin.com/company/sfs-group",
+      "description": "Supported the serial development of a ball screw drive used in a state of the art break-by-wire system for a leading OEM",
+      "location": null,
+      "start": "2018-03",
+      "end": "2018-08",
+      "dateRange": "Mar 2018 – Aug 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Physics",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "University of Helsinki",
+      "degree": "Exchange Semester, Theoretical and Computational Methods",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors degree, Technology Management",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Physics",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Kantonsschule Heerbrugg",
+      "degree": "Matura",
+      "dateRange": "2013 – 2017"
+    },
+    {
+      "school": "Kitsilano Secondary School",
+      "degree": "High School",
+      "dateRange": "2015"
+    }
+  ],
+  "skills": [
+    "Python (Programming Language)",
+    "Microsoft Power BI",
+    "Microsoft Office",
+    "Process Mining",
+    "Machine Learning",
+    "Project Management",
+    "Physics"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Celsio",
+    "tagline": "Economical and sustainable process heat",
+    "description": "Celsio is the next-generation electricity provider for sustainable and economical process heat. Using our AI-based algorithm, we trade the flexibility of heat generation systems on volatile electricity markets. This reduces operating costs and avoids emissions.",
+    "industry": "Services for Renewable Energy",
+    "website": "https://www.celsiotech.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/celsiotech",
+    "employeeCount": 3,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

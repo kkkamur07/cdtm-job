@@ -1,0 +1,216 @@
+{
+  "id": "saschaballweg",
+  "name": "Sascha Ballweg",
+  "headline": "Product @ TeamViewer | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/saschaballweg-sm.webp",
+    "lg": "/avatars/saschaballweg.webp",
+    "blur": "data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAABwBgCdASogACAAPtFWo0uoJKMhsBgMAQAaCWQAxNwIHYCuAJba4hnqbbyl8tdwYIB/TyphzsEzG1dvhAAA/v6rKT6Z4+ZuZoRPmBrZ9b3JyuvcHcYC0O7x5n62gTuJxU9d5DEYN9v//HWYOSzORuTLuOe8c6vSYYeKpQh/hvMzy5vumHz9Ub0RnOYgLyTjVrrbFgeDB9Ud3/XoTH+LLvns8B7vwX7GEZG6/VYn8LO9uHB6pPE+X+MeYxXXMJVyOAHsffXxnIV+wYKEiowS300UoidAdc14dBIMdRhsAsRZYidEN4/VT8DOartCJqUCb5GRp8yQ6dWSE/L+6fMF64f02WKos+DyYb1kSVwAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/saschaballweg",
+  "personId": 782,
+  "classes": [
+    {
+      "id": 80,
+      "label": "Fall 2016",
+      "season": "Fall",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2016",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Sascha Ballweg",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Product Manager - TeamViewer AI",
+      "company": "TeamViewer",
+      "companyUrl": "https://www.linkedin.com/company/teamviewer",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-02",
+      "end": null,
+      "dateRange": "Feb 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "TradeLink",
+      "companyUrl": "https://www.linkedin.com/company/tradelinkcompany",
+      "description": null,
+      "location": null,
+      "start": "2022-05",
+      "end": "2024-02",
+      "dateRange": "May 2022 – Feb 2024",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "Unlocking the potential of Celonis in Accounts Receivable",
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-05",
+      "dateRange": "Oct 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": null,
+      "start": "2020-11",
+      "end": "2021-10",
+      "dateRange": "Nov 2020 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Data Scientist | Solution Engineering",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2019-03",
+      "end": "2020-11",
+      "dateRange": "Mar 2019 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Venture Capital Analyst",
+      "company": "Plug and Play Tech Center",
+      "companyUrl": "https://www.linkedin.com/company/plug-and-play-tech-center",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-04",
+      "end": "2018-12",
+      "dateRange": "Apr 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Visiting Strategy & Innovation Consultant",
+      "company": "Detecon Inc. USA",
+      "companyUrl": "https://www.linkedin.com/company/detecon",
+      "description": null,
+      "location": "San Francisco, California",
+      "start": "2017-09",
+      "end": "2018-02",
+      "dateRange": "Sep 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "External Student Consultant",
+      "company": "Airbus",
+      "companyUrl": "https://www.linkedin.com/company/airbusgroup",
+      "description": "Product Development | co-developed a new digital product from Ideation to MVP",
+      "location": null,
+      "start": "2016-10",
+      "end": "2017-01",
+      "dateRange": "Oct 2016 – Jan 2017",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Gustoso Gruppe GmbH",
+      "companyUrl": "https://www.linkedin.com/company/gustosogruppegmbh",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2015-10",
+      "end": "2016-08",
+      "dateRange": "Oct 2015 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "Sushi.Wrap GmbH | Co-Founder of an IoT-Company",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2014-11",
+      "end": "2015-09",
+      "dateRange": "Nov 2014 – Sep 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Management & Technology",
+      "dateRange": null
+    },
+    {
+      "school": "City University of Hong Kong",
+      "degree": "College of Business, Exchange semester",
+      "dateRange": null
+    },
+    {
+      "school": "Universidad Nacional del Litoral",
+      "degree": "School of Economics, Summer School Program",
+      "dateRange": null
+    },
+    {
+      "school": "Karlsruhe University of Applied  Sciences",
+      "degree": "Bachelor of Science (B.Sc.) , Business Administration and Engineering",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Künstliche Intelligenz (KI)",
+    "Software as a Service (SaaS)",
+    "Softwareentwicklung",
+    "Product Management",
+    "Product Marketing",
+    "Product Analytics",
+    "Product Discovery",
+    "Product Strategy",
+    "A/B Testing",
+    "User Experience (UX)",
+    "Leadership",
+    "Analytical Skills",
+    "Product Launch",
+    "Scrum",
+    "Data Analysis",
+    "Competitive Analysis",
+    "Quantitative Analytics",
+    "Key Performance Indicators",
+    "Produktentwicklung",
+    "Business Development"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "TeamViewer",
+    "tagline": "Creating a world that works better",
+    "description": "TeamViewer provides a Digital Workplace platform that connects people with technology – enabling, improving and automating digital processes to make work work better.\n\nIn 2005, TeamViewer started with software to connect to computers from anywhere to eliminate travel and enhance productivity. It rapidly became the de facto standard for remote access and support and the preferred solution for hundreds of millions of users across the world to help others with IT issues. Today, more than 635,000 customers across industries rely on TeamViewer to optimize their digital workplaces - from small to medium sized businesses to the world’s largest enterprises - empowering both desk-based employees and frontline workers. Organizations use TeamViewer’s solutions to prevent and resolve disruptions with digital endpoints of any kind, securely manage complex IT and industrial device landscapes, and enhance processes with augmented reality powered workflows and assistance - leveraging AI and integrating seamlessly with leading tech partners. Against the backdrop of global digital transformation and challenges like shortage of skilled labor, hybrid working, accelerated data analysis and the rise of new technologies, TeamViewer’s solutions offer a clear value add by increasing productivity, reducing machine downtime, speeding up talent onboarding, and improving customer and employee satisfaction.\nThe company is headquartered in Göppingen, Germany, and employs around 1,900 people globally. In 2025, TeamViewer achieved a revenue of around EUR 768 million. TeamViewer SE (TMV) is listed at Frankfurt Stock Exchange and belongs to the MDAX. Further information can be found at www.teamviewer.com.\n\nImprint:\n\nTeamViewer Germany GmbH \nBahnhofsplatz 2 \n73033 Göppingen\nGermany \n\nCEO: Oliver Steil\nCFO: Michael Wilkens\nCRO: Mark Banfield\nCPTO: Mei Dent\nRegistration: Ulm HRB 534075\nVAT: DE245838579",
+    "industry": "Software Development",
+    "website": "http://www.teamviewer.com",
+    "linkedInUrl": "https://www.linkedin.com/company/teamviewer",
+    "employeeCount": 2745,
+    "foundedYear": null,
+    "location": "Göppingen, Germany",
+    "specialities": [
+      "Remote Control Software",
+      "Remote Monitoring Solutions",
+      "Augmented Reality"
+    ]
+  }
+}

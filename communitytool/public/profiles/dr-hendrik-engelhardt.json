@@ -1,0 +1,125 @@
+{
+  "id": "dr-hendrik-engelhardt",
+  "name": "Dr. Hendrik Engelhardt",
+  "headline": "Leading complex M&A transactions across Automotive & Industrials",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-hendrik-engelhardt",
+  "personId": 1596,
+  "classes": [
+    {
+      "id": 53,
+      "label": "Spring 2003",
+      "season": "Spring",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Hendrik Engelhardt",
+  "ca": null,
+  "summary": "Hendrik specializes in large and complex transformation, M&A and carve-out programs for more than a decade. He advises large corporations as well as midsize businesses and financial investors across industries to close their transactions and realize the full value-potential. Hendrik closed numerous M&A and carve-out transactions with focus on managing the overall transaction, developing the equity story, financial & strategic planning, refinancing, carve-out preparations, ensuring day-1/stand-alone readiness as well as TSA/SPA negotiations. Prior to joining AlixPartners, he was member of the management team of Roland Berger and Deloitte. Hendrik studied business administration at Munich School of Management and has a PhD in entrepreneurial finance from Georg-August University in Göttingen, Germany.",
+  "positions": [
+    {
+      "title": "Partner",
+      "company": "AlixPartners",
+      "companyUrl": "https://www.linkedin.com/company/alixpartners",
+      "description": "Empowering clients in highly distressed situations to restructure and transform their business",
+      "location": null,
+      "start": "2020-03",
+      "end": null,
+      "dateRange": "Mar 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Director",
+      "company": "Deloitte",
+      "companyUrl": "https://www.linkedin.com/company/deloitte",
+      "description": null,
+      "location": null,
+      "start": "2016-08",
+      "end": "2020-03",
+      "dateRange": "Aug 2016 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Principal",
+      "company": "Roland Berger",
+      "companyUrl": "https://www.linkedin.com/company/rolandberger",
+      "description": "Restructuring & Corporate Finance",
+      "location": null,
+      "start": "2010-07",
+      "end": "2016-07",
+      "dateRange": "Jul 2010 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Manager Corporate Finance",
+      "company": "KPMG Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/kpmg-deutschland",
+      "description": null,
+      "location": null,
+      "start": "2005-10",
+      "end": "2010-06",
+      "dateRange": "Oct 2005 – Jun 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Business Administration",
+      "dateRange": "2005"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2002 – 2004"
+    },
+    {
+      "school": "The University of Göttingen",
+      "degree": "Doctorate Degree, Economics",
+      "dateRange": "2006 – 2010"
+    }
+  ],
+  "skills": [
+    "Corporate Finance",
+    "Restructuring",
+    "M&A",
+    "Finanzanalysen",
+    "Turnaround-Management",
+    "Unternehmensbewertung"
+  ],
+  "languages": [],
+  "company": {
+    "name": "AlixPartners",
+    "tagline": "When it really matters.",
+    "description": "For more than forty years, AlixPartners has helped businesses around the world respond quickly and decisively to their most critical challenges – circumstances as diverse as urgent performance improvement, accelerated transformation, complex restructuring and risk mitigation.\n\nThese are the moments when everything is on the line – a sudden shift in the market, an unexpected performance decline, a time-sensitive deal, a fork-in-the-road decision. But it’s not what we do that makes a difference, it’s how we do it. \n\nTackling situations when time is of the essence is part of our DNA – so we adopt an action-oriented approach at all times. We work in small, highly qualified teams with specific industry and functional expertise, and we operate at pace, moving quickly from analysis to implementation. We stand shoulder to shoulder with our clients until the job is done, and only measure our success in terms of the results we deliver.\n\nOur approach enables us to help our clients confront and overcome truly future-defining challenges. We partner with you to make the right decisions and take the right actions. And we are right by your side. When it really matters.\n\nRecent Awards & Recognition:\n- Best Firm to Work For – Consulting Magazine, 2023\n- Best Places to Work For LGBTQ+ Equality – Human Rights Campaign, 2022\n- Best Management Consulting Firms – Forbes, 2021\n- Ranked in the Top 10 in UHLALA Group’s Pride Index",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.alixpartners.com",
+    "linkedInUrl": "https://www.linkedin.com/company/alixpartners",
+    "employeeCount": 3859,
+    "foundedYear": null,
+    "location": "New York, United States",
+    "specialities": [
+      "Performance Improvement",
+      "Investigations, Disputes & Risk",
+      "Turnaround & Restructuring",
+      "Technology & Digital",
+      "Transformative Leadership",
+      "Economics Consulting",
+      "Revenue and Growth",
+      "Supply Chain",
+      "Mergers and Acquisitions"
+    ]
+  }
+}

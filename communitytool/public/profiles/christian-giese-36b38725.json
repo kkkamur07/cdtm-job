@@ -1,0 +1,159 @@
+{
+  "id": "christian-giese-36b38725",
+  "name": "Christian Giese",
+  "headline": "Owner at Code and Concept",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christian-giese-36b38725",
+  "personId": 1591,
+  "classes": [
+    {
+      "id": 53,
+      "label": "Spring 2003",
+      "season": "Spring",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christian Giese",
+  "ca": null,
+  "summary": "A work life and a human being in too few words. Never fully described, always up to interpretation...\n\nThe IT identity:\n* First computer: Schneider CPC6128(ZX80)\n* Current: an SGI O2 casemod (isn't she a beaut'?)\n* \"Windows or Linux?\" - Windows _and_ Linux. And OS/2. And a bit of OS X\n* Linux Flavour: depending on use case, prefers debian and SLES\n* \"VMWare, XEN or HyperV?\" - Prefers VMWare for its mgmt tools\n* Programming: Back in the day, Pascal and some C/C++. Now Java, mostly. Not a fan of loosely typed languages (has been known to call PHP a \"hole punch for websites\"). Codes a lot less, recently\n* Software: likes OSS a lot but also sees the sense in professional, \"paid for\" code. Believes that almost every SW should have a plug-in/extension API and standard interfaces\n* Favourite \"work\" software pieces: Novell Vibe, Firefox, ShareOnVibe, Novell Vibe, Thunderbird, PuTTY, mstsc, Novell Vibe, IrfanView, Novell Vibe, ShareOnVibe. No, seriously: There's not much Vibe can't do (with or without a little \"nudging\") - a personal, free Kablink Vibe (or the free 10-User Novell Vibe ;) ) is a wonderful thing to have, especially with ShareOnVibe to dump things into it\n* Important topics: Collaboration, Security, Privacy, Interoperability, Project Sanity, Software Sanity\n\nThe person:\nCo-founder and -owner of Code and Concept. Systems integrator. Loves to make things work. Aims to make things happen. Has an eye (and memory) for detail. Solution Architect. Listens. Fixes things. Attacks challenges from different directions simultaneously. Likes the challenge as much as the solution. Likes multi-tasking as well as perfectly focused flow. Information junkie. Detests aggressive lock-in. Believer in \"after a certain limit, making things easier to use leads only to lazier, dumber users (a vicious cycle)\". Hungry for knowledge about almost any and all subjects. Likes language, ambiguousness, puns, Terry Pratchett and Jasper Fforde. Moves in the fresh air a lot. Mines. Crafts.\n\nSpecialties: Novell Vibe, Kablink Vibe, Systems Integration, System Administration, Problem Solving, Collaboration, Listening and Comprehending, Windows, Linux, Debugging Systems, Debugging Interoperability, IT Security, Data Protection",
+  "positions": [
+    {
+      "title": "Owner",
+      "company": "Code and Concept",
+      "companyUrl": "https://www.linkedin.com/company/code-and-concept",
+      "description": "Management and Leadership of Code and Concept including its brands and products, like co3-tools and ShareOnVibe",
+      "location": null,
+      "start": "2007-11",
+      "end": null,
+      "dateRange": "Nov 2007 – Present",
+      "current": true
+    },
+    {
+      "title": "Freelance IT Specialist",
+      "company": "Christian Giese IT Service",
+      "companyUrl": null,
+      "description": "Systems Integration, Development, System Administration, Support",
+      "location": null,
+      "start": "2007-04",
+      "end": "2008-12",
+      "dateRange": "Apr 2007 – Dec 2008",
+      "current": false
+    },
+    {
+      "title": "Freelance Java Developer",
+      "company": "Garderos",
+      "companyUrl": "https://www.linkedin.com/company/garderos-gmbh",
+      "description": "Java web application development | Spring/AppFuse",
+      "location": null,
+      "start": "2006-07",
+      "end": "2007-11",
+      "dateRange": "Jul 2006 – Nov 2007",
+      "current": false
+    },
+    {
+      "title": "System Administrator & IT Consultant",
+      "company": "Freelance / IT Service",
+      "companyUrl": null,
+      "description": "System Administration and IT Consulting for Deutsche Aerzte Finanz Repraesentanz Munich and SamFilm GmbH, Munich",
+      "location": null,
+      "start": "2004-01",
+      "end": "2004-12",
+      "dateRange": "Jan 2004 – Dec 2004",
+      "current": false
+    },
+    {
+      "title": "System Administrator",
+      "company": "Infineon AG",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": "Strategy, Design, Administration, and Development of the global Lotus Notes/Domino infrastructure",
+      "location": null,
+      "start": "2001-06",
+      "end": "2005-08",
+      "dateRange": "Jun 2001 – Aug 2005",
+      "current": false
+    },
+    {
+      "title": "System Administrator",
+      "company": "Siemens Business Services GmbH & Co OHG",
+      "companyUrl": null,
+      "description": "Administration and development of the global Lotus Notes/Domino infrastructure",
+      "location": null,
+      "start": "1998-10",
+      "end": "2001-06",
+      "dateRange": "Oct 1998 – Jun 2001",
+      "current": false
+    },
+    {
+      "title": "International Intern (System Administration)",
+      "company": "Siemens PLC",
+      "companyUrl": null,
+      "description": "Evaluation of Windows NT 5.0 for use as client O/S for Siemens PLC UK",
+      "location": null,
+      "start": "1998-04",
+      "end": "1998-07",
+      "dateRange": "Apr 1998 – Jul 1998",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diplom-Informatiker, Computer Science",
+      "dateRange": "2000 – 2007"
+    },
+    {
+      "school": "UC Berkeley, SIMS",
+      "degree": "Visiting Scholar, Information Management and Systems",
+      "dateRange": "2005"
+    },
+    {
+      "school": "CDTM Munich",
+      "degree": "Certificate in Technology Management, Technology Management",
+      "dateRange": "2003 – 2005"
+    },
+    {
+      "school": "Siemens Technik Akademie München",
+      "degree": "Staatlich geprüfter Industrietechnologe für Kommunikationstechnik Fachrichtung Datentechnik",
+      "dateRange": "1996 – 1998"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Software Development",
+    "Strategic Planning",
+    "Novell Vibe",
+    "Collaboration Solutions",
+    "System Administration",
+    "Systems Integration",
+    "Kablink Vibe",
+    "Solution Architect",
+    "ShareOnVibe",
+    "Windows",
+    "Linux",
+    "Httpd",
+    "Debugging Systems",
+    "Finding the Problem",
+    "Creative Catalyst",
+    "Brainstorming",
+    "Seeing the Bigger Picture",
+    "User Experience",
+    "Human Factors"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": null
+}

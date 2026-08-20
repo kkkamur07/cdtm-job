@@ -1,0 +1,174 @@
+{
+  "id": "benjamin-loehner-294411109",
+  "name": "Benjamin Löhner",
+  "headline": "Software Engineer at Google",
+  "avatar": {
+    "sm": "/avatars/benjamin-loehner-294411109-sm.webp",
+    "lg": "/avatars/benjamin-loehner-294411109.webp",
+    "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAADQBACdASogACAAPsFIoEunpCMht/qoAPAYCWMAAVB1yfmmXoKpRUogmk0uNvyNAAD+/bulr0xnO+9xa/eCRole/NreRQm98ObBdzzzeodhLggBbLJi+17NpLOvQdPJay4Zagx1QS9q3aZePEkw6M+rMZ9m2Vad2e6ACBVFhkoTuim9+Uv9QMKRj7nA7bMljdve8d5mt/7MI8qmGuf3A2V0zMYdQAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/benjamin-loehner-294411109",
+  "personId": 1120,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Benjamin Löhner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-06",
+      "end": null,
+      "dateRange": "Jun 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer (Working Student)",
+      "company": "Intel Corporation",
+      "companyUrl": "https://www.linkedin.com/company/intel-corporation",
+      "description": "Development of data pipelines to aid ”Design for Test” in the context of 5G modem production.",
+      "location": "Neubiberg, Bavaria, Germany",
+      "start": "2019-04",
+      "end": "2019-09",
+      "dateRange": "Apr 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Research And Teaching Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Tutor for ”Introduction to Computer Networks and Distributed Systems”. Conducted weekly lecture review & exercise sessions, and contributed to exam correction.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-04",
+      "end": "2018-10",
+      "dateRange": "Apr 2018 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "ElectricLife Pty Ltd.",
+      "companyUrl": null,
+      "description": "Development of the Android App \"PetReboot\".",
+      "location": "Tweed Heads, New South Wales, Australia",
+      "start": "2015-11",
+      "end": "2018-11",
+      "dateRange": "Nov 2015 – Nov 2018",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "LEAPIN Digital Keys",
+      "companyUrl": "https://www.linkedin.com/company/digitalkeys-co",
+      "description": "Development of a templating framework to automatically generate hotel information apps.",
+      "location": "Gold Coast, Queensland, Australia",
+      "start": "2015-07",
+      "end": "2015-09",
+      "dateRange": "Jul 2015 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Thüga SmartService",
+      "companyUrl": "https://www.linkedin.com/company/th-ga-smartservice-gmbh",
+      "description": "Development of Java applications to optimize internal workflows.",
+      "location": "Naila, Bavaria, Germany",
+      "start": "2015-07",
+      "end": "2015-09",
+      "dateRange": "Jul 2015 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": "Short work placement at SAP Headquarters in Walldorf with a focus on training in project management, job applications, programming and software development.",
+      "location": "Walldorf, Baden-Württemberg, Germany",
+      "start": "2014-10",
+      "end": "2014-10",
+      "dateRange": "Oct 2014 – Oct 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Informatics",
+      "dateRange": "2016 – 2020"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Android",
+    "Python",
+    "Mobile Applications",
+    "Object-Oriented Programming (OOP)",
+    "Data Structures",
+    "Web Development",
+    "SQL",
+    "Git",
+    "LaTeX",
+    "Linux",
+    "OCaml",
+    "C++",
+    "C (Programming Language)",
+    "JavaScript",
+    "Agile Methodologies"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Google",
+    "tagline": null,
+    "description": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.\n\nCheck out our career opportunities at goo.gle/3DLEokh",
+    "industry": "Software Development",
+    "website": "https://goo.gle/3DLEokh",
+    "linkedInUrl": "https://www.linkedin.com/company/google",
+    "employeeCount": 341631,
+    "foundedYear": null,
+    "location": "Mountain View, United States",
+    "specialities": [
+      "search",
+      "ads",
+      "mobile",
+      "android",
+      "online video",
+      "apps",
+      "machine learning",
+      "virtual reality",
+      "cloud",
+      "hardware",
+      "artificial intelligence",
+      "youtube",
+      "software"
+    ]
+  }
+}

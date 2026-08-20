@@ -1,0 +1,171 @@
+{
+  "id": "joseph-gawlik",
+  "name": "Joseph Gawlik",
+  "headline": "In Ausbildung/Studium: LMU",
+  "avatar": {
+    "sm": "/avatars/joseph-gawlik-sm.webp",
+    "lg": "/avatars/joseph-gawlik.webp",
+    "blur": "data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAABwBgCdASogACAAPtFYpE0oJSMiMBgIAQAaCWYAnTKAJbNKIVf1fb2qsJ62oiZM9ePkHW+bNdJyFrB57qgA/vunXZEcxdCysDkY/OrCZaD9/vNeOMydOrmfJXmMjwZHdN0cbwrXrjCW2G5sbjyU/JyfQGDwwyPKQIMYPM7P7w+PazxtbgmUqII+fXnkMPLD/fX0zjjfY/DAMcmXoGD8cS/ZPvU/Q8Us5uyK6J2XBo/Y34P8vw5TDQ6Z5i8gd6aMF/qB6WRkNe9shxooX0R/NyVmlPhkk3LnOERQ9anqDvQGC3Cg/+Xc3de2CQOXcNIFrKzePUa8waNlgf9v+cIshTugLvYkgJBnz9u2Rg19OpMoFQpZN8lfDZLTnTq+LXj7or7FQTwisFeZDt7+4AA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/joseph-gawlik",
+  "personId": 2115,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Data Science Elite Course",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Joseph Gawlik",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Working Student AI Lab",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "- Created an interactive tool for internal and external communication regarding AI Use Cases of Siemens\n- Organized and facilitated networking events connecting data science professionals with Siemens' industrial partners",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-11",
+      "end": "2025-04",
+      "dateRange": "Nov 2024 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "Data Consulting",
+      "company": "SAAS Berkeley",
+      "companyUrl": "https://www.linkedin.com/company/saasberkeley",
+      "description": null,
+      "location": "Berkeley, California, United States",
+      "start": "2022-09",
+      "end": "2022-12",
+      "dateRange": "Sep 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Intern of Data & Analytics",
+      "company": "Munich Re",
+      "companyUrl": "https://www.linkedin.com/company/munich-re",
+      "description": "- Support of a Munich Re innovation project on the use of artificial intelligence in primary insurance business processes.\n- Further development of machine learning pipelines in the field of NLP and computer vision using Azure DevOps, Gitlab, and Docker. \n- Co-development of an annotation method for information extraction from non-standardized documents, including annotation guide, annotation tools, and automated evaluation. \n- Modification of fine-tuning workflow of machine learning models for named entity recognition and\ninstance segmentation. \n- Development of APIs and corresponding user interfaces using current\nframeworks, in particular Swagger, RapiDoc, and Streamlit.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-05",
+      "end": "2022-08",
+      "dateRange": "May 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Network Analysis Researcher",
+      "company": "University of California, Berkeley",
+      "companyUrl": "https://www.linkedin.com/company/uc-berkeley",
+      "description": "Analysis of efforts of San Mateo and San Joaquin County to increase connectivity between schools and environmental organizations.",
+      "location": "Berkeley, California, United States",
+      "start": "2022-02",
+      "end": "2022-05",
+      "dateRange": "Feb 2022 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Insights and Analytics Committee Member",
+      "company": "SAAS Berkeley",
+      "companyUrl": "https://www.linkedin.com/company/saasberkeley",
+      "description": null,
+      "location": "Berkeley, California, United States",
+      "start": "2022-01",
+      "end": "2022-05",
+      "dateRange": "Jan 2022 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Career Exploration Committee Member",
+      "company": "SAAS Berkeley",
+      "companyUrl": "https://www.linkedin.com/company/saasberkeley",
+      "description": null,
+      "location": "Berkeley, California, United States",
+      "start": "2021-09",
+      "end": "2022-02",
+      "dateRange": "Sep 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "San Diego State University",
+      "companyUrl": "https://www.linkedin.com/company/san-diego-state-university",
+      "description": "Research at the Coastal Marine Institute Laboratory",
+      "location": "San Diego, California, United States",
+      "start": "2021-06",
+      "end": "2021-08",
+      "dateRange": "Jun 2021 – Aug 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science, Data Science",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Bachelor's degree, Data Science",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management (Honors Degree)",
+      "dateRange": "2025"
+    }
+  ],
+  "skills": [
+    "English",
+    "German",
+    "Python (Programming Language)",
+    "Pandas (Software)",
+    "NumPy",
+    "Research",
+    "Leadership",
+    "Java"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Siemens",
+    "tagline": "We create technology to transform the everyday, for everyone.",
+    "description": "Siemens AG (Berlin and Munich) is a leading technology company focused on industry, infrastructure, mobility, and healthcare. The company’s purpose is to create technology to transform the everyday, for everyone. By combining the real and the digital worlds, Siemens empowers customers to accelerate their digital and sustainability transformations, making factories more efficient, cities more livable, and transportation more sustainable. A leader in industrial AI, Siemens leverages its deep domain know-how to apply AI – including generative AI – to real-world applications, making AI accessible and impactful for customers across diverse industries. Siemens also owns a majority stake in the publicly listed company Siemens Healthineers, a leading global medical technology provider pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably. In fiscal 2025, which ended on September 30, 2025, the Siemens Group generated revenue of €78.9 billion and net income of €10.4 billion. As of September 30, 2025, the company employed around 318,000 people worldwide on the basis of continuing operations.",
+    "industry": "Automation Machinery Manufacturing",
+    "website": "http://www.siemens.com",
+    "linkedInUrl": "https://www.linkedin.com/company/siemens",
+    "employeeCount": 263989,
+    "foundedYear": 1847,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Electrification",
+      "Automation",
+      "Digitalization",
+      "Innovation",
+      "Technology",
+      "Engineering",
+      "Manufacturing",
+      "Artificial Intelligence",
+      "Internet of Things",
+      "Cybersecurity",
+      "Infrastructure",
+      "Sustainability",
+      "Digital Twin",
+      "Metaverse",
+      "Transport",
+      "Smart Buildings"
+    ]
+  }
+}

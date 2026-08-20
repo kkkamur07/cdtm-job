@@ -1,0 +1,171 @@
+{
+  "id": "leonhergert",
+  "name": "Leon Hergert",
+  "headline": "CEO @ Spherecast | Supply Chain Enthusiast",
+  "avatar": {
+    "sm": "/avatars/leonhergert-sm.webp",
+    "lg": "/avatars/leonhergert.webp",
+    "blur": "data:image/webp;base64,UklGRgABAABXRUJQVlA4IPQAAACwBQCdASogACAAPtFYpEyoJSOiKA1RABoJYwDCgYvFLbYz5XYePsmfBiKzmZJwRG9ZPOdhbtgA/v4w476lAG9+QF9N8+iNsyHsHBMR5m0RV+O3BM6R9G8nrcpDSEY/BTPMXo2xHM7jyafVRin0w3k+mCG6JLN3O41lO5fA7gmZ6HG5imiBh1WSl2yIk6y+yXvTSk9PI+1IbyyQuJAmKzGAEmaKH80Qkyzngegb+sqKYl8+r2rED/gUFyKYNkfk2c1Lkc2Gb+Pn3Tk9OtGQzxP2BkdeuH5OcdLzZbK1DU5VtYPJgntbPeGmBebRLrBOUHL0VAAA"
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/leonhergert",
+  "personId": 1201,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Leon Hergert",
+  "ca": null,
+  "summary": "Co-Founder of Spherecast. Passionate about supply chain & optimization.\n\nWe're hiring! spherecast.ai/join",
+  "positions": [
+    {
+      "title": "Fellow",
+      "company": "EWOR",
+      "companyUrl": "https://www.linkedin.com/company/ewor",
+      "description": "EWOR is an education-focused early backer of the world’s greatest talent, helping\nthem to launch tech & product businesses on an international scale.",
+      "location": null,
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Spherecast (YC S24)",
+      "companyUrl": "https://www.linkedin.com/company/spherecast-ai",
+      "description": "Spherecast is an AI-native supply chain manager for CPG brands that turns planning and simulation into autonomous execution across purchases, transfers, and production.",
+      "location": null,
+      "start": "2023-08",
+      "end": null,
+      "dateRange": "Aug 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Management",
+      "company": "YEARS",
+      "companyUrl": "https://www.linkedin.com/company/years-group",
+      "description": "Development and design of a mobile app for health monitoring and preventive health check-ups.",
+      "location": null,
+      "start": "2022-05",
+      "end": "2023-02",
+      "dateRange": "May 2022 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Product Management",
+      "company": "Hive",
+      "companyUrl": "https://www.linkedin.com/company/hive-logistics",
+      "description": "Led user research, planning, and shipping of a freight booking feature in the merchant app.\n\nDefined product strategy, planned roadmap & data initiatives, conducted technical & market research, led technical knowledge sessions and customer interviews for a machine learning feature in the merchant app.",
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-03",
+      "dateRange": "Jan 2022 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Technology Strategy",
+      "company": "Deloitte",
+      "companyUrl": "https://www.linkedin.com/company/deloitte",
+      "description": "Designed and implemented IT-Governance processes for an IT department at a German automotive manufacturer and expanded the data science offering to extend the product portfolio.",
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-02",
+      "dateRange": "Jan 2021 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Data Science",
+      "company": "Lufthansa Technik",
+      "companyUrl": "https://www.linkedin.com/company/lufthansa-technik",
+      "description": "Developed software to predict aircraft component inventory needs to improve global inventory accuracy and performed time series analysis, time series forecasts, and data analysis to enable precise material sourcing.",
+      "location": null,
+      "start": "2019-08",
+      "end": "2019-12",
+      "dateRange": "Aug 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "INTEGRA e.V. - Student Management Consultancy",
+      "companyUrl": "https://www.linkedin.com/company/integra-e-v---studentische-unternehmensberatung",
+      "description": "Led and conducted consulting projects in the area of product management for an object tracking software provider, process management and -modeling for a cybersecurity firm, and marketing for a computer vision startup.",
+      "location": null,
+      "start": "2018-09",
+      "end": "2020-12",
+      "dateRange": "Sep 2018 – Dec 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Y Combinator",
+      "degree": "S24",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M. Sc.), Information Systems",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "Korea University",
+      "degree": "Information Systems",
+      "dateRange": "2021"
+    },
+    {
+      "school": "University of Mannheim",
+      "degree": "Bachelor of Science (B. Sc.), Information Systems",
+      "dateRange": "2018 – 2021"
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Java",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Analytics",
+    "Machine Learning",
+    "Software Development",
+    "Project Management",
+    "Microsoft PowerPoint",
+    "Consulting",
+    "Data Analysis",
+    "Python",
+    "R",
+    "Produktmanagement",
+    "Maschinelles Lernen"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Spherecast (YC S24)",
+    "tagline": "The AI Supply Chain Manager for Omni-Channel CPG Brands",
+    "description": "Spherecast is your AI colleague for demand forecasting, supply optimization, and fully automated execution across your entire supply chain. No spreadsheets. No extra headcount.",
+    "industry": "Software Development",
+    "website": "http://www.spherecast.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/spherecast-ai",
+    "employeeCount": 9,
+    "foundedYear": 2023,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "bendeguz-gati-ab19a6115",
+  "name": "Bendeguz Gati",
+  "headline": "Co-Founder @ Preisenergie - we're hiring!",
+  "avatar": {
+    "sm": "/avatars/bendeguz-gati-ab19a6115-sm.webp",
+    "lg": "/avatars/bendeguz-gati-ab19a6115.webp",
+    "blur": "data:image/webp;base64,UklGRj4BAABXRUJQVlA4IDIBAAAQBwCdASogACAAPtFcqk2oJSQiKAqpABoJbACdOUFVvjdSASySOXU0aDyKIQiBKnRYUmtH8aoyjdBH+gAoQ8mh4AD+wExA5tqlhfQbHyKr9bf/DJ3+NVxBYSaZjE3wc09kBNV79oSy9vOjN24pXNILOjKX6X8KI1MD0u2tzfVQ6T3q5fPcBiW0uaXzvBtmnnULDOXpq5Pskl6fKm7Peeq+b8T0YIGK720YONzFX4RxrS54LsbeRdD1SGM+Mc+bo80SfbueZyBsD5A3BVXrE+9GRaPlW7ja00at9xzOSZIOmMAbZ6dK3+Sg5z3pxn7ORyBEYeAbYS1M2flRH9MzGOLlmRAMQH/5w9thfbo/ZRPPW0GdALWWvpI0nwdgCnHLRduXjg4RK8NwR2HxQixZPn2MAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/bendeguz-gati-ab19a6115",
+  "personId": 1193,
+  "classes": [
+    {
+      "id": 72,
+      "label": "Fall 2012",
+      "season": "Fall",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2012",
+  "major": "Technical and Management oriented Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Bendeguz Gati",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Preisenergie",
+      "companyUrl": "https://www.linkedin.com/company/preisenergie",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2016-06",
+      "end": null,
+      "dateRange": "Jun 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Consulting Student",
+      "company": "BearingPoint",
+      "companyUrl": "https://www.linkedin.com/company/bearingpoint",
+      "description": "Joint consulting project with HEC Paris\nSustainability and risk management in supply chains",
+      "location": null,
+      "start": "2015-01",
+      "end": "2015-01",
+      "dateRange": "Jan 2015 – Jan 2015",
+      "current": false
+    },
+    {
+      "title": "Graduate assistant",
+      "company": "Center for Entrepreneurial and Financial Studies, TU München",
+      "companyUrl": "https://www.linkedin.com/company/center-for-entrepreneurial-and-financial-studies-tu-m-nchen",
+      "description": "Support of share indices DAXplus Family and GEX",
+      "location": null,
+      "start": "2013-10",
+      "end": "2015-07",
+      "dateRange": "Oct 2013 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Project Study",
+      "company": "Schneider Weisse - Private Weissbierbrauerei G. Schneider & Sohn GmbH",
+      "companyUrl": "https://www.linkedin.com/company/schneider-weisse-private-weissbierbrauerei-g-schneider-sohn-gmbh",
+      "description": "Feasibility study and evaluation of moving energy management to new software platform\nImprovement of energy management process of the brewery",
+      "location": null,
+      "start": "2012-12",
+      "end": "2013-05",
+      "dateRange": "Dec 2012 – May 2013",
+      "current": false
+    },
+    {
+      "title": "Student assistant",
+      "company": "Center for Entrepreneurial and Financial Studies, TU München",
+      "companyUrl": "https://www.linkedin.com/company/center-for-entrepreneurial-and-financial-studies-tu-m-nchen",
+      "description": null,
+      "location": null,
+      "start": "2011-08",
+      "end": "2013-09",
+      "dateRange": "Aug 2011 – Sep 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "HEC Paris",
+      "degree": "Master of Science (MSc), Master in Management (Grande Ecole), Sustainable Development",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Management and Technology",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Management and Technology",
+      "dateRange": "2010 – 2013"
+    }
+  ],
+  "skills": [
+    "Microsoft Excel",
+    "Microsoft Office",
+    "PowerPoint",
+    "Teamwork",
+    "Business Development",
+    "Social Entrepreneurship",
+    "Six Sigma",
+    "Qualitätsmanagement",
+    "Supply Chain Management",
+    "Mathematical Modeling",
+    "Project Management"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Preisenergie",
+    "tagline": "With our integrated pricing software, we help energy retailers to set the right price for every customer.",
+    "description": "Preisenergie is a young software company specialized on pricing in the energy sector. We help our customers calculate fair prices for a fully renewable and digital energy system. We model energy prices, simulate millions of alternative prices and choose optimal ones that best fit the goals of our customers (not always profit!). Our prices recover costs of individual consumers' energy consumptions and keep margins low enough to be competitive.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://www.preisenergie.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/preisenergie",
+    "employeeCount": 11,
+    "foundedYear": 2016,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Pricing",
+      "Energiewirtschaft",
+      "Utilities",
+      "Energieversorger",
+      "SaaS",
+      "Data Analytics",
+      "Kundenwert Pricing"
+    ]
+  }
+}

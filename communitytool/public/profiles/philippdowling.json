@@ -1,0 +1,224 @@
+{
+  "id": "philippdowling",
+  "name": "Philipp Dowling",
+  "headline": "AI Research @ Maltego",
+  "avatar": {
+    "sm": "/avatars/philippdowling-sm.webp",
+    "lg": "/avatars/philippdowling.webp",
+    "blur": "data:image/webp;base64,UklGRlIBAABXRUJQVlA4IEYBAACQBgCdASogACAAPtFSoUuoJKMhsAgBABoJbACdMoSBZarED6i09v1X0nJldicUx95rAEqcUOdvuDLTq7AAAM2f1cvo9uXnfs2/1fJVT16FpGL7G7IquH+iKwR0zJjLqt/ignEQRnbiCjkIh9JK7jx6iv81hTtXuQyar9fHLt3CcXSQ+UihV0nr1YXpybt+2h24d8lOTFzRYDVRrlQaykJHOcv8wk1sM/xoHiqwdrTnU7A0MFi4lpVa1mi17BzcA6/MjxZMlm8QXWc58I4jshGLtKPOzz0dkzAt3U7Wtj+oWyPoa6GXPf//6MPnq+gYwo/5t3whIyb2HXuMkN2ZgVAhMyxf+3lVjDvC1iSa+8OY3P2SD1Lc0AG5zm69R4M1SUBGtq9OCejbIvFMsz0b/bWu6/3xbjdG/4OnYIkoR6N3aSuDXuyAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/philippdowling",
+  "personId": 1126,
+  "classes": [
+    {
+      "id": 75,
+      "label": "Spring 2014",
+      "season": "Spring",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2014",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Philipp Dowling",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Head of Intelligence Technology",
+      "company": "Maltego Technologies",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": "Strategy, research and development at the intersection of AI & OSINT",
+      "location": "Germany",
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Freelance Consultant",
+      "company": "Dowling Data Solutions",
+      "companyUrl": null,
+      "description": null,
+      "location": "Germany",
+      "start": "2016-01",
+      "end": null,
+      "dateRange": "Jan 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Product Lead",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": "- Functional lead of the product team\n- Product owner Platform (IAM, API, CLI, Spaces, Git, AI, etc.)\n- Overarching product vision",
+      "location": "Berlin, Berlin, Germany",
+      "start": "2022-01",
+      "end": "2023-09",
+      "dateRange": "Jan 2022 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Maltego Technologies",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": "Integration & data platform, subject-matter expert for corporate data and NLP.",
+      "location": "Munich Area, Germany",
+      "start": "2019-11",
+      "end": "2021-12",
+      "dateRange": "Nov 2019 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "metris.io",
+      "companyUrl": "https://www.linkedin.com/company/metris-io",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2018-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2018 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Cobrainer GmbH",
+      "companyUrl": "https://www.linkedin.com/company/cobrainer",
+      "description": "Deep learning for NLP, graph mining, semantic analysis of expertise data",
+      "location": "Munich Area, Germany",
+      "start": "2016-03",
+      "end": "2018-02",
+      "dateRange": "Mar 2016 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Founding Member",
+      "company": "eleza.org",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2015-11",
+      "end": "2018-01",
+      "dateRange": "Nov 2015 – Jan 2018",
+      "current": false
+    },
+    {
+      "title": "Google Summer of Code 2015 Student for DBpedia Spotlight",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": null,
+      "start": "2015-05",
+      "end": "2015-08",
+      "dateRange": "May 2015 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Iqube Systems",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2013-12",
+      "end": "2014-12",
+      "dateRange": "Dec 2013 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Center for Information and Language Processing at LMU Munich",
+      "companyUrl": null,
+      "description": "Research in statistical NLP and information retrieval with Prof. Hinrich Schütze",
+      "location": null,
+      "start": "2013-08",
+      "end": "2014-05",
+      "dateRange": "Aug 2013 – May 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Researcher, Computer Science",
+      "dateRange": "2017"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher, Computer Science",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honor's Degree, Technology Management",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "The Hong Kong University of Science and Technology",
+      "degree": "Visiting Internship, Computer Science",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Minor for Bachelor's degree, Computational Linguistics",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Computer Science",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "International School of Bremen",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Artificial Intelligence (AI)",
+    "Product Management",
+    "Leadership",
+    "Product Strategy",
+    "Entrepreneurship",
+    "Python",
+    "Identity and Access Management (IAM)",
+    "Data Analysis",
+    "Law Enforcement Intelligence",
+    "Machine Learning",
+    "Product Marketing",
+    "Software Engineering",
+    "Data Mining",
+    "Computer Science",
+    "Deep Learning",
+    "Algorithms",
+    "Project Management",
+    "Web Applications",
+    "Consulting",
+    "Software Development"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Maltego",
+    "tagline": "Maltego is the world’s most used all-in-one intelligence platform for complex cyber investigations.",
+    "description": "Maltego is the world’s most used all-in-one investigation platform that turns complex data into actionable insights in minutes. Used by industry experts, law enforcement, and analysts at major organizations, it brings together all your data in one place, helping you uncover hidden connections with a suite of investigative tools. \n\nWith Maltego, teams can conduct everything from preliminary OSINT investigations to in-depth link analysis of large datasets. The platform also makes it easy to spot threats in real time with social media monitoring and enables the capture of digital evidence before it is altered or removed.\n\nHeadquartered in Munich, Germany, Maltego has grown to over 100 employees and is trusted by 2,000+ government organizations and 4,000+ companies worldwide—including the FBI, INTERPOL, and leading tech and financial firms, including half of the Dow 30.",
+    "industry": "Software Development",
+    "website": "https://www.maltego.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/maltego",
+    "employeeCount": 175,
+    "foundedYear": 2017,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

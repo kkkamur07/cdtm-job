@@ -1,0 +1,194 @@
+{
+  "id": "corneliusthaiss",
+  "name": "Cornelius Thaiss",
+  "headline": "Medical Doctor • Product @ Flatiron Health",
+  "avatar": {
+    "sm": "/avatars/corneliusthaiss-sm.webp",
+    "lg": "/avatars/corneliusthaiss.webp",
+    "blur": "data:image/webp;base64,UklGRh4BAABXRUJQVlA4IBIBAACQBQCdASogACAAPslYpEunpaOhsBgMAPAZCWwAVSPb8UttJ/2Zk/XFLezhO0are+9ycjZeeAD+/jAfjAZU7p4n0uT0OuaqGDeo7lfVhDdwLfvLqqbQQBuquJcg98HMBW+wPBcU/rJvr3PZfZjr/J65PnX44uqWGYliHrAJwI/Q8CSQWIx0v35c/GvZEWLywHt5ze8Ksv3fqBXd0rgvfCfycOfFivoB9FBXwbkR8rp2IsqGHnHrjuZxu9zmp2DStEcSWebJ1Tp0w+RBOOS5hiiIu/AXK1q9V8rNFM6hwV0H0aKqtb6hm5Gkbk8zl1qzA7NdVtwUCgvRsh7X/Sk2xSq52Q+dZohTYt7/hW/RrGRDAAAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/corneliusthaiss",
+  "personId": 745,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Medicine",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Cornelius Thaiss",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Data Product Manager",
+      "company": "Flatiron Health",
+      "companyUrl": "https://www.linkedin.com/company/flatiron-health",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Avi Medical",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2021 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Founders Associate",
+      "company": "Avi Medical",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Clinical Trainee in Radiotherapy & Oncology",
+      "company": "LMU Klinikum der Universität München Campus Innenstadt",
+      "companyUrl": "https://www.linkedin.com/company/lmu-klinikum",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Massachusetts General Hospital",
+      "companyUrl": "https://www.linkedin.com/company/massachusetts-general-hospital",
+      "description": null,
+      "location": "Boston, Massachusetts, United States",
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Research Fellow",
+      "company": "Harvard University",
+      "companyUrl": "https://www.linkedin.com/company/harvard-university",
+      "description": null,
+      "location": "Cambridge, Massachusetts, United States",
+      "start": "2015-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2015 – Dec 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Medicine",
+      "dateRange": null
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Doctoral studies",
+      "dateRange": null
+    },
+    {
+      "school": "University of Zurich",
+      "degree": "Exchange semester, Medicine",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Digital Strategy",
+    "Oncology",
+    "Business Case Preparation",
+    "Product Requirements",
+    "Startups",
+    "Software Product Management",
+    "Project Planning",
+    "Key Metrics",
+    "Strategic Thinking",
+    "Strategic Planning",
+    "Product Road Mapping",
+    "Team Leadership",
+    "Scrum",
+    "Agile Methodologies",
+    "Data Analysis",
+    "User Experience (UX)",
+    "Communication",
+    "Software Development",
+    "Entrepreneurship",
+    "Product Strategy",
+    "Product Vision",
+    "Attention to Detail",
+    "Analytical Skills",
+    "Product Management",
+    "Medicine",
+    "Healthcare Management",
+    "Project Management",
+    "Life Sciences",
+    "Business Strategy",
+    "Research",
+    "Healthcare Information Technology (HIT)",
+    "Public Health",
+    "Hospitals",
+    "Bioinformatics",
+    "Genomics",
+    "Healthcare",
+    "Automation",
+    "Technology Management",
+    "Laboratory Research",
+    "Medical Device Regulation",
+    "Single Cell Sequencing",
+    "Strategy",
+    "RNAseq",
+    "eHealth",
+    "Fhir",
+    "Fast Healthcare Interoperability Resources (FHIR)",
+    "Product Development",
+    "Digital Product Development",
+    "Medical Device Product Development"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Flatiron Health",
+    "tagline": "Reimagining the infrastructure of cancer care",
+    "description": "Flatiron Health’s mission is to improve and extend lives by learning from the experience of every person with cancer.",
+    "industry": "Biotechnology Research",
+    "website": "http://www.flatiron.com",
+    "linkedInUrl": "https://www.linkedin.com/company/flatiron-health",
+    "employeeCount": 1472,
+    "foundedYear": null,
+    "location": "New York, United States",
+    "specialities": []
+  }
+}

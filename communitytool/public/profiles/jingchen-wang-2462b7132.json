@@ -1,0 +1,116 @@
+{
+  "id": "jingchen-wang-2462b7132",
+  "name": "Jingchen Wang",
+  "headline": "Freelance at TEAM 20/60",
+  "avatar": {
+    "sm": "/avatars/jingchen-wang-2462b7132-sm.webp",
+    "lg": "/avatars/jingchen-wang-2462b7132.webp",
+    "blur": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAACQBgCdASogACAAPsFKn0unpCKht/qoAPAYCWIAw1T/NQDSfM8q2QwxaN2CC0rTYi2sjgwbYr8YGZN3cS+AAP79LFNNT+AazXP7C63GF/yvAuufss5eUZcGX+jbSAfj6YP8dAoQK5wIQtLVYnzJD7XzmK/frEIdEDlR6AAzJzKI+eP4jI9X7D/qeTQx3a/+7NYazE3CqploHE57Y8yUg8/qVn0zdSVZ942zq5ndgk7EXrDkWvOn4eVflkLAInvHQLVGTZZzGQDqSm+C/EC8wQ5pZQS8VRfOMnN3NFHw8HBUaMObzBd5c62QXsNZ1aj0b30q52LYa8AAAA=="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jingchen-wang-2462b7132",
+  "personId": 750,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jingchen Wang",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Consultant",
+      "company": "成都朝浪教育咨询有限公司",
+      "companyUrl": null,
+      "description": null,
+      "location": "Chengdu, Sichuan, China",
+      "start": "2017-10",
+      "end": null,
+      "dateRange": "Oct 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Freelancer",
+      "company": "TEAM 20/60",
+      "companyUrl": "https://www.linkedin.com/company/team-20-60",
+      "description": null,
+      "location": null,
+      "start": "2016-11",
+      "end": null,
+      "dateRange": "Nov 2016 – Present",
+      "current": true
+    },
+    {
+      "title": "Language Teacher",
+      "company": "朗阁教育集团",
+      "companyUrl": "https://www.linkedin.com/company/朗阁教育集团",
+      "description": null,
+      "location": "Jinan, Shandong, China",
+      "start": "2015-06",
+      "end": "2016-06",
+      "dateRange": "Jun 2015 – Jun 2016",
+      "current": false
+    },
+    {
+      "title": "Intership Editor",
+      "company": "Hujiang",
+      "companyUrl": "https://www.linkedin.com/company/沪江网",
+      "description": null,
+      "location": "Shanghai, China",
+      "start": "2013-02",
+      "end": "2014-02",
+      "dateRange": "Feb 2013 – Feb 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Arts - MA, Deutsch als Fremdsprache",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Shandong University",
+      "degree": "Bachelor of Arts, Germanistik",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "University of Augsburg",
+      "degree": "Ohne Abschluss, Germanistik",
+      "dateRange": "2014 – 2015"
+    }
+  ],
+  "skills": [
+    "English",
+    "Chinese",
+    "Erhu",
+    "Translation ENG-CHN"
+  ],
+  "languages": [],
+  "company": null
+}

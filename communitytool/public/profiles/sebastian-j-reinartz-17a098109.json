@@ -1,0 +1,122 @@
+{
+  "id": "sebastian-j-reinartz-17a098109",
+  "name": "Sebastian J. Reinartz",
+  "headline": "Managing Director at Metric Capital Partners",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/sebastian-j-reinartz-17a098109",
+  "personId": 1854,
+  "classes": [
+    {
+      "id": 62,
+      "label": "Fall 2007",
+      "season": "Fall",
+      "year": 2007,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2007",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Sebastian Reinartz",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Managing Director",
+      "company": "Metric Capital Partners",
+      "companyUrl": "https://www.linkedin.com/company/metric-capital-partners",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2023-07",
+      "end": null,
+      "dateRange": "Jul 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment Director",
+      "company": "Metric Capital Partners",
+      "companyUrl": "https://www.linkedin.com/company/metric-capital-partners",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2018-03",
+      "end": "2023-07",
+      "dateRange": "Mar 2018 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Investment Professional",
+      "company": "EQT Holdings/EQT Partners",
+      "companyUrl": "https://www.linkedin.com/company/eqt-group",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-09",
+      "end": "2018-02",
+      "dateRange": "Sep 2015 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Manager",
+      "company": "Kearney",
+      "companyUrl": "https://www.linkedin.com/company/kearney",
+      "description": null,
+      "location": null,
+      "start": "2009-04",
+      "end": "2015-08",
+      "dateRange": "Apr 2009 – Aug 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dissertation, Dr. rer.pol, Finance",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Managment",
+      "dateRange": "2009"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Technology- and Management-oriented Business Administration",
+      "dateRange": "2009"
+    },
+    {
+      "school": "Max Planck Institute for Physics",
+      "degree": "Dipl. Phys. Univ., Physics",
+      "dateRange": "2007"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl. Phys. Univ., Physics",
+      "dateRange": "2007"
+    }
+  ],
+  "skills": [
+    "M&A",
+    "Private Equity",
+    "Private Debt",
+    "Financing",
+    "Growth",
+    "MBO",
+    "Liquidity",
+    "Succession",
+    "Origination",
+    "DACH",
+    "Special Situations"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": null
+}

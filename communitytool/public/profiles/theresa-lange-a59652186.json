@@ -1,0 +1,185 @@
+{
+  "id": "theresa-lange-a59652186",
+  "name": "Theresa Lange",
+  "headline": "PhD Student & Junior Economist @ ifo Institute and LMU",
+  "avatar": {
+    "sm": "/avatars/theresa-lange-a59652186-sm.webp",
+    "lg": "/avatars/theresa-lange-a59652186.webp",
+    "blur": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAADQBQCdASogACAAPtFcpk6oJSMiKAqpABoJQBb3MYjWbTN5xYlUqJz8B7/62WLcZWnFsc6i914AAP79Kx56h8d8sTt2o0iT0iVzXdU+tnMbeGPD/3PFuqn3mTTiq2mpG1LoJGq3I3NkJwFvrkgu6c75AFU+J4qj3JXYQJg6IoVuYDSccNSnhHBuETqVqPljw9uB7BQ/f/DrUuNmclGnKyEDDkz7DE0E6G9/KgJqXX6WN49XlI0uT/UW9W3R0xHYrAfGPBFXAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/theresa-lange-a59652186",
+  "personId": 1037,
+  "classes": [
+    {
+      "id": 93,
+      "label": "Spring 2023",
+      "season": "Spring",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2023",
+  "major": "Philosophy and Economics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Theresa Lange",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "PhD Student",
+      "company": "ifo Institute – Leibniz Institute for Economic Research",
+      "companyUrl": "https://www.linkedin.com/company/ifo-institute-for-economic-research",
+      "description": "Center for Public Economics",
+      "location": "München",
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Specialist",
+      "company": "ifo Institute – Leibniz Institute for Economic Research",
+      "companyUrl": "https://www.linkedin.com/company/ifo-institute-for-economic-research",
+      "description": "Center for Public Economics\nMicrosimulation of the German Tax and Transfer System",
+      "location": "München",
+      "start": "2025-11",
+      "end": "2026-02",
+      "dateRange": "Nov 2025 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "ifo Institute – Leibniz Institute for Economic Research",
+      "companyUrl": "https://www.linkedin.com/company/ifo-institute-for-economic-research",
+      "description": "Center for Macroeconomics and Surveys",
+      "location": "München, Bayern, Deutschland",
+      "start": "2024-04",
+      "end": "2025-11",
+      "dateRange": "Apr 2024 – Nov 2025",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "ifo Institute – Leibniz Institute for Economic Research",
+      "companyUrl": "https://www.linkedin.com/company/ifo-institute-for-economic-research",
+      "description": "Center for Energy, Climate and Resources",
+      "location": "München",
+      "start": "2024-01",
+      "end": "2024-04",
+      "dateRange": "Jan 2024 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Hilti IT Fellowship Program",
+      "company": "Hilti Group",
+      "companyUrl": "https://www.linkedin.com/company/hilti",
+      "description": null,
+      "location": "Liechtenstein",
+      "start": "2021-02",
+      "end": "2021-06",
+      "dateRange": "Feb 2021 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Studentische Hilfskraft",
+      "company": "FIM Forschungsinstitut für Informationsmanagement",
+      "companyUrl": "https://www.linkedin.com/company/fim-forschungsinstitut",
+      "description": null,
+      "location": "Augsburg, Bayern, Deutschland",
+      "start": "2020-08",
+      "end": "2024-01",
+      "dateRange": "Aug 2020 – Jan 2024",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "PhD Candidate, Economics",
+      "dateRange": "2026"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Economics",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "ENS Paris-Saclay",
+      "degree": "Erasmus, M2 Economics",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Université Paris-Saclay",
+      "degree": "Erasmus, M2 Economics",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Universidad Complutense de Madrid",
+      "degree": "Erasmus, Philosophy, Economics",
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Arts - BA, Philosophie",
+      "dateRange": "2021 – 2026"
+    },
+    {
+      "school": "Digital Leadership Academy",
+      "degree": "Fellowship Holder",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "University of Augsburg",
+      "degree": "Bachelor of Science - BS, Volkswirtschaftslehre",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Universität Liechtenstein",
+      "degree": "Exchange student, Master Information Systems",
+      "dateRange": "2021"
+    },
+    {
+      "school": "University of Augsburg",
+      "degree": "Bachelor of Science - BS, Global Business Management",
+      "dateRange": "2018 – 2021"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "ifo Institute – Leibniz Institute for Economic Research",
+    "tagline": "Shaping the Economic Debate",
+    "description": "“Shaping the Economic Debate”: The ifo Institute wants to help shape the economic policy debate in Germany and Europe. We can do this because we combine excellent research with economic policy relevance. Our research findings provide policymakers and business leaders with a basis for making informed decisions. We prepare economic findings in such a way that the media and the public can understand and classify current economic and political events. The people at the ifo Institute, its supporters, and its committees make it possible to fulfill our mission. Our close cooperation with Ludwig-Maximilians-Universität (LMU) in Munich is an important basis for our success.\n\nResearch at ifo combines academic excellence with economic policy relevance. Five fields of action form the basis for this bridge building: research, policy advice, information and services, participation in public debates, and development of junior economists. In all these areas we aim to achieve excellence. Our five fields of action are closely interlinked: research is the basis for policy advice. And we can participate in public debates on the basis of newly gained knowledge.\n\nYoung economists make a significant contribution to achieving excellent research results. The development of junior economists is particularly important to us. The ifo Institute’s activities in the area of information and services in turn ensure that our findings reach the various stakeholder groups: through events, media work, or publications.",
+    "industry": "Research Services",
+    "website": "https://www.ifo.de/en",
+    "linkedInUrl": "https://www.linkedin.com/company/ifo-institute-for-economic-research",
+    "employeeCount": 263,
+    "foundedYear": 1949,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Economics of Education",
+      "Public Finance and Political Economy",
+      "International Economics",
+      "Energy, Climate and Resources",
+      "Industrial Organisation & New Technologies",
+      "International Institutional Comparisons and Migration Research",
+      "Macroeconomics and Surveys",
+      "Labour and Demographic Economics",
+      "Research Group Taxation and Fiscal Policy",
+      "ifo Dresden"
+    ]
+  }
+}

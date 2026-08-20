@@ -1,0 +1,260 @@
+{
+  "id": "lukas-kondmann",
+  "name": "Lukas Liesenhoff (Kondmann)",
+  "headline": "Chief of Staff @ RISS / Radar satellites for European Sovereignity",
+  "avatar": {
+    "sm": "/avatars/lukas-kondmann-sm.webp",
+    "lg": "/avatars/lukas-kondmann.webp",
+    "blur": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAADQBQCdASogACAAPr1SnkunJSKht/qoAOAXiWQAnQGNIwn8il4MlZAZ+0i9f1daxuM+B4Ei89ngAP7zLriJhYCJY0woBybL90KgA9GT/FJKhsrtqON7F9G0Rofztah/qS7QecstcnXdiI9Sehy+ZO28M8N5CF0BulRn5De8wzzJ2oEaTigXBwXR5WhGUKvtqSiWv9HTpuWQ+nIPYzFv7FaZSJnQW8CbNup+NC7KuJi3OD678W2lNZmWkkhBy0a67hP5+OXD9hOdo8r/kFFA28kMM12YoWFBtBwDAfbhbWx8qGcn1Qs3AZpsEWbX+ihV6fhF0vuB4CAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lukas-kondmann",
+  "personId": 1023,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Economics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Lukas Kondmann",
+  "ca": null,
+  "summary": "Machine Learning for Satellite Images. I have a background in Computer Vision (TUM), Applied Data Science (Oxford) and Economics (LMU). Talk to me about machine learning for the developing world, time-series analysis of images, change detection, skiing and beach volleyball",
+  "positions": [
+    {
+      "title": "Chief Of Staff",
+      "company": "Rheinmetall Iceye Space Solutions",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Team Lead Data Science",
+      "company": "OroraTech",
+      "companyUrl": "https://www.linkedin.com/company/ororatech",
+      "description": null,
+      "location": null,
+      "start": "2024-10",
+      "end": "2026-02",
+      "dateRange": "Oct 2024 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Senior Data Scientist",
+      "company": "OroraTech",
+      "companyUrl": "https://www.linkedin.com/company/ororatech",
+      "description": null,
+      "location": null,
+      "start": "2023-10",
+      "end": "2024-09",
+      "dateRange": "Oct 2023 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Data Science Consultant",
+      "company": "The World Bank Group",
+      "companyUrl": "https://www.linkedin.com/company/the-world-bank",
+      "description": "Short-term consultant in the Data-Driven Digital Agriculture Team. Leading use case development around geospatial data for improved agrifood policy design and implementation",
+      "location": null,
+      "start": "2023-02",
+      "end": "2023-06",
+      "dateRange": "Feb 2023 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "PhD Scientist Intern",
+      "company": "Planet",
+      "companyUrl": "https://www.linkedin.com/company/planet-labs",
+      "description": "Research on self-supervised change detection with the analytics team",
+      "location": null,
+      "start": "2022-07",
+      "end": "2022-09",
+      "dateRange": "Jul 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Research Fellow",
+      "company": "World Food Programme",
+      "companyUrl": "https://www.linkedin.com/company/unwfp",
+      "description": "Developed methods to measure food security with satellite images and AI as part of the Climate and Earth Observation Team",
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-03",
+      "dateRange": "Jan 2022 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Doctoral Student",
+      "company": "German Aerospace Center (DLR)",
+      "companyUrl": "https://www.linkedin.com/company/dlr",
+      "description": "Working at the German Aerospace Center (DLR)/Technical University of Munich (TUM) on using deep learning for the analysis of satellite time series imagery. Supervisors: Xiaoxiang Zhu & Laura Leal-Taixe",
+      "location": null,
+      "start": "2019-10",
+      "end": "2023-09",
+      "dateRange": "Oct 2019 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Supported Prof. Davide Cantoni, Ph.D.(Chair of Economic History) as a graduate research assistant as part of the M.Sc. in Quantitative Economics",
+      "location": null,
+      "start": "2017-10",
+      "end": "2018-08",
+      "dateRange": "Oct 2017 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Data Science Intern",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "- Supported the global rollout of Celonis Process Mining for a Canadian multinational manufacturing company (data extraction with SQL from ERP system, set-up of data models, building real-time analysis in Celonis)\n- Gave trainings on Celonis Process Mining on site for customers in Germany and Switzerland",
+      "location": null,
+      "start": "2017-07",
+      "end": "2017-09",
+      "dateRange": "Jul 2017 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Project Consultant",
+      "company": "Vodafone",
+      "companyUrl": "https://www.linkedin.com/company/vodafone",
+      "description": "Developing a concept how gamification can be utilized to increase motivation of contact center agents in the mobile department (CDTM Entrepreneurship Laboratory course)",
+      "location": null,
+      "start": "2016-10",
+      "end": "2017-01",
+      "dateRange": "Oct 2016 – Jan 2017",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Supported Prof. Klaus Schmidt’s lecture with a weekly tutorial for students",
+      "location": null,
+      "start": "2015-10",
+      "end": "2016-02",
+      "dateRange": "Oct 2015 – Feb 2016",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "reINVENT",
+      "companyUrl": "https://www.linkedin.com/company/reinvent-innovation",
+      "description": "Product Development Project in cooperation with the startup furnitects.com. (CDTM Managing Product Development Course)",
+      "location": null,
+      "start": "2015-10",
+      "end": "2016-01",
+      "dateRange": "Oct 2015 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Engagement Manager",
+      "company": "SOS Children's Villages International",
+      "companyUrl": "https://www.linkedin.com/company/sos-children%27s-villages",
+      "description": "Project member of five consultants from 180 Degrees Consulting Munich. We were a student team with a background in CS, economics, physics, business and communication studies.\n\nWe have developed an deviation analysis framework for finance and controlling and for worldwide use by the national associations. The project also included statistical data analysis and requirements engineering in close collaboration with the client stakeholders and users.",
+      "location": null,
+      "start": "2015-04",
+      "end": "2015-07",
+      "dateRange": "Apr 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Project Consultant",
+      "company": "Hörmann Automotive Penzberg GmbH",
+      "companyUrl": "https://www.linkedin.com/company/hörmann-automotive-penzberg-gmbh",
+      "description": "Project leader of an Academy Consult student consulting team. Detailed truck market study with action recommendations for the management on which parts of the product portfolio HAP should focus",
+      "location": null,
+      "start": "2014-08",
+      "end": "2014-11",
+      "dateRange": "Aug 2014 – Nov 2014",
+      "current": false
+    },
+    {
+      "title": "Project Consultant",
+      "company": "iHaus AG: IoT Plattform für Smart Buildings",
+      "companyUrl": "https://www.linkedin.com/company/ihaus-ag",
+      "description": "Project member of an Academy Consult student consulting team. Developing a market entry strategy for a smart home start-up through a crowdfunding campaign and a social media marketing strategy",
+      "location": null,
+      "start": "2014-05",
+      "end": "2014-07",
+      "dateRange": "May 2014 – Jul 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Philosophy - PhD, Engineering",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "University of Oxford",
+      "degree": "Master of Science - MS, Social Data Science",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Quantitative Economics",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, Information Management",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Economics",
+      "dateRange": "2013 – 2016"
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Data Science",
+    "Machine Learning",
+    "Data Visualization",
+    "Research",
+    "Data Analysis",
+    "Python",
+    "LaTeX",
+    "Stata",
+    "Projektmanagement",
+    "Big Data Analytics",
+    "SAP HANA",
+    "Unternehmensstrategie",
+    "Econometrics",
+    "Process Mining",
+    "Unternehmertum"
+  ],
+  "languages": [
+    "Deutsch",
+    "Spanisch",
+    "Englisch"
+  ],
+  "company": null
+}

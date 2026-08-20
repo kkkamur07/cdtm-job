@@ -1,0 +1,203 @@
+{
+  "id": "razagill",
+  "name": "Raza Gill",
+  "headline": "All things tech",
+  "avatar": {
+    "sm": "/avatars/razagill-sm.webp",
+    "lg": "/avatars/razagill.webp",
+    "blur": "data:image/webp;base64,UklGRlIBAABXRUJQVlA4IEYBAABQBwCdASogACAAPtFcpU0oJSOiMBgIAQAaCWwAnTNQBCsoLgeWSlNeq9rwj3B1oK1lnXm7Gz/eR2EyF9vrF3+NbwAAAP75oPMuv3H03fH3becLs9Qf1ncNm9ygv9blCVl6iY4PPIJf5H9bxTQ/sZDqKCa2tT7zngzH1f1ixRZyyfyzK9Tgk25efozwIzE7h03UfJQFVgYJu7sRnGLjMRgcErv6tFuaYqo01E1fhkR6t6Oe5nAQEZTxH0pxNjAwpx8p+RklK94jEltlWjEnn/cHBU+thIEoXanbe65qFCd0qox4Y6/mjB7BKfi3Gz7R1xXMNmMnVqecoZ+hBhepAc68py5SDvOliT1+FgHNFjID8QWc2Rah9/uF98TAoH+bVTFRI54aWUqA+xAzs5YK+Djcs8b/MtObaA963vWrdc4ywKYurwVAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/razagill",
+  "personId": 1203,
+  "classes": [
+    {
+      "id": 72,
+      "label": "Fall 2012",
+      "season": "Fall",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2012",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Raza Gill",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Software Stumbler",
+      "company": "mantro digital",
+      "companyUrl": "https://www.linkedin.com/company/mantro-digital",
+      "description": null,
+      "location": null,
+      "start": "2022-05",
+      "end": null,
+      "dateRange": "May 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Full Stack Engineer",
+      "company": "TradeLink",
+      "companyUrl": "https://www.linkedin.com/company/tradelinkcompany",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-09",
+      "end": "2022-04",
+      "dateRange": "Sep 2021 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Senior Frontend Engineer",
+      "company": "Lanes & Planes GmbH",
+      "companyUrl": "https://www.linkedin.com/company/lanes-planes-gmbh",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-07",
+      "end": "2021-08",
+      "dateRange": "Jul 2017 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Touchpoint Restaurant Innovations",
+      "companyUrl": "https://www.linkedin.com/company/touchpoint-restaurant-solutions",
+      "description": null,
+      "location": null,
+      "start": "2014-03",
+      "end": "2017-05",
+      "dateRange": "Mar 2014 – May 2017",
+      "current": false
+    },
+    {
+      "title": "Research Scholar",
+      "company": "University of Texas at Dallas",
+      "companyUrl": "https://www.linkedin.com/company/university-of-texas-at-dallas",
+      "description": null,
+      "location": null,
+      "start": "2013-11",
+      "end": "2014-03",
+      "dateRange": "Nov 2013 – Mar 2014",
+      "current": false
+    },
+    {
+      "title": "Web Developer",
+      "company": "Simplora",
+      "companyUrl": null,
+      "description": "I worked on developing new features for their online bulk purchase e-commerce system based on Ruby on Rails, Handlebars, Backbone.js and MongoDB. Also integrated elasticsearch on the server side.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-05",
+      "end": "2013-08",
+      "dateRange": "May 2013 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Application Developer",
+      "company": "Neuesuper",
+      "companyUrl": null,
+      "description": "I worked on improving, overhauling and bug fixing an Android application. It was based on image detection handled via the camera and then comparing the image against a set of measurements by making use of pixel difference.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-05",
+      "end": "2012-09",
+      "dateRange": "May 2012 – Sep 2012",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Telenor Norge AS",
+      "companyUrl": "https://www.linkedin.com/company/telenor-group",
+      "description": "My responsibilities included the development and customization of an intra organization application. Also I made customized systems for business intelligence as well as web applications. Furthermore I was working in developing BPEL processes on Oracle SOA Suite for Enterprise System Integration",
+      "location": null,
+      "start": "2010-11",
+      "end": "2012-03",
+      "dateRange": "Nov 2010 – Mar 2012",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "LMKR",
+      "companyUrl": "https://www.linkedin.com/company/lmkr",
+      "description": "My duties included developing enterprise Java based components for their Office Automation soft ware. Furthermore, creating new features and improving others according to requirements. The application was based on JavaEE with JSF as front end framework with Hibernate as JPA implementation",
+      "location": "Pakistan",
+      "start": "2010-04",
+      "end": "2010-10",
+      "dateRange": "Apr 2010 – Oct 2010",
+      "current": false
+    },
+    {
+      "title": "Web Developer",
+      "company": "Higher Education Commission",
+      "companyUrl": "https://www.linkedin.com/company/higher-education-commission",
+      "description": "My duties included management of internal portal based on MS Sharepoint and developing customized workflows to digitize paper based business activities.",
+      "location": null,
+      "start": "2009-12",
+      "end": "2010-03",
+      "dateRange": "Dec 2009 – Mar 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Informatics",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Shaheed Zulfikar Ali Bhutto Institute of Science and Technology",
+      "degree": "BS, Software Engineering",
+      "dateRange": "2005 – 2009"
+    },
+    {
+      "school": "Forman Christian College Lahore",
+      "degree": "Intermediate of Computer Science, Physics, Maths, Computer",
+      "dateRange": "2001 – 2003"
+    }
+  ],
+  "skills": [
+    "Node.js",
+    "React Native",
+    "React.js",
+    "Phoenix / Elixir",
+    "Ruby on Rails",
+    "Nix",
+    "DevOps",
+    "Redux.js",
+    "Domain-Driven Design (DDD)",
+    "Kubernetes",
+    "Terraform",
+    "ASP.NET",
+    "Web Applications",
+    "JavaScript",
+    "C#",
+    "AngularJS",
+    "Web Development",
+    "Mobile Applications",
+    "Elixir",
+    "PHP",
+    "XML",
+    "jQuery",
+    "Java",
+    "ElasticSearch",
+    "Flutter",
+    "Apache Kafka",
+    "Lua"
+  ],
+  "languages": [
+    "English",
+    "Urdu"
+  ],
+  "company": null
+}

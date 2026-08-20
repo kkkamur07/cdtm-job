@@ -1,0 +1,326 @@
+{
+  "id": "laura-steinke",
+  "name": "Laura Steinke",
+  "headline": "Medical studies | VC & Startups | CDTM | UC Berkeley | LMU",
+  "avatar": {
+    "sm": "/avatars/laura-steinke-sm.webp",
+    "lg": "/avatars/laura-steinke.webp",
+    "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAACwBQCdASogACAAPtFcp04oJSOiKAqpABoJagBVQdvYLNpm038sEKyfJNUK+q7pAX1Y6af2SQAA/vwTYIFUDtaAF6hPSR3XiCzTUhUBsXrF31QSKiOqF6eX7pcgn7ka+HyfNqjd2avNT8ZLxtZxtDpx9JkI8Ye45PU7UxdF76aCn/6r4iwxcDGpm4jprhVFFhF7VHOu2j5lEBmxbVo98YPFsCC/gvLTK/PJ7pgC9hIdGzpVar9rhAnM+QONRw43QBeY0lAS/nzPBK1pEKt43w+tmxVtSiRwnSPUvbPcSCvNICH5R8GgAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/laura-steinke",
+  "personId": 1251,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Laura Steinke",
+  "ca": null,
+  "summary": "I am passionate about innovative & impactful solutions, especially in ClimateTech, FoodTech, and HealthTech. \n\nAfter studying business administration at LMU Munich and Technology Management at CDTM and working in several startups and VCs, I have decided to study medicine. \n\nThis is because I would like to work at the intersection of business operations and medical research to improve patient care and to advance preventive medicine.",
+  "positions": [
+    {
+      "title": "Finance & Ops Working Student",
+      "company": "Climedo",
+      "companyUrl": "https://www.linkedin.com/company/climedo",
+      "description": "The leading European eCOA system for non-interventional studies, RWE and launch success.\nClimedo offers an all-in-one eCOA and EDC solution with hybrid capabilities for non-interventional studies and real-world evidence. By using a patient-centric approach and leveraging real-time data insights and visualizations around a study’s current progress, Climedo empowers its clients to better engage with healthcare professionals and other key opinion leaders (KOLs). This boosts awareness, stimulates scientific dialogue and accelerates the launch success of new medical innovations, thus reaching more patients faster. Founded in Munich in 2017, Climedo is a leading trusted partner for pharma, medtech, CROs and academia with over 1.7 million patients enrolled to date.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2024-09",
+      "end": "2024-12",
+      "dateRange": "Sep 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Investment Analyst",
+      "company": "Ananda Impact Ventures",
+      "companyUrl": "https://www.linkedin.com/company/anandaventures",
+      "description": "Ananda Impact Ventures is one of the leading impact investors in Europe. We believe in the power of market-based, sustainable and scalable models with positive impact at the core. We share the enthusiasm of our founders to build solutions that truly matter.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-04",
+      "end": "2024-03",
+      "dateRange": "Apr 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Business Development HealthTech",
+      "company": "YEARS",
+      "companyUrl": "https://www.linkedin.com/company/years-group",
+      "description": "Business Development in close cooperation with the founding team.\nSpecific tasks included financial modeling, business planning, risk analysis and clinical setup.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-05",
+      "end": "2022-07",
+      "dateRange": "May 2022 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Master Thesis",
+      "company": "equation",
+      "companyUrl": "https://www.linkedin.com/company/equation-equity-innovation",
+      "description": "Master thesis about the impact of investment team diversity on VC performance in cooperation with the investment firm equation.",
+      "location": "Munich",
+      "start": "2022-01",
+      "end": "2022-07",
+      "dateRange": "Jan 2022 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Visiting Investment Analyst",
+      "company": "Acton Capital",
+      "companyUrl": "https://www.linkedin.com/company/acton-capital-partners",
+      "description": "- Support of investment team in deal sourcing and the management of deal flow\n- Initiating of and participation in meetings with founders of potential investment targets\n- Initial due diligence through financial and commercial analysis of several potential investment targets\n- Research about ESG and other financial regulations and further development of Acton’s ESG policy and strategy\n- Creation of a market deep dive report in the area of LegalTech, RegTech and GovTech\n- Preparation of various analyses for Acton’s investor relations operations, fundraising activities etc.\n- Support in the creation of an investor fundraising pitchdeck",
+      "location": "München, Bayern, Deutschland",
+      "start": "2021-10",
+      "end": "2021-12",
+      "dateRange": "Oct 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Student Consultant: Entrepreneurship Laboratory",
+      "company": "FetoLife Science",
+      "companyUrl": "https://www.linkedin.com/company/fetolife-science-gmbh",
+      "description": "Development of a first monetization strategy for FetoLife's market entry in the US in 2022. FetoLife envisions to become a digital services & product provider for preventative pregnancy care offerings.",
+      "location": "München",
+      "start": "2021-04",
+      "end": "2021-07",
+      "dateRange": "Apr 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Project Student - Growth Strategy & Partnership Managment",
+      "company": "LR Mobility",
+      "companyUrl": null,
+      "description": "Development of a growth and partnership strategy for listnride during a project course in cooperation with LMU Munich",
+      "location": "München",
+      "start": "2020-10",
+      "end": "2021-02",
+      "dateRange": "Oct 2020 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Member of Founding Team",
+      "company": "ProperBird",
+      "companyUrl": "https://www.linkedin.com/company/properbird",
+      "description": "Development of the startup ProperBird from idea to launch, that provides transparent real estate agent rankings for home sellers based on data crawling. \nAs one of three founding members my responsibilities included: \n- setup company processes\n- hire and lead the first employees\n- conduct user studies\n- initiate a cooperation with the test company CHIP\n- launch the product\n- develop and execute a sales strategy \n- legal and accounting work",
+      "location": "München",
+      "start": "2020-09",
+      "end": "2021-07",
+      "dateRange": "Sep 2020 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Junior Sales Manager",
+      "company": "remberg",
+      "companyUrl": "https://www.linkedin.com/company/remberg",
+      "description": "- Lead Scoring to find well fitting possible future customers through desk research and cold calling\n- Cold Acquisition of customers through phone calls\n- Development of calling scripts and improving the sales funnel",
+      "location": "München",
+      "start": "2020-09",
+      "end": "2020-12",
+      "dateRange": "Sep 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Junior Customer Success Manager",
+      "company": "remberg",
+      "companyUrl": "https://www.linkedin.com/company/remberg",
+      "description": "remberg digitizes the service of industrial machinery and equipment with the cloud-based Asset-Relationship-Management System for manufacturers, service providers and operators.\nwww.remberg.de\n\n- Close Interaction with customers and personal support in the implementation of the remberg ARM\n- Development of onboarding guideline and material\n- Preparation of data base exports \n- Preparation and execution of system implementation workshops for customers \n- Authoring of blog articles for remberg website",
+      "location": "München, Bayern",
+      "start": "2020-04",
+      "end": "2020-09",
+      "dateRange": "Apr 2020 – Sep 2020",
+      "current": false
+    },
+    {
+      "title": "Student Consultant: Managing Product Development",
+      "company": "Maltego Technologies",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": "Managing Product Development together with CDTM and maltego.",
+      "location": "München, Bayern",
+      "start": "2020-04",
+      "end": "2020-07",
+      "dateRange": "Apr 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "E.ON",
+      "companyUrl": "https://www.linkedin.com/company/e-on",
+      "description": "Data Analytics, Python",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2019-04",
+      "end": "2019-07",
+      "dateRange": "Apr 2019 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Wissenschaftlicher Hilfsmitarbeiter",
+      "company": "Institute for Strategy, Technology and Organization (LMU Munich)",
+      "companyUrl": "https://www.linkedin.com/company/institute-for-strategy-technology-and-organization-lmu-munich-",
+      "description": "-Research projects about platform economies; e.g.new technologies or trends (3D-printing (Thingiverse), telecommunications market, videogames, Airbnb, Upwork, web crawling methodologies, solar photovoltaic technologies)\n- Preparation of datasets in order to run analyses on them using Stata\n- Working on paper submissions to journals",
+      "location": "München",
+      "start": "2018-08",
+      "end": "2020-04",
+      "dateRange": "Aug 2018 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Internship Ecommerce",
+      "company": "Liebeskind Berlin",
+      "companyUrl": "https://www.linkedin.com/company/liebeskind-berlin",
+      "description": "-Internship with valuable insights in e-commerce and Social Media Marketing\n-Special projects, e.g. organizing a blogger-event\n-Planning marketing campaigns with online social media platforms (e.g. Refinery29) \n-Maintenance of the Pinterest-, Fb- and Instagram-accounts\n-Designing new collections and initial sketches of clothes",
+      "location": "Berlin und Umgebung, Deutschland",
+      "start": "2018-02",
+      "end": "2018-03",
+      "dateRange": "Feb 2018 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Internship Online Shop Buying",
+      "company": "Marc O'Polo International GmbH",
+      "companyUrl": "https://www.linkedin.com/company/marc-o-polo",
+      "description": "-Conducting a quality check for the newly introduced online shop with the IT\n-Preparing newsletter content and to maintain the online shop\n-Building of product collections and landing pages\n-Writing daily reports and economic analyses (e.g. sales, quality) using Excel and online product- information-systems",
+      "location": "Stephanskirchen, Bayern, Deutschland",
+      "start": "2017-03",
+      "end": "2017-04",
+      "dateRange": "Mar 2017 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Werkstudent",
+      "company": "Ifo Institute – Leibniz Institute for Economic Research",
+      "companyUrl": "https://www.linkedin.com/company/ifo-institute-for-economic-research",
+      "description": "- Public Relations\n- Organizing conferences and Munich Summer Institute \n- Supporting the editorial department in publishing their reports \n- Maintenance of the data base (Oracle)\n- Research for scientific publications",
+      "location": "München",
+      "start": "2016-02",
+      "end": "2016-11",
+      "dateRange": "Feb 2016 – Nov 2016",
+      "current": false
+    },
+    {
+      "title": "Retail",
+      "company": "HALLHUBER GMBH",
+      "companyUrl": "https://www.linkedin.com/company/hallhuber",
+      "description": null,
+      "location": null,
+      "start": "2013-06",
+      "end": "2016-08",
+      "dateRange": "Jun 2013 – Aug 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Staatsexamen, Medizin",
+      "dateRange": "2024 – 2030"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, School of Information & Haas School of Business",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Betriebswirtschaftslehre",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Betriebswirtschaftslehre",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "Gymnasium Tutzing",
+      "degree": "Abitur",
+      "dateRange": "2014"
+    }
+  ],
+  "skills": [
+    "Finanzwesen",
+    "Innovationsmanagement",
+    "Research",
+    "Microsoft Excel",
+    "Stata",
+    "Social Media-Marketing",
+    "Öffentlichkeitsarbeit/PR",
+    "Microsoft PowerPoint",
+    "Microsoft Office",
+    "Microsoft Word",
+    "Python",
+    "Instagram",
+    "Oracle-Datenbank",
+    "Teamwork",
+    "Englisch",
+    "Spanisch",
+    "Pinterest",
+    "E-Commerce"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Climedo",
+    "tagline": "The leading European EDC for eCOA-focused real-world and late-phase clinical studies.",
+    "description": "Climedo offers an all-in-one eCOA and EDC solution with hybrid capabilities for real-world and late-phase clinical studies. By using a patient-centric approach and leveraging real-time data insights and visualizations around a study’s current progress, Climedo empowers its clients to better engage with healthcare professionals and other key opinion leaders (KOLs). This boosts awareness, stimulates scientific dialogue and accelerates the launch success of new medical innovations, thus reaching more patients faster. Founded in Munich in 2017, Climedo is a leading trusted partner for pharma, medtech, CROs and academia with over 1.7 million patients enrolled to date. Learn more at www.climedo.com.",
+    "industry": "Information Technology & Services",
+    "website": "https://www.climedo.de/en",
+    "linkedInUrl": "https://www.linkedin.com/company/climedo",
+    "employeeCount": 28,
+    "foundedYear": 2017,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Digital Healthcare",
+      "Big Data",
+      "Analytics",
+      "Medical Research",
+      "Software",
+      "SaaS",
+      "Clinical Validation",
+      "Electronic Data Capture",
+      "ePRO",
+      "eSurveys",
+      "clinical trials",
+      "clinical data",
+      "data reporting",
+      "Pharma",
+      "BioTech",
+      "CROs",
+      "Hospitals & Academia",
+      "Health Offices",
+      "MedTech",
+      "Commercialization",
+      "Market Access",
+      "eCOA",
+      "Scientific dialogue",
+      "Medicomarketing",
+      "Phase IV trials",
+      "Post-market trials",
+      "Post-approval studies",
+      "KOL engagement",
+      "Data to dialogue",
+      "Interactive dashboards",
+      "Patient centricity",
+      "Real-world evidence",
+      "Real-time data insights"
+    ]
+  }
+}

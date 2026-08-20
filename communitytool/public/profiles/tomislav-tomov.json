@@ -1,0 +1,256 @@
+{
+  "id": "tomislav-tomov",
+  "name": "Tomislav Tomov",
+  "headline": "GenAI Engineering @ Meta | Founding CTO, Presize (acquired by Meta) | Angel Investor, Advisor & LP | Patent holder | CDTM",
+  "avatar": {
+    "sm": "/avatars/tomislav-tomov-sm.webp",
+    "lg": "/avatars/tomislav-tomov.webp",
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAADwBQCdASogACAAPtFYpEyoJSOiKA1RABoJaABUhHgBA5q1IUCcC2d2IhflFOe+ATrxTfxj9myeAAD+/nptY42D6HTm9xOluAKzcRb9x/1pvJ3LBMsxsZFmb+i9vzDJR1xNEBxuHSsmhbD6ASuF3cP3hHDNReUl7m4ozTPtOTpaa7y6deUn8RqqGqCgFmhffyvJ1oFKGqSsIZIxOg5alovRHANGk723kp0JTXtS18sAQEzON8I3/HE+mt9dDXVQKsbhjgAA"
+  },
+  "location": "London, United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/tomislav-tomov",
+  "personId": 1069,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Tomislav Tomov",
+  "ca": null,
+  "summary": "►  GenAI Engineering @ Meta\n\n► As an Angel Investor I invest in tech start ups (or in funds) with talented and ambitious founders that aim to have a significant positive impact on the world.\n\n► Ex-Founding CTO at presize (now part of Meta) - FashionTech startup solving the size-related return problem with AI and Computer Vision (patent-pending technology)",
+  "positions": [
+    {
+      "title": "Software Engineer, GenAI",
+      "company": "Meta",
+      "companyUrl": "https://www.linkedin.com/company/meta",
+      "description": "Building the future of advertising creatives with generative A.I.",
+      "location": "London Area, United Kingdom",
+      "start": "2023-10",
+      "end": null,
+      "dateRange": "Oct 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Angel Investor & LP",
+      "company": "Tomov Ventures",
+      "companyUrl": "https://www.linkedin.com/company/tomov-ventures",
+      "description": "• Invested in 20+ companies with a focus on SaaS and A.I. in the DACH-region, UK, USA.\n• Portfolio from Pre-seed to Series B stages with ticket sizes ranging in the 5 to 6 figures.\n• LP in several PE funds: VC, Growth Equity, and buyouts.",
+      "location": "London Area, United Kingdom",
+      "start": "2022-10",
+      "end": null,
+      "dateRange": "Oct 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Engineering Manager",
+      "company": "Meta",
+      "companyUrl": "https://www.linkedin.com/company/meta",
+      "description": "Helping fashion sellers offer the best online experience powered by FB/IG Shops to discover & buy apparel products people love and keep.\n----------------------------------------------\nHappy to announce that Presize has now joined Meta.\n\nIt has been one heck of a rollercoaster ride starting with 3 people, and growing to 50 employees with 100M+ size recommendations generated using our product. As we were sitting in Meta’s European HQ in London (picture on the right), it struck me… Who would have thought it leads to exiting to a company where we can continue to work on our technology/vision and impact the life of 3.6bn users? \n\nWe will keep helping users to find the right size when buying fashion online which ultimately also benefits small businesses and our planet 🌱\n\nMy role is Engineering Manager of the Fashion Team (which includes former Presizers and both of my co-founders) at Meta. As a product team we are responsible for helping connect fashion businesses with customers on Facebook and Instagram. The IG/FB Shops experience is already rolled out in the US.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-04",
+      "end": "2023-10",
+      "dateRange": "Apr 2022 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Founder & CTO",
+      "company": "presize.ai",
+      "companyUrl": "https://www.linkedin.com/company/presizeai",
+      "description": "Presize has joined Meta in April 2022. Presize was a VC-backed AI startup with 50 employees, >1m users, 50 b2b customers, grew from 0 to 6 digit MRR in one year.\n\nProduct: The most accurate body measurements form one turn in front of a smartphone and/or answering a few questions about your body shape. Size recommendations for shoppers in Fashion eCommerce that people trust (higher conversion) & keep (less returns & CO2 emissions).",
+      "location": "Munich Area, Germany",
+      "start": "2019-03",
+      "end": "2022-03",
+      "dateRange": "Mar 2019 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "External Innovation Consultant",
+      "company": "NavVis",
+      "companyUrl": "https://www.linkedin.com/company/navvis",
+      "description": "Digital Factory",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-10",
+      "end": "2019-01",
+      "dateRange": "Oct 2018 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Master Thesis & Research",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Research and Development, Machine Intelligence, AI Lab, Deep Learning for industrial applications,\nFiled a patent in key regions of the world, PCT",
+      "location": "Munich",
+      "start": "2018-06",
+      "end": "2019-03",
+      "dateRange": "Jun 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Open Innovation Project - Tech Lead",
+      "company": "tacterion",
+      "companyUrl": "https://www.linkedin.com/company/tacterion",
+      "description": "Innovation project Tacterion leading to the development of Starc - an innovative consumer product for the fitness industry powered by Tacterion's patented sensor technology. I was responsible for developing the Mobile App that provides a digital gym coach over voice-enabled by real-time holistic tracking of free weight exercises with Machine Learning.",
+      "location": "Munich Area, Germany",
+      "start": "2018-04",
+      "end": "2018-08",
+      "dateRange": "Apr 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Student Researcher",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Trend Research in the field of Artificial Intelligence with the Siemens’ AI Lab.\n •  Structured analysis of current trends and drivers \n •  Identification of possible relevant future scenarios \n •  Ideation on various future products and services enabled by A.I.\n •  Co-authored a 200-page trend report on the Factories of the Future for the Siemens AI LAb",
+      "location": "Munich Area, Germany",
+      "start": "2018-02",
+      "end": "2018-04",
+      "dateRange": "Feb 2018 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Graduate Research - Deep Learning for Computer Vision and Biomedicine",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Graduate research in Deep Learning for protein function prediction, Chair for Computer Vision, Technical University of Munich.",
+      "location": "Munich Area, Germany",
+      "start": "2017-04",
+      "end": "2017-08",
+      "dateRange": "Apr 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Tutor",
+      "company": "Studentenwerk München",
+      "companyUrl": "https://www.linkedin.com/company/studierendenwerk-muenchen",
+      "description": "Organization and facilitation of various events and social activities for the student community residing in the Agnes-Adelheid dormitory campus.",
+      "location": "München",
+      "start": "2013-10",
+      "end": "2015-09",
+      "dateRange": "Oct 2013 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Intern, Working Student and Thesis - BMW Infotainment Systems",
+      "company": "HARMAN International",
+      "companyUrl": "https://www.linkedin.com/company/harman-international",
+      "description": "Connected Car Division\nBMW Navigation & Digital Maps",
+      "location": "Munich, Germany",
+      "start": "2013-01",
+      "end": "2016-09",
+      "dateRange": "Jan 2013 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "Intern in Mobile Energy Supply",
+      "company": "eCARus",
+      "companyUrl": "https://www.linkedin.com/company/tumecarus",
+      "description": "Design & Implementation of the state of charge model for the battery management system in eCARus 2.0 all-electric cart.\nCross microcontroller communication & interface drivers development for the Battery Management System.\nPlanning and installation of the cable system inside the e-car battery box.",
+      "location": "Munich, Germany",
+      "start": "2012-03",
+      "end": "2012-10",
+      "dateRange": "Mar 2012 – Oct 2012",
+      "current": false
+    },
+    {
+      "title": "Freelancer",
+      "company": "Freelance Web Development",
+      "companyUrl": "https://www.linkedin.com/company/freelance-web-development",
+      "description": "Full-stack development and continuous maintenance & support of a number of small to medium company websites built on XAMP and jQuery.",
+      "location": null,
+      "start": "2008-01",
+      "end": "2012-12",
+      "dateRange": "Jan 2008 – Dec 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (MSc), Robotics, Cognition, Intelligence",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "UC San Diego",
+      "degree": "International Exchange Program, Graduate Computer Science",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Hochschule München University of Applied Sciences",
+      "degree": "Bachelor of Science (B.Sc.), Engineering Physics/Applied Physics",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "German Language School \"​Vladislav Grammatik\"​",
+      "degree": "High School Diploma",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "C++",
+    "Machine learning",
+    "Systems Design",
+    "Entrepreneurship",
+    "Research and Development (R&D)",
+    "Programming",
+    "Algorithms",
+    "Artificial Intelligence",
+    "Debugging",
+    "Microcontroller",
+    "Data Analysis",
+    "Java",
+    "Android SDK",
+    "C#",
+    ".NET",
+    "SQL",
+    "CSS3",
+    "Matlab",
+    "Microsoft Office",
+    "Photoshop"
+  ],
+  "languages": [
+    "Bulgarisch",
+    "Deutsch"
+  ],
+  "company": {
+    "name": "Meta",
+    "tagline": null,
+    "description": "Meta's mission is to build the future of human connection and the technology that makes it possible. \n\nOur technologies help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.\n\nTo help create a safe and respectful online space, we encourage constructive conversations on this page. Please note the following:\n\n• Start with an open mind. Whether you agree or disagree, engage with empathy.\n• Comments violating our Community Standards will be removed or hidden. Please treat everybody with respect.\n• Keep it constructive. Use your interactions here to learn about and grow your understanding of others.\n• Our moderators are here to uphold these guidelines for the benefit of everyone, every day.\n• If you are seeking support for issues related to your Facebook account, please reference our Help Center (https://www.facebook.com/help) or Help Community (https://www.facebook.com/help/community).\n\nFor a full listing of our jobs, visit https://www.metacareers.com",
+    "industry": "Software Development",
+    "website": "https://www.metacareers.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/meta",
+    "employeeCount": 155447,
+    "foundedYear": null,
+    "location": "Menlo Park, United States",
+    "specialities": [
+      "Connectivity",
+      "Artificial Intelligence",
+      "Virtual Reality",
+      "Machine Learning",
+      "Social Media",
+      "Augmented Reality",
+      "Marketing Science",
+      "Mobile Connectivity",
+      "Open Compute",
+      "Metaverse"
+    ]
+  }
+}

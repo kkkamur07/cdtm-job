@@ -1,0 +1,229 @@
+{
+  "id": "durner",
+  "name": "Dominik Durner",
+  "headline": "Co-Founder at CedarDB",
+  "avatar": {
+    "sm": "/avatars/durner-sm.webp",
+    "lg": "/avatars/durner.webp",
+    "blur": "data:image/webp;base64,UklGRjwBAABXRUJQVlA4IDABAAAQBgCdASogACAAPtFeqE4oJSQiKAqpABoJbACdOUAKmWSm9DCmvUDHsa1S7ear2Mrzyrftdd8Y+gAA+5I0USFWR50VqCLS2KygGyQdNDvDA9W2OzLC68FkX/77ot/D23aiR3DR46hdbmvwa+wNEjEbqN6swLXPIfFekEcytM754aH318G6gExITua1XnEqJecYK43E6x8MR3kTmRhGDkJSjN3nWBqmWbb+YCz5SsonKwNC5gRq0NsDNJh/jdoj32ibaJq+ZFbBMo6mnFRKme/J3C6qzEoKioFdjxJRZDBaqozAUI3HTfqV3dOkWtinnUL0aRq/q1DQkLl3J4WwMiQ6e1b0jf+3Fn1Vil8OgpH2vB9RSUMXBxodPPkvNYGylwtsKXIZLQR517wBGbLoXgAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/durner",
+  "personId": 1210,
+  "classes": [
+    {
+      "id": 74,
+      "label": "Fall 2013",
+      "season": "Fall",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2013",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Dominik Durner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "CedarDB",
+      "companyUrl": "https://www.linkedin.com/company/cedardb",
+      "description": null,
+      "location": null,
+      "start": "2024-03",
+      "end": null,
+      "dateRange": "Mar 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Intern",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Database Group at Microsoft Research (MSR)\n\nProject: Crystal: A Unified Cache Storage System for Analytical Databases (VLDB'21)",
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-04",
+      "dateRange": "Jan 2020 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "PhD Student & Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Full-time Research Assistant (Wissenschaftlicher Mitarbeiter) at the Research Group (Lehrstuhl) for Data Science and Engineering.",
+      "location": null,
+      "start": "2017-12",
+      "end": "2023-11",
+      "dateRange": "Dec 2017 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Research Intern",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": "SAP HANA Research\n\nIn this internship I improved the performance of table scans in the code generation of an \tin-memory database system significantly. The performance optimizations were implemented for the relational engine of the database system (C++, C, Assembly). Two US patents were filed and granted (US10162603, US10691691) using the results of my internship.",
+      "location": null,
+      "start": "2016-01",
+      "end": "2016-04",
+      "dateRange": "Jan 2016 – Apr 2016",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "The goal of this thesis was to develop dynamic labeling schemes for efficient indexing of hierarchical data in the application of in-memory databases.",
+      "location": null,
+      "start": "2014-10",
+      "end": "2015-02",
+      "dateRange": "Oct 2014 – Feb 2015",
+      "current": false
+    },
+    {
+      "title": "Student Teaching Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Numerical Programming (Chair for Scientific Computing)",
+      "location": null,
+      "start": "2014-04",
+      "end": "2014-10",
+      "dateRange": "Apr 2014 – Oct 2014",
+      "current": false
+    },
+    {
+      "title": "Student Teaching Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Functional Programming (Chair for Logic and Verification)",
+      "location": null,
+      "start": "2013-10",
+      "end": "2014-04",
+      "dateRange": "Oct 2013 – Apr 2014",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Research assistant for developing a software that verifies proofs (at the Chair for Logic and Verification)\n\ncyp (short for \"Check Your Proof\"), written in haskell, verifies proofs about haskell-like programs. It is designed as an teaching aid for undergraduate courses in functional programming.\n\nThe implemented logic is untyped higher-order equational logic, but without lambda expressions. In addition, structural induction over datatypes is supported.\n\nThe terms follow standard haskell-syntax and the background theory can be constructed from datatype declarations, function definitions and arbitrary equations.\n\nIt is released under the MIT 3.0 license and available at my supervisor's github page (https://github.com/noschinl/cyp).",
+      "location": null,
+      "start": "2013-04",
+      "end": "2013-11",
+      "dateRange": "Apr 2013 – Nov 2013",
+      "current": false
+    },
+    {
+      "title": "Student Teaching Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Discrete Structures (Chair for Efficient Algorithms)",
+      "location": null,
+      "start": "2012-10",
+      "end": "2013-04",
+      "dateRange": "Oct 2012 – Apr 2013",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "BAUER Group",
+      "companyUrl": "https://www.linkedin.com/company/bauer-group-",
+      "description": "Developer for C# applications and internal Java projects",
+      "location": null,
+      "start": "2011-11",
+      "end": "2012-10",
+      "dateRange": "Nov 2011 – Oct 2012",
+      "current": false
+    },
+    {
+      "title": "Web Developer",
+      "company": "BAUER Group",
+      "companyUrl": "https://www.linkedin.com/company/bauer-group-",
+      "description": "Developer for Java web applications",
+      "location": null,
+      "start": "2011-07",
+      "end": "2011-09",
+      "dateRange": "Jul 2011 – Sep 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr. rer. nat., Computer Science",
+      "dateRange": "2017 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "M.Sc., Computer Science",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "University of Illinois Urbana-Champaign",
+      "degree": "Exchange Student, Computer Science",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Georgia Institute of Technology",
+      "degree": "Visiting Scholar, Computer Science",
+      "dateRange": "2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc., Computer Science",
+      "dateRange": "2011 – 2015"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "SQL",
+    "Java",
+    "Haskell",
+    "C++",
+    "Linux",
+    "Microsoft Office",
+    "Machine Learning",
+    "Data Mining",
+    "Project Management",
+    "Git",
+    "Scrum",
+    "Python",
+    "Web Development",
+    "Algorithms",
+    "LaTeX",
+    "Data Structures",
+    "C (Programming Language)",
+    "x86 Assembly",
+    "Functional Programming",
+    "LLVM"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "company": {
+    "name": "CedarDB",
+    "tagline": "One Database, Endless Possibilities",
+    "description": "CedarDB is a database system that delivers unmatched performance for transactions and analytics, from small writes to handling billions of rows. Built on cutting-edge research to power today’s tools and tomorrow’s challenges.",
+    "industry": "Data Infrastructure and Analytics",
+    "website": "https://cedardb.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/cedardb",
+    "employeeCount": 17,
+    "foundedYear": null,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

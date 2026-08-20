@@ -1,0 +1,251 @@
+{
+  "id": "henry-brodski-64173916",
+  "name": "Henry Brodski",
+  "headline": "Managing Director (Finance, Legal, Operations)",
+  "avatar": null,
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/henry-brodski-64173916",
+  "personId": 1826,
+  "classes": [
+    {
+      "id": 64,
+      "label": "Fall 2008",
+      "season": "Fall",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2008",
+  "major": "Technology oriented Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Henry Brodski",
+  "ca": null,
+  "summary": "M&A, Finance, Strategy,Operations, Logistics, Entrepreneurship",
+  "positions": [
+    {
+      "title": "Managing Director | Finance Legal Operations",
+      "company": "flaconi",
+      "companyUrl": "https://www.linkedin.com/company/flaconi-gmbh",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2024-05",
+      "end": null,
+      "dateRange": "May 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Managing Director | CFO",
+      "company": "OCEANSAPART",
+      "companyUrl": "https://www.linkedin.com/company/oceansapart",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2023-06",
+      "end": "2024-03",
+      "dateRange": "Jun 2023 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Interim CEO | CFO",
+      "company": "OCEANSAPART",
+      "companyUrl": "https://www.linkedin.com/company/oceansapart",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "start": "2022-12",
+      "end": "2023-05",
+      "dateRange": "Dec 2022 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Chief Financial Officer",
+      "company": "OCEANSAPART",
+      "companyUrl": "https://www.linkedin.com/company/oceansapart",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2021-12",
+      "end": "2022-12",
+      "dateRange": "Dec 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Chief Financial Officer",
+      "company": "Holmes Place Germany",
+      "companyUrl": "https://www.linkedin.com/company/holmes-place-de",
+      "description": null,
+      "location": "Berlin Metropolitan Area",
+      "start": "2016-07",
+      "end": "2021-11",
+      "dateRange": "Jul 2016 – Nov 2021",
+      "current": false
+    },
+    {
+      "title": "Freelance Strategy Consultant",
+      "company": "Freiberuflich",
+      "companyUrl": null,
+      "description": null,
+      "location": "Kreisfreie Stadt Aachen und Umgebung, Deutschland",
+      "start": "2016-04",
+      "end": "2016-07",
+      "dateRange": "Apr 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Chief Financial Officer",
+      "company": "Shore",
+      "companyUrl": "https://www.linkedin.com/company/shore-gmbh",
+      "description": "Munich",
+      "location": null,
+      "start": "2014-07",
+      "end": "2016-03",
+      "dateRange": "Jul 2014 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "The Boston Consulting Group",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "Munich",
+      "location": null,
+      "start": "2012-09",
+      "end": "2014-06",
+      "dateRange": "Sep 2012 – Jun 2014",
+      "current": false
+    },
+    {
+      "title": "Intern in Equity Capital Markets",
+      "company": "Baader Bank",
+      "companyUrl": null,
+      "description": "Munich",
+      "location": null,
+      "start": "2011-06",
+      "end": "2011-08",
+      "dateRange": "Jun 2011 – Aug 2011",
+      "current": false
+    },
+    {
+      "title": "Intern in Corporate Strategies",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Munich",
+      "location": null,
+      "start": "2011-03",
+      "end": "2011-04",
+      "dateRange": "Mar 2011 – Apr 2011",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and CFO (exited)",
+      "company": "Emplido",
+      "companyUrl": null,
+      "description": "Munich",
+      "location": null,
+      "start": "2010-09",
+      "end": "2011-07",
+      "dateRange": "Sep 2010 – Jul 2011",
+      "current": false
+    },
+    {
+      "title": "Intern in Banking and Capital Markets",
+      "company": "Infosys",
+      "companyUrl": "https://www.linkedin.com/company/infosys",
+      "description": null,
+      "location": "Chennai, Bangalore",
+      "start": "2010-08",
+      "end": "2010-10",
+      "dateRange": "Aug 2010 – Oct 2010",
+      "current": false
+    },
+    {
+      "title": "Intern in Corporate Development",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Munich",
+      "location": null,
+      "start": "2008-10",
+      "end": "2009-07",
+      "dateRange": "Oct 2008 – Jul 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "London Business School",
+      "degree": "Master in Management, Management",
+      "dateRange": "2011 – 2012"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Technical Oriented Business Administration and Chemistry",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Center for Digital Technology Management",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2008 – 2010"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc. Technical Oriented Business Administration, Entrepreneurial Finance and Life&Food Science",
+      "dateRange": "2006 – 2010"
+    }
+  ],
+  "skills": [
+    "Microsoft Office",
+    "Bloomberg Terminal",
+    "Thomson One",
+    "Adobe Creative Suite",
+    "SQL",
+    "Reuters",
+    "Unternehmensberatung",
+    "Unternehmensstrategie",
+    "Unternehmertum",
+    "Wertbestimmung",
+    "Unternehmensentwicklung",
+    "Financial Analysis",
+    "Entrepreneurship",
+    "Management Consulting",
+    "Business Strategy",
+    "Unternehmensführung",
+    "Start-ups",
+    "Strategisches Management",
+    "Fusionen und Übernahmen",
+    "Finanzwesen",
+    "Analysen",
+    "Finanzmodelle",
+    "Unternehmensfinanzierung",
+    "Business Development",
+    "Projektmanagement",
+    "Mitarbeiterführung",
+    "Mitarbeiterentwicklung"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "flaconi",
+    "tagline": "Delivering beauty that delights people – together!",
+    "description": "With over 5 million active customers, flaconi is Germany's leading online retailer for beauty and perfume. The online shop’s extensive portfolio consists of around 1,000 national and international brands and 50,000 products. With categories such as perfume, skincare, makeup, haircare, natural cosmetics, beauty tools, and accessories, the online shop covers all product segments and offers a diverse selection of products for individual and daily beauty routines. Founded in 2011 as one of the first online perfumeries, flaconi is now successfully continuing its history as one of the largest, holistic beauty online pure players in Germany  flaconi is proud to work with around 700 employees from 60 different nations at its headquarters in Berlin-Charlottenburg and in its logistics center in Halle. \n\nThe flaconi online shop has won numerous awards and is present not only in Germany but also in Austria, France, Poland, Switzerland, Belgium, the Netherlands, Denmark, Sweden, Finland, Czechia, and Italy.",
+    "industry": "Online and Mail Order Retail",
+    "website": "https://www.flaconi.de/career/",
+    "linkedInUrl": "https://www.linkedin.com/company/flaconi-gmbh",
+    "employeeCount": 502,
+    "foundedYear": 2011,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Internet",
+      "Parfum",
+      "Beauty",
+      "E-Commerce",
+      "Online"
+    ]
+  }
+}

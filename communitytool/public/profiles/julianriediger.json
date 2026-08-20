@@ -1,0 +1,220 @@
+{
+  "id": "julianriediger",
+  "name": "Julian Riediger",
+  "headline": "Product Leader @ Roku | Early LiveRamp | Privacy, Ads, Identity, Data, AI/ML & International | Scaled 2 B2B products to $100m businesses & built consumer products used by millions",
+  "avatar": null,
+  "location": "Los Angeles, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/julianriediger",
+  "personId": 1917,
+  "classes": [
+    {
+      "id": 67,
+      "label": "Spring 2010",
+      "season": "Spring",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2010",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Julian Riediger",
+  "ca": null,
+  "summary": "Entrepreneur at heart. Builds products by fusing data, intuition and 1st principles. Created & scaled 2 ad/mar tech products into $100m+ businesses and built consumer products used by 10s of millions of users. Hired and grew product teams to 7-10 people from scratch multiple times. Strong product, technical and people leadership experience in data, ad/mar tech, consumer, privacy & international expansion; operating at C-level visibility.\n\nAs an ML/AI engineer early in my career, I got a front row seat on the 'magic' power of technology. But I quickly learned that it’s not technology itself, but rather the right application along with smart & thoughtful design decisions that makes a great product.\n\nThroughout my 18+ years product & engineering career I built 2 products from scratch that would grow into $100m+ businesses, designed experiences that are being used by 10s of millions of users, made complex regulatory trade-offs to protect company and users, scaled products internationally as well as built high caliber product teams.\n\nDomain Knowledge\nCTV, Ad Tech, Mar Tech, Clean Rooms, Data Collaboration, Privacy, Regulatory Compliance, Machine Learning/AI, Consumer Trust, Identity, Personalization\n\nSkills\nProduct Management, Growing Teams, Finding PMF, GTM Strategy, Building 0-1, Scaling 1-N, B2B/SaaS Products, Consumer Products, Building great UX, International Expansion",
+  "positions": [
+    {
+      "title": "Director of Product, Privacy, Accounts & International",
+      "company": "Roku",
+      "companyUrl": "https://www.linkedin.com/company/roku",
+      "description": "* I currently run Roku's Privacy, Accounts & International product teams. I started Roku’s privacy program and built both Privacy & Accounts teams from scratch. My teams oversee all privacy, ad privacy, data governance, account-level security, account setup, identity, integrity/ads surfaces and international product rollouts for 120M households globally.\n* Previously launched one of the first-in-market clean room/data collaboration products, enabling <12 hours data activation and drove to $100M+ annual transacted spend.",
+      "location": null,
+      "start": "2020-06",
+      "end": null,
+      "dateRange": "Jun 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "CEO & Co-Founder",
+      "company": "Scenerie",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2019-03",
+      "end": "2020-04",
+      "dateRange": "Mar 2019 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Director of Product, International Growth",
+      "company": "LiveRamp",
+      "companyUrl": "https://www.linkedin.com/company/liveramp",
+      "description": "* Oversaw international expansion into Europe, Asia and Americas across LiveRamp's product suite\n* Led compliance & privacy modifications necessary for market entrance",
+      "location": null,
+      "start": "2017-01",
+      "end": "2019-01",
+      "dateRange": "Jan 2017 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Director of Product, Growth & Adoption",
+      "company": "LiveRamp",
+      "companyUrl": "https://www.linkedin.com/company/liveramp",
+      "description": "* Owned product & GTM as GM for measurement/identity and built out a partnership ecosystem program to drive adoption of LiveRamp's identity.",
+      "location": null,
+      "start": "2016-10",
+      "end": "2016-12",
+      "dateRange": "Oct 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager, Identity",
+      "company": "LiveRamp",
+      "companyUrl": "https://www.linkedin.com/company/liveramp",
+      "description": "* First externally hired PM at LiveRamp as employee ~#30. Built LiveRamp's first identity product that would later become IdentityLink/RampID.",
+      "location": null,
+      "start": "2014-01",
+      "end": "2016-09",
+      "dateRange": "Jan 2014 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "Technical Product Manager",
+      "company": "Recommind (now OpenText)",
+      "companyUrl": "https://www.linkedin.com/company/opentextdiscovery",
+      "description": null,
+      "location": null,
+      "start": "2012-10",
+      "end": "2013-12",
+      "dateRange": "Oct 2012 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Machine Learning/NLP Engineer",
+      "company": "Recommind (now OpenText)",
+      "companyUrl": "https://www.linkedin.com/company/opentextdiscovery",
+      "description": null,
+      "location": null,
+      "start": "2012-08",
+      "end": "2013-12",
+      "dateRange": "Aug 2012 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Search/Ranking Engineer",
+      "company": "Stylight",
+      "companyUrl": "https://www.linkedin.com/company/stylight",
+      "description": null,
+      "location": null,
+      "start": "2011-07",
+      "end": "2012-08",
+      "dateRange": "Jul 2011 – Aug 2012",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Siemens Corporate Technology Research",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2009-09",
+      "end": "2010-07",
+      "dateRange": "Sep 2009 – Jul 2010",
+      "current": false
+    },
+    {
+      "title": "Data Business Analyst",
+      "company": "Linde",
+      "companyUrl": "https://www.linkedin.com/company/linde",
+      "description": null,
+      "location": null,
+      "start": "2008-08",
+      "end": "2009-08",
+      "dateRange": "Aug 2008 – Aug 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technische Universität München (TUM)",
+      "degree": "M.Sc., Information Systems",
+      "dateRange": "2009 – 2012"
+    },
+    {
+      "school": "Center for Digital Technology Management (CDTM)",
+      "degree": "Honors Degree (MBA), Technology Management (MBA)",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student Researcher",
+      "dateRange": "2011"
+    },
+    {
+      "school": "Rutgers University",
+      "degree": null,
+      "dateRange": "2010"
+    },
+    {
+      "school": "Technische Universität München (TUM)",
+      "degree": "B.Sc., Information Systems",
+      "dateRange": "2006 – 2009"
+    }
+  ],
+  "skills": [
+    "Strategy",
+    "Machine Learning",
+    "Project Management",
+    "Product Management",
+    "Product Development",
+    "Recommender Systems",
+    "Software as a Service (SaaS)",
+    "Natural Language Processing",
+    "Information Extraction",
+    "Technical Product Management",
+    "General Data Protection Regulation (GDPR)",
+    "Information Retrieval",
+    "Internationalization",
+    "Adtech",
+    "Ranking",
+    "Identity Resolution",
+    "MarTech",
+    "Martech"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Roku",
+    "tagline": "Amazing Individuals. Unstoppable Team.",
+    "description": "With the #1 platform for streaming television in the U.S., Roku wants to revolutionize the way the world watches TV. \n\nOur Roku-branded TVs, Roku TV models, Smart Home system, streaming players, audio equipment, and the purpose-built operating system that powers it all can turn any home into a home theater, with seamless integration of hardware and software. Our commitment to our users extends to our brand studio, which creates innovative Roku Originals exclusively for The Roku Channel, a free channel that reaches approximately 80 million households in the U.S. and Mexico.   \n\nJoin us and you'll have the chance to delight millions of TV streamers around the world while gaining meaningful experience across a variety of disciplines. Be a part of shaping the future of streaming at weareroku.com.",
+    "industry": "Software Development",
+    "website": "https://www.weareroku.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/roku",
+    "employeeCount": 4305,
+    "foundedYear": 2002,
+    "location": "San Jose, United States",
+    "specialities": [
+      "Licensing",
+      "Audio",
+      "Operating System for TV",
+      "Streaming Players and Smart TVs",
+      "Smart Home",
+      "Streaming Platform",
+      "Content Distribution",
+      "OTT Advertising",
+      "Advertising",
+      "Home Entertainment",
+      "Streaming Media",
+      "Original Programming"
+    ]
+  }
+}

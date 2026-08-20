@@ -1,0 +1,119 @@
+{
+  "id": "adrian-hesse-514867294",
+  "name": "Adrian Hesse",
+  "headline": "Associate Partner | McKinsey & Company",
+  "avatar": {
+    "sm": "/avatars/adrian-hesse-514867294-sm.webp",
+    "lg": "/avatars/adrian-hesse-514867294.webp",
+    "blur": "data:image/webp;base64,UklGRhABAABXRUJQVlA4IAQBAACQBgCdASogACAAPtFepE6oJSMiKAqpABoJaADGgPOtEEzak8Ksy8b5LlvyQGhJ6KvpCkdkmURETnio3TAAAP79+FJ5b1z7j63ifaGtSfYWu5EnlR9n1/K/XXmJ+wdUvTpodfXPXslJpy4Yml1t07Cqa05l3swyJl3gCS6nO3U5JdFO3zrWJ90gNek6znviAZS738gu+sCEVikBEu9X0XaneBvSjMXw4IdM8eVWU7deVQdP6rLVsajEwB12GnpuPRKvSJZ3FYpx+bhAkkM48BBbqdsMBqREl6WijB5pqZBB1eRDEjIzlXxUy9E89uCfzje0BM5XQjrYQ+F8u79WIku7t02gAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/adrian-hesse-514867294",
+  "personId": 869,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Adrian Hesse",
+  "ca": null,
+  "summary": "Growth, M&A and PE in insurance/ financial services",
+  "positions": [
+    {
+      "title": "Associate Partner",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Engagement Manager",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-01",
+      "end": "2025-07",
+      "dateRange": "Jan 2023 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Senior Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-07",
+      "end": "2022-12",
+      "dateRange": "Jul 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2019-09",
+      "end": "2021-06",
+      "dateRange": "Sep 2019 – Jun 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "HEC Paris",
+      "degree": "Master's degree, Master in Management/ Grande Ecole",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor's degree, Business Administration",
+      "dateRange": "2013 – 2017"
+    },
+    {
+      "school": "Singapore Management University",
+      "degree": "Exchange semester, Business Administration",
+      "dateRange": "2015"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "McKinsey & Company",
+    "tagline": null,
+    "description": "McKinsey & Company is a global management consulting firm. We are the trusted advisor to the world's leading businesses, governments, and institutions. \r\n\r\nWe work with leading organizations across the private, public and social sectors. Our scale, scope, and knowledge allow us to address problems that no one else can. We have deep functional and industry expertise as well as breadth of geographical reach. We are passionate about taking on immense challenges that matter to our clients and, often, to the world. \r\n\r\nWe work with our clients as we do with our colleagues. We build their capabilities and leadership skills at every level and every opportunity. We do this to help build internal support, get to real issues, and reach practical recommendations. We bring out the capabilities of clients to fully participate in the process and lead the ongoing work.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.mckinsey.com",
+    "linkedInUrl": "https://www.linkedin.com/company/mckinsey",
+    "employeeCount": 38159,
+    "foundedYear": null,
+    "location": "United States",
+    "specialities": [
+      "Management Consulting"
+    ]
+  }
+}

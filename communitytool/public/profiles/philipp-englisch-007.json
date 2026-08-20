@@ -1,0 +1,152 @@
+{
+  "id": "philipp-englisch-007",
+  "name": "Philipp Englisch",
+  "headline": "EMH | ex-BCG | CDTM",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/philipp-englisch-007",
+  "personId": 1444,
+  "classes": [
+    {
+      "id": 71,
+      "label": "Spring 2012",
+      "season": "Spring",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2012",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Philipp Englisch",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Investment Director",
+      "company": "EMH Partners",
+      "companyUrl": "https://www.linkedin.com/company/emhpartners",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2018-04",
+      "end": null,
+      "dateRange": "Apr 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment Search Director / Start-up Co-Founder",
+      "company": "Barikuta Partners",
+      "companyUrl": "https://www.linkedin.com/company/barikutapartners",
+      "description": null,
+      "location": "Munich, Germany / Miami, USA",
+      "start": "2017-11",
+      "end": "2018-04",
+      "dateRange": "Nov 2017 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "The Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2014-11",
+      "end": "2017-11",
+      "dateRange": "Nov 2014 – Nov 2017",
+      "current": false
+    },
+    {
+      "title": "Marketing & Business Development (Intern)",
+      "company": "Freeletics",
+      "companyUrl": "https://www.linkedin.com/company/freeletics",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2014-04",
+      "end": "2014-09",
+      "dateRange": "Apr 2014 – Sep 2014",
+      "current": false
+    },
+    {
+      "title": "Investment Team (Intern)",
+      "company": "Golding Capital Partners",
+      "companyUrl": "https://www.linkedin.com/company/golding-capital-partners",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2013-03",
+      "end": "2013-08",
+      "dateRange": "Mar 2013 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Financial Services Consulting (Intern)",
+      "company": "NTT DATA Deutschland GmbH",
+      "companyUrl": "https://www.linkedin.com/company/ntt-data-europe-latam",
+      "description": null,
+      "location": "Munich, Germany",
+      "start": "2011-08",
+      "end": "2011-10",
+      "dateRange": "Aug 2011 – Oct 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Digital Technology Management",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Business Administration",
+      "dateRange": "2010 – 2014"
+    },
+    {
+      "school": "Singapore Management University",
+      "degree": "Exchange Semester, Business Administration",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Aventinus Gymnasium Burghausen",
+      "degree": "German High School Diploma / Abitur (Burghausen, Bavaria)",
+      "dateRange": "2010"
+    },
+    {
+      "school": "Archbishop Moeller High School",
+      "degree": "US High School Exchange Year (Cincinnati, Ohio)",
+      "dateRange": "2007 – 2008"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "EMH Partners",
+    "tagline": "EMH Partners is a leading growth investment firm that partners with technology businesses and entrepreneurs.",
+    "description": "EMH Partners is a leading growth investment firm that partners with technology businesses and entrepreneurs. \n\nWith its true entrepreneurial heritage, EMH helps businesses through strategic capital, deep industry expertise and a shared vision for growth. \n\nEMH Partners has more than €1.5bn in committed capital to build long-term value alongside entrepreneurs and management teams.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://www.emh.com",
+    "linkedInUrl": "https://www.linkedin.com/company/emhpartners",
+    "employeeCount": 26,
+    "foundedYear": 2016,
+    "location": "München, Germany",
+    "specialities": [
+      "Private Equity",
+      "Growth Financing",
+      "Investment",
+      "Technology",
+      "SME",
+      "Mittelstand",
+      "Digitisation",
+      "Buyout",
+      "Nachfolge",
+      "Digitalisierung",
+      "Wachstum"
+    ]
+  }
+}

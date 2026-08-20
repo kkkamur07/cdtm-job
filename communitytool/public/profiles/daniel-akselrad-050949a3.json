@@ -1,0 +1,142 @@
+{
+  "id": "daniel-akselrad-050949a3",
+  "name": "Daniel Akselrad",
+  "headline": "Spezialist Entwicklung bei BMW Group",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/daniel-akselrad-050949a3",
+  "personId": 1315,
+  "classes": [
+    {
+      "id": 67,
+      "label": "Spring 2010",
+      "season": "Spring",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2010",
+  "major": "Electrical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Daniel Akselrad",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Spezialist Entwicklung",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-06",
+      "end": null,
+      "dateRange": "Jun 2015 – Present",
+      "current": true
+    },
+    {
+      "title": "Praktikum im Bereich Bordnetzentwicklung",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Unterstützung bei der Entwicklung der Informations-Bordnetzes und Entwicklung an der Implementierung von Ethernet im Auto",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-07",
+      "end": "2012-12",
+      "dateRange": "Jul 2012 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Software Entwickler",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Entwicklung einer Simulationsumgebung im Bereich Smart Home mit Matlab",
+      "location": null,
+      "start": "2010-11",
+      "end": "2011-05",
+      "dateRange": "Nov 2010 – May 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (BSc), Electrical Engineering and Information Technology",
+      "dateRange": "2008 – 2014"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2010 – 2011"
+    }
+  ],
+  "skills": [
+    "Matlab",
+    "Computer Vision",
+    "Machine Vision",
+    "Unternehmertum",
+    "Computer-Vision",
+    "Machine Learning",
+    "Maschinelles Lernen",
+    "C++",
+    "Big Data",
+    "Image Processing",
+    "Control Theory",
+    "Smart Metering",
+    "Smart Homes",
+    "Smart Grid",
+    "Espresso",
+    "Softwaretechnik",
+    "Computational Intelligence",
+    "Optimization",
+    "Convex Optimization",
+    "Artificial Neural Networks",
+    "Artificial Intelligence",
+    "Depth Imaging",
+    "Kinect",
+    "Video Processing",
+    "Reinforcement Learning",
+    "SLAM",
+    "Computed Tomography",
+    "Projektmanagement",
+    "V-Modell"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "BMW Group",
+    "tagline": "We make individual mobility more human, more intelligent and more responsible.",
+    "description": "With its four brands, BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world’s leading premium manufacturer of automobiles and motorcycles and also provides premium financial services. The BMW Group production network comprises over 30 production sites worldwide; the company has a global sales network in more than 140 countries.\n\nIn 2025, the BMW Group sold 2.46 million passenger vehicles and more than 202,500 motorcycles worldwide. The profit before tax in the financial year 2025 was € 10.2 billion on revenues amounting to € 133,5 billion. As of 31 December 2025, the BMW Group had a workforce of 154,540 employees.\n\nThe economic success of the BMW Group has always been based on long-term thinking and respon-sible action. Sustainability is a key element of the BMW Group’s corporate strategy and covers all products – from the supply chain through production to the end of their useful life.",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://www.bmwgroup.com/en/general/imprint.html",
+    "linkedInUrl": "https://www.linkedin.com/company/bmw-group",
+    "employeeCount": 65541,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Automotive",
+      "Information Technology",
+      "Data Science",
+      "Software Development",
+      "Artificial Intelligence",
+      "Data Security",
+      "Motorcycles",
+      "Financial Services",
+      "Mobility Services",
+      "Digital Services",
+      "IoT",
+      "Future of Mobilty",
+      "Autonomous Driving",
+      "Connectivity",
+      "Sheer Driving Pleasure"
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "id": "dahroug",
+  "name": "Omar Dahroug",
+  "headline": "Helping property portals outperform competitors",
+  "avatar": {
+    "sm": "/avatars/dahroug-sm.webp",
+    "lg": "/avatars/dahroug.webp",
+    "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBQCdASogACAAPtFYpUuoJSOhsAgBABoJQBm8Bv9ACnnSjrj4QRgHd/GcvquN4tEVIszW1AAA/v0qnTz90/hEk90osVvPNo9SoztHlrF9HbthRceYcEoVA/xv+pVWVW3t7ltoT5fZvGscffHWiEEFdZXAghc/ntA1PcZT0zNlZgrdn6QT+FAu7nZKCiwcSF00V6kOFpxzbrGt9whM9SRMthCHSO9bgFj0it9vUEwWwMYAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dahroug",
+  "personId": 1057,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Omar Dahroug",
+  "ca": null,
+  "summary": "The Japanese life and work philosophy \"Kaizen\", which stands for the pursuit of continuous and infinite improvement, shapes the way I lead my life. Through my academic, professional and social endeavors, I continuously strive for personal development. \n\nI am a passionate individual with a strong work ethic – enthusiastic about joining a team of the world’s best.",
+  "positions": [
+    {
+      "title": "Co-Founder & MD",
+      "company": "ProperBird",
+      "companyUrl": "https://www.linkedin.com/company/properbird",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-05",
+      "end": null,
+      "dateRange": "May 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "External Consultant - Strategy Development",
+      "company": "DataGuard",
+      "companyUrl": "https://www.linkedin.com/company/dataguard1",
+      "description": "Conceptualised an MVP to augment DataGuard’s product portfolio and developed a market entry strategy. Team role: product manager",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-04",
+      "end": "2020-08",
+      "dateRange": "Apr 2020 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "External Consultant - Product Development",
+      "company": "GEA Group",
+      "companyUrl": "https://www.linkedin.com/company/geagroup",
+      "description": "Built a web-based dairy farm management tool for GEA’s customer base. Team role: product manager",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-10",
+      "end": "2020-02",
+      "dateRange": "Oct 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "External Consultant - Trend Study",
+      "company": "better ventures group",
+      "companyUrl": "https://www.linkedin.com/company/betterventures-io",
+      "description": "Created a comprehensive trend report on parentech in collaboration with 25 fellow students, industry experts, and academic researchers. The trend report included five detailed business ideas of which one could be further pursued.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-08",
+      "end": "2019-10",
+      "dateRange": "Aug 2019 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Working Student - Digital Finance",
+      "company": "KPMG Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/kpmg-deutschland",
+      "description": "- Developed smart reports & analytics with BI tools (Qliksense, NPrinting)\n- Co-lead and organised workshops for BI tools (Qliksense, NPrinting)\n- Prepared pitching presentations",
+      "location": "Munich Area, Germany",
+      "start": "2019-03",
+      "end": "2019-08",
+      "dateRange": "Mar 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Working Student - Software Robotics",
+      "company": "SIEMENS Mobility sa/nv",
+      "companyUrl": null,
+      "description": "- Implemented Robotic Process Automation (RPA) using UiPath\n- Developed robotics solutions that meet business needs including automated data export from ERP systems\n- Collaborated with several stakeholders throughout the development process",
+      "location": "Munich Area, Germany",
+      "start": "2018-09",
+      "end": "2019-02",
+      "dateRange": "Sep 2018 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Financial Advisory Internship",
+      "company": "Deloitte",
+      "companyUrl": "https://www.linkedin.com/company/deloitte",
+      "description": "- Build performance projections for various Egyptian companies in the Oil and Gas industry\n- Research relevant financial and macroeconomic data\n- Co-developed business valuations using multiple approaches\n- Analyse financial statements and management data for the purpose of financial due diligence on companies undergoing M&A",
+      "location": "Cairo Governorate, Egypt",
+      "start": "2018-04",
+      "end": "2018-06",
+      "dateRange": "Apr 2018 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Consulting Internship",
+      "company": "Energy Brainpool GmbH & Co. KG",
+      "companyUrl": "https://www.linkedin.com/company/energy-brainpool-gmbh-&-co.-kg",
+      "description": "Consulting Internship in the field of energy management and European energy markets\n- Conducted reseach on multiple topics in the energy industry\n- Co-organised and executed workshops and seminars\n- Prepared presentations for conferences (BEE, EUROFORUM)\n- Automated processes using Visual Basic for Applications (VBA)\n- Co-wrote publications on Power Purchase Agreements (PPA) for renewables and how Blockchain creates business models in the energy industry",
+      "location": "Berlin",
+      "start": "2017-10",
+      "end": "2018-02",
+      "dateRange": "Oct 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistantship: Fluid Mechanics I",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "- Assisted the lecturer during weekly exercises\n- Consulted students during weekly private tutoring sessions",
+      "location": "Munich Area, Germany",
+      "start": "2017-04",
+      "end": "2017-08",
+      "dateRange": "Apr 2017 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistantship: Thermodynamics I",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "- Assisted the lecturer during weekly exercises\n- Consulted students during weekly private tutoring sessions",
+      "location": "Munich Area, Germany",
+      "start": "2016-10",
+      "end": "2017-03",
+      "dateRange": "Oct 2016 – Mar 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Robotics, Cognition, Intelligence",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor's degree, Mechanical Engineering",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Deutsche Evangelische Oberschule in Kairo",
+      "degree": "Abitur",
+      "dateRange": "1999 – 2014"
+    }
+  ],
+  "skills": [
+    "Microsoft Office",
+    "Leadership",
+    "PowerPoint",
+    "Public Speaking",
+    "Microsoft PowerPoint",
+    "Microsoft Excel"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "company": {
+    "name": "ProperBird",
+    "tagline": "Outgrow your competition.",
+    "description": "ProperBird enables property portals to identify all agents within a market and analyze their activity across competing portals. These insights allow portals to boost their sales intelligence and outgrow their competition.",
+    "industry": "Real Estate",
+    "website": "https://www.properbird.com",
+    "linkedInUrl": "https://www.linkedin.com/company/properbird",
+    "employeeCount": 9,
+    "foundedYear": 2021,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

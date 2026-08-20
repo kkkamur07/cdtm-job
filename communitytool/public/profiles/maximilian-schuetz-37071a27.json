@@ -1,0 +1,113 @@
+{
+  "id": "maximilian-schuetz-37071a27",
+  "name": "Max Schuetz",
+  "headline": "CEO @ Kisi | Making facilities easier to operate and monetize.",
+  "avatar": null,
+  "location": "Brooklyn, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/maximilian-schuetz-37071a27",
+  "personId": 1840,
+  "classes": [
+    {
+      "id": 64,
+      "label": "Fall 2008",
+      "season": "Fall",
+      "year": 2008,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2008",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Maximilian Schütz",
+  "ca": null,
+  "summary": "Hi, I'm Max, Co-founder & CEO at Kisi.\n\nSpent most of my career working at the intersection of physical spaces and technology. What started as access control quickly turned into a broader question of how spaces are operated, secured, and monetized.\n\nI co-founded Kisi to solve a simple problem, but as we grew, I started seeing a much bigger pattern: great spaces lose time and money to tiny operational problems that add up fast.\n\nToday, we focus on strategies that help fitness operators run smarter facilities and have better connections between access and the revenue model behind their business.",
+  "positions": [
+    {
+      "title": "CEO & Co-founder",
+      "company": "Kisi",
+      "companyUrl": "https://www.linkedin.com/company/kisi",
+      "description": "www.getkisi.com",
+      "location": null,
+      "start": "2012-09",
+      "end": null,
+      "dateRange": "Sep 2012 – Present",
+      "current": true
+    },
+    {
+      "title": "Business Developer",
+      "company": "EGYM",
+      "companyUrl": "https://www.linkedin.com/company/egym-global",
+      "description": null,
+      "location": null,
+      "start": "2011-07",
+      "end": "2012-09",
+      "dateRange": "Jul 2011 – Sep 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Columbia Business School",
+      "degree": null,
+      "dateRange": "2009 – 2010"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "CDTM",
+      "dateRange": "2008 – 2010"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor's degree, Business Administration",
+      "dateRange": "2006 – 2010"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Market Analysis",
+    "Strategy",
+    "Business Planning",
+    "Business Development",
+    "Start-ups",
+    "Market Research",
+    "Entrepreneurship",
+    "E-commerce",
+    "Product Management",
+    "Strategic Partnerships",
+    "Business Strategy",
+    "Venture Capital",
+    "Management Consulting",
+    "Product Development",
+    "Competitive Analysis"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Kisi",
+    "tagline": "For companies looking to modernize their approach to physical security, Kisi offers simplicity and security as a service",
+    "description": "Kisi develops cloud technology to build security systems that use a combination of sensors and mobile devices to manage facilities. Designed for commercial and enterprise applications, the Kisi system provides an added layer of control and enhanced experience at all access points of the facility.",
+    "industry": "Security and Investigations",
+    "website": "https://getkisi.com",
+    "linkedInUrl": "https://www.linkedin.com/company/kisi",
+    "employeeCount": 226,
+    "foundedYear": 2012,
+    "location": "Brooklyn, United States",
+    "specialities": [
+      "Access Control",
+      "Access Management",
+      "Keyless Office Entry",
+      "Office Technology",
+      "Smart Office",
+      "Employee Productivity",
+      "Real Estate Technology",
+      "Proptech",
+      "Flexible Office"
+    ]
+  }
+}

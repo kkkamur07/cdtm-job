@@ -1,0 +1,281 @@
+{
+  "id": "jekimov",
+  "name": "Michail Jekimov",
+  "headline": "Enterprise applications expert (J2EE, .NET).",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jekimov",
+  "personId": 1804,
+  "classes": [
+    {
+      "id": 50,
+      "label": "1999",
+      "season": null,
+      "year": 1999,
+      "location": 1
+    }
+  ],
+  "classLabel": "1999",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Michail Jekimov",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Developer",
+      "company": "Interhyp AG",
+      "companyUrl": "https://www.linkedin.com/company/interhypgruppe",
+      "description": "Web based loan management system for real estate and personal loans.\nSoftware: Java 1.6, Tomcat, IntelliJ, Oracle 11",
+      "location": null,
+      "start": "2011-06",
+      "end": null,
+      "dateRange": "Jun 2011 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Java/C++ Developer",
+      "company": "Bank",
+      "companyUrl": "https://www.linkedin.com/company/hypovereinsbank",
+      "description": "Development of algorithmic trading applications (server side).\nSoftware and tools: Java 1.5, C++ (GNU, Solaris), TIBCO Rendezvouz, Eclipse, Subversion, RTD\nLocation: Munich, Germany",
+      "location": null,
+      "start": "2009-09",
+      "end": "2011-09",
+      "dateRange": "Sep 2009 – Sep 2011",
+      "current": false
+    },
+    {
+      "title": "Consulting on JBoss Seam",
+      "company": "T-Systems",
+      "companyUrl": "https://www.linkedin.com/company/t-systems",
+      "description": "Short-term consulting. JBoss Seam training for developers. Proof of concept and migration roadmap for porting existing JSF application to JBoss Seam.",
+      "location": null,
+      "start": "2009-05",
+      "end": "2009-05",
+      "dateRange": "May 2009 – May 2009",
+      "current": false
+    },
+    {
+      "title": "Senior J2EE developer",
+      "company": "Insurance Company",
+      "companyUrl": null,
+      "description": "Development of customer's web-based inventory management system.\nSoftware and tools: Java 1.5, J2EE, Struts, MQSeries,DB2, JBoss Application Server, SAP FS-CD, Eclipse, Subversion\nLocation: Munich, Germany",
+      "location": null,
+      "start": "2007-11",
+      "end": "2009-07",
+      "dateRange": "Nov 2007 – Jul 2009",
+      "current": false
+    },
+    {
+      "title": "Senior J2EE developer",
+      "company": "Verlagsgruppe Weltbild",
+      "companyUrl": "https://www.linkedin.com/company/verlagsgruppe-weltbild",
+      "description": "Development of customer's web-based shop management system. \nSoftware and tools: Java 1.5, J2EE (EJB3, JSF, JBoss Seam), DB2, JBoss Application Server, Eclipse\nLocation: Augsburg, Germany",
+      "location": null,
+      "start": "2006-11",
+      "end": "2007-10",
+      "dateRange": "Nov 2006 – Oct 2007",
+      "current": false
+    },
+    {
+      "title": "Service architect",
+      "company": "Swisscom Mobile",
+      "companyUrl": "https://www.linkedin.com/company/swisscom",
+      "description": "Architecting customer's WAP portal services. \nSoftware and tools: Java (1.4, 1.5), J2EE, Oracle, Web Services, JSF, JBoss, BEA WebLogic, UML, Eclipse/MyEclipse, MS Visio\nLocation: Bern, Switzerland",
+      "location": null,
+      "start": "2006-05",
+      "end": "2006-10",
+      "dateRange": "May 2006 – Oct 2006",
+      "current": false
+    },
+    {
+      "title": "Senior .NET developer",
+      "company": "BMW",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Web-based control system for car software simulation. \nSoftware and tools: .NET, C#, ASP.NET, WebParts, Web Services, MS Visual Studio 2003, MS IIS 5.1, Windows Server 2003.\nLocation: Munich, Germany",
+      "location": null,
+      "start": "2005-12",
+      "end": "2006-04",
+      "dateRange": "Dec 2005 – Apr 2006",
+      "current": false
+    },
+    {
+      "title": "Technical project lead",
+      "company": "BMW",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Web-based used car reselling system. \nSoftware and tools: MS Project, J2EE (JDK 1.4), Tomcat, Struts, Hibernate, Oracle 9, Eclipse IDE, CVS, Debian Linux. \nLocation: Munich, Germany.",
+      "location": null,
+      "start": "2005-04",
+      "end": "2005-12",
+      "dateRange": "Apr 2005 – Dec 2005",
+      "current": false
+    },
+    {
+      "title": "Senior J2EE developer",
+      "company": "BMW",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Web-based content management system for customer's intranet.\nSoftware and tools: J2EE (JDK 1.4), BEA WebLogic 8.1 (JSP, EJB, Servlets), Struts, Hibernate, Eclipse IDE, CVS. \nLocation: Munich, Germany.",
+      "location": null,
+      "start": "2005-03",
+      "end": "2005-04",
+      "dateRange": "Mar 2005 – Apr 2005",
+      "current": false
+    },
+    {
+      "title": "Senior J2EE developer and architect, deputy project lead",
+      "company": "BMW",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Web-based used car reselling system. \nSoftware and tools: J2EE (JDK 1.4), Tomcat, Struts, Hibernate, Oracle 9, Eclipse IDE, CVS, Debian Linux. \nLocation: Munich, Germany.",
+      "location": null,
+      "start": "2003-07",
+      "end": "2005-02",
+      "dateRange": "Jul 2003 – Feb 2005",
+      "current": false
+    },
+    {
+      "title": "Software architect",
+      "company": "Online travel agency",
+      "companyUrl": null,
+      "description": "Retrieval and booking system for searching and booking of packaged tours. \nSoftware and tools: GNU C++, J2EE (JDK 1.4), JBoss Application Server, Apache Web Server, Eclipse IDE, CVS, Debian Linux, SUN Solaris, Oracle 9, MySQL. \nLocation: Munich, Germany.",
+      "location": null,
+      "start": "2003-03",
+      "end": "2003-07",
+      "dateRange": "Mar 2003 – Jul 2003",
+      "current": false
+    },
+    {
+      "title": "Senior .NET developer",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": "Web-based Management Information System (MIS) and project planning tool.\nSoftware and tools: .NET, C#, Microsoft DeveloperStudio 7.0, Oracle 8i, PL/SQL,TOAD, MS Visual SourceSafe, MS Visio, UML.\nLocation: Munich, Germany.",
+      "location": null,
+      "start": "2002-03",
+      "end": "2003-01",
+      "dateRange": "Mar 2002 – Jan 2003",
+      "current": false
+    },
+    {
+      "title": "Technical project lead",
+      "company": "Software company",
+      "companyUrl": null,
+      "description": "Web-based time and cost accounting system for customer's staff.\nSoftware and tools: ASP, Oracle 8i, PL/SQL, MS Visual SourceSafe.\nLocation: Munich, Germany.",
+      "location": null,
+      "start": "2001-09",
+      "end": "2001-10",
+      "dateRange": "Sep 2001 – Oct 2001",
+      "current": false
+    },
+    {
+      "title": "Senior java developer",
+      "company": "Wholesale trading company",
+      "companyUrl": null,
+      "description": "Java-based product and item management system.\nSoftware and tools: JBuilder4 (JDK version 1.3.1, Swing 1.1), Oracle 8i, TOAD, MS Visual SourceSafe, UML, Together.\nLocation: Munich, Germany.",
+      "location": null,
+      "start": "2001-06",
+      "end": "2001-09",
+      "dateRange": "Jun 2001 – Sep 2001",
+      "current": false
+    },
+    {
+      "title": "J2EE developer",
+      "company": "Software company",
+      "companyUrl": null,
+      "description": "Web-based document management system.\nSoftware and tools: Kawa 3.51, JDK version 1.3.0, EJB, JMS, BEA WebLogic 6, Oracle 8i, PL/SQL, Tamino 2.2.1.9, UML, Together.\nLocation: Munich, Germany.",
+      "location": null,
+      "start": "2000-11",
+      "end": "2001-05",
+      "dateRange": "Nov 2000 – May 2001",
+      "current": false
+    },
+    {
+      "title": "Java developer",
+      "company": "Bank group",
+      "companyUrl": null,
+      "description": "Java-based commission accounting system.\nSoftware and tools: VisualAge for Java 2.0 and 3.02, Swing 1.1, UML, Rational Rose 2000, Oracle 8.\nLocation: Munich, Germany.",
+      "location": null,
+      "start": "2000-03",
+      "end": "2000-06",
+      "dateRange": "Mar 2000 – Jun 2000",
+      "current": false
+    },
+    {
+      "title": "Java developer",
+      "company": "Technical University of Munich",
+      "companyUrl": null,
+      "description": "Design and implementation of a Java RMI server for online bookings of books and magazins for university library structure.\nSoftware and tools: JDK (Java 1.1.7), TransBase DBMS, UML.\nLocation: Munich, Germany.",
+      "location": null,
+      "start": "1999-08",
+      "end": "2000-02",
+      "dateRange": "Aug 1999 – Feb 2000",
+      "current": false
+    },
+    {
+      "title": "Student",
+      "company": "Technical University of Munich",
+      "companyUrl": null,
+      "description": "Development of a dynamic linker for an experimental distributed computing system.\nSoftware and tools: GNU C++, SUN Solaris 2.5.1 \nLocation: Munich, Germany",
+      "location": null,
+      "start": "1998-11",
+      "end": "1999-05",
+      "dateRange": "Nov 1998 – May 1999",
+      "current": false
+    },
+    {
+      "title": "Software developer",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Planning tool for customer's internal logistics.\nSoftware and tools: Centura Builder, Centura SQLWindows, MS Access, Oracle 7.0, PL/SQL.\nLocation: Munich, Germany.",
+      "location": null,
+      "start": "1998-08",
+      "end": "2000-02",
+      "dateRange": "Aug 1998 – Feb 2000",
+      "current": false
+    },
+    {
+      "title": "Junior developer",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Development of a PC-based Internet browser prototype for cell phones.\nSoftware and tools: Borland C++ 5.01.\nLocation: Munich, Germany.",
+      "location": null,
+      "start": "1998-03",
+      "end": "1998-04",
+      "dateRange": "Mar 1998 – Apr 1998",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom (graduate engineer), computer science",
+      "dateRange": "1997 – 2000"
+    },
+    {
+      "school": "Peter the Great St.Petersburg Polytechnic University",
+      "degree": "Bachelor, Applied Mathematics",
+      "dateRange": "1991 – 1996"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Interhyp Gruppe",
+    "tagline": "Das Zuhause der Baufinanzierung",
+    "description": "Unseren Kund*innen erfüllen wir den Wunsch nach den eigenen vier Wänden – unseren Mitarbeiter*innen den nach dem beruflichen Zuhause. Die Interhyp Gruppe besteht aus der Interhyp AG, die sich an Endkund*innen richtet, und der Prohyp GmbH als Partner für institutionelle und Einzelvermittler*innen. Dazu kommt das Joint Venture MLP Hyp GmbH. Zur Interhyp Gruppe gehört auch die ThinkImmo GmbH, eine plattformübergreifende Immobiliensuchmaschine.\n\n2024 haben wir bei unseren über 500 Finanzierungspartnern ein Baufinanzierungsvolumen von 22,4 Milliarden Euro erfolgreich platziert.\n\nUnser Purpose: Gemeinsam die wichtigsten Träume verwirklichen. Zum einen den Traum vom eigenen Zuhause für unsere Kund*innen. Zum anderen die ganz persönlichen Träume, nach denen wir alle im Leben streben. Dafür leisten wir als Arbeitgeber stets mehr für unsere Mitarbeitenden und fördern die persönliche Entwicklung und individuellen Ziele von jeder und jedem Einzelnen.\n\nDu suchst einen Arbeitgeber, bei dem du wachsen kannst? Dann finde jetzt dein berufliches Zuhause bei der Interhyp Gruppe!",
+    "industry": "Financial Services",
+    "website": "https://interhyp-gruppe.de/social-media?utm_source=linkedin&utm_medium=social&utm_campaign=hub",
+    "linkedInUrl": "https://www.linkedin.com/company/interhypgruppe",
+    "employeeCount": 944,
+    "foundedYear": 1999,
+    "location": "München, Germany",
+    "specialities": [
+      "Vermittlung von Baufinanzierungen"
+    ]
+  }
+}

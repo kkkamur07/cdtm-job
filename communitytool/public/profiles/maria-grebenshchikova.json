@@ -1,0 +1,198 @@
+{
+  "id": "maria-grebenshchikova",
+  "name": "Maria G.",
+  "headline": "Co-Founder @ Neru - Scaling DME and Sleep Health | Harvard | CDTM & TUM",
+  "avatar": {
+    "sm": "/avatars/maria-grebenshchikova-sm.webp",
+    "lg": "/avatars/maria-grebenshchikova.webp",
+    "blur": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAACwBQCdASogACAAPtFapE0oJSOiMBgIAQAaCWMAvdH9iLoSjrj5i096CdRXYS9idUxw5nAnMYAA/vx3rBWgZhX52Dmj0DyYD2c2fi1R2YHEYT6j8ZG9e/ZJ5sqxsJ5ubGjLrO+TelvUf7LpJCKybwlS0HQkW5+eittdJZ2uvcGFHK1DLo5pKVUOjK1jMoIMF0FsGlmWGzky/9jx9FUOC8rKabuLIQnoYEOBv+mN9QcJKSEYQwbHz3NuYqoqfSpZItJfGQAAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/maria-grebenshchikova",
+  "personId": 1178,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Maria Grebenshchikova",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-founder & CTO",
+      "company": "Neru Health",
+      "companyUrl": "https://www.linkedin.com/company/neru-health",
+      "description": "Neru is the patient operations layer for DME healthcare.\n\nWe help providers reduce operational leakage across intake, adherence, troubleshooting, and resupply. Neru improves patient outcomes while protecting revenue and lowering cost-to-serve.\n\nThrough Nora, our clinician-trained AI operating system, patients receive continuous support beyond setup, and care teams are extended (not replaced) so they can focus on high-value human touch clinical work. The result: stronger Medicare compliance, higher retention, fewer exceptions, and the ability to scale without increasing headcount.\n\nWe work with leading regional and national DMEs to unify fragmented workflows, connect signals across the patient lifecycle, and make growth operationally sustainable.\n\nFrom intake to long-term care, Neru ensures no patient falls through the cracks.",
+      "location": "Boston, Massachusetts, United States",
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Graduate Research Fellow",
+      "company": "Helmholtz Munich",
+      "companyUrl": "https://www.linkedin.com/company/helmholtzmunich",
+      "description": "At the Systems Genetics and Machine Learning Lab (Prof. Paolo Casale) at Helmholtz AI for Health, I worked on machine learning for clinical and digital biomarkers to predict neurodegenerative, cardiovascular, and sleep disorders years before onset. My research contributed to PRiMeR, published in Genomics Research - a deep learning framework that combines genetic, clinical and digital data for early disease detection and biomarker discovery.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-10",
+      "end": "2024-09",
+      "dateRange": "Oct 2023 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Product Lead",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": "Y42 is the first fully managed Modern DataOps Cloud for production-ready data pipelines on top of Google BigQuery and Snowflake. Data modeling team.",
+      "location": "Berlin, Germany",
+      "start": "2022-05",
+      "end": "2022-09",
+      "dateRange": "May 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Technical Product Manager",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2021-08",
+      "end": "2022-05",
+      "dateRange": "Aug 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": "Development of a prototype that makes reordering of recurrent prescription medications effortless by reducing time and mental load. The project was part of a collaboration with the Center for Digital Technology and Management (CDTM).",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2021-07",
+      "dateRange": "Apr 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Data Science, Research Fellow",
+      "company": "Universitat Pompeu Fabra",
+      "companyUrl": "https://www.linkedin.com/company/universitat-pompeu-fabra",
+      "description": "Co-published research results in CEPR.\n\nNLP, computer vision, econometrics",
+      "location": "Barcelona, Catalonia, Spain",
+      "start": "2020-02",
+      "end": "2020-07",
+      "dateRange": "Feb 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Data Science, Research Intern at the Center for Market Studies and Spatial Economics",
+      "company": "National Research University — Higher School of Economics",
+      "companyUrl": "https://www.linkedin.com/company/national-research-university---higher-school-of-economics",
+      "description": null,
+      "location": "St Petersburg City, Russia",
+      "start": "2018-07",
+      "end": "2020-07",
+      "dateRange": "Jul 2018 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Nota Bene Journal",
+      "companyUrl": null,
+      "description": "Built a media platform that has empowered female students in STEM to contribute to economic discourse and pursue computationally-intensive research areas. Within 6 months, the platform gained 1000 followers and successfully hosted Nobel Prize laureates and distinguished researchers as contributors.",
+      "location": null,
+      "start": "2017-10",
+      "end": "2019-09",
+      "dateRange": "Oct 2017 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "National Research University — Higher School of Economics",
+      "companyUrl": "https://www.linkedin.com/company/national-research-university---higher-school-of-economics",
+      "description": "Teaching Fellow for undergraduate classes in Dynamical Systems & Differential Equations, Principles of Economics.",
+      "location": "St Petersburg City, Russia",
+      "start": "2017-09",
+      "end": "2019-03",
+      "dateRange": "Sep 2017 – Mar 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard University",
+      "degree": "Visiting Graduate Student",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Entrepreneurship and Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science and Economics",
+      "dateRange": null
+    },
+    {
+      "school": "Universitat Pompeu Fabra",
+      "degree": "Bachelor's degree, Double Degree, Statistics, Quantitative Economics and Applied Mathematics",
+      "dateRange": null
+    },
+    {
+      "school": "Higher School of Economics",
+      "degree": "Bachelor's degree, Double Degree, Statistics, Quantitative Economics and Applied Mathematics",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Product Management",
+    "Machine Learning",
+    "Negotiation",
+    "High Performance Computing (HPC)",
+    "Macroeconomics",
+    "Game Theory",
+    "Econometrics",
+    "Causal Inference",
+    "Bioinformatics",
+    "Deep Learning",
+    "Data Science",
+    "Analytical Skills",
+    "Data Engineering",
+    "User Research",
+    "Product Strategy",
+    "Market Research",
+    "Cross-functional Team Leadership",
+    "Mathematics",
+    "Pitching",
+    "User Experience (UX)"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Neru Health",
+    "tagline": "Support Every Patient. Extend Every Team. Across Intake, Adherence, and Resupply",
+    "description": "Neru is the patient operations layer for DME healthcare.\n\nWe help providers reduce operational leakage across intake, adherence, troubleshooting, and resupply. Neru improves patient outcomes while protecting revenue and lowering cost-to-serve.\n\nThrough Nora, our clinician-trained AI operating system, patients receive continuous support beyond setup, and care teams are extended (not replaced) so they can focus on high-value human touch clinical work. The result: stronger Medicare compliance, higher retention, fewer exceptions, and the ability to scale without increasing headcount.\n\nWe work with leading regional and national DMEs to unify fragmented workflows, connect signals across the patient lifecycle, and make growth operationally sustainable.\n\nFrom intake to long-term care, Neru ensures no patient falls through the cracks.",
+    "industry": "Home Health Care Services",
+    "website": "https://www.neruhealth.com",
+    "linkedInUrl": "https://www.linkedin.com/company/neru-health",
+    "employeeCount": 14,
+    "foundedYear": 2023,
+    "location": "Boston, United States",
+    "specialities": []
+  }
+}

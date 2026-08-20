@@ -1,0 +1,196 @@
+{
+  "id": "klaudia-guzij",
+  "name": "Klaudia Guzij",
+  "headline": "Building Agents @ Sierra",
+  "avatar": {
+    "sm": "/avatars/klaudia-guzij-sm.webp",
+    "lg": "/avatars/klaudia-guzij.webp",
+    "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAADwBQCdASogACAAPsVSoEunpKMht/VYAPAYiWMAyAQP4KJWxK6W1tFLeC8z1wbIEgkkHpJNgMsUAAD+/b3TEDN9kCexoMckE/HPhytEwEC+0fOr+hZAv/sItT8Y53nvww9qzik+vvBqdgOtiMGQQKHdiFFQYren+yA565Dwfxk0PG8EO2JuPv7ityWU4wmuC4gpBE7PBNmmz3azwHVMSaDBG5mbuMQsSlzoG49pfREHbnkvxRbBL0D8ufHguhvke8TpRyrGghDrtv1KkOa9aKX5fAQOhIFNROxImdrCNQ24M/P8DytgAA=="
+  },
+  "location": "San Francisco Bay, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/klaudia-guzij",
+  "personId": 1142,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Media Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Klaudia Guzij",
+  "ca": null,
+  "summary": "Started my career in sales & consulting at IBM before diving into the startup world, where I learned the ins and outs of sales, product, and design across multiple industries. Spent the last 3 years in the growth & product function at Kyte, scaling from Series A to Series C, before venturing out to ideate on AI agent startups and helping an early-stage mobility startup go from 0 to 1. \n\nRecently joined Coval to build out GTM, product & customer success.",
+  "positions": [
+    {
+      "title": "Agent Strategist",
+      "company": "Sierra",
+      "companyUrl": "https://www.linkedin.com/company/sierra",
+      "description": null,
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Growth",
+      "company": "Coval",
+      "companyUrl": "https://www.linkedin.com/company/covaldev",
+      "description": "Joined as 2nd full-time employee. \nBuilt out the initial product for a simulation and evaluation platform for voice agents; Onboarded the first x,xxx users and scaled deployments for engineering & product teams of Fortune 500 companies.",
+      "location": null,
+      "start": "2024-11",
+      "end": "2026-01",
+      "dateRange": "Nov 2024 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Product Lead, Consumer Experience",
+      "company": "Kyte",
+      "companyUrl": "https://www.linkedin.com/company/drivekyte",
+      "description": "Responsible for Kyte's consumer product experience across web and mobile; with focus on checkout conversion optimization, mobile app adoption, and improving automated customer-support resolution time.",
+      "location": null,
+      "start": "2023-10",
+      "end": "2024-07",
+      "dateRange": "Oct 2023 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Product Manager, New Products / Growth",
+      "company": "Kyte",
+      "companyUrl": "https://www.linkedin.com/company/drivekyte",
+      "description": "Grew topline revenue by XX% by leading cross-functional teams across engineering, design, and operations to launch 3 new products from 0 to 1.",
+      "location": null,
+      "start": "2022-10",
+      "end": "2023-09",
+      "dateRange": "Oct 2022 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Chief of Staff",
+      "company": "Kyte",
+      "companyUrl": "https://www.linkedin.com/company/drivekyte",
+      "description": "Fundraising (Kyte's $60M series B); Market analysis & financial modeling that supported Kyte's expansion into new verticals. Owned end-to-end growth reporting.",
+      "location": null,
+      "start": "2022-02",
+      "end": "2022-09",
+      "dateRange": "Feb 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Investment Analyst",
+      "company": "TS Ventures",
+      "companyUrl": "https://www.linkedin.com/company/tsventures",
+      "description": "Managed end-to-end dealflow for a pre-seed to series A VC firm.",
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Product / UX Research",
+      "company": "Pina Earth",
+      "companyUrl": "https://www.linkedin.com/company/pina-de",
+      "description": "Designed transparent, data-driven and intuitive UIs that build trust in carbon offset projects",
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Sales & Product",
+      "company": "Luminovo",
+      "companyUrl": "https://www.linkedin.com/company/luminovo",
+      "description": "Joined a pre-seed startup that pivoted from AI consulting to a vertically integrated electronics procurement platform. Supported founders with ideation and managed consulting project sales to sustain bootstrapping",
+      "location": null,
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Client Engagement Team",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "The client engagement team, led by the GM of Germany's first Watson-AI Headquarters outside the U.S., advised corporates in manufacturing, food, and automotive sectors on AI integration and supported initial proof of concepts.",
+      "location": null,
+      "start": "2018-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2018 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Consulting",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "Various assignments on consulting projects (cloud infrastructure & migration, AI & IoT, analytics software integration)",
+      "location": null,
+      "start": "2015-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2015 – Dec 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "School of Information",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Human Computer Interaction",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Mediainformatics",
+      "dateRange": null
+    },
+    {
+      "school": "Baden-Wuerttemberg Cooperative State University (DHBW)",
+      "degree": "Bachelor's degree, Business Administration – Service Management",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Russian",
+    "German",
+    "Polish",
+    "Ukrainian",
+    "French",
+    "English",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Sierra",
+    "tagline": null,
+    "description": "Sierra helps businesses build better, more human customer experiences with AI.",
+    "industry": "Software Development",
+    "website": "https://sierra.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/sierra",
+    "employeeCount": 715,
+    "foundedYear": null,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

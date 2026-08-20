@@ -1,0 +1,154 @@
+{
+  "id": "hessjonas",
+  "name": "Jonas Hess",
+  "headline": "Founder and CPO at deskbird | Building the future of work where spaces and people thrive | 🫶 Tech",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/hessjonas",
+  "personId": 1436,
+  "classes": [
+    {
+      "id": 71,
+      "label": "Spring 2012",
+      "season": "Spring",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2012",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jonas Hess",
+  "ca": null,
+  "summary": "Building a legendary SaaS company with deskbird. At deskbird, we are solving the pressing workspace challenges that hybrid work has brought to companies around the globe. We are building the first workspace management platform that's both loved by users and making offices more efficient and sustainable. At deskbird, we are building tomorrow's workspace OS.",
+  "positions": [
+    {
+      "title": "Founder and Chief Product Officer",
+      "company": "deskbird",
+      "companyUrl": "https://www.linkedin.com/company/deskbird",
+      "description": "We are building the first workspace management platform that comprehensively maximizes people engagement and office efficiency.",
+      "location": "Munich",
+      "start": "2020-09",
+      "end": null,
+      "dateRange": "Sep 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Strategy Manager",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Munich",
+      "location": null,
+      "start": "2018-07",
+      "end": "2020-08",
+      "dateRange": "Jul 2018 – Aug 2020",
+      "current": false
+    },
+    {
+      "title": "Strategy Consultant",
+      "company": "The Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": null,
+      "start": "2017-01",
+      "end": "2018-06",
+      "dateRange": "Jan 2017 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Other professional experiences",
+      "company": "various",
+      "companyUrl": null,
+      "description": "2013-2015: Siemens AG - Corporate Strategy (working student)\n2013: Henry Schein Inc. - Corporate Treasury (New York, USA, intern)",
+      "location": null,
+      "start": "2013-01",
+      "end": "2015-10",
+      "dateRange": "Jan 2013 – Oct 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Electrical Engineering and Information Technology",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Research at School of Information, UC Berkeley",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Electrical Engineering and Information Technology",
+      "dateRange": "2010 – 2013"
+    }
+  ],
+  "skills": [
+    "Unternehmensstrategie",
+    "Projektmanagement",
+    "Produktentwicklung",
+    "Business Strategy",
+    "Java",
+    "Unternehmertum",
+    "Entrepreneurship",
+    "Product Development",
+    "Product Management",
+    "Unternehmensberatung",
+    "Softwareentwicklung",
+    "Analysen",
+    "Machine Learning",
+    "Produktmanagement",
+    "Software Development",
+    "Matlab"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "deskbird",
+    "tagline": "The workplace management platform that puts employees first.",
+    "description": "deskbird is the workplace management platform that puts employees first. With an intuitive booking system for desk and other resources, powerful analytics, visitor management and easy integrations, it saves costs, optimizes office space, boosts productivity, and fosters team collaboration—all in one easy-to-use app.\n\nOver 5,000 offices globally, including industry leaders like Deloitte, Decathlon, Philips, Heineken, and Samsung, use deskbird to simplify their hybrid office operations. \n\nMade in Switzerland and hosted in Germany, our cloud infrastructure is fully certified with industry standards, such as ISO27001 and SOC2. \n\ndeskbird is the only workplace management platform you will ever need for an efficient hybrid office. \n\nReady to make the switch?",
+    "industry": "Software Development",
+    "website": "https://www.deskbird.com/?utm_medium=social&utm_source=linkedin&utm_campaign=page-description",
+    "linkedInUrl": "https://www.linkedin.com/company/deskbird",
+    "employeeCount": 111,
+    "foundedYear": 2020,
+    "location": "Pfäffikon, Switzerland",
+    "specialities": [
+      "Flexible Working",
+      "Flex Work",
+      "Office",
+      "Flex Desk",
+      "Workplace Health & Safety",
+      "Workplace Management",
+      "Hot Desking",
+      "Smart Office",
+      "Desk Booking",
+      "Employee Experience",
+      "Hybrid Scheduling",
+      "HR Solutions",
+      "Desk Sharing",
+      "Office Management",
+      "Smart Work",
+      "Room Booking",
+      "Visitor Management",
+      "Workforce Management"
+    ]
+  }
+}

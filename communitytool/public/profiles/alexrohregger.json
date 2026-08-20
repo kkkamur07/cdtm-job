@@ -1,0 +1,175 @@
+{
+  "id": "alexrohregger",
+  "name": "Alex Rohregger",
+  "headline": "Partner at Leitmotif | Robotics & Industrial AI",
+  "avatar": {
+    "sm": "/avatars/alexrohregger-sm.webp",
+    "lg": "/avatars/alexrohregger.webp",
+    "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAABQBQCdASogACAAPtFeo04oJSKiKA1RABoJQAB8kO/f4OBJ2Q0bdoB+7yowaW3M+I9lSAAA/vulY0lrzcYj/evMtN4qk8mjB33jIS7mMy1jf9oatlkpx+Y3HtjW06pQosAWnYgwPyDcV7O9JCRdbbwS5iyiUc3laDMWATI02U3wM+75UmXR4aMQidKXD25427tjcGdfjHhkHk0Pczxkifvt9xf3iswgVcmGRqd5P1iYFf+66Mhun6JHUgt2QxafJqwAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/alexrohregger",
+  "personId": 1050,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Alex Rohregger",
+  "ca": null,
+  "summary": "Robotics.\nFor all my work and current projects:\nhttps://www.alexrohregger.com/",
+  "positions": [
+    {
+      "title": "Partner",
+      "company": "Leitmotif",
+      "companyUrl": "https://www.linkedin.com/company/leitmotifvc",
+      "description": "I focus on partnering with founders building hardtech in robotics and industrial AI across Europe and the US. \n\nSo far partnered with: RobCo",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-02",
+      "end": null,
+      "dateRange": "Feb 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Vice President",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-03",
+      "end": "2024-12",
+      "dateRange": "Mar 2021 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "IoT Hardware Engineer",
+      "company": "MonitorFish GmbH",
+      "companyUrl": "https://www.linkedin.com/company/monitorfish",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "UX/UI EOS Education",
+      "company": "EOS",
+      "companyUrl": "https://www.linkedin.com/company/eos",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Robot Control and Interface",
+      "company": "Kea Robotics GmbH",
+      "companyUrl": "https://www.linkedin.com/company/robco-therobotcompany",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Venture Development",
+      "company": "better ventures group",
+      "companyUrl": "https://www.linkedin.com/company/betterventures-io",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Equipment Management Intern",
+      "company": "Rolls-Royce",
+      "companyUrl": "https://www.linkedin.com/company/rolls-royce",
+      "description": null,
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MSc., Robotics, Cognition & Intelligence",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Karlsruhe Institute of Technology (KIT)",
+      "degree": "Bachelor of Science, Mechanical Engineering",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "Frankfurt International School",
+      "degree": "International Baccalaureate Bi-Lingual Diploma",
+      "dateRange": "2010 – 2014"
+    }
+  ],
+  "skills": [
+    "Computer Aided Design (CAD)",
+    "Cinema 4D",
+    "PTC Creo",
+    "Adobe Photoshop",
+    "Java",
+    "Adobe Premiere Pro",
+    "Microsoft Word",
+    "Computer-Hardware",
+    "Computerkenntnisse",
+    "Tutoring",
+    "Zeitmanagement",
+    "Leadership",
+    "Communication",
+    "Organisation",
+    "Additive Manufacturing",
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "Robotik",
+    "3D Printing"
+  ],
+  "languages": [
+    "Deutsch",
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Leitmotif",
+    "tagline": "Building a better world. Faster.",
+    "description": "Leitmotif is an independent venture capital firm backed by European industrial interests that actively bridges the innovation ecosystems of the US and Europe. With investors in Palo Alto and Munich, our first fund focuses on decarbonization and leans later stage. We have a soft spot for hard tech.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "https://leitmotif.vc/",
+    "linkedInUrl": "https://www.linkedin.com/company/leitmotifvc",
+    "employeeCount": 9,
+    "foundedYear": 2023,
+    "location": "Palo Alto, United States",
+    "specialities": []
+  }
+}

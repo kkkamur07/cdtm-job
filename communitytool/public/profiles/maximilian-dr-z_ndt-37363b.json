@@ -1,0 +1,200 @@
+{
+  "id": "maximilian-dr-z_ndt-37363b",
+  "name": "Maximilian Dr. Zündt",
+  "headline": "Head of E-Commerce Platform & Digital Transformation | Enterprise Architect | Passionate about Artificial Intelligence | CDTM",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/maximilian-dr-zündt-37363b",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "Work at EAO",
+  "positions": [
+    {
+      "title": "Principal Manager and Head of E-Commerce Platform & Digital Transformation",
+      "company": "EAO",
+      "companyUrl": "https://www.linkedin.com/company/eao",
+      "description": "Lead the strategic vision and roadmap for the group-wide e-commerce platform, ensuring alignment with business goals and customer experience objectives. Driving overall digital transformation initiatives, leveraging new digital technologies to optimize business processes and enhance platform functionalities. Strategic Alignment of Business-IT project portfolio and PMO lead.",
+      "location": "Hybrid",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Principal Manager and Head of Digital Transformation, Business PMO Lead & Enterprise Architect",
+      "company": "EAO",
+      "companyUrl": "https://www.linkedin.com/company/eao",
+      "description": "Discovering digital transformation potential within the EAO group following the company strategy and digital trends, program manager for the digitalization portfolio, digital enhancement of products, project manger for key digital transformation projects.",
+      "location": "Olten, Solothurn, Switzerland",
+      "start": "2019-11",
+      "end": "2025-01",
+      "dateRange": "Nov 2019 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Global Practice Head Enterprise Architecture Management",
+      "company": "Detecon Schweiz",
+      "companyUrl": "https://www.linkedin.com/company/detecon",
+      "description": "Head of the Global Enterprise Architecture Management Unit of Detecon International; work in diverse roles on projects such as Program Architect in global transformation projects, Solution architect and Building up Architecture functions for various customers",
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "start": "2015-06",
+      "end": "2019-11",
+      "dateRange": "Jun 2015 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Managing Consultant, Practice Lead Enterprise Architecture Management Detecon Schweiz",
+      "company": "Detecon Schweiz",
+      "companyUrl": "https://www.linkedin.com/company/detecon",
+      "description": "Management Consulting, IT Transformation, IT Strategy and Enterprise Architecture Management, Roll-out Management, TOGAF Certified Trainer",
+      "location": "Zurich, Switzerland",
+      "start": "2015-05",
+      "end": "2019-11",
+      "dateRange": "May 2015 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Senior Consultant",
+      "company": "Detecon Schweiz",
+      "companyUrl": "https://www.linkedin.com/company/detecon",
+      "description": "Management Consulting, IT Transformation, Enterprise Architecture Management, Roll-out Management, TOGAF Certified Trainer",
+      "location": "Zurich, Switzerland",
+      "start": "2010-10",
+      "end": "2015-06",
+      "dateRange": "Oct 2010 – Jun 2015",
+      "current": false
+    },
+    {
+      "title": "Consultant and Project Manager",
+      "company": "3DSE Management Consultants GmbH",
+      "companyUrl": "https://www.linkedin.com/company/3dse-management-consultants-gmbh",
+      "description": "Consultancy in Product Development (Systems Engineering), also performing cost-down, design to cost, requirements-, risk-, change-, configuration-, project- and test- management. Focus on aerospace, automotive OEM and transportation industries.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2007-04",
+      "end": "2010-09",
+      "dateRange": "Apr 2007 – Sep 2010",
+      "current": false
+    },
+    {
+      "title": "Research Assistant, PhD Candidate",
+      "company": "Technical University Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Research in Location Technologies, Location Services, LBS, Community-Based Systems",
+      "location": null,
+      "start": "2001-11",
+      "end": "2007-03",
+      "dateRange": "Nov 2001 – Mar 2007",
+      "current": false
+    },
+    {
+      "title": "Management Team and Project Manager",
+      "company": "Center for Digital Technology and Management",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2001-11",
+      "end": "2007-03",
+      "dateRange": "Nov 2001 – Mar 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Applied Data Science Course, No Code AI and Machine Learning, Artificial Intelligence",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Akademie für Mediation und Ausbildung",
+      "degree": "Grundausbildung Mediation, Mediation, Konflikt Management, Konflikt Coaching",
+      "dateRange": "2011 – 2012"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dr.-Ing., Communication Networks and Distributed Service Architectures for Location-Based Services",
+      "dateRange": "2002 – 2007"
+    },
+    {
+      "school": "University of Kent",
+      "degree": "MSc., Broadband and Mobile Communication Networks",
+      "dateRange": "2000 – 2001"
+    },
+    {
+      "school": "University of Kent",
+      "degree": "BEng (Hons.), Computer Systems Engineering",
+      "dateRange": "1997 – 2000"
+    },
+    {
+      "school": "Munich International School e.V.",
+      "degree": "Highschool & A-Level",
+      "dateRange": "1990 – 1997"
+    }
+  ],
+  "skills": [
+    "Digital Transformation",
+    "Digital Workplace",
+    "E-Commerce",
+    "Artificial Intelligence (AI)",
+    "Business-to-Business (B2B)",
+    "Project Portfolio Management",
+    "Project Management",
+    "Engineering",
+    "Product Development",
+    "Requirements Analysis",
+    "Management Consulting",
+    "Systems Engineering",
+    "Enterprise Architecture Management",
+    "Telecommunications",
+    "Business Planning",
+    "Product Management",
+    "Program Management",
+    "Integration",
+    "Management",
+    "Strategy",
+    "Mobile Devices",
+    "Architecture Management",
+    "Business Strategy",
+    "Consulting",
+    "IT Strategy"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "company": {
+    "name": "EAO",
+    "tagline": "EAO - Your Expert Partner for Human Machine Interfaces",
+    "description": "Human Machine Interfaces. Since 1947.\n\nEAO AG, a Swiss, family-owned company founded in 1947, has developed into one of the world’s leading manufacturers of high-quality industrial switches, complete custom HMI panels and interface systems, and specialised automotive switch systems.  \n\nWith over 600 dedicated employees, EAO has a global production and distribution network at its disposal.  EAO has production sites in Switzerland, Germany, North America and China, as well as 10 wholly owned international sales companies and distributors in over 50 countries, so we can guarantee global availability – around the world, around the clock.",
+    "industry": "Appliances, Electrical, and Electronics Manufacturing",
+    "website": "https://www.eao.com",
+    "linkedInUrl": "https://www.linkedin.com/company/eao",
+    "employeeCount": 510,
+    "foundedYear": 1947,
+    "location": "Olten, Switzerland",
+    "specialities": [
+      "Transportation",
+      "Automotive",
+      "Machinery",
+      "Heavy Duty & Special Vehicles",
+      "HMI Components",
+      "HMIS Systems",
+      "Human Machine Interfaces",
+      "The Human Touch",
+      "Swiss Touch",
+      "HMI",
+      "SwissTouch",
+      "HumanTouch"
+    ]
+  }
+}

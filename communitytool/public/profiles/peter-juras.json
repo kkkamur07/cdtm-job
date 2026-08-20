@@ -1,0 +1,164 @@
+{
+  "id": "peter-juras",
+  "name": "Peter Juras",
+  "headline": "Senior Engineering Manager at AutoScout24",
+  "avatar": {
+    "sm": "/avatars/peter-juras-sm.webp",
+    "lg": "/avatars/peter-juras.webp",
+    "blur": "data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAABwBgCdASogACAAPtFSpEuoJKOhsBgMAQAaCWQAwODzyo2JbbW4SXEjRHucUrIh9W4i7Sio4qHHp78ujgAA/v7CmgsUYwz7RB6U+rFSykKJU+DZkIiTx8rf3dbc5L8yIQ8KHCLOGoUtrVDOM0lTGeDj/rlqmf59hV/BAZ56H1HsI382tSZugzIDP/wOlFXmGwQWEu1nLmziClgryguShuNgOYbeeSZyqO1/fcjDG9Gxt8Sc+hx2PmTlNv+AMwt0lA8uVERp8ZUPjb6tM4dnoaA6yT0rMr3qwDfMufU9JMisFORzm4rdklSBpsmPnYgQGguLlgNqJ+Iz5L1TDWwQ95Vn441LJp2zY8mGw7jxOAAAAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/peter-juras",
+  "personId": 887,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": "Human-Computer Interaction",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Peter Juras",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Engineering Manager",
+      "company": "AutoScout24",
+      "companyUrl": "https://www.linkedin.com/company/autoscout24",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Engineering Manager",
+      "company": "AutoScout24",
+      "companyUrl": "https://www.linkedin.com/company/autoscout24",
+      "description": "User Acquisition | Growth group",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-07",
+      "end": "2024-12",
+      "dateRange": "Jul 2021 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "ORDA",
+      "companyUrl": "https://www.linkedin.com/company/orda-technologies",
+      "description": "Founded and built-up a multi-million euro venture capital backed start-up. Built-up, developed and led the product & engineering team. ORDA creates innovative mobile ordering and payment solutions in the hospitality industry.",
+      "location": "Munich Area, Germany",
+      "start": "2017-01",
+      "end": "2021-03",
+      "dateRange": "Jan 2017 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Program Manager",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Internship in the IW Tooling and App Lifecycle team (Microsoft Access). Designed, researched and user-tested core functionality for working with photos and media for an unreleased product.",
+      "location": "Redmond, WA",
+      "start": "2015-05",
+      "end": "2015-08",
+      "dateRange": "May 2015 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "mobileX AG",
+      "companyUrl": "https://www.linkedin.com/company/solvares-field-service-munich",
+      "description": "2014 - 2015: Worked on a WPF based application for mobile workforce management with a focus on touch friendliness and theming.\n2015 - 2017: Designed and implemented diagnostic upload plugins for the Cordova iOS, Android, and Windows (UWP) platforms with a React front-end.",
+      "location": "Munich, Germany",
+      "start": "2014-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2014 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Program Manager",
+      "company": "Microsoft",
+      "companyUrl": "https://www.linkedin.com/company/microsoft",
+      "description": "Internship in the Office Marketplace Experience Team. Increased the number of monthly reviews by 75% by designing and shipping new review functionality on the Office App Store.",
+      "location": "Dublin, Ireland",
+      "start": "2013-09",
+      "end": "2014-06",
+      "dateRange": "Sep 2013 – Jun 2014",
+      "current": false
+    },
+    {
+      "title": "Tutor",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Teaching various subjects including: Programming Basics, Introduction to Software Engineering and Information Management.",
+      "location": null,
+      "start": "2011-10",
+      "end": "2013-08",
+      "dateRange": "Oct 2011 – Aug 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Information Systems",
+      "dateRange": "2010 – 2013"
+    }
+  ],
+  "skills": [
+    "Node.js",
+    "Amazon Web Services (AWS)",
+    "React Native",
+    "Software Engineering",
+    "Mobile Applications",
+    "Start-ups",
+    "Web Services",
+    "JavaScript",
+    "React.js",
+    "GraphQL",
+    "AWS CloudFormation",
+    "Amazon ECS",
+    "AWS Lambda",
+    "AWS Elastic Beanstalk",
+    "Software as a Service (SaaS)",
+    "Java",
+    "Android",
+    "C#",
+    "Python",
+    "Serverless Computing"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "AutoScout24",
+    "tagline": null,
+    "description": "As the largest pan-European online car market with over 2 million vehicle offers,  around 30 million users per month, more than 43,000 car dealer partners and over 800 employees, AutoScout24 offers innovative solutions and empowering services. \n\nThe company's footprint includes the European core markets of Germany, Belgium, Luxembourg, the Netherlands, Italy, France, Austria, Norway, Denmark, Poland, and Sweden. \n\nThe AutoScout24 Group offers a wide range of automotive solutions, enabling users to find, finance, buy, subscribe to, lease, and sell both used and new cars. As a comprehensive marketplace for mobility, AutoScout24 makes targeted investments in the growth areas of leasing, car subscriptions, electromobility and online car buying.\n\nWith AutoScout24 smyle, the marketplace enables its users to buy used cars entirely online and have them delivered right to their doorstep. Fully financed, insured, and registered – ready to drive. Germany's largest marketplace for leasing offers, LeasingMarkt.de, has been part of the AutoScout24 Group since 2020.  The B2B auction platform AUTOproff joined the Group in 2022. Collectively, these marketplaces are significantly driving the digitalization of the European car trade.\n\nAutoScout24 is committed to making the internet a safer place. We are proud to be one of the founding members of the initiative \"Sicherer Autokauf im Internet” (Initiative for Safe Car Purchasing Online).",
+    "industry": "Software Development",
+    "website": "https://www.autoscout24.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/autoscout24",
+    "employeeCount": 834,
+    "foundedYear": null,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

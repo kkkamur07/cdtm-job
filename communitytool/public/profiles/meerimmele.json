@@ -1,0 +1,162 @@
+{
+  "id": "meerimmele",
+  "name": "Marissa Rimmele",
+  "headline": "VC at DN Capital | exMcKinsey | CDTM",
+  "avatar": {
+    "sm": "/avatars/meerimmele-sm.webp",
+    "lg": "/avatars/meerimmele.webp",
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAAAQBgCdASogACAAPrlInEunJCKht+gA4BcJYgBTAFwgyq7EV5aA2hfFI/tDkKLgtOvUQTcVS401CAAA/v57cd9SDLxBExa0IKB7vaCrsKA/Rz67n+ErgbTU90ILtr7HjKkTSka7Fl2Vk7HhsFgISK3DkcMrPjwD1rJu6adFAX+4+fgKn42hBJC2EoMVvvMJRl8fgFpb6g19Lp6FXY8sknQw6qoF/NBxTshIEQ8ita5A5Q0dYjQAVGNeiuF4aIaKHsNwSOQLOpyy+f3fdgs3nCPsPFHfBqduYivbRapgu1wytOdm1VyoowAA"
+  },
+  "location": "London, United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/meerimmele",
+  "personId": 767,
+  "classes": [
+    {
+      "id": 84,
+      "label": "Fall 2018",
+      "season": "Fall",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2018",
+  "major": "Mathematics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Marissa Rimmele",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "VC Investor",
+      "company": "DN Capital",
+      "companyUrl": "https://www.linkedin.com/company/dn-capital",
+      "description": null,
+      "location": "London Area, United Kingdom",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Senior Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2022 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Business Analytics and Strategy",
+      "company": "Kyte",
+      "companyUrl": "https://www.linkedin.com/company/drivekyte",
+      "description": "San Francisco Bay Area",
+      "location": null,
+      "start": "2021-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Private Equity",
+      "company": "Bregal Unternehmerkapital GmbH",
+      "companyUrl": "https://www.linkedin.com/company/bu-bregal-unternehmerkapital",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "The Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Oxford",
+      "degree": "Master of Business Administration - MBA",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Mathematics",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Mathematics",
+      "dateRange": null
+    },
+    {
+      "school": "The Hong Kong University of Science and Technology",
+      "degree": "Semester Abroad, Mathematics",
+      "dateRange": null
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Python (Programming Language)",
+    "Teamwork",
+    "Project Management",
+    "R",
+    "Agile Methoden",
+    "Research",
+    "Java",
+    "Microsoft Office",
+    "Public Speaking"
+  ],
+  "languages": [],
+  "company": {
+    "name": "DN Capital",
+    "tagline": null,
+    "description": "DN Capital is a global early stage and growth capital investor focused on Seed, Series A and select series B investments in fintech, SaaS, digital media, e-commerce, marketplaces, mobile applications and software companies. The firm was founded in 2000 and has operations in London, Berlin and Silicon Valley. DN Capital’s previous funds are top performers and the firm is one of the lead investors in companies such as Endeca (sold to Oracle), Shazam (one of the world’s leading mobile app), Auto1 (world's largest used car marketplaces), Purplebricks (IPO London) and Quandoo (sold to Recruit). \n\nThe professionals at DN Capital bring over 75 years of private equity experience to their investments, and actively work with portfolio companies to steward their growth through the various stages of development. Additional information about the firm and its portfolio companies can be found at http://www.dncapital.com.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://www.dncapital.com",
+    "linkedInUrl": "https://www.linkedin.com/company/dn-capital",
+    "employeeCount": 86,
+    "foundedYear": 2000,
+    "location": "London, United Kingdom",
+    "specialities": [
+      "Venture Capital",
+      "Growth capital"
+    ]
+  }
+}

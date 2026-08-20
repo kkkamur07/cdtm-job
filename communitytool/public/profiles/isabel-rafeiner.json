@@ -1,0 +1,200 @@
+{
+  "id": "isabel-rafeiner",
+  "name": "Isabel Rafeiner",
+  "headline": "VC @ Acton Capital",
+  "avatar": {
+    "sm": "/avatars/isabel-rafeiner-sm.webp",
+    "lg": "/avatars/isabel-rafeiner.webp",
+    "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAADQBACdASogACAAPtFYpEyoJSOiKA1RABoJQBm4CLd24KZ0s9zd2RWDIyQ8Y5dnDgD+83E8slmf8fu84wBIDuxmCHkF+jradhZxk+/0QL7/gjXDYEQSRV/1SHCPPSa5ciOmdB0zUu/2G7YYvPzpD1z2n7SwzhCqyk/QDiU4YLiDzK4VCj6pKmjhEN0qEP04UsRpNM1CX/JGmpTUuMPokm4JNFvtSWFIhiAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/isabel-rafeiner",
+  "personId": 1137,
+  "classes": [
+    {
+      "id": 87,
+      "label": "Spring 2020",
+      "season": "Spring",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2020",
+  "major": "B.Sc. in Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Isabel Rafeiner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Investment Associate",
+      "company": "Acton Capital",
+      "companyUrl": "https://www.linkedin.com/company/acton-capital-partners",
+      "description": null,
+      "location": null,
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment Analyst",
+      "company": "Acton Capital",
+      "companyUrl": "https://www.linkedin.com/company/acton-capital-partners",
+      "description": null,
+      "location": "München",
+      "start": "2024-09",
+      "end": "2025-09",
+      "dateRange": "Sep 2024 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Venture Scout",
+      "company": "FoodLabs",
+      "companyUrl": "https://www.linkedin.com/company/foodlabsvc",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Project Development / Metaverse Grid",
+      "company": "University of St.Gallen",
+      "companyUrl": "https://www.linkedin.com/company/university-of-st-gallen",
+      "description": null,
+      "location": null,
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Venture Capital",
+      "company": "Flash Ventures",
+      "companyUrl": "https://www.linkedin.com/company/flashvc",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Product Management",
+      "company": "UNCORRUPTED",
+      "companyUrl": "https://www.linkedin.com/company/uncorruptedbeauty",
+      "description": null,
+      "location": null,
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Digital Consultant",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "INVERS",
+      "companyUrl": "https://www.linkedin.com/company/invers-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Co-Founder and Podcast Host",
+      "company": "Mostly Awesome Podcast",
+      "companyUrl": "https://www.linkedin.com/company/mostly-awesome-podcast",
+      "description": null,
+      "location": "München",
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "Pina",
+      "companyUrl": "https://www.linkedin.com/company/pina-earth",
+      "description": null,
+      "location": "Metropolregion München",
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Trend research: Public Administration in the digital era",
+      "company": "Tech4Germany",
+      "companyUrl": "https://www.linkedin.com/company/tech4germany",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of St.Gallen",
+      "degree": "Master's degree, MBI",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor's degree, Business administration (BWL)",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Acton Capital",
+    "tagline": "Backing companies ready to scale, built to last. We invest in Startups at Series A and beyond.",
+    "description": "Acton Capital is a leading European growth-stage venture capital firm with a presence in Munich and Vancouver. Since 1999, the Acton team invests in tech-enabled business models across industries, to create value for the long run. \nWith more than two decades of investment experience, Acton Capital has supported +100 startups on their way to market leadership, incl. global category leaders like AlphaSights, Clio, HomeToGo or Mambu.\n\n\nIMPRINT: Acton Capital Partners GmbH  //  Widenmayerstr. 29, 80538 Munich, Germany  //  Register Court Munich: HRB 171321  //  VAT No: DE259198323  //  Managing Directors: Dr. Christoph Braun, Dr. Paul-Bernhard Kallen, Fritz Oidtmann, Dr. Jan-Gisbert Schultze, Frank Seehaus, Sebastian Wossagk.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://www.actoncapital.com",
+    "linkedInUrl": "https://www.linkedin.com/company/acton-capital-partners",
+    "employeeCount": 28,
+    "foundedYear": 1999,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Venture Capital",
+      "Growth Capital",
+      "FinTech",
+      "SaaS",
+      "Mobility & Travel of the Future",
+      "sustainable investing",
+      "Marketplaces"
+    ]
+  }
+}

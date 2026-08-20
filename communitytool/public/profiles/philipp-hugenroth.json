@@ -1,0 +1,127 @@
+{
+  "id": "philipp-hugenroth",
+  "name": "Philipp Hugenroth",
+  "headline": "HCI | MIT Media Lab | CDTM | prev. Spotify",
+  "avatar": {
+    "sm": "/avatars/philipp-hugenroth-sm.webp",
+    "lg": "/avatars/philipp-hugenroth.webp",
+    "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBQCdASogACAAPtFcok4oJSKiKA1RABoJQBllj24YJg1oDgpt8t6ikN6xqqakuKd+kAD+3trgb8qYaaBdib5vZxLZ6DMTkEqeN5s/r1hw5kZf+a1sUP8oRTNrZKlduZcpAcb1RMNgzdhSFYaBM4KrckZ9N/rGcbt1Kp1LuK4m6CYP9RXj3rTsBHJGa7arCz7wteVJFwLg0EQsA2vX3t28JFxZgSdVkBdz+juscZwE4dYgAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/philipp-hugenroth",
+  "personId": 2018,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Human Computer Interaction",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Philipp Hugenroth",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company": "Spotify",
+      "companyUrl": "https://www.linkedin.com/company/spotify",
+      "description": "- Core contributor on open source Backstage with >3000 companies adopting (including e.g. Zalando, American Airlines, Lego), >26 000 stars & >1400 contributors\n- Focus on improving the user interface & making it easier to adopt Backstage\n- Maintained internal developer portal at Spotify for >4000 Engineers & >2000 DAU improving overall productivity & engineering happiness \n- Member of Spotify Open Source Program Office group \n- Data Science Embed forecasting Spotify’s R&D Carbon Footprint\n- Content Moderation Tool for in-app voice reactions for podcast tested in New Zealand\n\nTechnologies: TypeScript, React, Node.js, Kubernetes, Python, SQL",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "start": "2021-11",
+      "end": "2024-05",
+      "dateRange": "Nov 2021 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Full-Stack Engineer (Internship)",
+      "company": "Spotify",
+      "companyUrl": "https://www.linkedin.com/company/spotify",
+      "description": "After contributing to Backstage during the pandemic I joined the team for an internship and focused on improving the UX/UI of Backstage Open Source.\n\nTechnologie: TypeScript, React",
+      "location": "Münster, North Rhine-Westphalia, Germany",
+      "start": "2021-06",
+      "end": "2021-08",
+      "dateRange": "Jun 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Front-End Engineer (Working student)",
+      "company": "HoloBuilder",
+      "companyUrl": "https://www.linkedin.com/company/faro-building-insights",
+      "description": "- Helped building dashboard enabling general constructors to manage their projects and teams and provide analytics on the use of HoloBuilder\n\nTechnologies: TypeScript, Vue.js, React",
+      "location": "Aachen, North Rhine-Westphalia, Germany",
+      "start": "2018-05",
+      "end": "2020-02",
+      "dateRange": "May 2018 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Full-Stack Engineer (Trainee)",
+      "company": "Tobit Laboratories AG",
+      "companyUrl": "https://www.linkedin.com/company/tobitlabs",
+      "description": "- Worked on  web app for gastronomy staff scheduling and payroll\n- Collaborated closely with product, design & engineering colleagues from ideation to release\n\nTechnologies: JavaScript, React, C#, SQL",
+      "location": "Ahaus, North Rhine-Westphalia, Germany",
+      "start": "2016-08",
+      "end": "2017-04",
+      "dateRange": "Aug 2016 – Apr 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Researcher, Human Computer Interaction",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master's degree, Human Computer Interaction",
+      "dateRange": "2024"
+    },
+    {
+      "school": "RWTH Aachen University",
+      "degree": "Bachelor's degree, Computer Science",
+      "dateRange": "2017 – 2021"
+    }
+  ],
+  "skills": [
+    "TypeScript",
+    "React.js",
+    "Vue.js",
+    "JavaScript",
+    "Git",
+    "Node.js"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Spotify",
+    "tagline": "Passionate music fans. Innovative tech pros. Perfect harmony. Join our band.",
+    "description": "Deliver creativity to the world -- one note, one voice, one idea at a time.\n\nAt Spotify, we focus relentlessly on building the best and most valuable experience available anywhere, enhancing every moment by connecting the world to the art and the creatives who shape it.\n\nSpotify transformed music listening forever when it launched in Sweden in 2008. Discover, manage and share over 70m tracks for free, or upgrade to Spotify Premium to access exclusive features including offline mode, improved sound quality, and an ad-free music listening experience. \n\nToday, Spotify is the most popular global audio streaming service with 365m users, including 165m subscribers across 178 markets. We are the largest driver of revenue to the music business today.",
+    "industry": "Musicians",
+    "website": "http://www.lifeatspotify.com",
+    "linkedInUrl": "https://www.linkedin.com/company/spotify",
+    "employeeCount": 18655,
+    "foundedYear": 2006,
+    "location": "Stockholm, Sweden",
+    "specialities": []
+  }
+}

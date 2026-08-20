@@ -1,0 +1,145 @@
+{
+  "id": "mohamed-ali-razouane",
+  "name": "Mohamed Ali Razouane",
+  "headline": "Co-Founder at Predium Technology GmbH",
+  "avatar": {
+    "sm": "/avatars/mohamed-ali-razouane-sm.webp",
+    "lg": "/avatars/mohamed-ali-razouane.webp",
+    "blur": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAACQBQCdASogACAAPtFWpUwoJKOiKA1RABoJZADLpYxHLbTNkRZe1FUpJhOt+ngedCr1wYYUAAD+/mBAF2w9l5RRZNQ5SgweFWbedsjfPqDQIcUWyAjeH4sX0VPvWfFyuIDWSadCjJ1kG0smDYvPFVjlBq7yUg6cxOytwP50Xr5nroyfoAO0SpVE2uZm18H9s452HePTGaF7E5h5yu1dA9A+7KhTyvETrB5ga5259ko/UICsAUX59tWzjLUakavdQf9X0wohn1PBBx4ao+nVxroOU0b0ANEtWAAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/mohamed-ali-razouane",
+  "personId": 771,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Mohamed Ali Razouane",
+  "ca": null,
+  "summary": "🇵🇸",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Predium",
+      "companyUrl": "https://www.linkedin.com/company/predium-technology",
+      "description": "Product, Data",
+      "location": null,
+      "start": "2021-01",
+      "end": null,
+      "dateRange": "Jan 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Engineering Leadership Program",
+      "company": "NI (National Instruments)",
+      "companyUrl": "https://www.linkedin.com/company/niglobal",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Tesla",
+      "companyUrl": "https://www.linkedin.com/company/tesla-motors",
+      "description": null,
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Data Science",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Technology Consulting",
+      "company": "Capgemini Invent",
+      "companyUrl": "https://www.linkedin.com/company/capgemini-invent",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Data Science",
+      "company": "Bragi",
+      "companyUrl": "https://www.linkedin.com/company/bragi",
+      "description": null,
+      "location": null,
+      "start": "2015-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2015 – Dec 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Electrical Engineering and Information Technology",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Visiting Research Scholar, Human Computer Interaction",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Electrical Engineering and Information Technology",
+      "dateRange": "2013 – 2016"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Arabic",
+    "French",
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Predium",
+    "tagline": "Effective capital decisions in the real estate industry",
+    "description": "Manage your real estate portfolio with foresight. With Predium’s Real Estate Intelligence Platform, decision-makers gain clarity and confidence at a glance. Understand your property portfolio holistically and identify where your capital delivers the greatest value - both economically and sustainably.",
+    "industry": "Software Development",
+    "website": "https://www.predium.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/predium-technology",
+    "employeeCount": 58,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

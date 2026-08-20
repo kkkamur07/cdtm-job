@@ -1,0 +1,195 @@
+{
+  "id": "levile",
+  "name": "viet le-martin",
+  "headline": "investor; prev. partner @ general catalyst",
+  "avatar": {
+    "sm": "/avatars/levile-sm.webp",
+    "lg": "/avatars/levile.webp",
+    "blur": "data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAAAQBgCdASogACAAPs1YpEunpaOhsBgMAPAZiWwAwN2Lg/JWW2ui2LxV/bcY3JZXlb/6xU9qeNY1H0AA/v6riAOcn/lUYl/TH+TGWxV0MMw6wwiQvrE/kdfvjLHMXuSQiLvpJVTBAqcYyXZoHyUTDDVaD1MzBO79+h9hBkB2rlPYOf3N91Qy5F4nEKXRKPHuqLuxm/xZeaH8rzfoKeMC2GATKxDgx99hGQY7WJ56h08CQHkLq7HRRnI2MdEW9Rr5a6ft4aZVjWN1RLP1aQmUNb/dIK5eucRt+5D9XUdOwQAKkmXochNj304F0cDVrPg1mDfftRRGbmGI2C8LlVWkc1ZekVoDQAAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/levile",
+  "personId": 832,
+  "classes": [
+    {
+      "id": 80,
+      "label": "Fall 2016",
+      "season": "Fall",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2016",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Viet Le",
+  "ca": null,
+  "summary": "I don't check LinkedIn regularly, but you can catch me on Twitter: https://twitter.com/vietdle",
+  "positions": [
+    {
+      "title": "creative director",
+      "company": "Zauber",
+      "companyUrl": "https://www.linkedin.com/company/zauber-technology",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "creative director & product designer",
+      "company": "Tacto",
+      "companyUrl": "https://www.linkedin.com/company/tactotechnology",
+      "description": null,
+      "location": null,
+      "start": "2024-10",
+      "end": "2025-05",
+      "dateRange": "Oct 2024 – May 2025",
+      "current": false
+    },
+    {
+      "title": "partner",
+      "company": "General Catalyst",
+      "companyUrl": "https://www.linkedin.com/company/general-catalyst",
+      "description": "I led: \nBlack Forest Labs, Langfuse, Langdock, Reworkd AI, and some tba \n\ntransitioned to Venture Partner",
+      "location": null,
+      "start": "2024-02",
+      "end": "2025-09",
+      "dateRange": "Feb 2024 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "angel",
+      "company": "world wide web",
+      "companyUrl": null,
+      "description": "founders that ship or help others ship: Black Forest Labs, Tacto, Taktile, Cal.com, Interaction/Poke, Kombo, Infisical, Gradient Labs, Dub.co, Dryft, and some tba 🫶",
+      "location": null,
+      "start": "2021-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2021 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "principal",
+      "company": "La Famiglia",
+      "companyUrl": "https://www.linkedin.com/company/la-famiglia-vc",
+      "description": "I led or sourced:\nMistral, Deel, Personio, Replo, Zavvy (exited to Deel), Tana, Frigade, Langfuse, Langdock, Texts.com (exited to Automattic), Back (exited to Personio), Mercavus (exited to Faire), Reworkd/AgentGPT, Y42, and some stealth ones",
+      "location": null,
+      "start": "2019-01",
+      "end": "2024-01",
+      "dateRange": "Jan 2019 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "ex co-founder, product & design",
+      "company": "Pina Earth",
+      "companyUrl": "https://www.linkedin.com/company/pina-de",
+      "description": "left the company in better hands. backed by y combinator",
+      "location": null,
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "machine learning researcher",
+      "company": "Luminovo",
+      "companyUrl": "https://www.linkedin.com/company/luminovo",
+      "description": "federated learning, some GPUs needed",
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "applied machine learning engineer",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": "naive bayes classifiers; no GPUs needed",
+      "location": null,
+      "start": "2017-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2017 – Dec 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Columbia University",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "drop out, Computer Science & Statistics",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "SQL",
+    "Marketing",
+    "Strategy",
+    "Business Development",
+    "Statistics",
+    "Data Science",
+    "Machine Learning",
+    "Deep Learning",
+    "Start-ups",
+    "Market Research",
+    "Entrepreneurship",
+    "Innovation Management",
+    "User Interface Design",
+    "Data Analysis",
+    "Swift",
+    "Python",
+    "Apache Spark",
+    "Scala",
+    "Video Production",
+    "Photography",
+    "Marktanalyse",
+    "Business-Intelligence"
+  ],
+  "languages": [
+    "German",
+    "Vietnamese",
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "General Catalyst",
+    "tagline": "Let's Venture Beyond.",
+    "description": "We partner with the world’s most ambitious entrepreneurs to drive resilience and applied AI. We support founders with a long-term view who challenge the status quo, partnering with them from seed to growth stage and beyond. With offices in the US, Europe, and India, we have supported the growth of 800+ businesses, including Airbnb, Anduril, Anthropic, Applied Intuition, Commure, Glean, Gusto, Helsing, Hubspot, Kayak, Livongo, Mistral, Ramp, Samsara, Snap, Stripe, Sword, and Zepto.\n \nFor more information, visit: www.generalcatalyst.com.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://www.generalcatalyst.com",
+    "linkedInUrl": "https://www.linkedin.com/company/general-catalyst",
+    "employeeCount": 401,
+    "foundedYear": 2000,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

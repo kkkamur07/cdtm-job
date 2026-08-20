@@ -1,0 +1,193 @@
+{
+  "id": "matthiasmoegerle",
+  "name": "Matthias Mögerle",
+  "headline": "CDTM | TUM | Technology. Execution. Entrepreneurship.",
+  "avatar": {
+    "sm": "/avatars/matthiasmoegerle-sm.webp",
+    "lg": "/avatars/matthiasmoegerle.webp",
+    "blur": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAADQBQCdASogACAAPtFcpU6oJSMiKAqpABoJYgDGfywToKT9Z3bmw7PV/O72tVWfr5crcA1tEzwAAP79u233V37mZHh5HQP3a3gpEPMA9kof1MXLL4P8jr5uW/FI5BLz6ySgeF0VFVI7OJJJ5uccbsDL3x63BcEsgC0Gv7jGZ4kK3RaW1gibO9H5F52sO2ktEnBL1m8QKIw3LRhyazvbqJto+vlPZVWFtRitV850rE7Uk/qhl4IPvRP9ZZtf1uJ/Ikemzl97Ggd629wtA1AAAA=="
+  },
+  "location": "Stuttgart, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/matthiasmoegerle",
+  "personId": 806,
+  "classes": [
+    {
+      "id": 80,
+      "label": "Fall 2016",
+      "season": "Fall",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2016",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Matthias Mögerle",
+  "ca": null,
+  "summary": "Entrepreneurial-minded with a high motivation to solve real-world problems.\nInterested in: Creating Values, Building Teams, and Developing Products\nContact me, if you are looking for tech advice, you want to challenge a business idea - always up for a cold beer.",
+  "positions": [
+    {
+      "title": "Head of Digital Lock Unit",
+      "company": "Häfele SE & Co KG",
+      "companyUrl": "https://www.linkedin.com/company/haefele-se-co-kg",
+      "description": null,
+      "location": "Kenzingen, Baden-Württemberg, Deutschland",
+      "start": "2023-01",
+      "end": "2023-12",
+      "dateRange": "Jan 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Geschäftsführer / COO",
+      "company": "ThingOS GmbH",
+      "companyUrl": "https://www.linkedin.com/company/thingos",
+      "description": "ThingOS is an IoT technology company. We are a growing team of currently 15 experts in the fields of computer science, electrical engineering, UX design and mechanical engineering. Using our profound tech expertise, we are developing IoT products and services - enabling our customers to create the next generation of IoT devices.  We cover the full product lifecycle - ideation, evaluation, development, production, service and support. ThingOS is located at the ARENA2036 – adding connectivity to smart production systems in the area of Industry 4.0. Another area are smart home applications, where we are connecting services, lights and sensors via Bluetooth® mesh and further technologies.",
+      "location": "Stuttgart",
+      "start": "2018-02",
+      "end": "2022-12",
+      "dateRange": "Feb 2018 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Sales Assistant - Automotive & Manufacturing Industries",
+      "company": "T-Systems",
+      "companyUrl": "https://www.linkedin.com/company/t-systems",
+      "description": "Internship supporting the Senior Vice President Global Automotive and Manufacturing Industries\n- Sales Campaigns\n- Preparation of business performance reviews\n- Business Development\n- Account Management\n- Recruiting Campaigns\n- Finance & Controlling",
+      "location": "Leinfelden-Echterdingen",
+      "start": "2015-04",
+      "end": "2015-07",
+      "dateRange": "Apr 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Sales Assistant for Energy Storage Solutions",
+      "company": "ADS-TEC Gruppe",
+      "companyUrl": "https://www.linkedin.com/company/ads-tec-energy",
+      "description": "Internship supporting the Head of Sales.\nSales of large battery-powered energy storage systems to energy providers and enterprises.",
+      "location": "Nürtingen",
+      "start": "2014-05",
+      "end": "2014-06",
+      "dateRange": "May 2014 – Jun 2014",
+      "current": false
+    },
+    {
+      "title": "Software Enginee",
+      "company": "ADS-TEC Gruppe",
+      "companyUrl": "https://www.linkedin.com/company/ads-tec-energy",
+      "description": "Internship - Software Engineer\n- Industrial Remote Management, Cloud\n- Industrial Graphical User Interface\n- Conception and Design of Back-End Database",
+      "location": "Leinfelden-Echterdingen, Baden-Württemberg, Deutschland",
+      "start": "2011-07",
+      "end": "2011-08",
+      "dateRange": "Jul 2011 – Aug 2011",
+      "current": false
+    },
+    {
+      "title": "CEO & Co-Founder",
+      "company": "aquaLEDs GmbH",
+      "companyUrl": "https://www.linkedin.com/company/aqualeds-de",
+      "description": "We founded and bootstrapped aquaLEDs in 2011 to develop and manufacture high-quality LED aquarium lights. Outstanding quality is our aspiration. All parts of our aquaLEDs lights are made to last for a very long time. That's why we are proud to be the only aquarium LED manufacturer that can provide 3 years of warranty on all parts. In addition, our lights can be configured and controlled per smartphone – providing the most suitable light for every aquarium.",
+      "location": "Unterensingen",
+      "start": "2011-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2011 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "BootUp GmbH",
+      "companyUrl": null,
+      "description": "Self Organized School Project\n- Facility monitoring system\n- Server based extension",
+      "location": null,
+      "start": "2008-09",
+      "end": "2009-06",
+      "dateRange": "Sep 2008 – Jun 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Computer Science",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "University of Stuttgart",
+      "degree": "Bachelor of Science (B.Sc.), Informatik // Computer Science",
+      "dateRange": "2011 – 2015"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Computer Science",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Online Course in Technology Entrepreneurship Part I & Part II",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Max-Eyth-Schule Kirchheim/Teck",
+      "degree": "Abitur Diploma",
+      "dateRange": "2008 – 2011"
+    }
+  ],
+  "skills": [
+    "Unternehmensführung",
+    "Start-ups",
+    "Cloud-Computing",
+    "Geschäftsentwicklung",
+    "Projektmanagement",
+    "Strategie",
+    "Strategy",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Management",
+    "Englisch"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Häfele SE & Co KG",
+    "tagline": "Thinking Ahead.",
+    "description": "Häfele is an experienced specialist for intelligent hardware technology, lighting and electronic locking systems.",
+    "industry": "Furniture and Home Furnishings Manufacturing",
+    "website": "https://www.haefele.de",
+    "linkedInUrl": "https://www.linkedin.com/company/haefele-se-co-kg",
+    "employeeCount": 561,
+    "foundedYear": 1923,
+    "location": "Nagold, Germany",
+    "specialities": [
+      "Beschläge",
+      "Lichtsysteme",
+      "elektronische Schließsysteme",
+      "Verbinder",
+      "Scharniere",
+      "Klappenbeschläge",
+      "Küchenausstattung",
+      "Schiebetüren",
+      "Elektrogeräte",
+      "Griffe",
+      "Möbelbau",
+      "Möbellicht",
+      "Raumlicht",
+      "Möbelbeschläge",
+      "Baubeschläge",
+      "Küchengeräte",
+      "Vernetzung"
+    ]
+  }
+}

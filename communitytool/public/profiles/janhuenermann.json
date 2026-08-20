@@ -1,0 +1,169 @@
+{
+  "id": "janhuenermann",
+  "name": "Jan Hünermann",
+  "headline": "Research at poolside | TUM, CDTM",
+  "avatar": {
+    "sm": "/avatars/janhuenermann-sm.webp",
+    "lg": "/avatars/janhuenermann.webp",
+    "blur": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAADwBQCdASogACAAPsFKoEunpCMht/qoAPAYCUAZvBEcFurYhQHTT5KWh2uYAH4NhZF95RTVA3jIAAD+/Xh8wt9ZA+ZCGGsgIsFRdYzmKeNjqj+/sPY6nVK9aNtyV8FbrMKmAgo2DFSdy/qQ4a5kRGOZ3QZQ1CNntgqObpvWL4RLHwIfyPFbS3Kng7/q3lyW2JPz81296T2dAlyOk73UAN0qQcTtgJkHTVU8SgLVGng0wJpGuYNZrgaWUyrX1wkt78UV+4LrZHTsnHkAh2HjrUEAAAA="
+  },
+  "location": "London, United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/janhuenermann",
+  "personId": 1190,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jan Hünermann",
+  "ca": null,
+  "summary": "https://janhuenermann.com",
+  "positions": [
+    {
+      "title": "Member of Technical Staff",
+      "company": "poolside",
+      "companyUrl": "https://www.linkedin.com/company/poolsideai",
+      "description": "poolside is building the world's most capable AI for software development.",
+      "location": "London Area, United Kingdom",
+      "start": "2025-05",
+      "end": "2026-02",
+      "dateRange": "May 2025 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Senior Applied Scientist",
+      "company": "Wayve",
+      "companyUrl": "https://www.linkedin.com/company/wayve-technologies",
+      "description": "• Team Lead for driving behaviour in simulation (multi-agent reinforcement learning)\n• Published scientific papers “Driving with LLMs” (ICRA 2024, 400+ citations) and “LingoQA” (ECCV 2024, 200+ citations)\n• Saved $s: optimized GPU utilization of large-scale training jobs with Nvidia Nsight to get close to 2x speed up",
+      "location": "Greater London",
+      "start": "2021-09",
+      "end": "2025-05",
+      "dateRange": "Sep 2021 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Venture Project",
+      "company": "Avi Medical",
+      "companyUrl": "https://www.linkedin.com/company/avimedical",
+      "description": "Intelligent scheduling software to reduce waiting times in medical practices",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-04",
+      "end": "2020-07",
+      "dateRange": "Apr 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Robot Software Engineering Intern",
+      "company": "Magazino GmbH",
+      "companyUrl": "https://www.linkedin.com/company/magazino-a-jungheinrich-company",
+      "description": "Perception & grasping for autonomous warehouse robots",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-10",
+      "end": "2019-12",
+      "dateRange": "Oct 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "AI Scholarship",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Computer vision for depth estimation from a single image, in environments with moving objects",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-04",
+      "end": "2021-03",
+      "dateRange": "Apr 2019 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Research on deep learning for emotion prediction",
+      "location": "Munich, Germany",
+      "start": "2018-11",
+      "end": "2019-07",
+      "dateRange": "Nov 2018 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineering Intern",
+      "company": "Demodern — Creative Technologies",
+      "companyUrl": "https://www.linkedin.com/company/demodern-creative-technologies",
+      "description": null,
+      "location": "Cologne, Germany",
+      "start": "2017-05",
+      "end": "2017-09",
+      "dateRange": "May 2017 – Sep 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Electrical Engineering",
+      "dateRange": "2017 – 2021"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Exchange Semester",
+      "dateRange": "2020"
+    }
+  ],
+  "skills": [
+    "High Performance Computing (HPC)",
+    "Deep Learning",
+    "Machine Learning",
+    "Computer Vision",
+    "User Interface Design",
+    "Artificial Intelligence (AI)",
+    "Robotics",
+    "Swift",
+    "JavaScript",
+    "C++",
+    "C (Programming Language)",
+    "Python (Programming Language)",
+    "PyTorch",
+    "SQL",
+    "Python",
+    "Reinforcement Learning",
+    "Neural Networks",
+    "Robot Operating System (ROS)",
+    "Machine Learning Algorithms",
+    "OpenCV"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Poolside",
+    "tagline": "We build the models. You build the future.",
+    "description": "We build the models. You build the future. AGI for the enterprise, starting with software agents.",
+    "industry": "Software Development",
+    "website": "https://poolside.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/poolsideai",
+    "employeeCount": 334,
+    "foundedYear": 2023,
+    "location": "San Francisco, United States",
+    "specialities": []
+  }
+}

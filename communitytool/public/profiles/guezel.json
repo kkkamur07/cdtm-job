@@ -1,0 +1,124 @@
+{
+  "id": "guezel",
+  "name": "Özgür Güzel",
+  "headline": "Founder of Puffi-Mat (Ranked #1 on Google) | Certified AI Prompting Expert ( Microsoft & Google ) | Optimizing Business with Generative AI |  Data Analysis",
+  "avatar": {
+    "sm": "/avatars/guezel-sm.webp",
+    "lg": "/avatars/guezel.webp",
+    "blur": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAABwBQCdASogACAAPslSoUunpKMht/VYAPAZCWUAzf2Luyq10VwB4TP2wtd6t1GPy93FWPGAAP7+qyd5k8vT437lo+bdj8o/RttjvohwHC9MHxdsFpIBr50P7xI2zVf0kRV5BulekOvVQHDB42nh/+e0usuNQkH+gJV50G6NSG2wF8CHnKJh50dRp/dMz+GmvHK5fEVbVHO9w+JGsa8e4xwXf3NJM0SJhK2RsZ7qKhqObVpiuJksb9P+Sk1qOW1QOJu8/SYttSdJoqqULgAAAA=="
+  },
+  "location": "Cologne Bonn, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/guezel",
+  "personId": 921,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Özgür Güzel",
+  "ca": null,
+  "summary": "Als Projektmanager bei Puffi-Mat.com nutze ich über 24 Jahre Erfahrung in der Industrie sowie meine Fähigkeiten in Betriebssystemen, Office 365 und Microsoft 365, um innovative Lösungen voranzutreiben. Ich bin zertifiziert in der Anwendung von KI für alltägliche Aufgaben und Datenanalyse, was mir ermöglicht, Prozesse zu optimieren und die Effizienz zu steigern.  \n\nMein Ziel ist es, durch den Einsatz von Generative AI und anderen modernen Technologien, den Erfolg von Puffi-Mat.com weiter auszubauen. Ich bin motiviert, kreative und nachhaltige Ansätze zu entwickeln, um das Snacking-Erlebnis neu zu definieren und das Franchise-System weiterzuentwickeln.",
+  "positions": [
+    {
+      "title": "Projektmanager",
+      "company": "Puffi-Mat.com",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Industriemeister",
+      "company": "Ford Motor Company",
+      "companyUrl": "https://www.linkedin.com/company/ford-motor-company",
+      "description": null,
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "start": "2001-05",
+      "end": null,
+      "dateRange": "May 2001 – Present",
+      "current": true
+    },
+    {
+      "title": "Geschäftsführer",
+      "company": "Belliatulus Media Services UG (haftungsbeschränkt)",
+      "companyUrl": null,
+      "description": null,
+      "location": "Germany",
+      "start": "2010-04",
+      "end": "2019-01",
+      "dateRange": "Apr 2010 – Jan 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "RFH Köln",
+      "degree": "Bachelor of Engineering (B.Eng.), Porduktionstechnik",
+      "dateRange": "2010 – 2017"
+    },
+    {
+      "school": "Abendgymnasium Köln",
+      "degree": "—-",
+      "dateRange": "2007 – 2009"
+    },
+    {
+      "school": "Höhere Handelsschule Lindenstr",
+      "degree": "—-",
+      "dateRange": "1991 – 1993"
+    },
+    {
+      "school": "Klöckner Moeller",
+      "degree": "Industriemechaniker",
+      "dateRange": "1994 – 1997"
+    },
+    {
+      "school": "Isbb Institut für schulischen und berufliche Bildung",
+      "degree": null,
+      "dateRange": "1993 – 1994"
+    },
+    {
+      "school": "TEUTLOFF Technische Akademie gGmbH",
+      "degree": "Industriemeister, —-",
+      "dateRange": "2009 – 2011"
+    }
+  ],
+  "skills": [
+    "Suchmaschinenoptimierung (SEO)",
+    "Künstliche Intelligenz",
+    "Betriebssysteme",
+    "Office 365",
+    "Microsoft 365",
+    "Google Workspace",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Microsoft Word",
+    "Customer Service",
+    "PowerPoint",
+    "English",
+    "Research",
+    "Windows",
+    "Outlook",
+    "Photoshop",
+    "Teaching",
+    "HTML"
+  ],
+  "languages": [],
+  "company": null
+}

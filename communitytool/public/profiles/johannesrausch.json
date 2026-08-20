@@ -1,0 +1,220 @@
+{
+  "id": "johannesrausch",
+  "name": "Johannes Rausch",
+  "headline": "Deep Learning Engineer @ NVIDIA",
+  "avatar": {
+    "sm": "/avatars/johannesrausch-sm.webp",
+    "lg": "/avatars/johannesrausch.webp",
+    "blur": "data:image/webp;base64,UklGRiYBAABXRUJQVlA4IBoBAACQBgCdASogACAAPtFSpEuoJKOhsBgMAQAaCWoAnTMhpcdUKNuz3TC9FEYflP5Psjq6RnffvvVRxStsUuHAAP7p0tQnD7fVHpZCMkP+3JiuCn3AKDGEsCTv/EH+5JZv910Sg2Dy8rcESDIqlRZHcRvQgiilHYNin5v/Z90bltwKeA3/Db2Rix5kRCXAILLxTempBDZTBJStQJ3osBVHSWdrl3idj77iAwsc22sq3V4WkSaFCTwTJ6wVLZz8L838fN/vqTX8dMVaGZMiA3FbKh0FuikwXnmD6+Fj4GZZoCslzW4eroVMaAoZnKjPAtZqjVhPeUnXv908LgJPe4TpLOFupjfE7gPrM8XCmzZgh/7Hyha2ZmK64iaAAAA="
+  },
+  "location": "Zurich, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/johannesrausch",
+  "personId": 700,
+  "classes": [
+    {
+      "id": 77,
+      "label": "Spring 2015",
+      "season": "Spring",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2015",
+  "major": "Computational Science and Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Johannes Rausch",
+  "ca": null,
+  "summary": "I am working as Deep Learning Engineer at NVIDIA on research and engineering problems related to LLM efficiency optimization. I've done a PhD in Computer Science at ETH Zurich, specializing in hierarchical document parsing, and have a background in Machine Learning, Computer Vision, LLMs and Medical AI. I'm passionate about leveraging machine learning to tackle real-world challenges and contributing my technical and interpersonal expertise to drive advancements at the intersection of technology and industry.",
+  "positions": [
+    {
+      "title": "Deep Learning Engineer",
+      "company": "NVIDIA",
+      "companyUrl": "https://www.linkedin.com/company/nvidia",
+      "description": "Research and engineering for LLM and VLM efficiency optimization.",
+      "location": null,
+      "start": "2024-05",
+      "end": null,
+      "dateRange": "May 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Intern",
+      "company": "NVIDIA",
+      "companyUrl": "https://www.linkedin.com/company/nvidia",
+      "description": "- Contributed LLM decoder-based neural network for Optical Character Recognition (OCR) to open source library [PyTorch].\n- Created large-scale dataset of rendered documents for training and evaluation of LLM-based document OCR systems [Python].\n- Developed system for joint, end-to-end layout recognition and OCR on document images by leveraging a multi-modal transformer architecture for processing both images and text [PyTorch].",
+      "location": null,
+      "start": "2022-06",
+      "end": "2023-02",
+      "dateRange": "Jun 2022 – Feb 2023",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": "- Demonstrated how to extract information from Wikipedia articles with limited manual labels by leveraging data programming and document structure with Fonduer.",
+      "location": null,
+      "start": "2018-08",
+      "end": "2018-09",
+      "dateRange": "Aug 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Scientific Assistant & PhD Student",
+      "company": "ETH Zürich",
+      "companyUrl": "https://www.linkedin.com/company/eth-zurich",
+      "description": "- Developed end-to-end ML systems for parsing of document renderings (e.g. PDF files, scans) that achieved SOTA performance by leveraging object detection methods, weak supervision, and novel large-scale datasets. [Python, TensorFlow, PyTorch].\n- Developed multi-modal transformer models to enable full end-to-end text recognition from document images [PyTorch].\n- Managed industry collaborations and supervised students in ML research projects, and served as teaching assistant at ETH.\n- PhD thesis: \"Building end-to-end Systems for Hierarchical Document Parsing and OCR\".",
+      "location": "Zurich, Zurich, Switzerland",
+      "start": "2017-11",
+      "end": "2023-09",
+      "dateRange": "Nov 2017 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "tacterion",
+      "companyUrl": "https://www.linkedin.com/company/tacterion",
+      "description": "- Development of a live visualization for novel tactile sensor technology.",
+      "location": null,
+      "start": "2016-12",
+      "end": "2017-03",
+      "dateRange": "Dec 2016 – Mar 2017",
+      "current": false
+    },
+    {
+      "title": "Visiting Student",
+      "company": "Harvard University",
+      "companyUrl": "https://www.linkedin.com/company/harvard-university",
+      "description": "- Master's thesis at Harvard Medical School - Beth Israel Deaconess Medical Center\n- Developed scar quantification method for LGE-CMR images using deep learning-based segmentation method.",
+      "location": null,
+      "start": "2016-05",
+      "end": "2016-11",
+      "dateRange": "May 2016 – Nov 2016",
+      "current": false
+    },
+    {
+      "title": "Exchange Student",
+      "company": "Universidad Politécnica de Madrid",
+      "companyUrl": "https://www.linkedin.com/company/universidad-politecnica-de-madrid",
+      "description": "- Erasmus Exchange at School of Telecommunications Engineering",
+      "location": null,
+      "start": "2014-02",
+      "end": "2014-06",
+      "dateRange": "Feb 2014 – Jun 2014",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "- Supported the teaching staff at the Siemens Technik Akademie by designing and preparing experiments for engineering classes.",
+      "location": null,
+      "start": "2013-11",
+      "end": "2014-02",
+      "dateRange": "Nov 2013 – Feb 2014",
+      "current": false
+    },
+    {
+      "title": "Visiting Student Researcher",
+      "company": "Stanford University",
+      "companyUrl": "https://www.linkedin.com/company/stanford-university",
+      "description": "- Bachelor thesis at the Radiological Sciences Laboratory: \"Kinect-based Correction of Overexposure Artifacts in Knee Imaging with C-arm CT Systems\".\n- Development of a cross-calibration phantom that allowed data fusion of Kinect camera and C-arm CT system for correction of imaging artifacts.",
+      "location": "Stanford",
+      "start": "2013-06",
+      "end": "2013-09",
+      "dateRange": "Jun 2013 – Sep 2013",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "- Sped up contract processing by requirement management team by automating the preparation of requirements in IBM DOORS and creating workflow wiki.",
+      "location": null,
+      "start": "2012-04",
+      "end": "2013-03",
+      "dateRange": "Apr 2012 – Mar 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "PhD, Computer Science",
+      "dateRange": "2017 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Computational Science and Engineering",
+      "dateRange": "2014 – 2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "FAU Erlangen-Nürnberg",
+      "degree": "Bachelor of Science (B.Sc.), Electrical, Electronics and Communications Engineering",
+      "dateRange": "2010 – 2014"
+    }
+  ],
+  "skills": [
+    "Deep Learning",
+    "Artificial Intelligence (AI)",
+    "Large Language Models (LLM)",
+    "Computer Vision",
+    "Machine Learning",
+    "Data Science",
+    "Python",
+    "PyTorch",
+    "Docker Products",
+    "Biomedical Engineering",
+    "Data Visualization",
+    "SQL",
+    "Git",
+    "Software Development",
+    "Optical Character Recognition (OCR)",
+    "Natural Language Processing (NLP)",
+    "LaTeX",
+    "Data Mining",
+    "Multimodal Machine Learning",
+    "Transformers"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "NVIDIA",
+    "tagline": null,
+    "description": "Since its founding in 1993, NVIDIA (NASDAQ: NVDA) has been a pioneer in accelerated computing. The company’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, ignited the era of modern AI and is fueling the creation of the metaverse. NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry.",
+    "industry": "Computer Hardware Manufacturing",
+    "website": "http://www.nvidia.com",
+    "linkedInUrl": "https://www.linkedin.com/company/nvidia",
+    "employeeCount": 46517,
+    "foundedYear": 1993,
+    "location": "Santa Clara, United States",
+    "specialities": [
+      "GPU-accelerated computing",
+      "artificial intelligence",
+      "deep learning",
+      "virtual reality",
+      "gaming",
+      "self-driving cars",
+      "supercomputing",
+      "robotics",
+      "virtualization",
+      "parallel computing",
+      "professional graphics",
+      "automotive technology"
+    ]
+  }
+}

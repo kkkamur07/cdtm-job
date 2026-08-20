@@ -1,0 +1,102 @@
+{
+  "id": "philipphuy",
+  "name": "Philipp Huy",
+  "headline": "Helping organizations be digital leaders",
+  "avatar": null,
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/philipphuy",
+  "personId": 1500,
+  "classes": [
+    {
+      "id": 58,
+      "label": "Fall 2005",
+      "season": "Fall",
+      "year": 2005,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2005",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Philipp Huy",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Managing Director",
+      "company": "Büro am Draht",
+      "companyUrl": "https://www.linkedin.com/company/dbad",
+      "description": null,
+      "location": null,
+      "start": "2017-01",
+      "end": null,
+      "dateRange": "Jan 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "CEO",
+      "company": "Pidoco GmbH",
+      "companyUrl": "https://www.linkedin.com/company/pidoco-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2008-01",
+      "end": null,
+      "dateRange": "Jan 2008 – Present",
+      "current": true
+    },
+    {
+      "title": "Corporate strategy student trainee",
+      "company": "Siemens AG",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": "Strategic scenario development, market research",
+      "start": "2006-05",
+      "end": "2006-07",
+      "dateRange": "May 2006 – Jul 2006",
+      "current": false
+    },
+    {
+      "title": "Product strategy summer intern",
+      "company": "Chrysler Group",
+      "companyUrl": "https://www.linkedin.com/company/fcagroup",
+      "description": "Conceptualization and development of automated sales management report, competitive and best practices analyses, digital right management strategy development",
+      "location": null,
+      "start": "2005-06",
+      "end": "2005-09",
+      "dateRange": "Jun 2005 – Sep 2005",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom/M.Sc.",
+      "dateRange": null
+    },
+    {
+      "school": "Williams College",
+      "degree": null,
+      "dateRange": "2002 – 2005"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Stiftung Bayerische EliteAkademie (BEA)",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": null
+}

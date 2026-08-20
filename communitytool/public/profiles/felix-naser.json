@@ -1,0 +1,227 @@
+{
+  "id": "felix-naser",
+  "name": "Felix Naser",
+  "headline": "Helping to build successful products and effective organizations",
+  "avatar": {
+    "sm": "/avatars/felix-naser-sm.webp",
+    "lg": "/avatars/felix-naser.webp",
+    "blur": "data:image/webp;base64,UklGRkIBAABXRUJQVlA4IDYBAAAQBgCdASogACAAPslQoUunpKMht/VYAPAZCWQAuwGNA8qlP08jwN7vdX9whS+dpGQF/JIIYhLROXAA/vHzZ+XjDNGEZ3yqpI1VNHuuyT/1n0bfSTmn1DVZ/lVb/Y7JgCLfSCX31KVuQrOSG35gknVbZEy5b2fwRw+OZr9ynE8lDRq2TtCgBot4KTRYMxxI0d/yfqp4JDO6iEjJ3zeoowdnmDUISbCPd+7zYXm9eNp0jHlwYQTmYWh+FNByzL5EGB5OAQpajd/r/+rlGX7Ov7qXLFz0qzjNXpgYcDCxZCL2h52R81aqftuYW0O4+ZfndBs0ccsAg3zCtrDdZGvU2H04QwUyg+c0d7jI+deF+K6KBLfvwEyJUQ0ncHe9yVGQUYgjDbYnzGwfK68dZpw5pPfzSE2iAAAA"
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/felix-naser",
+  "personId": 811,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Automotive Software Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Felix Naser",
+  "ca": null,
+  "summary": "Helping to build successful products and effective organizations: www.felixnaser.com\n\nBusiness inquiries: contact@felixnaser.com\n\nDisclaimer: This is my private account. All posts are solely reflecting my personal view.",
+  "positions": [
+    {
+      "title": "Operations",
+      "company": "Liquid AI",
+      "companyUrl": "https://www.linkedin.com/company/liquid-ai-inc",
+      "description": "We build efficient general-purpose AI at every scale.\n\n- Series A $250M 12/24\n- Seed $46.6M 12/23\n- employee #3, interim COO / Head of People (9/23-4/25)",
+      "location": "United States",
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Angel Investor",
+      "company": "Games of Torrmow GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-04",
+      "end": null,
+      "dateRange": "Apr 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Product & Leadership Team",
+      "company": "Pallon",
+      "companyUrl": "https://www.linkedin.com/company/pallon",
+      "description": "Running, optimizing and scaling automated condition assessment operations for sewers and manholes.",
+      "location": "Zurich & Munich",
+      "start": "2022-08",
+      "end": "2023-10",
+      "dateRange": "Aug 2022 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Founder & Managing Director",
+      "company": "SEN GmbH",
+      "companyUrl": "https://www.linkedin.com/company/software-entwicklung-naser-gmbh",
+      "description": "- Drainaic.ai got acquired by Pallon.\n- We create, deploy and operate intelligent software solutions for our partners.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-09",
+      "end": "2023-10",
+      "dateRange": "Sep 2020 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Global Software Project Lead BMW Maps Next Generation",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "- Focus on Asia between 2/19 and 9/20\n- Since 10/20 global coordination of BMW Maps software project",
+      "location": "Munich, SF, Seoul & Beijing",
+      "start": "2018-12",
+      "end": "2022-05",
+      "dateRange": "Dec 2018 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+      "companyUrl": "https://www.linkedin.com/company/mit-csail",
+      "description": "MIT CSAIL-Toyota Research Center for Autonomous Cars / Research Assistant",
+      "location": "Greater Boston",
+      "start": "2017-06",
+      "end": "2019-02",
+      "dateRange": "Jun 2017 – Feb 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Singapore-MIT Alliance for Research & Technology Centre",
+      "companyUrl": "https://www.linkedin.com/company/singapore-mit-alliance-for-research-&-technology",
+      "description": "Future Urban Mobility (FM) Interdisciplinary Research Group (IGR)",
+      "location": "Singapore",
+      "start": "2017-03",
+      "end": "2017-05",
+      "dateRange": "Mar 2017 – May 2017",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & Lead Engineer",
+      "company": "Venti Technologies",
+      "companyUrl": "https://www.linkedin.com/company/ventitechnologies",
+      "description": "- Autonomous vehicles startup\n- Series A $29M 3/23\n- Seed $8M 7/21",
+      "location": "Boston, Suzhou & Singapore",
+      "start": "2016-09",
+      "end": "2018-09",
+      "dateRange": "Sep 2016 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Visiting Student",
+      "company": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+      "companyUrl": "https://www.linkedin.com/company/mit-csail",
+      "description": "MIT CSAIL-Toyota Research Center for Autonomous Cars / Visiting Student",
+      "location": "Greater Boston",
+      "start": "2016-02",
+      "end": "2017-01",
+      "dateRange": "Feb 2016 – Jan 2017",
+      "current": false
+    },
+    {
+      "title": "SpeedUp Traniee",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich, Goodwood & Oxford",
+      "start": "2011-09",
+      "end": "2015-03",
+      "dateRange": "Sep 2011 – Mar 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Master's Degree, EECS",
+      "dateRange": "2017 – 2019"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Student, Automotive Software Engineering",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management, completed August 2020",
+      "dateRange": "2015 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), continued at MIT, Automotive Software Engineering",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Technische Hochschule Ingolstadt",
+      "degree": "Bachelor of Science (B.Sc.), Aviation and Automotive Computer Science",
+      "dateRange": "2011 – 2015"
+    },
+    {
+      "school": "Nelson Mandela University",
+      "degree": "Visiting Student, Semester Abroad",
+      "dateRange": "2013"
+    }
+  ],
+  "skills": [
+    "Autonomous Vehicles",
+    "Artificial Intelligence",
+    "Software Engineering",
+    "Systems Engineering",
+    "Project Management",
+    "Teamwork",
+    "Robotics",
+    "Robotic Operating System (ROS)",
+    "Machine Learning",
+    "C++",
+    "C",
+    "Deep Learning",
+    "Computer Vision",
+    "OpenCV",
+    "Matlab",
+    "Simulink",
+    "Python",
+    "FastAPI",
+    "LaTeX",
+    "R",
+    "Java",
+    "SPSS",
+    "Ubuntu",
+    "Microsoft Excel",
+    "Microsoft Azure",
+    "Amazon Web Services (AWS)",
+    "Google Cloud Platform (GCP)",
+    "Future Mobility",
+    "Lean Startup",
+    "Unified Modeling Language (UML)",
+    "PyTorch",
+    "TensorFlow",
+    "Keras"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Liquid AI",
+    "tagline": "We build efficient general-purpose AI at every scale.",
+    "description": "We build efficient general-purpose AI at every scale.",
+    "industry": "Information Services",
+    "website": "http://liquid.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/liquid-ai-inc",
+    "employeeCount": 113,
+    "foundedYear": 2023,
+    "location": "Cambridge, United States",
+    "specialities": []
+  }
+}

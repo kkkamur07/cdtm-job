@@ -1,0 +1,111 @@
+{
+  "id": "peter-pfannes-5879a01",
+  "name": "Peter Pfannes",
+  "headline": "Senior Leader Digital Government Hub at McKinsey & Company",
+  "avatar": null,
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/peter-pfannes-5879a01",
+  "personId": 1717,
+  "classes": [
+    {
+      "id": 100,
+      "label": "Fall 2000",
+      "season": "Fall",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2000",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Peter Pfannes",
+  "ca": null,
+  "summary": "Work at McKinsey & Company",
+  "positions": [
+    {
+      "title": "Senior Leader Digital Government Hub",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2020-07",
+      "end": null,
+      "dateRange": "Jul 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Managing Director and Location Partner Berlin",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": null,
+      "location": null,
+      "start": "2016-07",
+      "end": "2020-06",
+      "dateRange": "Jul 2016 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Berlin",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": null,
+      "location": null,
+      "start": "2010-10",
+      "end": "2016-06",
+      "dateRange": "Oct 2010 – Jun 2016",
+      "current": false
+    },
+    {
+      "title": "Engagement Manager",
+      "company": "McKinsey",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2004-05",
+      "end": "2010-06",
+      "dateRange": "May 2004 – Jun 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "London School of Economics and Political Science",
+      "degree": "Master of Science (M.Sc.), European Studies",
+      "dateRange": "2002 – 2003"
+    },
+    {
+      "school": "Ludwig-Maximilians Universität München",
+      "degree": "Diplom Kaufmann, Business Administration and Management, General",
+      "dateRange": "1997 – 2002"
+    }
+  ],
+  "skills": [
+    "Management Consulting",
+    "Strategy",
+    "Change Management",
+    "Business Strategy",
+    "Business Development"
+  ],
+  "languages": [],
+  "company": {
+    "name": "McKinsey & Company",
+    "tagline": null,
+    "description": "McKinsey & Company is a global management consulting firm. We are the trusted advisor to the world's leading businesses, governments, and institutions. \r\n\r\nWe work with leading organizations across the private, public and social sectors. Our scale, scope, and knowledge allow us to address problems that no one else can. We have deep functional and industry expertise as well as breadth of geographical reach. We are passionate about taking on immense challenges that matter to our clients and, often, to the world. \r\n\r\nWe work with our clients as we do with our colleagues. We build their capabilities and leadership skills at every level and every opportunity. We do this to help build internal support, get to real issues, and reach practical recommendations. We bring out the capabilities of clients to fully participate in the process and lead the ongoing work.",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.mckinsey.com",
+    "linkedInUrl": "https://www.linkedin.com/company/mckinsey",
+    "employeeCount": 38159,
+    "foundedYear": null,
+    "location": "United States",
+    "specialities": [
+      "Management Consulting"
+    ]
+  }
+}

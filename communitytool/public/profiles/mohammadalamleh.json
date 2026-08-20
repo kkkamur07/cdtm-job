@@ -1,0 +1,169 @@
+{
+  "id": "mohammadalamleh",
+  "name": "Mohammad A.",
+  "headline": "AI Engineer at Tensordyne",
+  "avatar": {
+    "sm": "/avatars/mohammadalamleh-sm.webp",
+    "lg": "/avatars/mohammadalamleh.webp",
+    "blur": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAAAwBgCdASogACAAPs1OokunpCMht/VYAPAZiWIAUwBcEcqs0h71McIGehnYnmpebH5rOrRyPBvpoEcAAP79eiQ8sY8jrdX/+rCUX5YsSPBhboAU2arJnMwaovBkhqhwJAw97s16lLV/Pi4A9t3NNyhLEuVB4vNomvLyJZBKei/tifJVmIIV2zZuU15DfqIXGVCWV0L/iAxTG23x9qf6CfmtgX4rMbZ2khZRUDfBo7bf8YWbXeBOygq7q8QqjWTvawr/Ylp7xVixQAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/mohammadalamleh",
+  "personId": 1245,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Data Engineering & Analytics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Mohammad Alamleh",
+  "ca": null,
+  "summary": "I am extremely eager for technology and every new thing it brings. I like scientific research tremendously and I aspire to become one of the contributors to it.",
+  "positions": [
+    {
+      "title": "Artificial Intelligence Engineer - Perception",
+      "company": "Tensordyne",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": "- Develop Computer Vision algorithms for Object Detection with Compression/Quantization in the loop design philosophy.\n- Develop Computer Vision algorithms to showcase Reconig's hardware capabilities",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2022-11",
+      "end": null,
+      "dateRange": "Nov 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Artificial Intelligence Engineer - Core Tech",
+      "company": "Tensordyne",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": "- Developed and implemented advanced techniques in quantization and compression-aware training for optimizing neural networks.\n- Specialized in neural network quantization and compression, leveraging expertise to achieve improved performance and efficiency of models.\n- Designed quantization-aware loss functions to ensure accurate and robust results in quantized models.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2020-11",
+      "end": "2022-11",
+      "dateRange": "Nov 2020 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Artificial Intelligence Engineer",
+      "company": "Tensordyne",
+      "companyUrl": "https://www.linkedin.com/company/tensordyne",
+      "description": "Neural Networks Quantization and Compression",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-03",
+      "end": "2020-11",
+      "dateRange": "Mar 2020 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "AppiaTech",
+      "companyUrl": "https://www.linkedin.com/company/appiatech",
+      "description": "- Developed and maintained airplanes-leasing software for AerData.\n- Tech Stack: Angular 6, .NET Core 2, ElasticSearch, RabbitMQ.\n- Built robust front-end and back-end components using Angular and .NET Core.\n- Implemented efficient search functionality with ElasticSearch.\n- Enabled seamless communication using RabbitMQ.",
+      "location": "Ramallah",
+      "start": "2017-09",
+      "end": "2018-05",
+      "dateRange": "Sep 2017 – May 2018",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "ASAL Technologies",
+      "companyUrl": "https://www.linkedin.com/company/asaltech",
+      "description": "- Ported Kernel modules from Linux to FreeBSD for Mellanox's Network Driver.\n- Utilized C and Python for implementation.",
+      "location": "Ramallah",
+      "start": "2015-11",
+      "end": "2017-08",
+      "dateRange": "Nov 2015 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "SEM COMUNICACIÓN",
+      "companyUrl": null,
+      "description": "Web Development Intern. \n* PHP\n* JavaScript\n* AngularJS",
+      "location": "Seville, Spain",
+      "start": "2015-08",
+      "end": "2015-09",
+      "dateRange": "Aug 2015 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "ASAL Technologies",
+      "companyUrl": "https://www.linkedin.com/company/asaltech",
+      "description": null,
+      "location": "Palestine - Ramallah",
+      "start": "2015-06",
+      "end": "2015-08",
+      "dateRange": "Jun 2015 – Aug 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - M.Sc., Data Engineering and Analytics",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Birzeit University",
+      "degree": "Bachelor's Degree, Computer Systems Engineering",
+      "dateRange": "2011 – 2016"
+    }
+  ],
+  "skills": [
+    "Model Compression",
+    "Neural Networks Compression",
+    "PyTorch",
+    "Object Detection",
+    "Deep Learning",
+    "Machine Learning",
+    "Computer Vision",
+    "Back-End Web Development",
+    "Database Development",
+    "Kernel Drivers",
+    "Python (Programming Language)",
+    "Artificial Intelligence (AI)",
+    "Teamwork",
+    "Programming",
+    "Data Structures",
+    "Java",
+    "C",
+    "Linux",
+    "SQL",
+    "Databases"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "company": {
+    "name": "Tensordyne",
+    "tagline": "Math, Chips, and Systems for AI Inference.",
+    "description": "Every leap in AI has followed the same pattern: first we made models bigger, then we tailored them, and now we let them think longer. \n\nEach step (scaling law) truly adds intelligence.\n\nBut in the end we land on the same runway: inference, and demand is exploding while power supply lags. \n\nWe asked: what if the next step isn’t stacking another law on top, but a zeroth law beneath them all. A law that changes AI math. \n\nBecause after all, AI is math, trillions of multiplies, and multiplication burns watts. \n\nTensordyne uses logarithmic compute to turn multiplies into adds, cutting power at the root. \n\nWe’ve cast our proprietary logarithmic math into custom silicon, hardware, interconnect, and system software. The result: one integrated system for multimodal GenAI inference designed for Hyperscaler and Neo Cloud data centers. \n\nWhat this means for our customers: With Tensordyne they can run the world’s largest multimodal models for thousands of users, with fewer racks, less power, and lower cost.\n\nWe’re well-funded and fast-moving, with co-headquarters in Sunnyvale, California and Munich, Germany, and a distributed team across North America and Europe.\n\nJoin us to change how the world runs Gen AI.",
+    "industry": "Computer Hardware Manufacturing",
+    "website": "https://www.tensordyne.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/recogni",
+    "employeeCount": 111,
+    "foundedYear": null,
+    "location": "Sunnyvale, United States",
+    "specialities": []
+  }
+}

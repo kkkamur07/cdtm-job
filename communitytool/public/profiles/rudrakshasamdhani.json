@@ -1,0 +1,234 @@
+{
+  "id": "rudrakshasamdhani",
+  "name": "Rudraksha Samdhani",
+  "headline": "CDTM | relAI | BCG",
+  "avatar": {
+    "sm": "/avatars/rudrakshasamdhani-sm.webp",
+    "lg": "/avatars/rudrakshasamdhani.webp",
+    "blur": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAACwBQCdASogACAAPtFcqU4oJSQiKAqpABoJQBihXRS2aT+AC37FUzx84VBtzBPn367gsA3AtvAA/vTXL5Fer+Qcq/Hr+YVTMeeTbimmPRlPu2fiBr5Shr8rZHj2en7/J2rL5xE6kxgmPf9/KLqreissEkfLAyZh4I7iCtFIYet0u/cfdAZu+vZi6vMS4vlZV/N4A2PtvjHwBoJbcZgBCocDZbx7HOe/Dk83bj16DGAYb0W7TxE6Y7JMVuh1M+wi4D9PgqhJCituYUONxvf3ZKKvwAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/rudrakshasamdhani",
+  "personId": 2010,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Computer Science & Statistics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Rudraksha Samdhani",
+  "ca": null,
+  "summary": "I like exploring and creating content, problem solving, and working on ideas with an entrepreneurial and creative mindset.",
+  "positions": [
+    {
+      "title": "AI Engineer",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": null,
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Graduate Fellow",
+      "company": "relAI Konrad Zuse School of Excellence",
+      "companyUrl": "https://www.linkedin.com/company/relai-konrad-zuse-school-of-excellence",
+      "description": null,
+      "location": null,
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Robotics Developer",
+      "company": "Capgemini",
+      "companyUrl": "https://www.linkedin.com/company/capgemini",
+      "description": "Reinforcement learning and Imitation Learning with teleoperation, Nvidia Omniverse",
+      "location": null,
+      "start": "2025-07",
+      "end": "2025-10",
+      "dateRange": "Jul 2025 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Product Design",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "University Collaboration - tool design, user research and figma prototyping for internal GenAI platform at BMW",
+      "location": null,
+      "start": "2024-10",
+      "end": "2025-02",
+      "dateRange": "Oct 2024 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Tutor for Functional Programming under Prof. Dr. Johannes Kinder",
+      "location": null,
+      "start": "2024-04",
+      "end": "2024-09",
+      "dateRange": "Apr 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Research",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": "Built Quantum Convolutional Neural Networks for Image Classification Task",
+      "location": null,
+      "start": "2024-04",
+      "end": "2024-08",
+      "dateRange": "Apr 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Data Analyst",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "AWS Glue, Athena, Quicksight and S3",
+      "location": null,
+      "start": "2023-09",
+      "end": "2024-08",
+      "dateRange": "Sep 2023 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Tutor for Programming and Modelling under Prof. Dr. (i.R.) François Bry.",
+      "location": null,
+      "start": "2023-04",
+      "end": "2023-09",
+      "dateRange": "Apr 2023 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Data Management",
+      "company": "Tata Consultancy Services",
+      "companyUrl": "https://www.linkedin.com/company/tata-consultancy-services",
+      "description": "Risk Management and Data Analysis with SoFi by Sphera",
+      "location": null,
+      "start": "2022-09",
+      "end": "2023-08",
+      "dateRange": "Sep 2022 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Member",
+      "company": "PionierGarage (Entrepreneurs.KIT.)",
+      "companyUrl": "https://www.linkedin.com/company/pioniergarage",
+      "description": "Working with Team Incubation",
+      "location": null,
+      "start": "2021-04",
+      "end": "2022-04",
+      "dateRange": "Apr 2021 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Sales and CRM Intern",
+      "company": "MIDWEST LOGISTICS LLP",
+      "companyUrl": null,
+      "description": "Internship Supply, Sales and Market Research",
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-09",
+      "dateRange": "Apr 2020 – Sep 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2024"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Statistics and Data Science",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Computer Science and Statistics",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Karlsruhe Institute of Technology (KIT)",
+      "degree": "Studienkolleg, Computer Science",
+      "dateRange": "2021 – 2022"
+    }
+  ],
+  "skills": [
+    "Haskell",
+    "Python (Programming Language)",
+    "SQL",
+    "Amazon Web Services (AWS)",
+    "Amazon QuickSight",
+    "Data Modeling",
+    "Data Management",
+    "Functional Programming",
+    "Environment, Health, and Safety (EHS)",
+    "Data Visualization",
+    "Google Analytics",
+    "Data Analysis",
+    "Microsoft Excel",
+    "Research",
+    "Analytics"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "Boston Consulting Group (BCG)",
+    "tagline": null,
+    "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.\n \nOur diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. \n\nWe work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.\n\nBCG Privacy Policy: https://www.bcg.com/about/privacy-policy.aspx",
+    "industry": "Business Consulting and Services",
+    "website": "http://www.bcg.com",
+    "linkedInUrl": "https://www.linkedin.com/company/boston-consulting-group",
+    "employeeCount": 41217,
+    "foundedYear": 1963,
+    "location": "Boston, United States",
+    "specialities": [
+      "Consumer insight",
+      "corporate development",
+      "corporate finance",
+      "digital economy",
+      "globalization",
+      "growth",
+      "information technology",
+      "innovation",
+      "marketing & sales",
+      "operations",
+      "people & organization",
+      "postmerger integration",
+      "risk management",
+      "strategy",
+      "sustainability",
+      "transformation",
+      "climate",
+      "artificial intelligence",
+      "cost transformation",
+      "supply chains"
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "id": "maiersimon",
+  "name": "Simon V. Maier",
+  "headline": "ARCHIVIST",
+  "avatar": {
+    "sm": "/avatars/maiersimon-sm.webp",
+    "lg": "/avatars/maiersimon.webp",
+    "blur": "data:image/webp;base64,UklGRlIBAABXRUJQVlA4IEYBAADQBgCdASogACAAPtFeqE+oJKOiKAgBABoJZgCdMoR9GN3Imh6xvGgy7z8ulxsZAST8ysJ6q+8nsjmzDMPj0AAA/j13i6q6RDKizrA2TI2qdb8Qamx0g4j4Yhx05J7bBOMoNSyRbJCswXb8zFMhMw31gh/b1UPjJULPmuDmIiwEd2WnnNCl35lWwtlb1TfuR8xy/R/0fENSjTPQCQmj4BWwlWH88hxhb41GyrXPZv9XZi5zmd9y1DKwV9r78Ma8IEHO1i8XrK2j9iBjWRW82SPHBGAfzpFGz4SGM2raVDWAlV3ogvfmllpm1ZIg6N4cg4QMpH8yfsf5ytWGjR6P8B0chx0qnJlSFnHnaSvmAJg+p58mNk7r3Wxp63NV8eVT3lR/Y0rdd/KO1rSoiJAumhHGOtZ5aYXYZHJVVQlTK3sOOmSPaEwAAA=="
+  },
+  "location": "Bavaria, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/maiersimon",
+  "personId": 715,
+  "classes": [
+    {
+      "id": 77,
+      "label": "Spring 2015",
+      "season": "Spring",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2015",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Simon Maier",
+  "ca": null,
+  "summary": "Experience in the venture capital, startups, and consulting.\n\nI am experienced in new business creation and commercialization. Go-to-market strategy, venture financing, startup growth, as well as management consulting are among my focus areas. I have experience with digital Marketplaces, Q-Commerce, FinTech, HR-Tech, Mobility Tech and more. I hold a Master in Business Administration, a graduate Honor's Degree in Technology Management, and spent graduate visits in Silicon Valley.\n\nWork experience at: Picus Capital, arive, BCG DV, Combyne, DasBoep, Casana and more\nEducation from: CDTM, LMU Munich, UC Berkeley, Stanford GSB",
+  "positions": [
+    {
+      "title": "Founder",
+      "company": "ARCHIVIST",
+      "companyUrl": "https://www.linkedin.com/company/archive-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-01",
+      "end": null,
+      "dateRange": "Jan 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Vice President of Marketplace",
+      "company": "arive",
+      "companyUrl": "https://www.linkedin.com/company/arive-gmbh",
+      "description": "Pre-Seed until Series A: Started with the two founders until brand partnerships (e.g. CLOSED, DIPTYQUE, HAY) across consignment, connected-retail, and wholesale models surpassed 120 and we were live in four major cities.\n\nInvestors include La Famiglia, Balderton Capital, 468 Capital, Burda Principal Investors.\nAcquired by quick commerce unicorn ZAPP (https://www.justzapp.com/).",
+      "location": "Munich / Berlin",
+      "start": "2021-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2021 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "BD & Strategy Lead (EiR)",
+      "company": "Andela",
+      "companyUrl": "https://www.linkedin.com/company/andela",
+      "description": "I helped build Casana, a Picus Capital pre-seed portfolio company until founders joined. Casana was acquired by SoftBank-backed tech unicorn Andela in 2023.\n\nCasana was founded as a global managed marketplace for the best product owners, software engineers, and digital designers - among other exciting projects, we are building digital products for the renewable energy space (mobile apps), e-commerce companies (shop system/crm), and venture capital firms (automated investment sourcing).",
+      "location": null,
+      "start": "2020-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Associate",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": "I focus on pre-seed investments and their support especially regarding go-to-market strategy, growth, and digital product development related topics.\n\nPicus Capital is mainly focused on investments in Prop Tech (e.g. Zeus Living), Fin Tech (e.g. Billie), HR Tech (e.g. Personio), Mobility Tech (e.g. Finn.Auto), Food Tech (e.g. Miscusi), and Renewable Energy (e.g. Enpal).",
+      "location": "Munich Area, Germany",
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Investment Analyst",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": "Picus Capital is an early-stage technology investment firm with a long-term investment philosophy. We work together with promising internet ventures to build successful, global companies.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Assistant to CEO",
+      "company": "combyne",
+      "companyUrl": "https://www.linkedin.com/company/combyne",
+      "description": "Combyne is a data insights and marketing platform provider with 1.5mio users in 2018. Combyne raised 5.9m Euro from investors sofar.\n\nI worked on various fundraising and B2B sales-related projects with the Founder&CEO (on-site at Plug&Play's RetailTech Hub in Munich and remote).",
+      "location": null,
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Venture Finance Consulting",
+      "company": "das boep",
+      "companyUrl": "https://www.linkedin.com/company/das-boep-gmbh",
+      "description": "Boep is an organic beauty company, the products are now sold at 2000+ stores including DM and one of the founders made it on Forbes 30 under 30 list in Europe 2019.\n\nI consulted founders on funding strategy, successfully attracted investment offers.",
+      "location": "Munich Area, Germany",
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Visiting Venture Architect",
+      "company": "BCG Digital Ventures",
+      "companyUrl": "https://www.linkedin.com/company/bcg-digital-ventures",
+      "description": "Boston Consulting Group Digital Ventures is a corporate investment and incubation firm. We invent, build and invest in startups with the world’s most influential companies. We share risk and invest alongside our corporate and startup partners via a range of collaborative options.\n\nI mainly worked on the go-to-market, expansion strategy, as well as loyalty program design for a corporate mobility venture in incubation stage.",
+      "location": "Berlin Area, Germany",
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "UpStories",
+      "companyUrl": "https://www.linkedin.com/company/upstories",
+      "description": "Initially platform development for temporary retail collaborations and urban space rentals supported by LMU EC / Munich RE / UnternehmerTUM / CDTM / Stanford / Rid Stiftung - refocused since Q2 2017\n\nParticipated in two competitive accelerator programs, received multiple 6-digit investment offers.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2015 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Student Venture Partner",
+      "company": "FOUNDER.org",
+      "companyUrl": "https://www.linkedin.com/company/the-yope-foundation",
+      "description": "My major tasks included scouting start-up teams and evaluating them with the 8D Methodology.\n\nRegular meetings with founder.org management - organized a Munich ecosystem tour and start-up pitch event for founder.org representatives.\n\nVenture Partners discover and support the best ideas in their ecosystem, bringing FOUNER.org financial, educational and mentoring resources to young innovator teams who want to build world changing companies.",
+      "location": "Munich / San Francisco",
+      "start": "2015-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2015 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Interim Owner & MD",
+      "company": "Boarderspoint Youth Travel",
+      "companyUrl": "https://www.linkedin.com/company/boarderspoint-youth-travel",
+      "description": "Change management: Detach business to a stand alone operation, set up legal and insurances, scale partner network, redesign online presence, retransfer ownership.\n\nServed about 2,000 sports travelers per season.",
+      "location": "Bodenseekreis",
+      "start": "2011-07",
+      "end": "2013-12",
+      "dateRange": "Jul 2011 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Founder & MD",
+      "company": "chido selectedshop",
+      "companyUrl": "https://www.linkedin.com/company/chido-selectedshop",
+      "description": "Established during grammer school\nOperated besides undergraduate studies with six-digit (Euro) annual revenue\nAcquired by a previous supplier",
+      "location": "Bodenseekreis",
+      "start": "2009-07",
+      "end": "2013-12",
+      "dateRange": "Jul 2009 – Dec 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree (Msc), Technology Management",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Haas School of Business / Jacobs Institute of Design / School of Information / Sutardja Center, Graduate Visit",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Stanford University Graduate School of Business",
+      "degree": "Graduate entrepreneurship program with MBA Faculty",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master in Business Administration (Msc), LMU Munich School of Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor in Business Administration (Bsc), LMU Munich School of Management",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Business Strategy",
+    "Entrepreneurship",
+    "Strategy",
+    "Project Management",
+    "Start-ups",
+    "Management Consulting",
+    "Sales",
+    "Marketing Strategy",
+    "Research",
+    "Business Development",
+    "Venture Capital",
+    "Product Management",
+    "Business Planning",
+    "Product Development",
+    "Facebook Marketing",
+    "Retail",
+    "Real Estate",
+    "Travel industry",
+    "Market Analysis",
+    "WordPress",
+    "HTML",
+    "CSS",
+    "Webflow",
+    "Google Ads",
+    "Google Suite",
+    "Microsoft Office",
+    "R",
+    "SPSS",
+    "Strategic Partnerships",
+    "Venture Financing",
+    "Shopify",
+    "Fintech",
+    "Sport industry",
+    "Remote Team Leadership",
+    "Start-up Consulting",
+    "PropTech",
+    "Mobility Tech",
+    "Business Innovation",
+    "Trend Research",
+    "Ethnographic Research",
+    "Startup Due Diligence",
+    "Venture Creation",
+    "Venture Growth",
+    "Geschäftsführung",
+    "Strategic Planning",
+    "Management"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "company": {
+    "name": "ARCHIVIST",
+    "tagline": "Your strategic technology partner transforming underloved second seasons into a secret competitive advantage.",
+    "description": "Wir sind der strategische Technology-Partner für Premium und Luxus Brands um die Begehrlichkeit der Marke über alle Seasons hinweg zu maximieren & die Profitabilität sowie Cash-Flow über B2C und B2B Off-Price Kanäle hinweg zu optimieren.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://archivist.store/",
+    "linkedInUrl": "https://www.linkedin.com/company/archive-gmbh",
+    "employeeCount": 13,
+    "foundedYear": 2022,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

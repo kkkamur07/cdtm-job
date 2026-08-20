@@ -1,0 +1,151 @@
+{
+  "id": "diego-marti",
+  "name": "Diego Martí Monsó",
+  "headline": "R&D @ Yellow | TUM | CDTM",
+  "avatar": {
+    "sm": "/avatars/diego-marti-sm.webp",
+    "lg": "/avatars/diego-marti.webp",
+    "blur": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAADQBQCdASogACAAPs1SokunpKMht/VYAPAZiWcApxWMFSqzS3dtTAnv+7kyG3yiGdfsaEo0QUPAAP79u9v+EcpdmVQye4K8j1FKbHqbctnJLY1ykK6FR0hzZFuEw5tHtQHLgzmux7JGQTXo4EMqSQwdMU1EwSSw0CwDc9QaQDDqohMQrW7b6yxFRU224C0mNtixla5CnvEuXglM/3z3n2NAnjdV6GdsURYPKzMmQMpM2c00I9npXt+KpRb5KjXEJcxefuh9hW9x6FxyMwAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/diego-marti",
+  "personId": 1225,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Diego Martí Monsó",
+  "ca": null,
+  "summary": "Hi! If we don't know each other and you want to connect I'd appreciate a short note :)",
+  "positions": [
+    {
+      "title": "Research Scientist",
+      "company": "Yellow",
+      "companyUrl": "https://www.linkedin.com/company/yellow3d",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Research Engineering Intern",
+      "company": "Yellow",
+      "companyUrl": "https://www.linkedin.com/company/yellow3d",
+      "description": null,
+      "location": null,
+      "start": "2023-07",
+      "end": "2023-12",
+      "dateRange": "Jul 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Visiting Student Researcher",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "https://arxiv.org/abs/2407.01392 (NeurIPS 2024)",
+      "location": null,
+      "start": "2023-02",
+      "end": "2023-06",
+      "dateRange": "Feb 2023 – Jun 2023",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant at Mathematics Preparatory Course",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2021-08",
+      "end": "2021-10",
+      "dateRange": "Aug 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Research Intern at Chair of Automatic Control Engineering",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2020-09",
+      "end": "2020-12",
+      "dateRange": "Sep 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Teaching Assistant at Mathematics Preparatory Course",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2019-08",
+      "end": "2019-10",
+      "dateRange": "Aug 2019 – Oct 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Electrical Engineering and Information Technology",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2021 – 2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Electrical Engineering and Information Technology",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "German School Valencia",
+      "degree": "Abitur",
+      "dateRange": "2018"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Spanish",
+    "German",
+    "Catalan",
+    "French",
+    "Chinese",
+    "Portuguese",
+    "English"
+  ],
+  "company": {
+    "name": "Yellow",
+    "tagline": "AI Operating System for Field Marketing",
+    "description": "We’re building the AI-native operating system for field marketing. We help teams identify the right audience, prioritize outreach, activate events, and measure real revenue impact. Yellow transforms events from brand exercises into predictable, repeatable revenue engines.\nBacked by Andreessen Horowitz.",
+    "industry": "Software Development",
+    "website": "http://www.helloyellow.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/yellow3d",
+    "employeeCount": 9,
+    "foundedYear": null,
+    "location": "Palo Alto, United States",
+    "specialities": [
+      "AI-Native Workflows",
+      "Field Marketing",
+      "Event Marketing"
+    ]
+  }
+}

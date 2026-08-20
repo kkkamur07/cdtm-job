@@ -1,0 +1,177 @@
+{
+  "id": "nikolaus-pinger",
+  "name": "Nikolaus Pinger",
+  "headline": "Co-Founder of trail - building the Copilot for AI Governance | TUM, CDTM",
+  "avatar": {
+    "sm": "/avatars/nikolaus-pinger-sm.webp",
+    "lg": "/avatars/nikolaus-pinger.webp",
+    "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAwBQCdASogACAAPtFUo0uoJKMhsBgMAQAaCWMAuwBX9SjhoyfIY7RyI2ebJ/lVsnyGYAD++qcfQth+yH/CrHZHp12W3pAmdpOC80zp9wAzQbhZMYbx0AlQRLcFQbfaUxLKt2RjRIlVJIWQzfcXR77AojcRy5ZMH/urp7LHzveTM9dHtLr4LXQ2CTcvJ6mnxfUwGHsJwRam4VWn3wBoiBp9Aa2JSMGko9gAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/nikolaus-pinger",
+  "personId": 1072,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Nikolaus Pinger",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "trail",
+      "companyUrl": "https://www.linkedin.com/company/trail-ml",
+      "description": "trail offers the simplest solution to operationalize AI Governance, empowering developers and businesses to create trustworthy AI solutions.",
+      "location": null,
+      "start": "2023-02",
+      "end": null,
+      "dateRange": "Feb 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Machine Learning Reply GmbH",
+      "companyUrl": "https://www.linkedin.com/company/machine-learning-reply-de",
+      "description": null,
+      "location": null,
+      "start": "2022-02",
+      "end": "2022-05",
+      "dateRange": "Feb 2022 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Research Assistant - Data Science for Earth Observation",
+      "company": "International Future AI4EO Lab",
+      "companyUrl": "https://www.linkedin.com/company/munich-future-ai4eo-lab",
+      "description": null,
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-05",
+      "dateRange": "Oct 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Product Development Consultant",
+      "company": "Lilio Health",
+      "companyUrl": "https://www.linkedin.com/company/lilio-health",
+      "description": null,
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-01",
+      "dateRange": "Oct 2021 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "TUM Data Innovation Lab - Natural Language Processing",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2021-04",
+      "end": "2021-08",
+      "dateRange": "Apr 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Student Research Assistant - Innovation",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": null,
+      "location": null,
+      "start": "2020-09",
+      "end": "2021-03",
+      "dateRange": "Sep 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Research Intern - Machine Learning for Medical Imaging",
+      "company": "TUM CAMP",
+      "companyUrl": "https://www.linkedin.com/company/tum-camp",
+      "description": null,
+      "location": null,
+      "start": "2020-09",
+      "end": "2021-01",
+      "dateRange": "Sep 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Intern Procurement",
+      "company": "Forto",
+      "companyUrl": "https://www.linkedin.com/company/fortocompany",
+      "description": null,
+      "location": null,
+      "start": "2018-07",
+      "end": "2018-10",
+      "dateRange": "Jul 2018 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Working Student - Inside Sales",
+      "company": "Vimcar",
+      "companyUrl": "https://www.linkedin.com/company/vimcar",
+      "description": null,
+      "location": null,
+      "start": "2016-11",
+      "end": "2017-12",
+      "dateRange": "Nov 2016 – Dec 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Robotics, Cognition, Intelligence",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Technische Universität Berlin",
+      "degree": "Bachelor of Science - BS, Industrial Engineering and Management",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "Universitat Ramon Llull",
+      "degree": "Exchange - Bachelor, Management of Business and Technology",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Stanstead College",
+      "degree": "Highschool-Exchange Canada",
+      "dateRange": "2011 – 2012"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "trail",
+    "tagline": "The AI Governance Copilot",
+    "description": "trail offers the simplest way to operationalize AI Governance, empowering developers and businesses to create trustworthy AI solutions.",
+    "industry": "Software Development",
+    "website": "https://www.trail-ml.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/trail-ml",
+    "employeeCount": 9,
+    "foundedYear": 2023,
+    "location": null,
+    "specialities": []
+  }
+}

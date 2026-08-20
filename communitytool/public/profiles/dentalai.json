@@ -1,0 +1,199 @@
+{
+  "id": "dentalai",
+  "name": "Florian Hillen",
+  "headline": "CEO of Videa | Making AI the standard of care in dentistry.",
+  "avatar": {
+    "sm": "/avatars/dentalai-sm.webp",
+    "lg": "/avatars/dentalai.webp",
+    "blur": "data:image/webp;base64,UklGRkYBAABXRUJQVlA4IDoBAABwBgCdASogACAAPr1QnkunJSKht/qoAOAXiWwAnTLjgpnRDQcK5yLhH9aE/XYfvp6jrCWQ3mp9joTg4wAA/tQu6hpNBstRFxafdhpEMQIIsyTgYd3xNyoN6fbUQ/Nq1L7FvDC9mG+yXrMOMvKKPpnVxPwi9pn9oA4ZaXRkztL6LBHvl1x94OfN//1Of79MU/+pf5iEXEf8Zz2pjKuaz1L8z/Gq6t2r+O8g1eEGOTUsxBO7K+YBVLGglV8Az7ZUEH9r5E9EGLOXfXc5Lvq1+dFI84YHEViXTMssJGsENbQszrALxLTdhwRjNuJC6eTo/cjwTcZeCBFlKPUEMmNnfGnTDCfEJGbbhazv26B809cmGArcWaL3VyEFJ/ALGEVIFlMNhPSi7JDFE/YJq+uXe2AtzD+ctTiLjpcAAA=="
+  },
+  "location": "Brooklyn, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/dentalai",
+  "personId": 1122,
+  "classes": [
+    {
+      "id": 73,
+      "label": "Spring 2013",
+      "season": "Spring",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2013",
+  "major": "Medicine",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Florian Hillen",
+  "ca": null,
+  "summary": "I am the Founder & CEO of VideaHealth, the leading dental AI platform. Our mission is to empower dental clinicians to provide better care, save time, and accelerate revenue through AI.\n\nThe Impact\nFor Dental Practices: Higher case acceptance, less administrative burden, and immediate revenue growth.\nFor Patients: Safer, transparent, and accurate treatments.\n\nBackground & Education My career operates at the intersection of AI, medicine, and business. I originally left my PhD program at Harvard to fully focus on building VideaHealth.\n\nPreviously, I conducted research at MIT and Harvard Business School, worked with McKinsey & Company, and founded a digital health startup.\n\nMIT: M.S. in Computer Science (EECS) & M.S. in Technology Policy\nLudwig-Maximilians-Universität: Medicine (1st State Exam)\nTU Munich: B.S. Management & Technology\n\nI am also a Startup Mentor at the MIT Sandbox Innovation Fund and a frequent speaker on the future of healthcare AI.",
+  "positions": [
+    {
+      "title": "Executive Fellow",
+      "company": "Harvard Business School",
+      "companyUrl": "https://www.linkedin.com/company/harvard-business-school",
+      "description": null,
+      "location": null,
+      "start": "2025-02",
+      "end": null,
+      "dateRange": "Feb 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "CEO and Founder",
+      "company": "Videa",
+      "companyUrl": "https://www.linkedin.com/company/videaai",
+      "description": "VideaHealth provides dental AI that helps clinicians diagnose disease earlier, save time and get paid. The leader in US with > 50,000 clinicians using it daily.",
+      "location": "New York City Metropolitan Area",
+      "start": "2018-09",
+      "end": null,
+      "dateRange": "Sep 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Startup Mentor & Guest Speaker - MIT Sandbox Innovation Fund",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": null,
+      "location": null,
+      "start": "2017-10",
+      "end": null,
+      "dateRange": "Oct 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Greater Boston",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Guest Speaker",
+      "company": "Harvard Business School",
+      "companyUrl": "https://www.linkedin.com/company/harvard-business-school",
+      "description": null,
+      "location": null,
+      "start": "2018-09",
+      "end": "2025-01",
+      "dateRange": "Sep 2018 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Summer Associate",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": null,
+      "start": "2017-06",
+      "end": "2017-07",
+      "dateRange": "Jun 2017 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "Mentoring over 30 startups at the MIT Sandbox Innovation Fund on product-market fit and healthcare AI strategy. Frequent guest speaker for MIT entrepreneurship courses.",
+      "company": "Massachusetts Institute of Technology",
+      "companyUrl": "https://www.linkedin.com/company/mit",
+      "description": "Reseracher at the Broad Institute - Connectivity Map (CMAP) Group. Leveraged machine learning and perturbational data to discover novel therapeutics within the Connectivity Map (CMAP) Group",
+      "location": null,
+      "start": "2016-09",
+      "end": "2018-05",
+      "dateRange": "Sep 2016 – May 2018",
+      "current": false
+    },
+    {
+      "title": "Visiting Research Fellow",
+      "company": "Harvard Business School",
+      "companyUrl": "https://www.linkedin.com/company/harvard-business-school",
+      "description": "Greater Boston",
+      "location": null,
+      "start": "2015-08",
+      "end": "2018-08",
+      "dateRange": "Aug 2015 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Co-Founder | ninu (Digital Health)",
+      "company": "ninu GbR",
+      "companyUrl": "https://www.linkedin.com/company/ninu-gbr",
+      "description": "Co-founded a digital pregnancy companion platform. Led product strategy and development to personalize maternal health feedback",
+      "location": "Munich",
+      "start": "2013-10",
+      "end": "2016-08",
+      "dateRange": "Oct 2013 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Product Strategy (AI)",
+      "company": "Eko Devices",
+      "companyUrl": "https://www.linkedin.com/company/eko-health",
+      "description": "Worked on early product strategy for AI-driven cardiac analysis, laying the groundwork for automated disease detection.",
+      "location": "San Francisco Bay Area",
+      "start": "2013-08",
+      "end": "2013-10",
+      "dateRange": "Aug 2013 – Oct 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "MS, Electrical Engineering and Computer Science",
+      "dateRange": null
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "MS, Technology and Policy",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Medical Doctorate, 1st State exam of the MD, Medicine",
+      "dateRange": null
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student Researcher, Technology Management and MBA",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (BS), Management and Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Start-ups",
+    "Consulting",
+    "Artificial Intelligence (AI)",
+    "Business Strategy",
+    "Research"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Videa",
+    "tagline": "We empower DSOs and dental practices to consistently deliver better patient care through AI.",
+    "description": "Videa is transforming dentistry with AI-powered solutions that reduce complexity across the dental workflow and help practices elevate care standards, improve productivity, and drive real business value. Videa, a complete Dental AI platform, supports every aspect of dental care, from diagnostics and workflows to analytics and revenue optimization. Used by over 90,000 clinicians across more than 60 leading DSOs, Videa’s FDA-cleared AI analyzes over 500 million X-rays annually, delivering trusted insights that power consistent, high-quality care. Headquartered in Boston and backed by leading investors, Videa is advancing the future of dental care through responsible and real-world AI. Learn more at videa.ai.",
+    "industry": "Software Development",
+    "website": "https://www.videa.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/videaai",
+    "employeeCount": 176,
+    "foundedYear": 2018,
+    "location": "Boston, United States",
+    "specialities": []
+  }
+}

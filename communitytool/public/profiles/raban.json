@@ -1,0 +1,138 @@
+{
+  "id": "raban",
+  "name": "Raban von Spiegel",
+  "headline": "Co-founder @ Emdash (YC W26)",
+  "avatar": {
+    "sm": "/avatars/raban-sm.webp",
+    "lg": "/avatars/raban.webp",
+    "blur": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAABQBQCdASogACAAPtFcpUyoJSOiMBgIAQAaCWIAA+YGZf4Lq+QzwxsxVYK2+i7miiYLTegA/vzWtsv9tM9/pejJWRazu1u2Te9ZtY2BWRnzWzPUz6oMGC9+7MDjeZl7TUYZ0tGLVpJmyLFyZQjSa1tqm3Jd+44J8HkqHUKrPR2mMR3+mEvSQ4fzKTXkAoYg1g101q58Su7PRnfaYguRKNHOXCISM79LEtlBB8zWoMshHSAA"
+  },
+  "location": "San Francisco Bay, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/raban",
+  "personId": 1199,
+  "classes": [
+    {
+      "id": 86,
+      "label": "Fall 2019",
+      "season": "Fall",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2019",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Raban von Spiegel",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-founder",
+      "company": "Emdash (YC W26)",
+      "companyUrl": "https://www.linkedin.com/company/emdash-sh",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Angel Investor",
+      "company": "Andreessen Horowitz",
+      "companyUrl": "https://www.linkedin.com/company/a16z",
+      "description": "Investing both personally and through the a16z Scout Fund",
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-founder",
+      "company": "Soff",
+      "companyUrl": "https://www.linkedin.com/company/soff-ai",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2024 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Research",
+      "company": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+      "companyUrl": "https://www.linkedin.com/company/mit-csail",
+      "description": null,
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "MS Management Science & Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Y Combinator",
+      "degree": "S24 + W26",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "BS Management & Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Undergraduate Student",
+      "dateRange": null
+    },
+    {
+      "school": "Christianeum",
+      "degree": "Abitur",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "Emdash (YC W26)",
+    "tagline": "Open-source Agentic Development Environment",
+    "description": "Open-source Agentic Development Environment. Your coding agent dashboard.",
+    "industry": "Software Development",
+    "website": "https://github.com/generalaction/emdash",
+    "linkedInUrl": "https://www.linkedin.com/company/emdash-sh",
+    "employeeCount": 4,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

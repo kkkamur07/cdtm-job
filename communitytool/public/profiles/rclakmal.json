@@ -1,0 +1,331 @@
+{
+  "id": "rclakmal",
+  "name": "Lakmal P.",
+  "headline": "Product Management",
+  "avatar": {
+    "sm": "/avatars/rclakmal-sm.webp",
+    "lg": "/avatars/rclakmal.webp",
+    "blur": "data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAADQBgCdASogACAAPtFWo0uoJKMhsAgBABoJbACdMzBHUe/LgySMeIFFzlZRhHOZ+/ZITi6rotpgNNR2UENEuAAA/oJs5pYVhtttxn+ahFIHFbmnwA538m4T29MV9yObl7kicvwymrs8Ovxr2ZH+13phan8oh7D7zD7nO/8dum5Vp56/FH7/b3YftP99pszstkJiFSOMQPGV28r4hyNVUu53n/ZQI77L1e9JcRFiYZl7jFVanEwJGe1nSV0fg9A9/9CqJKTk+Sf3NObO1z+Tq3tjv5IU9NKsJUQjnarxuRCYu8jm+kjXJP1bmydMsv5f/zb2MUNcE+Q9otKfGmHPNz0YcT8p6Pi2ObKTXhRLHQ5kD/tGrfa45oCAPe+4/t9mRV5z3YgFh5kn0eVf+dcPZH5ea4SrHqxJrVIUs7FCkScb9cQAAAA="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/rclakmal",
+  "personId": 841,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Lakmal Padmakumara",
+  "ca": null,
+  "summary": "I’m a hands-on Software Project Lead with over 12 years of experience in engineering, juggling global teams, high-impact solutions, and tight deadlines... and somehow still enjoying it!\n\nI thrive on bringing big ideas to life, aligning teams, stakeholders, and end-users to make things run smoothly. \n\nI’m all about problem-solving, attention to detail, and technical know-how, making sure projects aren’t just completed, but done right. Whether it’s strategy, execution, or innovation, I’m always pushing for efficiency and success. \n\nLet’s build something great together!\n\nI'm an alumni of Technical University of Munich (TUM), Center for Digital Technology and Management (CDTM) and University of Moratuwa (UoM)",
+  "positions": [
+    {
+      "title": "Cluster Product Owner - Safety | SW Platform | Driving ECU (Heart of Joy)",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "On-site",
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "“Heart of Joy” for Electric Neue Klasse Models",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Digitalizing Rail Infrastructure with #IIoT #Cloud to mass transit and mainline business segments",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Agile coaching for internal and external R&D teams  #Scrum #Kanban",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Product Owner - Communication | SW Platform | ADAS ECU",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Product Owner, Middleware & Communications components of Software Platform used in Automated Driving ECU",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-06",
+      "end": "2025-10",
+      "dateRange": "Jun 2022 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Product Owner - Cloud Solutions | Rail Infrastructure",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2020-06",
+      "end": "2022-05",
+      "dateRange": "Jun 2020 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Operations Consulting - Agile Working | Siemens Advanta Consulting",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": null,
+      "location": "Atlanta Metropolitan Area",
+      "start": "2019-09",
+      "end": "2020-06",
+      "dateRange": "Sep 2019 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Product Management - Cloud Applications | Digital Industries",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Driving #UX #CX for Siemens in-house #IIoT platform MindSphere with product teams in Germany and China and Sales team in Singapore. #Cloud\n\nSiemens Graduate Program.",
+      "location": "Erlangen Germany, Singapore, Shanghai China",
+      "start": "2018-05",
+      "end": "2019-08",
+      "dateRange": "May 2018 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineer, Corporate Technology",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Full-stack development for the Siemens internal software vulnerability monitoring platform (SVM)",
+      "location": "Munich Area, Germany",
+      "start": "2017-03",
+      "end": "2018-04",
+      "dateRange": "Mar 2017 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Airbus Group",
+      "companyUrl": "https://www.linkedin.com/company/airbusgroup",
+      "description": null,
+      "location": "Ottobrunn, Bavaria, Germany",
+      "start": "2016-09",
+      "end": "2017-02",
+      "dateRange": "Sep 2016 – Feb 2017",
+      "current": false
+    },
+    {
+      "title": "Google Summer of Code",
+      "company": "TEAMMATES",
+      "companyUrl": "https://www.linkedin.com/company/teammates-oss",
+      "description": "https://github.com/TEAMMATES/teammates/commits?author=rclakmal",
+      "location": "Munich Area, Germany",
+      "start": "2016-04",
+      "end": "2016-08",
+      "dateRange": "Apr 2016 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Cliqz GmbH",
+      "companyUrl": "https://www.linkedin.com/company/cliqz-gmbh",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2015-11",
+      "end": "2016-02",
+      "dateRange": "Nov 2015 – Feb 2016",
+      "current": false
+    },
+    {
+      "title": "Technical Lead | Client - British Telecom | Project - Global Services Portal",
+      "company": "Virtusa",
+      "companyUrl": "https://www.linkedin.com/company/virtusa",
+      "description": null,
+      "location": "Colombo District, Western Province, Sri Lanka",
+      "start": "2014-02",
+      "end": "2015-10",
+      "dateRange": "Feb 2014 – Oct 2015",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Comerge AG",
+      "companyUrl": "https://www.linkedin.com/company/comerge-ag",
+      "description": null,
+      "location": "Zürich Area, Switzerland",
+      "start": "2013-03",
+      "end": "2014-02",
+      "dateRange": "Mar 2013 – Feb 2014",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Audials AG",
+      "companyUrl": "https://www.linkedin.com/company/audials",
+      "description": null,
+      "location": "Karlsruhe Area, Germany",
+      "start": "2011-02",
+      "end": "2011-09",
+      "dateRange": "Feb 2011 – Sep 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master’s Degree, Computer Science",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management & Entreprenurship",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "University of Moratuwa",
+      "degree": "BSc, Computer Science & Engineering",
+      "dateRange": "2008 – 2012"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Summer School Participant, Computer Science",
+      "dateRange": "2012"
+    },
+    {
+      "school": "Royal College Colombo",
+      "degree": "High School, Mathematics",
+      "dateRange": "1999 – 2007"
+    },
+    {
+      "school": "President College Homagama",
+      "degree": "Primary School",
+      "dateRange": "1994 – 1998"
+    }
+  ],
+  "skills": [
+    "Amazon Web Services (AWS)",
+    "Amazon S3",
+    "Amazon EC2",
+    "J2EE Web Services",
+    "Software Architecture",
+    "Software Design",
+    "Google Web Toolkit (GWT)",
+    "R (Programming Language)",
+    "Data Science",
+    "Customer Experience",
+    "Project Management",
+    "Coaching",
+    "Scaled Agile Framework",
+    "Functional Safety",
+    "ISO 26262",
+    "Customer Research",
+    "User Experience (UX)",
+    "Product Strategy",
+    "Project Stakeholder Management",
+    "Product Management",
+    "Agile Project Management",
+    "Backlog Management",
+    "Risk Management",
+    "Project Planning",
+    "Software Engineering",
+    "Java",
+    "Python",
+    "MySQL",
+    "Eclipse",
+    "JavaScript",
+    "Object Oriented Design",
+    "Object Oriented Modeling",
+    "OOP",
+    "jQuery",
+    "Requirements Analysis",
+    "Enterprise Architecture",
+    "Agile Development",
+    "SCRUM",
+    "Spring MVC",
+    "Hibernate",
+    "Node.js",
+    "Git",
+    "Enterprise Design Patterns",
+    "Subversion",
+    "Maven",
+    "Twitter Bootstrap",
+    "CSS",
+    "Oracle",
+    "WebLogic",
+    "JBoss Application Server",
+    "REST",
+    "JSON",
+    "HTML",
+    "Agile Methodologies",
+    "Web Services",
+    "XML",
+    "C",
+    "Algorithms",
+    "SQL",
+    "Java Enterprise Edition",
+    "Design Patterns",
+    "Object-Oriented Programming (OOP)"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Sinhalese"
+  ],
+  "company": {
+    "name": "BMW Group",
+    "tagline": "We make individual mobility more human, more intelligent and more responsible.",
+    "description": "With its four brands, BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world’s leading premium manufacturer of automobiles and motorcycles and also provides premium financial services. The BMW Group production network comprises over 30 production sites worldwide; the company has a global sales network in more than 140 countries.\n\nIn 2025, the BMW Group sold 2.46 million passenger vehicles and more than 202,500 motorcycles worldwide. The profit before tax in the financial year 2025 was € 10.2 billion on revenues amounting to € 133,5 billion. As of 31 December 2025, the BMW Group had a workforce of 154,540 employees.\n\nThe economic success of the BMW Group has always been based on long-term thinking and respon-sible action. Sustainability is a key element of the BMW Group’s corporate strategy and covers all products – from the supply chain through production to the end of their useful life.",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://www.bmwgroup.com/en/general/imprint.html",
+    "linkedInUrl": "https://www.linkedin.com/company/bmw-group",
+    "employeeCount": 65541,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Automotive",
+      "Information Technology",
+      "Data Science",
+      "Software Development",
+      "Artificial Intelligence",
+      "Data Security",
+      "Motorcycles",
+      "Financial Services",
+      "Mobility Services",
+      "Digital Services",
+      "IoT",
+      "Future of Mobilty",
+      "Autonomous Driving",
+      "Connectivity",
+      "Sheer Driving Pleasure"
+    ]
+  }
+}

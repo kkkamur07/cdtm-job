@@ -1,0 +1,151 @@
+{
+  "id": "fabian-hildesheim",
+  "name": "Fabian Hildesheim",
+  "headline": "HEC Paris x TUM student  | Stanford HAI | CDTM | McKinsey  | AWS | Co-founded NGO",
+  "avatar": {
+    "sm": "/avatars/fabian-hildesheim-sm.webp",
+    "lg": "/avatars/fabian-hildesheim.webp",
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAAAwBgCdASogACAAPtFYpE0oJSOiKA1RABoJYgDDNHty7XcprSx8Wm5ZN6yOJP+aOVAFei84iYZ14SRAAP7erRI/9uvio6dXELwrlyObYZ/ne+QsfZWRywy8WH37at3B/EvedWhCEpgWj0iVzeKGYrplgwrl/A2ALchN+ZRm8mEh0rMD48Nx/37NO9CB6ejJYStDvkYefAWcs4CETvv06VgJPFUNegd9e3UBFnuv0Nzu+waG9mjBRqFwqne7V33dXa5ttTFPiMz+370977Zbdabb6fxE1HTKNhRo29iuV8xt0ZlU18dI71AA"
+  },
+  "location": "United States, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/fabian-hildesheim",
+  "personId": 2090,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Management & Innovation",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Fabian Hildesheim",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "AI Research",
+      "company": "Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
+      "companyUrl": "https://www.linkedin.com/company/stanfordhai",
+      "description": null,
+      "location": "Пало-Алто, CA",
+      "start": "2026-01",
+      "end": "2026-12",
+      "dateRange": "Jan 2026 – Dec 2026",
+      "current": false
+    },
+    {
+      "title": "Strategy Consultant Digital",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "AI Agents@Scale Project with Quantum Black",
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-12",
+      "dateRange": "Jan 2025 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Efficient Compute Specialist Team",
+      "company": "Amazon Web Services (AWS)",
+      "companyUrl": "https://www.linkedin.com/company/amazon-web-services",
+      "description": "- Developed Generative AI application with a RAG Architecture based using Anthropic models to enhance internal productivity within World Wide Specialist Organization (WWSO)\n- Automated parts of idea screening and evaluation process for UK-wide Amazon AI Hackathon",
+      "location": "Region London, Vereinigtes Königreich",
+      "start": "2024-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2024 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": ".",
+      "company": "Various Companies",
+      "companyUrl": "https://www.linkedin.com/company/various-boards",
+      "description": "- Energy & Infrastructure Strategy @Roland Berger\n- AI & Data Engineer @Deloitte\n- Machine Learning Engineer @Anyline\n- Data Science & Product @CarbonTag",
+      "location": null,
+      "start": "2021-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2021 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Programmer at Chair for Data Processing",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "- Tutor for C programming: taught several classes during 2 semesters\n- Software Developer: Developed a TUM internal Payment System in C with a Raspberry Pi",
+      "location": null,
+      "start": "2019-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2019 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Weekend Jobs",
+      "company": "Various Companies",
+      "companyUrl": "https://www.linkedin.com/company/various-companies-global",
+      "description": "Started at floor mat service in a local car-wash, switched to different catering jobs and ended up at a 2-Michelin-Star restaurant towards the end of school time. There I waitered at several events such as the G20 Summit in Hamburg and the Oktoberfest 2019 in Munich",
+      "location": null,
+      "start": "2016-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2016 – Dec 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Stanford University",
+      "degree": "Visiting Researcher",
+      "dateRange": null
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "HEC Paris",
+      "degree": "Master of Science - MS",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Electrical and Computer Engineering",
+      "dateRange": null
+    },
+    {
+      "school": "Gymnasium Blankenese",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "TUM.ai",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Englisch"
+  ],
+  "company": {
+    "name": "Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
+    "tagline": "Advancing AI research, education, policy, and practice to improve humanity.",
+    "description": "At Stanford HAI, our vision for the future is led by our commitment to studying, guiding and developing human-centered AI technologies and applications. We believe AI should be collaborative, augmentative, and enhancing to human productivity and quality of life.\n\nStanford HAI leverages the university’s strength across all disciplines, including: business, economics, genomics, law, literature, medicine, neuroscience, philosophy and more. These complement Stanford's tradition of leadership in AI, computer science, engineering and robotics.\n\nOur goal is for Stanford HAI to become an interdisciplinary, global hub for AI thinkers, learners, researchers, developers, builders and users from academia, government and industry, as well as leaders and policymakers who want to understand and leverage AI’s impact and potential.",
+    "industry": "Higher Education",
+    "website": "http://hai.stanford.edu",
+    "linkedInUrl": "https://www.linkedin.com/company/stanfordhai",
+    "employeeCount": 221,
+    "foundedYear": 2018,
+    "location": "Stanford, United States",
+    "specialities": []
+  }
+}

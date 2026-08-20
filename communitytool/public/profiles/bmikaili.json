@@ -1,0 +1,181 @@
+{
+  "id": "bmikaili",
+  "name": "Berzan M.",
+  "headline": "Software Engineer @ Snowflake | TUM | CDTM",
+  "avatar": null,
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/bmikaili",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "Currently working in the Streaming Ingest team at Snowflake, working on highly performant, distributed cloud data ingestion.\n\nStudied computer science at the Technical University of Munich and Technology Management at the Center for Digital Technology Management.\n\nInterested in Distributed Systems, Algorithms, Software Engineering.",
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company": "Snowflake",
+      "companyUrl": "https://www.linkedin.com/company/snowflake-computing",
+      "description": "I work on Streaming ingest, which is used for low-latency loading of streaming data rows into Snowflake.",
+      "location": "Berlin, Germany",
+      "start": "2025-02",
+      "end": null,
+      "dateRange": "Feb 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "Snowflake",
+      "companyUrl": "https://www.linkedin.com/company/snowflake-computing",
+      "description": "I work on Streaming ingest, which is used for low-latency loading of streaming data rows into Snowflake.",
+      "location": "Berlin, Germany",
+      "start": "2024-06",
+      "end": "2025-02",
+      "dateRange": "Jun 2024 – Feb 2025",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Corbado",
+      "companyUrl": "https://www.linkedin.com/company/corbado",
+      "description": "Corbado is a passkey as a service provider enabling companies to have passkeys as a login option. I worked across the entire stack, working in the Go backend and Vue frontend, implementing according to Figma specifications. I implemented automated playwright testing for the entire client application.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-12",
+      "end": "2023-08",
+      "dateRange": "Dec 2022 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Solidity Engineer and Game Dev",
+      "company": "Lattice Labs",
+      "companyUrl": "https://www.linkedin.com/company/latticexyz",
+      "description": "We build fully on-chain video games and work on digital physics. I contributed to various aspects varying from game features to data structures and algorithms to support our engine in our Solidity codebase.",
+      "location": "Cyberspace",
+      "start": "2021-11",
+      "end": "2022-05",
+      "dateRange": "Nov 2021 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "I worked on implementing Regression Test Selection for C++ using LLVM and Google Test Listeners.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-08",
+      "end": "2021-10",
+      "dateRange": "Aug 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Software Engineering Intern",
+      "company": "Datadog",
+      "companyUrl": "https://www.linkedin.com/company/datadog",
+      "description": "I made various improvements to the metrics and telemetry of the open source cloud monitoring agent, built and shipped a Connector to send Kafka data to Datadog (and got it Gold verified by Confluent), and coordinated a release of the agent with 8 teams of over 100+ engineers.",
+      "location": "Paris, Ile-de-France, France",
+      "start": "2020-06",
+      "end": "2020-10",
+      "dateRange": "Jun 2020 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "I continued research from my Bachelor's Thesis on Corvus, a framework for building REST APIs in Swift with a SwiftUI-like, declarative syntax.\n\nCheck it out on GitHub: https://github.com/Apodini/corvus",
+      "location": "Munich, Bavaria",
+      "start": "2020-04",
+      "end": "2020-06",
+      "dateRange": "Apr 2020 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Raytion",
+      "companyUrl": "https://www.linkedin.com/company/raytion",
+      "description": "I worked on the next generation of Enterprise Search Connectors, making various improvements like improving job scheduling speed by multithreading, decreasing network traffic by improving the polling and adding persistence and data recovery with PostgreSQL.",
+      "location": null,
+      "start": "2019-01",
+      "end": "2019-07",
+      "dateRange": "Jan 2019 – Jul 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2020 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Computer Science",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "Universitat Pompeu Fabra",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2018"
+    }
+  ],
+  "skills": [
+    "Engineering",
+    "Cloud Computing",
+    "Distributed Systems",
+    "Software Design",
+    "Databases",
+    "Swift (Programming Language)",
+    "Spring Framework",
+    "Kafka",
+    "LLVM",
+    "React.js",
+    "Phaser",
+    "Vue.js",
+    "Go (Programming Language)",
+    "Python (Programming Language)",
+    "MetaBase",
+    "Data Engineering",
+    "Java",
+    "Swift",
+    "Go",
+    "React Native"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Snowflake",
+    "tagline": "Where data does more",
+    "description": "**Snowflake is proud to be the Official Data Collaboration Provider for LA28 and Team USA.**\n\nSnowflake delivers the AI Data Cloud — a global network where thousands of organizations mobilize data with near-unlimited scale, concurrency, and performance. Inside the AI Data Cloud, organizations unite their siloed data, easily discover and securely share governed data, and execute diverse analytic workloads. Wherever data or users live, Snowflake delivers a single and seamless experience across multiple public clouds. Snowflake’s platform is the engine that powers and provides access to the AI Data Cloud, creating a solution for data warehousing, data lakes, data engineering, data science, data application development, and data sharing. Join Snowflake customers, partners, and data providers already taking their businesses to new frontiers in the AI Data Cloud.",
+    "industry": "Software Development",
+    "website": "http://www.snowflake.com",
+    "linkedInUrl": "https://www.linkedin.com/company/snowflake-computing",
+    "employeeCount": 11084,
+    "foundedYear": 2012,
+    "location": "The Cloud, United States",
+    "specialities": [
+      "Data Warehousing",
+      "Cloud",
+      "Analytics",
+      "Data Lake",
+      "Marketing Analytics",
+      "Data Applications",
+      "Data Engineering",
+      "Data Science",
+      "Data Exchange"
+    ]
+  }
+}

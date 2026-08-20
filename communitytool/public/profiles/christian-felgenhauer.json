@@ -1,0 +1,92 @@
+{
+  "id": "christian-felgenhauer",
+  "name": "Christian Felgenhauer",
+  "headline": "Co-Founder StudySmarter I Vaia - Forbes 30 under 30",
+  "avatar": {
+    "sm": "/avatars/christian-felgenhauer-sm.webp",
+    "lg": "/avatars/christian-felgenhauer.webp",
+    "blur": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAAAwBQCdASogACAAPtFcpE0oJSOiMBgIAQAaCUAXqw0sAPJmxsT7VqrR6pZtWWHHKOBlMAD++yvqAVCrVqo+O3n7OvWtumYXyAB7G9vmylqjj+rMW6CPUlFXlD1m3/GMjp3j4/dpVvOP2YAVt+5B3yoZphXrXnh6PtawSndtDtD6eP3AxdTs1/KfGcdGik0afalT3gAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/christian-felgenhauer",
+  "personId": 731,
+  "classes": [
+    {
+      "id": 82,
+      "label": "Fall 2017",
+      "season": "Fall",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2017",
+  "major": "Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Christian Felgenhauer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co Founder & CEO",
+      "company": "StudySmarter | Vaia",
+      "companyUrl": null,
+      "description": "StudySmarter I Vaia is an intelligent learning platform empowering everyone to achieve their educational goals in >100 countries. \n\nMore than >40 million learners and 12 million job seekers use our platform. \n\nWe are backed by Owl Ventures, Left Lane Capital, Goodwater Capital and DvH Ventures.",
+      "location": "Munich",
+      "start": "2018-01",
+      "end": null,
+      "dateRange": "Jan 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Growth Equity",
+      "company": "Yttrium",
+      "companyUrl": "https://www.linkedin.com/company/yttrium",
+      "description": null,
+      "location": null,
+      "start": "2016-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2016 – Dec 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "The London School of Economics and Political Science (LSE)",
+      "degree": "General Course",
+      "dateRange": "2016 – 2017"
+    },
+    {
+      "school": "Manage and More by UnternehmerTUM",
+      "degree": "Manage & More Scholarship, Entrepreneurship/Entrepreneurial Studies",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Business",
+      "dateRange": "2014 – 2018"
+    },
+    {
+      "school": "Europäische Schule München",
+      "degree": "European School Munich, European Baccalaureate [eqv. German Abitur]",
+      "dateRange": "2002 – 2014"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": null
+}

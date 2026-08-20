@@ -1,0 +1,179 @@
+{
+  "id": "nadja-born-19706a130",
+  "name": "Nadja Born",
+  "headline": "Organizational Psychologist | TUM | Harvard | MIT",
+  "avatar": {
+    "sm": "/avatars/nadja-born-19706a130-sm.webp",
+    "lg": "/avatars/nadja-born-19706a130.webp",
+    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAAAQBgCdASogACAAPsFOn0unpCKht/qoAPAYCUAVhmyJwDaG9+/wdTj3Am2obb7tDqAVmQeZ6qRebfgA/v27bfTlb8d0Q2L+NBsCDrE1ht/azvd1r06Kof0/NOfg5gYwklB61JQ3N7YEDTUlZlg1/JS4oC555bqSvfpM5ZFgd31pUzo76VaKn9PA4yUVmUBKpSKolOYpa4Xqwe9a+6ZYsjdX3C8hCVDGdyRuPVlAQXhUEpynuSOPsqJbLO/Kib5E1rzS/Fzd90ZUi1c3e3opikctkpX3KvLZnK3wbHeeBhXjMsiHBXwhKEy9r/x7LtccYAA="
+  },
+  "location": "United States, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/nadja-born-19706a130",
+  "personId": 1084,
+  "classes": [
+    {
+      "id": 88,
+      "label": "Fall 2020",
+      "season": "Fall",
+      "year": 2020,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2020",
+  "major": "M.Sc. Economic, Organisational and Social Psychology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Nadja Born",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "DeFakto. Politik in Zahlen",
+      "companyUrl": "https://www.linkedin.com/company/defakto-politik",
+      "description": "We build a politics dashboard for Germany - comprehensive and accessible for everyone.\nFor a more data-driven, impact-oriented and resilient political decision-making.",
+      "location": null,
+      "start": "2025-03",
+      "end": null,
+      "dateRange": "Mar 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of People Science",
+      "company": "Loyee.ai",
+      "companyUrl": "https://www.linkedin.com/company/getalfa",
+      "description": null,
+      "location": null,
+      "start": "2020-10",
+      "end": null,
+      "dateRange": "Oct 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Summer Analyst",
+      "company": "The World Bank",
+      "companyUrl": "https://www.linkedin.com/company/the-world-bank",
+      "description": null,
+      "location": null,
+      "start": "2024-05",
+      "end": "2024-08",
+      "dateRange": "May 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Executive Board Office (CTO)",
+      "company": "Allianz",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-11",
+      "end": "2020-02",
+      "dateRange": "Nov 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Executive Board Office (CTO)",
+      "company": "Allianz",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-08",
+      "end": "2019-11",
+      "dateRange": "Aug 2019 – Nov 2019",
+      "current": false
+    },
+    {
+      "title": "Research Assistant – Chair of Social Psychology",
+      "company": "Ludwig-Maximilians Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-10",
+      "end": "2020-02",
+      "dateRange": "Oct 2018 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "Westwing Home & Living",
+      "companyUrl": "https://www.linkedin.com/company/westwing-home-&-living",
+      "description": null,
+      "location": "Munich",
+      "start": "2016-08",
+      "end": "2016-10",
+      "dateRange": "Aug 2016 – Oct 2016",
+      "current": false
+    },
+    {
+      "title": "Research Assistant – Social Cognition Lab",
+      "company": "The University of Texas at Austin",
+      "companyUrl": "https://www.linkedin.com/company/theuniversityoftexasataustin-",
+      "description": null,
+      "location": "Austin",
+      "start": "2016-01",
+      "end": "2016-05",
+      "dateRange": "Jan 2016 – May 2016",
+      "current": false
+    },
+    {
+      "title": "Human Resources",
+      "company": "Schaeffler",
+      "companyUrl": "https://www.linkedin.com/company/schaeffler",
+      "description": null,
+      "location": "Schweinfurt",
+      "start": "2014-09",
+      "end": "2014-10",
+      "dateRange": "Sep 2014 – Oct 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Harvard University",
+      "degree": "PhD Fellow",
+      "dateRange": "2021 – 2026"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "PhD Student",
+      "dateRange": "2021 – 2026"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Philosophy - PhD, Organizational Behavior",
+      "dateRange": null
+    },
+    {
+      "school": "Singapore Management University",
+      "degree": "PhD Fellow",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Economic, Organizational and Social Psychology",
+      "dateRange": null
+    },
+    {
+      "school": "The Julius Maximilians University of Würzburg",
+      "degree": "Bachelor of Science (B.Sc.), Psychology",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": null
+}

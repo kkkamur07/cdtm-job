@@ -1,0 +1,157 @@
+{
+  "id": "johannes-wust",
+  "name": "Johannes Wust",
+  "headline": "Teacher",
+  "avatar": null,
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/johannes-wust",
+  "personId": 1330,
+  "classes": [
+    {
+      "id": 57,
+      "label": "Spring 2005",
+      "season": "Spring",
+      "year": 2005,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2005",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Johannes Wust",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Teacher",
+      "company": "Goethe-Gymnasium Berlin Wilmersdorf",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Head of the global development organization responsible for SAPs financial products, including SAP S/4HANA Finance",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Senior Software Development Manager",
+      "company": "Amazon Web Services (AWS)",
+      "companyUrl": "https://www.linkedin.com/company/amazon-web-services",
+      "description": "Building Amazon Redshift, the world's fastest cloud data warehouse for Fortune 500 companies, startups, and everything in between.",
+      "location": "Berlin Area, Germany",
+      "start": "2019-08",
+      "end": "2025-04",
+      "dateRange": "Aug 2019 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "S/4HANA SAP Cloud Platform Enablement, Vice President, Development Executive",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": "Head of S/4HANA Cloud Platform Enablement, an agile organization developing cloud extensions for SAPs latest business suite S/4HANA on SAP Cloud Platform",
+      "location": "Berlin Area, Germany",
+      "start": "2017-04",
+      "end": "2019-07",
+      "dateRange": "Apr 2017 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Co-Head LoB Finance, Vice President, Development Executive",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": null,
+      "location": "Berlin und Umgebung, Deutschland",
+      "start": "2016-06",
+      "end": "2017-03",
+      "dateRange": "Jun 2016 – Mar 2017",
+      "current": false
+    },
+    {
+      "title": "Strategy and Program Office, LoB Finance",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": "Head of Strategy and Program Office of SAPs global development organization for financial products",
+      "location": "Berlin Metropolitan Area",
+      "start": "2014-08",
+      "end": "2016-06",
+      "dateRange": "Aug 2014 – Jun 2016",
+      "current": false
+    },
+    {
+      "title": "Researcher, PhD",
+      "company": "Hasso Plattner Institute",
+      "companyUrl": "https://www.linkedin.com/company/hasso-plattner-institute",
+      "description": "Research Group of Prof. Dr. Hasso Plattner; research on workload management for main memory databases",
+      "location": "Potsdam und Umgebung, Deutschland",
+      "start": "2010-09",
+      "end": "2014-08",
+      "dateRange": "Sep 2010 – Aug 2014",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": null,
+      "location": "Berlin und Umgebung, Deutschland",
+      "start": "2008-07",
+      "end": "2014-07",
+      "dateRange": "Jul 2008 – Jul 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Hasso Plattner Institute",
+      "degree": "Doktor (Ph.D.), Computer Science",
+      "dateRange": "2010 – 2014"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Computer Science",
+      "dateRange": "2005 – 2007"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2005 – 2007"
+    }
+  ],
+  "skills": [
+    "Business Strategy",
+    "Management Consulting",
+    "Project Management",
+    "Strategy",
+    "Software Development",
+    "Management",
+    "Consulting",
+    "Entrepreneurship",
+    "IT Strategy",
+    "Business Development",
+    "Business Intelligence"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": null
+}

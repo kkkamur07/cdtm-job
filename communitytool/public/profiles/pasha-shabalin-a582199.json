@@ -1,0 +1,175 @@
+{
+  "id": "pasha-shabalin-a582199",
+  "name": "Pasha Shabalin",
+  "headline": "Co-founder, Director Technology Integration at Marvel Fusion GmbH",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/pasha-shabalin-a582199",
+  "personId": 1521,
+  "classes": [
+    {
+      "id": 56,
+      "label": "Fall 2004",
+      "season": "Fall",
+      "year": 2004,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2004",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Pasha Shabalin",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-founder, Director Technology Integration",
+      "company": "Marvel Fusion",
+      "companyUrl": "https://www.linkedin.com/company/marvelfusion",
+      "description": "Marvel Fusion will enable humankind to access abundant, CO2-free and non-radioactive energy by developing a laser-induced fusion generator capable of delivering high baseload per installation at competitive prices.",
+      "location": null,
+      "start": "2019-06",
+      "end": null,
+      "dateRange": "Jun 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-founder, CTO",
+      "company": "CRX Markets AG",
+      "companyUrl": "https://www.linkedin.com/company/-crx-markets-s-a-",
+      "description": null,
+      "location": null,
+      "start": "2012-03",
+      "end": "2019-08",
+      "dateRange": "Mar 2012 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Co-founder, Managing Director",
+      "company": "Astradi GmbH",
+      "companyUrl": "https://www.linkedin.com/company/astradi-gmbh",
+      "description": "Astradi provides consulting services and software for running complex multi-item auctions. Astradi assisted participants of many spectrum auctions worldwide to achieve their goals, including both bidders and regulators. Another broad application field for the complex auctions is industrial procurement, where Astradi successfully participated in a series of large procurement tenders with various industry partners.",
+      "location": null,
+      "start": "2008-01",
+      "end": "2013-12",
+      "dateRange": "Jan 2008 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Research",
+      "company": "TU München",
+      "companyUrl": null,
+      "description": "Full-time research position in the areas of auction theory, combinatorial optimization, game theory, mechanism design.",
+      "location": null,
+      "start": "2005-02",
+      "end": "2012-12",
+      "dateRange": "Feb 2005 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Software Architect",
+      "company": "ZADU",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "1998-01",
+      "end": "2000-12",
+      "dateRange": "Jan 1998 – Dec 2000",
+      "current": false
+    },
+    {
+      "title": "IT consulting",
+      "company": "IT consulting",
+      "companyUrl": null,
+      "description": "Occasional IT consulting and software development services for various clients.",
+      "location": null,
+      "start": "1998-01",
+      "end": "2015-12",
+      "dateRange": "Jan 1998 – Dec 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Ph.D. (Dr. rer. nat), Auction theory",
+      "dateRange": "2004 – 2007"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Master's degree, Technology Management",
+      "dateRange": "2004 – 2006"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl. Ing, Informatics",
+      "dateRange": "2000 – 2004"
+    }
+  ],
+  "skills": [
+    "Negotiation",
+    "Java",
+    "C",
+    "C++",
+    "Strategy",
+    "Team Leadership",
+    "German",
+    "Business Planning",
+    "Business Development",
+    "Cloud Computing",
+    "Machine Learning",
+    "Start-ups",
+    "Research",
+    "Data Mining",
+    "Analysis",
+    "Software Development",
+    "Entrepreneurship",
+    "Project Management",
+    "Product Management",
+    "New Business Development",
+    "Mobile Applications",
+    "Innovation Management",
+    "C#",
+    "Telecommunications",
+    "Programming",
+    "Agile Methodologies",
+    "Security",
+    "Distributed Systems",
+    "Windows",
+    "Computer Science",
+    "Algorithms",
+    "Software Project Management",
+    "Embedded Systems",
+    "Software Engineering",
+    "Strategy Development",
+    "Optimization",
+    "Artificial Intelligence",
+    "Aerobatics"
+  ],
+  "languages": [
+    "Russian",
+    "Ukrainian",
+    "Czech",
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Marvel Fusion",
+    "tagline": "Empowering humanity",
+    "description": "Our mission is to enable humankind to access clean, safe & reliable energy by developing a laser-driven fusion power plant.",
+    "industry": "Electric Power Generation",
+    "website": "https://marvelfusion.com",
+    "linkedInUrl": "https://www.linkedin.com/company/marvelfusion",
+    "employeeCount": 106,
+    "foundedYear": 2019,
+    "location": "Munich, Germany",
+    "specialities": []
+  }
+}

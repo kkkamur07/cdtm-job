@@ -1,0 +1,224 @@
+{
+  "id": "lysander-kiesel",
+  "name": "Lysander Kiesel",
+  "headline": "Tech Lead & Engineering Manager at Alasco | ESG for construction industry | CDTM Technology Management | Electrical Engineering and Information Technology",
+  "avatar": {
+    "sm": "/avatars/lysander-kiesel-sm.webp",
+    "lg": "/avatars/lysander-kiesel.webp",
+    "blur": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAADwBQCdASogACAAPrVInEunJCKht+gA4BaJQBlD+AeICOtVrfc4/H1SVt2gVR57KXu43jx4r31tAAD++Li+BpQTZEX9kuxSowo2yqp36nba1rq0tc97d79i1VdawLPheX+GEvtpuOdEckLSq9AetA/MF4idnMs+nQs6TIcrIs6JgBekRnuYQkbdm8QLjEHgqYG5SSGsm65UX52WQYRLKB8uI6TN9z446ZEhGq1a/woTG+a0TfyttSjCVHj1k44Uh6RZepKz0fPb1e8UpGR+964gepn47TSH2oAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/lysander-kiesel",
+  "personId": 1124,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Electrical Engineering & Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Lysander Kiesel",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Tech Lead & Engineering Manager",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": null,
+      "start": "2022-05",
+      "end": null,
+      "dateRange": "May 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Tech Lead",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": null,
+      "start": "2022-02",
+      "end": "2022-05",
+      "dateRange": "Feb 2022 – May 2022",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": null,
+      "start": "2019-10",
+      "end": "2022-01",
+      "dateRange": "Oct 2019 – Jan 2022",
+      "current": false
+    },
+    {
+      "title": "External Product Development Consultant from CDTM",
+      "company": "E.ON",
+      "companyUrl": "https://www.linkedin.com/company/e-on",
+      "description": "Four months consulting project in IoT product development as part of the CDTM Managing Product Development course:\n- User research, problem identification, ideation and business model development\n- Full-stack development of a prototype",
+      "location": null,
+      "start": "2019-04",
+      "end": "2019-07",
+      "dateRange": "Apr 2019 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "External Consultant from CDTM",
+      "company": "GEA Group",
+      "companyUrl": "https://www.linkedin.com/company/geagroup",
+      "description": "Consulting project with GEA Group and CDTM about the digital future of the dairy industry as part of the CDTM Trendseminar: Trend and future research and business model development in the dairy industry",
+      "location": null,
+      "start": "2019-03",
+      "end": "2019-04",
+      "dateRange": "Mar 2019 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Werkstudent Produktentwicklung Embedded Systems",
+      "company": "Pierre-Geoffroy Plantet",
+      "companyUrl": null,
+      "description": "Prototypenentwicklung von Embedded Systems im Fahrrad- und E-Bikesegment (vernetzte Sensorsysteme, Motorsteuerung etc.)",
+      "location": null,
+      "start": "2017-04",
+      "end": "2019-04",
+      "dateRange": "Apr 2017 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Wissenschaftliche Hilfskraft am Lehrstuhl für Energiewirtschaft und Anwendungstechnik",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Aufbau eines Prüfstandes zur Untersuchung des thermischen Verhaltens von Gebäuden und deren intelligenten Steuerung",
+      "location": null,
+      "start": "2016-08",
+      "end": "2017-03",
+      "dateRange": "Aug 2016 – Mar 2017",
+      "current": false
+    },
+    {
+      "title": "Praktikant Product & Solution Security",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Mitarbeit bei der Erstellung eines IT-Sicherheitskonzept für ein Lichtsignalanlagen-Steuergerät",
+      "location": null,
+      "start": "2016-04",
+      "end": "2016-06",
+      "dateRange": "Apr 2016 – Jun 2016",
+      "current": false
+    },
+    {
+      "title": "Werkstudent - Product Lifecycle Management",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Intelligent Traffic Systems (Mobility Division)",
+      "location": null,
+      "start": "2015-01",
+      "end": "2016-03",
+      "dateRange": "Jan 2015 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Studentische Hilfskraft",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Studentische Hilfskraft am Lehrstuhl für Unternehmensführung",
+      "location": null,
+      "start": "2013-11",
+      "end": "2014-05",
+      "dateRange": "Nov 2013 – May 2014",
+      "current": false
+    },
+    {
+      "title": "Projektstudium",
+      "company": "Orange Hills GmbH",
+      "companyUrl": "https://www.linkedin.com/company/orange-hills-gmbh",
+      "description": "Themenstellung: Analyse der deutschen Energiewirtschaft mit Fokus auf Kundenbedürfnisse und Innovationen",
+      "location": null,
+      "start": "2013-09",
+      "end": "2014-01",
+      "dateRange": "Sep 2013 – Jan 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2019 – 2020"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Elektro- und Informationstechnik",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Waseda University",
+      "degree": "Exchange Semester, Major in Electrical Engineering and Bioscience",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Elektro- und Informationstechnik",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Technische Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Management and Technology",
+      "dateRange": "2011 – 2015"
+    }
+  ],
+  "skills": [
+    "PowerPoint",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Projektmanagement",
+    "Embedded C",
+    "Produktentwicklung",
+    "Produktmanagement",
+    "Elektrotechnik",
+    "Ingenieurwissenschaften",
+    "Innovationsmanagement",
+    "Energiesektor",
+    "Erneuerbare Energien",
+    "Embedded-Software-Programmierung",
+    "Stage Gate Process"
+  ],
+  "languages": [
+    "Englisch",
+    "Deutsch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "Alasco",
+    "tagline": null,
+    "description": "Alasco is the financial management platform for real estate companies managing development, retrofit, and tenant improvement projects. Alasco helps real estate companies shift from reactive cost control to strategic financial management and set in place the financial data layer for a solid AI strategy.\n\nWith rapid time-to-value, the Alasco platform unites all stakeholders around a single source of truth, helping them plan, budget, analyse, optimise and execute on their business plans.\n\nThe platform is used by over 350 real estate players across Europe who collectively manage on Alasco more than €1Tn in project development volume to date. Key customers include: Hines, JLL, LaSalle, Ardian, ECE Gruppe, Alcaro Invest and Patrizia SE.",
+    "industry": "Software Development",
+    "website": "http://www.alasco.com",
+    "linkedInUrl": "https://www.linkedin.com/company/alasco-software",
+    "employeeCount": 134,
+    "foundedYear": 2018,
+    "location": "München, Germany",
+    "specialities": [
+      "Software",
+      "ESG",
+      "CapEx",
+      "Financial controlling",
+      "sustainability"
+    ]
+  }
+}

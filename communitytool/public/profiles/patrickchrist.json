@@ -1,0 +1,141 @@
+{
+  "id": "patrickchrist",
+  "name": "Dr.-Ing. Patrick Christ",
+  "headline": "BauGPT Gründer |  Co-Founder von CAPMO | PhD at CDTM",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/patrickchrist",
+  "personId": 1947,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Patrick Christ",
+  "ca": {
+    "alumni": true,
+    "about": null,
+    "responsibilities": [],
+    "researchFields": [],
+    "email": null
+  },
+  "summary": "Co-Founder von BauGPT \nCo-Founder von Capmo\nPhD in Computer Vision from TUM and CDTM",
+  "positions": [
+    {
+      "title": "Gründer und Geschäftsführer",
+      "company": "BauGPT (ehem. Crafthunt)",
+      "companyUrl": "https://www.linkedin.com/company/baugpt-gmbh",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "BauGPT (ehem. Crafthunt)",
+      "companyUrl": "https://www.linkedin.com/company/baugpt-gmbh",
+      "description": "Crafthunt hat das Ziel die führende Plattform für Baufachkräfte weltweit zu werden und dabei bessere Arbeitsbedingungen und Entwicklungsmöglichkeiten für Fachkräfte in der Bauindustrie zu ermöglichen.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Co Founder and Chief Revenue Officer (non-active)",
+      "company": "CAPMO",
+      "companyUrl": "https://www.linkedin.com/company/capmo",
+      "description": "Mit der cloudbasierten Lösung von CAPMO können Baumängel, Aufgaben, Baufortschritte und Co. direkt am Smartphone oder Tablet in einem digitalen Plan erfasst und dokumentiert werden.",
+      "location": "Sonnenstraße 15, München",
+      "start": "2018-01",
+      "end": null,
+      "dateRange": "Jan 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "PhD Candidate in Computer Vision and AI",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-05",
+      "end": "2017-11",
+      "dateRange": "May 2014 – Nov 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Center Assistent CA, Entrepreneurship Lab",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": null,
+      "dateRange": "2008 – 2013"
+    }
+  ],
+  "skills": [
+    "Baugewerbe",
+    "Bauunternehmer",
+    "Baumanagement",
+    "Bauleitung",
+    "Recruiting",
+    "Baufachkräfte",
+    "Fachkräftemangel",
+    "Bauhandwerk",
+    "Deep Learning",
+    "Computer-Vision",
+    "CNN",
+    "FCN",
+    "Pattern Recognition",
+    "Business Strategy",
+    "Java",
+    "Matlab",
+    "Microsoft Office",
+    "Produktentwicklung",
+    "Projektmanagement",
+    "Start-ups",
+    "Unternehmensführung",
+    "Strategisches Management",
+    "Unternehmertum",
+    "PAVE BIM Software",
+    "Management"
+  ],
+  "languages": [],
+  "company": {
+    "name": "BauGPT",
+    "tagline": "BauGPT – Jobs, Recruiting und AI für die Bauwirtschaft",
+    "description": "BauGPT vereint, was die Bauwirtschaft heute braucht: Jobs, Recruiting und KI.\n\nAls Crafthunt gegründet, haben wir seit 2022 das größte Netzwerk von Fachkräften und Unternehmen im Bau und Handwerk aufgebaut. Über 70.000 Profis und mehr als 1.000 Unternehmen – darunter BAUER, Eiffage, Enpal, Geiger, Implenia und STRABAG – vertrauen bereits auf unsere Lösungen.\n\nDoch Recruiting allein reicht nicht aus, um die Herausforderungen der Branche zu bewältigen. Deshalb erweitern wir unser Angebot um KI-Lösungen – speziell entwickelt für die Bauwirtschaft. Mit BauGPT machen wir Wissen nutzbar, automatisieren Routinearbeit und steigern die Produktivität auf Baustellen und in Unternehmen. Kostenlos für alle, mit einer Pro-Version für Unternehmen.\n\nBauGPT. Jobs, Recruiting und KI für die Bauwirtschaft.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://baugpt.com",
+    "linkedInUrl": "https://www.linkedin.com/company/baugpt-gmbh",
+    "employeeCount": 19,
+    "foundedYear": 2022,
+    "location": "Munich, Germany",
+    "specialities": [
+      "KI",
+      "AI",
+      "Jobs",
+      "Recruiting",
+      "HR",
+      "Personal",
+      "Software",
+      "Bau",
+      "Bauwirtschaft",
+      "Bauindustrie",
+      "Handwerk",
+      "BauGPT",
+      "Crafthunt"
+    ]
+  }
+}

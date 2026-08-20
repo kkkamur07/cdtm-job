@@ -1,0 +1,218 @@
+{
+  "id": "anjella-klaiber",
+  "name": "Anjella Klaiber",
+  "headline": "CDTM I AMES Foundation",
+  "avatar": {
+    "sm": "/avatars/anjella-klaiber-sm.webp",
+    "lg": "/avatars/anjella-klaiber.webp",
+    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAABQBgCdASogACAAPtFepE8oJKMiKAqpABoJaACdMtyZXtsxT9JP1/jVECpks+TZ+3T6dx4qTqMcJdbF+AD++qorZ2kPfR33l9WlkrXI8xbPN030jN++BNKXx/5K2FX2vG2LS8sRzKkNFNPiwSfkWHrHovcGhCQ+VJJPPEdzW7L81ae1zcwY+0/i0zyDNeqDc5rhQvwGZ7NWSiuvvLyPFlQGfUrSoj1/E+f8hP/TW6ZAHrDlyyKpy4rrJUAC/87nIKoHYvyO2G7eutYirTp3QBI6Yo+hT67IKG8uKDr6b9YzjdN4nbd0Dyecznr14bHuqcadHRuUAAA="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/anjella-klaiber",
+  "personId": 2116,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Anjella Klaiber",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Contributed to the execution and publication of an interview series on corporate innovation best practices.",
+      "company": "Axel Springer",
+      "companyUrl": "https://www.linkedin.com/company/axelspringer",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Venture Investments",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-10",
+      "end": "2026-03",
+      "dateRange": "Oct 2025 – Mar 2026",
+      "current": false
+    },
+    {
+      "title": "Commercialization Strategy",
+      "company": "TUM Climate Ventures (TCV)",
+      "companyUrl": "https://www.linkedin.com/company/tum-climate-ventures",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-10",
+      "end": "2026-02",
+      "dateRange": "Oct 2025 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Founder's Associate",
+      "company": "Tanso",
+      "companyUrl": "https://www.linkedin.com/company/tansotechnologies",
+      "description": "Drove strategic initiatives across external communication, reporting, and fundraising by enhancing sales enablement through tailored content and presentations, streamlining management and investor reporting, co-leading a company manifesto update, and supporting a €12M Series A round.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-05",
+      "end": "2025-08",
+      "dateRange": "May 2025 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Value Creation",
+      "company": "UVC Partners",
+      "companyUrl": "https://www.linkedin.com/company/uvc-partners",
+      "description": "Conceptualized and executed portfolio development in venture capital, enabling structured collaboration between portfolio companies and the UnternehmerTUM corporate network.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-06",
+      "end": "2025-03",
+      "dateRange": "Jun 2024 – Mar 2025",
+      "current": false
+    },
+    {
+      "title": "Capital Formation & Partnerships",
+      "company": "DTCP",
+      "companyUrl": "https://www.linkedin.com/company/dtcp-capital",
+      "description": "Supported fundraising initiatives by producing market analyses, identifying potential LPs across two fund strategies now exceeding €3bn AuM, and enhancing investor relations through CRM optimization.",
+      "location": "Hamburg, Germany",
+      "start": "2023-08",
+      "end": "2023-12",
+      "dateRange": "Aug 2023 – Dec 2023",
+      "current": false
+    },
+    {
+      "title": "Innovation",
+      "company": "Axel Springer",
+      "companyUrl": "https://www.linkedin.com/company/axelspringer",
+      "description": null,
+      "location": "Remote",
+      "start": "2022-08",
+      "end": "2022-10",
+      "dateRange": "Aug 2022 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Axel Springer",
+      "companyUrl": "https://www.linkedin.com/company/axelspringer",
+      "description": "Advised the in-house consultancy on projects with clients across the Axel Springer portfolio.",
+      "location": "Berlin, Germany",
+      "start": "2022-05",
+      "end": "2022-08",
+      "dateRange": "May 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Project Management",
+      "company": "eBay",
+      "companyUrl": "https://www.linkedin.com/company/ebay",
+      "description": "Collaborated with corporate partners to improve the logistics and operations performance for eBay sellers and buyers.",
+      "location": "Dreilinden, Brandenburg, Germany",
+      "start": "2020-07",
+      "end": "2021-01",
+      "dateRange": "Jul 2020 – Jan 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management & Technology",
+      "dateRange": "2024"
+    },
+    {
+      "school": "ESB Business School, Reutlingen University",
+      "degree": "Bachelor of Science - BSc, International Management Double Degree",
+      "dateRange": "2019 – 2023"
+    },
+    {
+      "school": "Rollins College",
+      "degree": "Bachelor of Arts - BA, International Business, Data Analytics",
+      "dateRange": "2021 – 2023"
+    }
+  ],
+  "skills": [
+    "Strategy",
+    "Stakeholder Management",
+    "Data Analysis",
+    "Competitive Analysis",
+    "Sales",
+    "Venture Capital",
+    "Fundraising",
+    "Private Equity",
+    "Capital Formation",
+    "Project Management",
+    "Technological Innovation",
+    "Market Research",
+    "Portfolio Management",
+    "Presentation Skills",
+    "Strategic Thinking",
+    "Communication",
+    "Investor Relations",
+    "Analytical Skills",
+    "Global Cross-Functional Team Leadership",
+    "Microsoft PowerPoint",
+    "Economics",
+    "Englisch",
+    "Microsoft Office",
+    "Projektmanagement",
+    "Microsoft Excel",
+    "Teamwork"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "UVC Partners",
+    "tagline": "We partner with Europe's most ambitious B2B tech startups.",
+    "description": "UVC Partners is a Munich- and Berlin-based early-stage venture capital firm investing in European B2B startups in the fields of Deep Tech, Climate Tech, Enterprise Software and Mobility.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://www.uvcpartners.com",
+    "linkedInUrl": "https://www.linkedin.com/company/uvc-partners",
+    "employeeCount": 72,
+    "foundedYear": 2011,
+    "location": "Garching (Munich), Germany",
+    "specialities": [
+      "Venture Capital",
+      "Early Stage",
+      "Internet",
+      "Software",
+      "Mobility",
+      "B2B",
+      "SaaS",
+      "Industry 4.0",
+      "Manufacturing Technologies",
+      "Hardware",
+      "Enterprise Software",
+      "Deep Tech",
+      "Climate Tech",
+      "Mobility"
+    ]
+  }
+}

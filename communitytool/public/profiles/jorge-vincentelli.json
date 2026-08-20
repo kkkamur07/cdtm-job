@@ -1,0 +1,144 @@
+{
+  "id": "jorge-vincentelli",
+  "name": "Jorge Vincentelli",
+  "headline": "LMU Medizin | CDTM | StEP",
+  "avatar": {
+    "sm": "/avatars/jorge-vincentelli-sm.webp",
+    "lg": "/avatars/jorge-vincentelli.webp",
+    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAABwBgCdASogACAAPtFcpk6oJSMiKAqpABoJZADE2ywYb5mlJ41osbKDLSO730OS2K3hlnBpLPvfkyHG3IAA/ucrGfXNjzBErjexEjgyW4J/kuVNwQY32sP1NZDaIw+y9N3k8MzVtkTmxRmsPqYEHw76V6k/Exsong0wPQCdRCWfahTVQXhQbWfxnj3ociZ9Fahb+Tmnt0v1jGjbh6vET8ffmEOy/aF3oTn5x7MkKWTsjmEdt58ronjg/q+aRE8ORpZakHo2DAp26+PxObe7m5SOu4L6qMlicSbBXv2H13SB0HwJ8VwV2liPUmZuoNEAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jorge-vincentelli",
+  "personId": 2088,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Medicine",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jorge Vincentelli",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder",
+      "company": "Stealth Startup",
+      "companyUrl": "https://www.linkedin.com/company/stealth-startup-community",
+      "description": "AI Nation Batch #12\nMAxL by BioM",
+      "location": null,
+      "start": "2025-08",
+      "end": null,
+      "dateRange": "Aug 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Doctoral Researcher (MD Track)",
+      "company": "LMU Klinikum München",
+      "companyUrl": "https://www.linkedin.com/company/lmu-klinikum",
+      "description": "FöFoLe Program, \nDoctoral thesis research in AG Kotlarz at Dr. von Haunersches Kinderspital focused on monogenic forms of Very Early Onset Inflammatory Bowel Disease (VEO-IBD) using induced pluripotent stem cells (iPSCs) as a model.",
+      "location": null,
+      "start": "2024-03",
+      "end": null,
+      "dateRange": "Mar 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Graduate Researcher",
+      "company": "Boston Children's Hospital",
+      "companyUrl": "https://www.linkedin.com/company/bostonchildrenshospital",
+      "description": "Research visit at Snapper-Horwirtz Lab, Boston Children’s Hospital, focusing on IBD, funded by LMU StEP.",
+      "location": null,
+      "start": "2024-10",
+      "end": "2024-11",
+      "dateRange": "Oct 2024 – Nov 2024",
+      "current": false
+    },
+    {
+      "title": "Student’s Excellence Program (StEP) Participant",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "It selects around 10 high-achieving and engaged students for focused professional development.\nMentored by Prof. Martin Reincke",
+      "location": null,
+      "start": "2023-07",
+      "end": "2024-07",
+      "dateRange": "Jul 2023 – Jul 2024",
+      "current": false
+    },
+    {
+      "title": "Assistant, Macroscopic Anatomy Preparation Course",
+      "company": "Ludwig-Maximilians-Universität München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": null,
+      "location": null,
+      "start": "2021-10",
+      "end": "2022-07",
+      "dateRange": "Oct 2021 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Student Coordinator at the Transplantation Center Munich",
+      "company": "LMU Klinikum München",
+      "companyUrl": "https://www.linkedin.com/company/lmu-klinikum",
+      "description": null,
+      "location": null,
+      "start": "2021-07",
+      "end": "2024-07",
+      "dateRange": "Jul 2021 – Jul 2024",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Human Medicine (MD)",
+      "dateRange": "2020 – 2027"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2025 – 2027"
+    },
+    {
+      "school": "Harvard Medical School",
+      "degree": null,
+      "dateRange": "2024"
+    },
+    {
+      "school": "Universidad Central de Venezuela (UCV)",
+      "degree": "Doctor of Medicine - MD",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Colegio San Ignacio de Loyola",
+      "degree": null,
+      "dateRange": "2003 – 2016"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "LMU Klinikum München",
+    "tagline": "Gemeinsam. Fürsorglich. Wegweisend.",
+    "description": "Das LMU Klinikum \nzählt mit seinen beiden Münchner Standorten Campus Großhadern und Campus Innenstadt zu den größten Universitätsklinika in Deutschland und Europa. Jährlich vertrauen rund 500.000 Patienten der Kompetenz, Fürsorge und dem Engagement unserer Mitarbeiterinnen und Mitarbeiter in 28 Fachkliniken, sechzehn Instituten und fünf Abteilungen sowie den 63 interdisziplinären Zentren.\n\nHerausragende Einrichtungen des LMU Klinikums sind das Onkologische Spitzenzentrum CCC München, Bayerns größtes Transplantationszentrum TxM, das Deutsche Schwindel- und Gleichgewichtszentrum, das Tropeninstitut und das Center for International Health (CIH). Darüber hinaus ist das LMU Klinikum an allen Deutschen Zentren der Gesundheitsforschung sowie im Rahmen der Medizininformatik-Initiative des Bundesforschungsministeriums am DIFUTURE Konsortium sowie maßgeblich am Netzwerk Universitätsmedizin (NUM) zu COVID-19 beteiligt.",
+    "industry": "Hospitals and Health Care",
+    "website": "https://www.lmu-klinikum.de",
+    "linkedInUrl": "https://www.linkedin.com/company/lmu-klinikum",
+    "employeeCount": 2870,
+    "foundedYear": 1472,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

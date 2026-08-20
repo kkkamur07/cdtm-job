@@ -1,0 +1,148 @@
+{
+  "id": "henri-beyer",
+  "name": "Henri Beyer",
+  "headline": "Stanford | CDTM | CS & BA @ TUM",
+  "avatar": {
+    "sm": "/avatars/henri-beyer-sm.webp",
+    "lg": "/avatars/henri-beyer.webp",
+    "blur": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACQBQCdASogACAAPtFUpkuoJKOhqA1RABoJQBgbu6Kws8kS4CnN9moR3xc4oi5ogwVm5FpG4AD+w4PbqC0kMfFgqVRfCSLuObSpNqrjKbGC94Vc9d3RyWQKB5FWBI7h++Zdj9w0QsNi76pN3GC3ijto6L7r7HqD82M5l4yAoxRh5myn0ZddDLfP7J0lgM4HlOSfB11On7/1w5PhLM2dufKJjjgqfhO3UziKpAIQRZ6P7jigGgAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/henri-beyer",
+  "personId": 2071,
+  "classes": [
+    {
+      "id": 105,
+      "label": "Spring 2025",
+      "season": "Spring",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2025",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Henri Beyer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Visiting Researcher",
+      "company": "Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
+      "companyUrl": "https://www.linkedin.com/company/stanfordhai",
+      "description": null,
+      "location": "Stanford, California, United States",
+      "start": "2026-02",
+      "end": null,
+      "dateRange": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Intern - Data Analytics and Artificial Intelligence Management Consulting",
+      "company": "Porsche Consulting",
+      "companyUrl": "https://www.linkedin.com/company/porsche-consulting-",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-06",
+      "end": "2024-08",
+      "dateRange": "Jun 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Student Software Developer",
+      "company": "Deloitte",
+      "companyUrl": "https://www.linkedin.com/company/deloitte",
+      "description": "Optimized the business acquisition process by developing a web application capable of automating information extraction from potential projects, accelerating this process by more than a factor of 10 using Natural Language Processing (NLP) algorithms.",
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "start": "2023-04",
+      "end": "2023-08",
+      "dateRange": "Apr 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Student Researcher Data Science",
+      "company": "Cologne Institute for Information Systems (CIIS)",
+      "companyUrl": "https://www.linkedin.com/company/ciis-uoc",
+      "description": "Marketing Campaign Enhancement for a Global Fashion Brand:\n\nPart of a brainstorming team focused on boosting marketing campaign performance for a major global fashion brand.\nDeveloped and implemented a big-data-based individual targeting strategy, achieving a 30%+ improvement in return on campaign investment.\n\nAI in Medical Therapeutics Development:\n\nCollaborated in an interdisciplinary team with a biotech company to utilize artificial intelligence for accelerating pharmaceutical discoveries in multiple sclerosis treatment.\nActed as a mediator between experts in medicine, biochemistry, and computer science, facilitating cross-disciplinary integration and innovation.\n\nCryptocurrency Art Market Fraud Detection:\n\nInitiated a research project to develop an automated system for detecting fraudulent transactions in the cryptocurrency art market, identifying $6 billion in fraud.\nPresented peer-reviewed research findings at the International Conference on Business Informatics in September 2023",
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "start": "2021-07",
+      "end": "2024-04",
+      "dateRange": "Jul 2021 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Analytics Engineer - Business Intelligence",
+      "company": "3Dmensionals",
+      "companyUrl": "https://www.linkedin.com/company/3dmensionals",
+      "description": null,
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "start": "2020-07",
+      "end": "2022-08",
+      "dateRange": "Jul 2020 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Cultural Representative Program",
+      "company": "The Walt Disney Company",
+      "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company",
+      "description": null,
+      "location": "Orlando, Florida, United States",
+      "start": "2019-02",
+      "end": "2020-02",
+      "dateRange": "Feb 2019 – Feb 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science w/ Business",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "University of Cologne",
+      "degree": "Bachelor's degree, Information systems",
+      "dateRange": "2020 – 2024"
+    },
+    {
+      "school": "National Chengchi University",
+      "degree": "Visiting Student",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Liebfrauenschule Köln",
+      "degree": "Abitur",
+      "dateRange": "2010 – 2018"
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Python (Programming Language)",
+    "API Development"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
+    "tagline": "Advancing AI research, education, policy, and practice to improve humanity.",
+    "description": "At Stanford HAI, our vision for the future is led by our commitment to studying, guiding and developing human-centered AI technologies and applications. We believe AI should be collaborative, augmentative, and enhancing to human productivity and quality of life.\n\nStanford HAI leverages the university’s strength across all disciplines, including: business, economics, genomics, law, literature, medicine, neuroscience, philosophy and more. These complement Stanford's tradition of leadership in AI, computer science, engineering and robotics.\n\nOur goal is for Stanford HAI to become an interdisciplinary, global hub for AI thinkers, learners, researchers, developers, builders and users from academia, government and industry, as well as leaders and policymakers who want to understand and leverage AI’s impact and potential.",
+    "industry": "Higher Education",
+    "website": "http://hai.stanford.edu",
+    "linkedInUrl": "https://www.linkedin.com/company/stanfordhai",
+    "employeeCount": 221,
+    "foundedYear": 2018,
+    "location": "Stanford, United States",
+    "specialities": []
+  }
+}

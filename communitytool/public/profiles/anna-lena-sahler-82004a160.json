@@ -1,0 +1,192 @@
+{
+  "id": "anna-lena-sahler-82004a160",
+  "name": "Anna-Lena Sahler",
+  "headline": "EGYM Wellpass | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/anna-lena-sahler-82004a160-sm.webp",
+    "lg": "/avatars/anna-lena-sahler-82004a160.webp",
+    "blur": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAABQBgCdASogACAAPtFOpUuoI6OhsBgMAQAaCWgAuyDmYLlW/gJUX1DmMQ0/N9tiLDqg1rTLBfFX6GK/KAD++qpZ7bgSbpZZ7lIzRd28Hle7PWGwjdERhsNQsp755BWE/sRN30QQjZwZBbnOnvgRvxcFMXb7WBXo0C8367gH5uFT8ShC3t024lz0AMuP2q5wIUlzx2nVBK5ZgJ4zHjgAzx499CPtl62XPJayCPB9IVhQ8YFS+wLWPT+ZxKjHMm5CmrvUuJb2Nn4RSD95wS+vVDf6xDH+qOKOcImNzoX6RHLSFJKTFNnbXl2haYGKX4p0Dl4eFNHdcaDIV0iXqWD3RLfv5f7FKqDafYeAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/anna-lena-sahler-82004a160",
+  "personId": 873,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Consumer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Anna-Lena Sahler",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "International Strategy",
+      "company": "EGYM Wellpass DE",
+      "companyUrl": "https://www.linkedin.com/company/egym-wellpass-de",
+      "description": null,
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Strategic Associate to the Managing Director",
+      "company": "EGYM Wellpass DE",
+      "companyUrl": "https://www.linkedin.com/company/egym-wellpass-de",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": "2026-01",
+      "dateRange": "Jan 2024 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Support Management Team",
+      "company": "EGYM Wellpass DE",
+      "companyUrl": "https://www.linkedin.com/company/egym-wellpass-de",
+      "description": null,
+      "location": null,
+      "start": "2023-11",
+      "end": "2024-06",
+      "dateRange": "Nov 2023 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Visiting Venture Investment Analyst",
+      "company": "PAWAO",
+      "companyUrl": "https://www.linkedin.com/company/pawao",
+      "description": null,
+      "location": null,
+      "start": "2021-11",
+      "end": "2022-07",
+      "dateRange": "Nov 2021 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Venture Development",
+      "company": "Liberty Ventures",
+      "companyUrl": "https://www.linkedin.com/company/liberty-ventures",
+      "description": null,
+      "location": null,
+      "start": "2021-04",
+      "end": "2021-07",
+      "dateRange": "Apr 2021 – Jul 2021",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "goetzpartners",
+      "companyUrl": "https://www.linkedin.com/company/fortlanepartners",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-04",
+      "dateRange": "Jan 2021 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Consulting Intern",
+      "company": "maexpartners GmbH",
+      "companyUrl": "https://www.linkedin.com/company/maexpartners",
+      "description": null,
+      "location": null,
+      "start": "2020-10",
+      "end": "2020-11",
+      "dateRange": "Oct 2020 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Customer Value Sales",
+      "company": "SAP",
+      "companyUrl": "https://www.linkedin.com/company/sap",
+      "description": null,
+      "location": null,
+      "start": "2019-06",
+      "end": "2019-08",
+      "dateRange": "Jun 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Marketing Laundry and Home Care",
+      "company": "Henkel",
+      "companyUrl": "https://www.linkedin.com/company/henkel",
+      "description": null,
+      "location": "Greater Dusseldorf Area",
+      "start": "2018-05",
+      "end": "2018-08",
+      "dateRange": "May 2018 – Aug 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Consumer Science",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "University of Mannheim",
+      "degree": "Bachelor of Science - BS, Business Administration",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "The University of British Columbia",
+      "degree": "Bachelor of Science - BS, Business Administration",
+      "dateRange": "2019"
+    },
+    {
+      "school": "WHU – Otto Beisheim School of Management",
+      "degree": "Bachelor of Science - BS, Business Administration",
+      "dateRange": "2017 – 2018"
+    }
+  ],
+  "skills": [
+    "Englisch",
+    "Französisch",
+    "Deutsch",
+    "Eventmanagement"
+  ],
+  "languages": [
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "EGYM Wellpass DE",
+    "tagline": "Firmenfitness mit Wellpass - der perfekte Corporate Health-Benefit für ein produktives, gesundes und ausgeglichenes Team",
+    "description": "Mit Firmenfitness von EGYM Wellpass halten sich Mitarbeitende in mehr als 10.000 hochwertigen Sport- und Gesundheitseinrichtungen in ganz Deutschland und Österreich fit oder trainieren mit unserem stets wachsenden Angebot an Onlinekursen wann und wo sie möchten. Egal ob Fitness, Schwimmen, Yoga, Klettern oder vieles mehr - hier findet jeder sein persönliches Programm! \n\nUnd das Beste: Arbeitnehmer zahlen nur einen geringen Beitrag, da sich die Arbeitgeber an den Kosten beteiligen und in die Gesundheit der Mitarbeitenden investieren. \n\nLass uns den Kontakt eines Ansprechpartners in deinem Unternehmen (HR, BGM, Betriebsrat, GF) zukommen und los geht´s! (info@egym-wellpass.com)",
+    "industry": "Wellness and Fitness Services",
+    "website": "https://de.egym-wellpass.com/de-de",
+    "linkedInUrl": "https://www.linkedin.com/company/egym-wellpass-de",
+    "employeeCount": 288,
+    "foundedYear": 2010,
+    "location": "München, Germany",
+    "specialities": [
+      "Betriebliches Gesundheitsmanagement",
+      "Benefits",
+      "Firmenfitness",
+      "Betriebliche Gesundheitsprogramme",
+      "Fitness & Wellness",
+      "Fitnessstudios"
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "matthiasoster",
+  "name": "Matthias Oster",
+  "headline": "Project Lead / Senior Developer at Supercomputing Systems",
+  "avatar": null,
+  "location": "Oberrieden, Switzerland",
+  "linkedInUrl": "https://www.linkedin.com/in/matthiasoster",
+  "personId": 1736,
+  "classes": [
+    {
+      "id": 99,
+      "label": "Spring 2000",
+      "season": "Spring",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2000",
+  "major": "Electrical Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Matthias Oster",
+  "ca": null,
+  "summary": "My experience spans from the embedded software of a sophisticated medical device to a full-scale cloud IT project, from embedded real-time C++ to Java EE, functional F# and Infrastructur-as-Code. My ambition is to dive into complex systems and master them with a clean design - always a challenge.\nSince I love my family with 4 kids, I'm currently available at 80%. I'm interested in job-shared lead-, architect- and senior development opportunities. Important for me is to learn something new in an environment that supports it, a diverse team and a good cause!",
+  "positions": [
+    {
+      "title": "Project Manager",
+      "company": "super computing systems",
+      "companyUrl": "https://www.linkedin.com/company/super-computing-systems",
+      "description": "Project lead for the Swisseldex Datahub, a data exchange hub for the energy industries in Switzerland.\n\nMy role spanned the lifecycle from of the project from leading the development teams, operations to handover. I'm still responsible for maintenance of the application itself.\n\nThe datahub is a comprehensive IT project, including development, 24/7 operations and support. It features a Java / F# service-oriented architeture in a highly available Kubernetes cloud setup on Azure.\nSpecial focus is on the security aspects with identity and access management, a formal security concept, external review and penetration testing and application-specific encryption for the underlying data.\n\nProject Milestones:\nOct 2016: successful bid\nApr 2018: start of specification and development\nApr 2020: release of routing functionality\nOct 2021: release of metering point register\nMay 2022: last release of main project with the SDAT web client\nNov 2023: after various smaller extension, release of support for OSTRAL\nJul 2025: handover of infrastructure and support, keeping responsible for maintenance of the application.\n\nMy roles in this project are:\n- Overall project manager (2018 - 2020 and again since 2023)\n- Team lead for the development and infrastructure team (up to 5 people)\n- SW architect\n- Principal developer, as time permits (Java, F#)\n- Cloud operations (since 2022)\n- 3rd level support for the 3-people telephone and ticketing support team\n- Pikett duties\n- Currently: further development and keeping the application up-to-date.",
+      "location": "Zürich Area, Switzerland",
+      "start": "2017-04",
+      "end": null,
+      "dateRange": "Apr 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Project Manager",
+      "company": "super computing systems",
+      "companyUrl": "https://www.linkedin.com/company/super-computing-systems",
+      "description": "Various projects in different roles, depending on the customer needs:\n• Implementation of a common-wave broadcasting modem in C++ (developer)\n• Optimization for speed of a neural network implementation with intrinsics (developer)\n• Proof-of-concept of a multi-broker messaging network (JMS/ActiveMQ) (consultant)\n• Project manager ad interim in a SIL-4/CENELEC development (project manager)\n• Consulting role for quality assurance in appliance production (consultant)\n• Feasibility studies in the public transport area (Java, Android App etc.) (consultant / developer)",
+      "location": "Zurich, Switzerland",
+      "start": "2016-04",
+      "end": "2018-03",
+      "dateRange": "Apr 2016 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Team Lead Embedded SW",
+      "company": "Varian Medical Systems",
+      "companyUrl": "https://www.linkedin.com/company/varian-medical-systems",
+      "description": "•\tBuilt up and lead the embedded software team from 1 to 6 developers in a modified agile process\n•\tDevelopment of the multi-node embedded software for the new Halcyon machine, ranging from low-level motor control to the dedicated user input devices (C++/Rhapsody framework)\n•\tSuccessfully demonstrated a vertically integrated machine prototype to executive management \n•\tEnsured code quality according to medical device standards across the team (FDA 510(k))\n•\tFormal promotion to manager was imminent.\n\nMy expertise includes building up and leading a young and agile multi-national software team. Designing embedded software from low-level motor drivers to dedicated user input in strict object-oriented fashion. Communicating and interacting with all disciplines to define the system architecture.",
+      "location": "Palo Alto, California",
+      "start": "2013-01",
+      "end": "2015-04",
+      "dateRange": "Jan 2013 – Apr 2015",
+      "current": false
+    },
+    {
+      "title": "Senior Embedded SW Design Engineer",
+      "company": "Varian Medical Systems",
+      "companyUrl": "https://www.linkedin.com/company/varian-medical-systems",
+      "description": "•\tIntegrated the new 6DOF patient support into the TrueBeam 2.0 product\n•\tMaintained the safety-critical base libraries for a full system release cycle.",
+      "location": "Palo Alto, California",
+      "start": "2011-12",
+      "end": "2012-12",
+      "dateRange": "Dec 2011 – Dec 2012",
+      "current": false
+    },
+    {
+      "title": "Software Design Engineer",
+      "company": "Varian Medical Systems",
+      "companyUrl": "https://www.linkedin.com/company/varian-medical-systems",
+      "description": "•\tDeveloped the core algorithm for dynamic motion tracking during a 15-month expatriate in Palo Alto, capable enough that it enables clinical evaluation and research until today.\n•\tIntegrated a newly acquired product for stereotactic treatments with requirements engineering, feasibility studies and design of the system architecture, leading to a redefinition of the use case.",
+      "location": "Palo Alto, CA and Baden, Switzerland",
+      "start": "2007-05",
+      "end": "2011-11",
+      "dateRange": "May 2007 – Nov 2011",
+      "current": false
+    },
+    {
+      "title": "Postdoctoral Researcher",
+      "company": "ETH Zürich",
+      "companyUrl": "https://www.linkedin.com/company/eth-zurich",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2006-11",
+      "end": "2007-04",
+      "dateRange": "Nov 2006 – Apr 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "ETH Zürich",
+      "degree": "PhD, Neuromorphic Engineering",
+      "dateRange": "2002 – 2006"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl.-Ing. (eq. Masters), Electrical Engineering and Information Technology",
+      "dateRange": "1997 – 2002"
+    },
+    {
+      "school": "Theresiengymnasium München",
+      "degree": "Abitur (eq. GED), Humanistik",
+      "dateRange": "1987 – 1996"
+    }
+  ],
+  "skills": [
+    "Energy Industry",
+    "Neuromorphic Engineering",
+    "Neuroscience",
+    "510(k)",
+    "Terraform",
+    "Messaging",
+    "Project Management",
+    "Software-Lösungen",
+    "Architektur",
+    "Projektmanagement",
+    "Kubernetes",
+    "Java",
+    "F#",
+    "Microsoft Azure",
+    "Microservices",
+    "Cloud-Anwendungen",
+    "Embedded Systems",
+    "C++",
+    "Software Design",
+    "Algorithms"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "SCS - Supercomputing Systems AG",
+    "tagline": "Wir entwickeln Software und Hardware für Sie - von der Elektronik über die Full Stack Software bis zu AI-Algorithmen",
+    "description": "SCS carries out feasibility studies, system designs and sophisticated hardware and software developments on behalf of its customers. We cover a broad spectrum from control platforms and database applications, sensor technology and high-performance computing, digital image processing to signal analysis and processing.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.scs.ch",
+    "linkedInUrl": "https://www.linkedin.com/company/super-computing-systems",
+    "employeeCount": 109,
+    "foundedYear": 1993,
+    "location": "Zürich, Switzerland",
+    "specialities": [
+      "Innovative Lösungen",
+      "Technisch anspruchsvolle Aufgaben",
+      "High Performance Computing",
+      "Systems Engineering",
+      "Künstliche Intelligenz",
+      "Softwareentwicklung",
+      "Hardwareentwicklung",
+      "FPGA",
+      "Algorithmen",
+      "Analytics"
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "heun",
+  "name": "Niclas Heun",
+  "headline": "Co-Founder & CTO @ Lunavo (YC F25)",
+  "avatar": {
+    "sm": "/avatars/heun-sm.webp",
+    "lg": "/avatars/heun.webp",
+    "blur": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAADwBQCdASogACAAPrlKnUunJKKht+gA4BcJaAC06Yx5KjrVewK6rPdVdyWfP3An+XGCI8vA5XnIAAD++qg7uG0CTwou8xjQ+2SrrqCNTRnvhERJkCo7s/V5rzuiJ1TsykMOfc3mcaic21cdgGGYBen03dnZxAYmHpH8AcIm3VNXGtEhxlFuLinx3Aw5A0pTxsCYjTq8B3WlloqgMC/00uCT+nu0nU+qdkn2vvmUt7a9bUnDn21kt1ZOYuY0hsP2yG/GiwN8OEzbg9mnn340Tc847BwubwE4gvAAAA=="
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/heun",
+  "personId": 883,
+  "classes": [
+    {
+      "id": 92,
+      "label": "Fall 2022",
+      "season": "Fall",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2022",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Niclas Heun",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Lunavo (YC F25)",
+      "companyUrl": "https://www.linkedin.com/company/lunavo-ai",
+      "description": null,
+      "location": null,
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "iPraktikum Program Manager",
+      "company": "TUM Applied EdTech",
+      "companyUrl": "https://www.linkedin.com/company/tumaet",
+      "description": "Management of the prestigious iPraktikum practical course at the Technical University of Munich in which 80+ students per semester are taught the fundamentals of hands-on software engineering by developing real-world software projects for industry partners.",
+      "location": "Garching, Bavaria, Germany",
+      "start": "2024-08",
+      "end": "2025-05",
+      "dateRange": "Aug 2024 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Project Leader",
+      "company": "TUM Applied EdTech",
+      "companyUrl": "https://www.linkedin.com/company/tumaet",
+      "description": "Led a cross-functional team (Team Coach + 6 developers) to deliver iFactoryPilot for Siemens—an industrial voice-assistant that lets shop-floor operators control robots in plain language, streamlining human–robot collaboration.",
+      "location": null,
+      "start": "2024-04",
+      "end": "2024-08",
+      "dateRange": "Apr 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Praktikant",
+      "company": "HospiChef",
+      "companyUrl": "https://www.linkedin.com/company/hospichef",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": "2024-03",
+      "dateRange": "Jan 2024 – Mar 2024",
+      "current": false
+    },
+    {
+      "title": "Bachelor-Student / Research Assistant",
+      "company": "Fraunhofer AISEC",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-aisec",
+      "description": "Bachelor thesis in the “Cognitive Security Technologies” department, conducted within the SUKI initiative (Security for and with Artificial Intelligence), on adversarial attacks on speech recognition systems.",
+      "location": "Garching, Bavaria, Germany",
+      "start": "2021-11",
+      "end": "2022-04",
+      "dateRange": "Nov 2021 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Junior Consultant",
+      "company": "TNG Technology Consulting",
+      "companyUrl": "https://www.linkedin.com/company/tng-technology-consulting",
+      "description": "Working student in Innovation Hacking Team. \nDeveloped various AI prototypes with a focus on generative AI, mixed-reality showcases and deepfakes.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-03",
+      "dateRange": "Oct 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Junior Consultant",
+      "company": "TNG Technology Consulting",
+      "companyUrl": "https://www.linkedin.com/company/tng-technology-consulting",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2019-09",
+      "end": "2019-10",
+      "dateRange": "Sep 2019 – Oct 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Computer Science",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "The Center for Digital Technology and Management offers Munich's most talented and motivated university students the opportunity to jointly learn and work together on exciting projects. The CDTM is a joint institution of the LMU München and TU München and entirely run by a team of doctoral candidates and its students.",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "University of Waterloo",
+      "degree": "Exchange Term, Computer Science",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Stiftung Bayerische EliteAkademie (BEA)",
+      "degree": "Studienbegleitende Ausbildung zu werteorientierter Führung und Verantwortung (23. Jahrgang)",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2018 – 2022"
+    },
+    {
+      "school": "Otfried-Preußler-Gymnasium Pullach",
+      "degree": "German Abitur",
+      "dateRange": "2010 – 2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "studium generale, Unitag für besonders leistungsfähige Gymnasiasten",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Cushing Academy",
+      "degree": "English as a secound Language, Summer Academy",
+      "dateRange": "2016"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Lunavo (YC F25)",
+    "tagline": "The AI Assistant for Carriers.",
+    "description": null,
+    "industry": "Software Development",
+    "website": "https://lunavo.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/lunavo-ai",
+    "employeeCount": 2,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

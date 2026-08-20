@@ -1,0 +1,276 @@
+{
+  "id": "ermalguni",
+  "name": "Ermal G.",
+  "headline": "Chief Technology Officer at Preisenergie",
+  "avatar": {
+    "sm": "/avatars/ermalguni-sm.webp",
+    "lg": "/avatars/ermalguni.webp",
+    "blur": "data:image/webp;base64,UklGRl4BAABXRUJQVlA4IFIBAADQBgCdASogACAAPtFgqE+oJSOiKAgBABoJagCdIMh4obj5gUFf4TDCBT3xKDTA7UWWk24WwyBhqBtxlG3h4AAA/vCR3WmKfHN0hWIaF5rMV71s9XwP/hrQvYDpTIQWLAFfMOix7sN6zI1g15HS6ZoN/aTJk8rMQYVxjOixy9mjIMNRA4lMJyjRE0EWv8ZGjsNrLuSTqTq1VvCUjAko5WaIcHMqtl1yQcOCFCESWQwi7vWqv6Tj4kWx6Ybaf4NNo3ReVFcCXjILJtNzsHFIF3e4BMTvddR/UFvUd2l+upe8CXOgq4shzoFU9NQpS8W5nWDwB/erYf+/jcVqU0shl4JycaOsp9sqB9GjVs95AVQpKqFeUi6VQxSeEV21dcxUnRI9VHKoVHDN5gvTnGrY+l8YfhKddKXVQEPPKtbx+8lxUDUdJn5g7Y4Sj3nuDYiKrILQAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/ermalguni",
+  "personId": 986,
+  "classes": [
+    {
+      "id": 72,
+      "label": "Fall 2012",
+      "season": "Fall",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2012",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Ermal Guni",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Chief Technology Officer",
+      "company": "Preisenergie",
+      "companyUrl": "https://www.linkedin.com/company/preisenergie",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-10",
+      "end": null,
+      "dateRange": "Oct 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "wwwmatthes.in.tum.de",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "www.net.in.tum.de",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Developed and maintained an application for the parsing and visualization of traceroute files. The application was developed in PHP using Zend framework. Visualizations were generated using SVG and manipulated with Javascript.",
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Co-Founder IT",
+      "company": "nello.io",
+      "companyUrl": "https://www.linkedin.com/company/nello.io",
+      "description": null,
+      "location": "Zweibrücken Str. 2, 80331 München, Deutschland",
+      "start": "2016-04",
+      "end": "2019-10",
+      "dateRange": "Apr 2016 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "Cliqz GmbH",
+      "companyUrl": "https://www.linkedin.com/company/cliqz-gmbh",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-01",
+      "end": "2016-03",
+      "dateRange": "Jan 2015 – Mar 2016",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "optile",
+      "companyUrl": "https://www.linkedin.com/company/payoneer",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-11",
+      "end": "2014-12",
+      "dateRange": "Nov 2013 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Mobile Product Manager Working Student",
+      "company": "Experteer",
+      "companyUrl": "https://www.linkedin.com/company/experteer",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-03",
+      "end": "2013-10",
+      "dateRange": "Mar 2013 – Oct 2013",
+      "current": false
+    },
+    {
+      "title": "Software Architect",
+      "company": "Actiworks GMBH",
+      "companyUrl": null,
+      "description": "- Process design (Agile methodologies like Kanban etc.) \n- Project documentation\n- Software architecture analysis\n- Software design",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-10",
+      "end": "2013-02",
+      "dateRange": "Oct 2012 – Feb 2013",
+      "current": false
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2011-06",
+      "end": "2012-10",
+      "dateRange": "Jun 2011 – Oct 2012",
+      "current": false
+    },
+    {
+      "title": "EA (Enterprise Architecture) Visualizations. Creation and generation of enterprise architecture visualizations in order to help decision makers make the right decisions. I am taking part in the implementation of the Java back-end part and the Javascript front-end part. Helped create performance test to identify and correct potential bottlenecks in the software.",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": null,
+      "start": "2011-01",
+      "end": "2011-06",
+      "dateRange": "Jan 2011 – Jun 2011",
+      "current": false
+    },
+    {
+      "title": "Billing & CRM Manager",
+      "company": "ABCom",
+      "companyUrl": "https://www.linkedin.com/company/albanian-center-for-economic-research-acer-",
+      "description": "Lead the Project of the Billing System purchase. Gathered the requirements and helped in the standardization of the technologies used. Lead the production of quality assurance of the System.",
+      "location": null,
+      "start": "2009-04",
+      "end": "2010-10",
+      "dateRange": "Apr 2009 – Oct 2010",
+      "current": false
+    },
+    {
+      "title": "Developer",
+      "company": "ABCom",
+      "companyUrl": "https://www.linkedin.com/company/albanian-center-for-economic-research-acer-",
+      "description": "Developed provisioning applications for the TV Platform.\nDeveloped a Web-Application for the management of the TV clients.",
+      "location": null,
+      "start": "2009-04",
+      "end": "2009-11",
+      "dateRange": "Apr 2009 – Nov 2009",
+      "current": false
+    },
+    {
+      "title": "Student",
+      "company": "FSHN",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2004-01",
+      "end": "2009-12",
+      "dateRange": "Jan 2004 – Dec 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Digital Technology Management, Digital Technology Management",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Masters degree, Informatics",
+      "dateRange": "2010 – 2013"
+    },
+    {
+      "school": "University of Tirana",
+      "degree": "Computer Scientist, Computer Science",
+      "dateRange": "2004 – 2009"
+    }
+  ],
+  "skills": [
+    "Kommunikation",
+    "Linux",
+    "Java",
+    "JavaScript",
+    "MySQL",
+    "PHP",
+    "Web Applications",
+    "Software Engineering",
+    "Enterprise Architecture",
+    "AJAX",
+    "Python",
+    "C#",
+    "Product Management",
+    "Django",
+    "Dojo",
+    "PHP Applications",
+    "C++",
+    "EAM",
+    "Network Security",
+    "Network Administration",
+    "Software Development",
+    "jQuery",
+    "Visual C#",
+    "HTML",
+    "Apache",
+    "XHTML",
+    "Web Development",
+    "Design Patterns",
+    "Software Architectural Design",
+    "Archimate",
+    "Nagios",
+    "UML",
+    "Databases",
+    "Git",
+    "Eclipse",
+    "REST",
+    "Android",
+    "Android Development",
+    "Software Project Management",
+    "XML",
+    "Mobile Devices",
+    "Programming",
+    "Lean Startup",
+    "Agile Methodologies",
+    "Microservices",
+    "Amazon Web Services (AWS)",
+    "Technical Recruiting",
+    "Recruiting",
+    "Technical Vision"
+  ],
+  "languages": [
+    "Albanian",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "company": {
+    "name": "Preisenergie",
+    "tagline": "With our integrated pricing software, we help energy retailers to set the right price for every customer.",
+    "description": "Preisenergie is a young software company specialized on pricing in the energy sector. We help our customers calculate fair prices for a fully renewable and digital energy system. We model energy prices, simulate millions of alternative prices and choose optimal ones that best fit the goals of our customers (not always profit!). Our prices recover costs of individual consumers' energy consumptions and keep margins low enough to be competitive.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://www.preisenergie.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/preisenergie",
+    "employeeCount": 11,
+    "foundedYear": 2016,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Pricing",
+      "Energiewirtschaft",
+      "Utilities",
+      "Energieversorger",
+      "SaaS",
+      "Data Analytics",
+      "Kundenwert Pricing"
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "id": "m-froehlich",
+  "name": "michael fröhlich",
+  "headline": "founder in post-training stage exploring what’s next • 🚢 mode",
+  "avatar": {
+    "sm": "/avatars/m-froehlich-sm.webp",
+    "lg": "/avatars/m-froehlich.webp",
+    "blur": "data:image/webp;base64,UklGRjIBAABXRUJQVlA4ICYBAAAQBgCdASogACAAPtFcpU6oJSMiKAqpABoJQBjPu4FwPLJ0q1xUsDQImyCV4wTTeoDM/U/c8nkiCAAA/v34o7DrT+QXWFNfIYUfdWISXqAx3jcxeTJxt9dSKZVKGFmnFsBYsgk9g2JJ7RBD997aOBFp8JzNLV/aoy/35jUS++V0OUakDQ1TfaC34SY1eYxCY4uAoyfVEErf3h7c7W0+olQiNyYEHL9zM0Yw9z9z7XYl0B4upsrGkIpf6V/0kKPMEL0YOxOwdpO7IFyxnnta/d5wF/B/KgszT7461IT2l02+GRuvS0R0r+ErLxxEcThdZFxtsbx1dTgD8ftA9Q6Rg09MJfdn6sE4JrGEgQqPGAYZpejM/7lcYNg/4ZV8AH3bRCMWFTIAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/m-froehlich",
+  "personId": 769,
+  "classes": [
+    {
+      "id": 79,
+      "label": "Spring 2016",
+      "season": "Spring",
+      "year": 2016,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2016",
+  "major": "Informatics",
+  "roles": [
+    "student",
+    "ca"
+  ],
+  "isCA": true,
+  "caAlumni": true,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Michael Fröhlich",
+  "ca": {
+    "alumni": true,
+    "about": null,
+    "responsibilities": [],
+    "researchFields": [],
+    "email": null
+  },
+  "summary": "Engineer in Residence at Lucid, backing obsessive founders at inception.\n\nLooking for:\n• Founders building ambitious AI-native companies\n• People exploring ideas that feel too early\n• Technical builders in the AI space",
+  "positions": [
+    {
+      "title": "Engineer in Residence",
+      "company": "Lucid Capital",
+      "companyUrl": "https://www.linkedin.com/company/lucid-cap",
+      "description": "Backing obsessive founders at inception stage ✨",
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Software Engineer (Freelance)",
+      "company": "Langfuse",
+      "companyUrl": "https://www.linkedin.com/company/langfuse",
+      "description": "Building the Open Source LLM Engineering Platform",
+      "location": null,
+      "start": "2025-09",
+      "end": "2026-01",
+      "dateRange": "Sep 2025 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Ark Climate",
+      "companyUrl": "https://www.linkedin.com/company/ark-climate-technologies",
+      "description": "Ark develops modern software for cities to manage their transition towards net-zero.",
+      "location": null,
+      "start": "2023-01",
+      "end": "2025-08",
+      "dateRange": "Jan 2023 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Management Team",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Managed Europe's leading program for university entrepreneurship.",
+      "location": null,
+      "start": "2019-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2019 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Restructuring & Corporate Performance",
+      "company": "Roland Berger",
+      "companyUrl": "https://www.linkedin.com/company/rolandberger",
+      "description": null,
+      "location": null,
+      "start": "2018-06",
+      "end": "2018-09",
+      "dateRange": "Jun 2018 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "iOS Developer",
+      "company": "BOLT&",
+      "companyUrl": "https://www.linkedin.com/company/bolt-and",
+      "description": "Developed several iOS applications (Swift) for various clients.",
+      "location": null,
+      "start": "2016-10",
+      "end": "2017-08",
+      "dateRange": "Oct 2016 – Aug 2017",
+      "current": false
+    },
+    {
+      "title": "Student Employee - Service & Application Security",
+      "company": "Fraunhofer AISEC",
+      "companyUrl": "https://www.linkedin.com/company/fraunhofer-aisec",
+      "description": "Support of researchers in evaluating security mechanisms of smart home products from different vendors.",
+      "location": null,
+      "start": "2015-05",
+      "end": "2015-08",
+      "dateRange": "May 2015 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Student Employee - Service Desk for central user support",
+      "company": "Bayerische Landesbank",
+      "companyUrl": "https://www.linkedin.com/company/bayerische-landesbank",
+      "description": "Answering, prioritising and processing of customer calls as part of the first level support.",
+      "location": null,
+      "start": "2014-03",
+      "end": "2015-05",
+      "dateRange": "Mar 2014 – May 2015",
+      "current": false
+    },
+    {
+      "title": "Internship",
+      "company": "Racon Software GmbH",
+      "companyUrl": null,
+      "description": "Support of product experts with analysis, research and tasks related to the second level support. Executing and evaluating software tests.",
+      "location": null,
+      "start": "2013-03",
+      "end": "2013-07",
+      "dateRange": "Mar 2013 – Jul 2013",
+      "current": false
+    },
+    {
+      "title": "Military Service",
+      "company": "Österreichisches Bundesheer (Austrian Armed Forces)",
+      "companyUrl": "https://www.linkedin.com/company/bundesheer",
+      "description": null,
+      "location": null,
+      "start": "2012-09",
+      "end": "2013-02",
+      "dateRange": "Sep 2012 – Feb 2013",
+      "current": false
+    },
+    {
+      "title": "Internship - Physical Characterization",
+      "company": "Borealis",
+      "companyUrl": "https://www.linkedin.com/company/borealis",
+      "description": null,
+      "location": null,
+      "start": "2011-07",
+      "end": "2011-07",
+      "dateRange": "Jul 2011 – Jul 2011",
+      "current": false
+    },
+    {
+      "title": "Holiday Job",
+      "company": "Herba Chemosan Apotheker-AG",
+      "companyUrl": "https://www.linkedin.com/company/herba-chemosan-apotheker-ag",
+      "description": null,
+      "location": null,
+      "start": "2009-08",
+      "end": "2009-08",
+      "dateRange": "Aug 2009 – Aug 2009",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctoral Candidate | Chair of Strategy and Organization",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Doctoral Candidate | Chair for Human-Centered Ubiquitous Media",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Institute for Entrepreneurship & Innovation, WU Vienna University of Economics and Business",
+      "degree": "Visiting Researcher",
+      "dateRange": "2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master’s Degree, Computer Science",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "UC Berkeley School of Information",
+      "degree": "Visiting Student Researcher, Interface Design, Data Mining and Analytics, Full Stack Web Development",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor’s Degree, Computer Science",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Realgymnasium Ramsauerstraße",
+      "degree": "High School",
+      "dateRange": "2004 – 2012"
+    },
+    {
+      "school": "Johannes Kepler Universität Linz",
+      "degree": "Young Polymer Scientists",
+      "dateRange": "2007"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Java",
+    "Microsoft Excel",
+    "Agile Project Management",
+    "Analytical Skills",
+    "Software Development",
+    "Project Management",
+    "User Interface Design",
+    "iOS",
+    "Swift",
+    "Web Development",
+    "Vue.js",
+    "Adobe Illustrator",
+    "Presentation Skills",
+    "Software Engineering",
+    "Web Design",
+    "Adobe Photoshop",
+    "Swift (Programming Language)",
+    "Sketch",
+    "HTML/CSS",
+    "UI / UX Design",
+    "Vuejs",
+    "iOS Development",
+    "NodeJS",
+    "VueJS"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian"
+  ],
+  "company": {
+    "name": "Lucid Capital",
+    "tagline": "Lucid Capital is an investment firm backing AI-first technology companies from inception.",
+    "description": null,
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "https://www.lucidcap.co",
+    "linkedInUrl": "https://www.linkedin.com/company/lucid-cap",
+    "employeeCount": 10,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

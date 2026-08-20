@@ -1,0 +1,157 @@
+{
+  "id": "siegfried-numberger-2625b112",
+  "name": "Siegfried Numberger",
+  "headline": "Dynamische Tarife und Pricing für Energielieferanten bei HH-Kunden",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/siegfried-numberger-2625b112",
+  "personId": 1809,
+  "classes": [
+    {
+      "id": 50,
+      "label": "1999",
+      "season": null,
+      "year": 1999,
+      "location": 1
+    }
+  ],
+  "classLabel": "1999",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Siegfried Numberger",
+  "ca": null,
+  "summary": "Preisenergie macht Software für planbaren und analytischen Energie-Vertrieb\n\nEVU: Wo stehen Sie im neuen Verivox-Ranking? Lesen Sie hier, was sich geändert hat und wie unser Monitoring Transparenz über Ihre Platzierung schafft!",
+  "positions": [
+    {
+      "title": "Founder, Managing Director",
+      "company": "Preisenergie",
+      "companyUrl": "https://www.linkedin.com/company/preisenergie",
+      "description": "Pricing SaaS for Energy Vendors",
+      "location": null,
+      "start": "2015-12",
+      "end": null,
+      "dateRange": "Dec 2015 – Present",
+      "current": true
+    },
+    {
+      "title": "Freelance Management Consultant",
+      "company": "Selbstständig",
+      "companyUrl": null,
+      "description": "Consulting energy vendors on pricing for residential customers",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2011-08",
+      "end": "2015-12",
+      "dateRange": "Aug 2011 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Director",
+      "company": "Simon-Kucher & Partners",
+      "companyUrl": "https://www.linkedin.com/company/simon-kucher",
+      "description": null,
+      "location": "Previous roles: consultant, senior consultant",
+      "start": "2007-05",
+      "end": "2011-07",
+      "dateRange": "May 2007 – Jul 2011",
+      "current": false
+    },
+    {
+      "title": "Analyst Corporate Banking",
+      "company": "Deutsche Bank",
+      "companyUrl": "https://www.linkedin.com/company/deutsche-bank",
+      "description": "Munich",
+      "location": null,
+      "start": "1995-09",
+      "end": "2000-03",
+      "dateRange": "Sep 1995 – Mar 2000",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Dr., Dipl.-Kfm., Management",
+      "dateRange": "1997 – 2007"
+    },
+    {
+      "school": "MIT Sloan School of Management",
+      "degree": "2000",
+      "dateRange": "1999 – 2000"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "1999 – 2001"
+    },
+    {
+      "school": "Yonsei University",
+      "degree": "Visiting researcher at Brand & Business Marketing Research Center",
+      "dateRange": "2006"
+    },
+    {
+      "school": "Télécom Paris",
+      "degree": "Master Thesis: Outsourcing telecommunication services for municipalities",
+      "dateRange": "2001"
+    },
+    {
+      "school": "CDTM",
+      "degree": null,
+      "dateRange": "1999 – 2001"
+    }
+  ],
+  "skills": [
+    "Strategisches Management",
+    "Unternehmensstrategie",
+    "Unternehmensberatung",
+    "Management Consulting",
+    "Business Strategy",
+    "Business Development",
+    "Consulting",
+    "Start-ups",
+    "Marktforschung",
+    "Produktentwicklung",
+    "Riskokapital",
+    "Marketingstrategie",
+    "Fusionen und Übernahmen",
+    "Unternehmensplanung",
+    "Strategie",
+    "Geschäftsentwicklung",
+    "Produktmanagement",
+    "Projektmanagement",
+    "Unternehmensführung",
+    "Unternehmertum"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Korea"
+  ],
+  "company": {
+    "name": "Preisenergie",
+    "tagline": "With our integrated pricing software, we help energy retailers to set the right price for every customer.",
+    "description": "Preisenergie is a young software company specialized on pricing in the energy sector. We help our customers calculate fair prices for a fully renewable and digital energy system. We model energy prices, simulate millions of alternative prices and choose optimal ones that best fit the goals of our customers (not always profit!). Our prices recover costs of individual consumers' energy consumptions and keep margins low enough to be competitive.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://www.preisenergie.de/",
+    "linkedInUrl": "https://www.linkedin.com/company/preisenergie",
+    "employeeCount": 11,
+    "foundedYear": 2016,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Pricing",
+      "Energiewirtschaft",
+      "Utilities",
+      "Energieversorger",
+      "SaaS",
+      "Data Analytics",
+      "Kundenwert Pricing"
+    ]
+  }
+}

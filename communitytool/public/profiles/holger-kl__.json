@@ -1,0 +1,190 @@
+{
+  "id": "holger-kl__",
+  "name": "Holger Klöß",
+  "headline": "Director Sales",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/holger-klöß",
+  "personId": 1575,
+  "classes": [
+    {
+      "id": 54,
+      "label": "Fall 2003",
+      "season": "Fall",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "fold",
+  "needsReview": false,
+  "rosterName": "Holger Kloess",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Director Sales",
+      "company": "Freonit GmbH",
+      "companyUrl": "https://www.linkedin.com/company/freonit-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2025-08",
+      "end": null,
+      "dateRange": "Aug 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Business Development Bereich DBI",
+      "company": "Freonit GmbH",
+      "companyUrl": "https://www.linkedin.com/company/freonit-gmbh",
+      "description": "www.freonit.com",
+      "location": null,
+      "start": "2025-01",
+      "end": "2025-07",
+      "dateRange": "Jan 2025 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Managing Director",
+      "company": "Lobster PRO GmbH",
+      "companyUrl": null,
+      "description": null,
+      "location": "Tutzing, Bavaria, Germany",
+      "start": "2019-05",
+      "end": "2024-12",
+      "dateRange": "May 2019 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Head of Sales",
+      "company": "Lobster SCM GmbH",
+      "companyUrl": null,
+      "description": "Pöcking",
+      "location": null,
+      "start": "2019-04",
+      "end": "2019-05",
+      "dateRange": "Apr 2019 – May 2019",
+      "current": false
+    },
+    {
+      "title": "Head of Sales",
+      "company": "Siemens Digital Logistics",
+      "companyUrl": "https://www.linkedin.com/company/siemenssoftware",
+      "description": "Frankenthal",
+      "location": null,
+      "start": "2018-10",
+      "end": "2019-03",
+      "dateRange": "Oct 2018 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Head of Sales",
+      "company": "AXIT - A Siemens Company",
+      "companyUrl": null,
+      "description": "Frankenthal",
+      "location": null,
+      "start": "2011-02",
+      "end": "2018-09",
+      "dateRange": "Feb 2011 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Key Account Manager",
+      "company": "AXIT AG",
+      "companyUrl": null,
+      "description": "Frankenthal",
+      "location": null,
+      "start": "2010-09",
+      "end": "2011-01",
+      "dateRange": "Sep 2010 – Jan 2011",
+      "current": false
+    },
+    {
+      "title": "Senior Sales Executive",
+      "company": "zetVisions AG",
+      "companyUrl": "https://www.linkedin.com/company/zetvisions-gmbh-beteiligungsmanagement",
+      "description": "Heidelberg",
+      "location": null,
+      "start": "2010-01",
+      "end": "2010-08",
+      "dateRange": "Jan 2010 – Aug 2010",
+      "current": false
+    },
+    {
+      "title": "Account Manager Life Sciences",
+      "company": "SAS",
+      "companyUrl": "https://www.linkedin.com/company/sas",
+      "description": "Heidelberg",
+      "location": null,
+      "start": "2008-07",
+      "end": "2009-12",
+      "dateRange": "Jul 2008 – Dec 2009",
+      "current": false
+    },
+    {
+      "title": "Key Account Manager",
+      "company": "AXIT AG",
+      "companyUrl": null,
+      "description": "Frankenthal",
+      "location": null,
+      "start": "2000-11",
+      "end": "2008-06",
+      "dateRange": "Nov 2000 – Jun 2008",
+      "current": false
+    },
+    {
+      "title": "Projektmanager",
+      "company": "M&A Consultants GmbH / Bauer Mergers & Acquisitions AG",
+      "companyUrl": null,
+      "description": "Bobenheim am Berg",
+      "location": null,
+      "start": "1996-04",
+      "end": "2000-10",
+      "dateRange": "Apr 1996 – Oct 2000",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Baden-Wuerttemberg Cooperative State University (DHBW)",
+      "degree": "Bachelor , Betriebswirtschaftslehre",
+      "dateRange": "1991 – 1994"
+    }
+  ],
+  "skills": [
+    "Vertriebsleitung",
+    "Supply-Chain-Software",
+    "Supply-Chain-Management",
+    "Logistikabläufe",
+    "Prozessoptimierung"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "Freonit GmbH",
+    "tagline": "Your partner for Digital Transformation",
+    "description": "The success of your company today depends largely on the use of digital solutions. At freonit, our mission is to support you on this journey and deliver the best possible results.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://www.freonit.com",
+    "linkedInUrl": "https://www.linkedin.com/company/freonit-gmbh",
+    "employeeCount": 30,
+    "foundedYear": null,
+    "location": "Bad Bramstedt, Germany",
+    "specialities": [
+      "Systems Integration and Technology",
+      "Business Process Outsourcing",
+      "Application and Infrastructure Outsourcing",
+      "Software Development"
+    ]
+  }
+}

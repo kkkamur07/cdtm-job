@@ -1,0 +1,231 @@
+{
+  "id": "iurietap",
+  "name": "iurie tap",
+  "headline": "Co-Founder, Tech & Product",
+  "avatar": {
+    "sm": "/avatars/iurietap-sm.webp",
+    "lg": "/avatars/iurietap.webp",
+    "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAABwBgCdASogACAAPtFaqE2oJKQiKAqpABoJbACdMoR1wGwby4E6f6//5n3TN9+jHz4jrK8s3UjfEmbbaqAA/vRPHpQxJjdIsMCUpuDy7R3TmTt2Z3OiwEPi3RKLQMrwz/RfKqfk4lzDu1+830cYnx2kbQdqvN+/mrT+qU8mX8mSob3zHp3DeAureV1kYOFmwYCKUFaGjTJhCZ5UXW48AJoPKIFkHuhvGvZNilgYnzA0SB+r+QNfA0zDSYYNMNp1EM+6a+L26jXMSQ4z/EOwele7OirVAahVGhKCx5P8BtQISv9uV8qAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/iurietap",
+  "personId": 960,
+  "classes": [
+    {
+      "id": 76,
+      "label": "Fall 2014",
+      "season": "Fall",
+      "year": 2014,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2014",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Iurie Tap",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "IT Consultant",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": null,
+      "start": "2022-05",
+      "end": null,
+      "dateRange": "May 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder, Tech & Product",
+      "company": "brightensport",
+      "companyUrl": "https://www.linkedin.com/company/brightensport",
+      "description": "We are working on a sports-related platform for both amateur and professional athletes. \n\nFeel free to reach out if you\n- are a pro athlete and want to help us help you\n- are an investor (angel or VC) who does (pre-) seed B2C tickets",
+      "location": null,
+      "start": "2021-05",
+      "end": null,
+      "dateRange": "May 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder and Head of Mobile Development",
+      "company": "nello.io",
+      "companyUrl": "https://www.linkedin.com/company/nello.io",
+      "description": "nello unlocks the service economy by upgrading existing intercom systems. \n\nWe enable keyless entry for residents and their service providers by offering apartment dwellers upgrade solutions for their existing intercoms. nello builds nello one - an easy to upgrade hardware solution that enables keyless entry to apartment buildings, easily managed through the nello app. nello one is integrated with leading smart locks and the service economy to provide a fully integrated keyless solution for apartment dwellers.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-05",
+      "end": "2019-10",
+      "dateRange": "May 2016 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Visiting Scholar",
+      "company": "Carnegie Mellon University",
+      "companyUrl": "https://www.linkedin.com/company/carnegie-mellon-university",
+      "description": "Worked on a project that focused on gait analysis and fall prevention in the elderly. The goal of the project was to develop and evaluate a gait analysis system that detects gait abnormalities induced by the onset of muscle fatigue, in order to reduce the risk of falling in older people. For the accomplishment of this goal, mobile devices and wearable sensors are used. The setup consisted of a Machine Learning system, an iOS app and Arduino microcontrollers connected to the pressure sensors and IMUs in the shoes.",
+      "location": "Greater Pittsburgh Region",
+      "start": "2015-08",
+      "end": "2016-01",
+      "dateRange": "Aug 2015 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Interdisciplinary project during which I developed a solution for assessing patients' physical functional status in clinical settings using acceleration data and mobile devices. The solution consisted of a web application and an Android app for patient data management, processing and visualisation as well as a Texas Instruments SensorTag for data collection.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-05",
+      "end": "2016-04",
+      "dateRange": "May 2015 – Apr 2016",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Smart Reporting GmbH",
+      "companyUrl": "https://www.linkedin.com/company/jacobian-health",
+      "description": "Consultancy project for the healthcare startup Qmedify. Our team conducted market research and competitor analysis. We also identified and evaluated potential business models and pricing strategies, the outcome of which was a market entry strategy. Moreover, we assisted the company in developing the branding strategy.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-04",
+      "end": "2015-07",
+      "dateRange": "Apr 2015 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Full Stack Mobile Development",
+      "company": "Freelance, self-employed",
+      "companyUrl": null,
+      "description": "Developed native mobile applications for both iOS and Android platforms as well as the backend enabling the apps.",
+      "location": null,
+      "start": "2015-03",
+      "end": "2016-05",
+      "dateRange": "Mar 2015 – May 2016",
+      "current": false
+    },
+    {
+      "title": "Product Manager",
+      "company": "BMW/MINI",
+      "companyUrl": null,
+      "description": "MINIBlink - interdisciplinary project that took place within the context of the CDTM. The project focused on conceiving, designing and developing an application for the MINI automobiles, connecting the car with the driver and with the driver's smart watch and phone, in order to facilitate the car sharing process within a group. My team's activities included understanding customer needs, creating the innovative product concept, managing\nexperimentation and prototyping.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-10",
+      "end": "2015-01",
+      "dateRange": "Oct 2014 – Jan 2015",
+      "current": false
+    },
+    {
+      "title": "Working Student in the Software Development team",
+      "company": "SimScale",
+      "companyUrl": "https://www.linkedin.com/company/simscale",
+      "description": "Software development (both front- and back-end) and integration as well as research on potential technologies that the start-up could use.",
+      "location": null,
+      "start": "2014-07",
+      "end": "2015-08",
+      "dateRange": "Jul 2014 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Working Student in Quality Management and Security Department, Testing Team",
+      "company": "Allianz Technology",
+      "companyUrl": "https://www.linkedin.com/company/allianz-technology",
+      "description": "Tasks included integration, system, security and acceptance testing, test automation and development/improvement of test artefacts.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-08",
+      "end": "2014-06",
+      "dateRange": "Aug 2012 – Jun 2014",
+      "current": false
+    },
+    {
+      "title": "Working Student in the Software Development Department",
+      "company": "CONTACT Software",
+      "companyUrl": "https://www.linkedin.com/company/contact-software",
+      "description": "Worked on the development of a new module of CIM DATABASE. Was part of different projects, and the tasks included Requirement Analysis, Software Development, Software Testing as well as Software Version Management.",
+      "location": "Greater Bremen Area",
+      "start": "2011-09",
+      "end": "2012-02",
+      "dateRange": "Sep 2011 – Feb 2012",
+      "current": false
+    },
+    {
+      "title": "Intern in the Software Development Department",
+      "company": "CONTACT Software",
+      "companyUrl": "https://www.linkedin.com/company/contact-software",
+      "description": "Worked on the development of a new module of CIM DATABASE. Was part of different projects, and the tasks included Requirement Analysis, Software Development, Software Testing as well as Software Version Management.",
+      "location": "Greater Bremen Area",
+      "start": "2011-06",
+      "end": "2011-08",
+      "dateRange": "Jun 2011 – Aug 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Visiting Scholar",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Informatics",
+      "dateRange": "2012 – 2016"
+    },
+    {
+      "school": "Sirindhorn International Institute of Technology (SIIT), Thammasat University",
+      "degree": "Abroad semester within the TUMexchange program of the Technical University Munich",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Jacobs University Bremen",
+      "degree": "Bachelor of Science - BS, Computer Science",
+      "dateRange": "2009 – 2012"
+    }
+  ],
+  "skills": [
+    "Android Development",
+    "iOS Development",
+    "Java",
+    "Swift",
+    "Objective-C",
+    "Python",
+    "Scikit-Learn",
+    "Git",
+    "Unified Modeling Language (UML)",
+    "PostgreSQL",
+    "Android Studio",
+    "Xcode",
+    "Continuous Integration",
+    "Continuous Delivery"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Romanian",
+    "Russian",
+    "Turkish"
+  ],
+  "company": {
+    "name": "Netlight",
+    "tagline": "Transforming ideas into reality in the digital landscape.",
+    "description": "Netlight is an international digital consulting firm, helping leading companies to succeed in the digital landscape, from advice to implementation. Our ambition is to co-create and be an augmented partner to our clients as they explore the digital landscape. \n\nOur clients range from industry-leading enterprises to disruptive startups turning into unicorns. Trusted with their challenges, we have built a unique experience since 1999 in how to approach the uncharted digital landscape and go from idea to reality, together.\n\nWe strive to be role models — conscious of positive change at the forefront of society's digital transformation. Creativity thrives in an inclusive and diverse culture. Together with our ambitious clients, we engage in challenges to make a sustainable impact. \n\nNetlight is located in Stockholm, Helsinki, Oslo, Copenhagen, Amsterdam, Hamburg, Berlin, Munich, Cologne, Zurich, Frankfurt, London, Toronto, Gothenburg, and Madrid.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.netlight.com",
+    "linkedInUrl": "https://www.linkedin.com/company/netlight-consulting",
+    "employeeCount": 2135,
+    "foundedYear": 1999,
+    "location": "Local offices in Berlin, Copenhagen, Frankfurt, Hamburg, Helsinki, Munich, Oslo, Stockholm, Zurich, Amsterdam, Cologne, London, Toronto, Madrid, and Gothenburg., OO",
+    "specialities": []
+  }
+}

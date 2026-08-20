@@ -1,0 +1,350 @@
+{
+  "id": "fabiangruner",
+  "name": "Fabian Gruner",
+  "headline": "Partner at HV Capital (Growth Fund)",
+  "avatar": {
+    "sm": "/avatars/fabiangruner-sm.webp",
+    "lg": "/avatars/fabiangruner.webp",
+    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAADwBQCdASogACAAPtFcqU4oJSQiKAqpABoJYgCw7YzcnL9x1gyEIRjkxN7OtR5Kms/6jV3XwhlwgAD+7L6hR4vii2daz6s4LljcLlQ0MymTCN7zep7CqarSn4encDz5yZARVdm/yN0abJttRhrWc1+4kGHbQhMxDRNUlFKtv1UJmhTr36QxwlokGVUDHlTUFTeinqyrdIZ8eVtm1iT2VCMkPV6+tuKCxkjh3ITPjHqiQocbWlrzHBy9EwPyei/+jvJMRcl//2ZgZQ4IczniKRg00/4yuH7cjf8qUdmQ/wBLbvnDZT35lfJNGGo3MwvXW3I12kRQAAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/fabiangruner",
+  "personId": 1007,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Fabian Gruner",
+  "ca": null,
+  "summary": "For pitches, please email me via fabian@hvcapital.com. Looking forward to connect!",
+  "positions": [
+    {
+      "title": "Investment",
+      "company": "Hades Mining",
+      "companyUrl": "https://www.linkedin.com/company/hades",
+      "description": null,
+      "location": null,
+      "start": "2026-01",
+      "end": null,
+      "dateRange": "Jan 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment",
+      "company": "Ferroelectric Memory Company",
+      "companyUrl": "https://www.linkedin.com/company/ferroelectric-memory-company",
+      "description": null,
+      "location": null,
+      "start": "2025-11",
+      "end": null,
+      "dateRange": "Nov 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment",
+      "company": "ARX Robotics",
+      "companyUrl": "https://www.linkedin.com/company/arx-robotics",
+      "description": null,
+      "location": null,
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment",
+      "company": "Marvel Fusion",
+      "companyUrl": "https://www.linkedin.com/company/marvelfusion",
+      "description": null,
+      "location": null,
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment",
+      "company": "One Data",
+      "companyUrl": "https://www.linkedin.com/company/one-data-it",
+      "description": null,
+      "location": null,
+      "start": "2024-07",
+      "end": null,
+      "dateRange": "Jul 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment",
+      "company": "Quantum Systems",
+      "companyUrl": "https://www.linkedin.com/company/quantum-systems-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment",
+      "company": "NEURA Robotics",
+      "companyUrl": "https://www.linkedin.com/company/neura-robotics",
+      "description": null,
+      "location": null,
+      "start": "2023-06",
+      "end": null,
+      "dateRange": "Jun 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment",
+      "company": "SPREAD AI",
+      "companyUrl": "https://www.linkedin.com/company/spread-ai",
+      "description": null,
+      "location": null,
+      "start": "2023-05",
+      "end": null,
+      "dateRange": "May 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment",
+      "company": "Flip",
+      "companyUrl": "https://www.linkedin.com/company/flip-app",
+      "description": null,
+      "location": null,
+      "start": "2021-12",
+      "end": null,
+      "dateRange": "Dec 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment",
+      "company": "Hyperganic",
+      "companyUrl": "https://www.linkedin.com/company/hyperganic",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": null,
+      "dateRange": "Jan 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment",
+      "company": "Isar Aerospace",
+      "companyUrl": "https://www.linkedin.com/company/isaraerospace",
+      "description": null,
+      "location": null,
+      "start": "2020-12",
+      "end": null,
+      "dateRange": "Dec 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment",
+      "company": "Lendis",
+      "companyUrl": "https://www.linkedin.com/company/lendis",
+      "description": null,
+      "location": null,
+      "start": "2019-04",
+      "end": null,
+      "dateRange": "Apr 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment",
+      "company": "Limehome",
+      "companyUrl": "https://www.linkedin.com/company/limehome",
+      "description": null,
+      "location": null,
+      "start": "2018-12",
+      "end": null,
+      "dateRange": "Dec 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Investment",
+      "company": "Wind Mobility",
+      "companyUrl": "https://www.linkedin.com/company/wind-mobility",
+      "description": null,
+      "location": null,
+      "start": "2018-09",
+      "end": null,
+      "dateRange": "Sep 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Partner",
+      "company": "HV Capital",
+      "companyUrl": "https://www.linkedin.com/company/hvcapital",
+      "description": null,
+      "location": null,
+      "start": "2018-05",
+      "end": null,
+      "dateRange": "May 2018 – Present",
+      "current": true
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Acton Capital",
+      "companyUrl": "https://www.linkedin.com/company/acton-capital-partners",
+      "description": null,
+      "location": null,
+      "start": "2017-01",
+      "end": "2017-04",
+      "dateRange": "Jan 2017 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "1st Employee / CSO & CMO",
+      "company": "foodora",
+      "companyUrl": "https://www.linkedin.com/company/foodora",
+      "description": "first RI employee at Foodora, built up and led global sales team (50+ FTE in 13 cities) and global marketing team; managed largest local operation",
+      "location": null,
+      "start": "2015-01",
+      "end": "2015-08",
+      "dateRange": "Jan 2015 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Global Venture Development Manager",
+      "company": "Rocket Internet SE",
+      "companyUrl": "https://www.linkedin.com/company/rocket-internet-se",
+      "description": "- first RI resource @foodora, led buildup of global sales & marketing team and helped to scale from 5 to 400+ employees in 3 months as part of the global management team\n- launched & led strategic partnerships at Zencap (now Funding Circle)",
+      "location": null,
+      "start": "2014-09",
+      "end": "2015-08",
+      "dateRange": "Sep 2014 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Visiting Associate",
+      "company": "Boston Consulting Group (BCG)",
+      "companyUrl": "https://www.linkedin.com/company/boston-consulting-group",
+      "description": "- core team member of confidential strategic project in the Aviation sector\n- independent work on multiple project modules such as analytical benchmarking and market research together with client\n- preparation of and active participation in all senior client meetings\n- received full-time employment offer",
+      "location": null,
+      "start": "2014-06",
+      "end": "2014-07",
+      "dateRange": "Jun 2014 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "Summer Analyst",
+      "company": "J.P. Morgan",
+      "companyUrl": "https://www.linkedin.com/company/jpmorgan",
+      "description": "- internship in the TMT team of the investment banking division \n- independent work on multiple complex and intense projects simultaneously, including €5bn+ technology sell-side and debt financing for top European media start-up\n- preparing marketing materials for multiple potential M&A deals\n- internal strategic analysis of e-commerce business opportunities\n- received full-time employment offer",
+      "location": null,
+      "start": "2013-06",
+      "end": "2013-08",
+      "dateRange": "Jun 2013 – Aug 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": null,
+      "dateRange": "2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Management and Technology (TUM-WITEC)",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "WHU – Otto Beisheim School of Management",
+      "degree": "Bachelor of Science (B.Sc.), Business Administration",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "City University of Hong Kong",
+      "degree": "Bachelor of Science (B.Sc.), Business Administration",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Sun Yat-sen University",
+      "degree": "Management Abroad Course",
+      "dateRange": "2012"
+    },
+    {
+      "school": "Fanny Leicht Gymnasium",
+      "degree": "Abitur, majors: German, mathematics, English, physics, business and economics",
+      "dateRange": "2003 – 2011"
+    },
+    {
+      "school": "Indian Springs School",
+      "degree": "High School / Advanced Placement tests",
+      "dateRange": "2008 – 2009"
+    }
+  ],
+  "skills": [
+    "Management",
+    "Microsoft Office",
+    "Strategy",
+    "Business Development",
+    "Start-ups",
+    "Entrepreneurship",
+    "Business Strategy",
+    "Management Consulting",
+    "Marketingstrategie",
+    "Geschäftsentwicklung",
+    "Investment Banking",
+    "Strategie",
+    "Unternehmensstrategie",
+    "Strategisches Management",
+    "Marktforschung",
+    "Unternehmensführung",
+    "Unternehmensberatung",
+    "Unternehmertum",
+    "Unternehmensfinanzierung",
+    "Finanzanalyse",
+    "Finanzmodelle",
+    "Wertbestimmung",
+    "Investmentbank"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "HV Capital",
+    "tagline": "Backing those who dare",
+    "description": "HV Capital is one of the leading early-stage and growth investors in Europe. With nine fund generations in 23 years and €2.8 bn in managed assets, HV Capital is one of the continent's most active investors. The investment team has many years of experience in identifying European startups with great potential for success. In addition to international success stories like Zalando, Delivery Hero, Sumup, and Depop, innovation leaders such as Enpal, Flixbus, Sennder, and Isar Aerospace are also part of the portfolio. HV Capital has invested in around 225 internet and technology companies, supporting startups with ticket sizes ranging from €0.5 to €60m. It is one of Europe's few venture capital firms that can finance startups through all growth phases. HV Capital has a team of more than 40 investment and operations professionals who provide a variety of perspectives and expertise across the venture capital landscape.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "website": "http://www.hvcapital.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/hvcapital",
+    "employeeCount": 213,
+    "foundedYear": 2000,
+    "location": "München, Germany",
+    "specialities": [
+      "venture capital",
+      "entrepreneurship",
+      "startups",
+      "financing",
+      "growth",
+      "technology",
+      "innovation"
+    ]
+  }
+}

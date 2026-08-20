@@ -1,0 +1,237 @@
+{
+  "id": "nicolas-remerscheid",
+  "name": "Nicolas Remerscheid",
+  "headline": "Agent Evals @ Weights & Biases | Co-Founder @ TUM.ai | CDTM",
+  "avatar": {
+    "sm": "/avatars/nicolas-remerscheid-sm.webp",
+    "lg": "/avatars/nicolas-remerscheid.webp",
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAABQBgCdASogACAAPr1SnkunJSKht/qoAOAXiWIAsQbgPU0IGVWxCeMgWb1V4RdiYZVtLl+AFz2ZYFMYgAD+/by4LPEmz6Uldj3B5VPUfHNZ+mc8UJjIjoeGWumV/CAfUqyDjx8O6ELpKsq/F85a/AF01AE9Y4vtgjp1RV6/hOTCMJwniUJhxDkzxqrTs2U9LQd5cgIuphZeXx2d9nTZmah019tBLLxKozDnTWF3LyWXGsDvrrDRz5+O1jA1al+AXLvNK3TZP5HTyz5TCcNDxeK4LCidRAAA"
+  },
+  "location": "San Francisco, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/nicolas-remerscheid",
+  "personId": 876,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Data Engineering and Analytics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Nicolas Remerscheid",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Weights & Biases",
+      "companyUrl": "https://www.linkedin.com/company/wandb",
+      "description": "Machine Learning Engineer in the Field Eng Team. Specialized in agent building and evaluation.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": "Co-founded a new AI club aiming at educating and connecting students from as diverse backgrounds as possible to incentivize and catalyze new interdisciplinary AI projects and push AI adoption into a diverse field of domains. Scaled to 100+ active members, 20+ partners, 500+ participants. Support as Board and Alumni now.",
+      "location": null,
+      "start": "2020-04",
+      "end": null,
+      "dateRange": "Apr 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Cyber Domain",
+      "company": "Schweizer Armee",
+      "companyUrl": "https://www.linkedin.com/company/swiss-armed-forces",
+      "description": "Mandatory military service as AI specialist.",
+      "location": "Bern, Schweiz",
+      "start": "2022-07",
+      "end": "2023-05",
+      "dateRange": "Jul 2022 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Junior AI Engineer",
+      "company": "appliedAI Initiative - UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-03",
+      "end": "2022-07",
+      "dateRange": "Mar 2022 – Jul 2022",
+      "current": false
+    },
+    {
+      "title": "Junior Developer",
+      "company": "appliedAI Initiative - UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": "As part of the AI Strategy Team, I co-built the Maturity Assessment Tool - Django Backend, Vue.js Frontend. The tool is now available here: https://www.appliedai.de/de/maturity-assessment",
+      "location": null,
+      "start": "2020-12",
+      "end": "2021-06",
+      "dateRange": "Dec 2020 – Jun 2021",
+      "current": false
+    },
+    {
+      "title": "Data Scientist (External)",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "As part of a collaboration between the chair of Data Analytics and Machine Learning (Prof. Günnemann) and BMW. Created multiple deep neural networks (mainly different LSTM Seq2Seq) which predict the safety of the driving situation in the next five seconds mainly based on motion data from the five nearest vehicles detected at each time-step.\nData preprocessing, cleaning, transformation, Auto-Labeling (development of theoretically sound heuristic functions), model development, and training together with uncertainty analysis.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2020-04",
+      "end": "2020-07",
+      "dateRange": "Apr 2020 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Research Assistant at the Institute of Cognitive Systems",
+      "company": "Technische Universität München",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Full ROS-Navigation-Stack for Indoor Navigation of the Service Robot \"Pepper\" by Aldebaran Robotics DAS and SoftBank Mobile Corp. Further development of an Intelligent Dialog System for the usage of Pepper as a Museum Tour Guide",
+      "location": "Munich",
+      "start": "2019-11",
+      "end": "2020-02",
+      "dateRange": "Nov 2019 – Feb 2020",
+      "current": false
+    },
+    {
+      "title": "Student Lead",
+      "company": "eCARus",
+      "companyUrl": "https://www.linkedin.com/company/tumecarus",
+      "description": "Took the project from Racing to Urban Mobility with a team of 50* people (5 teams, 4 team leaders, ~45 participants each semester, 7 tutors). We rebuild the entire electric vehicle from scratch except for motors and chassis.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-10",
+      "end": "2019-10",
+      "dateRange": "Oct 2018 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Team Lead",
+      "company": "eCARus",
+      "companyUrl": "https://www.linkedin.com/company/tumecarus",
+      "description": "As team leader for the Business team, responsible for 15 students working in the following areas: Business Development, Marketing, Sponsoring. Held two workshops on HTML/CSS/Bootstrap and Adobe Photoshop.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2017-10",
+      "end": "2018-11",
+      "dateRange": "Oct 2017 – Nov 2018",
+      "current": false
+    },
+    {
+      "title": "Project Worker",
+      "company": "eCARus",
+      "companyUrl": "https://www.linkedin.com/company/tumecarus",
+      "description": "I was part of the „IT-Team“ and designed and layouted a circuit board for a gesture-sensor in a car using EAGLE and programmed the micro-controller (MC9S08DZ60) on the circuit board using C.",
+      "location": "Munich",
+      "start": "2017-08",
+      "end": "2017-10",
+      "dateRange": "Aug 2017 – Oct 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Imperial College London",
+      "degree": "Exchange for Master's Thesis, Computing",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": null,
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Data Engineering and Analytics",
+      "dateRange": "2019 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Elektrotechnik, Eletronik und Kommunikationstechnik",
+      "dateRange": "2016 – 2019"
+    }
+  ],
+  "skills": [
+    "Künstliche Intelligenz (KI)",
+    "Python (Programmiersprache)",
+    "Maschinelles Lernen",
+    "Apache Spark",
+    "Java",
+    "C++",
+    "HTML5",
+    "Deep Learning",
+    "Android-Entwicklung",
+    "C",
+    "Matlab",
+    "CSS",
+    "Adobe Photoshop",
+    "Microsoft Office",
+    "MySQL",
+    "Adobe After Effects",
+    "PyTorch",
+    "Eagle",
+    "Raspberry Pi",
+    "ROS (Robot Operating System)"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Weights & Biases",
+    "tagline": "The AI developer platform.",
+    "description": "Weights & Biases: the AI developer platform.\n\nBuild better models faster, fine-tune LLMs, develop GenAI applications with confidence, all in one system of record developers are excited to use.  W&B Models is the MLOps solution used by foundation model builders and enterprises who are training, fine-tuning, and deploying models into production.  W&B Weave is the LLMOps solution for software developers who want a lightweight but powerful toolset to help them track and evaluate LLM applications.\n\nWeights & Biases is trusted by over a 1,000 companies to productionize AI at scale including teams at OpenAI, Meta, NVIDIA, Cohere, Toyota, Square, Salesforce, and Microsoft. \n\nSign up for a 30-day free trial today at http://wandb.me/trial.",
+    "industry": "Software Development",
+    "website": "https://wandb.ai/site",
+    "linkedInUrl": "https://www.linkedin.com/company/wandb",
+    "employeeCount": 325,
+    "foundedYear": 2017,
+    "location": "San Francisco, United States",
+    "specialities": [
+      "deep learning",
+      "developer tools",
+      "machine learning",
+      "MLOps",
+      "GenAI",
+      "LLMOps",
+      "large language models",
+      "llms",
+      "Generative AI",
+      "Developer Tools",
+      "Experiment Tracking",
+      "AI Governance",
+      "Model Monitoring",
+      "Inference",
+      "Open Source AI",
+      "Model Comparison",
+      "Evals & Scorers",
+      "Data Quality",
+      "Generative AI",
+      "AI Observability",
+      "Agentic Workflows",
+      "RAG (Retrieval-Augmented Generation)",
+      "Prompt Engineering",
+      "Hyperparameter Tuning",
+      "Benchmarking",
+      "Large Language Models (LLMs)",
+      "Reproducibility",
+      "Dataset Versioning",
+      "Tracing"
+    ]
+  }
+}

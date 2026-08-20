@@ -1,0 +1,229 @@
+{
+  "id": "ivan-bilan",
+  "name": "Ivan Bilan",
+  "headline": "Engineering Manager at Personio",
+  "avatar": {
+    "sm": "/avatars/ivan-bilan-sm.webp",
+    "lg": "/avatars/ivan-bilan.webp",
+    "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAABwBgCdASogACAAPsFMn0unpCKht/qoAPAYCUAY3uWDDBM/q2ITxZbiBvw/4d/NIAnxeQU/ZZQmjIMAO6AA/v5gn4YH0tbC97/Ez/ti/oPFwwHsPFNDQRSEXQ7VBsvu4eac9lk/PerOpGJUR1JbmMdz4OnyNx5hVQefP4Ln7Ep/BA+t73zBy7MEUPdrcm6x9roEuvg4d0PpR89F2KcAGZ5h+GTdQ6pfEwsCj1EEsy35NV7Thuy6Bpwxly5WTbNSctouNZeBst9+gIlW+znBSWozHTNgDBM7w1hCMrC0QALnoR1PQGth4YfbheuqwzCV9AAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/ivan-bilan",
+  "personId": 845,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Computer Linguistics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Ivan Bilan",
+  "ca": null,
+  "summary": "Engineering Manager in the field of security, data, AI and more. All views are my own.\n\nFind out more at https://github.com/ivan-bilan",
+  "positions": [
+    {
+      "title": "Sr. Engineering Manager",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": "• Led multiple senior teams in the Identity and Access Management (IAM) domain.\n• Managed a diverse group of ~15 engineers, including Lead and Staff levels, ensuring high performance and professional growth.",
+      "location": "Munich",
+      "start": "2023-10",
+      "end": null,
+      "dateRange": "Oct 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Engineering Manager",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": "• Led the IAM tribe at Personio, overseeing teams responsible for authorization and authentication.  \n• Managed high-throughput microservices, ensuring optimal performance and reliability.\n• Expanded the domain group from 7 to 15+ members, fostering growth and delivery.  \n• Drove company level improvements to various leadership topics around operational excellence, professional growth, improving processes around delivery, and many more.\n• Conducted data analysis on customer flows related to IAM, driving improvements in user experience.",
+      "location": "Munich",
+      "start": "2021-09",
+      "end": "2023-10",
+      "dateRange": "Sep 2021 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Data Science & Engineering Manager",
+      "company": "TrustYou",
+      "companyUrl": "https://www.linkedin.com/company/trustyou",
+      "description": "• Managed a diverse team of 10+ Data Scientists and Computational Linguists, driving innovation in NLP applications.  \n• Led a specialized group of 5 Data & Infrastructure Engineers to enhance data processing capabilities.  \n• Developed and optimized core ETL and ML Pipeline services, improving data accessibility and analysis efficiency.",
+      "location": "Munich",
+      "start": "2020-11",
+      "end": "2021-08",
+      "dateRange": "Nov 2020 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Data Science Team Lead",
+      "company": "TrustYou",
+      "companyUrl": "https://www.linkedin.com/company/trustyou",
+      "description": "Managed a team of outstanding NLP Engineers, Data Scientists, and Linguistic Experts",
+      "location": "Munich Area, Germany",
+      "start": "2019-09",
+      "end": "2020-11",
+      "dateRange": "Sep 2019 – Nov 2020",
+      "current": false
+    },
+    {
+      "title": "Data Scientist",
+      "company": "TrustYou",
+      "companyUrl": "https://www.linkedin.com/company/trustyou",
+      "description": "Core contributor of an NLP pipeline used to analyze company, hotel, and restaurant\nreviews in over 20 languages",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-09",
+      "end": "2019-08",
+      "dateRange": "Sep 2018 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "External Consultant (CDTM) - Data Analyst",
+      "company": "Maltego Technologies",
+      "companyUrl": "https://www.linkedin.com/company/maltego",
+      "description": "Data analysis using Python and NLP in cybersecurity space.",
+      "location": "Munich Area, Germany",
+      "start": "2018-04",
+      "end": "2018-07",
+      "dateRange": "Apr 2018 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "External Consultant (CDTM) - Product Manager / Venture Developer",
+      "company": "CloudEO AG",
+      "companyUrl": "https://www.linkedin.com/company/cloudeo-ag",
+      "description": "Developed a business plan and implemented a prototype for a new start-up venture that utilizes satellite imagery to predict fertilization need of farming fields.",
+      "location": "Munich Area, Germany",
+      "start": "2017-05",
+      "end": "2017-07",
+      "dateRange": "May 2017 – Jul 2017",
+      "current": false
+    },
+    {
+      "title": "External Consultant (CDTM) - Trend Researcher",
+      "company": "adidas",
+      "companyUrl": "https://www.linkedin.com/company/adidas",
+      "description": "Trend research on technological developments. Co-authored Adidas/CDTM 2017 Trend Report: https://issuu.com/cdtm/docs/trendreport_spring2017_web",
+      "location": "Munich Area, Germany",
+      "start": "2017-03",
+      "end": "2017-05",
+      "dateRange": "Mar 2017 – May 2017",
+      "current": false
+    },
+    {
+      "title": "Data Engineer",
+      "company": "TrustYou",
+      "companyUrl": "https://www.linkedin.com/company/trustyou",
+      "description": "• Developed and maintained robust Big Data processing pipelines for text-based datasets, ensuring seamless data flow.  \n• Processed terabytes of data daily using PySpark and Luigi, optimizing performance and efficiency.  \n• Enhanced data availability and delivery speed to consuming services, resulting in improved operational efficiency.",
+      "location": "Munich Area, Germany",
+      "start": "2016-09",
+      "end": "2018-08",
+      "dateRange": "Sep 2016 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Data Engineer / Python Developer",
+      "company": "mobileX AG",
+      "companyUrl": "https://www.linkedin.com/company/solvares-field-service-munich",
+      "description": "Developed an automated bot for market analysis based on various Information Retrieval, NLP and Machine Learning techniques.\n\nTech Stack: Python, C#, sklearn, Selenium, scrapy",
+      "location": "Munich Area, Germany",
+      "start": "2015-05",
+      "end": "2016-08",
+      "dateRange": "May 2015 – Aug 2016",
+      "current": false
+    },
+    {
+      "title": "IT Working Student / Python Developer",
+      "company": "Ludwig-Maximilians-Universität (LMU) München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "GUI development for automated lab assistant software as well as data processing and analysis. LMU MELESSA Social Lab.\n\nTech Stack: Python, C++, Qt Framework",
+      "location": "Munich Area, Germany",
+      "start": "2014-10",
+      "end": "2016-08",
+      "dateRange": "Oct 2014 – Aug 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Computational Linguistics",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science - BS, Computational Linguistics",
+      "dateRange": "2013 – 2016"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Technical Leadership",
+    "Entrepreneurship",
+    "Big Data",
+    "Data Analysis",
+    "Data Visualization",
+    "Deep Learning",
+    "Keras",
+    "PyTorch",
+    "C#",
+    "C++",
+    "Perl",
+    "MongoDB",
+    "MySQL",
+    "PostgreSQL",
+    "Linux",
+    "Hadoop",
+    "Selenium",
+    "JavaScript"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "Personio",
+    "tagline": "Unlocking the power of people",
+    "description": "Founded in 2015 and built in Europe, Personio is the Intelligent HR Platform championing every side of HR's evolution.\n\nAs work becomes more complex and HR's role more strategic, most technology still treats HR as one-dimensional. We see it differently. Trusted by over 16,000 customers managing more than 1 million employees globally, Personio is built for everything HR has become. We support organisations of all sizes and industries, but specialise in global companies with between 200 and 5000 employees. \n\nWe connect Core HR, Talent, and Payroll in one intelligent platform. Our platform eliminates manual work through automation, adapts to multi-entity complexity with flexible workflows, and transforms people data into strategic insights with AI.\n\nPersonio is built with deep European expertise, and we're the only HR platform with native payroll in Germany—Europe's most complex market. Plus we offer comprehensive apps to manage the entire employee lifecycle including recruiting, performance, compensation, and feedback. \n\nFrom implementation to everyday support, Personio is your partner from day one. We focus on the real challenges of HR and build with purposeful AI that amplifies the power of HR teams. \n\nWe help organisations around the world unlock the power of their people.",
+    "industry": "Software Development",
+    "website": "https://www.personio.com",
+    "linkedInUrl": "https://www.linkedin.com/company/personio",
+    "employeeCount": 1739,
+    "foundedYear": 2015,
+    "location": "Munich, Germany",
+    "specialities": [
+      "HR Software",
+      "HR Management",
+      "Recruitung",
+      "Employee Management",
+      "Applicant Tracking System",
+      "Employee Selfservice",
+      "Time-Off Management",
+      "Cloud Software",
+      "Onboarding and Offboarding",
+      "HR Reporting",
+      "Performance Management",
+      "Payroll",
+      "HR",
+      "HR Tech",
+      "Human Resources"
+    ]
+  }
+}

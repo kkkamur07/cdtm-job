@@ -1,0 +1,160 @@
+{
+  "id": "hung-dang-y42",
+  "name": "Hung Dang",
+  "headline": "CEO & Founder @Y42 | Turnkey data orchestration platform that never lets bad data go live",
+  "avatar": null,
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/hung-dang-y42",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "After being in the data space for over a decade and founding two successful data analytics companies, one thing is clear to me: Working with data is my passion and purpose. \n\nI believe data fundamentally aligns people. It empowers us to expand our consciousness, from unraveling the universe's mysteries all the way to understanding our day-to-day lives. \n\nIt’s exactly that, the power of data, what inspired me to build a product that enables everyone to achieve maximum efficiency through a deep analytical understanding of their business. \n\nThe future of the data space is about to change and Y42 is here to lead the way. \n\n—\nThese are the areas I know a thing or two about: \n- Software & Data Engineering\n- Product Building \n- Data Analytics & Statistics\n- Company Building",
+  "positions": [
+    {
+      "title": "CEO & Founder",
+      "company": "Y42",
+      "companyUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+      "description": "Y42’s Turnkey Data Orchestration Platform with embedded Observability gives data practitioners a unified space to reliably build, monitor, and maintain the flow of data to power their business analytics and AI applications.\n\nRaised >$50M from renowned investors.",
+      "location": "Berlin, Deutschland",
+      "start": "2020-05",
+      "end": null,
+      "dateRange": "May 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "Data Advisory to C- & VP-Suite",
+      "company": "German MDAX w/ 5,000+ employees",
+      "companyUrl": null,
+      "description": "Advised German Fortune 100 CXO/VPs on data platform leading team of 30+ before full acquisition.\n\n- Analysed data of 50.000+ of biggest events across Europe e.g. Southside, Ed Sheeran\n- Set up automated data pipeline to clean, merge and transform billions of data points\n- Built and trained prediction models for optimizing each event experience\n- Built data platform merging CX data with operational data for 360° customer view",
+      "location": null,
+      "start": "2018-08",
+      "end": "2019-12",
+      "dateRange": "Aug 2018 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CPTO",
+      "company": "Mitra-Intelligence GmbH (acquired)",
+      "companyUrl": null,
+      "description": "Mitra-Intelligence GmbH was a B2B SaaS data analytics platform that enabled the collection of high-quality survey data and used advanced analysis to generate insights. \n---\nThe company was acquired by CTS Eventim, a German Fortune 50 company, and was renamed Eventim Intelligence GmbH following the acquisition.",
+      "location": "Berlin und Umgebung, Deutschland",
+      "start": "2016-12",
+      "end": "2019-12",
+      "dateRange": "Dec 2016 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "HMD Speakeasy GmbH",
+      "companyUrl": "https://www.linkedin.com/company/party-like-gatsby-official",
+      "description": "Organizing events in 10+ countries and 40+ cities in Europe with 100.000+ guests to date. Main focus on Data Analytics, Online Marketing and Web Development.",
+      "location": "Berlin und Umgebung, Deutschland",
+      "start": "2014-08",
+      "end": "2017-01",
+      "dateRange": "Aug 2014 – Jan 2017",
+      "current": false
+    },
+    {
+      "title": "Data Researcher",
+      "company": "Columbia Business School",
+      "companyUrl": "https://www.linkedin.com/company/columbia-business-school",
+      "description": "Data Research Assistant for Prof. Eli Noam at Columbia Institute for Tele-Information (CITI). Responsible for controlling, updating and organising databases for companies in the media, telecommunication and entertainment industries.",
+      "location": "New York City",
+      "start": "2014-08",
+      "end": "2014-12",
+      "dateRange": "Aug 2014 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Senior Sales Manager",
+      "company": "Wesser Limited",
+      "companyUrl": "https://www.linkedin.com/company/wesser",
+      "description": "Leading teams of 10+ people over the course of 3 years to acquire financial supporters for benevolent institutions like the Red Cross and WFF - mode of acquisition: door to door sales. By the end of the three years, our team has raised over 10€ Mio.",
+      "location": "Munich",
+      "start": "2011-07",
+      "end": "2014-07",
+      "dateRange": "Jul 2011 – Jul 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Imperial College London",
+      "degree": "MSc & PhD (dropped out), Data and ML",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "MBA Classes",
+      "dateRange": "2014 – 2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Technology Management",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Business, Management, Marketing",
+      "dateRange": "2011 – 2014"
+    }
+  ],
+  "skills": [
+    "Y42 - Modern DataOps Cloud",
+    "Start-ups",
+    "Entrepreneurship",
+    "Product Development",
+    "Research",
+    "Statistics",
+    "Online-Marketing",
+    "SEO",
+    "Content Marketing",
+    "Mobiles Marketing",
+    "PPC",
+    "E-Mail-Marketing",
+    "Unternehmertum",
+    "Unternehmensstrategie",
+    "Projektmanagement",
+    "Produktentwicklung",
+    "Facebook-Marketing",
+    "Web-Entwicklung",
+    "Adobe Illustrator",
+    "Google Analytics"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Y42",
+    "tagline": "Turnkey data orchestration with embedded observability.",
+    "description": "Y42’s Turnkey Data Orchestration Platform with embedded Observability gives data practitioners a unified space to reliably build, monitor, and maintain the flow of data to power their business analytics and AI applications.",
+    "industry": "Data Infrastructure and Analytics",
+    "website": "https://www.y42.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/y42-turnkey-data-orchestration",
+    "employeeCount": 23,
+    "foundedYear": 2020,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "data integration",
+      "data modeling",
+      "scalability",
+      "dataops",
+      "modern dataops cloud",
+      "dataops cloud",
+      "data governance",
+      "data infrastructure",
+      "SQL",
+      "data orchestration"
+    ]
+  }
+}

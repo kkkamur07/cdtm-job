@@ -1,0 +1,166 @@
+{
+  "id": "hallerbenjamin",
+  "name": "Benjamin Haller",
+  "headline": "Helping companies adopt Additive Manufacturing",
+  "avatar": {
+    "sm": "/avatars/hallerbenjamin-sm.webp",
+    "lg": "/avatars/hallerbenjamin.webp",
+    "blur": "data:image/webp;base64,UklGRj4BAABXRUJQVlA4IDIBAAAwBgCdASogACAAPtFgqk+oJaOiKAgBABoJbACdGaalkActWRkvOVPeWJmeYFGyYymhyprka40dKeTkAP6nsgymPeE2HjquoSKP12BOepK7WBZ4qvH2JKiSH9aVz5evuY50Qbt13mPwEzW7yG5ilx5nADf7H/UQ1OPk4jdbHikOd5GgvXLBoIjtB89iusJsy7AG0YdcVsWNpp5/LVZiKOdeuF9wAYepebYX8mE3A74Z8dEIdc6wIJLw5zfrj3EXf7O2vxEXvVCfILFDzbYGvvD27+ErCFWLrxoNCCzZ3O8+HCVTV9d9S9JAZWyisilDSwMKlwMb7hZ/fv7xQAzYK7BynhkGTYH3JodO/0UFGT5shxZ39q3f+k7QBhSgDFLpLe8g7w2/qQeJ7oSDipElLfRoAAA="
+  },
+  "location": "Paris, France",
+  "linkedInUrl": "https://www.linkedin.com/in/hallerbenjamin",
+  "personId": 749,
+  "classes": [
+    {
+      "id": 74,
+      "label": "Fall 2013",
+      "season": "Fall",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2013",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Benjamin Haller",
+  "ca": null,
+  "summary": "Transformation and Innovation leader with 10+ years bridging technology, strategy, and business in advanced manufacturing and digital industry.\n\nI build and scale initiatives that connect R&D, operations, and leadership, from defining industrial strategies to implementing digital learning and capability programs across global organizations.\n\nExperienced across Europe, the US and Asia, fluent in English, French, and German.",
+  "positions": [
+    {
+      "title": "Managing Director",
+      "company": "AM Academy",
+      "companyUrl": "https://www.linkedin.com/company/ampower-am-academy",
+      "description": null,
+      "location": "Hamburg, Germany",
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Director Academy",
+      "company": "AMPOWER",
+      "companyUrl": "https://www.linkedin.com/company/ampower-gmbh-&-co.-kg",
+      "description": null,
+      "location": "Hamburg, Germany",
+      "start": "2022-11",
+      "end": "2024-10",
+      "dateRange": "Nov 2022 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Business Development Manager",
+      "company": "Gränges Group",
+      "companyUrl": "https://www.linkedin.com/company/granges",
+      "description": null,
+      "location": "Paris, Île-de-France, France",
+      "start": "2021-05",
+      "end": "2025-06",
+      "dateRange": "May 2021 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Head Of Innovation",
+      "company": "AMEXCI AB",
+      "companyUrl": "https://www.linkedin.com/company/amexci",
+      "description": null,
+      "location": "Karlskoga, Sweden",
+      "start": "2019-08",
+      "end": "2021-04",
+      "dateRange": "Aug 2019 – Apr 2021",
+      "current": false
+    },
+    {
+      "title": "Additive Manufacturing Specialist",
+      "company": "AMEXCI AB",
+      "companyUrl": "https://www.linkedin.com/company/amexci",
+      "description": null,
+      "location": "Karlskoga, Sweden",
+      "start": "2019-01",
+      "end": "2019-07",
+      "dateRange": "Jan 2019 – Jul 2019",
+      "current": false
+    },
+    {
+      "title": "Technology Consultant",
+      "company": "EOS",
+      "companyUrl": "https://www.linkedin.com/company/eos",
+      "description": "Consultant at Additive Minds, the consulting unit of EOS GmbH, market leader in industrial Additive Manufacturing systems and solutions. \n\nMy tasks as an application development consultant in the Technology Consulting team include: \n\n- Compiling and selling consulting projects and related services.\n- Executing and managing consulting projects for customers of all sizes and industries.\n- Updating the consulting portfolio to current needs and scaling to internal and external consultants.",
+      "location": "Krailling, Bayern, Deutschland",
+      "start": "2016-06",
+      "end": "2018-12",
+      "dateRange": "Jun 2016 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "SDI Management Consulting AG",
+      "companyUrl": "https://www.linkedin.com/company/sdi-management-consulting",
+      "description": "Consultant in a market entry project for a leading company in the energy sector.\nTasks included: \n- Lead market attractiveness and ability to win assessment\n- Analyze profitability for market segments\n- Gather market intelligence via desk research and expert interviews",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2014-10",
+      "end": "2014-12",
+      "dateRange": "Oct 2014 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Consultant",
+      "company": "Siemens Management Consulting",
+      "companyUrl": "https://www.linkedin.com/company/siemens-advanta",
+      "description": "Consultant in a benchmarking project in the energy industry. \nTasks included: \n- Supervise a financial benchmarking tool\n- Lead customer interviews\n- Develop measures with the customer",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2013-04",
+      "end": "2013-06",
+      "dateRange": "Apr 2013 – Jun 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Management & Technology",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Technology Management",
+      "dateRange": "2013 – 2015"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Exchange Semester",
+      "dateRange": "2015"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Management & Technology",
+      "dateRange": "2009 – 2013"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Exchange Semester",
+      "dateRange": "2011 – 2012"
+    }
+  ],
+  "skills": [
+    "Additive Manufacturing",
+    "Consulting",
+    "Teamwork",
+    "Strategy",
+    "Deutsch",
+    "Englisch",
+    "Technology Management"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": null
+}

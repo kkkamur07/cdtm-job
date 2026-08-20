@@ -1,0 +1,222 @@
+{
+  "id": "patrick-tu",
+  "name": "Patrick Tu",
+  "headline": "Co-Founder Leegle | Product Compliance | Ex-McK | CDTM | MIT",
+  "avatar": {
+    "sm": "/avatars/patrick-tu-sm.webp",
+    "lg": "/avatars/patrick-tu.webp",
+    "blur": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAACQBQCdASogACAAPtFYpUyoJSOiKA1RABoJagDGiBQCI5VqQoDo5XaB2jRX8mwPhOoLMpOggAD+/pOlo4iXwrGorLY/FxAfps/1f36IrnQczO0pFH3MnWiuhb23IafGBi8Wcdd9Y7Eo7HOcCjrpvwu3aje8u/2OF/b5uTgW69ims5Bz5JOJb5IfinBH03LNfsGRDCQPGQ3VrArwDjAiPQN/f65sCaB388AaGxuJ59k5c2s6e4lqO98ufY7DkDpvmfdQHTyRzaipmJAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/patrick-tu",
+  "personId": 794,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Data Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Patrick Tu",
+  "ca": null,
+  "summary": "I'm a Data Scientist, Entrepreneur and Tech Enthusiast with a passion for LegalTech, Ai, machine learning, analytics, web3 and metaverse. I have profound practical experiences in management consulting, fast growing tech startups and AI research. I conducted my graduate studies in Data Science (M.Sc.) and Technology Management (Hons. Deg.) at LMU, CDTM and MIT. Previously, I studied Industrial Engineering and Management (B.Sc) at Karlsruhe Institute of Technology (KIT) and University of Newcastle.",
+  "positions": [
+    {
+      "title": "Co-Founder & CPO",
+      "company": "Leegle",
+      "companyUrl": "https://www.linkedin.com/company/leegle-ai",
+      "description": "Empowering regulatory and product compliance teams with AI-driven automation",
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder, Product and Data",
+      "company": "Moonblock",
+      "companyUrl": "https://www.linkedin.com/company/moonblock-io",
+      "description": "Built analytics and intelligence software to empower the world’s brands to confidently navigate Web3. Served forward-thinking F500 B2B clients.",
+      "location": null,
+      "start": "2022-07",
+      "end": "2024-01",
+      "dateRange": "Jul 2022 – Jan 2024",
+      "current": false
+    },
+    {
+      "title": "Strategy Consultant, Digital & Analytics",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "IT Transformation, Digital and Data Strategy, Advanced Analytics and Digital Business Building (B2B Marketplace, DLT Identity Solution) in various industries including Medical Devices, Pharma and Public Sector.",
+      "location": null,
+      "start": "2021-01",
+      "end": "2022-06",
+      "dateRange": "Jan 2021 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Presize (acq. by Meta)",
+      "companyUrl": "https://www.linkedin.com/company/presizeai",
+      "description": "Development of Machine learning models for garment size conversion and size recommendation. Customer data integration and API/Backend development. Presize was acquired by Meta.",
+      "location": null,
+      "start": "2020-04",
+      "end": "2020-12",
+      "dateRange": "Apr 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Jr. AI Engineer",
+      "company": "appliedAI Initiative GmbH",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": "MLOps / ML Pipeline tool evaluation and ML use case implementation. Village detection and clustering of geospatial satellite image data.",
+      "location": null,
+      "start": "2019-11",
+      "end": "2020-06",
+      "dateRange": "Nov 2019 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Research",
+      "company": "MIT Media Lab",
+      "companyUrl": "https://www.linkedin.com/company/mit-media-lab",
+      "description": "Graduate Visiting Researcher in Machine Learning and Algorithmic Fairness. Co-authored 3 workshop publications (KDD, NeurIPS, AAAI).",
+      "location": null,
+      "start": "2019-04",
+      "end": "2019-09",
+      "dateRange": "Apr 2019 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Product Development",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "User research, need finding, problem definition and prototype development of a process mining extension for Salesforce (part of CDTM's Product Development Seminar).",
+      "location": null,
+      "start": "2018-10",
+      "end": "2019-01",
+      "dateRange": "Oct 2018 – Jan 2019",
+      "current": false
+    },
+    {
+      "title": "Product Analytics",
+      "company": "Keepsafe Software",
+      "companyUrl": "https://www.linkedin.com/company/keepsafe-software",
+      "description": "Uncovering insights around product, business and user behavior to drive product decisions.",
+      "location": null,
+      "start": "2018-08",
+      "end": "2018-10",
+      "dateRange": "Aug 2018 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Fellow Intern",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "IT transformation management and development of data strategy for medical device company.",
+      "location": null,
+      "start": "2017-08",
+      "end": "2017-09",
+      "dateRange": "Aug 2017 – Sep 2017",
+      "current": false
+    },
+    {
+      "title": "Digital Business and Operations",
+      "company": "Digital IQ",
+      "companyUrl": "https://www.linkedin.com/company/digital-iq-germany",
+      "description": null,
+      "location": null,
+      "start": "2014-08",
+      "end": "2017-01",
+      "dateRange": "Aug 2014 – Jan 2017",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Student, Machine Learning",
+      "dateRange": "2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2018 – 2020"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M.Sc.), Data Science",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Rechtswissenschaft / Law",
+      "dateRange": "2024"
+    },
+    {
+      "school": "University of Newcastle",
+      "degree": "Exchange Student, Electronic Engineering and Computer Science",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Karlsruhe Institute of Technology (KIT)",
+      "degree": "Bachelor of Science (B.Sc.), Industrial Engineering and Management",
+      "dateRange": "2012 – 2017"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Java",
+    "Microsoft Excel",
+    "Analytics",
+    "Data Science",
+    "Machine Learning",
+    "Start-ups",
+    "Entrepreneurship",
+    "SEO",
+    "E-commerce",
+    "Consulting",
+    "SEM",
+    "Python",
+    "Projektmanagement",
+    "Marktanalyse",
+    "Analytische Fähigkeiten",
+    "Unternehmensstrategie",
+    "Strategisches Management",
+    "Produktmanagement",
+    "Web3",
+    "Webdesign",
+    "Programmierung",
+    "business strategy",
+    "Business strategy"
+  ],
+  "languages": [
+    "Deutsch",
+    "Vietnamesisch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Leegle",
+    "tagline": "The ai-native regulatory and product compliance operating system.",
+    "description": null,
+    "industry": "Software Development",
+    "website": "https://www.leegle.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/leegle-ai",
+    "employeeCount": 4,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

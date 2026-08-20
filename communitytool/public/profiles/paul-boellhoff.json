@@ -1,0 +1,147 @@
+{
+  "id": "paul-boellhoff",
+  "name": "Paul Böllhoff",
+  "headline": "Juna AI | CDTM | TU Munich",
+  "avatar": {
+    "sm": "/avatars/paul-boellhoff-sm.webp",
+    "lg": "/avatars/paul-boellhoff.webp",
+    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAADQBQCdASogACAAPtFcqU2oJSQiKAqpABoJQBjPsXiWbtpgJjPoV0WL4F55VjK1Z8Zfa6KdZClIAP7x1afR1NY2H/XA6JW+7HVUnHVxnY0EvBa/rdPjgvkVUlRRa5/JhOSRNc04G7v/4Tl5JsKO/ciGgS5DJMbxKi3OJoGSmUd/k9XVNV0mKelhikygqs6zHKooXc8ODVdjUNvi2E7c+qRQGoUKbznjMb1IqGfG6bo+iok6akKpE2Fv/lyX3twAAAA="
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/paul-boellhoff",
+  "personId": 2004,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Paul Böllhoff",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Founder's Associate",
+      "company": "juna.ai",
+      "companyUrl": "https://www.linkedin.com/company/juna-ai",
+      "description": "Backed by Kleiner Perkins.\nHelped build the commercial side of the company from scratch (GTM, HR, Ops).",
+      "location": "Berlin, Deutschland",
+      "start": "2025-05",
+      "end": "2026-04",
+      "dateRange": "May 2025 – Apr 2026",
+      "current": false
+    },
+    {
+      "title": "Product Development Project: E.ON x CDTM",
+      "company": "Center for Digital Technology and Management (CDTM)",
+      "companyUrl": "https://www.linkedin.com/company/cdtm-munich",
+      "description": "Product Development Project @CDTM together with E.ON Digital Energy\n- Ideated and developed a digital solution for Energy Sharing Communities",
+      "location": "München",
+      "start": "2024-10",
+      "end": "2025-01",
+      "dateRange": "Oct 2024 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Investment Management | Venture Capital",
+      "company": "Holtzbrinck Digital",
+      "companyUrl": "https://www.linkedin.com/company/holtzbrinck-digital-gmbh",
+      "description": "Holtzbrinck Digital is the M&A and Venture Capital entity of the Holtzbrinck Publishing Group, doing direct startup, Venture Capital, and strategic investments\n\n- Supported the deal team in sourcing and assessing early- and late-stage startup investment opportunities, performing financial and commercial due diligence and writing investment memos based on these analyses\n- Performed in depth market research on on topics such as Digital Education, Digital Publishing, or Healthcare",
+      "location": "München, Bayern, Deutschland",
+      "start": "2024-03",
+      "end": "2024-06",
+      "dateRange": "Mar 2024 – Jun 2024",
+      "current": false
+    },
+    {
+      "title": "Project Student | Private Equity",
+      "company": "AUCTUS Capital Partners AG",
+      "companyUrl": "https://www.linkedin.com/company/auctuscapitalpartners",
+      "description": "Auctus, with over 370 company investments since 2001, is widely recognized as the most active private equity firm based in Germany\n\n- Developed a data-based investment strategy for the renewable energy sector, incorporating tools to analyze various scenarios and returns\n- Created bankable financial models for different project types, including photovoltaics and battery storage systems",
+      "location": "München, Bayern, Deutschland",
+      "start": "2023-03",
+      "end": "2023-05",
+      "dateRange": "Mar 2023 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Founder's Associate @Econos",
+      "company": "Pelion Green Future",
+      "companyUrl": "https://www.linkedin.com/company/peliongreenfuture",
+      "description": "Econos is a sustainable investment platform, that enables retail investors to invest in forest, renewable energy and venture capital at development stages.",
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-09",
+      "end": "2022-11",
+      "dateRange": "Sep 2022 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "portHy",
+      "companyUrl": "https://www.linkedin.com/company/porthy",
+      "description": "PortHy is a Fashion and Health Care Start-up that developed and patented a wearable tube-system. This allows users to store liquids such as disinfectant or perfume in a Smartphone-Necklace or Event-Lanyard\n\n- Worked 18 months full-time on Product Development and Design, Sales, Marketing, Logistics, Finance, Funding and Strategy. \n- Creation of the brand “PORTHY”\n- Participant at \"Höhle der Löwen\" (German Shark Tank)",
+      "location": "Bielefeld und Umgebung",
+      "start": "2020-04",
+      "end": "2021-12",
+      "dateRange": "Apr 2020 – Dec 2021",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Technology and Management",
+      "dateRange": "2021 – 2025"
+    },
+    {
+      "school": "NOVA IMS Information Management School",
+      "degree": null,
+      "dateRange": "2023 – 2024"
+    },
+    {
+      "school": "Ratsgymnasium Bielefeld",
+      "degree": "Abitur, Mathematik, Englisch",
+      "dateRange": "2011 – 2019"
+    }
+  ],
+  "skills": [
+    "Business process management",
+    "IT-Systems"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Juna AI",
+    "tagline": "AI Agents to run your factory",
+    "description": "Juna's AI platform orchestrates Agents that help you plan, steer, and improve industrial processes to maximize output, sustainability and profits.\n\nJuna is backed with $7.5 million in seed funding by the world-class investors Kleiner Perkins (lead investor) and Norrsken VC and world-class business angels like John Doerr and ellipsis venture.",
+    "industry": "Software Development",
+    "website": "https://www.juna.ai/",
+    "linkedInUrl": "https://www.linkedin.com/company/juna-ai",
+    "employeeCount": 16,
+    "foundedYear": 2024,
+    "location": "Berlin, Germany",
+    "specialities": [
+      "Artificial Intelligence",
+      "Process Control",
+      "Scheduling",
+      "Heavy Industries"
+    ]
+  }
+}

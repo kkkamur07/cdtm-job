@@ -1,0 +1,239 @@
+{
+  "id": "marsalanjaved",
+  "name": "Arsalan Javed",
+  "headline": "CPO @ Sizekick",
+  "avatar": {
+    "sm": "/avatars/marsalanjaved-sm.webp",
+    "lg": "/avatars/marsalanjaved.webp",
+    "blur": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAABwBQCdASogACAAPtFep0+oJKMiKAgBABoJQBAnDJ9h0f4BlIZIQw3fPZMDusikofMk0yCAAP79Kn9Zv85hT8uKGFhRzQbHnz3NMs6if49LVTmybeZd8Sj4Mv9cpew2qzT5GgIT8f6CvmrXu7NIes8lyZWtl7C6KVpxOU+N8qWJ76n9iP8XvgYah9lqRnTBBs3+Q9nVe7WvolSJ10FFz7yqUatjodpacHjZ/VLBCxicPwzvahRVFy1lg/zvYEJW8JDzKofw3nkbUQ46HT1vXUe5R+tYd7pY5PuAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/marsalanjaved",
+  "personId": 963,
+  "classes": [
+    {
+      "id": 83,
+      "label": "Spring 2018",
+      "season": "Spring",
+      "year": 2018,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2018",
+  "major": "Communications Engineering",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Arsalan Javed",
+  "ca": null,
+  "summary": "I am a product designer, communications engineer, inventor and digital artist. I have travelled all over the world to study design and human-machine interaction. I enjoy designing products that not only solve real problems but also delight and inspire their users. I also enjoy food and art and I am fueled by new experiences.",
+  "positions": [
+    {
+      "title": "Chief Product Officer",
+      "company": "Sizekick",
+      "companyUrl": "https://www.linkedin.com/company/sizekick",
+      "description": "Working to provide the most-loved, sustainable, and accurate size recommendation experience.",
+      "location": null,
+      "start": "2022-10",
+      "end": null,
+      "dateRange": "Oct 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Manager Digital Product Design",
+      "company": "HSE Home Shopping Europe GmbH",
+      "companyUrl": "https://www.linkedin.com/company/hse",
+      "description": "Key role in reworking the product vision for the HSE Hello App (Social Live Commerce)",
+      "location": null,
+      "start": "2022-05",
+      "end": "2022-09",
+      "dateRange": "May 2022 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Presize (acq. by Meta)",
+      "companyUrl": "https://www.linkedin.com/company/presizeai",
+      "description": "Lead Product designer: Responsible for building, growing, and improving the product, processes, and team.\nPresize was acquired by Meta in April 2022",
+      "location": null,
+      "start": "2019-09",
+      "end": "2022-04",
+      "dateRange": "Sep 2019 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Intern | User Experience Researcher",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Responsible for supporting the interior design team in projects for future mobility and in concept and series cars.",
+      "location": null,
+      "start": "2019-02",
+      "end": "2019-08",
+      "dateRange": "Feb 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "XO Life",
+      "companyUrl": "https://www.linkedin.com/company/xo-life",
+      "description": null,
+      "location": null,
+      "start": "2018-04",
+      "end": "2019-08",
+      "dateRange": "Apr 2018 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Open Innovation Project - Product Lead",
+      "company": "tacterion",
+      "companyUrl": "https://www.linkedin.com/company/tacterion",
+      "description": "A joint open innovation project between CDTM and Tacterion that led to the development of Starc - an innovative consumer product for the fitness industry powered by Tacterion's patented sensor technology. I was responsible for branding and designing the user experience and product design for the smart sensor gloves, smartphone app and the smart coaching experience.",
+      "location": null,
+      "start": "2018-04",
+      "end": "2018-08",
+      "dateRange": "Apr 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Trends and Future Research",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Trend & futures research in the field of Artificial Intelligence in a collaborative project between Siemens’ AI Lab and CDTM.",
+      "location": null,
+      "start": "2018-02",
+      "end": "2018-04",
+      "dateRange": "Feb 2018 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "NorthBay Solutions",
+      "companyUrl": "https://www.linkedin.com/company/northbay-solutions",
+      "description": null,
+      "location": null,
+      "start": "2017-07",
+      "end": "2017-10",
+      "dateRange": "Jul 2017 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Co-Founder/Product Lead",
+      "company": "TAME - Tremor Acquisition and Minimization",
+      "companyUrl": "https://www.linkedin.com/company/tame-pk",
+      "description": "“TAME - Tremor Acquisition and Minimization” is a wearable biomedical device for the diagnosis and suppression of pathological tremors.",
+      "location": null,
+      "start": "2015-07",
+      "end": "2017-10",
+      "dateRange": "Jul 2015 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Engineering Leadership Program",
+      "company": "NI (National Instruments)",
+      "companyUrl": "https://www.linkedin.com/company/niglobal",
+      "description": null,
+      "location": null,
+      "start": "2015-07",
+      "end": "2015-09",
+      "dateRange": "Jul 2015 – Sep 2015",
+      "current": false
+    },
+    {
+      "title": "Intern | Advanced Electronics Lab",
+      "company": "National University of Sciences and Technology (NUST)",
+      "companyUrl": "https://www.linkedin.com/company/nustofficial",
+      "description": null,
+      "location": null,
+      "start": "2014-07",
+      "end": "2014-09",
+      "dateRange": "Jul 2014 – Sep 2014",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science, Communications Engineering",
+      "dateRange": "2017 – 2021"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree in Technology Management",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "IxDF - The Interaction Design Foundation",
+      "degree": "HCI; UX Design, Research, Management",
+      "dateRange": "2018"
+    },
+    {
+      "school": "National University of Sciences and Technology (NUST)",
+      "degree": "Bachelor of Electrical Engineering",
+      "dateRange": "2012 – 2016"
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "C++",
+    "Microsoft Office",
+    "Python (Programming Language)",
+    "User Experience (UX)",
+    "AutoCAD",
+    "Project Management",
+    "User Interface Design",
+    "Design Thinking",
+    "Illustration",
+    "Product Design",
+    "Interaction Design",
+    "Adobe Illustrator",
+    "Rapid Prototyping",
+    "Adobe Photoshop",
+    "Axure RP",
+    "Customer Journey Mapping",
+    "Wireframing",
+    "Figma",
+    "Adobe Premiere Pro",
+    "Usability",
+    "Mockups",
+    "Adobe XD",
+    "Human Computer Interaction",
+    "LabVIEW",
+    "Altium Designer",
+    "CorelDRAW",
+    "Sketch",
+    "Adobe Experience Design",
+    "SolidWorks",
+    "MATLAB",
+    "Adobe Indesign"
+  ],
+  "languages": [
+    "English",
+    "Urdu",
+    "German"
+  ],
+  "company": {
+    "name": "Sizekick",
+    "tagline": "www.sizekick.io\nWe use AI to put an end to size-related returns in fashion e-commerce.",
+    "description": "At Sizekick, we are putting an end to unnecessary size-related returns in online fashion retail. We use artificial intelligence and computer vision technology to recommend the right clothing size. With the help of Sizekick’s integrated software, everyone can find their correct size on our partner shops in just a few seconds with a smartphone. The environment will thank us too, because for each saved return approx. 500 g of CO2 emissions are saved.\n\nOur international team is growing and we have several interesting open positions. Please check out our career page. We would love to get to know you.\n\nhttps://www.sizekick.io/careers#positions",
+    "industry": "Software Development",
+    "website": "https://www.sizekick.io",
+    "linkedInUrl": "https://www.linkedin.com/company/sizekick",
+    "employeeCount": 10,
+    "foundedYear": 2022,
+    "location": "München, Germany",
+    "specialities": [
+      "Deep Learning",
+      "Computer Vision",
+      "E-Commerce",
+      "Fashion",
+      "Sports Fashion",
+      "Sizing",
+      "Reducing Returns"
+    ]
+  }
+}

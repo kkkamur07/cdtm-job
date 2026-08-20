@@ -1,0 +1,158 @@
+{
+  "id": "anabalevic",
+  "name": "Ana Balević, PhD",
+  "headline": "Patent Examiner at European Patent Office",
+  "avatar": null,
+  "location": "Amsterdam, Netherlands",
+  "linkedInUrl": "https://www.linkedin.com/in/anabalevic",
+  "personId": null,
+  "classes": [],
+  "classLabel": null,
+  "major": null,
+  "roles": [],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": false,
+  "matchMethod": null,
+  "needsReview": false,
+  "rosterName": null,
+  "ca": null,
+  "summary": "High Performance Computing expert with 7 years of experience in parallelzation of numerical simulations, multimedia codecs, and bioinformatics. Passionate about parallelization and performance optimization of real-world applications and applied research. Specialties: High Performance Computing, CUDA/GPU Acceleration, Parallel Programming, Parallelizing Compilers, Neural Network Simulations and Multimedia codecs.",
+  "positions": [
+    {
+      "title": "Examiner",
+      "company": "European Patent Office",
+      "companyUrl": "https://www.linkedin.com/company/european-patent-office",
+      "description": "Cloud Computing",
+      "location": null,
+      "start": "2014-02",
+      "end": null,
+      "dateRange": "Feb 2014 – Present",
+      "current": true
+    },
+    {
+      "title": "Researcher",
+      "company": "Leiden University",
+      "companyUrl": "https://www.linkedin.com/company/leiden-university",
+      "description": "• Consulting on bioinfromatics parallelization (GPU acceleration) for Leiden University Medical Center (LUMC)\n• Design of novel compile-time parallelization techniques for multi-level parallelization in the polyhedral model targeting heterogeneous platforms with graphics processing units (GPUs).\n• Design and implementation of Java-based KPN2GPU tool for code transformation and GPU code generation as an extension of the commercial auto-parallelizing compiler Compaan (Eclipse, Java, Compaan, Loopo, Cloog, PIP)\n• Design and implementation of a stream buffer for efficient host-accelerator data exchange/ overlapping communication and computation (POSIX Pthreads, CUDA 4, Linux)\n• Authored and presented scientific publications at international peer-reviewed conferences, e.g. invited talk at SARA GPGPU Day 2012, NVIDIA GPU Technology Conference 2013.",
+      "location": null,
+      "start": "2009-10",
+      "end": "2014-02",
+      "dateRange": "Oct 2009 – Feb 2014",
+      "current": false
+    },
+    {
+      "title": "Researcher",
+      "company": "Institut für Parallele und Verteilte Systeme",
+      "companyUrl": null,
+      "description": "• Design and CUDA/GPU implementation of parallel algorithms for data compression and multimedia codecs, as well as numerical simulations, such as FDTD wave propagation (http://www.imagineparallel.com/coding.html)\n• CUJ2K Project. Supervised a 4-person team that implemented the world’s first JPEG2000 CUDA encoder entirely running on a GPU (cuj2k.sourceforge.net)\n• Designed and lectured courses, labs and tutorials on data compression and GPU programming\n• Supervised M.Sc. Theses, seminars, and software projects.",
+      "location": "Stuttgart, Germany",
+      "start": "2007-01",
+      "end": "2009-12",
+      "dateRange": "Jan 2007 – Dec 2009",
+      "current": false
+    },
+    {
+      "title": "Research & Organization Assistant",
+      "company": "Center for Digital Technology and Management",
+      "companyUrl": null,
+      "description": "• CO3onSOA Project in collaboration with Siemens Enterprise Communications GmbH & Co. KG, Research, CDTM's Project Lead\n• Co-authored a business process patent and the book on “Effective Collaboration in Dynamic Communities with Service-Oriented Architectures”\n• Worked with small interdisciplinary teams on product prototypes, such as Siemate - a Web 2.0 location-based mobile community tool for cruise industry, and a mobile health service. Customer needs/requirements, use case studies, market analysis, business plan, software design and prototype implementation.  \n•  Initiated, designed, and organized a course on Service-oriented architectures and agile development. Pilot-project on using SCRUM at Siemens in collaboration with Mr. Simon Roberts.",
+      "location": null,
+      "start": "2006-01",
+      "end": "2007-09",
+      "dateRange": "Jan 2006 – Sep 2007",
+      "current": false
+    },
+    {
+      "title": "Internet Governance Project Associate",
+      "company": "DiploFoundation",
+      "companyUrl": "https://www.linkedin.com/company/diplofoundation",
+      "description": "- Participant in DiploFoundation Internet Governance program in collaboration with UN, EPO, and WTO.\n- Project \"Technical patents as a growth enabler in developing countries\". Presented at United Nations, Geneve, Switzerland, 2004.",
+      "location": null,
+      "start": "2004-01",
+      "end": "2005-12",
+      "dateRange": "Jan 2004 – Dec 2005",
+      "current": false
+    },
+    {
+      "title": "Journalist",
+      "company": "Svet Kompjutera",
+      "companyUrl": "https://www.linkedin.com/company/svet-kompjutera",
+      "description": "Writing articles on recent trends in computer hardware and consumer electronics.",
+      "location": null,
+      "start": "2000-01",
+      "end": "2001-12",
+      "dateRange": "Jan 2000 – Dec 2001",
+      "current": false
+    },
+    {
+      "title": "Business Operations",
+      "company": "Fenix",
+      "companyUrl": null,
+      "description": "• Configuration, testing and installation of computer hardware and consumer electronics\n• Sales and customer relations, contacts with business partners, organization.",
+      "location": "Belgrade, Serbia",
+      "start": "1997-02",
+      "end": "2005-09",
+      "dateRange": "Feb 1997 – Sep 2005",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Faculty of Electrical Engineering, ETF",
+      "degree": "Dipl.-Ing. El., Computer Engineering and Information Theory",
+      "dateRange": "1999 – 2004"
+    },
+    {
+      "school": "University of Belgrade",
+      "degree": "Master of Science (MSc), Computer Engineering",
+      "dateRange": "1999 – 2004"
+    },
+    {
+      "school": "Matematicka Gimnazija MG",
+      "degree": "Mathematics",
+      "dateRange": "1994 – 1999"
+    }
+  ],
+  "skills": [
+    "CUDA",
+    "GPU",
+    "Java",
+    "C++",
+    "High Performance Computing",
+    "Software Development",
+    "Optimization",
+    "Project Management",
+    "Programming",
+    "Technical Writing",
+    "Consulting",
+    "Customer Service",
+    "Bioinformatics",
+    "Multimedia codecs",
+    "Computer Engineering",
+    "Computer Hardware",
+    "Spring Webflow",
+    "Hibernate",
+    "MySQL",
+    "GPGPU"
+  ],
+  "languages": [
+    "Dutch",
+    "English"
+  ],
+  "company": {
+    "name": "European Patent Office",
+    "tagline": "As the patent office for Europe, we support innovation, competitiveness and economic growth across Europe.",
+    "description": "The European Patent Organisation is an intergovernmental organisation that was set up on 7 October 1977 on the basis of the European Patent Convention (EPC) signed in Munich in 1973. It has two bodies, the European Patent Office and the Administrative Council, which supervises the Office's activities.\r\n\r\nWe offer inventors a uniform application procedure which enables them to seek patent protection in up to 40 European countries. Supervised by the Administrative Council, the Office is the executive arm of the European Patent Organisation. \r\n\r\nAs the Patent Office for Europe, we support innovation, competitiveness and economic growth across Europe through a commitment to high quality and efficient services delivered under the European Patent Convention.\r\n\r\nWith expert, well-supported staff, motivated to set worldwide standards in quality and efficiency, we will continue to contribute to innovation across Europe, and play a leading role in developing an effective global patent system. All our relationships - within our Office and with partners around the world - will prosper through trust, transparency, fairness and mutual respect. Our processes will empower our people to use their knowledge and skills to the full. \r\n\r\nThe EPO is an equal opportunity employer providing our staff with the chance to build long-term stable careers. We offer one of the most comprehensive and family-friendly benefits packages in Europe.",
+    "industry": "Government Administration",
+    "website": "http://www.epo.org",
+    "linkedInUrl": "https://www.linkedin.com/company/european-patent-office",
+    "employeeCount": 5001,
+    "foundedYear": 1977,
+    "location": "München, Germany",
+    "specialities": [
+      "Intellectual property",
+      "Patents"
+    ]
+  }
+}

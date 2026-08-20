@@ -1,0 +1,235 @@
+{
+  "id": "alexander-preissner",
+  "name": "Alexander Preißner",
+  "headline": "Codasip RISC-V Processor Design Automation | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/alexander-preissner-sm.webp",
+    "lg": "/avatars/alexander-preissner.webp",
+    "blur": "data:image/webp;base64,UklGRnoBAABXRUJQVlA4IG4BAADQBgCdASogACAAPtFYo0uoJSMhsAgBABoJbACdM0dELg/0evNQ8O4gih8/mDeyqPQ2bazxVYsnUv6apZOn0BAA/sAB5SNMhHf8UmeTrcqfctw6OBuzSTn3Jjm7RFNCoCd68z8uAIBSj2TmT+5qndsSvC6To28S5sAHyTxsdF64rklyo61CTF1pwgCM5DDf/hxm4cjwJ8dlNJ/ftdO1xtG6aW3/UNogVT6FcuSvcyh2S7KIkoOx+AZWKxu/8KEt6Vv6VN0yfXJJQUM3EvZLNdy+gfDw2yVHZKSrYXz8GPb5i3UjYH+9ayY9SY1wvy5dwydtaCx5fLTWI2iAupZ5K7f4VOH5NuiQESNRpmru+0GI6YCox9ounO8HuDZFfn8VukOKyu3qzuGRSZLNIdmVnNivquk+jEc6m8O6CG5AqUUnKaS2URKFjSL/26Q/Ln+5jWZVCrBcX0tlJ4tT8zNZ6rQa9mGtJAeJx052Ab04aAA="
+  },
+  "location": "Rosenheim, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/alexander-preissner",
+  "personId": 1191,
+  "classes": [
+    {
+      "id": 74,
+      "label": "Fall 2013",
+      "season": "Fall",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2013",
+  "major": "Electrical Engineering and Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Alexander Preißner",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Senior Verification Engineer",
+      "company": "Codasip",
+      "companyUrl": "https://www.linkedin.com/company/codasip",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2025-07",
+      "end": null,
+      "dateRange": "Jul 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Verification Engineer",
+      "company": "Codasip",
+      "companyUrl": "https://www.linkedin.com/company/codasip",
+      "description": "Verifikation von Codasip RISC-V Prozessoren",
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-07",
+      "end": "2025-06",
+      "dateRange": "Jul 2022 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Application Engineer | Battery Management Systems",
+      "company": "Analog Devices",
+      "companyUrl": "https://www.linkedin.com/company/analog-devices",
+      "description": "Entwicklung von Software und PCBs zur Evaluierung von ADBMS-Produkten. Entwicklung FPGA-basierter Emulatoren zur Validierung und Evaluierung geplanter Funktionalität in ADBMS-Produkten. Technische Unterstützung von Kunden bei der Produktintegration.",
+      "location": "Metropolregion München",
+      "start": "2021-03",
+      "end": "2022-06",
+      "dateRange": "Mar 2021 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "System Engineer",
+      "company": "Lauterbach GmbH",
+      "companyUrl": "https://www.linkedin.com/company/lauterbach-gmbh",
+      "description": "Weiterentwicklung von Lauterbach TRACE32 Debug & Trace Lösung: FPGA-Design in VHDL; Schaltplanentwurf; Softwareentwicklung (eingebettet und Desktopanwendung) in C/C++",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-05",
+      "end": "2021-02",
+      "dateRange": "May 2019 – Feb 2021",
+      "current": false
+    },
+    {
+      "title": "Ingenieur Eingebettete Systeme",
+      "company": "blik GmbH",
+      "companyUrl": "https://www.linkedin.com/company/blik.io",
+      "description": "Entwicklung, Test & Verifikation von Firmware für die blik Funk- und Sensormodule. Entwicklung der blik Edge-Infrastruktur. CE-Zertifizierung der blik Ladungsträgerverfolgungslösung.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-10",
+      "end": "2019-04",
+      "dateRange": "Oct 2018 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Werkstudent Eingebettete Systeme & Software-Defined Radio",
+      "company": "blik GmbH",
+      "companyUrl": "https://www.linkedin.com/company/blik.io",
+      "description": "Entwicklung, Test & Verifikation von Firmware für die Funk- und Sensormodule von blik. Der Einsatz im industriellen Umfeld erfordert Zuverlässigkeit, Robustheit und lange Batterielaufzeiten.\nForschungstätigkeit zu Lokalisierung von Funkmodulen im Einsatzbereich Intralogistik und Produktion. Verwendete Geräte und Technologien: LimeSDR, GNU Radio, Linux, C/C++, Python, Docker, IEEE 802.15.4 RF, Zephyr OS.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-04",
+      "end": "2018-07",
+      "dateRange": "Apr 2017 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "FPGA-Entwickler und Testingenieur | Werkstudent in Mixed-Signal IC Design Group",
+      "company": "Linear Technology",
+      "companyUrl": "https://www.linkedin.com/company/linear-technology",
+      "description": "FPGA-Design für minimal-invasives mehrfach nutzbares Analog-Digital-Testsystem auf Basis von Lattice MachXO2 FPGA\nMinimal-invasiv, weil das Testsystem interne wie externe Signale mit möglichst minimaler Beeinflussung von Pegel und Laufzeit aufzeichnen und stimulieren sollte.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-04",
+      "end": "2015-08",
+      "dateRange": "Apr 2015 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Werkstudent/Tutor",
+      "company": "Technische Universität München - Lehrstuhl für Datenverarbeitung",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Betreuung von Studierenden in Tutorien, die im Rahmen der Vorlesung \"Programmierpraktikum C\" angeboten werden. Die Tätigkeit umfasste thematische Kurzeinführungen und Hilfestellung beim Lösen der Programmieraufgaben.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2014-04",
+      "end": "2014-07",
+      "dateRange": "Apr 2014 – Jul 2014",
+      "current": false
+    },
+    {
+      "title": "Praktikum FPGA Design",
+      "company": "MEN Mikro Elektronik",
+      "companyUrl": null,
+      "description": "Entwicklung und Synthese eines Moduls zur Hardwarebeschleunigung in VHDL",
+      "location": "Nuremberg, Bavaria, Germany",
+      "start": "2014-02",
+      "end": "2014-04",
+      "dateRange": "Feb 2014 – Apr 2014",
+      "current": false
+    },
+    {
+      "title": "Werkstudent Entwicklung",
+      "company": "Linear Technology",
+      "companyUrl": "https://www.linkedin.com/company/linear-technology",
+      "description": "Bauteilevaluierung. Testen der Funktion und der elektrischen Charakteristika eines in Entwicklung befindlichen Bauteils.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-03",
+      "end": "2013-04",
+      "dateRange": "Mar 2013 – Apr 2013",
+      "current": false
+    },
+    {
+      "title": "Werkstudent/Tutor",
+      "company": "Technische Universität München - Lehrstuhl für Datenverarbeitung",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Betreuung von Studierenden in Tutorien, die im Rahmen der Vorlesung \"Programmierpraktikum C\" angeboten werden. Die Tätigkeit umfasste thematische Kurzeinführungen und Hilfestellung beim Lösen der Programmieraufgaben.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-11",
+      "end": "2013-01",
+      "dateRange": "Nov 2012 – Jan 2013",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master’s Degree, Elektrotechnik und Informationstechnik",
+      "dateRange": "2016 – 2018"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor’s Degree, Elektrotechnik und Informationstechnik",
+      "dateRange": "2011 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree von LMU und TUM, Technologiemanagement",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "École de technologie supérieure",
+      "degree": "Génie électrique",
+      "dateRange": "2014"
+    }
+  ],
+  "skills": [
+    "UVM",
+    "SystemVerilog",
+    "Python (Programmiersprache)",
+    "Shell-Scripting",
+    "C++",
+    "Continuous Integration und Continuous Delivery (CI/CD)",
+    "Teamwork",
+    "Programming",
+    "Reliability",
+    "Programmierung",
+    "Public Speaking",
+    "LaTeX",
+    "Englisch",
+    "C",
+    "Electronic Circuit Design",
+    "Zuverlässigkeit",
+    "Teamarbeit",
+    "Vorträge",
+    "English",
+    "Elektronische Schaltungen",
+    "Genauigkeit",
+    "VHDL",
+    "Verilog",
+    "Lattice MachXO2",
+    "Altera Cyclone III",
+    "Xilinx Virtex-II",
+    "Xilinx ZYNQ",
+    "Field Programmable Gate Arrays",
+    "Produktentwicklung",
+    "RISC-V"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "company": {
+    "name": "Codasip",
+    "tagline": "We transform the world of processor design with leading custom compute technology.",
+    "description": "Codasip is a processor solutions company which helps developers to differentiate their products. We are Europe’s leading RISC-V company with a global presence. Billions of chips already use our technology.\n\nIn today’s technology market, differentiation is everything. The difference between success and failure. And, in chip design, this difference is quite literally wafer thin. With increasing transistor costs, your developers can no longer rely on semiconductor scaling and legacy processors to achieve your goals. The only way forward is to implement custom compute with designs tailored to your applications.\n\nWe deliver custom compute through the combination of the open RISC-V ISA, Codasip Studio processor design automation and high-quality processor IP. Our innovative approach lets you easily customize and differentiate your designs. You can develop high-performing, and game-changing products that are truly transformational.\n\nFounding member of RISC-V International.\nFounding member of the CHERI Alliance.",
+    "industry": "Semiconductors",
+    "website": "http://www.codasip.com",
+    "linkedInUrl": "https://www.linkedin.com/company/codasip",
+    "employeeCount": 215,
+    "foundedYear": 2014,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Domain Specific Processors",
+      "Electronic Design Automation",
+      "RISC-V",
+      "Embedded Hardware",
+      "Processor Customization"
+    ]
+  }
+}

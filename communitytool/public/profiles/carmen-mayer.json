@@ -1,0 +1,92 @@
+{
+  "id": "carmen-mayer",
+  "name": "Carmen M.",
+  "headline": "PhD Candidate @ TUM I Studied at LMU I CDTM I RCC",
+  "avatar": {
+    "sm": "/avatars/carmen-mayer-sm.webp",
+    "lg": "/avatars/carmen-mayer.webp",
+    "blur": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAADQBQCdASogACAAPsFGn0uno6Kht/qoAPAYCUAPFIZPjKrTOOp4VQIrAsfvUQvAAuSvKdl5s6ToAP75gTdO8qbzixe5YeZEL/CupYMZJPKZLR5+U3vjX15+deMW2WH/yMLTTFGlJ48N62txFpUklIJ5WFwIVugkONjx6HFkCF1hVh5MuLoxofQewjxSxHj+2PQUroTqYrBAu/+TvK6Yo6HeWe16stEvZcuA7y1Yqx9fspMuQBQO4Ue6mLXygLMgDpwq8OOBPb5l5lgAAAA="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/carmen-mayer",
+  "personId": 1208,
+  "classes": [
+    {
+      "id": 91,
+      "label": "Spring 2022",
+      "season": "Spring",
+      "year": 2022,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2022",
+  "major": "MSc in Management & Digital Technologies (LMU)",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "truncated-surname",
+  "needsReview": true,
+  "rosterName": "Carmen Mayer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Research Associate & PhD Candidate",
+      "company": "TUM Entrepreneurship Research Institute",
+      "companyUrl": "https://www.linkedin.com/company/tum-entrepreneurship-research-institute",
+      "description": null,
+      "location": null,
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor's Degree, Sustainable Entrepreneurship Education",
+      "dateRange": "2023 – 2027"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Master in Management and Digital Technologies",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Master's thesis with the Cyber-Human Lab, Institue of Manufacturing at the University of Cambridge",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Rachel Carson Center for Environment and Society (RCC)",
+      "degree": "Environmental Studies Certificate Program",
+      "dateRange": "2022 – 2025"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2022 – 2023"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "TUM Entrepreneurship Research Institute",
+    "tagline": "One of the leading European research institutes studying entrepreneurial individuals and organizations.",
+    "description": "Established in 2012, TUM ERI is one of the leading institutes dedicated to entrepreneurial research in Europe. At the institute four professors and more than 20 academics at post-doctoral and doctoral levels take an interdisciplinary approach to study entrepreneurship, covering all aspects of the entrepreneurial journey. Our goal is to improve our understanding of entrepreneurial individuals and organizations.",
+    "industry": "Research Services",
+    "website": "https://www.ent.wi.tum.de/en/home/",
+    "linkedInUrl": "https://www.linkedin.com/company/tum-entrepreneurship-research-institute",
+    "employeeCount": 14,
+    "foundedYear": 2012,
+    "location": "Garching, Germany",
+    "specialities": [
+      "Research",
+      "Entrepreneurial Education"
+    ]
+  }
+}

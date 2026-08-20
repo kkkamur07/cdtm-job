@@ -1,0 +1,259 @@
+{
+  "id": "ruslan-mammadov-1830661a1",
+  "name": "Ruslan Mammadov",
+  "headline": "ML Engineer / CDTM student / TUM.ai Member",
+  "avatar": {
+    "sm": "/avatars/ruslan-mammadov-1830661a1-sm.webp",
+    "lg": "/avatars/ruslan-mammadov-1830661a1.webp",
+    "blur": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACQBQCdASogACAAPtFYpkwoJSOiKA1RABoJQBjPsY8lttcIypvTE7TqfoUT1RjmqR9AzHE4gAD+/HoP1hQjmrY9VUkxGVDhvEn9pbn06a/KyYQFqbCLLmI/UMYcrl9DO93PMEnY3nwU4vrUz+VAsRoHIsHUYLWWcYQj6JNk5LgW1bSf/NaMx0GMYOwAlQp+Et7N8VbjfMoUaPu2Wf+IUTXhTyEW1CL0gm0XqUXljcyHAmIan8/aN8OykRExSAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/ruslan-mammadov-1830661a1",
+  "personId": 1295,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Robotics, Cognition, Intelligence",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Ruslan Mammadov",
+  "ca": null,
+  "summary": "Machine Learning Engineer & Software Developer with 7 years of experience in software development and 5 years of experience working on AI projects across NLP, geospatial analytics, classical ML, and computer vision. I enjoy taking ideas from scratch to fully deployed products—whether working independently or as part of a small, fast-moving R&D team.",
+  "positions": [
+    {
+      "title": "Machine Learning Engineer",
+      "company": "osapiens",
+      "companyUrl": "https://www.linkedin.com/company/osapiens",
+      "description": "Development of ML models and data pipelines in remote sensing for deforestation detection in the context of EU Deforestation Regulation\n• Developed and shipped a new land-cover segmentation model in Python/PyTorch that outperformed the prior production baseline by 9 pp IoU\n• Drive ongoing improvements to model architecture and data pipelines, resulting in a further ~3 pp IoU gain in recent iterations\n• Engineered an end-to-end training framework with custom data loaders, augmentation pipeline, and annotation/model versioning—cutting epoch time by an order of magnitude and improving experiment reproducibility\n• Built a modular benchmark suite that tracks core performance metrics across various deforestation-analysis workflows\n• Refactored the codebase to improve modularity, flexibility, and robustness - accelerating development and reduce failure rates\n• Working on development of cocoa commodity maps across multiple countries in West Africa and South America\n• Contributing to broader R&D efforts by reviewing literature, evaluating third-party data sources, testing new methods, etc.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Community Advisor",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-10",
+      "end": "2024-10",
+      "dateRange": "Oct 2023 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Advising Community Department",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": "• Managing a team of 11 members\n• Leading ideation and planning of community programs\n• Supervising recruitment, mentoring program, soft skills workshops in\ncollaboration with ZSK, external engagement, social events, surveys, and more.\n• Organizing social events and the onboarding weekend, working on the\nmembership database, conducting surveys, workshops, feedback sessions, etc.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-10",
+      "end": "2023-10",
+      "dateRange": "Oct 2022 – Oct 2023",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "DynaGroup Information Technologies GmbH",
+      "companyUrl": "https://www.linkedin.com/company/dynagroup-it",
+      "description": "Full-stack development of the LLM-based Web-Application in Python/PyTorch, Angular, and NodeJS\n• Led development of LLM-based services: curated custom datasets, fine-tuned and distilled transformer models, and built evaluation dashboards & scripts to track quality against internal metrics\n• Rewrote the legacy Java/Kotlin backend in Node.js and continued shipping new features across both the Node.js API and Angular front-end\n• Set up cloud infrastructure for ML experiments, collaborated on CI/CD and on-prem deployments for both models and the web application",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-05",
+      "end": "2025-05",
+      "dateRange": "May 2022 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Industry Department Team Member",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-11",
+      "end": "2022-11",
+      "dateRange": "Nov 2021 – Nov 2022",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Bertrandt Group",
+      "companyUrl": "https://www.linkedin.com/company/bertrandt-ag",
+      "description": "Software Development in the field of autonomous driving and environment modeling. Application of ML methods for data correction and KPIs computation.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-05",
+      "end": "2022-04",
+      "dateRange": "May 2021 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Tutor in Data Science",
+      "company": "Freelance",
+      "companyUrl": null,
+      "description": "Assisted with processing geo-data, feature construction & selection, and developing ML models",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-03",
+      "end": "2021-10",
+      "dateRange": "Mar 2021 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "WARR Exploration",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "A student organization at TUM developing lunar rover for IGLUNA contest. Tasks included:\n• Independently programming the Communication Systems & Command Handling of lunar rover\n• Programming backend of Ground Station and sensor drivers",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-11",
+      "end": "2021-08",
+      "dateRange": "Nov 2020 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Information Technology Team Lead",
+      "company": "eCARus",
+      "companyUrl": "https://www.linkedin.com/company/tumecarus",
+      "description": "A student organization at TUM developing a digital e-car for city (canceled because of the coronavirus pandemic). Tasks included:\n• Planned, organized and led software projects and training courses\n• Developed strategy for IT-Security of user data in auto\n• Developed backend of onboard computer with another student\n• Independently developed main controller simulator for testing",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-10",
+      "end": "2020-03",
+      "dateRange": "Oct 2019 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Electrical Engineer",
+      "company": "eCARus",
+      "companyUrl": "https://www.linkedin.com/company/tumecarus",
+      "description": "• Developed the electrical system and power supply of e-car in team\n• Programmed STM32 controllers in C and simulated electrical system in Matlab/Simulink\n• PCB Design in Eagle",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-08",
+      "end": "2019-10",
+      "dateRange": "Aug 2019 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "iteratec GmbH",
+      "companyUrl": "https://www.linkedin.com/company/iteratec-gmbh",
+      "description": "• Full stack development of a web application\n• Independently continued development of GoJS to MS Visio converter and\nmanager for demo instances of the web application\n• Set up and configured servers for demo instances\n• Implemented new features & debugged in team",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2018-10",
+      "end": "2019-08",
+      "dateRange": "Oct 2018 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "„Adveisor“ Project",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Participated at soft skills training & developed a sumo robot in team",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-11",
+      "end": "2018-06",
+      "dateRange": "Nov 2017 – Jun 2018",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS",
+      "dateRange": "2020 – 2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Electrical and Computer Engineering",
+      "dateRange": "2017 – 2020"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honorary Master, Technology Management",
+      "dateRange": "2024"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science",
+      "dateRange": "2021"
+    }
+  ],
+  "skills": [
+    "OpenAI API",
+    "Material-UI",
+    "MongoDB",
+    "React.js",
+    "Flask",
+    "Next.js",
+    "Geospatial Data",
+    "Deep Learning",
+    "Pycharm",
+    "Streamlit",
+    "Google Cloud Platform (GCP)",
+    "Natural Language Processing",
+    "Spring Framework",
+    "MySQL",
+    "Data Science",
+    "Data Analysis",
+    "Software Development",
+    "Angular",
+    "Kotlin",
+    "Natural Language Processing (NLP)",
+    "Python (Programming Language)",
+    "Programming",
+    "Machine Learning",
+    "Object-Oriented Programming (OOP)",
+    "Artificial Intelligence (AI)",
+    "TensorFlow",
+    "MATLAB",
+    "Java",
+    "NodeJS",
+    "HTML",
+    "LaTeX",
+    "JavaScript",
+    "Real-Time Operating Systems (RTOS)",
+    "Databases",
+    "Full-Stack Development",
+    "TypeScript",
+    "Russisch",
+    "Deutsch",
+    "Englisch als Zweitsprache (ESL)",
+    "SQL",
+    "C++",
+    "Embedded Systems",
+    "Coding Practices",
+    "OpenCV"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Russisch"
+  ],
+  "company": {
+    "name": "osapiens",
+    "tagline": null,
+    "description": "osapiens – one platform for sustainable growth \n\nosapiens develops software that empowers companies to drive sustainable growth across their entire value chain.  \n\nThe osapiens HUB, a multi-tenant hyperscaler platform designed to enable cross-company collaboration and AI-automation, combines over 25 solutions in two categories: Transparency solutions enable companies to report on financial and non-financial data, manage supply chains, mitigate risk of all kinds (including cyber-risks and trade- and geo-political risks), and ensure compliance with product, reporting and supply chain regulations. Efficiency solutions enable AI-driven supplier collaboration, maintenance, service, and distribution processes to improve operational performance and strengthen competitiveness.  \n\nosapiens was founded in 2018. Headquartered in Mannheim, Germany, with offices across Europe and the United States, the company works with an international team of over 550 employees. It supports more than 2,500 customers worldwide, from SMEs to global enterprises across industries.",
+    "industry": "Software Development",
+    "website": "http://www.osapiens.com",
+    "linkedInUrl": "https://www.linkedin.com/company/osapiens",
+    "employeeCount": 595,
+    "foundedYear": 2018,
+    "location": "Mannheim, Germany",
+    "specialities": [
+      "osapiens HUB",
+      "ESG",
+      "operations efficiency",
+      "Track & Trace"
+    ]
+  }
+}

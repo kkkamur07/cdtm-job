@@ -1,0 +1,133 @@
+{
+  "id": "maximilianrothkopf",
+  "name": "Dr. Maximilian Rothkopf",
+  "headline": "Member of the Executive Board at Hapag-Lloyd AG | COO",
+  "avatar": null,
+  "location": "Stadt Hamburg, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/maximilianrothkopf",
+  "personId": 1641,
+  "classes": [
+    {
+      "id": 51,
+      "label": "Spring 2002",
+      "season": "Spring",
+      "year": 2002,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2002",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Maximilian Rothkopf",
+  "ca": null,
+  "summary": "I head up the global shipping operations of Hapag-Lloyd, a leading container shipping company with around 17,100 employees in 140 countries. With more than 300 vessels, Hapag-Lloyd transported roughly 13,5 million TEU and generated over 21 billion in revenues in 2025. In its Terminal & Infrastructure segment, Hapag-Lloyd has stakes in 21 terminals in Europe, Latin America, the United States, India and North Africa. \n\nAs Chief Operating Officer, I am responsible for the Network (planning, alliances, container steering and network operations), Fleet, Trade Management, Vessel Portfolio Management and Dangerous Goods departments. Our goal, anchored in our Strategy 2030, is to make Hapag-Lloyd the undisputed number one for quality, delivering outstanding customer service, prioritize environmental responsibility and innovative digital solutions to navigate the ever-changing global landscape. Our global operations makes us one of the leading container carriers present in all major trades. I am thrilled to be part of an organization with the ambition, single-mindedness and resources – in terms of both people and material assets – to redefine excellence in the container shipping business for today and tomorrow. \n\nBefore joining Hapag-Lloyd, I was a partner at McKinsey & Co., a globally operating consulting company, where I specialized in the logistics, shipping and aviation industries. \n\nWith my wife and two children, I live in the beautiful city of Hamburg, where the headquarters of Hapag-Lloyd are located. In my free time, I enjoy doing almost any kind of sport, from sailing to playing tennis.",
+  "positions": [
+    {
+      "title": "Member of the Executive Board | Chief Operating Officer (COO)",
+      "company": "Hapag-Lloyd AG",
+      "companyUrl": "https://www.linkedin.com/company/hapag-lloyd-ag",
+      "description": "Responsible for Network, Fleet, Trade Management and Dangerous Goods",
+      "location": null,
+      "start": "2019-05",
+      "end": null,
+      "dateRange": "May 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Partner",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "Travel, Transport & Logistics Practice",
+      "location": null,
+      "start": "2014-01",
+      "end": "2019-04",
+      "dateRange": "Jan 2014 – Apr 2019",
+      "current": false
+    },
+    {
+      "title": "Associate Partner; Engagement Manager; Associate",
+      "company": "McKinsey & Company",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "Travel, Transport & Logistics Practice",
+      "location": null,
+      "start": "2005-01",
+      "end": "2013-12",
+      "dateRange": "Jan 2005 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Management Assistant",
+      "company": "German-Australian Chamber of Industry and Commerce",
+      "companyUrl": "https://www.linkedin.com/company/german-australian-chamber-of-industry-and-commerce",
+      "description": null,
+      "location": null,
+      "start": "2002-08",
+      "end": "2003-03",
+      "dateRange": "Aug 2002 – Mar 2003",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "EBS Universität für Wirtschaft und Recht",
+      "degree": "Dr.",
+      "dateRange": "2007 – 2009"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Dipl. Kfm.",
+      "dateRange": "2000 – 2004"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Semester abroad",
+      "dateRange": "2004"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Certificate in Technology Management",
+      "dateRange": "2002 – 2004"
+    },
+    {
+      "school": "Lund University School of Economics and Management",
+      "degree": "Semester abroad",
+      "dateRange": "2001 – 2002"
+    }
+  ],
+  "skills": [
+    "Mergers & Acquisitions",
+    "Project Management",
+    "Strategic Planning",
+    "Business Strategy",
+    "Management Consulting"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Hapag-Lloyd AG",
+    "tagline": "A leader in the global container shipping and logistics industry. Your cargo, our promise.",
+    "description": "With a fleet of 301 modern container ships and a total transport capacity of 2.5 million TEU, Hapag-Lloyd is one of the world’s leading liner shipping companies. In the Liner Shipping segment, the Company has around 15,000 employees and 400 offices in 140 countries. Hapag-Lloyd has a container capacity of 3.7 million TEU – including one of the largest and most modern fleets of reefer containers. A total of 133 liner services worldwide ensure fast and reliable connections between more than 600 ports on all the continents. In the Terminal & Infrastructure segment, Hapag-Lloyd has equity stakes in 21 container terminals in Europe, Latin America, the United States, India and North Africa. Around 3,000 employees are assigned to the Terminal & Infrastructure segment and provide complementary logistics services at selected locations in addition to the terminal activities.",
+    "industry": "Maritime Transportation",
+    "website": "https://www.hapag-lloyd.com",
+    "linkedInUrl": "https://www.linkedin.com/company/hapag-lloyd-ag",
+    "employeeCount": 15363,
+    "foundedYear": 1847,
+    "location": "Hamburg, Germany",
+    "specialities": [
+      "Container Shipping",
+      "Transport",
+      "Logistics",
+      "Project Cargo",
+      "Special Cargo",
+      "Reefer Cargo",
+      "Inland transport",
+      "Dangerous Goods"
+    ]
+  }
+}

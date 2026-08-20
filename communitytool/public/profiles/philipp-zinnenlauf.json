@@ -1,0 +1,207 @@
+{
+  "id": "philipp-zinnenlauf",
+  "name": "Philipp Zinnenlauf",
+  "headline": "PhD @MIT",
+  "avatar": {
+    "sm": "/avatars/philipp-zinnenlauf-sm.webp",
+    "lg": "/avatars/philipp-zinnenlauf.webp",
+    "blur": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAACQBQCdASogACAAPrlKnEunJKKht+gA4BcJYwDE2YxlKkXfPOkro1rSij392iIHW8x5sDf4AAD+/mE8tJn+sW1/RxCqZpEUUb0MBgu+6qtrh4Ffq4lTJ1TBFmijaQVAwp3nL4FxpEuhySRoLY5k69AUaHNmzcIv/gQbGLNc5PvsB8bc51koEpB+VlaIe8SeAmXHuIc9rtOzMgUfEn5kntCEtohblgpbtll9sY3IB+5EuPn1JisCeKxASCs48x4EIiAUG+syNTXR1VmHp0VBZAAA"
+  },
+  "location": "Cambridge, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/philipp-zinnenlauf",
+  "personId": 951,
+  "classes": [
+    {
+      "id": 90,
+      "label": "Fall 2021",
+      "season": "Fall",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2021",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Philipp Zinnenlauf",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Research",
+      "company": "MIT Center for Transportation & Logistics",
+      "companyUrl": "https://www.linkedin.com/company/mit-center-for-transportation-&-logistics",
+      "description": "MIT CTL is a world-leading research center at the intersection of technology, engineering, and management, focusing on breakthrough innovations in supply chain management, transportation, and logistics.",
+      "location": "Cambridge, Massachusetts, United States",
+      "start": "2025-01",
+      "end": null,
+      "dateRange": "Jan 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Principal - CEO Office",
+      "company": "Enpal",
+      "companyUrl": "https://www.linkedin.com/company/enpal",
+      "description": "Built and scaled a new energy business unit to 90+ people and seven-figure monthly revenue, leading product and tech at Europe's first cleantech unicorn.",
+      "location": "Berlin, Germany",
+      "start": "2023-01",
+      "end": "2024-12",
+      "dateRange": "Jan 2023 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Pre-Seed Investments",
+      "company": "Picus Capital",
+      "companyUrl": "https://www.linkedin.com/company/picus-capital",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-01",
+      "end": "2022-12",
+      "dateRange": "Jan 2022 – Dec 2022",
+      "current": false
+    },
+    {
+      "title": "Machine Learning",
+      "company": "hear.com",
+      "companyUrl": "https://www.linkedin.com/company/hear-com",
+      "description": null,
+      "location": "Berlin, Germany",
+      "start": "2020-01",
+      "end": "2021-12",
+      "dateRange": "Jan 2020 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Management Consulting",
+      "company": "Oliver Wyman",
+      "companyUrl": "https://www.linkedin.com/company/oliver-wyman",
+      "description": null,
+      "location": "Frankfurt Rhine-Main Metropolitan Area",
+      "start": "2019-01",
+      "end": "2019-12",
+      "dateRange": "Jan 2019 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Products & Portfolio",
+      "company": "Henkel",
+      "companyUrl": "https://www.linkedin.com/company/henkel",
+      "description": null,
+      "location": "Greater Dusseldorf Area",
+      "start": "2018-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2018 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Analytics & Automation",
+      "company": "hear.com",
+      "companyUrl": "https://www.linkedin.com/company/hear-com",
+      "description": null,
+      "location": null,
+      "start": "2017-01",
+      "end": "2017-12",
+      "dateRange": "Jan 2017 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Business Development",
+      "company": "foodora",
+      "companyUrl": "https://www.linkedin.com/company/foodora",
+      "description": null,
+      "location": "Düsseldorf, North Rhine-Westphalia, Germany",
+      "start": "2015-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2015 – Dec 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Doctor of Philosophy - PhD",
+      "dateRange": "2025 – 2029"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Graduate Research, MIT Center for Transportation & Logistics",
+      "dateRange": "2023"
+    },
+    {
+      "school": "MIT Sloan School of Management",
+      "degree": "Graduate Research, MIT Center for Collective Intelligence",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.)",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Le Wagon",
+      "degree": "Data Science & Coding",
+      "dateRange": "2020"
+    },
+    {
+      "school": "WHU – Otto Beisheim School of Management",
+      "degree": "Bachelor of Science (B.Sc.)",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Bachelor of Business Administration - Semester Abroad",
+      "dateRange": null
+    },
+    {
+      "school": "UNSW",
+      "degree": "Bachelor of Commerce - Semester Abroad",
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Start-ups",
+    "Data Science",
+    "Machine Learning",
+    "Python (Programming Language)",
+    "Microsoft Excel",
+    "Teamwork",
+    "Project Management",
+    "Microsoft Office",
+    "Microsoft PowerPoint",
+    "Leadership",
+    "Communication"
+  ],
+  "languages": [],
+  "company": {
+    "name": "MIT Center for Transportation & Logistics",
+    "tagline": "Shaping the future of global supply chain management education, research, and innovation.",
+    "description": "The MIT Center for Transportation & Logistics (MIT CTL) is part of the Engineering Systems Division in the School of Engineering at the Massachusetts Institute of Technology.  \n\nFor more than five decades, MIT CTL has been a world leader in supply chain management education and research. MIT CTL has made significant contributions to supply chain and logistics and has helped numerous companies gain competitive advantage from its cutting-edge research.\n\nVisit our website to learn more about our educational offerings, research initiatives, and outreach opportunities! https://ctl.mit.edu/ \n\nFollow us on your favorite social channels! \n- Facebook: http://facebook.com/mitctl\n- YouTube: http://youtube.com/mitctl\n- X: http://twitter.com/mitsupplychain",
+    "industry": "Higher Education",
+    "website": "https://ctl.mit.edu",
+    "linkedInUrl": "https://www.linkedin.com/company/mit-center-for-transportation-&-logistics",
+    "employeeCount": 122,
+    "foundedYear": 1973,
+    "location": "Cambridge, United States",
+    "specialities": [
+      "Self-driving Cars",
+      "Blockchain",
+      "Omni-Channel",
+      "Visual Analytics",
+      "Management",
+      "Freight Management",
+      "Aging",
+      "Accessibility"
+    ]
+  }
+}

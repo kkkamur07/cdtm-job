@@ -1,0 +1,200 @@
+{
+  "id": "stephan-rabanser",
+  "name": "Stephan Rabanser",
+  "headline": "Postdoctoral Researcher @ Princeton University",
+  "avatar": {
+    "sm": "/avatars/stephan-rabanser-sm.webp",
+    "lg": "/avatars/stephan-rabanser.webp",
+    "blur": "data:image/webp;base64,UklGRiYBAABXRUJQVlA4IBoBAADwBQCdASogACAAPtFaqE4oJKQiKAqpABoJaAC7IMgqQPexh3g1hvVZWt4S6IGOuRRnouw4gBEy2AD+z+uRqvGk1OIu7pi1yG4ILvdoe7EXr8RKlGj1eZkQJExEzyFZ24E5pM8U6RKBRqKJpz6rOb84qshSGboVnUYGpaAhBFuyz2tsO/VRweE+GQ/eYCC22fdqyHmMRbDtQzCbT8M5vRqF/A/pUnZ4QC6gl1rsxoHif094n5dozFeEV8Ql6XH1J9fvWPtPJqLDTLB+2GZM2Stjgi11RJeqtavsXmiQcQeB5zXAzlU29+ZKVXWW7GDnvt/zXZUr/IBliy3BfzUYWQ0fXbxD3694uDSwyUu0FSD9Le/84Cj+tfGAAAA="
+  },
+  "location": "Princeton, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/stephan-rabanser",
+  "personId": 798,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Stephan Rabanser",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Postdoctoral Research Associate",
+      "company": "Princeton University",
+      "companyUrl": "https://www.linkedin.com/company/princeton-university",
+      "description": null,
+      "location": null,
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Student Researcher",
+      "company": "Google",
+      "companyUrl": "https://www.linkedin.com/company/google",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "start": "2024-08",
+      "end": "2025-01",
+      "dateRange": "Aug 2024 – Jan 2025",
+      "current": false
+    },
+    {
+      "title": "Intern Applied Scientist",
+      "company": "Amazon Web Services (AWS)",
+      "companyUrl": "https://www.linkedin.com/company/amazon-web-services",
+      "description": "Part of AWS AI Labs. Worked on Self-Supervised Intrinsic Anomaly Detection for Multivariate Time Series.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-06",
+      "end": "2022-02",
+      "dateRange": "Jun 2021 – Feb 2022",
+      "current": false
+    },
+    {
+      "title": "Machine Learning Researcher",
+      "company": "Vector Institute",
+      "companyUrl": "https://www.linkedin.com/company/vector-institute",
+      "description": null,
+      "location": "Toronto, Ontario, Canada",
+      "start": "2020-09",
+      "end": "2025-08",
+      "dateRange": "Sep 2020 – Aug 2025",
+      "current": false
+    },
+    {
+      "title": "Intern Applied Scientist",
+      "company": "Amazon Web Services (AWS)",
+      "companyUrl": "https://www.linkedin.com/company/amazon-web-services",
+      "description": "Part of AWS AI Labs. Worked on Input/Output Representations for Neural Time Series Forecasting.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2019-09",
+      "end": "2020-07",
+      "dateRange": "Sep 2019 – Jul 2020",
+      "current": false
+    },
+    {
+      "title": "Intern Applied Scientist",
+      "company": "Amazon Web Services (AWS)",
+      "companyUrl": "https://www.linkedin.com/company/amazon-web-services",
+      "description": "Part of AWS AI Labs. Worked on Machine Learning for Data Compression.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2018-05",
+      "end": "2018-08",
+      "dateRange": "May 2018 – Aug 2018",
+      "current": false
+    },
+    {
+      "title": "Intern Software Development Engineer",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": "Part of Amazon Core Machine Learning. Worked on Uncertainty Quantification Improvements for Deep Neural Networks.",
+      "location": "Berlin Metropolitan Area",
+      "start": "2017-08",
+      "end": "2017-10",
+      "dateRange": "Aug 2017 – Oct 2017",
+      "current": false
+    },
+    {
+      "title": "Intern Software Development Engineer",
+      "company": "Amazon Web Services",
+      "companyUrl": "https://www.linkedin.com/company/amazon-web-services",
+      "description": "Part of AWS Developer Tooling (AWS OpsWorks). Worked on Business Metrics Reporting and Analytics.",
+      "location": "Berlin Metropolitan Area",
+      "start": "2016-07",
+      "end": "2016-10",
+      "dateRange": "Jul 2016 – Oct 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Toronto",
+      "degree": "Doctor of Philosophy - PhD, Computer Science",
+      "dateRange": "2020 – 2025"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "Visiting Graduate Student, Machine Learning",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Visiting Research Scholar, Machine Learning",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visting Research Student",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Elite Graduate Program",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Computer Science",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Computer Science",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "Technische Fachoberschule \"Max Valier\"",
+      "degree": "High School, Information Technology",
+      "dateRange": "2007 – 2012"
+    }
+  ],
+  "skills": [
+    "Project Management",
+    "SQL",
+    "Software Development",
+    "Java",
+    "Python",
+    "Amazon Web Services (AWS)",
+    "Machine Learning",
+    "Research"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian"
+  ],
+  "company": {
+    "name": "Princeton University",
+    "tagline": "Princeton in the nation’s service and the service of humanity.",
+    "description": "A vibrant community of learning that endeavors to fulfill its informal motto, '​'​in the nation's service and the service of humanity.'​'​ (Alumni note: The \"Notable Alumni\"​ section is generated by LinkedIn.)",
+    "industry": "Higher Education",
+    "website": "http://princeton.edu",
+    "linkedInUrl": "https://www.linkedin.com/company/princeton-university",
+    "employeeCount": 11420,
+    "foundedYear": 1746,
+    "location": "Princeton, United States",
+    "specialities": [
+      "teaching",
+      "research",
+      "service",
+      "liberal arts",
+      "education"
+    ]
+  }
+}

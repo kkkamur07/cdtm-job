@@ -1,0 +1,210 @@
+{
+  "id": "dr-friderike-bruchmann",
+  "name": "Dr. Friderike Bruchmann",
+  "headline": "Co-Founder & CEO at XO Life | Enabling better Patient Education, Treatment Support and Real World Evidence 🌎 | Tech Newcomer by Handelsblatt and Federal Ministry of Economics",
+  "avatar": {
+    "sm": "/avatars/dr-friderike-bruchmann-sm.webp",
+    "lg": "/avatars/dr-friderike-bruchmann.webp",
+    "blur": "data:image/webp;base64,UklGRlIBAABXRUJQVlA4IEYBAACwBgCdASogACAAPtFcqE4oJSQiKAqpABoJaACdMzxqprA7HpXrORq029unav22MCT3dGhN7cRJbl8dV6e/wAD+71Wa1glPtcgV3LAcwEQ9fDHyhnaj63R8rh8KldMxEyibY8Y2eoUc9XAa1OqtCfsaS5snyp+EDAy8+j/PjsjfkJU7Er5r6JDCMZMO56HevuZiFY9YS/tkHwV3+xcrdkv0lJ7X7TX5rqp08CDJv+sDOFDLxreG4+VjuxFk/sOcVrbyxGuLrjoysNeUx8HzuLp0kHnQ3N+mzN3oBU3cZUeMPS71QpHAweLTI9ATnkm7M/VvrJ5ft1aSmiXK79AuqwPmNXbYQZAfEKaRdTFhMqPQeSR6lh4jEGZGq4l7OKJnfUlJ+exXnmBe52cCMp+m2BFO1IbscsnqLeKAsOk+jfwhBjW5Fh5gAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/dr-friderike-bruchmann",
+  "personId": 1231,
+  "classes": [
+    {
+      "id": 72,
+      "label": "Fall 2012",
+      "season": "Fall",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2012",
+  "major": "Wirtschaft mit Technologie",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Friderike Bruchmann",
+  "ca": null,
+  "summary": "I am the founder and CEO of XO Life: We have built brite, a holistic digital health platform that enables patients to manage therapies, medications, and health information in one central place. brite connects patients, healthcare providers, and life science companies, offering personalized medical information, AI-powered guidance, reminders, and secure communities — everything needed for a seamless, trusted, and continuous patient journey.\n\nFor life science companies, XO Life provides an innovative digital service to strengthen patient and customer engagement. Each manufacturer can create a customized, branded companion on brite, helping patients while generating valuable insights. \nToday, XO Life is already market leader in Germany and our brite platform is used across Europe, Africa, and the UAE, partnering with over 40 manufacturers to deliver truly patient-centered, digital-first healthcare experiences.",
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "XO Life",
+      "companyUrl": "https://www.linkedin.com/company/xo-life",
+      "description": "We are building the largest Patient Insights Platform for all kinds of medicines and treatments across all indications together with leading healthcare players ranging from research institutes, media houses, R&D technology and data providers, life science companies and much more. \n\nStay tuned 🚀",
+      "location": "Berlin, Berlin, Germany",
+      "start": "2020-10",
+      "end": null,
+      "dateRange": "Oct 2020 – Present",
+      "current": true
+    },
+    {
+      "title": "PhD Student and Research Assistant",
+      "company": "TUM School of Management",
+      "companyUrl": "https://www.linkedin.com/company/tum-school-of-management",
+      "description": "Research assistant of Prof. Dr. Hana Milanov, Professor of International Entrepreneurship\nReseach interests concentrate on entrepreneurial networks, angel and VC investments and venture performance.",
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-09",
+      "end": "2018-09",
+      "dateRange": "Sep 2015 – Sep 2018",
+      "current": false
+    },
+    {
+      "title": "Technology & Innovation, Mobility",
+      "company": "Siemens",
+      "companyUrl": "https://www.linkedin.com/company/siemens",
+      "description": "Contributed to Business Development of Advanced Parking Management (APM) System and the Software Development of central APM platform with focus on statistics and analytics module, in charge of Product Lifecycle Management process of APM system including the achievement of critical milestones for product commercialization, coordinated marketing video series, supervised student project team of the Center for Digital Technology & Management (CDTM)",
+      "location": "Munich Area, Germany",
+      "start": "2014-07",
+      "end": "2015-08",
+      "dateRange": "Jul 2014 – Aug 2015",
+      "current": false
+    },
+    {
+      "title": "Smart Home Access Management",
+      "company": "Kisi",
+      "companyUrl": "https://www.linkedin.com/company/kisi",
+      "description": "Consulted on Sales and Market Entry Strategy, developed Customer Relationship Management Tool to track leads, acquired first pilot customers in the Munich area, desigend information material",
+      "location": null,
+      "start": "2013-04",
+      "end": "2013-08",
+      "dateRange": "Apr 2013 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Smart Home Managment, QIVICON",
+      "company": "T-Labs, Telekom Innovation Laboratories",
+      "companyUrl": "https://www.linkedin.com/company/t-labs-telekom-laboratories",
+      "description": "Developed a web-based Smart Home Application for the Telekom QIVICON platform, conducted market and competitor research, realized full Business Plan",
+      "location": null,
+      "start": "2012-10",
+      "end": "2013-02",
+      "dateRange": "Oct 2012 – Feb 2013",
+      "current": false
+    },
+    {
+      "title": "Institute for Information Systems and New Media",
+      "company": "Ludwig-Maximilians-Universität (LMU) München",
+      "companyUrl": "https://www.linkedin.com/company/lmu.muenchen",
+      "description": "Participated in research project on the digitalization of the research publiction process in cooperation with large multimedia publishing company, produced and reviewed scientific and technical paper drafts for publication, prepared lectures on Bachelor and Master level, reviewed seminar materials",
+      "location": null,
+      "start": "2012-02",
+      "end": "2013-08",
+      "dateRange": "Feb 2012 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Intern - Risk Management, Controlling",
+      "company": "Lufthansa",
+      "companyUrl": "https://www.linkedin.com/company/lufthansa",
+      "description": "Assisted in the redesign of the group-wide Risk Management system with integration of Internal Control System and Risk Controlling, developed Risk Assessment and categorization process, prepared status updates for Risk Board meetings",
+      "location": null,
+      "start": "2011-10",
+      "end": "2011-12",
+      "dateRange": "Oct 2011 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Technical Operations Management",
+      "company": "Lufthansa",
+      "companyUrl": "https://www.linkedin.com/company/lufthansa",
+      "description": "Participated in the Cooperation Management of Lufthansa Passage and Lufthansa Technik including annual negotation rounds, conducted financial analysis of Maintenance, Repair and Overhaul (MRO) costs, and evaluated the impact of Lufthansa`s fleet ageing on MRO costs",
+      "location": "Frankfurt Area, Germany",
+      "start": "2011-08",
+      "end": "2011-10",
+      "dateRange": "Aug 2011 – Oct 2011",
+      "current": false
+    },
+    {
+      "title": "Hua Xia Bank Cooperation Management",
+      "company": "Deutsche Bank",
+      "companyUrl": "https://www.linkedin.com/company/deutsche-bank",
+      "description": "Participated in the Cooperation Management of Deutsche Bank with Hua Xia Bank, contributed to Project Management of Best Practice workshops and reported on the progress of workstream meetings to Senior Management, pepared monthly and annual financial reports of the Hua Xia Bank cooperation for Senior Management",
+      "location": null,
+      "start": "2011-01",
+      "end": "2011-05",
+      "dateRange": "Jan 2011 – May 2011",
+      "current": false
+    },
+    {
+      "title": "Private & Business Clients",
+      "company": "Deutsche Bank",
+      "companyUrl": "https://www.linkedin.com/company/deutsche-bank",
+      "description": "Learned the basics of Private and Business Clients Customer Relationship Management, participated in client meetings on- and offsite",
+      "location": null,
+      "start": "2010-03",
+      "end": "2010-04",
+      "dateRange": "Mar 2010 – Apr 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "TUM School of Management",
+      "degree": "Master of Science (M.Sc.), Management and Technology (TUM-WITEC)",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2012 – 2014"
+    },
+    {
+      "school": "Shanghai Jiao Tong University",
+      "degree": "Visiting Student, International MBA",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B.Sc.), Business Administration",
+      "dateRange": "2008 – 2012"
+    },
+    {
+      "school": "The University of Winnipeg",
+      "degree": "Business Administration, Visiting Student",
+      "dateRange": "2010"
+    }
+  ],
+  "skills": [
+    "Project Management",
+    "Strategic Planning",
+    "Research",
+    "Innovation Management",
+    "Product Management",
+    "Business Strategy",
+    "Technology & Innovation"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "XO Life",
+    "tagline": "Enabling better Patient Education, Treatment Support and Real World Evidence from Patient Insights 🌎",
+    "description": "XO Life stands for\n✅ a state-of-the-art platform solution for long-term Patient Insights from the real world\n✅ real time information exchange between patients and pharma\n✅ a all-in-one platform to be used across all treatments and indications\n\nWe are a young and dynamic eHealth company setting a new standard patient data collection through scientifically based questionnaires across all treatments and medications.\n\nXO Life helps the pharmaceutical industry to better understand its patients. Our goal is to make digital treatment monitoring and patient feedback the gold standard in R&D, marketing and sales, while ensuring the highest data protection and security standards.\n\n➡️ Join us in shaping the future of patient centered medical data collection and learn more at:",
+    "industry": "Hospitals and Health Care",
+    "website": "https://www.xo-life.com/en",
+    "linkedInUrl": "https://www.linkedin.com/company/xo-life",
+    "employeeCount": 36,
+    "foundedYear": 2021,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Digital Health",
+      "Real-World-Evidence",
+      "patient-safety",
+      "communications platform provider",
+      "multidirectional communication for medical experts",
+      "pharmacovogilance",
+      "SaaS-solutions for pharma & biotech companies",
+      "Software & Add-on Service for pharmacovigilance",
+      "PROM",
+      "patient insights"
+    ]
+  }
+}

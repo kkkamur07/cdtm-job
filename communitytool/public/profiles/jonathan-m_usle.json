@@ -1,0 +1,170 @@
+{
+  "id": "jonathan-m_usle",
+  "name": "Jonathan Mäusle",
+  "headline": "OIES | CDTM | TUM | Sustainable Management & Technology",
+  "avatar": {
+    "sm": "/avatars/jonathan-m_usle-sm.webp",
+    "lg": "/avatars/jonathan-m_usle.webp",
+    "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAAAwBgCdASogACAAPsVGn0uno6Kht/qoAPAYiWIAsO3cC38ZVuWxn63UmZIJwlfi+DZpCMc58X3O8C5AAP79L0QzL//Lj73/yv06AF1AIEn7zbtoW82Zr47n/znI/YKPAFRswgADdf1sEE1KvUGbSswU5J327mvZVdyHyAQhArWpYmplg/m/Rb2Os9pNhdJZDqI9IYL4+IutYmteuaeXD97+Sapdt0nsfw5XpixQly37KidyxyPkNW2DXhe4XNBLmyd/M1GRfVdGEuj1eTm4U2SYpKbVw3uAAAA="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jonathan-mäusle",
+  "personId": 2127,
+  "classes": [
+    {
+      "id": 107,
+      "label": "Fall 2025",
+      "season": "Fall",
+      "year": 2025,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2025",
+  "major": "Sustainable Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jonathan Mäusle",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Visiting Research Fellow – Carbon Management Programme",
+      "company": "Oxford Institute for Energy Studies",
+      "companyUrl": "https://www.linkedin.com/company/oxford-institute-for-energy-studies",
+      "description": null,
+      "location": null,
+      "start": "2026-04",
+      "end": null,
+      "dateRange": "Apr 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Founder's Associate – Energy Flexibility",
+      "company": "utilize",
+      "companyUrl": "https://www.linkedin.com/company/utilize-energy-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2025-11",
+      "end": "2026-02",
+      "dateRange": "Nov 2025 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Research Fellow – Green Transition",
+      "company": "Greencode Ventures",
+      "companyUrl": "https://www.linkedin.com/company/greencode-ventures",
+      "description": null,
+      "location": null,
+      "start": "2025-02",
+      "end": "2025-07",
+      "dateRange": "Feb 2025 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Working Student – ESG Strategy",
+      "company": "auxmoney",
+      "companyUrl": "https://www.linkedin.com/company/auxmoney-gmbh",
+      "description": null,
+      "location": null,
+      "start": "2024-08",
+      "end": "2025-04",
+      "dateRange": "Aug 2024 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "Fellow Consultant – Sustainable Finance & Controlling",
+      "company": "Horváth",
+      "companyUrl": "https://www.linkedin.com/company/horvathpartners",
+      "description": null,
+      "location": null,
+      "start": "2024-03",
+      "end": "2024-04",
+      "dateRange": "Mar 2024 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Intern – ESG Advisory",
+      "company": "KPMG Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/kpmg-deutschland",
+      "description": null,
+      "location": null,
+      "start": "2023-04",
+      "end": "2023-08",
+      "dateRange": "Apr 2023 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Intern – Sustainability Strategy Consulting",
+      "company": "Drees & Sommer",
+      "companyUrl": "https://www.linkedin.com/company/drees-&-sommer",
+      "description": null,
+      "location": null,
+      "start": "2022-10",
+      "end": "2023-03",
+      "dateRange": "Oct 2022 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Intern & Working Student – Channel Management",
+      "company": "Lucanet",
+      "companyUrl": "https://www.linkedin.com/company/lucanet-ag",
+      "description": "Completed LucaNet.Certified Professional certification",
+      "location": null,
+      "start": "2021-03",
+      "end": "2022-08",
+      "dateRange": "Mar 2021 – Aug 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science, Sustainable Management and Technology",
+      "dateRange": "2023 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "HEC Paris",
+      "degree": "Summer School Program, The Energy Transition: Where Business meets Science",
+      "dateRange": "2025"
+    },
+    {
+      "school": "Hanken School of Economics",
+      "degree": "Erasmus+ Exchange Program",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Hochschule für Technik und Wirtschaft Berlin",
+      "degree": "Bachelor of Arts, Business Administration",
+      "dateRange": "2019 – 2022"
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Englisch",
+    "Deutsch",
+    "Spanisch"
+  ],
+  "company": {
+    "name": "Oxford Institute for Energy Studies",
+    "tagline": "Advanced research into the energy transition and international energy across oil, gas and electricity markets.",
+    "description": "The Oxford Institute for Energy Studies is a world leading independent energy research institute specialising in advanced research into the economics and geopolitics of the energy transition and international energy across oil, gas and electricity markets.",
+    "industry": "Think Tanks",
+    "website": "http://www.oxfordenergy.org/",
+    "linkedInUrl": "https://www.linkedin.com/company/oxford-institute-for-energy-studies",
+    "employeeCount": 99,
+    "foundedYear": 1982,
+    "location": "Oxford, United Kingdom",
+    "specialities": []
+  }
+}

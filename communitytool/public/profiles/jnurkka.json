@@ -1,0 +1,250 @@
+{
+  "id": "jnurkka",
+  "name": "Jaakko Nurkka",
+  "headline": "Co-Founder avoltra | Prev. Cliniserve, AWS, CDTM, TUM, UC Berkeley",
+  "avatar": {
+    "sm": "/avatars/jnurkka-sm.webp",
+    "lg": "/avatars/jnurkka.webp",
+    "blur": "data:image/webp;base64,UklGRgABAABXRUJQVlA4IPQAAACwBQCdASogACAAPsVQoUunpKMhsAwA8BiJZgCo9HePX35pNBnqv16HV57OttFEai9KgvCgMJAA/vF4v1IEj6hL1/DsTuP8f3EAz57Q3gjXzFgYs+gXeRGLDHxlcheSuQQ5L2jLOd4WPIfbozNy6ctteaikSZs9wd0l2cwW2lYRLqXnasAlPFNFuwhyXm1lw2rlYFJ/20idl9U3i9dP0YqO6+is5TIi7lSZ0vyygkvrysmOU2QGMbQFblpECo2yZWGPC2OKzVvUPiC/mVcgw+bB4hq9NM+Rtcdc0ivjchHakWJV5CXBjdhC1DsV+ZJif9vkNAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/jnurkka",
+  "personId": 785,
+  "classes": [
+    {
+      "id": 78,
+      "label": "Fall 2015",
+      "season": "Fall",
+      "year": 2015,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2015",
+  "major": "Management and Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Jaakko Nurkka",
+  "ca": null,
+  "summary": "I am a tech entrepreneur located in Munich, Germany. I'm currently building an agentic energy operating system for large commercial and industrial energy consumers as CTO.\n\nI've previously built a B2B SaaS business as Co-Founder and CTO of Cliniserve, helped Software Vendors transition to SaaS at AWS and published in the Harvard Business Review.\n\nI hold a Master's degree from in Management & Technology from TUM and have also studied at UC Berkeley, Center for Digital Technology & Management (CDTM) and Tampere University of Technology.",
+  "positions": [
+    {
+      "title": "Co-Founder & CTO",
+      "company": "avoltra",
+      "companyUrl": "https://www.linkedin.com/company/avoltra",
+      "description": "At avoltra, we are helping the 🏭 industrial backbone of 🇪🇺 save energy costs and manage risk exposure with an AI-powered software that helps energy procurers make data-driven energy procurement decisions in real-time.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-05",
+      "end": null,
+      "dateRange": "May 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Shareholder & Advisor",
+      "company": "Cliniserve",
+      "companyUrl": "https://www.linkedin.com/company/cliniserve",
+      "description": null,
+      "location": null,
+      "start": "2025-04",
+      "end": null,
+      "dateRange": "Apr 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "CTO on-demand - Freelance Consultant",
+      "company": null,
+      "companyUrl": null,
+      "description": "I'm helping SaaS startups accelerate their product development by sharing and implementing the learnings I've made over 7 years of building Cliniserve as CTO. I try to help CTOs and CPOs avoid some of the mistakes I made to be able to deliver a great product fast while also being able to sleep well at night not worrying about things breaking apart. Some of the things that I focus on include: infrastructure setup (IaC, k8s), DevOps, observability, product analytics as well as hiring & engineering leadership. I also help early stage companies rapidly build and deploy their first AI applications.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-04",
+      "end": "2025-10",
+      "dateRange": "Apr 2025 – Oct 2025",
+      "current": false
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "Cliniserve",
+      "companyUrl": "https://www.linkedin.com/company/cliniserve",
+      "description": "Cliniserve is a healthcare SaaS company that makes hospital nursing better and enables a better utilisation of scarce personnel resources in hospitals with innovative task and shortfall management solutions. As co-founder and CTO, I was part of building the company from idea to a cashflow positive business with over 50 customers across Europe and raising multiple Million € in equity funding on the way. \n\nAs CTO, I am responsible for our product management and software engineering efforts\n* Developed two SaaS solutions, each achieving six-figure ARR, by leading an interdisciplinary team of nine product and engineering professionals\n* Engineered secure cloud-native software systems that comply with stringent data protection and IT security standards of hospitals, utilizing end-to-end encryption, hybrid cloud architectures, and pseudonymization.\n* Managed scalable infrastructure on AWS and OVH Cloud (OpenStack), employing Terraform and Kubernetes for efficient orchestration and scalability\n* Established an effective engineering org with strong culture and DevOps setup, enabling rapid iterations and continuous experimentation through state-of-the-art tooling and processes, including trunk-based development, strong CI/CD & QA automation, and usage of feature flags. This setup supported multiple deployments per day to production, a cycle time below two days and a merge frequency of five pull requests per engineer per week.\n\nBeyond my technical responsibilities, I have also led our Human Resources efforts, including hiring a team of 17 members, fostering a strong organizational culture with an average employee tenure of five years.",
+      "location": "Munich Area, Germany",
+      "start": "2017-05",
+      "end": "2025-04",
+      "dateRange": "May 2017 – Apr 2025",
+      "current": false
+    },
+    {
+      "title": "Innovation Consultant",
+      "company": "Reederei Claus-Peter Offen (GmbH & Co.) KG",
+      "companyUrl": "https://www.linkedin.com/company/reederei-claus-peter-offen-gmbh-&-co-kg",
+      "description": "Freelance innovation consulting project as a startup team, analysis of the shipping market and identification of potential innovations and business models.",
+      "location": "Hamburg Area, Germany",
+      "start": "2017-02",
+      "end": "2017-04",
+      "dateRange": "Feb 2017 – Apr 2017",
+      "current": false
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Tutkimus- ja Analysointikeskus TAK Oy",
+      "companyUrl": "https://www.linkedin.com/company/takresearch",
+      "description": "Based on a survey of 50 000 tourists in Finland, I desiged and built reports for regional governments in Finland about tourism in their region. The reports break down yearly visitor amounts, their profiles and their spending during the visit.",
+      "location": "Lappeenranta Area, Finland",
+      "start": "2017-01",
+      "end": "2017-05",
+      "dateRange": "Jan 2017 – May 2017",
+      "current": false
+    },
+    {
+      "title": "Product Strategy Consultant",
+      "company": "Viessmann",
+      "companyUrl": "https://www.linkedin.com/company/viessmann",
+      "description": "As part of a 4-person student consulting team, I worked on a product strategy project that included trend analysis in the field of brick-and-mortar grocery retail and the development of technical concepts to leverage new opportunities. We presented our results to members of the executive board of Viessmann Group.",
+      "location": null,
+      "start": "2016-04",
+      "end": "2016-07",
+      "dateRange": "Apr 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Intern, AWS Partner Program",
+      "company": "Amazon Web Services",
+      "companyUrl": "https://www.linkedin.com/company/amazon-web-services",
+      "description": "I wrote my master's thesis on the servitization of product offerings in the software industry. I worked together with the business development team of AWS to understand how software vendors approach the decision to transform their business model from selling products and value-added services to provisioning everything as a service. Consequently, I conduct an event study to understand how investors react to such business model transformations and what makes companies successful in the transformation.",
+      "location": null,
+      "start": "2016-02",
+      "end": "2016-07",
+      "dateRange": "Feb 2016 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "Working student, Global Data & Analytics",
+      "company": "Allianz SE",
+      "companyUrl": "https://www.linkedin.com/company/allianz",
+      "description": "Part-time work in a data science team within Allianz that uses big data analytics to create value to Allianz insurers and other internal customers. My work included both data science & analytics tasks as well as administrative/organisational tasks like process analytics.",
+      "location": null,
+      "start": "2015-10",
+      "end": "2016-01",
+      "dateRange": "Oct 2015 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Product Development Consultant",
+      "company": "Personio",
+      "companyUrl": "https://www.linkedin.com/company/personio",
+      "description": "I led a 4-person team to build a learning management feature to the Personio SaaS HRM suite. The project spanned all product development steps from identifying a customer need to building a working product.",
+      "location": "Munich Area, Germany",
+      "start": "2015-10",
+      "end": "2016-01",
+      "dateRange": "Oct 2015 – Jan 2016",
+      "current": false
+    },
+    {
+      "title": "Intern, Terminal Project Logistics",
+      "company": "Cargotec Corporation",
+      "companyUrl": "https://www.linkedin.com/company/cargotec-corporation",
+      "description": "Project logistics coordination and production planning in an organisation that coordinates the delivery of worldwide container terminal crane projects. Additionally, strong involvement in SAP-implementation and development of SAP-usage in the department.",
+      "location": "Tampere, Finland",
+      "start": "2013-06",
+      "end": "2013-09",
+      "dateRange": "Jun 2013 – Sep 2013",
+      "current": false
+    },
+    {
+      "title": "Intern, Spare Part Purchasing",
+      "company": "Cargotec Corporation",
+      "companyUrl": "https://www.linkedin.com/company/cargotec-corporation",
+      "description": "Spare parts purchasing activities, supplier cooperation and analysis. 09/2012-05/2013 part-time work for an internal development project focused on developing internal processes, key performance indicators and cooperation with other departments.",
+      "location": "Tampere, Finland",
+      "start": "2012-05",
+      "end": "2013-05",
+      "dateRange": "May 2012 – May 2013",
+      "current": false
+    },
+    {
+      "title": "Sales negotiator",
+      "company": "Tutkimus- ja Analysointikeskus TAK Oy",
+      "companyUrl": null,
+      "description": "Business-to-business sales in a small-sized research company, including cold calling and consulting prospective customers about research possibilities. Responsibilities also included product and process development.",
+      "location": "Lappeenranta, Finland",
+      "start": "2011-05",
+      "end": "2011-08",
+      "dateRange": "May 2011 – Aug 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Student Researcher, Information Management",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree in Technology Management, Technology & Management",
+      "dateRange": "2015 – 2017"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (M.Sc.), Management & Technology (TUM-BWL)",
+      "dateRange": "2014 – 2016"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Exchange studies, Management & Technology",
+      "dateRange": "2013 – 2014"
+    },
+    {
+      "school": "Tampere University of Technology 1965-2018",
+      "degree": "Bachelor of Science (Tech.), Industrial Engineering and Management",
+      "dateRange": "2010 – 2013"
+    },
+    {
+      "school": "Kimpisen lukio",
+      "degree": "High school graduate",
+      "dateRange": "2006 – 2009"
+    }
+  ],
+  "skills": [
+    "Engineering Management",
+    "Git",
+    "Coaching & Mentoring",
+    "People Development",
+    "SaaS Development",
+    "Software as a Service (SaaS)",
+    "Kubernetes",
+    "User Experience (UX)",
+    "Node.js",
+    "Data Science",
+    "TypeScript",
+    "OpenStack",
+    "Amazon Web Services (AWS)",
+    "Front-End Development",
+    "Cloud Computing",
+    "Technical Recruiting",
+    "Leadership",
+    "Terraform",
+    "DevOps",
+    "Product Management"
+  ],
+  "languages": [
+    "English",
+    "Finnish"
+  ],
+  "company": {
+    "name": "avoltra",
+    "tagline": "AI-powered energy procurement for industrial companies – data-driven, flexible, and sustainable.",
+    "description": "Strategic energy procurement. Strengthening industry sustainably.\n\navoltra makes energy procurement smarter for industrial companies – data-driven, flexible, and sustainable.\nOur AI-powered platform helps businesses reduce energy costs, minimize price risks, and build a future-proof energy portfolio.\n\nThe challenge:\nVolatile energy markets, complex processes, and rising cost pressures make strategic and economical procurement difficult.\n\nOur solution:\n🔹 Integration of all energy-relevant data, processes, and market insights into one platform\n🔹 AI-powered, flexible strategies for planning, purchasing, and optimization\n🔹 Real-time market data for informed decisions and maximum execution confidence\n\nOur drive:\nWe equip energy procurement teams with the tools to act confidently, economically, and sustainably—even in uncertain markets—for greater future security and a stronger industry.\n\nYou shape the industrial future—we deliver the energy intelligence.\nLet’s power what’s next. 🌍",
+    "industry": "Energy Technology",
+    "website": "https://www.avoltra.io",
+    "linkedInUrl": "https://www.linkedin.com/company/avoltra",
+    "employeeCount": 7,
+    "foundedYear": 2025,
+    "location": "Nuremberg, Germany",
+    "specialities": []
+  }
+}

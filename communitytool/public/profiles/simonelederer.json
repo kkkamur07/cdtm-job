@@ -1,0 +1,238 @@
+{
+  "id": "simonelederer",
+  "name": "Simone Lederer",
+  "headline": "Machine Learning Engineer",
+  "avatar": {
+    "sm": "/avatars/simonelederer-sm.webp",
+    "lg": "/avatars/simonelederer.webp",
+    "blur": "data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAACQBgCdASogACAAPtFiqU+oJaOiKAgBABoJQBWGahbupAIo480zx244aID9XiA8ofQa24PCCwl6i5DND85oAP7wyTXa2vT7DDBBj97FqbD3u2RQuchghuBlhDmkOidpDxSKwPAJEQldrYcgWYywvZstqKRORah7VUPc8AH/+hFsOrtU2lP/+EZ+ST2pZsRupQRC2/rLbroPGW03Ndw9OxWTm1d/SWsRuP+PiN2VC4vexFLA188pIffqftj2vj0GbQvPcwPrY64UR8k7NknzlqBd4+N+rq9/u3+97xMxk3zW+/HOKHv75YhIBZMe4xUVWYWZpgcinLpZK9zmq7nrvoB7txM/zdrtg2ObjcmI88vV5TkAsiAAAA=="
+  },
+  "location": "Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/simonelederer",
+  "personId": 1032,
+  "classes": [
+    {
+      "id": 72,
+      "label": "Fall 2012",
+      "season": "Fall",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2012",
+  "major": "Mathematik",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Simone Lederer",
+  "ca": null,
+  "summary": "Mathematician and Machine Learning Engineer with ten years of interdisciplinary project experience with application of machine learning modelling to industrial time-series data, medical patient data, and complex biological data. Proficient in bringing machine learning projects to production, setting up drift detection and monitoring of training and inference pipelines. Provisioned and maintained cloud resources with Infrastructure as Code (terraform). Open minded team player, energetic, determined, and motivated with excellent communication skills and a strong international background. Driven by curiosity for the unknown and enthusiastic about new cultures.\nI'm looking for opportunities to combine my technical and interpersonal competences to bring Machine Learning to society and bridge the knowledge gap between IT experts and those who can make use of the technology.",
+  "positions": [
+    {
+      "title": "Senior Machine Learning Engineer",
+      "company": "ZEISS Group",
+      "companyUrl": "https://www.linkedin.com/company/zeiss",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "ZEISS Group",
+      "companyUrl": "https://www.linkedin.com/company/zeiss",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-04",
+      "end": "2025-12",
+      "dateRange": "Apr 2022 – Dec 2025",
+      "current": false
+    },
+    {
+      "title": "Academic Researcher",
+      "company": "Universitätsklinikum Tübingen",
+      "companyUrl": "https://www.linkedin.com/company/universitätsklinikum-tübingen",
+      "description": "Collection, integration, and analysis of patients' data from hospitals while protecting the patients' privacy with the German wide Medical Informatics Initiative.",
+      "location": "Tübingen, Baden-Württemberg, Deutschland",
+      "start": "2020-05",
+      "end": "2022-04",
+      "dateRange": "May 2020 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Academic Researcher",
+      "company": "Universitätsklinikum Tübingen",
+      "companyUrl": "https://www.linkedin.com/company/universitätsklinikum-tübingen",
+      "description": null,
+      "location": "Tübingen und Umgebung",
+      "start": "2020-05",
+      "end": "2022-04",
+      "dateRange": "May 2020 – Apr 2022",
+      "current": false
+    },
+    {
+      "title": "Member of the Works Council",
+      "company": "Radboud University",
+      "companyUrl": "https://www.linkedin.com/company/radboud-university-nijmegen",
+      "description": "I actively represent all junior and international researchers from the Radboud University in the works council. My focus lies on integration of international employees and fair processes and supervision for PhD candidates.",
+      "location": "Nijmegen und Umgebung, Niederlande",
+      "start": "2017-09",
+      "end": "2019-08",
+      "dateRange": "Sep 2017 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Junior Researcher",
+      "company": "Radboud University",
+      "companyUrl": "https://www.linkedin.com/company/radboud-university-nijmegen",
+      "description": null,
+      "location": null,
+      "start": "2015-04",
+      "end": "2020-05",
+      "dateRange": "Apr 2015 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "PreisEnergie",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2013-10",
+      "end": "2013-12",
+      "dateRange": "Oct 2013 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Intern and Working Student",
+      "company": "Institut für Vermögensaufbau AG",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2010-08",
+      "end": "2011-08",
+      "dateRange": "Aug 2010 – Aug 2011",
+      "current": false
+    },
+    {
+      "title": "Student Consultant",
+      "company": "Academy Consult",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": null,
+      "location": null,
+      "start": "2010-05",
+      "end": "2011-09",
+      "dateRange": "May 2010 – Sep 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science (MS), Mathematics",
+      "dateRange": "2011 – 2014"
+    },
+    {
+      "school": "Radboud University",
+      "degree": "Doctor of Philosophy (PhD), Machine Learning and Molecular Developmental Biology",
+      "dateRange": "2015 – 2019"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Research Student, Biostatistics",
+      "dateRange": "2014"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honour's Degree in Technology and Management, Technology and Management",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Università di Siena",
+      "degree": "Finance",
+      "dateRange": "2012"
+    },
+    {
+      "school": "Technion - Israel Institute of Technology",
+      "degree": "MBA, Industrial Engineering",
+      "dateRange": "2011 – 2012"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (BS), Mathematik",
+      "dateRange": "2008 – 2011"
+    },
+    {
+      "school": "École d'Éducation Internationale de McMasterville",
+      "degree": null,
+      "dateRange": "2005 – 2006"
+    },
+    {
+      "school": "Max-Planck Institute for Developmental Biology",
+      "degree": "visiting researcher, bioinformatics",
+      "dateRange": "2020"
+    }
+  ],
+  "skills": [
+    "Coding Standards",
+    "Technical Documentation",
+    "Code Review",
+    "Python (Programming Language)",
+    "Microsoft Azure",
+    "Azure DevOps Server",
+    "Microsoft Azure Machine Learning",
+    "Mlflow",
+    "Docker",
+    "Python (Programmiersprache)",
+    "Analytische Fähigkeiten",
+    "Kommunikation",
+    "R (Programming Language)",
+    "Datenanalyse",
+    "Forschung",
+    "Data Analysis",
+    "Analytics",
+    "R",
+    "Statistics",
+    "Statistical Modeling"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "ZEISS Group",
+    "tagline": "We are a global technology leader advancing the world of optics. #SeeingBeyond",
+    "description": "ZEISS is an internationally leading technology enterprise operating in the fields of optics and optoelectronics. In the previous fiscal year, the ZEISS Group generated annual revenue totaling almost 12 billion euros in its four segments Semiconductor Manufacturing Technology, Industrial Quality & Research, Medical Technology, and Consumer Markets (September 30, 2025).\n\nFor its customers, ZEISS develops, produces, and distributes highly innovative solutions for industrial metrology and quality assurance, microscopy solutions for the life sciences and materials research, and medical technology solutions for diagnostics and treatment in ophthalmology and microsurgery. The name ZEISS is also synonymous with the world's leading lithography optics, which are used by the chip industry to manufacture semiconductor components. There is global demand for trendsetting ZEISS brand products such as eyeglass lenses, camera lenses, and binoculars.\n\nWith a portfolio aligned with future growth areas like digitalization, healthcare, and Smart Production and a strong brand, ZEISS is shaping the future of technology and constantly advancing the world of optics and related fields with its solutions. The company's significant, sustainable investments in research and development lay the foundation for the success and continued expansion of ZEISS' technology and market leadership. ZEISS invests 15 percent of its revenue in research and development – this high level of expenditure has a long tradition at ZEISS and is also an investment in the future.\n\nWith over 46,600 employees, ZEISS is active globally in around 50 countries with more than 60 sales and service locations, around 40 research and development facilities, and 30 production facilities worldwide.\n\nLearn more about ZEISS: www.zeiss.com/about\n\nData privacy: www.zeiss.com/data-protection\nImprint: www.zeiss.com/publisher\n\nThis is ZEISS's official LinkedIn account. It follows the ZEISS Netiquette: www.zeiss.com/netiquette",
+    "industry": "Machinery Manufacturing",
+    "website": "http://www.zeiss.com/publisher",
+    "linkedInUrl": "https://www.linkedin.com/company/zeiss",
+    "employeeCount": 25721,
+    "foundedYear": 1846,
+    "location": "Oberkochen, Germany",
+    "specialities": [
+      "Optics",
+      "Optoelectronics and Precision Mechanics",
+      "Binoculars",
+      "Microscopy",
+      "Eyeglass Lenses",
+      "Biomedical Research",
+      "Medical Technology",
+      "Semiconductor Manufacturing Technology",
+      "Nano Technology",
+      "Industrial Metrology",
+      "Camera and Cine Lenses",
+      "Industry 4.0",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Software Engineering",
+      "Software Development"
+    ]
+  }
+}

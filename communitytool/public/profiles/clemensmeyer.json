@@ -1,0 +1,148 @@
+{
+  "id": "clemensmeyer",
+  "name": "Clemens Meyer",
+  "headline": "Technical Director, Strategy & Operations at Google DeepMind",
+  "avatar": null,
+  "location": "United Kingdom",
+  "linkedInUrl": "https://www.linkedin.com/in/clemensmeyer",
+  "personId": 1319,
+  "classes": [
+    {
+      "id": 69,
+      "label": "Spring 2011",
+      "season": "Spring",
+      "year": 2011,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2011",
+  "major": "Technology and Management oriented Business Administration",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Clemens Meyer",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Technical Director, Strategy & Operations",
+      "company": "Google DeepMind",
+      "companyUrl": "https://www.linkedin.com/company/googledeepmind",
+      "description": "Leading program management in DeepMind's Science team (see https://deepmind.com/about/science), including AlphaFold (https://deepmind.com/AlphaFold).\nWe use machine learning to solve important problems in the natural sciences.",
+      "location": "London Area, United Kingdom",
+      "start": "2017-01",
+      "end": null,
+      "dateRange": "Jan 2017 – Present",
+      "current": true
+    },
+    {
+      "title": "Product Manager",
+      "company": "Minodes",
+      "companyUrl": null,
+      "description": "Retail analytics startup that helps brick & mortar retailers learn more about their customers’ behavior by using custom data sources and machine learning. Led product strategy and development of products now used by many large retail chains across Europe.",
+      "location": "Berlin",
+      "start": "2014-04",
+      "end": "2016-09",
+      "dateRange": "Apr 2014 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "Global Banking - Mergers & Acquisitions Intern",
+      "company": "Deutsche Bank",
+      "companyUrl": "https://www.linkedin.com/company/deutsche-bank",
+      "description": "Internship in the M&A division of Deutsche Bank.\nCreated financial models and contributed to pitch books as well as IPO documents. \nAnalyzed the market for cross-border acquisitions.",
+      "location": "Frankfurt, Germany",
+      "start": "2010-03",
+      "end": "2010-05",
+      "dateRange": "Mar 2010 – May 2010",
+      "current": false
+    },
+    {
+      "title": "Product Management Intern",
+      "company": "BMW",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Contributed to the product definition of a new car, in particular interior features and optional equipments. My tasks included market and competitor analysis as well as workshop organization.",
+      "location": "Munich, Germany",
+      "start": "2009-10",
+      "end": "2010-02",
+      "dateRange": "Oct 2009 – Feb 2010",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Researcher, Information Technology and Entrepreneurship",
+      "dateRange": "2013"
+    },
+    {
+      "school": "HEC Paris",
+      "degree": "Certificate, Digital Innovation for Business",
+      "dateRange": "2013"
+    },
+    {
+      "school": "HEC Paris",
+      "degree": "Master of Science (M.Sc.), Sustainable Development",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2011 – 2012"
+    },
+    {
+      "school": "Istanbul Technical University",
+      "degree": "Exchange semester",
+      "dateRange": "2010 – 2011"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science (B.Sc.), Management and Technology",
+      "dateRange": "2008 – 2011"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Sustainability",
+    "Innovation Management",
+    "Strategy",
+    "Business Strategy",
+    "Business Development",
+    "Presentations",
+    "Start-ups",
+    "Project Management",
+    "Management Consulting",
+    "User Experience Testing",
+    "User Interface Design",
+    "Statistical Data Analysis",
+    "Graphic Design",
+    "Web Design",
+    "Market Research",
+    "Product Management"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "company": {
+    "name": "Google DeepMind",
+    "tagline": "We're committed to solving intelligence, to advance science and benefit humanity.",
+    "description": "We’re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.\n\nOur long term aim is to solve intelligence, developing more general and capable problem-solving systems, known as artificial general intelligence (AGI). \n\nGuided by safety and ethics, this invention could help society find answers to some of the world’s most pressing and fundamental scientific challenges.\n \nWe have a track record of breakthroughs in fundamental AI research, published in journals like Nature, Science, and more.Our programs have learned to diagnose eye diseases as effectively as the world’s top doctors, to save 30% of the energy used to keep data centres cool, and to predict the complex 3D shapes of proteins - which could one day transform how drugs are invented.",
+    "industry": "Research Services",
+    "website": "https://www.deepmind.google",
+    "linkedInUrl": "https://www.linkedin.com/company/deepmind",
+    "employeeCount": 8689,
+    "foundedYear": 2010,
+    "location": "London, United Kingdom",
+    "specialities": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ]
+  }
+}

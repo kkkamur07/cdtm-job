@@ -1,0 +1,105 @@
+{
+  "id": "johannes-lechner",
+  "name": "Johannes Lechner",
+  "headline": "Fintech Product Leader & Angel Investor",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/johannes-lechner",
+  "personId": 1934,
+  "classes": [
+    {
+      "id": 68,
+      "label": "Fall 2010",
+      "season": "Fall",
+      "year": 2010,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2010",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Johannes Lechner",
+  "ca": null,
+  "summary": "I am an entrepreneurial and results oriented product leader with a strong Fintech background. \n\nAs part of amazing teams I have a proven track record of getting Fintech companies and products from „zero to one“ at Payworks and from „one to many“ at Visa.",
+  "positions": [
+    {
+      "title": "Senior Director - Card Present Product Strategy & Corporate Development",
+      "company": "Visa",
+      "companyUrl": "https://www.linkedin.com/company/visa",
+      "description": "Overall result: Visa Acceptance Solutions now has a competitive   „out-of-the-box“ Card Present product with key clients already live.\n\nDetails:\nEnvisioned the new product strategy for the 2020s: Revamping the acquired Payworks assets to power Android-based Payment Terminals and Tap-To-Phone solutions.\n\nEvangelised the new strategy with executives and key clients.  \n\nThrough those actions secured multi-year funding and early client commitments.\n\nBroke down the product strategy into actionable projects for a   100+ people organisation using OKR methodology.\n\nOwned build/buy/partner decisions for additional components/products/companies  required to turn product strategy into reality.",
+      "location": null,
+      "start": "2020-01",
+      "end": "2023-08",
+      "dateRange": "Jan 2020 – Aug 2023",
+      "current": false
+    },
+    {
+      "title": "Co-Founder - Head of Product (Exited to Visa)",
+      "company": "Payworks",
+      "companyUrl": "https://www.linkedin.com/company/payworks-gmbh",
+      "description": "Overall result: Payworks built a card present gateway product from scratch used by over 50000+ merchants; Multi-hardware-vendor, multi-acquirer, multi-operating-system and multi-country.   \nExited the company to Visa, one of our key clients.\n \n\nDetails:\nRecruited, mentored and ran a 8-people product team.\n\nOwned the overall product roadmap and ran regular product planning sessions with key clients including Visa, Barclays, Global Payments and Concardis/Nets/Nexi. \n \nSignificant P/L contributions by convincing key clients to fund strategic product extensions.   \n\nOwned relationships with terminal vendors and other partners.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2012-10",
+      "end": "2019-12",
+      "dateRange": "Oct 2012 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Apple iOS Developer and Consultant",
+      "company": "Freelance",
+      "companyUrl": null,
+      "description": "Built iPad app for field service technicians from scratch, trained new iOS devs at eMundo. \n\nContributed features to Outbank, a leading German multi-banking iPhone app.",
+      "location": null,
+      "start": "2009-02",
+      "end": "2012-09",
+      "dateRange": "Feb 2009 – Sep 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Informatics",
+      "dateRange": "2010 – 2012"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology Management",
+      "dateRange": "2010 – 2012"
+    }
+  ],
+  "skills": [
+    "Product Development",
+    "Strategy Consulting",
+    "Prototyping",
+    "Requirements Engineering",
+    "Account Management",
+    "Software Development",
+    "Product Management",
+    "Coaching & Mentoring",
+    "Strategy",
+    "FinTech"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Visa",
+    "tagline": null,
+    "description": "Visa (NYSE: V) is a world leader in digital payments, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories. Our purpose is to uplift everyone, everywhere by being the best way to pay and be paid. \n\nLearn more at Visa.com.",
+    "industry": "IT Services and IT Consulting",
+    "website": "https://corporate.visa.com/en/careers.html",
+    "linkedInUrl": "https://www.linkedin.com/company/visa",
+    "employeeCount": 30425,
+    "foundedYear": null,
+    "location": "Foster City, United States",
+    "specialities": [
+      "Global payments technology company"
+    ]
+  }
+}

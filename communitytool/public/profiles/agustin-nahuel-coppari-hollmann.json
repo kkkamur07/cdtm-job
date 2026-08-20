@@ -1,0 +1,342 @@
+{
+  "id": "agustin-nahuel-coppari-hollmann",
+  "name": "Agustin N. Coppari Hollmann",
+  "headline": "ML Compiler Research @ UC Berkeley | EECS @ TUM | CDTM | Co-founder of neuroTUM e.V., LATUM and OpenHardware Initiative | Won the AMD Open Hardware 2025",
+  "avatar": {
+    "sm": "/avatars/agustin-nahuel-coppari-hollmann-sm.webp",
+    "lg": "/avatars/agustin-nahuel-coppari-hollmann.webp",
+    "blur": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAACwBQCdASogACAAPtFYpk2oJKOiMBgIAQAaCUAYm54BUaa1a2c0tPlEUaX9LHLqGlPU7fgti1gA/vi0is0F980Wcyk90hP62aOHxjTH+jJN6Sall95C/jdGBMdXZd7AlM8CJJbaYmM9MUqltq+3s/78uFRZrWI5IoSHbjdeoyfn1wLUjXPJmJHCb3v4CJDt+XB3knKV5qZwNaMD4kyMI1S2fkGdVCtmniy7mYY/e1ejkfe7SeRQRjqDw5ygPE/ZLLit+3kWCKFAAA=="
+  },
+  "location": "United States, United States of America",
+  "linkedInUrl": "https://www.linkedin.com/in/agustin-nahuel-coppari-hollmann",
+  "personId": 2025,
+  "classes": [
+    {
+      "id": 103,
+      "label": "Fall 2024",
+      "season": "Fall",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2024",
+  "major": "Electrical Engineering & Information Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "firstname-prefix",
+  "needsReview": true,
+  "rosterName": "Agustin Coppari Hollmann",
+  "ca": null,
+  "summary": "I am an Electrical Engineering student from Argentina and a Visiting Researcher at UC Berkeley’s SLICE Lab, where I develop MLIR and IREE compiler infrastructure for custom RISC-V targets. My work focuses on the Merlin lowering pipeline and domain-specific optimizations for AI acceleration.\n\nAs a student at TUM and CDTM, I’ve co-founded neuroTUM, LATUM, and the OpenHardware Initiative to bridge the gap between high-level AI research and specialized hardware. I am passionate about HW/SW co-design, specifically in the context of neuromorphic computing and mixed-signal design.",
+  "positions": [
+    {
+      "title": "Advisor",
+      "company": "OpenHardware Initiative",
+      "companyUrl": "https://www.linkedin.com/company/open-hardware-initiative",
+      "description": "Volunteer work as an Advisor for the OpenHardware student organization in topics like finance, organization, technology projects, and more.",
+      "location": "Remote",
+      "start": "2025-10",
+      "end": null,
+      "dateRange": "Oct 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder & Co-Director",
+      "company": "OpenHardware Initiative",
+      "companyUrl": "https://www.linkedin.com/company/open-hardware-initiative",
+      "description": "Founded a student organization at TUM to work on topics related to chip design, drones, and visual transformers. During the creation of this organization, we participated in the AMD Open Hardware competition from AMD. \nDemo: https://www.youtube.com/watch?v=RXjw670piBA",
+      "location": "On-site",
+      "start": "2025-03",
+      "end": "2025-09",
+      "dateRange": "Mar 2025 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "AI Compiler Engineer",
+      "company": "NXP Semiconductors",
+      "companyUrl": "https://www.linkedin.com/company/nxp-semiconductors",
+      "description": "Working on the integration and optimization of different ML models of different frameworks for MCU/NPUs.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-10",
+      "end": "2025-07",
+      "dateRange": "Oct 2024 – Jul 2025",
+      "current": false
+    },
+    {
+      "title": "Task-Force Lead",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-05",
+      "end": "2024-10",
+      "dateRange": "May 2024 – Oct 2024",
+      "current": false
+    },
+    {
+      "title": "Research Assistant at AI Processor Design Chair",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "- Wrapping and Deployment of RISC-V Cores on FPGA.\n- Deployment and Testing of RISC-V Cores for ML generated using ASIP Designer from Synopsys.",
+      "location": "Garching, Bavaria, Germany",
+      "start": "2024-04",
+      "end": "2024-09",
+      "dateRange": "Apr 2024 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Co-Founder of LATUM and Board Member",
+      "company": "LATUM",
+      "companyUrl": "https://www.linkedin.com/company/latum",
+      "description": "LATUM (Latin American At TUM) aims to create an inclusive environment at TUM by fostering cultural exchanges, social events, corporate networking, and support targeted to, but not exclusive to, Latin American students. We provide a supportive space for students worldwide to connect, share cultures, and ease their transition to life in Germany through guidance and resources. LATUM enhances the student experience at TUM by promoting intercultural understanding and collaboration through events and gatherings.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-03",
+      "end": "2024-08",
+      "dateRange": "Mar 2024 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "- Coordination of Alumni network at TUM.ai.",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": "- Work on Terrain Segmentation project for a Martian Rover as a collaboration with the student initiative WARR.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-10",
+      "end": "2024-05",
+      "dateRange": "Oct 2023 – May 2024",
+      "current": false
+    },
+    {
+      "title": "Co-founder, Board Member and Group Lead for Brain-Inspired Computing",
+      "company": "neuroTUM",
+      "companyUrl": "https://www.linkedin.com/company/neurotum",
+      "description": "Personal Involvement in projects;\n- An Open Source low dependency library written in C for SNNs Inference called SpikinC (use cases include the generation of RTL code for RISC-V processors using ASIP Designer from Synopsys or different high-level synthesis tools)\n- Development in Verilog of Spiking Neural Network for inference of event-based sensors deployed on a FPGA.\n\nGroup Lead:\n- Coordination of HW and SW teams inside of the Brain-Inspired Computing group.\n- Organization of tasks and projects for the group.\n- Organization of ASIP Designer Hackathon with Synopsys and AI-Pro Chair (2024).\n- Organization of Neuromorphic Hackathon in collaboration with Fortiss (2023 and 2024).\n\nBoard Member:\n- Manage an interdisciplinary non-profit research organization focused on neuro and brain inspired technologies (~60 members).\n- Ensure a healthy and safe work environment inside the organization.\n- Manage bureaucracy, finances and legal matters concerning a non-profit research organization.\n- Source funding.",
+      "location": "Hybrid",
+      "start": "2023-09",
+      "end": "2025-09",
+      "dateRange": "Sep 2023 – Sep 2025",
+      "current": false
+    },
+    {
+      "title": "Working Student: Implementation of Radar-Based use cases with Spiking Neural Networks",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": "- Comparison and evaluation of a Spiking Neural Network framework (against another more mature, like Nengo).\n- Support in the implementation of the data processing pipeline cases for different use cases.\n- Support in the implementation of classifiers exploiting Spiking Neural Networks.\n- Support in the deployment on ad-hoc hardware.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-05",
+      "end": "2024-04",
+      "dateRange": "May 2023 – Apr 2024",
+      "current": false
+    },
+    {
+      "title": "Founder - Board Member - Team Lead Machine Learning for BCI project",
+      "company": "neuroTUM",
+      "companyUrl": "https://www.linkedin.com/company/neurotum",
+      "description": "neuroTUM is a group of students interested in neuroscience and engineering. Our intention is to share our enthusiasm about neuroengineering and make this interdisciplinary research area more accessible. Together, we are collecting hands-on-experience by developing a brain-computer-interface (BCI) system to non-invasively decode electrical signals into precise control commands using Deep Learning architectures.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-10",
+      "end": "2023-09",
+      "dateRange": "Oct 2022 – Sep 2023",
+      "current": false
+    },
+    {
+      "title": "Bachelor Thesis at Chair of Neuroelectronics",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Garching, Bavaria, Germany",
+      "start": "2022-10",
+      "end": "2023-07",
+      "dateRange": "Oct 2022 – Jul 2023",
+      "current": false
+    },
+    {
+      "title": "Working Student",
+      "company": "Mentalab",
+      "companyUrl": "https://www.linkedin.com/company/mentalab.co",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-10",
+      "end": "2023-04",
+      "dateRange": "Oct 2022 – Apr 2023",
+      "current": false
+    },
+    {
+      "title": "GPU System Administrator - Hiwi",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": null,
+      "location": "Garching, Bavaria, Germany",
+      "start": "2022-05",
+      "end": "2022-10",
+      "dateRange": "May 2022 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Undergraduate research assistant at Chair of Neuroelectronics",
+      "company": "Technical University of Munich",
+      "companyUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+      "description": "Processed data from EEG experiment and performed feature extraction to later input that data to custom deep learning models in order to perform multi label classification from event related potentials.",
+      "location": "Garching, Bavaria, Germany",
+      "start": "2022-04",
+      "end": "2022-10",
+      "dateRange": "Apr 2022 – Oct 2022",
+      "current": false
+    },
+    {
+      "title": "Student Mentor",
+      "company": "adveisor",
+      "companyUrl": "https://www.linkedin.com/company/advisor-business",
+      "description": "Adveisor is the soft skill program for electrical engineers at the TUM. The program focuses on students, which want to gain more experiences within their academic career and choose to grow with challenges. The aim is to train young students in more than just their field of study - to evolve into engineers who understand themselves and those around them, who can inspire and animate their peers. The concept behind this is a trinity of knowledge, methodology and personal experience, to be gained and tested by working in teams on an engineering project.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-10",
+      "end": "2022-08",
+      "dateRange": "Oct 2021 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Information Technology Specialist",
+      "company": "Leibniz-Institut für Lebensmittel-Systembiologie an der Technischen Universität München",
+      "companyUrl": "https://www.linkedin.com/company/leibniz-institut-fur-lebensmittel-systembiologie-an-der-technischen-universitat-munchen",
+      "description": null,
+      "location": "Freising, Bavaria, Germany",
+      "start": "2021-04",
+      "end": "2022-03",
+      "dateRange": "Apr 2021 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Student Project as Adveisee",
+      "company": "adveisor",
+      "companyUrl": "https://www.linkedin.com/company/advisor-business",
+      "description": "- Design of autonomous irrigation stations for cultivation of different class of plants.\n- Development of circuits and implementation of sensors with Arduino.\n- Creation of website and Database for controlling the automatization of the station and represent the data.",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-11",
+      "end": "2021-08",
+      "dateRange": "Nov 2020 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Private Teacher / Tutor on Mathematics, Physics and Chemistry",
+      "company": "Self-employed",
+      "companyUrl": null,
+      "description": null,
+      "location": "La Plata, Buenos Aires Province, Argentina",
+      "start": "2017-03",
+      "end": "2020-02",
+      "dateRange": "Mar 2017 – Feb 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+      "degree": "Researcher at SLICE Lab, Compilers for Robotics and Custom Hardware",
+      "dateRange": "2025 – 2026"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master's degree, Electrical Engineering and Information Systems",
+      "dateRange": "2024 – 2026"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Master degree , Technology Management",
+      "dateRange": "2024 – 2025"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Electrical and Computerengineering",
+      "dateRange": "2020 – 2024"
+    },
+    {
+      "school": "Universidad Nacional de La Plata",
+      "degree": "Electrical and Electronics Engineering",
+      "dateRange": "2019"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "AICE Certificate",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Colegio Patris",
+      "degree": "High School Diploma, SOCIAL SCIENCES",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "University of Cambridge",
+      "degree": "IGCSE",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Colegio Padre Castañeda",
+      "degree": "Economics",
+      "dateRange": "2013 – 2015"
+    }
+  ],
+  "skills": [
+    "MLIR",
+    "IREE",
+    "Compiler Optimization",
+    "FPGA prototyping",
+    "ASIP Designer",
+    "Xilinx Vivado",
+    "Neuromorphic Engineering",
+    "Spiking Neural Networks",
+    "MLOps",
+    "Embedded Software Programming",
+    "Inventory Control and Optimization",
+    "Software Testing",
+    "Graph Algorithms",
+    "Artificial Neural Networks",
+    "Computational Neuroscience",
+    "Algorithms",
+    "Artificial Intelligence (AI)",
+    "SystemC",
+    "English",
+    "RISC-V",
+    "Python (Programming Language)",
+    "Computer Architecture",
+    "Programming",
+    "C++",
+    "Computer Science",
+    "German",
+    "Feature Selection",
+    "Feature Extraction",
+    "Brain-computer Interfaces",
+    "Teaching",
+    "SQL",
+    "Eagle PCB",
+    "Arduino",
+    "Databases",
+    "Linux System Administration",
+    "Troubleshooting",
+    "Data Administration",
+    "convolutional LSTM",
+    "Deep Learning",
+    "LSTM",
+    "Transformer",
+    "BCI",
+    "EEG",
+    "EEGLAB",
+    "MATLAB",
+    "Machine Learning",
+    "Signal Processing",
+    "Team Leadership",
+    "Group Dynamics",
+    "Teamwork",
+    "Social Sciences"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Portuguese",
+    "Spanish"
+  ],
+  "company": null
+}

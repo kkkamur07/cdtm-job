@@ -1,0 +1,465 @@
+{
+  "id": "stefanharrer",
+  "name": "Stefan Harrer, PhD",
+  "headline": "VP, Global Head of R&D Data and Computational Sciences",
+  "avatar": null,
+  "location": "France",
+  "linkedInUrl": "https://www.linkedin.com/in/stefanharrer",
+  "personId": 1664,
+  "classes": [
+    {
+      "id": 97,
+      "label": "Fall 2001",
+      "season": "Fall",
+      "year": 2001,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2001",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Stefan Harrer",
+  "ca": null,
+  "summary": "AI innovator. Systems creator. Builder of impact from thin air.\n\nI turn bold ideas into real-world impact—prototypes, MVPs, programs, IP. As a scientist and executive, I build frontier AI systems and deploy them at scale in complex, high-stakes environments across biotech, pharma, MedTech, and digital health.\n\nToday, I serve as VP and Global Head of R&D Data and Computational Sciences at Sanofi, where I lead the global computational and data science agenda across the company’s digital R&D organization. My focus is embedding advanced data science, AI, and in-silico approaches into the entire drug discovery and development stack to accelerate breakthroughs and bring new medicines to patients faster. \n\nPreviously, as Director of AI for Science at CSIRO, Australia’s National Science Agency, I co-founded and led a $39M program (in collaboration with Google Research) to reinvent scientific discovery using generative AI agents. The flagship platform, Sciansa, which we built and deployed is a multi-agent lab assistant helping thousands of scientists accelerate scientific discovery across biology, robotics, and other domains. \n\nEarlier at IBM Research, I founded the Brain-Inspired Computing Program and launched IBM’s global epilepsy program. Our team built the first AI capable of predicting epileptic seizures in real time using wearable technology—work that ultimately seeded Australia’s first MedTech startup valued at over $100M. \n\nI’m a TEDx speaker, IBM Master Inventor with 76 granted patents, and was inducted to IBM's Academy of Technology, to IBM's Health and Life Sciences Research Council, and to the New York Academy of Sciences. I publish widely in journals and conference proceedings of The Lancet, Nature, JAMA, Cell, NeurIPS, IJCAI, AAAI, MICCAI, CVPR, ACM, and IEEE. You'll find my work featured in WIRED, Forbes, ABC, the WHO, FierceBiotech, and the World Economic Forum. \n\nI believe in building AI that matters—and backing up every idea with flawless, inclusive and relentless execution.",
+  "positions": [
+    {
+      "title": "VP, Global Head of R&D Data and Computational Sciences",
+      "company": "Sanofi",
+      "companyUrl": "https://www.linkedin.com/company/sanofi",
+      "description": null,
+      "location": null,
+      "start": "2026-03",
+      "end": null,
+      "dateRange": "Mar 2026 – Present",
+      "current": true
+    },
+    {
+      "title": "Advisory Council Member",
+      "company": "Harvard Business Review",
+      "companyUrl": "https://www.linkedin.com/company/harvard-business-review",
+      "description": "The Harvard Business Review Advisory Council is HBR's global research panel that conducts quantitative research for HBR Analytical Services, an independent commercial research unit within HBR, responsible for research and comparative analysis on important management challenges and emerging business opportunities. The Advisory Council is a non-executive, opt-in research community of business professionals invited to work with the HBR editorial team to improve the content it publishes and to chart HBR's future direction.  The HBR Advisory Council provides feedback to HBR editors, previews new content, and comments on ideas from HBR as well as those from the wider world of management and leadership.",
+      "location": null,
+      "start": "2024-08",
+      "end": null,
+      "dateRange": "Aug 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Scientific Advisor",
+      "company": "Harvard Medical School",
+      "companyUrl": "https://www.linkedin.com/company/harvard-medical-school",
+      "description": "Scientific Advisory Board Member, Brain Modulation Lab, Department of Neurosurgery, Massachusetts General Hospital Brigham, NIH Award  1R61NS126776 ‘Electrographic Seizure Pattern Modulation Biomarkers in Responsive Neurostimulation for Epilepsy’, M. Richardson Lab",
+      "location": null,
+      "start": "2023-09",
+      "end": null,
+      "dateRange": "Sep 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Advisory Board Member",
+      "company": "MyelinZ®",
+      "companyUrl": "https://www.linkedin.com/company/myelinz",
+      "description": "Myelin-Z develops groundbreaking software technology for terrestrial and space health. The technology helps hospitals and doctors monitor and treat neurological diseases remotely. Myelin-H also helps biopharma companies conduct efficient digital clinical trials and develop better-targeted therapies.",
+      "location": null,
+      "start": "2022-11",
+      "end": null,
+      "dateRange": "Nov 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Book: From wearables to THINKables: artificial intelligence-enabled sensors for health monitoring",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "IBM's AI classifies seizures with 98.4% accuracy using EEG data",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "How AI is making clinical trials more accurate and affordable",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "ABC Catalyst: Bionic Revolution – Prosthetics, Paralympians & Possibilities",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Live TV demo of thought-controlled robotic arm - tech published and presented at IJCAI, AAAI, IEEE EMBC",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "WIRED Magazine 2017 - Elon Musk Isn’t the Only One Trying to Computerize Your Brain",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "These companies are applying the Silicon Valley playbook to neuroscience.",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Talk about neural networking.",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "The New Daily - 2019 - A mission to ensure AI is used for good",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "IBM held its annual Think summit in Sydney showcasing the mindboggling ways artificial intelligence (AI) is tackling some of the world's biggest problems.",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "eHealth Queensland - 2018 - plenary talk",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Artificial Intelligence for Epileptic Seizure Prediction",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "IBM Research, IBM T. J. Watson Research Center, Yorktown Heights, NY, USA",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Director, AI for Science and Co-Founder, Sciansa",
+      "company": "CSIRO's Data61",
+      "companyUrl": "https://www.linkedin.com/company/csiro%27sdata61",
+      "description": "My team builds Sciansa, a multi-agent AI operating system for scientific discovery workflows in the Health and Life Sciences. We develop product-grade AI agents and bring them to biologists as lab assistants. We believe that will enhance their curiosity, creativity and productivity and accelerate journeys to solutions to some of the great scientific problems which would otherwise be decades away or out of reach entirely. We have built and just launched the MVP - have a look and get in touch via demo video post below.",
+      "location": null,
+      "start": "2023-11",
+      "end": "2026-02",
+      "dateRange": "Nov 2023 – Feb 2026",
+      "current": false
+    },
+    {
+      "title": "Chief Innovation Officer",
+      "company": "Digital Health CRC",
+      "companyUrl": "https://www.linkedin.com/company/digital-health-crc",
+      "description": "Digital Health CRC Ltd. is an incubator and investor in the digital health space managing over $200M in partner funds. We bring together investors, researchers, clinicians, the healthcare and technology sectors, governments, universities and others to solve the most pressing healthcare challenges through innovative technology. I have developed and am now executing pre-seed incubation strategy, deep tech data & AI due diligence, and impact measurement and management due diligence frameworks. Creating new projects/ventures and scaling up existing ones, I am a strategic and technical advisor to several clinical institutions in the US, to start-ups in Europe, the US and Australia, and to government agencies and policy makers in the AI and digital health sectors in Australia. I am also a member of the Advisory Board of The Digital Health Festival, one of the biggest digital health summits in APAC annually attracting over 4000 attendees.",
+      "location": null,
+      "start": "2021-03",
+      "end": "2023-11",
+      "dateRange": "Mar 2021 – Nov 2023",
+      "current": false
+    },
+    {
+      "title": "Global Lead Epilepsy Research, Senior Technical Staff Member (STSM)",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "Lead Epilepsy Research (Technical/Scientific Lead and People Manager of Global Research Program across IBM Research Australia, IBM T.J. Watson Research Center, IBM Tokyo Research Lab, IBM Haifa Research Lab, IBM Zurich Research Lab and several medical, academic and non-for profit partners), IBM Master Inventor, Member IBM Exploratory Life Sciences Research Council, Member IBM Academy of Technology AI Team, Member Neuroethics Advisory Team to Staff of SVP/Director of IBM Research\n\nGlobal corporate scientific Digital Health strategy development and execution: Artificial Intelligence for Healthcare and Life Sciences, Clinical Trial Design, Cloud and Edge Platforms, Precision Medicine, Neurological Diseases, strategic advisor on ethics and responsible use of AI and neurotech\n\nClosely worked with IBM Watson Health on building IBM Watson for Clinical Trial Matching(TM) MVP.\n\nUniversity Relationship Manager: hiring and talent development\n\nCommercial and Research Engagement Support: IP Law consulting, contract negotiations",
+      "location": null,
+      "start": "2020-04",
+      "end": "2021-03",
+      "dateRange": "Apr 2020 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Adjunct Professor",
+      "company": "University of Technology Sydney",
+      "companyUrl": "https://www.linkedin.com/company/university-of-technology-sydney",
+      "description": "Member Professional Advisory Board, Faculty of Engineering and Information Technology",
+      "location": null,
+      "start": "2018-08",
+      "end": "2026-01",
+      "dateRange": "Aug 2018 – Jan 2026",
+      "current": false
+    },
+    {
+      "title": "Technical Assistant to the VP Cognitive Computing",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "Global corporate strategy development and execution: Digital Health and Life Sciences AI / Precision Medicine, strategic advisor and spokesperson ethical AI and neurotech, co-lead Global Technical Accomplishments Award Review Board",
+      "location": null,
+      "start": "2017-01",
+      "end": "2018-01",
+      "dateRange": "Jan 2017 – Jan 2018",
+      "current": false
+    },
+    {
+      "title": "Founder and Manager, Brain-Inspired Computing Research",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "Founder and Lead: Brain-Inspired Computing Research Team and Program. Neuromorphic computing - deep learning - neurological diseases. AI for clinical trial design. IBM Master Inventor, Research Staff Member, Member IBM Academy of Technology, Honorary Principal Research Fellow at University of Melbourne, 15 direct and indirect reports with people management responsibility.",
+      "location": null,
+      "start": "2014-11",
+      "end": "2020-04",
+      "dateRange": "Nov 2014 – Apr 2020",
+      "current": false
+    },
+    {
+      "title": "Associate Editor IEEE Transactions on NanoBioscience",
+      "company": "IEEE",
+      "companyUrl": "https://www.linkedin.com/company/ieee",
+      "description": "Member IEEE Computer Society, IEEE TNT Steering Committee, IEEE Senior Member",
+      "location": null,
+      "start": "2014-05",
+      "end": "2023-05",
+      "dateRange": "May 2014 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Science Technical Assistant to the Lab Director",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "Asia/Pacific corporate strategy development and execution: Digital Health and Life Sciences AI / Precision Medicine, Lead Innovation Development, thoughtleader and advisor on responsible use and ethics of neurotech and AI",
+      "location": null,
+      "start": "2013-10",
+      "end": "2015-01",
+      "dateRange": "Oct 2013 – Jan 2015",
+      "current": false
+    },
+    {
+      "title": "Team Lead Bionanotechnology Research",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": null,
+      "start": "2011-11",
+      "end": "2014-10",
+      "dateRange": "Nov 2011 – Oct 2014",
+      "current": false
+    },
+    {
+      "title": "Founder and Lead, Bionanotechnology Research Team and Program, Research Staff Member",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": null,
+      "start": "2009-12",
+      "end": "2011-11",
+      "dateRange": "Dec 2009 – Nov 2011",
+      "current": false
+    },
+    {
+      "title": "Investigator NHGRI Grant “Nanopore-based Electrical Device for DNA Sequencing”,  IBM Research - Roche/454 Diagnostics DNA-Transistor project",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "Member Advanced Lithography Group, Level Owner Lithography & Integration, Member Nanoimprint Advisory Board",
+      "location": null,
+      "start": "2008-09",
+      "end": "2009-12",
+      "dateRange": "Sep 2008 – Dec 2009",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Viering, Jentschura & Partner mbB",
+      "companyUrl": "https://www.linkedin.com/company/viering-jentschura-partner-mbb",
+      "description": null,
+      "location": null,
+      "start": "2004-02",
+      "end": "2004-03",
+      "dateRange": "Feb 2004 – Mar 2004",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Solon Management Consulting",
+      "companyUrl": "https://www.linkedin.com/company/solon-management-consulting",
+      "description": null,
+      "location": null,
+      "start": "2002-04",
+      "end": "2002-07",
+      "dateRange": "Apr 2002 – Jul 2002",
+      "current": false
+    },
+    {
+      "title": "Student Employee",
+      "company": "Spetec Corporation for Spectroscopy and Laboratory Technology",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2001-03",
+      "end": "2002-03",
+      "dateRange": "Mar 2001 – Mar 2002",
+      "current": false
+    },
+    {
+      "title": "Student Employee",
+      "company": "Infineon Technologies",
+      "companyUrl": "https://www.linkedin.com/company/infineon-technologies",
+      "description": null,
+      "location": null,
+      "start": "1999-07",
+      "end": "1999-10",
+      "dateRange": "Jul 1999 – Oct 1999",
+      "current": false
+    },
+    {
+      "title": "High Mountains Ranger, Lance Corporal",
+      "company": "Bundeswehr (German Federal Armed Forces)",
+      "companyUrl": "https://www.linkedin.com/company/bundeswehr-german-federal-armed-forces",
+      "description": "German Army, Mandatory Military Service, Member of Alpine Special Forces Team",
+      "location": null,
+      "start": "1998-09",
+      "end": "1999-06",
+      "dateRange": "Sep 1998 – Jun 1999",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Visiting Graduate Student, Electrical Engineering and Computer Science",
+      "dateRange": "2005 – 2006"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Doctor of Philosophy (PhD), Electrical Engineering and Computer Science (Major: Nanobiotech)",
+      "dateRange": "2005 – 2008"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Research Scholar, Quantum Physics, Macroeconomics",
+      "dateRange": "2002"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Hons. Master-Level Degree, Technology Management",
+      "dateRange": "2001 – 2003"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Continuing Education, Strategic Management",
+      "dateRange": "2002"
+    },
+    {
+      "school": "Anne-Frank-Gymnasium Erding",
+      "degree": "IB (Abitur)",
+      "dateRange": "1998"
+    }
+  ],
+  "skills": [
+    "Negotiation",
+    "Leadership",
+    "Strategy",
+    "Research",
+    "Business Strategy",
+    "Science",
+    "Science Communication"
+  ],
+  "languages": [
+    "Latin",
+    "English",
+    "German",
+    "French"
+  ],
+  "company": {
+    "name": "Sanofi",
+    "tagline": null,
+    "description": "We are an R&D driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. \n\nWe apply our deep understanding of the immune system to invent medicines and vaccines that treat and protect millions of people around the world, with an innovative pipeline that could benefit millions more. Our team is guided by one purpose: we chase the miracles of science to improve people’s lives; this inspires us to drive progress and deliver positive impact for our people and the communities we serve, by addressing the most urgent healthcare, environmental, and societal challenges of our time. \n\nInteractions with this account must comply with the Terms: https://bit.ly/sanofi-terms",
+    "industry": "Pharmaceutical Manufacturing",
+    "website": "http://www.sanofi.com",
+    "linkedInUrl": "https://www.linkedin.com/company/sanofi",
+    "employeeCount": 92799,
+    "foundedYear": null,
+    "location": "Paris, France",
+    "specialities": [
+      "vaccines",
+      "rare diseases",
+      "rare blood disorders",
+      "neurology",
+      "immunology",
+      "oncology",
+      "diabetes",
+      "cardiovascular diseases",
+      "consumer healthcare"
+    ]
+  }
+}

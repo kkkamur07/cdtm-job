@@ -1,0 +1,163 @@
+{
+  "id": "raoulfriedrich",
+  "name": "Raoul Friedrich",
+  "headline": "All things AI",
+  "avatar": {
+    "sm": "/avatars/raoulfriedrich-sm.webp",
+    "lg": "/avatars/raoulfriedrich.webp",
+    "blur": "data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAADQBgCdASogACAAPtFaokuoJaMhsBgMAQAaCWgAnTNof1PC1b4kQMEIskKQUp0qY8Jx3UXLULPG1DIuaVtPmgAA/vuqBEVesdL13PY0YVLcuJ99hc/8coe3RjP5dbjdQfbmdhU9xpWgyMcEJngFliMThWZjVXZDWEaG9nl+QXg+afJFx/bP5xClEuNXino+d2ogvpX3R0/ClwK+j9k+9EVab45Dy7XCIj1GTbJ3mV5Yd6n+0udAlORkBkaohbhWGIpeXvv6cDr+qJjwB0e3ZDqJASjpzFC46k/eI3S3LI8fnGIqmAStquQbgCt27ytJjGq2MVK94pH3bihfK4ugBuhc73bpdaufSGF2Pb4hd9vBfED+W1kAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/raoulfriedrich",
+  "personId": 895,
+  "classes": [
+    {
+      "id": 74,
+      "label": "Fall 2013",
+      "season": "Fall",
+      "year": 2013,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2013",
+  "major": "Informatics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Raoul Friedrich",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Staff Software Engineer",
+      "company": "HubSpot",
+      "companyUrl": "https://www.linkedin.com/company/hubspot",
+      "description": "AI Infrastructure",
+      "location": null,
+      "start": "2021-11",
+      "end": null,
+      "dateRange": "Nov 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Co-Founder | Product & Engineering",
+      "company": "Building Radar GmbH",
+      "companyUrl": "https://www.linkedin.com/company/buildingradar",
+      "description": "Building Radar makes B2B sales within the construction industry more efficient by spotting the most valuable business opportunities at the earliest possible time.\n\nWith Building Radar, you will be the first to know about new construction projects. To give you the earliest contact with the decision-maker, our unique AI technology will automatically spot relevant, new construction projects for you at the earliest time – and not just when everyone already knows about them.",
+      "location": "Munich, Germany",
+      "start": "2015-05",
+      "end": "2021-10",
+      "dateRange": "May 2015 – Oct 2021",
+      "current": false
+    },
+    {
+      "title": "Co-Founder | Managing Director",
+      "company": "Canoco GmbH",
+      "companyUrl": "https://www.linkedin.com/company/canoco-ug",
+      "description": "Canoco was an IT services company for websites and mobile apps in Germany. Our largest project was the “DB Mitfahrer App” for Deutsche Bahn.",
+      "location": "Munich, Germany",
+      "start": "2014-03",
+      "end": "2015-08",
+      "dateRange": "Mar 2014 – Aug 2015",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "BSc and MSc, Computer Science",
+      "dateRange": "2011 – 2016"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2013 – 2016"
+    },
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Semester Abroad, Computer Science",
+      "dateRange": "2013"
+    }
+  ],
+  "skills": [
+    "Entrepreneurship",
+    "Product Management",
+    "Leadership",
+    "Project Management",
+    "Software Engineering",
+    "Start-ups",
+    "Product Development",
+    "Python",
+    "Recruiting",
+    "Data Structures",
+    "Data Pipelines",
+    "Message Queue",
+    "JavaScript",
+    "Angular",
+    "Elasticsearch",
+    "Docker",
+    "Redis",
+    "Pyramid",
+    "Flask",
+    "Amazon Web Services (AWS)",
+    "Google Cloud Platform (GCP)",
+    "Microsoft Azure",
+    "RabbitMQ",
+    "REST APIs",
+    "Java",
+    "Software Architecture",
+    "Web Crawling",
+    "C#",
+    "Software Development",
+    "Nginx",
+    "Git",
+    "Scrum",
+    "PostgreSQL",
+    "Machine Learning",
+    "Natural Language Processing (NLP)",
+    "Data Mining"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "HubSpot",
+    "tagline": "The agentic customer platform to scale your business.",
+    "description": "HubSpot is a leading agentic customer platform that provides software and support to help businesses grow better. Our platform includes marketing, sales, service, and website management products that start free and scale to meet our customers’ needs at any stage of growth. Today, thousands of customers around the world use our powerful and easy-to-use tools and integrations to attract, engage, and delight customers.\n\nHubSpot's award-winning culture has been recognized by Glassdoor, Great Place to Work, Comparably, Fortune, Entrepreneur, Inc., and more. We build connections, careers, and employee growth by creating a workplace that values flexibility, autonomy, and transparency. You can learn more about our commitment to creating an inclusive and diverse workplace in the HubSpot Culture Code.\n\nHubSpot is a flexible company with employees working fully remotely, from an office, or a mix of the two. We are headquartered in Cambridge, MA with offices in Amsterdam, Berlin, Bogota, Dublin, Ghent, London, Madrid, Paris, San Francisco, Singapore, Sydney, Tokyo and Toronto. \n\nTo learn more about HubSpot, visit www.hubspot.com and to join our team, visit www.hubspot.com/careers",
+    "industry": "Software Development",
+    "website": "https://hubspot.com",
+    "linkedInUrl": "https://www.linkedin.com/company/hubspot",
+    "employeeCount": 12099,
+    "foundedYear": 2006,
+    "location": "Cambridge, United States",
+    "specialities": [
+      "inbound marketing",
+      "marketing",
+      "internet marketing",
+      "online marketing",
+      "web marketing",
+      "software",
+      "blogging",
+      "SEO",
+      "marketing automation",
+      "social media",
+      "email marketing",
+      "analytics",
+      "sales",
+      "inbound sales",
+      "customer support",
+      "customer service",
+      "customer relationship management",
+      "help desk software",
+      "platform",
+      "customer code",
+      "culture code"
+    ]
+  }
+}

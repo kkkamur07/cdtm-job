@@ -1,0 +1,104 @@
+{
+  "id": "stefan-gerbes",
+  "name": "Stefan Gerbes",
+  "headline": "Co-Founder at Nomos",
+  "avatar": {
+    "sm": "/avatars/stefan-gerbes-sm.webp",
+    "lg": "/avatars/stefan-gerbes.webp",
+    "blur": "data:image/webp;base64,UklGRnIBAABXRUJQVlA4IGYBAACwBwCdASogACAAPrVInEunJCKht+gA4BaJaACdM2c8uEB0m1QU9KDa3FMlN8KGJd6AaaYb1xR/LjI78lUwPTuobFms9b6AANMV2nNfX3AD47PzHFnwwJqnje4eXXif/5lBkNt9UboKhy6zCGfOyQOJtT5TyTqPLpWm9Zi3SwLTpZczgINpmgCLzbFwMJ6vvORXyOhGbBkHQ7ed2RfS0uU+8Ih98wpQh1EU5ZkeiSBHIaRKlpWw7n1UWyqXnVDkwbeD+iUvTTiYEonJUOx7hy5w1OW2dnXU9QIxUCxhZ/SADR3WsMkjw0z9oKoyy6YWHkFNh+C5yX91Xlvsob2kjeNsWPHyrkyvdPWs9PEYW+tmkhbNl3+jm0S0DyNnfalPMpVx3pmfp37xdzJwJDbesJ7KNm4niwJiF4+OtfSQYJBfkOwgv6G/KD/8V0KqKsNKrPs1uCG7BvsDdliey9mA/a95DINPlAAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/stefan-gerbes",
+  "personId": 965,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Management & Technology",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Stefan Gerbes",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder & CEO",
+      "company": "Nomos",
+      "companyUrl": "https://www.linkedin.com/company/nomos-energy",
+      "description": null,
+      "location": null,
+      "start": "2024-01",
+      "end": null,
+      "dateRange": "Jan 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Chief Of Staff",
+      "company": "Blair (YC S19)",
+      "companyUrl": "https://www.linkedin.com/company/joinblair",
+      "description": "Tackling the US student debt crisis with Income Share Agreements. Assets acquired in 2022.\nSet up recruiting, finance and legal functions. Opened NYC office. Managed debt fund.",
+      "location": null,
+      "start": "2021-04",
+      "end": "2022-08",
+      "dateRange": "Apr 2021 – Aug 2022",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Master of Philosophy - MPhil, Technology Policy",
+      "dateRange": "2022 – 2023"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Harvard Business School",
+      "degree": "Thesis in Innovation Economics",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Management & Technology",
+      "dateRange": null
+    },
+    {
+      "school": "Gymnasium Schäftlarn",
+      "degree": "Abitur (High School)",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "Deutsch",
+    "Französisch",
+    "Englisch"
+  ],
+  "company": {
+    "name": "Nomos",
+    "tagline": "Because it’s about more than energy.\nIt’s about power.",
+    "description": "Nomos helps leading hardware companies launch their own electricity plans by abstracting all legal and operational complexity into a simple API layer.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://www.nomos.energy/",
+    "linkedInUrl": "https://www.linkedin.com/company/nomos-energy",
+    "employeeCount": 11,
+    "foundedYear": null,
+    "location": null,
+    "specialities": []
+  }
+}

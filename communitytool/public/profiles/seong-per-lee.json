@@ -1,0 +1,201 @@
+{
+  "id": "seong-per-lee",
+  "name": "Seong Per Lee",
+  "headline": "Data & AI, StraitsX",
+  "avatar": null,
+  "location": "Singapore",
+  "linkedInUrl": "https://www.linkedin.com/in/seong-per-lee",
+  "personId": 1719,
+  "classes": [
+    {
+      "id": 100,
+      "label": "Fall 2000",
+      "season": "Fall",
+      "year": 2000,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2000",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Seong Lee",
+  "ca": null,
+  "summary": "Technology and start-ups are my passion and interest. Love to apply technology to new ideas and create the Next Big Thing :)\n\nSpecialties: Public policy, HR policy, venture capital, start-ups, telecoms, infocomm",
+  "positions": [
+    {
+      "title": "Head of Data & AI",
+      "company": "StraitsX",
+      "companyUrl": "https://www.linkedin.com/company/straitsx",
+      "description": null,
+      "location": null,
+      "start": "2024-11",
+      "end": null,
+      "dateRange": "Nov 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Data & AI",
+      "company": "Fazz",
+      "companyUrl": "https://www.linkedin.com/company/fazz-financial",
+      "description": "Fazz is an ecosystem of financial services that comprise Fazz (business account for Southeast Asia), StraitsX (payments infrastructure for digital assets) and Modal Rakyat (mutual cooperation funding for MSMEs). Fazz was founded in 2016 as a result of a merger between PayFazz and Xfers, two Y Combinator alumni based in Southeast Asia. \n\nFazz provides business accounts that offer seamless payment, savings and credit functionalities, under the brand Fazz Agen for Warung and MSMEs in Indonesia and Fazz Business for fast-growing startups and SMEs in Singapore & Indonesia. \n\nFazz’s mission is to make the future of finances accessible for every single business in Southeast Asia, where many MSMEs and the population are still underserved.",
+      "location": "Singapore",
+      "start": "2022-03",
+      "end": null,
+      "dateRange": "Mar 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Data Science Senior Lead",
+      "company": "Tokopedia",
+      "companyUrl": "https://www.linkedin.com/company/pt-tokopedia",
+      "description": null,
+      "location": "Singapore",
+      "start": "2019-09",
+      "end": "2022-03",
+      "dateRange": "Sep 2019 – Mar 2022",
+      "current": false
+    },
+    {
+      "title": "Head of Business Analytics",
+      "company": "Wecash",
+      "companyUrl": null,
+      "description": "Development of reporting and analytics for business performance monitoring. Led Data Science team to develop and maintain machine learning model.",
+      "location": "Southeast Asia",
+      "start": "2018-03",
+      "end": "2019-09",
+      "dateRange": "Mar 2018 – Sep 2019",
+      "current": false
+    },
+    {
+      "title": "Business Manager, Veniam Asia",
+      "company": "Veniam",
+      "companyUrl": "https://www.linkedin.com/company/veniam",
+      "description": null,
+      "location": "Singapore",
+      "start": "2016-03",
+      "end": "2018-03",
+      "dateRange": "Mar 2016 – Mar 2018",
+      "current": false
+    },
+    {
+      "title": "Deputy Director (I&E Programmes)",
+      "company": "Nanyang Technological University, Singapore",
+      "companyUrl": "https://www.linkedin.com/company/ntusg",
+      "description": "Oversee and develop innovation and entrepreneurship programmes. Support COO in operations of NTUitive.",
+      "location": "Nanyang Innovation & Enterprise Office (NIEO)",
+      "start": "2014-01",
+      "end": "2016-02",
+      "dateRange": "Jan 2014 – Feb 2016",
+      "current": false
+    },
+    {
+      "title": "Senior Assistant Director",
+      "company": "Ministry of Communication and Information, Singapore",
+      "companyUrl": null,
+      "description": null,
+      "location": null,
+      "start": "2013-04",
+      "end": "2013-12",
+      "dateRange": "Apr 2013 – Dec 2013",
+      "current": false
+    },
+    {
+      "title": "Manager, Next Generation Services Development",
+      "company": "Infocomm Development Authority of Singapore",
+      "companyUrl": "https://www.linkedin.com/company/govtech-singapore",
+      "description": "Drive adoption of Next Generation Nationwide Broadband Network (Next Gen NBN) amongst enterprises in Singapore, through various workshops as well as various strategic initiatives.",
+      "location": null,
+      "start": "2010-01",
+      "end": "2013-03",
+      "dateRange": "Jan 2010 – Mar 2013",
+      "current": false
+    },
+    {
+      "title": "Assistant Head",
+      "company": "National Research Foundation, Singapore",
+      "companyUrl": "https://www.linkedin.com/company/nrfsg",
+      "description": "National initiatives to develop innovation and entrepreneurship in Singapore, and encourage venture capital investment in Singapore",
+      "location": null,
+      "start": "2007-08",
+      "end": "2010-04",
+      "dateRange": "Aug 2007 – Apr 2010",
+      "current": false
+    },
+    {
+      "title": "Policy Executive",
+      "company": "Mindef",
+      "companyUrl": "https://www.linkedin.com/company/mindefsg",
+      "description": "HR policy executive at Mindef (Singapore). Formulating and reviewing policies relating to the schemes of service to attract and retain personnel for the organisation.",
+      "location": null,
+      "start": "2005-11",
+      "end": "2007-07",
+      "dateRange": "Nov 2005 – Jul 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Dipl-Ing, EEE (specialisation in Communications Engineering)",
+      "dateRange": "1998 – 2003"
+    },
+    {
+      "school": "IP Academy / NUS",
+      "degree": "GCIP, Intellectual Property Law",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Raffles Institution",
+      "degree": "GCE 'A' Levels",
+      "dateRange": "1995 – 1996"
+    }
+  ],
+  "skills": [
+    "C/C++",
+    "C#",
+    "Government Affairs",
+    "Linux",
+    "Start-ups",
+    "Public Policy",
+    "Venture Capital",
+    "Strategic Partnerships",
+    "Government",
+    "Entrepreneurship",
+    "Leadership",
+    "Strategy",
+    "Business Strategy",
+    "Program Management",
+    "Enterprise Software",
+    "Mergers & Acquisitions",
+    "Mobile Applications",
+    "Business Development",
+    "Management",
+    "Mobile Devices"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": {
+    "name": "StraitsX",
+    "tagline": "Stablecoin rails for real-world payments",
+    "description": "StraitsX is a leading digital payment infrastructure provider and a Major Payment Institution licensed by the Monetary Authority of Singapore. As the issuer of XUSD and XSGD stablecoins, StraitsX leverages the power of blockchain and stablecoin technology to drive payments interoperability and financial inclusion while offering innovative tools for fund management, stablecoin integration, and cross-border transactions. Partnering with global institutions, businesses, and developers, StraitsX delivers cutting-edge payment solutions in a highly regulated and reliable environment, bridging the gap between traditional finance and the digital economy.\n\nFor more information, please visit straitsx.com.",
+    "industry": "Financial Services",
+    "website": "https://straitsx.com",
+    "linkedInUrl": "https://www.linkedin.com/company/straitsx",
+    "employeeCount": 193,
+    "foundedYear": null,
+    "location": "Singapore, Singapore",
+    "specialities": [
+      "stablecoins",
+      "payments"
+    ]
+  }
+}

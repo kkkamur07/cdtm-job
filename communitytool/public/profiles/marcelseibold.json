@@ -1,0 +1,269 @@
+{
+  "id": "marcelseibold",
+  "name": "Marcel Seibold",
+  "headline": "CPO at Demodesk",
+  "avatar": {
+    "sm": "/avatars/marcelseibold-sm.webp",
+    "lg": "/avatars/marcelseibold.webp",
+    "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAABQBgCdASogACAAPs1Yo0unpSMhsBgMAPAZiWQAUwZID1AbYAGhWtZSq51z6GB4HauzKBTj7N07dG6KAAD+/jAZUn/vR29OTCHh+zn2XZ9TAquGm4S2Y7c3o0P3Bue3l7akKN2+X7jP+0KlAbnqBTpXncgmyn2EPxvT6SR0Gx0YtxmU0CFnlCtHvpX80sHe2AyGEaaL5v8n4cpNmADnAb0o+MZAYJNjjHuXRRWm/Ip1d5z5ljBkxmnQdacZvlo5oRUh6VY1ZjkDxJMu/NEf4w54DqdFHEMmOjo3RRzpVlxElQSEeeAAAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/marcelseibold",
+  "personId": 1098,
+  "classes": [
+    {
+      "id": 82,
+      "label": "Fall 2017",
+      "season": "Fall",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2017",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Marcel Seibold",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Chief Product Officer",
+      "company": "Demodesk",
+      "companyUrl": "https://www.linkedin.com/company/demodesk",
+      "description": null,
+      "location": "On-site",
+      "start": "2023-01",
+      "end": null,
+      "dateRange": "Jan 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Product",
+      "company": "Demodesk",
+      "companyUrl": "https://www.linkedin.com/company/demodesk",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-03",
+      "end": "2023-05",
+      "dateRange": "Mar 2020 – May 2023",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "minerics",
+      "companyUrl": "https://www.linkedin.com/company/minerics",
+      "description": "Stuttgart Region",
+      "location": null,
+      "start": "2018-04",
+      "end": "2020-03",
+      "dateRange": "Apr 2018 – Mar 2020",
+      "current": false
+    },
+    {
+      "title": "Junior Sales Representative",
+      "company": "Celonis",
+      "companyUrl": "https://www.linkedin.com/company/celonis",
+      "description": "Master the digital transformation with Celonis Process Mining. Get full transparency in your processes and identify inefficiencies, bottlenecks and loops in real-time. Change your business for faster processes, more efficiency and happier customers. Use Celonis Process Mining. Master the digital change. Beat your competition.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2017-02",
+      "end": "2018-02",
+      "dateRange": "Feb 2017 – Feb 2018",
+      "current": false
+    },
+    {
+      "title": "Working Student HR Solutions Sales",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2015-10",
+      "end": "2017-02",
+      "dateRange": "Oct 2015 – Feb 2017",
+      "current": false
+    },
+    {
+      "title": "Co-Founder",
+      "company": "BES interactive",
+      "companyUrl": null,
+      "description": "Creating interactive digital showcases with leading edge technologies. Responsible for product development, sales and marketing.",
+      "location": null,
+      "start": "2015-09",
+      "end": "2017-12",
+      "dateRange": "Sep 2015 – Dec 2017",
+      "current": false
+    },
+    {
+      "title": "Internet of Things Developer",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "Planning and implementing an Internet of Things project.Securing funding and controlling the financial budget. Acquisition and management of project team. Administration of purchasing process. Responsible for success of project. Implementation of performance measurement analysis.",
+      "location": "Ehningen, Germany",
+      "start": "2015-02",
+      "end": "2015-05",
+      "dateRange": "Feb 2015 – May 2015",
+      "current": false
+    },
+    {
+      "title": "Junior HCM Consultant",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "Responsible for Sales and Consulting activities. Planning, coordination and implementation of various sales activities. Successful acquisition of clients and consulting on HCM Talent Management Software. Experienced with presenting in front of the senior management of clients and actively participating in client discussions.",
+      "location": "Ehningen, Germany",
+      "start": "2014-05",
+      "end": "2014-11",
+      "dateRange": "May 2014 – Nov 2014",
+      "current": false
+    },
+    {
+      "title": "Assistant to Global Sales Director",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "Assistant to Global Client Director. \nResponsible for support of sales activities, evaluation of communication structures and management of Social Media plattforms.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2013-06",
+      "end": "2013-08",
+      "dateRange": "Jun 2013 – Aug 2013",
+      "current": false
+    },
+    {
+      "title": "Junior Transition & Service Consultant",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "description": "Assistant to Service Delivery Manager for Peoplesoft HRMS. \nLarge international AMS deal within automotive sector. \nGlobal delivery from India (GD>90%).",
+      "location": "Stuttgart Region",
+      "start": "2013-01",
+      "end": "2013-03",
+      "dateRange": "Jan 2013 – Mar 2013",
+      "current": false
+    },
+    {
+      "title": "Intern at Financial Audit Services",
+      "company": "KPMG Deutschland",
+      "companyUrl": "https://www.linkedin.com/company/kpmg-deutschland",
+      "description": "Stuttgart Region",
+      "location": null,
+      "start": "2012-03",
+      "end": "2012-05",
+      "dateRange": "Mar 2012 – May 2012",
+      "current": false
+    },
+    {
+      "title": "Copywriter",
+      "company": "Unique Network",
+      "companyUrl": "https://www.linkedin.com/company/unique-board",
+      "description": "Creation of content for customers from different industries aligned to their specific requirements - client-focused and SEO-friendly.",
+      "location": "Stuttgart Region",
+      "start": "2010-03",
+      "end": "2012-06",
+      "dateRange": "Mar 2010 – Jun 2012",
+      "current": false
+    },
+    {
+      "title": "Webdesigner",
+      "company": "Freelancer",
+      "companyUrl": null,
+      "description": "Brand Developement: Web traffic growth, SEO, Social Media Marketing, Rebranding.\nImplementation: Web Engineering, Visual Design.  \nClient Management: Sales, After-Sales, Client Relationship Management.",
+      "location": "Stuttgart Region",
+      "start": "2008-02",
+      "end": "2012-10",
+      "dateRange": "Feb 2008 – Oct 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master’s Degree, Information Systems",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Computer/Information Technology Administration and Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Semester abroad, Computer Science",
+      "dateRange": "2016"
+    },
+    {
+      "school": "Baden-Wuerttemberg Cooperative State University (DHBW)",
+      "degree": "Bachelor of Science (B.Sc.), International Management for Business & Information Technology",
+      "dateRange": "2012 – 2015"
+    },
+    {
+      "school": "National University",
+      "degree": "Semester abroad, Management Information Systems, General",
+      "dateRange": "2014"
+    }
+  ],
+  "skills": [
+    "Consulting",
+    "Project Management",
+    "Microsoft Office",
+    "Unternehmensführung",
+    "Presentations",
+    "Social Media",
+    "Sales",
+    "Social Collaboration",
+    "Management",
+    "Cloud-Computing",
+    "Agile Methodologies",
+    "IT Strategy",
+    "Information Technology",
+    "Graphic Design",
+    "Sales Enablement",
+    "Online Marketing",
+    "Database",
+    "Projektmanagement",
+    "Marketingstrategie",
+    "Web Analytics",
+    "SaaS",
+    "Business-Intelligence",
+    "Internet of Things",
+    "Business Analysis",
+    "Solution Selling",
+    "Strategy",
+    "Cloud Computing",
+    "Customer Relationship Management (CRM)"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "Demodesk",
+    "tagline": "🚀 AI Sales Agents that analyze conversations, fill CRM, coach reps on autopilot, and provide GTM insights",
+    "description": "🚀 AI Sales Agents That Help Teams Sell Smarter, Faster\n\nSales teams are overwhelmed with admin work, scattered insights, and inconsistent coaching. Reps spend hours updating CRMs, writing follow-ups, and tracking deals—slowing down pipeline velocity and costing businesses millions in lost revenue.\n\nAt Demodesk, we’re changing that.\n\nOur AI Sales Agents work alongside your team to automate execution, improve decision-making, and help every rep perform at their best.\n\n💡 What Demodesk Does:\n✅ AI Sales Assistant – Automates CRM updates, drafts follow-ups, and tracks deal progress\n✅ AI Sales Analyst – Surfaces deal risks, forecasts pipeline trends, and delivers real-time insights\n✅ AI Sales Coach – Analyzes sales conversations, provides instant coaching, and helps reps improve call by call\n\n🚀 The result? More deals closed, stronger execution, and better coaching—without the manual work.\n\n🔹 Used by fast-growing B2B sales teams, consulting firms, and industrial sales organizations\n🔹 Integrated with Salesforce, HubSpot, Pipedrive and major CRMs\n🔹 Works out of the box—no complex setup needed\n\n💡 Scale your sales team’s efficiency with AI Sales Agents.\n👉 Try for Free or Book a Demo at www.demodesk.com\n\nDemodesk is a proud YC company.",
+    "industry": "Software Development",
+    "website": "https://demodesk.com",
+    "linkedInUrl": "https://www.linkedin.com/company/demodesk",
+    "employeeCount": 20,
+    "foundedYear": 2018,
+    "location": "Munich, Germany",
+    "specialities": [
+      "SaaS",
+      "software demos",
+      "software sales",
+      "sales analytics",
+      "remote sales",
+      "sales intelligence",
+      "conversation analytics",
+      "sales enablement",
+      "AI Meeting Assistant",
+      "AI Sales Coach",
+      "Call Analytics",
+      "Sales Performance",
+      "sales meetings",
+      "AI Agents"
+    ]
+  }
+}

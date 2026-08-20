@@ -1,0 +1,209 @@
+{
+  "id": "maxmynter",
+  "name": "Max Raphael Mynter",
+  "headline": "Research Code Janitor",
+  "avatar": {
+    "sm": "/avatars/maxmynter-sm.webp",
+    "lg": "/avatars/maxmynter.webp",
+    "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAADQBQCdASogACAAPtFao0uoJaMhsAgBABoJZQDI1Yv2tXcwDTuHarM7B+gMObPDXbbbq+AjFJHAAP79e0DfwZJaZh95uKKFyBKccEN+XcofFsRl5lmVs//2H6rv26aMO2CTV8YOuuQSsvbahOm+O6i3SXNRZcSzNchLfJKC9jtyEITCkRl2c5F5WwRbRH7s12ZyTUwmW88ELVt9uERpelITwF2sr5WkVJ/Y6NKU7lBpqwfd8pKhuImVXxoRchVkRMTg/e/23KFA+NfisMpqtZ6crYzpZKD+1LeM/ilcfzMAAA=="
+  },
+  "location": "France",
+  "linkedInUrl": "https://www.linkedin.com/in/maxmynter",
+  "personId": 1105,
+  "classes": [
+    {
+      "id": 85,
+      "label": "Spring 2019",
+      "season": "Spring",
+      "year": 2019,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2019",
+  "major": "Physics",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "variant",
+  "needsReview": false,
+  "rosterName": "Max Mynter",
+  "ca": null,
+  "summary": "Professional side-questing from social sciences to physics, math, scientific computing, ML, MLOps and recently distributed systems and systems programming -- Python, JavaScript, Rust.",
+  "positions": [
+    {
+      "title": "Research Engineer",
+      "company": "Mistral AI",
+      "companyUrl": "https://www.linkedin.com/company/mistralai",
+      "description": null,
+      "location": "Paris, Île-de-France, France",
+      "start": "2025-09",
+      "end": null,
+      "dateRange": "Sep 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Recurser",
+      "company": "Recurse Center",
+      "companyUrl": "https://www.linkedin.com/company/recurse-center",
+      "description": "A reckless burn through my savings spending time in NY with loveley nerds, learning Rust, pretending I had a job at Astral by making 20+ contributions to Ruff and UV and writing an Information Theory paper. Generally lots and lots of glorious programming",
+      "location": "New York, United States",
+      "start": "2025-02",
+      "end": "2025-05",
+      "dateRange": "Feb 2025 – May 2025",
+      "current": false
+    },
+    {
+      "title": "Software Engineer (MLOps)",
+      "company": "appliedAI Institute for Europe gGmbH",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-institute-for-europe-ggmbh",
+      "description": "MLOps developer tools, partly open source, infrastructure management, sometimes talks at PyData.\n\nOh, and I wrote a whitepaper on  \"Scaling Enterprise ML\".",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-10",
+      "end": "2024-12",
+      "dateRange": "Oct 2022 – Dec 2024",
+      "current": false
+    },
+    {
+      "title": "Data Science",
+      "company": "Entrix",
+      "companyUrl": "https://www.linkedin.com/company/entrixenergy",
+      "description": "Development of statistical models for electrical grid load prediction. Led the successful application for energy trading security clearance by German authorities. Postgrad Intern.",
+      "location": "Munich",
+      "start": "2022-02",
+      "end": "2022-08",
+      "dateRange": "Feb 2022 – Aug 2022",
+      "current": false
+    },
+    {
+      "title": "Quantitative Investment Analyst, Risk Management",
+      "company": "Allianz Global Investors",
+      "companyUrl": "https://www.linkedin.com/company/allianz-global-investors",
+      "description": "Built python packages for Random Matrix Theory based denoising methods and synthetic stock time series generation with Reservoir Computing. Part time working student.",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2021-01",
+      "end": "2021-08",
+      "dateRange": "Jan 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Development and  Dev-Ops Engineer,  (Intern & Working Student)",
+      "company": "Cliniserve",
+      "companyUrl": "https://www.linkedin.com/company/cliniserve",
+      "description": "Mostly, frontend web dev with React and React Native. Some MongoDB. Added Cypress/Detox e2e tests into CI.",
+      "location": null,
+      "start": "2019-10",
+      "end": "2021-01",
+      "dateRange": "Oct 2019 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Visiting Researcher",
+      "company": "CERN",
+      "companyUrl": "https://www.linkedin.com/company/cern",
+      "description": "Moving detectors without breaking them, soldering, and interpreted C++.",
+      "location": "Genf und Umgebung, Schweiz",
+      "start": "2018-03",
+      "end": "2019-03",
+      "dateRange": "Mar 2018 – Mar 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MSc, Physics",
+      "dateRange": "2018 – 2021"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar, Computer Science and Information Science, School of Information",
+      "dateRange": "2021"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BSc, Physics",
+      "dateRange": "2015 – 2018"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honours Degree, Technology and Management",
+      "dateRange": "2019 – 2022"
+    },
+    {
+      "school": "Nanyang Technological University Singapore",
+      "degree": "Exchange Student",
+      "dateRange": "2017"
+    },
+    {
+      "school": "Leibniz Universität Hannover",
+      "degree": "Bachelor of Arts - BA, Social Sciences, Minor in  Business Administration",
+      "dateRange": "2013 – 2016"
+    }
+  ],
+  "skills": [
+    "Wissenschaftliches Schreiben",
+    "Wissenschaftliche Programmierung",
+    "Open Source Software",
+    "Rust (Programmiersprache)",
+    "Softwareentwicklung",
+    "Machine Learning",
+    "Python (Programmiersprache)",
+    "SQL",
+    "Kubernetes",
+    "Google Kubernetes Engine (GKE)",
+    "Agile Softwareentwicklung",
+    "MLOps",
+    "Künstliche Intelligenz (KI)",
+    "Python",
+    "TypeScript",
+    "Cascading Style Sheets (CSS)",
+    "React Native",
+    "Docker-Produkte",
+    "Natural Language Processing (NLP)",
+    "Data Science",
+    "MongoDB",
+    "Node.js",
+    "Teamwork",
+    "Datenanalyse",
+    "Project Management",
+    "Public Speaking",
+    "Physics",
+    "Sociology",
+    "Research",
+    "Agile Project Management",
+    "Microsoft Office",
+    "LaTeX",
+    "C++",
+    "Design Thinking",
+    "MaxQDA",
+    "User Centric Design",
+    "Statistik",
+    "React.js",
+    "JavaScript",
+    "Git",
+    "Maschinelles Lernen",
+    "Statistische Datenanalyse",
+    "Mathematik",
+    "Jupyter"
+  ],
+  "languages": [
+    "Deutsch",
+    "Englisch",
+    "Französisch"
+  ],
+  "company": {
+    "name": "Mistral AI",
+    "tagline": "Frontier AI. In Your Hands.",
+    "description": "Frontier AI. In your hands. \n\nWe believe in a future where AI is abundant and accessible. We aspire to empower the world to build with—and benefit from—the most significant technology of our time.\n\nJoin us: https://jobs.lever.co/mistral/",
+    "industry": "Technology, Information and Internet",
+    "website": "https://mistral.ai",
+    "linkedInUrl": "https://www.linkedin.com/company/mistral-ai",
+    "employeeCount": 1031,
+    "foundedYear": 2023,
+    "location": "Paris, France",
+    "specialities": []
+  }
+}

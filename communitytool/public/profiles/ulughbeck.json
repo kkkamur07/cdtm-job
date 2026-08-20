@@ -1,0 +1,195 @@
+{
+  "id": "ulughbeck",
+  "name": "Ulugbek Isroilov",
+  "headline": "Product Builder",
+  "avatar": {
+    "sm": "/avatars/ulughbeck-sm.webp",
+    "lg": "/avatars/ulughbeck.webp",
+    "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAADQBQCdASogACAAPtFapk4oJSOiKAqpABoJYgDDNywTnCT9816CiS/u8GLWePopevT8UQPtHsBAAP76GhqwABaonTOfgfjZRd8x+frR7pUKFPysTX9QvCLHsXGoR1+EFJWUPBJ6XzAK3ctoMhQRwyg5ohak+DB9p5xohZut8ValX4CstdRx8lHEAe1zTlDnsa5XfVV5aeSDPU/kzUbnbmJXbZDl/6Os5LooU6vDi39XytYVjw47SrjolOOlpW9CwdPSf/+e4VSObOUb9Jxaa/bnvc4zc65jfpLrEW9SDFKYIgf2hZJQC7m2NwbqnHGEuzYt/Vf7nFKuoAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/ulughbeck",
+  "personId": 937,
+  "classes": [
+    {
+      "id": 94,
+      "label": "Fall 2023",
+      "season": "Fall",
+      "year": 2023,
+      "location": 1
+    }
+  ],
+  "classLabel": "Fall 2023",
+  "major": "Management and Digital Technologies",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Ulugbek Isroilov",
+  "ca": null,
+  "summary": "Passionate Explorer. Technology Enthusiast. Software Engineer.",
+  "positions": [
+    {
+      "title": "Product Engineer",
+      "company": "freelancing / consulting / building / tinkering",
+      "companyUrl": null,
+      "description": "helping companies to build amazing digital experiences.\nAI, Agents, Mobile, Flutter",
+      "location": null,
+      "start": "2023-02",
+      "end": null,
+      "dateRange": "Feb 2023 – Present",
+      "current": true
+    },
+    {
+      "title": "Technical Product Manager",
+      "company": "YEARS",
+      "companyUrl": "https://www.linkedin.com/company/years-group",
+      "description": "- managed design, development, and optimization of company websites and landing pages, driving a 175% increase in conversion rates through iterative A/B testing and data-driven improvements\n- developed an automated report generation pipeline, successfully integrated tools for booking and tracking\n- developed an AI “nurse” agent using LLM finetuning to interpret lab results for patients and enhance patient communication, reducing avoidable follow-up appointments after researching healthcare workflows through 14 interviews and data analysis to identify critical areas for AI-driven administrative improvements",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-10",
+      "end": "2024-11",
+      "dateRange": "Oct 2023 – Nov 2024",
+      "current": false
+    },
+    {
+      "title": "Founding Engineer",
+      "company": "Angle Audio",
+      "companyUrl": "https://www.linkedin.com/company/angleaudio",
+      "description": "- developed and launched social audio app MVP for group conversations \n- shipped and tested new features and implemented iterative changes, based on user feedback and app usage analytics (reached ≈1500 MAU)",
+      "location": "Zurich, Switzerland",
+      "start": "2021-03",
+      "end": "2021-08",
+      "dateRange": "Mar 2021 – Aug 2021",
+      "current": false
+    },
+    {
+      "title": "Head of Mobile",
+      "company": "ViaBill",
+      "companyUrl": "https://www.linkedin.com/company/viabill",
+      "description": "- led cross-functional team and actively collaborated with other departments\n- developed and launched from scratch Android and iOS mobile app for Denmark and US markets (reached ≈25 000 MAU)\n- managed and executed third-party integration projects (Apple Pay, Google Pay, Firebase, Localizely, Onfido and others)",
+      "location": "Copenhagen, Denmark",
+      "start": "2020-11",
+      "end": "2022-09",
+      "dateRange": "Nov 2020 – Sep 2022",
+      "current": false
+    },
+    {
+      "title": "Flutter Team Lead",
+      "company": "Kash App",
+      "companyUrl": "https://www.linkedin.com/company/kash-app",
+      "description": "- recruited and led mobile application development team of 4\n- designed, built and shipped 3 cross-platform mobile applications (fintech, e-commerce, e-government)\n- interviewed customers and studied market trends to understand their needs and converted them to actionable engineering-facing user stories; prioritized user stories and requirements",
+      "location": "Tashkent, Uzbekistan",
+      "start": "2019-10",
+      "end": "2020-10",
+      "dateRange": "Oct 2019 – Oct 2020",
+      "current": false
+    },
+    {
+      "title": "Flutter Engineer",
+      "company": "Kash App",
+      "companyUrl": "https://www.linkedin.com/company/kash-app",
+      "description": "- developed e-commerce cross-platform mobile application",
+      "location": "Tashkent, Uzbekistan",
+      "start": "2019-07",
+      "end": "2019-10",
+      "dateRange": "Jul 2019 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Mobile / Flutter Developer",
+      "company": "D:CODE",
+      "companyUrl": "https://www.linkedin.com/company/dcodeteam",
+      "description": "- analyzed, designed, and implemented functional and non-functional requirements\n- designed, developed and launched cross platform mobile applications",
+      "location": "Tashkent, Uzbekistan",
+      "start": "2019-02",
+      "end": "2019-08",
+      "dateRange": "Feb 2019 – Aug 2019",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": null,
+      "companyUrl": null,
+      "description": "- communicated with project stakeholders\n- gathered and analyzed functional and non-functional requirements\n- developed complex IT solutions, particularly web applications and chat-bots for Telegram",
+      "location": null,
+      "start": "2017-11",
+      "end": "2018-06",
+      "dateRange": "Nov 2017 – Jun 2018",
+      "current": false
+    },
+    {
+      "title": "Intern Information Technology Department",
+      "company": "\"Uzbek Industrial and Construction Bank\"​ JSCB",
+      "companyUrl": "https://www.linkedin.com/company/sqbuz",
+      "description": "- developed and maintained local networks in ways that optimize performance\n- ensured security and privacy of networks and computer systems\n- assisted personnel with installation, configuration and ongoing usability of system hardware and software",
+      "location": "Tashkent, Uzbekistan",
+      "start": "2016-05",
+      "end": "2016-07",
+      "dateRange": "May 2016 – Jul 2016",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2023"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science - MS, Management and Digital Technologies",
+      "dateRange": "2022 – 2024"
+    },
+    {
+      "school": "Hochschule München University of Applied Sciences",
+      "degree": "Master of Arts - MA, Entrepreneurship and Digital Transformation",
+      "dateRange": "2021 – 2023"
+    },
+    {
+      "school": "Westminster International University in Tashkent",
+      "degree": "Bachelor of Science - BS, Business Information Systems",
+      "dateRange": "2016 – 2019"
+    },
+    {
+      "school": "Westminster International University in Tashkent",
+      "degree": "CIFS, Certificate of International Foundation Studies",
+      "dateRange": "2015 – 2016"
+    },
+    {
+      "school": "Academic Lyceum under Westminster International University in Tashkent",
+      "degree": "High School Diploma, Exact Sciences",
+      "dateRange": "2013 – 2016"
+    }
+  ],
+  "skills": [
+    "Product Management",
+    "Product Development",
+    "Software Development",
+    "Mobile Application Development",
+    "User Experience (UX)",
+    "Entrepreneurship",
+    "Strategy",
+    "Programming",
+    "Software Architecture",
+    "Systems Analysis",
+    "Systems Design",
+    "Project Management",
+    "Strategic Planning",
+    "Public Speaking",
+    "Leadership",
+    "Team Management",
+    "Research",
+    "Data Analysis",
+    "Problem Solving",
+    "Integration Testing"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "company": null
+}

@@ -1,0 +1,162 @@
+{
+  "id": "flomllr",
+  "name": "Florian Müller",
+  "headline": "Co-Founder, CTO at Lattice | CDTM | TUM",
+  "avatar": {
+    "sm": "/avatars/flomllr-sm.webp",
+    "lg": "/avatars/flomllr.webp",
+    "blur": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAABwBQCdASogACAAPtFWpU2oJCMiMBgIAQAaCWUAxvWLurVsaIQQt8IDSL75R1t92uulhejsAP77pSMX9EB+m6GSyRIeHsUFXEaW2778/IHtxkwiFozFJVLtuP875OLEMkaUJLLrwQBLXZkd0Q0A34JNWoadm0480+gG+Ga+bx+vM/UQv/Kye/Gu/ZfkM3UC/19sywHt6fLolNN/Fnke7mO8PIbG1AvmgPxVaFKYJiNaAAAA"
+  },
+  "location": "Berlin, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/flomllr",
+  "personId": 1062,
+  "classes": [
+    {
+      "id": 89,
+      "label": "Spring 2021",
+      "season": "Spring",
+      "year": 2021,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2021",
+  "major": "Computer Science",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Florian Müller",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Co-Founder, CTO",
+      "company": "Lattice Labs",
+      "companyUrl": "https://www.linkedin.com/company/latticexyz",
+      "description": "Lattice is building tools and infrastructure to make building complex, large-scale blockchain applications, such as games, virtual worlds, and social apps much, much easier.\n\nWe aim to take blockchain applications beyond finance and speculation. As our first market, we’re targeting fully on-chain games and autonomous virtual worlds, some of the most networking-intensive and complex applications that currently exist on the internet.\n\nSpecifically, we’re building MUD (https://mud.dev), our open-source framework for building large-scale blockchain applications, and our upcoming infrastructure-as-a-service designed specifically for MUD applications\n\nLattice also houses an in-house game studio designing and creating MUD-based autonomous virtual worlds, both as consumer-facing products and to push the boundaries of our technology.",
+      "location": null,
+      "start": "2021-05",
+      "end": null,
+      "dateRange": "May 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Web Developer Intern",
+      "company": "Shopify",
+      "companyUrl": "https://www.linkedin.com/company/shopify",
+      "description": "Implemented client-side logic of the new Online Store Editor, enabling over 1 million merchants to customize their online store using drag-and-drop.\n\nArchitectured error handling foundation, allowing common client-side errors to be handled automatically without user impact.",
+      "location": "Ottawa, Ontario, Canada",
+      "start": "2020-05",
+      "end": "2020-12",
+      "dateRange": "May 2020 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Full Stack Engineer",
+      "company": "Accenture",
+      "companyUrl": "https://www.linkedin.com/company/accenture",
+      "description": "Implemented UI components, client-side logic and REST API for multiple web and mobile apps.\n\nBuilt Angular unit testing foundation, increasing the test coverage from 0% to 75%.",
+      "location": "Garching b. München",
+      "start": "2019-04",
+      "end": "2019-10",
+      "dateRange": "Apr 2019 – Oct 2019",
+      "current": false
+    },
+    {
+      "title": "Founder",
+      "company": "Clearcall.app",
+      "companyUrl": "https://www.linkedin.com/company/clearcallapp",
+      "description": "Created a phone-based customer support solution for e-commerce companies, allowing them to replace their voicemail with an interactive voice assistant.\n\nDesigned, architectured and implemented UI and full client-side logic of the product, which is now used in production by eonon.com to handle more than 1000 customer calls per month.\n\nWon the Pioneer tournament and joined the Pioneer accelerator program.",
+      "location": "Edinburgh, Großbritannien",
+      "start": "2019-03",
+      "end": "2020-05",
+      "dateRange": "Mar 2019 – May 2020",
+      "current": false
+    },
+    {
+      "title": "Web Developer",
+      "company": "appliedAI Initiative - UnternehmerTUM",
+      "companyUrl": "https://www.linkedin.com/company/appliedai-initiative",
+      "description": null,
+      "location": "Garching bei München, Bavaria, Germany",
+      "start": "2018-03",
+      "end": "2018-07",
+      "dateRange": "Mar 2018 – Jul 2018",
+      "current": false
+    },
+    {
+      "title": "Web Development Lead",
+      "company": "Academy Consult München e.V.",
+      "companyUrl": "https://www.linkedin.com/company/academy-consult",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-04",
+      "end": "2019-10",
+      "dateRange": "Apr 2017 – Oct 2019",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2021 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science - MS, Informatics",
+      "dateRange": "2020 – 2022"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Bachelor of Science - BS, Informatics",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "Nanyang Technological University Singapore",
+      "degree": "Exchange Semester, Bachelor of Science - BS, Computer Science",
+      "dateRange": "2018"
+    },
+    {
+      "school": "Otto-Hahn-Gymnasium Ostfildern",
+      "degree": "Abitur",
+      "dateRange": "2007 – 2015"
+    }
+  ],
+  "skills": [
+    "Node.js",
+    "CSS 3",
+    "HTML5",
+    "JavaScript",
+    "Python",
+    "Java",
+    "React.js",
+    "React Native",
+    "Angular",
+    "TypeScript",
+    "Firebase",
+    "PyTorch",
+    "NumPy",
+    "Matlab",
+    "Express.js",
+    "Solidity",
+    "web3"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Lattice",
+    "tagline": "Empowering autonomous worlds",
+    "description": "Lattice is building tools and infrastructure to make building ambitious, large-scale blockchain applications possible. Our goal is to take blockchain applications beyond just finance and speculation, to encompass playful use-cases such as games, virtual worlds, social apps, and P2P consumer apps. We want to transition Ethereum from a financial computer to its original ambition as the World Computer.\n\nSpecifically, we’re building MUD (https://mud.dev), an open-source framework for building large-scale blockchain applications, and are developing infrastructure products designed for MUD applications.\n\nLattice also houses an in-house game studio designing and creating MUD-based games and apps, both as consumer-facing products and to push the boundaries of our technology.",
+    "industry": "Technology, Information and Internet",
+    "website": "https://lattice.xyz",
+    "linkedInUrl": "https://www.linkedin.com/company/latticexyz",
+    "employeeCount": 4,
+    "foundedYear": 2022,
+    "location": "London, United Kingdom",
+    "specialities": []
+  }
+}

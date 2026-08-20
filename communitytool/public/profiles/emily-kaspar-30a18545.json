@@ -1,0 +1,160 @@
+{
+  "id": "emily-kaspar-30a18545",
+  "name": "Emily Kaspar",
+  "headline": "Director of Brand Marketing & Clienteling bei mytheresa.com",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/emily-kaspar-30a18545",
+  "personId": 1476,
+  "classes": [
+    {
+      "id": 59,
+      "label": "Spring 2006",
+      "season": "Spring",
+      "year": 2006,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2006",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Emily Kaspar",
+  "ca": null,
+  "summary": null,
+  "positions": [
+    {
+      "title": "Director of Brand Marketing & Clienteling",
+      "company": "mytheresa.com",
+      "companyUrl": "https://www.linkedin.com/company/mytheresa-com",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-07",
+      "end": null,
+      "dateRange": "Jul 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Brand Marketing and Clienteling",
+      "company": "mytheresa.com",
+      "companyUrl": "https://www.linkedin.com/company/mytheresa-com",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2022-01",
+      "end": "2022-06",
+      "dateRange": "Jan 2022 – Jun 2022",
+      "current": false
+    },
+    {
+      "title": "Team Lead Brand Marketing & Clienteling",
+      "company": "mytheresa.com",
+      "companyUrl": "https://www.linkedin.com/company/mytheresa-com",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "start": "2018-10",
+      "end": "2021-12",
+      "dateRange": "Oct 2018 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Senior Online Marketing Manager Apparel at Amazon Fashion EU",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2018-04",
+      "end": "2018-10",
+      "dateRange": "Apr 2018 – Oct 2018",
+      "current": false
+    },
+    {
+      "title": "Manager Online Marketing & Site Merchandising Apparel at Amazon Fashion EU",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2015-07",
+      "end": "2018-04",
+      "dateRange": "Jul 2015 – Apr 2018",
+      "current": false
+    },
+    {
+      "title": "Site Merchandiser Home Living at Amazon DE",
+      "company": "Amazon",
+      "companyUrl": "https://www.linkedin.com/company/amazon",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "start": "2013-02",
+      "end": "2015-07",
+      "dateRange": "Feb 2013 – Jul 2015",
+      "current": false
+    },
+    {
+      "title": "Senior Product Manager at Groupon / Rocket Internet SE",
+      "company": "Groupon",
+      "companyUrl": "https://www.linkedin.com/company/groupon",
+      "description": null,
+      "location": "Berlin und Umgebung, Deutschland",
+      "start": "2010-09",
+      "end": "2012-12",
+      "dateRange": "Sep 2010 – Dec 2012",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": null,
+      "dateRange": null
+    },
+    {
+      "school": "Columbia Business School",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "E-Commerce",
+    "Business Strategy",
+    "Online Marketing",
+    "Marketingstrategie",
+    "Start-ups",
+    "Produktmanagement",
+    "Projektmanagement",
+    "Digitales Marketing",
+    "Management",
+    "Digital Merchandising"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Mytheresa",
+    "tagline": "At Mytheresa, technology meets luxury in a space that celebrates both creativity and digital advancement.",
+    "description": "Mytheresa is a leading luxury multi-brand digital platform. Founded as a boutique in 1987, Mytheresa launched online in 2006 and offers ready-to-wear, shoes, bags and accessories for womenswear, menswear, kidswear as well as lifestyle products and fine jewelry. The highly curated edit of up to 250 brands focuses on true luxury brands such as Bottega Veneta, Brunello Cucinelli, Dolce&Gabbana, Gucci, Loewe, Loro Piana, Moncler, Prada, Saint Laurent, The Row, Valentino, and many more. Mytheresa’s unique digital experience is based on a sharp focus on high-end luxury shoppers, exclusive product and content offerings, leading technology and analytical platforms as well as high quality service operations. Mytheresa is part of LuxExperience, the leading digital, multi-brand luxury group and reported €988.5 million GMV in fiscal year 2025.",
+    "industry": "Retail Luxury Goods and Jewelry",
+    "website": "https://www.mytheresa.com",
+    "linkedInUrl": "https://www.linkedin.com/company/mytheresa-com",
+    "employeeCount": 1237,
+    "foundedYear": null,
+    "location": "Aschheim / Munich, Germany",
+    "specialities": [
+      "luxury",
+      "luxury e-commerce",
+      "luxury fashion",
+      "digital luxury shopping",
+      "online boutique",
+      "international",
+      "technology"
+    ]
+  }
+}

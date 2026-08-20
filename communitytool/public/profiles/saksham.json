@@ -1,0 +1,337 @@
+{
+  "id": "saksham",
+  "name": "Saksham Gautam",
+  "headline": "IT Consultant, Cloud Architect, Mentor, Delivery Coach and a Manager at Netlight",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/saksham",
+  "personId": 1446,
+  "classes": [
+    {
+      "id": 71,
+      "label": "Spring 2012",
+      "season": "Spring",
+      "year": 2012,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2012",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Saksham Gautam",
+  "ca": null,
+  "summary": "Cloud architect and data science enthusiast experienced in application development with Python, Java and .NET, especially interested in automation, machine learning and building micro services in the cloud.  Keen in discovering new ways to solve real-world problems, and to help in empowering engineering teams via mentoring and coaching.",
+  "positions": [
+    {
+      "title": "Cloud Architect at Insurance Company via Netlight",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-01",
+      "end": null,
+      "dateRange": "Jan 2022 – Present",
+      "current": true
+    },
+    {
+      "title": "Consultant",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2014-02",
+      "end": null,
+      "dateRange": "Feb 2014 – Present",
+      "current": true
+    },
+    {
+      "title": "Learning new perspectives as a full time parent 🐯👨‍🍼",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Data Engineer at Financial Analytics Company via Netlight",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Jul 2020 · 1 mo",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Prototyping a machine learning product at one of the biggest media companies in Germany.",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": null,
+      "start": null,
+      "end": null,
+      "dateRange": null,
+      "current": true
+    },
+    {
+      "title": "Full-time parenting",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-01",
+      "end": "2024-05",
+      "dateRange": "Jan 2024 – May 2024",
+      "current": false
+    },
+    {
+      "title": "CTO Sidekick at SME building Asset Management Portal via Netlight",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": null,
+      "start": "2021-05",
+      "end": "2021-12",
+      "dateRange": "May 2021 – Dec 2021",
+      "current": false
+    },
+    {
+      "title": "Cloud Advisory for digitalisation at a Construction Company via Netlight",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": null,
+      "start": "2021-01",
+      "end": "2021-03",
+      "dateRange": "Jan 2021 – Mar 2021",
+      "current": false
+    },
+    {
+      "title": "Cloud Architect at Medtech Company via Netlight",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": null,
+      "start": "2020-08",
+      "end": "2021-01",
+      "dateRange": "Aug 2020 – Jan 2021",
+      "current": false
+    },
+    {
+      "title": "Cloud Architect at Battery Analytics Company via Netlight",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2020-01",
+      "end": "2020-06",
+      "dateRange": "Jan 2020 – Jun 2020",
+      "current": false
+    },
+    {
+      "title": "Data Engineering Consultant via Netlight",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2016-10",
+      "end": "2019-12",
+      "dateRange": "Oct 2016 – Dec 2019",
+      "current": false
+    },
+    {
+      "title": "Data Science Consultant via Netlight",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": "Unterföhring, Munich",
+      "start": "2016-08",
+      "end": "2016-09",
+      "dateRange": "Aug 2016 – Sep 2016",
+      "current": false
+    },
+    {
+      "title": "Contract",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": "Munich Area, Germany",
+      "start": "2015-02",
+      "end": "2016-07",
+      "dateRange": "Feb 2015 – Jul 2016",
+      "current": false
+    },
+    {
+      "title": "DevOps Engineer via Netlight",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": "Aschheim, Munich",
+      "start": "2014-11",
+      "end": "2015-02",
+      "dateRange": "Nov 2014 – Feb 2015",
+      "current": false
+    },
+    {
+      "title": "Quality Engineer via Netlight",
+      "company": "Netlight",
+      "companyUrl": "https://www.linkedin.com/company/netlight-consulting",
+      "description": null,
+      "location": null,
+      "start": "2014-02",
+      "end": "2014-10",
+      "dateRange": "Feb 2014 – Oct 2014",
+      "current": false
+    },
+    {
+      "title": "Software Developer (Werkstudent)",
+      "company": "Munich Innovation Group GmbH",
+      "companyUrl": null,
+      "description": "Responsibilities include: \ndeveloping internal patent scouting tool using Ruby on Rails\nsupporting and maintenaning the company's IT infrastructure",
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2012-09",
+      "end": "2013-06",
+      "dateRange": "Sep 2012 – Jun 2013",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Active Web Solutions",
+      "companyUrl": null,
+      "description": "Web, desktop, mobile and cloud application development using Microsoft .NET framework.",
+      "location": null,
+      "start": "2008-02",
+      "end": "2010-10",
+      "dateRange": "Feb 2008 – Oct 2010",
+      "current": false
+    },
+    {
+      "title": "Software Developer",
+      "company": "Rasdaman GmbH",
+      "companyUrl": null,
+      "description": "Development of a real-time mapping utility for Microdrones GmbH by integrating video from an airborne camera on to an aerial map.",
+      "location": null,
+      "start": "2007-06",
+      "end": "2007-09",
+      "dateRange": "Jun 2007 – Sep 2007",
+      "current": false
+    },
+    {
+      "title": "Organizer of 'Cultural Harmony' 2006",
+      "company": "Constructor University",
+      "companyUrl": "https://www.linkedin.com/company/constructor-university",
+      "description": "DAAD Scholarship recipient for organizing 'Cultural Harmony', a presentation of different nationalities and cultures at Jacobs University Bremen.",
+      "location": null,
+      "start": "2006-10",
+      "end": "2006-11",
+      "dateRange": "Oct 2006 – Nov 2006",
+      "current": false
+    },
+    {
+      "title": "Intern",
+      "company": "Procter & Gamble",
+      "companyUrl": "https://www.linkedin.com/company/procter-and-gamble",
+      "description": "Project included reapplication and adaptation of production vision system  software to test stand environment; simulation and development of an automated data acquisition and reporting system.",
+      "location": null,
+      "start": "2006-06",
+      "end": "2006-08",
+      "dateRange": "Jun 2006 – Aug 2006",
+      "current": false
+    },
+    {
+      "title": "Student Assistant",
+      "company": "Constructor University",
+      "companyUrl": "https://www.linkedin.com/company/constructor-university",
+      "description": "Responsibilities included organizing and hosting college and university wide events, working in the College Office and interacting with and assisting students in day-to-day matters.",
+      "location": null,
+      "start": "2005-08",
+      "end": "2007-05",
+      "dateRange": "Aug 2005 – May 2007",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Computer Science",
+      "dateRange": "2013"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2012 – 2013"
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "MSc, Informatics",
+      "dateRange": "2010 – 2013"
+    },
+    {
+      "school": "Constructor University",
+      "degree": "BSc, Electrical Engineering and Computer Science",
+      "dateRange": "2004 – 2007"
+    },
+    {
+      "school": "Budhanilkantha School",
+      "degree": "A-Levels and O-Levels, Science, English, Mathematics",
+      "dateRange": "2002 – 2003"
+    }
+  ],
+  "skills": [
+    "Ruby on Rails",
+    ".NET",
+    "Java",
+    "JavaScript",
+    "C#",
+    "Windows Azure",
+    "WCF",
+    "Web Applications",
+    "Application Development",
+    "C++",
+    "XML",
+    "SQL",
+    "Web Services",
+    "Python",
+    "Software Development",
+    "Subversion",
+    "Cloud Computing",
+    "Computer Vision",
+    ".NET Framework",
+    "Web Development"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Netlight",
+    "tagline": "Transforming ideas into reality in the digital landscape.",
+    "description": "Netlight is an international digital consulting firm, helping leading companies to succeed in the digital landscape, from advice to implementation. Our ambition is to co-create and be an augmented partner to our clients as they explore the digital landscape. \n\nOur clients range from industry-leading enterprises to disruptive startups turning into unicorns. Trusted with their challenges, we have built a unique experience since 1999 in how to approach the uncharted digital landscape and go from idea to reality, together.\n\nWe strive to be role models — conscious of positive change at the forefront of society's digital transformation. Creativity thrives in an inclusive and diverse culture. Together with our ambitious clients, we engage in challenges to make a sustainable impact. \n\nNetlight is located in Stockholm, Helsinki, Oslo, Copenhagen, Amsterdam, Hamburg, Berlin, Munich, Cologne, Zurich, Frankfurt, London, Toronto, Gothenburg, and Madrid.",
+    "industry": "IT Services and IT Consulting",
+    "website": "http://www.netlight.com",
+    "linkedInUrl": "https://www.linkedin.com/company/netlight-consulting",
+    "employeeCount": 2135,
+    "foundedYear": 1999,
+    "location": "Local offices in Berlin, Copenhagen, Frankfurt, Hamburg, Helsinki, Munich, Oslo, Stockholm, Zurich, Amsterdam, Cologne, London, Toronto, Madrid, and Gothenburg., OO",
+    "specialities": []
+  }
+}

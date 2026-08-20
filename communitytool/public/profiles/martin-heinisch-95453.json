@@ -1,0 +1,124 @@
+{
+  "id": "martin-heinisch-95453",
+  "name": "Martin Heinisch",
+  "headline": "CFO @ Rohde & Schwarz Cybersecurity",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/martin-heinisch-95453",
+  "personId": 1798,
+  "classes": [
+    {
+      "id": 50,
+      "label": "1999",
+      "season": null,
+      "year": 1999,
+      "location": 1
+    }
+  ],
+  "classLabel": "1999",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Martin Heinisch",
+  "ca": null,
+  "summary": "Martin is the CFO of Rohde & Schwarz Cybersecurity, a leading provider of innovative solutions for protecting digital information and infrastructure. With over 15 years of experience in finance, strategy, and technology, he oversees the financial performance, growth, and integration of the company and its subsidiaries.\n\nMartin has a strong background in entrepreneurship and venture capital, having worked as an Investment Associate for PolyTechnos, a European high-tech early-stage venture capital company, where he conducted due diligence and supported portfolio companies. He also has an MBA from INSEAD, a MIT Sloan Visiting Fellowship, and a Business Administration degree from the Ludwig-Maximilians-University Munich. He is passionate about leveraging his skills and knowledge to drive innovation and value creation in the cybersecurity sector.",
+  "positions": [
+    {
+      "title": "CFO",
+      "company": "Rohde & Schwarz Cybersecurity",
+      "companyUrl": "https://www.linkedin.com/company/rohde-schwarz-cybersecurity",
+      "description": null,
+      "location": null,
+      "start": "2019-04",
+      "end": null,
+      "dateRange": "Apr 2019 – Present",
+      "current": true
+    },
+    {
+      "title": "Head of Acquisitions & Integrations",
+      "company": "Rohde & Schwarz",
+      "companyUrl": "https://www.linkedin.com/company/rohde-schwarz",
+      "description": null,
+      "location": "Greater Munich Metropolitan Area",
+      "start": "2007-08",
+      "end": "2019-03",
+      "dateRange": "Aug 2007 – Mar 2019",
+      "current": false
+    },
+    {
+      "title": "Investment Associate",
+      "company": "PolyTechnos Venture-Partners GmbH",
+      "companyUrl": "https://www.linkedin.com/company/polytechnos-venture-partners",
+      "description": "- due diligence on potential technology portfolio companies\n- monitor & support existing technology portfolio",
+      "location": null,
+      "start": "2001-01",
+      "end": "2006-08",
+      "dateRange": "Jan 2001 – Aug 2006",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "INSEAD",
+      "degree": "MBA",
+      "dateRange": "2006 – 2007"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Diploma, Business Administration",
+      "dateRange": "1997 – 2002"
+    },
+    {
+      "school": "MIT Sloan School of Management",
+      "degree": "Visiting Fellow, Business Administration",
+      "dateRange": "1999 – 2000"
+    }
+  ],
+  "skills": [
+    "Start-ups",
+    "Venture Capital",
+    "Business Planning",
+    "Entrepreneurship",
+    "Due Diligence",
+    "Management Consulting",
+    "Investments",
+    "Product Marketing",
+    "Business Valuation",
+    "Market Analysis"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Rohde & Schwarz Cybersecurity",
+    "tagline": null,
+    "description": "Rohde & Schwarz Cybersecurity is a leading IT security company that protects companies and public institutions around the world against cyberattacks. The company develops and produces technologically leading solutions for information and network security, including highly secure encryption solutions, next-generation firewalls and firewalls for business-critical web applications, innovative approaches for working in the cloud securely as well as desktop and mobile security. The award-winning and certified IT security solutions range from compact, all-in-one products to customized solutions for critical infrastructures. To prevent cyberattacks proactively, rather than reactively, the trusted IT solutions are developed following the security-by-design approach. More than 500 people are employed at locations in Germany, France, Spain and the Netherlands.",
+    "industry": "Computer and Network Security",
+    "website": "https://www.rohde-schwarz.com/cybersecurity",
+    "linkedInUrl": "https://www.linkedin.com/company/rohde-schwarz-cybersecurity",
+    "employeeCount": 103,
+    "foundedYear": null,
+    "location": "München, Germany",
+    "specialities": [
+      "IT Security",
+      "Secure Communications",
+      "Secure Network",
+      "Endpoint Security",
+      "Cybersecurity",
+      "Cloud Security",
+      "WAF",
+      "Endpoint Security",
+      "Layer 2",
+      "Layer 3",
+      "Layer 7",
+      "Data-centric Security",
+      "Encryption",
+      "BSI-certified",
+      "VS-NfD"
+    ]
+  }
+}

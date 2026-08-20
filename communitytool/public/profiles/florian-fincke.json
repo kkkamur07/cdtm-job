@@ -1,0 +1,197 @@
+{
+  "id": "florian-fincke",
+  "name": "Florian Fincke",
+  "headline": "Co-Founder & CTO @Pina Earth (YC W22) - We’re hiring! | Protecting the global climate with local forests 🌳 | CDTM | UC Berkeley | LMU",
+  "avatar": {
+    "sm": "/avatars/florian-fincke-sm.webp",
+    "lg": "/avatars/florian-fincke.webp",
+    "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAABQBgCdASogACAAPslSoEunpKMht/VYAPAZCUAXzR3YcEIBrIu/fjJvggeBW58bloC/A9fQySlff8ReAAD+/i+yxXwypjvt5vXqJ5PrjVOT/Ta69fxTeTO9/mGfzzfLrcjneD99ue4hJgrWHo9Bga4pSYMAvuhwVhbv0+GF97fSLRIyoK2PQJKnJhKwlofXGlbyGrK3HJwWyoDvzvn8grivoF66M4uGTBfXnqJCmijY6qSn/waPQ/ev5ACNkSLeeNW9HklFUc0L3kbLmTcq9AbmzXvMxok3wiEMS/sd69MRRmn+jA/GH6y2d3Q24EGbjHGlwmExTgQYAAAA"
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/florian-fincke",
+  "personId": 842,
+  "classes": [
+    {
+      "id": 81,
+      "label": "Spring 2017",
+      "season": "Spring",
+      "year": 2017,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2017",
+  "major": "Human-Computer Interaction",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Florian Fincke",
+  "ca": null,
+  "summary": "My interests lie, where sustainability and digital technologies meet. As a co-founder of the climate-tech startup Pina Earth, I am working on a solution to protect our forests by quantifying and rewarding sustainable forestry.\n\n\nEager to engage in dynamic dialogues and cultivate fresh perspectives on shaping a greener, more sustainable world within the bounds of our planet!",
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "company": "Pina",
+      "companyUrl": "https://www.linkedin.com/company/pina-earth",
+      "description": "Pina Earth protects our forests by combining remote sensing technologies and artificial intelligence to quantify and reward sustainable forestry. Pina Earth is backed by Y Combinator (W22) and further leading VCs and business angels: https://techcrunch.com/2022/07/05/pina-earth-seed/",
+      "location": "Bavaria, Germany",
+      "start": "2021-01",
+      "end": null,
+      "dateRange": "Jan 2021 – Present",
+      "current": true
+    },
+    {
+      "title": "Web Developer",
+      "company": "Alasco",
+      "companyUrl": "https://www.linkedin.com/company/alasco-software",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2019-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2019 – Dec 2020",
+      "current": false
+    },
+    {
+      "title": "Full Stack Engineer",
+      "company": "ORDA",
+      "companyUrl": "https://www.linkedin.com/company/orda-technologies",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2017-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2017 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Head of Engineering",
+      "company": "liebertext.de",
+      "companyUrl": "https://www.linkedin.com/company/liebertext.de",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2016-01",
+      "end": "2018-12",
+      "dateRange": "Jan 2016 – Dec 2018",
+      "current": false
+    },
+    {
+      "title": "Web Developer",
+      "company": "ShoeSize.Me AG",
+      "companyUrl": "https://www.linkedin.com/company/shoeai",
+      "description": null,
+      "location": "Barcelona, Catalonia, Spain",
+      "start": "2014-01",
+      "end": "2016-12",
+      "dateRange": "Jan 2014 – Dec 2016",
+      "current": false
+    },
+    {
+      "title": "Analyst",
+      "company": "RLTG - Ruttensperger Lachnit Trossin Gomoll PartG mbB",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2014-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2014 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Production Coordinator",
+      "company": "Hutner & Retzer Film GbR",
+      "companyUrl": null,
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2013-01",
+      "end": "2015-12",
+      "dateRange": "Jan 2013 – Dec 2015",
+      "current": false
+    },
+    {
+      "title": "Analyst",
+      "company": "Weickmann & Weickmann",
+      "companyUrl": "https://www.linkedin.com/company/weickmann-&-weickmann",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2011-01",
+      "end": "2014-12",
+      "dateRange": "Jan 2011 – Dec 2014",
+      "current": false
+    },
+    {
+      "title": "Produktentwicklung",
+      "company": "Techkon GmbH",
+      "companyUrl": "https://www.linkedin.com/company/techkon-gmbh",
+      "description": null,
+      "location": "Königstein im Taunus, Hesse, Germany",
+      "start": "2011-01",
+      "end": "2011-12",
+      "dateRange": "Jan 2011 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Manufacturing Process Engineer",
+      "company": "Webasto Group",
+      "companyUrl": "https://www.linkedin.com/company/webasto",
+      "description": null,
+      "location": "Utting am Ammersee, Bavaria, Germany",
+      "start": "2011-01",
+      "end": "2011-12",
+      "dateRange": "Jan 2011 – Dec 2011",
+      "current": false
+    },
+    {
+      "title": "Line Cook",
+      "company": "Gasthaus zum Fischmeister",
+      "companyUrl": null,
+      "description": null,
+      "location": "Münsing, Bavaria, Germany",
+      "start": "2008-01",
+      "end": "2011-12",
+      "dateRange": "Jan 2008 – Dec 2011",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Master of Science (M. Sc.), Human-Computer Interaction",
+      "dateRange": "2016 – 2020"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Visiting Scholar @ School of Information",
+      "dateRange": "2018 – 2019"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": "2017 – 2018"
+    },
+    {
+      "school": "Ludwig-Maximilians-Universität München",
+      "degree": "Bachelor of Science (B. Sc.), Human-Machine Interaction",
+      "dateRange": "2012 – 2016"
+    }
+  ],
+  "skills": [
+    "Sustainability",
+    "Entrepreneurship"
+  ],
+  "languages": [],
+  "company": {
+    "name": "Pina Earth",
+    "tagline": "Simplifying access to nature-based carbon credits so you can reach your sustainability goals with confidence.",
+    "description": "Pina Earth enables forest owners to participate in the voluntary carbon market by digitizing the manual certification process, aided by remote sensing and artificial intelligence.",
+    "industry": "Information Technology & Services",
+    "website": "https://pina.earth/",
+    "linkedInUrl": "https://www.linkedin.com/company/pina-de",
+    "employeeCount": 42,
+    "foundedYear": null,
+    "location": "München, Germany",
+    "specialities": []
+  }
+}

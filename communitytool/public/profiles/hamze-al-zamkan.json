@@ -1,0 +1,117 @@
+{
+  "id": "hamze-al-zamkan",
+  "name": "Hamze Al-Zamkan",
+  "headline": "CDTM | TUM | TUM.ai Board",
+  "avatar": {
+    "sm": "/avatars/hamze-al-zamkan-sm.webp",
+    "lg": "/avatars/hamze-al-zamkan.webp",
+    "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAACQBgCdASogACAAPtFWpU2oJCOiMBgIAQAaCWQACBA8gO8Fv2LVmj/QRaG/PpqE2StQ9S0/KowsYL9ISzWAAP77LfH5lCYj+wIX7nuXXUDewSE24zG1975MrQM/78NScZMLGAD39F9s3Ic55fqMp8VoZydmSchzrxLMsXN9d5LlLNQNGmZEGwJgeyvro+GPngVGgKbSxsd+KlWtL+c/pw8SDNtacnn/Sca8zvupDjfCRryVaDKbj3GXt5I8xi3Y2oHV2oyaerCqZmvHxigdb9wwXQF6iDKVsI637dxUZa8lCWiULiIQAA=="
+  },
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/hamze-al-zamkan",
+  "personId": 1288,
+  "classes": [
+    {
+      "id": 96,
+      "label": "Spring 2024",
+      "season": "Spring",
+      "year": 2024,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2024",
+  "major": "Information Systems",
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Hamze Al-Zamkan",
+  "ca": null,
+  "summary": "...",
+  "positions": [
+    {
+      "title": "Board Member",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": null,
+      "location": null,
+      "start": "2024-09",
+      "end": null,
+      "dateRange": "Sep 2024 – Present",
+      "current": true
+    },
+    {
+      "title": "Munich",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2023-03",
+      "end": "2024-09",
+      "dateRange": "Mar 2023 – Sep 2024",
+      "current": false
+    },
+    {
+      "title": "Team Lead",
+      "company": "TUM.ai",
+      "companyUrl": "https://www.linkedin.com/company/tum-ai",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2022-05",
+      "end": "2023-03",
+      "dateRange": "May 2022 – Mar 2023",
+      "current": false
+    },
+    {
+      "title": "Various Internships",
+      "company": "Various Companies",
+      "companyUrl": "https://www.linkedin.com/company/various-boards",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-05",
+      "end": "2025-05",
+      "dateRange": "May 2021 – May 2025",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Honors Degree, Technology Management",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "Master of Science",
+      "dateRange": null
+    },
+    {
+      "school": "Technical University of Munich",
+      "degree": "B.Sc., Computer Science w/ Economics",
+      "dateRange": null
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "company": {
+    "name": "TUM.ai",
+    "tagline": "TUM.ai is Europe's leading AI student initiative empowering the next generation of AI leaders.",
+    "description": "TUM.ai is a diverse student initiative at the Technical University Munich. We support funding AI start-ups, run projects focused on real-world problems, host events, workshops, and hackathons around AI.\nOur vision is: Empowering the world to unfold AI's fullest potential in every domain. To achieve this, we need your expertise! Apply now, no programming skills are required! Join our active and motivated community🚀🔥",
+    "industry": "Information Technology & Services",
+    "website": "https://tum-ai.com/",
+    "linkedInUrl": "https://www.linkedin.com/company/tum-ai",
+    "employeeCount": 67,
+    "foundedYear": 2019,
+    "location": "München, Germany",
+    "specialities": [
+      "AI",
+      "Software",
+      "Research",
+      "Venture"
+    ]
+  }
+}

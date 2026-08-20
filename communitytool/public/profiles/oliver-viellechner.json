@@ -1,0 +1,163 @@
+{
+  "id": "oliver-viellechner",
+  "name": "Oliver Viellechner",
+  "headline": "Vice President BMW ALPINA",
+  "avatar": null,
+  "location": "Munich, Germany",
+  "linkedInUrl": "https://www.linkedin.com/in/oliver-viellechner",
+  "personId": 1604,
+  "classes": [
+    {
+      "id": 53,
+      "label": "Spring 2003",
+      "season": "Spring",
+      "year": 2003,
+      "location": 1
+    }
+  ],
+  "classLabel": "Spring 2003",
+  "major": null,
+  "roles": [
+    "student"
+  ],
+  "isCA": false,
+  "caAlumni": null,
+  "matched": true,
+  "matchMethod": "exact",
+  "needsReview": false,
+  "rosterName": "Oliver Viellechner",
+  "ca": null,
+  "summary": "Passionate about shaping the future of distinctive automotive brands, I bring more than 20 years of experience across the international automotive industry. My focus lies at the intersection of brand, strategy, and innovation - always with a clear view on what truly creates long-term impact.\n\nThroughout my career, I have worked across global markets and cultures, leading high-performing, international teams and fostering environments built on trust and shared ambition. \n\nAt BMW ALPINA, we are inspired by a legacy of understated excellence and individuality - and by the responsibility to evolve the brand thoughtfully, respecting its heritage while shaping its future. I enjoy engaging with leaders and experts across the industry, exchanging perspectives, and moving brands forward.",
+  "positions": [
+    {
+      "title": "Vice President BMW ALPINA",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": null,
+      "location": "Munich, Bavaria, Germany",
+      "start": "2025-06",
+      "end": null,
+      "dateRange": "Jun 2025 – Present",
+      "current": true
+    },
+    {
+      "title": "Vice President Product Management, BMW Compact Class",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Responsible for Product Management of BMW's Compact Class segment",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2024-09",
+      "end": "2025-06",
+      "dateRange": "Sep 2024 – Jun 2025",
+      "current": false
+    },
+    {
+      "title": "Vice President Strategic Planning",
+      "company": "BMW Group",
+      "companyUrl": "https://www.linkedin.com/company/bmw-group",
+      "description": "Responsible for BMW's overall strategy and long-term planning",
+      "location": "Munich, Bavaria, Germany",
+      "start": "2021-01",
+      "end": "2024-08",
+      "dateRange": "Jan 2021 – Aug 2024",
+      "current": false
+    },
+    {
+      "title": "Partner",
+      "company": "McKinsey & Company, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/mckinsey",
+      "description": "Partner in McKinsey's Advanced Industries Practice. For many years, advised and served a broad range of automotive OEM and supplier clients, regionally and globally.",
+      "location": null,
+      "start": "2006-01",
+      "end": "2020-12",
+      "dateRange": "Jan 2006 – Dec 2020",
+      "current": false
+    }
+  ],
+  "schools": [
+    {
+      "school": "Technical University of Munich",
+      "degree": "Diplom-Kaufmann, Technologie- und managementorientierte BWL, Maschinenwesen",
+      "dateRange": "2001 – 2006"
+    },
+    {
+      "school": "HHL Leipzig Graduate School of Management",
+      "degree": "Dr. rer. oec., Disruptive Innovation Research",
+      "dateRange": "2008 – 2010"
+    },
+    {
+      "school": "INSEAD",
+      "degree": "Visiting PhD scholar, Innovation management",
+      "dateRange": "2009 – 2010"
+    },
+    {
+      "school": "Center for Digital Technology and Management (CDTM)",
+      "degree": "Technology Management",
+      "dateRange": "2003 – 2005"
+    },
+    {
+      "school": "National University of Singapore",
+      "degree": "Asia-Pacific Studies",
+      "dateRange": null
+    },
+    {
+      "school": "Finsterwalder-Gymnasium Rosenheim",
+      "degree": null,
+      "dateRange": null
+    }
+  ],
+  "skills": [
+    "Automotive",
+    "Industrial Sector",
+    "Sustainable Mobility",
+    "Autonomous Vehicles",
+    "Product Strategy",
+    "Product line management",
+    "Product Development",
+    "Sales Management",
+    "Product Innovation",
+    "Product Marketing",
+    "Research and Development (R&D)",
+    "Product R&D",
+    "R&D management",
+    "R&D organization",
+    "Business Strategy",
+    "M&A",
+    "Private Equity",
+    "Business Development",
+    "Emerging Markets",
+    "ASEAN"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "company": {
+    "name": "BMW Group",
+    "tagline": "We make individual mobility more human, more intelligent and more responsible.",
+    "description": "With its four brands, BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world’s leading premium manufacturer of automobiles and motorcycles and also provides premium financial services. The BMW Group production network comprises over 30 production sites worldwide; the company has a global sales network in more than 140 countries.\n\nIn 2025, the BMW Group sold 2.46 million passenger vehicles and more than 202,500 motorcycles worldwide. The profit before tax in the financial year 2025 was € 10.2 billion on revenues amounting to € 133,5 billion. As of 31 December 2025, the BMW Group had a workforce of 154,540 employees.\n\nThe economic success of the BMW Group has always been based on long-term thinking and respon-sible action. Sustainability is a key element of the BMW Group’s corporate strategy and covers all products – from the supply chain through production to the end of their useful life.",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://www.bmwgroup.com/en/general/imprint.html",
+    "linkedInUrl": "https://www.linkedin.com/company/bmw-group",
+    "employeeCount": 65541,
+    "foundedYear": null,
+    "location": "Munich, Germany",
+    "specialities": [
+      "Automotive",
+      "Information Technology",
+      "Data Science",
+      "Software Development",
+      "Artificial Intelligence",
+      "Data Security",
+      "Motorcycles",
+      "Financial Services",
+      "Mobility Services",
+      "Digital Services",
+      "IoT",
+      "Future of Mobilty",
+      "Autonomous Driving",
+      "Connectivity",
+      "Sheer Driving Pleasure"
+    ]
+  }
+}
