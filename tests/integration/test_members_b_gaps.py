@@ -201,8 +201,12 @@ FILTER_CASES: list[tuple[str, dict, set[str]]] = [
     ("rows the loader was unsure about", {"needs_review": True}, {"ben-mut"}),
     ("rows the loader was sure about", {"needs_review": False}, {"ada-mut", "cid-mut"}),
     ("a skill", {"skills": ("python",)}, {"ada-mut"}),
+    # A translator emits skills lowercased ("machine learning"); the stored value is often
+    # title-cased ("Machine Learning"). The match must not care, or Ask silently returns zero.
+    ("a skill, whatever the case", {"skills": ("PyThOn",)}, {"ada-mut"}),
     ("any of several skills", {"skills": ("figma", "python")}, {"ada-mut", "ben-mut"}),
     ("a language", {"languages": ("french",)}, {"ben-mut"}),
+    ("a language, whatever the case", {"languages": ("FRENCH",)}, {"ben-mut"}),
     ("one intent", {"intents": ("mentoring",)}, {"ada-mut", "ben-mut"}),
     ("either intent", {"intents": ("cofounding", "mentoring")}, {"ada-mut", "ben-mut"}),
     (

@@ -7,7 +7,7 @@ out twice is how two filters quietly start meaning different things.
 
 from __future__ import annotations
 
-from sqlalchemy import Select, and_, exists, or_, select, text
+from sqlalchemy import Select, and_, exists, func, or_, select, text
 
 from backend.core.sql import ilike_contains
 from backend.members.application.ports import MemberFilters
@@ -44,6 +44,24 @@ _PATH_GROUP_COLUMNS = {
 def claimed_subquery():
     # accounts table lives in the identity context; read-only correlated exists.
     return text("exists (select 1 from accounts a where a.member_id = members.id)")
+
+
+def _ci_array_overlap(column, values: list[str]):
+    """`column` (a ``text[]``) shares at least one element with `values`, case-insensitively.
+
+    Postgres array overlap (``&&``) matches elements exactly, so a translator that emits
+    ``machine learning`` never finds the stored ``Machine Learning`` and the answer is a
+    silent zero. Unnest the array, lower each element, and test membership against the
+    lowered filter values instead. Blank values are dropped so an empty term cannot widen
+    the match to everyone.
+    """
+    lowered = [v.lower() for v in (s.strip() for s in values) if v.strip()]
+    if not lowered:
+        return None
+    # ``unnest`` is a single-column set-returning function, so it reads as a column value
+    # (its own lateral FROM), not a table with a named column.
+    element = func.unnest(column).column_valued("value")
+    return select(1).where(func.lower(element).in_(lowered)).exists()
 
 
 def _path_group_exists(field: str, value: str):
@@ -153,9 +171,13 @@ def apply_member_filters(stmt: Select, f: MemberFilters) -> Select:
     if f.needs_review is not None:
         stmt = stmt.where(MemberRow.needs_review.is_(f.needs_review))
     if f.skills:
-        stmt = stmt.where(MemberRow.skills.overlap(list(f.skills)))
+        clause = _ci_array_overlap(MemberRow.skills, list(f.skills))
+        if clause is not None:
+            stmt = stmt.where(clause)
     if f.languages:
-        stmt = stmt.where(MemberRow.languages.overlap(list(f.languages)))
+        clause = _ci_array_overlap(MemberRow.languages, list(f.languages))
+        if clause is not None:
+            stmt = stmt.where(clause)
     if f.intents:
         cols = [INTENT_COLUMNS[i] for i in f.intents if i in INTENT_COLUMNS]
         if cols:
