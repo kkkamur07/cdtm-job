@@ -13,8 +13,10 @@ from backend.jobboard.domain.job import (
     ExperienceLevel,
     Job,
     JobStatus,
+    JobSummary,
     SalaryPeriod,
     WorkArrangement,
+    plain_salary,
 )
 from backend.jobboard.domain.seeker import Seeker
 
@@ -31,8 +33,10 @@ __all__ = [
     "JobQuery",
     "JobSort",
     "JobStatus",
+    "JobSummary",
     "QuestionSource",
     "SalaryPeriod",
     "Seeker",
     "WorkArrangement",
+    "plain_salary",
 ]

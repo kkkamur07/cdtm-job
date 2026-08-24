@@ -5,7 +5,11 @@ from uuid import UUID
 from fastapi import APIRouter, Response, status
 
 from backend.announcements.api.deps import AnnouncementServiceDep
-from backend.announcements.api.schemas import AnnouncementPublic, AnnouncementsPublic
+from backend.announcements.api.schemas import (
+    AnnouncementPublic,
+    AnnouncementsPublic,
+    UnreadCountPublic,
+)
 from backend.announcements.application.commands import AnnouncementCreate, AnnouncementUpdate
 from backend.core.api.pagination import PageParamsDep
 from backend.identity.api.deps import (
@@ -29,6 +33,18 @@ async def list_announcements(
         total=result.total,
         unread=unread,
     )
+
+
+@router.get("/unread-count", response_model=UnreadCountPublic)
+async def unread_count(
+    service: AnnouncementServiceDep, actor: OptionalActorDep, _: PrincipalDep
+) -> UnreadCountPublic:
+    """The badge on its own, one statement, no rows.
+
+    Declared before ``/{announcement_id}`` because FastAPI matches routes in order and a
+    UUID path parameter would otherwise swallow this literal.
+    """
+    return UnreadCountPublic(unread=await service.unread_count(actor) if actor else 0)
 
 
 @router.get("/{announcement_id}", response_model=AnnouncementPublic)

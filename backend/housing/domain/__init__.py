@@ -7,6 +7,7 @@ from backend.housing.domain.housing import (
     LISTING_TTL,
     HousingKind,
     HousingListing,
+    HousingListingSummary,
     HousingStatus,
 )
 
@@ -16,6 +17,7 @@ __all__ = [
     "HousingAskInterpretation",
     "HousingKind",
     "HousingListing",
+    "HousingListingSummary",
     "HousingQuery",
     "HousingStatus",
 ]

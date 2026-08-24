@@ -14,6 +14,7 @@ from pydantic import AnyUrl, BaseModel
 from backend.core.actor import Actor
 from backend.core.api.pagination import PageParams, page_params
 from backend.core.exceptions import ForbiddenError, ValidationError
+from backend.core.llm import phrases
 from backend.core.llm.ask import (
     MAX_QUESTION_LENGTH,
     MIN_QUESTION_LENGTH,
@@ -100,10 +101,25 @@ def test_a_city_is_recognised_by_its_longest_spelling() -> None:
     assert city_in("nobody here") is None
 
 
+def test_the_longest_spelling_wins_over_a_shorter_one_inside_it(monkeypatch) -> None:
+    # The shipped table has no spelling that is a whole word inside another, so the
+    # longest-first order is only observable with one added: "york" inside "new york".
+    monkeypatch.setitem(phrases.CITIES, "york", "York")
+    assert city_in("who lives in new york") == "New York"
+    assert city_in("who lives in york") == "York"
+
+
 def test_a_question_is_stripped_of_its_lead_in() -> None:
     # Every lead-in is stripped, not just the first: "show me", "people" and "who" all go.
     assert normalise("Show me people who work in Berlin?") == "work in berlin"
     assert split_clauses("anna, ben and cara") == ["anna", "ben", "cara"]
+
+
+def test_only_a_trailing_question_mark_is_dropped() -> None:
+    # The last word survives whole; a wider strip set would eat the X of SpaceX.
+    assert normalise("who works at SpaceX?") == "works at spacex"
+    assert normalise("who works at SpaceX??") == "works at spacex"
+    assert normalise("what about x?") == "what about x"
 
 
 # ---- what counts as a question ----------------------------------------------------------

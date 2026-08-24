@@ -9,10 +9,17 @@ would be parameterised by everything that matters.
 from __future__ import annotations
 
 import time
+from datetime import date
 
 from backend.core.actor import Actor
+from backend.core.cache import TTLCache
 from backend.core.exceptions import LlmUnavailableError, RateLimitedError
-from backend.core.llm.ask import LLM_DOWN_NOTE, ViewerContext, validate_question
+from backend.core.llm.ask import (
+    LLM_DOWN_NOTE,
+    ViewerContext,
+    interpretation_key,
+    validate_question,
+)
 from backend.core.llm.observability import log_ask
 from backend.core.llm.ports import QuestionMeter
 from backend.core.settings import get_llm_settings
@@ -28,6 +35,25 @@ from backend.housing.domain import (
     HousingQuery,
     HousingStatus,
 )
+
+#: The same ten minutes the directory's Ask holds a reading for, for the same reason: the
+#: model call is the expensive, deterministic half, and the listings behind it are read
+#: fresh on every question. A smaller cache than the directory's because the housing board
+#: is a fraction of the traffic and the questions repeat more.
+INTERPRETATION_TTL_SECONDS = 600
+_INTERPRETATIONS = TTLCache(maxsize=64, ttl=INTERPRETATION_TTL_SECONDS)
+
+
+def _handed_out(
+    entry: tuple[HousingAskInterpretation, str],
+) -> tuple[HousingAskInterpretation, str]:
+    """A copy of a cached reading: the cached object never leaves this module.
+
+    A ``HousingAskInterpretation`` is not frozen, so handing the same instance to two askers
+    would let either of them edit what the other sees. The directory's Ask does the same.
+    """
+    interpretation, model_name = entry
+    return interpretation.model_copy(deep=True), model_name
 
 
 def to_housing_filters(query: HousingQuery) -> HousingFilters:
@@ -118,13 +144,29 @@ class HousingAskService:
         if not allowed:
             raise RateLimitedError("you are asking faster than we can answer; try again shortly")
 
-        viewer = ViewerContext()
+        # The housing prompts resolve "from next month" against a date, and the only date
+        # they have is this one. Left unset it defaulted to today inside the translator,
+        # where the cache key could not see it, so a reading made yesterday stayed warm past
+        # midnight and answered with yesterday's idea of "next month".
+        viewer = ViewerContext(today=date.today())
         if self._translator is not None:
+            key = interpretation_key(
+                board="housing", question=question, language=language, viewer=viewer
+            )
+            cached = _INTERPRETATIONS.get(key)
+            if cached is not None:
+                return _handed_out(cached)
             try:
                 interpretation = await self._translator.translate(
                     question, viewer=viewer, language=language
                 )
-                return interpretation, self._translator.model_name
+                # Only a reading the model produced is kept, for the same reason the
+                # directory's Ask keeps only those: caching the keyword fallback would pin
+                # LLM_DOWN_NOTE on for ten minutes after the provider came back. The meter
+                # is charged above either way; the cache spares the provider, not the
+                # allowance.
+                _INTERPRETATIONS.set(key, (interpretation, self._translator.model_name))
+                return _handed_out((interpretation, self._translator.model_name))
             except LlmUnavailableError:
                 interpretation = await self._fallback.translate(
                     question, viewer=viewer, language=language

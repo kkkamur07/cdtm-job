@@ -15,7 +15,7 @@ from backend.housing.application.visibility import (
     is_owner,
     sanitized_list_filters,
 )
-from backend.housing.domain import LISTING_TTL, HousingListing
+from backend.housing.domain import LISTING_TTL, HousingListing, HousingListingSummary
 from infrastructure.repository import utc_now
 
 
@@ -25,7 +25,8 @@ class HousingService:
 
     async def list(
         self, *, skip: int, limit: int, filters: HousingFilters, actor: Actor | None = None
-    ) -> PageResult[HousingListing]:
+    ) -> PageResult[HousingListingSummary]:
+        """A page of cards. ``view`` is where a listing is read whole."""
         filters = sanitized_list_filters(filters, actor)
         result = await self._housing.list(skip=skip, limit=limit, filters=filters)
         return PageResult(items=[for_viewer(r, actor) for r in result.items], total=result.total)

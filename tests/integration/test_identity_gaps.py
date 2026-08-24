@@ -92,7 +92,10 @@ def test_a_sign_in_records_the_name_avatar_and_time_from_the_token(client: TestC
     first_seen = account["last_sign_in_at"]
 
     # The same Supabase user signing in again takes the update path, where the very same
-    # three fields are written a second time.
+    # three fields are written a second time. Note what makes it write at all now: the
+    # prelude no longer touches the row on every request, only when a claim differs (the
+    # name and the avatar do here) or when last_sign_in_at has gone stale past
+    # AUTH_SIGN_IN_TOUCH_SECONDS. The unchanged case is the test below.
     second = client.get(
         ME,
         headers=_headers(
@@ -111,6 +114,42 @@ def test_a_sign_in_records_the_name_avatar_and_time_from_the_token(client: TestC
     assert updated["avatar_url"] == "https://cdn.example.com/second.png"
     assert updated["last_sign_in_at"] is not None
     assert updated["last_sign_in_at"] >= first_seen
+
+
+def test_a_request_with_nothing_new_to_say_leaves_the_account_row_alone(
+    client: TestClient,
+) -> None:
+    """The prelude runs before every authenticated request, so writing on every one of them
+    made every GET take a row lock on ``accounts`` and generate WAL. Identical claims inside
+    the touch window must leave both timestamps exactly where they were."""
+    sub = uuid.uuid4()
+    token = _token("steady.person@cdtm.com", sub=sub, full_name="Steady Person")
+
+    first = client.get(ME, headers=_headers(token)).json()["account"]
+    for _ in range(3):
+        assert client.get(ME, headers=_headers(token)).status_code == 200
+    last = client.get(ME, headers=_headers(token)).json()["account"]
+
+    assert last["id"] == first["id"]
+    assert last["updated_at"] == first["updated_at"]
+    assert last["last_sign_in_at"] == first["last_sign_in_at"]
+
+
+def test_a_sign_in_after_the_touch_window_records_the_new_time(
+    client: TestClient, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    """``last_sign_in_at`` is what the admin worklist orders by, so it still has to move.
+    A touch window of zero is the same rule with the staleness threshold at its limit."""
+    monkeypatch.setenv("AUTH_SIGN_IN_TOUCH_SECONDS", "0")
+    reset_settings_caches()
+    sub = uuid.uuid4()
+    token = _token("returning.person@cdtm.com", sub=sub, full_name="Returning Person")
+
+    first = client.get(ME, headers=_headers(token)).json()["account"]
+    last = client.get(ME, headers=_headers(token)).json()["account"]
+
+    assert last["id"] == first["id"]
+    assert last["last_sign_in_at"] > first["last_sign_in_at"]
 
 
 # ---- the admin worklist -------------------------------------------------------------------
@@ -176,6 +215,15 @@ def test_signing_in_still_works_when_the_roster_row_is_already_taken(
     assert me.json()["account"]["email"] == member_anna["email"]
 
 
+def test_a_refused_domain_says_which_domains_are_allowed(client: TestClient) -> None:
+    """The allow-list is the API's rule about who may exist at all. Someone signing in on the
+    wrong Google account needs to be told which one to use instead."""
+    refused = client.get(ME, headers=auth("stranger@gmail.com"))
+
+    assert refused.status_code == 403, refused.text
+    assert refused.json()["error"]["details"]["allowed_domains"] == ["cdtm.com"]
+
+
 def test_an_account_with_no_member_is_told_how_to_get_one(client: TestClient) -> None:
     """Everything member-owned is closed to an account no roster row matched. The refusal has
     to say what to do about it, because the person cannot fix it themselves."""
@@ -220,6 +268,20 @@ def test_signing_in_by_slug_alone_claims_a_member_that_has_no_address(
     assert me["member_slug"] == "dan-test"
     assert me["account"]["email"] == "dan-test@cdtm.com"
     assert _member_email("dan-test") == "dan-test@cdtm.com"
+
+
+def test_a_slug_already_claimed_by_a_different_address_says_which_one(
+    client: TestClient, member_anna: dict
+) -> None:
+    """Two Members sharing one mailbox would break the binding, so the claim is refused. The
+    refusal names the address that holds the row, because otherwise the only way to find out
+    is to read the database."""
+    refused = client.post(
+        LOGIN, json={"member_slug": "anna-test", "email": "someone.else@cdtm.com"}
+    )
+
+    assert refused.status_code == 409, refused.text
+    assert refused.json()["error"]["details"]["member_email"] == member_anna["email"]
 
 
 def test_the_derived_address_lands_on_the_first_allowed_domain(

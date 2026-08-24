@@ -29,20 +29,26 @@ export default function Typewriter({ phrases }: { phrases: string[] }) {
     const [step, setStep] = useState<Step>(START);
     const [paused, setPaused] = useState(false);
     const animate = !useReducedMotion() && !paused && phrases.length > 0;
+    const visible = useDocumentVisible();
 
     /**
      * One timer at a time, and every state change happens inside its callback.
      * Advancing from the effect body instead would re-render immediately and
      * schedule again, which is the cascade the rule against it exists to stop.
+     *
+     * A hidden tab schedules nothing: twenty-odd re-renders a second for a page
+     * nobody is looking at is pure background cost, and the effect picks the
+     * animation back up where it left off when the tab returns. Only the timer
+     * stops; what is on screen is unchanged, so nothing moves on the way back.
      */
     useEffect(() => {
-        if (!animate) return;
+        if (!animate || !visible) return;
         const phrase = phrases[step.index % phrases.length];
         const full = !step.deleting && step.length >= phrase.length;
         const delay = full ? HOLD_MS : step.deleting ? DELETE_MS : TYPE_MS;
         const timer = setTimeout(() => setStep((current) => advance(current, phrases)), delay);
         return () => clearTimeout(timer);
-    }, [animate, phrases, step]);
+    }, [animate, visible, phrases, step]);
 
     if (phrases.length === 0) return null;
     const phrase = phrases[step.index % phrases.length];
@@ -77,17 +83,53 @@ function advance(step: Step, phrases: string[]): Step {
 }
 
 /**
+ * All four arguments below are module scope, not inline.
+ *
+ * `useSyncExternalStore` compares `subscribe` by identity and re-subscribes
+ * whenever it changes, and this component re-renders every 45 ms while it
+ * types. Inline arrows would tear down and rebuild both listeners twenty times
+ * a second. The `MediaQueryList` is built once for the same reason: reading
+ * `matchMedia` fresh on every snapshot is a lookup React makes on every render.
+ *
+ * `null` until asked for, because this module is evaluated on the server too.
+ */
+let reducedMotionQuery: MediaQueryList | null = null;
+
+function reducedMotion(): MediaQueryList {
+    reducedMotionQuery ??= window.matchMedia(REDUCED);
+    return reducedMotionQuery;
+}
+
+function subscribeReducedMotion(onChange: () => void): () => void {
+    const query = reducedMotion();
+    query.addEventListener("change", onChange);
+    return () => query.removeEventListener("change", onChange);
+}
+
+const getReducedMotion = () => reducedMotion().matches;
+const getReducedMotionOnServer = () => false;
+
+function subscribeVisibility(onChange: () => void): () => void {
+    document.addEventListener("visibilitychange", onChange);
+    return () => document.removeEventListener("visibilitychange", onChange);
+}
+
+const getVisible = () => !document.hidden;
+const getVisibleOnServer = () => true;
+
+/**
  * Subscribed rather than read in an effect, so the first client render matches
  * the server's and the preference is still followed if it changes mid-session.
  */
 function useReducedMotion(): boolean {
     return useSyncExternalStore(
-        (onChange) => {
-            const query = window.matchMedia(REDUCED);
-            query.addEventListener("change", onChange);
-            return () => query.removeEventListener("change", onChange);
-        },
-        () => window.matchMedia(REDUCED).matches,
-        () => false,
+        subscribeReducedMotion,
+        getReducedMotion,
+        getReducedMotionOnServer,
     );
+}
+
+/** Same subscription shape, for the tab's visibility. Server renders visible. */
+function useDocumentVisible(): boolean {
+    return useSyncExternalStore(subscribeVisibility, getVisible, getVisibleOnServer);
 }

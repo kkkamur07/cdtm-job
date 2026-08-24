@@ -3,13 +3,13 @@
 import Link from "next/link";
 
 import { useEvents } from "@/api/hooks/community";
-import type { CommunityEvent } from "@/api/types";
+import type { CommunityEventSummary } from "@/api/types";
 import { ErrorState } from "@/components/states";
 import { EmptyState, LoadingBlock } from "@/components/placeholders";
 import { EventRow } from "@/features/community/events/EventList";
 import { useUrlState } from "@/lib/urlState";
 
-type EventsPage = { items: CommunityEvent[]; total: number };
+type EventsPage = { items: CommunityEventSummary[]; total: number };
 
 /**
  * The events list.

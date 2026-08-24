@@ -5,6 +5,7 @@ import type { Announcement } from "@/api/types";
 import { ErrorState } from "@/components/states";
 import { EmptyState, LoadingBlock } from "@/components/placeholders";
 import RelativeTime from "@/components/RelativeTime";
+import { ANNOUNCEMENTS_PAGE } from "./page-size";
 
 /**
  * Announcements, newest first, unread ones marked. Reading is explicit: a card
@@ -15,10 +16,17 @@ export default function AnnouncementList({
     limit,
     initial,
 }: {
+    /**
+     * How many announcements to hold, and part of the query key. It has to be
+     * the page size the server loader used for this render, or the browser
+     * refetches the same board under a second key and `initial` goes to waste.
+     * Left out, it is the shared `ANNOUNCEMENTS_PAGE` the loader defaults to;
+     * the home widget passes the two it shows.
+     */
     limit?: number;
     initial?: { items: Announcement[]; total: number; unread: number };
 }) {
-    const announcements = useAnnouncements(initial);
+    const announcements = useAnnouncements(initial, limit ?? ANNOUNCEMENTS_PAGE);
     const markRead = useMarkAnnouncementRead();
 
     if (announcements.isPending) return <LoadingBlock label="Loading announcements" rows={2} />;
@@ -31,11 +39,9 @@ export default function AnnouncementList({
         return <EmptyState title="No announcements yet" hint="CDTM posts here when there is news." />;
     }
 
-    const shown = limit ? items.slice(0, limit) : items;
-
     return (
         <ul className="grid gap-2.5">
-            {shown.map((item) => (
+            {items.map((item) => (
                 <AnnouncementCard
                     key={item.id}
                     item={item}
@@ -48,9 +54,12 @@ export default function AnnouncementList({
     );
 }
 
+/** Hoisted: a literal here is a new RegExp per announcement per render. */
+const WHITESPACE = /\s+/g;
+
 /** The opening of the body, on one line, for the collapsed card. */
 function preview(body: string): string {
-    return body.replace(/\s+/g, " ").trim().slice(0, 180);
+    return body.replace(WHITESPACE, " ").trim().slice(0, 180);
 }
 
 function AnnouncementCard({ item, onOpen }: { item: Announcement; onOpen: () => void }) {
@@ -58,7 +67,7 @@ function AnnouncementCard({ item, onOpen }: { item: Announcement; onOpen: () => 
 
     return (
         <li
-            className={`grid grid-cols-[6px_1fr] overflow-hidden rounded-2xl border bg-white ${
+            className={`cv-note grid grid-cols-[6px_1fr] overflow-hidden rounded-2xl border bg-white ${
                 unread ? "border-[color:var(--blue-25)]" : "border-line"
             }`}
         >

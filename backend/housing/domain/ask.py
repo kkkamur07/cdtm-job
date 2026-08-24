@@ -12,7 +12,7 @@ from datetime import date
 from pydantic import BaseModel, ConfigDict, Field, field_validator
 
 from backend.core.llm.ask import MAX_ASK_LIMIT, QuestionSource
-from backend.housing.domain.housing import HousingKind, HousingListing
+from backend.housing.domain.housing import HousingKind, HousingListingSummary
 
 
 class HousingQuery(BaseModel):
@@ -60,5 +60,7 @@ class HousingAskAnswer(BaseModel):
     model_config = ConfigDict(extra="forbid")
 
     interpretation: HousingAskInterpretation
-    listings: list[HousingListing] = Field(default_factory=list)
+    #: Cards, not listings: an answer is a way of listing the board, and it is fed from the
+    #: same summary query, so it carries no more than a row of the board does.
+    listings: list[HousingListingSummary] = Field(default_factory=list)
     total: int = 0

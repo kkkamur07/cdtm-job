@@ -8,15 +8,23 @@ import type {
     Announcement,
     AnnouncementCreate,
     CommunityEvent,
+    CommunityEventSummary,
     EventCreate,
     HousingCreate,
     HousingUpdate,
+    PathFlow,
     RsvpStatus,
 } from "../types";
+import { ANNOUNCEMENTS_PAGE } from "@/features/community/announcements/page-size";
 import { useAuthedQueryOptions } from "./shared";
 
 type AnnouncementsPage = { items: Announcement[]; total: number; unread: number };
-type EventsPage = { items: CommunityEvent[]; total: number };
+/**
+ * The list route ships rows without the description; the by-id and RSVP routes ship
+ * the whole event. A whole event fits a row slot, which is what lets the confirmed
+ * RSVP below be written straight into the cached list.
+ */
+type EventsPage = { items: CommunityEventSummary[]; total: number };
 
 /* ---------------------------------------------------------------- events */
 
@@ -65,7 +73,10 @@ export function useCreateEvent() {
  * the request only confirms it. `onError` puts the snapshot back, which is what
  * makes that honest rather than a lie that happens to be true most of the time.
  */
-function withRsvp(event: CommunityEvent, next: RsvpStatus | null): CommunityEvent {
+function withRsvp<T extends Pick<CommunityEventSummary, "my_rsvp" | "going_count" | "interested_count">>(
+    event: T,
+    next: RsvpStatus | null,
+): T {
     const before = event.my_rsvp ?? null;
     if (before === next) return event;
     const delta = (status: RsvpStatus) =>
@@ -135,12 +146,12 @@ export function useRsvp() {
  * in means the list paints from the server payload and only refetches when it
  * goes stale, instead of flashing a skeleton on every navigation.
  */
-export function useAnnouncements(initialData?: AnnouncementsPage) {
+export function useAnnouncements(initialData?: AnnouncementsPage, limit = ANNOUNCEMENTS_PAGE) {
     const gate = useAuthedQueryOptions();
     return useQuery({
-        queryKey: qk.announcements,
+        queryKey: qk.announcementList(limit),
         queryFn: () =>
-            unwrap(api.GET("/api/v1/announcements/", { params: { query: { limit: 50 } } })),
+            unwrap(api.GET("/api/v1/announcements/", { params: { query: { limit } } })),
         ...gate,
         initialData,
     });
@@ -159,8 +170,9 @@ export function useCreateAnnouncement() {
  * Opening an announcement flips one boolean and one counter.
  *
  * It used to refetch all fifty announcements to learn that, which is a page of
- * JSON to discover something the browser already knew. The cache is edited
- * instead, and put back if the write fails.
+ * JSON to discover something the browser already knew. Every cached list is
+ * edited instead (the home widget and the board hold separate pages), and
+ * put back if the write fails.
  */
 export function useMarkAnnouncementRead() {
     const qc = useQueryClient();
@@ -173,32 +185,32 @@ export function useMarkAnnouncementRead() {
             ),
         onMutate: async (id) => {
             await qc.cancelQueries({ queryKey: qk.announcements });
-            const previous = qc.getQueryData<AnnouncementsPage>(qk.announcements);
-            if (!previous) return { previous };
-
-            const target = previous.items.find((item) => item.id === id);
-            if (!target || target.is_read) return { previous };
-
-            qc.setQueryData<AnnouncementsPage>(qk.announcements, {
-                ...previous,
-                unread: Math.max(0, previous.unread - 1),
-                items: previous.items.map((item) =>
-                    item.id === id
-                        ? {
-                              ...item,
-                              is_read: true,
-                              read_count:
-                                  typeof item.read_count === "number"
-                                      ? item.read_count + 1
-                                      : item.read_count,
-                          }
-                        : item,
-                ),
+            const previous = qc.getQueriesData<AnnouncementsPage>({ queryKey: qk.announcements });
+            qc.setQueriesData<AnnouncementsPage>({ queryKey: qk.announcements }, (page) => {
+                if (!page) return page;
+                const target = page.items.find((item) => item.id === id);
+                if (!target || target.is_read) return page;
+                return {
+                    ...page,
+                    unread: Math.max(0, page.unread - 1),
+                    items: page.items.map((item) =>
+                        item.id === id
+                            ? {
+                                  ...item,
+                                  is_read: true,
+                                  read_count:
+                                      typeof item.read_count === "number"
+                                          ? item.read_count + 1
+                                          : item.read_count,
+                              }
+                            : item,
+                    ),
+                };
             });
             return { previous };
         },
         onError: (_error, _id, context) => {
-            if (context?.previous) qc.setQueryData(qk.announcements, context.previous);
+            for (const [key, page] of context?.previous ?? []) qc.setQueryData(key, page);
         },
     });
 }
@@ -220,11 +232,22 @@ export function useHousingListing(id: string | null) {
     });
 }
 
+/**
+ * A write to one listing refetches the boards and that listing. Every other
+ * cached listing stays put; before this every housing query was thrown away.
+ */
+function invalidateListing(qc: ReturnType<typeof useQueryClient>, id: string) {
+    return Promise.all([
+        qc.invalidateQueries({ queryKey: qk.housingLists }),
+        qc.invalidateQueries({ queryKey: qk.housingListing(id) }),
+    ]);
+}
+
 export function useCreateHousing() {
     const qc = useQueryClient();
     return useMutation({
         mutationFn: (body: HousingCreate) => unwrap(api.POST("/api/v1/housing/", { body })),
-        onSuccess: () => qc.invalidateQueries({ queryKey: ["housing"] }),
+        onSuccess: () => qc.invalidateQueries({ queryKey: qk.housingLists }),
     });
 }
 
@@ -238,7 +261,7 @@ export function useUpdateHousing(id: string) {
                     body,
                 }),
             ),
-        onSuccess: () => qc.invalidateQueries({ queryKey: ["housing"] }),
+        onSuccess: () => invalidateListing(qc, id),
     });
 }
 
@@ -257,7 +280,7 @@ export function useRenewHousing(id: string) {
                     params: { path: { listing_id: id } },
                 }),
             ),
-        onSuccess: () => qc.invalidateQueries({ queryKey: ["housing"] }),
+        onSuccess: () => invalidateListing(qc, id),
     });
 }
 
@@ -265,12 +288,22 @@ export function useRenewHousing(id: string) {
 
 type FlowParams = { class_id?: number; study_group?: string };
 
-export function usePathFlow(params: FlowParams) {
+/**
+ * `initialData` is the flow the server already drew for this render.
+ *
+ * The flow is computed over every member's career history, so it is the most
+ * expensive read on the site. Without this the browser asked for the identical
+ * unfiltered flow again the moment it hydrated, and the page cost twice what it
+ * had to. Only the caller knows whether its params match what the server
+ * fetched, so it decides whether to pass it.
+ */
+export function usePathFlow(params: FlowParams, initialData?: PathFlow) {
     const gate = useAuthedQueryOptions();
     return useQuery({
         queryKey: qk.pathsFlow(params),
         queryFn: () => unwrap(api.GET("/api/v1/paths/flow", { params: { query: params } })),
         ...gate,
+        initialData,
         placeholderData: (previous) => previous,
     });
 }

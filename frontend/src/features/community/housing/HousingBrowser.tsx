@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo } from "react";
+import { useCallback, useMemo, useState } from "react";
 
 import { useUrlState } from "@/lib/urlState";
 import AskAnalysis from "@/features/community/ask/AskAnalysis";
@@ -32,12 +32,57 @@ const KINDS = [
  */
 export default function HousingBrowser({ listings }: { listings: HousingCardData[] }) {
     const { params, setParams } = useUrlState();
-    const kind = params.get("kind") ?? "all";
-    const city = params.get("city") ?? "all";
     const question = params.get("ask") ?? "";
 
-    const setKind = (value: string) => setParams({ kind: value === "all" ? null : value });
-    const setCity = (value: string) => setParams({ city: value === "all" ? null : value });
+    /**
+     * The two filters are held locally and mirrored to the address bar.
+     *
+     * Both are answered entirely from `listings`, which is already in memory,
+     * so the chip has no reason to wait for the URL: the local state repaints
+     * the board in the same frame as the click, and the `replace` that follows
+     * runs as a transition (`lib/urlState.ts`) so a slow round trip cannot hold
+     * the next click.
+     */
+    const urlKind = params.get("kind") ?? "all";
+    const urlCity = params.get("city") ?? "all";
+    const [kind, setKindLocal] = useState(urlKind);
+    const [city, setCityLocal] = useState(urlCity);
+
+    /**
+     * What this last wrote to the address bar, in the spirit of the `mirrored`
+     * ref `JobsBrowser` keeps for its search box.
+     *
+     * The URL can also change without us: the back button, or a link into a
+     * filtered board followed while this stays mounted. Without the guard the
+     * chips would go on showing the filter the visitor just navigated away
+     * from, and the board would be filtered by it. Adjusted during render
+     * rather than from an effect, so no frame paints the stale filter.
+     */
+    const [mirrored, setMirrored] = useState({ kind: urlKind, city: urlCity });
+    if (mirrored.kind !== urlKind || mirrored.city !== urlCity) {
+        setMirrored({ kind: urlKind, city: urlCity });
+        setKindLocal(urlKind);
+        setCityLocal(urlCity);
+    }
+
+    const setKind = useCallback(
+        (value: string) => {
+            setMirrored((current) => ({ ...current, kind: value }));
+            setKindLocal(value);
+            setParams({ kind: value === "all" ? null : value });
+        },
+        [setParams],
+    );
+
+    const setCity = useCallback(
+        (value: string) => {
+            setMirrored((current) => ({ ...current, city: value }));
+            setCityLocal(value);
+            setParams({ city: value === "all" ? null : value });
+        },
+        [setParams],
+    );
+
     const setQuestion = (value: string) => setParams({ ask: value });
 
     const answer = useHousingAsk(question, { enabled: question.length > 0 });
@@ -160,9 +205,12 @@ export default function HousingBrowser({ listings }: { listings: HousingCardData
             <h2 className="sr-only">Listings</h2>
 
             {shown.length ? (
-                <div className="hgrid three [content-visibility:auto]">
-                    {shown.map((listing) => (
-                        <HousingCard key={listing.id} listing={listing} />
+                /* The cards carry `cv-card` themselves; the grid must not, or
+                   the browser skips the whole board rather than its off-screen
+                   rows. */
+                <div className="hgrid three">
+                    {shown.map((listing, index) => (
+                        <HousingCard key={listing.id} listing={listing} index={index} />
                     ))}
                 </div>
             ) : (

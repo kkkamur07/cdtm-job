@@ -10,6 +10,7 @@ from backend.announcements.domain import Announcement
 from backend.announcements.infrastructure.orm_models import AnnouncementReadRow, AnnouncementRow
 from backend.core.mapping import dump_for_db
 from backend.core.page import PageResult
+from backend.core.sql import page_with_total
 from infrastructure.repository import run_db, utc_now
 
 
@@ -65,20 +66,18 @@ class SqlAnnouncementRepository:
     ) -> PageResult[Announcement]:
         async def go() -> PageResult[Announcement]:
             conds = [] if include_unpublished else self._visible()
-            total = await self._s.scalar(select(func.count(AnnouncementRow.id)).where(*conds))
-            res = await self._s.execute(
+            rows, total = await page_with_total(
+                self._s,
                 self._select(viewer_member_id)
                 .where(*conds)
                 .order_by(
                     AnnouncementRow.is_pinned.desc(),
                     func.coalesce(AnnouncementRow.published_at, AnnouncementRow.created_at).desc(),
-                )
-                .offset(skip)
-                .limit(limit)
+                ),
+                skip=skip,
+                limit=limit,
             )
-            return PageResult(
-                items=[self._to_domain(r, n, ir) for r, n, ir in res.all()], total=int(total or 0)
-            )
+            return PageResult(items=[self._to_domain(r, n, ir) for r, n, ir in rows], total=total)
 
         return await run_db("announcements.list", go, session=self._s)
 

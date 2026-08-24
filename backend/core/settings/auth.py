@@ -24,6 +24,11 @@ class AuthSettings(BaseSettings):
     jwt_secret: str | None = Field(default=None, alias="SUPABASE_JWT_SECRET")
     jwt_audience: str = "authenticated"
     jwks_cache_seconds: int = 600
+    # How stale ``accounts.last_sign_in_at`` may get before a request refreshes it. Every
+    # authenticated request used to UPDATE the row, so every GET took a row lock and wrote
+    # WAL for a column nothing reads more precisely than "roughly when were they last here".
+    # Fifteen minutes keeps the admin worklist useful and turns the prelude into one SELECT.
+    sign_in_touch_seconds: int = 900
     # Only Google Workspace accounts from these domains may sign in.
     # NoDecode: env values are plain comma lists, not JSON; the validator below splits them.
     allowed_email_domains: Annotated[list[str], NoDecode] = Field(
@@ -51,6 +56,20 @@ class AuthSettings(BaseSettings):
         if not self.supabase_url:
             return None
         return self.supabase_url.rstrip("/") + "/auth/v1/.well-known/jwks.json"
+
+    @property
+    def jwt_issuer(self) -> str | None:
+        """The ``iss`` a Supabase-issued token carries, or ``None`` when unknown.
+
+        GoTrue signs every access token with ``iss = {SUPABASE_URL}/auth/v1``. Checking it
+        stops a token minted by *another* Supabase project whose signing key happens to be
+        reachable from being accepted here. It is only knowable when the project URL is
+        configured, and only applies to the asymmetric path: the HS256 path is the local
+        development login, which mints its own issuer (see ``dev_token_issuer``).
+        """
+        if not self.supabase_url:
+            return None
+        return self.supabase_url.rstrip("/") + "/auth/v1"
 
 
 @settings_cache

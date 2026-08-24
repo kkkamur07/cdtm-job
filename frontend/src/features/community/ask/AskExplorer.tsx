@@ -3,7 +3,7 @@
 import dynamic from "next/dynamic";
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
-import { useCallback, useMemo, useState } from "react";
+import { memo, useCallback, useMemo, useState } from "react";
 
 import type { Member } from "@/api/types";
 import { AvatarCircle } from "@/components/MemberAvatar";
@@ -66,6 +66,15 @@ export default function AskExplorer() {
         },
         [router],
     );
+
+    // One callback for every row, so picking a person does not hand each of the
+    // other rows a new function and re-render all of them. The row passes its
+    // own id back rather than closing over it.
+    const select = useCallback((id: string) => {
+        setSelectedId((current) => (current === id ? null : id));
+    }, []);
+
+    const clearSelection = useCallback(() => setSelectedId(null), []);
 
     const selected = members.find((member) => member.id === selectedId) ?? null;
     const asking = answer.isFetching;
@@ -158,9 +167,7 @@ export default function AskExplorer() {
                 </>
             )}
 
-            {selected && (
-                <SelectedBar member={selected} onClose={() => setSelectedId(null)} />
-            )}
+            {selected && <SelectedBar member={selected} onClose={clearSelection} />}
 
             <div className="results">
                 {question && asking && members.length === 0 && !answer.error && (
@@ -191,16 +198,16 @@ export default function AskExplorer() {
                         <p className="mb-2.5 text-[13px] text-muted">
                             Sorted by match, then recently updated.
                         </p>
-                        <ul className="card overflow-hidden [content-visibility:auto]">
+                        {/* The rows carry `cv-row`; the list itself must not, or
+                            the browser skips all of them together. */}
+                        <ul className="card overflow-hidden">
                             {members.map((member) => (
                                 <ResultRow
                                     key={member.id}
                                     member={member}
                                     filters={interpretation?.filters}
                                     selected={member.id === selectedId}
-                                    onSelect={() =>
-                                        setSelectedId(member.id === selectedId ? null : member.id)
-                                    }
+                                    onSelect={select}
                                 />
                             ))}
                         </ul>
@@ -220,8 +227,13 @@ function countStage(flow: { nodes?: { stage: string }[] | null }, stage: string)
  *
  * The row is a button, because clicking it selects rather than navigates; the
  * name inside is a link, so opening the entry in a new tab still works.
+ *
+ * Memoized, and given a callback that takes an id rather than a closure over
+ * one, so picking a person re-renders the row that was picked and the row that
+ * was let go rather than the whole answer. `whyMatched` walks the member six
+ * times, which is what makes an unmemoized row expensive.
  */
-function ResultRow({
+const ResultRow = memo(function ResultRow({
     member,
     filters,
     selected,
@@ -230,9 +242,9 @@ function ResultRow({
     member: Member;
     filters?: Record<string, unknown> | null;
     selected: boolean;
-    onSelect: () => void;
+    onSelect: (id: string) => void;
 }) {
-    const reasons = whyMatched(member, filters);
+    const reasons = useMemo(() => whyMatched(member, filters), [member, filters]);
     const subtitle = [member.title, member.company, member.location, member.class_label]
         .filter(Boolean)
         .join(" · ");
@@ -243,7 +255,7 @@ function ResultRow({
                 type="button"
                 className="rrow rrow-actions w-full text-left"
                 aria-pressed={selected}
-                onClick={onSelect}
+                onClick={() => onSelect(member.id)}
             >
                 <AvatarCircle name={member.name} avatar={member.avatar} px={48} />
                 <span className="min-w-0">
@@ -277,7 +289,7 @@ function ResultRow({
             </span>
         </li>
     );
-}
+});
 
 /** The bar that appears once somebody is picked, with the actions for them. */
 function SelectedBar({ member, onClose }: { member: Member; onClose: () => void }) {

@@ -34,7 +34,11 @@ export function useDevMembers(query: string) {
     });
 }
 
-/** Trade a CDTM address, and optionally a roster slug, for an access token. */
+/** Trade a CDTM address, or a roster slug, for an access token. */
 export function devLogin(email: string, memberSlug: string | null): Promise<DevLoginResponse> {
-    return unwrap(api.POST("/api/v1/auth/dev/login", { body: { email, member_slug: memberSlug } }));
+    // The slug is the identifier the backend wants, and it reads the address
+    // off that roster row itself. Sending the typed address alongside it is a
+    // 409 whenever the two name different people, so only one of them travels.
+    const body = memberSlug ? { member_slug: memberSlug } : { email };
+    return unwrap(api.POST("/api/v1/auth/dev/login", { body }));
 }

@@ -19,6 +19,7 @@ from backend.jobboard.domain import (
     ExperienceLevel,
     Job,
     JobStatus,
+    JobSummary,
     WorkArrangement,
 )
 
@@ -51,9 +52,12 @@ class FakeJobRepository:
         self._items = items
         self.calls: list[dict] = []
 
-    async def list(self, *, skip: int, limit: int, filters: JobFilters) -> PageResult[Job]:
+    async def list(self, *, skip: int, limit: int, filters: JobFilters) -> PageResult[JobSummary]:
         self.calls.append({"skip": skip, "limit": limit, "filters": filters})
-        return PageResult(items=list(self._items), total=len(self._items))
+        # The port hands out summaries, the way the SQL list does.
+        return PageResult(
+            items=[JobSummary.model_validate(j) for j in self._items], total=len(self._items)
+        )
 
 
 async def test_list_jobs_asks_for_the_first_page_of_fifty_by_default() -> None:

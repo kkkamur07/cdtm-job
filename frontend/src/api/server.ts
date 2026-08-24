@@ -5,22 +5,26 @@ import { cache } from "react";
 import { API_BASE_URL, API_PREFIX } from "./config";
 import { toApiError } from "./errors";
 import { getAccessToken } from "@/auth/session";
+import { ANNOUNCEMENTS_PAGE } from "@/features/community/announcements/page-size";
 import type {
     Announcement,
     Company,
     CompanyContact,
     CommunityEvent,
+    CommunityEventSummary,
     DirectoryFacets,
     HousingListing,
+    HousingListingSummary,
     Intents,
     Job,
+    JobSummary,
     Me,
     Member,
     MemberPath,
     MemberProfile,
     PathFlow,
     PathGroups,
-    SavedMemberRow,
+    SavedMembersPage,
 } from "./types";
 
 /**
@@ -76,7 +80,15 @@ type Page<T> = { items: T[]; total: number };
 export const loadMe = cache(() => get<Me>("/auth/me"));
 export const loadMyMember = cache(() => get<MemberProfile>("/members/me"));
 export const loadMyIntents = cache(() => get<Intents | null>("/members/me/intents"));
-export const loadMySaved = cache(() => get<SavedMemberRow[]>("/network/saved"));
+/**
+ * The shortlist, as a page.
+ *
+ * `/network/saved` is `{items, total}` like every other list now, and 100 is the cap
+ * `PageParams` allows. The home feed and `/me` both want the whole shortlist rather than
+ * a window on it, so they ask for the first hundred and read `total` for the count; a
+ * member with more than a hundred saved people would see the hundred most recent.
+ */
+export const loadMySaved = cache(() => get<SavedMembersPage>("/network/saved", { limit: 100 }));
 
 /* ------------------------------------------------------------- members */
 
@@ -90,17 +102,35 @@ export const loadMember = cache((slug: string) =>
 
 /* ----------------------------------------------------------- community */
 
-export const loadAnnouncements = cache(() =>
-    get<Page<Announcement> & { unread: number }>("/announcements/", { limit: 50 }),
+/** The board reads a full page; the home widget asks for the two it shows. */
+export const loadAnnouncements = cache((limit: number = ANNOUNCEMENTS_PAGE) =>
+    get<Page<Announcement> & { unread: number }>("/announcements/", { limit }),
 );
+
+/**
+ * Just the badge number, for the shell.
+ *
+ * The shell used to read it off `loadAnnouncements`, which meant every page in
+ * the app pulled a full page of announcements with their bodies over the wire
+ * to take one integer off the envelope. Dropping that call to `limit: 1` would
+ * not have helped: `React.cache` keys on the argument, so the shell and the
+ * announcements page would have made two requests instead of one.
+ *
+ * The shell is a layout and cannot see what the page below it loaded, so on the
+ * two routes that do read a list (`/` and `/announcements`) this is a second
+ * request for a number their payload already carries. One count endpoint on
+ * every route is cheaper than a page of announcements on every route, which is
+ * the trade this is.
+ */
+export const loadUnreadCount = cache(() => get<{ unread: number }>("/announcements/unread-count"));
 export const loadEvents = cache((upcoming: boolean) =>
-    get<Page<CommunityEvent>>("/events/", { upcoming, limit: 100 }),
+    get<Page<CommunityEventSummary>>("/events/", { upcoming, limit: 100 }),
 );
 export const loadEvent = cache((id: string) =>
     get<CommunityEvent>(`/events/${encodeURIComponent(id)}`),
 );
 export const loadHousing = cache((query: Query) =>
-    get<Page<HousingListing>>("/housing/", query),
+    get<Page<HousingListingSummary>>("/housing/", query),
 );
 export const loadHousingListing = cache((id: string) =>
     get<HousingListing>(`/housing/${encodeURIComponent(id)}`),
@@ -125,7 +155,9 @@ export const loadPathMembers = cache((query: Query) =>
 
 /* ------------------------------------------------------------ jobboard */
 
-export const loadJobs = cache((query: Query) => get<Page<Job>>("/jobs/", query, { revalidate: 60 }));
+export const loadJobs = cache((query: Query) =>
+    get<Page<JobSummary>>("/jobs/", query, { revalidate: 60 }),
+);
 export const loadJobBySlug = cache((slug: string) =>
     get<Job>(`/jobs/slug/${encodeURIComponent(slug)}`, undefined, { revalidate: 60 }),
 );
@@ -150,12 +182,6 @@ export const loadCompanies = cache((query: Query) =>
 export const loadCompany = cache((id: string) =>
     get<Company>(`/companies/${encodeURIComponent(id)}`, undefined, { revalidate: 300 }),
 );
-
-/** Jobs carry a company_id, so pages that list jobs need this lookup once. */
-export const loadCompanyMap = cache(async (): Promise<Map<string, Company>> => {
-    const companies = await loadCompanies({ limit: 100 });
-    return new Map(companies.items.map((company) => [company.id, company]));
-});
 
 /**
  * Members by id, for the ids a page actually shows.

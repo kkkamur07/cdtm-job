@@ -26,3 +26,11 @@ class BlobStorage(Protocol):
     async def delete(self, bucket: str, key: str) -> None:
         """Remove the blob. Deleting a key that is already gone is not an error."""
         ...
+
+    async def aclose(self) -> None:
+        """Release whatever the adapter holds open. Called once from the app lifespan.
+
+        On the port rather than only on the adapter that needs it, so the lifespan does not
+        have to ask which adapter it got.
+        """
+        ...

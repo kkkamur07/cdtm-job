@@ -108,6 +108,28 @@ export default async function MemberGate({
     return <>{children}</>;
 }
 
+/**
+ * Starts a gated page's own reads before the gate has decided anything.
+ *
+ * The gate awaits `/auth/me` before React is allowed to render its children, so
+ * a child that fetches for itself starts a full round trip late. A page calls
+ * this from a synchronous component instead and hands the promise down: the
+ * page's reads and the gate's own go out together.
+ *
+ * Nothing is read for a signed-out visitor. There is no page to draw, the gate
+ * is about to show the sign-in notice, and every one of these endpoints needs a
+ * member, so the requests could only come back 401.
+ *
+ * The rejection is marked handled here because the gate may decide not to
+ * render the child at all (expired session, wrong account), which would leave
+ * it unobserved; whoever awaits the promise still sees it.
+ */
+export function gatedData<T>(load: () => Promise<T>): Promise<T | null> {
+    const data = getIdentity().then(({ accessToken }) => (accessToken ? load() : null));
+    data.catch(() => {});
+    return data;
+}
+
 function Notice({ title, children }: { title: string; children: React.ReactNode }) {
     return (
         <div className="shell py-12">

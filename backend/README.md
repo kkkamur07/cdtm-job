@@ -49,6 +49,36 @@ uv run pytest tests/integration/test_network.py -k intro -q
 uv run pytest tests/unit/test_paths_classifier.py -q
 ```
 
+## Running it in production
+
+`poe serve` is the development server: one worker, `--reload`, and a socket bound for you.
+Production is the same ASGI app under a different launch line.
+
+```bash
+uv run alembic -c infrastructure/alembic.ini upgrade head   # or: uv run poe migrate
+uv run uvicorn backend.core.main:app \
+  --host 0.0.0.0 --port 8000 \
+  --workers 4 \
+  --proxy-headers --forwarded-allow-ips='*' \
+  --timeout-keep-alive 30
+```
+
+- `--workers N` is processes, not threads. Each one gets its own connection pool and its own
+  copy of every in-process cache (`backend/core/cache.py`), so pick N against the database
+  first: `DATABASE_POOL_SIZE + DATABASE_MAX_OVERFLOW` connections per worker, times N,
+  against what the pooler will give you. The boot log line prints that budget.
+- `--proxy-headers` with `--forwarded-allow-ips` set to the proxy that actually fronts the
+  app (`'*'` only when nothing but the platform's own load balancer can reach the port).
+  Without it every request is logged as coming from the proxy and `request.url` is built with
+  the wrong scheme.
+- `--timeout-keep-alive 30` matches the idle keep-alive most platform load balancers use;
+  the default 5 s makes the balancer reopen connections it did not need to.
+- Migrations run before the new processes start, never from inside the app.
+- `pg_stat_statements` is worth enabling from the Supabase dashboard (Database → Extensions),
+  and only from there: it is the per-query-shape view of what the API is actually spending
+  its time on, and there is deliberately no migration for it because the extension is a
+  property of the database instance, not of this schema.
+
 ## Directory map
 
 ```text
@@ -202,6 +232,15 @@ request. There is no session, no cookie and no password anywhere in this codebas
 `SUPABASE_JWT_SECRET`, anything else against the project's JWKS. Supabase projects exist in
 both configurations, so both are supported.
 
+Once the project moves to asymmetric signing keys, **leave `SUPABASE_JWT_SECRET` unset in
+production**. Set `SUPABASE_URL` and the verifier fetches the JWKS; keeping the legacy shared
+secret next to it leaves a second way to mint a token that this API accepts, and that secret
+is a symmetric key anyone holding it can sign with. An empty line reads as unset
+(`env_ignore_empty`), so `SUPABASE_JWT_SECRET=` in a deployed `.env` is enough; deleting the
+line is the same thing. The one place it still belongs is a machine with
+`AUTH_DEV_LOGIN_ENABLED=true`, because the development login signs with exactly that key, and
+`create_app()` refuses to boot with the dev login on in production anyway.
+
 Four dependencies, in increasing strictness. Pick the weakest one that is correct:
 
 | Dependency | Requires | Use for |
@@ -281,7 +320,7 @@ is what belongs in `jobs.image_url` or `housing_listings.photo_urls`. See
 | Method | Path | Auth | Notes |
 | --- | --- | --- | --- |
 | `POST` | `/media/{kind}` | signed in | `kind` is `job-image`, `housing-photo` or `avatar`; multipart `file`; 201 with `{url, bucket, key, content_type, size}` |
-| `GET` | `/media/{bucket}/{key}` | none | the key is the access control; streams locally, 307s to a signed URL on Supabase |
+| `GET` | `/media/{bucket}/{key}` | none | the key is the access control; streams locally, 307s to a signed URL on Supabase, which is cached in process and re-advertised to the browser through `Cache-Control` |
 | `DELETE` | `/media/{bucket}/{key}` | admin | no blob has a recorded owner yet |
 
 JPEG, PNG and WebP only, decided by the magic bytes rather than the declared type (422
@@ -375,10 +414,10 @@ environment wins over the files.
 
 | Class | Prefix | Notable keys |
 | --- | --- | --- |
-| `AppSettings` | `APP_` | `ENVIRONMENT`, `DEBUG`, `API_PREFIX`, `CORS_ORIGINS` (comma-separated), `FRONTEND_URL`, `PUBLIC_BASE_URL` |
-| `DatabaseSettings` | `DATABASE_` | `URL`, `MIGRATOR_URL`, `POOL_SIZE`, `MAX_OVERFLOW`, `STATEMENT_TIMEOUT_MS`, `ECHO` |
-| `AuthSettings` | `AUTH_` | `SUPABASE_URL`, `SUPABASE_JWT_SECRET`, `AUTH_JWT_AUDIENCE`, `AUTH_ALLOWED_EMAIL_DOMAINS`, `AUTH_ADMIN_EMAILS`, `AUTH_JWKS_CACHE_SECONDS`, `AUTH_DEV_LOGIN_ENABLED` |
-| `StorageSettings` | `STORAGE_` | `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`, `STORAGE_AVATARS_BUCKET`, `STORAGE_BACKEND`, `STORAGE_LOCAL_DIR`, `STORAGE_MAX_UPLOAD_BYTES` |
+| `AppSettings` | `APP_` | `ENVIRONMENT`, `DEBUG`, `API_PREFIX`, `CORS_ORIGINS` (comma-separated), `FRONTEND_URL`, `PUBLIC_BASE_URL`, `SLOW_REQUEST_MS` |
+| `DatabaseSettings` | `DATABASE_` | `URL`, `MIGRATOR_URL`, `POOL_SIZE`, `MAX_OVERFLOW`, `STATEMENT_TIMEOUT_MS`, `ECHO`, `POOLER_TRANSACTION_MODE` |
+| `AuthSettings` | `AUTH_` | `SUPABASE_URL`, `SUPABASE_JWT_SECRET`, `AUTH_JWT_AUDIENCE`, `AUTH_ALLOWED_EMAIL_DOMAINS`, `AUTH_ADMIN_EMAILS`, `AUTH_JWKS_CACHE_SECONDS`, `AUTH_SIGN_IN_TOUCH_SECONDS`, `AUTH_DEV_LOGIN_ENABLED` |
+| `StorageSettings` | `STORAGE_` | `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`, `STORAGE_BACKEND`, `STORAGE_LOCAL_DIR`, `STORAGE_MAX_UPLOAD_BYTES` |
 
 Behaviours worth knowing:
 
@@ -444,6 +483,12 @@ JWT with the test secret, and `auth(email)` returns the header. Fixtures `member
 `tests/integration/test_migrations.py` is the schema guard: it migrates a scratch database
 from empty to head and asserts Alembic's `compare_metadata` against `Base.metadata` is empty.
 Change an ORM model without a migration and it goes red.
+
+Files named `*_gaps*` in both lanes were written from mutation-testing survivors: each test
+pins a behaviour that mutmut showed nothing else asserted on. They sit beside the originals on
+purpose, one file per context and lane, so a future campaign can read them as the record of
+what was already found. How to run mutmut, and why `--max-children 1` is mandatory against
+one database, is in [`docs/mutation-testing.md`](../docs/mutation-testing.md).
 
 ## Scripts
 

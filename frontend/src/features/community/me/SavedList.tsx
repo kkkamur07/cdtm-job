@@ -35,7 +35,7 @@ export default function SavedList() {
 
     if (saved.isPending) return <LoadingBlock label="Loading saved people" rows={3} />;
     if (saved.error) return <ErrorState error={saved.error} onRetry={() => saved.refetch()} />;
-    if (!saved.data?.length && !removed) {
+    if (!saved.data?.items.length && !removed) {
         return (
             <EmptyState
                 title="Nothing saved yet"
@@ -55,6 +55,9 @@ export default function SavedList() {
         toggle.mutate({ memberId: member.id, saved: false, member });
     };
 
+    // The note goes back with the person, explicitly: this is the one caller
+    // that knows what the note was, so it is the one that may speak for it. A
+    // row that had none is restored with none.
     const undo = () => {
         if (!removed) return;
         toggle.mutate({
@@ -65,6 +68,9 @@ export default function SavedList() {
         });
         setRemoved(null);
     };
+
+    const items = saved.data?.items ?? [];
+    const total = saved.data?.total ?? items.length;
 
     return (
         <>
@@ -81,8 +87,17 @@ export default function SavedList() {
                 </p>
             )}
 
+            {/* The shortlist is read one page deep, while the home rail counts
+                the whole thing. Saying so keeps the difference from reading as
+                lost people. */}
+            {total > items.length ? (
+                <p className="border-b border-line px-3.5 py-2.5 text-[12.5px] text-muted">
+                    Showing the {items.length} most recent of {total} saved people.
+                </p>
+            ) : null}
+
             <ul>
-                {(saved.data ?? []).map(({ member, saved: record }) => {
+                {items.map(({ member, saved: record }) => {
                     const busy = toggle.isPending && toggle.variables?.memberId === member.id;
                     return (
                         <li

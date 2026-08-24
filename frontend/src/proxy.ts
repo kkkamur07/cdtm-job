@@ -13,10 +13,18 @@ export async function proxy(request: NextRequest) {
 export const config = {
     matcher: [
         /*
-         * Every path except static assets and image files. Those never carry a
-         * session and running the refresh on them would add a Supabase round
-         * trip to each one.
+         * Documents only. Everything listed here either cannot carry a session
+         * cookie back to the browser or has no use for one, and running the
+         * refresh on it would add a Supabase round trip to each request:
+         * static assets and images, the RSC data payloads under `_next/data`,
+         * the route handlers under `api/` (the dev-session route is pure
+         * cookie I/O and the rest of the API lives on the backend), and the
+         * metadata files a crawler asks for.
+         *
+         * A router prefetch is not excluded and must not be: it asks for the
+         * document's own path with an RSC header, so it matches here and gets
+         * the refresh, which is the only way its rotated cookies survive.
          */
-        "/((?!_next/static|_next/image|favicon.ico|assets|avatars|profiles|.*\\.(?:svg|png|jpg|jpeg|gif|webp|mp4)$).*)",
+        "/((?!api/|_next/static|_next/image|_next/data|favicon.ico|robots.txt|sitemap.xml|manifest|assets|avatars|profiles|.*\\.(?:svg|png|jpg|jpeg|gif|webp|mp4|ico|txt|xml|json|woff2?)$).*)",
     ],
 };

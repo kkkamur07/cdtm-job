@@ -5,6 +5,7 @@ from __future__ import annotations
 from uuid import UUID
 
 from backend.core.actor import Actor
+from backend.core.cache import TTLCache
 from backend.core.exceptions import ForbiddenError, NotFoundError
 from backend.core.page import PageResult
 from backend.jobboard.application.commands import (
@@ -18,6 +19,14 @@ from backend.jobboard.application.ports import (
 from backend.jobboard.application.visibility import can_manage_company
 from backend.jobboard.domain import Company
 
+#: The company directory is three hundred curated rows that change when somebody adds or
+#: corrects one, which is rare, and it is the biggest anonymous response the platform
+#: serves (49 KB at limit 100). Every write below empties the cache, so a correction is
+#: visible on the next request rather than in five minutes.
+COMPANIES_TTL_SECONDS = 300
+
+_COMPANIES = TTLCache(maxsize=64, ttl=COMPANIES_TTL_SECONDS)
+
 
 class CompanyService:
     def __init__(self, repo: CompanyRepository) -> None:
@@ -26,7 +35,13 @@ class CompanyService:
     async def list_companies(
         self, *, skip: int = 0, limit: int = 50, filters: CompanyFilters | None = None
     ) -> PageResult[Company]:
-        return await self._repo.list(skip=skip, limit=limit, filters=filters or CompanyFilters())
+        key = (skip, limit, filters or CompanyFilters())
+        cached = _COMPANIES.get(key)
+        if cached is not None:
+            return cached
+        page = await self._repo.list(skip=skip, limit=limit, filters=filters or CompanyFilters())
+        _COMPANIES.set(key, page)
+        return page
 
     async def get_company(self, company_id: UUID) -> Company:
         row = await self._repo.get(company_id)
@@ -44,7 +59,9 @@ class CompanyService:
         self, payload: CompanyCreate, *, created_by_member_id: UUID | None
     ) -> Company:
         """The curator is whoever is signed in. The body cannot carry a creator id at all."""
-        return await self._repo.create(payload, created_by_member_id=created_by_member_id)
+        company = await self._repo.create(payload, created_by_member_id=created_by_member_id)
+        _COMPANIES.clear()
+        return company
 
     async def update_company(
         self, actor: Actor, company_id: UUID, payload: CompanyUpdate
@@ -58,6 +75,7 @@ class CompanyService:
         row = await self._repo.update(company_id, payload)
         if row is None:
             raise NotFoundError(f"Company {company_id} not found")
+        _COMPANIES.clear()
         return row
 
     async def delete_company(self, actor: Actor, company_id: UUID) -> None:
@@ -67,3 +85,4 @@ class CompanyService:
             raise ForbiddenError("only an admin can delete a company")
         if not await self._repo.delete(company_id):
             raise NotFoundError(f"Company {company_id} not found")
+        _COMPANIES.clear()

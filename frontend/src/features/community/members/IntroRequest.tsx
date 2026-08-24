@@ -16,10 +16,14 @@ import { firstName } from "@/lib/format";
 export default function IntroRequest({ memberId, name }: { memberId: string; name: string }) {
     const [open, setOpen] = useState(false);
     const [message, setMessage] = useState("");
-    const intros = useMyIntros();
+    // Narrowed to this member on the server: a row or none, rather than the
+    // whole history cut at a page and searched here, which said "never asked"
+    // about anyone whose request had fallen off the end of it.
+    const intros = useMyIntros(memberId);
     const request = useRequestIntro();
 
-    const existing = intros.data?.find(
+    // Both directions come back, so the outgoing one is picked out by target.
+    const existing = intros.data?.items.find(
         (intro) => intro.request.target_member_id === memberId && intro.request.status === "pending",
     );
 

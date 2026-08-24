@@ -61,6 +61,19 @@ class MemberFilters:
     sort: str | None = None
 
 
+@dataclass(frozen=True, slots=True)
+class Facets:
+    """What the directory's filter bar is drawn from, in one answer.
+
+    Frozen and held in tuples because it is cached in process between loader runs: a
+    caller must not be able to change what the next caller is handed.
+    """
+
+    classes: tuple[ClassRef, ...]
+    majors: tuple[str, ...]
+    members_total: int
+
+
 class MemberRepository(Protocol):
     async def search(
         self, *, skip: int, limit: int, filters: MemberFilters, viewer_member_id: UUID | None
@@ -73,6 +86,11 @@ class MemberRepository(Protocol):
     async def list_classes(self) -> list[ClassRef]: ...
     async def list_majors(self) -> list[str]: ...
     async def count(self) -> int: ...
+    async def facets(self) -> Facets: ...
+    async def viewer_context(self, member_id: UUID) -> tuple[str | None, str | None, int | None]:
+        """(class label, location, latest class year), for the Ask's viewer context."""
+        ...
+
     async def upsert_classes(self, classes: list[ClassImport]) -> int: ...
     async def upsert_member(self, payload: MemberImport) -> UUID: ...
     async def update_profile(
@@ -94,6 +112,13 @@ class MemberRepository(Protocol):
     ) -> None: ...
     async def set_email(self, member_id: UUID, email: str | None) -> None: ...
     async def find_id_by_slug(self, slug: str) -> UUID | None: ...
+    async def slugs_for_base(self, base: str) -> list[str]:
+        """Every slug that is ``base`` or ``base-<something>``, for picking a free one.
+
+        One statement instead of a probe per candidate: naming a member is one write, and
+        it used to cost a round trip for the base and one more for every taken suffix.
+        """
+        ...
 
 
 class EntryRepository(Protocol):

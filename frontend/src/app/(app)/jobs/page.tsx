@@ -6,14 +6,16 @@ import {
     loadMemberIndex,
     loadMembersAtCompanies,
 } from "@/api/server";
+import { getIdentity } from "@/auth/session";
 import JobsBrowser from "@/features/jobboard/JobsBrowser";
 import { toJobRow } from "@/features/jobboard/jobData";
 
-// Forces per-request rendering instead of build-time prerendering, since this
-// page reads via revalidate-based loaders (loadJobs, loadCompanies) and there
-// is no live backend at build time. The revalidate windows on the individual
-// fetches still govern the Data Cache, so runtime caching is unchanged.
-export const dynamic = "force-dynamic";
+// No `dynamic = "force-dynamic"` here. Every loader reads the request's cookies
+// through `getAccessToken`, which already opts this route out of build-time
+// prerendering. The export used to be there for that reason, but it also
+// implies `fetchCache = "force-no-store"`, which silently killed the
+// `revalidate: 60/300` windows on `loadJobs` and `loadCompanies` for exactly
+// the routes they were written for.
 
 export const metadata = { title: "Jobs · CDTM Community" };
 
@@ -26,7 +28,8 @@ export const metadata = { title: "Jobs · CDTM Community" };
  * fail: without it the rows simply lose their "posted by" line.
  */
 export default async function JobsPage() {
-    const [jobs, companies] = await Promise.all([
+    const [{ accessToken }, jobs, companies] = await Promise.all([
+        getIdentity(),
         loadJobs({ status: "published", limit: 100 }),
         loadCompanies({ limit: 100 }),
     ]);
@@ -45,10 +48,16 @@ export default async function JobsPage() {
     // lookup, and the insiders from a batched name lookup that used to be one
     // request per distinct company. Both may fail without taking the board with
     // them; the rows simply lose those two lines.
-    const [members, byInsider] = await Promise.all([
-        loadMemberIndex(jobs.items.map((job) => job.posted_by_member_id)).catch(() => null),
-        loadMembersAtCompanies(names).catch(() => null),
-    ]);
+    //
+    // Both read the directory, which is members-only, so for a signed-out
+    // visitor they are two guaranteed 401s. The board stays public without
+    // them.
+    const [members, byInsider] = accessToken
+        ? await Promise.all([
+              loadMemberIndex(jobs.items.map((job) => job.posted_by_member_id)).catch(() => null),
+              loadMembersAtCompanies(names).catch(() => null),
+          ])
+        : [null, null];
 
     const rows = jobs.items.map((job) => {
         const company = job.company_id ? byCompany.get(job.company_id) : undefined;

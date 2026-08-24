@@ -8,12 +8,31 @@ from sqlalchemy.ext.asyncio import AsyncSession
 
 from backend.core.mapping import dump_for_db
 from backend.core.page import PageResult
-from backend.core.sql import ilike_contains
+from backend.core.sql import ilike_contains, page_with_total
 from backend.housing.application.commands import HousingCreate, HousingUpdate
 from backend.housing.application.ports import HousingFilters
-from backend.housing.domain import HousingListing
+from backend.housing.domain import HousingListing, HousingListingSummary
 from backend.housing.infrastructure.orm_models import HousingListingRow
 from infrastructure.repository import run_db, utc_now
+
+#: The board's card, column by column. Taken from the domain summary rather than written out
+#: again, so the query and the model it fills cannot drift apart.
+_SUMMARY_FIELDS = tuple(HousingListingSummary.model_fields)
+
+
+def _summary_select() -> Select:
+    """The list query's SELECT list: the card's columns and nothing else.
+
+    ``select(HousingListingRow)`` fetched ``description`` too, on every row of every page,
+    and validated it into a full ``HousingListing`` the response model then dropped. A bare
+    ``defer()`` would not do: building the model reads the attribute, and a deferred column
+    load is a lazy load, so it would cost one extra SELECT per row instead.
+
+    A function rather than a module constant so the statement is fresh per call, and so
+    ``tests/unit/test_housing_list_query.py`` can compile it and check what it asks for.
+    """
+    return select(*(getattr(HousingListingRow, name) for name in _SUMMARY_FIELDS))
+
 
 #: What people write when the column is null. ``furnished`` was added after the board had
 #: listings on it, so every row written before the migration answers "did not say"; those
@@ -95,17 +114,24 @@ class SqlHousingRepository:
 
     async def list(
         self, *, skip: int, limit: int, filters: HousingFilters
-    ) -> PageResult[HousingListing]:
-        async def go() -> PageResult[HousingListing]:
-            stmt = self._apply(select(HousingListingRow), filters)
-            total = await self._s.scalar(select(func.count()).select_from(stmt.subquery()))
-            rows = (
-                await self._s.scalars(
-                    stmt.order_by(HousingListingRow.created_at.desc()).offset(skip).limit(limit)
-                )
-            ).all()
+    ) -> PageResult[HousingListingSummary]:
+        """A page of cards. ``q`` and the furnished fallback still read the description in
+        the WHERE clause; the SELECT list simply never carries it back."""
+
+        async def go() -> PageResult[HousingListingSummary]:
+            stmt = self._apply(_summary_select(), filters)
+            rows, total = await page_with_total(
+                self._s,
+                stmt.order_by(HousingListingRow.created_at.desc()),
+                skip=skip,
+                limit=limit,
+            )
             return PageResult(
-                items=[HousingListing.model_validate(r) for r in rows], total=int(total or 0)
+                items=[
+                    HousingListingSummary(**dict(zip(_SUMMARY_FIELDS, row, strict=True)))
+                    for row in rows
+                ],
+                total=total,
             )
 
         return await run_db("housing.list", go, session=self._s)

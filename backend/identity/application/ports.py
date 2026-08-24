@@ -8,8 +8,16 @@ from backend.identity.domain import Account, MemberSummary, TokenClaims
 
 
 class TokenVerifier(Protocol):
-    def verify(self, token: str) -> TokenClaims:
-        """Return claims for a valid token or raise ``UnauthorizedError``."""
+    async def verify_async(self, token: str) -> TokenClaims:
+        """Return claims for a valid token or raise ``UnauthorizedError``.
+
+        One method, and an awaitable one: verification is CPU-bound for a shared-secret
+        token and can be network-bound for an asymmetric one (a cold JWKS fetch), and the
+        adapter is what decides which of the two it is and whether a worker thread is
+        warranted. The port used to declare a synchronous ``verify`` beside this, which no
+        caller in ``application/`` ever used; keeping it only obliged every fake to grow a
+        second method that proved nothing.
+        """
         ...
 
 

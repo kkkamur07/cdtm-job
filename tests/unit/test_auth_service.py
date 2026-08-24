@@ -16,7 +16,10 @@ class _Verifier:
     def __init__(self, claims: TokenClaims) -> None:
         self._claims = claims
 
-    def verify(self, token: str) -> TokenClaims:
+    async def verify_async(self, token: str) -> TokenClaims:
+        # The whole port: one awaitable method, because the real verifier may have to push a
+        # cold JWKS fetch onto a worker thread instead of blocking the event loop. Nothing to
+        # await here; the fake is the whole check.
         return self._claims
 
 

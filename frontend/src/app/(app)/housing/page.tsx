@@ -1,21 +1,26 @@
 import Link from "next/link";
 
 import { loadHousing, loadMemberIndex } from "@/api/server";
-import MemberGate from "@/components/MemberGate";
+import MemberGate, { gatedData } from "@/components/MemberGate";
 import HousingBrowser from "@/features/community/housing/HousingBrowser";
 import type { HousingCardData } from "@/features/community/housing/HousingCard";
 
 export const metadata = { title: "Housing · CDTM Community" };
 
+/**
+ * Synchronous on purpose: the board is started here, before the gate suspends
+ * on `/auth/me`, rather than a round trip behind it.
+ */
 export default function HousingPage() {
+    const data = gatedData(loadBoard);
     return (
         <MemberGate next="/housing">
-            <Listings />
+            <Listings data={data} />
         </MemberGate>
     );
 }
 
-async function Listings() {
+async function loadBoard() {
     const listings = await loadHousing({ status: "open", limit: 100 });
 
     // The posters' ids come off the listings, so this is a second request
@@ -23,6 +28,15 @@ async function Listings() {
     const members = await loadMemberIndex(
         listings.items.map((listing) => listing.member_id),
     ).catch(() => null);
+
+    return { listings, members };
+}
+
+async function Listings({ data }: { data: Promise<Awaited<ReturnType<typeof loadBoard>> | null> }) {
+    const loaded = await data;
+    // Only reachable signed in: the gate has shown the notice otherwise.
+    if (!loaded) return null;
+    const { listings, members } = loaded;
 
     const cards: HousingCardData[] = listings.items.map((listing) => {
         const poster = listing.member_id ? members?.get(listing.member_id) : null;

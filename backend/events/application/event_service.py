@@ -17,6 +17,7 @@ from backend.events.application.ports import (
 )
 from backend.events.domain import (
     Event,
+    EventSummary,
 )
 
 
@@ -39,7 +40,8 @@ class EventService:
 
     async def list(
         self, *, skip: int, limit: int, upcoming_only: bool, actor: Actor | None
-    ) -> PageResult[Event]:
+    ) -> PageResult[EventSummary]:
+        """A page of calendar rows. ``get`` is where an event is read whole."""
         return await self._events.list(
             skip=skip,
             limit=limit,

@@ -46,7 +46,7 @@ class AuthService:
             )
 
     async def authenticate(self, token: str) -> Principal:
-        claims = self._verifier.verify(token)
+        claims = await self._verifier.verify_async(token)
         email = claims.email.lower()
         if not email:
             raise UnauthorizedError("token has no e-mail claim")

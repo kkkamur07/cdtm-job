@@ -1,4 +1,4 @@
-import type { Company, Job, Member } from "@/api/types";
+import type { Company, JobSummary, Member } from "@/api/types";
 import { badgeLabel, compactSalary, timeAgo } from "@/lib/format";
 
 /**
@@ -40,14 +40,19 @@ function toRowMember(member: Member): RowMember {
     return { name: member.name, slug: member.slug, avatar: member.avatar?.sm ?? null };
 }
 
-export function jobLocation(job: Job): string | null {
+/**
+ * `JobSummary` rather than `Job`: the board reads the list route, which leaves the
+ * description and the keyword lists off the row. A whole `Job` still fits, so the
+ * detail page can call this with what it already has.
+ */
+export function jobLocation(job: JobSummary): string | null {
     if (job.location_display) return job.location_display;
     const parts = [job.city, job.region, job.country].filter(Boolean);
     return parts.length ? parts.join(", ") : null;
 }
 
 export function toJobRow(
-    job: Job,
+    job: JobSummary,
     company: Company | undefined,
     poster?: Member | null,
     insider?: Member | null,

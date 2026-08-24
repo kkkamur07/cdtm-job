@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { memo } from "react";
 
 import { mediaUrl } from "@/api/media";
 import { AvatarCircle } from "@/components/MemberAvatar";
@@ -32,13 +33,24 @@ export type HousingCardData = {
  * separate layout, because the useful comparison is between two rooms in the
  * same city, not between the two kinds. The photo leads, since that is what
  * people actually scan for.
+ *
+ * Memoized: the board re-renders whenever a chip is ticked or an answer comes
+ * back, and a card only changes when its own listing does.
  */
-export default function HousingCard({
+function HousingCard({
     listing,
     compact = false,
+    index = 0,
 }: {
     listing: HousingCardData;
     compact?: boolean;
+    /**
+     * Position in the grid. The photos above the fold are the page's largest
+     * paint, so the first row is fetched eagerly instead of lazily. The board
+     * is three columns at its widest (`.hgrid.three`), so the first row is the
+     * first three cards.
+     */
+    index?: number;
 }) {
     const offer = listing.kind === "offer";
     const photo = listing.photos[0] ? mediaUrl(listing.photos[0]) : null;
@@ -59,6 +71,7 @@ export default function HousingCard({
                         fill
                         sizes="(min-width: 1100px) 360px, (min-width: 700px) 50vw, 100vw"
                         className="object-cover"
+                        priority={index < 3}
                     />
                 ) : (
                     <NoPhoto looking={!offer} />
@@ -112,6 +125,8 @@ export default function HousingCard({
         </Link>
     );
 }
+
+export default memo(HousingCard);
 
 /**
  * A listing with no photo still needs to fill the same block, or the grid goes

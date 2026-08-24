@@ -31,13 +31,20 @@ DbDep = Annotated[AsyncSession, Depends(get_db)]
 
 
 @lru_cache(maxsize=1)
-def get_token_verifier() -> TokenVerifier:
+def get_token_verifier() -> SupabaseJwtVerifier:
+    """The one verifier for the process; it holds the JWKS cache.
+
+    Annotated with the adapter rather than the ``TokenVerifier`` port because the app
+    lifespan pre-warms the key set through it, which is an adapter concern. Everything in
+    ``application/`` still sees only the port.
+    """
     s = get_auth_settings()
     return SupabaseJwtVerifier(
         jwt_secret=s.jwt_secret,
         jwks_url=s.jwks_url,
         audience=s.jwt_audience,
         jwks_cache_seconds=s.jwks_cache_seconds,
+        issuer=s.jwt_issuer,
     )
 
 
@@ -47,7 +54,7 @@ def get_auth_service(
     s = get_auth_settings()
     return AuthService(
         verifier=verifier,
-        accounts=SqlAccountRepository(db),
+        accounts=SqlAccountRepository(db, sign_in_touch_seconds=s.sign_in_touch_seconds),
         members=SqlMemberDirectory(db),
         allowed_email_domains=s.allowed_email_domains,
         admin_emails=s.admin_emails,

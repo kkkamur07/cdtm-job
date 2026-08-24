@@ -6,7 +6,8 @@ import { Suspense } from "react";
 import { ApiError } from "@/api/errors";
 import { mediaUrl } from "@/api/media";
 import { loadHousing, loadHousingListing, loadMe, loadMemberIndex, loadMembers } from "@/api/server";
-import MemberGate from "@/components/MemberGate";
+import { getIdentity } from "@/auth/session";
+import MemberGate, { gatedData } from "@/components/MemberGate";
 import { AvatarCircle } from "@/components/MemberAvatar";
 import HousingOwnerActions from "@/features/community/housing/HousingOwnerActions";
 import { dateRange, formatDate, formatPrice, paragraphs, roomsLabel } from "@/lib/format";
@@ -15,10 +16,14 @@ type Params = { params: Promise<{ id: string }> };
 
 /**
  * `loadHousingListing` is `React.cache`d, so titling the tab costs no extra
- * request: the page body reads the same cached listing a moment later.
+ * request: the page body reads the same cached listing a moment later. Housing
+ * is members-only, so for a signed-out visitor there is no request at all.
  */
 export async function generateMetadata({ params }: Params) {
     const { id } = await params;
+    const { accessToken } = await getIdentity();
+    if (!accessToken) return { title: "Listing · CDTM Community" };
+
     try {
         const listing = await loadHousingListing(id);
         const where = [listing.area, listing.city].filter(Boolean).join(", ");
@@ -37,29 +42,42 @@ export async function generateMetadata({ params }: Params) {
 
 export default async function HousingListingPage({ params }: Params) {
     const { id } = await params;
+
+    // Awaiting the route params costs nothing; awaiting the gate would. The
+    // reads are started here so they run alongside the gate's own /auth/me
+    // rather than a round trip behind it.
+    const data = gatedData(() => loadListing(id));
+
     return (
         <MemberGate next={`/housing/${id}`}>
-            <Listing id={id} />
+            <Listing data={data} />
         </MemberGate>
     );
 }
 
-async function Listing({ id }: { id: string }) {
-    const [listing, me] = await Promise.all([
+function loadListing(id: string) {
+    return Promise.all([
         loadHousingListing(id).catch((error) => {
             if (error instanceof ApiError && error.isNotFound) return null;
             throw error;
         }),
         loadMe().catch(() => null),
     ]);
+}
+
+async function Listing({
+    data,
+}: {
+    data: Promise<Awaited<ReturnType<typeof loadListing>> | null>;
+}) {
+    const loaded = await data;
+    // Only reachable signed in: the gate has shown the notice otherwise.
+    if (!loaded) return null;
+    const [listing, me] = loaded;
 
     if (!listing) notFound();
 
-    // One member, looked up by the id the listing carries.
-    const members = await loadMemberIndex([listing.member_id]).catch(() => null);
-
     const offer = listing.kind === "offer";
-    const poster = listing.member_id ? members?.get(listing.member_id) : null;
     const mine = Boolean(me?.member_id && me.member_id === listing.member_id);
     const photos = (listing.photo_urls ?? []).map(mediaUrl);
     const price = formatPrice(listing.price_eur);
@@ -164,25 +182,9 @@ async function Listing({ id }: { id: string }) {
                         />
                     )}
 
-                    {poster && (
-                        <div className="card panel">
-                            <h2 className="label">Posted by</h2>
-                            <div className="insider mt-2">
-                                <AvatarCircle name={poster.name} avatar={poster.avatar} px={44} />
-                                <div className="min-w-0">
-                                    <div className="n truncate">{poster.name}</div>
-                                    <div className="s truncate">
-                                        {[poster.title, poster.company, poster.class_label]
-                                            .filter(Boolean)
-                                            .join(" · ")}
-                                    </div>
-                                </div>
-                            </div>
-                            <Link href={`/members/${poster.slug}`} className="btn mt-3.5 w-full">
-                                Open entry
-                            </Link>
-                        </div>
-                    )}
+                    <Suspense fallback={null}>
+                        <PostedBy memberId={listing.member_id} />
+                    </Suspense>
 
                     {listing.city && (
                         <Suspense fallback={null}>
@@ -197,6 +199,42 @@ async function Listing({ id }: { id: string }) {
                     )}
                 </aside>
             </div>
+        </div>
+    );
+}
+
+/**
+ * The poster, in its own boundary.
+ *
+ * It used to be awaited above the return, which held the two city panels below
+ * behind a lookup neither of them needs: they only want `listing.city`, which
+ * is known the moment the listing arrives. Suspended here, all three start
+ * together and race each other.
+ */
+async function PostedBy({ memberId }: { memberId: string | null }) {
+    if (!memberId) return null;
+
+    const members = await loadMemberIndex([memberId]).catch(() => null);
+    const poster = members?.get(memberId);
+    if (!poster) return null;
+
+    return (
+        <div className="card panel">
+            <h2 className="label">Posted by</h2>
+            <div className="insider mt-2">
+                <AvatarCircle name={poster.name} avatar={poster.avatar} px={44} />
+                <div className="min-w-0">
+                    <div className="n truncate">{poster.name}</div>
+                    <div className="s truncate">
+                        {[poster.title, poster.company, poster.class_label]
+                            .filter(Boolean)
+                            .join(" · ")}
+                    </div>
+                </div>
+            </div>
+            <Link href={`/members/${poster.slug}`} className="btn mt-3.5 w-full">
+                Open entry
+            </Link>
         </div>
     );
 }

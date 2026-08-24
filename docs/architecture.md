@@ -19,13 +19,14 @@ flowchart LR
     Web -->|"HTTPS JSON + Bearer JWT"| API["FastAPI backend"]
     API -->|"SQLAlchemy 2 / asyncpg"| DB[("Supabase Postgres")]
     API -->|"verify: HS256 secret or JWKS"| SBAuth
-    Web -->|"avatars"| Storage[("Supabase Storage")]
+    API -->|"uploads, private buckets"| Storage[("Supabase Storage")]
 
     Scrape["LinkedIn scrape + roster CSVs<br/>(local, never committed)"] --> Ingest["frontend/scripts/ingest.mjs"]
     Ingest --> Files["index.json, profiles/*.json, avatars/*.webp"]
     Files --> Loader["scripts/platform/load_community.py"]
     Loader --> DB
-    Files -.-> Storage
+    Files -->|"avatars/*.webp"| Public["frontend/public/avatars"]
+    Public --> Web
 
     API -->|"openapi.json"| Client["openapi-typescript client"]
     Client -.-> Web
@@ -53,8 +54,9 @@ FastAPI routers.
   (see [`database-design.md`](database-design.md) sections 4 and 8). Alembic owns the schema
   and a test proves the migrations reproduce the ORM (ADR 0003).
 - Supabase. Managed Postgres with poolers and backups, Google Workspace sign-in without
-  running an IdP, and a public object store for avatars. The parts we do not use are as
-  deliberate as the parts we do.
+  running an IdP, and a private object store for what members upload. Avatars are not in it:
+  they are static files the ingest writes into `frontend/public/avatars`, served by the web
+  app off its own origin. The parts we do not use are as deliberate as the parts we do.
 - Next.js 16 and React 19. The predecessor was already a Next app. It is a normal Next server
   build rather than the static `output: "export"` of the directory-only era, because the
   session now lives in the browser and every read goes to the API; avatars and the ingest
@@ -336,13 +338,13 @@ flowchart LR
     subgraph Supabase
         Auth["Auth (Google, cdtm.com)"]
         PG[("Postgres")]
-        Store[("Storage: avatars")]
+        Store[("Storage: private upload buckets")]
     end
     Web --> API
     Web --> Auth
-    Web --> Store
     API --> PG
     API --> Auth
+    API --> Store
 ```
 
 Three moving parts, and the only stateful one is Supabase.
@@ -369,6 +371,12 @@ The buckets are private. A public bucket would mean handing the browser a URL th
 forever for anyone who ever sees it, and a write path that needs a key the browser must not
 hold. Instead the API is the only reader and writer, and the service-role key stays on the
 server. Three buckets, fixed: `job-images`, `housing-photos`, `avatars`.
+
+The `avatars` bucket is only for an avatar a member uploads for themselves. The 1,250 the
+directory draws today are not in it and never were: `ingest.mjs` sizes them into
+`frontend/public/avatars` and the web app serves them from its own origin as static files, so
+the common case costs the API nothing and Storage nothing. There is deliberately no
+public-bucket URL builder in `core/settings/storage.py` for anything to reach for.
 
 The URL in the database points at the API. `POST /api/v1/media/{kind}` answers with
 `{APP_PUBLIC_BASE_URL}/api/v1/media/{bucket}/{key}`, and that string is what goes into

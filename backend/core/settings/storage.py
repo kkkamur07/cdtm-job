@@ -28,13 +28,18 @@ class StorageSettings(BaseSettings):
     Two adapters sit behind :class:`backend.media.infrastructure.ports.BlobStorage`: the local disk
     (development and tests) and Supabase Storage. The service-role key is only ever used
     server-side, because the buckets are private and the API is their only reader.
+
+    There is no public-URL builder here, and nothing ever called the one there used to be. The
+    avatars the directory draws are static files the ingest writes into
+    ``frontend/public/avatars``, served by the web app off its own origin; everything that does
+    go through Storage is private and is read back through the media routes, which sign or
+    stream it. A public bucket URL has no caller in either half of the platform.
     """
 
     model_config = env_settings_config("STORAGE_")
 
     supabase_url: str | None = Field(default=None, alias="SUPABASE_URL")
     service_role_key: str | None = Field(default=None, alias="SUPABASE_SERVICE_ROLE_KEY")
-    avatars_bucket: str = "avatars"
 
     backend: Literal["local", "supabase"] = "local"
     local_dir: str = ".data/media"
@@ -45,12 +50,6 @@ class StorageSettings(BaseSettings):
     @property
     def configured(self) -> bool:
         return bool(self.supabase_url and self.service_role_key)
-
-    def public_url(self, path: str) -> str | None:
-        if not self.supabase_url:
-            return None
-        base = self.supabase_url.rstrip("/")
-        return f"{base}/storage/v1/object/public/{self.avatars_bucket}/{path.lstrip('/')}"
 
 
 @settings_cache

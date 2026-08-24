@@ -113,3 +113,29 @@ def test_editing_and_removing_an_announcement_is_admin_only(
     # An admin can delete, and it is then gone for everyone.
     assert client.delete(f"{API}/{ann['id']}", headers=admin_headers).status_code == 204
     assert client.get(f"{API}/{ann['id']}", headers=admin_headers).status_code == 404
+
+
+def test_unread_count_endpoint_matches_the_list_badge(
+    client: TestClient, admin_headers: dict, member_anna: dict
+) -> None:
+    """The header asks for the badge on every page load and does not want the board with it.
+
+    The literal path also has to win over ``/{announcement_id}``: if route order ever flips,
+    the UUID parameter swallows "unread-count" and this turns into a 422.
+    """
+    h = member_anna["headers"]
+    assert client.get(f"{API}/unread-count", headers=h).json() == {"unread": 0}
+
+    first = client.post(f"{API}/", json={"title": "One", "body": "b"}, headers=admin_headers).json()
+    client.post(f"{API}/", json={"title": "Two", "body": "b"}, headers=admin_headers)
+
+    r = client.get(f"{API}/unread-count", headers=h)
+    assert r.status_code == 200, r.text
+    assert r.json() == {"unread": 2}
+    assert r.json()["unread"] == client.get(f"{API}/", headers=h).json()["unread"]
+
+    client.post(f"{API}/{first['id']}/read", headers=h)
+    assert client.get(f"{API}/unread-count", headers=h).json() == {"unread": 1}
+
+    # Auth is required: the badge is per member, so an anonymous caller gets nothing.
+    assert client.get(f"{API}/unread-count").status_code in (401, 403)

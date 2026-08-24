@@ -14,6 +14,7 @@ from backend.housing.domain import (
     HousingAskInterpretation,
     HousingKind,
     HousingListing,
+    HousingListingSummary,
     HousingStatus,
 )
 
@@ -37,9 +38,12 @@ class HousingFilters:
 
 
 class HousingRepository(Protocol):
+    #: The list hands back cards, not listings: it is the only read that returns many rows at
+    #: once, and the aggregate's ``description`` is the one field no card draws. ``get`` and
+    #: every write still answer with the whole aggregate.
     async def list(
         self, *, skip: int, limit: int, filters: HousingFilters
-    ) -> PageResult[HousingListing]: ...
+    ) -> PageResult[HousingListingSummary]: ...
     async def get(self, listing_id: UUID) -> HousingListing | None: ...
     async def create(
         self, member_id: UUID, payload: HousingCreate, *, expires_at: datetime

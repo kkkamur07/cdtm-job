@@ -6,7 +6,6 @@ from backend.core.settings import reset_settings_caches
 from backend.core.settings._cache import settings_cache
 from backend.core.settings._env import env_settings_config
 from backend.core.settings.database import DatabaseSettings
-from backend.core.settings.storage import StorageSettings
 
 
 def test_database_urls_are_normalised_per_driver() -> None:
@@ -22,6 +21,22 @@ def test_migrator_url_override_wins() -> None:
         DATABASE_MIGRATOR_URL="postgresql://u:p@direct:5432/app",
     )
     assert s.migrator_url == "postgresql+psycopg://u:p@direct:5432/app"
+
+
+def test_an_empty_migrator_url_reads_as_unset_and_falls_back(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    """``DATABASE_MIGRATOR_URL=`` in a template must not become the empty string.
+
+    An empty override that survived would be handed to Alembic as a URL, which fails much
+    later and much more strangely than falling back to ``DATABASE_URL``. ``env_ignore_empty``
+    already does this; the test is here so nobody removes it by changing the settings config.
+    ``log_resolved_urls`` is what makes the fallback visible at boot.
+    """
+    monkeypatch.setenv("DATABASE_MIGRATOR_URL", "")
+    s = DatabaseSettings(_env_file=None, url="postgresql://u:p@pooler:6543/app")
+    assert s.migrator_url_override is None
+    assert s.migrator_url == "postgresql+psycopg://u:p@pooler:6543/app"
 
 
 def test_an_already_qualified_url_is_renormalised_to_the_driver_that_is_asked_for() -> None:
@@ -43,25 +58,6 @@ def test_a_url_for_another_store_is_left_alone() -> None:
     # that fails much later with a much stranger message.
     s = DatabaseSettings(url="sqlite+aiosqlite:///./local.db")
     assert s.async_url == "sqlite+aiosqlite:///./local.db"
-
-
-def test_the_avatar_url_is_built_from_the_project_url_and_the_bucket() -> None:
-    s = StorageSettings(_env_file=None, SUPABASE_URL="https://proj.supabase.co/")
-    # One slash between every segment, whatever the configured URL and the stored path
-    # happen to end and start with.
-    assert (
-        s.public_url("/anna.webp")
-        == "https://proj.supabase.co/storage/v1/object/public/avatars/anna.webp"
-    )
-    assert (
-        s.public_url("nested/anna.webp")
-        == "https://proj.supabase.co/storage/v1/object/public/avatars/nested/anna.webp"
-    )
-
-
-def test_there_is_no_public_avatar_url_without_a_project() -> None:
-    # A local-disk deployment has no Supabase project to serve one from.
-    assert StorageSettings(_env_file=None).public_url("anna.webp") is None
 
 
 def test_an_empty_environment_value_means_unset_not_empty(monkeypatch: pytest.MonkeyPatch) -> None:

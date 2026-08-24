@@ -8,7 +8,7 @@ from fastapi import APIRouter, Query, Response, status
 from backend.core.api.pagination import PageParamsDep
 from backend.identity.api.deps import ActorDep, OptionalActorDep, PrincipalDep
 from backend.jobboard.api.deps import JobServiceDep
-from backend.jobboard.api.schemas import JobPublic, JobsPublic
+from backend.jobboard.api.schemas import JobPublic, JobsPublic, JobSummaryPublic
 from backend.jobboard.application.commands import JobCreate, JobUpdate
 from backend.jobboard.application.ports import JobFilters
 from backend.jobboard.domain import EmploymentType, JobStatus, WorkArrangement
@@ -47,7 +47,9 @@ async def list_jobs(
         ),
         actor=actor,
     )
-    return JobsPublic(items=[JobPublic.model_validate(j) for j in result.items], total=result.total)
+    return JobsPublic(
+        items=[JobSummaryPublic.model_validate(j) for j in result.items], total=result.total
+    )
 
 
 @router.get("/slug/{slug}", response_model=JobPublic)

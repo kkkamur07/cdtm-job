@@ -11,6 +11,7 @@ network, no database.
 from __future__ import annotations
 
 import uuid
+from datetime import date
 from uuid import UUID
 
 from backend.core.actor import Actor
@@ -70,6 +71,15 @@ class FakeMembers:
         if self.profile is not None and self.profile.id == member_id:
             return self.profile
         return None
+
+    async def viewer_context(self, member_id: UUID) -> tuple[str | None, str | None, int | None]:
+        """The three scalars the real repository reads in one statement, derived here from
+        the same profile the fake already holds so the expectations below do not move."""
+        p = self.profile
+        if p is None or p.id != member_id:
+            return (None, None, None)
+        years = [c.year for c in p.classes]
+        return (p.class_label, p.location, max(years) if years else None)
 
     async def search(
         self, *, skip: int, limit: int, filters: MemberFilters, viewer_member_id: UUID | None
@@ -182,6 +192,9 @@ async def test_the_viewer_a_translator_is_given_is_the_asker_own_row() -> None:
             class_year=2019,
             location="Munich",
             current_group="Venture Capital",
+            # The prompts resolve "this year" against a date, so it is part of the context
+            # the translator is given, and therefore part of the cache key over it.
+            today=date.today(),
         )
     ]
 
@@ -208,7 +221,7 @@ async def test_an_asker_with_no_member_row_gets_an_empty_viewer() -> None:
 
     await service.explain("people from my class", actor=Actor(uuid.uuid4()))
 
-    assert translator.viewers == [ViewerContext()]
+    assert translator.viewers == [ViewerContext(today=date.today())]
 
 
 async def test_ask_pages_the_search_and_reports_the_whole_match_count() -> None:

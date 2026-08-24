@@ -112,6 +112,13 @@ async def test_a_clause_the_rules_understood_is_not_also_reported_as_unresolved(
     assert interpretation.confidence == 0.6
 
 
+async def test_a_recency_window_counts_once_towards_how_sure_the_rules_are() -> None:
+    """One thing understood is one step up from the floor, whatever that thing was."""
+    interpretation = await RulesJobTranslator().translate("jobs posted in the last week")
+    assert interpretation.filters.posted_within_days == 7
+    assert interpretation.confidence == 0.6
+
+
 async def test_a_question_the_rules_could_not_place_is_reported_with_the_lowest_confidence() -> (
     None
 ):

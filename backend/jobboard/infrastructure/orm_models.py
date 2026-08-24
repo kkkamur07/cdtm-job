@@ -75,6 +75,7 @@ class CompanyRow(Base):
             "('startup','smb','mid','enterprise')",
             name="size_band_enum",
         ),
+        Index("ix_companies_created_by_member_id", "created_by_member_id"),
     )
 
 
@@ -178,6 +179,13 @@ class JobRow(Base):
         Index(
             "ix_jobs_published_list",
             text("published_at DESC"),
+            postgresql_where=text("status = 'published'"),
+        ),
+        # The board sorts by created_at, not published_at, so ix_jobs_published_list never
+        # matched the default listing despite its name.
+        Index(
+            "ix_jobs_published_created",
+            text("created_at DESC"),
             postgresql_where=text("status = 'published'"),
         ),
     )

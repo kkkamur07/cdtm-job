@@ -12,6 +12,7 @@ from uuid import UUID
 
 from backend.core.actor import Actor
 from backend.core.exceptions import ConflictError, ForbiddenError, NotFoundError, ValidationError
+from backend.core.page import PageResult
 from backend.network.application.commands import IntroRequestCreate, IntroRespond, SaveMember
 from backend.network.application.ports import (
     IntroRequestView,
@@ -34,10 +35,24 @@ class NetworkService:
 
     # ---- saved --------------------------------------------------------------------------
 
-    async def list_saved(self, actor: Actor) -> list[SavedMemberView]:
-        rows = await self._network.list_saved(actor.require_member())
-        cards = await self._cards([r.saved_member_id for r in rows])
-        return [SavedMemberView(saved=r, member=cards[r.saved_member_id]) for r in rows]
+    async def list_saved(
+        self, actor: Actor, *, skip: int, limit: int
+    ) -> PageResult[SavedMemberView]:
+        page = await self._network.list_saved(actor.require_member(), skip=skip, limit=limit)
+        cards = await self._cards([r.saved_member_id for r in page.items])
+        return PageResult(
+            items=[SavedMemberView(saved=r, member=cards[r.saved_member_id]) for r in page.items],
+            total=page.total,
+        )
+
+    async def saved_ids(self, actor: Actor) -> list[UUID]:
+        """Who is on the shortlist, ids only, so the Save button never has to guess.
+
+        ``list_saved`` is the page a member reads; this is the membership test the card and
+        the profile header ask before drawing a filled or an empty star. Deriving that from
+        the first page of the list quietly answered "not saved" for everybody below it.
+        """
+        return await self._network.saved_ids(actor.require_member())
 
     async def save(
         self, actor: Actor, saved_member_id: UUID, payload: SaveMember
@@ -47,7 +62,12 @@ class NetworkService:
             raise ValidationError("you cannot save yourself")
         if not await self._members.exists(saved_member_id):
             raise NotFoundError("member not found")
-        saved = await self._network.save(own, saved_member_id, payload.note)
+        # A body without ``note`` is the Save button, which has no note to send and must not
+        # erase one. An explicit ``"note": null`` is a member clearing what they wrote, and
+        # only the set of fields the request carried tells the two apart.
+        saved = await self._network.save(
+            own, saved_member_id, payload.note, replace_note="note" in payload.model_fields_set
+        )
         cards = await self._cards([saved_member_id])
         return SavedMemberView(saved=saved, member=cards[saved_member_id])
 
@@ -57,18 +77,26 @@ class NetworkService:
 
     # ---- intros -------------------------------------------------------------------------
 
-    async def list_intros(self, actor: Actor) -> list[IntroRequestView]:
-        rows = await self._network.list_intros(actor.require_member())
+    async def list_intros(
+        self, actor: Actor, *, skip: int, limit: int, with_member_id: UUID | None = None
+    ) -> PageResult[IntroRequestView]:
+        page = await self._network.list_intros(
+            actor.require_member(), skip=skip, limit=limit, with_member_id=with_member_id
+        )
+        rows = page.items
         ids = [r.requester_member_id for r in rows] + [r.target_member_id for r in rows]
         cards = await self._cards(ids)
-        return [
-            IntroRequestView(
-                request=r,
-                requester=cards[r.requester_member_id],
-                target=cards[r.target_member_id],
-            )
-            for r in rows
-        ]
+        return PageResult(
+            items=[
+                IntroRequestView(
+                    request=r,
+                    requester=cards[r.requester_member_id],
+                    target=cards[r.target_member_id],
+                )
+                for r in rows
+            ],
+            total=page.total,
+        )
 
     async def request_intro(self, actor: Actor, payload: IntroRequestCreate) -> IntroRequest:
         own = actor.require_member()

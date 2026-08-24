@@ -7,6 +7,7 @@ import unicodedata
 from uuid import UUID
 
 from backend.core.actor import Actor
+from backend.core.cache import TTLCache
 from backend.core.exceptions import ForbiddenError, NotFoundError
 from backend.core.page import PageResult
 from backend.members.application.commands import (
@@ -15,6 +16,7 @@ from backend.members.application.commands import (
     SelfProfileUpdate,
 )
 from backend.members.application.ports import (
+    Facets,
     MemberFilters,
     MemberRepository,
 )
@@ -41,12 +43,34 @@ def _slugify(name: str) -> str:
     return slug or "member"
 
 
+#: How long the directory facets are held. The classes, the majors and the roster size all
+#: change on a loader run and at no other time, so a page view does not have to ask again.
+FACETS_TTL_SECONDS = 300
+
+#: One entry: the facets take no arguments. ``load_community.py`` and any path recompute
+#: call ``backend.core.cache.clear_all()``, so a reload is visible immediately.
+_FACETS = TTLCache(maxsize=1, ttl=FACETS_TTL_SECONDS)
+
+
 class MemberService:
     def __init__(self, members: MemberRepository) -> None:
         self._members = members
 
     async def count(self) -> int:
         return await self._members.count()
+
+    async def facets(self) -> Facets:
+        """The filter bar: classes, majors and how many members there are.
+
+        Cached in process for :data:`FACETS_TTL_SECONDS`. The value is a frozen dataclass
+        of tuples, so every caller gets the same immutable answer.
+        """
+        cached = _FACETS.get(())
+        if cached is not None:
+            return cached
+        facets = await self._members.facets()
+        _FACETS.set((), facets)
+        return facets
 
     async def search(
         self, *, skip: int, limit: int, filters: MemberFilters, actor: Actor | None
@@ -115,7 +139,12 @@ class MemberService:
             current_company=command.current_company,
             current_title=command.current_title,
         )
-        return await self._members.upsert_member(payload)
+        member_id = await self._members.upsert_member(payload)
+        # A new member changes the roster size and can introduce a major nothing else has,
+        # both of which the filter bar reads out of the cache. Held for five minutes, that
+        # meant the person who just joined could not find themselves in it.
+        _FACETS.clear()
+        return member_id
 
     async def update_self_profile(self, member_id: UUID, command: SelfProfileUpdate) -> None:
         """Update the profile fields a member maintains by hand, leaving the rest alone.
@@ -147,17 +176,28 @@ class MemberService:
             current_company=command.current_company,
             current_title=command.current_title,
         )
+        # An edit can move somebody to another class or give them a major no other member
+        # has, and both are facets. Same reason as on create: the bar must not keep offering
+        # the shape of the directory as it was before the write.
+        _FACETS.clear()
 
     async def _unique_slug(self, base: str) -> str:
         """`base`, or `base-2`, `base-3`, ... : the first that no member holds.
 
         Two people with the same name is normal here; the slug is what tells their URLs
         apart, so it cannot collide with a row the scrape already wrote.
+
+        One query, then the search in memory. Probing one candidate per round trip meant
+        the seventh Anna Schmidt cost seven of them, and the answer to all seven was in the
+        same handful of rows. The database still has the last word: ``members.slug`` is
+        unique, so two people claiming the same name at the same moment lose the race at the
+        insert rather than here.
         """
-        if await self._members.find_id_by_slug(base) is None:
+        taken = set(await self._members.slugs_for_base(base))
+        if base not in taken:
             return base
         n = 2
-        while await self._members.find_id_by_slug(f"{base}-{n}") is not None:
+        while f"{base}-{n}" in taken:
             n += 1
         return f"{base}-{n}"
 

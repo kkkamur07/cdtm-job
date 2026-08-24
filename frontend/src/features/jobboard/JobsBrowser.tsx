@@ -1,9 +1,10 @@
 "use client";
 
-import { useMemo } from "react";
+import { useCallback, useDeferredValue, useEffect, useMemo, useRef, useState } from "react";
 
 import SearchIcon from "@/components/SearchIcon";
 import { badgeLabel } from "@/lib/format";
+import { useDebounced } from "@/lib/useDebounced";
 import { useUrlState } from "@/lib/urlState";
 import AskAnalysis from "@/features/community/ask/AskAnalysis";
 import AskLine from "@/features/community/ask/AskLine";
@@ -36,6 +37,14 @@ const SORTS = {
 } as const;
 type SortKey = keyof typeof SORTS;
 
+/** Module scope: four closures rebuilt per render is four closures too many. */
+const COMPARATORS: Record<SortKey, (a: JobRowData, b: JobRowData) => number> = {
+    newest: (a, b) => b.postedAt.localeCompare(a.postedAt),
+    oldest: (a, b) => a.postedAt.localeCompare(b.postedAt),
+    company: (a, b) => a.company.localeCompare(b.company),
+    title: (a, b) => a.title.localeCompare(b.title),
+};
+
 /**
  * The whole listing lives in memory.
  *
@@ -44,9 +53,11 @@ type SortKey = keyof typeof SORTS;
  * list reorders in the same frame as the click. If the board ever outgrows a
  * hundred listings this moves back to the API's own query parameters.
  *
- * Every control writes to the address bar rather than to local state. A
- * filtered, sorted board is a place: it has to survive a reload, come back with
- * the back button, and be sendable to somebody else.
+ * Every control ends up in the address bar. A filtered, sorted board is a
+ * place: it has to survive a reload, come back with the back button, and be
+ * sendable to somebody else. The checkboxes write there directly; the search
+ * box types locally first and mirrors the settled value, because a place is
+ * where the typing stopped, not each character on the way (see below).
  */
 export default function JobsBrowser({ jobs, total }: { jobs: JobRowData[]; total: number }) {
     const { params, setParams } = useUrlState();
@@ -57,16 +68,50 @@ export default function JobsBrowser({ jobs, total }: { jobs: JobRowData[]; total
         return current;
     }, [params]);
 
-    const query = params.get("q") ?? "";
     const question = params.get("ask") ?? "";
     const sortParam = params.get("sort");
     const sort: SortKey = sortParam && sortParam in SORTS ? (sortParam as SortKey) : "newest";
 
-    const setQuery = (value: string) => setParams({ q: value });
+    /**
+     * The search box types locally and mirrors to the URL afterwards.
+     *
+     * The URL is the right home for a settled search, because a filtered board
+     * is a place. It is the wrong home for a half-typed one: `router.replace`
+     * re-runs the route on the server, and reading the box's value back out of
+     * the search params meant every character waited for that round trip and
+     * visibly lagged. So the input renders from local state, the list filters
+     * from a deferred copy of it, and the address bar catches up when the
+     * typing stops.
+     */
+    const urlQuery = params.get("q") ?? "";
+    const [typed, setTyped] = useState(urlQuery);
+    const query = useDeferredValue(typed);
+    const settled = useDebounced(typed, 300);
+    // What we last wrote ourselves. Guarding on it means a URL that changed
+    // some other way (the back button) is left alone rather than overwritten.
+    const mirrored = useRef(urlQuery);
+
+    useEffect(() => {
+        if (settled === mirrored.current) return;
+        mirrored.current = settled;
+        setParams({ q: settled });
+    }, [settled, setParams]);
+
     const setQuestion = (value: string) => setParams({ ask: value });
     const setSort = (value: SortKey) => setParams({ sort: value === "newest" ? null : value });
     const clearFacets = () =>
         setParams(Object.fromEntries(FACETS.map((facet) => [facet.param, null])));
+
+    const clearEverything = useCallback(() => {
+        // The box is local now, so clearing the URL is only half of it.
+        setTyped("");
+        mirrored.current = "";
+        setParams({
+            ...Object.fromEntries(FACETS.map((facet) => [facet.param, null])),
+            q: null,
+            ask: null,
+        });
+    }, [setParams]);
 
     const answer = useJobAsk(question, { enabled: question.length > 0 });
 
@@ -102,9 +147,11 @@ export default function JobsBrowser({ jobs, total }: { jobs: JobRowData[]; total
         return result;
     }, [pool]);
 
-    const shown = useMemo(() => {
+    // Filtering and sorting are separate memos: changing the sort should not
+    // re-run the filter over the whole board.
+    const filtered = useMemo(() => {
         const needle = query.trim().toLowerCase();
-        const filtered = pool.filter((job) => {
+        return pool.filter((job) => {
             for (const { key } of FACETS) {
                 const chosen = selection[key];
                 if (chosen.length && !chosen.includes(job[key] ?? "")) return false;
@@ -112,15 +159,9 @@ export default function JobsBrowser({ jobs, total }: { jobs: JobRowData[]; total
             if (!needle) return true;
             return `${job.title} ${job.company} ${job.location ?? ""}`.toLowerCase().includes(needle);
         });
+    }, [pool, query, selection]);
 
-        const by: Record<SortKey, (a: JobRowData, b: JobRowData) => number> = {
-            newest: (a, b) => b.postedAt.localeCompare(a.postedAt),
-            oldest: (a, b) => a.postedAt.localeCompare(b.postedAt),
-            company: (a, b) => a.company.localeCompare(b.company),
-            title: (a, b) => a.title.localeCompare(b.title),
-        };
-        return [...filtered].sort(by[sort]);
-    }, [pool, query, selection, sort]);
+    const shown = useMemo(() => filtered.toSorted(COMPARATORS[sort]), [filtered, sort]);
 
     const activeCount = Object.values(selection).reduce((sum, list) => sum + list.length, 0);
 
@@ -210,8 +251,8 @@ export default function JobsBrowser({ jobs, total }: { jobs: JobRowData[]; total
                             type="search"
                             placeholder="Search roles"
                             aria-label="Search roles"
-                            value={query}
-                            onChange={(event) => setQuery(event.target.value)}
+                            value={typed}
+                            onChange={(event) => setTyped(event.target.value)}
                         />
                     </div>
                     <select
@@ -263,7 +304,10 @@ export default function JobsBrowser({ jobs, total }: { jobs: JobRowData[]; total
                 <h2 className="sr-only">Roles</h2>
 
                 {shown.length ? (
-                    <ul className="card jlist [content-visibility:auto]">
+                    /* The rows carry `cv-row`; the list itself must not, or the
+                       browser skips the whole board rather than its off-screen
+                       rows and the scrollbar jumps as it comes back. */
+                    <ul className="card jlist">
                         {shown.map((job) => (
                             <JobRow key={job.id} job={job} />
                         ))}
@@ -274,15 +318,7 @@ export default function JobsBrowser({ jobs, total }: { jobs: JobRowData[]; total
                         <button
                             type="button"
                             className="btn btn-ghost btn-sm"
-                            onClick={() =>
-                                setParams({
-                                    ...Object.fromEntries(
-                                        FACETS.map((facet) => [facet.param, null]),
-                                    ),
-                                    q: null,
-                                    ask: null,
-                                })
-                            }
+                            onClick={clearEverything}
                         >
                             Clear everything
                         </button>

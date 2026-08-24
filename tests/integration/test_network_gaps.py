@@ -59,6 +59,12 @@ def _in_a_session(work: Any) -> Any:
     return asyncio.run(main())
 
 
+def _saved_slugs(client: TestClient, headers: dict) -> list[str]:
+    return [
+        s["member"]["slug"] for s in client.get(f"{API}/saved", headers=headers).json()["items"]
+    ]
+
+
 def _request_intro(client: TestClient, headers: dict, target_id, message: str = "hi") -> dict:
     r = client.post(
         f"{API}/intros",
@@ -114,14 +120,23 @@ def test_an_intro_list_shows_both_the_ones_sent_and_the_ones_received(
 
     mine = client.get(f"{API}/intros", headers=ha).json()
     # Newest first, and both directions: Ben's request to Anna is in Anna's list too.
-    assert [v["request"]["message"] for v in mine] == ["third", "second", "first"]
-    assert [v["target"]["slug"] for v in mine] == ["anna-test", "carl-test", "ben-test"]
-    assert [v["requester"]["slug"] for v in mine] == ["ben-test", "anna-test", "anna-test"]
-
-    assert [v["request"]["message"] for v in client.get(f"{API}/intros", headers=hb).json()] == [
-        "third",
-        "first",
+    assert mine["total"] == 3
+    assert [v["request"]["message"] for v in mine["items"]] == ["third", "second", "first"]
+    assert [v["target"]["slug"] for v in mine["items"]] == ["anna-test", "carl-test", "ben-test"]
+    assert [v["requester"]["slug"] for v in mine["items"]] == [
+        "ben-test",
+        "anna-test",
+        "anna-test",
     ]
+
+    his = client.get(f"{API}/intros", headers=hb).json()
+    assert [v["request"]["message"] for v in his["items"]] == ["third", "first"]
+
+    # The page is a real page: the limit reaches the query and the total still counts
+    # every row behind it, not the ones that came back.
+    page = client.get(f"{API}/intros", params={"skip": 1, "limit": 1}, headers=ha).json()
+    assert page["total"] == 3
+    assert [v["request"]["message"] for v in page["items"]] == ["second"]
 
 
 def test_saving_somebody_twice_rewrites_the_note_rather_than_failing(
@@ -139,11 +154,137 @@ def test_saving_somebody_twice_rewrites_the_note_rather_than_failing(
     assert r.json()["saved"]["note"] == "ask about hiring"
 
     saved = client.get(f"{API}/saved", headers=ha).json()
-    assert len(saved) == 1 and saved[0]["saved"]["note"] == "ask about hiring"
+    assert saved["total"] == 1 and saved["items"][0]["saved"]["note"] == "ask about hiring"
 
-    # And an empty note clears it rather than leaving the old one behind.
-    assert client.put(f"{API}/saved/{member_ben['id']}", json={}, headers=ha).status_code == 200
-    assert client.get(f"{API}/saved", headers=ha).json()[0]["saved"]["note"] is None
+    # And an explicit null clears it rather than leaving the old one behind.
+    r = client.put(f"{API}/saved/{member_ben['id']}", json={"note": None}, headers=ha)
+    assert r.status_code == 200 and r.json()["saved"]["note"] is None
+    assert client.get(f"{API}/saved", headers=ha).json()["items"][0]["saved"]["note"] is None
+
+
+def test_saving_again_without_a_note_keeps_the_one_that_is_already_there(
+    client: TestClient, member_anna: dict, member_ben: dict
+) -> None:
+    """The Save button has no note to send, and pressing it must not destroy one.
+
+    The frontend PUTs an empty body from a card, which used to arrive as ``note=None`` and
+    was written straight over whatever the member had typed on the profile. An absent field
+    and an explicit ``null`` are two different requests now, and only the second clears.
+    """
+    ha = member_anna["headers"]
+    client.put(f"{API}/saved/{member_ben['id']}", json={"note": "ask about VC"}, headers=ha)
+
+    r = client.put(f"{API}/saved/{member_ben['id']}", json={}, headers=ha)
+    assert r.status_code == 200, r.text
+    assert r.json()["saved"]["note"] == "ask about VC"
+    assert client.get(f"{API}/saved", headers=ha).json()["items"][0]["saved"]["note"] == (
+        "ask about VC"
+    )
+
+    # Explicitly emptying it still works, and the row survives with a null note.
+    assert (
+        client.put(f"{API}/saved/{member_ben['id']}", json={"note": None}, headers=ha).json()[
+            "saved"
+        ]["note"]
+        is None
+    )
+    saved = client.get(f"{API}/saved", headers=ha).json()
+    assert saved["total"] == 1 and saved["items"][0]["saved"]["note"] is None
+
+    # A first save with no note is still a row with no note.
+    carl_id = insert_member("carl-test", "Carl Test", "carl.test@cdtm.com")
+    assert client.put(f"{API}/saved/{carl_id}", json={}, headers=ha).json()["saved"]["note"] is None
+
+
+def test_the_saved_ids_are_the_whole_shortlist_not_the_page_of_it(
+    client: TestClient, member_anna: dict, member_ben: dict
+) -> None:
+    """``/saved/ids`` exists so the Save button never has to infer membership from a page.
+
+    It answers every id the member has saved, newest first, and it is scoped to the caller:
+    Ben's shortlist is not in Anna's answer and Anna's is not in Ben's.
+    """
+    ha, hb = member_anna["headers"], member_ben["headers"]
+    assert client.get(f"{API}/saved/ids", headers=ha).json() == {"member_ids": []}
+
+    carl_id = insert_member("carl-test", "Carl Test", "carl.test@cdtm.com")
+    client.put(f"{API}/saved/{member_ben['id']}", json={}, headers=ha)
+    client.put(f"{API}/saved/{carl_id}", json={"note": "intro to Ben"}, headers=ha)
+    client.put(f"{API}/saved/{member_anna['id']}", json={}, headers=hb)
+
+    r = client.get(f"{API}/saved/ids", headers=ha)
+    assert r.status_code == 200, r.text
+    # Newest first, the same order the paged list is drawn in.
+    assert r.json()["member_ids"] == [str(carl_id), str(member_ben["id"])]
+    assert client.get(f"{API}/saved/ids", headers=hb).json()["member_ids"] == [
+        str(member_anna["id"])
+    ]
+
+    # It follows an unsave, which is the whole reason a button reads it.
+    client.delete(f"{API}/saved/{carl_id}", headers=ha)
+    assert client.get(f"{API}/saved/ids", headers=ha).json()["member_ids"] == [
+        str(member_ben["id"])
+    ]
+
+    # Signed out it is nobody's shortlist.
+    assert client.get(f"{API}/saved/ids").status_code == 401
+
+
+def test_an_intro_list_can_be_narrowed_to_one_other_person(
+    client: TestClient, member_anna: dict, member_ben: dict
+) -> None:
+    """A profile page asks "did I already ask this person", not "show me my history".
+
+    ``with_member_id`` keeps both directions of the unfiltered list and drops every row
+    whose other party is somebody else, so the answer is one row or none.
+    """
+    carl_id = insert_member("carl-test", "Carl Test", "carl.test@cdtm.com")
+    ha, hb = member_anna["headers"], member_ben["headers"]
+
+    _request_intro(client, ha, member_ben["id"], "to ben")
+    _request_intro(client, ha, carl_id, "to carl")
+    _request_intro(client, hb, member_anna["id"], "from ben")
+
+    with_ben = client.get(
+        f"{API}/intros", params={"with_member_id": str(member_ben["id"])}, headers=ha
+    )
+    assert with_ben.status_code == 200, with_ben.text
+    body = with_ben.json()
+    # Both directions survive the filter: Anna asked Ben and Ben asked Anna.
+    assert body["total"] == 2
+    assert [v["request"]["message"] for v in body["items"]] == ["from ben", "to ben"]
+
+    with_carl = client.get(
+        f"{API}/intros", params={"with_member_id": str(carl_id)}, headers=ha
+    ).json()
+    assert with_carl["total"] == 1
+    assert with_carl["items"][0]["request"]["message"] == "to carl"
+
+    # Somebody with no history is an empty answer rather than the unfiltered list.
+    stranger = insert_member("dana-test", "Dana Test", "dana.test@cdtm.com")
+    assert client.get(
+        f"{API}/intros", params={"with_member_id": str(stranger)}, headers=ha
+    ).json() == {"items": [], "total": 0}
+
+    # Ben and Carl never spoke, so Ben asking about Carl sees nothing of Anna's request.
+    assert (
+        client.get(f"{API}/intros", params={"with_member_id": str(carl_id)}, headers=hb).json()[
+            "total"
+        ]
+        == 0
+    )
+
+    # It pages like the unfiltered list, and a value that is not a uuid is refused.
+    page = client.get(
+        f"{API}/intros",
+        params={"with_member_id": str(member_ben["id"]), "limit": 1},
+        headers=ha,
+    ).json()
+    assert page["total"] == 2 and len(page["items"]) == 1
+    assert (
+        client.get(f"{API}/intros", params={"with_member_id": "not-a-uuid"}, headers=ha).status_code
+        == 422
+    )
 
 
 def test_unsaving_one_person_leaves_every_other_saved_row_alone(
@@ -158,20 +299,47 @@ def test_unsaving_one_person_leaves_every_other_saved_row_alone(
     client.put(f"{API}/saved/{carl_id}", json={}, headers=hb)
 
     # Most recently saved first.
-    assert [s["member"]["slug"] for s in client.get(f"{API}/saved", headers=ha).json()] == [
-        "carl-test",
-        "ben-test",
-    ]
+    assert _saved_slugs(client, ha) == ["carl-test", "ben-test"]
 
     assert client.delete(f"{API}/saved/{carl_id}", headers=ha).status_code == 204
-    assert [s["member"]["slug"] for s in client.get(f"{API}/saved", headers=ha).json()] == [
-        "ben-test"
-    ]
-    assert [s["member"]["slug"] for s in client.get(f"{API}/saved", headers=hb).json()] == [
-        "carl-test"
-    ]
+    assert _saved_slugs(client, ha) == ["ben-test"]
+    assert _saved_slugs(client, hb) == ["carl-test"]
     # Anna already removed Carl; removing him twice is a 404, not somebody else's row.
     assert client.delete(f"{API}/saved/{carl_id}", headers=ha).status_code == 404
+
+
+def test_the_shortlist_is_paged_rather_than_however_long_it_happens_to_be(
+    client: TestClient, member_anna: dict, member_ben: dict
+) -> None:
+    """``GET /network/saved`` used to be a bare list with no skip and no limit.
+
+    Nothing bounded the body but how many people the member had saved. It pages like every
+    other list now, and the skip and the limit go into the query rather than being applied
+    to a response that was already fully built.
+    """
+    carl_id = insert_member("carl-test", "Carl Test", "carl.test@cdtm.com")
+    ha = member_anna["headers"]
+    client.put(f"{API}/saved/{member_ben['id']}", json={}, headers=ha)
+    client.put(f"{API}/saved/{carl_id}", json={}, headers=ha)
+
+    page = client.get(f"{API}/saved", params={"limit": 1}, headers=ha).json()
+    # The total counts the whole shortlist, not the page that came back.
+    assert page["total"] == 2
+    assert [s["member"]["slug"] for s in page["items"]] == ["carl-test"]
+
+    assert [
+        s["member"]["slug"]
+        for s in client.get(f"{API}/saved", params={"skip": 1, "limit": 1}, headers=ha).json()[
+            "items"
+        ]
+    ] == ["ben-test"]
+
+    # A page past the end is empty and still knows how many there are.
+    beyond = client.get(f"{API}/saved", params={"skip": 50}, headers=ha).json()
+    assert beyond == {"items": [], "total": 2}
+
+    # And the cap on every other list applies here too.
+    assert client.get(f"{API}/saved", params={"limit": 101}, headers=ha).status_code == 422
 
 
 def test_a_saved_row_carries_a_whole_card_not_only_a_name(
@@ -198,7 +366,8 @@ def test_a_saved_row_carries_a_whole_card_not_only_a_name(
         "title": CARD_COLUMNS["current_title"],
         "is_ca": True,
     }
-    assert client.get(f"{API}/saved", headers=member_anna["headers"]).json()[0]["member"] == card
+    listed = client.get(f"{API}/saved", headers=member_anna["headers"]).json()
+    assert listed["total"] == 1 and listed["items"][0]["member"] == card
 
 
 def test_one_saved_row_can_be_read_back_on_its_own(

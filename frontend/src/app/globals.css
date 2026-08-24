@@ -1621,6 +1621,13 @@
         contain-intrinsic-size: auto 320px;
     }
 
+    /* An announcement, collapsed: a header line, a title and two lines of
+       preview. Taller than a list row, nothing like a photo card. */
+    .cv-note {
+        content-visibility: auto;
+        contain-intrinsic-size: auto 132px;
+    }
+
     .prose p,
     .prose li {
         font-size: 14px;

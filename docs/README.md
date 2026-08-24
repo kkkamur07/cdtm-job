@@ -13,6 +13,8 @@ Start with the document that matches what you are about to do.
 | [Technical architecture](architecture.md) | You want the system design, bounded contexts, auth flow, error model, or deployment |
 | [Database design](database-design.md) | You want the schema, an index, the Supabase connection rules, or the migration workflow |
 | [Ask](ask.md) | You are working on the natural-language Ask boxes, or configuring a model provider |
+| [Performance pass, 2026-08-24](performance-pass-2026-08-24.md) | You want the before/after numbers, what each audit found, what was implemented, what was validated and skipped, and the open decisions |
+| [Mutation testing](mutation-testing.md) | You want to know how strong the tests are, run mutmut on a slice of the backend, or read what the first campaign found |
 | [Backend README](../backend/README.md) | You are writing a route, a service or a repository |
 | [Infrastructure README](../infrastructure/README.md) | You are writing or applying a migration |
 

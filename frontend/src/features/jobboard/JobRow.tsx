@@ -1,12 +1,20 @@
 import Link from "next/link";
+import { memo } from "react";
 
 import { AvatarCircle } from "@/components/MemberAvatar";
 import { firstName } from "@/lib/format";
 import CompanyLogo from "./CompanyLogo";
 import type { JobRowData } from "./jobData";
 
-/** One role in the jobs list. The whole row is the link target. */
-export default function JobRow({ job, compact = false }: { job: JobRowData; compact?: boolean }) {
+/**
+ * One role in the jobs list. The whole row is the link target.
+ *
+ * Memoized because the board re-renders on every keystroke in the search box
+ * and every tick of a filter, while a row only changes when its own job does.
+ * The rows come straight off the server payload, so their identities are
+ * stable and the comparison is a pointer check.
+ */
+function JobRow({ job, compact = false }: { job: JobRowData; compact?: boolean }) {
     return (
         <li className="cv-row">
             <Link href={job.href} className="jrow">
@@ -47,6 +55,8 @@ export default function JobRow({ job, compact = false }: { job: JobRowData; comp
         </li>
     );
 }
+
+export default memo(JobRow);
 
 /**
  * The line under the badges, in order of usefulness: the member who posted the

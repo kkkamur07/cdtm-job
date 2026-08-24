@@ -22,6 +22,29 @@ export interface paths {
     patch?: never;
     trace?: never;
   };
+  "/api/v1/announcements/unread-count": {
+    parameters: {
+      query?: never;
+      header?: never;
+      path?: never;
+      cookie?: never;
+    };
+    /**
+     * Unread Count
+     * @description The badge on its own, one statement, no rows.
+     *
+     *     Declared before ``/{announcement_id}`` because FastAPI matches routes in order and a
+     *     UUID path parameter would otherwise swallow this literal.
+     */
+    get: operations["unread_count_api_v1_announcements_unread_count_get"];
+    put?: never;
+    post?: never;
+    delete?: never;
+    options?: never;
+    head?: never;
+    patch?: never;
+    trace?: never;
+  };
   "/api/v1/announcements/{announcement_id}": {
     parameters: {
       query?: never;
@@ -687,7 +710,13 @@ export interface paths {
       path?: never;
       cookie?: never;
     };
-    /** Facets */
+    /**
+     * Facets
+     * @description The directory's filter bar: every class, every major, and the roster size.
+     *
+     *     ``private`` rather than ``public``: the route is behind a bearer token, so no shared
+     *     cache may keep a copy, and the answer is the same for every caller anyway.
+     */
     get: operations["facets_api_v1_members_facets_get"];
     put?: never;
     post?: never;
@@ -810,7 +839,13 @@ export interface paths {
       path?: never;
       cookie?: never;
     };
-    /** My Intros */
+    /**
+     * My Intros
+     * @description Both directions, paged. Unbounded before, for the same reason ``/saved`` was.
+     *
+     *     ``with_member_id`` is how a profile page asks "have I already asked for an intro to this
+     *     person": one row or none, instead of the whole history filtered in the browser.
+     */
     get: operations["my_intros_api_v1_network_intros_get"];
     put?: never;
     /** Request Intro */
@@ -845,8 +880,41 @@ export interface paths {
       path?: never;
       cookie?: never;
     };
-    /** My Saved */
+    /**
+     * My Saved
+     * @description A shortlist is short, but "short" is not a contract.
+     *
+     *     This used to answer a bare list with no skip and no limit, so the size of the body was
+     *     whatever the member had saved. It pages like every other list now, and the skip and the
+     *     limit reach the query rather than the response.
+     */
     get: operations["my_saved_api_v1_network_saved_get"];
+    put?: never;
+    post?: never;
+    delete?: never;
+    options?: never;
+    head?: never;
+    patch?: never;
+    trace?: never;
+  };
+  "/api/v1/network/saved/ids": {
+    parameters: {
+      query?: never;
+      header?: never;
+      path?: never;
+      cookie?: never;
+    };
+    /**
+     * My Saved Ids
+     * @description The same shortlist as ``/saved``, as ids, and unpaged on purpose.
+     *
+     *     Two questions, two answers. ``/saved`` is what a member reads, so it is a page of cards.
+     *     A Save button asks something else: is this one person on the list, yes or no. Answering
+     *     that from the first page said no about everybody below row one hundred. This is a single
+     *     uuid column bounded by the size of one member's shortlist, so it needs no skip and no
+     *     limit and the client can hold the whole set.
+     */
+    get: operations["my_saved_ids_api_v1_network_saved_ids_get"];
     put?: never;
     post?: never;
     delete?: never;
@@ -863,7 +931,10 @@ export interface paths {
       cookie?: never;
     };
     get?: never;
-    /** Save Member */
+    /**
+     * Save Member
+     * @description A body without ``note`` saves without touching the note; ``{"note": null}`` clears it.
+     */
     put: operations["save_member_api_v1_network_saved__member_id__put"];
     post?: never;
     /** Unsave Member */
@@ -1739,6 +1810,65 @@ export interface components {
       /** Url */
       url?: string | null;
     };
+    /**
+     * EventSummaryPublic
+     * @description An event as a calendar row: when, where, the counts, and your own answer.
+     *
+     *     ``description`` is the only long field on the aggregate and no row draws it, so the
+     *     list leaves it out; ``GET /events/{event_id}`` is where it is read. Copied from
+     *     ``Event`` rather than inherited, because pydantic cannot take a field back off a
+     *     parent. ``tests/unit/test_list_summary_dtos.py`` pins the two field sets together.
+     */
+    EventSummaryPublic: {
+      /**
+       * Created At
+       * Format: date-time
+       */
+      created_at: string;
+      /** Created By Member Id */
+      created_by_member_id?: string | null;
+      /** Ends At */
+      ends_at?: string | null;
+      /**
+       * Going Count
+       * @default 0
+       */
+      going_count: number;
+      /**
+       * Id
+       * Format: uuid
+       */
+      id: string;
+      /**
+       * Interested Count
+       * @default 0
+       */
+      interested_count: number;
+      /**
+       * Is Published
+       * @default true
+       */
+      is_published: boolean;
+      /** @default community */
+      kind: components["schemas"]["EventKind"];
+      /** Location */
+      location?: string | null;
+      my_rsvp?: components["schemas"]["RsvpStatus"] | null;
+      /**
+       * Starts At
+       * Format: date-time
+       */
+      starts_at: string;
+      /** Title */
+      title: string;
+      /**
+       * Updated At
+       * Format: date-time
+       */
+      updated_at: string;
+      /** Url */
+      url?: string | null;
+    };
     /** EventUpdate */
     EventUpdate: {
       /** Description */
@@ -1760,7 +1890,7 @@ export interface components {
     /** EventsPublic */
     EventsPublic: {
       /** Items */
-      items: components["schemas"]["EventPublic"][];
+      items: components["schemas"]["EventSummaryPublic"][];
       /** Total */
       total: number;
     };
@@ -1782,11 +1912,14 @@ export interface components {
        */
       status: "ok" | "degraded";
     };
-    /** HousingAskAnswerPublic */
+    /**
+     * HousingAskAnswerPublic
+     * @description An answer is a list of cards, so it ships the same summary the board does.
+     */
     HousingAskAnswerPublic: {
       interpretation: components["schemas"]["HousingAskInterpretation"];
       /** Listings */
-      listings?: components["schemas"]["HousingListing"][];
+      listings?: components["schemas"]["HousingListingSummaryPublic"][];
       /**
        * Total
        * @default 0
@@ -1870,56 +2003,6 @@ export interface components {
      * @enum {string}
      */
     HousingKind: "offer" | "looking";
-    /** HousingListing */
-    HousingListing: {
-      /** Area */
-      area?: string | null;
-      /** Available From */
-      available_from?: string | null;
-      /** Available Until */
-      available_until?: string | null;
-      /** City */
-      city: string;
-      /**
-       * Created At
-       * Format: date-time
-       */
-      created_at: string;
-      /** Description */
-      description?: string | null;
-      /** Expires At */
-      expires_at?: string | null;
-      /** Furnished */
-      furnished?: boolean | null;
-      /**
-       * Id
-       * Format: uuid
-       */
-      id: string;
-      kind: components["schemas"]["HousingKind"];
-      /**
-       * Member Id
-       * Format: uuid
-       */
-      member_id: string;
-      /** Photo Urls */
-      photo_urls?: string[];
-      /** Price Eur */
-      price_eur?: number | null;
-      /** Rooms */
-      rooms?: string | null;
-      /** @default open */
-      status: components["schemas"]["HousingStatus"];
-      /** Title */
-      title: string;
-      /**
-       * Updated At
-       * Format: date-time
-       */
-      updated_at: string;
-      /** View Count */
-      view_count?: number | null;
-    };
     /**
      * HousingListingPublic
      * @description A listing. ``view_count`` is filled in for the owner and an admin, null for others.
@@ -1973,10 +2056,69 @@ export interface components {
       /** View Count */
       view_count?: number | null;
     };
+    /**
+     * HousingListingSummaryPublic
+     * @description A listing as a board card: the photo, the price, the dates, and no free text.
+     *
+     *     ``description`` has no length limit on the aggregate and is capped at twenty thousand
+     *     characters on the way in, so a hundred listings carried a page of prose per card that
+     *     the card never draws. Opening a listing answers with ``HousingListingPublic``, which is
+     *     where the description is read.
+     *
+     *     Copied from ``HousingListing`` rather than inherited: pydantic cannot take a field back
+     *     off a parent. ``tests/unit/test_list_summary_dtos.py`` pins the two field sets together.
+     */
+    HousingListingSummaryPublic: {
+      /** Area */
+      area?: string | null;
+      /** Available From */
+      available_from?: string | null;
+      /** Available Until */
+      available_until?: string | null;
+      /** City */
+      city: string;
+      /**
+       * Created At
+       * Format: date-time
+       */
+      created_at: string;
+      /** Expires At */
+      expires_at?: string | null;
+      /** Furnished */
+      furnished?: boolean | null;
+      /**
+       * Id
+       * Format: uuid
+       */
+      id: string;
+      kind: components["schemas"]["HousingKind"];
+      /**
+       * Member Id
+       * Format: uuid
+       */
+      member_id: string;
+      /** Photo Urls */
+      photo_urls?: string[];
+      /** Price Eur */
+      price_eur?: number | null;
+      /** Rooms */
+      rooms?: string | null;
+      /** @default open */
+      status: components["schemas"]["HousingStatus"];
+      /** Title */
+      title: string;
+      /**
+       * Updated At
+       * Format: date-time
+       */
+      updated_at: string;
+      /** View Count */
+      view_count?: number | null;
+    };
     /** HousingListingsPublic */
     HousingListingsPublic: {
       /** Items */
-      items: components["schemas"]["HousingListingPublic"][];
+      items: components["schemas"]["HousingListingSummaryPublic"][];
       /** Total */
       total: number;
     };
@@ -2163,6 +2305,13 @@ export interface components {
       requester: components["schemas"]["NetworkMemberPublic"];
       target: components["schemas"]["NetworkMemberPublic"];
     };
+    /** IntroRequestsPublic */
+    IntroRequestsPublic: {
+      /** Items */
+      items: components["schemas"]["IntroRequestPublic"][];
+      /** Total */
+      total: number;
+    };
     /** IntroRespond */
     IntroRespond: {
       status: components["schemas"]["IntroStatus"];
@@ -2173,92 +2322,13 @@ export interface components {
      */
     IntroStatus: "pending" | "accepted" | "declined" | "withdrawn";
     /**
-     * Job
-     * @description A job opening posted by a company, optionally on behalf of a community member.
+     * JobAskAnswerPublic
+     * @description An answer is a list of rows, so it ships the same summary the board does.
      */
-    Job: {
-      /** Application Email */
-      application_email?: string | null;
-      /** Application Url */
-      application_url?: string | null;
-      /** City */
-      city?: string | null;
-      /**
-       * Company Id
-       * Format: uuid
-       */
-      company_id: string;
-      /** @default undisclosed */
-      compensation_disclosure: components["schemas"]["CompensationDisclosure"];
-      /** Country */
-      country?: string | null;
-      /**
-       * Created At
-       * Format: date-time
-       */
-      created_at: string;
-      /** Description */
-      description: string;
-      /** Education Level */
-      education_level?: string | null;
-      employment_type: components["schemas"]["EmploymentType"];
-      experience_level: components["schemas"]["ExperienceLevel"];
-      /**
-       * Id
-       * Format: uuid
-       */
-      id: string;
-      /** Image Url */
-      image_url?: string | null;
-      /** Languages */
-      languages?: string[];
-      /** Location Display */
-      location_display?: string | null;
-      /** Must Have Skills */
-      must_have_skills?: string[];
-      /** Nice To Have Skills */
-      nice_to_have_skills?: string[];
-      /** Posted By Member Id */
-      posted_by_member_id?: string | null;
-      /** Published At */
-      published_at?: string | null;
-      /** Region */
-      region?: string | null;
-      /** Relocation Assistance */
-      relocation_assistance?: boolean | null;
-      /** Remote Eligibility Note */
-      remote_eligibility_note?: string | null;
-      /** Salary Currency */
-      salary_currency?: string | null;
-      /** Salary Max */
-      salary_max?: string | null;
-      /** Salary Min */
-      salary_min?: string | null;
-      salary_period?: components["schemas"]["SalaryPeriod"] | null;
-      /** Slug */
-      slug?: string | null;
-      /** @default draft */
-      status: components["schemas"]["JobStatus"];
-      /** Summary */
-      summary?: string | null;
-      /** Title */
-      title: string;
-      /**
-       * Updated At
-       * Format: date-time
-       */
-      updated_at: string;
-      /** Valid Through */
-      valid_through?: string | null;
-      /** Visa Sponsorship */
-      visa_sponsorship?: boolean | null;
-      work_arrangement: components["schemas"]["WorkArrangement"];
-    };
-    /** JobAskAnswerPublic */
     JobAskAnswerPublic: {
       interpretation: components["schemas"]["JobAskInterpretation"];
       /** Jobs */
-      jobs?: components["schemas"]["Job"][];
+      jobs?: components["schemas"]["JobSummaryPublic"][];
       /**
        * Total
        * @default 0
@@ -2551,6 +2621,91 @@ export interface components {
      * @enum {string}
      */
     JobStatus: "draft" | "published" | "closed" | "filled";
+    /**
+     * JobSummaryPublic
+     * @description A job as a list row: everything the board draws, and none of the long text.
+     *
+     *     ``JobPublic`` is the whole aggregate, and one of its fields (``description``) may be
+     *     twenty thousand characters. A hundred of those on ``GET /jobs/`` is a megabyte of JSON
+     *     nothing on the page reads: the rows draw a title, a company, three badges, a location,
+     *     a salary and a date. The three skill and language lists go the same way. Opening a
+     *     listing still answers with the whole aggregate, which is where the description belongs.
+     *
+     *     The fields below are copied from ``Job`` rather than inherited, because pydantic has no
+     *     way to take a field back off a parent. ``tests/unit/test_list_summary_dtos.py`` pins the
+     *     two field sets against each other, so a field added to the aggregate cannot go missing
+     *     from the board without a test saying so.
+     */
+    JobSummaryPublic: {
+      /** Application Email */
+      application_email?: string | null;
+      /** Application Url */
+      application_url?: string | null;
+      /** City */
+      city?: string | null;
+      /**
+       * Company Id
+       * Format: uuid
+       */
+      company_id: string;
+      /** @default undisclosed */
+      compensation_disclosure: components["schemas"]["CompensationDisclosure"];
+      /** Country */
+      country?: string | null;
+      /**
+       * Created At
+       * Format: date-time
+       */
+      created_at: string;
+      /** Education Level */
+      education_level?: string | null;
+      employment_type: components["schemas"]["EmploymentType"];
+      experience_level: components["schemas"]["ExperienceLevel"];
+      /**
+       * Id
+       * Format: uuid
+       */
+      id: string;
+      /** Image Url */
+      image_url?: string | null;
+      /** Location Display */
+      location_display?: string | null;
+      /** Posted By Member Id */
+      posted_by_member_id?: string | null;
+      /** Published At */
+      published_at?: string | null;
+      /** Region */
+      region?: string | null;
+      /** Relocation Assistance */
+      relocation_assistance?: boolean | null;
+      /** Remote Eligibility Note */
+      remote_eligibility_note?: string | null;
+      /** Salary Currency */
+      salary_currency?: string | null;
+      /** Salary Max */
+      salary_max?: string | null;
+      /** Salary Min */
+      salary_min?: string | null;
+      salary_period?: components["schemas"]["SalaryPeriod"] | null;
+      /** Slug */
+      slug?: string | null;
+      /** @default draft */
+      status: components["schemas"]["JobStatus"];
+      /** Summary */
+      summary?: string | null;
+      /** Title */
+      title: string;
+      /**
+       * Updated At
+       * Format: date-time
+       */
+      updated_at: string;
+      /** Valid Through */
+      valid_through?: string | null;
+      /** Visa Sponsorship */
+      visa_sponsorship?: boolean | null;
+      work_arrangement: components["schemas"]["WorkArrangement"];
+    };
     /** JobUpdate */
     JobUpdate: {
       /** Application Email */
@@ -2610,7 +2765,7 @@ export interface components {
     /** JobsPublic */
     JobsPublic: {
       /** Items */
-      items: components["schemas"]["JobPublic"][];
+      items: components["schemas"]["JobSummaryPublic"][];
       /** Total */
       total: number;
     };
@@ -3276,10 +3431,31 @@ export interface components {
        */
       saved_member_id: string;
     };
+    /**
+     * SavedMemberIdsPublic
+     * @description The shortlist as bare ids, next to the paged list of cards.
+     *
+     *     Two answers to two questions. The page is what a member reads, so it is cut and carries
+     *     a whole card per row. This is what the Save button needs, and a button is either filled
+     *     or it is not: reading membership off a page meant everybody past the first hundred rows
+     *     was drawn as unsaved. One column and one row per saved person, so the whole list fits in
+     *     an answer that does not need paging.
+     */
+    SavedMemberIdsPublic: {
+      /** Member Ids */
+      member_ids: string[];
+    };
     /** SavedMemberPublic */
     SavedMemberPublic: {
       member: components["schemas"]["NetworkMemberPublic"];
       saved: components["schemas"]["SavedMember"];
+    };
+    /** SavedMembersPublic */
+    SavedMembersPublic: {
+      /** Items */
+      items: components["schemas"]["SavedMemberPublic"][];
+      /** Total */
+      total: number;
     };
     /** SeekerCreate */
     SeekerCreate: {
@@ -3488,6 +3664,14 @@ export interface components {
       is_admin: boolean;
     };
     /**
+     * UnreadCountPublic
+     * @description Just the badge. The header needs the number without the first page of the board.
+     */
+    UnreadCountPublic: {
+      /** Unread */
+      unread: number;
+    };
+    /**
      * Visibility
      * @enum {string}
      */
@@ -3625,6 +3809,100 @@ export interface operations {
         };
         content: {
           "application/json": components["schemas"]["AnnouncementPublic"];
+        };
+      };
+      /** @description Not authenticated */
+      401: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Not allowed */
+      403: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Not found */
+      404: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Conflict */
+      409: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Payload too large */
+      413: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Validation error */
+      422: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Internal error */
+      500: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Storage unavailable */
+      503: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+    };
+  };
+  unread_count_api_v1_announcements_unread_count_get: {
+    parameters: {
+      query?: never;
+      header?: {
+        authorization?: string | null;
+      };
+      path?: never;
+      cookie?: never;
+    };
+    requestBody?: never;
+    responses: {
+      /** @description Successful Response */
+      200: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["UnreadCountPublic"];
         };
       };
       /** @description Not authenticated */
@@ -9340,7 +9618,12 @@ export interface operations {
   };
   my_intros_api_v1_network_intros_get: {
     parameters: {
-      query?: never;
+      query?: {
+        /** @description only requests whose other party is this member, either direction */
+        with_member_id?: string | null;
+        skip?: number;
+        limit?: number;
+      };
       header?: {
         authorization?: string | null;
       };
@@ -9355,7 +9638,7 @@ export interface operations {
           [name: string]: unknown;
         };
         content: {
-          "application/json": components["schemas"]["IntroRequestPublic"][];
+          "application/json": components["schemas"]["IntroRequestsPublic"];
         };
       };
       /** @description Not authenticated */
@@ -9632,6 +9915,103 @@ export interface operations {
   };
   my_saved_api_v1_network_saved_get: {
     parameters: {
+      query?: {
+        skip?: number;
+        limit?: number;
+      };
+      header?: {
+        authorization?: string | null;
+      };
+      path?: never;
+      cookie?: never;
+    };
+    requestBody?: never;
+    responses: {
+      /** @description Successful Response */
+      200: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["SavedMembersPublic"];
+        };
+      };
+      /** @description Not authenticated */
+      401: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Not allowed */
+      403: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Not found */
+      404: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Conflict */
+      409: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Payload too large */
+      413: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Validation error */
+      422: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Internal error */
+      500: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Storage unavailable */
+      503: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+    };
+  };
+  my_saved_ids_api_v1_network_saved_ids_get: {
+    parameters: {
       query?: never;
       header?: {
         authorization?: string | null;
@@ -9647,7 +10027,7 @@ export interface operations {
           [name: string]: unknown;
         };
         content: {
-          "application/json": components["schemas"]["SavedMemberPublic"][];
+          "application/json": components["schemas"]["SavedMemberIdsPublic"];
         };
       };
       /** @description Not authenticated */

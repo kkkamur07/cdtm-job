@@ -16,8 +16,10 @@ import { useAsk } from "../ask/useAsk";
 import { STAGE_LABELS } from "./layout";
 
 // The chart is a few kilobytes of SVG maths that nothing above the fold needs,
-// so it is split out and loaded once this page is on screen.
-const PathsChart = dynamic(() => import("./PathsChart"), {
+// so it is split out and loaded once this page is on screen. The specifier is
+// the aliased one on purpose: AskExplorer lazy-loads the same module, and two
+// spellings of the same file can end up as two chunks.
+const PathsChart = dynamic(() => import("@/features/community/paths/PathsChart"), {
     ssr: false,
     loading: () => <LoadingBlock label="Drawing the flow" rows={4} />,
 });
@@ -52,7 +54,13 @@ export default function PathsExplorer({
     const [band, setBand] = useState<Band | null>(null);
     const [question, setQuestion] = useState("");
 
-    const flow = usePathFlow(classId ? { class_id: classId } : {});
+    // Unfiltered is exactly what the server drew above, so it is handed to the
+    // query rather than left as a render fallback: without it the browser asked
+    // for the same flow again the moment it hydrated.
+    const flow = usePathFlow(
+        classId ? { class_id: classId } : {},
+        classId ? undefined : initialFlow,
+    );
     const members = usePathMembers(band ? { ...band, class_id: classId } : null);
     const answer = useAsk(question, { enabled: question.length > 0 });
 
@@ -172,7 +180,7 @@ export default function PathsExplorer({
                     )}
 
                     {band && members.data && members.data.items.length > 0 && (
-                        <ul className="card mt-2 overflow-hidden [content-visibility:auto]">
+                        <ul className="card mt-2 overflow-hidden">
                             {members.data.items.map((member) => (
                                 <li key={member.id} className="cv-row">
                                     <Link href={`/members/${member.slug}`} className="rrow">
@@ -203,7 +211,7 @@ export default function PathsExplorer({
             {asked && (answer.data?.members?.length ?? 0) > 0 && (
                 <section className="mt-6">
                     <h2 className="label">Who your question found</h2>
-                    <ul className="card mt-2 overflow-hidden [content-visibility:auto]">
+                    <ul className="card mt-2 overflow-hidden">
                         {answer.data!.members!.map((member) => (
                             <li key={member.id} className="cv-row">
                                 <Link href={`/members/${member.slug}`} className="rrow">

@@ -61,4 +61,6 @@ class HousingListingRow(Base):
         CheckConstraint("view_count >= 0", name="view_count_non_negative"),
         Index("ix_housing_listings_city_status", "city", "status"),
         Index("ix_housing_listings_member_id", "member_id"),
+        # The board's default order.
+        Index("ix_housing_listings_created_at", text("created_at DESC")),
     )

@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useId, useRef } from "react";
 
 import { useMe, useMyMember } from "@/api/hooks/me";
+import type { Me, MemberProfile } from "@/api/types";
 import Panel from "@/components/Panel";
 import { useSession } from "@/auth/AuthProvider";
 import { useUrlState } from "@/lib/urlState";
@@ -39,7 +40,14 @@ function isTab(value: string | null): value is Tab {
  * Which tab is open lives in the URL, so "here is my saved list" is a link
  * somebody can actually follow.
  */
-export default function MeBody() {
+export default function MeBody({
+    me: initialMe,
+    member: initialMember,
+}: {
+    /** What the server already fetched, so the header paints from the HTML. */
+    me?: Me;
+    member?: MemberProfile;
+}) {
     const { params, setParams } = useUrlState();
     const fromUrl = params.get("tab");
     const tab: Tab = isTab(fromUrl) ? fromUrl : "entry";
@@ -47,8 +55,8 @@ export default function MeBody() {
 
     const tabsRef = useRef<(HTMLButtonElement | null)[]>([]);
     const baseId = useId();
-    const me = useMe();
-    const member = useMyMember();
+    const me = useMe(initialMe);
+    const member = useMyMember(initialMember);
     const { signOut } = useSession();
 
     /** Move selection and focus together, wrapping at both ends. */

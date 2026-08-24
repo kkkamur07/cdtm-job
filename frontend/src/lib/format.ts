@@ -39,8 +39,13 @@ export function badgeLabel(value: string | null | undefined): string {
     return words.charAt(0).toUpperCase() + words.slice(1);
 }
 
+// Hoisted out of the functions below: a literal in a function body is a fresh
+// RegExp on every call, and these run once per row of every list on the site.
+const SPACE = /\s+/;
+const LETTER = /[a-zA-ZÀ-ɏ]/;
+
 export function initials(name: string): string {
-    const parts = name.split(/\s+/).filter((p) => /[a-zA-ZÀ-ɏ]/.test(p));
+    const parts = name.split(SPACE).filter((p) => LETTER.test(p));
     if (!parts.length) return "?";
     const first = parts[0][0] ?? "";
     const last = parts.length > 1 ? (parts[parts.length - 1][0] ?? "") : "";
@@ -48,7 +53,7 @@ export function initials(name: string): string {
 }
 
 export function firstName(name: string): string {
-    return name.split(/\s+/)[0] ?? name;
+    return name.split(SPACE)[0] ?? name;
 }
 
 /**
@@ -62,6 +67,61 @@ export function firstName(name: string): string {
 const ZONE = "Europe/Berlin";
 const LOCALE = "en-GB";
 
+/**
+ * One formatter per option shape, built once.
+ *
+ * `date.toLocaleDateString(locale, options)` constructs an `Intl.DateTimeFormat`
+ * internally on every call, which is among the most expensive things in the
+ * standard library, and an events list or a wall of housing cards does three of
+ * them per row. The output is the same either way: the same locale and the same
+ * options go in.
+ */
+const DATE = new Intl.DateTimeFormat(LOCALE, {
+    day: "numeric",
+    month: "short",
+    year: "numeric",
+    timeZone: ZONE,
+});
+const DATE_TIME = new Intl.DateTimeFormat(LOCALE, {
+    weekday: "short",
+    day: "numeric",
+    month: "short",
+    hour: "2-digit",
+    minute: "2-digit",
+    timeZone: ZONE,
+});
+const DAY = new Intl.DateTimeFormat(LOCALE, { day: "numeric", timeZone: ZONE });
+const MONTH = new Intl.DateTimeFormat(LOCALE, { month: "short", timeZone: ZONE });
+const WEEKDAY = new Intl.DateTimeFormat(LOCALE, { weekday: "long", timeZone: ZONE });
+/** "1 Oct", and the same with the year, for `dateRange`. */
+const DAY_MONTH = new Intl.DateTimeFormat(LOCALE, {
+    day: "numeric",
+    month: "short",
+    timeZone: ZONE,
+});
+const DAY_MONTH_YEAR = new Intl.DateTimeFormat(LOCALE, {
+    day: "numeric",
+    month: "short",
+    timeZone: ZONE,
+    year: "numeric",
+});
+const PLAIN_NUMBER = new Intl.NumberFormat(LOCALE, { maximumFractionDigits: 0 });
+
+/** Currency is a listing's own field, so these are cached per code rather than hoisted. */
+const CURRENCY_FORMATS = new Map<string, Intl.NumberFormat>();
+
+function currencyFormat(currency: string): Intl.NumberFormat {
+    const known = CURRENCY_FORMATS.get(currency);
+    if (known) return known;
+    const made = new Intl.NumberFormat(LOCALE, {
+        style: "currency",
+        currency,
+        maximumFractionDigits: 0,
+    });
+    CURRENCY_FORMATS.set(currency, made);
+    return made;
+}
+
 function parse(value: string | null | undefined): Date | null {
     if (!value) return null;
     const date = new Date(value);
@@ -71,25 +131,13 @@ function parse(value: string | null | undefined): Date | null {
 export function formatDate(value: string | null | undefined): string | null {
     const date = parse(value);
     if (!date) return null;
-    return date.toLocaleDateString(LOCALE, {
-        day: "numeric",
-        month: "short",
-        year: "numeric",
-        timeZone: ZONE,
-    });
+    return DATE.format(date);
 }
 
 export function formatDateTime(value: string | null | undefined): string | null {
     const date = parse(value);
     if (!date) return null;
-    return date.toLocaleString(LOCALE, {
-        weekday: "short",
-        day: "numeric",
-        month: "short",
-        hour: "2-digit",
-        minute: "2-digit",
-        timeZone: ZONE,
-    });
+    return DATE_TIME.format(date);
 }
 
 /** Big day number plus month, for the date block on event rows. */
@@ -97,8 +145,8 @@ export function dateParts(value: string | null | undefined): { day: string; mont
     const date = parse(value);
     if (!date) return null;
     return {
-        day: date.toLocaleDateString(LOCALE, { day: "numeric", timeZone: ZONE }),
-        month: date.toLocaleDateString(LOCALE, { month: "short", timeZone: ZONE }).toUpperCase(),
+        day: DAY.format(date),
+        month: MONTH.format(date).toUpperCase(),
     };
 }
 
@@ -128,13 +176,8 @@ export function formatSalary(job: {
     const max = job.salary_max ? Number(job.salary_max) : null;
     if (min === null && max === null) return null;
 
-    const currency = job.salary_currency ?? "EUR";
-    const fmt = (n: number) =>
-        new Intl.NumberFormat(LOCALE, {
-            style: "currency",
-            currency,
-            maximumFractionDigits: 0,
-        }).format(n);
+    const money = currencyFormat(job.salary_currency ?? "EUR");
+    const fmt = (n: number) => money.format(n);
 
     const range = min !== null && max !== null ? `${fmt(min)} - ${fmt(max)}` : fmt((min ?? max)!);
     const period = job.salary_period === "yearly" ? "per year" : humanise(job.salary_period);
@@ -172,9 +215,7 @@ export function compactSalary(job: {
     const thousands = (n: number) => `${Math.round(n / 1000)}k`;
 
     if (job.salary_period === "hourly" || job.salary_period === "monthly") {
-        const value = new Intl.NumberFormat(LOCALE, { maximumFractionDigits: 0 }).format(
-            (min ?? max)!,
-        );
+        const value = PLAIN_NUMBER.format((min ?? max)!);
         return `${symbol} ${value} per ${job.salary_period === "hourly" ? "hour" : "month"}`;
     }
 
@@ -187,7 +228,7 @@ export function formatPrice(value: number | string | null | undefined): string |
     if (value === null || value === undefined || value === "") return null;
     const amount = Number(value);
     if (Number.isNaN(amount)) return null;
-    return `€ ${new Intl.NumberFormat(LOCALE, { maximumFractionDigits: 0 }).format(amount)}`;
+    return `€ ${PLAIN_NUMBER.format(amount)}`;
 }
 
 /**
@@ -205,14 +246,11 @@ export function dateRange(
     const end = parse(until);
     if (!start && !end) return null;
 
+    // Read once per call rather than once per end of the range, and the two
+    // option shapes are the formatters above rather than two new ones.
     const thisYear = new Date().getFullYear();
     const short = (date: Date) =>
-        date.toLocaleDateString(LOCALE, {
-            day: "numeric",
-            month: "short",
-            timeZone: ZONE,
-            ...(date.getFullYear() === thisYear ? {} : { year: "numeric" }),
-        });
+        (date.getFullYear() === thisYear ? DAY_MONTH : DAY_MONTH_YEAR).format(date);
 
     if (start && end) return `${short(start)} to ${short(end)}`;
     if (start) return `From ${short(start)}`;
@@ -242,16 +280,22 @@ export function safeUrl(url: string | null | undefined): string | null {
 }
 
 /** URL-safe slug; max length matches the API `slug` field. */
+const COMBINING = /[̀-ͯ]/g;
+const NON_SLUG = /[^\w\s-]/g;
+const SPACES = /\s+/g;
+const DASHES = /-+/g;
+const EDGE_DASH = /^-|-$/g;
+
 export function slugify(input: string, maxLen = 128): string {
     return input
         .trim()
         .toLowerCase()
         .normalize("NFKD")
-        .replace(/[̀-ͯ]/g, "")
-        .replace(/[^\w\s-]/g, "")
-        .replace(/\s+/g, "-")
-        .replace(/-+/g, "-")
-        .replace(/^-|-$/g, "")
+        .replace(COMBINING, "")
+        .replace(NON_SLUG, "")
+        .replace(SPACES, "-")
+        .replace(DASHES, "-")
+        .replace(EDGE_DASH, "")
         .slice(0, maxLen);
 }
 
@@ -279,7 +323,7 @@ export function joinList(items: string[] | null | undefined): string {
  * left the weekday on the server's timezone rather than Munich's.
  */
 export function weekdayName(date: Date = new Date()): string {
-    return date.toLocaleDateString(LOCALE, { weekday: "long", timeZone: ZONE });
+    return WEEKDAY.format(date);
 }
 
 /**
@@ -289,10 +333,12 @@ export function weekdayName(date: Date = new Date()): string {
  * the array, so two identical paragraphs still get different keys and nothing
  * shifts if the text is edited above them.
  */
+const BLANK_LINE = /\n{2,}/;
+
 export function paragraphs(text: string): { key: string; text: string }[] {
     let offset = 0;
     const parts: { key: string; text: string }[] = [];
-    for (const part of text.split(/\n{2,}/)) {
+    for (const part of text.split(BLANK_LINE)) {
         parts.push({ key: `p${offset}`, text: part });
         offset += part.length + 2;
     }

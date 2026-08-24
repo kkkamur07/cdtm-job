@@ -56,7 +56,11 @@ def to_member(row: MemberRow, *, is_claimed: bool = False) -> Member:
 
 
 def to_profile(row: MemberRow, *, is_claimed: bool = False) -> MemberProfile:
-    base = to_member(row, is_claimed=is_claimed).model_dump()
+    # ``dict(model)`` hands over the field values as they are; ``model_dump()`` used to
+    # serialise the Avatar, the ClassRefs and the Intents down to plain dicts so that
+    # ``MemberProfile`` could build all three back out of them again. Every profile read
+    # paid for that, and a MemberProfile is a Member, so the values fit as they stand.
+    base = dict(to_member(row, is_claimed=is_claimed))
     return MemberProfile(
         **base,
         roster_name=row.roster_name,

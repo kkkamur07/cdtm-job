@@ -135,22 +135,33 @@ export function layoutFlow(flow: PathFlow, width = 880, height = 460): FlowLayou
     const outOffset = new Map<string, number>();
     const inOffset = new Map<string, number>();
 
+    // How much leaves each node and how much arrives at it, counted in one
+    // pass. Reading these off the whole link list per link made the layout
+    // O(links²), and it re-runs on every class filter.
+    const sourceTotals = new Map<string, number>();
+    const targetTotals = new Map<string, number>();
+    for (const link of links) {
+        const from = `${link.source_stage}::${link.source_group}`;
+        const to = `${link.target_stage}::${link.target_group}`;
+        sourceTotals.set(from, (sourceTotals.get(from) ?? 0) + link.count);
+        targetTotals.set(to, (targetTotals.get(to) ?? 0) + link.count);
+    }
+
     const laidOutLinks: LaidOutLink[] = [];
     // Largest first: a wide ribbon laid down before a narrow one keeps the
     // stacking order the same on both edges, which is what stops them crossing
     // inside a node.
     for (const link of [...links].sort((a, b) => b.count - a.count)) {
-        const source = byKey.get(`${link.source_stage}::${link.source_group}`);
-        const target = byKey.get(`${link.target_stage}::${link.target_group}`);
-        if (!source || !target) continue;
-
-        const sourceTotal = totalFor(links, link.source_stage, link.source_group, "source") || 1;
-        const targetTotal = totalFor(links, link.target_stage, link.target_group, "target") || 1;
-        const outThickness = Math.max((link.count / sourceTotal) * source.height, 1.5);
-        const inThickness = Math.max((link.count / targetTotal) * target.height, 1.5);
-
         const sourceKey = `${link.source_stage}::${link.source_group}`;
         const targetKey = `${link.target_stage}::${link.target_group}`;
+        const source = byKey.get(sourceKey);
+        const target = byKey.get(targetKey);
+        if (!source || !target) continue;
+
+        const sourceTotal = (sourceTotals.get(sourceKey) ?? 0) || 1;
+        const targetTotal = (targetTotals.get(targetKey) ?? 0) || 1;
+        const outThickness = Math.max((link.count / sourceTotal) * source.height, 1.5);
+        const inThickness = Math.max((link.count / targetTotal) * target.height, 1.5);
         const y0 = source.y + (outOffset.get(sourceKey) ?? 0);
         const y1 = target.y + (inOffset.get(targetKey) ?? 0);
         outOffset.set(sourceKey, (outOffset.get(sourceKey) ?? 0) + outThickness);
@@ -211,19 +222,4 @@ export function layoutFlow(flow: PathFlow, width = 880, height = 460): FlowLayou
     };
 
     return { stages, nodes: laidOut, links: laidOutLinks, width, height, strands };
-}
-
-function totalFor(
-    links: PathFlow["links"],
-    stage: string,
-    group: string,
-    side: "source" | "target",
-): number {
-    return (links ?? [])
-        .filter((link) =>
-            side === "source"
-                ? link.source_stage === stage && link.source_group === group
-                : link.target_stage === stage && link.target_group === group,
-        )
-        .reduce((sum, link) => sum + link.count, 0);
 }

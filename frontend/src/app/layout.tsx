@@ -1,8 +1,11 @@
 import type { Metadata, Viewport } from "next";
+import { preconnect } from "react-dom";
 
 import "./globals.css";
 import Providers from "./providers";
+import { API_BASE_URL } from "@/api/config";
 import { getIdentity } from "@/auth/session";
+import { SUPABASE_URL, isSupabaseConfigured } from "@/lib/supabase/env";
 
 const DESCRIPTION =
     "The CDTM network: people, paths, jobs, housing, events and announcements in one place.";
@@ -43,6 +46,19 @@ export const viewport: Viewport = {
 };
 
 export default async function RootLayout({ children }: { children: React.ReactNode }) {
+    // Both are separate origins the browser talks to as soon as the page is
+    // interactive: every React Query hook goes to the API, and the Supabase SDK
+    // restores the session. Opening the connections while the HTML is still
+    // streaming takes the DNS, TCP and TLS handshakes off the critical path of
+    // the first request to each.
+    //
+    // `anonymous` because that is the pool both actually use: the API client
+    // sets no `credentials`, so cross-origin it sends none, and the Supabase
+    // SDK is the same. Warming the credentialed pool instead would open a
+    // connection nothing then reaches for.
+    preconnect(API_BASE_URL, { crossOrigin: "anonymous" });
+    if (isSupabaseConfigured) preconnect(SUPABASE_URL, { crossOrigin: "anonymous" });
+
     // Passed down so the first client paint already knows whether somebody is
     // signed in, rather than flashing the signed-out header.
     const { email, accessToken } = await getIdentity();

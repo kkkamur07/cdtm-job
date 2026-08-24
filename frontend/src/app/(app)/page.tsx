@@ -13,7 +13,7 @@ import {
     loadMyIntents,
     loadMySaved,
 } from "@/api/server";
-import MemberGate from "@/components/MemberGate";
+import MemberGate, { gatedData } from "@/components/MemberGate";
 import Panel from "@/components/Panel";
 import { avatarOf } from "@/api/people";
 import { AvatarCircle } from "@/components/MemberAvatar";
@@ -27,10 +27,16 @@ import { toJobRow } from "@/features/jobboard/jobData";
 import { firstName, weekdayName } from "@/lib/format";
 import { INTENTS, activeIntents } from "@/lib/intents";
 
+/**
+ * Synchronous on purpose: the feed is started here, before the gate suspends on
+ * `/auth/me`, so the eight reads begin at the same moment the gate's own does
+ * rather than a full round trip after it.
+ */
 export default function HomePage() {
+    const data = gatedData(loadFeed);
     return (
         <MemberGate next="/">
-            <Feed />
+            <Feed data={data} />
         </MemberGate>
     );
 }
@@ -42,14 +48,14 @@ export default function HomePage() {
  * sequence would stack eight latencies on top of each other for a page whose
  * whole job is to load fast enough to be worth opening.
  */
-async function Feed() {
+async function loadFeed() {
     const [me, member, intents, saved, announcements, events, jobs, housing] =
         await Promise.all([
             loadMe(),
             loadMyMember().catch(() => null),
             loadMyIntents().catch(() => null),
-            loadMySaved().catch(() => []),
-            loadAnnouncements().catch(() => null),
+            loadMySaved().catch(() => ({ items: [], total: 0 })),
+            loadAnnouncements(2).catch(() => null),
             loadEvents(true).catch(() => null),
             loadJobs({ status: "published", limit: 3 }),
             loadHousing({ status: "open", limit: 1 }).catch(() => null),
@@ -57,7 +63,6 @@ async function Feed() {
 
     const myIntents = activeIntents(intents);
     const focus = myIntents[0] ?? "cofounding";
-    const focusLabel = INTENTS.find((item) => item.key === focus)?.label ?? "co-founding";
 
     // These depend on the first wave: the peers on which intent came back, the
     // posters and the companies on the ids the jobs carry. They still go out
@@ -71,6 +76,46 @@ async function Feed() {
         loadMemberIndex(jobs.items.map((job) => job.posted_by_member_id)).catch(() => null),
         Promise.all(companyIds.map((id) => loadCompany(id).catch(() => null))),
     ]);
+
+    return {
+        me,
+        member,
+        intents,
+        myIntents,
+        focus,
+        saved,
+        announcements,
+        events,
+        jobs,
+        housing,
+        peers,
+        members,
+        companyList,
+    };
+}
+
+async function Feed({ data }: { data: Promise<Awaited<ReturnType<typeof loadFeed>> | null> }) {
+    const loaded = await data;
+    // Only reachable signed in: the gate has shown the notice otherwise.
+    if (!loaded) return null;
+
+    const {
+        me,
+        member,
+        intents,
+        myIntents,
+        focus,
+        saved,
+        announcements,
+        events,
+        jobs,
+        housing,
+        peers,
+        members,
+        companyList,
+    } = loaded;
+
+    const focusLabel = INTENTS.find((item) => item.key === focus)?.label ?? "co-founding";
     const peerList = (peers?.items ?? []).filter((member) => member.id !== me.member_id).slice(0, 4);
 
     const byCompany = new Map(
@@ -167,12 +212,12 @@ async function Feed() {
 
                     <Panel
                         title="Saved people"
-                        action={{ href: "/me", label: `All ${saved.length}` }}
+                        action={{ href: "/me", label: `All ${saved.total}` }}
                     >
-                        {saved.length ? (
+                        {saved.items.length ? (
                             <>
                                 <div className="saved-rail">
-                                    {saved.slice(0, 4).map((entry) => (
+                                    {saved.items.slice(0, 4).map((entry) => (
                                         <Link
                                             key={entry.member.id}
                                             href={`/members/${entry.member.slug}`}
@@ -194,11 +239,11 @@ async function Feed() {
                                         </Link>
                                     ))}
                                 </div>
-                                {saved[0]?.saved.note && (
+                                {saved.items[0]?.saved.note && (
                                     <p className="note mt-3">
-                                        {saved[0].saved.note}{" "}
+                                        {saved.items[0].saved.note}{" "}
                                         <span className="text-muted">
-                                            · {firstName(saved[0].member.name)}
+                                            · {firstName(saved.items[0].member.name)}
                                         </span>
                                     </p>
                                 )}

@@ -3,7 +3,11 @@
 The shape of a question's life: validate it, meter it, resolve what "my class" means for
 the person asking, translate it into a ``MemberQuery``, and then run the same repository
 search the ordinary directory endpoint runs. The translator is the only step a language
-model is involved in, and its output is a validated filter object, never a query.
+model is involved in, and its output is a validated filter object, never a query. It is
+also the only step worth caching: reading the question is deterministic and costs a second
+of provider time, while the search behind it has to see the directory as it is now. Both
+``/ask`` and ``/ask/explain`` go through ``_interpret``, so the preview a member types their
+way to and the answer they then ask for are one model call, not two.
 
 The Sankey flow an answer is drawn with belongs to Paths, so it is not assembled here.
 ``backend/members/api/ask.py`` composes the two, which keeps this service, and everything
@@ -13,11 +17,18 @@ below it, free of any knowledge of career groups beyond the strings it passes th
 from __future__ import annotations
 
 import time
+from datetime import date
 from uuid import UUID
 
 from backend.core.actor import Actor
+from backend.core.cache import TTLCache
 from backend.core.exceptions import LlmUnavailableError, RateLimitedError
-from backend.core.llm.ask import LLM_DOWN_NOTE, ViewerContext, validate_question
+from backend.core.llm.ask import (
+    LLM_DOWN_NOTE,
+    ViewerContext,
+    interpretation_key,
+    validate_question,
+)
 from backend.core.llm.observability import log_ask
 from backend.core.llm.ports import QuestionMeter
 from backend.core.settings import get_llm_settings
@@ -28,6 +39,33 @@ from backend.members.application.ports import (
     ViewerGroupSource,
 )
 from backend.members.domain import AskAnswer, AskInterpretation, MemberQuery
+
+#: How long one reading of one question is held. Reading a question is the only step that
+#: costs a model call, and it is deterministic: the same words, from the same person, in the
+#: same language, mean the same filter object. Ten minutes covers the way the board is
+#: actually used (a preview on the way to an answer, then the same question paged through,
+#: then somebody else asking the question that is on the front page), and is short enough
+#: that a prompt change is live before anyone notices the old one.
+INTERPRETATION_TTL_SECONDS = 600
+
+#: Keyed on the whole of what the translator was given, viewer context included: two people
+#: asking "who is in my class" mean different classes, and the same person asking in German
+#: gets a German summary. A few hundred entries is a few hundred short filter objects.
+_INTERPRETATIONS = TTLCache(maxsize=256, ttl=INTERPRETATION_TTL_SECONDS)
+
+
+def _handed_out(entry: tuple[AskInterpretation, str]) -> tuple[AskInterpretation, str]:
+    """A copy of a cached reading, for the caller to do what it likes with.
+
+    An ``AskInterpretation`` is not frozen and neither is the ``MemberQuery`` inside it, so
+    the cached object never leaves this module: an API layer that edited a chip, or a test
+    that poked at one, would otherwise be editing what the next asker is handed. Same rule
+    as ``Facets``, which is frozen and holds tuples for exactly this reason. It is applied on
+    the way out of the miss branch too, so the first asker is not the one caller holding a
+    reference to the cache's copy.
+    """
+    interpretation, model_name = entry
+    return interpretation.model_copy(deep=True), model_name
 
 
 def to_member_filters(query: MemberQuery) -> MemberFilters:
@@ -144,10 +182,23 @@ class AskService:
         await self._charge(actor)
         viewer = await self._viewer_context(actor)
         if self._translator is not None:
+            key = interpretation_key(
+                board="members", question=question, language=language, viewer=viewer
+            )
+            cached = _INTERPRETATIONS.get(key)
+            if cached is not None:
+                return _handed_out(cached)
             try:
-                return await self._translator.translate(
+                interpretation = await self._translator.translate(
                     question, viewer=viewer, language=language
-                ), self._translator.model_name
+                )
+                # Only a reading the model produced is kept. The keyword fallback below is
+                # pure Python over the same words, so caching it would buy nothing and would
+                # pin LLM_DOWN_NOTE onto every asker for ten minutes after the provider came
+                # back. The meter is charged above either way: the cache spares the provider,
+                # not the allowance.
+                _INTERPRETATIONS.set(key, (interpretation, self._translator.model_name))
+                return _handed_out((interpretation, self._translator.model_name))
             except LlmUnavailableError:
                 # The provider being down is not the member's problem: answer the question
                 # with keywords and say so, rather than returning a 503 for a search.
@@ -173,17 +224,25 @@ class AskService:
             raise RateLimitedError("you are asking faster than we can answer; try again shortly")
 
     async def _viewer_context(self, actor: Actor) -> ViewerContext:
+        # ``today`` is set on every branch, including the two empty ones. The prompt reads it
+        # to resolve "graduating this year", and a field the translator uses but the context
+        # does not carry is a field the cache key cannot see: the reading would then outlive
+        # the day it was made.
+        today = date.today()
         if actor.member_id is None:
-            return ViewerContext()
-        profile = await self._members.get_by_id(actor.member_id)
-        if profile is None:
-            return ViewerContext()
-        years = [c.year for c in profile.classes]
+            return ViewerContext(today=today)
+        # Three scalars, not a profile: the prompt needs a class label, a year and a city,
+        # and loading the whole member to read them fetched positions and educations that
+        # are thrown away here.
+        class_label, location, class_year = await self._members.viewer_context(actor.member_id)
+        if class_label is None and location is None and class_year is None:
+            return ViewerContext(today=today)
         return ViewerContext(
-            class_label=profile.class_label,
-            class_year=max(years) if years else None,
-            location=profile.location,
+            class_label=class_label,
+            class_year=class_year,
+            location=location,
             current_group=await self._viewer_groups.current_group_of(actor.member_id),
+            today=today,
         )
 
     @staticmethod

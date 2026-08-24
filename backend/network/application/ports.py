@@ -6,6 +6,7 @@ from dataclasses import dataclass
 from typing import Protocol
 from uuid import UUID
 
+from backend.core.page import PageResult
 from backend.network.domain import IntroRequest, IntroStatus, MemberCard, SavedMember
 
 
@@ -23,15 +24,33 @@ class IntroRequestView:
 
 
 class NetworkRepository(Protocol):
-    async def list_saved(self, owner_member_id: UUID) -> list[SavedMember]: ...
+    async def list_saved(
+        self, owner_member_id: UUID, *, skip: int, limit: int
+    ) -> PageResult[SavedMember]: ...
     async def get_saved(
         self, owner_member_id: UUID, saved_member_id: UUID
     ) -> SavedMember | None: ...
+    async def saved_ids(self, owner_member_id: UUID) -> list[UUID]: ...
     async def save(
-        self, owner_member_id: UUID, saved_member_id: UUID, note: str | None
-    ) -> SavedMember: ...
+        self,
+        owner_member_id: UUID,
+        saved_member_id: UUID,
+        note: str | None,
+        *,
+        replace_note: bool,
+    ) -> SavedMember:
+        """Save somebody, writing the note only when the caller actually sent one.
+
+        ``note=None`` is two different requests: "clear it" and "I have nothing to say
+        about it". The Save button on a card is the second, so the flag rather than the
+        value decides whether an existing note is overwritten.
+        """
+        ...
+
     async def unsave(self, owner_member_id: UUID, saved_member_id: UUID) -> bool: ...
-    async def list_intros(self, member_id: UUID) -> list[IntroRequest]: ...
+    async def list_intros(
+        self, member_id: UUID, *, skip: int, limit: int, with_member_id: UUID | None = None
+    ) -> PageResult[IntroRequest]: ...
     async def get_intro(self, request_id: UUID) -> IntroRequest | None: ...
     async def create_intro(
         self, requester_member_id: UUID, target_member_id: UUID, message: str

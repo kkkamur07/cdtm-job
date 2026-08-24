@@ -9,19 +9,36 @@
  * markup, so a server component can render them and send nothing.
  */
 
+/**
+ * The rows depend on nothing but their count, and there are no hooks here to
+ * memoize with (nor a compiler to do it), so the rendered arrays are built once
+ * per distinct `rows` and reused. Twenty-one call sites pass a literal 2, 3 or
+ * 4, so the cache stays at a handful of entries.
+ */
+const ROWS_BY_COUNT = new Map<number, React.ReactNode[]>();
+
+function skeletonRows(count: number): React.ReactNode[] {
+    let rows = ROWS_BY_COUNT.get(count);
+    if (!rows) {
+        rows = Array.from({ length: count }, (_, i) => (
+            <div
+                // The rows are identical and there are `count` of them, so the
+                // position is the identity; nothing reorders here.
+                key={`row-${i}`}
+                className="h-14 animate-pulse rounded-2xl bg-line/50"
+                style={{ animationDelay: `${i * 80}ms` }}
+            />
+        ));
+        ROWS_BY_COUNT.set(count, rows);
+    }
+    return rows;
+}
+
 export function LoadingBlock({ label = "Loading", rows = 3 }: { label?: string; rows?: number }) {
     return (
         <div role="status" aria-busy="true" aria-label={label} className="grid gap-2 p-3">
             <span className="sr-only">{label}</span>
-            {Array.from({ length: rows }).map((_, i) => (
-                <div
-                    // The rows are identical and there are `rows` of them, so
-                    // the position is the identity; nothing reorders here.
-                    key={`row-${i}`}
-                    className="h-14 animate-pulse rounded-2xl bg-line/50"
-                    style={{ animationDelay: `${i * 80}ms` }}
-                />
-            ))}
+            {skeletonRows(rows)}
         </div>
     );
 }

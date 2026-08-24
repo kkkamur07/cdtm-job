@@ -7,7 +7,11 @@ from fastapi import APIRouter, Query, Response, status
 
 from backend.core.api.pagination import PageParamsDep
 from backend.housing.api.deps import HousingServiceDep
-from backend.housing.api.schemas import HousingListingPublic, HousingListingsPublic
+from backend.housing.api.schemas import (
+    HousingListingPublic,
+    HousingListingsPublic,
+    HousingListingSummaryPublic,
+)
 from backend.housing.application.commands import HousingCreate, HousingUpdate
 from backend.housing.application.ports import HousingFilters
 from backend.housing.domain import HousingKind, HousingStatus
@@ -45,7 +49,8 @@ async def list_listings(
         actor=actor,
     )
     return HousingListingsPublic(
-        items=[HousingListingPublic.model_validate(h) for h in result.items], total=result.total
+        items=[HousingListingSummaryPublic.model_validate(h) for h in result.items],
+        total=result.total,
     )
 
 
