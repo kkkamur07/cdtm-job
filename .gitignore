@@ -1,0 +1,31 @@
+
+# --- merged platform (root backend/ + frontend/) ---
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+backend/core/.env
+.env
+.env.*
+!backend/core/.env.example
+!.env.example
+# PII: roster CSVs, the Google Workspace export and the raw LinkedIn scrape live in data/
+# and never enter git. Only data/README.md is tracked. The rule has to be data/*
+# rather than data/, or git never descends far enough for the negation to apply.
+data/*
+!data/README.md
+*.xlsx
+05_2026/
+05_2026.zip
+frontend/data/
+.DS_Store
+# Local media written by STORAGE_BACKEND=local
+.data/
+# mutmut's working copy of the source under test
+mutants/
+.mutmut-cache
+
+
+# internal.cdtm.com DB backups (PII); never commit
+backups/

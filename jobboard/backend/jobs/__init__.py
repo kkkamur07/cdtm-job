@@ -1,1 +1,0 @@
-"""Jobs bounded context."""

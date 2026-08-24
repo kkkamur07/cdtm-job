@@ -1,0 +1,129 @@
+[project]
+name = "cdtm-community"
+version = "0.2.0"
+description = "CDTM Community platform: member directory, network, events, housing and the job board. One FastAPI backend on Supabase Postgres."
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "fastapi[standard]>=0.115",
+    "uvicorn[standard]>=0.30",
+    "pydantic>=2.10",
+    "pydantic-settings>=2.6",
+    "python-dotenv>=1.0",
+    "sqlalchemy[asyncio]>=2.0.36",
+    "asyncpg>=0.30",
+    "psycopg[binary]>=3.2",
+    "alembic>=1.14",
+    "pyjwt[crypto]>=2.10",
+    "httpx>=0.27",
+]
+
+[dependency-groups]
+data = [
+    "openpyxl>=3.1.5",
+]
+dev = [
+    "pytest>=8",
+    "pytest-asyncio>=0.24",
+    "ruff>=0.8",
+    "poethepoet>=0.30",
+    "mutmut>=3.7.0",
+]
+
+[tool.uv]
+# The repo is not installed as a package. ``backend`` and ``infrastructure`` resolve
+# from the repo root via pytest/ruff ``pythonpath``/``src`` and PYTHONPATH=. for alembic.
+package = false
+
+[tool.poe.tasks]
+migrate = { shell = "PYTHONPATH=. alembic -c infrastructure/alembic.ini upgrade head" }
+serve = { shell = "uvicorn backend.core.main:app --reload --port 8000" }
+api = { sequence = ["migrate", "serve"] }
+test-fast = { shell = "pytest tests -m 'not integration' -q" }
+test-integration = { shell = "pytest tests -m integration -q" }
+lint = { shell = "ruff check backend infrastructure scripts tests" }
+format = { shell = "ruff format backend infrastructure scripts tests" }
+# The commit hook checks formatting rather than rewriting files under somebody's commit.
+format-check = { shell = "ruff format --check backend infrastructure scripts tests" }
+openapi = { shell = "python scripts/platform/export_openapi.py" }
+# The commit hook. test-fast only: tests/integration needs a live local Postgres, which a
+# commit must never depend on. Fails at the first failing step.
+precommit = { sequence = ["lint", "format-check", "test-fast", "openapi-check"] }
+hooks-install = { shell = "git config core.hooksPath scripts/hooks" }
+# cmd tasks forward extra arguments: `uv run poe load-community --emails data/derived/...`
+load-community = { cmd = "python scripts/platform/load_community.py" }
+match-emails = { cmd = "python scripts/platform/match_workspace_emails.py" }
+seed = { shell = "python scripts/platform/seed_dev_data.py" }
+
+# Regenerate the schema and fail if the committed copy is stale. Kept out of the inline
+# tables above because the body is several lines.
+[tool.poe.tasks.openapi-check]
+# The exporter needs no database and no secrets, and sets its own APP_ENVIRONMENT,
+# AUTH_DEV_LOGIN_ENABLED and SUPABASE_JWT_SECRET. Pinned here as well because the process
+# environment wins over .env, and these two shape the schema itself: the prefix is in every
+# path, and production would drop the routes. Nobody's .env may change the committed file.
+env = { APP_ENVIRONMENT = "development", APP_API_PREFIX = "/api/v1" }
+shell = """
+python scripts/platform/export_openapi.py
+if ! git ls-files --error-unmatch frontend/openapi/openapi.json >/dev/null 2>&1; then
+  echo "warning: frontend/openapi/openapi.json is not tracked by git, so staleness cannot be checked."
+elif ! git diff --quiet -- frontend/openapi/openapi.json; then
+  echo "frontend/openapi/openapi.json was stale; it has just been regenerated."
+  echo "Stage it and commit again: git add frontend/openapi/openapi.json"
+  echo "The frontend client follows: cd frontend && npm run generate:api"
+  exit 1
+fi
+"""
+
+[tool.pytest.ini_options]
+# --strict-markers turns a typo'd marker into a collection error rather than a test that
+# silently runs in the wrong lane.
+addopts = ["--import-mode=importlib", "--strict-markers"]
+pythonpath = ["."]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+filterwarnings = ["ignore::DeprecationWarning"]
+markers = [
+    "integration: requires a local Postgres (see tests/integration/conftest.py)",
+]
+
+[tool.mutmut]
+# Mutate the whole backend but restrict which files actually get mutated to the
+# security-critical decision points (authorization, visibility, redaction, token
+# verification, rate/quota limits). The test suite lives outside source_paths, so the
+# infrastructure, tests and project config are copied alongside into mutmut's mutants/ tree.
+source_paths = ["backend"]
+also_copy = ["infrastructure", "tests", "pyproject.toml"]
+only_mutate = [
+    "backend/identity/application/auth_service.py",
+    "backend/identity/infrastructure/jwt_verifier.py",
+    "backend/identity/api/deps.py",
+    "backend/jobboard/application/visibility.py",
+    "backend/jobboard/application/job_service.py",
+    "backend/housing/application/visibility.py",
+    "backend/announcements/application/announcement_service.py",
+    "backend/events/application/event_service.py",
+    "backend/members/application/member_service.py",
+    "backend/core/llm/rate_limit.py",
+    "backend/core/llm/quota.py",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+src = ["."]
+# Anchored patterns: a bare "jobboard" would also exclude backend/jobboard.
+extend-exclude = ["./frontend", "./jobboard", "./communitytool", "./05_2026"]
+
+[tool.ruff.lint]
+# F: correctness. I: import sorting. UP: pyupgrade. B: bugbear. SIM: simplify. S: bandit.
+select = ["F", "I", "UP", "B", "SIM", "S"]
+
+[tool.ruff.lint.flake8-bugbear]
+extend-immutable-calls = ["fastapi.Depends", "fastapi.Query", "fastapi.Header"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**" = ["S101", "S105", "S106"]
+
+[tool.ruff.format]
+quote-style = "double"

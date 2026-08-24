@@ -1,0 +1,15 @@
+#!/bin/sh
+# Tracked git pre-commit hook. Enable it once with: uv run poe hooks-install
+# (that is `git config core.hooksPath scripts/hooks`).
+#
+# Runs lint, the formatting check, the unit tests and the OpenAPI freshness check.
+# Integration tests are deliberately not here: they need a live local Postgres.
+set -e
+
+root=$(git rev-parse --show-toplevel) || exit 1
+cd "$root" || exit 1
+
+if ! uv run poe precommit; then
+	echo "pre-commit checks failed. To commit anyway: git commit --no-verify" >&2
+	exit 1
+fi
