@@ -8,6 +8,7 @@ import { AvatarCircle } from "./MemberAvatar";
 const NAV = [
     { href: "/", label: "Home" },
     { href: "/network", label: "Ask the network" },
+    { href: "/directory", label: "Directory" },
     { href: "/announcements", label: "Announcements" },
     { href: "/events", label: "Events" },
     { href: "/housing", label: "Housing" },
