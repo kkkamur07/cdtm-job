@@ -38,6 +38,7 @@ from backend.jobboard.domain import (
     JobAskInterpretation,
     JobQuery,
     JobStatus,
+    JobSummary,
     WorkArrangement,
 )
 from backend.members.application.ask_service import rate_limit_key as members_rate_limit_key
@@ -91,9 +92,12 @@ class FakeJobs:
         self._total = total if total is not None else len(self._items)
         self.calls: list[tuple[int, int, JobFilters]] = []
 
-    async def list(self, *, skip: int, limit: int, filters: JobFilters) -> PageResult[Job]:
+    async def list(self, *, skip: int, limit: int, filters: JobFilters) -> PageResult[JobSummary]:
         self.calls.append((skip, limit, filters))
-        return PageResult(items=self._items, total=self._total)
+        # The port hands out summaries, the way the SQL list does.
+        return PageResult(
+            items=[JobSummary.model_validate(j) for j in self._items], total=self._total
+        )
 
 
 class RecordingMeter:

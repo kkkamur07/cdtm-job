@@ -43,11 +43,31 @@ export default function HousingBrowser({ listings }: { listings: HousingCardData
      * runs as a transition (`lib/urlState.ts`) so a slow round trip cannot hold
      * the next click.
      */
-    const [kind, setKindLocal] = useState(params.get("kind") ?? "all");
-    const [city, setCityLocal] = useState(params.get("city") ?? "all");
+    const urlKind = params.get("kind") ?? "all";
+    const urlCity = params.get("city") ?? "all";
+    const [kind, setKindLocal] = useState(urlKind);
+    const [city, setCityLocal] = useState(urlCity);
+
+    /**
+     * What this last wrote to the address bar, in the spirit of the `mirrored`
+     * ref `JobsBrowser` keeps for its search box.
+     *
+     * The URL can also change without us: the back button, or a link into a
+     * filtered board followed while this stays mounted. Without the guard the
+     * chips would go on showing the filter the visitor just navigated away
+     * from, and the board would be filtered by it. Adjusted during render
+     * rather than from an effect, so no frame paints the stale filter.
+     */
+    const [mirrored, setMirrored] = useState({ kind: urlKind, city: urlCity });
+    if (mirrored.kind !== urlKind || mirrored.city !== urlCity) {
+        setMirrored({ kind: urlKind, city: urlCity });
+        setKindLocal(urlKind);
+        setCityLocal(urlCity);
+    }
 
     const setKind = useCallback(
         (value: string) => {
+            setMirrored((current) => ({ ...current, kind: value }));
             setKindLocal(value);
             setParams({ kind: value === "all" ? null : value });
         },
@@ -56,6 +76,7 @@ export default function HousingBrowser({ listings }: { listings: HousingCardData
 
     const setCity = useCallback(
         (value: string) => {
+            setMirrored((current) => ({ ...current, city: value }));
             setCityLocal(value);
             setParams({ city: value === "all" ? null : value });
         },

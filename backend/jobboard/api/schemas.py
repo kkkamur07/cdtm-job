@@ -23,6 +23,7 @@ from backend.jobboard.domain import (
     SalaryPeriod,
     Seeker,
     WorkArrangement,
+    plain_salary,
 )
 
 
@@ -98,7 +99,7 @@ class JobSummaryPublic(BaseModel):
     @field_serializer("salary_min", "salary_max", when_used="json")
     def _plain_salary(self, value: Decimal | None) -> Decimal | None:
         """The aggregate's own normalisation, so a row and the detail page never disagree."""
-        return Job._plain_salary(self, value)
+        return plain_salary(value)
 
 
 class JobsPublic(BaseModel):

@@ -15,10 +15,23 @@ other rather than scattered across three services.
 from __future__ import annotations
 
 from dataclasses import replace
+from typing import TypeVar
 
 from backend.core.actor import Actor
 from backend.jobboard.application.ports import JobFilters
-from backend.jobboard.domain import Company, CompensationDisclosure, Job, JobStatus, Seeker
+from backend.jobboard.domain import (
+    Company,
+    CompensationDisclosure,
+    Job,
+    JobStatus,
+    JobSummary,
+    Seeker,
+)
+
+#: The board's list hands back ``JobSummary`` and every other read hands back ``Job``. Both
+#: carry the poster, the status and the compensation disclosure, which is everything the
+#: rules below read, so they answer the same for either and give back what they were given.
+AnyJob = TypeVar("AnyJob", Job, JobSummary)
 
 
 def _owns(owner_member_id: object, actor: Actor | None) -> bool:
@@ -41,11 +54,11 @@ def _is_admin(actor: Actor | None) -> bool:
 # ---- jobs ----------------------------------------------------------------------------
 
 
-def can_manage_job(job: Job, actor: Actor | None) -> bool:
+def can_manage_job(job: Job | JobSummary, actor: Actor | None) -> bool:
     return _is_admin(actor) or _owns(job.posted_by_member_id, actor)
 
 
-def can_see_job(job: Job, actor: Actor | None) -> bool:
+def can_see_job(job: Job | JobSummary, actor: Actor | None) -> bool:
     """Only a published Job is on the board. Its poster and an admin also see the others."""
     return job.status == JobStatus.PUBLISHED or can_manage_job(job, actor)
 
@@ -63,7 +76,7 @@ def job_filters_for(filters: JobFilters, actor: Actor | None) -> JobFilters:
     return replace(filters, status=JobStatus.PUBLISHED)
 
 
-def job_for_viewer(job: Job, actor: Actor | None) -> Job:
+def job_for_viewer(job: AnyJob, actor: Actor | None) -> AnyJob:
     """Drop the salary unless the disclosure is public, or the caller posted the Job.
 
     ``confidential`` and ``undisclosed`` are the poster's answer to "may we print what this

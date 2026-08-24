@@ -55,11 +55,15 @@ class PathService:
         """
         if filters.member_ids is not None:
             return await self._paths.flow(filters)
+        # ``member_ids`` is in the key even though the guard above means it is always None
+        # here. A key that leaves out one of the inputs is a key that hands the wrong answer
+        # back the day the guard moves, and a tuple of uuids costs nothing to include.
         key = (
             filters.class_id,
             filters.study_group,
             filters.first_step_group,
             filters.current_group,
+            filters.member_ids,
         )
         cached = _FLOW.get(key)
         if cached is not None:
@@ -111,12 +115,18 @@ class PathService:
     # ---- recompute ----------------------------------------------------------------------
 
     async def recompute(self, member_id: UUID) -> MemberPath | None:
-        """Reclassify one member from their current positions and degrees."""
+        """Reclassify one member from their current positions and degrees.
+
+        One row is enough to move a line of the Sankey and to invent a group name that was
+        not in the list before, so the caches go the same way ``recompute_all`` sends them.
+        Emptying them for one member is cheap: they are aggregates over minutes-old reads.
+        """
         history = await self._history.get(member_id)
         if history is None:
             return None
         path = self._classify(history)
         await self._paths.upsert(path)
+        clear_all()
         return path
 
     async def recompute_all(self) -> int:

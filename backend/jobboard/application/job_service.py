@@ -21,7 +21,7 @@ from backend.jobboard.application.visibility import (
     job_filters_for,
     job_for_viewer,
 )
-from backend.jobboard.domain import Job
+from backend.jobboard.domain import Job, JobSummary
 
 
 class JobService:
@@ -35,7 +35,8 @@ class JobService:
         limit: int = 50,
         filters: JobFilters | None = None,
         actor: Actor | None = None,
-    ) -> PageResult[Job]:
+    ) -> PageResult[JobSummary]:
+        """Rows, not postings. ``get_job`` is where the whole aggregate is read."""
         result = await self._repo.list(
             skip=skip, limit=limit, filters=job_filters_for(filters or JobFilters(), actor)
         )

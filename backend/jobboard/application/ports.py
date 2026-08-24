@@ -23,6 +23,7 @@ from backend.jobboard.domain import (
     Job,
     JobAskInterpretation,
     JobStatus,
+    JobSummary,
     Seeker,
     WorkArrangement,
 )
@@ -75,7 +76,12 @@ class CompanyRepository(Protocol):
 
 
 class JobRepository(Protocol):
-    async def list(self, *, skip: int, limit: int, filters: JobFilters) -> PageResult[Job]: ...
+    #: The list hands back ``JobSummary``, not ``Job``: it is the only read that returns many
+    #: rows at once, and the aggregate's ``description`` alone is twenty thousand characters
+    #: nothing on a board draws. Every by-id read still answers with the whole aggregate.
+    async def list(
+        self, *, skip: int, limit: int, filters: JobFilters
+    ) -> PageResult[JobSummary]: ...
     async def get(self, job_id: UUID) -> Job | None: ...
     async def get_by_slug(self, slug: str) -> Job | None: ...
     async def create(self, payload: JobCreate, *, posted_by_member_id: UUID | None) -> Job: ...

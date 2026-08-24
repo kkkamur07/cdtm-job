@@ -7659,6 +7659,25 @@
         "title": "SavedMember",
         "type": "object"
       },
+      "SavedMemberIdsPublic": {
+        "additionalProperties": false,
+        "description": "The shortlist as bare ids, next to the paged list of cards.\n\nTwo answers to two questions. The page is what a member reads, so it is cut and carries\na whole card per row. This is what the Save button needs, and a button is either filled\nor it is not: reading membership off a page meant everybody past the first hundred rows\nwas drawn as unsaved. One column and one row per saved person, so the whole list fits in\nan answer that does not need paging.",
+        "properties": {
+          "member_ids": {
+            "items": {
+              "format": "uuid",
+              "type": "string"
+            },
+            "title": "Member Ids",
+            "type": "array"
+          }
+        },
+        "required": [
+          "member_ids"
+        ],
+        "title": "SavedMemberIdsPublic",
+        "type": "object"
+      },
       "SavedMemberPublic": {
         "additionalProperties": false,
         "properties": {
@@ -10359,6 +10378,7 @@
             "schema": {
               "anyOf": [
                 {
+                  "maxLength": 128,
                   "type": "string"
                 },
                 {
@@ -10391,6 +10411,7 @@
             "schema": {
               "anyOf": [
                 {
+                  "maxLength": 128,
                   "type": "string"
                 },
                 {
@@ -15004,8 +15025,10 @@
               "anyOf": [
                 {
                   "items": {
+                    "maxLength": 128,
                     "type": "string"
                   },
+                  "maxItems": 20,
                   "type": "array"
                 },
                 {
@@ -16997,9 +17020,28 @@
     },
     "/api/v1/network/intros": {
       "get": {
-        "description": "Both directions, paged. Unbounded before, for the same reason ``/saved`` was.",
+        "description": "Both directions, paged. Unbounded before, for the same reason ``/saved`` was.\n\n``with_member_id`` is how a profile page asks \"have I already asked for an intro to this\nperson\": one row or none, instead of the whole history filtered in the browser.",
         "operationId": "my_intros_api_v1_network_intros_get",
         "parameters": [
+          {
+            "description": "only requests whose other party is this member, either direction",
+            "in": "query",
+            "name": "with_member_id",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "format": "uuid",
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "description": "only requests whose other party is this member, either direction",
+              "title": "With Member Id"
+            }
+          },
           {
             "in": "query",
             "name": "skip",
@@ -17547,6 +17589,126 @@
         ]
       }
     },
+    "/api/v1/network/saved/ids": {
+      "get": {
+        "description": "The same shortlist as ``/saved``, as ids, and unpaged on purpose.\n\nTwo questions, two answers. ``/saved`` is what a member reads, so it is a page of cards.\nA Save button asks something else: is this one person on the list, yes or no. Answering\nthat from the first page said no about everybody below row one hundred. This is a single\nuuid column bounded by the size of one member's shortlist, so it needs no skip and no\nlimit and the client can hold the whole set.",
+        "operationId": "my_saved_ids_api_v1_network_saved_ids_get",
+        "parameters": [
+          {
+            "in": "header",
+            "name": "authorization",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Authorization"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SavedMemberIdsPublic"
+                }
+              }
+            },
+            "description": "Successful Response"
+          },
+          "401": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            },
+            "description": "Not authenticated"
+          },
+          "403": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            },
+            "description": "Not allowed"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            },
+            "description": "Not found"
+          },
+          "409": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            },
+            "description": "Conflict"
+          },
+          "413": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            },
+            "description": "Payload too large"
+          },
+          "422": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            },
+            "description": "Validation error"
+          },
+          "500": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            },
+            "description": "Internal error"
+          },
+          "503": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            },
+            "description": "Storage unavailable"
+          }
+        },
+        "summary": "My Saved Ids",
+        "tags": [
+          "network"
+        ]
+      }
+    },
     "/api/v1/network/saved/{member_id}": {
       "delete": {
         "operationId": "unsave_member_api_v1_network_saved__member_id__delete",
@@ -17669,6 +17831,7 @@
         ]
       },
       "put": {
+        "description": "A body without ``note`` saves without touching the note; ``{\"note\": null}`` clears it.",
         "operationId": "save_member_api_v1_network_saved__member_id__put",
         "parameters": [
           {

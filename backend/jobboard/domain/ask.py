@@ -11,7 +11,12 @@ from typing import Literal
 
 from pydantic import BaseModel, ConfigDict, Field, field_validator
 
-from backend.jobboard.domain.job import EmploymentType, ExperienceLevel, Job, WorkArrangement
+from backend.jobboard.domain.job import (
+    EmploymentType,
+    ExperienceLevel,
+    JobSummary,
+    WorkArrangement,
+)
 
 MAX_ASK_LIMIT = 100
 
@@ -75,5 +80,7 @@ class JobAskAnswer(BaseModel):
     model_config = ConfigDict(extra="forbid")
 
     interpretation: JobAskInterpretation
-    jobs: list[Job] = Field(default_factory=list)
+    #: Rows, not postings: an answer is a way of listing the board, and the browser opens a
+    #: result the same way it opens a row, so it is fed from the same summary query.
+    jobs: list[JobSummary] = Field(default_factory=list)
     total: int = 0

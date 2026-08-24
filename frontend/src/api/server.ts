@@ -5,6 +5,7 @@ import { cache } from "react";
 import { API_BASE_URL, API_PREFIX } from "./config";
 import { toApiError } from "./errors";
 import { getAccessToken } from "@/auth/session";
+import { ANNOUNCEMENTS_PAGE } from "@/features/community/announcements/page-size";
 import type {
     Announcement,
     Company,
@@ -101,20 +102,25 @@ export const loadMember = cache((slug: string) =>
 
 /* ----------------------------------------------------------- community */
 
-/** The board reads fifty; the home widget asks for the two it shows. */
-export const loadAnnouncements = cache((limit = 50) =>
+/** The board reads a full page; the home widget asks for the two it shows. */
+export const loadAnnouncements = cache((limit: number = ANNOUNCEMENTS_PAGE) =>
     get<Page<Announcement> & { unread: number }>("/announcements/", { limit }),
 );
 
 /**
- * Just the badge number.
+ * Just the badge number, for the shell.
  *
  * The shell used to read it off `loadAnnouncements`, which meant every page in
- * the app pulled fifty announcements with their full bodies over the wire to
- * take one integer off the envelope. Dropping that call to `limit: 1` would not
- * have helped: `React.cache` keys on the argument, so the shell and the
- * announcements page would then have made two requests where they now make
- * one. A count of its own is the only shape that is a win on every route.
+ * the app pulled a full page of announcements with their bodies over the wire
+ * to take one integer off the envelope. Dropping that call to `limit: 1` would
+ * not have helped: `React.cache` keys on the argument, so the shell and the
+ * announcements page would have made two requests instead of one.
+ *
+ * The shell is a layout and cannot see what the page below it loaded, so on the
+ * two routes that do read a list (`/` and `/announcements`) this is a second
+ * request for a number their payload already carries. One count endpoint on
+ * every route is cheaper than a page of announcements on every route, which is
+ * the trade this is.
  */
 export const loadUnreadCount = cache(() => get<{ unread: number }>("/announcements/unread-count"));
 export const loadEvents = cache((upcoming: boolean) =>

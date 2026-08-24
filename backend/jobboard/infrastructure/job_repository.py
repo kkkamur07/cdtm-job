@@ -16,9 +16,28 @@ from backend.jobboard.application.commands import (
     JobUpdate,
 )
 from backend.jobboard.application.ports import JobFilters
-from backend.jobboard.domain import Job, JobStatus
+from backend.jobboard.domain import Job, JobStatus, JobSummary
 from backend.jobboard.infrastructure.orm_models import CompanyRow, JobRow
 from infrastructure.repository import run_db, utc_now
+
+#: The board's row, column by column. Taken from the domain summary rather than written out
+#: again, so the query and the model it fills cannot drift apart.
+_SUMMARY_FIELDS = tuple(JobSummary.model_fields)
+
+
+def _summary_select() -> Select:
+    """The list query's SELECT list: the summary's columns and nothing else.
+
+    ``select(JobRow)`` fetched every column, ``description`` included, and validated the lot
+    into a ``Job`` that the response model then threw away. A hundred rows of a field capped
+    at twenty thousand characters is two megabytes over a cross-region link per page. A bare
+    ``defer()`` would not do: building the model reads the attribute, and a deferred column
+    load is a lazy load, so it would have cost one extra SELECT per row instead.
+
+    A function rather than a module constant so the statement is fresh per call, and so
+    ``tests/unit/test_jobs_list_query.py`` can compile it and check what it asks for.
+    """
+    return select(*(getattr(JobRow, name) for name in _SUMMARY_FIELDS))
 
 
 def _contains(term: str) -> str:
@@ -98,13 +117,18 @@ class SqlJobRepository:
             )
         return stmt
 
-    async def list(self, *, skip: int, limit: int, filters: JobFilters) -> PageResult[Job]:
-        async def go() -> PageResult[Job]:
-            base = self._apply(select(JobRow), filters)
+    async def list(self, *, skip: int, limit: int, filters: JobFilters) -> PageResult[JobSummary]:
+        """A page of rows. ``q`` still searches the description; it just never selects it."""
+
+        async def go() -> PageResult[JobSummary]:
+            base = self._apply(_summary_select(), filters)
             rows, total = await page_with_total(
                 self._s, base.order_by(*_order_by(filters)), skip=skip, limit=limit
             )
-            return PageResult(items=[Job.model_validate(r[0]) for r in rows], total=total)
+            return PageResult(
+                items=[JobSummary(**dict(zip(_SUMMARY_FIELDS, row, strict=True))) for row in rows],
+                total=total,
+            )
 
         return await run_db("jobs.list", go, session=self._s)
 

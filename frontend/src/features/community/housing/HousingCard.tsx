@@ -46,7 +46,9 @@ function HousingCard({
     compact?: boolean;
     /**
      * Position in the grid. The photos above the fold are the page's largest
-     * paint, so the first row is fetched eagerly instead of lazily.
+     * paint, so the first row is fetched eagerly instead of lazily. The board
+     * is three columns at its widest (`.hgrid.three`), so the first row is the
+     * first three cards.
      */
     index?: number;
 }) {
@@ -69,7 +71,7 @@ function HousingCard({
                         fill
                         sizes="(min-width: 1100px) 360px, (min-width: 700px) 50vw, 100vw"
                         className="object-cover"
-                        priority={index < 2}
+                        priority={index < 3}
                     />
                 ) : (
                     <NoPhoto looking={!offer} />

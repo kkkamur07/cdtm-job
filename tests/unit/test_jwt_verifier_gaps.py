@@ -18,12 +18,14 @@ import threading
 from datetime import UTC, datetime, timedelta
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
+import anyio
 import jwt
 import pytest
 from cryptography.hazmat.primitives.asymmetric import ec, rsa
 from jwt.algorithms import ECAlgorithm, RSAAlgorithm
 
 from backend.core.exceptions import UnauthorizedError
+from backend.identity.infrastructure import jwt_verifier
 from backend.identity.infrastructure.dev_token_issuer import DEV_LOGIN_ISSUER
 from backend.identity.infrastructure.jwt_verifier import (
     SupabaseJwtVerifier,
@@ -340,14 +342,8 @@ def test_the_development_login_issuer_still_passes_on_the_hs256_path(jwks: _Jwks
     assert verifier.verify(token).email == "dev.person@cdtm.com"
 
 
-async def test_verify_async_keeps_the_cheap_path_inline_and_threads_the_other(
-    jwks: _Jwks,
-) -> None:
-    """HS256 is about twenty microseconds of CPU, so a thread hop would cost more than the
-    work. The JWKS path can block on a network fetch inside PyJWT's synchronous urllib, on
-    the one event loop that serves every request, so it goes to a worker thread."""
-    verifier = _verifier(jwks.url, jwt_secret=HS_SECRET)
-    hs_token = jwt.encode(
+def _hs_token() -> str:
+    return jwt.encode(
         {
             "sub": SUBJECT,
             "aud": "authenticated",
@@ -358,17 +354,174 @@ async def test_verify_async_keeps_the_cheap_path_inline_and_threads_the_other(
         HS_SECRET,
         algorithm="HS256",
     )
-    on_the_loop = threading.get_ident()
+
+
+def _threads_used_by(verifier: SupabaseJwtVerifier) -> list[int]:
+    """Records the thread each ``verify`` runs on, so a hop off the loop is visible."""
     seen: list[int] = []
     verify = verifier.verify
     verifier.verify = lambda token: (seen.append(threading.get_ident()), verify(token))[1]
+    return seen
 
-    assert (await verifier.verify_async(hs_token)).email == "hs.person@cdtm.com"
-    assert seen == [on_the_loop]
 
-    seen.clear()
+async def test_an_hs256_token_is_verified_inline(jwks: _Jwks) -> None:
+    """About twenty microseconds of CPU, so a thread hop would cost more than the work."""
+    verifier = _verifier(jwks.url, jwt_secret=HS_SECRET)
+    seen = _threads_used_by(verifier)
+
+    assert (await verifier.verify_async(_hs_token())).email == "hs.person@cdtm.com"
+
+    assert seen == [threading.get_ident()]
+
+
+async def test_a_cold_key_set_is_fetched_on_a_worker_thread(jwks: _Jwks) -> None:
+    """The fetch is PyJWT's synchronous urllib. On the one event loop that serves every
+    request, a slow JWKS endpoint would stall the whole API for the length of the timeout."""
+    verifier = _verifier(jwks.url)
+    on_the_loop = threading.get_ident()
+    # ``fetch_data`` is the network itself, and the only part of the client that blocks; the
+    # decode that follows reads the cache and is expected to run on the loop.
+    fetched_on: list[int] = []
+    fetch_data = verifier._jwks.fetch_data
+    verifier._jwks.fetch_data = lambda: (fetched_on.append(threading.get_ident()), fetch_data())[1]
+
     await verifier.verify_async(_asymmetric_token(RSA_KEY, alg="RS256", kid="rsa-1"))
-    assert seen and seen != [on_the_loop]
+
+    assert fetched_on and on_the_loop not in fetched_on
+
+
+async def test_a_warm_key_set_is_verified_inline_too(
+    jwks: _Jwks, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    """The regression this file exists to hold: *every* asymmetric verification used to go
+    through ``anyio.to_thread.run_sync``, although the fetch it was protecting happens once
+    per cache lifetime. The rest is a few hundred microseconds of local CPU, and it was being
+    charged a thread hop and a slot on the same forty-token limiter Starlette uses for
+    synchronous dependencies and for reading uploads."""
+    verifier = _verifier(jwks.url)
+    await verifier.warm_jwks()
+    assert jwks.fetches == 1
+
+    async def _no_thread(*args: object, **kwargs: object) -> None:
+        raise AssertionError("a warm key set must not cost a worker thread")
+
+    monkeypatch.setattr(jwt_verifier.to_thread, "run_sync", _no_thread)
+    seen = _threads_used_by(verifier)
+
+    claims = await verifier.verify_async(_asymmetric_token(RSA_KEY, alg="RS256", kid="rsa-1"))
+
+    assert str(claims.sub) == SUBJECT
+    assert seen == [threading.get_ident()]
+    assert jwks.fetches == 1
+
+
+async def test_one_fetch_serves_every_caller_that_arrives_on_a_cold_key_set(
+    jwks: _Jwks,
+) -> None:
+    """``PyJWKClient`` has no single-flight of its own: at each cache expiry every concurrent
+    request fetched the key set itself and parked a worker thread for up to the JWKS timeout
+    doing it. One lock turns that stampede back into one fetch."""
+    verifier = _verifier(jwks.url)
+    token = _asymmetric_token(RSA_KEY, alg="RS256", kid="rsa-1")
+    subjects: list[str] = []
+
+    async def verify_one() -> None:
+        subjects.append(str((await verifier.verify_async(token)).sub))
+
+    async with anyio.create_task_group() as tasks:
+        for _ in range(8):
+            tasks.start_soon(verify_one)
+
+    assert subjects == [SUBJECT] * 8
+    assert jwks.fetches == 1
+
+
+async def test_a_key_id_the_fresh_key_set_does_not_publish_is_refused_without_a_refetch(
+    jwks: _Jwks,
+) -> None:
+    """PyJWT answers an unmatched ``kid`` by refetching the JWKS and looking again, which
+    made a stream of tokens carrying random key ids a way to hammer the Supabase endpoint
+    through this API. A fresh key set is the complete answer here, so the token is simply
+    refused; a rotated key is picked up when the lifespan ends, which is what
+    ``AUTH_JWKS_CACHE_SECONDS`` already meant."""
+    verifier = _verifier(jwks.url)
+    await verifier.warm_jwks()
+    assert jwks.fetches == 1
+
+    with pytest.raises(UnauthorizedError):
+        await verifier.verify_async(_asymmetric_token(RSA_KEY, alg="RS256", kid="made-up"))
+
+    assert jwks.fetches == 1
+
+
+async def test_an_unknown_key_id_is_remembered_so_the_next_one_costs_nothing(
+    jwks: _Jwks,
+) -> None:
+    """The negative cache, seen from the one angle that distinguishes it: with the key set
+    dropped, a repeat of the same made-up ``kid`` would otherwise send this process back to
+    the JWKS endpoint once per request."""
+    verifier = _verifier(jwks.url)
+    forged = _asymmetric_token(OTHER_RSA_KEY, alg="RS256", kid="made-up")
+
+    with pytest.raises(UnauthorizedError):
+        await verifier.verify_async(forged)
+    assert jwks.fetches == 1
+
+    verifier._jwks.jwk_set_cache.put(None)
+    for _ in range(5):
+        with pytest.raises(UnauthorizedError):
+            await verifier.verify_async(forged)
+
+    assert jwks.fetches == 1
+
+
+async def test_the_negative_cache_is_a_window_and_not_a_verdict(
+    jwks: _Jwks, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    """Held forever, the table above would turn a ``kid`` probed a second before a rotation
+    into one this process never accepts."""
+    monkeypatch.setattr(jwt_verifier, "UNKNOWN_KID_SECONDS", 0.0)
+    verifier = _verifier(jwks.url)
+    forged = _asymmetric_token(OTHER_RSA_KEY, alg="RS256", kid="made-up")
+
+    with pytest.raises(UnauthorizedError):
+        await verifier.verify_async(forged)
+    verifier._jwks.jwk_set_cache.put(None)
+    with pytest.raises(UnauthorizedError):
+        await verifier.verify_async(forged)
+
+    assert jwks.fetches == 2
+
+
+async def test_the_negative_cache_cannot_grow_without_bound(jwks: _Jwks) -> None:
+    """A flood of distinct key ids must cost memory that is bounded by a constant."""
+    verifier = _verifier(jwks.url)
+    await verifier.warm_jwks()
+
+    for i in range(jwt_verifier.UNKNOWN_KID_MAX_ENTRIES * 2 + 5):
+        with pytest.raises(UnauthorizedError):
+            await verifier.verify_async(
+                _asymmetric_token(OTHER_RSA_KEY, alg="RS256", kid=f"made-up-{i}")
+            )
+
+    assert len(verifier._unknown_kids) <= jwt_verifier.UNKNOWN_KID_MAX_ENTRIES
+
+
+async def test_an_asymmetric_token_is_still_refused_with_no_jwks_configured_from_async_code(
+    jwks: _Jwks,
+) -> None:
+    """The async entry point makes the same refusal the synchronous one does, before it can
+    reach a key set that does not exist."""
+    verifier = SupabaseJwtVerifier(jwt_secret=HS_SECRET, jwks_url=None)
+    with pytest.raises(UnauthorizedError):
+        await verifier.verify_async(_asymmetric_token(RSA_KEY, alg="RS256", kid="rsa-1"))
+
+
+async def test_a_malformed_token_is_refused_before_anything_is_fetched(jwks: _Jwks) -> None:
+    verifier = _verifier(jwks.url)
+    with pytest.raises(UnauthorizedError):
+        await verifier.verify_async("not-a-jwt")
+    assert jwks.fetches == 0
 
 
 async def test_warming_the_key_set_means_the_first_token_does_not_fetch_it(jwks: _Jwks) -> None:

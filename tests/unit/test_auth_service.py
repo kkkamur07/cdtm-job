@@ -16,14 +16,11 @@ class _Verifier:
     def __init__(self, claims: TokenClaims) -> None:
         self._claims = claims
 
-    def verify(self, token: str) -> TokenClaims:
-        return self._claims
-
     async def verify_async(self, token: str) -> TokenClaims:
-        # The port grew an async entry point so the real verifier can push a cold JWKS
-        # fetch onto a worker thread instead of blocking the event loop. Nothing to await
-        # here; the fake is the whole check.
-        return self.verify(token)
+        # The whole port: one awaitable method, because the real verifier may have to push a
+        # cold JWKS fetch onto a worker thread instead of blocking the event loop. Nothing to
+        # await here; the fake is the whole check.
+        return self._claims
 
 
 class _Accounts:

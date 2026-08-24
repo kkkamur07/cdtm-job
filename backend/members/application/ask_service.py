@@ -17,6 +17,7 @@ below it, free of any knowledge of career groups beyond the strings it passes th
 from __future__ import annotations
 
 import time
+from datetime import date
 from uuid import UUID
 
 from backend.core.actor import Actor
@@ -223,19 +224,25 @@ class AskService:
             raise RateLimitedError("you are asking faster than we can answer; try again shortly")
 
     async def _viewer_context(self, actor: Actor) -> ViewerContext:
+        # ``today`` is set on every branch, including the two empty ones. The prompt reads it
+        # to resolve "graduating this year", and a field the translator uses but the context
+        # does not carry is a field the cache key cannot see: the reading would then outlive
+        # the day it was made.
+        today = date.today()
         if actor.member_id is None:
-            return ViewerContext()
+            return ViewerContext(today=today)
         # Three scalars, not a profile: the prompt needs a class label, a year and a city,
         # and loading the whole member to read them fetched positions and educations that
         # are thrown away here.
         class_label, location, class_year = await self._members.viewer_context(actor.member_id)
         if class_label is None and location is None and class_year is None:
-            return ViewerContext()
+            return ViewerContext(today=today)
         return ViewerContext(
             class_label=class_label,
             class_year=class_year,
             location=location,
             current_group=await self._viewer_groups.current_group_of(actor.member_id),
+            today=today,
         )
 
     @staticmethod

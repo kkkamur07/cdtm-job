@@ -9,6 +9,7 @@ would be parameterised by everything that matters.
 from __future__ import annotations
 
 import time
+from datetime import date
 
 from backend.core.actor import Actor
 from backend.core.cache import TTLCache
@@ -143,7 +144,11 @@ class HousingAskService:
         if not allowed:
             raise RateLimitedError("you are asking faster than we can answer; try again shortly")
 
-        viewer = ViewerContext()
+        # The housing prompts resolve "from next month" against a date, and the only date
+        # they have is this one. Left unset it defaulted to today inside the translator,
+        # where the cache key could not see it, so a reading made yesterday stayed warm past
+        # midnight and answered with yesterday's idea of "next month".
+        viewer = ViewerContext(today=date.today())
         if self._translator is not None:
             key = interpretation_key(
                 board="housing", question=question, language=language, viewer=viewer

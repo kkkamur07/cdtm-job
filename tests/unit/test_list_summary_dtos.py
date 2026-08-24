@@ -7,6 +7,11 @@ drifts unless something holds the two sides together. That is what these tests a
 field added to ``Job``, ``HousingListing`` or ``Event`` fails here until somebody decides
 whether a list row should carry it.
 
+The restatement lives in the domain, on ``JobSummary``, ``HousingListingSummary`` and
+``EventSummary``, because the list queries select exactly those columns and nothing else;
+the DTOs are the wire names for them. That the two agree is asserted below as well, so the
+column list, the domain model and the response body are one decision rather than three.
+
 They also pin the values: a summary built from a real aggregate must say exactly what the
 aggregate says about every field it kept, salary normalisation included.
 """
@@ -18,12 +23,14 @@ from datetime import UTC, date, datetime
 from decimal import Decimal
 from uuid import uuid4
 
+import pytest
+
 from backend.events.api.schemas import EventPublic, EventSummaryPublic
-from backend.events.domain import Event
+from backend.events.domain import Event, EventSummary
 from backend.housing.api.schemas import HousingListingPublic, HousingListingSummaryPublic
-from backend.housing.domain import HousingListing
+from backend.housing.domain import HousingListing, HousingListingSummary
 from backend.jobboard.api.schemas import JobPublic, JobSummaryPublic
-from backend.jobboard.domain import Job
+from backend.jobboard.domain import Job, JobSummary
 
 #: What a list row has no use for. The description is the expensive one on all three
 #: boards (``MAX_RICH_TEXT`` is 20,000 characters); on jobs the three keyword lists ride
@@ -136,6 +143,27 @@ def test_a_housing_summary_is_the_listing_without_its_description() -> None:
 
 def test_an_event_summary_is_the_event_without_its_description() -> None:
     assert set(EventSummaryPublic.model_fields) == set(Event.model_fields) - EVENT_OMITS
+
+
+@pytest.mark.parametrize(
+    ("domain_summary", "dto"),
+    [
+        (JobSummary, JobSummaryPublic),
+        (HousingListingSummary, HousingListingSummaryPublic),
+        (EventSummary, EventSummaryPublic),
+    ],
+)
+def test_a_response_row_carries_exactly_the_columns_the_list_query_selects(
+    domain_summary: type, dto: type
+) -> None:
+    """The domain summary is what the repository fills from an explicit column list.
+
+    If the DTO could carry a field the domain summary does not, the list would answer with
+    a field no query ever selected; if the domain summary could carry one the DTO does not,
+    the query would be reading a column nothing on the wire uses. Neither is allowed, so the
+    two field sets are the same set.
+    """
+    assert set(dto.model_fields) == set(domain_summary.model_fields)
 
 
 def test_a_job_summary_says_what_the_job_says_about_every_field_it_kept() -> None:

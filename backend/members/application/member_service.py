@@ -139,7 +139,12 @@ class MemberService:
             current_company=command.current_company,
             current_title=command.current_title,
         )
-        return await self._members.upsert_member(payload)
+        member_id = await self._members.upsert_member(payload)
+        # A new member changes the roster size and can introduce a major nothing else has,
+        # both of which the filter bar reads out of the cache. Held for five minutes, that
+        # meant the person who just joined could not find themselves in it.
+        _FACETS.clear()
+        return member_id
 
     async def update_self_profile(self, member_id: UUID, command: SelfProfileUpdate) -> None:
         """Update the profile fields a member maintains by hand, leaving the rest alone.
@@ -171,6 +176,10 @@ class MemberService:
             current_company=command.current_company,
             current_title=command.current_title,
         )
+        # An edit can move somebody to another class or give them a major no other member
+        # has, and both are facets. Same reason as on create: the bar must not keep offering
+        # the shape of the directory as it was before the write.
+        _FACETS.clear()
 
     async def _unique_slug(self, base: str) -> str:
         """`base`, or `base-2`, `base-3`, ... : the first that no member holds.

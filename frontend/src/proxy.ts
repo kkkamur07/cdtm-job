@@ -20,6 +20,10 @@ export const config = {
          * the route handlers under `api/` (the dev-session route is pure
          * cookie I/O and the rest of the API lives on the backend), and the
          * metadata files a crawler asks for.
+         *
+         * A router prefetch is not excluded and must not be: it asks for the
+         * document's own path with an RSC header, so it matches here and gets
+         * the refresh, which is the only way its rotated cookies survive.
          */
         "/((?!api/|_next/static|_next/image|_next/data|favicon.ico|robots.txt|sitemap.xml|manifest|assets|avatars|profiles|.*\\.(?:svg|png|jpg|jpeg|gif|webp|mp4|ico|txt|xml|json|woff2?)$).*)",
     ],

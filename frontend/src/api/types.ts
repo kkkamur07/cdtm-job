@@ -36,6 +36,8 @@ export type IntentsUpsert = S["IntentsUpsert"];
 export type SavedMemberRow = S["SavedMemberPublic"];
 export type SavedMembersPage = S["SavedMembersPublic"];
 export type SavedMember = S["SavedMember"];
+/** The same shortlist as bare ids, unpaged: what a Save button reads. */
+export type SavedMemberIds = S["SavedMemberIdsPublic"];
 /**
  * The trimmed member the network endpoints return: same person, avatar flattened
  * onto the row instead of nested. `avatarOf` in `./people` reads either shape.

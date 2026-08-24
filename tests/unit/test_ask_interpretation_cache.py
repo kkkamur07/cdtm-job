@@ -10,6 +10,7 @@ provider or a database.
 from __future__ import annotations
 
 import uuid
+from datetime import date
 
 import pytest
 
@@ -78,6 +79,26 @@ class RulesTranslator:
             confidence=0.2,
             unresolved=[],
             source="rules",
+        )
+
+
+class RecordingViewerTranslator:
+    """Keeps the ``ViewerContext`` it was handed, for either board's interpretation type."""
+
+    def __init__(self, interpretation, query) -> None:
+        self.model_name = "fake-model"
+        self.viewers: list[ViewerContext] = []
+        self._interpretation = interpretation
+        self._query = query
+
+    async def translate(self, question: str, *, viewer: ViewerContext, language=None):
+        self.viewers.append(viewer)
+        return self._interpretation(
+            summary=f"read: {question}",
+            filters=self._query(q=question),
+            confidence=0.5,
+            unresolved=[],
+            source="llm",
         )
 
 
@@ -166,6 +187,49 @@ def test_the_key_folds_case_and_whitespace_but_nothing_else() -> None:
         language=None,
         viewer=ViewerContext(class_label="Fall 2020"),
     )
+
+
+def test_a_reading_made_yesterday_is_not_the_same_key_as_one_made_today() -> None:
+    """A relative date means something different on the two sides of midnight.
+
+    The prompts interpolate ``viewer.today``, so a key that ignored it would hand a stale
+    reading of a relative date back for as long as the entry lived. The field is on the
+    viewer, and the viewer goes into the key whole, so this holds as long as the services
+    actually fill it in.
+    """
+    yesterday = ViewerContext(today=date(2026, 8, 23))
+    today = ViewerContext(today=date(2026, 8, 24))
+    unset = ViewerContext()
+
+    key = interpretation_key(
+        board="housing", question="a flat from next month", language=None, viewer=today
+    )
+    assert key != interpretation_key(
+        board="housing", question="a flat from next month", language=None, viewer=yesterday
+    )
+    # And an unset date is its own reading rather than quietly sharing one of the above.
+    assert key != interpretation_key(
+        board="housing", question="a flat from next month", language=None, viewer=unset
+    )
+
+
+async def test_the_asks_put_todays_date_in_the_context_they_hand_the_translator() -> None:
+    """Both services fill ``today`` in, which is what makes the key above cover it."""
+    members_translator = RecordingViewerTranslator(AskInterpretation, MemberQuery)
+    service, _ = build_members_service(members_translator)
+    await service.explain("who is in VC", actor=Actor(VIEWER_ID))
+
+    housing_translator = RecordingViewerTranslator(HousingAskInterpretation, HousingQuery)
+    housing = HousingAskService(
+        FakeHousing(),
+        translator=housing_translator,
+        fallback=CountingHousingTranslator(),
+        meter=AllowingMeter(),
+    )
+    await housing.explain("a flat in Schwabing", actor=Actor(VIEWER_ID))
+
+    assert members_translator.viewers[0].today == date.today()
+    assert housing_translator.viewers[0].today == date.today()
 
 
 # ---- the directory's Ask ---------------------------------------------------------------------

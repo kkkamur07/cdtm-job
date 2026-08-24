@@ -15,11 +15,11 @@ from __future__ import annotations
 import time
 from typing import Annotated, Literal
 
-from cachetools import TTLCache
 from fastapi import APIRouter, Depends, File, Response, UploadFile, status
 from fastapi.responses import RedirectResponse
 from pydantic import BaseModel, ConfigDict
 
+from backend.core.cache import TTLCache
 from backend.core.exceptions import NotFoundError, PayloadTooLargeError, ValidationError
 from backend.core.settings import get_app_settings, get_storage_settings
 from backend.core.settings.storage import KNOWN_BUCKETS, MEDIA_BUCKETS
@@ -64,9 +64,12 @@ IMMUTABLE_CACHE = "public, max-age=31536000, immutable"
 #: Per process and bounded: a thousand distinct images is more than any page shows, and an
 #: entry is only a URL. Nothing here is authorization state, so a second worker having its
 #: own copy is not a correctness question.
-_SIGNED_URLS: TTLCache[tuple[str, str], tuple[str, float]] = TTLCache(
-    maxsize=1024, ttl=SIGNED_URL_SECONDS - SIGNED_URL_MARGIN_SECONDS
-)
+#:
+#: The platform's own :class:`~backend.core.cache.TTLCache`, not a second implementation from
+#: a library: building one registers it, so a loader run and the test suite's reset fixture
+#: empty this cache along with every other. Entries expire a minute before the signatures in
+#: them do, and the least recently used is dropped once there are more than ``maxsize``.
+_SIGNED_URLS: TTLCache = TTLCache(maxsize=1024, ttl=SIGNED_URL_SECONDS - SIGNED_URL_MARGIN_SECONDS)
 
 
 class MediaUploadPublic(BaseModel):
@@ -98,14 +101,14 @@ async def _cached_signed_url(storage: BlobStorage, bucket: str, key: str) -> tup
     if signed is None:
         return None
     reusable_for = SIGNED_URL_SECONDS - SIGNED_URL_MARGIN_SECONDS
-    _SIGNED_URLS[(bucket, key)] = (signed, now + reusable_for)
+    _SIGNED_URLS.set((bucket, key), (signed, now + reusable_for))
     return signed, reusable_for
 
 
 def _forget_signed_url(bucket: str, key: str) -> None:
     """Drop a cached signature. Deleting the blob is how an image is taken back, and a
     redirect to a signature over an object that no longer exists is a confusing 400."""
-    _SIGNED_URLS.pop((bucket, key), None)
+    _SIGNED_URLS.pop((bucket, key))
 
 
 def _media_url(bucket: str, key: str) -> str:

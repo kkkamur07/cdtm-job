@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+from uuid import UUID
+
 from pydantic import BaseModel, ConfigDict
 
 from backend.network.domain import IntroRequest, MemberCard, SavedMember
@@ -29,6 +31,21 @@ class SavedMembersPublic(BaseModel):
 
     items: list[SavedMemberPublic]
     total: int
+
+
+class SavedMemberIdsPublic(BaseModel):
+    """The shortlist as bare ids, next to the paged list of cards.
+
+    Two answers to two questions. The page is what a member reads, so it is cut and carries
+    a whole card per row. This is what the Save button needs, and a button is either filled
+    or it is not: reading membership off a page meant everybody past the first hundred rows
+    was drawn as unsaved. One column and one row per saved person, so the whole list fits in
+    an answer that does not need paging.
+    """
+
+    model_config = ConfigDict(extra="forbid")
+
+    member_ids: list[UUID]
 
 
 class IntroRequestPublic(BaseModel):

@@ -29,6 +29,10 @@ _INTENTS = ("cofounding", "mentoring", "hiring", "open_to_roles", "speaking", "i
 #: because both ends up in the same ILIKE against the directory.
 MAX_COMPANY_NAME = 128
 
+#: Longest single ``?skill=`` value. Same ceiling and same reason as a company name: each
+#: one becomes a pattern matched against every member's skill list.
+MAX_SKILL_NAME = 128
+
 
 @router.get("/", response_model=MembersPublic)
 async def search_members(
@@ -46,7 +50,14 @@ async def search_members(
     intent: Annotated[
         list[str] | None, Query(description="repeatable; any of " + ", ".join(_INTENTS))
     ] = None,
-    skill: Annotated[list[str] | None, Query()] = None,
+    skill: Annotated[
+        # Same pair of caps as ``/members/at-company``: ``max_length`` on the list is how
+        # many skills may be asked for, the constraint inside it is how long one may be.
+        # Uncapped, a handful of megabyte-long "skills" became that many ILIKE patterns
+        # over every row in the directory.
+        list[Annotated[str, StringConstraints(max_length=MAX_SKILL_NAME)]] | None,
+        Query(max_length=20),
+    ] = None,
     is_ca: Annotated[bool | None, Query()] = None,
     has_entry: Annotated[bool | None, Query()] = None,
     claimed_only: Annotated[bool, Query()] = False,

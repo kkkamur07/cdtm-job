@@ -13,6 +13,7 @@ from collections.abc import Iterator
 
 import pytest
 
+from backend.core.cache import clear_all
 from backend.core.exceptions import NotFoundError
 from backend.media.api import router as media_router
 from backend.media.api.router import (
@@ -106,8 +107,8 @@ async def test_the_advertised_lifetime_shrinks_as_the_signature_ages() -> None:
     await read_media("job-images", key, storage)
 
     # Age the cached entry by a minute without waiting one.
-    url, good_until = media_router._SIGNED_URLS[("job-images", key)]
-    media_router._SIGNED_URLS[("job-images", key)] = (url, good_until - 60)
+    url, good_until = media_router._SIGNED_URLS.get(("job-images", key))
+    media_router._SIGNED_URLS.set(("job-images", key), (url, good_until - 60))
 
     response = await read_media("job-images", key, storage)
 
@@ -124,8 +125,8 @@ async def test_a_signature_close_to_expiry_is_replaced_rather_than_reused() -> N
     key = new_key("image/png")
     await read_media("job-images", key, storage)
 
-    url, _ = media_router._SIGNED_URLS[("job-images", key)]
-    media_router._SIGNED_URLS[("job-images", key)] = (url, time.monotonic() - 1)
+    url, _ = media_router._SIGNED_URLS.get(("job-images", key))
+    media_router._SIGNED_URLS.set(("job-images", key), (url, time.monotonic() - 1))
 
     response = await read_media("job-images", key, storage)
 
@@ -162,11 +163,25 @@ async def test_deleting_an_image_forgets_the_signature_over_it() -> None:
     storage = _Signing()
     key = new_key("image/png")
     await read_media("job-images", key, storage)
-    assert ("job-images", key) in media_router._SIGNED_URLS
+    assert media_router._SIGNED_URLS.get(("job-images", key)) is not None
 
     await media_router.delete_media("job-images", key, actor=None, storage=storage)
 
-    assert ("job-images", key) not in media_router._SIGNED_URLS
+    assert media_router._SIGNED_URLS.get(("job-images", key)) is None
+
+
+async def test_the_suite_wide_cache_reset_reaches_this_cache_too() -> None:
+    """This used to be a ``cachetools.TTLCache``, which no registry knew about, so neither a
+    loader run nor the autouse fixture in ``tests/conftest.py`` emptied it and a signature
+    survived into the next test. It is the shared cache now, so ``clear_all`` reaches it."""
+    storage = _Signing()
+    key = new_key("image/png")
+    await read_media("job-images", key, storage)
+    assert media_router._SIGNED_URLS.get(("job-images", key)) is not None
+
+    clear_all()
+
+    assert media_router._SIGNED_URLS.get(("job-images", key)) is None
 
 
 async def test_an_unknown_bucket_is_still_refused_before_anything_is_signed() -> None:

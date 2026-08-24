@@ -15,6 +15,7 @@ import type {
     PathFlow,
     RsvpStatus,
 } from "../types";
+import { ANNOUNCEMENTS_PAGE } from "@/features/community/announcements/page-size";
 import { useAuthedQueryOptions } from "./shared";
 
 type AnnouncementsPage = { items: Announcement[]; total: number; unread: number };
@@ -145,7 +146,7 @@ export function useRsvp() {
  * in means the list paints from the server payload and only refetches when it
  * goes stale, instead of flashing a skeleton on every navigation.
  */
-export function useAnnouncements(initialData?: AnnouncementsPage, limit = 50) {
+export function useAnnouncements(initialData?: AnnouncementsPage, limit = ANNOUNCEMENTS_PAGE) {
     const gate = useAuthedQueryOptions();
     return useQuery({
         queryKey: qk.announcementList(limit),
@@ -237,7 +238,7 @@ export function useHousingListing(id: string | null) {
  */
 function invalidateListing(qc: ReturnType<typeof useQueryClient>, id: string) {
     return Promise.all([
-        qc.invalidateQueries({ queryKey: ["housing", "list"] }),
+        qc.invalidateQueries({ queryKey: qk.housingLists }),
         qc.invalidateQueries({ queryKey: qk.housingListing(id) }),
     ]);
 }
@@ -246,7 +247,7 @@ export function useCreateHousing() {
     const qc = useQueryClient();
     return useMutation({
         mutationFn: (body: HousingCreate) => unwrap(api.POST("/api/v1/housing/", { body })),
-        onSuccess: () => qc.invalidateQueries({ queryKey: ["housing", "list"] }),
+        onSuccess: () => qc.invalidateQueries({ queryKey: qk.housingLists }),
     });
 }
 

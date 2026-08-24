@@ -5,8 +5,11 @@ that no request writes: ``load_community.py`` recomputes them offline and nothin
 touches them. Recomputing them per page view costs three to seven round trips for a value
 that was identical a second ago, so they are held here for a short while instead.
 
-Dependency free on purpose. ``cachetools`` would do the same job, but this is twenty lines
-and the platform already has one virtualenv too many opinions in it.
+Dependency free on purpose. ``cachetools`` would do the same job for one cache, but nothing
+in it gives the process a list of every cache it built, and that list is the whole point:
+the loader and the test suite both need to empty all of them at once. Keeping a third-party
+cache alongside this one only meant two expiry policies and one of them (the media
+signed-URL cache) quietly outliving :func:`clear_all`, so the dependency is gone.
 
 Thread and task safety: entries are plain dict operations with no ``await`` between the
 read and the write, so a coroutine can never be suspended halfway through one. Two callers
@@ -76,6 +79,14 @@ class TTLCache:
         self._entries.move_to_end(key)
         while len(self._entries) > self._maxsize:
             self._entries.popitem(last=False)
+
+    def pop(self, key: Hashable) -> None:
+        """Forget one entry, whether or not it was there.
+
+        Expiry is not always how a cached value stops being true: a deleted image blob
+        invalidates the signature over it immediately, and the entry has to go with it.
+        """
+        self._entries.pop(key, None)
 
     def clear(self) -> None:
         self._entries.clear()

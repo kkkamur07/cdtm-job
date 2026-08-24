@@ -5,6 +5,7 @@ import type { Announcement } from "@/api/types";
 import { ErrorState } from "@/components/states";
 import { EmptyState, LoadingBlock } from "@/components/placeholders";
 import RelativeTime from "@/components/RelativeTime";
+import { ANNOUNCEMENTS_PAGE } from "./page-size";
 
 /**
  * Announcements, newest first, unread ones marked. Reading is explicit: a card
@@ -15,10 +16,17 @@ export default function AnnouncementList({
     limit,
     initial,
 }: {
+    /**
+     * How many announcements to hold, and part of the query key. It has to be
+     * the page size the server loader used for this render, or the browser
+     * refetches the same board under a second key and `initial` goes to waste.
+     * Left out, it is the shared `ANNOUNCEMENTS_PAGE` the loader defaults to;
+     * the home widget passes the two it shows.
+     */
     limit?: number;
     initial?: { items: Announcement[]; total: number; unread: number };
 }) {
-    const announcements = useAnnouncements(initial, limit ?? 50);
+    const announcements = useAnnouncements(initial, limit ?? ANNOUNCEMENTS_PAGE);
     const markRead = useMarkAnnouncementRead();
 
     if (announcements.isPending) return <LoadingBlock label="Loading announcements" rows={2} />;

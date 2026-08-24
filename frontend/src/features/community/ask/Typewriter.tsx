@@ -83,29 +83,53 @@ function advance(step: Step, phrases: string[]): Step {
 }
 
 /**
+ * All four arguments below are module scope, not inline.
+ *
+ * `useSyncExternalStore` compares `subscribe` by identity and re-subscribes
+ * whenever it changes, and this component re-renders every 45 ms while it
+ * types. Inline arrows would tear down and rebuild both listeners twenty times
+ * a second. The `MediaQueryList` is built once for the same reason: reading
+ * `matchMedia` fresh on every snapshot is a lookup React makes on every render.
+ *
+ * `null` until asked for, because this module is evaluated on the server too.
+ */
+let reducedMotionQuery: MediaQueryList | null = null;
+
+function reducedMotion(): MediaQueryList {
+    reducedMotionQuery ??= window.matchMedia(REDUCED);
+    return reducedMotionQuery;
+}
+
+function subscribeReducedMotion(onChange: () => void): () => void {
+    const query = reducedMotion();
+    query.addEventListener("change", onChange);
+    return () => query.removeEventListener("change", onChange);
+}
+
+const getReducedMotion = () => reducedMotion().matches;
+const getReducedMotionOnServer = () => false;
+
+function subscribeVisibility(onChange: () => void): () => void {
+    document.addEventListener("visibilitychange", onChange);
+    return () => document.removeEventListener("visibilitychange", onChange);
+}
+
+const getVisible = () => !document.hidden;
+const getVisibleOnServer = () => true;
+
+/**
  * Subscribed rather than read in an effect, so the first client render matches
  * the server's and the preference is still followed if it changes mid-session.
  */
 function useReducedMotion(): boolean {
     return useSyncExternalStore(
-        (onChange) => {
-            const query = window.matchMedia(REDUCED);
-            query.addEventListener("change", onChange);
-            return () => query.removeEventListener("change", onChange);
-        },
-        () => window.matchMedia(REDUCED).matches,
-        () => false,
+        subscribeReducedMotion,
+        getReducedMotion,
+        getReducedMotionOnServer,
     );
 }
 
 /** Same subscription shape, for the tab's visibility. Server renders visible. */
 function useDocumentVisible(): boolean {
-    return useSyncExternalStore(
-        (onChange) => {
-            document.addEventListener("visibilitychange", onChange);
-            return () => document.removeEventListener("visibilitychange", onChange);
-        },
-        () => !document.hidden,
-        () => true,
-    );
+    return useSyncExternalStore(subscribeVisibility, getVisible, getVisibleOnServer);
 }

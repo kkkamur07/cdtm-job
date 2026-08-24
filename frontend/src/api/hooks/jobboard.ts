@@ -12,8 +12,9 @@ import { usePublicQueryOptions } from "./shared";
  * session. Posting a job or creating a company does need one, and the backend
  * says so with a 403 the form surfaces.
  *
- * There is no `useJobs`: the board is loaded on the server and filtered in the
- * browser, so nothing here searches jobs.
+ * Only the company type-ahead reads from the browser. The job board itself is
+ * loaded on the server and filtered client-side, so the job hooks here are the
+ * writes.
  */
 
 export function useCreateJob() {

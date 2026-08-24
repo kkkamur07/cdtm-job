@@ -21,14 +21,20 @@ async def list_companies(
     service: CompanyServiceDep,
     page: PageParamsDep,
     response: Response,
-    industry: Annotated[str | None, Query()] = None,
+    industry: Annotated[str | None, Query(max_length=128)] = None,
     is_cdtm_startup: Annotated[bool | None, Query()] = None,
-    hq_city: Annotated[str | None, Query()] = None,
+    hq_city: Annotated[str | None, Query(max_length=128)] = None,
     q: Annotated[str | None, Query(max_length=128)] = None,
 ) -> CompaniesPublic:
     # The only list on the platform with no auth dependency at all, so this one really is
     # public and a shared cache may hold it.
     response.headers["Cache-Control"] = f"public, max-age={COMPANIES_TTL_SECONDS}"
+    # CORS puts ``Access-Control-Allow-Origin`` on this answer only when the request carried
+    # an ``Origin``, so the same URL has two bodies of headers. Without ``Vary: Origin`` a
+    # shared cache could store the one a curl made and replay it to a browser, which then
+    # refuses its own data. Appended rather than assigned: another layer may already have
+    # varied this response on something else.
+    response.headers.add_vary_header("Origin")
     result = await service.list_companies(
         skip=page.skip,
         limit=page.limit,

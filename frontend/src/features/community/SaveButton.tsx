@@ -18,9 +18,16 @@ function BookmarkIcon({ filled }: { filled: boolean }) {
 }
 
 /**
- * Save / unsave a member. The saved list is small (it is a personal shortlist,
- * not a follow graph), so it is fetched once and read from the cache here
- * rather than every row asking the server whether it is saved.
+ * Save / unsave a member.
+ *
+ * Membership comes from `useSavedIds`, which is the whole shortlist as ids and
+ * unpaged, so every button on a results page is drawn from one cached set
+ * rather than each row asking the server. It is deliberately not the display
+ * page: that is cut at a hundred rows, and a button reading its own state off
+ * it drew somebody already saved as unsaved.
+ *
+ * No note is passed. This button knows nothing about the note on the row, so it
+ * says nothing about it and the server keeps whatever is there.
  *
  * `member` is passed where the caller has it so the shortlist can show the new
  * row before the write comes back. Without it the toggle still works; the list

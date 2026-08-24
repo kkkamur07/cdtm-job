@@ -842,6 +842,9 @@ export interface paths {
     /**
      * My Intros
      * @description Both directions, paged. Unbounded before, for the same reason ``/saved`` was.
+     *
+     *     ``with_member_id`` is how a profile page asks "have I already asked for an intro to this
+     *     person": one row or none, instead of the whole history filtered in the browser.
      */
     get: operations["my_intros_api_v1_network_intros_get"];
     put?: never;
@@ -894,6 +897,32 @@ export interface paths {
     patch?: never;
     trace?: never;
   };
+  "/api/v1/network/saved/ids": {
+    parameters: {
+      query?: never;
+      header?: never;
+      path?: never;
+      cookie?: never;
+    };
+    /**
+     * My Saved Ids
+     * @description The same shortlist as ``/saved``, as ids, and unpaged on purpose.
+     *
+     *     Two questions, two answers. ``/saved`` is what a member reads, so it is a page of cards.
+     *     A Save button asks something else: is this one person on the list, yes or no. Answering
+     *     that from the first page said no about everybody below row one hundred. This is a single
+     *     uuid column bounded by the size of one member's shortlist, so it needs no skip and no
+     *     limit and the client can hold the whole set.
+     */
+    get: operations["my_saved_ids_api_v1_network_saved_ids_get"];
+    put?: never;
+    post?: never;
+    delete?: never;
+    options?: never;
+    head?: never;
+    patch?: never;
+    trace?: never;
+  };
   "/api/v1/network/saved/{member_id}": {
     parameters: {
       query?: never;
@@ -902,7 +931,10 @@ export interface paths {
       cookie?: never;
     };
     get?: never;
-    /** Save Member */
+    /**
+     * Save Member
+     * @description A body without ``note`` saves without touching the note; ``{"note": null}`` clears it.
+     */
     put: operations["save_member_api_v1_network_saved__member_id__put"];
     post?: never;
     /** Unsave Member */
@@ -3398,6 +3430,20 @@ export interface components {
        * Format: uuid
        */
       saved_member_id: string;
+    };
+    /**
+     * SavedMemberIdsPublic
+     * @description The shortlist as bare ids, next to the paged list of cards.
+     *
+     *     Two answers to two questions. The page is what a member reads, so it is cut and carries
+     *     a whole card per row. This is what the Save button needs, and a button is either filled
+     *     or it is not: reading membership off a page meant everybody past the first hundred rows
+     *     was drawn as unsaved. One column and one row per saved person, so the whole list fits in
+     *     an answer that does not need paging.
+     */
+    SavedMemberIdsPublic: {
+      /** Member Ids */
+      member_ids: string[];
     };
     /** SavedMemberPublic */
     SavedMemberPublic: {
@@ -9573,6 +9619,8 @@ export interface operations {
   my_intros_api_v1_network_intros_get: {
     parameters: {
       query?: {
+        /** @description only requests whose other party is this member, either direction */
+        with_member_id?: string | null;
         skip?: number;
         limit?: number;
       };
@@ -9886,6 +9934,100 @@ export interface operations {
         };
         content: {
           "application/json": components["schemas"]["SavedMembersPublic"];
+        };
+      };
+      /** @description Not authenticated */
+      401: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Not allowed */
+      403: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Not found */
+      404: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Conflict */
+      409: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Payload too large */
+      413: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Validation error */
+      422: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Internal error */
+      500: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Storage unavailable */
+      503: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+    };
+  };
+  my_saved_ids_api_v1_network_saved_ids_get: {
+    parameters: {
+      query?: never;
+      header?: {
+        authorization?: string | null;
+      };
+      path?: never;
+      cookie?: never;
+    };
+    requestBody?: never;
+    responses: {
+      /** @description Successful Response */
+      200: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["SavedMemberIdsPublic"];
         };
       };
       /** @description Not authenticated */

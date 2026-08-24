@@ -13,6 +13,7 @@ import type {
     Me,
     MemberProfile,
     NetworkMember,
+    SavedMemberIds,
     SavedMembersPage,
     SelfProfileCreate,
 } from "../types";
@@ -126,44 +127,49 @@ export function useSaveMyIntents() {
 }
 
 /**
- * `/network/saved` is a paged list like every other one, and 100 is the cap
- * `PageParams` allows. Both readers want the whole shortlist rather than a window
- * on it, so both ask for the first page at the cap; `total` is the honest count.
- * A member with more than a hundred saved people would see the hundred most recent,
- * which is the point at which this needs a real pager.
+ * The page size for the two lists `/me` displays, and the cap `PageParams`
+ * allows.
+ *
+ * Both of them want the whole thing rather than a window on it, so both ask for
+ * one page at the cap and read `total` for the honest count; `SavedList` says
+ * "the most recent of N" on screen when there is more. Nothing decides anything
+ * from these any more. Membership of the shortlist comes from `useSavedIds`,
+ * and "have I already asked this person for an intro" is asked of the server
+ * about that one member, so a long history cannot push the answer off the end
+ * of a page.
  */
-const SHORTLIST_LIMIT = 100;
-
-const savedPage = () =>
-    unwrap(api.GET("/api/v1/network/saved", { params: { query: { limit: SHORTLIST_LIMIT } } }));
+const DISPLAY_PAGE = 100;
 
 export function useMySaved() {
     const gate = useAuthedQueryOptions();
     return useQuery({
         queryKey: qk.mySaved,
-        queryFn: savedPage,
+        queryFn: () =>
+            unwrap(api.GET("/api/v1/network/saved", { params: { query: { limit: DISPLAY_PAGE } } })),
         ...gate,
     });
 }
 
-/** Module scope, so the projection below is memoized on the cached page. */
-const savedIds = (page: SavedMembersPage) =>
-    new Set(page.items.map((row) => row.saved.saved_member_id));
+/** Module scope: a stable reference is what lets React Query memoize the result. */
+const toIdSet = (ids: SavedMemberIds) => new Set(ids.member_ids);
 
 /**
- * The same shortlist, as a set of member ids.
+ * The shortlist as a set of member ids.
  *
- * Every row on a results page holds a save button, and each one used to scan
- * the whole shortlist to find out whether it was in it. `select` runs once per
- * cache entry rather than once per row per render, and the answer is an O(1)
- * lookup.
+ * Its own endpoint and its own key, because a Save button asks something the
+ * display page cannot answer. The page is cut at `DISPLAY_PAGE`, so reading
+ * membership off it drew everybody below that row as unsaved, and clicking one
+ * of those buttons sent a save that overwrote the note on a row that was
+ * already there. `/network/saved/ids` is one uuid column bounded by the size of
+ * one member's shortlist, so the whole set fits and the answer is an O(1)
+ * lookup on it.
  */
 export function useSavedIds() {
     const gate = useAuthedQueryOptions();
     return useQuery({
-        queryKey: qk.mySaved,
-        queryFn: savedPage,
-        select: savedIds,
+        queryKey: qk.mySavedIds,
+        queryFn: () => unwrap(api.GET("/api/v1/network/saved/ids", {})),
+        select: toIdSet,
         ...gate,
     });
 }
@@ -172,6 +178,11 @@ export type ToggleSavedVariables = {
     memberId: string;
     /** The state to move to, not the state it is in. */
     saved: boolean;
+    /**
+     * Left out, whatever note is on the row is kept: a Save button in a results
+     * list knows nothing about a note written on the profile and must not speak
+     * for it. `null` clears the note, a string sets it.
+     */
     note?: string | null;
     /**
      * The row to show while the write is in flight. Every caller has the
@@ -190,33 +201,57 @@ export function useToggleSaved() {
                 await unwrap(api.DELETE("/api/v1/network/saved/{member_id}", { params }));
                 return null;
             }
+            // An absent `note` is not the same as no note. The backend leaves
+            // the stored one alone unless the key is present, so a save that
+            // was told nothing about notes sends nothing about notes.
             return unwrap(
                 api.PUT("/api/v1/network/saved/{member_id}", {
                     params,
-                    body: { note: note ?? null },
+                    body: note === undefined ? {} : { note },
                 }),
             );
         },
         onMutate: async ({ memberId, saved, note, member }) => {
+            // Prefix, so both the page and the id set stop refetching under the
+            // optimistic write.
             await qc.cancelQueries({ queryKey: qk.mySaved });
+
+            // The id set is what every button on screen is drawn from, so it
+            // moves first and it moves whether or not the page is cached.
+            const previousIds = qc.getQueryData<SavedMemberIds>(qk.mySavedIds);
+            if (previousIds) {
+                const has = previousIds.member_ids.includes(memberId);
+                qc.setQueryData<SavedMemberIds>(qk.mySavedIds, {
+                    member_ids: saved
+                        ? has
+                            ? previousIds.member_ids
+                            : [memberId, ...previousIds.member_ids]
+                        : previousIds.member_ids.filter((id) => id !== memberId),
+                });
+            }
+
+            // The page is only cached once `/me` has been opened, so a save
+            // from anywhere else has nothing to edit here and waits for
+            // `onSettled`.
             const previous = qc.getQueryData<SavedMembersPage>(qk.mySaved);
-            if (!previous) return { previous };
+            const context = { previous, previousIds };
+            if (!previous) return context;
 
             if (!saved) {
                 qc.setQueryData<SavedMembersPage>(qk.mySaved, {
                     items: previous.items.filter((row) => row.saved.saved_member_id !== memberId),
                     total: Math.max(0, previous.total - 1),
                 });
-                return { previous };
+                return context;
             }
 
             // Only the caller knows the Member; without one there is nothing
             // honest to draw, so the list waits for the server and the button
             // shows its own in-flight state from `variables` instead.
             const owner = qc.getQueryData<Me>(qk.me)?.member_id;
-            if (!member || !owner) return { previous };
+            if (!member || !owner) return context;
             if (previous.items.some((row) => row.saved.saved_member_id === memberId)) {
-                return { previous };
+                return context;
             }
 
             qc.setQueryData<SavedMembersPage>(qk.mySaved, {
@@ -234,43 +269,65 @@ export function useToggleSaved() {
                 ],
                 total: previous.total + 1,
             });
-            return { previous };
+            return context;
         },
         onError: (_error, _variables, context) => {
             if (context?.previous) qc.setQueryData(qk.mySaved, context.previous);
+            if (context?.previousIds) qc.setQueryData(qk.mySavedIds, context.previousIds);
         },
         /**
          * The PUT answers with the row the server actually wrote, so the guessed
-         * timestamp is replaced with the real one in place. Re-fetching the whole
-         * shortlist to learn one `created_at` was a page of JSON for a field that
-         * arrived in the response body of the write itself.
+         * timestamp and note are replaced with the real ones in place.
+         *
+         * Only for a row the page already holds. Prepending an unknown row would
+         * have to guess `total` too, and it cannot: the page is one window on
+         * the shortlist, so a row missing from it does not mean the member was
+         * not already saved. `onSettled` refetches and the server says.
          */
         onSuccess: (row, { memberId }) => {
             if (!row) return;
             qc.setQueryData<SavedMembersPage>(qk.mySaved, (page) => {
-                if (!page) return page;
-                const known = page.items.some((item) => item.saved.saved_member_id === memberId);
+                if (!page?.items.some((item) => item.saved.saved_member_id === memberId)) {
+                    return page;
+                }
                 return {
-                    items: known
-                        ? page.items.map((item) =>
-                              item.saved.saved_member_id === memberId ? row : item,
-                          )
-                        : [row, ...page.items],
-                    total: known ? page.total : page.total + 1,
+                    ...page,
+                    items: page.items.map((item) =>
+                        item.saved.saved_member_id === memberId ? row : item,
+                    ),
                 };
             });
         },
+        /**
+         * Prefix, so the page and the id set are both refetched. The optimistic
+         * writes above are what makes the click feel instant; this is what makes
+         * the result true, on the paths they cannot cover: an uncached page, an
+         * unsave (which answers with nothing), and a `total` no client can work
+         * out from one window on the list.
+         */
+        onSettled: () => qc.invalidateQueries({ queryKey: qk.mySaved }),
     });
 }
 
-export function useMyIntros() {
+/**
+ * Intro requests, both directions.
+ *
+ * `withMemberId` narrows the page to the rows shared with one member, which is
+ * the only honest way to answer "have I already asked this person". Filtering
+ * the unfiltered list in the browser answered from one page at the cap, so a
+ * member with a long history was told they had never asked and offered the form
+ * a second time. Left out, this is the whole inbox, which is what `/me` shows.
+ */
+export function useMyIntros(withMemberId?: string) {
     const gate = useAuthedQueryOptions();
     return useQuery({
-        queryKey: qk.myIntros,
+        queryKey: qk.myIntrosList(withMemberId),
         queryFn: () =>
             unwrap(
                 api.GET("/api/v1/network/intros", {
-                    params: { query: { limit: SHORTLIST_LIMIT } },
+                    params: {
+                        query: { with_member_id: withMemberId, limit: DISPLAY_PAGE },
+                    },
                 }),
             ),
         ...gate,
@@ -303,21 +360,28 @@ export function useRespondToIntro() {
             ),
         onMutate: async ({ id, status }) => {
             await qc.cancelQueries({ queryKey: qk.myIntros });
-            const previous = qc.getQueryData<IntroRequestsPage>(qk.myIntros);
-            if (previous) {
-                qc.setQueryData<IntroRequestsPage>(qk.myIntros, {
-                    ...previous,
-                    items: previous.items.map((row) =>
+            // The inbox and the narrowed list on the other party's profile can
+            // both be holding this row, so every list under the prefix moves.
+            const previous = qc.getQueriesData<IntroRequestsPage>({ queryKey: qk.myIntros });
+            qc.setQueriesData<IntroRequestsPage>({ queryKey: qk.myIntros }, (page) => {
+                if (!page) return page;
+                return {
+                    ...page,
+                    items: page.items.map((row) =>
                         row.request.id === id
                             ? { ...row, request: { ...row.request, status } }
                             : row,
                     ),
-                });
-            }
+                };
+            });
             return { previous };
         },
         onError: (_error, _variables, context) => {
-            if (context?.previous) qc.setQueryData(qk.myIntros, context.previous);
+            for (const [key, page] of context?.previous ?? []) qc.setQueryData(key, page);
         },
+        // The response carries more than the status (the responder, the time it
+        // was answered), and within `staleTime` nothing else would go and get
+        // it, so the row would sit on the guess until the page was reloaded.
+        onSettled: () => qc.invalidateQueries({ queryKey: qk.myIntros }),
     });
 }

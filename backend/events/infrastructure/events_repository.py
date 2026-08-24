@@ -9,9 +9,55 @@ from backend.core.mapping import dump_for_db
 from backend.core.page import PageResult
 from backend.core.sql import page_with_total
 from backend.events.application.commands import EventCreate, EventUpdate
-from backend.events.domain import Event, RsvpStatus
+from backend.events.domain import Event, EventSummary, RsvpStatus
 from backend.events.infrastructure.orm_models import EventRow, EventRsvpRow
 from infrastructure.repository import run_db, utc_now
+
+#: The three counted fields are the query's own, not columns of ``events``.
+_COUNTED = ("going_count", "interested_count", "my_rsvp")
+
+#: The stored half of a calendar row, column by column. Taken from the domain summary rather
+#: than written out again, so the query and the model it fills cannot drift apart.
+_SUMMARY_FIELDS = tuple(f for f in EventSummary.model_fields if f not in _COUNTED)
+
+
+def _counts(viewer: UUID | None) -> tuple:
+    """Going, interested and this viewer's own answer, as three correlated subqueries."""
+    going = (
+        select(func.count())
+        .where(EventRsvpRow.event_id == EventRow.id, EventRsvpRow.status == "going")
+        .correlate(EventRow)
+        .scalar_subquery()
+    )
+    interested = (
+        select(func.count())
+        .where(EventRsvpRow.event_id == EventRow.id, EventRsvpRow.status == "interested")
+        .correlate(EventRow)
+        .scalar_subquery()
+    )
+    mine = (
+        select(EventRsvpRow.status)
+        .where(EventRsvpRow.event_id == EventRow.id, EventRsvpRow.member_id == viewer)
+        .correlate(EventRow)
+        .scalar_subquery()
+        if viewer is not None
+        else func.cast(None, EventRsvpRow.status.type)
+    )
+    return (going.label("going"), interested.label("interested"), mine.label("mine"))
+
+
+def _summary_select(viewer: UUID | None) -> Select:
+    """The list query's SELECT list: a calendar row's columns, the counts, and nothing else.
+
+    ``select(EventRow, ...)`` fetched ``description`` on every row of every page and
+    validated it into a full ``Event`` the response model then dropped. A bare ``defer()``
+    would not do: building the model reads the attribute, and a deferred column load is a
+    lazy load, so it would cost one extra SELECT per row instead.
+
+    A function rather than a module constant because the viewer is part of it, and so
+    ``tests/unit/test_events_list_query.py`` can compile it and check what it asks for.
+    """
+    return select(*(getattr(EventRow, name) for name in _SUMMARY_FIELDS), *_counts(viewer))
 
 
 class SqlEventRepository:
@@ -19,29 +65,8 @@ class SqlEventRepository:
         self._s = session
 
     def _with_counts(self, viewer: UUID | None) -> Select:
-        going = (
-            select(func.count())
-            .where(EventRsvpRow.event_id == EventRow.id, EventRsvpRow.status == "going")
-            .correlate(EventRow)
-            .scalar_subquery()
-        )
-        interested = (
-            select(func.count())
-            .where(EventRsvpRow.event_id == EventRow.id, EventRsvpRow.status == "interested")
-            .correlate(EventRow)
-            .scalar_subquery()
-        )
-        mine = (
-            select(EventRsvpRow.status)
-            .where(EventRsvpRow.event_id == EventRow.id, EventRsvpRow.member_id == viewer)
-            .correlate(EventRow)
-            .scalar_subquery()
-            if viewer is not None
-            else func.cast(None, EventRsvpRow.status.type)
-        )
-        return select(
-            EventRow, going.label("going"), interested.label("interested"), mine.label("mine")
-        )
+        """The whole aggregate plus the counts. Used by every read of a single event."""
+        return select(EventRow, *_counts(viewer))
 
     @staticmethod
     def _to_event(row: EventRow, going: int, interested: int, mine: str | None) -> Event:
@@ -63,20 +88,28 @@ class SqlEventRepository:
             updated_at=row.updated_at,
         )
 
+    @staticmethod
+    def _to_summary(row: tuple) -> EventSummary:
+        *stored, going, interested, mine = row
+        return EventSummary(
+            **dict(zip(_SUMMARY_FIELDS, stored, strict=True)),
+            going_count=int(going or 0),
+            interested_count=int(interested or 0),
+            my_rsvp=RsvpStatus(mine) if mine else None,
+        )
+
     async def list(
         self, *, skip: int, limit: int, upcoming_only: bool, viewer_member_id: UUID | None
-    ) -> PageResult[Event]:
-        async def go() -> PageResult[Event]:
-            stmt = self._with_counts(viewer_member_id).where(EventRow.is_published.is_(True))
+    ) -> PageResult[EventSummary]:
+        async def go() -> PageResult[EventSummary]:
+            stmt = _summary_select(viewer_member_id).where(EventRow.is_published.is_(True))
             if upcoming_only:
                 stmt = stmt.where(func.coalesce(EventRow.ends_at, EventRow.starts_at) >= func.now())
             order = EventRow.starts_at.asc() if upcoming_only else EventRow.starts_at.desc()
             rows, total = await page_with_total(
                 self._s, stmt.order_by(order), skip=skip, limit=limit
             )
-            return PageResult(
-                items=[self._to_event(r, g, i, m) for r, g, i, m in rows], total=total
-            )
+            return PageResult(items=[self._to_summary(row) for row in rows], total=total)
 
         return await run_db("events.list", go, session=self._s)
 

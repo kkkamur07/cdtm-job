@@ -51,8 +51,13 @@ export default async function RootLayout({ children }: { children: React.ReactNo
     // restores the session. Opening the connections while the HTML is still
     // streaming takes the DNS, TCP and TLS handshakes off the critical path of
     // the first request to each.
-    preconnect(API_BASE_URL);
-    if (isSupabaseConfigured) preconnect(SUPABASE_URL);
+    //
+    // `anonymous` because that is the pool both actually use: the API client
+    // sets no `credentials`, so cross-origin it sends none, and the Supabase
+    // SDK is the same. Warming the credentialed pool instead would open a
+    // connection nothing then reaches for.
+    preconnect(API_BASE_URL, { crossOrigin: "anonymous" });
+    if (isSupabaseConfigured) preconnect(SUPABASE_URL, { crossOrigin: "anonymous" });
 
     // Passed down so the first client paint already knows whether somebody is
     // signed in, rather than flashing the signed-out header.
