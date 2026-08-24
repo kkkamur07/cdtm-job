@@ -44,6 +44,17 @@ class SelfProfileCreate(BaseModel):
     summary: str | None = Field(default=None, max_length=2000)
 
 
+class SelfProfileUpdate(SelfProfileCreate):
+    """A member editing their own profile after it exists.
+
+    The same fields as the create form, so one form serves both: an imported member who
+    signed in and a self-created one edit the exact same things. The account's e-mail and
+    avatar are still not on it (they come from Google), and the scrape's positions,
+    educations and skills are untouched: this writes only what a person maintains by hand.
+    The slug is fixed once set, so a renamed member keeps the URL others have shared.
+    """
+
+
 # ---- entry & intents -------------------------------------------------------------------
 
 

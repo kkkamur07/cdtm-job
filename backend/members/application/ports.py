@@ -75,6 +75,23 @@ class MemberRepository(Protocol):
     async def count(self) -> int: ...
     async def upsert_classes(self, classes: list[ClassImport]) -> int: ...
     async def upsert_member(self, payload: MemberImport) -> UUID: ...
+    async def update_profile(
+        self,
+        member_id: UUID,
+        *,
+        name: str,
+        first_name: str | None,
+        last_name: str | None,
+        headline: str | None,
+        summary: str | None,
+        location: str | None,
+        linkedin_url: str | None,
+        class_id: int,
+        class_label: str,
+        major: str | None,
+        current_company: str | None,
+        current_title: str | None,
+    ) -> None: ...
     async def set_email(self, member_id: UUID, email: str | None) -> None: ...
     async def find_id_by_slug(self, slug: str) -> UUID | None: ...
 

@@ -9,7 +9,11 @@ from uuid import UUID
 from backend.core.actor import Actor
 from backend.core.exceptions import ForbiddenError, NotFoundError
 from backend.core.page import PageResult
-from backend.members.application.commands import MemberImport, SelfProfileCreate
+from backend.members.application.commands import (
+    MemberImport,
+    SelfProfileCreate,
+    SelfProfileUpdate,
+)
 from backend.members.application.ports import (
     MemberFilters,
     MemberRepository,
@@ -112,6 +116,37 @@ class MemberService:
             current_title=command.current_title,
         )
         return await self._members.upsert_member(payload)
+
+    async def update_self_profile(self, member_id: UUID, command: SelfProfileUpdate) -> None:
+        """Update the profile fields a member maintains by hand, leaving the rest alone.
+
+        Only the scalar profile fields and the class membership are written. The scrape's
+        positions, educations and skills, the account's e-mail and avatar, and the slug are
+        deliberately untouched: an edit is not a re-import. The chosen class is resolved to
+        its label here for the same reason it is on create, so the card and the class filter
+        never disagree.
+        """
+        classes = {c.id: c for c in await self._members.list_classes()}
+        chosen = classes.get(command.class_id)
+        if chosen is None:
+            raise NotFoundError(f"class {command.class_id} not found")
+
+        first, _, last = command.name.strip().partition(" ")
+        await self._members.update_profile(
+            member_id,
+            name=command.name.strip(),
+            first_name=first or None,
+            last_name=last or None,
+            headline=command.headline,
+            summary=command.summary,
+            location=command.location,
+            linkedin_url=command.linkedin_url,
+            class_id=chosen.id,
+            class_label=chosen.label,
+            major=command.major,
+            current_company=command.current_company,
+            current_title=command.current_title,
+        )
 
     async def _unique_slug(self, base: str) -> str:
         """`base`, or `base-2`, `base-3`, ... : the first that no member holds.

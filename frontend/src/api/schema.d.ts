@@ -726,7 +726,15 @@ export interface paths {
     };
     /** My Member */
     get: operations["my_member_api_v1_members_me_get"];
-    put?: never;
+    /**
+     * Update My Profile
+     * @description Edit your own profile after it exists.
+     *
+     *     The same form as create, so an imported member who just signed in and a self-created
+     *     one maintain the same fields. ``MemberActorDep`` already requires a linked member, so
+     *     there is nothing to claim here: it only writes.
+     */
+    put: operations["update_my_profile_api_v1_members_me_put"];
     /**
      * Create My Profile
      * @description Claim a fresh member profile for a signed-in account no roster row matched.
@@ -3425,6 +3433,36 @@ export interface components {
      *     profile, so they cannot be spoofed to look like someone else.
      */
     SelfProfileCreate: {
+      /** Class Id */
+      class_id: number;
+      /** Current Company */
+      current_company?: string | null;
+      /** Current Title */
+      current_title?: string | null;
+      /** Headline */
+      headline?: string | null;
+      /** Linkedin Url */
+      linkedin_url?: string | null;
+      /** Location */
+      location?: string | null;
+      /** Major */
+      major: string;
+      /** Name */
+      name: string;
+      /** Summary */
+      summary?: string | null;
+    };
+    /**
+     * SelfProfileUpdate
+     * @description A member editing their own profile after it exists.
+     *
+     *     The same fields as the create form, so one form serves both: an imported member who
+     *     signed in and a self-created one edit the exact same things. The account's e-mail and
+     *     avatar are still not on it (they come from Google), and the scrape's positions,
+     *     educations and skills are untouched: this writes only what a person maintains by hand.
+     *     The slug is fixed once set, so a renamed member keeps the URL others have shared.
+     */
+    SelfProfileUpdate: {
       /** Class Id */
       class_id: number;
       /** Current Company */
@@ -8540,6 +8578,104 @@ export interface operations {
       cookie?: never;
     };
     requestBody?: never;
+    responses: {
+      /** @description Successful Response */
+      200: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["MemberProfilePublic"];
+        };
+      };
+      /** @description Not authenticated */
+      401: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Not allowed */
+      403: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Not found */
+      404: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Conflict */
+      409: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Payload too large */
+      413: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Validation error */
+      422: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Internal error */
+      500: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+      /** @description Storage unavailable */
+      503: {
+        headers: {
+          [name: string]: unknown;
+        };
+        content: {
+          "application/json": components["schemas"]["ErrorResponse"];
+        };
+      };
+    };
+  };
+  update_my_profile_api_v1_members_me_put: {
+    parameters: {
+      query?: never;
+      header?: {
+        authorization?: string | null;
+      };
+      path?: never;
+      cookie?: never;
+    };
+    requestBody: {
+      content: {
+        "application/json": components["schemas"]["SelfProfileUpdate"];
+      };
+    };
     responses: {
       /** @description Successful Response */
       200: {

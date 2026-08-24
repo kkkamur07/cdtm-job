@@ -6,6 +6,7 @@ from sqlalchemy import String, column, delete, func, or_, select, text, true, va
 from sqlalchemy.dialects.postgresql import insert as pg_insert
 from sqlalchemy.ext.asyncio import AsyncSession
 
+from backend.core.exceptions import NotFoundError
 from backend.core.page import PageResult
 from backend.core.sql import ilike_contains
 from backend.members.application.commands import ClassImport, MemberImport
@@ -329,6 +330,60 @@ class SqlMemberRepository:
             return row.id
 
         return await run_db("members.upsert", go, session=self._s)
+
+    async def update_profile(
+        self,
+        member_id: UUID,
+        *,
+        name: str,
+        first_name: str | None,
+        last_name: str | None,
+        headline: str | None,
+        summary: str | None,
+        location: str | None,
+        linkedin_url: str | None,
+        class_id: int,
+        class_label: str,
+        major: str | None,
+        current_company: str | None,
+        current_title: str | None,
+    ) -> None:
+        """Write the fields a member edits by hand, and nothing else.
+
+        Unlike ``upsert_member`` (the loader's path, which replaces positions, educations
+        and CA detail because it is re-importing a scrape), this touches only the scalar
+        profile columns and the class membership. A member editing their headline does not
+        lose their work history. The slug, avatar and e-mail are not arguments, so an edit
+        can never change the URL or the identity the Google account established.
+        """
+
+        async def go() -> None:
+            row = await self._s.get(MemberRow, member_id)
+            if row is None:
+                raise NotFoundError("member not found")
+            row.name = name
+            row.first_name = first_name
+            row.last_name = last_name
+            row.headline = headline
+            row.summary = summary
+            row.location = location
+            row.linkedin_url = linkedin_url
+            row.class_label = class_label
+            row.major = major
+            row.current_company = current_company
+            row.current_title = current_title
+            row.updated_at = utc_now()
+            await self._s.flush()
+
+            await self._s.execute(delete(MemberClassRow).where(MemberClassRow.member_id == row.id))
+            self._s.add(MemberClassRow(member_id=row.id, class_id=class_id))
+
+            await self._s.flush()
+            await self._s.refresh(row)
+            row.search_text = build_search_text(row)
+            await self._s.commit()
+
+        await run_db("members.update_profile", go, session=self._s)
 
     async def set_email(self, member_id: UUID, email: str | None) -> None:
         async def go() -> None:

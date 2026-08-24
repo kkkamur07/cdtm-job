@@ -42,6 +42,20 @@ export function useCreateMyProfile() {
     });
 }
 
+/** Edit your own profile in place. Same fields as create; the scrape data is left alone. */
+export function useUpdateMyProfile() {
+    const qc = useQueryClient();
+    return useMutation<MemberProfile, Error, SelfProfileCreate>({
+        mutationFn: (body: SelfProfileCreate) => unwrap(api.PUT("/api/v1/members/me", { body })),
+        onSuccess: (profile) => {
+            // The card text everywhere reads from the member row we just changed.
+            qc.setQueryData(qk.myMember, profile);
+            void qc.invalidateQueries({ queryKey: qk.myMember });
+            void qc.invalidateQueries({ queryKey: ["members"] });
+        },
+    });
+}
+
 /** Who am I, and am I bound to a member row yet. */
 export function useMe() {
     const gate = useAuthedQueryOptions();

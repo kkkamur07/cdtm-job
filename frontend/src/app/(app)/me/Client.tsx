@@ -7,14 +7,16 @@ import { useMe, useMyMember } from "@/api/hooks/me";
 import Panel from "@/components/Panel";
 import { useSession } from "@/auth/AuthProvider";
 import { useUrlState } from "@/lib/urlState";
+import EditProfileForm from "@/features/community/me/EditProfileForm";
 import EntryForm from "@/features/community/me/EntryForm";
 import IntentsForm from "@/features/community/me/IntentsForm";
 import IntrosList from "@/features/community/me/IntrosList";
 import SavedList from "@/features/community/me/SavedList";
 
-type Tab = "entry" | "intents" | "saved" | "intros";
+type Tab = "profile" | "entry" | "intents" | "saved" | "intros";
 
 const TABS: { key: Tab; label: string }[] = [
+    { key: "profile", label: "Profile" },
     { key: "entry", label: "Your entry" },
     { key: "intents", label: "Open to" },
     { key: "saved", label: "Saved people" },
@@ -142,6 +144,11 @@ export default function MeBody() {
                     {/* Each panel mounts only while it is the open one: these
                         are four separate forms and lists, and there is nothing
                         to gain from keeping the other three alive. */}
+                    {tab === item.key && item.key === "profile" && (
+                        <Panel title="Your profile">
+                            <EditProfileForm />
+                        </Panel>
+                    )}
                     {tab === item.key && item.key === "entry" && (
                         <Panel title="Your entry">
                             <EntryForm />
