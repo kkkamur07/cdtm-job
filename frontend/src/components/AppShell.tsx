@@ -73,6 +73,9 @@ export default function AppShell({
                         />
                         <span className="mr-2 ml-3 h-5 w-px bg-ink" />
                         <span className="text-[15px] font-semibold text-blue">Community</span>
+                        <span className="ml-2 rounded-full border border-blue/30 bg-blue-soft px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-blue">
+                            Beta
+                        </span>
                     </Link>
 
                     <nav aria-label="Sections" className="order-3 min-w-0 flex-1 basis-full sm:order-none sm:basis-auto">
