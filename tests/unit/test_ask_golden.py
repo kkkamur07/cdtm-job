@@ -7,6 +7,7 @@ See docs/ask.md.
 """
 
 import os
+import unicodedata
 from datetime import date
 
 import pytest
@@ -132,7 +133,18 @@ def _misses(actual: MemberQuery, expected: dict) -> list[str]:
     ]
 
 
-@pytest.mark.parametrize(("question", "expected"), GOLDEN, ids=[c[0] for c in GOLDEN])
+def _ascii_id(question: str) -> str:
+    """Test ids must be ASCII to begin with.
+
+    pytest escapes a non-ASCII id ("München" becomes "M\\xfcnchen") and escapes it again when
+    it collects a second time in the same process, which is what every mutmut child does.
+    The second spelling matches nothing on the command line, pytest exits with a usage error,
+    and mutmut records the crash as a kill. An id with no non-ASCII character survives both.
+    """
+    return unicodedata.normalize("NFKD", question).encode("ascii", "ignore").decode("ascii")
+
+
+@pytest.mark.parametrize(("question", "expected"), GOLDEN, ids=[_ascii_id(c[0]) for c in GOLDEN])
 async def test_the_keyword_translator_reads_the_golden_set(question: str, expected: dict) -> None:
     interpretation = await RulesQueryTranslator(**VOCABULARY).translate(question, viewer=VIEWER)
     assert not _misses(interpretation.filters, expected)

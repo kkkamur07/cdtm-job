@@ -10,6 +10,7 @@ from backend.identity.api.deps import ActorDep, PrincipalDep
 from backend.jobboard.api.deps import CompanyServiceDep
 from backend.jobboard.api.schemas import CompaniesPublic, CompanyPublic
 from backend.jobboard.application.commands import CompanyCreate, CompanyUpdate
+from backend.jobboard.application.company_service import COMPANIES_TTL_SECONDS
 from backend.jobboard.application.ports import CompanyFilters
 
 router = APIRouter(prefix="/companies", tags=["companies"])
@@ -19,11 +20,15 @@ router = APIRouter(prefix="/companies", tags=["companies"])
 async def list_companies(
     service: CompanyServiceDep,
     page: PageParamsDep,
+    response: Response,
     industry: Annotated[str | None, Query()] = None,
     is_cdtm_startup: Annotated[bool | None, Query()] = None,
     hq_city: Annotated[str | None, Query()] = None,
     q: Annotated[str | None, Query(max_length=128)] = None,
 ) -> CompaniesPublic:
+    # The only list on the platform with no auth dependency at all, so this one really is
+    # public and a shared cache may hold it.
+    response.headers["Cache-Control"] = f"public, max-age={COMPANIES_TTL_SECONDS}"
     result = await service.list_companies(
         skip=page.skip,
         limit=page.limit,

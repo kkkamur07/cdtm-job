@@ -68,6 +68,31 @@ class ViewerContext(BaseModel):
     today: date | None = None
 
 
+def interpretation_key(
+    *, board: str, question: str, language: str | None, viewer: ViewerContext
+) -> tuple:
+    """The cache key for one reading of one question, in the one spelling every board uses.
+
+    Reading a question is deterministic: the same words, from the same person, in the same
+    language, mean the same filter object, so an application service may hold the answer for
+    a few minutes instead of paying for it again. Everything the translator was given is in
+    the key. The question is folded to lower case with its whitespace collapsed, because a
+    trailing space and a capital letter are the same question. The viewer goes in whole
+    rather than field by field, so a field added to it later changes the key rather than
+    quietly letting two askers share a reading that is no longer the same. The board is in
+    the key so a housing reading can never be handed to the directory.
+
+    Only the mechanism lives here. Each board owns its own cache and its own TTL, the way
+    each board owns the filter object its questions become.
+    """
+    return (
+        board,
+        " ".join(question.split()).casefold(),
+        language or "",
+        tuple(sorted(viewer.model_dump(mode="json").items())),
+    )
+
+
 def validate_question(question: str) -> None:
     """Reject a question before it costs a model call."""
     length = len(question.strip())

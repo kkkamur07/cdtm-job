@@ -18,7 +18,7 @@ export default function AnnouncementList({
     limit?: number;
     initial?: { items: Announcement[]; total: number; unread: number };
 }) {
-    const announcements = useAnnouncements(initial);
+    const announcements = useAnnouncements(initial, limit ?? 50);
     const markRead = useMarkAnnouncementRead();
 
     if (announcements.isPending) return <LoadingBlock label="Loading announcements" rows={2} />;
@@ -31,11 +31,9 @@ export default function AnnouncementList({
         return <EmptyState title="No announcements yet" hint="CDTM posts here when there is news." />;
     }
 
-    const shown = limit ? items.slice(0, limit) : items;
-
     return (
         <ul className="grid gap-2.5">
-            {shown.map((item) => (
+            {items.map((item) => (
                 <AnnouncementCard
                     key={item.id}
                     item={item}
@@ -48,9 +46,12 @@ export default function AnnouncementList({
     );
 }
 
+/** Hoisted: a literal here is a new RegExp per announcement per render. */
+const WHITESPACE = /\s+/g;
+
 /** The opening of the body, on one line, for the collapsed card. */
 function preview(body: string): string {
-    return body.replace(/\s+/g, " ").trim().slice(0, 180);
+    return body.replace(WHITESPACE, " ").trim().slice(0, 180);
 }
 
 function AnnouncementCard({ item, onOpen }: { item: Announcement; onOpen: () => void }) {
@@ -58,7 +59,7 @@ function AnnouncementCard({ item, onOpen }: { item: Announcement; onOpen: () => 
 
     return (
         <li
-            className={`grid grid-cols-[6px_1fr] overflow-hidden rounded-2xl border bg-white ${
+            className={`cv-note grid grid-cols-[6px_1fr] overflow-hidden rounded-2xl border bg-white ${
                 unread ? "border-[color:var(--blue-25)]" : "border-line"
             }`}
         >

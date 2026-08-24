@@ -8,7 +8,7 @@ from sqlalchemy.ext.asyncio import AsyncSession
 
 from backend.core.mapping import dump_for_db
 from backend.core.page import PageResult
-from backend.core.sql import ilike_contains
+from backend.core.sql import ilike_contains, page_with_total
 from backend.housing.application.commands import HousingCreate, HousingUpdate
 from backend.housing.application.ports import HousingFilters
 from backend.housing.domain import HousingListing
@@ -98,14 +98,14 @@ class SqlHousingRepository:
     ) -> PageResult[HousingListing]:
         async def go() -> PageResult[HousingListing]:
             stmt = self._apply(select(HousingListingRow), filters)
-            total = await self._s.scalar(select(func.count()).select_from(stmt.subquery()))
-            rows = (
-                await self._s.scalars(
-                    stmt.order_by(HousingListingRow.created_at.desc()).offset(skip).limit(limit)
-                )
-            ).all()
+            rows, total = await page_with_total(
+                self._s,
+                stmt.order_by(HousingListingRow.created_at.desc()),
+                skip=skip,
+                limit=limit,
+            )
             return PageResult(
-                items=[HousingListing.model_validate(r) for r in rows], total=int(total or 0)
+                items=[HousingListing.model_validate(r[0]) for r in rows], total=total
             )
 
         return await run_db("housing.list", go, session=self._s)

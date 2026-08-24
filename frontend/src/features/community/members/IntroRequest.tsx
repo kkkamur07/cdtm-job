@@ -19,7 +19,7 @@ export default function IntroRequest({ memberId, name }: { memberId: string; nam
     const intros = useMyIntros();
     const request = useRequestIntro();
 
-    const existing = intros.data?.find(
+    const existing = intros.data?.items.find(
         (intro) => intro.request.target_member_id === memberId && intro.request.status === "pending",
     );
 

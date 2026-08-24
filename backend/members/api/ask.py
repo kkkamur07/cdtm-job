@@ -36,7 +36,11 @@ async def ask(
     answer = await service.ask(
         body.question, actor=actor, skip=body.skip, limit=body.limit, language=body.language
     )
-    public = AskAnswerPublic.model_validate(answer.model_dump())
+    # From the object, not from ``answer.model_dump()``: the dump serialised the whole
+    # answer, every member on it included, only for the validator to build it all again.
+    # ``XPublic`` subclasses the domain model, so reading the fields off the instance
+    # produces the same body for one pass instead of two.
+    public = AskAnswerPublic.model_validate(answer, from_attributes=True)
     if not answer.total:
         # No Sankey to draw for nobody, and it keeps the empty answer to one round trip.
         return public
@@ -44,7 +48,9 @@ async def ask(
     # ids come from a second pass over the same filters rather than from ``answer.members``.
     ids = await service.matching_member_ids(answer.interpretation)
     flow = await paths.flow(PathFilters(member_ids=tuple(ids)))
-    return public.model_copy(update={"flow": PathFlowPublic.model_validate(flow.model_dump())})
+    return public.model_copy(
+        update={"flow": PathFlowPublic.model_validate(flow, from_attributes=True)}
+    )
 
 
 @router.post("/explain", response_model=AskInterpretationPublic)
@@ -53,7 +59,7 @@ async def explain(
 ) -> AskInterpretationPublic:
     """Translate without searching, for the live "this is how I read it" preview."""
     interpretation = await service.explain(body.question, actor=actor, language=body.language)
-    return AskInterpretationPublic.model_validate(interpretation.model_dump())
+    return AskInterpretationPublic.model_validate(interpretation, from_attributes=True)
 
 
 @router.get("/schema", response_model=AskSchemaPublic)

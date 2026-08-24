@@ -54,7 +54,11 @@ export default function MemberAvatar({
                 alt=""
                 loading={priority ? "eager" : "lazy"}
                 fetchPriority={priority ? "high" : "auto"}
-                decoding="sync"
+                // Sync decoding blocks the frame until the image is decoded,
+                // which is what stops the first avatars flashing in. For the
+                // rest of a long list it serialises every decode onto the main
+                // thread and stalls the scroll, so they decode off it.
+                decoding={priority ? "sync" : "async"}
                 width={size === "sm" ? 160 : 400}
                 height={size === "sm" ? 160 : 400}
                 className={`h-full w-full object-cover ${className}`}

@@ -24,9 +24,23 @@ class SavedMemberPublic(BaseModel):
     member: NetworkMemberPublic
 
 
+class SavedMembersPublic(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+
+    items: list[SavedMemberPublic]
+    total: int
+
+
 class IntroRequestPublic(BaseModel):
     model_config = ConfigDict(extra="forbid")
 
     request: IntroRequest
     requester: NetworkMemberPublic
     target: NetworkMemberPublic
+
+
+class IntroRequestsPublic(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+
+    items: list[IntroRequestPublic]
+    total: int

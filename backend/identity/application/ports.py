@@ -12,6 +12,15 @@ class TokenVerifier(Protocol):
         """Return claims for a valid token or raise ``UnauthorizedError``."""
         ...
 
+    async def verify_async(self, token: str) -> TokenClaims:
+        """The same check, safe to call from the event loop.
+
+        Verification is CPU-bound for a shared-secret token and can be network-bound for an
+        asymmetric one (a cold JWKS fetch). The application always awaits this; the adapter
+        decides which of the two it is and whether a worker thread is warranted.
+        """
+        ...
+
 
 class AccountRepository(Protocol):
     async def get_by_auth_user_id(self, auth_user_id: UUID) -> Account | None: ...

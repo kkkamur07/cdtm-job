@@ -30,6 +30,7 @@ from _bootstrap import ensure_repo_on_path
 
 ensure_repo_on_path()
 
+from backend.core.cache import clear_all  # noqa: E402
 from backend.members.application.commands import ClassImport, MemberImport  # noqa: E402
 from backend.members.application.import_service import ImportService  # noqa: E402
 from backend.members.domain import CaDetail, Education, Position  # noqa: E402
@@ -213,6 +214,10 @@ async def run(
             compute_member_path,
         )
         print(f"paths: {await paths.recompute_all()} recomputed")
+    # This process is about to exit, so the cache it just emptied is its own; the line is
+    # here for the case where a load is driven from inside a running API process, and so
+    # that "the loader busts the read caches" is written down where the loader is.
+    clear_all()
     return 0
 
 

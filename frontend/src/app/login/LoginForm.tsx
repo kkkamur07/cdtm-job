@@ -87,13 +87,13 @@ export default function LoginForm() {
                                 />
                             </div>
 
-                            <MemberPicker
-                                selected={member}
-                                onSelect={(picked) => {
-                                    setMember(picked);
-                                    if (picked?.email) setEmail(picked.email);
-                                }}
-                            />
+                            {/* The picker hands back a slug, never an address:
+                                /auth/dev/members is unauthenticated and
+                                deliberately does not return e-mails. The slug
+                                is what POST /auth/dev/login identifies the
+                                member by, so nothing here has to fill the
+                                e-mail field in. */}
+                            <MemberPicker selected={member} onSelect={setMember} />
 
                             {error && (
                                 <p role="alert" className="text-[13px] text-red-700">

@@ -1,11 +1,13 @@
 "use client";
 
-import { useState } from "react";
+import { memo, useMemo, useState } from "react";
 
 import { useCompanies, useCreateCompany } from "@/api/hooks/jobboard";
 import Field, { FieldRow } from "@/components/Field";
 import { FormError } from "@/components/states";
 import { slugify } from "@/lib/format";
+
+const byName = (a: { name: string }, b: { name: string }) => a.name.localeCompare(b.name);
 
 /**
  * Pick the company the role is at, or add it if it is not there yet.
@@ -13,8 +15,13 @@ import { slugify } from "@/lib/format";
  * Creating a company is folded into this form rather than being a separate
  * page: the only reason anyone creates one is that they are halfway through
  * posting a job, and sending them away loses the draft.
+ *
+ * Memoized, because the form around it keeps every field in one state object
+ * and re-renders on each character of the job description. Without it, typing
+ * a description re-sorted a hundred companies with `localeCompare` and rebuilt
+ * a hundred `<option>`s per keystroke.
  */
-export default function CompanyPicker({
+function CompanyPicker({
     value,
     onChange,
 }: {
@@ -28,7 +35,8 @@ export default function CompanyPicker({
     const [website, setWebsite] = useState("");
     const [logo, setLogo] = useState("");
 
-    const options = [...(companies.data?.items ?? [])].sort((a, b) => a.name.localeCompare(b.name));
+    const items = companies.data?.items;
+    const options = useMemo(() => (items ?? []).toSorted(byName), [items]);
 
     const submitNew = () => {
         create.mutate(
@@ -140,3 +148,5 @@ export default function CompanyPicker({
         </Field>
     );
 }
+
+export default memo(CompanyPicker);

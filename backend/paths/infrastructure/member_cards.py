@@ -9,10 +9,9 @@ from __future__ import annotations
 
 from uuid import UUID
 
-from sqlalchemy import func, select
+from sqlalchemy import select
 from sqlalchemy.ext.asyncio import AsyncSession
 
-from backend.core.page import PageResult
 from backend.paths.domain import MemberCard
 from backend.paths.infrastructure._member_tables import members
 from infrastructure.repository import run_db
@@ -45,46 +44,42 @@ class SqlMemberCards:
             session=self._s,
         )
 
-    async def page(self, ids: list[UUID], *, skip: int, limit: int) -> PageResult[MemberCard]:
-        """One page of cards, alphabetical. The ids decide who, the page decides how many."""
-        if not ids:
-            return PageResult(items=[], total=0)
+    async def cards(self, ids: list[UUID]) -> list[MemberCard]:
+        """The cards for exactly these ids, alphabetical.
 
-        async def go() -> PageResult[MemberCard]:
-            total = await self._s.scalar(
-                select(func.count()).select_from(
-                    select(members.c.id).where(members.c.id.in_(ids)).subquery()
-                )
-            )
+        The page was already cut by ``member_ids_page``, in this same order, so the ``IN``
+        list here is the length of one page rather than the length of a career group. It
+        orders again because a set of ids has no order of its own coming back out of
+        Postgres, and the tie-break matches the one the page was cut with.
+        """
+        if not ids:
+            return []
+
+        async def go() -> list[MemberCard]:
             rows = (
                 await self._s.execute(
                     select(*_CARD_COLUMNS)
                     .where(members.c.id.in_(ids))
-                    .order_by(members.c.name)
-                    .offset(skip)
-                    .limit(limit)
+                    .order_by(members.c.name, members.c.id)
                 )
             ).all()
-            return PageResult(
-                items=[
-                    MemberCard(
-                        id=r[0],
-                        slug=r[1],
-                        name=r[2],
-                        headline=r[3],
-                        avatar_sm_url=r[4],
-                        avatar_lg_url=r[5],
-                        avatar_blur=r[6],
-                        location=r[7],
-                        class_label=r[8],
-                        major=r[9],
-                        company=r[10],
-                        title=r[11],
-                        is_ca=bool(r[12]),
-                    )
-                    for r in rows
-                ],
-                total=int(total or 0),
-            )
+            return [
+                MemberCard(
+                    id=r[0],
+                    slug=r[1],
+                    name=r[2],
+                    headline=r[3],
+                    avatar_sm_url=r[4],
+                    avatar_lg_url=r[5],
+                    avatar_blur=r[6],
+                    location=r[7],
+                    class_label=r[8],
+                    major=r[9],
+                    company=r[10],
+                    title=r[11],
+                    is_ca=bool(r[12]),
+                )
+                for r in rows
+            ]
 
         return await run_db("paths.member_cards", go, session=self._s)

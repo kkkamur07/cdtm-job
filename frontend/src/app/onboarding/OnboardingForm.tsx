@@ -86,7 +86,6 @@ export default function OnboardingForm() {
                 {account?.avatar_url ? (
                     // Plain <img>: the Google avatar is a remote URL, and the CSP allows
                     // googleusercontent as an image source. next/image is not needed here.
-                    // eslint-disable-next-line @next/next/no-img-element
                     <img
                         src={account.avatar_url}
                         alt=""

@@ -39,6 +39,9 @@ class SavedMemberRow(Base):
     __table_args__ = (
         PrimaryKeyConstraint("owner_member_id", "saved_member_id"),
         CheckConstraint("owner_member_id <> saved_member_id", name="not_self"),
+        # The other half of the pair: the primary key covers "who did I save", nothing
+        # covered the cascade that fires when the saved member is deleted.
+        Index("ix_saved_members_saved_member_id", "saved_member_id"),
     )
 
 

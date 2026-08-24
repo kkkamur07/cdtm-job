@@ -7,7 +7,7 @@ from fastapi import APIRouter, Query, Response, status
 
 from backend.core.api.pagination import PageParamsDep
 from backend.events.api.deps import EventServiceDep
-from backend.events.api.schemas import EventPublic, EventsPublic
+from backend.events.api.schemas import EventPublic, EventsPublic, EventSummaryPublic
 from backend.events.application.commands import EventCreate, EventUpdate, RsvpSet
 from backend.identity.api.deps import MemberActorDep, OptionalActorDep, PrincipalDep
 
@@ -26,7 +26,7 @@ async def list_events(
         skip=page.skip, limit=page.limit, upcoming_only=upcoming, actor=actor
     )
     return EventsPublic(
-        items=[EventPublic.model_validate(e) for e in result.items], total=result.total
+        items=[EventSummaryPublic.model_validate(e) for e in result.items], total=result.total
     )
 
 

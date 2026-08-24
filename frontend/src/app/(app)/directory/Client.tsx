@@ -74,7 +74,7 @@ export default function DirectoryClient() {
                             {q ? " matched" : " in the directory"}
                             {total > members.length ? ` · showing the first ${members.length}` : ""}.
                         </p>
-                        <ul className="card overflow-hidden [content-visibility:auto]">
+                        <ul className="card overflow-hidden">
                             {members.map((member) => (
                                 <DirectoryRow key={member.id} member={member} />
                             ))}

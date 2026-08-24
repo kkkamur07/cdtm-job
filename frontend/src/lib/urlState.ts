@@ -1,7 +1,7 @@
 "use client";
 
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
-import { useCallback } from "react";
+import { startTransition, useCallback } from "react";
 
 /**
  * Screen state that belongs in the address bar.
@@ -14,6 +14,12 @@ import { useCallback } from "react";
  *
  * Empty and null values drop the key entirely, which keeps the default state
  * at a clean URL instead of one carrying `?sort=newest&q=`.
+ *
+ * The write is a transition. A `replace` on an app-router URL re-runs the
+ * server component for that route, and without a transition React treats that
+ * as urgent work: the click that ticked the checkbox is held until the payload
+ * comes back. Inside one, the tick paints immediately and the new URL arrives
+ * when it arrives.
  */
 export function useUrlState() {
     const router = useRouter();
@@ -33,7 +39,9 @@ export function useUrlState() {
                 }
             }
             const query = next.toString();
-            router.replace(query ? `${pathname}?${query}` : pathname, { scroll: false });
+            startTransition(() => {
+                router.replace(query ? `${pathname}?${query}` : pathname, { scroll: false });
+            });
         },
         [params, pathname, router],
     );

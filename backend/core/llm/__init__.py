@@ -7,6 +7,7 @@ never reaches the database.
 
 from __future__ import annotations
 
+from backend.core.llm._http import aclose_shared_client
 from backend.core.llm.anthropic import AnthropicCompleter
 from backend.core.llm.openai_compatible import OpenAiCompatibleCompleter
 from backend.core.llm.ports import StructuredCompleter
@@ -17,6 +18,7 @@ __all__ = [
     "AnthropicCompleter",
     "OpenAiCompatibleCompleter",
     "StructuredCompleter",
+    "aclose_shared_client",
     "get_structured_completer",
     "strict_json_schema",
 ]

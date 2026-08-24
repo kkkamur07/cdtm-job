@@ -536,7 +536,10 @@ async def run() -> int:
                 .options(
                     selectinload(MemberRow.entry),
                     selectinload(MemberRow.intents),
+                    # positions and educations are lazy="raise" on the model and
+                    # build_search_text reads both, so this pass asks for them by name.
                     selectinload(MemberRow.positions),
+                    selectinload(MemberRow.educations),
                 )
                 .order_by(MemberRow.name)
             )

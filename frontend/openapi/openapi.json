@@ -2348,6 +2348,123 @@
         "title": "EventPublic",
         "type": "object"
       },
+      "EventSummaryPublic": {
+        "additionalProperties": false,
+        "description": "An event as a calendar row: when, where, the counts, and your own answer.\n\n``description`` is the only long field on the aggregate and no row draws it, so the\nlist leaves it out; ``GET /events/{event_id}`` is where it is read. Copied from\n``Event`` rather than inherited, because pydantic cannot take a field back off a\nparent. ``tests/unit/test_list_summary_dtos.py`` pins the two field sets together.",
+        "properties": {
+          "created_at": {
+            "format": "date-time",
+            "title": "Created At",
+            "type": "string"
+          },
+          "created_by_member_id": {
+            "anyOf": [
+              {
+                "format": "uuid",
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Created By Member Id"
+          },
+          "ends_at": {
+            "anyOf": [
+              {
+                "format": "date-time",
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Ends At"
+          },
+          "going_count": {
+            "default": 0,
+            "title": "Going Count",
+            "type": "integer"
+          },
+          "id": {
+            "format": "uuid",
+            "title": "Id",
+            "type": "string"
+          },
+          "interested_count": {
+            "default": 0,
+            "title": "Interested Count",
+            "type": "integer"
+          },
+          "is_published": {
+            "default": true,
+            "title": "Is Published",
+            "type": "boolean"
+          },
+          "kind": {
+            "$ref": "#/components/schemas/EventKind",
+            "default": "community"
+          },
+          "location": {
+            "anyOf": [
+              {
+                "maxLength": 200,
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Location"
+          },
+          "my_rsvp": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/RsvpStatus"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "starts_at": {
+            "format": "date-time",
+            "title": "Starts At",
+            "type": "string"
+          },
+          "title": {
+            "maxLength": 200,
+            "minLength": 1,
+            "title": "Title",
+            "type": "string"
+          },
+          "updated_at": {
+            "format": "date-time",
+            "title": "Updated At",
+            "type": "string"
+          },
+          "url": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Url"
+          }
+        },
+        "required": [
+          "id",
+          "title",
+          "starts_at",
+          "created_at",
+          "updated_at"
+        ],
+        "title": "EventSummaryPublic",
+        "type": "object"
+      },
       "EventUpdate": {
         "additionalProperties": false,
         "properties": {
@@ -2453,7 +2570,7 @@
         "properties": {
           "items": {
             "items": {
-              "$ref": "#/components/schemas/EventPublic"
+              "$ref": "#/components/schemas/EventSummaryPublic"
             },
             "title": "Items",
             "type": "array"
@@ -2509,13 +2626,14 @@
       },
       "HousingAskAnswerPublic": {
         "additionalProperties": false,
+        "description": "An answer is a list of cards, so it ships the same summary the board does.",
         "properties": {
           "interpretation": {
             "$ref": "#/components/schemas/HousingAskInterpretation"
           },
           "listings": {
             "items": {
-              "$ref": "#/components/schemas/HousingListing"
+              "$ref": "#/components/schemas/HousingListingSummaryPublic"
             },
             "title": "Listings",
             "type": "array"
@@ -2790,173 +2908,6 @@
         "title": "HousingKind",
         "type": "string"
       },
-      "HousingListing": {
-        "additionalProperties": false,
-        "properties": {
-          "area": {
-            "anyOf": [
-              {
-                "maxLength": 120,
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Area"
-          },
-          "available_from": {
-            "anyOf": [
-              {
-                "format": "date",
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Available From"
-          },
-          "available_until": {
-            "anyOf": [
-              {
-                "format": "date",
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Available Until"
-          },
-          "city": {
-            "maxLength": 120,
-            "minLength": 1,
-            "title": "City",
-            "type": "string"
-          },
-          "created_at": {
-            "format": "date-time",
-            "title": "Created At",
-            "type": "string"
-          },
-          "description": {
-            "anyOf": [
-              {
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Description"
-          },
-          "expires_at": {
-            "anyOf": [
-              {
-                "format": "date-time",
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Expires At"
-          },
-          "furnished": {
-            "anyOf": [
-              {
-                "type": "boolean"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Furnished"
-          },
-          "id": {
-            "format": "uuid",
-            "title": "Id",
-            "type": "string"
-          },
-          "kind": {
-            "$ref": "#/components/schemas/HousingKind"
-          },
-          "member_id": {
-            "format": "uuid",
-            "title": "Member Id",
-            "type": "string"
-          },
-          "photo_urls": {
-            "items": {
-              "type": "string"
-            },
-            "title": "Photo Urls",
-            "type": "array"
-          },
-          "price_eur": {
-            "anyOf": [
-              {
-                "minimum": 0.0,
-                "type": "integer"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Price Eur"
-          },
-          "rooms": {
-            "anyOf": [
-              {
-                "pattern": "^(?!^[-+.]*$)[+-]?0*\\d*\\.?\\d*$",
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Rooms"
-          },
-          "status": {
-            "$ref": "#/components/schemas/HousingStatus",
-            "default": "open"
-          },
-          "title": {
-            "maxLength": 200,
-            "minLength": 1,
-            "title": "Title",
-            "type": "string"
-          },
-          "updated_at": {
-            "format": "date-time",
-            "title": "Updated At",
-            "type": "string"
-          },
-          "view_count": {
-            "anyOf": [
-              {
-                "type": "integer"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "View Count"
-          }
-        },
-        "required": [
-          "id",
-          "member_id",
-          "kind",
-          "title",
-          "city",
-          "created_at",
-          "updated_at"
-        ],
-        "title": "HousingListing",
-        "type": "object"
-      },
       "HousingListingPublic": {
         "additionalProperties": false,
         "description": "A listing. ``view_count`` is filled in for the owner and an admin, null for others.",
@@ -3125,12 +3076,169 @@
         "title": "HousingListingPublic",
         "type": "object"
       },
+      "HousingListingSummaryPublic": {
+        "additionalProperties": false,
+        "description": "A listing as a board card: the photo, the price, the dates, and no free text.\n\n``description`` has no length limit on the aggregate and is capped at twenty thousand\ncharacters on the way in, so a hundred listings carried a page of prose per card that\nthe card never draws. Opening a listing answers with ``HousingListingPublic``, which is\nwhere the description is read.\n\nCopied from ``HousingListing`` rather than inherited: pydantic cannot take a field back\noff a parent. ``tests/unit/test_list_summary_dtos.py`` pins the two field sets together.",
+        "properties": {
+          "area": {
+            "anyOf": [
+              {
+                "maxLength": 120,
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Area"
+          },
+          "available_from": {
+            "anyOf": [
+              {
+                "format": "date",
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Available From"
+          },
+          "available_until": {
+            "anyOf": [
+              {
+                "format": "date",
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Available Until"
+          },
+          "city": {
+            "maxLength": 120,
+            "minLength": 1,
+            "title": "City",
+            "type": "string"
+          },
+          "created_at": {
+            "format": "date-time",
+            "title": "Created At",
+            "type": "string"
+          },
+          "expires_at": {
+            "anyOf": [
+              {
+                "format": "date-time",
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Expires At"
+          },
+          "furnished": {
+            "anyOf": [
+              {
+                "type": "boolean"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Furnished"
+          },
+          "id": {
+            "format": "uuid",
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "$ref": "#/components/schemas/HousingKind"
+          },
+          "member_id": {
+            "format": "uuid",
+            "title": "Member Id",
+            "type": "string"
+          },
+          "photo_urls": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Photo Urls",
+            "type": "array"
+          },
+          "price_eur": {
+            "anyOf": [
+              {
+                "minimum": 0.0,
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Price Eur"
+          },
+          "rooms": {
+            "anyOf": [
+              {
+                "pattern": "^(?!^[-+.]*$)[+-]?0*\\d*\\.?\\d*$",
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Rooms"
+          },
+          "status": {
+            "$ref": "#/components/schemas/HousingStatus",
+            "default": "open"
+          },
+          "title": {
+            "maxLength": 200,
+            "minLength": 1,
+            "title": "Title",
+            "type": "string"
+          },
+          "updated_at": {
+            "format": "date-time",
+            "title": "Updated At",
+            "type": "string"
+          },
+          "view_count": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "View Count"
+          }
+        },
+        "required": [
+          "id",
+          "member_id",
+          "kind",
+          "title",
+          "city",
+          "created_at",
+          "updated_at"
+        ],
+        "title": "HousingListingSummaryPublic",
+        "type": "object"
+      },
       "HousingListingsPublic": {
         "additionalProperties": false,
         "properties": {
           "items": {
             "items": {
-              "$ref": "#/components/schemas/HousingListingPublic"
+              "$ref": "#/components/schemas/HousingListingSummaryPublic"
             },
             "title": "Items",
             "type": "array"
@@ -3705,6 +3813,28 @@
         "title": "IntroRequestPublic",
         "type": "object"
       },
+      "IntroRequestsPublic": {
+        "additionalProperties": false,
+        "properties": {
+          "items": {
+            "items": {
+              "$ref": "#/components/schemas/IntroRequestPublic"
+            },
+            "title": "Items",
+            "type": "array"
+          },
+          "total": {
+            "title": "Total",
+            "type": "integer"
+          }
+        },
+        "required": [
+          "items",
+          "total"
+        ],
+        "title": "IntroRequestsPublic",
+        "type": "object"
+      },
       "IntroRespond": {
         "additionalProperties": false,
         "properties": {
@@ -3728,343 +3858,16 @@
         "title": "IntroStatus",
         "type": "string"
       },
-      "Job": {
-        "additionalProperties": false,
-        "description": "A job opening posted by a company, optionally on behalf of a community member.",
-        "properties": {
-          "application_email": {
-            "anyOf": [
-              {
-                "maxLength": 255,
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Application Email"
-          },
-          "application_url": {
-            "anyOf": [
-              {
-                "format": "uri",
-                "maxLength": 2083,
-                "minLength": 1,
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Application Url"
-          },
-          "city": {
-            "anyOf": [
-              {
-                "maxLength": 128,
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "City"
-          },
-          "company_id": {
-            "format": "uuid",
-            "title": "Company Id",
-            "type": "string"
-          },
-          "compensation_disclosure": {
-            "$ref": "#/components/schemas/CompensationDisclosure",
-            "default": "undisclosed"
-          },
-          "country": {
-            "anyOf": [
-              {
-                "maxLength": 128,
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Country"
-          },
-          "created_at": {
-            "format": "date-time",
-            "title": "Created At",
-            "type": "string"
-          },
-          "description": {
-            "minLength": 1,
-            "title": "Description",
-            "type": "string"
-          },
-          "education_level": {
-            "anyOf": [
-              {
-                "maxLength": 128,
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Education Level"
-          },
-          "employment_type": {
-            "$ref": "#/components/schemas/EmploymentType"
-          },
-          "experience_level": {
-            "$ref": "#/components/schemas/ExperienceLevel"
-          },
-          "id": {
-            "format": "uuid",
-            "title": "Id",
-            "type": "string"
-          },
-          "image_url": {
-            "anyOf": [
-              {
-                "format": "uri",
-                "maxLength": 2083,
-                "minLength": 1,
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Image Url"
-          },
-          "languages": {
-            "items": {
-              "type": "string"
-            },
-            "title": "Languages",
-            "type": "array"
-          },
-          "location_display": {
-            "anyOf": [
-              {
-                "maxLength": 255,
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Location Display"
-          },
-          "must_have_skills": {
-            "items": {
-              "type": "string"
-            },
-            "title": "Must Have Skills",
-            "type": "array"
-          },
-          "nice_to_have_skills": {
-            "items": {
-              "type": "string"
-            },
-            "title": "Nice To Have Skills",
-            "type": "array"
-          },
-          "posted_by_member_id": {
-            "anyOf": [
-              {
-                "format": "uuid",
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Posted By Member Id"
-          },
-          "published_at": {
-            "anyOf": [
-              {
-                "format": "date-time",
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Published At"
-          },
-          "region": {
-            "anyOf": [
-              {
-                "maxLength": 128,
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Region"
-          },
-          "relocation_assistance": {
-            "anyOf": [
-              {
-                "type": "boolean"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Relocation Assistance"
-          },
-          "remote_eligibility_note": {
-            "anyOf": [
-              {
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Remote Eligibility Note"
-          },
-          "salary_currency": {
-            "anyOf": [
-              {
-                "maxLength": 3,
-                "minLength": 3,
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Salary Currency"
-          },
-          "salary_max": {
-            "anyOf": [
-              {
-                "pattern": "^(?!^[-+.]*$)[+-]?0*\\d*\\.?\\d*$",
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Salary Max"
-          },
-          "salary_min": {
-            "anyOf": [
-              {
-                "pattern": "^(?!^[-+.]*$)[+-]?0*\\d*\\.?\\d*$",
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Salary Min"
-          },
-          "salary_period": {
-            "anyOf": [
-              {
-                "$ref": "#/components/schemas/SalaryPeriod"
-              },
-              {
-                "type": "null"
-              }
-            ]
-          },
-          "slug": {
-            "anyOf": [
-              {
-                "maxLength": 128,
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Slug"
-          },
-          "status": {
-            "$ref": "#/components/schemas/JobStatus",
-            "default": "draft"
-          },
-          "summary": {
-            "anyOf": [
-              {
-                "maxLength": 1024,
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Summary"
-          },
-          "title": {
-            "maxLength": 255,
-            "minLength": 1,
-            "title": "Title",
-            "type": "string"
-          },
-          "updated_at": {
-            "format": "date-time",
-            "title": "Updated At",
-            "type": "string"
-          },
-          "valid_through": {
-            "anyOf": [
-              {
-                "format": "date",
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Valid Through"
-          },
-          "visa_sponsorship": {
-            "anyOf": [
-              {
-                "type": "boolean"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Visa Sponsorship"
-          },
-          "work_arrangement": {
-            "$ref": "#/components/schemas/WorkArrangement"
-          }
-        },
-        "required": [
-          "id",
-          "company_id",
-          "title",
-          "description",
-          "employment_type",
-          "work_arrangement",
-          "experience_level",
-          "created_at",
-          "updated_at"
-        ],
-        "title": "Job",
-        "type": "object"
-      },
       "JobAskAnswerPublic": {
         "additionalProperties": false,
+        "description": "An answer is a list of rows, so it ships the same summary the board does.",
         "properties": {
           "interpretation": {
             "$ref": "#/components/schemas/JobAskInterpretation"
           },
           "jobs": {
             "items": {
-              "$ref": "#/components/schemas/Job"
+              "$ref": "#/components/schemas/JobSummaryPublic"
             },
             "title": "Jobs",
             "type": "array"
@@ -5107,6 +4910,307 @@
         "title": "JobStatus",
         "type": "string"
       },
+      "JobSummaryPublic": {
+        "additionalProperties": false,
+        "description": "A job as a list row: everything the board draws, and none of the long text.\n\n``JobPublic`` is the whole aggregate, and one of its fields (``description``) may be\ntwenty thousand characters. A hundred of those on ``GET /jobs/`` is a megabyte of JSON\nnothing on the page reads: the rows draw a title, a company, three badges, a location,\na salary and a date. The three skill and language lists go the same way. Opening a\nlisting still answers with the whole aggregate, which is where the description belongs.\n\nThe fields below are copied from ``Job`` rather than inherited, because pydantic has no\nway to take a field back off a parent. ``tests/unit/test_list_summary_dtos.py`` pins the\ntwo field sets against each other, so a field added to the aggregate cannot go missing\nfrom the board without a test saying so.",
+        "properties": {
+          "application_email": {
+            "anyOf": [
+              {
+                "maxLength": 255,
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Application Email"
+          },
+          "application_url": {
+            "anyOf": [
+              {
+                "format": "uri",
+                "maxLength": 2083,
+                "minLength": 1,
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Application Url"
+          },
+          "city": {
+            "anyOf": [
+              {
+                "maxLength": 128,
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "City"
+          },
+          "company_id": {
+            "format": "uuid",
+            "title": "Company Id",
+            "type": "string"
+          },
+          "compensation_disclosure": {
+            "$ref": "#/components/schemas/CompensationDisclosure",
+            "default": "undisclosed"
+          },
+          "country": {
+            "anyOf": [
+              {
+                "maxLength": 128,
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Country"
+          },
+          "created_at": {
+            "format": "date-time",
+            "title": "Created At",
+            "type": "string"
+          },
+          "education_level": {
+            "anyOf": [
+              {
+                "maxLength": 128,
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Education Level"
+          },
+          "employment_type": {
+            "$ref": "#/components/schemas/EmploymentType"
+          },
+          "experience_level": {
+            "$ref": "#/components/schemas/ExperienceLevel"
+          },
+          "id": {
+            "format": "uuid",
+            "title": "Id",
+            "type": "string"
+          },
+          "image_url": {
+            "anyOf": [
+              {
+                "format": "uri",
+                "maxLength": 2083,
+                "minLength": 1,
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Image Url"
+          },
+          "location_display": {
+            "anyOf": [
+              {
+                "maxLength": 255,
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Location Display"
+          },
+          "posted_by_member_id": {
+            "anyOf": [
+              {
+                "format": "uuid",
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Posted By Member Id"
+          },
+          "published_at": {
+            "anyOf": [
+              {
+                "format": "date-time",
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Published At"
+          },
+          "region": {
+            "anyOf": [
+              {
+                "maxLength": 128,
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Region"
+          },
+          "relocation_assistance": {
+            "anyOf": [
+              {
+                "type": "boolean"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Relocation Assistance"
+          },
+          "remote_eligibility_note": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Remote Eligibility Note"
+          },
+          "salary_currency": {
+            "anyOf": [
+              {
+                "maxLength": 3,
+                "minLength": 3,
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Salary Currency"
+          },
+          "salary_max": {
+            "anyOf": [
+              {
+                "pattern": "^(?!^[-+.]*$)[+-]?0*\\d*\\.?\\d*$",
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Salary Max"
+          },
+          "salary_min": {
+            "anyOf": [
+              {
+                "pattern": "^(?!^[-+.]*$)[+-]?0*\\d*\\.?\\d*$",
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Salary Min"
+          },
+          "salary_period": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/SalaryPeriod"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "slug": {
+            "anyOf": [
+              {
+                "maxLength": 128,
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Slug"
+          },
+          "status": {
+            "$ref": "#/components/schemas/JobStatus",
+            "default": "draft"
+          },
+          "summary": {
+            "anyOf": [
+              {
+                "maxLength": 1024,
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Summary"
+          },
+          "title": {
+            "maxLength": 255,
+            "minLength": 1,
+            "title": "Title",
+            "type": "string"
+          },
+          "updated_at": {
+            "format": "date-time",
+            "title": "Updated At",
+            "type": "string"
+          },
+          "valid_through": {
+            "anyOf": [
+              {
+                "format": "date",
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Valid Through"
+          },
+          "visa_sponsorship": {
+            "anyOf": [
+              {
+                "type": "boolean"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Visa Sponsorship"
+          },
+          "work_arrangement": {
+            "$ref": "#/components/schemas/WorkArrangement"
+          }
+        },
+        "required": [
+          "id",
+          "company_id",
+          "title",
+          "employment_type",
+          "work_arrangement",
+          "experience_level",
+          "created_at",
+          "updated_at"
+        ],
+        "title": "JobSummaryPublic",
+        "type": "object"
+      },
       "JobUpdate": {
         "additionalProperties": false,
         "properties": {
@@ -5472,7 +5576,7 @@
         "properties": {
           "items": {
             "items": {
-              "$ref": "#/components/schemas/JobPublic"
+              "$ref": "#/components/schemas/JobSummaryPublic"
             },
             "title": "Items",
             "type": "array"
@@ -7572,6 +7676,28 @@
         "title": "SavedMemberPublic",
         "type": "object"
       },
+      "SavedMembersPublic": {
+        "additionalProperties": false,
+        "properties": {
+          "items": {
+            "items": {
+              "$ref": "#/components/schemas/SavedMemberPublic"
+            },
+            "title": "Items",
+            "type": "array"
+          },
+          "total": {
+            "title": "Total",
+            "type": "integer"
+          }
+        },
+        "required": [
+          "items",
+          "total"
+        ],
+        "title": "SavedMembersPublic",
+        "type": "object"
+      },
       "SeekerCreate": {
         "additionalProperties": false,
         "properties": {
@@ -8488,6 +8614,21 @@
         "title": "SetAdminRequest",
         "type": "object"
       },
+      "UnreadCountPublic": {
+        "additionalProperties": false,
+        "description": "Just the badge. The header needs the number without the first page of the board.",
+        "properties": {
+          "unread": {
+            "title": "Unread",
+            "type": "integer"
+          }
+        },
+        "required": [
+          "unread"
+        ],
+        "title": "UnreadCountPublic",
+        "type": "object"
+      },
       "Visibility": {
         "enum": [
           "members",
@@ -8778,6 +8919,126 @@
           }
         },
         "summary": "Create Announcement",
+        "tags": [
+          "announcements"
+        ]
+      }
+    },
+    "/api/v1/announcements/unread-count": {
+      "get": {
+        "description": "The badge on its own, one statement, no rows.\n\nDeclared before ``/{announcement_id}`` because FastAPI matches routes in order and a\nUUID path parameter would otherwise swallow this literal.",
+        "operationId": "unread_count_api_v1_announcements_unread_count_get",
+        "parameters": [
+          {
+            "in": "header",
+            "name": "authorization",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Authorization"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/UnreadCountPublic"
+                }
+              }
+            },
+            "description": "Successful Response"
+          },
+          "401": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            },
+            "description": "Not authenticated"
+          },
+          "403": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            },
+            "description": "Not allowed"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            },
+            "description": "Not found"
+          },
+          "409": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            },
+            "description": "Conflict"
+          },
+          "413": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            },
+            "description": "Payload too large"
+          },
+          "422": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            },
+            "description": "Validation error"
+          },
+          "500": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            },
+            "description": "Internal error"
+          },
+          "503": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            },
+            "description": "Storage unavailable"
+          }
+        },
+        "summary": "Unread Count",
         "tags": [
           "announcements"
         ]
@@ -15344,6 +15605,7 @@
             "schema": {
               "description": "repeatable company name; one member is returned for each",
               "items": {
+                "maxLength": 128,
                 "type": "string"
               },
               "maxItems": 50,
@@ -15468,6 +15730,7 @@
     },
     "/api/v1/members/facets": {
       "get": {
+        "description": "The directory's filter bar: every class, every major, and the roster size.\n\n``private`` rather than ``public``: the route is behind a bearer token, so no shared\ncache may keep a copy, and the answer is the same for every caller anyway.",
         "operationId": "facets_api_v1_members_facets_get",
         "parameters": [
           {
@@ -16734,8 +16997,32 @@
     },
     "/api/v1/network/intros": {
       "get": {
+        "description": "Both directions, paged. Unbounded before, for the same reason ``/saved`` was.",
         "operationId": "my_intros_api_v1_network_intros_get",
         "parameters": [
+          {
+            "in": "query",
+            "name": "skip",
+            "required": false,
+            "schema": {
+              "default": 0,
+              "minimum": 0,
+              "title": "Skip",
+              "type": "integer"
+            }
+          },
+          {
+            "in": "query",
+            "name": "limit",
+            "required": false,
+            "schema": {
+              "default": 20,
+              "maximum": 100,
+              "minimum": 1,
+              "title": "Limit",
+              "type": "integer"
+            }
+          },
           {
             "in": "header",
             "name": "authorization",
@@ -16758,11 +17045,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "items": {
-                    "$ref": "#/components/schemas/IntroRequestPublic"
-                  },
-                  "title": "Response My Intros Api V1 Network Intros Get",
-                  "type": "array"
+                  "$ref": "#/components/schemas/IntroRequestsPublic"
                 }
               }
             },
@@ -17123,8 +17406,32 @@
     },
     "/api/v1/network/saved": {
       "get": {
+        "description": "A shortlist is short, but \"short\" is not a contract.\n\nThis used to answer a bare list with no skip and no limit, so the size of the body was\nwhatever the member had saved. It pages like every other list now, and the skip and the\nlimit reach the query rather than the response.",
         "operationId": "my_saved_api_v1_network_saved_get",
         "parameters": [
+          {
+            "in": "query",
+            "name": "skip",
+            "required": false,
+            "schema": {
+              "default": 0,
+              "minimum": 0,
+              "title": "Skip",
+              "type": "integer"
+            }
+          },
+          {
+            "in": "query",
+            "name": "limit",
+            "required": false,
+            "schema": {
+              "default": 20,
+              "maximum": 100,
+              "minimum": 1,
+              "title": "Limit",
+              "type": "integer"
+            }
+          },
           {
             "in": "header",
             "name": "authorization",
@@ -17147,11 +17454,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "items": {
-                    "$ref": "#/components/schemas/SavedMemberPublic"
-                  },
-                  "title": "Response My Saved Api V1 Network Saved Get",
-                  "type": "array"
+                  "$ref": "#/components/schemas/SavedMembersPublic"
                 }
               }
             },
@@ -17531,6 +17834,7 @@
             "schema": {
               "anyOf": [
                 {
+                  "maxLength": 120,
                   "type": "string"
                 },
                 {
@@ -17547,6 +17851,7 @@
             "schema": {
               "anyOf": [
                 {
+                  "maxLength": 120,
                   "type": "string"
                 },
                 {
@@ -17563,6 +17868,7 @@
             "schema": {
               "anyOf": [
                 {
+                  "maxLength": 120,
                   "type": "string"
                 },
                 {
@@ -17853,6 +18159,7 @@
             "schema": {
               "anyOf": [
                 {
+                  "maxLength": 120,
                   "type": "string"
                 },
                 {
@@ -17869,6 +18176,7 @@
             "schema": {
               "anyOf": [
                 {
+                  "maxLength": 120,
                   "type": "string"
                 },
                 {
@@ -17885,6 +18193,7 @@
             "schema": {
               "anyOf": [
                 {
+                  "maxLength": 120,
                   "type": "string"
                 },
                 {

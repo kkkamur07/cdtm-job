@@ -229,6 +229,25 @@ Through the API:
 curl -s http://localhost:8000/health | python -m json.tool
 ```
 
+### What the API is actually spending time on
+
+`pg_stat_statements` groups every execution by query shape, which is the only way to see
+that one endpoint's filter is a third of the database's time. Enable it from the Supabase
+dashboard (Database → Extensions), not from a migration: the extension belongs to the
+database instance rather than to this schema, `CREATE EXTENSION` needs a superuser Supabase
+does not hand out, and a migration that tried would fail on every local clone.
+
+```sql
+-- slowest query shapes by total time
+select calls, round(total_exec_time) as total_ms, round(mean_exec_time, 1) as mean_ms,
+       left(query, 120) as query
+from pg_stat_statements
+order by total_exec_time desc
+limit 20;
+
+select pg_stat_statements_reset();   -- before a measurement run
+```
+
 ## Troubleshooting
 
 ### Alembic cannot find a revision, or imports fail
@@ -243,9 +262,10 @@ PYTHONPATH=. python -c "from backend.core.app import create_app; create_app()"
 
 ### `prepared statement "__asyncpg_stmt_N__" already exists`
 
-You are connected through the transaction pooler and the URL did not match
-`_is_pooler_url`. Use the direct connection, or make the URL recognisable (port 6543, or a
-`pooler.supabase.com` host).
+You are connected through the transaction pooler and `_is_transaction_pooled` did not say
+so. It reads the port: 6543 is Supavisor in transaction mode, 5432 on the same host is
+session mode, where prepared statements are safe and are kept. Use port 6543 in the URL, or
+set `DATABASE_POOLER_TRANSACTION_MODE=true` if something in front of the pooler hides it.
 
 ### `type "gin_trgm_ops" does not exist`
 

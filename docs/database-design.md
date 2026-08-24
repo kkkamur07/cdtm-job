@@ -289,10 +289,9 @@ here that cannot be scraped.
 | `note` | `text` | Up to 280 characters by the write model. |
 | `updated_at` | `timestamptz` NOT NULL | |
 
-Three partial indexes exist, on `cofounding`, `mentoring` and `hiring`, each with
-`postgresql_where=text("<column>")`. A partial index on a boolean stores only the `true` rows,
-which is the entire query ("who is open to co-founding") and a small fraction of the table.
-The other three flags have no index yet because no UI filters on them by default.
+All six flags have a partial index, each with `postgresql_where=text("<column>")`. A partial
+index on a boolean stores only the `true` rows, which is the entire query ("who is open to
+co-founding") and a small fraction of the table.
 
 Six columns rather than a `text[]` of intent names, because each is a separate question with a
 separate answer and a partial index each; an array would need a GIN index and would make
@@ -523,14 +522,20 @@ here is invisible in the UI); `salary_min <= salary_max` when both are set.
 
 Salaries are `numeric(18,2)`. Money is never a float.
 
-Indexes: `ix_jobs_company_id`, `ix_jobs_posted_by_member_id`, and
+Indexes: `ix_jobs_company_id`, `ix_jobs_posted_by_member_id`, and two partial indexes over
+the published rows only, so draft and closed jobs never enter either:
 
 ```sql
-CREATE INDEX ix_jobs_published_list ON jobs (published_at DESC) WHERE status = 'published';
+CREATE INDEX ix_jobs_published_list    ON jobs (published_at DESC) WHERE status = 'published';
+CREATE INDEX ix_jobs_published_created ON jobs (created_at   DESC) WHERE status = 'published';
 ```
 
-a partial index that matches the board's default listing query exactly: only published rows,
-newest first. Draft and closed jobs never enter it.
+The second one is the board's default listing query. `_order_by` in `job_repository.py` sorts
+by `created_at DESC`, not `published_at DESC`, so despite its name `ix_jobs_published_list`
+never served the default list: the plan was a sequential scan and a top-N heapsort of every
+published row. Measured on 6,000 seeded jobs, adding `ix_jobs_published_created` took the
+first page from 233 shared buffers and 31.3 ms to 3 buffers and 0.09 ms (migration
+`002_hot_path_indexes`).
 
 `posted_by_member_id` is the join that made ADR 0002 worth doing. `POST /api/v1/jobs` always
 fills it from the caller's `Principal`, so "posted by someone from your class" needs no extra
@@ -627,10 +632,21 @@ before anyone reports it as a bug.
 ### 8.4 Pagination
 
 Every list endpoint takes `skip` and `limit` (`limit` capped at 100 by
-`core/api/pagination.py`) and returns `{items, total}`. `total` is a second `count(*)` over the
-same filtered subquery with the ordering removed. Offset pagination is the right trade at this
-size: the counts are useful to show, the tables are small, and no list is deep enough for the
-offset to hurt.
+`core/api/pagination.py`) and returns `{items, total}`. `total` comes from
+`count(*) OVER ()` added to the page query itself by `page_with_total` in `core/sql.py`, so a
+list is one round trip rather than two; the separate `count(*)` remains only for the case
+where a page past the end returns no rows to read it from. Against a pooled remote database
+the round trip is the dominant cost, which is what this buys: on the directory with
+`?q=product` the pair of statements read 3,929 shared buffers, the single one 1,949.
+
+The window count is not free everywhere. It evaluates over every matching row, so on a list
+whose ordering is served by an index the plain page can stop after `limit` rows while the
+window count cannot: the job board's first page reads 245 buffers with it against 3 + 16
+without. That is still the right trade over a network, but it is the reason a much larger
+table would want a cached or approximate total instead.
+
+Offset pagination is the right trade at this size: the counts are useful to show, the tables
+are small, and no list is deep enough for the offset to hurt.
 
 ## 9. `member_paths` and the classifier
 
@@ -701,10 +717,10 @@ Three properties fall out of the schema:
 
 - Binding is a one-time write. Once `member_id` is set the lookup is skipped on every
   later request, so the cost is one extra query for a person's first-ever sign-in.
-- The lookup is `lower(email)`, and `members.email` is stored lowercase by the loader. There
-  is no functional index on `lower(email)`; the plain `UNIQUE` index is not usable by that
-  predicate. At 1,400 rows the sequential scan is not worth an index, but it is worth knowing
-  before the table grows.
+- The lookup is `lower(email)`, and `members.email` is stored lowercase by the loader. The
+  index it uses is `uq_members_email_lower`, a UNIQUE index on the expression `lower(email)`
+  rather than on the column, so it serves this predicate and also makes two members with
+  addresses differing only in case impossible.
 - An unbound Account is a first-class state, not an error. It can read the directory;
   `get_current_member_principal` turns any member-owned write into a 403 with a hint.
 
@@ -801,6 +817,17 @@ per table, an explicit `UPGRADE_ORDER` in foreign-key order and a `DROP_ORDER` t
 it. The `pg_trgm` extension is created in `upgrade` and deliberately not dropped in
 `downgrade`, because other schemas in the same database may depend on it.
 
+`002_hot_path_indexes` adds twelve indexes and drops none: six foreign keys nobody indexed
+(`announcement_reads.member_id`, `event_rsvps.member_id`, `saved_members.saved_member_id`,
+`announcements.author_member_id`, `events.created_by_member_id`,
+`companies.created_by_member_id`), three orderings the boards actually ask for
+(`ix_jobs_published_created`, `ix_announcements_board_order`,
+`ix_housing_listings_created_at`), the two single-stage path filters that the leading column
+of `ix_member_paths_groups` cannot serve, and a trigram index on `members.current_company`.
+Every statement is `CREATE INDEX CONCURRENTLY IF NOT EXISTS` inside
+`op.get_context().autocommit_block()`, so a deploy against the live database takes no write
+lock and a build interrupted halfway can simply be re-run.
+
 ## 13. Local development and tests
 
 Development needs a local Postgres and nothing else. No Supabase project is required: the
@@ -874,6 +901,9 @@ plan first: at this data size, 15 seconds means a missing index or a runaway joi
 | Driver error mapping, `utc_now` | `infrastructure/repository.py` |
 | Alembic config and environment | `infrastructure/alembic.ini`, `infrastructure/alembic/env.py` |
 | Initial schema | `infrastructure/alembic/versions/001_initial_schema.py` |
+| Hot-path indexes | `infrastructure/alembic/versions/002_hot_path_indexes.py` |
+| Window-count pagination helper | `backend/core/sql.py` |
+| In-process read caches | `backend/core/cache.py` |
 | Per-context ORM | `backend/{members,network,paths,events,announcements,housing,identity,jobboard}/infrastructure/orm_models.py` |
 | `ask_quota` ORM | `backend/core/llm/orm_models.py` |
 | Search haystack and row-to-domain mapping | `backend/members/infrastructure/_mappers.py` |

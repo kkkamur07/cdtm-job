@@ -7,7 +7,6 @@ from dataclasses import dataclass
 from typing import Protocol
 from uuid import UUID
 
-from backend.core.page import PageResult
 from backend.paths.domain import CareerHistory, MemberCard, MemberPath, PathFlow
 
 
@@ -28,9 +27,19 @@ class PathRepository(Protocol):
     async def flow(self, filters: PathFilters) -> PathFlow: ...
     async def get(self, member_id: UUID) -> MemberPath | None: ...
     async def upsert(self, path: MemberPath) -> None: ...
-    async def member_ids_in(
-        self, *, stage: str, group: str, filters: PathFilters
-    ) -> list[UUID]: ...
+    async def member_ids_page(
+        self, *, stage: str, group: str, filters: PathFilters, skip: int, limit: int
+    ) -> tuple[list[UUID], int]:
+        """One page of the ids in a box of the Sankey, in card order, and how many there are.
+
+        The page is cut in SQL rather than in Python: this used to hand every id in the
+        group to the card loader, so opening a box of four hundred people shipped four
+        hundred uuids back only to look up twenty of them, and put the other three hundred
+        and eighty into an ``IN`` list. The order is the order the cards are drawn in
+        (member name), because a page cut in one order and drawn in another is not a page.
+        """
+        ...
+
     async def current_group_of(self, member_id: UUID) -> str | None: ...
     async def groups(self) -> dict[str, list[str]]: ...
 
@@ -63,4 +72,10 @@ class MemberCards(Protocol):
     """Names and faces for the ids in a group, so a box of the Sankey opens into people."""
 
     async def find_id_by_slug(self, slug: str) -> UUID | None: ...
-    async def page(self, ids: list[UUID], *, skip: int, limit: int) -> PageResult[MemberCard]: ...
+    async def cards(self, ids: list[UUID]) -> list[MemberCard]:
+        """The cards for exactly these ids, in the order a page of them is drawn.
+
+        No paging here any more: the repository above already cut the page, so this is
+        handed the twenty ids that are going to be shown and nothing else.
+        """
+        ...

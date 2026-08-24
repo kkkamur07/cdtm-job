@@ -1,6 +1,6 @@
 "use client";
 
-import { useMySaved, useToggleSaved } from "@/api/hooks/me";
+import { useSavedIds, useToggleSaved } from "@/api/hooks/me";
 import { toNetworkMember } from "@/api/people";
 import type { Member } from "@/api/types";
 
@@ -35,9 +35,9 @@ export default function SaveButton({
     member?: Member;
     label?: boolean;
 }) {
-    const saved = useMySaved();
+    const saved = useSavedIds();
     const toggle = useToggleSaved();
-    const isSaved = Boolean(saved.data?.some((s) => s.saved.saved_member_id === memberId));
+    const isSaved = saved.data?.has(memberId) ?? false;
     // Keyed by the member the write is for, so one row in flight never greys
     // out the rest of the list.
     const busy = toggle.isPending && toggle.variables?.memberId === memberId;

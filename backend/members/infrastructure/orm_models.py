@@ -88,20 +88,29 @@ class MemberRow(Base):
     classes: Mapped[list[ClassRow]] = relationship(
         secondary="member_classes", lazy="selectin", order_by=ClassRow.year.desc()
     )
+    # classes, entry and intents are what a directory card is made of (``_mappers.to_member``),
+    # so they stay eager: one extra batched SELECT each, always used.
+    #
+    # positions, educations and ca_detail belong to the full profile and to the search
+    # haystack, and to nothing else. Loading them eagerly meant every directory page also
+    # fetched and threw away a few hundred position rows including their descriptions.
+    # lazy="raise" instead of lazy="select" because an implicit lazy load under asyncio is a
+    # MissingGreenlet error at a random call site: raising here names the query that forgot
+    # its selectinload. The three query paths that need them ask for them explicitly.
     positions: Mapped[list[PositionRow]] = relationship(
         back_populates="member",
         cascade="all, delete-orphan",
-        lazy="selectin",
+        lazy="raise",
         order_by="PositionRow.sort_order",
     )
     educations: Mapped[list[EducationRow]] = relationship(
         back_populates="member",
         cascade="all, delete-orphan",
-        lazy="selectin",
+        lazy="raise",
         order_by="EducationRow.sort_order",
     )
     ca_detail: Mapped[CaDetailRow | None] = relationship(
-        back_populates="member", cascade="all, delete-orphan", lazy="selectin", uselist=False
+        back_populates="member", cascade="all, delete-orphan", lazy="raise", uselist=False
     )
     entry: Mapped[MemberEntryRow | None] = relationship(
         back_populates="member", cascade="all, delete-orphan", lazy="selectin", uselist=False
@@ -121,6 +130,14 @@ class MemberRow(Base):
             "search_text",
             postgresql_using="gin",
             postgresql_ops={"search_text": "gin_trgm_ops"},
+        ),
+        # "who works at X" is an ILIKE '%X%' on this column, from the directory filter and
+        # from the Ask; a btree index cannot serve a leading wildcard.
+        Index(
+            "ix_members_current_company_trgm",
+            "current_company",
+            postgresql_using="gin",
+            postgresql_ops={"current_company": "gin_trgm_ops"},
         ),
     )
 

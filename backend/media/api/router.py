@@ -12,8 +12,10 @@ that ``core`` keeps importing nothing: like every board it depends on ``core`` a
 
 from __future__ import annotations
 
+import time
 from typing import Annotated, Literal
 
+from cachetools import TTLCache
 from fastapi import APIRouter, Depends, File, Response, UploadFile, status
 from fastapi.responses import RedirectResponse
 from pydantic import BaseModel, ConfigDict
@@ -36,13 +38,35 @@ MediaKind = Literal["job-image", "housing-photo", "avatar"]
 
 StorageDep = Annotated[BlobStorage, Depends(get_blob_storage)]
 
-#: Long enough that a signed URL survives a slow page load, short enough that a URL leaking
-#: out of a browser history is not a durable grant.
-SIGNED_URL_SECONDS = 600
+#: How long a signed URL stays valid. Expiry is not the revocation mechanism here: the key
+#: is a random UUID that is only ever handed to people who can already read the row it sits
+#: on, and taking an image back means deleting the blob, which invalidates every signature
+#: over it at once. So the lifetime is set by what makes a page cheap - one signature reused
+#: across a browsing session - rather than by how long a leaked URL stays usable.
+SIGNED_URL_SECONDS = 3600
+
+#: A signed URL is reused until this much of its life is left. The margin covers the time
+#: between the browser reading the header and actually following the redirect.
+SIGNED_URL_MARGIN_SECONDS = 60
 
 #: Keys are content-addressed by a fresh UUID and blobs are never rewritten in place, so a
 #: response may be cached forever.
 IMMUTABLE_CACHE = "public, max-age=31536000, immutable"
+
+#: Signed URLs already handed out, keyed by ``(bucket, key)``.
+#:
+#: Every ``<img>`` on every page load used to cost a POST to the Storage sign API, and
+#: because each signature is unique the browser could not reuse the redirect either, so the
+#: CDN missed every time. Reusing one signature per object turns a page of twelve job cards
+#: from twelve sign calls into (at most) twelve, once an hour, and lets the browser skip the
+#: API entirely for the rest of the hour.
+#:
+#: Per process and bounded: a thousand distinct images is more than any page shows, and an
+#: entry is only a URL. Nothing here is authorization state, so a second worker having its
+#: own copy is not a correctness question.
+_SIGNED_URLS: TTLCache[tuple[str, str], tuple[str, float]] = TTLCache(
+    maxsize=1024, ttl=SIGNED_URL_SECONDS - SIGNED_URL_MARGIN_SECONDS
+)
 
 
 class MediaUploadPublic(BaseModel):
@@ -55,6 +79,33 @@ class MediaUploadPublic(BaseModel):
     key: str
     content_type: str
     size: int
+
+
+async def _cached_signed_url(storage: BlobStorage, bucket: str, key: str) -> tuple[str, int] | None:
+    """A signed URL for this object and how many seconds it is still good for.
+
+    ``None`` when the adapter cannot sign (the local disk cannot), which is what makes the
+    route stream the bytes itself.
+    """
+    now = time.monotonic()
+    cached = _SIGNED_URLS.get((bucket, key))
+    if cached is not None:
+        url, good_until = cached
+        remaining = int(good_until - now)
+        if remaining > 0:
+            return url, remaining
+    signed = await storage.signed_url(bucket, key, SIGNED_URL_SECONDS)
+    if signed is None:
+        return None
+    reusable_for = SIGNED_URL_SECONDS - SIGNED_URL_MARGIN_SECONDS
+    _SIGNED_URLS[(bucket, key)] = (signed, now + reusable_for)
+    return signed, reusable_for
+
+
+def _forget_signed_url(bucket: str, key: str) -> None:
+    """Drop a cached signature. Deleting the blob is how an image is taken back, and a
+    redirect to a signature over an object that no longer exists is a confusing 400."""
+    _SIGNED_URLS.pop((bucket, key), None)
 
 
 def _media_url(bucket: str, key: str) -> str:
@@ -126,10 +177,18 @@ async def read_media(bucket: str, key: str, storage: StorageDep) -> Response:
     already read the row it was stored on.
     """
     bucket, key = _checked_location(bucket, key)
-    signed = await storage.signed_url(bucket, key, SIGNED_URL_SECONDS)
-    if signed:
-        # 307 keeps the method, and the signed URL is short-lived, so it must not be cached.
-        return RedirectResponse(signed, status_code=status.HTTP_307_TEMPORARY_REDIRECT)
+    signed = await _cached_signed_url(storage, bucket, key)
+    if signed is not None:
+        url, max_age = signed
+        # 307 keeps the method. ``private`` because the target carries a signature: a shared
+        # cache must not hand one visitor's signed URL to the next. ``max-age`` is what is
+        # left of the signature, so the browser stops reusing the redirect before the URL
+        # behind it stops working.
+        return RedirectResponse(
+            url,
+            status_code=status.HTTP_307_TEMPORARY_REDIRECT,
+            headers={"Cache-Control": f"private, max-age={max_age}"},
+        )
     found = await storage.get(bucket, key)
     if found is None:
         raise NotFoundError("image not found")
@@ -150,3 +209,4 @@ async def delete_media(
     """
     bucket, key = _checked_location(bucket, key)
     await storage.delete(bucket, key)
+    _forget_signed_url(bucket, key)

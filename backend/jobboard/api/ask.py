@@ -35,7 +35,9 @@ async def ask_jobs(
         limit=body.limit,
         language=body.language,
     )
-    return JobAskAnswerPublic.model_validate(answer.model_dump())
+    # From the object, not from ``answer.model_dump()``: the dump serialised every field
+    # and every nested model only for the validator to build them all again.
+    return JobAskAnswerPublic.model_validate(answer)
 
 
 @router.post("/explain", response_model=JobAskInterpretationPublic)
@@ -43,7 +45,7 @@ async def explain_jobs(
     body: JobAskExplainRequest, actor: ActorDep, service: JobAskServiceDep
 ) -> JobAskInterpretationPublic:
     interpretation = await service.explain(body.question, actor=actor, language=body.language)
-    return JobAskInterpretationPublic.model_validate(interpretation.model_dump())
+    return JobAskInterpretationPublic.model_validate(interpretation)
 
 
 @router.get("/schema", response_model=JobAskSchemaPublic)

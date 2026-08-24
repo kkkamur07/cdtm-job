@@ -5,6 +5,8 @@ from uuid import UUID
 from sqlalchemy import delete, or_, select
 from sqlalchemy.ext.asyncio import AsyncSession
 
+from backend.core.page import PageResult
+from backend.core.sql import page_with_total
 from backend.network.domain import IntroRequest, IntroStatus, SavedMember
 from backend.network.infrastructure.orm_models import IntroRequestRow, SavedMemberRow
 from infrastructure.repository import run_db, utc_now
@@ -14,18 +16,19 @@ class SqlNetworkRepository:
     def __init__(self, session: AsyncSession) -> None:
         self._s = session
 
-    async def list_saved(self, owner_member_id: UUID) -> list[SavedMember]:
+    async def list_saved(
+        self, owner_member_id: UUID, *, skip: int, limit: int
+    ) -> PageResult[SavedMember]:
         """The rows only. The cards next to them are read through ``MemberDirectory``."""
 
-        async def go() -> list[SavedMember]:
-            rows = (
-                await self._s.scalars(
-                    select(SavedMemberRow)
-                    .where(SavedMemberRow.owner_member_id == owner_member_id)
-                    .order_by(SavedMemberRow.created_at.desc())
-                )
-            ).all()
-            return [SavedMember.model_validate(r) for r in rows]
+        async def go() -> PageResult[SavedMember]:
+            stmt = (
+                select(SavedMemberRow)
+                .where(SavedMemberRow.owner_member_id == owner_member_id)
+                .order_by(SavedMemberRow.created_at.desc())
+            )
+            rows, total = await page_with_total(self._s, stmt, skip=skip, limit=limit)
+            return PageResult(items=[SavedMember.model_validate(r[0]) for r in rows], total=total)
 
         return await run_db("saved.list", go, session=self._s)
 
@@ -68,23 +71,24 @@ class SqlNetworkRepository:
 
         return await run_db("saved.unsave", go, session=self._s)
 
-    async def list_intros(self, member_id: UUID) -> list[IntroRequest]:
+    async def list_intros(
+        self, member_id: UUID, *, skip: int, limit: int
+    ) -> PageResult[IntroRequest]:
         """Both directions: the ones this member sent and the ones they were sent."""
 
-        async def go() -> list[IntroRequest]:
-            rows = (
-                await self._s.scalars(
-                    select(IntroRequestRow)
-                    .where(
-                        or_(
-                            IntroRequestRow.requester_member_id == member_id,
-                            IntroRequestRow.target_member_id == member_id,
-                        )
+        async def go() -> PageResult[IntroRequest]:
+            stmt = (
+                select(IntroRequestRow)
+                .where(
+                    or_(
+                        IntroRequestRow.requester_member_id == member_id,
+                        IntroRequestRow.target_member_id == member_id,
                     )
-                    .order_by(IntroRequestRow.created_at.desc())
                 )
-            ).all()
-            return [IntroRequest.model_validate(r) for r in rows]
+                .order_by(IntroRequestRow.created_at.desc())
+            )
+            rows, total = await page_with_total(self._s, stmt, skip=skip, limit=limit)
+            return PageResult(items=[IntroRequest.model_validate(r[0]) for r in rows], total=total)
 
         return await run_db("intros.list", go, session=self._s)
 

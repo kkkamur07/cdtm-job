@@ -46,6 +46,7 @@ class EventRow(Base):
         CheckConstraint("kind in ('cdtm','community','external')", name="kind_enum"),
         CheckConstraint("ends_at is null or ends_at >= starts_at", name="ends_after_start"),
         Index("ix_events_starts_at", "starts_at"),
+        Index("ix_events_created_by_member_id", "created_by_member_id"),
     )
 
 
@@ -64,4 +65,7 @@ class EventRsvpRow(Base):
     __table_args__ = (
         PrimaryKeyConstraint("event_id", "member_id"),
         CheckConstraint("status in ('going','interested','declined')", name="status_enum"),
+        # As with announcement_reads: the primary key leads with the event, but "my rsvp"
+        # and "my events" filter on the member.
+        Index("ix_event_rsvps_member_id", "member_id"),
     )

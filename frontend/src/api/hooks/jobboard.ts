@@ -4,23 +4,17 @@ import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 
 import { api, unwrap } from "../client";
 import { qk } from "../keys";
-import type { CompanyCreate, JobCreate, JobSearchParams } from "../types";
+import type { CompanyCreate, JobCreate } from "../types";
 import { usePublicQueryOptions } from "./shared";
 
 /**
  * Jobs and companies read without a token, so these hooks do not wait on the
  * session. Posting a job or creating a company does need one, and the backend
  * says so with a 403 the form surfaces.
+ *
+ * There is no `useJobs`: the board is loaded on the server and filtered in the
+ * browser, so nothing here searches jobs.
  */
-
-export function useJobs(params: JobSearchParams) {
-    return useQuery({
-        queryKey: qk.jobs(params),
-        queryFn: () => unwrap(api.GET("/api/v1/jobs/", { params: { query: params } })),
-        ...usePublicQueryOptions(),
-        placeholderData: (previous) => previous,
-    });
-}
 
 export function useCreateJob() {
     const qc = useQueryClient();

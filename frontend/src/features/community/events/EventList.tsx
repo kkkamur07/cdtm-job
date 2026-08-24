@@ -3,7 +3,7 @@
 import Link from "next/link";
 
 import { useRsvp } from "@/api/hooks/community";
-import type { CommunityEvent, RsvpStatus } from "@/api/types";
+import type { CommunityEventSummary, RsvpStatus } from "@/api/types";
 import { dateParts, formatDateTime } from "@/lib/format";
 
 const RSVPS: { value: RsvpStatus; label: string }[] = [
@@ -11,12 +11,24 @@ const RSVPS: { value: RsvpStatus; label: string }[] = [
     { value: "interested", label: "Interested" },
 ];
 
-/** A row per event: date block, what and where, and your RSVP. */
-export function EventRow({ event, compact = false }: { event: CommunityEvent; compact?: boolean }) {
+/**
+ * A row per event: date block, what and where, and your RSVP.
+ *
+ * `CommunityEventSummary` is what the list route returns, and no row draws the
+ * description. A whole `CommunityEvent` fits here too, which is what the detail page
+ * passes to `RsvpControl`.
+ */
+export function EventRow({
+    event,
+    compact = false,
+}: {
+    event: CommunityEventSummary;
+    compact?: boolean;
+}) {
     const date = dateParts(event.starts_at);
 
     return (
-        <li className="flex items-center gap-3.5 border-t border-line px-4 py-3.5 first:border-t-0">
+        <li className="cv-row flex items-center gap-3.5 border-t border-line px-4 py-3.5 first:border-t-0">
             {date && (
                 <span className="w-14 shrink-0 border-r border-line pr-3 text-center" aria-hidden="true">
                     <b className="block text-xl leading-none font-semibold">{date.day}</b>
@@ -43,7 +55,7 @@ export function EventRow({ event, compact = false }: { event: CommunityEvent; co
     );
 }
 
-export function RsvpControl({ event }: { event: CommunityEvent }) {
+export function RsvpControl({ event }: { event: CommunityEventSummary }) {
     const rsvp = useRsvp();
     // Keyed by the event being answered, so one RSVP in flight never disables
     // the controls on the rest of the list.

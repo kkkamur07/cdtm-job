@@ -11,12 +11,15 @@ from uuid import UUID
 
 from fastapi import APIRouter, Response, status
 
+from backend.core.api.pagination import PageParamsDep
 from backend.identity.api.deps import ActorDep, MemberActorDep
 from backend.network.api.deps import NetworkServiceDep
 from backend.network.api.schemas import (
     IntroRequestPublic,
+    IntroRequestsPublic,
     NetworkMemberPublic,
     SavedMemberPublic,
+    SavedMembersPublic,
 )
 from backend.network.application.commands import IntroRequestCreate, IntroRespond, SaveMember
 from backend.network.domain import IntroRequest
@@ -24,12 +27,24 @@ from backend.network.domain import IntroRequest
 router = APIRouter(prefix="/network", tags=["network"])
 
 
-@router.get("/saved", response_model=list[SavedMemberPublic])
-async def my_saved(actor: MemberActorDep, service: NetworkServiceDep) -> list[SavedMemberPublic]:
-    return [
-        SavedMemberPublic(saved=v.saved, member=NetworkMemberPublic.model_validate(v.member))
-        for v in await service.list_saved(actor)
-    ]
+@router.get("/saved", response_model=SavedMembersPublic)
+async def my_saved(
+    actor: MemberActorDep, service: NetworkServiceDep, page: PageParamsDep
+) -> SavedMembersPublic:
+    """A shortlist is short, but "short" is not a contract.
+
+    This used to answer a bare list with no skip and no limit, so the size of the body was
+    whatever the member had saved. It pages like every other list now, and the skip and the
+    limit reach the query rather than the response.
+    """
+    result = await service.list_saved(actor, skip=page.skip, limit=page.limit)
+    return SavedMembersPublic(
+        items=[
+            SavedMemberPublic(saved=v.saved, member=NetworkMemberPublic.model_validate(v.member))
+            for v in result.items
+        ],
+        total=result.total,
+    )
 
 
 @router.put("/saved/{member_id}", response_model=SavedMemberPublic, status_code=200)
@@ -50,16 +65,23 @@ async def unsave_member(
     return Response(status_code=status.HTTP_204_NO_CONTENT)
 
 
-@router.get("/intros", response_model=list[IntroRequestPublic])
-async def my_intros(actor: MemberActorDep, service: NetworkServiceDep) -> list[IntroRequestPublic]:
-    return [
-        IntroRequestPublic(
-            request=v.request,
-            requester=NetworkMemberPublic.model_validate(v.requester),
-            target=NetworkMemberPublic.model_validate(v.target),
-        )
-        for v in await service.list_intros(actor)
-    ]
+@router.get("/intros", response_model=IntroRequestsPublic)
+async def my_intros(
+    actor: MemberActorDep, service: NetworkServiceDep, page: PageParamsDep
+) -> IntroRequestsPublic:
+    """Both directions, paged. Unbounded before, for the same reason ``/saved`` was."""
+    result = await service.list_intros(actor, skip=page.skip, limit=page.limit)
+    return IntroRequestsPublic(
+        items=[
+            IntroRequestPublic(
+                request=v.request,
+                requester=NetworkMemberPublic.model_validate(v.requester),
+                target=NetworkMemberPublic.model_validate(v.target),
+            )
+            for v in result.items
+        ],
+        total=result.total,
+    )
 
 
 @router.post("/intros", response_model=IntroRequest, status_code=201)

@@ -35,7 +35,7 @@ export default function SavedList() {
 
     if (saved.isPending) return <LoadingBlock label="Loading saved people" rows={3} />;
     if (saved.error) return <ErrorState error={saved.error} onRetry={() => saved.refetch()} />;
-    if (!saved.data?.length && !removed) {
+    if (!saved.data?.items.length && !removed) {
         return (
             <EmptyState
                 title="Nothing saved yet"
@@ -82,7 +82,7 @@ export default function SavedList() {
             )}
 
             <ul>
-                {(saved.data ?? []).map(({ member, saved: record }) => {
+                {(saved.data?.items ?? []).map(({ member, saved: record }) => {
                     const busy = toggle.isPending && toggle.variables?.memberId === member.id;
                     return (
                         <li

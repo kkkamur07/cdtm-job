@@ -37,7 +37,7 @@ tests/unit/         no database
 tests/integration/  live local Postgres
 frontend/           Next.js 16 app; scripts/ingest.mjs is the LinkedIn + roster matcher
 data/               roster CSVs, Workspace export, raw scrape; never committed
-docs/               architecture.md, database-design.md, adr/
+docs/               architecture.md, database-design.md, mutation-testing.md, adr/
 ```
 
 ## Commands

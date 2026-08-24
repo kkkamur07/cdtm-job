@@ -4,9 +4,18 @@ import Image from "next/image";
 import { useCallback, useId, useRef, useState } from "react";
 
 import { checkImage, mediaUrl, uploadMedia, type MediaKind } from "@/api/media";
-import { useSession } from "@/auth/AuthProvider";
+import { useAccessToken } from "@/auth/AuthProvider";
 
-type Pending = { name: string; percent: number };
+type Pending = { id: string; name: string; percent: number };
+
+/**
+ * Identity for a file being uploaded. Two photos off a phone are routinely
+ * called IMG_0001.jpg, so the name alone would let one file's progress drive
+ * another's bar and remove the wrong tile when it finished.
+ */
+function fileId(file: File): string {
+    return `${file.name}:${file.size}:${file.lastModified}`;
+}
 
 /**
  * Drag a file in, or pick one. The file goes to the API, and the URL it returns
@@ -35,7 +44,9 @@ export default function ImageUpload({
 }) {
     const inputId = useId();
     const input = useRef<HTMLInputElement>(null);
-    const { token } = useSession();
+    // The upload is an XHR of its own (it needs progress events), so it carries
+    // the bearer token itself rather than going through the API client.
+    const token = useAccessToken();
     const [pending, setPending] = useState<Pending[]>([]);
     const [error, setError] = useState<string | null>(null);
     const [over, setOver] = useState(false);
@@ -52,6 +63,12 @@ export default function ImageUpload({
                 setError(`Only ${max} images per listing. The rest were skipped.`);
             }
 
+            // The uploads are awaited one after another, so `urls` here is the
+            // array from the render that started the loop and never learns
+            // about the file before it. The results are collected locally and
+            // handed over once, or three photos dropped together arrive as one.
+            const added: string[] = [];
+
             for (const file of chosen) {
                 const problem = checkImage(file);
                 if (problem) {
@@ -59,22 +76,24 @@ export default function ImageUpload({
                     continue;
                 }
 
-                setPending((current) => [...current, { name: file.name, percent: 0 }]);
+                const id = fileId(file);
+                setPending((current) => [...current, { id, name: file.name, percent: 0 }]);
                 try {
                     const result = await uploadMedia(kind, file, token, (percent) =>
                         setPending((current) =>
-                            current.map((item) =>
-                                item.name === file.name ? { ...item, percent } : item,
-                            ),
+                            current.map((item) => (item.id === id ? { ...item, percent } : item)),
                         ),
                     );
-                    // Functional update: several uploads finish independently.
-                    onChange(multiple ? [...urls, result.url] : [result.url]);
+                    added.push(result.url);
                 } catch (uploadError) {
                     setError(uploadError instanceof Error ? uploadError.message : "Upload failed.");
                 } finally {
-                    setPending((current) => current.filter((item) => item.name !== file.name));
+                    setPending((current) => current.filter((item) => item.id !== id));
                 }
+            }
+
+            if (added.length) {
+                onChange(multiple ? [...urls, ...added].slice(0, max) : [added[added.length - 1]]);
             }
 
             if (input.current) input.current.value = "";
@@ -126,7 +145,7 @@ export default function ImageUpload({
 
                 {pending.map((item) => (
                     <span
-                        key={item.name}
+                        key={item.id}
                         className="grid h-[54px] w-[72px] place-items-center rounded-[10px] border border-line bg-white"
                     >
                         <span className="sr-only">

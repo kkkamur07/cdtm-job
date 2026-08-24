@@ -16,7 +16,7 @@ def test_saved_people_and_intro_requests(
     r = client.put(f"{API}/saved/{member_ben['id']}", json={"note": "ask about VC"}, headers=ha)
     assert r.status_code == 200, r.text
     assert r.json()["member"]["slug"] == "ben-test" and r.json()["saved"]["note"] == "ask about VC"
-    assert len(client.get(f"{API}/saved", headers=ha).json()) == 1
+    assert client.get(f"{API}/saved", headers=ha).json()["total"] == 1
     assert client.put(f"{API}/saved/{member_anna['id']}", json={}, headers=ha).status_code == 422
 
     r = client.post(
@@ -26,7 +26,8 @@ def test_saved_people_and_intro_requests(
     )
     assert r.status_code == 201, r.text
     req_id = r.json()["id"]
-    assert client.get(f"{API}/intros", headers=hb).json()[0]["requester"]["slug"] == "anna-test"
+    intros = client.get(f"{API}/intros", headers=hb).json()
+    assert intros["total"] == 1 and intros["items"][0]["requester"]["slug"] == "anna-test"
     # requester cannot accept, target can
     assert (
         client.post(
@@ -44,4 +45,4 @@ def test_saved_people_and_intro_requests(
     )
 
     assert client.delete(f"{API}/saved/{member_ben['id']}", headers=ha).status_code == 204
-    assert client.get(f"{API}/saved", headers=ha).json() == []
+    assert client.get(f"{API}/saved", headers=ha).json() == {"items": [], "total": 0}

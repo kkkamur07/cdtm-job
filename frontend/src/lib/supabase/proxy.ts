@@ -1,6 +1,7 @@
 import { createServerClient } from "@supabase/ssr";
 import { NextResponse, type NextRequest } from "next/server";
 
+import { isSupabaseAuth } from "@/auth/mode";
 import { SUPABASE_PUBLISHABLE_KEY, SUPABASE_URL, isSupabaseConfigured } from "./env";
 
 /**
@@ -16,7 +17,21 @@ import { SUPABASE_PUBLISHABLE_KEY, SUPABASE_URL, isSupabaseConfigured } from "./
 export async function updateSession(request: NextRequest): Promise<NextResponse> {
     let response = NextResponse.next({ request });
 
-    if (!isSupabaseConfigured) return response;
+    // A dev-auth build has no Supabase session to refresh; its token lives in
+    // an httpOnly cookie this never touches. In production the mode is always
+    // supabase, so this only ever skips a local dev build.
+    if (!isSupabaseAuth || !isSupabaseConfigured) return response;
+
+    // A prefetch is speculative and its response never reaches the browser's
+    // cookie jar, so refreshing here is a Supabase round trip whose rotated
+    // cookies are thrown away. A page with twenty in-viewport links would pay
+    // it twenty times over.
+    if (
+        request.headers.get("next-router-prefetch") ||
+        request.headers.get("purpose") === "prefetch"
+    ) {
+        return response;
+    }
 
     // Created per request. A client kept in a module variable would be shared
     // between visitors on a warm serverless instance.

@@ -6,6 +6,7 @@ from dataclasses import dataclass
 from typing import Protocol
 from uuid import UUID
 
+from backend.core.page import PageResult
 from backend.network.domain import IntroRequest, IntroStatus, MemberCard, SavedMember
 
 
@@ -23,7 +24,9 @@ class IntroRequestView:
 
 
 class NetworkRepository(Protocol):
-    async def list_saved(self, owner_member_id: UUID) -> list[SavedMember]: ...
+    async def list_saved(
+        self, owner_member_id: UUID, *, skip: int, limit: int
+    ) -> PageResult[SavedMember]: ...
     async def get_saved(
         self, owner_member_id: UUID, saved_member_id: UUID
     ) -> SavedMember | None: ...
@@ -31,7 +34,9 @@ class NetworkRepository(Protocol):
         self, owner_member_id: UUID, saved_member_id: UUID, note: str | None
     ) -> SavedMember: ...
     async def unsave(self, owner_member_id: UUID, saved_member_id: UUID) -> bool: ...
-    async def list_intros(self, member_id: UUID) -> list[IntroRequest]: ...
+    async def list_intros(
+        self, member_id: UUID, *, skip: int, limit: int
+    ) -> PageResult[IntroRequest]: ...
     async def get_intro(self, request_id: UUID) -> IntroRequest | None: ...
     async def create_intro(
         self, requester_member_id: UUID, target_member_id: UUID, message: str

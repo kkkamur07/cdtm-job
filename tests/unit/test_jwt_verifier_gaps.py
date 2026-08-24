@@ -24,6 +24,7 @@ from cryptography.hazmat.primitives.asymmetric import ec, rsa
 from jwt.algorithms import ECAlgorithm, RSAAlgorithm
 
 from backend.core.exceptions import UnauthorizedError
+from backend.identity.infrastructure.dev_token_issuer import DEV_LOGIN_ISSUER
 from backend.identity.infrastructure.jwt_verifier import (
     SupabaseJwtVerifier,
     _claims_from_payload,
@@ -182,12 +183,28 @@ def test_an_hs256_token_is_refused_when_no_secret_is_configured(jwks: _Jwks) -> 
         _verifier(jwks.url).verify(token)
 
 
-def test_the_signing_key_is_cached_so_a_stream_of_tokens_does_not_refetch_the_jwks(
+def test_the_key_set_is_cached_so_a_stream_of_tokens_does_not_refetch_the_jwks(
     jwks: _Jwks,
 ) -> None:
     """Every request carries a token, so a verifier that re-fetched the key set per request
-    would put the JWKS endpoint on the hot path of the whole API. The key set cache is given
-    a lifetime short enough to expire here; the per-key cache is what still holds."""
+    would put the JWKS endpoint on the hot path of the whole API."""
+    verifier = _verifier(jwks.url, jwks_cache_seconds=600)
+    token = _asymmetric_token(RSA_KEY, alg="RS256", kid="rsa-1")
+
+    for _ in range(5):
+        verifier.verify(token)
+
+    assert jwks.fetches == 1
+
+
+def test_the_configured_lifetime_is_what_decides_when_the_keys_are_refetched(
+    jwks: _Jwks,
+) -> None:
+    """This used to assert the opposite, that an expired key set still served from a
+    per-``kid`` cache. That cache (PyJWT's ``cache_keys=True``) has no lifetime at all: a key
+    seen once was held for the life of the process, so ``AUTH_JWKS_CACHE_SECONDS`` decided
+    nothing and a rotated Supabase signing key would never have been picked up. With it off,
+    the key set cache is the only cache, and the configured lifetime is real."""
     verifier = _verifier(jwks.url, jwks_cache_seconds=0.001)
     token = _asymmetric_token(RSA_KEY, alg="RS256", kid="rsa-1")
 
@@ -195,7 +212,7 @@ def test_the_signing_key_is_cached_so_a_stream_of_tokens_does_not_refetch_the_jw
     threading.Event().wait(0.05)
     verifier.verify(token)
 
-    assert jwks.fetches == 1
+    assert jwks.fetches == 2
 
 
 def test_a_cache_lifetime_of_zero_is_refused_rather_than_ignored(jwks: _Jwks) -> None:
@@ -262,3 +279,109 @@ def test_a_picture_claim_is_used_when_there_is_no_avatar_url() -> None:
 def test_a_name_claim_is_used_when_there_is_no_full_name() -> None:
     claims = _claims_from_payload(_payload(user_metadata={"name": "Only A Name"}))
     assert claims.full_name == "Only A Name"
+
+
+# ---- the issuer, and getting off the event loop --------------------------------------------
+
+
+ISSUER = "https://project.supabase.co/auth/v1"
+
+
+def test_an_asymmetric_token_from_another_project_is_refused(jwks: _Jwks) -> None:
+    """On this path the signing key is public, so the signature alone only proves that
+    *some* Supabase project minted the token. The issuer is what ties it to ours."""
+    verifier = _verifier(jwks.url, issuer=ISSUER)
+    token = _asymmetric_token(RSA_KEY, alg="RS256", kid="rsa-1", iss="https://other/auth/v1")
+
+    with pytest.raises(UnauthorizedError):
+        verifier.verify(token)
+
+
+def test_an_asymmetric_token_from_this_project_is_accepted(jwks: _Jwks) -> None:
+    verifier = _verifier(jwks.url, issuer=ISSUER)
+    token = _asymmetric_token(RSA_KEY, alg="RS256", kid="rsa-1", iss=ISSUER)
+
+    assert str(verifier.verify(token).sub) == SUBJECT
+
+
+def test_an_asymmetric_token_with_no_issuer_at_all_is_refused(jwks: _Jwks) -> None:
+    """Once the check is configured, a token that simply omits ``iss`` must not slip past it."""
+    verifier = _verifier(jwks.url, issuer=ISSUER)
+
+    with pytest.raises(UnauthorizedError):
+        verifier.verify(_asymmetric_token(RSA_KEY, alg="RS256", kid="rsa-1"))
+
+
+def test_no_configured_issuer_means_no_issuer_check(jwks: _Jwks) -> None:
+    """``SUPABASE_URL`` is what the issuer is derived from, and a deployment on the legacy
+    shared secret alone does not set it. Nothing may start refusing tokens for a value that
+    could not be computed."""
+    assert str(_verifier(jwks.url).verify(_asymmetric_token(RSA_KEY, alg="RS256", kid="rsa-1")).sub)
+
+
+def test_the_development_login_issuer_still_passes_on_the_hs256_path(jwks: _Jwks) -> None:
+    """The dev login mints ``iss: cdtm-dev-login``, which is not this project's issuer. The
+    check belongs to the asymmetric path only, so the local sign-in keeps working even on a
+    deployment that has SUPABASE_URL set."""
+    verifier = _verifier(jwks.url, jwt_secret=HS_SECRET, issuer=ISSUER)
+    token = jwt.encode(
+        {
+            "sub": SUBJECT,
+            "aud": "authenticated",
+            "email": "dev.person@cdtm.com",
+            "email_verified": True,
+            "iss": DEV_LOGIN_ISSUER,
+            "exp": int((datetime.now(UTC) + timedelta(hours=1)).timestamp()),
+        },
+        HS_SECRET,
+        algorithm="HS256",
+    )
+
+    assert verifier.verify(token).email == "dev.person@cdtm.com"
+
+
+async def test_verify_async_keeps_the_cheap_path_inline_and_threads_the_other(
+    jwks: _Jwks,
+) -> None:
+    """HS256 is about twenty microseconds of CPU, so a thread hop would cost more than the
+    work. The JWKS path can block on a network fetch inside PyJWT's synchronous urllib, on
+    the one event loop that serves every request, so it goes to a worker thread."""
+    verifier = _verifier(jwks.url, jwt_secret=HS_SECRET)
+    hs_token = jwt.encode(
+        {
+            "sub": SUBJECT,
+            "aud": "authenticated",
+            "email": "hs.person@cdtm.com",
+            "email_verified": True,
+            "exp": int((datetime.now(UTC) + timedelta(hours=1)).timestamp()),
+        },
+        HS_SECRET,
+        algorithm="HS256",
+    )
+    on_the_loop = threading.get_ident()
+    seen: list[int] = []
+    verify = verifier.verify
+    verifier.verify = lambda token: (seen.append(threading.get_ident()), verify(token))[1]
+
+    assert (await verifier.verify_async(hs_token)).email == "hs.person@cdtm.com"
+    assert seen == [on_the_loop]
+
+    seen.clear()
+    await verifier.verify_async(_asymmetric_token(RSA_KEY, alg="RS256", kid="rsa-1"))
+    assert seen and seen != [on_the_loop]
+
+
+async def test_warming_the_key_set_means_the_first_token_does_not_fetch_it(jwks: _Jwks) -> None:
+    """The app lifespan calls this so the first request that presents an asymmetric token is
+    not the one that pays for a cold JWKS fetch."""
+    verifier = _verifier(jwks.url)
+
+    await verifier.warm_jwks()
+    assert jwks.fetches == 1
+
+    verifier.verify(_asymmetric_token(RSA_KEY, alg="RS256", kid="rsa-1"))
+    assert jwks.fetches == 1
+
+
+async def test_warming_a_verifier_with_no_jwks_configured_does_nothing() -> None:
+    await SupabaseJwtVerifier(jwt_secret=HS_SECRET, jwks_url=None).warm_jwks()

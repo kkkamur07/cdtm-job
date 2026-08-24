@@ -209,3 +209,49 @@ def test_a_chunked_body_without_a_length_is_left_to_the_handler(
         content=iter([b"{}"]),
     )
     assert r.status_code != 413
+
+
+def test_a_request_is_timed_under_its_route_template_not_its_url(
+    monkeypatch: pytest.MonkeyPatch, caplog: pytest.LogCaptureFixture
+) -> None:
+    """One log line per request, and the path in it is the template.
+
+    Logging the raw path would give one log shape per member id and no way to ask which
+    endpoint is slow. Anything at or above ``APP_SLOW_REQUEST_MS`` is INFO so a default
+    deployment logs only what somebody would have noticed; the rest is DEBUG.
+    """
+    _env(monkeypatch, APP_SLOW_REQUEST_MS="0")
+    client = _client(create_app())
+
+    with caplog.at_level("DEBUG", logger="backend.core.app"):
+        assert client.get("/").status_code == 200
+
+    lines = [r.getMessage() for r in caplog.records if r.getMessage().startswith("request ")]
+    assert len(lines) == 1
+    assert "method=GET" in lines[0]
+    assert "path=/" in lines[0]
+    assert "duration_ms=" in lines[0]
+    # Threshold of zero: everything is slow, so everything is INFO.
+    (record,) = [r for r in caplog.records if r.getMessage().startswith("request ")]
+    assert record.levelname == "INFO"
+
+
+def test_a_fast_request_is_logged_at_debug_and_a_refusal_is_still_timed(
+    monkeypatch: pytest.MonkeyPatch, caplog: pytest.LogCaptureFixture
+) -> None:
+    _env(monkeypatch, APP_SLOW_REQUEST_MS="60000")
+    client = _client(create_app())
+
+    with caplog.at_level("DEBUG", logger="backend.core.app"):
+        # A body refused before it reaches a route: it never matches one, so the raw path is
+        # all there is to log, and it still has to be logged.
+        refused = client.post(
+            "/api/v1/members",
+            content=b"x" * (MAX_JSON_BODY_BYTES + 1),
+            headers={"content-type": "application/json"},
+        )
+
+    assert refused.status_code == 413
+    (record,) = [r for r in caplog.records if r.getMessage().startswith("request ")]
+    assert record.levelname == "DEBUG"
+    assert "status=413" in record.getMessage()

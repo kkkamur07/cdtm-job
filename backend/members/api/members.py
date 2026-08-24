@@ -3,7 +3,8 @@ from __future__ import annotations
 from typing import Annotated
 from uuid import UUID
 
-from fastapi import APIRouter, Query
+from fastapi import APIRouter, Query, Response
+from pydantic import StringConstraints
 
 from backend.core.api.pagination import PageParamsDep
 from backend.identity.api.deps import OptionalActorDep, PrincipalDep
@@ -17,11 +18,16 @@ from backend.members.api.schemas import (
     MemberPublic,
     MembersPublic,
 )
+from backend.members.application.member_service import FACETS_TTL_SECONDS
 from backend.members.application.ports import MemberFilters
 
 router = APIRouter(prefix="/members", tags=["members"])
 
 _INTENTS = ("cofounding", "mentoring", "hiring", "open_to_roles", "speaking", "investing")
+
+#: Longest company name a caller may send, per name. The same ceiling ``?company=`` has,
+#: because both ends up in the same ILIKE against the directory.
+MAX_COMPANY_NAME = 128
 
 
 @router.get("/", response_model=MembersPublic)
@@ -91,7 +97,10 @@ async def members_at_companies(
     service: MemberServiceDep,
     _: PrincipalDep,
     company: Annotated[
-        list[str],
+        # ``max_length`` on the list is the number of names; the per-element constraint is
+        # the length of one name. Without it a single 1 MB "name" became an ILIKE pattern
+        # over the whole directory. 128 matches the ``?company=`` cap on the search route.
+        list[Annotated[str, StringConstraints(max_length=MAX_COMPANY_NAME)]],
         Query(
             max_length=50,
             description="repeatable company name; one member is returned for each",
@@ -110,12 +119,18 @@ async def members_at_companies(
 
 
 @router.get("/facets", response_model=DirectoryFacets)
-async def facets(service: MemberServiceDep, _: PrincipalDep) -> DirectoryFacets:
-    classes = await service.list_classes()
-    majors = await service.list_majors()
-    total = await service.count()
+async def facets(service: MemberServiceDep, response: Response, _: PrincipalDep) -> DirectoryFacets:
+    """The directory's filter bar: every class, every major, and the roster size.
+
+    ``private`` rather than ``public``: the route is behind a bearer token, so no shared
+    cache may keep a copy, and the answer is the same for every caller anyway.
+    """
+    result = await service.facets()
+    response.headers["Cache-Control"] = f"private, max-age={FACETS_TTL_SECONDS}"
     return DirectoryFacets(
-        classes=[ClassPublic.model_validate(c) for c in classes], majors=majors, members_total=total
+        classes=[ClassPublic.model_validate(c) for c in result.classes],
+        majors=list(result.majors),
+        members_total=result.members_total,
     )
 
 

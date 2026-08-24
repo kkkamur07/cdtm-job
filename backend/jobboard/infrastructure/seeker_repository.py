@@ -9,12 +9,12 @@ from sqlalchemy.ext.asyncio import AsyncSession
 
 from backend.core.mapping import dump_for_db
 from backend.core.page import PageResult
+from backend.core.sql import page_with_total
 from backend.jobboard.application.commands import (
     SeekerCreate,
     SeekerUpdate,
 )
 from backend.jobboard.domain import Seeker
-from backend.jobboard.infrastructure._query import _count
 from backend.jobboard.infrastructure.orm_models import SeekerRow
 from infrastructure.repository import run_db, utc_now
 
@@ -26,13 +26,10 @@ class SqlSeekerRepository:
     async def list(self, *, skip: int, limit: int) -> PageResult[Seeker]:
         async def go() -> PageResult[Seeker]:
             base = select(SeekerRow)
-            total = await _count(self._s, base)
-            rows = (
-                await self._s.scalars(
-                    base.order_by(SeekerRow.created_at.desc()).offset(skip).limit(limit)
-                )
-            ).all()
-            return PageResult(items=[Seeker.model_validate(r) for r in rows], total=total)
+            rows, total = await page_with_total(
+                self._s, base.order_by(SeekerRow.created_at.desc()), skip=skip, limit=limit
+            )
+            return PageResult(items=[Seeker.model_validate(r[0]) for r in rows], total=total)
 
         return await run_db("seekers.list", go, session=self._s)
 

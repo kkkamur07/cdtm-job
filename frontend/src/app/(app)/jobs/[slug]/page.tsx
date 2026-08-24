@@ -5,21 +5,18 @@ import { Suspense } from "react";
 
 import { ApiError } from "@/api/errors";
 import { mediaUrl } from "@/api/media";
-import { loadCompanyMap, loadJobByRef, loadMemberIndex, loadMembers } from "@/api/server";
+import { loadCompany, loadJobByRef, loadMemberIndex, loadMembers } from "@/api/server";
+import { getIdentity } from "@/auth/session";
 import { AvatarCircle } from "@/components/MemberAvatar";
 import CompanyLogo from "@/features/jobboard/CompanyLogo";
 import { jobLocation } from "@/features/jobboard/jobData";
 import { badgeLabel, formatDate, formatSalary, paragraphs, safeUrl } from "@/lib/format";
 
-// Forces per-request rendering instead of build-time prerendering, since this
-// page reads via revalidate-based loaders (loadJobByRef, loadCompanyMap) and
-// there is no live backend at build time. There is no generateStaticParams
-// here, so Next would not have prerendered any specific slug at build anyway,
-// but this keeps the route consistent with the rest of the job board and
-// guards against a future generateStaticParams making it eligible for that.
-// The revalidate windows on the individual fetches still govern the Data
-// Cache, so runtime caching is unchanged.
-export const dynamic = "force-dynamic";
+// No `dynamic = "force-dynamic"` here. There is no generateStaticParams, and
+// every loader reads the request's cookies, so no slug was ever eligible for
+// build-time prerendering. What the export did do was imply
+// `fetchCache = "force-no-store"`, which turned off the `revalidate: 60/300`
+// windows on the job and company reads that serve signed-out visitors.
 
 type Params = { params: Promise<{ slug: string }> };
 
@@ -36,27 +33,25 @@ export async function generateMetadata({ params }: Params) {
 export default async function JobPage({ params }: Params) {
     const { slug } = await params;
 
-    // The company map does not depend on the job, so it is not made to wait
-    // for it.
-    const [job, companies] = await Promise.all([
-        loadJobByRef(slug).catch((error) => {
-            if (error instanceof ApiError && error.isNotFound) return null;
-            throw error;
-        }),
-        loadCompanyMap().catch(() => null),
-    ]);
+    // The company is named by the job, so its read is chained off the job's
+    // promise rather than awaited after it: the request goes out the moment the
+    // job lands, and it is one company by id instead of the hundred this page
+    // used to pull to name one.
+    const jobPromise = loadJobByRef(slug).catch((error) => {
+        if (error instanceof ApiError && error.isNotFound) return null;
+        throw error;
+    });
+    const companyPromise = jobPromise.then((job) =>
+        job?.company_id ? loadCompany(job.company_id).catch(() => null) : null,
+    );
+
+    const [job, company] = await Promise.all([jobPromise, companyPromise]);
 
     if (!job) notFound();
 
-    // The poster's id only exists once the job is here, so this is the one
-    // dependent read. One member, one request.
-    const members = await loadMemberIndex([job.posted_by_member_id]).catch(() => null);
-
-    const company = job.company_id ? companies?.get(job.company_id) : undefined;
     const name = company?.name ?? "A CDTM company";
     const location = jobLocation(job);
     const salary = formatSalary(job);
-    const poster = job.posted_by_member_id ? members?.get(job.posted_by_member_id) : null;
     const applyUrl = safeUrl(job.application_url);
     const cover = job.image_url ? mediaUrl(job.image_url) : null;
 
@@ -199,23 +194,9 @@ export default async function JobPage({ params }: Params) {
                         )}
                     </div>
 
-                    {poster && (
-                        <div className="card panel owner">
-                            <h2 className="label">Posted by</h2>
-                            <div className="insider mt-2">
-                                <AvatarCircle name={poster.name} avatar={poster.avatar} px={44} />
-                                <div className="min-w-0">
-                                    <div className="n truncate">{poster.name}</div>
-                                    <div className="s truncate">
-                                        {[poster.title, poster.company].filter(Boolean).join(", ")}
-                                    </div>
-                                </div>
-                            </div>
-                            <Link href={`/members/${poster.slug}`} className="btn mt-3.5 w-full">
-                                Open entry
-                            </Link>
-                        </div>
-                    )}
+                    <Suspense fallback={null}>
+                        <PostedBy memberId={job.posted_by_member_id} />
+                    </Suspense>
 
                     <Suspense fallback={null}>
                         <PeopleAtCompany name={name} />
@@ -227,11 +208,51 @@ export default async function JobPage({ params }: Params) {
 }
 
 /**
+ * The poster, in its own boundary.
+ *
+ * It used to be awaited above the return, which held the two sidebar panels
+ * below behind a lookup neither of them needs. Suspended here, all three start
+ * as soon as the job is back and race each other.
+ *
+ * The directory is members-only, so a signed-out reader would only get a 401.
+ * The job itself stays public.
+ */
+async function PostedBy({ memberId }: { memberId: string | null | undefined }) {
+    const { accessToken } = await getIdentity();
+    if (!memberId || !accessToken) return null;
+
+    const members = await loadMemberIndex([memberId]).catch(() => null);
+    const poster = members?.get(memberId);
+    if (!poster) return null;
+
+    return (
+        <div className="card panel owner">
+            <h2 className="label">Posted by</h2>
+            <div className="insider mt-2">
+                <AvatarCircle name={poster.name} avatar={poster.avatar} px={44} />
+                <div className="min-w-0">
+                    <div className="n truncate">{poster.name}</div>
+                    <div className="s truncate">
+                        {[poster.title, poster.company].filter(Boolean).join(", ")}
+                    </div>
+                </div>
+            </div>
+            <Link href={`/members/${poster.slug}`} className="btn mt-3.5 w-full">
+                Open entry
+            </Link>
+        </div>
+    );
+}
+
+/**
  * Streamed in its own boundary: this lookup needs the company name, so it can
  * only start once the job has arrived. Suspending it here keeps the rest of the
  * page from waiting on it.
  */
 async function PeopleAtCompany({ name }: { name: string }) {
+    const { accessToken } = await getIdentity();
+    if (!accessToken) return null;
+
     const result = await loadMembers({ company: name, limit: 6 }).catch(() => null);
     if (!result?.items.length) return null;
 

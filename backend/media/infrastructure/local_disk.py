@@ -66,3 +66,6 @@ class LocalDiskStorage:
     async def delete(self, bucket: str, key: str) -> None:
         path = self.path_for(bucket, key)
         await anyio.to_thread.run_sync(lambda: path.unlink(missing_ok=True))
+
+    async def aclose(self) -> None:
+        """Nothing is held open: every call opens and closes one file."""

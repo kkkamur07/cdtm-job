@@ -29,20 +29,26 @@ export default function Typewriter({ phrases }: { phrases: string[] }) {
     const [step, setStep] = useState<Step>(START);
     const [paused, setPaused] = useState(false);
     const animate = !useReducedMotion() && !paused && phrases.length > 0;
+    const visible = useDocumentVisible();
 
     /**
      * One timer at a time, and every state change happens inside its callback.
      * Advancing from the effect body instead would re-render immediately and
      * schedule again, which is the cascade the rule against it exists to stop.
+     *
+     * A hidden tab schedules nothing: twenty-odd re-renders a second for a page
+     * nobody is looking at is pure background cost, and the effect picks the
+     * animation back up where it left off when the tab returns. Only the timer
+     * stops; what is on screen is unchanged, so nothing moves on the way back.
      */
     useEffect(() => {
-        if (!animate) return;
+        if (!animate || !visible) return;
         const phrase = phrases[step.index % phrases.length];
         const full = !step.deleting && step.length >= phrase.length;
         const delay = full ? HOLD_MS : step.deleting ? DELETE_MS : TYPE_MS;
         const timer = setTimeout(() => setStep((current) => advance(current, phrases)), delay);
         return () => clearTimeout(timer);
-    }, [animate, phrases, step]);
+    }, [animate, visible, phrases, step]);
 
     if (phrases.length === 0) return null;
     const phrase = phrases[step.index % phrases.length];
@@ -89,5 +95,17 @@ function useReducedMotion(): boolean {
         },
         () => window.matchMedia(REDUCED).matches,
         () => false,
+    );
+}
+
+/** Same subscription shape, for the tab's visibility. Server renders visible. */
+function useDocumentVisible(): boolean {
+    return useSyncExternalStore(
+        (onChange) => {
+            document.addEventListener("visibilitychange", onChange);
+            return () => document.removeEventListener("visibilitychange", onChange);
+        },
+        () => !document.hidden,
+        () => true,
     );
 }

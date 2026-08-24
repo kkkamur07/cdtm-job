@@ -246,7 +246,10 @@ def test_an_event_keeps_every_field_it_was_published_with(
 
     listed = client.get(f"{API}/", headers=ha).json()["items"][0]
     assert listed["kind"] == "cdtm" and listed["location"] == "Marsstrasse 20, Munich"
-    assert listed["description"] == "Fourteen teams, one evening."
+    # The row is a summary: the description is only on the event itself, which the
+    # assertion above already read. ``tests/integration/test_list_summaries.py`` is
+    # where that split is pinned.
+    assert "description" not in listed
     assert listed["url"] == "https://cdtm.com/demoday"
     assert datetime.fromisoformat(listed["ends_at"]) == datetime.fromisoformat(ends)
 

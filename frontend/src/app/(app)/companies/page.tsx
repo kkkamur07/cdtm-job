@@ -4,11 +4,11 @@ import { loadCompanies, loadJobs } from "@/api/server";
 import { humanise, safeUrl } from "@/lib/format";
 import CompaniesBrowser, { type CompanyCardData } from "./Client";
 
-// Forces per-request rendering instead of build-time prerendering, since this
-// page reads via revalidate-based loaders (loadCompanies, loadJobs) and there
-// is no live backend at build time. The revalidate windows on the individual
-// fetches still govern the Data Cache, so runtime caching is unchanged.
-export const dynamic = "force-dynamic";
+// No `dynamic = "force-dynamic"` here. Reading the request's cookies already
+// makes this route dynamic, and the export additionally implied
+// `fetchCache = "force-no-store"`, which turned off the `revalidate: 300`
+// window on `loadCompanies` that a signed-out visitor is meant to be served
+// from.
 
 export const metadata = { title: "Companies · CDTM Community" };
 

@@ -26,7 +26,9 @@ async def ask_housing(
     answer = await service.ask(
         body.question, actor=actor, skip=body.skip, limit=body.limit, language=body.language
     )
-    return HousingAskAnswerPublic.model_validate(answer.model_dump())
+    # From the object, not from ``answer.model_dump()``: the dump serialised every field
+    # and every nested model only for the validator to build them all again.
+    return HousingAskAnswerPublic.model_validate(answer)
 
 
 @router.post("/explain", response_model=HousingAskInterpretationPublic)
@@ -34,7 +36,7 @@ async def explain_housing(
     body: AskExplainRequest, actor: ActorDep, service: HousingAskServiceDep
 ) -> HousingAskInterpretationPublic:
     interpretation = await service.explain(body.question, actor=actor, language=body.language)
-    return HousingAskInterpretationPublic.model_validate(interpretation.model_dump())
+    return HousingAskInterpretationPublic.model_validate(interpretation)
 
 
 @router.get("/schema", response_model=HousingAskSchemaPublic)

@@ -55,7 +55,12 @@ export type ServerAuth = {
  * `getClaims()` checks the token's signature against the project's published
  * keys, so its claims can be authorized on. `getSession()` only decodes
  * whatever the cookie says, so its user is never trusted here: it is read
- * afterwards purely to get the raw token string to forward to the API.
+ * purely to get the raw token string, which is both what the API is sent and
+ * what is handed to `getClaims` to verify.
+ *
+ * The session is read once. `getClaims()` called with no argument reads it
+ * again internally, so passing the token in is one cookie decode rather than
+ * three.
  *
  * Wrapped in `React.cache` so every loader in one render shares a single
  * verification rather than each doing its own.
@@ -66,17 +71,18 @@ export const getServerAuth = cache(async (): Promise<ServerAuth> => {
     const supabase = await createSupabaseServerClient();
     if (!supabase) return empty;
 
-    const { data } = await supabase.auth.getClaims();
-    const claims = data?.claims;
-    if (!claims) return empty;
-
     const {
         data: { session },
     } = await supabase.auth.getSession();
+    if (!session) return empty;
+
+    const { data } = await supabase.auth.getClaims(session.access_token);
+    const claims = data?.claims;
+    if (!claims) return empty;
 
     return {
         userId: typeof claims.sub === "string" ? claims.sub : null,
         email: typeof claims.email === "string" ? claims.email : null,
-        accessToken: session?.access_token ?? null,
+        accessToken: session.access_token,
     };
 });

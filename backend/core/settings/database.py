@@ -41,6 +41,11 @@ class DatabaseSettings(BaseSettings):
     max_overflow: int = 5
     statement_timeout_ms: int = 15_000
     echo: bool = False
+    # Force transaction-mode handling on (no prepared statements, per-transaction
+    # statement_timeout) for a URL whose port does not give it away: a proxy in front of the
+    # pooler, or a Supavisor deployment on a port of its own. Off by default because the port
+    # is the reliable signal on Supabase itself; see ``infrastructure.db``.
+    pooler_transaction_mode: bool = False
 
     @property
     def async_url(self) -> str:

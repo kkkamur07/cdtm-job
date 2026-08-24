@@ -9,6 +9,7 @@ install with credentials takes. No network, no database.
 
 from __future__ import annotations
 
+import asyncio
 import json
 import logging
 import uuid
@@ -56,17 +57,21 @@ class FakeTranslator:
         model_name: str,
         query: JobQuery | None = None,
         raises: Exception | None = None,
+        delay: float = 0.0,
     ) -> None:
         self.source = source
         self.model_name = model_name
         self._query = query
         self._raises = raises
+        self._delay = delay
         self.calls: list[tuple[str, str | None]] = []
 
     async def translate(
         self, question: str, *, language: str | None = None
     ) -> JobAskInterpretation:
         self.calls.append((question, language))
+        if self._delay:
+            await asyncio.sleep(self._delay)
         if self._raises is not None:
             raise self._raises
         return JobAskInterpretation(
@@ -395,11 +400,31 @@ async def test_an_answered_question_is_logged_with_its_shape_and_its_filters(
 async def test_an_explained_question_is_logged_with_no_result_count(
     caplog: pytest.LogCaptureFixture,
 ) -> None:
-    service = build_service()
+    service = build_service(fallback=FakeTranslator("rules", model_name="keyword-rules"))
     caplog.clear()
     with caplog.at_level(logging.INFO, logger=ASK_LOGGER):
         await service.explain("remote jobs", actor=Actor(ASKER))
 
     line = [r for r in caplog.records if r.name == ASK_LOGGER][0].getMessage()
     assert " total=- " in line
+    # An explained question is logged against the same reader an answered one is, so the
+    # two lines can be counted together.
+    assert "source=rules" in line
+    assert "model=keyword-rules" in line
     assert json.loads(line.split("unresolved=")[1].split(" filters=")[0]) == []
+
+
+async def test_the_logged_latency_is_the_time_the_question_actually_took(
+    caplog: pytest.LogCaptureFixture,
+) -> None:
+    """The field is milliseconds; a question that took time may not be logged as instant."""
+    slow = FakeTranslator("llm", model_name="fake-model", delay=0.05)
+    service = build_service(translator=slow)
+
+    caplog.clear()
+    with caplog.at_level(logging.INFO, logger=ASK_LOGGER):
+        await service.ask("remote jobs", actor=Actor(ASKER), skip=0, limit=10)
+
+    line = [r for r in caplog.records if r.name == ASK_LOGGER][0].getMessage()
+    latency = int(line.split("latency_ms=")[1].split(" ")[0])
+    assert 10 <= latency < 60_000, line

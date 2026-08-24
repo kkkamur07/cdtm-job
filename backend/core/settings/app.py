@@ -27,6 +27,11 @@ class AppSettings(BaseSettings):
     # through the API (private buckets are never addressed by the browser), so the value has
     # to be the origin the browser can reach, not whatever host uvicorn happens to bind.
     public_base_url: str = "http://localhost:8000"
+    # Above this, a request is logged at INFO with its timing; below it, at DEBUG. Every
+    # request is timed either way, so turning the logger down to DEBUG is how you see the
+    # fast ones, and the default log level shows only the ones worth reading. 500 ms is
+    # roughly "a member noticed": the p95 of the list endpoints sits an order below it.
+    slow_request_ms: int = 500
 
     @field_validator("cors_origins", mode="before")
     @classmethod

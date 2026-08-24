@@ -29,7 +29,12 @@ from sqlalchemy.pool import NullPool
 from backend.core.exceptions import AppError
 from backend.core.llm.rate_limit import ask_limiter
 from backend.core.settings import get_database_settings, reset_settings_caches
-from backend.jobboard.application.commands import SeekerCreate, SeekerUpdate
+from backend.jobboard.application.commands import (
+    JobCreate,
+    JobUpdate,
+    SeekerCreate,
+    SeekerUpdate,
+)
 from backend.jobboard.application.ports import JobFilters
 from backend.jobboard.domain import (
     EmploymentType,
@@ -404,6 +409,31 @@ def test_publishing_a_draft_with_an_empty_date_still_dates_it(
     assert r.json()["published_at"] is not None
 
 
+def test_publishing_a_draft_with_a_date_of_its_own_keeps_that_date(
+    client: TestClient, member_anna: dict
+) -> None:
+    """A date the poster supplied is theirs to choose; publishing must not overwrite it.
+
+    A posting that went up elsewhere first, or one being imported, is published with the
+    day it actually went up. Only a publish that says nothing about the date gets stamped
+    with now.
+    """
+    ha = member_anna["headers"]
+    company = _company(client, ha, "backdated")
+    draft = _job(client, ha, company["id"], slug="announced-earlier", status="draft")
+    went_up = datetime(2024, 3, 1, 9, 30, tzinfo=UTC)
+
+    r = client.patch(
+        f"{JOBS}/{draft['id']}",
+        json={"status": "published", "published_at": went_up.isoformat()},
+        headers=ha,
+    )
+    assert r.status_code == 200, r.text
+    assert datetime.fromisoformat(r.json()["published_at"]) == went_up
+    stored = client.get(f"{JOBS}/slug/announced-earlier").json()
+    assert datetime.fromisoformat(stored["published_at"]) == went_up
+
+
 # ---- a seeker profile, corrected and withdrawn by the people who may ----------------------
 
 
@@ -747,7 +777,25 @@ async def test_a_failed_job_statement_does_not_poison_the_rest_of_the_request(
         lambda r: r.list(skip=0, limit=10, filters=JobFilters(status=JobStatus.PUBLISHED))
     )
     assert listed.total == 4
+    corrected = await survives(lambda r: r.update(job_id, JobUpdate(title="Alpha Wind II")))
+    assert corrected is not None and corrected.title == "Alpha Wind II"
     assert await survives(lambda r: r.delete(job_id)) is True
+
+    posted = await survives(
+        lambda r: r.create(
+            JobCreate(
+                company_id=uuid.UUID(board["companies"]["nordwind"]["id"]),
+                title="Rebuilt",
+                description="Posted after a failed statement",
+                slug="rebuilt",
+                employment_type=EmploymentType.FULL_TIME,
+                work_arrangement=WorkArrangement.REMOTE,
+                experience_level=ExperienceLevel.MID,
+            ),
+            posted_by_member_id=None,
+        )
+    )
+    assert posted.slug == "rebuilt"
 
     async with sessions() as s:
         assert await SqlJobRepository(s).get(job_id) is None
@@ -757,11 +805,6 @@ async def test_a_failed_seeker_statement_does_not_poison_the_rest_of_the_request
     client: TestClient, member_anna: dict, sessions
 ) -> None:
     member_id = member_anna["id"]
-    async with sessions() as s:
-        created = await SqlSeekerRepository(s).create(
-            SeekerCreate(full_name="Anna Test", headline="Backend engineer"),
-            member_id=member_id,
-        )
 
     async def survives(op):
         async with sessions() as s:
@@ -771,6 +814,12 @@ async def test_a_failed_seeker_statement_does_not_poison_the_rest_of_the_request
                 await op(repo)
             return await op(repo)
 
+    created = await survives(
+        lambda r: r.create(
+            SeekerCreate(full_name="Anna Test", headline="Backend engineer"),
+            member_id=member_id,
+        )
+    )
     assert (await survives(lambda r: r.get(created.id))).full_name == "Anna Test"
     listed = await survives(lambda r: r.list(skip=0, limit=10))
     assert listed.total == 1

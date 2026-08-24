@@ -2,7 +2,9 @@ from __future__ import annotations
 
 from uuid import UUID
 
+from sqlalchemy import select
 from sqlalchemy.ext.asyncio import AsyncSession
+from sqlalchemy.orm import selectinload
 
 from backend.core.mapping import dump_for_db
 from backend.members.application.commands import EntryUpsert, IntentsUpsert
@@ -32,9 +34,17 @@ class SqlEntryRepository:
                 setattr(row, k, v.value if hasattr(v, "value") else v)
             row.updated_at = utc_now()
             await self._s.flush()
-            member = await self._s.get(MemberRow, member_id)
+            # positions and educations are lazy="raise" on MemberRow so no directory query
+            # can pull them by accident; the haystack is built from them, so this write path
+            # asks for them explicitly. populate_existing refreshes the member with the entry
+            # that was just flushed, which is what the haystack has to see.
+            member = await self._s.scalar(
+                select(MemberRow)
+                .where(MemberRow.id == member_id)
+                .options(selectinload(MemberRow.positions), selectinload(MemberRow.educations))
+                .execution_options(populate_existing=True)
+            )
             if member is not None:
-                await self._s.refresh(member)
                 member.search_text = build_search_text(member)
                 member.updated_at = utc_now()
             await self._s.commit()

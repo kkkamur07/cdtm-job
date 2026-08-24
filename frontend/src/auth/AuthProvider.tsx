@@ -11,8 +11,6 @@ import type { DevLoginResponse, DevSession } from "./contract";
 
 type AuthState = {
     mode: AuthMode;
-    /** Null until sign-in, and while the stored session is being restored. */
-    token: string | null;
     email: string | null;
     signedIn: boolean;
     /** True until the stored session has been restored or ruled out. */
@@ -25,6 +23,30 @@ type AuthState = {
 };
 
 const AuthContext = createContext<AuthState | null>(null);
+
+/**
+ * The access token lives in its own context.
+ *
+ * It is replaced on every silent refresh (Supabase renews roughly hourly, and
+ * again when a tab regains focus), while `signedIn`, `email` and `loading` are
+ * unchanged by a refresh. Keeping it in the same value would re-render every
+ * `useAuthedQueryOptions` consumer on the page (two dozen save buttons on
+ * /network) for a token none of them reads. One component reads it:
+ * ImageUpload, which passes it to the media upload.
+ */
+const TokenContext = createContext<string | null>(null);
+
+// The Supabase browser client is a chunk of its own, and `token` stays null
+// until it lands, which holds back every query gated on a session. Starting the
+// download when this module is evaluated puts it alongside hydration instead of
+// one chunk round trip after it. `preloadModule` would be the tidier hint, but
+// the bundler does not expose a stable chunk URL to name here, so the import is
+// the hint. `typeof window` keeps the module out of the server graph, and a
+// failed load is left to the effect below to report.
+if (!isDevAuth && typeof window !== "undefined") {
+    void import("@/lib/supabase/client").catch(() => {});
+    void import("@/lib/supabase/env").catch(() => {});
+}
 
 /**
  * Holds the session and hands its access token to the API client.
@@ -105,10 +127,11 @@ export function AuthProvider({
                 return;
             }
 
-            const { data } = await supabase.auth.getSession();
-            if (!active) return;
-            apply(data.session?.access_token ?? null, data.session?.user.email ?? null);
-
+            // No `getSession()` first: a new subscriber is always handed the
+            // restored session as INITIAL_SESSION (auth-js GoTrueClient,
+            // `_emitInitialSession`, which fires with null if the restore
+            // fails), so asking separately only commits the same session twice
+            // on mount. That event is what clears `loading`.
             const { data: listener } = supabase.auth.onAuthStateChange((_event, session) => {
                 apply(session?.access_token ?? null, session?.user.email ?? null);
             });
@@ -186,10 +209,11 @@ export function AuthProvider({
         router.refresh();
     }, [apply, router]);
 
+    // No `token` here: a refresh must not re-render everything that only asked
+    // whether there is a session (see TokenContext above).
     const value = useMemo<AuthState>(
         () => ({
             mode: AUTH_MODE,
-            token,
             email,
             signedIn,
             loading,
@@ -198,14 +222,27 @@ export function AuthProvider({
             signInAsDev,
             signOut,
         }),
-        [token, email, signedIn, loading, configured, signInWithGoogle, signInAsDev, signOut],
+        [email, signedIn, loading, configured, signInWithGoogle, signInAsDev, signOut],
     );
 
-    return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;
+    return (
+        <AuthContext.Provider value={value}>
+            <TokenContext.Provider value={token}>{children}</TokenContext.Provider>
+        </AuthContext.Provider>
+    );
 }
 
 export function useSession(): AuthState {
     const value = useContext(AuthContext);
     if (!value) throw new Error("useSession must be used inside <AuthProvider>");
     return value;
+}
+
+/**
+ * The current access token, for the one thing that sends a request outside the
+ * typed API client (the media upload, which is an XHR for its progress events).
+ * Null while the session is being restored, exactly as before.
+ */
+export function useAccessToken(): string | null {
+    return useContext(TokenContext);
 }

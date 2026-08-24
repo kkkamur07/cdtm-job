@@ -36,4 +36,8 @@ class MemberPathRow(Base):
 
     __table_args__ = (
         Index("ix_member_paths_groups", "study_group", "first_step_group", "current_group"),
+        # The composite above leads with study_group, so the explorer filtering on only one
+        # of the later stages could not use it.
+        Index("ix_member_paths_first_step_group", "first_step_group"),
+        Index("ix_member_paths_current_group", "current_group"),
     )

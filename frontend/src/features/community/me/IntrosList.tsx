@@ -22,7 +22,7 @@ export default function IntrosList() {
 
     if (intros.isPending) return <LoadingBlock label="Loading intro requests" rows={2} />;
     if (intros.error) return <ErrorState error={intros.error} onRetry={() => intros.refetch()} />;
-    if (!intros.data?.length) {
+    if (!intros.data?.items.length) {
         return (
             <EmptyState
                 title="No intro requests"
@@ -33,7 +33,7 @@ export default function IntrosList() {
 
     return (
         <ul>
-            {intros.data.map(({ request, requester, target }) => {
+            {intros.data.items.map(({ request, requester, target }) => {
                 const incoming = request.target_member_id === myMemberId;
                 const other = incoming ? requester : target;
                 const pending = request.status === "pending";

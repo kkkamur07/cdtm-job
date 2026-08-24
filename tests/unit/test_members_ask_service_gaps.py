@@ -71,6 +71,15 @@ class FakeMembers:
             return self.profile
         return None
 
+    async def viewer_context(self, member_id: UUID) -> tuple[str | None, str | None, int | None]:
+        """The three scalars the real repository reads in one statement, derived here from
+        the same profile the fake already holds so the expectations below do not move."""
+        p = self.profile
+        if p is None or p.id != member_id:
+            return (None, None, None)
+        years = [c.year for c in p.classes]
+        return (p.class_label, p.location, max(years) if years else None)
+
     async def search(
         self, *, skip: int, limit: int, filters: MemberFilters, viewer_member_id: UUID | None
     ) -> PageResult:

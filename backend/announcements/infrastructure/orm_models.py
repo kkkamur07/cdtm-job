@@ -38,7 +38,19 @@ class AnnouncementRow(Base):
     created_at: Mapped[datetime] = timestamp()
     updated_at: Mapped[datetime] = timestamp()
 
-    __table_args__ = (Index("ix_announcements_published_at", text("published_at DESC")),)
+    __table_args__ = (
+        Index("ix_announcements_published_at", text("published_at DESC")),
+        # The board's actual ORDER BY. ix_announcements_published_at cannot serve it: the
+        # sort leads with is_pinned and falls back to created_at where published_at is null.
+        Index(
+            "ix_announcements_board_order",
+            text("is_pinned DESC"),
+            text("coalesce(published_at, created_at) DESC"),
+        ),
+        # Unindexed foreign key: deleting a member SET NULLs this column and scanned the
+        # whole table to find the rows.
+        Index("ix_announcements_author_member_id", "author_member_id"),
+    )
 
 
 class AnnouncementReadRow(Base):
@@ -52,4 +64,9 @@ class AnnouncementReadRow(Base):
     )
     read_at: Mapped[datetime] = timestamp()
 
-    __table_args__ = (PrimaryKeyConstraint("announcement_id", "member_id"),)
+    __table_args__ = (
+        PrimaryKeyConstraint("announcement_id", "member_id"),
+        # The primary key leads with announcement_id, so "which of these has this member
+        # read" and the unread count both had to scan. This is the column they filter on.
+        Index("ix_announcement_reads_member_id", "member_id"),
+    )

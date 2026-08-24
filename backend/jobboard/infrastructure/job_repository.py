@@ -10,13 +10,13 @@ from sqlalchemy.ext.asyncio import AsyncSession
 
 from backend.core.mapping import dump_for_db
 from backend.core.page import PageResult
+from backend.core.sql import page_with_total
 from backend.jobboard.application.commands import (
     JobCreate,
     JobUpdate,
 )
 from backend.jobboard.application.ports import JobFilters
 from backend.jobboard.domain import Job, JobStatus
-from backend.jobboard.infrastructure._query import _count
 from backend.jobboard.infrastructure.orm_models import CompanyRow, JobRow
 from infrastructure.repository import run_db, utc_now
 
@@ -101,11 +101,10 @@ class SqlJobRepository:
     async def list(self, *, skip: int, limit: int, filters: JobFilters) -> PageResult[Job]:
         async def go() -> PageResult[Job]:
             base = self._apply(select(JobRow), filters)
-            total = await _count(self._s, base)
-            rows = (
-                await self._s.scalars(base.order_by(*_order_by(filters)).offset(skip).limit(limit))
-            ).all()
-            return PageResult(items=[Job.model_validate(r) for r in rows], total=total)
+            rows, total = await page_with_total(
+                self._s, base.order_by(*_order_by(filters)), skip=skip, limit=limit
+            )
+            return PageResult(items=[Job.model_validate(r[0]) for r in rows], total=total)
 
         return await run_db("jobs.list", go, session=self._s)
 

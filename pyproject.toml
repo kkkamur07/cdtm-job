@@ -16,6 +16,7 @@ dependencies = [
     "alembic>=1.14",
     "pyjwt[crypto]>=2.10",
     "httpx>=0.27",
+    "cachetools>=7.1.7",
 ]
 
 [dependency-groups]

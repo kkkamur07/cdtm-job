@@ -2,12 +2,14 @@
 
 from __future__ import annotations
 
+from enum import IntEnum
 from uuid import UUID
 
-from sqlalchemy import Select, func, select
+from sqlalchemy import Select, func, select, text, tuple_
 from sqlalchemy.dialects.postgresql import insert as pg_insert
 from sqlalchemy.ext.asyncio import AsyncSession
 
+from backend.core.sql import page_with_total
 from backend.paths.application.ports import PathFilters
 from backend.paths.domain import (
     INTENT_GROUPS,
@@ -17,7 +19,7 @@ from backend.paths.domain import (
     PathLink,
     PathNode,
 )
-from backend.paths.infrastructure._member_tables import member_classes, member_intents
+from backend.paths.infrastructure._member_tables import member_classes, member_intents, members
 from backend.paths.infrastructure.orm_models import MemberPathRow
 from infrastructure.repository import run_db, utc_now
 
@@ -33,6 +35,21 @@ _CAREER_HOPS = (
     (("study", MemberPathRow.study_group), ("first_step", MemberPathRow.first_step_group)),
     (("first_step", MemberPathRow.first_step_group), ("current", MemberPathRow.current_group)),
 )
+
+
+class _GroupingSet(IntEnum):
+    """Which grouping set a row of the flow aggregate came from.
+
+    Postgres' ``GROUPING(study, first_step, current)`` sets one bit per column that was
+    *not* grouped by, most significant first, so each of the six sets has its own number.
+    """
+
+    STUDY_TO_FIRST_STEP = 0b001
+    STUDY = 0b011
+    FIRST_STEP_TO_CURRENT = 0b100
+    FIRST_STEP = 0b101
+    CURRENT = 0b110
+    TOTAL = 0b111
 
 
 class SqlPathRepository:
@@ -64,43 +81,104 @@ class SqlPathRepository:
 
     async def flow(self, filters: PathFilters) -> PathFlow:
         async def go() -> PathFlow:
-            base = self._apply(select(MemberPathRow.member_id), filters)
-            total = await self._s.scalar(select(func.count()).select_from(base.subquery()))
-            nodes: list[PathNode] = []
-            for stage, col in _STAGE_COLUMNS.items():
-                res = await self._s.execute(
-                    self._apply(select(col, func.count()), filters)
-                    .where(col.is_not(None))
-                    .group_by(col)
-                    .order_by(func.count().desc())
-                )
-                nodes += [PathNode(stage=stage, group=g, count=int(c)) for g, c in res.all()]
-            links: list[PathLink] = []
-            for (s_stage, s_col), (t_stage, t_col) in _CAREER_HOPS:
-                res = await self._s.execute(
-                    self._apply(select(s_col, t_col, func.count()), filters)
-                    .where(s_col.is_not(None), t_col.is_not(None))
-                    .group_by(s_col, t_col)
-                    .order_by(func.count().desc())
-                )
-                links += [
-                    PathLink(
-                        source_stage=s_stage,
-                        source_group=sg,
-                        target_stage=t_stage,
-                        target_group=tg,
-                        count=int(c),
-                    )
-                    for sg, tg, c in res.all()
-                ]
+            counted, nodes, links = await self._career_stages(filters)
             intent_nodes, intent_links = await self._intent_stage(filters)
             return PathFlow(
-                members_counted=int(total or 0),
+                members_counted=counted,
                 nodes=nodes + intent_nodes,
                 links=links + intent_links,
             )
 
         return await run_db("paths.flow", go, session=self._s)
+
+    async def _career_stages(
+        self, filters: PathFilters
+    ) -> tuple[int, list[PathNode], list[PathLink]]:
+        """The three history columns, their two hops and the members counted: one statement.
+
+        This used to be six: a ``count(*)``, one ``GROUP BY`` per stage and one per hop, so
+        the same table was scanned six times per request for six aggregates over the same
+        rows. ``GROUPING SETS`` asks for all six in one pass.
+
+        ``GROUPING(a, b, c)`` comes back as a bitmask saying which columns were *not* in
+        the grouping set that produced the row, which is what tells the six sets apart when
+        they arrive interleaved. Rows whose group is null are dropped here rather than by a
+        WHERE clause, because a grouping-sets query cannot filter one set and not another,
+        and a null group has never been drawn.
+        """
+        study, first_step, current = (
+            _STAGE_COLUMNS["study"],
+            _STAGE_COLUMNS["first_step"],
+            _STAGE_COLUMNS["current"],
+        )
+        n = func.count().label("n")
+        stmt = (
+            self._apply(
+                select(
+                    study,
+                    first_step,
+                    current,
+                    func.grouping(study, first_step, current).label("gset"),
+                    n,
+                ),
+                filters,
+            )
+            .group_by(
+                func.grouping_sets(
+                    *[tuple_(col) for col in _STAGE_COLUMNS.values()],
+                    *[tuple_(s_col, t_col) for (_, s_col), (_, t_col) in _CAREER_HOPS],
+                    # The empty set is the grand total, which is members_counted.
+                    text("()"),
+                )
+            )
+            # Biggest box first, then by name. The old six statements ordered on the count
+            # alone, so two groups of equal size could swap places between two requests and
+            # the drawing would jump; the tie-break costs nothing and stops that.
+            .order_by(n.desc(), study, first_step, current)
+        )
+        rows = (await self._s.execute(stmt)).all()
+
+        counted = 0
+        by_stage: dict[str, list[PathNode]] = {stage: [] for stage in _STAGE_COLUMNS}
+        by_hop: dict[str, list[PathLink]] = {"study": [], "first_step": []}
+        for s_group, f_group, c_group, gset, count in rows:
+            bits = _GroupingSet(int(gset))
+            if bits is _GroupingSet.TOTAL:
+                counted = int(count)
+            elif bits is _GroupingSet.STUDY and s_group is not None:
+                by_stage["study"].append(PathNode(stage="study", group=s_group, count=int(count)))
+            elif bits is _GroupingSet.FIRST_STEP and f_group is not None:
+                by_stage["first_step"].append(
+                    PathNode(stage="first_step", group=f_group, count=int(count))
+                )
+            elif bits is _GroupingSet.CURRENT and c_group is not None:
+                by_stage["current"].append(
+                    PathNode(stage="current", group=c_group, count=int(count))
+                )
+            elif bits is _GroupingSet.STUDY_TO_FIRST_STEP and None not in (s_group, f_group):
+                by_hop["study"].append(
+                    PathLink(
+                        source_stage="study",
+                        source_group=s_group,
+                        target_stage="first_step",
+                        target_group=f_group,
+                        count=int(count),
+                    )
+                )
+            elif bits is _GroupingSet.FIRST_STEP_TO_CURRENT and None not in (f_group, c_group):
+                by_hop["first_step"].append(
+                    PathLink(
+                        source_stage="first_step",
+                        source_group=f_group,
+                        target_stage="current",
+                        target_group=c_group,
+                        count=int(count),
+                    )
+                )
+        # Stage order, then hop order, each already sorted by count because the statement is.
+        nodes = [node for stage in _STAGE_COLUMNS for node in by_stage[stage]]
+        links = by_hop["study"] + by_hop["first_step"]
+        return counted, nodes, links
 
     async def _intent_stage(self, filters: PathFilters) -> tuple[list[PathNode], list[PathLink]]:
         """The "open to" column, and the flow into it from where people are now.
@@ -185,30 +263,64 @@ class SqlPathRepository:
 
         await run_db("paths.upsert", go, session=self._s)
 
-    async def member_ids_in(self, *, stage: str, group: str, filters: PathFilters) -> list[UUID]:
-        """Every member id in one box of the Sankey; the cards are read separately.
+    async def member_ids_page(
+        self, *, stage: str, group: str, filters: PathFilters, skip: int, limit: int
+    ) -> tuple[list[UUID], int]:
+        """One page of the ids in a box of the Sankey, in card order, with the group's size.
 
-        Unpaged on purpose: the ids come from this context and the names come from the
-        members context, and there is no one query that can order by a column only the
-        other one has. A group is at most a few hundred people.
+        This used to return every id in the group unpaged, on the grounds that "the ids come
+        from this context and the names come from the members context, so no one query can
+        order by a column only the other one has". That is not true: ``members`` is already
+        one of the metadata-free table handles this context reads (``_member_tables.py``,
+        the same seam ``member_classes`` comes through), so the page can be cut in the same
+        order the cards are drawn in. Opening a group of four hundred used to ship four
+        hundred uuids back to page twenty of them in the loader's ``IN`` list; now twenty
+        come back and twenty go into it.
+
+        ``name`` then ``id``: names repeat here (two people called Anna is normal), and an
+        ordering that is not total lets Postgres put the same person on two pages.
         """
 
-        async def go() -> list[UUID]:
+        async def go() -> tuple[list[UUID], int]:
             col = _STAGE_COLUMNS[stage]
-            stmt = self._apply(select(MemberPathRow.member_id), filters).where(col == group)
-            rows = await self._s.scalars(stmt)
-            return list(rows.all())
+            stmt = (
+                self._apply(select(MemberPathRow.member_id), filters)
+                .where(col == group)
+                .join(members, members.c.id == MemberPathRow.member_id)
+                .order_by(members.c.name, members.c.id)
+            )
+            rows, total = await page_with_total(self._s, stmt, skip=skip, limit=limit)
+            return [row[0] for row in rows], total
 
-        return await run_db("paths.member_ids_in", go, session=self._s)
+        return await run_db("paths.member_ids_page", go, session=self._s)
 
     async def groups(self) -> dict[str, list[str]]:
+        """The group names each stage actually has people in.
+
+        One statement rather than a ``SELECT DISTINCT`` per stage: the same grouping-sets
+        trick as the flow, which is one scan of ``member_paths`` for all three columns.
+        """
+
         async def go() -> dict[str, list[str]]:
-            out: dict[str, list[str]] = {}
-            for stage, col in _STAGE_COLUMNS.items():
-                res = await self._s.scalars(
-                    select(col).where(col.is_not(None)).distinct().order_by(col)
-                )
-                out[stage] = list(res.all())
+            study, first_step, current = (
+                _STAGE_COLUMNS["study"],
+                _STAGE_COLUMNS["first_step"],
+                _STAGE_COLUMNS["current"],
+            )
+            stmt = select(
+                study, first_step, current, func.grouping(study, first_step, current).label("gset")
+            ).group_by(func.grouping_sets(*[tuple_(col) for col in _STAGE_COLUMNS.values()]))
+            out: dict[str, list[str]] = {stage: [] for stage in _STAGE_COLUMNS}
+            for s_group, f_group, c_group, gset in (await self._s.execute(stmt)).all():
+                bits = _GroupingSet(int(gset))
+                if bits is _GroupingSet.STUDY and s_group is not None:
+                    out["study"].append(s_group)
+                elif bits is _GroupingSet.FIRST_STEP and f_group is not None:
+                    out["first_step"].append(f_group)
+                elif bits is _GroupingSet.CURRENT and c_group is not None:
+                    out["current"].append(c_group)
+            for names in out.values():
+                names.sort()
             # The intent column's boxes are a fixed list, not something the data invents.
             out["intent"] = [label for _, label in INTENT_GROUPS] + [NO_INTENT_GROUP]
             return out

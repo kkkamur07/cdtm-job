@@ -9,6 +9,7 @@ through Postgres.
 
 from __future__ import annotations
 
+import json
 from datetime import UTC, datetime
 from uuid import uuid4
 
@@ -251,6 +252,27 @@ def test_the_profile_carries_the_card_plus_everything_behind_it() -> None:
     assert profile.linkedin_synced_at == SYNCED_AT
     # Nobody is claimed unless the repository says so.
     assert to_profile(row).is_claimed is False
+
+
+def test_the_card_half_of_a_profile_is_the_card_itself_field_for_field() -> None:
+    """``to_profile`` carries the card over by field value rather than by serialising it.
+
+    It used to build the card, ``model_dump()`` it down to primitives and hand those to
+    ``MemberProfile``, which built the Avatar, the ClassRefs and the Intents back out of
+    the dicts again: two passes over every profile read. The values move across as they
+    are now, so this pins the JSON of the card half against the card's own.
+    """
+    row = _member_row()
+    card = to_member(row, is_claimed=True)
+    profile = to_profile(row, is_claimed=True)
+
+    card_json = json.loads(card.model_dump_json())
+    profile_json = json.loads(profile.model_dump_json())
+    assert {key: profile_json[key] for key in card_json} == card_json
+    # And the nested pieces are models, not the dicts a dump would have left behind.
+    assert profile.avatar is not None and profile.avatar.sm == card.avatar.sm
+    assert [c.id for c in profile.classes] == [c.id for c in card.classes]
+    assert profile.intents is not None and profile.intents == card.intents
 
 
 def test_the_profile_reports_how_the_loader_matched_this_person() -> None:

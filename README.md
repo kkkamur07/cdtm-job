@@ -240,6 +240,10 @@ database host that is not `localhost`, `127.0.0.1` or `::1`, so an exported Supa
 asserts Alembic's `compare_metadata` against the ORM is empty. Change a model without a
 migration and it goes red.
 
+How strong the tests are is measured with mutmut; the first whole-backend campaign took the
+kill rate from 55% to 93% and its findings, the per-slice procedure and the tool's blind spots
+are in [`docs/mutation-testing.md`](docs/mutation-testing.md).
+
 ## Data and privacy
 
 This repository handles real people's data. `data/` holds the roster CSVs, the Google
@@ -258,6 +262,7 @@ Entry set to `hidden` is not shown to other Members.
 | [`docs/architecture.md`](docs/architecture.md) | contexts, request flow, auth, errors, deployment |
 | [`docs/database-design.md`](docs/database-design.md) | every table, index, constraint, and the Supabase connection rules |
 | [`docs/adr/`](docs/adr/README.md) | why it is like this |
+| [`docs/mutation-testing.md`](docs/mutation-testing.md) | how strong the tests are, running mutmut, the first campaign's findings |
 | [`backend/README.md`](backend/README.md) | routes, services, settings, tests |
 | [`infrastructure/README.md`](infrastructure/README.md) | engines and migrations |
 | [`CONTEXT-MAP.md`](CONTEXT-MAP.md) | the domain vocabulary of each context |

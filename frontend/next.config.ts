@@ -1,12 +1,15 @@
 import type { NextConfig } from "next";
 
 /**
- * Images come from four places: the ingest output under `public/` (already
+ * Images come from three places: the ingest output under `public/` (already
  * resized to 160px and 400px WebP by scripts/ingest.mjs), the API's media
  * endpoint, which serves uploaded job and housing images from a private bucket,
- * company logos that whoever created the company pasted in, and the picsum
- * placeholders the development seed uses for housing photos. Everything except
- * the first needs a remote pattern.
+ * and the picsum placeholders the development seed uses for housing photos.
+ * Everything except the first needs a remote pattern.
+ *
+ * Company logos and Google account avatars are not in that list: both are drawn
+ * with a plain `<img>` (CompanyLogo.tsx, OnboardingForm.tsx, MemberAvatar.tsx),
+ * so they never reach the optimizer and only need the CSP `img-src` entry.
  */
 const apiUrl = new URL(process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000");
 const isProduction = process.env.NODE_ENV === "production";
@@ -19,13 +22,6 @@ const remotePatterns: NonNullable<NonNullable<NextConfig["images"]>["remotePatte
         port: apiUrl.port,
         pathname: "/api/v1/media/**",
     },
-    // Company logos. Clearbit is what the seed and the company form suggest; a
-    // logo from anywhere else falls back to initials.
-    { protocol: "https", hostname: "logo.clearbit.com" },
-    // Google account avatars, for members who created their profile through
-    // Google sign-in (the photo comes straight from the OAuth account). Served
-    // from lh3..lh6.googleusercontent.com.
-    { protocol: "https", hostname: "**.googleusercontent.com" },
 ];
 
 // Member avatars live in a public Supabase Storage bucket once storage is

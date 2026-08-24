@@ -8,12 +8,12 @@ import type {
     DirectoryFacets,
     EntryUpsert,
     IntentsUpsert,
-    IntroRequestPublic,
+    IntroRequestsPage,
     IntroStatus,
     Me,
     MemberProfile,
     NetworkMember,
-    SavedMemberRow,
+    SavedMembersPage,
     SelfProfileCreate,
 } from "../types";
 import { useAuthedQueryOptions } from "./shared";
@@ -56,22 +56,30 @@ export function useUpdateMyProfile() {
     });
 }
 
-/** Who am I, and am I bound to a member row yet. */
-export function useMe() {
+/**
+ * Who am I, and am I bound to a member row yet.
+ *
+ * `initialData` is what the server already had in hand for this render. Without
+ * it a page renders its own header empty and asks for this again, behind the
+ * session restore `useAuthedQueryOptions` waits on.
+ */
+export function useMe(initialData?: Me) {
     const gate = useAuthedQueryOptions();
     return useQuery({
         queryKey: qk.me,
         queryFn: () => unwrap(api.GET("/api/v1/auth/me", {})),
         ...gate,
+        initialData,
     });
 }
 
-export function useMyMember() {
+export function useMyMember(initialData?: MemberProfile) {
     const gate = useAuthedQueryOptions();
     return useQuery({
         queryKey: qk.myMember,
         queryFn: () => unwrap(api.GET("/api/v1/members/me", {})),
         ...gate,
+        initialData,
     });
 }
 
@@ -117,11 +125,45 @@ export function useSaveMyIntents() {
     });
 }
 
+/**
+ * `/network/saved` is a paged list like every other one, and 100 is the cap
+ * `PageParams` allows. Both readers want the whole shortlist rather than a window
+ * on it, so both ask for the first page at the cap; `total` is the honest count.
+ * A member with more than a hundred saved people would see the hundred most recent,
+ * which is the point at which this needs a real pager.
+ */
+const SHORTLIST_LIMIT = 100;
+
+const savedPage = () =>
+    unwrap(api.GET("/api/v1/network/saved", { params: { query: { limit: SHORTLIST_LIMIT } } }));
+
 export function useMySaved() {
     const gate = useAuthedQueryOptions();
     return useQuery({
         queryKey: qk.mySaved,
-        queryFn: () => unwrap(api.GET("/api/v1/network/saved", {})),
+        queryFn: savedPage,
+        ...gate,
+    });
+}
+
+/** Module scope, so the projection below is memoized on the cached page. */
+const savedIds = (page: SavedMembersPage) =>
+    new Set(page.items.map((row) => row.saved.saved_member_id));
+
+/**
+ * The same shortlist, as a set of member ids.
+ *
+ * Every row on a results page holds a save button, and each one used to scan
+ * the whole shortlist to find out whether it was in it. `select` runs once per
+ * cache entry rather than once per row per render, and the answer is an O(1)
+ * lookup.
+ */
+export function useSavedIds() {
+    const gate = useAuthedQueryOptions();
+    return useQuery({
+        queryKey: qk.mySaved,
+        queryFn: savedPage,
+        select: savedIds,
         ...gate,
     });
 }
@@ -138,12 +180,6 @@ export type ToggleSavedVariables = {
      */
     member?: NetworkMember;
 };
-
-/**
- * The saved list is a list of these. It used to be restated here; the API now
- * names the shape, so this is an alias and cannot drift from it.
- */
-type SavedRow = SavedMemberRow;
 
 export function useToggleSaved() {
     const qc = useQueryClient();
@@ -163,14 +199,14 @@ export function useToggleSaved() {
         },
         onMutate: async ({ memberId, saved, note, member }) => {
             await qc.cancelQueries({ queryKey: qk.mySaved });
-            const previous = qc.getQueryData<SavedRow[]>(qk.mySaved);
+            const previous = qc.getQueryData<SavedMembersPage>(qk.mySaved);
             if (!previous) return { previous };
 
             if (!saved) {
-                qc.setQueryData<SavedRow[]>(
-                    qk.mySaved,
-                    previous.filter((row) => row.saved.saved_member_id !== memberId),
-                );
+                qc.setQueryData<SavedMembersPage>(qk.mySaved, {
+                    items: previous.items.filter((row) => row.saved.saved_member_id !== memberId),
+                    total: Math.max(0, previous.total - 1),
+                });
                 return { previous };
             }
 
@@ -179,28 +215,51 @@ export function useToggleSaved() {
             // shows its own in-flight state from `variables` instead.
             const owner = qc.getQueryData<Me>(qk.me)?.member_id;
             if (!member || !owner) return { previous };
-            if (previous.some((row) => row.saved.saved_member_id === memberId)) return { previous };
+            if (previous.items.some((row) => row.saved.saved_member_id === memberId)) {
+                return { previous };
+            }
 
-            qc.setQueryData<SavedRow[]>(qk.mySaved, [
-                {
-                    member,
-                    saved: {
-                        owner_member_id: owner,
-                        saved_member_id: memberId,
-                        note: note ?? null,
-                        created_at: new Date().toISOString(),
+            qc.setQueryData<SavedMembersPage>(qk.mySaved, {
+                items: [
+                    {
+                        member,
+                        saved: {
+                            owner_member_id: owner,
+                            saved_member_id: memberId,
+                            note: note ?? null,
+                            created_at: new Date().toISOString(),
+                        },
                     },
-                },
-                ...previous,
-            ]);
+                    ...previous.items,
+                ],
+                total: previous.total + 1,
+            });
             return { previous };
         },
         onError: (_error, _variables, context) => {
             if (context?.previous) qc.setQueryData(qk.mySaved, context.previous);
         },
-        // The optimistic row carries a guessed timestamp, so the authoritative
-        // list is fetched once the write lands rather than left as the guess.
-        onSuccess: () => qc.invalidateQueries({ queryKey: qk.mySaved }),
+        /**
+         * The PUT answers with the row the server actually wrote, so the guessed
+         * timestamp is replaced with the real one in place. Re-fetching the whole
+         * shortlist to learn one `created_at` was a page of JSON for a field that
+         * arrived in the response body of the write itself.
+         */
+        onSuccess: (row, { memberId }) => {
+            if (!row) return;
+            qc.setQueryData<SavedMembersPage>(qk.mySaved, (page) => {
+                if (!page) return page;
+                const known = page.items.some((item) => item.saved.saved_member_id === memberId);
+                return {
+                    items: known
+                        ? page.items.map((item) =>
+                              item.saved.saved_member_id === memberId ? row : item,
+                          )
+                        : [row, ...page.items],
+                    total: known ? page.total : page.total + 1,
+                };
+            });
+        },
     });
 }
 
@@ -208,7 +267,12 @@ export function useMyIntros() {
     const gate = useAuthedQueryOptions();
     return useQuery({
         queryKey: qk.myIntros,
-        queryFn: () => unwrap(api.GET("/api/v1/network/intros", {})),
+        queryFn: () =>
+            unwrap(
+                api.GET("/api/v1/network/intros", {
+                    params: { query: { limit: SHORTLIST_LIMIT } },
+                }),
+            ),
         ...gate,
     });
 }
@@ -239,16 +303,16 @@ export function useRespondToIntro() {
             ),
         onMutate: async ({ id, status }) => {
             await qc.cancelQueries({ queryKey: qk.myIntros });
-            const previous = qc.getQueryData<IntroRequestPublic[]>(qk.myIntros);
+            const previous = qc.getQueryData<IntroRequestsPage>(qk.myIntros);
             if (previous) {
-                qc.setQueryData<IntroRequestPublic[]>(
-                    qk.myIntros,
-                    previous.map((row) =>
+                qc.setQueryData<IntroRequestsPage>(qk.myIntros, {
+                    ...previous,
+                    items: previous.items.map((row) =>
                         row.request.id === id
                             ? { ...row, request: { ...row.request, status } }
                             : row,
                     ),
-                );
+                });
             }
             return { previous };
         },

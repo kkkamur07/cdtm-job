@@ -7,6 +7,7 @@ from sqlalchemy.ext.asyncio import AsyncSession
 
 from backend.core.mapping import dump_for_db
 from backend.core.page import PageResult
+from backend.core.sql import page_with_total
 from backend.events.application.commands import EventCreate, EventUpdate
 from backend.events.domain import Event, RsvpStatus
 from backend.events.infrastructure.orm_models import EventRow, EventRsvpRow
@@ -66,18 +67,15 @@ class SqlEventRepository:
         self, *, skip: int, limit: int, upcoming_only: bool, viewer_member_id: UUID | None
     ) -> PageResult[Event]:
         async def go() -> PageResult[Event]:
-            base = select(EventRow).where(EventRow.is_published.is_(True))
-            if upcoming_only:
-                base = base.where(func.coalesce(EventRow.ends_at, EventRow.starts_at) >= func.now())
-            total = await self._s.scalar(select(func.count()).select_from(base.subquery()))
             stmt = self._with_counts(viewer_member_id).where(EventRow.is_published.is_(True))
             if upcoming_only:
                 stmt = stmt.where(func.coalesce(EventRow.ends_at, EventRow.starts_at) >= func.now())
             order = EventRow.starts_at.asc() if upcoming_only else EventRow.starts_at.desc()
-            res = await self._s.execute(stmt.order_by(order).offset(skip).limit(limit))
+            rows, total = await page_with_total(
+                self._s, stmt.order_by(order), skip=skip, limit=limit
+            )
             return PageResult(
-                items=[self._to_event(r, g, i, m) for r, g, i, m in res.all()],
-                total=int(total or 0),
+                items=[self._to_event(r, g, i, m) for r, g, i, m in rows], total=total
             )
 
         return await run_db("events.list", go, session=self._s)

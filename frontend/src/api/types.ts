@@ -34,6 +34,7 @@ export type IntentsUpsert = S["IntentsUpsert"];
 
 /** One row of the saved list: the member, plus the note and when it was saved. */
 export type SavedMemberRow = S["SavedMemberPublic"];
+export type SavedMembersPage = S["SavedMembersPublic"];
 export type SavedMember = S["SavedMember"];
 /**
  * The trimmed member the network endpoints return: same person, avatar flattened
@@ -42,9 +43,20 @@ export type SavedMember = S["SavedMember"];
 export type NetworkMember = S["NetworkMemberPublic"];
 export type IntroRequest = S["IntroRequest"];
 export type IntroRequestPublic = S["IntroRequestPublic"];
+export type IntroRequestsPage = S["IntroRequestsPublic"];
 export type IntroStatus = S["IntroStatus"];
 
+/**
+ * Events, jobs and housing listings each come in two widths.
+ *
+ * The list routes answer with a summary that leaves the free-text description out
+ * (and, on jobs, the keyword lists with it): a hundred rows of prose nothing on the
+ * page draws is the payload the split exists to avoid. The by-id, by-slug, create and
+ * update routes still answer with the whole aggregate, so anything that renders a
+ * description reads the wide type and everything else reads the narrow one.
+ */
 export type CommunityEvent = S["EventPublic"];
+export type CommunityEventSummary = S["EventSummaryPublic"];
 export type EventCreate = S["EventCreate"];
 export type EventUpdate = S["EventUpdate"];
 export type EventKind = S["EventKind"];
@@ -54,6 +66,7 @@ export type Announcement = S["AnnouncementPublic"];
 export type AnnouncementCreate = S["AnnouncementCreate"];
 
 export type HousingListing = S["HousingListingPublic"];
+export type HousingListingSummary = S["HousingListingSummaryPublic"];
 export type HousingCreate = S["HousingCreate"];
 export type HousingUpdate = S["HousingUpdate"];
 export type HousingKind = S["HousingKind"];
@@ -73,6 +86,7 @@ export type CompanyContact = S["CompanyContactPublic"];
 export type CompanyContacts = S["CompanyContactsPublic"];
 export type CompanyCreate = S["CompanyCreate"];
 export type Job = S["JobPublic"];
+export type JobSummary = S["JobSummaryPublic"];
 export type JobCreate = S["JobCreate"];
 export type JobStatus = S["JobStatus"];
 export type EmploymentType = S["EmploymentType"];

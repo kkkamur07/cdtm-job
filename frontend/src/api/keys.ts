@@ -21,10 +21,22 @@ export const qk = {
     events: (upcoming: boolean) => ["events", { upcoming }] as const,
     event: (id: string) => ["event", id] as const,
 
+    /**
+     * Prefix for everything announcement-shaped. Lists are keyed by the page
+     * size they were fetched with, so the two-item home widget and the full
+     * board never seed each other's cache with the wrong number of rows.
+     */
     announcements: ["announcements"] as const,
+    announcementList: (limit: number) => ["announcements", "list", limit] as const,
 
-    housing: (params: unknown) => ["housing", params] as const,
-    housingListing: (id: string) => ["housing", id] as const,
+    /**
+     * Lists and details sit under `["housing"]` but in separate branches, so a
+     * write can invalidate the boards without also throwing away every cached
+     * listing. Writes invalidate `["housing", "list"]`, plus the one detail
+     * they touched.
+     */
+    housing: (params: unknown) => ["housing", "list", params] as const,
+    housingListing: (id: string) => ["housing", "detail", id] as const,
 
     pathsFlow: (params: unknown) => ["paths", "flow", params] as const,
     pathsGroups: ["paths", "groups"] as const,

@@ -17,3 +17,11 @@ class AnnouncementsPublic(BaseModel):
     items: list[AnnouncementPublic]
     total: int
     unread: int
+
+
+class UnreadCountPublic(BaseModel):
+    """Just the badge. The header needs the number without the first page of the board."""
+
+    model_config = ConfigDict(extra="forbid", title="UnreadCountPublic")
+
+    unread: int

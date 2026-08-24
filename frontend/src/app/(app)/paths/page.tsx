@@ -1,25 +1,35 @@
 import { loadFacets, loadPathFlow, loadPathGroups } from "@/api/server";
-import MemberGate from "@/components/MemberGate";
+import MemberGate, { gatedData } from "@/components/MemberGate";
 import PathsExplorer from "@/features/community/paths/PathsExplorer";
 
 export const metadata = { title: "Paths · CDTM Community" };
 
+/**
+ * Synchronous on purpose: the reads are started here, before the gate suspends
+ * on `/auth/me`, so the flow is already in flight while the gate decides.
+ */
 export default function PathsPage() {
+    const data = gatedData(loadPaths);
     return (
         <MemberGate next="/paths">
-            <Paths />
+            <Paths data={data} />
         </MemberGate>
     );
 }
 
-async function Paths() {
-    // Three independent reads. The facets are only the class list for the
-    // filter, so a failure there costs the filter and nothing else.
-    const [flow, groups, facets] = await Promise.all([
-        loadPathFlow({}),
-        loadPathGroups(),
-        loadFacets().catch(() => null),
-    ]);
+/**
+ * Three independent reads. The facets are only the class list for the filter,
+ * so a failure there costs the filter and nothing else.
+ */
+function loadPaths() {
+    return Promise.all([loadPathFlow({}), loadPathGroups(), loadFacets().catch(() => null)]);
+}
+
+async function Paths({ data }: { data: Promise<Awaited<ReturnType<typeof loadPaths>> | null> }) {
+    const loaded = await data;
+    // Only reachable signed in: the gate has shown the notice otherwise.
+    if (!loaded) return null;
+    const [flow, groups, facets] = loaded;
 
     return (
         <div className="shell-wide pb-14">
